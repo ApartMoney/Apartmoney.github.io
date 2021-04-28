@@ -311,7 +311,7 @@
 
       $('#newsreload').click(function(){
         $.ajax({
-          url : 'news.json',
+          url : 'news.json?d='+new Date().getTime(),
           success : function(json){
             $('#newslastBuildDate').text( '(' + new Date(json.lastBuildDate).toLocaleString() + ' 기준)' );
             $("#newsList").text('');
