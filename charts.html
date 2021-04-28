@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport"
+		  content="width=device-width, user-scalable=yes, initial-scale=1">
+	<meta charset="UTF-8">
+    <!-- including ECharts file -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X26CHDTPFZ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-X26CHDTPFZ');
+    </script>
+    <script src="js/echarts.min.js"></script>
+    <script src="vendor/jquery/jquery.min.js"></script>
+</head>
+<body>
+<!-- preparing a DOM with width and height for ECharts -->
+<!-- prepare a DOM container with width and height -->
+<div style="text-align: center; padding: 10px;">
+	<div>
+		거래일 : <select id="dealDate" onchange="getApartDatas();">
+		</select>
+	</div>
+	<div>
+			<input type="checkbox" id="area1" value="1" checked="checked" onclick="refreshCharts();"> <label for="area1">1단지</label>
+			<input type="checkbox" id="area2" value="2" checked="checked" onclick="refreshCharts();"> <label for="area2">2단지</label>
+			<input type="checkbox" id="area3" value="3" checked="checked" onclick="refreshCharts();"> <label for="area3">3단지</label>
+			<input type="checkbox" id="area4" value="4" checked="checked" onclick="refreshCharts();"> <label for="area4">4단지</label>
+			<input type="checkbox" id="area5" value="5" checked="checked" onclick="refreshCharts();"> <label for="area5">5단지</label>
+			<input type="checkbox" id="area6" value="6" checked="checked" onclick="refreshCharts();"> <label for="area6">6단지</label>
+	</div>
+</div>
+<div id="main" style="width: 100%;height:800px; border: 1px solid; border-radius: 1px;"></div>
+<script type="text/javascript" src="js/charts.js"></script>
+</body>
+</html>

@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="청라 국제도시 아파트 국토부 실거래 정보 사이트 입니다.">
+  <meta name="author" content="niee@naver.com">
+
+  <title>청라실 - 청라 국제도시 실거래 정보</title>
+  <link rel="shortcut icon" href="favicon.ico" />
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/grayscale.min.css" rel="stylesheet">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-X26CHDTPFZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-X26CHDTPFZ');
+  </script>
+  <script src="js/echarts.min.js"></script>
+  <script src="vendor/jquery/jquery.min.js"></script>
+</head>
+
+<body id="page-top">
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">청라실</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">청라실은</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#projects">청라 정보</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#charts">차트</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#news">뉴스</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#signup">문의</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Header -->
+  <header class="masthead">
+    <div class="container d-flex h-100 align-items-center">
+      <div class="mx-auto text-center">
+        <h1 class="mx-auto my-0 text-uppercase">청라실</h1>
+        <h2 class="text-white-50 mx-auto mt-2 mb-5">청라실은 청라 국제도시의 국토부 실거래가 정보 및 청라 국제도시 정보를 제공합니다.</h2>
+        <a href="#about" class="btn btn-primary js-scroll-trigger">Get Started</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- About Section -->
+  <section id="about" class="about-section text-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <h2 class="text-white mb-4">청라 국제도시 실거래 정보</h2>
+          <p class="text-white-50">청라 1~6단지 아파트들의 국토부 등재된 실거래 정보를 
+            <a href="https://play.google.com/store/apps/details?id=min.com.apartmoney">청라실 앱</a>을 통해서 확인 하세요.<br> 월별 실거래가 및 아파트별 평형별 신고가 내용 및 편리한 화면 캡쳐 등 다양한 통계 정보를 제공 합니다.</p>
+        </div>
+      </div>
+      <img src="img/main.png" class="img-fluid" alt="">
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects" class="projects-section bg-light">
+    <div class="container">
+
+      <!-- Featured Project Row -->
+      <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+        <div class="col-xl-8 col-lg-8">
+          <div class="featured-text text-center text-lg-left">
+            <h4>금일 등록가 <span class="todayDate"></span></h4>
+            <p class="text-black-50 mb-0" id="todyList">
+              화요일부터 토요일까지 매일 오전 6시에 국토부 실거래가에 신규 등록된 청라 국제도시 아파트 실거래 정보를 제공합니다.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Featured Project Row -->
+      <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+        <div class="col-xl-8 col-lg-8">
+          <div class="featured-text text-center text-lg-left">
+            <h4>금일 신고가 <span class="todayDate"></span> </h4>
+            <p class="text-black-50 mb-0" id="maxList">
+              화요일부터 토요일까지 매일 오전 6시에 국토부 실거래가에 신규 등록된 청라 국제도시 아파트 신고가 정보를 제공합니다.
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="charts" class="projects-section bg-light" style="padding: 0rem;">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+
+          <div style="text-align: center; padding: 10px;">
+            <div>
+              거래일 : <select id="dealDate" onchange="getApartDatas();">
+            </select><button onclick="location.href='charts.html'">큰화면보기</button>
+            </div>
+            <div>
+              <input type="checkbox" id="area1" value="1" checked="checked" onclick="refreshCharts();"> <label for="area1">1단지</label>
+              <input type="checkbox" id="area2" value="2" checked="checked" onclick="refreshCharts();"> <label for="area2">2단지</label>
+              <input type="checkbox" id="area3" value="3" checked="checked" onclick="refreshCharts();"> <label for="area3">3단지</label>
+              <input type="checkbox" id="area4" value="4" checked="checked" onclick="refreshCharts();"> <label for="area4">4단지</label>
+              <input type="checkbox" id="area5" value="5" checked="checked" onclick="refreshCharts();"> <label for="area5">5단지</label>
+              <input type="checkbox" id="area6" value="6" checked="checked" onclick="refreshCharts();"> <label for="area6">6단지</label>
+            </div>
+          </div>
+          <div id="main" style="width: 100%;height:800px; border: 1px solid; border-radius: 1px;"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="news" class="projects-section bg-light">
+    <div class="container">
+
+      <!-- Featured Project Row -->
+      <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+        <div class="col-xl-8 col-lg-8">
+          <div class="featured-text text-center text-lg-left">
+            <h4>청라가 포함된 뉴스 최근 30건 
+                <button type="button" class="btn btn-sm btn-secondary" id="newsreload" style="padding: .25rem .5rem;font-size: .875rem;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-clockwise" viewBox="0 0 16 16">
+                  <path fill-rule="evenodd" d="M8 3a5 5 0 1 0 4.546 2.914.5.5 0 0 1 .908-.417A6 6 0 1 1 8 2v1z"></path>
+                  <path d="M8 4.466V.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384L8.41 4.658A.25.25 0 0 1 8 4.466z"></path>
+                </svg>
+              </button>
+                <br>
+              <span id="newslastBuildDate" style="font-size: 14px;"></span>
+            </h4>
+            <p class="text-black-50 mb-0" id="newsList"></p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Signup Section -->
+  <section id="signup" class="signup-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10 col-lg-8 mx-auto text-center">
+
+          <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
+          <h2 class="text-white mb-5">문의 및 지원 안내</h2>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section class="contact-section bg-black">
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-md-4 mb-3 mb-md-0">
+          <div class="card py-4 h-100">
+            <div class="card-body text-center">
+              <i class="fas fa-map-marked-alt text-primary mb-2"></i>
+              <h4 class="text-uppercase m-0">정보 추가 요청</h4>
+              <hr class="my-4">
+              <div class="small text-black-50">
+                <a href="https://github.com/ApartMoney/ApartMoney.github.io/issues">요청 게시판</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4 mb-3 mb-md-0">
+          <div class="card py-4 h-100">
+            <div class="card-body text-center">
+              <i class="fas fa-envelope text-primary mb-2"></i>
+              <h4 class="text-uppercase m-0">문의 메일</h4>
+              <hr class="my-4">
+              <div class="small text-black-50">
+                <a href="#">niee@naver.com</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4 mb-3 mb-md-0">
+          <div class="card py-4 h-100">
+            <div class="card-body text-center">
+              <i class="fas fa-mobile-alt text-primary mb-2"></i>
+              <h4 class="text-uppercase m-0">청라실 앱</h4>
+              <hr class="my-4">
+              <div class="small text-black-50">
+                <a href="https://play.google.com/store/apps/details?id=min.com.apartmoney" target="_blank">플레이 스토어</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- <div class="social d-flex justify-content-center">
+        <a href="#" class="mx-2">
+          <i class="fab fa-twitter"></i>
+        </a>
+        <a href="#" class="mx-2">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+        <a href="#" class="mx-2">
+          <i class="fab fa-github"></i>
+        </a>
+      </div> -->
+
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-black small text-center text-white-50">
+    <div class="container">
+      Copyright &copy; apartmoney.github.io 2020
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/grayscale.min.js"></script>
+
+  <script type="text/javascript" src="js/charts.js"></script>
+
+  <script>
+    $(function(){
+       $.ajax({
+          url : 'lastDelaData.json',
+          success : function(json){
+              var html = $("#todyList").text() + " <br>";
+              for(var i = 0 ; i < json.length ; i ++){
+                    if(json[i].cancelYN == 'Y'){
+                      html += '<span style="text-decoration: line-through;">';
+                    }else{
+                      html += '<span>';
+                    }
+                   html += json[i].dealYear + ". " + json[i].dealMonth + ". " + json[i].dealDay + " ";
+                    if(json[i].cancelYN == 'Y'){
+                      html += '('+ json[i].cancelDate +' 취소된 거래)';
+                    }
+                   html += json[i].apartName + "("+json[i].apartSize+"㎡/"+json[i].dealFloor+"층)"+ " ";
+                   html += json[i].dealMoney+ " <br>";
+
+                    html += '</span>';
+              }
+              $("#todyList").html(html);
+          }
+       });
+
+        $.ajax({
+            url : 'dealDiffer.json',
+            success : function(json){
+                var html = $("#maxList").text() + " <br>";
+                for(var i = 0 ; i < json.length ; i ++){
+                    html += json[i].dealYear + ". " + json[i].dealMonth + ". " + json[i].dealDay + " ";
+                    html += json[i].apartName + "("+json[i].apartSize+"㎡/"+json[i].dealFloor+"층)"+ " ";
+                    if(json[i].dealdiffer.indexOf('-') == -1){
+                      html += json[i].dealMoney+ " (▲"+json[i].dealdiffer+")<br>";
+                    }else{
+                      html += json[i].dealMoney+ " (▼"+json[i].dealdiffer+")<br>";
+                    }
+
+                }
+                $("#maxList").html(html);
+            }
+        });
+
+      $('#newsreload').click(function(){
+        $.ajax({
+          url : 'news.json',
+          success : function(json){
+            $('#newslastBuildDate').text( '(' + new Date(json.lastBuildDate).toLocaleString() + ' 기준)' );
+            $("#newsList").text('');
+            var html = $("#newsList").text() + " <br>";
+            for(var i = 0 ; i < json.items.length ; i ++){
+              var news = json.items[i];
+              html += '<p><a title="'+news.title+'" href="'+news.link+'">' + news.title + '</a><br>';
+              html += news.description + '<br><span style="color: #8e6d6d;font-size: 14px;">발행시간 : ' + new Date(news.pubDate).toLocaleString() + '</span> </p>';
+            }
+            $("#newsList").html(html);
+          }
+        });
+      });
+
+        $('.todayDate').text("("+new Date(new Date().getTime() + ( 1000 * 60 * 60 * 9 )).toISOString().slice(0, 10) +" 기준)");
+      
+       $('#newsreload').click();
+    });
+  </script>
+
+</body>
+
+</html>
