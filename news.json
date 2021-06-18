@@ -1,9 +1,33 @@
 {
-"lastBuildDate": "Fri, 18 Jun 2021 17:00:03 +0900",
-"total": 157051,
+"lastBuildDate": "Fri, 18 Jun 2021 17:20:02 +0900",
+"total": 157054,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "희소가치 높은 대단지 오피스텔 올해 4곳서 분양",
+"originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=16296",
+"link": "http://www.worktoday.co.kr/news/articleView.html?idxno=16296",
+"description": "고덕신도시 유보라 더크레스트 한국부동산원 청약홈에 따르면 지난해 5월 인천 <b>청라</b>국제도시에 공급된 '<b>청라</b>국제도시역 푸르지오 시티'는 1630실 모집에 1만4405명이 접수해 평균 8.84대 1의 경쟁률을 기록하며 전... ",
+"pubDate": "Fri, 18 Jun 2021 17:16:00 +0900"
+
+},
+{
+"title": "[SR건설부동산] 희소성 높은 대단지 오피스텔 하반기 선뵌다",
+"originallink": "http://www.srtimes.kr/news/articleView.html?idxno=95356",
+"link": "http://www.srtimes.kr/news/articleView.html?idxno=95356",
+"description": "한국부동산원 청약홈에 따르면 지난해 5월 인천 <b>청라</b>국제도시에 공급된 '<b>청라</b>국제도시역 푸르지오 시티'는 1630실 모집에 1만4405명이 접수해 평균 8.8대 1의 경쟁률을 기록하며 전 타입 마감됐다. 지난해 6월 분양한... ",
+"pubDate": "Fri, 18 Jun 2021 17:12:00 +0900"
+
+},
+{
+"title": "DL건설 포스코건설, 인천 제3연륙교 수주전에서 지역상생 내걸어",
+"originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=236784",
+"link": "https://www.businesspost.co.kr/BP?command=article_view&num=236784",
+"description": "인천 <b>청라</b> 제3연륙교 1, 2공구 공사에서 지역건설사 참여비중이 높은 컨소시엄이 시공권을 확보하게 될까?... 제3연륙교 건설사업은 영정도와 <b>청라</b>국제도시를 연결하는 해상교량을 짓는 프로젝트로 전체 공사비가... ",
+"pubDate": "Fri, 18 Jun 2021 17:06:00 +0900"
+
+},
 {
 "title": "대구도시철도, 화장실 도촬 원천차단 나서",
 "originallink": "http://www.newsway.co.kr/news/view?tp=1&ud=2021061816513292521",
@@ -218,30 +242,6 @@
 "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2021061807051885214e4869c120_1/article.html",
 "description": "이에 앞서 인하대는 지난 1월에는 글로벌 바이오기업 싸이티바(Cytiva)와 바이오 산업체 전문 인력양성 및 바이오프로세스 교육프로그램 제공을 위한 업무협약을 하였고, 5월에는 인천대, 가천대와 <b>청라</b>의료복합타운 내... ",
 "pubDate": "Fri, 18 Jun 2021 07:08:00 +0900"
-
-},
-{
-"title": "'LG-마그나' 합작사 출범 코앞…전기차 파워트레인에 화력",
-"originallink": "https://daily.hankooki.com/lpage/ittech/202106/dh20210618070017138240.htm?s_ref=nv",
-"link": "https://daily.hankooki.com/lpage/ittech/202106/dh20210618070017138240.htm?s_ref=nv",
-"description": "사무실은 인천 <b>청라</b>국제도시 인근에 있는 LG전자 인천캠퍼스를 그대로 사용하게 된다. LG마그나는 미국과 중국을 거점 삼아 전기차 파워트레인 사업을 강화할 전망이다. LG전자는 지난 4월 미국 미시간과 중국 난징에... ",
-"pubDate": "Fri, 18 Jun 2021 07:06:00 +0900"
-
-},
-{
-"title": "대우건설 인수전 뛰어든 DS네트웍스·중흥건설…'승자의 저주' 피할까",
-"originallink": "http://www.newspim.com/news/view/20210617001146",
-"link": "http://www.newspim.com/news/view/20210617001146",
-"description": "서울 마곡, 인천 송도, <b>청라</b>, 루원시티 일대 분양에 성공해 지난 2019년과 지난해 연속 매출이 1조원을 넘겼다. 이 회사는 수년간 건설사 인수를 추진해왔다. 지난 2018년 삼환기업 매각 당시 SM그룹과 인수 경쟁을... ",
-"pubDate": "Fri, 18 Jun 2021 07:02:00 +0900"
-
-},
-{
-"title": "[<b>청라</b>언덕] 왜 지금 '이준석의 공정'인가",
-"originallink": "https://news.imaeil.com/InnerColumn/2021061713590111774",
-"link": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=088&aid=0000708149",
-"description": "세계적 석학 마이클 샌델은 저서 '공정하다는 착각'으로 지난해 말부터 올해까지 공정에 대한 화두를 우리 사회에 던졌다. 누군가의 성공은 실력과 노력만이 아니라 행운과 우연이 작동한 결과라는 것이다. 그는 실력과... ",
-"pubDate": "Fri, 18 Jun 2021 06:05:00 +0900"
 
 }
 ]
