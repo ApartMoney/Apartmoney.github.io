@@ -5,6 +5,7 @@ $(function(){
 // based on prepared DOM, initialize echarts instance
 var myChart = echarts.init(document.getElementById('main'));
 var apartDatas;
+var apartMaxDatas;
 var area1 = ['193-1', '185-1', '168-1', '165-10', '165-7', '164-1'];
 var area2 = ['762-2', '116-6', '160-1', '165-2', '165-13', '166-1', '130-2', '130-4'];
 var area3 = ['107-1', '139-1', '150-1', '155-2', '155-17', '156-1', '149-2', '115-1'];
@@ -60,6 +61,7 @@ function refreshCharts(){
                 "value": money,
                 "name": data.apartName,
                 "dealFloor" : data.dealFloor,
+                "maxMoney" : getMaxMoney(data.apartAddress, data.apartSize),
                 "apartSize" : data.apartSize,
                 "dealDate" : data.dealYear + '. ' + data.dealMonth + '. ' + data.dealDay,
                 "path": (index+1) + "단지/" + data.apartName
@@ -115,6 +117,8 @@ function refreshCharts(){
                                 '{name|' + params.name + '}',
                                 '{hr|}',
                                 '{budget| 금액 : ' + echarts.format.addCommas(params.value) + '}',
+                                '{dealDate| 최고가 대비 : ' + (params.value / parseInt(params.data.maxMoney.replace(',',''), 10) * 100).toFixed(2) + '%}',
+                                '{dealDate| 최고가 : ' + echarts.format.addCommas(params.data.maxMoney) + '}',
                                 '{dealDate| 전용 ' + params.data.apartSize + 'm² (' + params.data.dealFloor + '층)' + '}',
                                 '{dealDate| 거래일 : ' + params.data.dealDate+'}'
                             ];
@@ -226,20 +230,36 @@ for(var i = 0 ; i < 15 ; i ++){
 }
 
 $('#dealDate').append('<option value="maxDelaData">모든신고가');
+
 function getApartDatas(){
     myChart.clear();
     myChart.showLoading();
-    $.get($('#dealDate').val() + '.json',function(datas){
-        apartDatas = datas;
+    $.get('maxDelaData.json',function(datas){
+        apartMaxDatas = datas;
 
-        if(apartDatas.length > 0){
-            refreshCharts();
-        }else{
+        $.get($('#dealDate').val() + '.json',function(datas){
+            apartDatas = datas;
+
+            if(apartDatas.length > 0){
+                refreshCharts();
+            }else{
+                alert('등록된 거래 데이터가 없습니다.');
+            }
+            myChart.hideLoading();
+        }).fail(function(){
             alert('등록된 거래 데이터가 없습니다.');
-        }
-        myChart.hideLoading();
+            myChart.hideLoading();
+        });
+
     }).fail(function(){
         alert('등록된 거래 데이터가 없습니다.');
         myChart.hideLoading();
     });
+}
+
+function getMaxMoney(address, size) {
+    for (var i = 0; i < apartMaxDatas.length; i++) {
+        if (apartMaxDatas[i].apartAddress == address && apartMaxDatas[i].apartSize == size)
+            return apartMaxDatas[i].dealMoney;
+    }
 }
