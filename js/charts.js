@@ -117,8 +117,8 @@ function refreshCharts(){
                                 '{name|' + params.name + '}',
                                 '{hr|}',
                                 '{budget| 금액 : ' + echarts.format.addCommas(params.value) + '}',
-                                '{dealDate| 최고가 대비 : ' + (params.value / parseInt(params.data.maxMoney.replace(',',''), 10) * 100).toFixed(2) + '%}',
-                                '{dealDate| 최고가 : ' + echarts.format.addCommas(params.data.maxMoney) + '}',
+                                '{maxValue| 최고가 대비 : ' + (params.value / parseInt(params.data.maxMoney.replace(',',''), 10) * 100).toFixed(2) + '%}',
+                                '{maxValue| 최고가 : ' + echarts.format.addCommas(params.data.maxMoney) + '}',
                                 '{dealDate| 전용 ' + params.data.apartSize + 'm² (' + params.data.dealFloor + '층)' + '}',
                                 '{dealDate| 거래일 : ' + params.data.dealDate+'}'
                             ];
@@ -135,6 +135,11 @@ function refreshCharts(){
                                 fontSize: 15,
                                 lineHeight: 30,
                                 color: '#fff'
+                            },
+                            maxValue: {
+                                fontSize: 15,
+                                lineHeight: 30,
+                                color: '#b7414100'
                             },
                             name: {
                                 fontSize: 15,
