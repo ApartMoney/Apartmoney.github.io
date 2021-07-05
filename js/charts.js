@@ -139,7 +139,7 @@ function refreshCharts(){
                             maxValue: {
                                 fontSize: 15,
                                 lineHeight: 30,
-                                color: '#b7414100'
+                                color: '#ff6468'
                             },
                             name: {
                                 fontSize: 15,
