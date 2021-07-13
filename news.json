@@ -1,9 +1,49 @@
 {
-"lastBuildDate": "Tue, 13 Jul 2021 09:20:02 +0900",
-"total": 158578,
+"lastBuildDate": "Tue, 13 Jul 2021 09:30:02 +0900",
+"total": 158583,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "&quot;박성호 행장이 라울로 등장&quot;… 하나은행, 메타바스 연수원 하나글로벌캠퍼스...",
+"originallink": "http://moneys.mt.co.kr/news/mwView.php?no=2021071309238020990",
+"link": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000714296",
+"description": "2019년 5월 인천 <b>청라</b>에 오픈한 실제 연수원의 구조와 외형을 구현해 실제로 연수원을 방문한 것과 같은 경험을 제공한다는 설명이다. 특히 이번 메타버스 연수원은 올해 하나은행 신입행원들이 주도적으로 아이디어를... ",
+"pubDate": "Tue, 13 Jul 2021 09:25:00 +0900"
+
+},
+{
+"title": "하나은행, 메타버스 공간에 하나글로벌캠퍼스 구현",
+"originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=43120",
+"link": "http://www.newslock.co.kr/news/articleView.html?idxno=43120",
+"description": "이번에 가상세계에 새롭게 건설된 '하나글로벌캠퍼스'는 하나금융그룹이 첫 번째로 공개하는 메타버스 공간으로 2019년 5월 인천 <b>청라</b>에 오픈한 실제 연수원의 구조와 외형을 생생하게 구현해내 마치 현실세계의 연수원을... ",
+"pubDate": "Tue, 13 Jul 2021 09:22:00 +0900"
+
+},
+{
+"title": "하나銀, 메타버스 연수원 개관",
+"originallink": "http://www.edaily.co.kr/news/newspath.asp?newsid=01744966629114192",
+"link": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004983130",
+"description": "2019년 5월 인천 <b>청라</b>에 문을 연 실제 연수원의 구조와 외형을 생생하게 구현했다. 하나은행이 지난 12일 오후... 한편, 인천 <b>청라</b>에 있는 ‘하나글로벌캠퍼스’는 코로나19 재확산에 따른 수도권 지역의 병상 부족 사태... ",
+"pubDate": "Tue, 13 Jul 2021 09:21:00 +0900"
+
+},
+{
+"title": "하나은행, 메타버스 공간에 '하나글로벌캠퍼스' 오픈",
+"originallink": "http://www.joseilbo.com/news/news_read.php?uid=428064&class=51&grp=",
+"link": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=123&aid=0002250110",
+"description": "하나글로벌캠퍼스는 2019년 5월 인천 <b>청라</b>에 오픈한 실제 연수원의 구조와 외형을 생생하게 구현해 마치... 한편, 인천 <b>청라</b> 소재의 하나글로벌캠퍼스는 코로나19 재확산에 따른 수도권 지역의 병상 부족 사태 해결을 위해... ",
+"pubDate": "Tue, 13 Jul 2021 09:20:00 +0900"
+
+},
+{
+"title": "하나은행, 가상공간에 ‘글로벌켐퍼스’ 오픈",
+"originallink": "http://www.fntimes.com/html/view.php?ud=2021071309164611429249a1ae63_18",
+"link": "http://www.fntimes.com/html/view.php?ud=2021071309164611429249a1ae63_18",
+"description": "지난 2019년 5월 인천 <b>청라</b>에 개소한 실제 연수원의 구조와 외형을 생생하게 구현해 마치 현실세계 연수원을... 인천 <b>청라</b> 소재의 하나글로벌캠퍼스는 하나금융그룹의 ESG(환경‧사회 공헌‧지배구조) 경영 실천의 일환으로... ",
+"pubDate": "Tue, 13 Jul 2021 09:20:00 +0900"
+
+},
 {
 "title": "은행권도 메타버스 탑승…세미나부터 연수원까지 구현",
 "originallink": "http://www.ajunews.com/view/20210713091037697",
@@ -202,46 +242,6 @@
 "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=937008",
 "description": "이에 더해 현재 중증환자 전담 치료병상으로 운영되고 있는 <b>청라</b>백세요양병원을 16일부터 생활치료센터로 전환할 계획이다. 최근 고령층을 대상으로 코로나19 백신 접종이 진행돼 중증환자가 줄어들자 중증환자... ",
 "pubDate": "Mon, 12 Jul 2021 21:48:00 +0900"
-
-},
-{
-"title": "[사설] <b>청라</b> 의료복합단지 조성 지금부터 시작이다",
-"originallink": "http://www.kyeonggi.com/news/articleView.html?idxno=2371626",
-"link": "http://www.kyeonggi.com/news/articleView.html?idxno=2371626",
-"description": "인천 서구 <b>청라</b>국제도시에 대형 병원과 의료·바이오 시설 등을 조성하는 <b>청라</b> 의료복합타운 우선사업자가 지난 8일 선정됐다. 인천<b>청라</b> 의료복합타운은 약 26만1천635㎡(7만8천787평) 규모의 부지에 500병상 이상의... ",
-"pubDate": "Mon, 12 Jul 2021 20:26:00 +0900"
-
-},
-{
-"title": "인천시 공론화위 1년… 매립지 '속도' 소각시설 '답보'",
-"originallink": "http://www.incheonilbo.com/news/articleView.html?idxno=1104879",
-"link": "http://www.incheonilbo.com/news/articleView.html?idxno=1104879",
-"description": "부평구·계양구 후보지는 '추후 결정'으로 미뤘고, 기존 <b>청라</b>·송도 소각시설은 현대화할 뜻을 밝혔다. 하지만 지역 반발로 예비 후보지는 수개월 만에 뒤틀렸다. 서구는 지난 2월 <b>청라</b> 자원순환센터 폐쇄를 전제로... ",
-"pubDate": "Mon, 12 Jul 2021 20:24:00 +0900"
-
-},
-{
-"title": "[매립지 조성 공론화 1년]'명분' 얻었으나 '실리'는 못 챙겨",
-"originallink": "http://www.incheonilbo.com/news/articleView.html?idxno=1104869",
-"link": "http://www.incheonilbo.com/news/articleView.html?idxno=1104869",
-"description": "우선 '기존 광역시설 현대화' 권고는 <b>청라</b>·송도 소각장이 위치한 지자체 반발에 부딪혔다. 지난 2월 서구는 <b>청라</b> 자원순환센터 가동 중지와 자체 소각시설 건립을 발표했다. 연수구 반응도 부정적이다. 박 시장은 지난달... ",
-"pubDate": "Mon, 12 Jul 2021 19:48:00 +0900"
-
-},
-{
-"title": "HDC현대산업개발, <b>청라</b>의료타운 따내 공공사업 분위기 반전 원해",
-"originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=240459",
-"link": "https://www.businesspost.co.kr/BP?command=article_view&num=240459",
-"description": "규모의 <b>청라</b>의료타운사업을 따내면서 공공사업 수주에서 분위기 반전의 계기를 마련하게 됐다. 12일 HDC현대산업개발 안팎의 말을 종합하면 HDC현대산업개발이 <b>청라</b>의료타운의 시공사가 된 것을 계기로 앞으로... ",
-"pubDate": "Mon, 12 Jul 2021 19:06:00 +0900"
-
-},
-{
-"title": "인천 <b>청라</b> IHP에 현대모비스 수소연료전지 연구생산시설 조성",
-"originallink": "http://www.kyeonggi.com/news/articleView.html?idxno=2371592",
-"link": "http://www.kyeonggi.com/news/articleView.html?idxno=2371592",
-"description": "인천경제자유구역청이 우리나라 기업도 입주할 수 있도록 실시계획 등을 변경한 인천하이테크파크(IHP) 도시첨단 산업단지의 외국인투자기업 전용용지에 현대모비스㈜의 수소연료전지시스템 연구생산시설을... ",
-"pubDate": "Mon, 12 Jul 2021 18:52:00 +0900"
 
 }
 ]
