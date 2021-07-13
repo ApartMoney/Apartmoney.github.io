@@ -1,9 +1,57 @@
 {
-"lastBuildDate": "Tue, 13 Jul 2021 09:10:02 +0900",
-"total": 158572,
+"lastBuildDate": "Tue, 13 Jul 2021 09:20:02 +0900",
+"total": 158578,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "은행권도 메타버스 탑승…세미나부터 연수원까지 구현",
+"originallink": "http://www.ajunews.com/view/20210713091037697",
+"link": "http://www.ajunews.com/view/20210713091037697",
+"description": "하나글로벌캠퍼스는 2019년 5월 인천 <b>청라</b> 지역에 문을 연 실제 연수원으로, 가상세계 속 캠퍼스 역시 실제 구조와 외형을 그대로 구현했다. 올해 신입 행원들이 주도적으로 아이디어를 내고 만들었다는 게 은행 측... ",
+"pubDate": "Tue, 13 Jul 2021 09:18:00 +0900"
+
+},
+{
+"title": "신입교육·직원소통에 '메타버스' 활용 나선 은행들",
+"originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202107130058&t=NN",
+"link": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=215&aid=0000971168",
+"description": "이번에 가상세계에 새롭게 건설된 '하나글로벌캠퍼스'는 2019년 5월 인천 <b>청라</b>에 오픈한 실제 연수원의 구조와 외형을 그대로 구현했다. 박성호 하나은행장은 제페토 내 아바타 캐릭터 '라울(Raul)'로 참석했다. 행사가... ",
+"pubDate": "Tue, 13 Jul 2021 09:17:00 +0900"
+
+},
+{
+"title": "하나은행, 메타버스 공간에 '하나글로벌캠퍼스' 오픈",
+"originallink": "http://www.kbanker.co.kr/news/articleView.html?idxno=99833",
+"link": "http://www.kbanker.co.kr/news/articleView.html?idxno=99833",
+"description": "지난 2019년 5월 인천 <b>청라</b>에 오픈한 실제 연수원의 구조와 외형을 생생하게 구현해내 마치 현실세계의 연수원을 방문한 것과 같은 경험을 제공한다. 이번 메타버스 연수원은 2021년 하나은행 신입행원들이 주도적으로... ",
+"pubDate": "Tue, 13 Jul 2021 09:14:00 +0900"
+
+},
+{
+"title": "세종시 '친환경종합타운' 심중리 이어 송성리도 무산위기 ",
+"originallink": "http://www.dtnews24.com/news/articleView.html?idxno=708516",
+"link": "http://www.dtnews24.com/news/articleView.html?idxno=708516",
+"description": "송성리에 이어 쌍류리와 송정리·송곡리·보덕리·용암리·<b>청라</b>리, 전동초·송덕초 총동문회, 조치원읍까지 참여하는 반대대책위원회가 지난 5월 31일 시의회 앞에서 쓰레기 소각장 건립안 철회를 촉구하고 나섰다.... ",
+"pubDate": "Tue, 13 Jul 2021 09:14:00 +0900"
+
+},
+{
+"title": "하나은행, 메타버스 글로벌캠퍼스 오픈",
+"originallink": "https://www.fetv.co.kr/news/article.html?no=90796",
+"link": "https://www.fetv.co.kr/news/article.html?no=90796",
+"description": "지난 2019년 5월 인천 <b>청라</b>에 오픈한 실제 연수원의 구조와 외형을 생생하게 구현해내 마치 현실세계의 연수원을 방문한 것과 같은 경험을 제공한다. 특히 이번 메타버스 연수원은 올해 하나은행 신입행원들이 주도적으로... ",
+"pubDate": "Tue, 13 Jul 2021 09:12:00 +0900"
+
+},
+{
+"title": "“MZ세대 잡아라”…은행들, ‘메타버스’ 열풍",
+"originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202107130900294390609",
+"link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202107130900294390609",
+"description": "2019년 5월 인천 <b>청라</b>에 오픈한 실제 연수원의 구조와 외형을 구현했다. 이번 메타버스 연수원은 코로나19로 온라인 연수만 받고 한 번도 연수원에 가보지 못한 신입행원들이 주도적으로 아이디어를 내고 손수 만들었다.... ",
+"pubDate": "Tue, 13 Jul 2021 09:10:00 +0900"
+
+},
 {
 "title": "하나은행, 메타버스 공간에 하나글로벌캠퍼스 오픈",
 "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=90876",
@@ -109,18 +157,18 @@
 
 },
 {
-"title": "인천시청 3명 확진… 산곡남초 1학년생 등 9명 집단감염",
-"originallink": "http://www.kyeongin.com/main/view.php?key=20210712010002181",
-"link": "http://www.kyeongin.com/main/view.php?key=20210712010002181",
-"description": "수도권에 강화된 4단계 방역지침이 적용된 첫날인 12일 인천시 서구 <b>청라</b>동의 한 음식점에서 관계자들이 인원 제한 안내 현수막을 출입문 옆에 부착하고 있다. 점주 유민수씨는 &quot;어려운 시기이지만 직원들과 함께 이... ",
-"pubDate": "Mon, 12 Jul 2021 22:34:00 +0900"
-
-},
-{
 "title": "국내기업 입주 허용된 IHP에 현대모비스 온다",
 "originallink": "http://www.kyeongin.com/main/view.php?key=20210712010002140",
 "link": "http://www.kyeongin.com/main/view.php?key=20210712010002140",
 "description": "인천경제자유구역청이 첨단 소재·부품 기업과 연구시설을 유치를 추진하고 있는 <b>청라</b>국제도시... 인천 <b>청라</b>국제도시 첨단산업단지 IHP(인천하이테크파크)에 들어선다. 현대모비스는 최근 국내 기업 입주가 가능해진 IHP... ",
+"pubDate": "Mon, 12 Jul 2021 22:34:00 +0900"
+
+},
+{
+"title": "인천시청 3명 확진… 산곡남초 1학년생 등 9명 집단감염",
+"originallink": "http://www.kyeongin.com/main/view.php?key=20210712010002181",
+"link": "http://www.kyeongin.com/main/view.php?key=20210712010002181",
+"description": "수도권에 강화된 4단계 방역지침이 적용된 첫날인 12일 인천시 서구 <b>청라</b>동의 한 음식점에서 관계자들이 인원 제한 안내 현수막을 출입문 옆에 부착하고 있다. 점주 유민수씨는 &quot;어려운 시기이지만 직원들과 함께 이... ",
 "pubDate": "Mon, 12 Jul 2021 22:34:00 +0900"
 
 },
@@ -194,54 +242,6 @@
 "link": "http://www.kyeonggi.com/news/articleView.html?idxno=2371592",
 "description": "인천경제자유구역청이 우리나라 기업도 입주할 수 있도록 실시계획 등을 변경한 인천하이테크파크(IHP) 도시첨단 산업단지의 외국인투자기업 전용용지에 현대모비스㈜의 수소연료전지시스템 연구생산시설을... ",
 "pubDate": "Mon, 12 Jul 2021 18:52:00 +0900"
-
-},
-{
-"title": "방역지침 격상 첫날 저녁, 한산한 음식점",
-"originallink": "http://yna.kr/PYH20210712187500013?did=1196m",
-"link": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0012520213",
-"description": "수도권에 강화된 4단계 방역지침이 적용된 첫날인 12일 저녁 인천시 서구 <b>청라</b>동 한 음식점 모습. 오후 6시부터 3인 이상 집합금지명령으로 2인 이하 시민들이 식사를 하고 있다. 점주는 &quot;평소 저녁 손님으로... ",
-"pubDate": "Mon, 12 Jul 2021 18:50:00 +0900"
-
-},
-{
-"title": "방역지침 격상 첫날 저녁, 한산한 음식점",
-"originallink": "http://yna.kr/PYH20210712187600013?did=1196m",
-"link": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0012520214",
-"description": "수도권에 강화된 4단계 방역지침이 적용된 첫날인 12일 저녁 인천시 서구 <b>청라</b>동 한 음식점 모습. 오후 6시부터 3인 이상 집합금지명령으로 2인 이하 시민들이 식사를 하고 있다. 점주는 &quot;평소 저녁 손님으로... ",
-"pubDate": "Mon, 12 Jul 2021 18:50:00 +0900"
-
-},
-{
-"title": "방역지침 격상 첫날 저녁, 한산한 음식점",
-"originallink": "http://yna.kr/PYH20210712187700013?did=1196m",
-"link": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0012520215",
-"description": "수도권에 강화된 4단계 방역지침이 적용된 첫날인 12일 저녁 인천시 서구 <b>청라</b>동 한 음식점 모습. 오후 6시부터 3인 이상 집합금지명령으로 2인 이하 시민들이 식사를 하고 있다. 점주는 &quot;평소 저녁 손님으로... ",
-"pubDate": "Mon, 12 Jul 2021 18:50:00 +0900"
-
-},
-{
-"title": "방역지침 격상 첫날 저녁, 한산한 음식점",
-"originallink": "http://yna.kr/PYH20210712187300013?did=1196m",
-"link": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0012520210",
-"description": "수도권에 강화된 4단계 방역지침이 적용된 첫날인 12일 저녁 인천시 서구 <b>청라</b>동 한 음식점 모습. 오후 6시부터 3인 이상 집합금지명령으로 2인 이하 시민들이 식사를 하고 있다. 점주는 &quot;평소 저녁 손님으로... ",
-"pubDate": "Mon, 12 Jul 2021 18:49:00 +0900"
-
-},
-{
-"title": "방역지침 격상 첫날 저녁, 한산한 음식점",
-"originallink": "http://yna.kr/PYH20210712187400013?did=1196m",
-"link": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0012520211",
-"description": "수도권에 강화된 4단계 방역지침이 적용된 첫날인 12일 저녁 인천시 서구 <b>청라</b>동 한 음식점 모습. 오후 6시부터 3인 이상 집합금지명령으로 2인 이하 시민들이 식사를 하고 있다. 점주는 &quot;평소 저녁 손님으로... ",
-"pubDate": "Mon, 12 Jul 2021 18:49:00 +0900"
-
-},
-{
-"title": "방역지침 격상 첫날 저녁, 한산한 음식점",
-"originallink": "http://yna.kr/PYH20210712187200013?did=1196m",
-"link": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0012520209",
-"description": "수도권에 강화된 4단계 방역지침이 적용된 첫날인 12일 저녁 인천시 서구 <b>청라</b>동 한 음식점 모습. 오후 6시부터 3인 이상 집합금지명령으로 2인 이하 시민들이 식사를 하고 있다. 점주는 &quot;평소 저녁 손님으로... ",
-"pubDate": "Mon, 12 Jul 2021 18:49:00 +0900"
 
 }
 ]
