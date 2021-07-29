@@ -1,13 +1,21 @@
 {
-"lastBuildDate": "Thu, 29 Jul 2021 14:20:02 +0900",
-"total": 159329,
+"lastBuildDate": "Thu, 29 Jul 2021 14:30:04 +0900",
+"total": 159330,
 "start": 1,
 "display": 30,
 "items": [
 {
+"title": "'고점 경고'에도 전국 '불장'…수도권 아파트 매매가 2주 연속 '역대급'",
+"originallink": "https://view.asiae.co.kr/article/2021072914182275042",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004945660",
+"description": "인천의 경우 교통개선 기대감 있는 옥련ㆍ청학동 위주로, 서구(0.45%)는 개발호재 있는 경서ㆍ금곡ㆍ<b>청라</b>동 위주로, 부평구(0.42%)는 일신ㆍ청천동 위주로, 계양구(0.34%)는 3기 신도시 개발 기대감 있는... ",
+"pubDate": "Thu, 29 Jul 2021 14:16:00 +0900"
+
+},
+{
 "title": "정비사업 기대감에… 수도권 집값 9주연속 0.3%대 상승",
 "originallink": "https://biz.chosun.com/industry/industry_general/2021/07/29/EPUOE4LPRNASDLQEFHKVMJECBE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=004&oid=366&aid=0000750516",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=366&aid=0000750516",
 "description": "인천에서는 교통개선 기대감이 있는 연수구(0.55%)와 <b>청라</b>동 등 개발호재가 있는 서구(0.45%), 3기 신도시에 포함된 계양구(0.34%) 등이 크게 올랐다. 지방 광역시에서는 정주여건과 공시가 1억 미만의 구축이 집값... ",
 "pubDate": "Thu, 29 Jul 2021 14:11:00 +0900"
 
@@ -21,14 +29,6 @@
 
 },
 {
-"title": "폭염보다 뜨거운 서울 집값 상승폭, 7월 내내 0.15% 이상 급등",
-"originallink": "http://www.fntimes.com/html/view.php?ud=2021072911512851680583674372_18",
-"link": "http://www.fntimes.com/html/view.php?ud=2021072911512851680583674372_18",
-"description": "연수구(0.55%)는 교통개선 기대감 있는 옥련·청학동 위주로, 서구(0.45%)는 개발호재 있는 경서·금곡·<b>청라</b>동 위주로, 부평구(0.42%)는 일신·청천동 위주로, 계양구(0.34%)는 3기 신도시 개발 기대감 있는 동양·귤현동... ",
-"pubDate": "Thu, 29 Jul 2021 14:02:00 +0900"
-
-},
-{
 "title": "'경고'도 '호소'도 안먹혔다..수도권 전셋값 6년만에 최대폭 상승",
 "originallink": "http://news.mt.co.kr/mtview.php?no=2021072910130765192",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004623796",
@@ -37,11 +37,11 @@
 
 },
 {
-"title": "&quot;국민 탓하는 사이 전세대란 현실로&quot; 수도권 전셋값 0.28% ↑…6년 3개월만에...",
-"originallink": "http://www.newspim.com/news/view/20210729000609",
-"link": "http://www.newspim.com/news/view/20210729000609",
-"description": "연수구(0.55%)는 교통개선 기대감 있는 옥련·청학동 중심으로 서구(0.45%)는 개발호재 있는 경서·금곡·<b>청라</b>동 위주로 가격이 올랐다. 부평구(0.42%)는 일신·청천동 중심으로 계양구(0.34%)는 3기 신도시 개발 기대감이... ",
-"pubDate": "Thu, 29 Jul 2021 14:00:00 +0900"
+"title": "폭염보다 뜨거운 서울 집값 상승폭, 7월 내내 0.15% 이상 급등",
+"originallink": "http://www.fntimes.com/html/view.php?ud=2021072911512851680583674372_18",
+"link": "http://www.fntimes.com/html/view.php?ud=2021072911512851680583674372_18",
+"description": "연수구(0.55%)는 교통개선 기대감 있는 옥련·청학동 위주로, 서구(0.45%)는 개발호재 있는 경서·금곡·<b>청라</b>동 위주로, 부평구(0.42%)는 일신·청천동 위주로, 계양구(0.34%)는 3기 신도시 개발 기대감 있는 동양·귤현동... ",
+"pubDate": "Thu, 29 Jul 2021 14:02:00 +0900"
 
 },
 {
@@ -49,6 +49,14 @@
 "originallink": "http://www.newsis.com/view/?id=NISX20210729_0001530915&cID=10401&pID=10400",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0010636189",
 "description": "인천에서는 연수구(0.59%→0.55%)가 교통개선 기대감이 있는 옥련·청학동 위주로, 서구(0.45%→0.45%)는 개발호재가 있는 경서·금곡·<b>청라</b>동, 부평구(0.50%→0.42%)는 일신·청천동, 계양구(0.48%→0.34%)는 3기 신도시 개발... ",
+"pubDate": "Thu, 29 Jul 2021 14:00:00 +0900"
+
+},
+{
+"title": "&quot;국민 탓하는 사이 전세대란 현실로&quot; 수도권 전셋값 0.28% ↑…6년 3개월만에...",
+"originallink": "http://www.newspim.com/news/view/20210729000609",
+"link": "http://www.newspim.com/news/view/20210729000609",
+"description": "연수구(0.55%)는 교통개선 기대감 있는 옥련·청학동 중심으로 서구(0.45%)는 개발호재 있는 경서·금곡·<b>청라</b>동 위주로 가격이 올랐다. 부평구(0.42%)는 일신·청천동 중심으로 계양구(0.34%)는 3기 신도시 개발 기대감이... ",
 "pubDate": "Thu, 29 Jul 2021 14:00:00 +0900"
 
 },
@@ -101,18 +109,18 @@
 
 },
 {
-"title": "점프컴퍼니, 공유오피스 ‘패스트파이브’와 MOU",
-"originallink": "https://www.venturesquare.net/834007",
-"link": "https://www.venturesquare.net/834007",
-"description": "판교, 성수, <b>청라</b>, 안양, 부천 등 수도권 일대에 지식산업센터를 보유한 점프컴퍼니는다양해지는 기업의 수요를 충족시키고, 공간의 가치 증대시킬 수 있는 인프라와 서비스를 구축해나가고 있다고 밝혔다. 점프컴퍼니... ",
-"pubDate": "Thu, 29 Jul 2021 11:00:00 +0900"
-
-},
-{
 "title": "DK도시개발·DK아시아 “인천 최초 모든 사업장에 건설공사관리회사(CM) 선정...",
 "originallink": "https://view.asiae.co.kr/article/2021072909402437483",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004945464",
 "description": "왕길동~경서동 3.5km 도로 최종 확정…명실상부 ‘<b>청라</b> 생활권’ 지난 25일 제4차 대도시권 교통혼잡도로... 도로의 길이는 3.5km이며 구간은 지하로 직선화됨으로써 <b>청라</b>까지 소요시간이 6~7분대로 단축된다. 업계에서는... ",
+"pubDate": "Thu, 29 Jul 2021 11:00:00 +0900"
+
+},
+{
+"title": "점프컴퍼니, 공유오피스 ‘패스트파이브’와 MOU",
+"originallink": "https://www.venturesquare.net/834007",
+"link": "https://www.venturesquare.net/834007",
+"description": "판교, 성수, <b>청라</b>, 안양, 부천 등 수도권 일대에 지식산업센터를 보유한 점프컴퍼니는다양해지는 기업의 수요를 충족시키고, 공간의 가치 증대시킬 수 있는 인프라와 서비스를 구축해나가고 있다고 밝혔다. 점프컴퍼니... ",
 "pubDate": "Thu, 29 Jul 2021 11:00:00 +0900"
 
 },
@@ -133,18 +141,18 @@
 
 },
 {
-"title": "여름철 어지럼증 동반한 낙상사고 … 가벼운 골절도 초기 정형외과 치료 필요",
-"originallink": "http://www.medisobizanews.com/news/articleView.html?idxno=80410",
-"link": "http://www.medisobizanews.com/news/articleView.html?idxno=80410",
-"description": "인천 <b>청라</b>국제병원 류성화 원장 급격하게 더워진 날씨에 고령층을 중심으로 '어지럼증' 주의보가 내렸다.... 인천 <b>청라</b>국제병원 류성화(정형외과 전문의) 원장은 &quot;낙상사고로 인한 골절은 팔이나 다리 등 다양한 부위에... ",
-"pubDate": "Thu, 29 Jul 2021 10:26:00 +0900"
-
-},
-{
 "title": "HDC현대산업개발 참여 '서울아산병원 컨소시엄', <b>청라</b>의료타운 우선협상자 선...",
 "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=210321",
 "link": "http://www.econonews.co.kr/news/articleView.html?idxno=210321",
 "description": " HDC현대산업개발이 참여한 서울아산병원 컨소시엄이 인천 경제자유구역에 들어서는 <b>청라</b>의료복합타운 우선협상 대상자로 최종 선정됐다. 28일 HDC현대산업개발에 따르면 <b>청라</b>의료복합타운은 인천 서구 <b>청라</b>국제도시... ",
+"pubDate": "Thu, 29 Jul 2021 10:26:00 +0900"
+
+},
+{
+"title": "여름철 어지럼증 동반한 낙상사고 … 가벼운 골절도 초기 정형외과 치료 필요",
+"originallink": "http://www.medisobizanews.com/news/articleView.html?idxno=80410",
+"link": "http://www.medisobizanews.com/news/articleView.html?idxno=80410",
+"description": "인천 <b>청라</b>국제병원 류성화 원장 급격하게 더워진 날씨에 고령층을 중심으로 '어지럼증' 주의보가 내렸다.... 인천 <b>청라</b>국제병원 류성화(정형외과 전문의) 원장은 &quot;낙상사고로 인한 골절은 팔이나 다리 등 다양한 부위에... ",
 "pubDate": "Thu, 29 Jul 2021 10:26:00 +0900"
 
 },
@@ -226,14 +234,6 @@
 "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=939452",
 "description": "서구·강화(<b>청라</b>소각장), 부평·계양(부천 대장소각장), 중구·동구·미추홀구 일부(신설) 등 크게 4개 권역에서 운영된다. 시는 본래 연수구(송도소각장), 서구(<b>청라</b>소각장), 중구·미추홀구(남항소각장), 동구·남동구... ",
 "pubDate": "Wed, 28 Jul 2021 21:50:00 +0900"
-
-},
-{
-"title": "제3연륙교 2공구… '현대·포스코 컨소시엄' 누가 웃을까",
-"originallink": "http://www.kyeongin.com/main/view.php?key=20210728010005425",
-"link": "http://www.kyeongin.com/main/view.php?key=20210728010005425",
-"description": "오늘 실시설계 기술제안서 평가회의1위땐 최종낙찰 가능성 11월께 착공인천 중구 영종도와 서구 <b>청라</b>국제도시를 잇는 '제3연륙교'의 2공구(연륙교 중간 지점~<b>청라</b> 2.03㎞ 구간) 공사를 맡을 업체 선정을 위한 제안서... ",
-"pubDate": "Wed, 28 Jul 2021 21:22:00 +0900"
 
 },
 {
