@@ -1,9 +1,17 @@
 {
-"lastBuildDate": "Thu, 12 Aug 2021 22:00:02 +0900",
-"total": 160026,
+"lastBuildDate": "Thu, 12 Aug 2021 22:10:03 +0900",
+"total": 160027,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "집값 고점이라고?… 수도권 아파트값 4주째 최고 상승률·지방까지 올랐다",
+"originallink": "http://www.segye.com/content/html/2021/08/12/20210812515666.html?OutUrl=naver",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=022&aid=0003609556",
+"description": "인천은 송도신도시가 있는 연수구(0.63%)를 비롯해 <b>청라</b>의료복합타운과 신세계 스타필드 등 개발 계획이 있는 서구(0.47%). 부평구(0.46%), 계양구(0.41%) 등이 상승을 주도했다. 지방 광역시에서는 부산(0.24%→0.28%)이... ",
+"pubDate": "Thu, 12 Aug 2021 22:02:00 +0900"
+
+},
 {
 "title": "제3연륙교 1공구 기술제안 한화건설 컨소시엄이 '1위'",
 "originallink": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=941464",
@@ -53,18 +61,18 @@
 
 },
 {
-"title": "'백약이 무효' 아파트값 9년만에 최대폭 상승",
-"originallink": "http://www.fnnews.com/news/202108121853127510",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004691508",
-"description": "연수구(0.63%)는 정주환경이 양호하고 교통개선 기대감이 있는 송도동 위주로, 서구(0.47%)는 개발사업 및 교통호재가 있는 <b>청라</b>지구 위주로, 부평구(0.46%)는 재개발·재건축 기대감이 높은 십정동 위주로 각각 상승폭이... ",
-"pubDate": "Thu, 12 Aug 2021 18:54:00 +0900"
-
-},
-{
 "title": "[8월2주 아파트가격] 수도권 집값 ‘거침없이 하이킥’…4주째 최고 상승률",
 "originallink": "http://www.g-enews.com/ko-kr/news/article/news_all/202108121852198708891d26c649_1/article.html",
 "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202108121852198708891d26c649_1/article.html",
 "description": "인천(0.37%→0.43%)은 연수구(0.63%)가 송도동 위주로, 서구(0.47%)는 <b>청라</b>의료복합타운‧신세계 스타필드 등 개발사업과 7호선 연장 호재가 있는 <b>청라</b>지구 위주로, 부평구(0.46%)는 재개발‧재건축 기대감이 높은 십정동... ",
+"pubDate": "Thu, 12 Aug 2021 18:54:00 +0900"
+
+},
+{
+"title": "'백약이 무효' 아파트값 9년만에 최대폭 상승",
+"originallink": "http://www.fnnews.com/news/202108121853127510",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004691508",
+"description": "연수구(0.63%)는 정주환경이 양호하고 교통개선 기대감이 있는 송도동 위주로, 서구(0.47%)는 개발사업 및 교통호재가 있는 <b>청라</b>지구 위주로, 부평구(0.46%)는 재개발·재건축 기대감이 높은 십정동 위주로 각각 상승폭이... ",
 "pubDate": "Thu, 12 Aug 2021 18:54:00 +0900"
 
 },
@@ -234,14 +242,6 @@
 "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202108121331001910649",
 "description": "교통 호재 외에도 인천은 <b>청라</b>의료복합타운과 스타필드 건립 등 굵직한 개발 사업이 추진 중인 서구(0.47%)가 크게 상승했다. 인천 구도심인 부평구(0.46%)는 재개발·재건축 기대감에 십정동 등을 중심으로 올랐다.... ",
 "pubDate": "Thu, 12 Aug 2021 14:10:00 +0900"
-
-},
-{
-"title": "수도권 '미친 집값'…역대 최고 상승률 또 갈아치웠다",
-"originallink": "https://www.hankyung.com/realestate/article/202108129810e",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004591056",
-"description": "<b>청라</b>의료복합타운, 신세계 스타필드 등 개발사업과 7호선 연장 등 교통호재가 맞물리면서 <b>청라</b>지구 위주로 아파트값이 뛰고 있다. 경기도 이번 주 0.49% 뛰어 오름폭을 확대했다. GTX 등 교통 개선 기대감이 큰... ",
-"pubDate": "Thu, 12 Aug 2021 14:03:00 +0900"
 
 }
 ]
