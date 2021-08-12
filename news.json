@@ -1,9 +1,17 @@
 {
-"lastBuildDate": "Thu, 12 Aug 2021 15:30:02 +0900",
-"total": 160001,
+"lastBuildDate": "Thu, 12 Aug 2021 15:40:02 +0900",
+"total": 160002,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "전국 아파트값 상승률 역대 최고, 서울 아파트값은 62주째 상승",
+"originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=245322",
+"link": "https://www.businesspost.co.kr/BP?command=article_view&num=245322",
+"description": "연수구(0.63%)는 정주환경이 양호하며 교통개선 기대감 있는 송도동 위주로, 서구(0.47%)는 개발사업(<b>청라</b>의료복합타운·신세계 스타필드 등)과 7호선 연장 등 교통호재가 있는 <b>청라</b>지구 위주로 가격이 올랐다.... ",
+"pubDate": "Thu, 12 Aug 2021 15:28:00 +0900"
+
+},
 {
 "title": "인천시의회, 송도 폐기물자동집하시설 운영관리 예산 40억 확보",
 "originallink": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1065584918380066",
@@ -45,6 +53,14 @@
 
 },
 {
+"title": "‘백약이 무효’ 수도권 아파트값 역대 최고 상승률 또 갱신",
+"originallink": "http://theviewers.co.kr/View.aspx?No=2000368",
+"link": "http://theviewers.co.kr/View.aspx?No=2000368",
+"description": "연수구(0.63%)의 경우 송도동 위주로 올랐으며 서구(0.47%)는 <b>청라</b>의료복합타운과 7호선 연장 등의 호재가 있는 <b>청라</b>지구 위주로 가격이 올랐다. 경기도의 경우는 안성시(0.94%)는 공시가격 1억원 미만 단지 위주로 가격이... ",
+"pubDate": "Thu, 12 Aug 2021 14:02:00 +0900"
+
+},
+{
 "title": "서울 집값 상승폭 2주째 0.20% 고공행진…계절적 비수기도 효과 없어",
 "originallink": "http://www.fntimes.com/html/view.php?ud=2021081210361824225e6e69892f_18",
 "link": "http://www.fntimes.com/html/view.php?ud=2021081210361824225e6e69892f_18",
@@ -57,14 +73,6 @@
 "originallink": "http://www.ajunews.com/view/20210812104032506",
 "link": "http://www.ajunews.com/view/20210812104032506",
 "description": "인천 연수구(0.63%)는 교통개선 기대감 있는 송도동 위주로, 서구(0.47%)는 개발사업(<b>청라</b>의료복합타운·신세계 스타필드 등) 및 교통호재(7호선 연장) 있는 <b>청라</b>지구 위주로, 부평구(0.46%)는 재개발·재건축 기대감이... ",
-"pubDate": "Thu, 12 Aug 2021 14:02:00 +0900"
-
-},
-{
-"title": "‘백약이 무효’ 수도권 아파트값 역대 최고 상승률 또 갱신",
-"originallink": "http://theviewers.co.kr/View.aspx?No=2000368",
-"link": "http://theviewers.co.kr/View.aspx?No=2000368",
-"description": "연수구(0.63%)의 경우 송도동 위주로 올랐으며 서구(0.47%)는 <b>청라</b>의료복합타운과 7호선 연장 등의 호재가 있는 <b>청라</b>지구 위주로 가격이 올랐다. 경기도의 경우는 안성시(0.94%)는 공시가격 1억원 미만 단지 위주로 가격이... ",
 "pubDate": "Thu, 12 Aug 2021 14:02:00 +0900"
 
 },
@@ -93,18 +101,18 @@
 
 },
 {
-"title": "여름 휴가철에도 아파트값은 '쑥'···전국 전주대비 0.30% ↑",
-"originallink": "https://www.econovill.com/news/articleView.html?idxno=544873",
-"link": "https://www.econovill.com/news/articleView.html?idxno=544873",
-"description": "또한 서구(0.47%)는 <b>청라</b>의료복합타운ㆍ스타필드 등 개발사업과 7호선 연장 교통호재가 있는 <b>청라</b>지구 위주로 올랐다. 부평구(0.46%)는 재개발ㆍ재건축 기대감이 높은 십정동 위주로, 계양구(0.41%)는 3기 신도시... ",
-"pubDate": "Thu, 12 Aug 2021 14:00:00 +0900"
-
-},
-{
 "title": "&quot;사전청약에도 천장 뚫렸다&quot; 전국 아파트값 0.30% ↑...역대 최대폭",
 "originallink": "http://www.newspim.com/news/view/20210812000600",
 "link": "http://www.newspim.com/news/view/20210812000600",
 "description": "연수구(0.63%)는 정주환경이 양호하고 교통개선 기대감 있는 송도동에서 서구(0.47%)는 <b>청라</b>의료복합타운과 신세계 스타필드 등 개발사업 기대감과 7호선 연장 호재가 있는 <b>청라</b>지구가 상승세를 이끌었다. 부평구(0.46... ",
+"pubDate": "Thu, 12 Aug 2021 14:00:00 +0900"
+
+},
+{
+"title": "여름 휴가철에도 아파트값은 '쑥'···전국 전주대비 0.30% ↑",
+"originallink": "https://www.econovill.com/news/articleView.html?idxno=544873",
+"link": "https://www.econovill.com/news/articleView.html?idxno=544873",
+"description": "또한 서구(0.47%)는 <b>청라</b>의료복합타운ㆍ스타필드 등 개발사업과 7호선 연장 교통호재가 있는 <b>청라</b>지구 위주로 올랐다. 부평구(0.46%)는 재개발ㆍ재건축 기대감이 높은 십정동 위주로, 계양구(0.41%)는 3기 신도시... ",
 "pubDate": "Thu, 12 Aug 2021 14:00:00 +0900"
 
 },
@@ -213,18 +221,18 @@
 
 },
 {
-"title": "토지 공급부터 주거공간까지… ‘뉴노멀 전략’ 세운다",
-"originallink": "http://www.segye.com/content/html/2021/08/11/20210811513330.html?OutUrl=naver",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003609242",
-"description": "검단 넥스트시티, <b>청라</b>지구, 검암역세권, 김포한강신도시 등의 대규모 배후도시를 둬 풍부한 비즈니스 여건을 갖췄다. 원도심에 새로운 생명을 불어넣어 활기가 넘쳐 흐르는 미추홀구 도화지구, 제물포스마트타운... ",
-"pubDate": "Thu, 12 Aug 2021 02:03:00 +0900"
-
-},
-{
 "title": "“ICT 등 활용 스마트시티… 지능화된 기반시설 갖춰”",
 "originallink": "http://www.segye.com/content/html/2021/08/11/20210811513382.html?OutUrl=naver",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003609244",
 "description": "예컨대 걸음마부터 시작해 이제 성숙기 초입에 선 송도·<b>청라</b>지구는 대한민국 4차 산업혁명 요소들이 집결된 첨단패키징 도시로의 진면목을 보여주고 있다. 영종도는 공항경제와 맞물려 세계 신산업 허브로 도약할 숨겨진... ",
+"pubDate": "Thu, 12 Aug 2021 02:03:00 +0900"
+
+},
+{
+"title": "토지 공급부터 주거공간까지… ‘뉴노멀 전략’ 세운다",
+"originallink": "http://www.segye.com/content/html/2021/08/11/20210811513330.html?OutUrl=naver",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003609242",
+"description": "검단 넥스트시티, <b>청라</b>지구, 검암역세권, 김포한강신도시 등의 대규모 배후도시를 둬 풍부한 비즈니스 여건을 갖췄다. 원도심에 새로운 생명을 불어넣어 활기가 넘쳐 흐르는 미추홀구 도화지구, 제물포스마트타운... ",
 "pubDate": "Thu, 12 Aug 2021 02:03:00 +0900"
 
 },
@@ -234,14 +242,6 @@
 "link": "http://www.kyeongin.com/main/view.php?key=20210811010002314",
 "description": "인천시 관계자는 &quot;2019년 타당성 용역 결과가 있지만, 송도·<b>청라</b> 지역에 민간병원 조성이 추진되는 등 현재 여건이 변화한 상황&quot;이라며 &quot;인천 각 군·구 의견과 자문위원회 논의 등을 통해 입지 후보지들을 검토할 예정... ",
 "pubDate": "Wed, 11 Aug 2021 22:00:00 +0900"
-
-},
-{
-"title": "보령시, 찾아가는 주민자치 아카데미 운영",
-"originallink": "http://www.ccdn.co.kr/news/articleView.html?idxno=717672",
-"link": "http://www.ccdn.co.kr/news/articleView.html?idxno=717672",
-"description": "주민자치 아카데미는 11일 주교면을 시작으로 18일에는 대천5동과 <b>청라</b>면, 26일에는 남포면, 10월 5일에는 주포면, 10월 13일에는 성주면, 11월 4일에는 대천1동에서 각각 진행한다. 교육은 (사)평생학습공동체 오만의... ",
-"pubDate": "Wed, 11 Aug 2021 19:58:00 +0900"
 
 }
 ]
