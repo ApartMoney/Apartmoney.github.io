@@ -1,9 +1,33 @@
 {
-"lastBuildDate": "Sun, 12 Sep 2021 17:30:04 +0900",
-"total": 156291,
+"lastBuildDate": "Sun, 12 Sep 2021 17:40:03 +0900",
+"total": 156294,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "'역전 우승' 서요섭, 시즌 첫 다승자",
+"originallink": "https://www.hankyung.com/sports/article/202109129443i",
+"link": "https://sports.news.naver.com/news.nhn?oid=015&aid=0004603849",
+"description": "서요섭은 12일 인천 베어즈베스트 <b>청라</b>GC(파71)에서 열린 신한동해오픈(총상금 14억원)에서 2타를 줄여 최종합계 15언더파 268타로 우승을 차지했다. 2위 조민규(33)와는 1타 차였다. 서요섭은 지난달 KPGA 선수권대회에... ",
+"pubDate": "Sun, 12 Sep 2021 17:38:00 +0900"
+
+},
+{
+"title": "[종합] 서요섭, 코리안 투어 신한동해오픈 역전 우승…시즌 첫 2승·통산 3승...",
+"originallink": "http://www.viva100.com/main/view.php?key=20210912010003408",
+"link": "http://www.viva100.com/main/view.php?key=20210912010003408",
+"description": "서요섭은 12일 인천 베어즈베스트 <b>청라</b> 골프클럽(파 71·6938야드)에서 열린 대회 마지막 날 4라운드에서 버디 6개, 더블보기 1개, 보기 2개로 2언더파 69타를 쳐 최종합계 15언더파 269타를 기록해 우승트로피를 품에... ",
+"pubDate": "Sun, 12 Sep 2021 17:38:00 +0900"
+
+},
+{
+"title": "서요섭, 신한동해오픈서 역전 우승하며 시즌 첫 다승자 등극…동향 선배 조민...",
+"originallink": "http://www.sportsseoul.com/news/read/1062943?ref=naver",
+"link": "https://sports.news.naver.com/news.nhn?oid=468&aid=0000788976",
+"description": "출처|JTBC골프 서요섭(25·DB손해보험)이 12일 인천 베어즈베스트 <b>청라</b> 골프클럽(파71·6938야드)에서 열린 한국프로골프(KPGA) 코리안투어 신한동해오픈(총상금 14억원) 최종 라운드에서 역전 우승을 차지하며 시즌 첫... ",
+"pubDate": "Sun, 12 Sep 2021 17:29:00 +0900"
+
+},
 {
 "title": "서요섭, ‘한국의 켑카’ 이름값 했다…메이저급 대회 ‘2연승’",
 "originallink": "http://news.heraldcorp.com/view.php?ud=20210912000223",
@@ -21,10 +45,10 @@
 
 },
 {
-"title": "[포토] 서요섭 '한달만에 우승 추가'",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02089366629179464",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035790",
-"description": "12일 경기 인천에 위치한 베어즈베스트 <b>청라</b>GC USA-오스트랄아시아 코스(파71/ 6,938야드)에서 2021 시즌 KPGA 코리안투어 ‘제37회 신한동해오픈(총상금 14억원, 우승상금 2억5천2백만원)’ 최종라운드가 열렸다.... ",
+"title": "서요섭 시즌 첫 다승 영광…뒷심 발휘 배상문 공동 6위 마무리",
+"originallink": "https://sports.donga.com/article/all/20210912/109215127/1",
+"link": "https://sports.news.naver.com/news.nhn?oid=382&aid=0000932830",
+"description": "12일 인천 베어즈베스트 <b>청라</b> 골프클럽(파71)에서 열린 ‘제37회 신한동해오픈’(총상금 14억 원) 최종 4라운드에서 버디 6개와 보기 2개, 더블보기 1개를 묶어 2타를 줄이고 최종합계 15언더파 269타로 우승상금... ",
 "pubDate": "Sun, 12 Sep 2021 17:24:00 +0900"
 
 },
@@ -37,6 +61,14 @@
 
 },
 {
+"title": "[포토] 서요섭 '4일 연속 60대 타수로 역전 우승'",
+"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02086086629179464",
+"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035789",
+"description": "12일 경기 인천에 위치한 베어즈베스트 <b>청라</b>GC USA-오스트랄아시아 코스(파71/ 6,938야드)에서 2021 시즌 KPGA 코리안투어 ‘제37회 신한동해오픈(총상금 14억원, 우승상금 2억5천2백만원)’ 최종라운드가 열렸다.... ",
+"pubDate": "Sun, 12 Sep 2021 17:24:00 +0900"
+
+},
+{
 "title": "'줄버디로 공동 6위' 오랜만에 배상문이 돌아왔다",
 "originallink": "http://jtbcgolf.joins.com/news/news_view.asp?ns1=39658",
 "link": "https://sports.news.naver.com/news.nhn?oid=470&aid=0000011878",
@@ -45,17 +77,9 @@
 
 },
 {
-"title": "서요섭 시즌 첫 다승 영광…뒷심 발휘 배상문 공동 6위 마무리",
-"originallink": "https://sports.donga.com/article/all/20210912/109215127/1",
-"link": "https://sports.news.naver.com/news.nhn?oid=382&aid=0000932830",
-"description": "12일 인천 베어즈베스트 <b>청라</b> 골프클럽(파71)에서 열린 ‘제37회 신한동해오픈’(총상금 14억 원) 최종 4라운드에서 버디 6개와 보기 2개, 더블보기 1개를 묶어 2타를 줄이고 최종합계 15언더파 269타로 우승상금... ",
-"pubDate": "Sun, 12 Sep 2021 17:24:00 +0900"
-
-},
-{
-"title": "[포토] 서요섭 '4일 연속 60대 타수로 역전 우승'",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02086086629179464",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035789",
+"title": "[포토] 서요섭 '한달만에 우승 추가'",
+"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02089366629179464",
+"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035790",
 "description": "12일 경기 인천에 위치한 베어즈베스트 <b>청라</b>GC USA-오스트랄아시아 코스(파71/ 6,938야드)에서 2021 시즌 KPGA 코리안투어 ‘제37회 신한동해오픈(총상금 14억원, 우승상금 2억5천2백만원)’ 최종라운드가 열렸다.... ",
 "pubDate": "Sun, 12 Sep 2021 17:24:00 +0900"
 
@@ -69,14 +93,6 @@
 
 },
 {
-"title": "[포토] 서요섭 '무거운 트로피에도 환한 미소'",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02076246629179464",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035786",
-"description": "12일 경기 인천에 위치한 베어즈베스트 <b>청라</b>GC USA-오스트랄아시아 코스(파71/ 6,938야드)에서 2021 시즌 KPGA 코리안투어 ‘제37회 신한동해오픈(총상금 14억원, 우승상금 2억5천2백만원)’ 최종라운드가 열렸다.... ",
-"pubDate": "Sun, 12 Sep 2021 17:20:00 +0900"
-
-},
-{
 "title": "[포토] 서요섭 '큰 대회에 강하다'",
 "originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02079526629179464",
 "link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035787",
@@ -85,11 +101,11 @@
 
 },
 {
-"title": "[포토] 서요섭 '시즌 두번째 짜릿한 트로피 키스'",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02072966629179464",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035785",
+"title": "[포토] 서요섭 '무거운 트로피에도 환한 미소'",
+"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02076246629179464",
+"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035786",
 "description": "12일 경기 인천에 위치한 베어즈베스트 <b>청라</b>GC USA-오스트랄아시아 코스(파71/ 6,938야드)에서 2021 시즌 KPGA 코리안투어 ‘제37회 신한동해오픈(총상금 14억원, 우승상금 2억5천2백만원)’ 최종라운드가 열렸다.... ",
-"pubDate": "Sun, 12 Sep 2021 17:19:00 +0900"
+"pubDate": "Sun, 12 Sep 2021 17:20:00 +0900"
 
 },
 {
@@ -101,17 +117,25 @@
 
 },
 {
-"title": "[포토] 서요섭 '격렬한 축하세례에 감동'",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02066406629179464",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035783",
+"title": "[포토] 서요섭 '시즌 두번째 짜릿한 트로피 키스'",
+"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02072966629179464",
+"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035785",
 "description": "12일 경기 인천에 위치한 베어즈베스트 <b>청라</b>GC USA-오스트랄아시아 코스(파71/ 6,938야드)에서 2021 시즌 KPGA 코리안투어 ‘제37회 신한동해오픈(총상금 14억원, 우승상금 2억5천2백만원)’ 최종라운드가 열렸다.... ",
-"pubDate": "Sun, 12 Sep 2021 17:18:00 +0900"
+"pubDate": "Sun, 12 Sep 2021 17:19:00 +0900"
 
 },
 {
 "title": "[포토] 서요섭 '캐디와 승리의 하이파이브'",
 "originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02063126629179464",
 "link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035782",
+"description": "12일 경기 인천에 위치한 베어즈베스트 <b>청라</b>GC USA-오스트랄아시아 코스(파71/ 6,938야드)에서 2021 시즌 KPGA 코리안투어 ‘제37회 신한동해오픈(총상금 14억원, 우승상금 2억5천2백만원)’ 최종라운드가 열렸다.... ",
+"pubDate": "Sun, 12 Sep 2021 17:18:00 +0900"
+
+},
+{
+"title": "[포토] 서요섭 '격렬한 축하세례에 감동'",
+"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02066406629179464",
+"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035783",
 "description": "12일 경기 인천에 위치한 베어즈베스트 <b>청라</b>GC USA-오스트랄아시아 코스(파71/ 6,938야드)에서 2021 시즌 KPGA 코리안투어 ‘제37회 신한동해오픈(총상금 14억원, 우승상금 2억5천2백만원)’ 최종라운드가 열렸다.... ",
 "pubDate": "Sun, 12 Sep 2021 17:18:00 +0900"
 
@@ -158,9 +182,9 @@
 },
 {
 "title": "&quot;끝까지 긴장늦추지 않았다&quot; 장하나, 메이저대회에서 와이어투와이어 우승......",
-"originallink": "http://sports.chosun.com/news/ntype.htm?id=202109130100094080006035&servicedate=20210912",
+"originallink": "http://sports.chosun.com/news/ntype.htm?id=202109130100094240006044&servicedate=20210912",
 "link": "https://sports.news.naver.com/news.nhn?oid=076&aid=0003778167",
-"description": "한편, 같은날 인천 베어즈베스트 <b>청라</b> 골프클럽(파71)에서 열린 KPGA 코리안투어 신한동해오픈(총상금 14억원)에서는 서요섭(25)이 역전 우승을 차지했다. 서요섭은 4라운드에서 버디 6개와 보기 2개, 더블보기... ",
+"description": "한편, 같은날 인천 베어즈베스트 <b>청라</b> 골프클럽(파71)에서 열린 KPGA 코리안투어 신한동해오픈(총상금 14억원)에서는 서요섭(25)이 역전 우승을 차지했다. 우승상금은 2억5200만원. 서요섭은 4라운드에서 버디 6개와... ",
 "pubDate": "Sun, 12 Sep 2021 17:11:00 +0900"
 
 },
@@ -218,30 +242,6 @@
 "link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035770",
 "description": "12일 경기 인천에 위치한 베어즈베스트 <b>청라</b>GC USA-오스트랄아시아 코스(파71/ 6,938야드)에서 2021 시즌 KPGA 코리안투어 ‘제37회 신한동해오픈(총상금 14억원, 우승상금 2억5천2백만원)’ 최종라운드가 열렸다.... ",
 "pubDate": "Sun, 12 Sep 2021 17:08:00 +0900"
-
-},
-{
-"title": "[포토] 서요섭 '우승 상금이 무려 2억이 넘어요'",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02017206629179464",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035765",
-"description": "12일 경기 인천에 위치한 베어즈베스트 <b>청라</b>GC USA-오스트랄아시아 코스(파71/ 6,938야드)에서 2021 시즌 KPGA 코리안투어 ‘제37회 신한동해오픈(총상금 14억원, 우승상금 2억5천2백만원)’ 최종라운드가 열렸다.... ",
-"pubDate": "Sun, 12 Sep 2021 16:57:00 +0900"
-
-},
-{
-"title": "[포토] 홍재경 아나운서의 똑소리 나는 진행",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02010646629179464",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035763",
-"description": "12일 경기 인천에 위치한 베어즈베스트 <b>청라</b>GC USA-오스트랄아시아 코스(파71/ 6,938야드)에서 2021 시즌 KPGA 코리안투어 ‘제37회 신한동해오픈(총상금 14억원, 우승상금 2억5천2백만원)’ 최종라운드가 열렸다.... ",
-"pubDate": "Sun, 12 Sep 2021 16:56:00 +0900"
-
-},
-{
-"title": "[포토] 홀인원 수상하는 최이삭",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=02013926629179464",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005035764",
-"description": "12일 경기 인천에 위치한 베어즈베스트 <b>청라</b>GC USA-오스트랄아시아 코스(파71/ 6,938야드)에서 2021 시즌 KPGA 코리안투어 ‘제37회 신한동해오픈(총상금 14억원, 우승상금 2억5천2백만원)’ 최종라운드가 열렸다.... ",
-"pubDate": "Sun, 12 Sep 2021 16:56:00 +0900"
 
 }
 ]
