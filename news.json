@@ -1,9 +1,17 @@
 {
-"lastBuildDate": "Fri, 22 Oct 2021 00:10:02 +0900",
-"total": 164582,
+"lastBuildDate": "Fri, 22 Oct 2021 00:20:02 +0900",
+"total": 164583,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "인천시, '인천공항철도 이용' 영종주민…&quot;환승할인 혜택 받는다&quot;",
+"originallink": "http://www.cstimes.com/news/articleView.html?idxno=478119",
+"link": "http://www.cstimes.com/news/articleView.html?idxno=478119",
+"description": "이에 따라 <b>청라</b>역까지는 1850원을 부담하면 되나 영종지역으로 넘어가면 이러한 혜택을 받지 못해 <b>청라</b>역에서 1개 구간 차이인 영종역의 경우 900원이 추가된 2750원을 부담해야 한다. 그동안 인천시는 중앙정부에... ",
+"pubDate": "Fri, 22 Oct 2021 00:16:00 +0900"
+
+},
 {
 "title": "[KPGA] 김민규, '하나은행 인비테이셔널' 1R 단독 선두",
 "originallink": "http://www.wolyo.co.kr/news/articleView.html?idxno=124445",
@@ -13,26 +21,10 @@
 
 },
 {
-"title": "[KPGA] 위기에 강한 박상현",
-"originallink": "http://www.wolyo.co.kr/news/articleView.html?idxno=124443",
-"link": "http://www.wolyo.co.kr/news/articleView.html?idxno=124443",
-"description": "［월요신문=］21일 인천 베어즈베스트 <b>청라</b> GC(파71·7,208야드)에서 열린 KPGA 투어 '하나은행 인비테이셔널(총상금 10억원, 우승상금 2억원)' 1라운드 경기, 박상현(38,동아제약)이 위기상황에서도 안정적인 샷을... ",
-"pubDate": "Thu, 21 Oct 2021 22:36:00 +0900"
-
-},
-{
 "title": "[KPGA] 그린 살피는 이형준",
 "originallink": "http://www.wolyo.co.kr/news/articleView.html?idxno=124440",
 "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=124440",
 "description": "［월요신문=］21일 인천 베어즈베스트 <b>청라</b> GC(파71·7,208야드)에서 열린 KPGA 투어 '하나은행 인비테이셔널(총상금 10억원, 우승상금 2억원)' 1라운드 경기에서 이형준(29,웰컴저축은행)이 그린을 살피고 있다.",
-"pubDate": "Thu, 21 Oct 2021 22:36:00 +0900"
-
-},
-{
-"title": "[KPGA] 이태훈, '안정적인 첫 티샷'",
-"originallink": "http://www.wolyo.co.kr/news/articleView.html?idxno=124441",
-"link": "http://www.wolyo.co.kr/news/articleView.html?idxno=124441",
-"description": "［월요신문=］21일 인천 베어즈베스트 <b>청라</b> GC(파71·7,208야드)에서 열린 KPGA 투어 '하나은행 인비테이셔널(총상금 10억원, 우승상금 2억원)' 1라운드 경기, 이태훈(31,DB손해보험)이 1번 홀에서 힘차게 티샷을... ",
 "pubDate": "Thu, 21 Oct 2021 22:36:00 +0900"
 
 },
@@ -53,10 +45,26 @@
 
 },
 {
+"title": "[KPGA] 위기에 강한 박상현",
+"originallink": "http://www.wolyo.co.kr/news/articleView.html?idxno=124443",
+"link": "http://www.wolyo.co.kr/news/articleView.html?idxno=124443",
+"description": "［월요신문=］21일 인천 베어즈베스트 <b>청라</b> GC(파71·7,208야드)에서 열린 KPGA 투어 '하나은행 인비테이셔널(총상금 10억원, 우승상금 2억원)' 1라운드 경기, 박상현(38,동아제약)이 위기상황에서도 안정적인 샷을... ",
+"pubDate": "Thu, 21 Oct 2021 22:36:00 +0900"
+
+},
+{
 "title": "[KPGA] 벙커에서 탈출하는 이재경",
 "originallink": "http://www.wolyo.co.kr/news/articleView.html?idxno=124444",
 "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=124444",
 "description": "［월요신문=］21일 인천 베어즈베스트 <b>청라</b> GC(파71·7,208야드)에서 열린 KPGA 투어 '하나은행 인비테이셔널(총상금 10억원, 우승상금 2억원)' 1라운드 경기에서 이재경(22,CJ오쇼핑)이 벙커에서 탈출을 하고 있다.",
+"pubDate": "Thu, 21 Oct 2021 22:36:00 +0900"
+
+},
+{
+"title": "[KPGA] 이태훈, '안정적인 첫 티샷'",
+"originallink": "http://www.wolyo.co.kr/news/articleView.html?idxno=124441",
+"link": "http://www.wolyo.co.kr/news/articleView.html?idxno=124441",
+"description": "［월요신문=］21일 인천 베어즈베스트 <b>청라</b> GC(파71·7,208야드)에서 열린 KPGA 투어 '하나은행 인비테이셔널(총상금 10억원, 우승상금 2억원)' 1라운드 경기, 이태훈(31,DB손해보험)이 1번 홀에서 힘차게 티샷을... ",
 "pubDate": "Thu, 21 Oct 2021 22:36:00 +0900"
 
 },
@@ -234,14 +242,6 @@
 "link": "https://sports.news.naver.com/news.nhn?oid=003&aid=0010784883",
 "description": "김민규는 21일 인천 베어즈베스트<b>청라</b>GC(파71)에서 열린 대회 1라운드에서 버디 9개, 보기 1개를 쳐 8언더파 63타를 기록했다. 기분 좋은 출발을 한 김민규는 내친김에 KPGA 코리안투어 첫 우승에 도전한다. 2015년 역대... ",
 "pubDate": "Thu, 21 Oct 2021 19:03:00 +0900"
-
-},
-{
-"title": "'젊은 피' 김민규, KPGA '하나은행 인비테이셔널' 1R 단독선두...8언더파",
-"originallink": "http://www.getnews.co.kr/news/articleView.html?idxno=555833",
-"link": "http://www.getnews.co.kr/news/articleView.html?idxno=555833",
-"description": "김민규는 21일 인천 베어즈베스트 <b>청라</b> 골프클럽(파71)에서 열린 1라운드에서 버디 9개와 보기 1개를 묶어 8언더파 63타를 적어내며 공동 2위 그룹을 2타 차로 따돌리고 단독선두에 올랐다. 김민규는 15세 때 최연소... ",
-"pubDate": "Thu, 21 Oct 2021 19:00:00 +0900"
 
 }
 ]
