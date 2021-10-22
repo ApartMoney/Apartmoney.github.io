@@ -1,5 +1,5 @@
 {
-"lastBuildDate": "Fri, 22 Oct 2021 17:10:02 +0900",
+"lastBuildDate": "Fri, 22 Oct 2021 17:20:02 +0900",
 "total": 164739,
 "start": 1,
 "display": 30,
@@ -37,18 +37,18 @@
 
 },
 {
-"title": "[포토] 그린 살피는 문도엽",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01643286629215544",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066914",
-"description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 문도엽이 11번홀 경기를 펼치고 있다.",
-"pubDate": "Fri, 22 Oct 2021 17:06:00 +0900"
-
-},
-{
 "title": "[포토] 문도엽 '신들린 샷으로 2위까지 단숨에'",
 "originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01640006629215544",
 "link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066913",
 "description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 문도엽이 10번홀 경기를 펼치고 있다.",
+"pubDate": "Fri, 22 Oct 2021 17:06:00 +0900"
+
+},
+{
+"title": "[포토] 그린 살피는 문도엽",
+"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01643286629215544",
+"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066914",
+"description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 문도엽이 11번홀 경기를 펼치고 있다.",
 "pubDate": "Fri, 22 Oct 2021 17:06:00 +0900"
 
 },
@@ -77,6 +77,14 @@
 
 },
 {
+"title": "[포토] 함정우 '힘차게 날린 티샷'",
+"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01623606629215544",
+"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066907",
+"description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 함정우가 1번홀 경기를 펼치고 있다.",
+"pubDate": "Fri, 22 Oct 2021 17:04:00 +0900"
+
+},
+{
 "title": "[포토] 김태훈 '홀컵 지나치는 볼'",
 "originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01620326629215544",
 "link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066906",
@@ -90,22 +98,6 @@
 "link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066908",
 "description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 함정우가 4번홀 경기를 펼치고 있다.",
 "pubDate": "Fri, 22 Oct 2021 17:04:00 +0900"
-
-},
-{
-"title": "[포토] 함정우 '힘차게 날린 티샷'",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01623606629215544",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066907",
-"description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 함정우가 1번홀 경기를 펼치고 있다.",
-"pubDate": "Fri, 22 Oct 2021 17:04:00 +0900"
-
-},
-{
-"title": "[포토] 김태훈 '버디를 잡아 보자'",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01613766629215544",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066904",
-"description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 김태훈이 4번홀 경기를 펼치고 있다.",
-"pubDate": "Fri, 22 Oct 2021 17:03:00 +0900"
 
 },
 {
@@ -133,6 +125,14 @@
 
 },
 {
+"title": "[포토] 김태훈 '버디를 잡아 보자'",
+"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01613766629215544",
+"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066904",
+"description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 김태훈이 4번홀 경기를 펼치고 있다.",
+"pubDate": "Fri, 22 Oct 2021 17:03:00 +0900"
+
+},
+{
 "title": "[포토] 김태훈 '신중하게'",
 "originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01600646629215544",
 "link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066900",
@@ -149,17 +149,17 @@
 
 },
 {
-"title": "[포토] 김태훈 '호쾌한 드라이버샷'",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01603926629215544",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066901",
+"title": "[포토] 김태훈 '시작 해보자'",
+"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01597366629215544",
+"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066899",
 "description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 김태훈이 1번홀 경기를 펼치고 있다.",
 "pubDate": "Fri, 22 Oct 2021 17:02:00 +0900"
 
 },
 {
-"title": "[포토] 김태훈 '시작 해보자'",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01597366629215544",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066899",
+"title": "[포토] 김태훈 '호쾌한 드라이버샷'",
+"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01603926629215544",
+"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066901",
 "description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 김태훈이 1번홀 경기를 펼치고 있다.",
 "pubDate": "Fri, 22 Oct 2021 17:02:00 +0900"
 
@@ -189,18 +189,18 @@
 
 },
 {
-"title": "'젊은 피' 김민규, KPGA '하나은행 인비테이셔널' 이틀 연속 선두 지켜",
-"originallink": "http://www.getnews.co.kr/news/articleView.html?idxno=556008",
-"link": "http://www.getnews.co.kr/news/articleView.html?idxno=556008",
-"description": "김민규는 22일 인천 베어즈베스트 <b>청라</b> 골프클럽(파71)에서 열린 대회 2라운드에서 버디 6개를 잡아냈지만 더블보기와 보기를 한개씩 범하며 3타를 줄였다. 1라운드를 단독선두로 마쳤던 김민규는 이로써 중간합계... ",
+"title": "[포토] 코스 공략 상의하는 김승혁",
+"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01580966629215544",
+"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066892",
+"description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 김승혁이 1번홀 경기를 펼치고 있다.",
 "pubDate": "Fri, 22 Oct 2021 17:00:00 +0900"
 
 },
 {
-"title": "[포토] 김비오 '파워 티샷을 날린다'",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01577686629215544",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066891",
-"description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 김비오가 1번홀 경기를 펼치고 있다.",
+"title": "'젊은 피' 김민규, KPGA '하나은행 인비테이셔널' 이틀 연속 선두 지켜",
+"originallink": "http://www.getnews.co.kr/news/articleView.html?idxno=556008",
+"link": "http://www.getnews.co.kr/news/articleView.html?idxno=556008",
+"description": "김민규는 22일 인천 베어즈베스트 <b>청라</b> 골프클럽(파71)에서 열린 대회 2라운드에서 버디 6개를 잡아냈지만 더블보기와 보기를 한개씩 범하며 3타를 줄였다. 1라운드를 단독선두로 마쳤던 김민규는 이로써 중간합계... ",
 "pubDate": "Fri, 22 Oct 2021 17:00:00 +0900"
 
 },
@@ -213,19 +213,11 @@
 
 },
 {
-"title": "[포토] 코스 공략 상의하는 김승혁",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01580966629215544",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066892",
-"description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 김승혁이 1번홀 경기를 펼치고 있다.",
+"title": "[포토] 김비오 '파워 티샷을 날린다'",
+"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01577686629215544",
+"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066891",
+"description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 김비오가 1번홀 경기를 펼치고 있다.",
 "pubDate": "Fri, 22 Oct 2021 17:00:00 +0900"
-
-},
-{
-"title": "[포토] 그린 살피는 고석완",
-"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01567846629215544",
-"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066889",
-"description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 고석완이 4번홀 경기를 펼치고 있다.",
-"pubDate": "Fri, 22 Oct 2021 16:59:00 +0900"
 
 },
 {
@@ -241,6 +233,14 @@
 "originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01564566629215544",
 "link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066886",
 "description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 고석완이 1번홀 경기를 펼치고 있다.",
+"pubDate": "Fri, 22 Oct 2021 16:59:00 +0900"
+
+},
+{
+"title": "[포토] 그린 살피는 고석완",
+"originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01567846629215544",
+"link": "https://sports.news.naver.com/news.nhn?oid=018&aid=0005066889",
+"description": "22일 인천에 위치한 베어즈 베스트 <b>청라</b> GC(파71/ 7,208야드)에서 2021 시즌 KPGA 코리안투어 ‘하나은행 인비테이셔널(총상금 10억원/ 우승상금 2억원)’ 2라운드가 열렸다. 고석완이 4번홀 경기를 펼치고 있다.",
 "pubDate": "Fri, 22 Oct 2021 16:59:00 +0900"
 
 }
