@@ -1,9 +1,17 @@
 {
-"lastBuildDate": "Mon, 01 Nov 2021 10:40:02 +0900",
-"total": 165966,
+"lastBuildDate": "Mon, 01 Nov 2021 10:50:03 +0900",
+"total": 165967,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "인천<b>청라</b>국제도서관, 11월 비대면 특별강의 진행",
+"originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202111011012172640411",
+"link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202111011012172640411",
+"description": "인천<b>청라</b>국제도서관은 11월 △프로페셔널 스튜던트, 위기시대의 생존전략 △우리 아이 문해력과 독서 흥미 어떻게 높일까? 를 주제로 비대면 특별강의를 진행한다고 1일 밝혔다. 김용섭 날카로운상상력연구소 소장은... ",
+"pubDate": "Mon, 01 Nov 2021 10:42:00 +0900"
+
+},
 {
 "title": "지하철 연결·사거리 코너 상권…강서구 '챔버 아케이드' 공급",
 "originallink": "http://www.joseilbo.com/news/news_read.php?uid=436981&class=16&grp=",
@@ -221,14 +229,6 @@
 
 },
 {
-"title": "'5명 10+ 득점' KB, 하나원큐 완파... 3연승",
-"originallink": "http://www.rookie.co.kr/news/articleView.html?idxno=66124",
-"link": "https://sports.news.naver.com/news.nhn?oid=398&aid=0000050758",
-"description": "청주 KB스타즈는 31일 하나원큐<b>청라</b>체육관에서 열린 삼성생명 2021~2022 여자프로농구 정규리그 1라운드 부천 하나원큐와의 경기에서 92-75로 이겼다. KB는 박지수가 짧은 출전 시간(25분 42초)에도 불구하고 트리플... ",
-"pubDate": "Sun, 31 Oct 2021 20:04:00 +0900"
-
-},
-{
 "title": "기둥 박지수 허리 아팠다는데, 결국은 트리플더블급 활약",
 "originallink": "http://sports.chosun.com/news/ntype.htm?id=202111010100003170014684&servicedate=20211031",
 "link": "https://sports.news.naver.com/news.nhn?oid=076&aid=0003795788",
@@ -237,11 +237,11 @@
 
 },
 {
-"title": "[BK 리뷰] '92점 폭발' KB스타즈, 하나원큐에 낙승...개막 3연승 성공",
-"originallink": "http://basketkorea.com/news/newsview.php?ncode=1065609973966774",
-"link": "https://sports.news.naver.com/news.nhn?oid=351&aid=0000055130",
-"description": "청주 KB스타즈는 31일 인천 <b>청라</b> 하나원큐 체육관에서 벌어진 2021-22 여자프로농구에서 심성영, 김민정, 최희진 활약을 묶어 신지현, 양인영이 분전한 부천 하나원큐를 92-75로 이겼다. 전반전 불안한 경기력으로 9점을... ",
-"pubDate": "Sun, 31 Oct 2021 20:02:00 +0900"
+"title": "'5명 10+ 득점' KB, 하나원큐 완파... 3연승",
+"originallink": "http://www.rookie.co.kr/news/articleView.html?idxno=66124",
+"link": "https://sports.news.naver.com/news.nhn?oid=398&aid=0000050758",
+"description": "청주 KB스타즈는 31일 하나원큐<b>청라</b>체육관에서 열린 삼성생명 2021~2022 여자프로농구 정규리그 1라운드 부천 하나원큐와의 경기에서 92-75로 이겼다. KB는 박지수가 짧은 출전 시간(25분 42초)에도 불구하고 트리플... ",
+"pubDate": "Sun, 31 Oct 2021 20:04:00 +0900"
 
 }
 ]
