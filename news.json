@@ -1,9 +1,41 @@
 {
-"lastBuildDate": "Thu, 04 Nov 2021 14:50:02 +0900",
-"total": 166080,
+"lastBuildDate": "Thu, 04 Nov 2021 15:00:02 +0900",
+"total": 166084,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "여자프로농구, 11일 2라운드 경기부터 관중 100% 입장",
+"originallink": "https://www.asiatoday.co.kr/view.php?key=20211104010003100",
+"link": "https://www.asiatoday.co.kr/view.php?key=20211104010003100",
+"description": "하나원큐의 임시 홈 경기장인 하나원큐 <b>청라</b>체육관 경기는 12월까지 무관중으로 진행된다. 경기장 내 취식 및 육성 응원이 금지되고 신종 코로나바이러스 감염증(코로나19) 백신 접종 완료자, 경기 시작일 48시간... ",
+"pubDate": "Thu, 04 Nov 2021 14:54:00 +0900"
+
+},
+{
+"title": "WKBL, 11일부터 관중 입장 100% 허용",
+"originallink": "https://www.vop.co.kr/A00001601854.html",
+"link": "https://www.vop.co.kr/A00001601854.html",
+"description": "백신 미접종자도 경기 시작일 48시간 이내 PCR 검사 음성 확인자, 18세 이하 미성년, 의사 소견서를 통해 방역 당국으로부터 접종 불가 확인을 받았다면 입장할 수 있다.단, 하나원큐는 임시 경기장(하나원큐 <b>청라</b>체육... ",
+"pubDate": "Thu, 04 Nov 2021 14:52:00 +0900"
+
+},
+{
+"title": "여자프로농구도 관중 100% 입장…11일 삼성생명-KB전부터",
+"originallink": "http://sports.khan.co.kr/news/sk_index.html?art_id=202111041451003&sec_id=530301&pt=nv",
+"link": "https://sports.news.naver.com/news.nhn?oid=144&aid=0000772031",
+"description": "하나원큐의 임시 홈 경기장인 하나원큐 <b>청라</b>체육관 경기는 다음달까지 무관중으로 진행된다. KB의 홈 경기도 오는 21일부터 관중 입장을 시작한다. 경기장 내 취식 및 육성 응원은 금지되고 입장권 예매는 WKBL 통합... ",
+"pubDate": "Thu, 04 Nov 2021 14:52:00 +0900"
+
+},
+{
+"title": "여자프로농구, 11일부터 관중 입장 100% 허용",
+"originallink": "http://www.maniareport.com/view.php?ud=2021110414445342365e8e941087_19",
+"link": "https://sports.news.naver.com/news.nhn?oid=425&aid=0000122951",
+"description": "하나원큐의 임시 홈 경기장인 하나원큐 <b>청라</b>체육관 경기는 12월까지 무관중으로 진행된다. 청주 KB의 홈 경기도 21일부터 관중 입장을 시작한다. 경기장 내 취식 및 육성 응원은 금지되고 입장권 예매는 WKBL 통합... ",
+"pubDate": "Thu, 04 Nov 2021 14:50:00 +0900"
+
+},
 {
 "title": "여자프로농구 관중석도 열린다…11일부터 100% 입장",
 "originallink": "https://www.nocutnews.co.kr/news/5651464",
@@ -69,18 +101,18 @@
 
 },
 {
-"title": "WKBL &quot;11일부터 백신 접종 완료자 한해 관중 입장 100% 허용&quot;",
-"originallink": "https://www.xportsnews.com/?ac=article_view&entry_id=1495319",
-"link": "https://sports.news.naver.com/news.nhn?oid=311&aid=0001368720",
-"description": "이어 &quot;단 하나원큐는 임시 경기장(하나원큐 <b>청라</b>체육관)을 활용함에 따라 12월까지 무관중 경기로 진행한다. 청주 KB스타즈도 지자체와의 조율을 통하여 21일 홈경기부터 관중 입장을 개시할 예정이다&quot;라고 덧붙였다.... ",
-"pubDate": "Thu, 04 Nov 2021 14:25:00 +0900"
-
-},
-{
 "title": "여자프로농구, 11일부터 관중 입장 100% 허용",
 "originallink": "http://yna.kr/AKR20211104112200007?did=1195m",
 "link": "https://sports.news.naver.com/news.nhn?oid=001&aid=0012770360",
 "description": "하나원큐의 임시 홈 경기장인 하나원큐 <b>청라</b>체육관 경기는 12월까지 무관중으로 진행된다. 청주 KB의 홈 경기도 21일부터 관중 입장을 시작한다. 경기장 내 취식 및 육성 응원은 금지되고 입장권 예매는 WKBL 통합... ",
+"pubDate": "Thu, 04 Nov 2021 14:25:00 +0900"
+
+},
+{
+"title": "WKBL &quot;11일부터 백신 접종 완료자 한해 관중 입장 100% 허용&quot;",
+"originallink": "https://www.xportsnews.com/?ac=article_view&entry_id=1495319",
+"link": "https://sports.news.naver.com/news.nhn?oid=311&aid=0001368720",
+"description": "이어 &quot;단 하나원큐는 임시 경기장(하나원큐 <b>청라</b>체육관)을 활용함에 따라 12월까지 무관중 경기로 진행한다. 청주 KB스타즈도 지자체와의 조율을 통하여 21일 홈경기부터 관중 입장을 개시할 예정이다&quot;라고 덧붙였다.... ",
 "pubDate": "Thu, 04 Nov 2021 14:25:00 +0900"
 
 },
@@ -210,38 +242,6 @@
 "link": "http://www.betanews.net:8080/article/1289019.html",
 "description": "▲ <b>청라</b> 한양수자인 디에스틴 투시도 ©한양 4차산업 핵심 업종 집적화…국제 비즈니스 거점 기대 서울행 지하철 연장, 대기업 밀집 등 ‘호재’ 대기 국제업무단지 옆 ‘<b>청라</b> 한양수자인 디에스틴’ 분양 앞둬 인천... ",
 "pubDate": "Thu, 04 Nov 2021 10:52:00 +0900"
-
-},
-{
-"title": "'99실' 오피스텔 수두룩…규제가 부추기는 '꼼수 분양'",
-"originallink": "https://view.asiae.co.kr/article/2021110410495183305",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0004994224",
-"description": "서울에서는 양천구 ‘더 넥스트 목동’, 성동구 ‘장한평역 퀀텀뷰’, ‘엘리아트 강동’, 인천시에서는 <b>청라</b>스위트클래스가 99실이었다. 성남 분당 ‘라포르테 블랑 서현’(95실), 대구 ‘두류역 자이’(86실), 서울... ",
-"pubDate": "Thu, 04 Nov 2021 10:49:00 +0900"
-
-},
-{
-"title": "롯데몰 송도, 이번엔 진짜 짓는다…벌써부터 들썩이는 유통 빅3 ‘송도 대전'...",
-"originallink": "http://news.heraldcorp.com/view.php?ud=20211104000079",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001908191",
-"description": "송도 개발이 지연되는 사이 신세계그룹에서는 스타필드 <b>청라</b>가 지난해 먼저 착공했다. 스타필드 <b>청라</b>는 야구단 SSG랜더스를 인수한 신세계의 돔구장 건립 가능성도 거론되는 지역이다. 신세계백화점은 현재 송도 개발에... ",
-"pubDate": "Thu, 04 Nov 2021 09:07:00 +0900"
-
-},
-{
-"title": "인천시 내년 예산규모 13조, 민생 회복과 미래 투자 집중",
-"originallink": "http://www.kmaeil.com/news/articleView.html?idxno=316330",
-"link": "http://www.kmaeil.com/news/articleView.html?idxno=316330",
-"description": "서울7호선 <b>청라</b>연장(1,207억 원) 및 인천1호선 검단연장(1,180억 원), 준공영제(1,491억 원) 등의 사업에 부족 재원을 지원하는 등 대중교통 기반 확충에 투자를 강화한다. 광역버스(34억 원), 도서지역 공영버스(71억 원) 등... ",
-"pubDate": "Thu, 04 Nov 2021 03:06:00 +0900"
-
-},
-{
-"title": "더블역세권 '벨라미 루원센텀시티', &quot;정주성·집객성 높아&quot;",
-"originallink": "https://www.safetynews.co.kr/news/articleView.html?idxno=208635",
-"link": "https://www.safetynews.co.kr/news/articleView.html?idxno=208635",
-"description": "또한 인천 2호선 가정역과 7호선 연장 루원시티역(예정)의 더블역세권 입지를 갖추고 있고 서울지하철 7호선 <b>청라</b> 연장선이 개통 시 교통여건이 더 개선될 전망이다. 벨라미 루원센텀시티 관계자는 &quot;<b>청라</b>와 가정을... ",
-"pubDate": "Thu, 04 Nov 2021 01:18:00 +0900"
 
 }
 ]
