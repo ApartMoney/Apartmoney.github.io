@@ -1,9 +1,41 @@
 {
-"lastBuildDate": "Fri, 12 Nov 2021 11:40:02 +0900",
-"total": 166503,
+"lastBuildDate": "Fri, 12 Nov 2021 11:50:02 +0900",
+"total": 166507,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "한국사업 키우는 GM…내년 1Q 쉐보레 타호‧GMC 시에라 출시",
+"originallink": "https://www.dailian.co.kr/news/view/1052234/?sc=Naver",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002547480",
+"description": "그는 “GMTCK는 200명의 신규 엔지니어 채용을 비롯해 디자인 센터 내 새로운 디지털 툴 및 고해상도 디스플레이 설비, <b>청라</b> 주행시험장 내 능동 안전 시험로 등 신규 테스트 시설, 사무실 리모델링 및 IT 툴 개선 등... ",
+"pubDate": "Fri, 12 Nov 2021 11:46:00 +0900"
+
+},
+{
+"title": "고령층 면역력 떨어져 확진 증가…&quot;대부분 돌파감염”",
+"originallink": "https://zdnet.co.kr/view/?no=20211112114451",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002239013",
+"description": "인천은 <b>청라</b>백세요양병원 142병상, 경기는 신갈백세요양병원 83병상 등 총 225병상을 추가 지정했다. 중대본 이기일 제1통제관은 12일 “11월1주 일평균 확진자 2천133명은 가운데 60세 이상이 29.5%”라며 “대부분... ",
+"pubDate": "Fri, 12 Nov 2021 11:46:00 +0900"
+
+},
+{
+"title": "수도권 준중증병상 추가확보 행정명령…52병상 확보",
+"originallink": "http://www.sporbiz.co.kr/news/articleView.html?idxno=601918",
+"link": "http://www.sporbiz.co.kr/news/articleView.html?idxno=601918",
+"description": "서울지역은 2개소 180병상(보라매요양병원 90병상·퍼스트요양병원 90병상)을 지정했고, 인천·경기 각 1개소 225병상(<b>청라</b>백세요양병원 142병상·신갈백세요양병원 83병상)을 지정했다. 수도권 700병상 이상 종합병원... ",
+"pubDate": "Fri, 12 Nov 2021 11:42:00 +0900"
+
+},
+{
+"title": "수도권 고령층 확진자 증가 감염병전담요양병원 4개소 추가지정",
+"originallink": "http://www.whosaeng.com/131647",
+"link": "http://www.whosaeng.com/131647",
+"description": "서울지역은 2개소 180병상(보라매요양병원 90병상, 퍼스트요양병원 90병상)을 지정하였고, 인천·경기 각 1개소 225병상(<b>청라</b>백세요양병원 142병상, 신갈백세요양병원 83병상)을 지정하였다. 소아․청소년 대상... ",
+"pubDate": "Fri, 12 Nov 2021 11:40:00 +0900"
+
+},
 {
 "title": "코로나19 유행 확산, 정부 &quot;고령층·소아청소년 의료·방역조치 강화&quot;",
 "originallink": "http://www.fnnews.com/news/202111121129340589",
@@ -37,14 +69,6 @@
 
 },
 {
-"title": "인천시 요소수 품귀현상 한고비 넘겨··· TF 구성",
-"originallink": "http://www.incheontoday.com/news/articleView.html?idxno=212887",
-"link": "http://www.incheontoday.com/news/articleView.html?idxno=212887",
-"description": "<b>청라</b>소각장은 하루 평균 3700리터, 송도소각장은 1700리터씩 요소수를 사용하고 있다. 연간 필요량은 <b>청라</b>소각장 90만리터, 송도소각장 55만리터이다. <b>청라</b>소각장은 오는 20일까지, 송도소각장은 향후 다음달 초까지... ",
-"pubDate": "Fri, 12 Nov 2021 11:24:00 +0900"
-
-},
-{
 "title": "GM, 2025년까지 한국에 전기차 10종 출시…'GMC 시에라' 내년 국내 투입",
 "originallink": "http://news.einfomax.co.kr/news/articleView.html?idxno=4183516",
 "link": "http://news.einfomax.co.kr/news/articleView.html?idxno=4183516",
@@ -53,7 +77,15 @@
 
 },
 {
-"title": "[속보]요양시설·병원 돌파감염 증가에 수도권 전담요양병원 4곳 추가 지정",
+"title": "인천시 요소수 품귀현상 한고비 넘겨··· TF 구성",
+"originallink": "http://www.incheontoday.com/news/articleView.html?idxno=212887",
+"link": "http://www.incheontoday.com/news/articleView.html?idxno=212887",
+"description": "<b>청라</b>소각장은 하루 평균 3700리터, 송도소각장은 1700리터씩 요소수를 사용하고 있다. 연간 필요량은 <b>청라</b>소각장 90만리터, 송도소각장 55만리터이다. <b>청라</b>소각장은 오는 20일까지, 송도소각장은 향후 다음달 초까지... ",
+"pubDate": "Fri, 12 Nov 2021 11:24:00 +0900"
+
+},
+{
+"title": "[속보]수도권 요양시설·병원 돌파감염 증가…전담요양병원 4곳 추가 지정",
 "originallink": "https://www.khan.co.kr/national/health-welfare/article/202111121119021",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003109791",
 "description": "정부는 이번에 서울지역 2개소 180개 병상(보라매요양병원 90개 병상, 퍼스트요양병원 90개 병상), 인천·경기 각 1개소 225개 병상(<b>청라</b>백세요양병원 142개 병상, 신갈백세요양병원 83개 병상)을 감염병전담요양병원... ",
@@ -125,18 +157,18 @@
 
 },
 {
-"title": "오피스텔도 최초 타이틀 내건 퍼스트 마케팅 경쟁 치열",
-"originallink": "http://www.newstomato.com/ReadNews.aspx?no=1086825&inflow=N",
-"link": "http://www.newstomato.com/ReadNews.aspx?no=1086825&inflow=N",
-"description": "한양은 11월 인천광역시 서구 <b>청라</b>국제금융단지 B5-2블록에 ‘<b>청라</b> 한양수자인 디에스틴’을 분양할 예정이다. 단지는 지상 최고 47층, 3개동, 전용면적 84㎡ 총 702실 규모다. 단지는 한양의 주택 브랜드 ‘수자인’... ",
-"pubDate": "Fri, 12 Nov 2021 09:50:00 +0900"
-
-},
-{
 "title": "예술놀이터 초록여우 '기후변화 새로고침 챌린지 노랫말 공모전' 수상자 발표",
 "originallink": "http://www.todaykorea.co.kr/news/articleView.html?idxno=294257",
 "link": "http://www.todaykorea.co.kr/news/articleView.html?idxno=294257",
 "description": "이어 우수상에는 인천<b>청라</b>초 4학년 윤라희, 인천구월서초 3학년 홍지석, 인천구월서초 3학년 안다엘, 인천석암초 1학년 정이연, 인천경원초 5학년 안수민 학생이 수상했다. 주최 측 관계자는 &quot;지역 청소년의 다양한 Ideas로... ",
+"pubDate": "Fri, 12 Nov 2021 09:50:00 +0900"
+
+},
+{
+"title": "오피스텔도 최초 타이틀 내건 퍼스트 마케팅 경쟁 치열",
+"originallink": "http://www.newstomato.com/ReadNews.aspx?no=1086825&inflow=N",
+"link": "http://www.newstomato.com/ReadNews.aspx?no=1086825&inflow=N",
+"description": "한양은 11월 인천광역시 서구 <b>청라</b>국제금융단지 B5-2블록에 ‘<b>청라</b> 한양수자인 디에스틴’을 분양할 예정이다. 단지는 지상 최고 47층, 3개동, 전용면적 84㎡ 총 702실 규모다. 단지는 한양의 주택 브랜드 ‘수자인’... ",
 "pubDate": "Fri, 12 Nov 2021 09:50:00 +0900"
 
 },
@@ -210,38 +242,6 @@
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=020&aid=0003393229",
 "description": "지난달 문을 연 인천 서구 <b>청라</b>국제도시 <b>청라</b>해변공원캠핑장이 인기다. 최근 기온이 뚝 떨어졌지만 캠핑장에 설치된 화로에 장작불을 피울 수 있는 데다 온수 샤워시설 등 다양한 부대시설을 갖췄다.",
 "pubDate": "Fri, 12 Nov 2021 03:04:00 +0900"
-
-},
-{
-"title": "[오늘의 경기]프로농구 外",
-"originallink": "https://www.donga.com/news/article/all/20211112/110207733/1",
-"link": "https://sports.news.naver.com/news.nhn?oid=020&aid=0003393147",
-"description": "▽프로농구 △LG-현대모비스(19시·창원체육관) ▽여자프로농구 △하나원큐-BNK(19시·인천 하나원큐<b>청라</b>체육관) ▽역도 전국주니어선수권대회(10시·서천군민체육관)",
-"pubDate": "Fri, 12 Nov 2021 03:02:00 +0900"
-
-},
-{
-"title": "스티브 키퍼 GMI 사장 “새 CUV 성공 확신한다”",
-"originallink": "http://www.rpm9.com/news/article.html?id=20211112090001",
-"link": "http://www.rpm9.com/news/article.html?id=20211112090001",
-"description": "키퍼 사장은 한국GM 부평공장, 창원공장, GMTCK <b>청라</b> 주행시험장 등 한국 사업장 내 주요 시설을 둘러보고 주요 제품 시운전을 진행하며, 한국 사업장의 진행되고 있는 투자 현황을 살폈다. 또한, 키퍼 사장은 올해... ",
-"pubDate": "Fri, 12 Nov 2021 00:48:00 +0900"
-
-},
-{
-"title": "인천시설공단, 상온경화형 노면표시 도입...비오는 밤에도 안전운전",
-"originallink": "https://www.kgdm.co.kr/news/articleView.html?idxno=803745",
-"link": "https://www.kgdm.co.kr/news/articleView.html?idxno=803745",
-"description": "인천시설공단이 <b>청라</b>국제도시 자동차전용도로(봉오대로)의 일부 구간에 '상온경화형 돌출형 노면표시 공법... 인천시설공단(이사장 김영분)이 기존 노면표시의 단점인 야간, 우천 시 시인성 감소 개선을 위해 <b>청라</b>국제도시... ",
-"pubDate": "Thu, 11 Nov 2021 22:10:00 +0900"
-
-},
-{
-"title": "인천 환경시민단체, 검단 3구역 중금속 등 토양오염 의혹 제기",
-"originallink": "http://www.joongboo.com/news/articleView.html?idxno=363511584",
-"link": "http://www.joongboo.com/news/articleView.html?idxno=363511584",
-"description": "기자회견에는 인천 범시민환경대책위원회, <b>청라</b> 그린포럼, 인천환경지도자연대, ㈔에버그린, 환경단체 글로벌에코넷, 인천 행·의정 감시네트워크, 기업 윤리경영을 위한 시민단체협의회, 수도권 매립지연장반대... ",
-"pubDate": "Thu, 11 Nov 2021 21:56:00 +0900"
 
 }
 ]
