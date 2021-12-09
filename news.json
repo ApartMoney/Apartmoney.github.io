@@ -1,21 +1,45 @@
 {
-"lastBuildDate": "Thu, 09 Dec 2021 21:20:02 +0900",
-"total": 167576,
+"lastBuildDate": "Thu, 09 Dec 2021 21:30:03 +0900",
+"total": 167579,
 "start": 1,
 "display": 30,
 "items": [
 {
-"title": "[포토] 김지영 '내가 끝냈어'",
-"originallink": "http://www.rookie.co.kr/news/articleView.html?idxno=68231",
-"link": "https://sports.news.naver.com/news.nhn?oid=398&aid=0000052617",
+"title": "'아쉬운 패배' 임근배 감독 &quot;교체 선수들 자신감 떨어졌다&quot;",
+"originallink": "http://www.rookie.co.kr/news/articleView.html?idxno=68234",
+"link": "https://sports.news.naver.com/news.nhn?oid=398&aid=0000052620",
+"description": "&quot;교체되어 들어간 선수들의 자신감이 떨어졌다.&quot; 용인 삼성생명 블루밍스는 9일 하나원큐<b>청라</b>체육관에서 열린 삼성생명 2021-2022 여자프로농구 정규리그 부천 하나원큐와의 경기에서 66-76으로 패했다. 삼성생명은 6승... ",
+"pubDate": "Thu, 09 Dec 2021 21:28:00 +0900"
+
+},
+{
+"title": "‘4Q 25-9’ <b>청라</b>에서의 마지막을 승리로 장식한 하나원큐!",
+"originallink": "",
+"link": "https://sports.news.naver.com/news.nhn?oid=065&aid=0000224339",
+"description": "하나원큐가 <b>청라</b>의 마지막 밤을 승리로 장식했다. 부천 하나원큐는 9일 하나글로벌캠퍼스 체육관에서 열린 삼성생명 2021~2022 여자프로농구 용인 삼성생명과의 경기에서 76-66으로 승리했다. 하나원큐는 <b>청라</b>에서... ",
+"pubDate": "Thu, 09 Dec 2021 21:25:00 +0900"
+
+},
+{
+"title": "[포토] 승리는 양인영과 신지현을 웃게 만든다",
+"originallink": "http://www.rookie.co.kr/news/articleView.html?idxno=68232",
+"link": "https://sports.news.naver.com/news.nhn?oid=398&aid=0000052618",
 "description": "9일 하나원큐 <b>청라</b>체육관에서 '삼성생명 2021~2022 여자프로농구' 부천 하나원큐와 용인 삼성생명의 경기가 열렸다. 하나원큐가 접전 끝에 76:66으로 승리하고 시즌 2승째를 거두었다.",
-"pubDate": "Thu, 09 Dec 2021 21:19:00 +0900"
+"pubDate": "Thu, 09 Dec 2021 21:20:00 +0900"
 
 },
 {
 "title": "[포토] 양인영 '2승이야'",
 "originallink": "http://www.rookie.co.kr/news/articleView.html?idxno=68229",
 "link": "https://sports.news.naver.com/news.nhn?oid=398&aid=0000052616",
+"description": "9일 하나원큐 <b>청라</b>체육관에서 '삼성생명 2021~2022 여자프로농구' 부천 하나원큐와 용인 삼성생명의 경기가 열렸다. 하나원큐가 접전 끝에 76:66으로 승리하고 시즌 2승째를 거두었다.",
+"pubDate": "Thu, 09 Dec 2021 21:19:00 +0900"
+
+},
+{
+"title": "[포토] 김지영 '내가 끝냈어'",
+"originallink": "http://www.rookie.co.kr/news/articleView.html?idxno=68231",
+"link": "https://sports.news.naver.com/news.nhn?oid=398&aid=0000052617",
 "description": "9일 하나원큐 <b>청라</b>체육관에서 '삼성생명 2021~2022 여자프로농구' 부천 하나원큐와 용인 삼성생명의 경기가 열렸다. 하나원큐가 접전 끝에 76:66으로 승리하고 시즌 2승째를 거두었다.",
 "pubDate": "Thu, 09 Dec 2021 21:19:00 +0900"
 
@@ -101,18 +125,18 @@
 
 },
 {
-"title": "[ST포토] 하나원큐 김지영, '내가 넣을게!'",
-"originallink": "http://stoo.asiae.co.kr/article.php?aid=76322841709",
-"link": "http://stoo.asiae.co.kr/article.php?aid=76322841709",
-"description": "9일 인천 서구 첨단동로 하나원큐 <b>청라</b>체육관에서 열린 2021-2022 여자프로농구 부천 하나원큐와 용인 삼성생명의 경기, 하나원큐 김지영이 공격을 하고 있다. 2021.12.09.",
-"pubDate": "Thu, 09 Dec 2021 21:10:00 +0900"
-
-},
-{
 "title": "[ST포토] 하나원큐 김지영, '아무도 못 막지'",
 "originallink": "http://stoo.asiae.co.kr/article.php?aid=76322944430",
 "link": "http://stoo.asiae.co.kr/article.php?aid=76322944430",
 "description": "9일 인천 서구 첨단동로 하나원큐 <b>청라</b>체육관에서 열린 2021-2022 여자프로농구 부천 하나원큐와 용인 삼성생명의 경기, 하나원큐 김지영이 슛을 하고 있다. 2021.12.09.",
+"pubDate": "Thu, 09 Dec 2021 21:10:00 +0900"
+
+},
+{
+"title": "[ST포토] 하나원큐 김지영, '내가 넣을게!'",
+"originallink": "http://stoo.asiae.co.kr/article.php?aid=76322841709",
+"link": "http://stoo.asiae.co.kr/article.php?aid=76322841709",
+"description": "9일 인천 서구 첨단동로 하나원큐 <b>청라</b>체육관에서 열린 2021-2022 여자프로농구 부천 하나원큐와 용인 삼성생명의 경기, 하나원큐 김지영이 공격을 하고 있다. 2021.12.09.",
 "pubDate": "Thu, 09 Dec 2021 21:10:00 +0900"
 
 },
@@ -125,18 +149,18 @@
 
 },
 {
-"title": "[ST포토] 신지현, '승리로 한발짝'",
-"originallink": "http://stoo.asiae.co.kr/article.php?aid=76322768391",
-"link": "http://stoo.asiae.co.kr/article.php?aid=76322768391",
-"description": "9일 인천 서구 첨단동로 하나원큐 <b>청라</b>체육관에서 열린 2021-2022 여자프로농구 부천 하나원큐와 용인 삼성생명의 경기, 하나원큐 신지현이 슛을 하고 있다. 2021.12.09.",
-"pubDate": "Thu, 09 Dec 2021 21:08:00 +0900"
-
-},
-{
 "title": "신지현·김지영의 4쿼터 19점…하나원큐, 7연패 탈출",
 "originallink": "https://www.nocutnews.co.kr/news/5671419",
 "link": "https://sports.news.naver.com/news.nhn?oid=079&aid=0003584565",
 "description": "하나원큐는 9일 하나원큐<b>청라</b>체육관에서 열린 삼성생명 2021-2022시즌 여자프로농구 홈 경기에서 삼성생명을 76대66으로 제압했다. 이로써 하나원큐는 시즌 두 번째 승리(12패)를 거뒀다. 삼성생명은 6승8패 4위를... ",
+"pubDate": "Thu, 09 Dec 2021 21:08:00 +0900"
+
+},
+{
+"title": "[ST포토] 신지현, '승리로 한발짝'",
+"originallink": "http://stoo.asiae.co.kr/article.php?aid=76322768391",
+"link": "http://stoo.asiae.co.kr/article.php?aid=76322768391",
+"description": "9일 인천 서구 첨단동로 하나원큐 <b>청라</b>체육관에서 열린 2021-2022 여자프로농구 부천 하나원큐와 용인 삼성생명의 경기, 하나원큐 신지현이 슛을 하고 있다. 2021.12.09.",
 "pubDate": "Thu, 09 Dec 2021 21:08:00 +0900"
 
 },
@@ -173,10 +197,10 @@
 
 },
 {
-"title": "[사진]김지영-신지현,'하나원큐 연패탈출 해냈어'",
-"originallink": "http://www.osen.co.kr/article/G1111711409",
-"link": "https://sports.news.naver.com/news.nhn?oid=109&aid=0004524202",
-"description": "부천 하나원큐는 9일 하나원큐<b>청라</b>체육관에서 개최된 ‘삼성생명 2021-22 여자프로농구 3라운드’에서 용인 삼성생명을 76-66으로 이겼다. 7연패를 끊은 하나원큐(2승12패)는 시즌 2승을 신고했다. 삼성생명... ",
+"title": "[ST포토] 고개 떨군 삼성생명 선수들",
+"originallink": "http://stoo.asiae.co.kr/article.php?aid=76322346293",
+"link": "http://stoo.asiae.co.kr/article.php?aid=76322346293",
+"description": "9일 인천 서구 첨단동로 하나원큐 <b>청라</b>체육관에서 열린 2021-2022 여자프로농구 부천 하나원큐와 용인 삼성생명의 경기, 하나원큐가 76-66으로 삼성생명을 꺾으며 7연패 수렁에서 빠져나왔다. 경기에서 패한... ",
 "pubDate": "Thu, 09 Dec 2021 21:02:00 +0900"
 
 },
@@ -189,10 +213,10 @@
 
 },
 {
-"title": "[ST포토] 고개 떨군 삼성생명 선수들",
-"originallink": "http://stoo.asiae.co.kr/article.php?aid=76322346293",
-"link": "http://stoo.asiae.co.kr/article.php?aid=76322346293",
-"description": "9일 인천 서구 첨단동로 하나원큐 <b>청라</b>체육관에서 열린 2021-2022 여자프로농구 부천 하나원큐와 용인 삼성생명의 경기, 하나원큐가 76-66으로 삼성생명을 꺾으며 7연패 수렁에서 빠져나왔다. 경기에서 패한... ",
+"title": "[사진]김지영-신지현,'하나원큐 연패탈출 해냈어'",
+"originallink": "http://www.osen.co.kr/article/G1111711409",
+"link": "https://sports.news.naver.com/news.nhn?oid=109&aid=0004524202",
+"description": "부천 하나원큐는 9일 하나원큐<b>청라</b>체육관에서 개최된 ‘삼성생명 2021-22 여자프로농구 3라운드’에서 용인 삼성생명을 76-66으로 이겼다. 7연패를 끊은 하나원큐(2승12패)는 시즌 2승을 신고했다. 삼성생명... ",
 "pubDate": "Thu, 09 Dec 2021 21:02:00 +0900"
 
 },
@@ -218,30 +242,6 @@
 "link": "http://stoo.asiae.co.kr/article.php?aid=76321931683",
 "description": "9일 인천 서구 첨단동로 하나원큐 <b>청라</b>체육관에서 열린 2021-2022 여자프로농구 부천 하나원큐와 용인 삼성생명의 경기, 하나원큐가 76-66으로 삼성생명을 꺾으며 7연패 수렁에서 빠져나왔다. 하나원큐 선수들이... ",
 "pubDate": "Thu, 09 Dec 2021 21:00:00 +0900"
-
-},
-{
-"title": "[사진]연패탈출 하나원큐,'기다리고 기다리던 승리야'",
-"originallink": "http://www.osen.co.kr/article/G1111711405",
-"link": "https://sports.news.naver.com/news.nhn?oid=109&aid=0004524201",
-"description": "부천 하나원큐는 9일 하나원큐<b>청라</b>체육관에서 개최된 ‘삼성생명 2021-22 여자프로농구 3라운드’에서 용인 삼성생명을 76-66으로 이겼다. 7연패를 끊은 하나원큐(2승12패)는 시즌 2승을 신고했다. 삼성생명... ",
-"pubDate": "Thu, 09 Dec 2021 20:59:00 +0900"
-
-},
-{
-"title": "[ST포토] 하나원큐, 삼성생명 꺾고 7연패 탈출",
-"originallink": "http://stoo.asiae.co.kr/article.php?aid=76321789042",
-"link": "http://stoo.asiae.co.kr/article.php?aid=76321789042",
-"description": "9일 인천 서구 첨단동로 하나원큐 <b>청라</b>체육관에서 열린 2021-2022 여자프로농구 부천 하나원큐와 용인 삼성생명의 경기, 하나원큐가 76-66으로 삼성생명을 꺾으며 7연패 수렁에서 빠져나왔다. 하나원큐 선수들이... ",
-"pubDate": "Thu, 09 Dec 2021 20:58:00 +0900"
-
-},
-{
-"title": "[사진]역전승 하나원큐,'드디어 연패탈출 해냈어'",
-"originallink": "http://www.osen.co.kr/article/G1111711403",
-"link": "https://sports.news.naver.com/news.nhn?oid=109&aid=0004524200",
-"description": "부천 하나원큐는 9일 하나원큐<b>청라</b>체육관에서 개최된 ‘삼성생명 2021-22 여자프로농구 3라운드’에서 용인 삼성생명을 76-66으로 이겼다. 7연패를 끊은 하나원큐(2승12패)는 시즌 2승을 신고했다. 삼성생명... ",
-"pubDate": "Thu, 09 Dec 2021 20:58:00 +0900"
 
 }
 ]
