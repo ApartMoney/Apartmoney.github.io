@@ -1,9 +1,17 @@
 {
-"lastBuildDate": "Mon, 10 Jan 2022 17:50:02 +0900",
-"total": 169698,
+"lastBuildDate": "Mon, 10 Jan 2022 18:00:02 +0900",
+"total": 169699,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "中企 찾은 尹 &quot;주52시간 연평균 적용해 부담 덜어줄것&quot;",
+"originallink": "http://news.mk.co.kr/newsRead.php?no=28379&year=2022",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=009&aid=0004907030",
+"description": "윤 후보는 인천 주민들의 서울 접근성 제고를 위해 광역급행철도 GTX-E 노선을 신설해 영종·<b>청라</b>·검암부터 김포공항, 구리, 남양주에 이르기까지 수도권 북부를 동서 방향으로 연결한다는 공약을 제시했다. 경인선과... ",
+"pubDate": "Mon, 10 Jan 2022 17:50:00 +0900"
+
+},
 {
 "title": "인천시,'미래차 기술혁신 선도도시 인천' 비전 제시",
 "originallink": "http://www.discoverynews.kr/news/articleView.html?idxno=721597",
@@ -221,14 +229,6 @@
 
 },
 {
-"title": "윤석열, GTX-E 노선 신설 등 인천 맞춤형 대선공약 제시...수도권서 지지율 반...",
-"originallink": "http://www.incheonilbo.com/news/articleView.html?idxno=1127695",
-"link": "http://www.incheonilbo.com/news/articleView.html?idxno=1127695",
-"description": "윤 후보는 &quot;GTX-E 노선은 영종-<b>청라</b>-검암을 거쳐 김포공항-구리-남양주를 연결하는 노선으로, 수도권 북부를... 남<b>청라</b> IC까지 연장하고, 인천구간을 지하화해 도시재생을 촉진하겠다&quot;고 말했다. 이어 &quot;일반도로로 변경된... ",
-"pubDate": "Mon, 10 Jan 2022 15:20:00 +0900"
-
-},
-{
 "title": "홈플러스, 부산 가야점 재오픈...&quot;폐점 대신 재투자&quot;",
 "originallink": "http://www.econovill.com/news/articleView.html?idxno=561599",
 "link": "http://www.econovill.com/news/articleView.html?idxno=561599",
@@ -237,11 +237,11 @@
 
 },
 {
-"title": "인천 찾은 尹 &quot;공산침략에 자유 지킨 본산지…인천상륙작전처럼 역전드라마 시...",
-"originallink": "http://www.dt.co.kr/contents.html?article_no=2022011002109958051005&ref=naver",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=100&oid=029&aid=0002715225",
-"description": "윤 후보는 대표공약인 광역급행철도 노선 신설에 관해 &quot;GTX-E 노선을 신설하면서 영종 <b>청라</b> 검암~김포공항~구리~남양주까지 노선을 추가해 수도권 북부를 동서방향으로 연결한다&quot;며 &quot;수도권 주요 거점을 신속히 연결해 인천... ",
-"pubDate": "Mon, 10 Jan 2022 15:13:00 +0900"
+"title": "윤석열, GTX-E 노선 신설 등 인천 맞춤형 대선공약 제시...수도권서 지지율 반...",
+"originallink": "http://www.incheonilbo.com/news/articleView.html?idxno=1127695",
+"link": "http://www.incheonilbo.com/news/articleView.html?idxno=1127695",
+"description": "윤 후보는 &quot;GTX-E 노선은 영종-<b>청라</b>-검암을 거쳐 김포공항-구리-남양주를 연결하는 노선으로, 수도권 북부를... 남<b>청라</b> IC까지 연장하고, 인천구간을 지하화해 도시재생을 촉진하겠다&quot;고 말했다. 이어 &quot;일반도로로 변경된... ",
+"pubDate": "Mon, 10 Jan 2022 15:20:00 +0900"
 
 }
 ]
