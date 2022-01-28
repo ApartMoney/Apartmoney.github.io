@@ -1,9 +1,57 @@
 {
-"lastBuildDate": "Fri, 28 Jan 2022 11:10:02 +0900",
-"total": 170813,
+"lastBuildDate": "Fri, 28 Jan 2022 11:20:03 +0900",
+"total": 170819,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "“빅데이터 잘 쓰면 매출 2배도 가능해요”",
+"originallink": "http://news.heraldcorp.com/view.php?ud=20220128000410",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=016&aid=0001944291",
+"description": "첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형 메뉴를 개발했다. 월 3000만원의 매출을 7000만원까지 끌어올린 사례다. KT는 소상공인과의 상생을 위해 ESG... ",
+"pubDate": "Fri, 28 Jan 2022 11:18:00 +0900"
+
+},
+{
+"title": "KT, 클라우드 원팀 1년 성과 공개·소상공인 빅데이터 경영 지원 나서",
+"originallink": "http://theviewers.co.kr/View.aspx?No=2195710",
+"link": "http://theviewers.co.kr/View.aspx?No=2195710",
+"description": "첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로 KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형 메뉴를 개발해 월 3000만원의 매출을 7000만원까지 끌어올린 사례를 소개했다. KT는 소상공인과의 상생을... ",
+"pubDate": "Fri, 28 Jan 2022 11:18:00 +0900"
+
+},
+{
+"title": "'부르는게 값' 호수공원 품은 아파트, 프리미엄 수억 원",
+"originallink": "http://www.dtnews24.com/news/articleView.html?idxno=718838",
+"link": "http://www.dtnews24.com/news/articleView.html?idxno=718838",
+"description": "<b>청라</b> 호수공원 조망권을 갖춘 인천시 서구 <b>청라</b>동 '<b>청라</b>SK VIEW' 전용 125.48㎡는 지난해 8월에 9억 5000만원에 거래됐지만 올해 첫 거래로 지난 1월 13일에 10억 1900만원에 실거래되면서 신고가를 경신했다. 매물 값은 12억... ",
+"pubDate": "Fri, 28 Jan 2022 11:14:00 +0900"
+
+},
+{
+"title": "KT, 빅데이터 상권분석 플랫폼 '잘나가게' 활용법 안내",
+"originallink": "http://www.datanet.co.kr/news/articleView.html?idxno=169168",
+"link": "http://www.datanet.co.kr/news/articleView.html?idxno=169168",
+"description": "인천 <b>청라</b>의 초밥집 사장님이 KT 잘나가게의 상권분석서비스를 이용하고 있는 모습  KT(대표 구현모)는... 첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형... ",
+"pubDate": "Fri, 28 Jan 2022 11:12:00 +0900"
+
+},
+{
+"title": "인천 영종국제도시 인구 10만 명 돌파…계획인구 55%",
+"originallink": "https://news.kbs.co.kr/news/view.do?ncd=5383976&amp;ref=A",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0011203913",
+"description": "인천 영종국제도시가 송도·<b>청라</b>국제도시에 이어 인구 10만 명을 넘어섰습니다. 인천경제자유구역청은... 지난해 말 기준 송도국제도시 인구는 19만 2천 580명(계획인구 26만 5천 611명)이고, <b>청라</b>국제도시는 11만 3천... ",
+"pubDate": "Fri, 28 Jan 2022 11:10:00 +0900"
+
+},
+{
+"title": "인천경제청, 대한전문건설협회(중앙회) 공로상 수상",
+"originallink": "http://www.discoverynews.kr/news/articleView.html?idxno=735305",
+"link": "http://www.discoverynews.kr/news/articleView.html?idxno=735305",
+"description": "천준홍 인천경제청 영종<b>청라</b>기반과장은 &quot;제3연륙교 건설 공사와 관련해 인천경제청이 그동안 지역건설 산업 활성화에 노력한 공로가 인정돼 뜻깊다&quot;며 &quot;앞으로도 지역 건설 산업이 활성화될 수 있도록 최선을 다하겠다... ",
+"pubDate": "Fri, 28 Jan 2022 11:08:00 +0900"
+
+},
 {
 "title": "KT, ‘소상공인도 쉽게’ 빅데이터 경영 돕는다...상권분석 ‘잘나가게 이야기...",
 "originallink": "http://thepublic.kr/news/newsview.php?ncode=1065574080523575",
@@ -69,18 +117,18 @@
 
 },
 {
-"title": "KT, '소상공인도 쉽게' 빅데이터 경영 돕는다",
-"originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=234712",
-"link": "http://www.econonews.co.kr/news/articleView.html?idxno=234712",
-"description": "인천 <b>청라</b>의 초밥집 사장님이 KT 잘나가게의 상권분석서비스를 이용하고 있다. (사진=KT) KT는 빅데이터 상권분석 플랫폼 '잘나가게'의 최적 활용 정보를 알려주는 '잘나가게 이야기' 메뉴를 새로 선보인다고 28일 밝혔다.... ",
-"pubDate": "Fri, 28 Jan 2022 10:42:00 +0900"
-
-},
-{
 "title": "인천경제청, 대한전문건설협회 공로상 수상",
 "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202201280836091560845",
 "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202201280836091560845",
 "description": "천준홍 인천경제청 영종<b>청라</b>기반과장은 “제3연륙교 건설 공사와 관련해 인천경제청이 그동안 지역건설 산업 활성화에 노력한 공로가 인정돼 뜻깊다”며 “앞으로도 지역 건설 산업이 활성화될 수 있도록 최선을... ",
+"pubDate": "Fri, 28 Jan 2022 10:42:00 +0900"
+
+},
+{
+"title": "KT, '소상공인도 쉽게' 빅데이터 경영 돕는다",
+"originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=234712",
+"link": "http://www.econonews.co.kr/news/articleView.html?idxno=234712",
+"description": "인천 <b>청라</b>의 초밥집 사장님이 KT 잘나가게의 상권분석서비스를 이용하고 있다. (사진=KT) KT는 빅데이터 상권분석 플랫폼 '잘나가게'의 최적 활용 정보를 알려주는 '잘나가게 이야기' 메뉴를 새로 선보인다고 28일 밝혔다.... ",
 "pubDate": "Fri, 28 Jan 2022 10:42:00 +0900"
 
 },
@@ -109,18 +157,18 @@
 
 },
 {
-"title": "KT, 소상공인 ‘빅데이터 경영’ 돕는다",
-"originallink": "https://www.fetv.co.kr/news/article.html?no=107500",
-"link": "https://www.fetv.co.kr/news/article.html?no=107500",
-"description": "첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로 KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형 메뉴를 개발해 월 3000만원의 매출을 7000만원까지 끌어올린 사례를 소개했다. KT는 소상공인과의 상생을... ",
-"pubDate": "Fri, 28 Jan 2022 10:30:00 +0900"
-
-},
-{
 "title": "인천시, '환경특별시민의 다짐' 인천 탄소다이어트 시민도 함께해요",
 "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=1545177",
 "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=1545177",
 "description": "[사진=인천시] 서구 <b>청라</b>에메랄드로99 <b>청라</b>지젤엠 지하1층 87호 2020년 5월 1일에 문을 열었다. 제로웨이스트 키트를 비롯해 대나무 칫솔, 열매수세미, 빨대, 비누, 에코백, 텀블러, 친환경선물세트 등을 판매한다.... ",
+"pubDate": "Fri, 28 Jan 2022 10:30:00 +0900"
+
+},
+{
+"title": "KT, 소상공인 ‘빅데이터 경영’ 돕는다",
+"originallink": "https://www.fetv.co.kr/news/article.html?no=107500",
+"link": "https://www.fetv.co.kr/news/article.html?no=107500",
+"description": "첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로 KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형 메뉴를 개발해 월 3000만원의 매출을 7000만원까지 끌어올린 사례를 소개했다. KT는 소상공인과의 상생을... ",
 "pubDate": "Fri, 28 Jan 2022 10:30:00 +0900"
 
 },
@@ -181,14 +229,6 @@
 
 },
 {
-"title": "&quot;변하지 않으면 죽는다!&quot;...빅3 대형마트 CEO의 생존전략은?",
-"originallink": "https://www.fetv.co.kr/news/article.html?no=107470",
-"link": "https://www.fetv.co.kr/news/article.html?no=107470",
-"description": "홈플러스는 현재 인천 간석점, 송도점, <b>청라</b>점, 작전점, 서울 월드컵점 등 주요 점포를 대상으로 새 단장을 진행하고 있으며, 올해 17개 점포를 리뉴얼 오픈한다는 계획이다. 코로나19로 입점 브랜드가 폐점하며 장기간... ",
-"pubDate": "Fri, 28 Jan 2022 09:48:00 +0900"
-
-},
-{
 "title": "금호건설, 1166억원 규모 7호선 연장 건설공사 수주",
 "originallink": "http://www.edaily.co.kr/news/newspath.asp?newsid=01826966632202312",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005136223",
@@ -197,51 +237,11 @@
 
 },
 {
-"title": "KT, 소상공인 빅데이터 경영 지원한다",
-"originallink": "http://www.koreaittimes.com/news/articleView.html?idxno=110982",
-"link": "http://www.koreaittimes.com/news/articleView.html?idxno=110982",
-"description": "인천 <b>청라</b>의 초밥집 사장님이 KT 잘나가게의 상권분석서비스를 이용하고 있다/ KT 제공 KT가 빅데이터... 첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형... ",
-"pubDate": "Fri, 28 Jan 2022 09:44:00 +0900"
-
-},
-{
-"title": "KT, 소상공인 '빅데이터 경영' 돕는다…성공사례 공유",
-"originallink": "https://www.ajunews.com/view/20220128090049368",
-"link": "https://www.ajunews.com/view/20220128090049368",
-"description": "인천 <b>청라</b>의 초밥집 사장님이 KT 잘나가게의 상권분석서비스를 이용하고 있다. [사진=KT] KT가 소상공인도... 첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형... ",
-"pubDate": "Fri, 28 Jan 2022 09:44:00 +0900"
-
-},
-{
-"title": "KT, '소상공인도 쉽게' 빅데이터 경영 돕는다... '잘나가게 이야기' 오픈",
-"originallink": "http://www.gvalley.co.kr/news/articleView.html?idxno=600951",
-"link": "http://www.gvalley.co.kr/news/articleView.html?idxno=600951",
-"description": "첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형 메뉴를 개발해 월 3천만원의 매출을 7천만원까지 끌어올린 사례를 소개했다. KT는 소상공인과의 상생을... ",
-"pubDate": "Fri, 28 Jan 2022 09:42:00 +0900"
-
-},
-{
-"title": "KT, '소상공인도 쉽게' 빅데이터 경영 돕는다",
-"originallink": "http://www.ziksir.com/news/articleView.html?idxno=20631",
-"link": "http://www.ziksir.com/news/articleView.html?idxno=20631",
-"description": "인천 <b>청라</b>의 초밥집 사장님이 KT 잘나가게의 상권분석서비스를 이용하고 있다. [KT]  KT(대표 구현모)가... 첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형... ",
-"pubDate": "Fri, 28 Jan 2022 09:42:00 +0900"
-
-},
-{
-"title": "KT, 빅데이터 상권분석 '잘나가게' 사용법 메뉴 추가",
-"originallink": "http://it.chosun.com/site/data/html_dir/2022/01/28/2022012800873.html",
-"link": "http://it.chosun.com/site/data/html_dir/2022/01/28/2022012800873.html",
-"description": "첫 인터뷰는 인천 <b>청라</b>의 한 초밥집이다. 잘나가게 창업지 상권분석으로 인근 수요를 파악하고 맞춤형 메뉴를 개발해 월 3000만원이던 매출을 7000만원까지 끌어올린 사례다. 최준기 KT AI/BigData(인공지능/빅데이터)... ",
-"pubDate": "Fri, 28 Jan 2022 09:40:00 +0900"
-
-},
-{
-"title": "금호건설, 1166억 규모 7호선 연장1공구 건설공사 수주",
-"originallink": "http://news.heraldcorp.com/view.php?ud=20220128000150",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001944141",
-"description": "금호건설은 인천광역시 도시철도건설본부와 서울도시철도7호선<b>청라</b>국제도시 연장1공구 건설공사 계약을 체결했다고 28일 공시했다. 계약금액은 1165억7314만원으로 이는 2020년 매출 대비 6.37%에 해당하는... ",
-"pubDate": "Fri, 28 Jan 2022 09:40:00 +0900"
+"title": "&quot;변하지 않으면 죽는다!&quot;...빅3 대형마트 CEO의 생존전략은?",
+"originallink": "https://www.fetv.co.kr/news/article.html?no=107470",
+"link": "https://www.fetv.co.kr/news/article.html?no=107470",
+"description": "홈플러스는 현재 인천 간석점, 송도점, <b>청라</b>점, 작전점, 서울 월드컵점 등 주요 점포를 대상으로 새 단장을 진행하고 있으며, 올해 17개 점포를 리뉴얼 오픈한다는 계획이다. 코로나19로 입점 브랜드가 폐점하며 장기간... ",
+"pubDate": "Fri, 28 Jan 2022 09:48:00 +0900"
 
 }
 ]
