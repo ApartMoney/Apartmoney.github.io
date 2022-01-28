@@ -1,9 +1,41 @@
 {
-"lastBuildDate": "Fri, 28 Jan 2022 10:30:02 +0900",
-"total": 170609,
+"lastBuildDate": "Fri, 28 Jan 2022 10:40:02 +0900",
+"total": 170613,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "KT, 소상공인 빅데이터 기반 상권 분석 돕는다",
+"originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202201280093&t=NN",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0001011995",
+"description": "첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형 메뉴를 개발해 월 3천만원의 매출을 7천만원까지 끌어올린 사례를 소개했다. 이를 통해 소상공인들은... ",
+"pubDate": "Fri, 28 Jan 2022 10:37:00 +0900"
+
+},
+{
+"title": "KT, '소상공인도 쉽게' 빅데이터 경영 돕는다",
+"originallink": "http://www.pressm.kr/news/articleView.html?idxno=54483",
+"link": "http://www.pressm.kr/news/articleView.html?idxno=54483",
+"description": "첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로 KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형 메뉴를 개발해 월 3000만원의 매출을 7000만원까지 끌어올린 사례를 소개했다. KT는 소상공인과의 상생을... ",
+"pubDate": "Fri, 28 Jan 2022 10:30:00 +0900"
+
+},
+{
+"title": "KT, 소상공인 ‘빅데이터 경영’ 돕는다",
+"originallink": "https://www.fetv.co.kr/news/article.html?no=107500",
+"link": "https://www.fetv.co.kr/news/article.html?no=107500",
+"description": "첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로 KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형 메뉴를 개발해 월 3000만원의 매출을 7000만원까지 끌어올린 사례를 소개했다. KT는 소상공인과의 상생을... ",
+"pubDate": "Fri, 28 Jan 2022 10:30:00 +0900"
+
+},
+{
+"title": "인천시, '환경특별시민의 다짐' 인천 탄소다이어트 시민도 함께해요",
+"originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=1545177",
+"link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=1545177",
+"description": "[사진=인천시] 서구 <b>청라</b>에메랄드로99 <b>청라</b>지젤엠 지하1층 87호 2020년 5월 1일에 문을 열었다. 제로웨이스트 키트를 비롯해 대나무 칫솔, 열매수세미, 빨대, 비누, 에코백, 텀블러, 친환경선물세트 등을 판매한다.... ",
+"pubDate": "Fri, 28 Jan 2022 10:30:00 +0900"
+
+},
 {
 "title": "[공시] 금호건설, 1166억원 규모 서울도시철도 7호선 건설공사 수주",
 "originallink": "http://www.fnnews.com/news/202201281015475424",
@@ -61,14 +93,6 @@
 
 },
 {
-"title": "&quot;변하지 않으면 죽는다!&quot;...빅3 대형마트 CEO의 생존전략은?",
-"originallink": "https://www.fetv.co.kr/news/article.html?no=107470",
-"link": "https://www.fetv.co.kr/news/article.html?no=107470",
-"description": "홈플러스는 현재 인천 간석점, 송도점, <b>청라</b>점, 작전점, 서울 월드컵점 등 주요 점포를 대상으로 새 단장을 진행하고 있으며, 올해 17개 점포를 리뉴얼 오픈한다는 계획이다. 코로나19로 입점 브랜드가 폐점하며 장기간... ",
-"pubDate": "Fri, 28 Jan 2022 09:48:00 +0900"
-
-},
-{
 "title": "금호건설, 1166억원 규모 7호선 연장 건설공사 수주",
 "originallink": "http://www.edaily.co.kr/news/newspath.asp?newsid=01826966632202312",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005136223",
@@ -77,11 +101,11 @@
 
 },
 {
-"title": "KT, 소상공인 빅데이터 경영 지원한다",
-"originallink": "http://www.koreaittimes.com/news/articleView.html?idxno=110982",
-"link": "http://www.koreaittimes.com/news/articleView.html?idxno=110982",
-"description": "인천 <b>청라</b>의 초밥집 사장님이 KT 잘나가게의 상권분석서비스를 이용하고 있다/ KT 제공 KT가 빅데이터... 첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형... ",
-"pubDate": "Fri, 28 Jan 2022 09:44:00 +0900"
+"title": "&quot;변하지 않으면 죽는다!&quot;...빅3 대형마트 CEO의 생존전략은?",
+"originallink": "https://www.fetv.co.kr/news/article.html?no=107470",
+"link": "https://www.fetv.co.kr/news/article.html?no=107470",
+"description": "홈플러스는 현재 인천 간석점, 송도점, <b>청라</b>점, 작전점, 서울 월드컵점 등 주요 점포를 대상으로 새 단장을 진행하고 있으며, 올해 17개 점포를 리뉴얼 오픈한다는 계획이다. 코로나19로 입점 브랜드가 폐점하며 장기간... ",
+"pubDate": "Fri, 28 Jan 2022 09:48:00 +0900"
 
 },
 {
@@ -93,11 +117,11 @@
 
 },
 {
-"title": "KT, '소상공인도 쉽게' 빅데이터 경영 돕는다",
-"originallink": "http://www.ziksir.com/news/articleView.html?idxno=20631",
-"link": "http://www.ziksir.com/news/articleView.html?idxno=20631",
-"description": "인천 <b>청라</b>의 초밥집 사장님이 KT 잘나가게의 상권분석서비스를 이용하고 있다. [KT]  KT(대표 구현모)가... 첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형... ",
-"pubDate": "Fri, 28 Jan 2022 09:42:00 +0900"
+"title": "KT, 소상공인 빅데이터 경영 지원한다",
+"originallink": "http://www.koreaittimes.com/news/articleView.html?idxno=110982",
+"link": "http://www.koreaittimes.com/news/articleView.html?idxno=110982",
+"description": "인천 <b>청라</b>의 초밥집 사장님이 KT 잘나가게의 상권분석서비스를 이용하고 있다/ KT 제공 KT가 빅데이터... 첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형... ",
+"pubDate": "Fri, 28 Jan 2022 09:44:00 +0900"
 
 },
 {
@@ -105,6 +129,14 @@
 "originallink": "http://www.gvalley.co.kr/news/articleView.html?idxno=600951",
 "link": "http://www.gvalley.co.kr/news/articleView.html?idxno=600951",
 "description": "첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형 메뉴를 개발해 월 3천만원의 매출을 7천만원까지 끌어올린 사례를 소개했다. KT는 소상공인과의 상생을... ",
+"pubDate": "Fri, 28 Jan 2022 09:42:00 +0900"
+
+},
+{
+"title": "KT, '소상공인도 쉽게' 빅데이터 경영 돕는다",
+"originallink": "http://www.ziksir.com/news/articleView.html?idxno=20631",
+"link": "http://www.ziksir.com/news/articleView.html?idxno=20631",
+"description": "인천 <b>청라</b>의 초밥집 사장님이 KT 잘나가게의 상권분석서비스를 이용하고 있다. [KT]  KT(대표 구현모)가... 첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형... ",
 "pubDate": "Fri, 28 Jan 2022 09:42:00 +0900"
 
 },
@@ -210,38 +242,6 @@
 "link": "https://www.cnbnews.com/news/article.html?no=530753",
 "description": "▲ CNB,씨앤비,시앤비,CNB뉴스,씨앤비뉴스 인천 <b>청라</b>의 초밥집 사장님이 KT 잘나가게의 상권분석서비스를... 첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형... ",
 "pubDate": "Fri, 28 Jan 2022 09:20:00 +0900"
-
-},
-{
-"title": "KT, 소상공인 빅데이터 경영 돕는다",
-"originallink": "https://www.ebn.co.kr/news/view/1517970/?sc=Naver",
-"link": "https://www.ebn.co.kr/news/view/1517970/?sc=Naver",
-"description": "첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로 KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형 메뉴를 개발해 월 3000만원의 매출을 7000만원까지 끌어올린 사례를 소개했다. KT는 소상공인과의 상생을 위해... ",
-"pubDate": "Fri, 28 Jan 2022 09:16:00 +0900"
-
-},
-{
-"title": "붕괴사고 HDC현산, 작년 실적 전망 '암울'…올해 전망도 부정적",
-"originallink": "http://news.einfomax.co.kr/news/articleView.html?idxno=4196237",
-"link": "http://news.einfomax.co.kr/news/articleView.html?idxno=4196237",
-"description": "성 연구원은 &quot;광운대 역세권 사업과 <b>청라</b> 의료복합타운 등 추진 중인 주요 개발사업 진행도 차질을 빚을 수 있다&quot;고 덧붙였다. 나이스신용평가도 &quot;사고원인 조사 결과에 따르면 서울시는 회사에 대해 영업정지를... ",
-"pubDate": "Fri, 28 Jan 2022 08:14:00 +0900"
-
-},
-{
-"title": "플랜트 끌고 토건 밀고…SGC이테크건설, 올해 1.5조 매출 목표",
-"originallink": "https://www.ceoscoredaily.com/page/view/2022012710581424705",
-"link": "https://www.ceoscoredaily.com/page/view/2022012710581424705",
-"description": "지난해 SGC이테크건설은 △쿠팡 광주 물류센터(1302억원) △김해 덕암 복합물류센터(1278억원) △<b>청라</b> 지식산업센터(1060억원) △성남 수진역 더리브 스타일(484억원) △구리 수택동 더리브 드웰 오피스텔(464억원) 등을... ",
-"pubDate": "Fri, 28 Jan 2022 07:02:00 +0900"
-
-},
-{
-"title": "[KPGA Swing] 이창우의 유연한 드라이버 스윙",
-"originallink": "http://news.heraldcorp.com/sports/view.php?ud=202201241546308320903_1",
-"link": "https://sports.news.naver.com/news.nhn?oid=016&aid=0001944030",
-"description": "이창우의 드라이버 샷 스윙을 인천 베어즈베스트 <b>청라</b> 골프클럽에서 열린 신한동해오픈 최종라운드에서 촬영했다. 그의 지난 시즌 퍼포먼스를 살펴보면 드라이버 비거리가 276.62야드로 91위, 페어웨이 안착률은... ",
-"pubDate": "Fri, 28 Jan 2022 06:23:00 +0900"
 
 }
 ]
