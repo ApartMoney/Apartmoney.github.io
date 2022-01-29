@@ -1,9 +1,17 @@
 {
-"lastBuildDate": "Sat, 29 Jan 2022 13:00:02 +0900",
-"total": 170882,
+"lastBuildDate": "Sat, 29 Jan 2022 13:10:03 +0900",
+"total": 170883,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "KT, 소상공인도 쉽게 빅데이터 경영 돕는다",
+"originallink": "http://www.aitimes.com/news/articleView.html?idxno=142855",
+"link": "http://www.aitimes.com/news/articleView.html?idxno=142855",
+"description": "첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형 메뉴를 개발해 월 3천만원의 매출을 7천만원까지 끌어올린 사례를 소개했다. KT는 소상공인과의 상생을... ",
+"pubDate": "Sat, 29 Jan 2022 13:08:00 +0900"
+
+},
 {
 "title": "[인사] 신용보증기금",
 "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=234863",
@@ -234,14 +242,6 @@
 "link": "https://www.asiatoday.co.kr/view.php?key=20220128001712183",
 "description": "(남<b>청라</b>IC-서인천IC-신월IC)사업이 국토교통부 제2차 고속도로 건설계획(2021~2025년)에 반영됐다고 밝혔다.경인고속도로 지하화사업은 신월IC에서 서인천IC를 지나 남<b>청라</b>IC까지 17.7㎞ 구간을 지하고속도로로 건설하는... ",
 "pubDate": "Fri, 28 Jan 2022 17:18:00 +0900"
-
-},
-{
-"title": "KT, 빅데이터 상권분석으로 소상공인 돕는다",
-"originallink": "http://www.it-b.co.kr/news/articleView.html?idxno=56851",
-"link": "http://www.it-b.co.kr/news/articleView.html?idxno=56851",
-"description": "인천 <b>청라</b>의 초밥집 사장님이 KT 잘나가게의 상권분석서비스를 이용하고 있다. KT(대표 구현모)가 빅데이터... 첫 인터뷰는 인천 <b>청라</b>의 한 초밥집으로, KT 잘나가게의 창업지 상권분석을 통해 인근 수요를 파악하고 맞춤형... ",
-"pubDate": "Fri, 28 Jan 2022 16:54:00 +0900"
 
 }
 ]
