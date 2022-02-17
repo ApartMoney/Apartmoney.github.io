@@ -1,9 +1,17 @@
 {
-"lastBuildDate": "Thu, 17 Feb 2022 10:30:02 +0900",
-"total": 171759,
+"lastBuildDate": "Thu, 17 Feb 2022 10:40:02 +0900",
+"total": 171760,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "하나금융그룹 <b>청라</b> 헤드쿼터 착공…&quot;한국 마인드마크 될 것&quot;",
+"originallink": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1293021",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=057&aid=0001643103",
+"description": "하나금융그룹이 15일 인천 <b>청라</b>국제도시 소재 하나글로벌캠퍼스에서 '<b>청라</b> 그룹헤드쿼터' 착공식을 개최했습니다. 지하 7층, 지상 15층 규모로 2025년 말 완공 예정인 그룹 헤드쿼터 건물은 하나금융지주, 하나은행... ",
+"pubDate": "Thu, 17 Feb 2022 10:38:00 +0900"
+
+},
 {
 "title": "[오늘의 유통가] 홈플러스, 첫 '메가 푸드 마켓' 선봬 外",
 "originallink": "https://www.paxnetnews.com/articles/83877",
@@ -29,6 +37,14 @@
 
 },
 {
+"title": "‘분양가상한제’ 적용 단지, 나왔다하면 경쟁률 ‘수백대 1’",
+"originallink": "http://www.lawissue.co.kr/view.php?ud=20220217100540514767191f6c6e_12",
+"link": "http://www.lawissue.co.kr/view.php?ud=20220217100540514767191f6c6e_12",
+"description": "같은 달 인천시 서구 <b>청라</b>국제도시에서 공급된 ‘<b>청라</b> 호반베르디움6차’ 역시 분양가 상한제 적용 단지로 인근 시세보다 약 3억원 저렴한 분양가가 주목을 받으며 1순위 청약에서 평균 82.7대 1을 기록했다. 업계... ",
+"pubDate": "Thu, 17 Feb 2022 10:08:00 +0900"
+
+},
+{
 "title": "홈플러스, 인천 간석점 '메가푸드 마켓'으로 리뉴얼 오픈",
 "originallink": "http://www.newscape.co.kr/news/articleView.html?idxno=79599",
 "link": "http://www.newscape.co.kr/news/articleView.html?idxno=79599",
@@ -41,14 +57,6 @@
 "originallink": "http://www.dailysmart.co.kr/news/articleView.html?idxno=56116",
 "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=56116",
 "description": "우선 내달까지 인천 <b>청라</b>점, 송도점, 작전점, 인하점, 가좌점을 메가 푸드 마켓으로 리뉴얼하고 서울 마포구 상암동의 월드컵점도 재단장해 오픈한다. 이제훈 홈플러스 사장은 &quot;첫 번째 메가 푸드 마켓인 홈플러스 간석점은... ",
-"pubDate": "Thu, 17 Feb 2022 10:08:00 +0900"
-
-},
-{
-"title": "‘분양가상한제’ 적용 단지, 나왔다하면 경쟁률 ‘수백대 1’",
-"originallink": "http://www.lawissue.co.kr/view.php?ud=20220217100540514767191f6c6e_12",
-"link": "http://www.lawissue.co.kr/view.php?ud=20220217100540514767191f6c6e_12",
-"description": "같은 달 인천시 서구 <b>청라</b>국제도시에서 공급된 ‘<b>청라</b> 호반베르디움6차’ 역시 분양가 상한제 적용 단지로 인근 시세보다 약 3억원 저렴한 분양가가 주목을 받으며 1순위 청약에서 평균 82.7대 1을 기록했다. 업계... ",
 "pubDate": "Thu, 17 Feb 2022 10:08:00 +0900"
 
 },
@@ -85,18 +93,18 @@
 
 },
 {
-"title": "홈플러스, ‘메가 푸드 마켓’으로 혁신 성장 신호탄 쏜다",
-"originallink": "http://www.lawissue.co.kr/view.php?ud=202202170942403995204ead0791_12",
-"link": "http://www.lawissue.co.kr/view.php?ud=202202170942403995204ead0791_12",
-"description": "아울러 인근에는 국제도시로 지정돼 인구가 지속적으로 늘어나고 있는 송도, <b>청라</b>가 위치하고 있어 더 많은 고객이 매장을 찾게 할 수 있다. 이제 인천 전역의 고객들은 ‘메가 푸드 마켓’이라고 이름 붙여진 미래형... ",
-"pubDate": "Thu, 17 Feb 2022 09:44:00 +0900"
-
-},
-{
 "title": "홈플러스, '메가 푸드 마켓' 첫 선…인천 간석점 리뉴얼 오픈",
 "originallink": "https://news.mtn.co.kr/news-detail/2022021709345020164",
 "link": "https://news.mtn.co.kr/news-detail/2022021709345020164",
 "description": "특히 다음달까지 인천 <b>청라</b>점, 송도점, 작전점, 인하점, 가좌점까지 리뉴얼 작업을 완료하며 인천을 메가 푸드 마켓의 메카로 만들겠다는 방침이다. 또한 수도권 시장 선점을 위해 서울 상암동에 위치한 홈플러스... ",
+"pubDate": "Thu, 17 Feb 2022 09:44:00 +0900"
+
+},
+{
+"title": "홈플러스, ‘메가 푸드 마켓’으로 혁신 성장 신호탄 쏜다",
+"originallink": "http://www.lawissue.co.kr/view.php?ud=202202170942403995204ead0791_12",
+"link": "http://www.lawissue.co.kr/view.php?ud=202202170942403995204ead0791_12",
+"description": "아울러 인근에는 국제도시로 지정돼 인구가 지속적으로 늘어나고 있는 송도, <b>청라</b>가 위치하고 있어 더 많은 고객이 매장을 찾게 할 수 있다. 이제 인천 전역의 고객들은 ‘메가 푸드 마켓’이라고 이름 붙여진 미래형... ",
 "pubDate": "Thu, 17 Feb 2022 09:44:00 +0900"
 
 },
@@ -117,18 +125,18 @@
 
 },
 {
-"title": "홈플러스 인천 간석점 '메가 푸드 마켓'으로 리뉴얼",
-"originallink": "https://www.ebn.co.kr/news/view/1520033/?sc=Naver",
-"link": "https://www.ebn.co.kr/news/view/1520033/?sc=Naver",
-"description": "특히 다음달까지 인천 <b>청라</b>점, 송도점, 작전점, 인하점, 가좌점까지 리뉴얼 작업을 완료하며 인천을 메가 푸드 마켓의 메카로 만들겠다는 방침이다. 또한 수도권 시장 선점을 위해 서울 상암동에 위치한 홈플러스... ",
-"pubDate": "Thu, 17 Feb 2022 09:18:00 +0900"
-
-},
-{
 "title": "홈플러스, 인천 간석점 리뉴얼 오픈…‘메가 푸드 마켓’으로 혁신 성장 신호...",
 "originallink": "http://www.segye.com/content/html/2022/02/17/20220217504168.html?OutUrl=naver",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=022&aid=0003667916",
 "description": "아울러 인근에는 국제도시로 지정돼 인구가 지속적으로 늘어나고 있는 송도, <b>청라</b>가 위치하고 있어 더 많은... 특히 다음달까지 인천 <b>청라</b>점, 송도점, 작전점, 인하점, 가좌점까지 리뉴얼 작업을 완료하며 인천을 메가... ",
+"pubDate": "Thu, 17 Feb 2022 09:18:00 +0900"
+
+},
+{
+"title": "홈플러스 인천 간석점 '메가 푸드 마켓'으로 리뉴얼",
+"originallink": "https://www.ebn.co.kr/news/view/1520033/?sc=Naver",
+"link": "https://www.ebn.co.kr/news/view/1520033/?sc=Naver",
+"description": "특히 다음달까지 인천 <b>청라</b>점, 송도점, 작전점, 인하점, 가좌점까지 리뉴얼 작업을 완료하며 인천을 메가 푸드 마켓의 메카로 만들겠다는 방침이다. 또한 수도권 시장 선점을 위해 서울 상암동에 위치한 홈플러스... ",
 "pubDate": "Thu, 17 Feb 2022 09:18:00 +0900"
 
 },
@@ -234,14 +242,6 @@
 "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202202160920240070756",
 "description": "인천 서구 <b>청라</b>힐데스하임 전용면적 59㎡는 지난해 10월까지만 해도 최고가인 6억9000만원에 거래됐지만, 지난달에는 이보다 1억원 넘게 떨어진 5억8000만원에 매매 계약을 체결했다. ohpearl@",
 "pubDate": "Thu, 17 Feb 2022 06:32:00 +0900"
-
-},
-{
-"title": "홈플러스, 인천에 첫 '메가 푸드 마켓' 선보인다…연내 17개로 확대",
-"originallink": "http://news.einfomax.co.kr/news/articleView.html?idxno=4199062",
-"link": "http://news.einfomax.co.kr/news/articleView.html?idxno=4199062",
-"description": "다음 달까지 인천 <b>청라</b>점과 송도점, 작전점, 인하점, 가좌점까지 재단장 작업을 마고, 인천을 푸드 마켓의 메카로 만들겠다는 계획이다. 이제훈 홈플러스 사장은 &quot;앞으로도 이 같은 매장을 지속 확대해 홈플러스가 앞으로... ",
-"pubDate": "Thu, 17 Feb 2022 06:06:00 +0900"
 
 }
 ]
