@@ -1,9 +1,17 @@
 {
-"lastBuildDate": "Thu, 24 Feb 2022 15:40:03 +0900",
-"total": 172107,
+"lastBuildDate": "Thu, 24 Feb 2022 15:50:02 +0900",
+"total": 172108,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "전국 아파트값 2년 5개월만에 하락…강남4구도 3주째 가격 ‘뚝뚝’",
+"originallink": "https://www.tfmedia.co.kr/news/article.html?no=121380",
+"link": "https://www.tfmedia.co.kr/news/article.html?no=121380",
+"description": "인천은 중구(0.00%)·연수구(0.00%)가 대체로 관망세 보이며 보합 전환했으며 서구(-0.05%)는 경서·<b>청라</b>동 주요 단지 위주로, 동구(-0.02%)는 만석동 위주로 거래심리 위축되며 아파트값이 하락했다. 계양구(-0.02%)도 병방... ",
+"pubDate": "Thu, 24 Feb 2022 15:40:00 +0900"
+
+},
 {
 "title": "[인터뷰] 박남춘 인천시장, '환경특별시 인천'은 이루고 싶은 꿈",
 "originallink": "http://www.businesskorea.co.kr/news/articleView.html?idxno=88150",
@@ -45,14 +53,6 @@
 
 },
 {
-"title": "2년 5개월 만에 꺾인 전국 집값…전셋값도 '주춤'",
-"originallink": "https://www.hankyung.com/realestate/article/2022022459066",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004667506",
-"description": "<b>청라</b>국제도시를 중심으로 집값이 내리면서다. 동구(-0.02%)는 만석동을 중심으로 매수심리가 악화했고, 계양구(-0.02%)는 병방동과 효성동 구축 단지를 중심으로 집값이 내렸다. 5대 광역시(대전·대구·광주·부산... ",
-"pubDate": "Thu, 24 Feb 2022 14:02:00 +0900"
-
-},
-{
 "title": "전국 아파트값 2년 5개월 만에 하락 전환…수도권 전세가격도 하락폭 확대",
 "originallink": "http://www.fntimes.com/html/view.php?ud=2022022412530866715e6e69892f_18",
 "link": "http://www.fntimes.com/html/view.php?ud=2022022412530866715e6e69892f_18",
@@ -61,11 +61,11 @@
 
 },
 {
-"title": "수도권 집값 하락폭 커졌다…서초구 20개월 만에 ↓",
-"originallink": "http://www.newspim.com/news/view/20220224000573",
-"link": "http://www.newspim.com/news/view/20220224000573",
-"description": "서구(-0.05%)는 경서·<b>청라</b>동 주요 단지 위주로, 동구(-0.02%)는 만석동 위주로 거래심리가 위축됐다. 계양구(-0.02%)는 병방·효성동 구축 위주로 내렸다. 경기 역시 -0.03%로 낙폭이 커졌다. 이천시(0.21%), 파주시(0.07%)가... ",
-"pubDate": "Thu, 24 Feb 2022 14:00:00 +0900"
+"title": "2년 5개월 만에 꺾인 전국 집값…전셋값도 '주춤'",
+"originallink": "https://www.hankyung.com/realestate/article/2022022459066",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004667506",
+"description": "<b>청라</b>국제도시를 중심으로 집값이 내리면서다. 동구(-0.02%)는 만석동을 중심으로 매수심리가 악화했고, 계양구(-0.02%)는 병방동과 효성동 구축 단지를 중심으로 집값이 내렸다. 5대 광역시(대전·대구·광주·부산... ",
+"pubDate": "Thu, 24 Feb 2022 14:02:00 +0900"
 
 },
 {
@@ -73,6 +73,14 @@
 "originallink": "http://www.newsis.com/view/?id=NISX20220224_0001771307&cID=10401&pID=10400",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0011025241",
 "description": "인천에서는 서구(0.01%→-0.05%)가 경서·<b>청라</b>동 주요 단지 중심으로, 동구(-0.04%→-0.02%)는 만석동 위주로 거래심리가 위축되며 하락세를 나타냈다. 비수기·이자부담에 전셋값도 약세 성동(0.01%→0.02%), 동대문(0.02... ",
+"pubDate": "Thu, 24 Feb 2022 14:00:00 +0900"
+
+},
+{
+"title": "수도권 집값 하락폭 커졌다…서초구 20개월 만에 ↓",
+"originallink": "http://www.newspim.com/news/view/20220224000573",
+"link": "http://www.newspim.com/news/view/20220224000573",
+"description": "서구(-0.05%)는 경서·<b>청라</b>동 주요 단지 위주로, 동구(-0.02%)는 만석동 위주로 거래심리가 위축됐다. 계양구(-0.02%)는 병방·효성동 구축 위주로 내렸다. 경기 역시 -0.03%로 낙폭이 커졌다. 이천시(0.21%), 파주시(0.07%)가... ",
 "pubDate": "Thu, 24 Feb 2022 14:00:00 +0900"
 
 },
@@ -234,14 +242,6 @@
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=079&aid=0003613313",
 "description": "하지만 7호선 <b>청라</b>연장선이 개통되는 시점에는 관제분야 설비와 인력을 모두 갖추고 부천 구간까지 인천교통공사가 운영할 방안을 준비하고 있다. 인천의 대표 관광명소가 된 월미바다열차 이용 활성화를 위해 추진한... ",
 "pubDate": "Thu, 24 Feb 2022 05:02:00 +0900"
-
-},
-{
-"title": "안상수 “인천은 재외동포 안식처…동포께서 정권교체 견인할 것”",
-"originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202202232221148820757",
-"link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202202232221148820757",
-"description": "음식문화의거리ㆍ작전시장ㆍ계산시장ㆍ병방시장ㆍ작전역), 부평구(갈산역ㆍ부평문화의거리), 남동구(구월동 롯데백화점), 서구(<b>청라</b>커널웨이ㆍ검단사거리ㆍ가좌시장ㆍ정서진 중앙시장) 등을 방문해 유세를 이어왔다. pjb@",
-"pubDate": "Wed, 23 Feb 2022 22:32:00 +0900"
 
 }
 ]
