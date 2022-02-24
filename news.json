@@ -1,5 +1,5 @@
 {
-"lastBuildDate": "Thu, 24 Feb 2022 16:30:02 +0900",
+"lastBuildDate": "Thu, 24 Feb 2022 16:40:02 +0900",
 "total": 172110,
 "start": 1,
 "display": 30,
@@ -61,10 +61,10 @@
 
 },
 {
-"title": "서울, 경기, 인천 아파트 매매·전세 모두 하락장 지속 [부동산360]",
-"originallink": "http://news.heraldcorp.com/view.php?ud=20220224000700",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001956003",
-"description": "인천은 중구(0.00%)·연수구(0.00%)가 대체로 관망세 보이며 보합 전환했으며 서구(-0.05%)는 경서·<b>청라</b>동 주요 단지 위주로, 동구(-0.02%)는 만석동 위주로 거래심리 위축되며 아파트값이 하락했다. 계양구(-0.02%)도 병방... ",
+"title": "전국 아파트값 2년 5개월 만에 하락 전환…수도권 전세가격도 하락폭 확대",
+"originallink": "http://www.fntimes.com/html/view.php?ud=2022022412530866715e6e69892f_18",
+"link": "http://www.fntimes.com/html/view.php?ud=2022022412530866715e6e69892f_18",
+"description": "서구(-0.05%)는 경서ㆍ<b>청라</b>동 주요 단지 위주로, 동구(-0.02%)는 만석동 위주로 거래심리 위축되며, 계양구(-0.02%)는 병방ㆍ효성동 구축 위주로 하락하며 인천 전체 하락세가 이어졌다. 경기 아파트 매매가격 하락폭... ",
 "pubDate": "Thu, 24 Feb 2022 14:02:00 +0900"
 
 },
@@ -77,19 +77,11 @@
 
 },
 {
-"title": "전국 아파트값 2년 5개월 만에 하락 전환…수도권 전세가격도 하락폭 확대",
-"originallink": "http://www.fntimes.com/html/view.php?ud=2022022412530866715e6e69892f_18",
-"link": "http://www.fntimes.com/html/view.php?ud=2022022412530866715e6e69892f_18",
-"description": "서구(-0.05%)는 경서ㆍ<b>청라</b>동 주요 단지 위주로, 동구(-0.02%)는 만석동 위주로 거래심리 위축되며, 계양구(-0.02%)는 병방ㆍ효성동 구축 위주로 하락하며 인천 전체 하락세가 이어졌다. 경기 아파트 매매가격 하락폭... ",
+"title": "서울, 경기, 인천 아파트 매매·전세 모두 하락장 지속 [부동산360]",
+"originallink": "http://news.heraldcorp.com/view.php?ud=20220224000700",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001956003",
+"description": "인천은 중구(0.00%)·연수구(0.00%)가 대체로 관망세 보이며 보합 전환했으며 서구(-0.05%)는 경서·<b>청라</b>동 주요 단지 위주로, 동구(-0.02%)는 만석동 위주로 거래심리 위축되며 아파트값이 하락했다. 계양구(-0.02%)도 병방... ",
 "pubDate": "Thu, 24 Feb 2022 14:02:00 +0900"
-
-},
-{
-"title": "서초도 하락 진입…전국 집값 29개월만에 마이너스",
-"originallink": "http://www.newsis.com/view/?id=NISX20220224_0001771307&cID=10401&pID=10400",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0011025241",
-"description": "인천에서는 서구(0.01%→-0.05%)가 경서·<b>청라</b>동 주요 단지 중심으로, 동구(-0.04%→-0.02%)는 만석동 위주로 거래심리가 위축되며 하락세를 나타냈다. 비수기·이자부담에 전셋값도 약세 성동(0.01%→0.02%), 동대문(0.02... ",
-"pubDate": "Thu, 24 Feb 2022 14:00:00 +0900"
 
 },
 {
@@ -97,6 +89,14 @@
 "originallink": "http://www.newspim.com/news/view/20220224000573",
 "link": "http://www.newspim.com/news/view/20220224000573",
 "description": "서구(-0.05%)는 경서·<b>청라</b>동 주요 단지 위주로, 동구(-0.02%)는 만석동 위주로 거래심리가 위축됐다. 계양구(-0.02%)는 병방·효성동 구축 위주로 내렸다. 경기 역시 -0.03%로 낙폭이 커졌다. 이천시(0.21%), 파주시(0.07%)가... ",
+"pubDate": "Thu, 24 Feb 2022 14:00:00 +0900"
+
+},
+{
+"title": "서초도 하락 진입…전국 집값 29개월만에 마이너스",
+"originallink": "http://www.newsis.com/view/?id=NISX20220224_0001771307&cID=10401&pID=10400",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0011025241",
+"description": "인천에서는 서구(0.01%→-0.05%)가 경서·<b>청라</b>동 주요 단지 중심으로, 동구(-0.04%→-0.02%)는 만석동 위주로 거래심리가 위축되며 하락세를 나타냈다. 비수기·이자부담에 전셋값도 약세 성동(0.01%→0.02%), 동대문(0.02... ",
 "pubDate": "Thu, 24 Feb 2022 14:00:00 +0900"
 
 },
