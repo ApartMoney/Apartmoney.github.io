@@ -1,9 +1,17 @@
 {
-"lastBuildDate": "Sun, 27 Feb 2022 13:40:02 +0900",
-"total": 172169,
+"lastBuildDate": "Sun, 27 Feb 2022 13:50:02 +0900",
+"total": 172170,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "인천 인구 2040년 330만명 예상…올해보다 35만명 증가",
+"originallink": "https://www.khan.co.kr/local/Incheon/article/202202271338001",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=032&aid=0003131022",
+"description": "공항철도와 인천지하철을 중심으로 동인천은 역사·문화·관광 기능을 특화시키고, <b>청라</b>는 국제금융, 영종은 해양레저관광과 항공산업의 복합도시, 검단은 인천 서북부의 문화·교육 중심, 계양은 인천 동북부... ",
+"pubDate": "Sun, 27 Feb 2022 13:39:00 +0900"
+
+},
 {
 "title": "호반건설, 인천 대호아파트 주변 가로주택 수주…인천서 2만가구 공급",
 "originallink": "https://economist.co.kr/2022/02/27/realEstate/parcelOut/20220227133002164.html",
@@ -133,18 +141,18 @@
 
 },
 {
-"title": "인천시, 2023년 국비 5조 확보 총력",
-"originallink": "http://www.joongdo.co.kr/web/view.php?key=20220225010005424",
-"link": "http://www.joongdo.co.kr/web/view.php?key=20220225010005424",
-"description": "시는 대규모 계속사업의 연차별 국비확보를 위해 서울도시철도7호선 <b>청라</b>국제도시 연장, 송도 9공구... 원) ▲서울도시철도7호선 <b>청라</b>국제도시 연장(15,739억 원) 등 주요현안사업 47건에 대해 6,271억 원을 국비로... ",
-"pubDate": "Sun, 27 Feb 2022 10:22:00 +0900"
-
-},
-{
 "title": "호반건설, 인천서 가로주택정비사업 수주",
 "originallink": "http://www.dt.co.kr/contents.html?article_no=2022022702109932036002&ref=naver",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=029&aid=0002722404",
 "description": "관계자는 &quot;조합을 도와 신속한 사업 추진을 위해 노력하고 우수 단지로 시공하기 위해 최선을 다하겠다&quot;고 말했다. 한편 호반건설은 송도국제도시, <b>청라</b>국제도시, 검단신도시 등 인천에서만 2만여 가구를 공급했다.",
+"pubDate": "Sun, 27 Feb 2022 10:22:00 +0900"
+
+},
+{
+"title": "인천시, 2023년 국비 5조 확보 총력",
+"originallink": "http://www.joongdo.co.kr/web/view.php?key=20220225010005424",
+"link": "http://www.joongdo.co.kr/web/view.php?key=20220225010005424",
+"description": "시는 대규모 계속사업의 연차별 국비확보를 위해 서울도시철도7호선 <b>청라</b>국제도시 연장, 송도 9공구... 원) ▲서울도시철도7호선 <b>청라</b>국제도시 연장(15,739억 원) 등 주요현안사업 47건에 대해 6,271억 원을 국비로... ",
 "pubDate": "Sun, 27 Feb 2022 10:22:00 +0900"
 
 },
@@ -234,14 +242,6 @@
 "link": "http://www.metroseoul.co.kr/article/20220226500001",
 "description": "또한 윤 후보는 &quot;제가 몇달 전에 공약으로 발표한 GTX(수도권광역급행철도)-E 노선을 신설해서 <b>청라</b>에서 남양주로 연결되는 교통 인프라를 촘촘하게 새로 구축하겠다&quot;고 밝혔다. 윤석열 국민의힘 대선후보가 26일 수도권... ",
 "pubDate": "Sat, 26 Feb 2022 11:30:00 +0900"
-
-},
-{
-"title": "인천시 서구, 국토부 주관 ‘2021년 추계 도로정비 평가’ 우수기관 선정",
-"originallink": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160280054513170",
-"link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160280054513170",
-"description": "특히 지난해 <b>청라</b> 청람초등학교 일원 도로 재포장공사를 포함해 74,586㎡, 18건의 도로 정비공사를 추진했으며 도로파손 등으로 발생하는 주민 불편사항과 생활민원을 해소하기 위해 연간 도로구조물 정비공사 5건을... ",
-"pubDate": "Sat, 26 Feb 2022 10:02:00 +0900"
 
 }
 ]
