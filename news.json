@@ -1,9 +1,17 @@
 {
-"lastBuildDate": "Fri, 04 Mar 2022 15:10:02 +0900",
-"total": 172346,
+"lastBuildDate": "Fri, 04 Mar 2022 15:20:03 +0900",
+"total": 172347,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "&quot;무주택 청약 1명도 없었다&quot;...송도 중대형 아파트 '0점 당첨' 속출",
+"originallink": "http://news.mt.co.kr/mtview.php?no=2022030414423313930",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004716099",
+"description": "연내 <b>청라</b>, 검단 등에 5~6억원대 분양하는 단지가 많은 것도 직간접적으로 청약 실적에 영향을 준 것 같다&quot;고 말했다. 송도자이더스타 이어 무순위청약 또 나오나…더샵 아크베이, 럭스오션SK뷰 등 다른 단지들도... ",
+"pubDate": "Fri, 04 Mar 2022 15:16:00 +0900"
+
+},
 {
 "title": "상명대 김미선 교수, <b>청라</b> 블루노바홀에서 제1회 정기공연 진행",
 "originallink": "https://www.job-post.co.kr/news/articleView.html?idxno=48524",
@@ -133,14 +141,6 @@
 
 },
 {
-"title": "서울 전세거래 '꽁꽁'…3년9개월만 최소",
-"originallink": "http://news.mk.co.kr/newsRead.php?no=201257&year=2022",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004929825",
-"description": "이번주 0.12% 하락한 인천에서는 서구(-0.33%)는 <b>청라</b>·경서동 주요 단지 위주로, 연수구(-0.31%)는 송도동 신축 대단지 위주로 떨어졌다. 부동산원은 &quot;대선을 앞두고 대내외 경제 불확실성이 커지며 관망세가 지속되고... ",
-"pubDate": "Thu, 03 Mar 2022 17:20:00 +0900"
-
-},
-{
 "title": "[부동산 가보니] 포스코건설, <b>청라</b>시티타워로 지역 위상 굳히기…관건은 공사...",
 "originallink": "http://theviewers.co.kr/View.aspx?No=2225519",
 "link": "http://theviewers.co.kr/View.aspx?No=2225519",
@@ -149,11 +149,11 @@
 
 },
 {
-"title": "철콘업계 &quot;20%는 올려야&quot; 건설업계 &quot;계약 벗어난 요구&quot;",
-"originallink": "http://www.edaily.co.kr/news/newspath.asp?newsid=03821206632259712",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005159453",
-"description": "공사현장으로는 △GS건설 <b>청라</b> 사업장 △현대엔지니어링 남양주 및 구로 가산 사업장 △호반건설 청주 및 광명 사업장 △대우건설 인천 한들도시개발 사업장 △포스코 송도 사업장 등 수도권 11개 사업장에서 골조 공사를... ",
-"pubDate": "Thu, 03 Mar 2022 16:28:00 +0900"
+"title": "서울 전세거래 '꽁꽁'…3년9개월만 최소",
+"originallink": "http://news.mk.co.kr/newsRead.php?no=201257&year=2022",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=009&aid=0004929825",
+"description": "이번주 0.12% 하락한 인천에서는 서구(-0.33%)는 <b>청라</b>·경서동 주요 단지 위주로, 연수구(-0.31%)는 송도동 신축 대단지 위주로 떨어졌다. 부동산원은 &quot;대선을 앞두고 대내외 경제 불확실성이 커지며 관망세가 지속되고... ",
+"pubDate": "Thu, 03 Mar 2022 17:20:00 +0900"
 
 },
 {
@@ -161,6 +161,14 @@
 "originallink": "http://www.incheontoday.com/news/articleView.html?idxno=215829",
 "link": "http://www.incheontoday.com/news/articleView.html?idxno=215829",
 "description": "경인고속도로 신월IC~ 남<b>청라</b> 구간 연장‧지하화 사업은 지난해 4월 개통한 제물포터널(신월IC~여의도IC) 진출입구 신월IC에서 경인고속도로 직선화 구간에 해당하는 수도권제2순환고속도로 남<b>청라</b>IC까지 지하로... ",
+"pubDate": "Thu, 03 Mar 2022 16:28:00 +0900"
+
+},
+{
+"title": "철콘업계 &quot;20%는 올려야&quot; 건설업계 &quot;계약 벗어난 요구&quot;",
+"originallink": "http://www.edaily.co.kr/news/newspath.asp?newsid=03821206632259712",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=018&aid=0005159453",
+"description": "공사현장으로는 △GS건설 <b>청라</b> 사업장 △현대엔지니어링 남양주 및 구로 가산 사업장 △호반건설 청주 및 광명 사업장 △대우건설 인천 한들도시개발 사업장 △포스코 송도 사업장 등 수도권 11개 사업장에서 골조 공사를... ",
 "pubDate": "Thu, 03 Mar 2022 16:28:00 +0900"
 
 },
@@ -213,18 +221,18 @@
 
 },
 {
-"title": "6주째 하락 지속한 서울 아파트 하락폭 더 커졌다…서초구는 보합 전환",
-"originallink": "http://www.newspim.com/news/view/20220303000336",
-"link": "http://www.newspim.com/news/view/20220303000336",
-"description": "서구(-0.33%)는 <b>청라</b>·경서동 주요 단지 위주로, 연수구(-0.31%)는 송도동 (준)신축 대단지 위주로 하락하며 인천 천체 낙폭을 유지했다. 경기는 이천시(0.27%)가 상승한 반면 안양 동안구(-0.36%), 과천시(-0.08%), 용인... ",
-"pubDate": "Thu, 03 Mar 2022 14:00:00 +0900"
-
-},
-{
 "title": "서울 아파트값 하락폭 확대… 25개구 중 24곳 마이너스",
 "originallink": "https://view.asiae.co.kr/article/2022030313413070524",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0005052939",
 "description": "서구(-0.33%)는 신규 입주물량 영향 있는 <b>청라</b>ㆍ경서동 위주로, 연수구(-0.31%)는 송도동 신축 대단지 위주로, 중구(-0.12%)는 중산동 중소형 위주로 하락하며 인천 전체 하락폭 유지했다. 경기도는 -0.03%로 전주(-0.04... ",
+"pubDate": "Thu, 03 Mar 2022 14:00:00 +0900"
+
+},
+{
+"title": "6주째 하락 지속한 서울 아파트 하락폭 더 커졌다…서초구는 보합 전환",
+"originallink": "http://www.newspim.com/news/view/20220303000336",
+"link": "http://www.newspim.com/news/view/20220303000336",
+"description": "서구(-0.33%)는 <b>청라</b>·경서동 주요 단지 위주로, 연수구(-0.31%)는 송도동 (준)신축 대단지 위주로 하락하며 인천 천체 낙폭을 유지했다. 경기는 이천시(0.27%)가 상승한 반면 안양 동안구(-0.36%), 과천시(-0.08%), 용인... ",
 "pubDate": "Thu, 03 Mar 2022 14:00:00 +0900"
 
 },
@@ -234,14 +242,6 @@
 "link": "http://www.joongdo.co.kr/web/view.php?key=20220303010000702",
 "description": "작은도서관은 <b>청라</b> 청호초중학교 1층에 위치하며 평일 오전 10시부터 오후 6시까지 운영한다. 서구 거주민이라면 누구나 이용할 수 있다. 현재 일반자료실과 어린이자료실에 장서 3950권이 있으며 서구는 매년 이용자... ",
 "pubDate": "Thu, 03 Mar 2022 13:46:00 +0900"
-
-},
-{
-"title": "국세청, 제56회 납세자의 날 모범납세자 1천6명 공개",
-"originallink": "http://www.taxtimes.co.kr/news/article.html?no=253862",
-"link": "http://www.taxtimes.co.kr/news/article.html?no=253862",
-"description": "지방청장 <b>청라</b>퍼스트치과의원 이수연 인천청 서인천 국세청장 주식회사 아모스아인스가구 이순종 서울청 삼성 대통령 이승기 서울청 남대문 지방청장 ㈜서원로직스 이승룡 인천청 동고양 지방청장 프론티어통상 이승무... ",
-"pubDate": "Thu, 03 Mar 2022 13:42:00 +0900"
 
 }
 ]
