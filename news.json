@@ -1,9 +1,33 @@
 {
-"lastBuildDate": "Tue, 22 Mar 2022 16:20:02 +0900",
-"total": 173209,
+"lastBuildDate": "Tue, 22 Mar 2022 16:30:02 +0900",
+"total": 173212,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "서울 7호선, 인천 <b>청라</b>까지 간다…‘2027년 개통’ 목표",
+"originallink": "https://www.donga.com/news/article/all/20220322/112475040/2",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=020&aid=0003417888",
+"description": "<b>청라</b>국제도시 연장사업이 본격 추진된다. 계획대로 사업이 진행되면 2027년 12월부터 인천 시민들의 서울 접근성이 크게 향상될 것으로 기대된다. 국토교통부 대도시권광역교통위원회는 22일 서울도시철도 7호선 <b>청라</b>... ",
+"pubDate": "Tue, 22 Mar 2022 16:26:00 +0900"
+
+},
+{
+"title": "서울지하철 7호선 <b>청라</b>까지 연장된다… '검단-<b>청라</b>' 구간 2027년 개통",
+"originallink": "http://moneys.mt.co.kr/news/mwView.php?no=2022032216028020596",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=417&aid=0000796542",
+"description": "총 1조5700여억원을 들여 <b>청라</b>지구에서 인천 검단역을 연결하는 서울도시철도 7호선 <b>청라</b>국제도시 연장선이 본격 추진된다. 국토교통부 대도시권광역교통위원회는 22일 이 같은 내용을 승인했다고 밝혔다.... ",
+"pubDate": "Tue, 22 Mar 2022 16:23:00 +0900"
+
+},
+{
+"title": "지하철 7호선, 인천 <b>청라</b> 연장 본격 추진",
+"originallink": "https://www.jeonmae.co.kr/news/articleView.html?idxno=879065",
+"link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=879065",
+"description": "지하철 7호선 인천 <b>청라</b> 연장 노선도. [연합뉴스] 서울도시철도 7호선 인천 <b>청라</b> 연장선 사업이 본격 추진된다. 이 사업은 총연장 10.7㎞ 구간에 가정역(가칭) 등 정거장 7개소를 건설하는 내용으로 2027년말 개통을... ",
+"pubDate": "Tue, 22 Mar 2022 16:22:00 +0900"
+
+},
 {
 "title": "지하철 7호선 <b>청라</b> 연장선 본격 추진… 환승 없이 강남까지 연결",
 "originallink": "http://www.m-i.kr/news/articleView.html?idxno=906061",
@@ -69,18 +93,10 @@
 
 },
 {
-"title": "인천 송도에서 구로까지 40분…7호선 연장",
+"title": "인천 <b>청라</b>에서 구로까지 40분…7호선 연장",
 "originallink": "https://biz.sbs.co.kr/article_hub/20000055255?division=NAVER",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=374&aid=0000279460",
-"description": "지하철 7호선 인천<b>청라</b> 연장선 사업이 본격 추진되면서 앞으로 인천 송도에서 서울 구로까지 40여분이면... 7호선 <b>청라</b> 연장선에는 출퇴근 시 6분, 평시는 12분 간격으로 전철을 운행할 계획으로, 공항철도... ",
-"pubDate": "Tue, 22 Mar 2022 15:10:00 +0900"
-
-},
-{
-"title": "홈플러스, 7개 점포 리뉴얼에 주변 상권 부흥까지",
-"originallink": "http://www.metroseoul.co.kr/article/20220322500381",
-"link": "http://www.metroseoul.co.kr/article/20220322500381",
-"description": "홈플러스는 지난달 17일 월드컵점, 간석점, 인천송도점, 작전점, 인천<b>청라</b>점에 이어 지난 3일 가좌점, 인하점까지 총 7개 점포를 리뉴얼 개장했다. 이들 점포는 메가푸드 마켓으로 오프라인 수요가 높은 식품 비율을... ",
+"description": "지하철 7호선 인천<b>청라</b> 연장선 사업이 본격 추진되면서 앞으로 인천 <b>청라</b>에서 서울 구로까지 40여분이면 올 수 있게 됩니다. 국토교통부 대도시권광역교통위원회는 오늘(22일) 서울도시철도 7호선 연장 사업계획을... ",
 "pubDate": "Tue, 22 Mar 2022 15:10:00 +0900"
 
 },
@@ -89,6 +105,14 @@
 "originallink": "http://www.seouleconews.com/news/articleView.html?idxno=65366",
 "link": "http://www.seouleconews.com/news/articleView.html?idxno=65366",
 "description": "서울도시철도 7호선 개찰구./연합뉴스 서울도시철도 7호선 인천 <b>청라</b> 연장선 사업이 2027년 12월 개통을 목표로 본격적으로 추진된다. 국토교통부 대도시권광역교통위원회(대광위)는 22일 '서울도시철도 7호선 <b>청라</b>국제... ",
+"pubDate": "Tue, 22 Mar 2022 15:10:00 +0900"
+
+},
+{
+"title": "홈플러스, 7개 점포 리뉴얼에 주변 상권 부흥까지",
+"originallink": "http://www.metroseoul.co.kr/article/20220322500381",
+"link": "http://www.metroseoul.co.kr/article/20220322500381",
+"description": "홈플러스는 지난달 17일 월드컵점, 간석점, 인천송도점, 작전점, 인천<b>청라</b>점에 이어 지난 3일 가좌점, 인하점까지 총 7개 점포를 리뉴얼 개장했다. 이들 점포는 메가푸드 마켓으로 오프라인 수요가 높은 식품 비율을... ",
 "pubDate": "Tue, 22 Mar 2022 15:10:00 +0900"
 
 },
@@ -218,30 +242,6 @@
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=215&aid=0001021181",
 "description": "홈플러스는 지난달 17일 월드컵점, 간석점, 인천송도점, 작전점, 인천<b>청라</b>점에 이어 지난 3일 가좌점, 인하점까지 총 7개 점포를 리뉴얼 오픈했다. 월드컵점을 제외한 6개 점포가 모두 인천에 위치해 있다. 총 11개의 인천... ",
 "pubDate": "Tue, 22 Mar 2022 13:26:00 +0900"
-
-},
-{
-"title": "서울도시철도 7호선 <b>청라</b>국제도시 연장선 2027년 개통",
-"originallink": "https://www.asiatoday.co.kr/view.php?key=20220322010012311",
-"link": "https://www.asiatoday.co.kr/view.php?key=20220322010012311",
-"description": "국토교통부 대도시권광역교통위원회는 ‘서울도시철도 7호선 <b>청라</b>국제도시 연장사업’의 사업계획을... 개통 후 <b>청라</b>에서 서울 1호선 가산디지털단지역까지 현재 78분에서 42분으로 36분 단축되고 강남까지 환승 없이... ",
-"pubDate": "Tue, 22 Mar 2022 12:54:00 +0900"
-
-},
-{
-"title": "7호선 <b>청라</b>국제도시 연장사업 착공, 사업비 1조5천억 개통 2027년",
-"originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=275210",
-"link": "https://www.businesspost.co.kr/BP?command=article_view&num=275210",
-"description": "서울도시철도 7호선을 인천 <b>청라</b>국제도시까지 연장하는 사업이 시작된다. 국토교통부 대도시권광역교통위원회는 서울도시철도 7호선 <b>청라</b>국제도시 연장사업 사업계획을 22일 승인했다고 밝혔다. 서울도시철도 7호선... ",
-"pubDate": "Tue, 22 Mar 2022 12:08:00 +0900"
-
-},
-{
-"title": "지하철 7호선 인천 <b>청라</b> 연장, <b>청라</b>∼구로 40분대 이동",
-"originallink": "http://www.opinionnews.co.kr/news/articleView.html?idxno=64356",
-"link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=64356",
-"description": "서울도시철도 7호선 인천 <b>청라</b> 연장사업 노선도. 출처=국토교통부 서울도시철도 7호선 인천 <b>청라</b> 연장선 사업이 2027년 말 개통을 목표로 본격 추진된다. 국토교통부 대도시권광역교통위원회(대광위)는 22일... ",
-"pubDate": "Tue, 22 Mar 2022 12:04:00 +0900"
 
 }
 ]
