@@ -1,9 +1,17 @@
 {
-"lastBuildDate": "Thu, 24 Mar 2022 15:20:03 +0900",
-"total": 173403,
+"lastBuildDate": "Thu, 24 Mar 2022 15:30:02 +0900",
+"total": 173404,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "서울 전셋값 8주째 하락…지난주도 0.03% 하락",
+"originallink": "https://www.ebn.co.kr/news/view/1524425/?sc=Naver",
+"link": "https://www.ebn.co.kr/news/view/1524425/?sc=Naver",
+"description": "동구(0.06%)는 정비사업 이주수요 등으로 상승했으나 입주물량 영향 등으로 대체로 하락세 지속되는 가운데 서구(-0.40%)는 <b>청라</b>·가정동 (준)신축 위주로 연수구(-0.29%)는 상대적 가격 수준 높은 송도신도시 위주로... ",
+"pubDate": "Thu, 24 Mar 2022 15:26:00 +0900"
+
+},
 {
 "title": "&quot;서울까지 한번에&quot;…서울·수도권 교통망 확충 잰걸음",
 "originallink": "https://www.ekn.kr/web/view.php?key=20220324010004119",
@@ -85,14 +93,6 @@
 
 },
 {
-"title": "전국 아파트 하락폭 줄었다…'재건축 기대감' 강남·서초구 상승 전환",
-"originallink": "http://www.newspim.com/news/view/20220324000802",
-"link": "http://www.newspim.com/news/view/20220324000802",
-"description": "서구(-0.40%)는 <b>청라</b>·가정동 (준)신축 위주로, 연수구(-0.29%)는 상대적으로 가격이 높은 송도신도시 위주로 매물 적체됐다. 경기는 용인 수지구(-0.13%)가 동천·상현동 위주로, 광명시(-0.11%)는 철산동 대단지 위주로... ",
-"pubDate": "Thu, 24 Mar 2022 14:00:00 +0900"
-
-},
-{
 "title": "'윤석열 시대' 기대감 속 강남·서초 집값 상승전환…서울은 9주째 하락",
 "originallink": "https://www.news1.kr/articles/?4626102",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0005987506",
@@ -105,6 +105,14 @@
 "originallink": "https://view.asiae.co.kr/article/2022032411542091738",
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0005063132",
 "description": "동구(-0.04%)는 송현동 구축 대단지 위주로, 서구(-0.03%)는 <b>청라</b>?가정동 (준)신축 위주로 매수세 위축되며... 서구(-0.40%)는 <b>청라</b>·가정동 신축 위주로, 연수구(-0.29%)는 상대적 가격 수준이 높은 송도신도시 위주로... ",
+"pubDate": "Thu, 24 Mar 2022 14:00:00 +0900"
+
+},
+{
+"title": "전국 아파트 하락폭 줄었다…'재건축 기대감' 강남·서초구 상승 전환",
+"originallink": "http://www.newspim.com/news/view/20220324000802",
+"link": "http://www.newspim.com/news/view/20220324000802",
+"description": "서구(-0.40%)는 <b>청라</b>·가정동 (준)신축 위주로, 연수구(-0.29%)는 상대적으로 가격이 높은 송도신도시 위주로 매물 적체됐다. 경기는 용인 수지구(-0.13%)가 동천·상현동 위주로, 광명시(-0.11%)는 철산동 대단지 위주로... ",
 "pubDate": "Thu, 24 Mar 2022 14:00:00 +0900"
 
 },
@@ -234,14 +242,6 @@
 "link": "https://sports.news.naver.com/news.nhn?oid=016&aid=0001967802",
 "description": "고군택의 드라이버 샷 스윙을 인천 베어즈베스트 <b>청라</b> 골프클럽에서 열린 신한동해오픈 최종라운드에서 촬영했다. 그의 지난 시즌 퍼포먼스를 살펴보면 드라이버 비거리가 278.37야드로 85위, 페어웨이 안착률은... ",
 "pubDate": "Thu, 24 Mar 2022 06:23:00 +0900"
-
-},
-{
-"title": "[오늘의 주요일정] 인천, 경기 부천·김포(24일, 목)",
-"originallink": "https://www.news1.kr/articles/?4625484",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005986024",
-"description": "도시철도7호선 <b>청라</b>국제도시 연장 건설공사 착공식(<b>청라</b>호수공원) ◇인천시교육청 -도성훈 교육감 13:00 평화교육 비전 선포식(인천난정평화학교) 14:30 2022년 강화 학교폭력 대책 심의 위원회 위원 정기회의및... ",
-"pubDate": "Thu, 24 Mar 2022 06:05:00 +0900"
 
 }
 ]
