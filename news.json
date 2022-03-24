@@ -1,9 +1,25 @@
 {
-"lastBuildDate": "Thu, 24 Mar 2022 15:10:02 +0900",
-"total": 173401,
+"lastBuildDate": "Thu, 24 Mar 2022 15:20:03 +0900",
+"total": 173403,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "&quot;서울까지 한번에&quot;…서울·수도권 교통망 확충 잰걸음",
+"originallink": "https://www.ekn.kr/web/view.php?key=20220324010004119",
+"link": "https://www.ekn.kr/web/view.php?key=20220324010004119",
+"description": "7호선 <b>청라</b>국제도시 연장사업’의 사업계획을 지난 22일 승인했다. 총 10.7km 구간을 연장하며 ‘가정역(가칭)’ 등 총 7개 정거장을 건설하는 사업이다. 7호선이 연장되면 인천 <b>청라</b>국제도시에서 서울 강남까지 환승... ",
+"pubDate": "Thu, 24 Mar 2022 15:16:00 +0900"
+
+},
+{
+"title": "[기고] 수소 경제와 인천",
+"originallink": "http://www.incheonilbo.com/news/articleView.html?idxno=1136672",
+"link": "http://www.incheonilbo.com/news/articleView.html?idxno=1136672",
+"description": "인천은 SK인천석유화학을 통해 연간 3만t의 수소를 생산할 계획이며 <b>청라</b>에 수소생산 클러스터를 조성해 수소생산기업을 모으고 육성할 예정이다. 또한 수소충전소 확충과 수소를 활용한 분산 전원체계 구축, 수소버스... ",
+"pubDate": "Thu, 24 Mar 2022 15:14:00 +0900"
+
+},
 {
 "title": "반년 새 1억 ‘껑충’…7호선 연장·<b>청라</b>시티타워에 불붙은 <b>청라</b>",
 "originallink": "https://www.etoday.co.kr/news/view/2116225",
@@ -69,10 +85,10 @@
 
 },
 {
-"title": "서울 아파트값 하락폭 감소… ‘강남3구’는 상승세 전환",
-"originallink": "https://view.asiae.co.kr/article/2022032411542091738",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0005063132",
-"description": "동구(-0.04%)는 송현동 구축 대단지 위주로, 서구(-0.03%)는 <b>청라</b>?가정동 (준)신축 위주로 매수세 위축되며... 서구(-0.40%)는 <b>청라</b>·가정동 신축 위주로, 연수구(-0.29%)는 상대적 가격 수준이 높은 송도신도시 위주로... ",
+"title": "전국 아파트 하락폭 줄었다…'재건축 기대감' 강남·서초구 상승 전환",
+"originallink": "http://www.newspim.com/news/view/20220324000802",
+"link": "http://www.newspim.com/news/view/20220324000802",
+"description": "서구(-0.40%)는 <b>청라</b>·가정동 (준)신축 위주로, 연수구(-0.29%)는 상대적으로 가격이 높은 송도신도시 위주로 매물 적체됐다. 경기는 용인 수지구(-0.13%)가 동천·상현동 위주로, 광명시(-0.11%)는 철산동 대단지 위주로... ",
 "pubDate": "Thu, 24 Mar 2022 14:00:00 +0900"
 
 },
@@ -85,10 +101,10 @@
 
 },
 {
-"title": "전국 아파트 하락폭 줄었다…'재건축 기대감' 강남·서초구 상승 전환",
-"originallink": "http://www.newspim.com/news/view/20220324000802",
-"link": "http://www.newspim.com/news/view/20220324000802",
-"description": "서구(-0.40%)는 <b>청라</b>·가정동 (준)신축 위주로, 연수구(-0.29%)는 상대적으로 가격이 높은 송도신도시 위주로 매물 적체됐다. 경기는 용인 수지구(-0.13%)가 동천·상현동 위주로, 광명시(-0.11%)는 철산동 대단지 위주로... ",
+"title": "서울 아파트값 하락폭 감소… ‘강남3구’는 상승세 전환",
+"originallink": "https://view.asiae.co.kr/article/2022032411542091738",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0005063132",
+"description": "동구(-0.04%)는 송현동 구축 대단지 위주로, 서구(-0.03%)는 <b>청라</b>?가정동 (준)신축 위주로 매수세 위축되며... 서구(-0.40%)는 <b>청라</b>·가정동 신축 위주로, 연수구(-0.29%)는 상대적 가격 수준이 높은 송도신도시 위주로... ",
 "pubDate": "Thu, 24 Mar 2022 14:00:00 +0900"
 
 },
@@ -226,22 +242,6 @@
 "link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005986024",
 "description": "도시철도7호선 <b>청라</b>국제도시 연장 건설공사 착공식(<b>청라</b>호수공원) ◇인천시교육청 -도성훈 교육감 13:00 평화교육 비전 선포식(인천난정평화학교) 14:30 2022년 강화 학교폭력 대책 심의 위원회 위원 정기회의및... ",
 "pubDate": "Thu, 24 Mar 2022 06:05:00 +0900"
-
-},
-{
-"title": "&quot;아산·삼성 등 해당, 비영리법인 이사회 규정 입법 미비&quot;",
-"originallink": "http://www.dailymedi.com/detail.php?number=881866&thread=22r01",
-"link": "http://www.dailymedi.com/detail.php?number=881866&thread=22r01",
-"description": "실제로 지난해 병원계 큰 관심을 끈 <b>청라</b>의료복합타운 민간사업자 선정과정에서도 사회복지재단이 운영하는 의료사업에 대해 시비가 일기도 했다. 이날 학회에 참석한 의료법 전문가 C씨는 “의료법 전문가들 사이에선... ",
-"pubDate": "Thu, 24 Mar 2022 05:52:00 +0900"
-
-},
-{
-"title": "구로까지 42분… 7호선 인천-<b>청라</b>연장선 드디어 닻 올랐다",
-"originallink": "https://www.seoul.co.kr/news/newsView.php?id=20220324014024&wlog_tag3=naver",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=081&aid=0003260426",
-"description": "인천 석남역에서 <b>청라</b>국제신도시를 연결하는 서울도시철도 7호선 연장선 사업이 착공했다. 2007년 도시철도기본계획 구상에 포함된 지 15년 만으로 <b>청라</b>국제도시 주민들의 장기 숙원사업이었다. 인천시는 23일 서구... ",
-"pubDate": "Thu, 24 Mar 2022 05:07:00 +0900"
 
 }
 ]
