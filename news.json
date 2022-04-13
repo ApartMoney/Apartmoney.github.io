@@ -1,9 +1,25 @@
 {
-"lastBuildDate": "Wed, 13 Apr 2022 15:40:02 +0900",
-"total": 174135,
+"lastBuildDate": "Wed, 13 Apr 2022 15:50:02 +0900",
+"total": 174137,
 "start": 1,
 "display": 30,
 "items": [
+{
+"title": "소각시설 노후화로 수도권매립지 쓰레기 반입량 35% 급증",
+"originallink": "http://www.asiaa.co.kr/news/articleView.html?idxno=83569",
+"link": "http://www.asiaa.co.kr/news/articleView.html?idxno=83569",
+"description": "소각하는 <b>청라</b>소각장, 서울 강서구와 영등포구 등 3개 지자체의 쓰레기를 소각하는 양천소각장, 경기... '95년 4월부터 운영한 강남소각장은 27년, 양천·광명 소각장은 26년, 과천소각장은 21년, <b>청라</b>소각장은 20년... ",
+"pubDate": "Wed, 13 Apr 2022 15:38:00 +0900"
+
+},
+{
+"title": "수도권 노후소각시설 교체시급…2026년 매립금지 시 대란 우려",
+"originallink": "https://www.news2day.co.kr/article/20220413500202",
+"link": "https://www.news2day.co.kr/article/20220413500202",
+"description": "이는 강남소각장의 경우 저장조 검사를 위해 평상시의 60% 수준으로 소각량을 줄였고, <b>청라</b>소각장... ‘95년 4월부터 운영한 강남소각장은 27년, 양천·광명 소각장은 26년, 과천소각장은 21년, <b>청라</b>소각장은 20년... ",
+"pubDate": "Wed, 13 Apr 2022 15:38:00 +0900"
+
+},
 {
 "title": "'힐스테이트 검단 웰카운티', 검단신도시 역대 최고 경쟁률 비결은?",
 "originallink": "https://economist.co.kr/2022/04/13/realEstate/realEstateNormal/20220413153652700.html",
@@ -37,18 +53,18 @@
 
 },
 {
-"title": "수도권 소각장 60%, 노후화…이대로 4년 후엔 쓰레기 대란",
-"originallink": "https://hankookilbo.com/News/Read/A2022041311150005140?did=NA",
-"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=469&aid=0000669301",
-"description": "실제 강남·<b>청라</b>·양천·광명·과천·양주 등 6개 소각장이 저장조 검사나 노후 시설 정비를 이유로 운영을 중단한 지난 3개월간 수도권매립지에 반입되는 생활폐기물이 35.1%가량 급증했다. 수도권매립지 생활폐기물... ",
-"pubDate": "Wed, 13 Apr 2022 15:02:00 +0900"
-
-},
-{
 "title": "인천서구, 주민 소통 없이 조직 존립만을 외치는 수도권매립지관리공사 질타",
 "originallink": "https://www.viva100.com/main/view.php?key=20220413010003476",
 "link": "https://www.viva100.com/main/view.php?key=20220413010003476",
 "description": "서구는 ‘2025년 수도권매립지 종료’ 및 ‘2026년 생활폐기물 직매립 금지’ 시행에 대비해 발생지 처리원칙에 따른 감량과 재활용 중심의 생활폐기물 처리 기반을 마련하고자 2026년 가동을 목표로 <b>청라</b>... ",
+"pubDate": "Wed, 13 Apr 2022 15:02:00 +0900"
+
+},
+{
+"title": "수도권 소각장 60%, 노후화…이대로 4년 후엔 쓰레기 대란",
+"originallink": "https://hankookilbo.com/News/Read/A2022041311150005140?did=NA",
+"link": "https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=469&aid=0000669301",
+"description": "실제 강남·<b>청라</b>·양천·광명·과천·양주 등 6개 소각장이 저장조 검사나 노후 시설 정비를 이유로 운영을 중단한 지난 3개월간 수도권매립지에 반입되는 생활폐기물이 35.1%가량 급증했다. 수도권매립지 생활폐기물... ",
 "pubDate": "Wed, 13 Apr 2022 15:02:00 +0900"
 
 },
@@ -226,22 +242,6 @@
 "link": "http://www.energydaily.co.kr/news/articleView.html?idxno=126993",
 "description": "소각하는 <b>청라</b>소각장, 서울 강서구와 영등포구 등 3개 지자체의 쓰레기를 소각하는 양천소각장, 경기... 1995년 4월부터 운영한 강남소각장은 27년, 양천·광명 소각장은  26년, 과천소각장은  21년, <b>청라</b>소각장은 20년... ",
 "pubDate": "Wed, 13 Apr 2022 10:22:00 +0900"
-
-},
-{
-"title": "‘힐스테이트 검단 웰카운티’ 1순위 청약 평균 80.12대 1",
-"originallink": "https://www.asiatoday.co.kr/view.php?key=20220413010007046",
-"link": "https://www.asiatoday.co.kr/view.php?key=20220413010007046",
-"description": "당첨자 발표는 오는 19일이며 민영 계약은 다음달 9~12일 4일 간, 공공 계약은 다음달 30일부터 6월 5일까지 7일 간 진행될 예정이다.견본주택은 인천광역시 <b>청라</b>국제신도시 일원에 위치해 있으며, 입주는 2025년 1월... ",
-"pubDate": "Wed, 13 Apr 2022 09:48:00 +0900"
-
-},
-{
-"title": "인천 중·동구 광역소각장 입지 타당성 조사 용역 발주",
-"originallink": "http://www.incheontoday.com/news/articleView.html?idxno=217165",
-"link": "http://www.incheontoday.com/news/articleView.html?idxno=217165",
-"description": "<b>청라</b>광역폐기물소각장의 모습.(카카오맵 로드뷰 갈무리사진) 앞서 시는 '2025년 수도권매립지 종료'를 선언한 뒤 광역별 소각장 추진 계획을 밝혔다. 이중 중·동구 권역에 일 처리용량 150톤 규모의 자원순환센터 2기(총... ",
-"pubDate": "Wed, 13 Apr 2022 09:26:00 +0900"
 
 }
 ]
