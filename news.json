@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 13 May 2022 07:10:02 +0900",
-	"total":175453,
+	"lastBuildDate":"Fri, 13 May 2022 07:20:02 +0900",
+	"total":175454,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[6.1 지방선거] 인천시교육감 4인 후보 등록… 선거전 돌입",
+			"originallink":"http:\/\/www.newscj.com\/news\/articleView.html?idxno=980597",
+			"link":"http:\/\/www.newscj.com\/news\/articleView.html?idxno=980597",
+			"description":"그는 학생 수 20명(유아 14명) 상한 법제화와 노후 교육시설을 최신식으로 리모델링하고 송도와 <b>청라<\/b>·영종 등 신도시의 학교 신설을 직접 뛰면서 추진하고 중학교 근거리 배정에도 힘쓰기로 했다. 서 후보는 &quot;코로나19로... ",
+			"pubDate":"Fri, 13 May 2022 07:16:00 +0900"
+		},
 		{
 			"title":"[6ㆍ1 지선…균형발전 뉴패러다임] 촘촘한 교통망 구축 ‘한 목소리’",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202205120923451990975",
@@ -194,13 +201,6 @@
 			"pubDate":"Thu, 12 May 2022 16:04:00 +0900"
 		},
 		{
-			"title":"인천시-대한전문건설협회, 지역 건설산업 활성화 상생 협약",
-			"originallink":"http:\/\/www.newscj.com\/news\/articleView.html?idxno=980387",
-			"link":"http:\/\/www.newscj.com\/news\/articleView.html?idxno=980387",
-			"description":" 서울도시철도 7호선 인천 <b>청라<\/b>국제도시 연장사업 참여 업체와 대한전문건설협회가 12일 '지역 건설산업... 한편 서울도시철도 7호선 <b>청라<\/b>국제도시 연장사업은 인천 서북부 지역의 대중교통 편의를 개선하고 지역... ",
-			"pubDate":"Thu, 12 May 2022 15:54:00 +0900"
-		},
-		{
 			"title":"민주당 탈당 송춘규 서구의회 의장 유정복 지지 선언",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=87952",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=87952",
@@ -208,11 +208,11 @@
 			"pubDate":"Thu, 12 May 2022 15:54:00 +0900"
 		},
 		{
-			"title":"인천시, 지역 건설산업 활성화 위해 발 벗고 나섰다",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202205121419345020138",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202205121419345020138",
-			"description":"인천시는 12일 ‘서울도시철도 7호선 <b>청라<\/b>국제도시 연장사업’ 참여 중인 금호건설 등 6개 업체 관계자와... 한편 ‘서울도시철도 7호선 <b>청라<\/b>국제도시 연장사업’은 인천 서북부 지역의 대중교통 편의를 개선하고 지역... ",
-			"pubDate":"Thu, 12 May 2022 15:42:00 +0900"
+			"title":"인천시-대한전문건설협회, 지역 건설산업 활성화 상생 협약",
+			"originallink":"http:\/\/www.newscj.com\/news\/articleView.html?idxno=980387",
+			"link":"http:\/\/www.newscj.com\/news\/articleView.html?idxno=980387",
+			"description":" 서울도시철도 7호선 인천 <b>청라<\/b>국제도시 연장사업 참여 업체와 대한전문건설협회가 12일 '지역 건설산업... 한편 서울도시철도 7호선 <b>청라<\/b>국제도시 연장사업은 인천 서북부 지역의 대중교통 편의를 개선하고 지역... ",
+			"pubDate":"Thu, 12 May 2022 15:54:00 +0900"
 		}
 	]
 }
