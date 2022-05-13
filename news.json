@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 13 May 2022 13:40:02 +0900",
-	"total":175468,
+	"lastBuildDate":"Fri, 13 May 2022 13:50:02 +0900",
+	"total":175469,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"박남춘 인천시장 후보 캠프, 유정복 '뉴홍콩시티' 공약 연일 비판",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=701300",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=701300",
+			"description":"여기서 뉴홍콩시티는 중국의 통제를 벗어나기 위해 홍콩을 빠져나가려는 다국적기업·국제기구와 금융·물류 등 홍콩의 기능을 강화군과 송도·영종·<b>청라<\/b> 국제도시로 유치하겠단 구상이다. 박 후보 캠프는 &quot;우리는... ",
+			"pubDate":"Fri, 13 May 2022 13:44:00 +0900"
+		},
 		{
 			"title":"박남춘 &quot;지키겠습니다. 당당한 인천&quot;",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=979229",
@@ -47,17 +54,17 @@
 			"pubDate":"Fri, 13 May 2022 10:38:00 +0900"
 		},
 		{
-			"title":"정용진 신세계그룹 부회장 “디지털로 피보팅하라!”",
-			"originallink":"https:\/\/weekly.donga.com\/3\/all\/11\/3377455\/1",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=037&aid=0000030835",
-			"description":"현재 신세계그룹은 경기 수원, 인천 <b>청라<\/b>, 경남 창원 등에 스타필드 신규 매장 오픈을 준비하고 있다. 또 4조 원 이상이 투입될 예정인 화성국제테마파크와 수천억 원 예산이 들어갈 돔구장 등 장기적으로... ",
-			"pubDate":"Fri, 13 May 2022 10:02:00 +0900"
-		},
-		{
 			"title":"관광수요 풍부한 영종도에 '운남 비전프라자' 상가 분양",
 			"originallink":"http:\/\/www.greendaily.co.kr\/news\/articleView.html?idxno=62270",
 			"link":"http:\/\/www.greendaily.co.kr\/news\/articleView.html?idxno=62270",
 			"description":"교통의 경우 제3연륙교, 제2공항철도, 영종 내부순환선 등이 있어 <b>청라<\/b> 생활권을 형성하고, 수도권 서부권역 관광도 가능하다. 약 110만 평의 특별계획구역도 예정돼 있다. 공항경제권의 직간접적인 수혜를 비롯해 제조... ",
+			"pubDate":"Fri, 13 May 2022 10:02:00 +0900"
+		},
+		{
+			"title":"정용진 신세계그룹 부회장 “디지털로 피보팅하라!”",
+			"originallink":"https:\/\/weekly.donga.com\/3\/all\/11\/3377455\/1",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=037&aid=0000030835",
+			"description":"현재 신세계그룹은 경기 수원, 인천 <b>청라<\/b>, 경남 창원 등에 스타필드 신규 매장 오픈을 준비하고 있다. 또 4조 원 이상이 투입될 예정인 화성국제테마파크와 수천억 원 예산이 들어갈 돔구장 등 장기적으로... ",
 			"pubDate":"Fri, 13 May 2022 10:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=218209",
 			"description":"이어 &quot;<b>청라<\/b>‧송도‧검단 등 신도시에 비해 원도심은 교통‧문화‧교육 등 환경이 매우 열악하다&quot;며... 있었지만 <b>청라<\/b>와 검단신도시 루원시티 등에 비해 상당히 낙후된 곳이 많다&quot;고 말했다. 이어 &quot;그렇다 보니 이곳이... ",
 			"pubDate":"Thu, 12 May 2022 20:08:00 +0900"
-		},
-		{
-			"title":"[<b>청라<\/b>언덕] ‘시민 향한’ 대구시향 하모니 울려 퍼지길",
-			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022051210541656135",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=110&oid=088&aid=0000757924",
-			"description":"&quot;대구시립교향악단(이하 대구시향) 기량이 너무 떨어졌다.&quot; 10년 만에 다시 음악을 맡게 되면서, 4개월 동안 가장 많이 들었던 얘기다. &quot;이젠 관심 없다. 긴장감도 없고 지루하다&quot;며 대구시향을 마음에서 떠나보낸 애호가도... ",
-			"pubDate":"Thu, 12 May 2022 20:03:00 +0900"
 		}
 	]
 }
