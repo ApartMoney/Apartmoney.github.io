@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 15 May 2022 17:30:02 +0900",
-	"total":175517,
+	"lastBuildDate":"Sun, 15 May 2022 17:40:02 +0900",
+	"total":175518,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[제물포럼] 선거, 네거티브 그리고 미디어",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1144324",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1144324",
+			"description":"수도권매립지 연장 및 인천발 KTX 개통 지연을 둘러싼 책임 공방과 제3연륙교, 7호선 <b>청라<\/b>연장, 경인고속도로 지하화, GTX-B노선 공과(功過) 다툼이 대표적인 예이다. 두 후보 캠프는 날마다 상대 후보를 공격하는 논평과... ",
+			"pubDate":"Sun, 15 May 2022 17:32:00 +0900"
+		},
 		{
 			"title":"버려진 갓난아기 숨진 채 발견...도심에서 차량 연쇄 추돌",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202205151656460918",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=055&aid=0000973125",
 			"description":"A씨는 어젯밤 9시 30분 인천시 서구 <b>청라<\/b>동 한 아파트에서 어머니 89세 B씨의 머리를 둔기로 다섯 차례 때려 살해하려 한 혐의를 받고 있습니다. B씨는 머리가 찢어지고 손가락이 골절되는 등의 상처를 입고 인근 병원으로... ",
 			"pubDate":"Sat, 14 May 2022 10:16:00 +0900"
-		},
-		{
-			"title":"80대 노모 머리 둔기로 때려 살해하려 한 딸 현장서 체포",
-			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=425913&year=2022",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=009&aid=0004963784",
-			"description":"A씨는 지난 13일 오후 9시30분께 인천시 서구 <b>청라<\/b>동 한 아파트에서 어머니 B(89)씨의 머리를 둔기로 다섯 차례 때려 살해하려는 혐의를 받는다. B씨는 인근 병원으로 옮겨져 치료를 받았으며 생명에는 지장이 없는... ",
-			"pubDate":"Sat, 14 May 2022 10:13:00 +0900"
 		}
 	]
 }
