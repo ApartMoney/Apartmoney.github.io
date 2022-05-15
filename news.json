@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 15 May 2022 11:30:02 +0900",
-	"total":175511,
+	"lastBuildDate":"Sun, 15 May 2022 11:40:02 +0900",
+	"total":175512,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 물류창고 화재...인명피해 없어",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202205151126214411",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001739288",
+			"description":"오늘(15일) 오전 9시쯤 인천 <b>청라<\/b>동에 있는 물류창고에서 불이 나 20여 분 만에 꺼졌습니다. 이 불로 다친 사람은 없었지만, 건물 외벽이 훼손됐습니다. 소방당국은 창고 밖에 있던 플라스틱 화물 운반대에서 불이 시작된... ",
+			"pubDate":"Sun, 15 May 2022 11:26:00 +0900"
+		},
 		{
 			"title":"&lt;인터뷰&gt;유정복 인천시장 후보 시민이 행복한 세계 초유의 도시 만든다.",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220515010003298",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=445123",
 			"description":"인천<b>청라<\/b>, 인하 • 경기 : 동수원, 병점, 부천상동, 북수원, 분당오리, 서수원, 송탄, 시화, 야탑, 영통, 원천, 의정부, 평택안중, 화성동탄, 화성향남 • 대구 : 내당, 대구수성, 동촌, 상인, 성서, 칠곡 • 경북\/울산... ",
 			"pubDate":"Sat, 14 May 2022 00:06:00 +0900"
-		},
-		{
-			"title":"도성훈 인천시교육감 후보, &quot;학생성공시대 만들 것&quot; <b>청라<\/b> 학부모 간담회 개최",
-			"originallink":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=350400",
-			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=350400",
-			"description":"도성훈 인천시교육감 후보가 <b>청라<\/b>지역 학부모들과 간담회를 개최했다.(사진제공=도성훈 후보 선거사무소) 인천시교육감 재선에 도전하는 도성훈 후보가 13일 <b>청라<\/b>지역 학부모들과 간담회를 개최했다. 20여명과... ",
-			"pubDate":"Fri, 13 May 2022 22:22:00 +0900"
 		}
 	]
 }
