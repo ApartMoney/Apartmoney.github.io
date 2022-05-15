@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 16 May 2022 00:00:02 +0900",
-	"total":175524,
+	"lastBuildDate":"Mon, 16 May 2022 00:10:02 +0900",
+	"total":175525,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[선거 레이더] 이병택 국민의힘 계양구청장 후보 대담",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SC70000000&idx=336103",
+			"link":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SC70000000&idx=336103",
+			"description":"이병택\/ &quot;서울 2호선 <b>청라<\/b> 연장 추진 계획&quot; &quot;서운, 작전, 효성 잇는 '홍대-대장선' 연장 추진&quot; &quot;GTX-D조기 완공 통해 접근 편의성 높일 것&quot; &quot;수도권 제1순환고속도로 부천-계양 구간 지하화&quot; 국토부, 서울 2호선 <b>청라<\/b> 연장을... ",
+			"pubDate":"Mon, 16 May 2022 00:02:00 +0900"
+		},
 		{
 			"title":"버려진 갓난아기 숨진 채 발견...도심에서 차량 연쇄 추돌",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202205152227307990",
@@ -138,17 +145,17 @@
 			"pubDate":"Sat, 14 May 2022 21:31:00 +0900"
 		},
 		{
-			"title":"인천경서3지구 도시개발사업 막바지에...",
-			"originallink":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=17266",
-			"link":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=17266",
-			"description":"인천경서3지구위치도=사진\/인천 서구청 홈페이지 <b>청라<\/b>국제도시와 근접해 있는 인천경서3지구(경서동 124... 인천경서3지구는  검암,연희,경서등 인천서북부에 인접해 있으며,  <b>청라<\/b>국제도시와도 인접해있어 그가치가... ",
-			"pubDate":"Sat, 14 May 2022 20:16:00 +0900"
-		},
-		{
 			"title":"이정미 인천시장 후보, 선거사무소 개소 &quot;첫 여성 광역단체장 되겠다&quot;",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220514010003045",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220514010003045",
 			"description":"미래로 가는 도시, 세계로 가는 도시의 자부심이 될 수 있으려면 정치의 새로운 변화, 새로운 물길이 필요하다고 본다&quot;며 &quot;이정미가 그것을 꼭 해내겠다&quot;고 다짐했다또 이 후보는 &quot;인천에는 개항장, 송도와 <b>청라<\/b>국제도시... ",
+			"pubDate":"Sat, 14 May 2022 20:16:00 +0900"
+		},
+		{
+			"title":"인천경서3지구 도시개발사업 막바지에...",
+			"originallink":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=17266",
+			"link":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=17266",
+			"description":"인천경서3지구위치도=사진\/인천 서구청 홈페이지 <b>청라<\/b>국제도시와 근접해 있는 인천경서3지구(경서동 124... 인천경서3지구는  검암,연희,경서등 인천서북부에 인접해 있으며,  <b>청라<\/b>국제도시와도 인접해있어 그가치가... ",
 			"pubDate":"Sat, 14 May 2022 20:16:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=003&aid=0011184248",
 			"description":"A씨는 전날 오후 9시30분께 인천 서구 <b>청라<\/b>동의 아파트에서 친모 B(89)씨의 머리를 둔기로 다섯 차례 때려 살해하려 한 혐의를 받고 있다. B씨는 머리와 손가락 등을 다쳐 인근 병원에서 치료받았으며 생명에는 지장이... ",
 			"pubDate":"Sat, 14 May 2022 12:23:00 +0900"
-		},
-		{
-			"title":"둔기로 80대 어머니 살해하려 한 60대 딸 체포",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202205141110555898",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001739013",
-			"description":"A 씨는 어젯밤(13일) 9시 반쯤 인천 <b>청라<\/b>동 자택에서 80대 어머니에게 둔기를 휘둘러 살해하려 한 혐의를 받습니다. 도망쳐 나온 어머니는 이웃 주민의 신고로 병원으로 옮겨졌고, 생명에 지장은 없는 것으로... ",
-			"pubDate":"Sat, 14 May 2022 11:10:00 +0900"
 		}
 	]
 }
