@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 16 May 2022 23:40:02 +0900",
-	"total":175547,
+	"lastBuildDate":"Mon, 16 May 2022 23:50:02 +0900",
+	"total":175548,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이준석 &quot;계양 정치적으로 이용 안해…인천 교통·경제 발전시킬 것&quot;",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4682283",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=100&oid=421&aid=0006095836",
+			"description":"이 대표는 이날 오후 인천시 계양구 계산역 앞에서 열린 윤형선 계양을 후보 유세에 동행해 &quot;인천이 발전하고 <b>청라<\/b>·송도를 이어 국제도시로 발돋움할 과정에 미완의 과정이 있었다&quot;며 &quot;인천의 발전을 더 이상 늦출 수는... ",
+			"pubDate":"Mon, 16 May 2022 23:44:00 +0900"
+		},
 		{
 			"title":"인천경기기자협회 등 공동 개최 '인천시장 후보자 초청 토론회'",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220516010003504",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1144324",
 			"description":"수도권매립지 연장 및 인천발 KTX 개통 지연을 둘러싼 책임 공방과 제3연륙교, 7호선 <b>청라<\/b>연장, 경인고속도로 지하화, GTX-B노선 공과(功過) 다툼이 대표적인 예이다. 두 후보 캠프는 날마다 상대 후보를 공격하는 논평과... ",
 			"pubDate":"Sun, 15 May 2022 17:32:00 +0900"
-		},
-		{
-			"title":"버려진 갓난아기 숨진 채 발견...도심에서 차량 연쇄 추돌",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202205151656460918",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=052&aid=0001739368",
-			"description":"인천 <b>청라<\/b>동의 한 물류공장에서 불이 나 건물 외벽이 그을렸습니다. 경찰과 소방 당국은 창고 밖에 있던 플라스틱 화물 운반대에서 불이 시작된 것으로 보고 화재 원인을 조사하고 있습니다. 지난 13일 새벽, 서울의... ",
-			"pubDate":"Sun, 15 May 2022 16:56:00 +0900"
 		}
 	]
 }
