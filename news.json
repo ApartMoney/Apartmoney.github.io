@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 18 May 2022 06:30:03 +0900",
-	"total":175597,
+	"lastBuildDate":"Wed, 18 May 2022 06:40:02 +0900",
+	"total":175598,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘제13회 대구꽃박람회’ 다음달 3일 엑스코 동관서 개최",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20220518000012",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=016&aid=0001991996",
+			"description":"올해는 ‘주제관(내맘속 정원)’을 비롯한 12개 작품이 장관상을 겨루는 ‘<b>청라<\/b>상관’, 대구시와 경북도 등 지자체 및 화훼 관련 단체가 참가하는 ‘지자체관’이 꾸며진다. 더불어 난, 분재, 야생화, 생활 꽃꽂이... ",
+			"pubDate":"Wed, 18 May 2022 06:30:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>호수공원 걸으며 생태체험",
 			"originallink":"https:\/\/www.donga.com\/news\/article\/all\/20220517\/113451732\/1",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220517010004165",
 			"description":"영종·<b>청라<\/b>·송도·계양을 잇는 K-영상 밸리 축을 구축한다. 영종은 IFUS힐 영상 복합 단지를 중심으로 국내 대표 영상제작사나 글로벌 콘텐츠기업과의 협력 플랫폼을 구축해 영상 진흥단지를 조성한다. <b>청라<\/b>는 <b>청라<\/b>... ",
 			"pubDate":"Tue, 17 May 2022 18:02:00 +0900"
-		},
-		{
-			"title":"이재준 수원시장 후보“화성국제공항통해 새로운 길 열 것”…군공항 이전 새...",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/26608BB8HR",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=011&aid=0004054743",
-			"description":"이어 “과거 인천 국제공항의 건설과 함께 영종·<b>청라<\/b>·송도 지역이 3대 경제자유구역으로 지정된 점을 벤치마킹해 화성·수원·오산지역과 평택, 천안 등 경기남부 지역을 경제자유구역으로 지정될 수 있도록... ",
-			"pubDate":"Tue, 17 May 2022 17:29:00 +0900"
 		}
 	]
 }
