@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 18 May 2022 15:50:02 +0900",
-	"total":175648,
+	"lastBuildDate":"Wed, 18 May 2022 16:00:02 +0900",
+	"total":175649,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인터뷰] '보수 단일화' 최계운 인천시교육감 후보",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220518010003962",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220518010003962",
+			"description":"그는 &quot;지역마다 신도시가 발전하는 속도가 다 다르므로 정부가 송도국제도시나 <b>청라<\/b>국제도시, 검단신도시 등의 교육 여건을 모두 알 수는 없는 것&quot;이라며 &quot;다른 시·도 교육감과 연계해 학교 신설·증설 권한이 각 시·도... ",
+			"pubDate":"Wed, 18 May 2022 15:54:00 +0900"
+		},
 		{
 			"title":"LG CNS, 부산 스마트시티 사업 수주… 5조4000억원 규모",
 			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=584773",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=25165",
 			"description":"서울시 U-서울마스터플랜 수립, 판교 U-city, <b>청라<\/b> U-city, 마곡 U-city 구축 등 2000년대의 스마트시티라 불리는 U-city 구축 사업을 다수 수행했다. '세종 5-1생활권' 기본구상에 참여해 스마트시티 국가시범도시 모델을... ",
 			"pubDate":"Wed, 18 May 2022 12:38:00 +0900"
-		},
-		{
-			"title":"LG CNS, '부산스마트시티사업' 우선협상대상자 선정",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202205181217158438",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=105&oid=014&aid=0004838175",
-			"description":"서울시 U-서울마스터플랜 수립, 판교 U-시티, <b>청라<\/b> U-시티, 마곡 U-시티 구축 등 스마트시티 사업을 다수 수행했다. ‘세종 5-1생활권’ 기본구상에 참여해 스마트시티 국가시범도시 모델을 그렸으며, 제주 스마트시티... ",
-			"pubDate":"Wed, 18 May 2022 12:28:00 +0900"
 		}
 	]
 }
