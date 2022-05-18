@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 18 May 2022 20:30:02 +0900",
-	"total":175668,
+	"lastBuildDate":"Wed, 18 May 2022 20:40:03 +0900",
+	"total":175669,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'유네스코 대구 뮤직워크' 21일부터 1주일간",
+			"originallink":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=929572",
+			"link":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=929572",
+			"description":"다양한 장르의 지역 뮤지션 63개 팀(1일 9회)이 2·28 기념 중앙공원, 두류공원, <b>청라<\/b>언덕, 김광석길, 계산성당, 하중도 등 주요 지점 곳곳에서 거리공연을 펼친다. 지역 뮤지션 외에도 문화예술에 관심 있는 대구 시민들이... ",
+			"pubDate":"Wed, 18 May 2022 20:28:00 +0900"
+		},
 		{
 			"title":"유정복 인천시장 후보, 서구 지역 발전 위한 공약 발표",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=980063",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.datanet.co.kr\/news\/articleView.html?idxno=172729",
 			"description":"서울시 U-서울마스터플랜 수립, 판교 U-시티, <b>청라<\/b> U-시티, 마곡 U-시티 구축 등 2000년대의 스마트시티라 불리는 U-시티 구축 사업을 다수 수행했다. '세종 5-1생활권' 기본구상에 참여해 스마트시티 국가시범도시... ",
 			"pubDate":"Wed, 18 May 2022 14:56:00 +0900"
-		},
-		{
-			"title":"LG CNS, 부산 스마트시티 국가시범도시 우선협상대상자로 선정돼",
-			"originallink":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=571767",
-			"link":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=571767",
-			"description":"서울시 U-서울마스터플랜 수립, 판교 U-city, <b>청라<\/b> U-city, 마곡 U-city 구축 등 2000년대의 스마트시티라 불리는 U-city 구축 사업을 다수 수행했다. 세종 5-1생활권 기본구상에 참여해 스마트시티 국가시범도시 모델을... ",
-			"pubDate":"Wed, 18 May 2022 14:54:00 +0900"
 		}
 	]
 }
