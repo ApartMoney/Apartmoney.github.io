@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Wed, 18 May 2022 15:10:02 +0900",
-	"total":175640,
+	"lastBuildDate":"Wed, 18 May 2022 15:20:02 +0900",
+	"total":175643,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'3.2조 세종' 이어… LG CNS, 부산에 5.4조 스마트시티 짓는다",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022051814311828800",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=105&oid=008&aid=0004747655",
+			"description":"이미 2005년부터 스마트시티 사업을 진행한 LG CNS는 서울시 U-서울마스터플랜 수립을 비롯해 판교·<b>청라<\/b>·마곡 등 지역에 2000년대 스마트시티 개념인 '유-시티'(U-city) 구축 사업을 수행하며 노하우를 쌓았다. 유... ",
+			"pubDate":"Wed, 18 May 2022 15:16:00 +0900"
+		},
+		{
+			"title":"LG CNS, 5.4조 규모 부산 스마트시티 시범사업 수주",
+			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20220518151308",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002257149",
+			"description":"서울시 U-서울마스터플랜 수립, 판교 U-city, <b>청라<\/b> U-city, 마곡 U-city 구축 등 2000년대의 스마트시티라 불리는 U-city 구축 사업을 다수 수행했다. ‘세종 5-1생활권’ 기본구상에 참여해 스마트시티 국가시범도시 모델을... ",
+			"pubDate":"Wed, 18 May 2022 15:14:00 +0900"
+		},
+		{
+			"title":"내가 버린 장난감은 어디로 갈까... '무지개로 돌아온 내 장난감'",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88065",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88065",
+			"description":"서구문화재단이 5월 17일부터 29일까지 <b>청라<\/b>블루노바홀 B1 전시실에서 '토이싸이클(TOY CYCLE)-무지개로... 이외에도 <b>청라<\/b>호수공원 일대에서 펼쳐지는 시민 연대 프로그램 '프린지 인천과 함께하는 플로깅' 체험과... ",
+			"pubDate":"Wed, 18 May 2022 15:10:00 +0900"
+		},
 		{
 			"title":"[사설] 지역양극화 해소할 공식 선거운동 돼야",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1144878",
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.breaknews.com\/895741",
 			"description":"다양한 장르의 지역의 뛰어난 실력을 갖춘 뮤지션 63개 팀(1일 9회)이 2·28 기념 중앙공원, 두류공원, <b>청라<\/b>언덕, 김광석길, 계산성당, 하중도 등 주요 지점 곳곳에서... ",
 			"pubDate":"Wed, 18 May 2022 10:54:00 +0900"
-		},
-		{
-			"title":"유네스코 대구 뮤직위크, 뮤지컬배우 마이클 리·YB·효린 등 찾는다",
-			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022051810401149061",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=103&oid=088&aid=0000758610",
-			"description":"다양한 장르에서 뛰어난 실력을 갖춘 뮤지션 63개 팀이 2·28기념 중앙공원, 두류공원, <b>청라<\/b>언덕, 김광석길, 계산성당, 하중도 등에서 하루 9차례 거리공연을 펼친다. 지역 뮤지션 외에도 문화예술에 관심 있는 대구... ",
-			"pubDate":"Wed, 18 May 2022 10:44:00 +0900"
-		},
-		{
-			"title":"원빈, ‘<b>청라<\/b> 더리브 티아모 까사’ 광고모델 발탁",
-			"originallink":"http:\/\/www.sentv.co.kr\/news\/view\/619935",
-			"link":"http:\/\/www.sentv.co.kr\/news\/view\/619935",
-			"description":"인천 <b>청라<\/b>국제도시에 들어서는 초고층 랜드마크 오피스텔 ‘<b>청라<\/b> 더리브 티아모 까사’의 광고모델로 배우 원빈이 발탁됐다.18일 분양 업계에 따르면 원빈은 TV CF를 시작으로 온라인, 영상, 옥외매체 등 다양한 매체를... ",
-			"pubDate":"Wed, 18 May 2022 10:44:00 +0900"
-		},
-		{
-			"title":"유정복, &quot;매립지 품은 서구 복덩어리 될 것&quot;...서구 공약 발표",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1144832",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1144832",
-			"description":"2호선 <b>청라<\/b>연장 ▲서울 5호선 검단-김포-강화 연장 추진 ▲순환형 인천 3호선 건설 등이 있다. 또, 인천 2호선 1대 2량→4량 증량과 연안부두-서구-부평역 트램 건설도 계획돼 있다. 이와 함께 미래 발전을 위해 <b>청라<\/b>에... ",
-			"pubDate":"Wed, 18 May 2022 10:44:00 +0900"
 		}
 	]
 }
