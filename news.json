@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 19 May 2022 12:50:02 +0900",
-	"total":175696,
+	"lastBuildDate":"Thu, 19 May 2022 13:00:03 +0900",
+	"total":175697,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[19일 인천 서구 소식] 149번째 '칭찬릴레이 주인공’ 선정 등",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20220519500135",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20220519500135",
+			"description":"‘공유용기 서비스 사업’ 배달음식점 시범 실시 인천 서구는 지난 18일 <b>청라<\/b>지역 중식당을 시작으로 배달음식점에서 배달음식 주문 시 소비자가 다회용기 사용 여부를 선택할 수 있는 ‘공유용기 서비스 사업’을 시범... ",
+			"pubDate":"Thu, 19 May 2022 12:58:00 +0900"
+		},
 		{
 			"title":"민주당 박남춘·이재명 출정식에 당 지도부 대거 출동",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88090",
@@ -96,17 +103,17 @@
 			"pubDate":"Thu, 19 May 2022 08:50:00 +0900"
 		},
 		{
-			"title":"[더벨][건설리포트]두산건설, 신규 수주 부진 '옥에 티'",
-			"originallink":"http:\/\/www.thebell.co.kr\/front\/free\/contents\/news\/article_view.asp?key=202205181541231440102957",
-			"link":"http:\/\/www.thebell.co.kr\/front\/free\/contents\/news\/article_view.asp?key=202205181541231440102957",
-			"description":"두산건설은 이번 1분기 '서울도시철도7호선 <b>청라<\/b>국제도시 연장4공구 건설공사' 단 한 건을 수주하는데 그쳤다. 사업비 약 1350억원 규모의 공사로 두산건설이 보유한 지분 55%에 대한 744억원정도가 수주고로 인식됐다.... ",
-			"pubDate":"Thu, 19 May 2022 07:12:00 +0900"
-		},
-		{
 			"title":"[더벨][중견건설사 재무점검]SGC이테크건설, 뚜렷한 현금 증가세…'개발' 힘실...",
 			"originallink":"http:\/\/www.thebell.co.kr\/front\/free\/contents\/news\/article_view.asp?key=202205171616523760107334",
 			"link":"http:\/\/www.thebell.co.kr\/front\/free\/contents\/news\/article_view.asp?key=202205171616523760107334",
 			"description":"지난 2월에는 인천 <b>청라<\/b>국제도시에서 1400억원 규모 주거용 오피스텔 신축 공사를 수주해 현재 ‘<b>청라<\/b> 더리브 티아모 까사’ 이름으로 분양을 계획 중이다. 올해 현금 증가에는 금호티앤엘과 소송전이 일단락된... ",
+			"pubDate":"Thu, 19 May 2022 07:12:00 +0900"
+		},
+		{
+			"title":"[더벨][건설리포트]두산건설, 신규 수주 부진 '옥에 티'",
+			"originallink":"http:\/\/www.thebell.co.kr\/front\/free\/contents\/news\/article_view.asp?key=202205181541231440102957",
+			"link":"http:\/\/www.thebell.co.kr\/front\/free\/contents\/news\/article_view.asp?key=202205181541231440102957",
+			"description":"두산건설은 이번 1분기 '서울도시철도7호선 <b>청라<\/b>국제도시 연장4공구 건설공사' 단 한 건을 수주하는데 그쳤다. 사업비 약 1350억원 규모의 공사로 두산건설이 보유한 지분 55%에 대한 744억원정도가 수주고로 인식됐다.... ",
 			"pubDate":"Thu, 19 May 2022 07:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=929572",
 			"description":"다양한 장르의 지역 뮤지션 63개 팀(1일 9회)이 2·28 기념 중앙공원, 두류공원, <b>청라<\/b>언덕, 김광석길, 계산성당, 하중도 등 주요 지점 곳곳에서 거리공연을 펼친다. 지역 뮤지션 외에도 문화예술에 관심 있는 대구 시민들이... ",
 			"pubDate":"Wed, 18 May 2022 20:28:00 +0900"
-		},
-		{
-			"title":"유정복 인천시장 후보, 서구 지역 발전 위한 공약 발표",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=980063",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=980063",
-			"description":"<b>청라<\/b> 연장 ▶서울5호선 검단~김포~강화 연장 ▶순환형 인천지하철3호선 건설 등을 내놨다. 또 인천2호선 증량, 연안부두~서구~부평역 트램 건설도 공약에 포함됐다. 이 밖에도 유 후보는 서구 미래 발전을 목표로 ▶<b>청라<\/b>... ",
-			"pubDate":"Wed, 18 May 2022 19:54:00 +0900"
 		}
 	]
 }
