@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 19 May 2022 14:30:03 +0900",
-	"total":175704,
+	"lastBuildDate":"Thu, 19 May 2022 14:40:02 +0900",
+	"total":175705,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 배달음식점 '공유용기 서비스 사업' 시범운영",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220519_0001877563&cID=14001&pID=14000",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=003&aid=0011195469",
+			"description":"인천 서구는 최근 <b>청라<\/b>동 한 중식당을 시작으로 배달음식점 주문 시 소비자가 다회용기 사용 여부를 선택할 수 있는 '공유용기 서비스 사업'을 시범운영 중이라고 19일 밝혔다. 이 서비스는 서로e음 앱에 접속해 '배달서구... ",
+			"pubDate":"Thu, 19 May 2022 14:29:00 +0900"
+		},
 		{
 			"title":"봄꽃 만발한 5월… 걷기 좋은 인천 둘레길 10곳",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88094",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=100&oid=079&aid=0003644533",
 			"description":"수도권매립지 연장 및 인천발 KTX 개통 지연 책임 문제와 제3연륙교, 7호선 <b>청라<\/b>연장, 경인고속도로 지하화, GTX B노선 등에 대한 공과를 놓고 다투고 있다. 특히 수도권매립지와 관련해서는 유 후보가 박 후보를 향해 &quot;(박... ",
 			"pubDate":"Thu, 19 May 2022 05:37:00 +0900"
-		},
-		{
-			"title":"[오늘의 주요일정] 정치·정부(19일, 목)",
-			"originallink":"https:\/\/www.news1.kr\/articles\/?4684956",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=100&oid=421&aid=0006101574",
-			"description":"출정식롯데마트 <b>청라<\/b>점 앞 교통섬(<b>청라<\/b>커낼로 252) 19:00 <b>청라<\/b>국제도시 커낼웨이 상가 인사(<b>청라<\/b>비전프라자, 중봉대로 594) 21:00 계양구청 앞 상가 골목 유세(계양보건소 앞, 계산새로 88) -윤호중... ",
-			"pubDate":"Thu, 19 May 2022 05:00:00 +0900"
 		}
 	]
 }
