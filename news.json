@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 22 May 2022 12:30:02 +0900",
-	"total":175808,
+	"lastBuildDate":"Sun, 22 May 2022 12:40:02 +0900",
+	"total":175809,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[대구소식] 남구, 청소년 농부학교 운영 등",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220522_0001880484&cID=10810&pID=10800",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=003&aid=0011200373",
+			"description":"◇중구, 친환경 해충퇴치용 포충기 설치 대구시 중구는 중구 골목투어 관광지인 <b>청라<\/b>언덕에 포충기를 설치했다고 22일 밝혔다. 이번 포충기 설치는 최근 기온 상승으로 해충 확산이 우려돼 마련됐다. 해충이 선호하는... ",
+			"pubDate":"Sun, 22 May 2022 12:29:00 +0900"
+		},
 		{
 			"title":"보령시, '보령의 공예, 의미의 확장전(展)'개최",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220521010005484",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1553993",
 			"description":"권역별 육성 산업은 △송도 : 첨단의료복합단지, 바이오 원부자재 상용화, K-바이오랩 허브 등 바이오혁신 클러스터 헬스 밸리 육성 △영종 : 항공정비단지 (MRO) 조성과 공항경제권 조성 △<b>청라<\/b> : 수소 에너지와 로봇산업... ",
 			"pubDate":"Sat, 21 May 2022 11:40:00 +0900"
-		},
-		{
-			"title":"유정복 후보, “글로벌기업유치 4차산업육성…100조 시대 연다”",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1553973",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1553973",
-			"description":"권역별 육성 산업은 △송도 첨단의료복합단지, 바이오 원부자재 상용화, K-바이오랩 허브 등 바이오혁신 클러스터 헬스 밸리 육성 △영종 항공정비단지 (MRO) 조성과 공항경제권 조성 △<b>청라<\/b> 수소 에너지와 로봇산업 중심... ",
-			"pubDate":"Sat, 21 May 2022 11:34:00 +0900"
 		}
 	]
 }
