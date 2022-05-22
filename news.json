@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 22 May 2022 13:50:02 +0900",
-	"total":175810,
+	"lastBuildDate":"Sun, 22 May 2022 14:00:02 +0900",
+	"total":175811,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시 '보령의 공예, 의미의 확장전(展)' 개최",
+			"originallink":"http:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2005704",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=656&aid=0000013088",
+			"description":"전시는 오는 29일까지 <b>청라<\/b>면에 있는 '대안공간 space TAN'에서 보령의 석공예와 벼루 공예의 역사와 기록이 담긴 아카이브 전시 및 테마별 스타일링 전시로 진행된다. 특히 올해는 청년창업가들과의 협업으로 보령의... ",
+			"pubDate":"Sun, 22 May 2022 13:55:00 +0900"
+		},
 		{
 			"title":"보령시, 29일까지 '보령의 공예, 의미의 확장전' 개최",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1554212",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20220521133221241",
 			"description":"유 후보는 또 권역별 육성 산업으로 &quot;△송도 – 첨단의료복합단지, 바이오 원부자재 상용화, K-바이오랩 허브 등 바이오혁신 클러스터 헬스 밸리 육성 △영종 – 항공정비단지 (MRO) 조성과 공항경제권 조성 △<b>청라<\/b> – 수소... ",
 			"pubDate":"Sat, 21 May 2022 13:52:00 +0900"
-		},
-		{
-			"title":"호반건설, 인천 영종국제도시 ‘호반써밋 스카이센트럴 2차’ 분양 예고",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1115624\/?sc=Naver",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002605818",
-			"description":"특히 제3연륙교가 개통되면 <b>청라<\/b>국제도시와 바로 연결돼 스타필드 <b>청라<\/b>(예정), 코스트코 <b>청라<\/b>점(예정), <b>청라<\/b>의료복합타운(예정) 등 <b>청라<\/b>국제도시의 생활 인프라도 편리하게 이용할 수 있다. 단지 인근 상업시설... ",
-			"pubDate":"Sat, 21 May 2022 13:01:00 +0900"
 		}
 	]
 }
