@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 23 May 2022 09:30:02 +0900",
-	"total":175840,
+	"lastBuildDate":"Mon, 23 May 2022 09:40:02 +0900",
+	"total":175841,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"5월 문화가있는날 주간, '청춘마이크 인천권' 비대면 공연",
+			"originallink":"http:\/\/www.mhns.co.kr\/news\/articleView.html?idxno=527730",
+			"link":"http:\/\/www.mhns.co.kr\/news\/articleView.html?idxno=527730",
+			"description":"대면 장소는 <b>청라<\/b> 커넬웨이(서구), 자유공원(중구), 강화풍물시장(강화군), 케이슨24(연수구), 부평 문화의 거리(부평구) 등 총 14곳의 장소를 발굴하여 진행하며 청년예술가들의 버스킹 공연이 연간 110회 가량 진행된다.... ",
+			"pubDate":"Mon, 23 May 2022 09:32:00 +0900"
+		},
 		{
 			"title":"외곽부터 무너지는 부동산시장… 오피스텔 인기 '시들'",
 			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=470308",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=656&aid=0000013088",
 			"description":"전시는 오는 29일까지 <b>청라<\/b>면에 있는 '대안공간 space TAN'에서 보령의 석공예와 벼루 공예의 역사와 기록이 담긴 아카이브 전시 및 테마별 스타일링 전시로 진행된다. 특히 올해는 청년창업가들과의 협업으로 보령의... ",
 			"pubDate":"Sun, 22 May 2022 13:55:00 +0900"
-		},
-		{
-			"title":"보령시, 29일까지 '보령의 공예, 의미의 확장전' 개최",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1554212",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1554212",
-			"description":"전시는 <b>청라<\/b>면에 있는 ‘대안공간 space TAN’(<b>청라<\/b>면 청성로)에서 보령의 석공예와 벼루 공예의 역사와 기록이 담긴 아카이브 전시 및 테마별 스타일링 전시로 진행된다. 특히 올해는 청년창업가들과의... ",
-			"pubDate":"Sun, 22 May 2022 13:44:00 +0900"
 		}
 	]
 }
