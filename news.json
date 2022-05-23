@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 23 May 2022 20:30:02 +0900",
-	"total":175872,
+	"lastBuildDate":"Mon, 23 May 2022 20:40:03 +0900",
+	"total":175873,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"국내 최대 실내 플라워 쇼 '대구꽃박람회' 6월 3일 개막",
+			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2102748",
+			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2102748",
+			"description":"올해는 '꽃으로 디자인하다'를 주제로 '주제관(내맘속 정원)'을 비롯한 12개 작품이 장관상을 겨루는 '<b>청라<\/b>상관', 경북도와 대구시 등 지자체 화훼 관련 단체가 참가하는 '지자체관'으로 구성된다. 난, 분재, 야생화, 생활... ",
+			"pubDate":"Mon, 23 May 2022 20:34:00 +0900"
+		},
 		{
 			"title":"인천 서구청장 지지율 김종인 37.5%, 강범석 51.4%",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88182",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004840311",
 			"description":"실제로, 인천 서구는 검단신도시, <b>청라<\/b>국제도시 등의 도시개발이 한창 이어지고 있어 정주여건이 향상되고 있다. 뿐만 아니라 인천지하철1호선 검단연장선(‘24년 개통예정)과 서울지하철7호선 <b>청라<\/b>연장선(‘27년... ",
 			"pubDate":"Mon, 23 May 2022 11:00:00 +0900"
-		},
-		{
-			"title":"도성훈 후보, 유세 때마다 지역별 맞춤형 공약 제시",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=407503",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=407503",
-			"description":"도 후보는 앞서 21일 서구 지역을 돌면서는 <b>청라<\/b> 국제도시에 고등학교를 추가로 설립하겠다고 밝혔다. 매년 <b>청라<\/b>지역의 중학교 졸업생 절반 정도가 <b>청라<\/b>가 아닌 다른 곳에 위치한 고등학교로 배정받아 장거리 통학을 해야... ",
-			"pubDate":"Mon, 23 May 2022 10:08:00 +0900"
 		}
 	]
 }
