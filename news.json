@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 24 May 2022 14:50:02 +0900",
-	"total":175949,
+	"lastBuildDate":"Tue, 24 May 2022 15:00:03 +0900",
+	"total":175950,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[정치포차] 제8회 지방선거 민주당 김종인 인천 서구청장 후보",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=218637",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=218637",
+			"description":"김종인 후보와 정치포차는 지난 5월 10일 오후 5시 30분에 인천 서구 <b>청라<\/b>동 소재 음식점 '널그리며'에서 진행했다. 이날 정치포차 시민패널로 수도권매립지종료주민대책위원회의 백진기 위원장이 참여했다.",
+			"pubDate":"Tue, 24 May 2022 14:54:00 +0900"
+		},
 		{
 			"title":"인천 영종지구 주택개발 리츠 사업자 공모",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88201",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0004057299",
 			"description":"지난해 7호선 부평구청역과 인천 2호선 석남역을 잇는 석남연장선이 개통했고, 2027년 <b>청라<\/b>국제도시역까지 한차례 더 연장이 계획돼 있다. 또한 인천지하철 2호선은 검단신도시와 김포, 일산까지 연결되는 방안도... ",
 			"pubDate":"Tue, 24 May 2022 10:21:00 +0900"
-		},
-		{
-			"title":"LH, 인천 영종 A18·19·20BL '주택개발 공모리츠' 민간사업자 공모",
-			"originallink":"http:\/\/www.thereport.co.kr\/news\/articleView.html?idxno=14954",
-			"link":"http:\/\/www.thereport.co.kr\/news\/articleView.html?idxno=14954",
-			"description":"인천대교 인근에 위치해 있어 수도권 접근성이 양호하며, 제3연륙교 완공 시 <b>청라<\/b>지구 인프라 이용이 가능하고 서울 서부권 접근성이 더욱 향상될 전망이다. 또 지구 인근 복합리조트 사업이 활발하고 항공정비산업... ",
-			"pubDate":"Tue, 24 May 2022 10:20:00 +0900"
 		}
 	]
 }
