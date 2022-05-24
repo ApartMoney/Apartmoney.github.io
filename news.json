@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Tue, 24 May 2022 09:40:03 +0900",
-	"total":175908,
+	"lastBuildDate":"Tue, 24 May 2022 09:50:02 +0900",
+	"total":175914,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"LH, 6월 인천 영종 '주택개발 공모리츠' 사업자 공모",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2663DRITP5",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0004057262",
+			"description":"제3연륙교 완공 시 <b>청라<\/b> 지구 인프라를 이용할 수 있고 서울 서부권 접근성이 향상될 수 있다. LH는 6월 7~9일 참가의향서를 접수하고 8월 18일 사업신청서를 받아 9월 중 우선협상대상자를 선정할 예정이다.... ",
+			"pubDate":"Tue, 24 May 2022 09:43:00 +0900"
+		},
+		{
+			"title":"인천주민단체 인천공항 민영화 반대선언 요구",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017108871&code=61121111&cp=nv",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=005&aid=0001528191",
+			"description":"영종국제도시총연합회,비법인사단올댓송도,<b>청라<\/b>국제도시카페,서창지구연합회,검단주민총연합회 등으로 구성된 인천광역시총연합회(이하 인천총연)는 24일 성명서를 통해 인천국제공항 민영화계획에 대해 사과를... ",
+			"pubDate":"Tue, 24 May 2022 09:42:00 +0900"
+		},
+		{
+			"title":"LH, 6월 인천영종 주택개발 공모리츠 참가접수 실시",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220524010005581",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220524010005581",
+			"description":"인천대교 인근에 위치하고 있어 수도권 접근성이 양호하며, 제3연륙교 완공 시 <b>청라<\/b>지구의 인프라도 이용할 수 있고, 서울 서부권 접근성이 더욱 향상되는 등 사업여건이 우수하다. LH는 6월 7일(화)∼9일(목)... ",
+			"pubDate":"Tue, 24 May 2022 09:42:00 +0900"
+		},
+		{
+			"title":"1년간 아파트값 상승률 Top3…인천, 충북, 강원 순",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202205240923397370725",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202205240923397370725",
+			"description":"게다가 검단신도시, <b>청라<\/b>국제도시, 송도국제도시 등의 굵직한 개발사업들도 순항을 이어가면서 지역가치 상승이 기대됨에 따라 수요가 많아져 가격이 상승했다는 평가다. 충북과 강원은 비교적 저렴한 가격에... ",
+			"pubDate":"Tue, 24 May 2022 09:42:00 +0900"
+		},
+		{
+			"title":"LH, 인천영종 주택개발 리츠 민간사업자 공모",
+			"originallink":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=231456",
+			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=231456",
+			"description":"인천대교 인근에 위치하고 있어 수도권 접근성이 양호하며, 제3연륙교 완공 시 <b>청라<\/b>지구의 인프라도 이용할 수 있고, 서울 서부권 접근성이 향상된다. 또 지구 인근 복합리조트 사업이 활발하고 항공정비산업 등을... ",
+			"pubDate":"Tue, 24 May 2022 09:42:00 +0900"
+		},
+		{
+			"title":"LH, 인천영종 공동주택용지 '주택개발 공모리츠' 사업자 공모",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220524_0001882556&cID=10401&pID=10400",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=003&aid=0011204363",
+			"description":"인천대교 인근에 위치하고 있어 수도권 접근성이 좋고, 제3연륙교 완공 시 <b>청라<\/b>지구의 인프라도 이용할 수 있어 서울 서부권 접근성이 더욱 향상되는 등 사업여건이 우수하다. 또한 지구 인근 복합리조트 사업이... ",
+			"pubDate":"Tue, 24 May 2022 09:39:00 +0900"
+		},
 		{
 			"title":"최근 1년 집값 상승률 1위는 인천…충북·강원 뒤이어",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220524_0001882604&cID=10401&pID=10400",
@@ -75,17 +117,17 @@
 			"pubDate":"Tue, 24 May 2022 09:11:00 +0900"
 		},
 		{
-			"title":"송도·영종 이어 <b>청라<\/b> 약국 영어표지판 부착 사업 시작",
-			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=93263",
-			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=93263",
-			"description":"송도·영종·<b>청라<\/b>국제도시의 '약국 영어표지판 부착 사업'이 내달 마무리된다. 인천경제자유구역청은 이 사업과 관련해 수요 조사를 거쳐 부착을 희망하는 <b>청라<\/b>국제도시 소재 10개의 약국을 이달 말까지 방문해... ",
-			"pubDate":"Tue, 24 May 2022 09:04:00 +0900"
-		},
-		{
 			"title":"1년새 인천·충북 아파트값 40% 이상↑…서울比 두배",
 			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1531610\/?sc=Naver",
 			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1531610\/?sc=Naver",
 			"description":"또 검단신도시와 <b>청라<\/b>국제도시, 송도국제도시 등 굵직한 개발사업들도 순항하고 있어 지역 가치 상승을 노린 수요가 많아져 가격이 상승했다는 평가다. 충북과 강원은 비교적 저렴한 가격에 지방 비규제 이점을... ",
+			"pubDate":"Tue, 24 May 2022 09:04:00 +0900"
+		},
+		{
+			"title":"송도·영종 이어 <b>청라<\/b> 약국 영어표지판 부착 사업 시작",
+			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=93263",
+			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=93263",
+			"description":"송도·영종·<b>청라<\/b>국제도시의 '약국 영어표지판 부착 사업'이 내달 마무리된다. 인천경제자유구역청은 이 사업과 관련해 수요 조사를 거쳐 부착을 희망하는 <b>청라<\/b>국제도시 소재 10개의 약국을 이달 말까지 방문해... ",
 			"pubDate":"Tue, 24 May 2022 09:04:00 +0900"
 		},
 		{
@@ -171,48 +213,6 @@
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=020&aid=0003430201",
 			"description":"6월 4일 오전 10시∼낮 12시 <b>청라<\/b>국제도서관 제1다목적실. □재즈 인문학=‘All About Jazz―재즈와 친해지는 시간’ 참가자 30명. 6월 7∼28일 매주 화요일 오후 7∼9시 연수도서관 다목적강당. □역사 교실... ",
 			"pubDate":"Tue, 24 May 2022 03:04:00 +0900"
-		},
-		{
-			"title":"[포토] '2022세계가스총회' 참석자들 대구시티투어",
-			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2102743",
-			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2102743",
-			"description":"참석자들이 <b>청라<\/b>언덕을 오르고 있다. 정훈진 기자 jhj131@kyongbuk.com'2022세계가스총회' 일환 중 하나인 대구 시티투어가 23일 시작된 가운데 각국 참석자들이 <b>청라<\/b>언덕을 오르고 있다. 정훈진 기자 jhj131... ",
-			"pubDate":"Tue, 24 May 2022 00:12:00 +0900"
-		},
-		{
-			"title":"[지선 후보에게 듣는다] 유정복 &quot;다국적 기업 품을 '뉴 홍콩시티' 통해 '제물...",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20220523113000981",
-			"link":"https:\/\/www.ajunews.com\/view\/20220523113000981",
-			"description":"유 후보는 영종, 강화, 송도, <b>청라<\/b>에 이어 내항까지 잇는 '뉴 홍콩시티'를 만들어 다국적 기업을 유치하겠다는 구상도 함께 제시했다. 유 후보는 지난 20일 인천시 미추홀구에 위치한 '유정복 캠프' 사무실에서 본지와... ",
-			"pubDate":"Tue, 24 May 2022 00:02:00 +0900"
-		},
-		{
-			"title":"유정복 선대위 &quot;실무자가 합의한 매립지 사용 기간은 무의미&quot;",
-			"originallink":"http:\/\/news.tf.co.kr\/read\/ptoday\/1940434.htm",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=100&oid=629&aid=0000151079",
-			"description":"아울러 7호선 <b>청라<\/b> 연장 등 매립지와 그 주변 개발 지원도 합의에 포함됐다고 했다. 단 대체매립지를 확부할 때까지 3-1공구를 사용한다는데는 합의한 것으로 알려졌다. 선대위 관계자는 &quot;실무책임자의 합의는 시... ",
-			"pubDate":"Mon, 23 May 2022 23:19:00 +0900"
-		},
-		{
-			"title":"iH, 창립 19주년 기념 '행복찾음 문화행사' 개최",
-			"originallink":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=351635",
-			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=351635",
-			"description":"16일(<b>청라<\/b>2동 행정복지센터)까지 상반기 총 8회 공연을 계획하고 있다. 하반기인 9~11월에도 임대아파트, 인천 지역 내 공원 등에서 총 8회의 행복찾음 문화행사를 개최하여 인천 시민들이 예술 문화를 향유할 수 있는... ",
-			"pubDate":"Mon, 23 May 2022 22:32:00 +0900"
-		},
-		{
-			"title":"대구시교육청,‘대구사랑 체험학습’ 애향심ㆍ자긍심 쑥쑥",
-			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=380042&part_idx=263",
-			"link":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=380042&part_idx=263",
-			"description":"A코스는 신문전시관에서 <b>청라<\/b>언덕까지, B코스는 계산성당에서 국채보상운동기념관까지, C코스는 경상감영에서 약령시한의약박물관까지, D코스는 대구근대역사관에서 <b>청라<\/b>언덕까지로 이뤄져 있다. 또 역사탐방... ",
-			"pubDate":"Mon, 23 May 2022 22:04:00 +0900"
-		},
-		{
-			"title":"대구, 세계가스총회 기간 축제로 물든다",
-			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=383070",
-			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=383070",
-			"description":"개별관광은 △동성로·현대백화점·<b>청라<\/b>언덕·서문시장 △대구역·김광석 다시그리기 길·대백프라자·수성못 △하중도·삼성창조경제센터·오페라하우스·콘서트하우스 등이 있다. 문화공연과 전시 행사도 다채롭게... ",
-			"pubDate":"Mon, 23 May 2022 21:44:00 +0900"
 		}
 	]
 }
