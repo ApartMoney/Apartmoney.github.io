@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 24 May 2022 12:20:02 +0900",
-	"total":175935,
+	"lastBuildDate":"Tue, 24 May 2022 12:30:02 +0900",
+	"total":175936,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘인천의 강남’ 송도·<b>청라<\/b>도 가파른 하락세… 가격 내리고 매물은 늘고",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022052409313851176",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=277&aid=0005093404",
+			"description":"‘인천의 강남’이라 불리는 송도신도시와 <b>청라<\/b>국제도시 부동산 시장도 상반기 내내 하락세가... <b>청라<\/b>국제도시 효과를 톡톡히 봤던 서구도 5월 셋째 주 ?0.07%까지 떨어지며 올해 누적변동률 ?0.20%를 기록했다.... ",
+			"pubDate":"Tue, 24 May 2022 12:23:00 +0900"
+		},
 		{
 			"title":"인천경제청, <b>청라<\/b>국제도시 약국 10곳에 영어표지판 부착",
 			"originallink":"http:\/\/www.dailypharm.com\/Users\/News\/NewsView.html?ID=288394&REFERER=NP",
@@ -19,17 +26,17 @@
 			"pubDate":"Tue, 24 May 2022 11:48:00 +0900"
 		},
 		{
-			"title":"[서구청장 공약 비교] 민주 김종인 VS 국힘 강범석",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=218629",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=218629",
-			"description":"검단~강남, <b>청라<\/b>~강남과 서울도시철도 2‧5‧7‧9호선 연결 등 광역교통망 확충 ▲맞춤형 일자리 2배... 강 후보는 주요 공약으로 ▲GTX-D 노선 조기착공과 GTX-E 노선 신설 추진 ▲남<b>청라<\/b>IC~서인천IC~신월IC 경인고속도로... ",
-			"pubDate":"Tue, 24 May 2022 11:38:00 +0900"
-		},
-		{
 			"title":"LH, 영종도 주택개발 공모리츠 참가접수 실시",
 			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20220524000543",
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001994779",
 			"description":"사업대상지인 인천영종 공동주택용지는 인천대교 인근에 위치하고 있어 수도권 접근성이 양호하며, 제3연륙교 완공 시 <b>청라<\/b>지구의 인프라도 이용할 수 있어 사업여건이 우수하다. LH는 6월 7일부터 3일간 참가의향서를... ",
+			"pubDate":"Tue, 24 May 2022 11:38:00 +0900"
+		},
+		{
+			"title":"[서구청장 공약 비교] 민주 김종인 VS 국힘 강범석",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=218629",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=218629",
+			"description":"검단~강남, <b>청라<\/b>~강남과 서울도시철도 2‧5‧7‧9호선 연결 등 광역교통망 확충 ▲맞춤형 일자리 2배... 강 후보는 주요 공약으로 ▲GTX-D 노선 조기착공과 GTX-E 노선 신설 추진 ▲남<b>청라<\/b>IC~서인천IC~신월IC 경인고속도로... ",
 			"pubDate":"Tue, 24 May 2022 11:38:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=456247",
 			"description":"인천대교 인근에 위치하고 있어 수도권 접근성이 양호하며 제3연륙교 완공 시 <b>청라<\/b>지구의 인프라도 이용할 수 있고 서울 서부권 접근성이 더욱 향상되는 등 사업여건이 우수하다. LH는 다음달 7~9일간 참가의향서를... ",
 			"pubDate":"Tue, 24 May 2022 09:31:00 +0900"
-		},
-		{
-			"title":"LH, 내달 7일부터 인천영종 주택개발 공모리츠 참가접수 실시",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2136787",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2136787",
-			"description":"인천대교 인근에 있어 수도권 접근성이 양호하며, 제3연륙교 완공 시 <b>청라<\/b>지구의 인프라도 이용할 수 있고, 서울 서부권 접근성이 더욱 향상되는 등 사업여건이 우수하다. 지구 인근 복합리조트 사업이 활발하고... ",
-			"pubDate":"Tue, 24 May 2022 09:30:00 +0900"
 		}
 	]
 }
