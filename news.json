@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 25 May 2022 10:10:03 +0900",
-	"total":176022,
+	"lastBuildDate":"Wed, 25 May 2022 10:20:02 +0900",
+	"total":176023,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"현대무벡스 2차전지 스마트물류사업 개시..LG화학 맞손",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022052509381615785",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004750486",
+			"description":"현대무벡스는 현대그룹 계열이다. 주력인 스마트 물류자동화를 비롯해 PSD(승강장안전문), IT서비스 등 사업을 한다. 2019년 <b>청라<\/b> R&amp;D(연구개발) 센터를 개소했고 이후 첨단 물류기슬 개발에 주력하고 있다.",
+			"pubDate":"Wed, 25 May 2022 10:14:00 +0900"
+		},
 		{
 			"title":"인천경제청, 미래 자동차 커넥티드카 거점 도약",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220525010006519",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=022&aid=0003698890",
 			"description":"특히 인천을 ‘홈플러스 메가푸드마켓’의 메카로 선정해, 간석점, <b>청라<\/b>점, 송도점, 작전점, 인하점, 가좌점의 리뉴얼 작업을 단행했고, 수도권 시장 선점을 위해 서울 월드컵점 역시 미래형 마트로 혁신했다. 연내... ",
 			"pubDate":"Wed, 25 May 2022 03:02:00 +0900"
-		},
-		{
-			"title":"iH, 창립 행사로 시민들에 문화예술 향유 기회 제공",
-			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/05\/24\/20220524507521.html?OutUrl=naver",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003698835",
-			"description":"다음달 9일 청학아파트, 10일 관교동 승학어린이공원, 16일 연수시영아파트를 비롯해 7월에 7일 선학시영아파트, 16일 <b>청라<\/b>2동 행정복지센터 등 8회가 추가로 계획됐다. iH 이승우 사장은 “2003년 5월 24일 창립 이래... ",
-			"pubDate":"Wed, 25 May 2022 01:02:00 +0900"
 		}
 	]
 }
