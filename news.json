@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 25 May 2022 19:00:02 +0900",
-	"total":176005,
+	"lastBuildDate":"Wed, 25 May 2022 19:10:02 +0900",
+	"total":176007,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"민주당 박남춘 인천시장 후보, 수도권매립지 종료 등 서구 공약 발표",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20220525580138",
+			"link":"https:\/\/www.kyeonggi.com\/article\/20220525580138",
+			"description":"이와 함께 박 후보는 검단 워터밸리 물길과 검단 친환경 에코산단 벨트 조성, 정서진 에코 타워 건립, 정서진 해양친수 네트워크와 <b>청라<\/b> 인공해변 구축 등도 약속했다. 박 후보는 “민선 7기 시장으로서 검단신도시 1단계... ",
+			"pubDate":"Wed, 25 May 2022 19:02:00 +0900"
+		},
+		{
+			"title":"김종인 인천서구청장 후보, 시·구의원 후보들과 투기과열지구 해체 촉구",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363543061",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363543061",
+			"description":"이들은 결의안에서 '미분양의 무덤'이라고 불리던 <b>청라<\/b>국제도시, 2019년부터 2020년까지 약 1년간 미분양관리지역이었던 검단신도시는 2020년 6월19일 투기과열지구로 지정됐으나 이는 인천서구의 부동산 현실을 제대로... ",
+			"pubDate":"Wed, 25 May 2022 19:02:00 +0900"
+		},
 		{
 			"title":"이병택 인천계양구청장 후보, 계양 발전 공약 발표",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363543033",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.ifm.kr\/news\/336121",
 			"description":"인천 <b>청라<\/b>국제도시에 미래자동차의 거점 역할을 할 '커넥티드카(Connected Car) 기술 인프라 구축 사업'이... 이 사업이 산자부 공모에 선정됨에 따라 경제청은 국비와 시비 148억원을 투입해 <b>청라<\/b> 인천로봇랜드에 연면적... ",
 			"pubDate":"Wed, 25 May 2022 14:40:00 +0900"
-		},
-		{
-			"title":"인천 송도·<b>청라<\/b> 아파트값 2~3억씩 떨어져 '매수 문의 거의 없어'",
-			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=54522",
-			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=54522",
-			"description":"인천 송도국제도시와 <b>청라<\/b>국제도시의 주요 아파트값이 하락세다. 매수세가 줄어들면서 호가를 낮춘 급매만 거래되는 분위기인 것으로 나타나고 있다. 사진은 <b>청라<\/b>국제도시의 아파트 전경으로, 기사와 직접적인... ",
-			"pubDate":"Wed, 25 May 2022 14:38:00 +0900"
-		},
-		{
-			"title":"오피스텔, 다세권 프리미엄 따라 흥행 명암 갈려",
-			"originallink":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=231522",
-			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=231522",
-			"description":"지구 내에는 죽동근린공원, 대골근린공원, 서당골근린공원 등이 있다 ㈜<b>청라<\/b>플러스(시행위탁) SGC이테크건설㈜(시공)이 인천 서구 <b>청라<\/b>국제도시 <b>청라<\/b>동 일대에 주거용 오피스텔 '<b>청라<\/b> 더리브 티아모 까사'를 분양할... ",
-			"pubDate":"Wed, 25 May 2022 14:32:00 +0900"
 		}
 	]
 }
