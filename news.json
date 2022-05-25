@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 25 May 2022 15:20:03 +0900",
-	"total":175416,
+	"lastBuildDate":"Wed, 25 May 2022 15:30:02 +0900",
+	"total":175985,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"현대무벡스, LG화학 양극재공장에 스마트물류 시스템 구축한다",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1117162\/?sc=Naver",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=119&aid=0002607027",
+			"description":"2019년 대규모 <b>청라<\/b> R&amp;D센터 개소 후 하이테크 물류기술 개발에 주력하면서, 첨단 물류 H\/W(설비\/장비)와 S\/W(운용시스템)을 겸비한 ’토털 스마트물류 솔루션 사업자‘로 평가받고 있다.",
+			"pubDate":"Wed, 25 May 2022 15:27:00 +0900"
+		},
+		{
+			"title":"교통·학교·공원·편의시설 등 다(多)세권에 주목하는 오피스텔 수요자들…주...",
+			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=254659",
+			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=254659",
+			"description":"㈜<b>청라<\/b>플러스(시행위탁) SGC이테크건설㈜(시공)이 인천 서구 <b>청라<\/b>국제도시 <b>청라<\/b>동 일대에 주거용 오피스텔 '<b>청라<\/b> 더리브 티아모 까사'를 분양할 예정이다. 단지는 지하 3층~지상 46층 3개동 전용면적 76~211㎡ 총 523실로... ",
+			"pubDate":"Wed, 25 May 2022 15:18:00 +0900"
+		},
 		{
 			"title":"정종혁 인천시의원 후보 &quot;<b>청라<\/b>1·2동, 메타버스 메카로!&quot;",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220525_0001885123&cID=10802&pID=14000",
@@ -75,13 +89,6 @@
 			"pubDate":"Wed, 25 May 2022 14:17:00 +0900"
 		},
 		{
-			"title":"[25일 인천 서구 소식] 반딧불 가족 문화축제 개최 등",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20220525500204",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20220525500204",
-			"description":"인천 서구 가족센터가 지난 21일 운영법인 ㈔한국경제사회연구소와 함께 <b>청라<\/b>호수공원 멀티프라자에서 ‘2022 반딧불 가족 문화축제’를 개최했다고 25일 밝혔다. 이 축제는 다양한 가족문화가 존중받는 지역사회 분위기... ",
-			"pubDate":"Wed, 25 May 2022 14:14:00 +0900"
-		},
-		{
 			"title":"죽동 리슈빌 까사포레, 26일까지 청약 접수",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2663VJ4XM3",
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=011&aid=0004057937",
@@ -89,17 +96,24 @@
 			"pubDate":"Wed, 25 May 2022 14:14:00 +0900"
 		},
 		{
-			"title":"보령 <b>청라<\/b>면 지역사회보장협의체, 취약계층 34가구에 이불 전달",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1555751",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1555751",
-			"description":"충남 보령시 <b>청라<\/b>면 지역사회보장협의체는 저소득 취약계층 등에게 이불과 콩나물시루를 전달했다고 25일 밝혔다. 협의체에 따르면 사랑과 나눔이 넘치는 <b>청라<\/b>면을 만들기 위한 활동을 시작했다며 이같이... ",
-			"pubDate":"Wed, 25 May 2022 14:06:00 +0900"
+			"title":"[25일 인천 서구 소식] 반딧불 가족 문화축제 개최 등",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20220525500204",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20220525500204",
+			"description":"인천 서구 가족센터가 지난 21일 운영법인 ㈔한국경제사회연구소와 함께 <b>청라<\/b>호수공원 멀티프라자에서 ‘2022 반딧불 가족 문화축제’를 개최했다고 25일 밝혔다. 이 축제는 다양한 가족문화가 존중받는 지역사회 분위기... ",
+			"pubDate":"Wed, 25 May 2022 14:14:00 +0900"
 		},
 		{
 			"title":"서구가족센터, <b>청라<\/b>호수공원서 ‘반딧불 가족 문화축제’",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1555759",
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1555759",
 			"description":"인천시 서구가족센터는 운영법인 (사)한국경제사회연구소와 함께 <b>청라<\/b>호수공원 멀티프라자에서 남녀노소 가족 구성원 모두가 참여하는 ‘2022 반딧불 가족 문화축제’를 열었다고 25일 밝혔다. 이번 축제는 다양한... ",
+			"pubDate":"Wed, 25 May 2022 14:06:00 +0900"
+		},
+		{
+			"title":"보령 <b>청라<\/b>면 지역사회보장협의체, 취약계층 34가구에 이불 전달",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1555751",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1555751",
+			"description":"충남 보령시 <b>청라<\/b>면 지역사회보장협의체는 저소득 취약계층 등에게 이불과 콩나물시루를 전달했다고 25일 밝혔다. 협의체에 따르면 사랑과 나눔이 넘치는 <b>청라<\/b>면을 만들기 위한 활동을 시작했다며 이같이... ",
 			"pubDate":"Wed, 25 May 2022 14:06:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"http:\/\/kpenews.com\/View.aspx?No=2397011",
 			"description":"특히 인천을 ‘홈플러스 메가푸드마켓’의 메카로 선정해 간석점, <b>청라<\/b>점, 송도점, 작전점, 인하점, 가좌점의 리뉴얼 작업을 단행했다. 수도권 시장 선점을 위해 서울 월드컵점 역시 미래형 마트로 혁신했다. 연내... ",
 			"pubDate":"Wed, 25 May 2022 10:56:00 +0900"
-		},
-		{
-			"title":"강범석 인천서구청장 후보,청년 온·오프라인 간담회 성황",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202205250943115390090",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202205250943115390090",
-			"description":"강 후보는 “청년들의 바램인 지역 내 양질의 일자리가 당장은 어렵겠지만, <b>청라<\/b> 스타필드 돔구장이 조기에 건설되면 K-POP·대중문화 공연의 산실이 될 것”이라며 “올 하반기 재공모 예정인 스트리밍 시티와 K-POP... ",
-			"pubDate":"Wed, 25 May 2022 10:42:00 +0900"
-		},
-		{
-			"title":"인천경제청, 핵심 기술 구축 사업 국가 공모 선정",
-			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=93379",
-			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=93379",
-			"description":"현재 <b>청라<\/b> 인천로봇랜드에 연면적 4,110㎡, 3층 규모로 올해 기본·실시설계를 거쳐 오는 2024년 운영이 목표인 커넥티드 카 소재·부품 인증평가센터 안에 구축된다. 성용원 인천경제자유구역청 차장은 &quot;현재 전... ",
-			"pubDate":"Wed, 25 May 2022 10:40:00 +0900"
 		}
 	]
 }
