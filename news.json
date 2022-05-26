@@ -1,15 +1,22 @@
 {
-	"lastBuildDate":"Thu, 26 May 2022 14:10:01 +0900",
-	"total":176168,
+	"lastBuildDate":"Thu, 26 May 2022 14:20:02 +0900",
+	"total":176170,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"짙어지는 양극화…강·서·용 상승, 인천·경기 하락",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5762457",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=079&aid=0003647458",
-			"description":"인천은 연수구(-0.11%)가 송도ㆍ연수동 신축 위주로 매물 증가하며, 서구(-0.10%)는 <b>청라<\/b>ㆍ가정동 주요 단지 위주로 하락거래 발생하며 하락해 인천 전체는 지난주에 이어 이번주에도 0.05% 하락했다. 경기는 고양... ",
-			"pubDate":"Thu, 26 May 2022 14:02:00 +0900"
+			"title":"5월 넷째주 전국 아파트 매매가격 0.01% 하락세 유지",
+			"originallink":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=573370",
+			"link":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=573370",
+			"description":"인천은 연수구(-0.11%)는 송도 연수동 신축 위주로 매물 증가하고 서구(-0.10%)는 <b>청라<\/b> 가정동 주요 단지 위주로 하락거래 발생햇다. 부평구(-0.05%)는 청천 삼산동 대단지 위주로, 동구(-0.05%)는 송현동 구축 위주로... ",
+			"pubDate":"Thu, 26 May 2022 14:12:00 +0900"
+		},
+		{
+			"title":"국내 최대규모 첨단 산업단지 '동탄테크노밸리' 분양에 이목집중",
+			"originallink":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=86284",
+			"link":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=86284",
+			"description":"찍은 <b>청라<\/b>국제신도시 권역은 주거형 오피스텔의 완판이 잇따르고 있다. 실제 지난해 공급된 '연희공원 푸르지오 라-끌레르(평균 13.68대 1)'. '경서 북<b>청라<\/b> 푸르지오(평균 28.4대 1)', '<b>청라<\/b> 한양수자인 디에스틴(평균 39대 1)... ",
+			"pubDate":"Thu, 26 May 2022 14:10:00 +0900"
 		},
 		{
 			"title":"요지부동 서울 집값…다주택자 매물에도 매수자 발길은 '뚝'",
@@ -19,10 +26,10 @@
 			"pubDate":"Thu, 26 May 2022 14:02:00 +0900"
 		},
 		{
-			"title":"서울 아파트값 3주 연속 보합…강남·용산 상승세 '여전'",
-			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1125418&inflow=N",
-			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1125418&inflow=N",
-			"description":"인천(–0.05%)은 연수구(-0.11%)에서 송도·연수동 신축 위주로 매물이 증가했고 서구(-0.10%)는 <b>청라<\/b>·가정동 주요 단지 위주로 하락거래가 발생했다. 지방 아파트 매매가격 변동률은 0.00%로 보합을 기록했다.... ",
+			"title":"짙어지는 양극화…강·서·용 상승, 인천·경기 하락",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5762457",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=079&aid=0003647458",
+			"description":"인천은 연수구(-0.11%)가 송도ㆍ연수동 신축 위주로 매물 증가하며, 서구(-0.10%)는 <b>청라<\/b>ㆍ가정동 주요 단지 위주로 하락거래 발생하며 하락해 인천 전체는 지난주에 이어 이번주에도 0.05% 하락했다. 경기는 고양... ",
 			"pubDate":"Thu, 26 May 2022 14:02:00 +0900"
 		},
 		{
@@ -33,6 +40,13 @@
 			"pubDate":"Thu, 26 May 2022 14:02:00 +0900"
 		},
 		{
+			"title":"서울 아파트값 3주 연속 보합…강남·용산 상승세 '여전'",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1125418&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1125418&inflow=N",
+			"description":"인천(–0.05%)은 연수구(-0.11%)에서 송도·연수동 신축 위주로 매물이 증가했고 서구(-0.10%)는 <b>청라<\/b>·가정동 주요 단지 위주로 하락거래가 발생했다. 지방 아파트 매매가격 변동률은 0.00%로 보합을 기록했다.... ",
+			"pubDate":"Thu, 26 May 2022 14:02:00 +0900"
+		},
+		{
 			"title":"서울 아파트값 3주째 제자리… 용산·서초·강남은 더 올랐다",
 			"originallink":"https:\/\/biz.chosun.com\/real_estate\/real_estate_general\/2022\/05\/26\/I4LOIRBQ3BDQTAQ7FMXCGUOMWY\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=366&aid=0000816710",
@@ -40,17 +54,17 @@
 			"pubDate":"Thu, 26 May 2022 14:01:00 +0900"
 		},
 		{
-			"title":"김현준 LH 사장, 북인천 지하차도 특별안전점검",
-			"originallink":"https:\/\/www.dailyimpact.co.kr\/news\/articleView.html?idxno=79939",
-			"link":"https:\/\/www.dailyimpact.co.kr\/news\/articleView.html?idxno=79939",
-			"description":"LH는 25일 김 사장이 LH가 사업 시행한 인천경제자유구역 <b>청라<\/b>국제도시 주변도로인 북인천 지하차도에 대한 특별안전점검을 실시했다고 26일 밝혔다. LH는 데일리임팩트에 &quot;김 사장은 매주 실시되는 시설물 안전순찰에... ",
-			"pubDate":"Thu, 26 May 2022 14:00:00 +0900"
-		},
-		{
 			"title":"서울 아파트값 3주 연속 0%",
 			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1532014\/?sc=Naver",
 			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1532014\/?sc=Naver",
 			"description":"서구(-0.10%)는 <b>청라<\/b>·가정동 주요 단지 위주로 하락거래 발생하며 부평구(-0.05%)는 청천·삼산동 대단지 위주로, 동구(-0.05%)는 송현동 구축 위주로 하락했다. 경기는 0.03% 하락으로 전주(-0.02%)보다 떨어졌다. 이천시(0.... ",
+			"pubDate":"Thu, 26 May 2022 14:00:00 +0900"
+		},
+		{
+			"title":"김현준 LH 사장, 북인천 지하차도 특별안전점검",
+			"originallink":"https:\/\/www.dailyimpact.co.kr\/news\/articleView.html?idxno=79939",
+			"link":"https:\/\/www.dailyimpact.co.kr\/news\/articleView.html?idxno=79939",
+			"description":"LH는 25일 김 사장이 LH가 사업 시행한 인천경제자유구역 <b>청라<\/b>국제도시 주변도로인 북인천 지하차도에 대한 특별안전점검을 실시했다고 26일 밝혔다. LH는 데일리임팩트에 &quot;김 사장은 매주 실시되는 시설물 안전순찰에... ",
 			"pubDate":"Thu, 26 May 2022 14:00:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=305001",
 			"description":"<b>청라<\/b>에너지 지역난방제어동 전경 지난 2005년 설립된 <b>청라<\/b>에너지(대표 김영남)는 인천 <b>청라<\/b>국제도시와 검단신도시, 김포 한강신도시와 장기지구 주변지역 등 약 14만 가구에 지역냉난방을 공급하는 집단에너지 사업자다.... ",
 			"pubDate":"Thu, 26 May 2022 11:04:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>국제도시 2-4단계 토지개발사업 지적공부 확정 시행",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220526010006264",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220526010006264",
-			"description":"인천 <b>청라<\/b>국제도시 2-4단계 토지개발사업 지적공부 확정 시행 인천경제자유구역청은 <b>청라<\/b>국제도시 2-4단계 토지개발사업 구역 가운데 부지 조성 공사가 끝난 1㎢의 지적공부를 확정·공고했다. 인천경제청은 전날... ",
-			"pubDate":"Thu, 26 May 2022 10:54:00 +0900"
-		},
-		{
-			"title":"한양, '안양 한양수자인 리버뷰' 오피스텔 26일 견본주택 개관",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220526010006215",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220526010006215",
-			"description":"분양 관계자는 “한양은 지난해 브랜드 리뉴얼 이후 부산과 인천 <b>청라<\/b>, 과천, 오산 등 주요 도시에 공급한 모든 단지를 단기간에 완판시키는 등 분양 시장에서 ‘수자인’ 브랜드 파워를 입증하고 있다”며 “안양... ",
-			"pubDate":"Thu, 26 May 2022 10:42:00 +0900"
 		}
 	]
 }
