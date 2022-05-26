@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 26 May 2022 14:40:02 +0900",
-	"total":176171,
+	"lastBuildDate":"Thu, 26 May 2022 14:50:02 +0900",
+	"total":176172,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천 서구의원 가] 3인선거구, 민주2‧국힘2‧무소속1 등 5명 출마",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=218764",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=218764",
+			"description":"인천투데이=장호영 기자｜인천 서구의회 의원 가선거구(<b>청라<\/b>1‧2동)에 출마한 후보는 5명이다. 더불어민주당... 주요 공약은 ▲서울도시철도 7호선 <b>청라<\/b> 연장 조기 개통과 서울2호선 <b>청라<\/b>연장, 서울 9호선 공항철도 직결... ",
+			"pubDate":"Thu, 26 May 2022 14:46:00 +0900"
+		},
 		{
 			"title":"용산 아파트값 9주째 상승…서울 전체 3주 연속 보합",
 			"originallink":"https:\/\/www.news1.kr\/articles\/?4692805",
@@ -61,17 +68,17 @@
 			"pubDate":"Thu, 26 May 2022 14:01:00 +0900"
 		},
 		{
-			"title":"김현준 LH 사장, 북인천 지하차도 특별안전점검",
-			"originallink":"https:\/\/www.dailyimpact.co.kr\/news\/articleView.html?idxno=79939",
-			"link":"https:\/\/www.dailyimpact.co.kr\/news\/articleView.html?idxno=79939",
-			"description":"LH는 25일 김 사장이 LH가 사업 시행한 인천경제자유구역 <b>청라<\/b>국제도시 주변도로인 북인천 지하차도에 대한 특별안전점검을 실시했다고 26일 밝혔다. LH는 데일리임팩트에 &quot;김 사장은 매주 실시되는 시설물 안전순찰에... ",
-			"pubDate":"Thu, 26 May 2022 14:00:00 +0900"
-		},
-		{
 			"title":"서울 아파트값 3주 연속 0%",
 			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1532014\/?sc=Naver",
 			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1532014\/?sc=Naver",
 			"description":"서구(-0.10%)는 <b>청라<\/b>·가정동 주요 단지 위주로 하락거래 발생하며 부평구(-0.05%)는 청천·삼산동 대단지 위주로, 동구(-0.05%)는 송현동 구축 위주로 하락했다. 경기는 0.03% 하락으로 전주(-0.02%)보다 떨어졌다. 이천시(0.... ",
+			"pubDate":"Thu, 26 May 2022 14:00:00 +0900"
+		},
+		{
+			"title":"김현준 LH 사장, 북인천 지하차도 특별안전점검",
+			"originallink":"https:\/\/www.dailyimpact.co.kr\/news\/articleView.html?idxno=79939",
+			"link":"https:\/\/www.dailyimpact.co.kr\/news\/articleView.html?idxno=79939",
+			"description":"LH는 25일 김 사장이 LH가 사업 시행한 인천경제자유구역 <b>청라<\/b>국제도시 주변도로인 북인천 지하차도에 대한 특별안전점검을 실시했다고 26일 밝혔다. LH는 데일리임팩트에 &quot;김 사장은 매주 실시되는 시설물 안전순찰에... ",
 			"pubDate":"Thu, 26 May 2022 14:00:00 +0900"
 		},
 		{
@@ -159,17 +166,17 @@
 			"pubDate":"Thu, 26 May 2022 11:55:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b> 2-④단계 토지개발사업 지적공부 확정 시행",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220526010015547",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220526010015547",
-			"description":"인천경제자유구역청은 <b>청라<\/b>국제도시 2-④단계 개발 사업이 일부 준공됨에 따라 토지대장, 지적도, 경계점좌표등록부 등 새로운 지적공부를 확정·공고했다고 26일 밝혔다. 이에 따라 <b>청라<\/b>국제도시 개발사업... ",
-			"pubDate":"Thu, 26 May 2022 11:52:00 +0900"
-		},
-		{
 			"title":"김현준 LH 사장, 북인천 지하차도 특별 안전점검 실시",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202205261147051210539",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202205261147051210539",
 			"description":"한국토지주택공사(LH)는 김현준 사장이 인천경제자유구역 <b>청라<\/b>국제도시 주변도로인 북인천 지하차도에 대한 특별안전점검을 실시했다고 26일 밝혔다. 김 사장은 이날 직접 시설물 안전순찰에 참여해 포장, 배수, 조명... ",
+			"pubDate":"Thu, 26 May 2022 11:52:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b> 2-④단계 토지개발사업 지적공부 확정 시행",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220526010015547",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220526010015547",
+			"description":"인천경제자유구역청은 <b>청라<\/b>국제도시 2-④단계 개발 사업이 일부 준공됨에 따라 토지대장, 지적도, 경계점좌표등록부 등 새로운 지적공부를 확정·공고했다고 26일 밝혔다. 이에 따라 <b>청라<\/b>국제도시 개발사업... ",
 			"pubDate":"Thu, 26 May 2022 11:52:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=421&aid=0006118625",
 			"description":"한국토지주택공사(LH)는 25일 김현준 LH 사장이 시민재해 예방을 위해 LH가 사업 시행한 인천경제자유구역 <b>청라<\/b>국제도시 주변도로인 북인천 지하차도에 대한 특별안전점검을 실시했다고 밝혔다. 김 사장은 매주 실시되는... ",
 			"pubDate":"Thu, 26 May 2022 11:09:00 +0900"
-		},
-		{
-			"title":"김현준 LH 사장, 시민재해 예방 위해 시설물 특별점검",
-			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2022052610400144569",
-			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2022052610400144569",
-			"description":"김현준 LH사장(오른쪽 첫 번째)이 북인천 지하차도 기계실 배수펌프를 점검하는 모습.(사진: LH)한국토지주택공사(LH)는 지난 25일 시민재해 예방을 위해 인천경제자유구역 <b>청라<\/b>국제도시 주변도로인 북인천 지하차도에... ",
-			"pubDate":"Thu, 26 May 2022 11:06:00 +0900"
 		}
 	]
 }
