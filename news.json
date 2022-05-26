@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Thu, 26 May 2022 18:40:03 +0900",
-	"total":176309,
+	"lastBuildDate":"Thu, 26 May 2022 18:50:02 +0900",
+	"total":176313,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[동반성장 한국중부발전] 보령발전본부 주거취약가구 '희망의 집 1호' 오픈식...",
+			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=568989",
+			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=568989",
+			"description":"주거환경 개선사업은 참여기관의 자발적인 후원금을 재원으로 운영돼지며, 첫번째 주인공은 집 없이 마을회관에서 홀로 지내는 보령시 <b>청라<\/b>면의 78세 기초생활수급자로 선정됐다. 봉사회는 취약계층 할머니께서... ",
+			"pubDate":"Thu, 26 May 2022 18:46:00 +0900"
+		},
+		{
+			"title":"[B tv 인천뉴스] 민주 김종인 vs 국힘 강범석…GTX 등 교통망 확충",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=141682",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=141682",
+			"description":"<b>청라<\/b>스타필드돔구장과 스트리밍 시티 등을 통해 서구의 브랜드가치를 높이겠다는 구상입니다. 현 구청장이 추진 중인 서로e음과 환경 개선 정책도 계속 이어나가겠다고 강조했습니다. [ 인터뷰 - 강범석 l 국민의힘... ",
+			"pubDate":"Thu, 26 May 2022 18:44:00 +0900"
+		},
+		{
+			"title":"신세계그룹, 대규모 투자 나서…5년간 총 20조",
+			"originallink":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=573512",
+			"link":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=573512",
+			"description":"신세계 프라퍼티도 현재 공사가 진행 중인 스타필드 수원을 필두로, 스타필드 창원과 스타필드 <b>청라<\/b> 등 신규 점포 출점을 위해 2조 2000억원을 투자한다는 방침이다. 온라인 비즈니스 확대를 위해서도 추가 투자한다.... ",
+			"pubDate":"Thu, 26 May 2022 18:42:00 +0900"
+		},
+		{
+			"title":"롤러코스터 탄 송도·<b>청라<\/b> 아파트값... 수억원씩 급등했다 급락",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88279",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88279",
+			"description":"집값이 단기간에 수억원씩 뛰었던 송도·<b>청라<\/b>국제도시 등에서는 다시 수억원씩 떨어지는 '롤러코스터... <b>청라<\/b>국제도시가 있는 서구 역시 <b>청라<\/b>동과 가정동 주요 단지 위주로 0.10% 하락해 6주 연속 하락했다. 송도... ",
+			"pubDate":"Thu, 26 May 2022 18:40:00 +0900"
+		},
 		{
 			"title":"(르포) 바이오 단지도 문제 없다. 송도 지역냉난방 책임지는 인천종합에너지",
 			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=304980",
@@ -33,13 +61,6 @@
 			"pubDate":"Thu, 26 May 2022 18:29:00 +0900"
 		},
 		{
-			"title":"&quot;일자리 11만개 창출&quot; 신세계그룹, 5년간 20조원 투자. '신세계 유니버스' 구...",
-			"originallink":"http:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=434240",
-			"link":"http:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=434240",
-			"description":"신세계프라퍼티도 현재 공사가 진행 중인 스타필드 수원을 필두로 스타필드 창원과 스타필드 <b>청라<\/b> 등 신규 점포 출점을 위해 2조2,000억 원을 집행한다. 온라인 비즈니스 확대를 위해서도 추가 자금을 투입한다. 지난해... ",
-			"pubDate":"Thu, 26 May 2022 18:14:00 +0900"
-		},
-		{
 			"title":"'신세계 유니버스 구축'에 5년간 20조 투자",
 			"originallink":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=599175",
 			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=599175",
@@ -47,17 +68,24 @@
 			"pubDate":"Thu, 26 May 2022 18:14:00 +0900"
 		},
 		{
-			"title":"신세계그룹, 5년간 20조원 투자",
-			"originallink":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=456602",
-			"link":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=456602",
-			"description":"신세계프라퍼티도 공사 중인 스타필드 수원을 필두로 스타필드 창원, 스타필드 <b>청라<\/b> 등 신규 점포 출점을 위해 2조2000억원을 투자한다. 지난해 이베이코리아와 더블유(W)컨셉을 인수한 신세계그룹은 온라인 유통... ",
-			"pubDate":"Thu, 26 May 2022 18:12:00 +0900"
+			"title":"&quot;일자리 11만개 창출&quot; 신세계그룹, 5년간 20조원 투자. '신세계 유니버스' 구...",
+			"originallink":"http:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=434240",
+			"link":"http:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=434240",
+			"description":"신세계프라퍼티도 현재 공사가 진행 중인 스타필드 수원을 필두로 스타필드 창원과 스타필드 <b>청라<\/b> 등 신규 점포 출점을 위해 2조2,000억 원을 집행한다. 온라인 비즈니스 확대를 위해서도 추가 자금을 투입한다. 지난해... ",
+			"pubDate":"Thu, 26 May 2022 18:14:00 +0900"
 		},
 		{
 			"title":"신세계그룹, 5년간 총 20조 대규모 투자",
 			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=490841",
 			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=490841",
 			"description":"신세계 프라퍼티도 현재 공사가 진행 중인 스타필드 수원을 필두로 스타필드 창원과 스타필드 <b>청라<\/b> 등 신규 점포 출점을 위해 2조 2000억원을 투자한다는 방침이다. 온라인 비즈니스 확대를 위해서도 추가 투자한다.... ",
+			"pubDate":"Thu, 26 May 2022 18:12:00 +0900"
+		},
+		{
+			"title":"신세계그룹, 5년간 20조원 투자",
+			"originallink":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=456602",
+			"link":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=456602",
+			"description":"신세계프라퍼티도 공사 중인 스타필드 수원을 필두로 스타필드 창원, 스타필드 <b>청라<\/b> 등 신규 점포 출점을 위해 2조2000억원을 투자한다. 지난해 이베이코리아와 더블유(W)컨셉을 인수한 신세계그룹은 온라인 유통... ",
 			"pubDate":"Thu, 26 May 2022 18:12:00 +0900"
 		},
 		{
@@ -152,17 +180,17 @@
 			"pubDate":"Thu, 26 May 2022 17:50:00 +0900"
 		},
 		{
-			"title":"신세계그룹, 온·오프 사업 확대에 5년간 20조원 투자",
-			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=211590",
-			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=211590",
-			"description":"신세계프라퍼티는 공사가 진행 중인 스타필드 수원을 포함해 창원과 <b>청라<\/b> 등 스타필드 신규 점포 출점에 2조 2000억원을 투입한다. 온라인 사업과 관련해선 물류센터 확대와 시스템 개발 등에 3조원을 투자한다.... ",
-			"pubDate":"Thu, 26 May 2022 17:48:00 +0900"
-		},
-		{
 			"title":"정용진 부회장도 투자 합류...신세계그룹 5년간 20조 규모 투자",
 			"originallink":"http:\/\/www.newskr.kr\/news\/articleView.html?idxno=77544",
 			"link":"http:\/\/www.newskr.kr\/news\/articleView.html?idxno=77544",
 			"description":"신세계 프라퍼티도 현재 공사가 진행 중인 스타필드 수원을 필두로, 스타필드 창원과 스타필드 <b>청라<\/b> 등 신규 점포 출점을 위해 2조 2천억원을 투자한다는 방침입니다. 온라인 비즈니스 확대를 위해서도 추가 투자합니다.... ",
+			"pubDate":"Thu, 26 May 2022 17:48:00 +0900"
+		},
+		{
+			"title":"신세계그룹, 온·오프 사업 확대에 5년간 20조원 투자",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=211590",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=211590",
+			"description":"신세계프라퍼티는 공사가 진행 중인 스타필드 수원을 포함해 창원과 <b>청라<\/b> 등 스타필드 신규 점포 출점에 2조 2000억원을 투입한다. 온라인 사업과 관련해선 물류센터 확대와 시스템 개발 등에 3조원을 투자한다.... ",
 			"pubDate":"Thu, 26 May 2022 17:48:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=100&oid=057&aid=0001666027",
 			"description":"검단주민총연합·루원총연합·서창지구연합·영종국제도시총연합·올댓송도·<b>청라<\/b>국제도시연합 등으로 구성된 인천시총연합회(인천총연)은 26일 성명을 통해 &quot;정부는 김대기 비서실장을 문책하고, 대통령이 직접 민영화... ",
 			"pubDate":"Thu, 26 May 2022 17:42:00 +0900"
-		},
-		{
-			"title":"폐경 후 여성 발병률 높은 골다공증, 정기적인 골밀도 검사 필요",
-			"originallink":"https:\/\/mdtoday.co.kr\/news\/view\/1065602156126641",
-			"link":"https:\/\/mdtoday.co.kr\/news\/view\/1065602156126641",
-			"description":"▲ 류성화 원장 (사진=<b>청라<\/b>국제병원 제공) 골다공증 치료를 위해서는 식습관과 생활 습관 등을 개선하고, 뼈... 인천 <b>청라<\/b>국제병원 류성화 원장은 “골다공증으로 인해 약해진 뼈는 작은 충격에도 골절이 발생할 수 있으며... ",
-			"pubDate":"Thu, 26 May 2022 17:42:00 +0900"
-		},
-		{
-			"title":"신세계, 2026년까지 '20조' 투자... &quot;신세계 유니버스 구축&quot;",
-			"originallink":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=829202",
-			"link":"http:\/\/daily.hankooki.com\/news\/articleView.html?idxno=829202",
-			"description":"신세계 프라퍼티도 현재 공사가 진행 중인 스타필드 수원을 필두로, 스타필드 창원과 스타필드 <b>청라<\/b> 등 신규 점포 출점을 위해 2조2000억원을 투자한다는 방침이다. 온라인 비즈니스 확대를 위해서도 추가 투자한다.... ",
-			"pubDate":"Thu, 26 May 2022 17:40:00 +0900"
-		},
-		{
-			"title":"정용진도 '20조원' 투자…신세계 유니버스 구축",
-			"originallink":"http:\/\/www.newsian.co.kr\/news\/articleView.html?idxno=55057",
-			"link":"http:\/\/www.newsian.co.kr\/news\/articleView.html?idxno=55057",
-			"description":"또 신세계 프라퍼티도 현재 공사가 진행 중인 스타필드 수원을 시작으로 스타필드 창원, 스타필드 <b>청라<\/b> 등 신규 점포 출점을 위해 2조2000억원을 투자할 계획이다. 온라인 비즈니스도 활성화한다. 신세계그룹은 지난해... ",
-			"pubDate":"Thu, 26 May 2022 17:38:00 +0900"
-		},
-		{
-			"title":"인천경제청, <b>청라<\/b>국제도시 2-4단계 토지개발사업 지적공부 확정 시행",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363543285",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363543285",
-			"description":"인천경제자유구역청은 <b>청라<\/b>국제도시 2-④단계 개발 사업이 일부 완료됨에 따라 토지대장, 지적도, 경계점좌표등록부 등 새로운 지적공부를 확정·공고했다고 26일 밝혔다. 이에따라 <b>청라<\/b>국제도시 개발사업... ",
-			"pubDate":"Thu, 26 May 2022 17:36:00 +0900"
 		}
 	]
 }
