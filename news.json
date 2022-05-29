@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 29 May 2022 13:50:01 +0900",
-	"total":176423,
+	"lastBuildDate":"Sun, 29 May 2022 14:00:02 +0900",
+	"total":176424,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령발전본부, 주거 취약가구 '희망의 집 1호' 오픈",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=892465",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=892465",
+			"description":"주거환경 개선사업은 참여 기관의 자발적인 후원금을 재원으로 운영되며 첫 번째 주인공은 집 없이 마을회관에서 홀로 지내는 보령시 <b>청라<\/b>면의 78세 기초생활수급자로 선정됐다. 봉사회는 취약계층 할머니께서... ",
+			"pubDate":"Sun, 29 May 2022 13:58:00 +0900"
+		},
 		{
 			"title":"이제 다시 오프라인...롯데 신세계, 점포 몸집 키운다",
 			"originallink":"http:\/\/www.etnews.com\/20220527000145",
@@ -117,16 +124,16 @@
 			"pubDate":"Sat, 28 May 2022 15:18:00 +0900"
 		},
 		{
-			"title":"선거운동원 격려하는 박남춘 후보",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220528_0001008510",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=003&aid=0011214929",
+			"title":"바자회서 지지 호소하는 박남춘 후보",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220528_0001008511",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=003&aid=0011214928",
 			"description":"제8회 전국동시지방선거 사전투표 마지막 날인 28일 오후 인천 더불어민주당 박남춘 인천시장 후보가 인천 서구 아시아드주경기장에서 열린 ‘서구 주민들이 함께 만드는 일상회복 장터 검단·<b>청라<\/b>맘카페... ",
 			"pubDate":"Sat, 28 May 2022 14:56:00 +0900"
 		},
 		{
-			"title":"바자회서 지지 호소하는 박남춘 후보",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220528_0001008511",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=003&aid=0011214928",
+			"title":"선거운동원 격려하는 박남춘 후보",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220528_0001008510",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=003&aid=0011214929",
 			"description":"제8회 전국동시지방선거 사전투표 마지막 날인 28일 오후 인천 더불어민주당 박남춘 인천시장 후보가 인천 서구 아시아드주경기장에서 열린 ‘서구 주민들이 함께 만드는 일상회복 장터 검단·<b>청라<\/b>맘카페... ",
 			"pubDate":"Sat, 28 May 2022 14:56:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001996552",
 			"description":"신세계 프라퍼티도 현재 공사가 진행 중인 스타필드 수원을 필두로, 스타필드 창원과 스타필드 <b>청라<\/b> 등 신규 점포 출점을 위해 2조2000억원을 투자합니다. 지난해 이베이코리아(현 지마켓글로벌)와 W컨셉을 인수하며... ",
 			"pubDate":"Sat, 28 May 2022 07:02:00 +0900"
-		},
-		{
-			"title":"[오늘의 주요일정]정치(5월28일 토요일)",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220527_0001888593&cID=10301&pID=10300",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=100&oid=003&aid=0011214597",
-			"description":"인사(<b>청라<\/b> 커널웨이, 인천 서구 <b>청라<\/b>라임로 58) 17:00 경기 김포시 유세 및 인사(라베니체마치에비뉴 4차, 경기 김포시 김포한강4로 8) 18:30 인천 계양을 주민 인사(계양 맛길, 인천 계양구 계양문화로 48)【권성동... ",
-			"pubDate":"Sat, 28 May 2022 06:00:00 +0900"
 		}
 	]
 }
