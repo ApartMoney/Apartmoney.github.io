@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 31 May 2022 18:30:02 +0900",
-	"total":176680,
+	"lastBuildDate":"Tue, 31 May 2022 18:40:02 +0900",
+	"total":176681,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"지방선거 D-1…주요 후보별 IT 공약 살펴보니",
+			"originallink":"https:\/\/it.donga.com\/102266\/",
+			"link":"https:\/\/it.donga.com\/102266\/",
+			"description":"유정복 인천시장 후보 “IFEZ, 블록체인 특구로 지정할 것” 유정복 국민의힘 인천시장 후보는 송도와 영종, <b>청라<\/b>국제도시로 구성된 인천경제자유구역(IFEZ, Incheon Free Economic Zone)을 블록체인 특구로 지정하겠다고... ",
+			"pubDate":"Tue, 31 May 2022 18:28:00 +0900"
+		},
 		{
 			"title":"상점 앞 '가림막'…커낼웨이, 상인 울상",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1146946",
@@ -68,17 +75,17 @@
 			"pubDate":"Tue, 31 May 2022 15:32:00 +0900"
 		},
 		{
-			"title":"‘디펜딩 챔피언’ 장하나, 롯데 오픈 타이틀 방어 도전!",
-			"originallink":"https:\/\/feedapi.cloud.sbs.co.kr\/feed-api\/article_hub\/G20000000587",
-			"link":"https:\/\/feedapi.cloud.sbs.co.kr\/feed-api\/article_hub\/G20000000587",
-			"description":"베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 막을 올린다. 2020년까지 ‘롯데 칸타타 여자오픈’으로 10년 동안... 베어즈베스트 <b>청라<\/b>로 변경되면서 완벽하게 새로운 대회의 모습으로 다시 태어났다. ‘롯데 오픈’은 매년... ",
-			"pubDate":"Tue, 31 May 2022 15:00:00 +0900"
-		},
-		{
 			"title":"[성형외과 시술 제대로 알기]쌍꺼풀 수술∙눈매교정술 등 눈 성형…충분한 상...",
 			"originallink":"http:\/\/medicalworldnews.co.kr\/news\/view.php?idx=1510949881",
 			"link":"http:\/\/medicalworldnews.co.kr\/news\/view.php?idx=1510949881",
 			"description":"인천 <b>청라<\/b>국제병원 성형외과 이민영(대한성형외과학회 정회원) 원장은 “시각을 담당하는 기관인 만큼 눈 성형 시에는 눈의 기능성을 고려해야 한다. 또한, 길이와 세로 폭, 모양 등의 미세한 차이에도 큰 인상 변화를... ",
+			"pubDate":"Tue, 31 May 2022 15:00:00 +0900"
+		},
+		{
+			"title":"‘디펜딩 챔피언’ 장하나, 롯데 오픈 타이틀 방어 도전!",
+			"originallink":"https:\/\/feedapi.cloud.sbs.co.kr\/feed-api\/article_hub\/G20000000587",
+			"link":"https:\/\/feedapi.cloud.sbs.co.kr\/feed-api\/article_hub\/G20000000587",
+			"description":"베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 막을 올린다. 2020년까지 ‘롯데 칸타타 여자오픈’으로 10년 동안... 베어즈베스트 <b>청라<\/b>로 변경되면서 완벽하게 새로운 대회의 모습으로 다시 태어났다. ‘롯데 오픈’은 매년... ",
 			"pubDate":"Tue, 31 May 2022 15:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002258383",
 			"description":"한편, SK 플러그 하이버스는 국내와 아시아 시장에 수전해 설비와 수소 연료전지 제품을 공급하기 위해 내년 하반기를 목표로 인천 서구 <b>청라<\/b>국제도시에 수소 설비 생산·연구기지인 ‘기가팩토리(Giga-factory)’를 건립... ",
 			"pubDate":"Tue, 31 May 2022 11:49:00 +0900"
-		},
-		{
-			"title":"[KLPGA] 장하나, 롯데 오픈 2연패 도전 &quot;감이 조금씩 돌아오고 있다&quot;",
-			"originallink":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065580349990857",
-			"link":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065580349990857",
-			"description":"장하나는 오는 6월 2일부터 5일까지 나흘간 인천에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 개최되는 한국여자프로골프(KLPGA)투어 2022시즌 아홉 번째 대회인 ‘롯데 오픈’(총상금 8억 원, 우승상금 1억 4,400만 원)... ",
-			"pubDate":"Tue, 31 May 2022 11:44:00 +0900"
 		}
 	]
 }
