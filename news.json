@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Wed, 01 Jun 2022 11:30:02 +0900",
-	"total":176665,
+	"lastBuildDate":"Wed, 01 Jun 2022 11:40:02 +0900",
+	"total":176671,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"도로서 말 타던 60대 떨어져…말은 홀로 승마장 복귀",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220601036600065?input=1195m",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=001&aid=0013219024",
+			"description":"이번 소동은 60대 남성이 인천시 서구 시천동 모 음식점의 승마체험장에서 말을 타고 <b>청라<\/b>국제도시 방향으로 가다가 발생한 것으로 파악됐다. 말은 아시아드 주경기장에서 4㎞가량을 달려 신고 접수 12분만인 오전 9시... ",
+			"pubDate":"Wed, 01 Jun 2022 11:36:00 +0900"
+		},
+		{
+			"title":"인천1호선·서울7호선 연장, 전철 8편성 제작사 선정",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01630166632357456",
+			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=102&oid=018&aid=0005230750",
+			"description":"(자료 = 인천시 제공) 인천시는 인천지하철 1호선 검단 연장과 서울지하철 7호선 <b>청라<\/b>연장 사업으로 추가... 이후 인천시는 인천1호선 검단 연장 사업과 서울7호선 <b>청라<\/b> 연장 사업을 하면서 전동차 제작 통합발주를 통해... ",
+			"pubDate":"Wed, 01 Jun 2022 11:30:00 +0900"
+		},
+		{
+			"title":"롯데 오픈 왕좌는 누구에게?",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5404977",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006132276",
+			"description":"= 1일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 '롯데오픈' 공식 포토콜에서 임희정(왼쪽부터), 박현경, 하민송, 장하나, 이소영, 박민지, 조아연 프로가 포즈를 취하고 있다. (롯데 제공) 2022.6.1\/뉴스1",
+			"pubDate":"Wed, 01 Jun 2022 11:29:00 +0900"
+		},
+		{
+			"title":"우승 트로피는 누구에게?",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5404975",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006132274",
+			"description":"= 1일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 '롯데오픈' 공식 포토콜에서 박현경(왼쪽부터), 장하나, 하민송, 이소영, 박민지, 박민지, 임희정, 조아연 프로가 포즈를 취하고 있다. (롯데 제공) 2022.6.1\/뉴스1",
+			"pubDate":"Wed, 01 Jun 2022 11:29:00 +0900"
+		},
+		{
+			"title":"롯데 오픈, 경기 중 환호·응원 가능한 ‘롯데플레저홀’ 운영",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5404978",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006132277",
+			"description":"= 1일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 '롯데오픈' 공식 포토콜에서 이소영(뒷줄 왼쪽부터 시계방향), 조아연, 하민송, 박민지, 장하나, 박현경, 임희정 프로가 국내 골프대회 최초로 경기 중 환호와... ",
+			"pubDate":"Wed, 01 Jun 2022 11:29:00 +0900"
+		},
+		{
+			"title":"롯데 오픈의 주역들",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5404976",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006132275",
+			"description":"= 1일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 '롯데오픈' 공식 포토콜에서 임희정(왼쪽부터), 박현경, 이소영, 박민지, 조아연, 하민송, 장하나 프로가 기념 촬영을 하고 있다. (롯데 제공) 2022.6.1\/뉴스1",
+			"pubDate":"Wed, 01 Jun 2022 11:29:00 +0900"
+		},
 		{
 			"title":"인천시, 인천1호선·서울7호선 검단·<b>청라<\/b>연장선 운행 전동차 통합 발주",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202206011119303069",
@@ -171,48 +213,6 @@
 			"link":"http:\/\/www.apsk.co.kr\/news\/articleView.html?idxno=39131",
 			"description":"한국여자프로골프(KLPGA) 투어 '2022 롯데 오픈(총상금 8억 원)'이 6월 2일부터 나흘간 인천 베어즈베스트 <b>청라<\/b>GC(파72, 6,725야드)에서 열린다. 제 2회 롯데 오픈에는 역대급 참가 선수들이 모여 롯데월드타워 우승컵을 놓고... ",
 			"pubDate":"Wed, 01 Jun 2022 01:10:00 +0900"
-		},
-		{
-			"title":"'6월1일 지방선거일' 대형마트 휴무일, 홈플러스·이마트·롯데마트·코스트코...",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2480038",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2480038",
-			"description":"인천<b>청라<\/b>, 인하 • 경기 : 동수원, 병점, 부천상동, 북수원, 분당오리, 서수원, 송탄, 시화, 야탑, 영통, 원천, 의정부, 평택안중, 화성동탄, 화성향남 • 대구 : 내당, 대구수성, 동촌, 상인, 성서, 칠곡 • 경북\/울산... ",
-			"pubDate":"Wed, 01 Jun 2022 00:06:00 +0900"
-		},
-		{
-			"title":"가계대출 금리 4% 돌파…영끌족은 피가 마른다",
-			"originallink":"https:\/\/www.joongang.co.kr\/article\/25075786",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=025&aid=0003199182",
-			"description":"이들은 지난해 초 인천 <b>청라<\/b>국제도시에 있는 8억원 상당의 아파트를 샀다. 주택담보대출(주담대)로 3억원을 마련하고 부족한 돈은 신용대출(1억원)과 부모에게 빌린 돈으로 메웠다. 그런데 올해 들어 금리가... ",
-			"pubDate":"Wed, 01 Jun 2022 00:02:00 +0900"
-		},
-		{
-			"title":"신세계, 울산 혁신도시 복합상업시설 건립 '순조'",
-			"originallink":"http:\/\/www.ujeil.com\/news\/articleView.html?idxno=305076",
-			"link":"http:\/\/www.ujeil.com\/news\/articleView.html?idxno=305076",
-			"description":"이마트도 트레이더스 출점과 기존점 리뉴얼 등에 1조원, 또 신규 출점으로 수원·창원·<b>청라<\/b> 스타필드에 2조2천억원 등 구체적인 투자계획을 제시했는데, 울산투자계획은 없었다. 신세계의 울산 투자계획이 없자 중구는... ",
-			"pubDate":"Tue, 31 May 2022 23:46:00 +0900"
-		},
-		{
-			"title":"SK E&amp;S, 수전해 기술 기반 '그린수소 시대' 연다",
-			"originallink":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=242560",
-			"link":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=242560",
-			"description":"현재 SK 플러그 하이버스는 국내 및 아시아 시장에 수전해 설비와 수소 연료전지 제품을 공급하기 위해 2023년 하반기를 목표로 인천 서구 <b>청라<\/b>국제도시에 수소 설비 생산·연구기지인 '기가팩토리(Giga-factory)'를... ",
-			"pubDate":"Tue, 31 May 2022 23:16:00 +0900"
-		},
-		{
-			"title":"[6·1 마지막 호소] 유정복 &quot;발전과 퇴보 선택의 날 인천발전 위해 뛰겠다&quot;",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363544020",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363544020",
-			"description":"300만 시민의 60년 숙원인 문학산 정상 개방, 경인고속도로 일반도로 전환, 제3연륙교 건설·7호선 <b>청라<\/b>연장 사업 확정, 검단신도시·루원시티 착공 등 현안사업을 모두 해결했습니다. 또한 저는 장관 두 번을 하며 국회... ",
-			"pubDate":"Tue, 31 May 2022 22:44:00 +0900"
-		},
-		{
-			"title":"국제소롭티미스트 대구<b>청라<\/b>클럽 성윤숙 회장 취임",
-			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=383983",
-			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=383983",
-			"description":"국제소롭티미스트 대구<b>청라<\/b>클럽은 지난 28일 ㈔창조문화포럼 사무실에서 회장 이·취임식을 개최했다고 밝혔다. 국제소롭티미스트 대구<b>청라<\/b>클럽 제공 국제소롭티미스트 대구<b>청라<\/b>클럽은 지난 28일 ㈔창조문화포럼... ",
-			"pubDate":"Tue, 31 May 2022 21:34:00 +0900"
 		}
 	]
 }
