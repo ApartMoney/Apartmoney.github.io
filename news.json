@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 02 Jun 2022 18:40:02 +0900",
-	"total":177151,
+	"lastBuildDate":"Thu, 02 Jun 2022 18:50:02 +0900",
+	"total":177153,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이예원과 성유진 &quot;8언더파 코스 레코드&quot;…‘넘버 1’ 박민지 &quot;2오버파 부진&quot;",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022060218410246216",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=277&aid=0005098212",
+			"description":"2일 인천 베어즈베스트 <b>청라<\/b>골프장(파72· 6725야드)에서 열린 한국여자프로골프(KLPGA)투어 롯데오픈(총상금 8억원) 첫날 코스 레코드인 8언더파를 앞세워 리더보드 가장 높은 곳에 이름을 올렸다. 성유진(22... ",
+			"pubDate":"Thu, 02 Jun 2022 18:41:00 +0900"
+		},
+		{
+			"title":"[KLPGA] 성유진·이예원, 선두... 이다연 등 추격 '첫날부터 박빙'",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20220602001107",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20220602001107",
+			"description":"성유진(22)은 2일 인천 베어즈베스트 <b>청라<\/b>(파72·6725야드)에서 열린 한국여자프로골프(KLPGA) 투어 롯데오픈(총상금 8억원) 1라운드에서 보기 없이 버디만 8개를 낚았다. 첫날 공동선두를 이룬 성유진. [사진= KLPGA] 첫날... ",
+			"pubDate":"Thu, 02 Jun 2022 18:40:00 +0900"
+		},
 		{
 			"title":"성유진·이예원, KLPGA 투어 롯데오픈 첫날 2타 차 공동 선두(종합)",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220602175951007?input=1195m",
@@ -110,13 +124,6 @@
 			"pubDate":"Thu, 02 Jun 2022 17:59:00 +0900"
 		},
 		{
-			"title":"롯데건설, 'KLPGA 2022 롯데오픈' 공식 후원",
-			"originallink":"http:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2009547",
-			"link":"http:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2009547",
-			"description":"2일 롯데건설에 따르면 롯데가 주최하고 한국여자프로골프(KLPGA)가 주관하는 이번 대회는 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 이날부터 오는 5일까지 나흘간 열린다. 롯데건설은 대회 기간 중 유럽코스 1번홀... ",
-			"pubDate":"Thu, 02 Jun 2022 17:58:00 +0900"
-		},
-		{
 			"title":"[포토]한진선-김희준-문정민, 다정하게 브이로 인사",
 			"originallink":"http:\/\/www.etnews.com\/20220602000331",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021084",
@@ -124,17 +131,24 @@
 			"pubDate":"Thu, 02 Jun 2022 17:58:00 +0900"
 		},
 		{
-			"title":"성유진·이예원, 8언더파 코스레코드…‘상금도 나란히 150만원씩’",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01603926632357784",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005232095",
-			"description":"성유진이 2일 열린 KLPGA 투어 롯데 오픈 1라운드에서 티 샷을 하고 있다.(사진=KLPGA 제공)[<b>청라<\/b>(인천)... 성유진과 이예원은 2일 인천광역시 서구의 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 대회 1라운드에서 나란히... ",
-			"pubDate":"Thu, 02 Jun 2022 17:57:00 +0900"
+			"title":"롯데건설, 'KLPGA 2022 롯데오픈' 공식 후원",
+			"originallink":"http:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2009547",
+			"link":"http:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2009547",
+			"description":"2일 롯데건설에 따르면 롯데가 주최하고 한국여자프로골프(KLPGA)가 주관하는 이번 대회는 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 이날부터 오는 5일까지 나흘간 열린다. 롯데건설은 대회 기간 중 유럽코스 1번홀... ",
+			"pubDate":"Thu, 02 Jun 2022 17:58:00 +0900"
 		},
 		{
 			"title":"[포토]유효주, 손 인사로 출발합니다",
 			"originallink":"http:\/\/www.etnews.com\/20220602000328",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021079",
 			"description":"KLPGA 2022시즌 아홉 번째 대회인 '롯데 오픈'(총상금 8억 원, 우승상금 1억 4,400만 원)이 인천에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 열리고 있다. 2일 현재 1라운드 경기가 펼쳐지고 있다. 유효주가... ",
+			"pubDate":"Thu, 02 Jun 2022 17:57:00 +0900"
+		},
+		{
+			"title":"성유진·이예원, 8언더파 코스레코드…‘상금도 나란히 150만원씩’",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01603926632357784",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005232095",
+			"description":"성유진이 2일 열린 KLPGA 투어 롯데 오픈 1라운드에서 티 샷을 하고 있다.(사진=KLPGA 제공)[<b>청라<\/b>(인천)... 성유진과 이예원은 2일 인천광역시 서구의 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 대회 1라운드에서 나란히... ",
 			"pubDate":"Thu, 02 Jun 2022 17:57:00 +0900"
 		},
 		{
@@ -166,20 +180,6 @@
 			"pubDate":"Thu, 02 Jun 2022 17:50:00 +0900"
 		},
 		{
-			"title":"[포토]김재희 '밝은 미소와 손인사'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01600646632357784",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005232092",
-			"description":"6일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b>CC(파72.6725야드.U.S.A(OUT)오스트랄아시아(IN))에서 '롯데 오픈' 1라운드가 열렸다.김재희의 10번홀 경기 장면.",
-			"pubDate":"Thu, 02 Jun 2022 17:50:00 +0900"
-		},
-		{
-			"title":"[포토]김재희 '첫 홀 집중해서 선다'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01597366632357784",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005232091",
-			"description":"6일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b>CC(파72.6725야드.U.S.A(OUT)오스트랄아시아(IN))에서 '롯데 오픈' 1라운드가 열렸다.김재희의 11번홀 경기 장면.",
-			"pubDate":"Thu, 02 Jun 2022 17:50:00 +0900"
-		},
-		{
 			"title":"[포토]김재희 '그린을 전체적으로 파악한다'",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01587526632357784",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005232088",
@@ -187,10 +187,10 @@
 			"pubDate":"Thu, 02 Jun 2022 17:50:00 +0900"
 		},
 		{
-			"title":"[포토]김재희 '투온향한 임팩트'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01590806632357784",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005232089",
-			"description":"6일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b>CC(파72.6725야드.U.S.A(OUT)오스트랄아시아(IN))에서 '롯데 오픈' 1라운드가 열렸다.김재희의 11번홀 경기 장면.",
+			"title":"[포토]김재희 '밝은 미소와 손인사'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01600646632357784",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005232092",
+			"description":"6일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b>CC(파72.6725야드.U.S.A(OUT)오스트랄아시아(IN))에서 '롯데 오픈' 1라운드가 열렸다.김재희의 10번홀 경기 장면.",
 			"pubDate":"Thu, 02 Jun 2022 17:50:00 +0900"
 		},
 		{
@@ -201,18 +201,18 @@
 			"pubDate":"Thu, 02 Jun 2022 17:50:00 +0900"
 		},
 		{
-			"title":"[포토]김재희 '파워넘치는 임팩트'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01564566632357784",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005232081",
+			"title":"[포토]김재희 '첫 홀 집중해서 선다'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01597366632357784",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005232091",
 			"description":"6일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b>CC(파72.6725야드.U.S.A(OUT)오스트랄아시아(IN))에서 '롯데 오픈' 1라운드가 열렸다.김재희의 11번홀 경기 장면.",
-			"pubDate":"Thu, 02 Jun 2022 17:49:00 +0900"
+			"pubDate":"Thu, 02 Jun 2022 17:50:00 +0900"
 		},
 		{
-			"title":"[포토]김재희 '캐치볼 닦아주세요'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01577686632357784",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005232085",
+			"title":"[포토]김재희 '투온향한 임팩트'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01590806632357784",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005232089",
 			"description":"6일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b>CC(파72.6725야드.U.S.A(OUT)오스트랄아시아(IN))에서 '롯데 오픈' 1라운드가 열렸다.김재희의 11번홀 경기 장면.",
-			"pubDate":"Thu, 02 Jun 2022 17:49:00 +0900"
+			"pubDate":"Thu, 02 Jun 2022 17:50:00 +0900"
 		}
 	]
 }
