@@ -1,9 +1,149 @@
 {
-	"lastBuildDate":"Fri, 03 Jun 2022 18:10:02 +0900",
-	"total":178240,
+	"lastBuildDate":"Fri, 03 Jun 2022 18:20:03 +0900",
+	"total":178260,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[당선소감]윤환 인천 계양구청장 당선인 &quot;미래선도 명품 도시 만들 것&quot;",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=704450",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=704450",
+			"description":"대장·홍대선과 서울지하철 9호선을 계양테크노벨리까지 연장하고, 서울지하철 2호선을 <b>청라<\/b>까지 연결하겠습니다. 효성보건지소를 신축해 공공의료 보건시설을 확충하겠습니다. 교육환경 개선사업 및 교육경비보조금... ",
+			"pubDate":"Fri, 03 Jun 2022 18:18:00 +0900"
+		},
+		{
+			"title":"[당선소감] 강범석 인천 서구청장 당선인 &quot;서구 구민만 보고 역량 쏟을 것&quot;",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=704448",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=704448",
+			"description":"또 <b>청라<\/b> 스타필드 돔구장 조기 건설과 스트리밍 시티, K-팝 아카데미 유치 등의 공약도 이뤄내겠습니다. 구민 여러분이 제게 보내주신 그 마음을 기억하며, 서구의 희망찬 미래를 그려 나가겠습니다. 감사합니다.",
+			"pubDate":"Fri, 03 Jun 2022 18:18:00 +0900"
+		},
+		{
+			"title":"성유진, KLPGA '첫승' 향해 순항...롯데 오픈 이틀 연속 선두",
+			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=586655",
+			"link":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=586655",
+			"description":"성유진은 3일 인천 베어즈베스트 <b>청라<\/b>(파72)에서 KLPGA 투어 롯데오픈(총상금 8억원) 1~2라운드 연속 선두 자리를 지키며 데뷔 첫승에 한발짝 더 다가섰다. 1라운드에서는 올 시즌 무서운 '루키' 이예원과 공동선두를... ",
+			"pubDate":"Fri, 03 Jun 2022 18:18:00 +0900"
+		},
+		{
+			"title":"[포토]윤이나-김민주-조이안, 하트를 만들어 보내요",
+			"originallink":"http:\/\/www.etnews.com\/20220603000179",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021273",
+			"description":"KLPGA 2022시즌 아홉 번째 대회인 '롯데 오픈'(총상금 8억 원, 우승상금 1억 4,400만 원)이 인천에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 열리고 있다. 3일 현재 2라운드 경기가 펼쳐지고 있다. 윤이나가... ",
+			"pubDate":"Fri, 03 Jun 2022 18:17:00 +0900"
+		},
+		{
+			"title":"[포토]문정민, 아름다운 배경을 뒤로하고",
+			"originallink":"http:\/\/www.etnews.com\/20220603000178",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021272",
+			"description":"KLPGA 2022시즌 아홉 번째 대회인 '롯데 오픈'(총상금 8억 원, 우승상금 1억 4,400만 원)이 인천에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 열리고 있다. 3일 현재 2라운드 경기가 펼쳐지고 있다. 문정민이... ",
+			"pubDate":"Fri, 03 Jun 2022 18:15:00 +0900"
+		},
+		{
+			"title":"손예빈 '루키미소로 출발'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112181",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051094",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 손예빈(20.나이키)이 11번홀... ",
+			"pubDate":"Fri, 03 Jun 2022 18:14:00 +0900"
+		},
+		{
+			"title":"손예빈 '루키 브이'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112176",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051099",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 손예빈(20.나이키)이 10번홀... ",
+			"pubDate":"Fri, 03 Jun 2022 18:14:00 +0900"
+		},
+		{
+			"title":"손예빈 '아크가 큰 백스윙'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112178",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051097",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 손예빈(20.나이키)이 11번홀... ",
+			"pubDate":"Fri, 03 Jun 2022 18:14:00 +0900"
+		},
+		{
+			"title":"[포토]김혜윤2, 인생샷을 남긴다",
+			"originallink":"http:\/\/www.etnews.com\/20220603000177",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021271",
+			"description":"KLPGA 2022시즌 아홉 번째 대회인 '롯데 오픈'(총상금 8억 원, 우승상금 1억 4,400만 원)이 인천에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 열리고 있다. 3일 현재 2라운드 경기가 펼쳐지고 있다. 김혜윤2가... ",
+			"pubDate":"Fri, 03 Jun 2022 18:14:00 +0900"
+		},
+		{
+			"title":"2022 롯데 오픈 2라운드 18번홀 전경[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112182",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051093",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다.",
+			"pubDate":"Fri, 03 Jun 2022 18:14:00 +0900"
+		},
+		{
+			"title":"손예빈 '침착하게 살핀다'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112174",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051101",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 손예빈(20.나이키)이 10번홀... ",
+			"pubDate":"Fri, 03 Jun 2022 18:14:00 +0900"
+		},
+		{
+			"title":"손예빈 '오빠 거리는 얼마'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112177",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051098",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 손예빈(20.나이키)이 11번홀... ",
+			"pubDate":"Fri, 03 Jun 2022 18:14:00 +0900"
+		},
+		{
+			"title":"강다나 '버디 성공한 것 보셨어요'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112172",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051103",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 강다나(23.대우산업개발)가... ",
+			"pubDate":"Fri, 03 Jun 2022 18:14:00 +0900"
+		},
+		{
+			"title":"손예빈 '한번에 성공시킨다'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112175",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051100",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 손예빈(20.나이키)이 10번홀... ",
+			"pubDate":"Fri, 03 Jun 2022 18:14:00 +0900"
+		},
+		{
+			"title":"강다나 '우드로 정확하게 날린다'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112180",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051095",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 강다나(23.대우산업개발)가... ",
+			"pubDate":"Fri, 03 Jun 2022 18:14:00 +0900"
+		},
+		{
+			"title":"강다나 '내 볼은 어디쯤에'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112173",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051102",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 강다나(23.대우산업개발)가... ",
+			"pubDate":"Fri, 03 Jun 2022 18:14:00 +0900"
+		},
+		{
+			"title":"손예빈 '멀리 멀리 날리는 티샷'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112179",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051096",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 손예빈(20.나이키)이 11번홀... ",
+			"pubDate":"Fri, 03 Jun 2022 18:14:00 +0900"
+		},
+		{
+			"title":"[포토]김리안, 정확하게 거리를 계산한다",
+			"originallink":"http:\/\/www.etnews.com\/20220603000176",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021270",
+			"description":"KLPGA 2022시즌 아홉 번째 대회인 '롯데 오픈'(총상금 8억 원, 우승상금 1억 4,400만 원)이 인천에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 열리고 있다. 3일 현재 2라운드 경기가 펼쳐지고 있다. 김리안이... ",
+			"pubDate":"Fri, 03 Jun 2022 18:12:00 +0900"
+		},
+		{
+			"title":"[포토]정윤지, 예쁜 옷 입고 경기해요",
+			"originallink":"http:\/\/www.etnews.com\/20220603000175",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021269",
+			"description":"KLPGA 2022시즌 아홉 번째 대회인 '롯데 오픈'(총상금 8억 원, 우승상금 1억 4,400만 원)이 인천에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 열리고 있다. 3일 현재 2라운드 경기가 펼쳐지고 있다. 정윤지가... ",
+			"pubDate":"Fri, 03 Jun 2022 18:10:00 +0900"
+		},
+		{
+			"title":"[포토]장하나, 언제나 최선을 다하는 모습",
+			"originallink":"http:\/\/www.etnews.com\/20220603000174",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021268",
+			"description":"KLPGA 2022시즌 아홉 번째 대회인 '롯데 오픈'(총상금 8억 원, 우승상금 1억 4,400만 원)이 인천에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 열리고 있다. 3일 현재 2라운드 경기가 펼쳐지고 있다. 장하나가... ",
+			"pubDate":"Fri, 03 Jun 2022 18:09:00 +0900"
+		},
 		{
 			"title":"성유진, 강풍에도 2R 선두 지켰다…임희정·이예원 추격",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02673206632358112",
@@ -26,17 +166,10 @@
 			"pubDate":"Fri, 03 Jun 2022 18:06:00 +0900"
 		},
 		{
-			"title":"박도영 '최선을 다해 타수 줄입니다'[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112164",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051090",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 박도영(26)이 11번홀... ",
-			"pubDate":"Fri, 03 Jun 2022 18:05:00 +0900"
-		},
-		{
-			"title":"조윤정 '한번에 성공시킨다'[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112169",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051085",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 조윤정(27)이 10번홀 그린에서... ",
+			"title":"지영민 자매 '목표는 두 가지다, 선택은 언니가'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112166",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051088",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 지영민(26)이 11번홀 티샷을... ",
 			"pubDate":"Fri, 03 Jun 2022 18:05:00 +0900"
 		},
 		{
@@ -47,20 +180,6 @@
 			"pubDate":"Fri, 03 Jun 2022 18:05:00 +0900"
 		},
 		{
-			"title":"지영민 자매 '심도 있는 작전회의'[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112165",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051089",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 지영민(26)이 10번홀 그린에서... ",
-			"pubDate":"Fri, 03 Jun 2022 18:05:00 +0900"
-		},
-		{
-			"title":"박도영 '핀 위치 참 만만치 않네'[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112163",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051091",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 박도영(26)이 10번홀 그린에서... ",
-			"pubDate":"Fri, 03 Jun 2022 18:05:00 +0900"
-		},
-		{
 			"title":"[포토]임희정, 버디 성공하며 선두권으로",
 			"originallink":"http:\/\/www.etnews.com\/20220603000170",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021264",
@@ -68,31 +187,10 @@
 			"pubDate":"Fri, 03 Jun 2022 18:05:00 +0900"
 		},
 		{
-			"title":"[포토] 정지민2, '환한 미소가 사랑스러워~'",
-			"originallink":"https:\/\/www.hankyung.com\/sports\/article\/202206033273H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004707532",
-			"description":"한국여자프로골프(KLPGA)투어 '롯데 오픈' 2라운드 경기가 3일 인천 서구 베어즈베스트 <b>청라<\/b>에서 열렸다. 대회에 출전한 정지민2이 1번 홀에서 티샷한 후 이동하고 있다. 인천=변성현 한경닷컴 기자",
-			"pubDate":"Fri, 03 Jun 2022 18:05:00 +0900"
-		},
-		{
-			"title":"조윤정 '가벼운 손인사로 마무리'[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112170",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051084",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 조윤정(27)이 10번홀 그린에서... ",
-			"pubDate":"Fri, 03 Jun 2022 18:05:00 +0900"
-		},
-		{
-			"title":"조윤정 '그녀만의 드레스코드'[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112168",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051086",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 조윤정(27)이 10번홀 그린에서... ",
-			"pubDate":"Fri, 03 Jun 2022 18:05:00 +0900"
-		},
-		{
-			"title":"박도영 '버디 찬스 만들었어요'[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112162",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051092",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 박도영(26)이 10번홀 그린으로... ",
+			"title":"지영민 자매 '심도 있는 작전회의'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112165",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051089",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 지영민(26)이 10번홀 그린에서... ",
 			"pubDate":"Fri, 03 Jun 2022 18:05:00 +0900"
 		},
 		{
@@ -103,116 +201,18 @@
 			"pubDate":"Fri, 03 Jun 2022 18:05:00 +0900"
 		},
 		{
-			"title":"지영민 자매 '목표는 두 가지다, 선택은 언니가'[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112166",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051088",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 지영민(26)이 11번홀 티샷을... ",
+			"title":"박도영 '최선을 다해 타수 줄입니다'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112164",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051090",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 박도영(26)이 11번홀... ",
 			"pubDate":"Fri, 03 Jun 2022 18:05:00 +0900"
 		},
 		{
-			"title":"[포토]박민지, 라인을 신중하게 봐요",
-			"originallink":"http:\/\/www.etnews.com\/20220603000169",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021263",
-			"description":"KLPGA 2022시즌 아홉 번째 대회인 '롯데 오픈'(총상금 8억 원, 우승상금 1억 4,400만 원)이 인천에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 열리고 있다. 3일 현재 2라운드 경기가 펼쳐지고 있다. 박민지가... ",
-			"pubDate":"Fri, 03 Jun 2022 18:04:00 +0900"
-		},
-		{
-			"title":"[포토] 정지민2, '페어웨이로 날린다'",
-			"originallink":"https:\/\/www.hankyung.com\/sports\/article\/202206033271H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004707528",
-			"description":"한국여자프로골프(KLPGA)투어 '롯데 오픈' 2라운드 경기가 3일 인천 서구 베어즈베스트 <b>청라<\/b>에서 열렸다. 대회에 출전한 정지민2이 1번 홀에서 티샷하고 있다. 인천=변성현 한경닷컴 기자",
-			"pubDate":"Fri, 03 Jun 2022 18:04:00 +0900"
-		},
-		{
-			"title":"[포토] 정지민2, '우아하게~'",
-			"originallink":"https:\/\/www.hankyung.com\/sports\/article\/202206033272H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004707529",
-			"description":"한국여자프로골프(KLPGA)투어 '롯데 오픈' 2라운드 경기가 3일 인천 서구 베어즈베스트 <b>청라<\/b>에서 열렸다. 대회에 출전한 정지민2이 1번 홀에서 티샷하고 있다. 인천=변성현 한경닷컴 기자",
-			"pubDate":"Fri, 03 Jun 2022 18:04:00 +0900"
-		},
-		{
-			"title":"[포토] 정지민2, '신중하게 코스 바라본다'",
-			"originallink":"https:\/\/www.hankyung.com\/sports\/article\/202206033269H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004707524",
-			"description":"한국여자프로골프(KLPGA)투어 '롯데 오픈' 2라운드 경기가 3일 인천 서구 베어즈베스트 <b>청라<\/b>에서 열렸다. 대회에 출전한 정지민2이 1번 홀에서 티샷하고 있다. 인천=변성현 한경닷컴 기자",
-			"pubDate":"Fri, 03 Jun 2022 18:03:00 +0900"
-		},
-		{
-			"title":"[포토] 정지민2, '시원한 스윙'",
-			"originallink":"https:\/\/www.hankyung.com\/sports\/article\/202206033260H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004707523",
-			"description":"한국여자프로골프(KLPGA)투어 '롯데 오픈' 2라운드 경기가 3일 인천 서구 베어즈베스트 <b>청라<\/b>에서 열렸다. 대회에 출전한 정지민2이 1번 홀에서 티샷하고 있다. 인천=변성현 한경닷컴 기자",
-			"pubDate":"Fri, 03 Jun 2022 18:03:00 +0900"
-		},
-		{
-			"title":"[포토]강다나2, 버디 성공 기념이에요",
-			"originallink":"http:\/\/www.etnews.com\/20220603000168",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021262",
-			"description":"KLPGA 2022시즌 아홉 번째 대회인 '롯데 오픈'(총상금 8억 원, 우승상금 1억 4,400만 원)이 인천에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 열리고 있다. 3일 현재 2라운드 경기가 펼쳐지고 있다. 강다나2가... ",
-			"pubDate":"Fri, 03 Jun 2022 18:02:00 +0900"
-		},
-		{
-			"title":"[포토] 김재희, '예쁜 손인사~'",
-			"originallink":"https:\/\/www.hankyung.com\/sports\/article\/202206033259H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004707522",
-			"description":"한국여자프로골프(KLPGA)투어 '롯데 오픈' 2라운드 경기가 3일 인천 서구 베어즈베스트 <b>청라<\/b>에서 열렸다. 대회에 출전한 김재희가 1번 홀에서 티샷한 후 이동하고 있다. 인천=변성현 한경닷컴 기자",
-			"pubDate":"Fri, 03 Jun 2022 18:01:00 +0900"
-		},
-		{
-			"title":"[포토] 김재희, '꼼꼼하게 몸풀기~'",
-			"originallink":"https:\/\/www.hankyung.com\/sports\/article\/202206033258H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004707521",
-			"description":"한국여자프로골프(KLPGA)투어 '롯데 오픈' 2라운드 경기가 3일 인천 서구 베어즈베스트 <b>청라<\/b>에서 열렸다. 대회에 출전한 김재희가 1번 홀에서 티샷을 준비하고 있다. 인천=변성현 한경닷컴 기자",
-			"pubDate":"Fri, 03 Jun 2022 18:01:00 +0900"
-		},
-		{
-			"title":"[포토]허다빈, 보조개 미소로 출발해요",
-			"originallink":"http:\/\/www.etnews.com\/20220603000167",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021261",
-			"description":"KLPGA 2022시즌 아홉 번째 대회인 '롯데 오픈'(총상금 8억 원, 우승상금 1억 4,400만 원)이 인천에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 열리고 있다. 3일 현재 2라운드 경기가 펼쳐지고 있다. 허다빈이... ",
-			"pubDate":"Fri, 03 Jun 2022 18:01:00 +0900"
-		},
-		{
-			"title":"[포토]허다빈, 예쁘게 바라보는 눈빛",
-			"originallink":"http:\/\/www.etnews.com\/20220603000166",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021260",
-			"description":"KLPGA 2022시즌 아홉 번째 대회인 '롯데 오픈'(총상금 8억 원, 우승상금 1억 4,400만 원)이 인천에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 열리고 있다. 3일 현재 2라운드 경기가 펼쳐지고 있다. 허다빈이... ",
-			"pubDate":"Fri, 03 Jun 2022 18:00:00 +0900"
-		},
-		{
-			"title":"[오늘의 전자 단신] 쿠첸, '이천쌀 전용 121 밥솥' 론칭 外",
-			"originallink":"http:\/\/www.inews24.com\/view\/1487239",
-			"link":"https:\/\/news.naver.com\/main\/read.naver?mode=LSD&mid=sec&sid1=101&oid=031&aid=0000676947",
-			"description":"이번 대회는 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 이달 2일부터 5일까지 나흘간 열린다. 캐논 부스에 방문한 갤러리들은 오전 10시부터 오후 1시까지 시간대별로 선착순 5명씩 파워샷 줌 제품을 대여할 수 있으며... ",
-			"pubDate":"Fri, 03 Jun 2022 18:00:00 +0900"
-		},
-		{
-			"title":"[포토] 김재희, '이 정도면 만족해~'",
-			"originallink":"https:\/\/www.hankyung.com\/sports\/article\/202206033255H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004707517",
-			"description":"한국여자프로골프(KLPGA)투어 '롯데 오픈' 2라운드 경기가 3일 인천 서구 베어즈베스트 <b>청라<\/b>에서 열렸다. 대회에 출전한 김재희가 1번 홀에서 티샷하고 있다. 인천=변성현 한경닷컴 기자",
-			"pubDate":"Fri, 03 Jun 2022 18:00:00 +0900"
-		},
-		{
-			"title":"[포토] 김재희, '우아한 티샷~'",
-			"originallink":"https:\/\/www.hankyung.com\/sports\/article\/202206033254H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004707516",
-			"description":"한국여자프로골프(KLPGA)투어 '롯데 오픈' 2라운드 경기가 3일 인천 서구 베어즈베스트 <b>청라<\/b>에서 열렸다. 대회에 출전한 김재희가 1번 홀에서 티샷하고 있다. 인천=변성현 한경닷컴 기자",
-			"pubDate":"Fri, 03 Jun 2022 17:59:00 +0900"
-		},
-		{
-			"title":"[포토]전우리-이지현-김수연, 다함께 브이",
-			"originallink":"http:\/\/www.etnews.com\/20220603000165",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003021259",
-			"description":"KLPGA 2022시즌 아홉 번째 대회인 '롯데 오픈'(총상금 8억 원, 우승상금 1억 4,400만 원)이 인천에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,725야드)에서 열리고 있다. 3일 현재 2라운드 경기가 펼쳐지고 있다. 전우리가... ",
-			"pubDate":"Fri, 03 Jun 2022 17:59:00 +0900"
-		},
-		{
-			"title":"윤이나 '장타 여왕의 투 온 시도'[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112156",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051079",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 윤이나(19.하이트진로)가... ",
-			"pubDate":"Fri, 03 Jun 2022 17:58:00 +0900"
+			"title":"조윤정 '가벼운 손인사로 마무리'[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=112170",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000051084",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>골프클럽(파72\/6,725야드)에서 한국여자프로골프 KLPGA투어 '2022 롯데 오픈'(총상금 8억 원, 우승상금 1억 4천4만 원) 2라운드가 열렸다. 조윤정(27)이 10번홀 그린에서... ",
+			"pubDate":"Fri, 03 Jun 2022 18:05:00 +0900"
 		}
 	]
 }
