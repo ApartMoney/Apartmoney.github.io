@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 06 Jun 2022 14:40:02 +0900",
-	"total":179903,
+	"lastBuildDate":"Mon, 06 Jun 2022 14:50:02 +0900",
+	"total":179904,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"신동빈 롯데 회장 &quot;2030 엑스포는 부산에서&quot;",
+			"originallink":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=457383",
+			"link":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=457383",
+			"description":"베어즈베스트 <b>청라<\/b>를 찾아 롯데 골프단 황유민 선수와 함께 '2030 부산세계박람회(엑스포)' 유치 기원... 베어즈베스트 <b>청라<\/b>를 찾아 이 같이 밝혔다. 롯데는 지난 2~5일 열린 2022 롯데 오픈 현장에서 2030 부산엑스포 유치... ",
+			"pubDate":"Mon, 06 Jun 2022 14:46:00 +0900"
+		},
 		{
 			"title":"분양가 제도 손질 앞두고 청약시장 '잠잠'… 6월 둘째 주 3200여가구 분양",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=924493",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=023&aid=0003695737",
 			"description":"성유진은 5일 인천 베어즈베스트 <b>청라<\/b>(파72·6725야드)에서 열린 롯데오픈(총상금 8억원) 최종 라운드를 3타 차 1위로 출발했다. 2번홀(파5) 칩인 이글을 잡았으나 5번홀(파4) 더블보기로 주춤했다. 버디 3개, 보기 1개로... ",
 			"pubDate":"Mon, 06 Jun 2022 03:02:00 +0900"
-		},
-		{
-			"title":"73번 도전 끝에 데뷔 첫 우승컵 들어올린 성유진",
-			"originallink":"https:\/\/www.donga.com\/news\/article\/all\/20220606\/113800032\/1",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=020&aid=0003432617",
-			"description":"성유진은 5일 인천 베어즈베스트 <b>청라<\/b>골프클럽(파72)에서 열린 KLPGA투어 롯데 오픈 최종 4라운드에서 이글 1개, 버디 3개, 보기 1개, 더블보기 1개로 2타를 줄이며 최종 합계 15언더파 273타로 2위 김수지(26)를 4타 차로... ",
-			"pubDate":"Mon, 06 Jun 2022 03:01:00 +0900"
 		}
 	]
 }
