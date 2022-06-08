@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 08 Jun 2022 22:00:02 +0900",
-	"total":180073,
+	"lastBuildDate":"Wed, 08 Jun 2022 22:10:02 +0900",
+	"total":180074,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘7호선 인천 <b>청라<\/b> 연장선’ 공사 이달 시작",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5481377&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011280477?sid=102",
+			"description":"",
+			"pubDate":"Wed, 08 Jun 2022 21:54:00 +0900"
+		},
 		{
 			"title":"[민선8기_유정복號 전망과 과제] ③ 경제 활성화 총력",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20220608580198",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160292040563953",
 			"description":"인천시, 안전관리계획서 승인 받아 2027년 7개 정거장 전구간 동시 개통 인천시가 서울7호선 <b>청라<\/b>연장선 실 착공을 위한 모든 준비를 마쳤다. 시는 서울7호선 <b>청라<\/b>연장선 건설공사 관련 교통협의, 가스안전영향평가... ",
 			"pubDate":"Wed, 08 Jun 2022 16:22:00 +0900"
-		},
-		{
-			"title":"인천시, 서울7호선 <b>청라<\/b>연장선 실 착공 준비 마쳐..,",
-			"originallink":"http:\/\/www.breaknews.com\/900324",
-			"link":"http:\/\/www.breaknews.com\/900324",
-			"description":"인천시가 서울7호선 <b>청라<\/b>연장선 건설공사 관련 교통협의, 가스안전영향평가... 한편, 서울7호선 <b>청라<\/b>연장사업은 시민 교통편의 증진과 <b>청라<\/b>국제도시와 원도심의... ",
-			"pubDate":"Wed, 08 Jun 2022 16:04:00 +0900"
 		}
 	]
 }
