@@ -1,21 +1,28 @@
 {
-	"lastBuildDate":"Thu, 09 Jun 2022 07:30:02 +0900",
-	"total":180082,
+	"lastBuildDate":"Thu, 09 Jun 2022 07:40:02 +0900",
+	"total":180083,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"[기업공시 6월 8일]한국조선해양, 유럽서 9233억 규모 컨테이너선 6척 계약 등",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2676FFKI0T",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004062939?sid=101",
-			"description":"인천 <b>청라<\/b> 오피스텔 신축 공사 계약 체결 ▲효성첨단소재=효성베트남에 대해 251억 원 규모 타인에 대한 채무보증 결정 ▲기아=안정적 자금 운용 목적으로 현대차증권으로부터 300억 원 규모 유가증권 매수... ",
-			"pubDate":"Thu, 09 Jun 2022 07:01:00 +0900"
+			"title":"6월9일 개장 전 주요공시",
+			"originallink":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=457693",
+			"link":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=457693",
+			"description":"DL건설은 연주와 인천 <b>청라<\/b> 오피스텔 신축공사 수주계약을 체결했다고 8일 공시했다. 계약금액은 715억원으로, 최근 매출액 대비 3.56% 규모다. ◆코스닥시장 파라텍은 랜드박스 외와 시화 MTV 물류2BL... ",
+			"pubDate":"Thu, 09 Jun 2022 07:34:00 +0900"
 		},
 		{
 			"title":"[재송]8일 장 마감 후 주요 종목 뉴스",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01256246632360080",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005236808?sid=101",
 			"description":"△DL건설(001880)=연주와 715억원 규모의 인천 <b>청라<\/b> 오피스텔 신축공사 계약을 체결했다고 공시. △CNT85(056730)=동성케미컬과 3억원 규모의 유수분리기 제작 설치 공사 계약을 체결. △유네코=한국거래소... ",
+			"pubDate":"Thu, 09 Jun 2022 07:01:00 +0900"
+		},
+		{
+			"title":"[기업공시 6월 8일]한국조선해양, 유럽서 9233억 규모 컨테이너선 6척 계약 등",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2676FFKI0T",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004062939?sid=101",
+			"description":"인천 <b>청라<\/b> 오피스텔 신축 공사 계약 체결 ▲효성첨단소재=효성베트남에 대해 251억 원 규모 타인에 대한 채무보증 결정 ▲기아=안정적 자금 운용 목적으로 현대차증권으로부터 300억 원 규모 유가증권 매수... ",
 			"pubDate":"Thu, 09 Jun 2022 07:01:00 +0900"
 		},
 		{
@@ -180,17 +187,17 @@
 			"pubDate":"Wed, 08 Jun 2022 17:54:00 +0900"
 		},
 		{
-			"title":"DL건설, 715억 규모 인천 <b>청라<\/b> 오피스텔 신축공사 수주",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03316086632359752",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005236676?sid=101",
-			"description":"DL건설(001880)이 주식회사 연주와 715억원 규모의 인천 <b>청라<\/b> 오피스텔 신축공사 수주 계약을 체결했다고 8일 공시했다. 이번 계약액은 지난해 매출액의 3.56%에 해당하는 규모다. 공사 규모는 지하3층, 지상 21층... ",
-			"pubDate":"Wed, 08 Jun 2022 17:42:00 +0900"
-		},
-		{
 			"title":"인천경제청, 올해 'IFEZ 관광맛집 블로그·SNS 매체 운영' 착수",
 			"originallink":"http:\/\/www.ifm.kr\/news\/337107",
 			"link":"http:\/\/www.ifm.kr\/news\/337107",
 			"description":"송도·영종·<b>청라<\/b>국제도시 관광과 먹거리 관련 콘텐츠를 제작, 블로그 'IFEZINE'과 SNS 채널을 통해 IFEZ를 알리는 사업으로 이를 위해 인천경제청은 '(주)트레이'와 업무계약을 맺었습니다. 특히 올해는 송도·영종·<b>청라<\/b>의... ",
+			"pubDate":"Wed, 08 Jun 2022 17:42:00 +0900"
+		},
+		{
+			"title":"DL건설, 715억 규모 인천 <b>청라<\/b> 오피스텔 신축공사 수주",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03316086632359752",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005236676?sid=101",
+			"description":"DL건설(001880)이 주식회사 연주와 715억원 규모의 인천 <b>청라<\/b> 오피스텔 신축공사 수주 계약을 체결했다고 8일 공시했다. 이번 계약액은 지난해 매출액의 3.56%에 해당하는 규모다. 공사 규모는 지하3층, 지상 21층... ",
 			"pubDate":"Wed, 08 Jun 2022 17:42:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.betanews.net:8080\/article\/1339344.html",
 			"description":"△ 디엘건설이 인천 <b>청라<\/b> 오피스텔 신축공사의 계약을 연주와 맺었다. 계약 금액은 720억원이다. 이번계약이 매출에서 차지하는 비율은 3.56%이다. △ MITSUBISHI GAS CHEMICAL는 애경케미칼의 주식 201만3360주를... ",
 			"pubDate":"Wed, 08 Jun 2022 17:16:00 +0900"
-		},
-		{
-			"title":"서울7호선 <b>청라<\/b>연장선, 실착공 위한 준비 마쳐...6월부터 본격 공사",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=704918",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=704918",
-			"description":"인천시가 서울7호선 <b>청라<\/b>연장선 실 착공을 위한 모든 준비를 마쳤다. 시는 서울7호선 <b>청라<\/b>연장선 건설공사 관련 국토안전관리원으로부터 최종 안전관리계획서를 승인받아 실 착공을 위한 모든 사전 준비를 마쳤다고 8일... ",
-			"pubDate":"Wed, 08 Jun 2022 17:10:00 +0900"
 		}
 	]
 }
