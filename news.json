@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 08 Jun 2022 20:40:02 +0900",
-	"total":180069,
+	"lastBuildDate":"Wed, 08 Jun 2022 20:50:02 +0900",
+	"total":180070,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 서울7호선 <b>청라<\/b>연장선 이달 중 공사 착공",
+			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=54793",
+			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=54793",
+			"description":"서울7호선 <b>청라<\/b>연장선 건설공사와 관련 국토안전관리원으로부터 최종 안전관리계획서를 승인 받음에 따라 실 착공을 위한 모든 사전 준비를 마치고 본격적인 공사에 들어간다. 사진은 <b>청라<\/b>지구 7호선 연장선 노선도.... ",
+			"pubDate":"Wed, 08 Jun 2022 20:46:00 +0900"
+		},
 		{
 			"title":"[윤환 인천 계양구청장 당선인 소감] &quot;대장~홍대선·서울 9호선 계양까지 연장...",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220608010001276",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2141076",
 			"description":"신세계그룹 역시 신세계프라퍼티를 통해 현재 공사가 진행 중인 스타필드 수원을 필두로, 스타필드 창원과 스타필드 <b>청라<\/b> 등 신규 점포 출점에 2조2000억 원을 투자한다. 여기에 현재 사업을 진행하고 있는 화성... ",
 			"pubDate":"Wed, 08 Jun 2022 15:26:00 +0900"
-		},
-		{
-			"title":"서울 지하철 7호선 <b>청라<\/b> 연장선 이달 공사 착수",
-			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1355521",
-			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1355521",
-			"description":"인천시는 서울도시철도 7호선 <b>청라<\/b> 연장선 건설을 위한 사전 준비를 마치고 이달 중에 본격적인 공사에... <b>청라<\/b> 연장선 사업은 7호선 석남역에서 공항철도 <b>청라<\/b>국제도시역까지 10.77km 구간을 연장하고 7개 정거장을... ",
-			"pubDate":"Wed, 08 Jun 2022 15:04:00 +0900"
 		}
 	]
 }
