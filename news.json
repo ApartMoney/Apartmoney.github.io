@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 10 Jun 2022 07:10:02 +0900",
-	"total":180157,
+	"lastBuildDate":"Fri, 10 Jun 2022 07:20:02 +0900",
+	"total":180158,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"6월10일 개장 전 주요공시",
+			"originallink":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=457819",
+			"link":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=457819",
+			"description":"◆코스닥시장 다원시스는 인천광역시 도시철도건설본부 관리부와 인천도시철도 1호선 검단연장선 및 서울도시철도 7호선 <b>청라<\/b>연장선 전기동차 제작구매 계약을 체결했다고 9일 공시했다. 계약금액... ",
+			"pubDate":"Fri, 10 Jun 2022 07:15:00 +0900"
+		},
 		{
 			"title":"[N2 모닝 경제 브리핑-6월 10일] 美 증시, 5월 CPI 예정 속 하락...애플·뱅크...",
 			"originallink":"https:\/\/www.news2day.co.kr\/article\/20220609500307",
@@ -75,17 +82,17 @@
 			"pubDate":"Thu, 09 Jun 2022 21:14:00 +0900"
 		},
 		{
-			"title":"3호선 인천도시철도·서창~김포 고속도로… 사통팔달 '내부 교통망' 뚫는다",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220609010001692",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220609010001692",
-			"description":"인천은 송도·<b>청라<\/b>·영종 등 경제자유구역과 택지 개발사업이 이뤄지면서 신도시와 구도심 간 격차가... 인천공항·<b>청라<\/b>국제도시 방면 철도와 김포·검단 방면에서 연결되는 철도가 만나 서울 강남권으로 이어지는 옆으로... ",
-			"pubDate":"Thu, 09 Jun 2022 20:18:00 +0900"
-		},
-		{
 			"title":"RBDK '라피아노', 수도권 넘어 전국으로 브랜드 위상 높인다",
 			"originallink":"http:\/\/www.jeonmin.co.kr\/news\/articleView.html?idxno=357402",
 			"link":"http:\/\/www.jeonmin.co.kr\/news\/articleView.html?idxno=357402",
 			"description":"주요 사업지를 살펴보면 파주 운정, 고양 삼송, 인천 <b>청라<\/b>, 경기 의왕 등 수도권에 집중돼 있는 것을 확인할 수 있다. 지난해 처음으로 충청권 공략을 시작하며 확장에 나섰다. 작년 10월 충남 아산시에 공급한... ",
+			"pubDate":"Thu, 09 Jun 2022 20:18:00 +0900"
+		},
+		{
+			"title":"3호선 인천도시철도·서창~김포 고속도로… 사통팔달 '내부 교통망' 뚫는다",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220609010001692",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220609010001692",
+			"description":"인천은 송도·<b>청라<\/b>·영종 등 경제자유구역과 택지 개발사업이 이뤄지면서 신도시와 구도심 간 격차가... 인천공항·<b>청라<\/b>국제도시 방면 철도와 김포·검단 방면에서 연결되는 철도가 만나 서울 강남권으로 이어지는 옆으로... ",
 			"pubDate":"Thu, 09 Jun 2022 20:18:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=353633",
 			"description":"점검 대상은 고압가스 냉동제조 가스사용 시설 총 108곳(송도 82, 영종 20, <b>청라<\/b> 6)이다. 1차 점검(자체점검)과 2차 점검(현장점검)으로 나뉘어 진행되고 △안전관리 규정 수립과 이행 여부 및 안전관리자 선임‧상주 확인... ",
 			"pubDate":"Thu, 09 Jun 2022 17:22:00 +0900"
-		},
-		{
-			"title":"마켄, 인천 거점 아태지역 최첨단 물류센터 공식 개관",
-			"originallink":"http:\/\/www.medigatenews.com\/news\/2677958580",
-			"link":"http:\/\/www.medigatenews.com\/news\/2677958580",
-			"description":"이번에 개관된 글로벌 물류센터는 인천국제공항 인근인 <b>청라<\/b> 신도시에 전략적으로 위치했으며, 의약품품질관리기준(GMP: Good Manufacturing Practice) 콜드체인 물류기지로 초저온 스토리지 역량, 맞춤형 물류 솔루션... ",
-			"pubDate":"Thu, 09 Jun 2022 17:18:00 +0900"
 		}
 	]
 }
