@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 10 Jun 2022 06:00:02 +0900",
-	"total":180155,
+	"lastBuildDate":"Fri, 10 Jun 2022 06:10:02 +0900",
+	"total":180156,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[기업공시 6월 9일]대우조선, 5851억 원 규모 LNG 운반선 2척 수주 등",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2676WB5OHI",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004063446?sid=101",
+			"description":"7호선 <b>청라<\/b>연장선 전기동차 제작구매 계약 체결 ▲대모(317850)=이원해 대표이사가 10만 주 장내매도 ▲TS트릴리온(317240)=30일 352억 원 규모 토지 자산재평가 실시 결정 ▲엑시콘(092870)=삼성전자와 531억 원 규모... ",
+			"pubDate":"Fri, 10 Jun 2022 06:01:00 +0900"
+		},
 		{
 			"title":"상급병원 분원 제동 현실적인 해법은",
 			"originallink":"https:\/\/www.medicaltimes.com\/Main\/News\/NewsView.html?ID=1147794&ref=naverpc",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288360446302",
 			"description":"점검 대상은 고압가스 냉동제조 가스사용 시설 총 108곳(송도 82ㆍ영종 20ㆍ<b>청라<\/b> 6)이다. 1차 점검(자체점검)과 2차 점검(현장점검)으로 나뉘어 진행되고 ▲안전관리 규정 수립과 이행 여부 및 안전관리자 선임ㆍ상주 확인... ",
 			"pubDate":"Thu, 09 Jun 2022 16:36:00 +0900"
-		},
-		{
-			"title":"서구 <b>청라<\/b>소각장 대체 후보지 공모 또 무산",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88575",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88575",
-			"description":"<b>청라<\/b>자원순환센터(소각장) 일대 전경 \/사진제공=서구 인천 서구 <b>청라<\/b>소각장을 대체할 신규 소각장 입지 후보지 공모가 또다시 무산될 전망이다. 9일 서구에 따르면 공모기간(4.11~6.10) 만료를 하루 앞둔 이날까지 신규... ",
-			"pubDate":"Thu, 09 Jun 2022 16:20:00 +0900"
 		}
 	]
 }
