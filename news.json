@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 10 Jun 2022 00:30:02 +0900",
-	"total":180149,
+	"lastBuildDate":"Fri, 10 Jun 2022 00:40:02 +0900",
+	"total":180150,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 이달 말까지 여름철 대비 '고압가스시설 안전점검' ",
+			"originallink":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=501529",
+			"link":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=501529",
+			"description":"점검 대상은 고압가스 냉동제조 가스사용 시설 총 108곳(송도 82, 영종 20, <b>청라<\/b> 6)이다. 1차 점검(자체점검)과 2차 점검(현장점검)으로 나눠 진행되고 △안전관리 규정 수립과 이행 여부 및 안전관리자 선임‧상주 확인... ",
+			"pubDate":"Fri, 10 Jun 2022 00:36:00 +0900"
+		},
 		{
 			"title":"[대형마트 휴무일] 홈플러스·이마트·롯데마트·코스트코 5월할인상품 영업시...",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2485203",
@@ -61,17 +68,17 @@
 			"pubDate":"Thu, 09 Jun 2022 19:56:00 +0900"
 		},
 		{
-			"title":"매립지 종료 정책 대수술…광역 소각장 어디로",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1148073",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1148073",
-			"description":"<b>청라<\/b>소각장. 인천 옹진군이 연평·소청 등에 자체 소각시설 건립 절차를 본격화하는 가운데 민선7기 인천시가... 기존 <b>청라<\/b>국제도시 소각시설을 폐쇄하고 이전 신축하기로 한 서구·강화군의 경우 신설 입지를 정하지 못해... ",
-			"pubDate":"Thu, 09 Jun 2022 19:44:00 +0900"
-		},
-		{
 			"title":"치솟는 물가…인천 철도·교통 사업비도 '껑충'",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1148072",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1148072",
 			"description":"사실상 물가상승이 사업비 증액을 견인하는 셈인데, 인천에서 진행 중인 '영종∼신도 평화도로' 건설이나 '<b>청라<\/b>~북항간 연결도로대로 1-17호선' 공사 등도 계약액 조정이 추진 중인 상황이다. 시 종합건설본부 관계자는... ",
+			"pubDate":"Thu, 09 Jun 2022 19:44:00 +0900"
+		},
+		{
+			"title":"매립지 종료 정책 대수술…광역 소각장 어디로",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1148073",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1148073",
+			"description":"<b>청라<\/b>소각장. 인천 옹진군이 연평·소청 등에 자체 소각시설 건립 절차를 본격화하는 가운데 민선7기 인천시가... 기존 <b>청라<\/b>국제도시 소각시설을 폐쇄하고 이전 신축하기로 한 서구·강화군의 경우 신설 입지를 정하지 못해... ",
 			"pubDate":"Thu, 09 Jun 2022 19:44:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=219130",
 			"description":"인천 미추홀·남동·연수구는 현재 송도 소각장을 이용하고, 서구·강화군은 <b>청라<\/b>소각장을 대체할 소각장, 부평·계양구는 경기도 부천시 소각장을 이용할 전망이다. 남은 곳은 중구와 동구 뿐이다. 인천시는 중·동구권역... ",
 			"pubDate":"Thu, 09 Jun 2022 15:46:00 +0900"
-		},
-		{
-			"title":"종합부동산회사로 도약",
-			"originallink":"https:\/\/hankookilbo.com\/News\/Read\/A2022060915050005616?did=NA",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000679800?sid=101",
-			"description":"<b>청라<\/b>국제도시 의료복합타운을 구축하는 우선협상대상자로 선정되었고, 이지스자산운용 등과 ‘마곡서울식물원 서측 명소화부지 민간사업자 공모사업’에 참가해 우선협상대상자로 선정되었다. 또한 ‘서울 스마트... ",
-			"pubDate":"Thu, 09 Jun 2022 15:08:00 +0900"
 		}
 	]
 }
