@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 09 Jun 2022 16:40:02 +0900",
-	"total":180124,
+	"lastBuildDate":"Thu, 09 Jun 2022 16:50:02 +0900",
+	"total":180125,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 여름철 대비 고압가스시설 안전점검",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288360446302",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288360446302",
+			"description":"점검 대상은 고압가스 냉동제조 가스사용 시설 총 108곳(송도 82ㆍ영종 20ㆍ<b>청라<\/b> 6)이다. 1차 점검(자체점검)과 2차 점검(현장점검)으로 나뉘어 진행되고 ▲안전관리 규정 수립과 이행 여부 및 안전관리자 선임ㆍ상주 확인... ",
+			"pubDate":"Thu, 09 Jun 2022 16:36:00 +0900"
+		},
 		{
 			"title":"서구 <b>청라<\/b>소각장 대체 후보지 공모 또 무산",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88575",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.klnews.co.kr\/news\/articleView.html?idxno=304763",
 			"description":"인천국제공항 인근 <b>청라<\/b> 신도시에 위치한 글로벌 물류센터는 3,305㎡(약 1,000평) 규모로 의약품품질관리기준(GMP: Good Manufacturing Practice) 콜드체인 물류기지다. 상온(+15~+25°C), 냉장(+2~+8°C), 냉동(-15~ 25°C), 초저온(-30... ",
 			"pubDate":"Thu, 09 Jun 2022 10:06:00 +0900"
-		},
-		{
-			"title":"마켄, 인천 콜드체인물류센터 오픈…아태지역 허브 터미널",
-			"originallink":"http:\/\/www.dailypharm.com\/Users\/News\/NewsView.html?ID=288848&REFERER=NP",
-			"link":"http:\/\/www.dailypharm.com\/Users\/News\/NewsView.html?ID=288848&REFERER=NP",
-			"description":"이날 공식 개관된 글로벌 물류센터는 인천국제공항 인근 <b>청라<\/b>신도시에 전략적으로 위치했으며, 의약품품질관리기준(GMP: Good Manufacturing Practice) 콜드체인물류기지로 초저온 스토리지 역량, 맞춤형 물류 솔루션... ",
-			"pubDate":"Thu, 09 Jun 2022 09:56:00 +0900"
 		}
 	]
 }
