@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 10 Jun 2022 17:10:02 +0900",
-	"total":180173,
+	"lastBuildDate":"Fri, 10 Jun 2022 17:20:03 +0900",
+	"total":180174,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[OBS 뉴스오늘2] 9대 인천시의회 면면은",
+			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1355808",
+			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1355808",
+			"description":"서울7호선 <b>청라<\/b>연장선 이달 내 착공 15년 만에 착공하는 지역주민 장기 숙원사업 [질문6] 중구청장 당선인 &quot;영종도 교통 힘쓸 것&quot; 연수구청장 당선인 &quot;사통팔달, 구정 방향&quot; 옹진군수 당선인 &quot;전 국민 여객선 할인요금제... ",
+			"pubDate":"Fri, 10 Jun 2022 17:08:00 +0900"
+		},
 		{
 			"title":"하이드라페이셜, 국내 런칭 기념 첫 공식 행사 진행",
 			"originallink":"http:\/\/sports.khan.co.kr\/news\/sk_index.html?art_id=202206101627023&sec_id=561801&pt=nv",
@@ -187,17 +194,17 @@
 			"pubDate":"Thu, 09 Jun 2022 21:14:00 +0900"
 		},
 		{
-			"title":"RBDK '라피아노', 수도권 넘어 전국으로 브랜드 위상 높인다",
-			"originallink":"http:\/\/www.jeonmin.co.kr\/news\/articleView.html?idxno=357402",
-			"link":"http:\/\/www.jeonmin.co.kr\/news\/articleView.html?idxno=357402",
-			"description":"주요 사업지를 살펴보면 파주 운정, 고양 삼송, 인천 <b>청라<\/b>, 경기 의왕 등 수도권에 집중돼 있는 것을 확인할 수 있다. 지난해 처음으로 충청권 공략을 시작하며 확장에 나섰다. 작년 10월 충남 아산시에 공급한... ",
-			"pubDate":"Thu, 09 Jun 2022 20:18:00 +0900"
-		},
-		{
 			"title":"3호선 인천도시철도·서창~김포 고속도로… 사통팔달 '내부 교통망' 뚫는다",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220609010001692",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220609010001692",
 			"description":"인천은 송도·<b>청라<\/b>·영종 등 경제자유구역과 택지 개발사업이 이뤄지면서 신도시와 구도심 간 격차가... 인천공항·<b>청라<\/b>국제도시 방면 철도와 김포·검단 방면에서 연결되는 철도가 만나 서울 강남권으로 이어지는 옆으로... ",
+			"pubDate":"Thu, 09 Jun 2022 20:18:00 +0900"
+		},
+		{
+			"title":"RBDK '라피아노', 수도권 넘어 전국으로 브랜드 위상 높인다",
+			"originallink":"http:\/\/www.jeonmin.co.kr\/news\/articleView.html?idxno=357402",
+			"link":"http:\/\/www.jeonmin.co.kr\/news\/articleView.html?idxno=357402",
+			"description":"주요 사업지를 살펴보면 파주 운정, 고양 삼송, 인천 <b>청라<\/b>, 경기 의왕 등 수도권에 집중돼 있는 것을 확인할 수 있다. 지난해 처음으로 충청권 공략을 시작하며 확장에 나섰다. 작년 10월 충남 아산시에 공급한... ",
 			"pubDate":"Thu, 09 Jun 2022 20:18:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=707640",
 			"description":"보령시 <b>청라<\/b>면이 반려식물을 통한 시민 코로나블루 극복 지원에 나섰다. 지난 9일 <b>청라<\/b>면 삼다향 실버복지센터에서 개최된 `반려식물 나눔 행사'는 시민 100여명이 참여한 가운데 열렸다. <b>청라<\/b>면주민자치위원회(위원장... ",
 			"pubDate":"Thu, 09 Jun 2022 20:04:00 +0900"
-		},
-		{
-			"title":"[노트북] 7호선 <b>청라<\/b>연장선 공사와 소상공인의 절규",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220609010001541",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220609010001541",
-			"description":"&quot;인천 서구의 주요 번화가로 자리잡고 있는 <b>청라<\/b> '커널웨이' 주변 상가 건물에서 최근 열린 서울 도시철도 7호선 <b>청라<\/b>국제도시 연장 3공구 건설공사 사업설명회장은 이 일대 소상공인들의 성토장이었다.서울 도시철도... ",
-			"pubDate":"Thu, 09 Jun 2022 19:56:00 +0900"
 		}
 	]
 }
