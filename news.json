@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 10 Jun 2022 09:40:02 +0900",
-	"total":180165,
+	"lastBuildDate":"Fri, 10 Jun 2022 09:50:03 +0900",
+	"total":180166,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"주거형 오피스텔 인기 여전..청약 저가점자 몰려",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01708886632360408",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005238082?sid=101",
+			"description":"지난해 12월 인천 서구에서 분양한 ‘<b>청라<\/b>국제도시 아이파크’ 오피스텔의 전용 84㎡은 평균 658.5대 1의 경쟁률을 기록했다. 반면 전용 43㎡는 평균 7.6대 1의 경쟁률을 기록했다. 전용 84㎡ 오피스텔 경쟁률이 전용 43... ",
+			"pubDate":"Fri, 10 Jun 2022 09:40:00 +0900"
+		},
 		{
 			"title":"‘서해그랑블 뉴어반’ 분양 예정",
 			"originallink":"https:\/\/www.jejutwn.com\/news\/article.html?no=136429",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000761804?sid=110",
 			"description":"&quot;우리는 나그네로 시작했으며 나그네로 남아 있다. 인류는 우주의 해안에서 충분히 긴 시간을 꾸물대며 꿈을 키워왔다. 이제야 비로소 별들을 향해 돛을 올릴 준비가 끝난 셈이다.&quot; 미국의 천체물리학자 칼 세이건의 책... ",
 			"pubDate":"Thu, 09 Jun 2022 18:31:00 +0900"
-		},
-		{
-			"title":"마켄, <b>청라<\/b>에 첨단 헬스케어 물류센터 개관",
-			"originallink":"http:\/\/www.ifm.kr\/news\/337205",
-			"link":"http:\/\/www.ifm.kr\/news\/337205",
-			"description":"글로벌 헬스케어 물류기업 '마켄(MARKEN)'이 인천 <b>청라<\/b>국제도시에 아태지역 최고 수준의 '글로벌물류센터'를 개관하고 본격 운영에 돌입했다고 9일 밝혔습니다. 마켄은 미국 UPS의 자회사로 헬스케어 임상시험을... ",
-			"pubDate":"Thu, 09 Jun 2022 18:02:00 +0900"
 		}
 	]
 }
