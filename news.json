@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 12 Jun 2022 10:50:02 +0900",
-	"total":180182,
+	"lastBuildDate":"Sun, 12 Jun 2022 11:00:02 +0900",
+	"total":180183,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"12일 일요일, 이마트·홈플러스·롯데마트·코스트코 영업시간[대형마트 휴무...",
+			"originallink":"http:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=449242",
+			"link":"http:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=449242",
+			"description":"인천<b>청라<\/b>, 인하 • 경기 : 동수원, 병점, 부천상동, 북수원, 분당오리, 서수원, 송탄, 시화, 야탑, 영통, 원천, 의정부, 평택안중, 화성동탄, 화성향남 • 대구 : 내당, 대구수성, 동촌, 상인, 성서, 칠곡 • 경북\/울산... ",
+			"pubDate":"Sun, 12 Jun 2022 10:58:00 +0900"
+		},
 		{
 			"title":"[대형마트 휴무일] 12일 이마트·홈플러스·코스트코·롯데마트 영업시간",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=895043",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=501529",
 			"description":"점검 대상은 고압가스 냉동제조 가스사용 시설 총 108곳(송도 82, 영종 20, <b>청라<\/b> 6)이다. 1차 점검(자체점검)과 2차 점검(현장점검)으로 나눠 진행되고 △안전관리 규정 수립과 이행 여부 및 안전관리자 선임‧상주 확인... ",
 			"pubDate":"Fri, 10 Jun 2022 00:36:00 +0900"
-		},
-		{
-			"title":"[대형마트 휴무일] 홈플러스·이마트·롯데마트·코스트코 5월할인상품 영업시...",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2485203",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2485203",
-			"description":"인천<b>청라<\/b>, 인하 • 경기 : 동수원, 병점, 부천상동, 북수원, 분당오리, 서수원, 송탄, 시화, 야탑, 영통, 원천, 의정부, 평택안중, 화성동탄, 화성향남 • 대구 : 내당, 대구수성, 동촌, 상인, 성서, 칠곡 • 경북\/울산... ",
-			"pubDate":"Fri, 10 Jun 2022 00:06:00 +0900"
 		}
 	]
 }
