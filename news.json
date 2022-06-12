@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 12 Jun 2022 09:50:02 +0900",
-	"total":180181,
+	"lastBuildDate":"Sun, 12 Jun 2022 10:00:02 +0900",
+	"total":180182,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[대형마트 휴무일] 12일 이마트·홈플러스·코스트코·롯데마트 영업시간",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=895043",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=895043",
+			"description":"인천<b>청라<\/b>, 인하 • 경기 : 동수원, 병점, 부천상동, 북수원, 분당오리, 서수원, 송탄, 시화, 야탑, 영통, 원천, 의정부, 평택안중, 화성동탄, 화성향남 • 대구 : 내당, 대구수성, 동촌, 상인, 성서, 칠곡 • 경북\/울산... ",
+			"pubDate":"Sun, 12 Jun 2022 09:56:00 +0900"
+		},
 		{
 			"title":"이천수가 아내 심하은 몰래 <b>청라<\/b> 아파트 홈포차 오픈",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2485950",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2485203",
 			"description":"인천<b>청라<\/b>, 인하 • 경기 : 동수원, 병점, 부천상동, 북수원, 분당오리, 서수원, 송탄, 시화, 야탑, 영통, 원천, 의정부, 평택안중, 화성동탄, 화성향남 • 대구 : 내당, 대구수성, 동촌, 상인, 성서, 칠곡 • 경북\/울산... ",
 			"pubDate":"Fri, 10 Jun 2022 00:06:00 +0900"
-		},
-		{
-			"title":"악재 딛고 나선 '늦깎이 신인' 권서연 &quot;늦은 만큼 롱런할 것&quot;",
-			"originallink":"http:\/\/www.golfdigest.co.kr\/news\/articleView.html?idxno=40660",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=435&aid=0000010637",
-			"description":"권서연은 5일 베어즈베스트<b>청라<\/b>에서 막을 내린 한국여자프로골프(KLPGA)투어 롯데오픈(총상금 8억원)에서 최종 합계 7언더파 281타를 적어내며 9위로 마쳤다. 시즌 두 번째 톱10 진입. 지난 4월 넥센... ",
-			"pubDate":"Fri, 10 Jun 2022 00:01:00 +0900"
 		}
 	]
 }
