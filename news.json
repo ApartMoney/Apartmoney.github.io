@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 13 Jun 2022 18:30:02 +0900",
-	"total":180202,
+	"lastBuildDate":"Mon, 13 Jun 2022 18:40:03 +0900",
+	"total":180203,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"13일 장 마감 후 주요 종목 뉴스",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03417766632361392",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005241021?sid=101",
+			"description":"△대우건설(047040)=지난해 3월 <b>청라<\/b>아트피에프브이㈜와 체결한 <b>청라<\/b> C-18 블럭 오피스텔 신축사업 계약을 정정했다고 공시. 정정 사유는 변경도급계약 체결로, 계약금액은 기존 2283억4851만원에서... ",
+			"pubDate":"Mon, 13 Jun 2022 18:31:00 +0900"
+		},
 		{
 			"title":"인천문화재단, 청사 '어디로 옮기나'",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1148423",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2022061009515694143f92aaba49_30",
 			"description":"지난해 12월 인천 서구에서 분양한 ‘<b>청라<\/b>국제도시 아이파크’ 오피스텔의 전용 84㎡은 평균 658.5대 1의 경쟁률을 기록했다. 반면 전용 43㎡는 평균 7.6대 1의 경쟁률을 기록했다. 전용 84㎡ 오피스텔 경쟁률이 전용 43... ",
 			"pubDate":"Fri, 10 Jun 2022 16:12:00 +0900"
-		},
-		{
-			"title":"청약 저가점 수요자들, 아파트 대신 '오피스텔'로 몰린다",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=255574",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=255574",
-			"description":"지난해 12월 인천 서구에서 분양한 '<b>청라<\/b>국제도시 아이파크' 오피스텔의 전용 84㎡은 평균 658.5대 1의 경쟁률을 기록했다. 반면 전용 43㎡는 평균 7.6대 1의 경쟁률을 기록했다. 전용 84㎡ 오피스텔 경쟁률이 전용 43㎡ 대비... ",
-			"pubDate":"Fri, 10 Jun 2022 16:02:00 +0900"
 		}
 	]
 }
