@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 15 Jun 2022 06:00:02 +0900",
-	"total":180246,
+	"lastBuildDate":"Wed, 15 Jun 2022 06:10:02 +0900",
+	"total":180247,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"5만명 뽑아 9000명 는 고용의 ‘신세계’…5년전 ‘복붙’ 채용, 이번에도? [...",
+			"originallink":"https:\/\/misaeng.chosun.com\/site\/data\/html_dir\/2022\/06\/13\/2022061301964.html?utm_source=naver&utm_medium=referral&utm_campaign=misaeng",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003697591?sid=102",
+			"description":"신세계프라퍼티는 현재 공사 중인 스타필드 수원을 시작으로, 스타필드 창원과 스타필드 <b>청라<\/b> 등 신규 점포 출점을 위해 2조2000억원을 투자할 계획이다. 온라인 사업에도 투자를 늘린다. 2021년 지마켓글로벌(전... ",
+			"pubDate":"Wed, 15 Jun 2022 06:01:00 +0900"
+		},
 		{
 			"title":"15명 기권 나온 '공포의 무지개 언덕'…16일 골퍼들 또 떤다",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25079207",
@@ -26,17 +33,17 @@
 			"pubDate":"Wed, 15 Jun 2022 00:48:00 +0900"
 		},
 		{
-			"title":"인천경제청, <b>청라<\/b>호수공원 조경수목 '특별관리 대책 마련' 추진",
-			"originallink":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=501950",
-			"link":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=501950",
-			"description":" 인천경제자유구역청은 14일 최근 지속되고 있는 가뭄으로 <b>청라<\/b>호수공원의 조경 수목이 피해를 입지 않도록 특별관리 대책을 마련했다고 밝혔다. 조경수목 특별관리 대책 추진에 따라 <b>청라<\/b>호수공원에 구간별 물주기... ",
-			"pubDate":"Wed, 15 Jun 2022 00:14:00 +0900"
-		},
-		{
 			"title":"인천교통공사, 육상교통본부 노사합동 무사고 '안전운전실천 결의대회'",
 			"originallink":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=501952",
 			"link":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=501952",
 			"description":" 인천교통공사(사장 정희윤)는 14일 <b>청라<\/b> BRT 통합차고지 등 각 사업장에서 교통사고 근절을 위한 노사합동 무사고 안전운전실천 결의대회를 개최했다고 밝혔다. 이날 결의대회는 공사 김양정 육상교통본부장과 정우태... ",
+			"pubDate":"Wed, 15 Jun 2022 00:14:00 +0900"
+		},
+		{
+			"title":"인천경제청, <b>청라<\/b>호수공원 조경수목 '특별관리 대책 마련' 추진",
+			"originallink":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=501950",
+			"link":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=501950",
+			"description":" 인천경제자유구역청은 14일 최근 지속되고 있는 가뭄으로 <b>청라<\/b>호수공원의 조경 수목이 피해를 입지 않도록 특별관리 대책을 마련했다고 밝혔다. 조경수목 특별관리 대책 추진에 따라 <b>청라<\/b>호수공원에 구간별 물주기... ",
 			"pubDate":"Wed, 15 Jun 2022 00:14:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002002569?sid=103",
 			"description":"얼핏 대구의 <b>청라<\/b>언덕, 광주 양림동 호랑가시나무 마을을 닮았지만, 건축양식은 동서양 퓨전형 납작기와를 썼다. 이승만 대통령 유품 등 152점의 유물이 전시돼 있다. 어린 병사들이 죽어가는 전쟁 와중임에도 당시 여권... ",
 			"pubDate":"Tue, 14 Jun 2022 11:22:00 +0900"
-		},
-		{
-			"title":"인천경제청 <b>청라<\/b>호수공원 조경수목 특별관리 대책 추진",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220614010003029",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220614010003029",
-			"description":"인천경제청 <b>청라<\/b>호수공원 조경수목 특별관리 대책 추진 인천경제청은 최근 지속되고 있는 가뭄으로 <b>청라<\/b>호수공원의 조경 수목이 피해를 입지 않도록 특별관리 대책을 마련했다고 14일 밝혔다. 조경수목 특별관리 대책... ",
-			"pubDate":"Tue, 14 Jun 2022 10:38:00 +0900"
 		}
 	]
 }
