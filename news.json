@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 15 Jun 2022 00:40:01 +0900",
-	"total":180243,
+	"lastBuildDate":"Wed, 15 Jun 2022 00:50:02 +0900",
+	"total":180244,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[KPGA] '하나은행 인비테이셔널' 남춘천cc에서 16일 개최",
+			"originallink":"http:\/\/www.wolyo.co.kr\/news\/articleView.html?idxno=206313",
+			"link":"http:\/\/www.wolyo.co.kr\/news\/articleView.html?idxno=206313",
+			"description":"이태훈은 지난해 인천 중구에 위치한 베어즈베스트 <b>청라<\/b>GC에서 열린 대회에서 최종합계 17언더파 267타로 우승하며 통산 4승(국내 3승, 아시안투어 1승)을 쌓았다. 이태훈은 &quot;올해 가장 중요한 대회이기 때문에... ",
+			"pubDate":"Wed, 15 Jun 2022 00:48:00 +0900"
+		},
 		{
 			"title":"인천경제청, <b>청라<\/b>호수공원 조경수목 '특별관리 대책 마련' 추진",
 			"originallink":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=501950",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220614010002770",
 			"description":"= 인천경제자유구역청은 최근 지속되고 있는 가뭄으로 <b>청라<\/b>호수공원의 조경 수목이 피해를 입지 않도록 특별관리 대책을 마련했다고 14일 밝혔다. 이에 따라 <b>청라<\/b>호수공원에 구간별 물주기 작업을 벌이고 있으며 공원의... ",
 			"pubDate":"Tue, 14 Jun 2022 09:58:00 +0900"
-		},
-		{
-			"title":"인천경제청, <b>청라<\/b>호수공원 조경수목 특별관리…가뭄피해 방지 총력",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220614_0001906340&cID=14001&pID=14000",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011245157?sid=102",
-			"description":"인천경제자유구역청은 최근 지속되고 있는 가뭄으로 <b>청라<\/b>호수공원의 조경 수목의 피해 방지를 위해 특별관리 대책을 마련했다고 14일 밝혔다. 조경수목 특별관리 대책 추진에 따라 <b>청라<\/b>호수공원에 구간별 물주기 작업을... ",
-			"pubDate":"Tue, 14 Jun 2022 09:41:00 +0900"
 		}
 	]
 }
