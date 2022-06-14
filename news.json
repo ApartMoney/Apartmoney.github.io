@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 14 Jun 2022 14:10:02 +0900",
-	"total":180222,
+	"lastBuildDate":"Tue, 14 Jun 2022 14:20:02 +0900",
+	"total":180223,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"KPGA 하나은행 인비테이셔널 16일 개막…이태훈 2연패 도전",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220614104700007?input=1195m",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013245070",
+			"description":"지난해 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 열렸던 하나은행 인비테이셔널은 올해는 16일부터 나흘간 강원도 춘천의 남춘천 컨트리클럽(파72·7천249야드)에서 개최된다. 남춘천 컨트리클럽에서 코리안투어... ",
+			"pubDate":"Tue, 14 Jun 2022 14:17:00 +0900"
+		},
 		{
 			"title":"하나은행 인비테이셔널, 16-19일 개최…이태훈 2연패 도전",
 			"originallink":"http:\/\/www.stoo.com\/article.php?aid=80600622543",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004757564?sid=100",
 			"description":"특히, 부평 캠프마켓 반환, 서울 7호선 <b>청라<\/b>국제도시 연장, K-바이오 랩 허브 유치, 제3연륙교 착공, 2021 전국 지자체 일자리 대상 수상 등 시민이 체감할 수 있는 수많은 성과를 일궈냈습니다. 이제 얼마 남지 않은 임기 동안... ",
 			"pubDate":"Mon, 13 Jun 2022 10:46:00 +0900"
-		},
-		{
-			"title":"탈서울 수요 오르는 인천… '주안 센트럴 파라곤' 13~18일 정당계약 진행",
-			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=471771",
-			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=471771",
-			"description":"또한, 지난해 7호선 부평구청역과 인천 2호선 석남역을 잇는 석남연장선이 개통했고, 2027년 <b>청라<\/b>국제도시역까지 한 차례 더 연장이 계획돼 있다. 인천지하철 2호선은 검단신도시와 김포, 일산까지 연결되는 방안도... ",
-			"pubDate":"Mon, 13 Jun 2022 09:56:00 +0900"
 		}
 	]
 }
