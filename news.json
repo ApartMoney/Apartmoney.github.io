@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 15 Jun 2022 14:50:02 +0900",
-	"total":180292,
+	"lastBuildDate":"Wed, 15 Jun 2022 15:00:02 +0900",
+	"total":180293,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘아들 캐디’와 KPGA 하나은행 인비테이셔널 나서는 류현우 “성적보다 아들...",
+			"originallink":"http:\/\/sports.khan.co.kr\/news\/sk_index.html?art_id=202206151449003&sec_id=530201&pt=nv",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=144&aid=0000819717",
+			"description":"지난해 인천 베어즈베스트 <b>청라<\/b>GC에서 열린 대회에서 우승한 이태훈이 타이틀 방어에 나선다. 하나금융그룹 후원을 받고 있는 함정우, 박은신, 한승수, 박배종, 이승민, 박상현(서브)은 스폰서 주최대회 우승을... ",
+			"pubDate":"Wed, 15 Jun 2022 14:50:00 +0900"
+		},
 		{
 			"title":"인천경제자유구역 거주·활동 외국인 무료법률 상담…민·형사 등",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220615010003449",
@@ -89,17 +96,17 @@
 			"pubDate":"Wed, 15 Jun 2022 13:16:00 +0900"
 		},
 		{
-			"title":"[직썰 CEO↑] 신동빈, 2030부산세계박람회 유치 위해 아일랜드行",
-			"originallink":"http:\/\/www.ziksir.com\/news\/articleView.html?idxno=26297",
-			"link":"http:\/\/www.ziksir.com\/news\/articleView.html?idxno=26297",
-			"description":"신동빈 롯데 회장은 지난 4일 롯데 오픈 경기가 열리는 인천 베어즈베스트 <b>청라<\/b>를 방문해 부산세계박람회 포토월 앞에서 롯데 골프단의 황유민 선수와 함께 2030부산세계박람회 유치를 기원했다. [롯데지주]... ",
-			"pubDate":"Wed, 15 Jun 2022 12:04:00 +0900"
-		},
-		{
 			"title":"롯데 신동빈, 아일랜드서 부산세계박람회 유치 홍보 나선다",
 			"originallink":"http:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065578024012375",
 			"link":"http:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065578024012375",
 			"description":"▲ 신동빈 롯데그룹 회장이 지난 4일 롯데 오픈 경기가 열리는 인천 베어즈베스트 <b>청라<\/b>를 방문해 부산엑스포 포토월 앞에서 롯데 골프단 황유민 선수(오른쪽)와 함께 '2030부산세계박람회' 유치를 기원했다.... ",
+			"pubDate":"Wed, 15 Jun 2022 12:04:00 +0900"
+		},
+		{
+			"title":"[직썰 CEO↑] 신동빈, 2030부산세계박람회 유치 위해 아일랜드行",
+			"originallink":"http:\/\/www.ziksir.com\/news\/articleView.html?idxno=26297",
+			"link":"http:\/\/www.ziksir.com\/news\/articleView.html?idxno=26297",
+			"description":"신동빈 롯데 회장은 지난 4일 롯데 오픈 경기가 열리는 인천 베어즈베스트 <b>청라<\/b>를 방문해 부산세계박람회 포토월 앞에서 롯데 골프단의 황유민 선수와 함께 2030부산세계박람회 유치를 기원했다. [롯데지주]... ",
 			"pubDate":"Wed, 15 Jun 2022 12:04:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newsian.co.kr\/news\/articleView.html?idxno=55328",
 			"description":"신동빈 롯데 회장은 지난 4일 롯데 오픈 경기가 열리는 인천 베어즈베스트 <b>청라<\/b>를 방문해 부산세계박람회 포토월 앞에서 사진 촬영을 했다. (사진=뉴시스) ［뉴시안= 박은정 기자］최근 유럽 출장길에 오른 신동빈... ",
 			"pubDate":"Wed, 15 Jun 2022 10:24:00 +0900"
-		},
-		{
-			"title":"신동빈 롯데 회장, 2030부산세계박람회 유치 위해 아일랜드행",
-			"originallink":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=84807",
-			"link":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=84807",
-			"description":"신동빈 롯데 회장은 지난 4일 롯데 오픈 경기가 열리는 인천 베어즈베스트 <b>청라<\/b>를 방문해 부산세계박람회 포토월 앞에서 황유민 롯데 골프단 선수와 함께 2030부산세계박람회 유치를 기원하는 모습. (사진... ",
-			"pubDate":"Wed, 15 Jun 2022 10:22:00 +0900"
 		}
 	]
 }
