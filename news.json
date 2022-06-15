@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 15 Jun 2022 11:10:03 +0900",
-	"total":180273,
+	"lastBuildDate":"Wed, 15 Jun 2022 11:20:02 +0900",
+	"total":180274,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"신동빈 롯데 회장 ‘2030부산세계박람회 유치’ 팔 걷었다",
+			"originallink":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=46641",
+			"link":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=46641",
+			"description":"신동빈 롯데 회장이 지난 4일 롯데 오픈 경기가 열리는 인천 베어즈베스트 <b>청라<\/b>를 방문해 부산세계박람회 포토월 앞에서 롯데 골프단 황유민 선수와 함께 2030부산세계박람회 유치를 기원했다. 사진|롯데",
+			"pubDate":"Wed, 15 Jun 2022 11:16:00 +0900"
+		},
 		{
 			"title":"신동빈 롯데 회장, 아일랜드 'CGF'에서 '부산세계박람회' 직접 홍보",
 			"originallink":"http:\/\/www.pressm.kr\/news\/articleView.html?idxno=59633",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=025&aid=0003202411",
 			"description":"베어즈베스트 <b>청라<\/b>도 어려운 코스였다. 전장이 여자 세팅으로는 놀랍게도 7000야드에 근접(6929야드)했다. 그러나 코스레이팅은 78.6로 레인보우힐스(79.6) 보다 낮았다. 실제 스코어도 그랬다. <b>청라<\/b>에서 열린 2020년... ",
 			"pubDate":"Wed, 15 Jun 2022 04:35:00 +0900"
-		},
-		{
-			"title":"“인천을 홍콩 대신할 금융허브로 키우겠다”",
-			"originallink":"https:\/\/www.chosun.com\/national\/national_general\/2022\/06\/15\/AVWKTW3TP5HY5JTBIORDONM75U\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003697523?sid=102",
-			"description":"“‘뉴 홍콩시티’는 영종도와 강화도 남단, 송도·<b>청라<\/b> 등지에 홍콩의 중국 반환 이후 홍콩을 벗어나려는 세계 각국 기업들을 유치해 금융 허브로 만들겠다는 구상이다. 홍콩의 대안이 인천이 될 수 있도록 하는 것이다.... ",
-			"pubDate":"Wed, 15 Jun 2022 03:02:00 +0900"
 		}
 	]
 }
