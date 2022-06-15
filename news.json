@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 16 Jun 2022 04:50:02 +0900",
-	"total":180313,
+	"lastBuildDate":"Thu, 16 Jun 2022 05:00:02 +0900",
+	"total":180315,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천항만공사, 인천 북항 배후단지(북측) 운영 '순항'",
+			"originallink":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=502082",
+			"link":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=502082",
+			"description":"또한 내년 연말에 준공 예정인 인천시의 '<b>청라<\/b>지구~북항 간(대1-17호선) 도로'가 개통될 경우 인천 북항 배후단지(북측)이 기존 운영 중인 남측과 일직선으로 연결된다. 이를 통해 구역 간 접근성이 높아져 북항... ",
+			"pubDate":"Thu, 16 Jun 2022 04:56:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b>지하차도서 트레일러 화재…한때 차로 통제",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220616010200065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013249223?sid=102",
+			"description":"16일 인천 서부소방서 등에 따르면 전날 오후 11시 58분께 인천시 서구 수도권 제2외곽순환고속도로 인천∼김포 구간(인천김포고속도로)의 <b>청라<\/b>국제지하차도 입구 인근에서 50대 남성 A씨가 몰던 트레일러 차량에서 불이... ",
+			"pubDate":"Thu, 16 Jun 2022 04:55:00 +0900"
+		},
 		{
 			"title":"인천 <b>청라<\/b>지하차도에서 트레일러 화재‥인명피해 없어",
 			"originallink":"https:\/\/imnews.imbc.com\/news\/2022\/society\/article\/6378852_35673.html",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.klnews.co.kr\/news\/articleView.html?idxno=304827",
 			"description":"또한 내년 연말에 준공 예정인 인천시의 '<b>청라<\/b>지구~북항 간(대1-17호선) 도로'가 개통되면 인천 북항 배후단지(북측)이 기존 운영 중인 남측과 일직선으로 연결되어 북항 배후단지 내 물류 흐름이 더욱 원활해질 것으로... ",
 			"pubDate":"Wed, 15 Jun 2022 14:16:00 +0900"
-		},
-		{
-			"title":"인천교통공사, 육상교통본부 노사합동 무사고 안전운전실천 결의대회 개최",
-			"originallink":"http:\/\/www.thedrive.co.kr\/news\/newsview.php?ncode=1065589615566865",
-			"link":"http:\/\/www.thedrive.co.kr\/news\/newsview.php?ncode=1065589615566865",
-			"description":"인천교통공사(사장 정희윤)는 14일 <b>청라<\/b> BRT 통합차고지 등 각 사업장에서 교통사고 근절을 위한 노사합동 무사고 안전운전실천 결의대회를 개최했다고 밝혔다. 이날 결의대회는 공사 김양정 육상교통본부장과 정우태... ",
-			"pubDate":"Wed, 15 Jun 2022 14:12:00 +0900"
-		},
-		{
-			"title":"인천 계양구 풀옵션 무상 제공 APT ’서해그랑블 뉴어반’ 조합원 모집 예정",
-			"originallink":"http:\/\/sjbnews.com\/news\/news.php?number=748376",
-			"link":"http:\/\/sjbnews.com\/news\/news.php?number=748376",
-			"description":"이밖에도 서울 2호선 <b>청라<\/b> 연장(예정), GTX-D노선(예정) 등 다양한 교통망 호재로 기대를 모으고 있다. 다양한 개발호재로 미래가치도 높다. 서운산업단지, 계양테크노밸리 등 대규모 개발사업이 완료되면 계양지역은... ",
-			"pubDate":"Wed, 15 Jun 2022 14:04:00 +0900"
 		}
 	]
 }
