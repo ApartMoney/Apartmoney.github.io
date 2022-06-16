@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 16 Jun 2022 13:10:02 +0900",
-	"total":180355,
+	"lastBuildDate":"Thu, 16 Jun 2022 13:20:02 +0900",
+	"total":180356,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울 '신통기획' 속도 붙고, 인천은 원도심 혁신 탄력 받을 듯",
+			"originallink":"http:\/\/www.housingherald.co.kr\/news\/articleView.html?idxno=43702",
+			"link":"http:\/\/www.housingherald.co.kr\/news\/articleView.html?idxno=43702",
+			"description":"인천의 인구와 경제는 송도, <b>청라<\/b>, 영종 등 일부 신도시에만 집중되고 있는 상태다. 그러다보니 삼성바이오로직스, 셀트리온, 하나금융그룹 등 국내 대기업들이 이들 지역에만 집중되고 있다. ▲김동연 경기지사 &quot;1기... ",
+			"pubDate":"Thu, 16 Jun 2022 13:10:00 +0900"
+		},
 		{
 			"title":"인천시장직 인수위 “판매부진 어려움 부평GM 대책 마련 중”",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1563676",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=016&aid=0002003435",
 			"description":"신상훈의 드라이버 샷 스윙을 지난해 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 열린 신한동해오픈 최종라운드에서 촬영했다. 그의 올 시즌 퍼포먼스를 살펴보면 드라이버 비거리가 299.38야드로 16위, 페어웨이... ",
 			"pubDate":"Thu, 16 Jun 2022 06:03:00 +0900"
-		},
-		{
-			"title":"인천 북항 배후단지(북측) 운영 '순항'… 운영개시율 57% 달성",
-			"originallink":"http:\/\/www.newscj.com\/news\/articleView.html?idxno=992209",
-			"link":"http:\/\/www.newscj.com\/news\/articleView.html?idxno=992209",
-			"description":"또한 내년 연말에 준공 예정인 '<b>청라<\/b>지구~북항 간(대1-17호선) 도로'가 개통될 경우 북측 북항 배후단지와 기존 운영 중인 남측과 일직선으로 연결된다. 이를 통해 구역 간 접근성이 높아져 북항 배후단지 내 물류... ",
-			"pubDate":"Thu, 16 Jun 2022 06:02:00 +0900"
 		}
 	]
 }
