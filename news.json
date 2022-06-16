@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 16 Jun 2022 10:50:02 +0900",
-	"total":180347,
+	"lastBuildDate":"Thu, 16 Jun 2022 11:00:02 +0900",
+	"total":180349,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 북항 배후단지 운영개시율 57%…목재 특화 클러스터 육성",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022061610551006891",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005104118?sid=102",
+			"description":"또 내년 연말에 준공 예정인 <b>청라<\/b>지구~북항 간(대1-17호선) 도로가 개통할 경우, 북항 북측 배후단지가 기존에 운영중인 남측 과 일직선으로 연결된다. 이를 통해 구역 간 접근성이 높아져 북항 배후단지 내 물류... ",
+			"pubDate":"Thu, 16 Jun 2022 10:55:00 +0900"
+		},
+		{
+			"title":"코로나 백신 원료·완제품 운송 책임진 마켄, 한국 물류센터 건설 이유는?",
+			"originallink":"https:\/\/economist.co.kr\/2022\/06\/16\/bioHealth\/bio\/20220616104824977.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000027646?sid=101",
+			"description":"인천 서구 <b>청라<\/b>신도시 일대에 콜드체인 물류센터를 짓고 6월 9일 개관식을 열었다. 인천국제공항에서 영종대교를 건너면 곧바로 인천 센터가 나온다. 한국뿐 아니라 중국·일본 등 동아시아 수요를 감당할 만한 위치다.... ",
+			"pubDate":"Thu, 16 Jun 2022 10:49:00 +0900"
+		},
 		{
 			"title":"인천시, 주말 힐링… 우리 전통예술 공연과 함께 '얼쑤'",
 			"originallink":"http:\/\/www.newscj.com\/news\/articleView.html?idxno=992275",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001203007?sid=102",
 			"description":"오늘(16일) 0시쯤 인천 <b>청라<\/b>국제지하차도를 지나던 대형 트레일러에서 불이 나 약 20분 만에 꺼졌습니다. 다행히 트레일러 운전자는 대피해 다치지 않았지만, 지하차도 안에 연기가 가득 차면서 뒤따라 들어오던 차량... ",
 			"pubDate":"Thu, 16 Jun 2022 03:12:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>지하차도서 차량 화재...2개 차로 통제",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202206160142017715",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001752139?sid=102",
-			"description":"어젯밤(15일) 11시 50분쯤 인천 <b>청라<\/b>국제지하차도 김포방향 남<b>청라<\/b>분기점 근처를 달리던 차량에서 불이 나 20분 만에 꺼졌습니다. 이 불로 다친 사람은 없었지만, 차량 1대가 탔습니다. 차량 수습을 위해 2개 차로가 모두... ",
-			"pubDate":"Thu, 16 Jun 2022 01:42:00 +0900"
-		},
-		{
-			"title":"[대형마트 휴무일] 홈플러스·이마트·롯데마트·코스트코 6월할인상품 영업시...",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2489047",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2489047",
-			"description":"인천<b>청라<\/b>, 인하 • 경기 : 동수원, 병점, 부천상동, 북수원, 분당오리, 서수원, 송탄, 시화, 야탑, 영통, 원천, 의정부, 평택안중, 화성동탄, 화성향남 • 대구 : 내당, 대구수성, 동촌, 상인, 성서, 칠곡 • 경북\/울산... ",
-			"pubDate":"Thu, 16 Jun 2022 00:06:00 +0900"
 		}
 	]
 }
