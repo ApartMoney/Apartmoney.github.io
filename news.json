@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 18 Jun 2022 20:20:02 +0900",
-	"total":180616,
+	"lastBuildDate":"Sat, 18 Jun 2022 20:30:02 +0900",
+	"total":180617,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[카드뉴스] 도시향과 바다향의 만남, 인천 나들이",
+			"originallink":"http:\/\/www.popcornnews.net\/31674",
+			"link":"http:\/\/www.popcornnews.net\/31674",
+			"description":"<b>청라<\/b>호수공원 인천 서구 <b>청라<\/b>대로 204 7개의 섬을 가진 바다를 기억하기 위해 7개의 보석을 테마로 특성에 맞는 색, 형태, 이미지를 활용해 물의 도시가 구현되었다. 도시의 중심을 관통하는 물길을 따라 조성된 아름다운... ",
+			"pubDate":"Sat, 18 Jun 2022 20:24:00 +0900"
+		},
 		{
 			"title":"올 여름 보령냉풍욕장, 3년 만에 문 열어",
 			"originallink":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=821169",
@@ -159,17 +166,17 @@
 			"pubDate":"Fri, 17 Jun 2022 14:03:00 +0900"
 		},
 		{
-			"title":"보령냉풍욕장, 27일부터 3년 만에 일반개장",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2490259",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2490259",
-			"description":"보령냉풍욕장은 <b>청라<\/b>면 의평리 산13번지에 있으며 보령 시내에서 36번 국도를 타고 청양.대전 방면으로 이동하다가 청천저수지 상류에 위치한 청보초등학교 앞 삼거리에서 우회전해 2km 정도 올라가면 쉽게 찾을 수 있다.",
-			"pubDate":"Fri, 17 Jun 2022 13:56:00 +0900"
-		},
-		{
 			"title":"부천 하나원큐, 고강도 1차 전지훈련 종료",
 			"originallink":"http:\/\/www.osen.co.kr\/article\/G1111873920",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=109&aid=0004638994",
 			"description":"부천 하나원큐는 짧은 휴식 후 20일부터 <b>청라<\/b> 클럽하우스에서 훈련을 이어나갈 예정이며, 7월 중 통영에서 연습경기 등을 통해 실전 경기를 대비한 조직력 강화와 전술 완성도를 높이기 위한 2차 전지훈련을 진행할... ",
+			"pubDate":"Fri, 17 Jun 2022 13:56:00 +0900"
+		},
+		{
+			"title":"보령냉풍욕장, 27일부터 3년 만에 일반개장",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2490259",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2490259",
+			"description":"보령냉풍욕장은 <b>청라<\/b>면 의평리 산13번지에 있으며 보령 시내에서 36번 국도를 타고 청양.대전 방면으로 이동하다가 청천저수지 상류에 위치한 청보초등학교 앞 삼거리에서 우회전해 2km 정도 올라가면 쉽게 찾을 수 있다.",
 			"pubDate":"Fri, 17 Jun 2022 13:56:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2022\/06\/17\/2022061701074.html",
 			"description":"서구 ‘<b>청라<\/b> 푸르지오 라피아노’에서 사전점검을 다녀온 입주민 불만이 쏟아지고 있다. 입주민 A씨는 지난... <b>청라<\/b> 푸르지오 라피아노는 다음달 입주를 앞두고 있다. 단지형 단독주택으로 1단지 227가구, 2단지 127가구 등... ",
 			"pubDate":"Fri, 17 Jun 2022 11:46:00 +0900"
-		},
-		{
-			"title":"인천시장직 인수위, “부평GM 대책 마련 중”",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202206170806234520229",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202206170806234520229",
-			"description":"또 <b>청라<\/b>국제도시 커넥티드카 지원과 연계해 미래 자동차를 인천시의 대표적 신성장 산업으로 육성한다는... 인수위의 한 관계자는 “미래 자동차 뿐만 아니라 송도바이오 혁신 클러스터, 영종 항공정비단지 조성, <b>청라<\/b>... ",
-			"pubDate":"Fri, 17 Jun 2022 11:32:00 +0900"
 		}
 	]
 }
