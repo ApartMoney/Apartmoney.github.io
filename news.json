@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 20 Jun 2022 08:30:02 +0900",
-	"total":180639,
+	"lastBuildDate":"Mon, 20 Jun 2022 08:40:02 +0900",
+	"total":180640,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령 냉풍욕장, 3년 만에 재개장",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5489893&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011286847?sid=102",
+			"description":"여름철 지역 대표 관광지인 보령시 <b>청라<\/b>면 의평리 보령냉풍욕장이 3년 만에 다시 문을 엽니다. 보령시는 사회적 거리두기 완화 조치에 따라 오는 28일부터 8월 19일까지 54일 동안 냉풍욕장을 운영하기로 했습니다. 이를... ",
+			"pubDate":"Mon, 20 Jun 2022 08:28:00 +0900"
+		},
 		{
 			"title":"대어급 호재 '영종국제도시' 집값 들썩....제3연륙교, 공항철도 개선 등",
 			"originallink":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=87066",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newsbrite.net\/news\/articleView.html?idxno=166598",
 			"description":"사진은 신동빈 회장이 지난 4일 '2022 롯데 오픈' 경기가 진행된 인천 베어즈베스트 <b>청라<\/b>를 방문해 포토월... 사진은 신동빈 회장이 지난 4일 '2022 롯데 오픈' 경기가 진행된 인천 베어즈베스트 <b>청라<\/b>를 방문해 포토월... ",
 			"pubDate":"Sat, 18 Jun 2022 00:58:00 +0900"
-		},
-		{
-			"title":"18~19일, 이마트·홈플러스·롯데마트·코스트코 영업시간[대형마트 휴무일]",
-			"originallink":"http:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=450155",
-			"link":"http:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=450155",
-			"description":"인천<b>청라<\/b>, 인하 • 경기 : 동수원, 병점, 부천상동, 북수원, 분당오리, 서수원, 송탄, 시화, 야탑, 영통, 원천, 의정부, 평택안중, 화성동탄, 화성향남 • 대구 : 내당, 대구수성, 동촌, 상인, 성서, 칠곡 • 경북\/울산... ",
-			"pubDate":"Sat, 18 Jun 2022 00:06:00 +0900"
 		}
 	]
 }
