@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 22 Jun 2022 01:00:02 +0900",
-	"total":180694,
+	"lastBuildDate":"Wed, 22 Jun 2022 01:10:03 +0900",
+	"total":180695,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, '스마트 횡단보도' 설치 본격 추진",
+			"originallink":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=502687",
+			"link":"http:\/\/www.cstimes.com\/news\/articleView.html?idxno=502687",
+			"description":" 송도·영종·<b>청라<\/b>국제도시 등 인천경제자유구역(IFEZ) 내 어린이 보호구역 등에 안전한 횡단보도 보행을... 또 영종은 보행자가 많고 어린이 보호를 위해 영종하늘도시 교차로 4곳에 바닥신호등 등이, <b>청라<\/b>의 경우... ",
+			"pubDate":"Wed, 22 Jun 2022 01:08:00 +0900"
+		},
 		{
 			"title":"'첫 승, 그 후' 성유진 &quot;컷 탈락 걱정도…마음 편하지만 더 욕심&quot;",
 			"originallink":"http:\/\/www.golfdigest.co.kr\/news\/articleView.html?idxno=40745",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=90170",
 			"description":"사진=인천경제자유구역청, LED 바닥형 보행신호등 설치  송도·영종·<b>청라<\/b>국제도시 등 인천경제자유구역(IFEZ)... 또 영종은 보행자가 많고 어린이 보호를 위해 영종하늘도시 교차로 4곳에 바닥신호등 등이, <b>청라<\/b>의 경우... ",
 			"pubDate":"Tue, 21 Jun 2022 15:00:00 +0900"
-		},
-		{
-			"title":"[동동동 인천이야기] 물구나무 서고 있는 트라이보울",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1149508",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1149508",
-			"description":"아래에서 위로 건축물의 면적이 넓어지는 세계 최초의 역쉘 공법으로 건축된 건축물로 인천의 송도, <b>청라<\/b>, 영종으로 이루어지는 인천경제자유구역을 상징한다. 또한 동시에 인천이 가진 유수의 자원인 하늘공항(하늘), 항만... ",
-			"pubDate":"Tue, 21 Jun 2022 14:54:00 +0900"
 		}
 	]
 }
