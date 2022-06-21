@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 21 Jun 2022 11:40:02 +0900",
-	"total":180682,
+	"lastBuildDate":"Tue, 21 Jun 2022 11:50:02 +0900",
+	"total":180683,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"깜깜이 학교 신설 그만... 주민들도 소통협의회서 목소리 낸다",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88810",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88810",
+			"description":"소통협의회는 학교 설립 필요성이 꾸준히 제기된 송도·<b>청라<\/b>·영종 등 신도시, 주택재개발지역을 중심으로 구성될 전망이다. 시교육청 관계자는 &quot;협의회를 통해 지역의 목소리를 직접 듣고, 민관이 문제점을 함께 해결할 것... ",
+			"pubDate":"Tue, 21 Jun 2022 11:48:00 +0900"
+		},
 		{
 			"title":"인천 송도·영종·<b>청라<\/b>에 ‘스마트 횡단보도’ 설치",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/267BYTML3H",
@@ -110,17 +117,17 @@
 			"pubDate":"Tue, 21 Jun 2022 10:02:00 +0900"
 		},
 		{
-			"title":"인천경제청 ‘스마트 횡단보도’ 설치 본격 추진",
-			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017198071&code=61121111&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001534541?sid=102",
-			"description":"인천 송도·영종·<b>청라<\/b>국제도시 등 인천경제자유구역(IFEZ) 내 어린이 보호구역 등에 안전한 횡단보도 보행을... <b>청라<\/b>국제도시는 <b>청라<\/b>중 입구 네거리, <b>청라<\/b>초교 남측(단일로), 해원초교 네거리, 청람초교 네거리... ",
-			"pubDate":"Tue, 21 Jun 2022 09:54:00 +0900"
-		},
-		{
 			"title":"인천경제청, 스마트 횡단보도 설치 추진",
 			"originallink":"http:\/\/moneys.mt.co.kr\/news\/mwView.php?no=2022062109465724912",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0000824444?sid=102",
 			"description":"또한 <b>청라<\/b>의 경우 ▲<b>청라<\/b>중 입구 네거리 ▲<b>청라<\/b>초교 남측 ▲해원초교 네거리 ▲청람초교 네거리 ▲경연초중교 네거리 등 5곳에 보행신호 음성안내 장치 등이 각각 설치된다. 경제청은 이번 스마트 횡단보도 사업... ",
+			"pubDate":"Tue, 21 Jun 2022 09:54:00 +0900"
+		},
+		{
+			"title":"인천경제청 ‘스마트 횡단보도’ 설치 본격 추진",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017198071&code=61121111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001534541?sid=102",
+			"description":"인천 송도·영종·<b>청라<\/b>국제도시 등 인천경제자유구역(IFEZ) 내 어린이 보호구역 등에 안전한 횡단보도 보행을... <b>청라<\/b>국제도시는 <b>청라<\/b>중 입구 네거리, <b>청라<\/b>초교 남측(단일로), 해원초교 네거리, 청람초교 네거리... ",
 			"pubDate":"Tue, 21 Jun 2022 09:54:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004980377?sid=101",
 			"description":"2001년 인천국제공항 개항 이후 2003년 송도·<b>청라<\/b>와 함께 경제자유구역으로 지정됐다. 20일 부동산업계에... 영종국제도시와 <b>청라<\/b>를 연결하는 제3연륙교는 2025년 준공을 목표로 공사가 한창이다. 계획대로 완공될... ",
 			"pubDate":"Mon, 20 Jun 2022 19:05:00 +0900"
-		},
-		{
-			"title":"이임 앞둔 박남춘 &quot;정부 곳간 속 곶감 다 빼먹었다&quot;",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363546746",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363546746",
-			"description":"그는 인천의 미래산업도시를 구축하는 면에서 송도국제도시 중심의 발전에서 <b>청라<\/b>국제도시까지 확장하는... 바로 <b>청라<\/b>에서 이뤄진다. 플러그파워는 미국 내 수소지게차 시장의 95%를 점유하고 있고, 그린수소를... ",
-			"pubDate":"Mon, 20 Jun 2022 18:54:00 +0900"
 		}
 	]
 }
