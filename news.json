@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 21 Jun 2022 09:10:02 +0900",
-	"total":180660,
+	"lastBuildDate":"Tue, 21 Jun 2022 09:20:02 +0900",
+	"total":180661,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[트래블투데이] 아이 추워! 올 여름 보령냉풍욕장, 3년 만에 문 열어",
+			"originallink":"http:\/\/www.travelitoday.com\/read\/contentsView\/15226\/41",
+			"link":"http:\/\/www.travelitoday.com\/read\/contentsView\/15226\/41",
+			"description":"보령냉풍욕장은 <b>청라<\/b>면 의평리 산13번지에 있으며 보령 시내에서 36번 국도를 타고 청양·대전 방면으로 이동하다가 청천저수지 상류에 위치한 청보초등학교 앞 삼거리에서 우회전해 2km 정도 올라가면 쉽게 찾을 수... ",
+			"pubDate":"Tue, 21 Jun 2022 09:10:00 +0900"
+		},
 		{
 			"title":"영종국제도시, 부동산 들썩에 집값 고공행진..호재 알고보니",
 			"originallink":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=978116",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=708747",
 			"description":"보령냉풍욕장은 <b>청라<\/b>면 의평리 산13번지에 있으며 보령 시내에서 36번 국도를 타고 청양·대전 방면으로 이동하다가 청천저수지 상류에 위치한 청보초등학교 앞 삼거리에서 우회전해 2㎞ 정도 올라가면 쉽게 찾을 수... ",
 			"pubDate":"Sun, 19 Jun 2022 19:08:00 +0900"
-		},
-		{
-			"title":"18일 일요일, 이마트·홈플러스·롯데마트·코스트코 영업시간[대형마트 휴무...",
-			"originallink":"http:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=450296",
-			"link":"http:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=450296",
-			"description":"인천<b>청라<\/b>, 인하 • 경기 : 동수원, 병점, 부천상동, 북수원, 분당오리, 서수원, 송탄, 시화, 야탑, 영통, 원천, 의정부, 평택안중, 화성동탄, 화성향남 • 대구 : 내당, 대구수성, 동촌, 상인, 성서, 칠곡 • 경북\/울산... ",
-			"pubDate":"Sun, 19 Jun 2022 18:34:00 +0900"
 		}
 	]
 }
