@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 21 Jun 2022 16:40:02 +0900",
-	"total":180678,
+	"lastBuildDate":"Tue, 21 Jun 2022 16:50:02 +0900",
+	"total":180680,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천] 인천경제자유구역청, 교차로 17곳에 스마트 횡단보도",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0115_202206211644195266",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001754299?sid=102",
+			"description":"인천경제자유구역청은 오는 8월까지 송도·영종·<b>청라<\/b>국제도시 교차로 17곳에 예산 10억 원을 투입해 스마트 횡단보도를 설치할 계획이라고 밝혔습니다. 스마트 횡단보도는 바닥형 LED 신호등과 음성안내 시스템을... ",
+			"pubDate":"Tue, 21 Jun 2022 16:44:00 +0900"
+		},
+		{
+			"title":"인천경제청, 송도·영종·<b>청라<\/b> 스쿨존에 ‘스마트 횡단보도’",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160285289910370",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160285289910370",
+			"description":"주요교차로 17곳에 오는 8월 설치 바닥 신호등·보행신호 자동연장 시스템등 갖춰  송도ㆍ영종ㆍ<b>청라<\/b>국제도시 등 인천경제자유구역(IFEZ) 내 어린이 보호구역 등에 안전한 횡단보도 보행을 돕는 ‘스마트 횡단보도’ 설치... ",
+			"pubDate":"Tue, 21 Jun 2022 16:42:00 +0900"
+		},
 		{
 			"title":"인천경제청, '스마트 횡단보도' 설치 추진",
 			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/1946590.htm",
@@ -187,13 +201,6 @@
 			"pubDate":"Tue, 21 Jun 2022 11:48:00 +0900"
 		},
 		{
-			"title":"인천경제청,'스마트 횡단보도'설치 추진",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=407917",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=407917",
-			"description":"▲LED 바닥형 보행신호등 송도·영종·<b>청라<\/b>국제도시 등 인천경제자유구역(IFEZ) 내 어린이 보호구역 등에... 또 영종은 보행자가 많고 어린이 보호를 위해 영종하늘도시 교차로 4곳에 바닥신호등 등이, <b>청라<\/b>의 경우 △<b>청라<\/b>중... ",
-			"pubDate":"Tue, 21 Jun 2022 11:36:00 +0900"
-		},
-		{
 			"title":"인천 송도·영종·<b>청라<\/b>에 ‘스마트 횡단보도’ 설치",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/267BYTML3H",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004067386?sid=102",
@@ -201,18 +208,11 @@
 			"pubDate":"Tue, 21 Jun 2022 11:36:00 +0900"
 		},
 		{
-			"title":"인천경제청 송도·영종·<b>청라<\/b> 주요 교차로 ‘스마트 횡단보도’설치",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220621010004716",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220621010004716",
-			"description":"인천경제청 송도·영종·<b>청라<\/b> 주요 교차로 ‘스마트 횡단보도’설치 인천경제자유구역 송도·영종·<b>청라<\/b> 국제도시의 주요교차로 등 어린이 보호구역과 사고 다발지점을 위주로 첨단 정보통신기술(ICT)을 활용한 스마트... ",
-			"pubDate":"Tue, 21 Jun 2022 11:06:00 +0900"
-		},
-		{
-			"title":"인천 송도·영종·<b>청라<\/b>에 ‘스마트 횡단보도’ 설치",
-			"originallink":"https:\/\/www.khan.co.kr\/local\/Incheon\/article\/202206211104001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003154506?sid=102",
-			"description":"송도·영종·<b>청라<\/b>국제도시 어린이 보호구역과 보행자가 밀집한 교차로에 ‘스마트 횡단보도’를 설치한다. 인천경제청은 8월까지 미송초교·현송초교·연송초교 등 송도에 8곳, 영종하늘도시 교차로 등 영종 4곳, <b>청라<\/b>초... ",
-			"pubDate":"Tue, 21 Jun 2022 11:05:00 +0900"
+			"title":"인천경제청,'스마트 횡단보도'설치 추진",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=407917",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=407917",
+			"description":"▲LED 바닥형 보행신호등 송도·영종·<b>청라<\/b>국제도시 등 인천경제자유구역(IFEZ) 내 어린이 보호구역 등에... 또 영종은 보행자가 많고 어린이 보호를 위해 영종하늘도시 교차로 4곳에 바닥신호등 등이, <b>청라<\/b>의 경우 △<b>청라<\/b>중... ",
+			"pubDate":"Tue, 21 Jun 2022 11:36:00 +0900"
 		}
 	]
 }
