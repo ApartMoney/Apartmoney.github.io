@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 21 Jun 2022 09:30:02 +0900",
-	"total":180662,
+	"lastBuildDate":"Tue, 21 Jun 2022 09:40:02 +0900",
+	"total":180663,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청 ‘스마트 횡단보도’ 설치 본격 추진",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220621_0001914376&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011258063?sid=102",
+			"description":"기사내용 요약 송도·영종·<b>청라<\/b> 주요 교차로 등 17곳 바닥신호등·보행신호 음성안내 등 8월 설치 [인천=뉴시스] 김동영 기자 = 인천경제자유구역청은 인천시와 인천경찰청에서 추진하는 인천 지역 횡단보도 주변... ",
+			"pubDate":"Tue, 21 Jun 2022 09:30:00 +0900"
+		},
 		{
 			"title":"인천 송도·영종·<b>청라<\/b>에 '스마트 횡단보도' 설치",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220621036900065?input=1195m",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003154146?sid=102",
 			"description":"그는 “8년 전 민선 6기 시장을 하면서 부채 3조4000억원을 갚아 ‘빚더미 도시’라는 오명에서 벗어나게 했고, 영종∼<b>청라<\/b>를 잇는 제3연륙교 사업 확정과 서울지하철 7호선의 <b>청라<\/b>연장선 등 숱한 난제를 해결하는 능력을... ",
 			"pubDate":"Sun, 19 Jun 2022 22:00:00 +0900"
-		},
-		{
-			"title":"폐광 찬바람 맞으며 더위 싹",
-			"originallink":"http:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=765479",
-			"link":"http:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=765479",
-			"description":"보령냉풍욕장은 <b>청라<\/b>면 의평리 산13번지에 있으며 보령 시내에서 36번 국도를 타고 청양·대전 방면으로 이동하다가 청천저수지 상류에 위치한 청보초등학교 앞 삼거리에서 우회전해 2km 정도 올라가면 쉽게 찾을 수... ",
-			"pubDate":"Sun, 19 Jun 2022 19:55:00 +0900"
 		}
 	]
 }
