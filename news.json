@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 23 Jun 2022 14:30:02 +0900",
-	"total":180788,
+	"lastBuildDate":"Thu, 23 Jun 2022 14:40:02 +0900",
+	"total":180789,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울 아파트값 4주 연속 하락세, 강남권 아파트값도 하락세 이어져",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=284804",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=284804",
+			"description":"서구(-0.08%)는 <b>청라<\/b>국제도시 아파트 단지 위주로 하락 거래가 발생했다. 비수도권 아파트 값은 0.02% 빠졌다. 지난주보다 하락폭이 0.01%포인트 늘었다. 5대 광역시 아파트 값은 0.05% 내렸다. 반면 8개도는 0.02% 올랐다.... ",
+			"pubDate":"Thu, 23 Jun 2022 14:34:00 +0900"
+		},
 		{
 			"title":"&quot;용산도 집값 상승 멈췄다&quot;..서울 아파트값 4주째 하락세",
 			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022062313425126186",
@@ -180,17 +187,17 @@
 			"pubDate":"Thu, 23 Jun 2022 10:26:00 +0900"
 		},
 		{
-			"title":"그렉터·DS 네트웍스 글로벌 스마트시티 디벨로퍼 꿈꾼다",
-			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=305951",
-			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=305951",
-			"description":"DS네트웍스가 추진중인 <b>청라<\/b>스마트시티 조감도. 또 최근 부산에코델타시티 스마트빌리지에 삼성전자 스마트가전 기반 스마트홈을 구축하는 등 B2C 스마트시티 시장으로 사업영역을 확대하고 있다. 김영신 그렉터... ",
-			"pubDate":"Thu, 23 Jun 2022 10:08:00 +0900"
-		},
-		{
 			"title":"세라젬, ‘숲 테마’로 단장한 웰카페 통해 체험마케팅 지속적 확대",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160269567516209",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160269567516209",
 			"description":"세라젬은 지난 4월 15일 첫 시그니처 웰카페인 동탄호수공원점을 오픈한 것을 시작으로 숲을 테마로 한 새로운 컨셉의 웰카페인 광명역점, 인천<b>청라<\/b>점, 서울상암DMC점 등을 차례로 오픈한 바 있다. 최근 코로나19... ",
+			"pubDate":"Thu, 23 Jun 2022 10:08:00 +0900"
+		},
+		{
+			"title":"그렉터·DS 네트웍스 글로벌 스마트시티 디벨로퍼 꿈꾼다",
+			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=305951",
+			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=305951",
+			"description":"DS네트웍스가 추진중인 <b>청라<\/b>스마트시티 조감도. 또 최근 부산에코델타시티 스마트빌리지에 삼성전자 스마트가전 기반 스마트홈을 구축하는 등 B2C 스마트시티 시장으로 사업영역을 확대하고 있다. 김영신 그렉터... ",
 			"pubDate":"Thu, 23 Jun 2022 10:08:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1149830",
 			"description":"인천 <b>청라<\/b>국제도시로 이전에 나선 하나금융그룹의 하나은행은 인공지능 경영관리 솔루션 플랫폼 '세무특공대'를 운영하는 ㈜아이비즈온과 '개인·법인 사업자 편의 제고를 위한 금융솔루션 개발 추진 협약'을... ",
 			"pubDate":"Thu, 23 Jun 2022 09:06:00 +0900"
-		},
-		{
-			"title":"외형 확장 매진하는 LG전자 전장…2분기 흑자전환 전망 '솔솔'",
-			"originallink":"https:\/\/www.news1.kr\/articles\/?4719700",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006174193?sid=101",
-			"description":"해외 생산거점뿐 아니라 인천 <b>청라<\/b> 사업장에서도 현재 이파워트레인 인버터·컨버터 개발시험(Validation), 이파워트레인 모터개발시험 직무와 관련한 경력 인재를 모집 중이다. LG 마그나의 지난해 연간 매출은 5000억원... ",
-			"pubDate":"Thu, 23 Jun 2022 06:05:00 +0900"
 		}
 	]
 }
