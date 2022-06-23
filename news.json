@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Thu, 23 Jun 2022 14:00:02 +0900",
-	"total":180777,
+	"lastBuildDate":"Thu, 23 Jun 2022 14:10:02 +0900",
+	"total":180783,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"용산도 상승 멈춰…강남은 상승·하락 혼조",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5776174",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003656922?sid=101",
+			"description":"'인천의 강남'으로 꼽히는 송도가 위치한 연수구도 크게(-0.13%) 하락했고, <b>청라<\/b>국제도시가 위치한 서구도 큰 폭(-0.08%)으로 하락했다. 경기는 이천시(0.32%)와 평택시(0.10%)가 직주근접 수요가 있는 지역을 중심으로... ",
+			"pubDate":"Thu, 23 Jun 2022 14:02:00 +0900"
+		},
+		{
+			"title":"매수세 위축 지속…서울 아파트값 4주 연속 하락",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1130530&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1130530&inflow=N",
+			"description":"연수구는 송도동 신축 단지를 중심으로 0.13% 하락했고 동구(-0.09%)는 송현동과 만석동을 중심으로, 서구(-0.08%)는 <b>청라<\/b>국제도시를 중심으로 하락거래가 발생하는 등 인천 전체 하락폭이 확대됐다. 지방 아파트... ",
+			"pubDate":"Thu, 23 Jun 2022 14:02:00 +0900"
+		},
+		{
+			"title":"서울 아파트값 4주 연속 하락…용산·강남도 ‘보합’",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2146575",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2146575",
+			"description":"서구(-0.08%)는 <b>청라<\/b>국제도시 위주로 하락 거래가 이어지면서 인천 전체 하락 폭이 커졌다. 경기지역은 0.04% 떨어졌다. 성남 분당구(0.03%)와 고양 일산서구(0.03%)는 정비사업 기대감으로 상승했다. 하지만 시흥시(-0.20... ",
+			"pubDate":"Thu, 23 Jun 2022 14:02:00 +0900"
+		},
+		{
+			"title":"서초·강남·용산·동작 뺀 서울 집값 일제히 하락세…금리인상·경제위기 우...",
+			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2022062311013778845e6e69892f_18",
+			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2022062311013778845e6e69892f_18",
+			"description":"연수구(-0.13%)는 송도동 신축 위주로, 동구(-0.09%)는 송현ㆍ만석동 위주로, 서구(-0.08%)는 <b>청라<\/b>국제도시 위주로 하락거래가 발생하며 하락했다. 경기 아파트 매매가격도 지난주 –0.03%에서 이번주 –0.04%로 하락폭이... ",
+			"pubDate":"Thu, 23 Jun 2022 14:02:00 +0900"
+		},
+		{
+			"title":"낙폭 계속 커진다…서울 아파트 가격 4주째 하락",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1535560\/?sc=Naver",
+			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1535560\/?sc=Naver",
+			"description":"대체로 신규 입주물량 부담 지속되고, 지난해 급등 피로감 등으로 매수세 위축된 가운데, 연수구(-0.13%)는 송도동 신축 위주로, 동구(-0.09%)는 송현·만석동 위주로, 서구(-0.08%)는 <b>청라<\/b>국제도시 위주로 하락거래... ",
+			"pubDate":"Thu, 23 Jun 2022 14:00:00 +0900"
+		},
+		{
+			"title":"서울 아파트값 4주째 ‘뚝뚝’…용산 ‘보합’에 강남4구 ‘서초’만 올랐다",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4720769",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006175466?sid=101",
+			"description":"연수구(-0.13%)는 송도동 신축 위주로, 동구(-0.09%)는 송현·만석동 위주로, 서구(-0.08%)는 <b>청라<\/b>국제도시 위주로 하락거래가 발생했다. 경기의 경우 이천(0.32%)·평택시(0.10%)는 직주근접 수요가 있는 지역 위주로... ",
+			"pubDate":"Thu, 23 Jun 2022 14:00:00 +0900"
+		},
 		{
 			"title":"'인천 영종국제도시 RC4-1,2BL 주상복합' 7월 민간 사전청약 예정",
 			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=256293",
@@ -40,17 +82,17 @@
 			"pubDate":"Thu, 23 Jun 2022 12:10:00 +0900"
 		},
 		{
-			"title":"PTC-현대무벡스, 스마트 물류 자동화 솔루션 고도화 추진",
-			"originallink":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=28829",
-			"link":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=28829",
-			"description":"2019년 대규모 <b>청라<\/b> R&amp;D센터 개소 후 하이테크 물류기술 개발에 주력하면서, 첨단 물류 H\/W(설비\/장비)와 S\/W(운용시스템)를 겸비한 '토탈 스마트물류 솔루션 사업자'로 평가받고 있다.",
-			"pubDate":"Thu, 23 Jun 2022 11:58:00 +0900"
-		},
-		{
 			"title":"'와, 엄청 올랐네'…강남3구 제치고 집값 튀어오른 이곳",
 			"originallink":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2022\/06\/23\/2022062301299.html",
 			"link":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2022\/06\/23\/2022062301299.html",
 			"description":"■ 대장홍대선·<b>청라<\/b>연장선도 추진…화곡동에도 관심 집중 강서구에서 마곡지구와 여의도를 쉽게 오갈 수... 화곡역 일대에는 서부광역철도 대장홍대선(부천 대장~화곡~홍대입구)과 2호선 <b>청라<\/b>연장선(인천 <b>청라<\/b>~화곡... ",
+			"pubDate":"Thu, 23 Jun 2022 11:58:00 +0900"
+		},
+		{
+			"title":"PTC-현대무벡스, 스마트 물류 자동화 솔루션 고도화 추진",
+			"originallink":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=28829",
+			"link":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=28829",
+			"description":"2019년 대규모 <b>청라<\/b> R&amp;D센터 개소 후 하이테크 물류기술 개발에 주력하면서, 첨단 물류 H\/W(설비\/장비)와 S\/W(운용시스템)를 겸비한 '토탈 스마트물류 솔루션 사업자'로 평가받고 있다.",
 			"pubDate":"Thu, 23 Jun 2022 11:58:00 +0900"
 		},
 		{
@@ -171,48 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000156694?sid=101",
 			"description":"앞서 신동빈 회장은 이달 초 한국여자프로골프(KLPGA)투어 '2022 롯데 오픈'이 진행 중인 인천 베어즈베스트 <b>청라<\/b>를 방문해 롯데 골프단 소속 선수들과 함께 부산엑스포 홍보전에 나서는 등 성공적 유치 지원에 힘을... ",
 			"pubDate":"Thu, 23 Jun 2022 00:01:00 +0900"
-		},
-		{
-			"title":"유정복 당선인, 선거 중 만난 민원인들 다시 만난다",
-			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=431083",
-			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=431083",
-			"description":"<b>청라<\/b>국제도시미래연합 소속 주민들은 7호선 조기완공? 스타필드역 신설을, 인천SK스카이뷰 입주자대표회의는 청년창업마을 드림촌사업 중단, 동춘묘역문화재 지정해제 비상대책위는 문화재 해제 등을 각각 강하게... ",
-			"pubDate":"Wed, 22 Jun 2022 22:50:00 +0900"
-		},
-		{
-			"title":"인천에서 춘천까지 GTX 연결 현실화 되나",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=984908",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=984908",
-			"description":"또 <b>청라<\/b>·검암 등 인천 구간에서 김포공항을 거쳐 구리·남양주까지 수도권 북부를 동서로 연결하는 GTX-E노선 구체화도 앞당기게 된다. 이번 개정안은 입법예고와 법제처 심사 등 법령 개정 절차를 거쳐 올해 안으로... ",
-			"pubDate":"Wed, 22 Jun 2022 21:02:00 +0900"
-		},
-		{
-			"title":"검암역세권 공공주택지구 조성 사업… 우선협상자에 IBK·롯데건설 컨소시엄",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220622010004077",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220622010004077",
-			"description":"국토교통부는 2019년 9월 검암역세권 사업 대상지를 공공주택지구로 지정했으며, 지난해 지구계획을 승인했다.검암 플라시아 사업 대상지는 공항철도와 인천 2호선 '더블 역세권'이며, 인근에 <b>청라<\/b>국제도시... ",
-			"pubDate":"Wed, 22 Jun 2022 20:24:00 +0900"
-		},
-		{
-			"title":"충남 보령 아름다운 서해바다가 펼쳐지는'서해랑길', 열렸다",
-			"originallink":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=389103",
-			"link":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=389103",
-			"description":"대표 관광콘텐츠로 사랑받을 수 있기를 바란다&quot;고 말했다. 한편, 보령시는 서해랑길의 한 코스인 천북 굴따라길 외에도 외연도, 삽시도, 장고도, 고대도 등 섬과 <b>청라<\/b>면, 오천면, 보령댐 등에 다양한 둘레길이 조성돼 있다.",
-			"pubDate":"Wed, 22 Jun 2022 19:18:00 +0900"
-		},
-		{
-			"title":"&quot;경인선 지하화 사업, 경제성 낮아 정부 재정 투입 국가 사업화 필요&quot;",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1149800",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1149800",
-			"description":"정동석 인천시 도시계획국장은 &quot;경인선 지하화는 인천에서 서울까지 녹지 생태축을 구축하는 등 인천 도시공간구조 개편의 신호탄이 될 것&quot;이라며 &quot;서울7호선·2호선 <b>청라<\/b> 연장, 제2경인선, GTX-B 등이 추진 예정인 만큼... ",
-			"pubDate":"Wed, 22 Jun 2022 19:08:00 +0900"
-		},
-		{
-			"title":"[B tv 인천뉴스] 금리 인상에 매수세 실종…인천 아파트값 2~3억 ‘뚝뚝’",
-			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=142710",
-			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=142710",
-			"description":"특히 집값 상승을 견인했던 <b>청라<\/b>와 송도 등의 하락폭이 큽니다. 이정윤 기자의 보도입니다. 리포트) 서구 <b>청라<\/b>의 한 아파트입니다. 지난해 전용면적 84㎡ 최고 거래가는 12억4천만 원. 하지만 최근 8억8천만 원에... ",
-			"pubDate":"Wed, 22 Jun 2022 19:02:00 +0900"
 		}
 	]
 }
