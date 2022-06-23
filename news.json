@@ -1,6 +1,6 @@
 {
-	"lastBuildDate":"Thu, 23 Jun 2022 17:00:02 +0900",
-	"total":180717,
+	"lastBuildDate":"Thu, 23 Jun 2022 17:10:02 +0900",
+	"total":180718,
 	"start":1,
 	"display":30,
 	"items":[
@@ -61,17 +61,17 @@
 			"pubDate":"Thu, 23 Jun 2022 15:54:00 +0900"
 		},
 		{
-			"title":"[유통경제 이슈] 푸드올로지, 다이어트 건강기능식품 ‘콜레올로지 컷’ 리뉴...",
-			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202206231535286867204ead0791_12",
-			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202206231535286867204ead0791_12",
-			"description":"‘19년 대규모 <b>청라<\/b> R&amp;D센터 개소 후 하이테크 물류기술 개발에 주력하면서, 첨단 물류 H\/W(설비\/장비)와 S\/W(운용시스템)를 겸비한 ’토탈 스마트물류 솔루션 사업자‘로 평가받고 있다. ◆여름 휴가 인생샷 만들기 위한... ",
-			"pubDate":"Thu, 23 Jun 2022 15:38:00 +0900"
-		},
-		{
 			"title":"숙련기술인 4명 '대구시 명장’ 선정",
 			"originallink":"http:\/\/www.kbsm.net\/news\/view.php?idx=354176",
 			"link":"http:\/\/www.kbsm.net\/news\/view.php?idx=354176",
 			"description":"이들에게는 대구 숙련기술인 최고의 영예인 ‘대구시 명장’의 칭호를 부여하고 명장 증서, 명장패 및 배지(badge)를 수여하며 지난해 10월 지하철 2호선 <b>청라<\/b>언덕역 내 쉼터에 조성된 ‘대구숙련기술명장 명예의 전당’... ",
+			"pubDate":"Thu, 23 Jun 2022 15:38:00 +0900"
+		},
+		{
+			"title":"[유통경제 이슈] 푸드올로지, 다이어트 건강기능식품 ‘콜레올로지 컷’ 리뉴...",
+			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202206231535286867204ead0791_12",
+			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202206231535286867204ead0791_12",
+			"description":"‘19년 대규모 <b>청라<\/b> R&amp;D센터 개소 후 하이테크 물류기술 개발에 주력하면서, 첨단 물류 H\/W(설비\/장비)와 S\/W(운용시스템)를 겸비한 ’토탈 스마트물류 솔루션 사업자‘로 평가받고 있다. ◆여름 휴가 인생샷 만들기 위한... ",
 			"pubDate":"Thu, 23 Jun 2022 15:38:00 +0900"
 		},
 		{
@@ -166,13 +166,6 @@
 			"pubDate":"Thu, 23 Jun 2022 14:02:00 +0900"
 		},
 		{
-			"title":"매수세 위축 지속…서울 아파트값 4주 연속 하락",
-			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1130530&inflow=N",
-			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1130530&inflow=N",
-			"description":"연수구는 송도동 신축 단지를 중심으로 0.13% 하락했고 동구(-0.09%)는 송현동과 만석동을 중심으로, 서구(-0.08%)는 <b>청라<\/b>국제도시를 중심으로 하락거래가 발생하는 등 인천 전체 하락폭이 확대됐다. 지방 아파트... ",
-			"pubDate":"Thu, 23 Jun 2022 14:02:00 +0900"
-		},
-		{
 			"title":"용산도 상승 멈춰…강남은 상승·하락 혼조",
 			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5776174",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003656922?sid=101",
@@ -180,17 +173,24 @@
 			"pubDate":"Thu, 23 Jun 2022 14:02:00 +0900"
 		},
 		{
-			"title":"서울 아파트값 4주째 ‘뚝뚝’…용산 ‘보합’에 강남4구 ‘서초’만 올랐다",
-			"originallink":"https:\/\/www.news1.kr\/articles\/?4720769",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006175466?sid=101",
-			"description":"연수구(-0.13%)는 송도동 신축 위주로, 동구(-0.09%)는 송현·만석동 위주로, 서구(-0.08%)는 <b>청라<\/b>국제도시 위주로 하락거래가 발생했다. 경기의 경우 이천(0.32%)·평택시(0.10%)는 직주근접 수요가 있는 지역 위주로... ",
-			"pubDate":"Thu, 23 Jun 2022 14:00:00 +0900"
+			"title":"매수세 위축 지속…서울 아파트값 4주 연속 하락",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1130530&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1130530&inflow=N",
+			"description":"연수구는 송도동 신축 단지를 중심으로 0.13% 하락했고 동구(-0.09%)는 송현동과 만석동을 중심으로, 서구(-0.08%)는 <b>청라<\/b>국제도시를 중심으로 하락거래가 발생하는 등 인천 전체 하락폭이 확대됐다. 지방 아파트... ",
+			"pubDate":"Thu, 23 Jun 2022 14:02:00 +0900"
 		},
 		{
 			"title":"낙폭 계속 커진다…서울 아파트 가격 4주째 하락",
 			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1535560\/?sc=Naver",
 			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1535560\/?sc=Naver",
 			"description":"대체로 신규 입주물량 부담 지속되고, 지난해 급등 피로감 등으로 매수세 위축된 가운데, 연수구(-0.13%)는 송도동 신축 위주로, 동구(-0.09%)는 송현·만석동 위주로, 서구(-0.08%)는 <b>청라<\/b>국제도시 위주로 하락거래... ",
+			"pubDate":"Thu, 23 Jun 2022 14:00:00 +0900"
+		},
+		{
+			"title":"서울 아파트값 4주째 ‘뚝뚝’…용산 ‘보합’에 강남4구 ‘서초’만 올랐다",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4720769",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006175466?sid=101",
+			"description":"연수구(-0.13%)는 송도동 신축 위주로, 동구(-0.09%)는 송현·만석동 위주로, 서구(-0.08%)는 <b>청라<\/b>국제도시 위주로 하락거래가 발생했다. 경기의 경우 이천(0.32%)·평택시(0.10%)는 직주근접 수요가 있는 지역 위주로... ",
 			"pubDate":"Thu, 23 Jun 2022 14:00:00 +0900"
 		},
 		{
