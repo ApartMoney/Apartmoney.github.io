@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 23 Jun 2022 22:10:01 +0900",
-	"total":180727,
+	"lastBuildDate":"Thu, 23 Jun 2022 22:20:02 +0900",
+	"total":180728,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"최태원, 재계 총수들과 '부산엑스포' 유치 총력전...이재용-정의선-구광모-신...",
+			"originallink":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296303",
+			"link":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296303",
+			"description":"신동빈 회장이 지난 4일 '2022 롯데 오픈' 경기가 진행된 인천 베어즈베스트 <b>청라<\/b>를 방문해 포토월 앞에서 롯데 골프단 황유민 선수와 함께 2030부산세계박람회 유치를 기원하는 모습. 또한 신동빈 회장은 롯데... ",
+			"pubDate":"Thu, 23 Jun 2022 22:06:00 +0900"
+		},
 		{
 			"title":"숙련기술인 최고 영예, '대구광역시 명장'선정",
 			"originallink":"http:\/\/www.dkilbo.com\/news\/articleView.html?idxno=368534",
@@ -12,17 +19,17 @@
 			"pubDate":"Thu, 23 Jun 2022 21:06:00 +0900"
 		},
 		{
-			"title":"[6·1지방선거 당선자 인터뷰] 강범석 인천 서구청장",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=984988",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=984988",
-			"description":"강 당선자는 광역교통망 확충과 관련, &quot;<b>청라<\/b>·검단신도시 등의 유입 인구를 감안하면 서울로 출퇴근하는... <b>청라<\/b> 스타필드 돔구장은 민간기업이 추진하지만 스포츠 경기장 기능 외에도 세계적으로 유례를 찾아보기 힘든... ",
-			"pubDate":"Thu, 23 Jun 2022 20:22:00 +0900"
-		},
-		{
 			"title":"경기·인천 집값 거품 빠지나",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=985073",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=985073",
 			"description":"지속되고 지난해 급등한 매매 가격의 거품이 사라지며 매수세가 위축됐다. 그 중 연수구(-0.13%)는 송도동 신축 위주로, 동구(-0.09%)는 송현·만석동 위주로, 서구(-0.08%)는 <b>청라<\/b>국제도시 위주로 하락 거래가 발생했다.",
+			"pubDate":"Thu, 23 Jun 2022 20:22:00 +0900"
+		},
+		{
+			"title":"[6·1지방선거 당선자 인터뷰] 강범석 인천 서구청장",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=984988",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=984988",
+			"description":"강 당선자는 광역교통망 확충과 관련, &quot;<b>청라<\/b>·검단신도시 등의 유입 인구를 감안하면 서울로 출퇴근하는... <b>청라<\/b> 스타필드 돔구장은 민간기업이 추진하지만 스포츠 경기장 기능 외에도 세계적으로 유례를 찾아보기 힘든... ",
 			"pubDate":"Thu, 23 Jun 2022 20:22:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003155107?sid=102",
 			"description":"인천공항∼서울역을 운행하는 공항철도(주)는 인천공항∼<b>청라<\/b>국제도시역까지는 독립운임제, <b>청라<\/b>국제도시역∼서울역은 수도권통합환승 할인제 등 두가지 요금체계로 운영되고 있다. 독립운임제 구간은... ",
 			"pubDate":"Thu, 23 Jun 2022 14:14:00 +0900"
-		},
-		{
-			"title":"낙폭 커진 서울 아파트값…'강남4구' 대선 이후 첫 하락",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220623010013273",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220623010013273",
-			"description":"서구(-0.08%)는 <b>청라<\/b>국제도시 위주로 가격이 떨어졌다.지방 아파트값은 2주연속 떨어졌다. 5대 광역시(0.05%)와 세종(0.15%)은 하락했으나 8개도(0.02%)는 상승했다. 전국 아파트 전세가격은 0.02% 떨어져 지난주와... ",
-			"pubDate":"Thu, 23 Jun 2022 14:10:00 +0900"
 		}
 	]
 }
