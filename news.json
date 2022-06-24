@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 24 Jun 2022 14:00:02 +0900",
-	"total":180756,
+	"lastBuildDate":"Fri, 24 Jun 2022 14:10:02 +0900",
+	"total":180757,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전국 주간 아파트 매매·전세가격 하락세",
+			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=256391",
+			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=256391",
+			"description":"연수구(-0.13%)는 송도동 신축 위주로, 동구(-0.09%)는 송현·만석동 위주로, 서구(-0.08%)는 <b>청라<\/b>국제도시 위주로 하락거래가 발생하는 등 인천 전체 하락폭이 확대됐다. 이천(0.32%)·평택시(0.10%)는 직주근접... ",
+			"pubDate":"Fri, 24 Jun 2022 13:58:00 +0900"
+		},
 		{
 			"title":"보령시 이·통장, 시정발전 위한 한마음 화합의 장",
 			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=261082",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=26180",
 			"description":"2019년 대규모 <b>청라<\/b> R&amp;D센터 개소 후 하이테크 물류기술 개발에 주력하면서 첨단 물류 H\/W(설비\/장비)와 S\/W(운용시스템)를 겸비한 '토탈 스마트물류 솔루션 사업자'로 평가받고 있다.",
 			"pubDate":"Thu, 23 Jun 2022 15:02:00 +0900"
-		},
-		{
-			"title":"교육부 학교신설 기준 완화... 인천 25개 심사 앞당겨",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=219491",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=219491",
-			"description":"인천에서 2026년까지 송도·영종·<b>청라<\/b>·검단 등 신도시에 신설이 예정된 학교 25개의 개교시기도 앞당겨질 것으로 보인다. 인천시교육청 전경.(제공 인천시교육청) 인천시교육청은 지난 5월 학교 신설을 위한 교육부... ",
-			"pubDate":"Thu, 23 Jun 2022 14:46:00 +0900"
 		}
 	]
 }
