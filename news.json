@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 26 Jun 2022 16:40:03 +0900",
-	"total":180800,
+	"lastBuildDate":"Sun, 26 Jun 2022 16:50:02 +0900",
+	"total":180801,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;인천 원도심 부활시켜 '제물포 르네상스' 시대 열겠다&quot;",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=558164&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004982899?sid=100",
+			"description":"송도와 <b>청라<\/b>, 수도권 매립지를 연계해 글로벌 금융허브 기능을 유치하는 프로젝트)를 발표했다. 올해... 7호선 <b>청라<\/b> 연장 등 매립지와 주변 개발 등이다. 하지만 박남춘 인천시장은 2020년 '4자 합의' 미이행을 이유로 2025년... ",
+			"pubDate":"Sun, 26 Jun 2022 16:45:00 +0900"
+		},
 		{
 			"title":"보령시 이·통장 시정발전을 위한 한마음 화합의 뜻을 다지다",
 			"originallink":"http:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2010718",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.news2day.co.kr\/article\/20220623500268",
 			"description":"특히 <b>청라<\/b>국제도시와도 바로 연결돼 곧 오픈할 예정인 스타필드 <b>청라<\/b>, 코스트코 <b>청라<\/b>점, <b>청라<\/b>의료복합타운 등 여러 인프라도 누릴 수 있다. 경기도 양평에는 일신건영이 ‘양평 공흥3 휴먼빌 아틀리에’를 내놨다.... ",
 			"pubDate":"Sat, 25 Jun 2022 05:02:00 +0900"
-		},
-		{
-			"title":"25~26일, 이마트·홈플러스·롯데마트·코스트코 영업시간[대형마트 휴무일]",
-			"originallink":"http:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=451260",
-			"link":"http:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=451260",
-			"description":"인천<b>청라<\/b>, 인하 • 경기 : 동수원, 병점, 부천상동, 북수원, 분당오리, 서수원, 송탄, 시화, 야탑, 영통, 원천, 의정부, 평택안중, 화성동탄, 화성향남 • 대구 : 내당, 대구수성, 동촌, 상인, 성서, 칠곡 • 경북\/울산... ",
-			"pubDate":"Sat, 25 Jun 2022 00:06:00 +0900"
 		}
 	]
 }
