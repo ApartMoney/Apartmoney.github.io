@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 28 Jun 2022 01:00:02 +0900",
-	"total":180850,
+	"lastBuildDate":"Tue, 28 Jun 2022 01:10:02 +0900",
+	"total":180851,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구, 11월까지 대표 관광지 30곳서 ‘여행도감 챌린지’",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/06\/27\/20220627518917.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003709457?sid=102",
+			"description":"‘관광지 30곳'은 기존 대구지역 대표 관광지인 대구근대골목, <b>청라<\/b>언덕, 동화사와 함께 동성로 스파크랜드, 뷔 벽화거리 등 신규 관광지다. 전통시장인 서문시장, 칠성시장을 비롯해 음식테마골목 안지랑 곱창골목... ",
+			"pubDate":"Tue, 28 Jun 2022 01:03:00 +0900"
+		},
 		{
 			"title":"대형마트, SPA 집중 유치",
 			"originallink":"http:\/\/www.apparelnews.co.kr\/news\/news_view\/?idx=198765",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202206271013232450381",
 			"description":"인천 경제자유구역(송도·<b>청라<\/b>·영종국제도시) 내에서 산업단지 입주계약 및 공장등록 관련 상담이 필요한 업체는 운영시간(매주 화요일 14~16시) 중 인천 경제자유구역청(인천 연수구 아트센터대로 175) 1층 민원상담실로... ",
 			"pubDate":"Mon, 27 Jun 2022 14:32:00 +0900"
-		},
-		{
-			"title":"동탄에 트레이더스 21호점…창고형 할인점 시장 커진다",
-			"originallink":"http:\/\/www.etnews.com\/20220627000194",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003026197?sid=101",
-			"description":"롯데마트도 2023년까지 맥스 매장을 20여개로 늘린다는 방침이다. 올 하반기에만 10개 점포가 맥스로 전환 오픈한다. 코스트코도 연내 김해에 이어, 내년에는 인천 <b>청라<\/b>에 신규 매장을 출점한다는 계획이다.",
-			"pubDate":"Mon, 27 Jun 2022 14:07:00 +0900"
 		}
 	]
 }
