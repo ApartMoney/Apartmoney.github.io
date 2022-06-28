@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 28 Jun 2022 14:30:02 +0900",
-	"total":180901,
+	"lastBuildDate":"Tue, 28 Jun 2022 14:40:01 +0900",
+	"total":180903,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 영종주민, 공항철도 요금 최대 1100원 돌려받는다",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4725436",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006183849?sid=102",
+			"description":"(1750원), <b>청라<\/b>역(1850원)까지는 구간별로 100~200원씩 점진적으로 증액되고 환승할인도 되는 통합요금제를 적용한다. 그러나 섬지역인 영종도로 넘어가면 사정이 다르다. <b>청라<\/b>역(1850원)에서 영종역(2750원)까지는 1개... ",
+			"pubDate":"Tue, 28 Jun 2022 14:27:00 +0900"
+		},
 		{
 			"title":"김동일 보령시장, &quot;새로운 보령 100년 힘차게 열겠다&quot;",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2497017",
@@ -31,6 +38,13 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004070029?sid=101",
 			"description":"마지막 농가는 ‘정촌유기농원(충청남도 보령시 <b>청라<\/b>면 소재)’으로 친환경 양송이 수확, 땅콩기차 드라이브, 친환경 양송이 피자 만들기, 호밀 빨대 만들기, 친환경 콩 심기 등의 과정으로 진행됐으며 참여한 시민들은... ",
 			"pubDate":"Tue, 28 Jun 2022 14:11:00 +0900"
+		},
+		{
+			"title":"인천시장 재탈환 성공한 유정복 당선인에게 듣는다",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0115_202206281404241931",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001757133?sid=102",
+			"description":"세계적인 국제공항이 있고 항만이 있고 경제자유구역이 있고 또 수도권 2500만 시장이 있기 때문에 영종, 강화를 중심으로 또 송도, <b>청라<\/b>와 연계해서 새로운 미래형 그야말로 첨단도시 형태가 되는 뉴홍콩시티 프로젝트를... ",
+			"pubDate":"Tue, 28 Jun 2022 14:04:00 +0900"
 		},
 		{
 			"title":"김동일 시장, 지역제품 적극적 구매하겠다",
@@ -82,7 +96,7 @@
 			"pubDate":"Tue, 28 Jun 2022 13:26:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b>국제도시 일원 '<b>청라<\/b> 더리브 티아모 까사' 7월 분양 예정",
+			"title":"인천 <b>청라<\/b>국제도시 일원 '<b>청라<\/b> 더리브 티아모 까사' 7월 오픈",
 			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202206280140&t=NN",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001039719?sid=101",
 			"description":"인천시에 따르면, 서울지하철 7호선 <b>청라<\/b> 연장은 이달 최종 안전관리계획서가 승인됨에 따라 실착공을... 이러한 가운데, 인천 서구 <b>청라<\/b>국제도시 일원에 '<b>청라<\/b> 더리브 티아모 까사'가 7월 분양에 나선다.... ",
@@ -103,13 +117,6 @@
 			"pubDate":"Tue, 28 Jun 2022 11:32:00 +0900"
 		},
 		{
-			"title":"&quot;택지지구 신규 상업시설, 선점이 포인트&quot; 진입 쉽고 미래가치 높아, 수익 창...",
-			"originallink":"http:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=59685",
-			"link":"http:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=59685",
-			"description":"덕은지구 내 상업용지 비율은 1.3%로 동탄 1신도시(2.69%), 마곡지구(2.26%), <b>청라<\/b>신도시(2.2%) 등에 비해 낮은 상업용지 비율을 바탕으로 희소성이 부각되면서 빠르게 완판된 것으로 풀이된다. 또한, 낙찰가율이 높을수록... ",
-			"pubDate":"Tue, 28 Jun 2022 11:28:00 +0900"
-		},
-		{
 			"title":"김동일 보령시장 &quot;길 없으면 찾고, 찾아도 없으면 새길 만들어야&quot;",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220628_0001922939&cID=10807&pID=10800",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011271666?sid=102",
@@ -117,17 +124,24 @@
 			"pubDate":"Tue, 28 Jun 2022 11:28:00 +0900"
 		},
 		{
-			"title":"택지지구 신규 상업시설 '주목'...수익 창출 기대감에 투자자 관심 집중",
-			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=147595",
-			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=147595",
-			"description":"덕은지구 내 상업용지 비율은 1.3%로 동탄 1신도시(2.69%), 마곡지구(2.26%), <b>청라<\/b>신도시(2.2%) 등에 비해 낮은 상업용지 비율을 바탕으로 희소성이 부각되면서 빠르게 소진된 것으로 풀이됩니다. 부동산 전문가는 &quot;상업용지... ",
-			"pubDate":"Tue, 28 Jun 2022 11:24:00 +0900"
+			"title":"&quot;택지지구 신규 상업시설, 선점이 포인트&quot; 진입 쉽고 미래가치 높아, 수익 창...",
+			"originallink":"http:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=59685",
+			"link":"http:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=59685",
+			"description":"덕은지구 내 상업용지 비율은 1.3%로 동탄 1신도시(2.69%), 마곡지구(2.26%), <b>청라<\/b>신도시(2.2%) 등에 비해 낮은 상업용지 비율을 바탕으로 희소성이 부각되면서 빠르게 완판된 것으로 풀이된다. 또한, 낙찰가율이 높을수록... ",
+			"pubDate":"Tue, 28 Jun 2022 11:28:00 +0900"
 		},
 		{
 			"title":"김동일 보령시장 &quot;새로운 보령 100년 힘차게 열겠다&quot;",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220628010015673",
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220628010015673",
 			"description":"김 시장은 “청년일자리 창출과 지역경제 활성화를 위해서 웅천산업단지와 <b>청라<\/b>농공단지에 우량기업을 유치해 신속하게 분양이 완료될 수 있도록 총력을 다하겠다”고 약속했다.김동일 시장은 “미래지향적 행정은... ",
+			"pubDate":"Tue, 28 Jun 2022 11:24:00 +0900"
+		},
+		{
+			"title":"택지지구 신규 상업시설 '주목'...수익 창출 기대감에 투자자 관심 집중",
+			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=147595",
+			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=147595",
+			"description":"덕은지구 내 상업용지 비율은 1.3%로 동탄 1신도시(2.69%), 마곡지구(2.26%), <b>청라<\/b>신도시(2.2%) 등에 비해 낮은 상업용지 비율을 바탕으로 희소성이 부각되면서 빠르게 소진된 것으로 풀이됩니다. 부동산 전문가는 &quot;상업용지... ",
 			"pubDate":"Tue, 28 Jun 2022 11:24:00 +0900"
 		},
 		{
@@ -166,17 +180,17 @@
 			"pubDate":"Tue, 28 Jun 2022 10:35:00 +0900"
 		},
 		{
-			"title":"홈플러스, 2022 상반기 유통키워드 ‘리턴’ 선정",
-			"originallink":"http:\/\/www.apparelnews.co.kr\/news\/news_view\/?idx=198785",
-			"link":"http:\/\/www.apparelnews.co.kr\/news\/news_view\/?idx=198785",
-			"description":"지난 2월 인천 간석점을 시작으로 인천 <b>청라<\/b>점, 송도점, 작전점, 인하점, 가좌점을 비롯해 서울 월드컵점, 방학점, 대전 유성점 등 총 9개의 점포를 리뉴얼했다. 메가푸드마켓 1호 간석점은 리뉴얼 후 첫 주말에만 매출... ",
-			"pubDate":"Tue, 28 Jun 2022 10:34:00 +0900"
-		},
-		{
 			"title":"김동일 보령시장 &quot;연속성 가지고 포용도시 만들 것&quot;",
 			"originallink":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=271843",
 			"link":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=271843",
 			"description":"김 시장은 또 &quot;청년일자리 창출 및 지역경제 활성화를 위해서도 최선을 다하겠다&quot;며 &quot;웅천산업단지와 <b>청라<\/b>농공단지에 우량기업을 유치해 신속하게 분양이 완료될 수 있도록 네트워크를 총 동원해 적극 추진해 나가도록... ",
+			"pubDate":"Tue, 28 Jun 2022 10:34:00 +0900"
+		},
+		{
+			"title":"홈플러스, 2022 상반기 유통키워드 ‘리턴’ 선정",
+			"originallink":"http:\/\/www.apparelnews.co.kr\/news\/news_view\/?idx=198785",
+			"link":"http:\/\/www.apparelnews.co.kr\/news\/news_view\/?idx=198785",
+			"description":"지난 2월 인천 간석점을 시작으로 인천 <b>청라<\/b>점, 송도점, 작전점, 인하점, 가좌점을 비롯해 서울 월드컵점, 방학점, 대전 유성점 등 총 9개의 점포를 리뉴얼했다. 메가푸드마켓 1호 간석점은 리뉴얼 후 첫 주말에만 매출... ",
 			"pubDate":"Tue, 28 Jun 2022 10:34:00 +0900"
 		},
 		{
@@ -194,25 +208,11 @@
 			"pubDate":"Tue, 28 Jun 2022 10:22:00 +0900"
 		},
 		{
-			"title":"기후위기 시대의 진정한 복지",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88957",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=88957",
-			"description":"송도나 <b>청라<\/b>에 사는 시민은 모두 행복하지 않은데, 세계 초일류 인천시민이므로 행복할 리 없다. 요즘은 일부만 누릴 행복보다 보편적 시민의 안정된 생존 보장이 시급한 시절이다. 얼마 전에, 낙후된 지역이라는 자탄이... ",
-			"pubDate":"Tue, 28 Jun 2022 10:20:00 +0900"
-		},
-		{
 			"title":"&quot;갈수록 더 오른다&quot;… 청약수요, 분양가상한제 개편․원자재값 상승 '발등의 ...",
 			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=256559",
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=256559",
 			"description":"돌려 '<b>청라<\/b> 더리브 티아모 까사' 투시도. [국토일보 하종숙 기자] 정부의 새로운 부동산 대책에 따라 아파트... <b>청라<\/b> 국제도시를 대표하는 핵심 인프라인 커낼웨이와 7호선 커낼웨이역(가칭)을 바로 앞에서 누리는 마지막... ",
 			"pubDate":"Tue, 28 Jun 2022 10:20:00 +0900"
-		},
-		{
-			"title":"홈플러스, 일상회복에 발맞춰 선제적 대비·대대적 투자 단행",
-			"originallink":"http:\/\/www.econovill.com\/news\/articleView.html?idxno=579908",
-			"link":"http:\/\/www.econovill.com\/news\/articleView.html?idxno=579908",
-			"description":"지난 2월 인천 간석점을 시작으로 인천 <b>청라<\/b>점, 송도점, 작전점, 인하점, 가좌점을 비롯해 서울 월드컵점, 방학점, 대전 유성점 등 총 9개 점포를 리뉴얼했다. 매장 입구에 고객이 원하는 취향대로 골라 즐길 수 있는 델리... ",
-			"pubDate":"Tue, 28 Jun 2022 10:16:00 +0900"
 		}
 	]
 }
