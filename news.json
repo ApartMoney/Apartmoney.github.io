@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 30 Jun 2022 09:00:02 +0900",
-	"total":181096,
+	"lastBuildDate":"Thu, 30 Jun 2022 09:10:02 +0900",
+	"total":181097,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천도시가스, 유관기관 합동 비상훈련 실시",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1150743",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1150743",
+			"description":"이날 비상훈련은 인천 <b>청라<\/b>지구 달튼외국인학교 인근 씽크홀 발생으로 인한 도시가스 매설배관 손상으로 인해 가스누출 및 가스사용처 공급중단 상황을 가상해 진행했다. 비상상황에 따른 실시간 상황전파와 함께... ",
+			"pubDate":"Thu, 30 Jun 2022 09:08:00 +0900"
+		},
 		{
 			"title":"지하철역 이름 쇼핑 적극 나서는 금융권…마케팅 효과 ‘쏠쏠’",
 			"originallink":"https:\/\/www.news2day.co.kr\/article\/20220629500322",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=140326",
 			"description":"올해는 경상남도 김해, 내년에는 인천 <b>청라<\/b>에 신규 점포를 열고, 서울 고척과 전라북도 익산에도 출점 여부를 검토하고 있는 것으로 알려졌다. 유통업계가 창고형 할인점에 주목하는 주된 이유는 가파른 성장세다.... ",
 			"pubDate":"Wed, 29 Jun 2022 15:50:00 +0900"
-		},
-		{
-			"title":"유정복 인수위 해단식서 &quot;좋은 정치인으로 변신하겠다&quot; 다짐",
-			"originallink":"http:\/\/www.newscj.com\/news\/articleView.html?idxno=996756",
-			"link":"http:\/\/www.newscj.com\/news\/articleView.html?idxno=996756",
-			"description":"확보 ▲<b>청라<\/b>국제도시 개발이익 재투자가 ▲시정 홍보 운영방식 개선 ▲균형발전 구현과 서북부 개발 촉진... 특히 경제자유구역 개발 이익금이 지역에 재투자되지 않고 있다며, <b>청라<\/b>국제도시 조성 사업 종료 시점의... ",
-			"pubDate":"Wed, 29 Jun 2022 15:28:00 +0900"
 		}
 	]
 }
