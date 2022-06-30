@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 01 Jul 2022 00:10:02 +0900",
-	"total":181117,
+	"lastBuildDate":"Fri, 01 Jul 2022 00:20:02 +0900",
+	"total":181118,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[대형마트 휴무일] 이마트·홈플러스·롯데마트·코스트코 7월할인상품 영업시...",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2499177",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2499177",
+			"description":"인천<b>청라<\/b>, 인하 • 경기 : 동수원, 병점, 부천상동, 북수원, 분당오리, 서수원, 송탄, 시화, 야탑, 영통, 원천, 의정부, 평택안중, 화성동탄, 화성향남 • 대구 : 내당, 대구수성, 동촌, 상인, 성서, 칠곡 • 경북\/울산... ",
+			"pubDate":"Fri, 01 Jul 2022 00:18:00 +0900"
+		},
 		{
 			"title":"박남춘 인천시장, 이임식서 소회 밝혀 &quot;시민과 함께한 4년 잊지 않겠다… 기억...",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363548389",
@@ -12,17 +19,17 @@
 			"pubDate":"Thu, 30 Jun 2022 21:00:00 +0900"
 		},
 		{
-			"title":"민선 7기 임기 마친 박남춘 인천시장 '되돌아 본 시정'",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220630010005761",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220630010005761",
-			"description":"<b>청라<\/b>국제도시에는 대규모 수소 생산 클러스터 조성을 추진하고, 영종국제도시 항공특화산업을 육성하는 데 행정력을 쏟았다.  \/  붉은 수돗물 사태 수습 임기중 '최대 난관'… 인천e음 활성화·환경특별시로 품격 높여",
-			"pubDate":"Thu, 30 Jun 2022 20:40:00 +0900"
-		},
-		{
 			"title":"&quot;인천시, 지역 균형발전 위한 '서북부 전담 부서' 신설 필요&quot;",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220630010005636",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220630010005636",
 			"description":"인수위는 인천경제자유구역(송도·<b>청라<\/b>·영종국제도시), 도시재생이 필요한 구도심, 종합발전계획이 수립된 섬 등은 인천시에서 직접적인 관리가 이뤄지고 있지만, 미개발 지역이 많은 아라뱃길 주변이나 검단신도시 북쪽... ",
+			"pubDate":"Thu, 30 Jun 2022 20:40:00 +0900"
+		},
+		{
+			"title":"민선 7기 임기 마친 박남춘 인천시장 '되돌아 본 시정'",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220630010005761",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220630010005761",
+			"description":"<b>청라<\/b>국제도시에는 대규모 수소 생산 클러스터 조성을 추진하고, 영종국제도시 항공특화산업을 육성하는 데 행정력을 쏟았다.  \/  붉은 수돗물 사태 수습 임기중 '최대 난관'… 인천e음 활성화·환경특별시로 품격 높여",
 			"pubDate":"Thu, 30 Jun 2022 20:40:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=256749",
 			"description":"하반기에는 지하철 5호선 연장선이 닿는 경기 김포시, 7호선이 닿는 인천 <b>청라<\/b>국제도시, 9호선이 닿는... 현재 석남역까지 오가는 7호선은 향후 인천 <b>청라<\/b>국제도시까지 닿게 된다. 7호선의 <b>청라<\/b>연장사업은 2007년... ",
 			"pubDate":"Thu, 30 Jun 2022 10:50:00 +0900"
-		},
-		{
-			"title":"인천 서구 지역주택조합 아파트 '가좌역 메가시티' 공급",
-			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=589645",
-			"link":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=589645",
-			"description":"더불어 2024년 완공 예정인 스타필드 <b>청라<\/b>, 2023년 완공 예정인 코스트코 <b>청라<\/b>, 제3연륙교 등 여러 개발사업이 한창이다. 조합원 가입 시에는 별도의 청약통장이 필요 없으며 무주택자 등 일부 요건만 충족하면 된다. 보다... ",
-			"pubDate":"Thu, 30 Jun 2022 10:38:00 +0900"
 		}
 	]
 }
