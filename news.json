@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 30 Jun 2022 17:50:02 +0900",
-	"total":181107,
+	"lastBuildDate":"Thu, 30 Jun 2022 18:00:02 +0900",
+	"total":181108,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"민선 7기 박남춘 인천시장 이임",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89054",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89054",
+			"description":"박 시장은 지난 4년의 성과로 ▲시청 앞 광장을 시민들께 돌려드린 인천애(愛)뜰 조성 ▲2025년 수도권매립지 종료 추진 ▲월미바다열차 개통 ▲송도 투모로우시티의 스타트업파크 변신 ▲<b>청라<\/b>복합의료타운 조성 추진... ",
+			"pubDate":"Thu, 30 Jun 2022 17:54:00 +0900"
+		},
 		{
 			"title":"4·5·7·9호선...지하철 연장선 따라 '알짜 단지' 신규 분양",
 			"originallink":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=365504",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1150743",
 			"description":"이날 비상훈련은 인천 <b>청라<\/b>지구 달튼외국인학교 인근 씽크홀 발생으로 인한 도시가스 매설배관 손상으로 인해 가스누출 및 가스사용처 공급중단 상황을 가상해 진행했다. 비상상황에 따른 실시간 상황전파와 함께... ",
 			"pubDate":"Thu, 30 Jun 2022 09:08:00 +0900"
-		},
-		{
-			"title":"지하철역 이름 쇼핑 적극 나서는 금융권…마케팅 효과 ‘쏠쏠’",
-			"originallink":"https:\/\/www.news2day.co.kr\/article\/20220629500322",
-			"link":"https:\/\/www.news2day.co.kr\/article\/20220629500322",
-			"description":"이에 따라 하나금융그룹은 인천국제공항철도 <b>청라<\/b>국제도시역에 병기된 ‘하나금융타운’에 이어 두 번째로 하나은행 역명을 사용하게 됐다. 을지로입구역은 2021년 기준 연간 승하차 인원 약 2200만명이 이용 중인 주요... ",
-			"pubDate":"Thu, 30 Jun 2022 07:26:00 +0900"
 		}
 	]
 }
