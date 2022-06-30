@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 30 Jun 2022 15:40:02 +0900",
-	"total":181101,
+	"lastBuildDate":"Thu, 30 Jun 2022 15:50:02 +0900",
+	"total":181102,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"국토부 GTX 연구용역 착수...인천시 &quot;GTX-B 수인분당선 환승&quot;",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=219692",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=219692",
+			"description":"시가 제안한 GTX-D Y자 노선은 김포~검단에서 오는 노선과 영종국제도시~<b>청라<\/b>국제도시에서 오는 노선이 부천종합운동장에서 만나 서울 신도림을 거쳐 강남과 강동구를 지나 경기도 하남~팔당까지 연결하는... ",
+			"pubDate":"Thu, 30 Jun 2022 15:44:00 +0900"
+		},
 		{
 			"title":"가좌역 메가시티, 주택 전시 홍보관 오픈",
 			"originallink":"http:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=59728",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=356638",
 			"description":"또 <b>청라<\/b>국제도시 개발이익 환수 방안, 송도 6‧8공구 공모개발사업 재검토, 북부종합개발계획 재추진, 민주화운동기념관 건립 등도 제안했다. 이의 개선과 사업 추진을 위해 시정혁신단을 운영한다. 혁신단은 시장... ",
 			"pubDate":"Thu, 30 Jun 2022 02:22:00 +0900"
-		},
-		{
-			"title":"인천도시가스, 가스사고 대비 유관기관 합동 비상훈련",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20220629010004607",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20220629010004607",
-			"description":"이날 비상훈련은 인천 <b>청라<\/b>지구 달튼외국인학교 인근 씽크홀 발생으로 인한 도시가스 매설배관 손상으로 인해 가스누출 및 가스사용처 공급중단 상황을 가상해 진행됐다. 훈련에서는 비상상황에 따른 실시간 상황전파와... ",
-			"pubDate":"Wed, 29 Jun 2022 23:46:00 +0900"
 		}
 	]
 }
