@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 30 Jun 2022 17:00:01 +0900",
-	"total":181104,
+	"lastBuildDate":"Thu, 30 Jun 2022 17:10:02 +0900",
+	"total":181105,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"과학과 미술의 만남… '아트 버튼 배러' 전시회",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89050",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89050",
+			"description":"인천서구문화재단이 오는 7월 1일부터 8월 7일까지 <b>청라<\/b>블루노바홀 전시실에서 '아트 버튼 배러(Art Button Better)' 전시를 연다. 이번 전시는 올해 <b>청라<\/b>블루노바홀 첫 번째 기획 전시로 인공지능, 프로젝션 매핑... ",
+			"pubDate":"Thu, 30 Jun 2022 17:00:00 +0900"
+		},
 		{
 			"title":"[<b>청라<\/b>언덕] 탑건",
 			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022063016185968246",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003283591?sid=102",
 			"description":"<b>청라<\/b>국제도시에 사는 한 시민도 주민대화방에 올린 글에서 “10% 환급이 소소한 기쁨이었는데 정말 슬픈... <b>청라<\/b>국제도시의 한 시민은 “코로나19 때문에 한시적으로 유지하던 캐시백 10%를 이제 정상화하려는 것인데... ",
 			"pubDate":"Thu, 30 Jun 2022 05:07:00 +0900"
-		},
-		{
-			"title":"7호선·종합병원·스타필드까지…막힌 혈 뻥 뚫리는 <b>청라<\/b>신도시",
-			"originallink":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2022\/06\/29\/2022062902266.html",
-			"link":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2022\/06\/29\/2022062902266.html",
-			"description":"7호선 연장선 착공, 의료복합타운 등 개발 속도내는 <b>청라<\/b>국제도시 <b>청라<\/b>국제도시는 인천광역시에서 송도·영종과 함께 개발된 대표적인 주거지다. 당초 국제금융·유통 중심도시로 기획했는데 기업 유치는 다소... ",
-			"pubDate":"Thu, 30 Jun 2022 04:12:00 +0900"
 		}
 	]
 }
