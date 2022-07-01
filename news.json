@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 01 Jul 2022 11:10:02 +0900",
-	"total":181133,
+	"lastBuildDate":"Fri, 01 Jul 2022 11:20:02 +0900",
+	"total":181135,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'인천 영종 주상복합' 7월 민간 사전청약 예정",
+			"originallink":"http:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=452223",
+			"link":"http:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=452223",
+			"description":"완공 시 지역 주민들은 <b>청라<\/b>국제도시와의 접근성이 크게 향상되어 스타필드 <b>청라<\/b>(예정), 코스트코 <b>청라<\/b>(예정), <b>청라<\/b> 서울 아산병원(예정) 등을 수월하게 이용할 수 있다. 영종도 인근으로는 해양관광레저복합단지를... ",
+			"pubDate":"Fri, 01 Jul 2022 11:14:00 +0900"
+		},
+		{
+			"title":"인천시, 스마트도서관 개관",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207010951473210790",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207010951473210790",
+			"description":"미추홀도서관, 365일 24시간 예약ㆍ대출ㆍ반납 가능한 무인도서대출서비스 개시 인천시(시장 유정복)는 1일 미추홀도서관 본관 및 분관도서관(<b>청라<\/b>호수, <b>청라<\/b>국제, 영종하늘, 마전, 송도국제기구 도서관) 6개소에... ",
+			"pubDate":"Fri, 01 Jul 2022 11:12:00 +0900"
+		},
 		{
 			"title":"인천시, 365일 24시간 운영 '스마트도서관' 개관",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220701010000138",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363548323",
 			"description":"인천경제청의 교통영향평가심의위는 심의위원 40명 중 회의 때마다 9명씩이 돌아가며 참석하고 회의참석수당은 2시간 이내 15만 원, 2시간 초과 20만 원이다. 인천경제청 영종<b>청라<\/b>계획과로 하면 된다.",
 			"pubDate":"Thu, 30 Jun 2022 17:12:00 +0900"
-		},
-		{
-			"title":"과학과 미술의 만남… '아트 버튼 배러' 전시회",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89050",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89050",
-			"description":"인천서구문화재단이 오는 7월 1일부터 8월 7일까지 <b>청라<\/b>블루노바홀 전시실에서 '아트 버튼 배러(Art Button Better)' 전시를 연다. 이번 전시는 올해 <b>청라<\/b>블루노바홀 첫 번째 기획 전시로 인공지능, 프로젝션 매핑... ",
-			"pubDate":"Thu, 30 Jun 2022 17:00:00 +0900"
-		},
-		{
-			"title":"[<b>청라<\/b>언덕] 탑건",
-			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022063016185968246",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000764646?sid=110",
-			"description":"할리우드 스타 톰 크루즈 주연 영화 '탑건 매버릭'이 개봉 8일 만에 200만 관객을 돌파했다. 개봉 첫 날부터 박스오피스 1위도 양보하지 않고 있다. '범죄도시2' '브로커' '헤어질 결심' 같은 좋은 한국영화들을 제압하고... ",
-			"pubDate":"Thu, 30 Jun 2022 16:24:00 +0900"
 		}
 	]
 }
