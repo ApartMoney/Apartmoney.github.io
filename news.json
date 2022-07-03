@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 03 Jul 2022 18:30:02 +0900",
-	"total":181176,
+	"lastBuildDate":"Sun, 03 Jul 2022 18:40:02 +0900",
+	"total":181177,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 보령시",
+			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=664537",
+			"link":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=664537",
+			"description":"오향희 △<b>청라<\/b>면 최진숙 △<b>청라<\/b>면 정은효 △남포면 구재숙 △주산면 전장수 △주산면 박미영 △성주면 박종숙 △성주면 배미옥 △대천2동 조현주 △대천2동 임종혁 △대천4동 윤여권 △대천5동 김영월 △대천5동 주요찬... ",
+			"pubDate":"Sun, 03 Jul 2022 18:36:00 +0900"
+		},
 		{
 			"title":"'수년째 표류' 인천로봇랜드 올 하반기 설계 첫 발 뗀다",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268DNXME2N",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/hobbyen.co.kr\/news\/newsview.php?ncode=1065595256924486",
 			"description":"또 <b>청라<\/b>, 김포공항, 개통을 앞둔 인천2호선 효성역, GTX-D노선 등 교통 편의성도 우수한 편으로, 인천2호선 탑승 시 7호선으로 환승하면 서울까지 약 40분대 도착이 가능하다. 한편 ‘가좌역 메가시티’는 현재... ",
 			"pubDate":"Fri, 01 Jul 2022 16:02:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 국제도시 ‘<b>청라<\/b> 더리브 티아모 까사’ 7월 8일 오픈",
-			"originallink":"https:\/\/news.koreadaily.com\/2022\/06\/30\/economy\/realestate\/20220630234958073.html",
-			"link":"https:\/\/news.koreadaily.com\/2022\/06\/30\/economy\/realestate\/20220630234958073.html",
-			"description":"인천 서구 <b>청라<\/b>국제도시 <b>청라<\/b>동 일원에 조성되는 ‘<b>청라<\/b> 더리브 티아모 까사’가 7월 8일 오픈한다. <b>청라<\/b>국제도시 중심부에 위치하며, 커낼웨이를 바로 앞에서 누리는 입지에 계획된다. ㈜<b>청라<\/b>플러스가... ",
-			"pubDate":"Fri, 01 Jul 2022 15:50:00 +0900"
 		}
 	]
 }
