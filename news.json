@@ -1,15 +1,36 @@
 {
-	"lastBuildDate":"Tue, 05 Jul 2022 11:10:02 +0900",
-	"total":181229,
+	"lastBuildDate":"Tue, 05 Jul 2022 11:20:02 +0900",
+	"total":181231,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서구, 공원 내 어린이 물놀이장 7곳 운영·26일 개장한다",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220705010000937",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220705010000937",
+			"description":"인천서구, 공원 내 어린이 물놀이장 7곳 운영·26일 개장한다 인천 서구가 여름철 도심 속 피서 공간으로 원신 근린공원, <b>청라<\/b> 늘 푸른 공원 등 7곳 어린이 물놀이장을 26일부터 운영한다고 5일 밝혔다. 구는 공원 내 어린이... ",
+			"pubDate":"Tue, 05 Jul 2022 11:16:00 +0900"
+		},
+		{
+			"title":"오피스텔 사업자대출 두고 입주민 원성…&quot;일방적으로 불가 통보&quot;",
+			"originallink":"http:\/\/www.wolyo.co.kr\/news\/articleView.html?idxno=207482",
+			"link":"http:\/\/www.wolyo.co.kr\/news\/articleView.html?idxno=207482",
+			"description":"4일 건설업계에 따르면 인천 서구 <b>청라<\/b>신도시에 위치한 해당 오피스텔 단지는 지난해 12월 분양계약을 한 후 이달 26일부터 1차 중도금대출을 진행할 예정이다. 이에 앞서 단지 시행사는 지난달 29일부터 오는 12일까지... ",
+			"pubDate":"Tue, 05 Jul 2022 11:10:00 +0900"
+		},
 		{
 			"title":"네이버클라우드, 서울아산병원과 ‘스마트 병원’ 청사진 마련",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02325526632391568",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005260007?sid=105",
 			"description":"조성중인 서울아산<b>청라<\/b>병원에 병원 로봇 지원 <b>청라<\/b>의료복합타운 사업으로 2027년에 조성되는 ‘서울아산<b>청라<\/b>병원’의 차세대 의료 환경 구축을 위해 네이버클라우드는 병원 로봇 서비스 기술과 함께 이를 효과적으로... ",
 			"pubDate":"Tue, 05 Jul 2022 11:08:00 +0900"
+		},
+		{
+			"title":"[오늘의 주요 사회 일정] 인천·김포·부천(7월5일 화요일)",
+			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=251739",
+			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=251739",
+			"description":"ONE-STPOP민원 기동대 발족식, 정보센터 1층 민원실 ▲오후 2시 인천경제청 <b>청라<\/b>의료복합타운 개발계획변경안 자문회의, 충북 오송 ▲오후 2시30분 도성훈 교육감 제2기 출범에 따른 기자회견, 정보센터 4층 대회의실",
+			"pubDate":"Tue, 05 Jul 2022 11:02:00 +0900"
 		},
 		{
 			"title":"네이버클라우드, 서울아산병원과 스마트 병원 구축 맞손",
@@ -23,13 +44,6 @@
 			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20220705105505",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002261494?sid=105",
 			"description":"또한, <b>청라<\/b>의료복합타운 사업으로 2027년에 조성되는 ‘서울아산<b>청라<\/b>병원’의 차세대 의료 환경 구축을 위해 네이버클라우드가 병원 로봇 서비스 기술과 함께 이를 효과적으로 운용하기 위한 건축 설계 컨설팅을... ",
-			"pubDate":"Tue, 05 Jul 2022 11:02:00 +0900"
-		},
-		{
-			"title":"[오늘의 주요 사회 일정] 인천·김포·부천(7월5일 화요일)",
-			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=251739",
-			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=251739",
-			"description":"ONE-STPOP민원 기동대 발족식, 정보센터 1층 민원실 ▲오후 2시 인천경제청 <b>청라<\/b>의료복합타운 개발계획변경안 자문회의, 충북 오송 ▲오후 2시30분 도성훈 교육감 제2기 출범에 따른 기자회견, 정보센터 4층 대회의실",
 			"pubDate":"Tue, 05 Jul 2022 11:02:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2106285",
 			"description":"이어서 대구를 대표하는 작곡가 '박태준'의 곡, 대구 <b>청라<\/b>언덕 배경의 '동무생각'이 최초의 가곡임을 공식 선언하고 국내 정상급 아티스트들이 협업해 NFT형태로 WCIF에서 새롭게 발표하여 유네스코 음악창의도시... ",
 			"pubDate":"Mon, 04 Jul 2022 21:30:00 +0900"
-		},
-		{
-			"title":"원도심과 문화예술을 생각케 한 취임식",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=986457",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=986457",
-			"description":"최첨단 도시공법과 환경공학이 어우러져 국내 초유의 명실상부한 국제도시로 급부상 중인 송도·<b>청라<\/b>·영종지역은 대한민국의 새로운 먹을거리를 눈부시게 창조해 가는 반면 원도심은 상대적으로 열세를 면치 못하고 있는... ",
-			"pubDate":"Mon, 04 Jul 2022 21:20:00 +0900"
-		},
-		{
-			"title":"안하나 못하나… 스타필드 <b>청라<\/b> 1년째 제자리",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363548841",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363548841",
-			"description":"인천시 서구 <b>청라<\/b>국제도시에 건설하기로 한 스타필드 <b>청라<\/b> 공사가 1년여째 멈춰 선 가운데 공사 현장이 적막할 정도로 조용하다. 정선식기자 인천 <b>청라<\/b>국제도시에 들어서기로 한 '스타필드 <b>청라<\/b>' 건설이 1년여 간 제자리... ",
-			"pubDate":"Mon, 04 Jul 2022 20:14:00 +0900"
 		}
 	]
 }
