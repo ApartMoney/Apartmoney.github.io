@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 05 Jul 2022 10:00:02 +0900",
-	"total":181218,
+	"lastBuildDate":"Tue, 05 Jul 2022 10:10:02 +0900",
+	"total":181219,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"네이버클라우드, 서울아산병원과 `스마트 병원` 구축 MOU",
+			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2022070502109931820003&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002742330?sid=105",
+			"description":"네이버클라우는 또 <b>청라<\/b>의료복합타운 사업으로 2027년에 조성되는 '서울아산<b>청라<\/b>병원'의 차세대 의료 환경 구축을 위해 병원 로봇 서비스 기술과 건축 설계 컨설팅을 지원한다. 네이버의 기술 자회사인 네이버랩스와... ",
+			"pubDate":"Tue, 05 Jul 2022 10:02:00 +0900"
+		},
 		{
 			"title":"네이버클라우드, 서울아산병원과 스마트병원 구축 '맞손'",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/268EK4YPE0",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=55254",
 			"description":"송도, 영종, <b>청라<\/b>국제도시 등 인천경제자유구역(IFEZ) 지역이 지난 10년간 가속화된 발전을 진행한 것과 대비되면서 거주 주민들의 좌절감과 인구 유출 등 원도심 개발 정체 문제가 지역 균형발전의 큰 걸림돌이 돼 왔기... ",
 			"pubDate":"Mon, 04 Jul 2022 10:56:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 미추홀구 '시민공원역 어반비스타'...다세권 입지에 수요자 눈길",
-			"originallink":"http:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=940154",
-			"link":"http:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=940154",
-			"description":"분양시장이 실수요자 위주로 재편되면서 다세권 단지의 인기가 점차 높아지고 있는 추세다. 다양한 생활 인프라를 집 가까이에서 누릴 수 있는 입지 조건을 중시하는 성향이 강해졌기 때문이다. 일반적으로 수요자들이... ",
-			"pubDate":"Mon, 04 Jul 2022 10:36:00 +0900"
 		}
 	]
 }
