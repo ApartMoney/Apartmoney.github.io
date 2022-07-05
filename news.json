@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 05 Jul 2022 14:00:02 +0900",
-	"total":181256,
+	"lastBuildDate":"Tue, 05 Jul 2022 14:10:02 +0900",
+	"total":181258,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 공원 내 어린이 물놀이장 7곳 개장",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202207051403353317",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004862506?sid=102",
+			"description":"인천 서구는 여름철 도심 속 피서 공간으로 원신근린공원, <b>청라<\/b>늘푸른공원 등 공원 7곳에서 어린이 물놀이장을 오는 26알부터 운영한다고 5일 밝혔다. 서구는 공원 내 어린이 물놀이장을 그동안 코로나 감염 예방 차원에서... ",
+			"pubDate":"Tue, 05 Jul 2022 14:06:00 +0900"
+		},
+		{
+			"title":"네이버클라우드-서울아산병원, 클라우드 기반 ‘스마트 병원’ 청사진 그렸다",
+			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=241475",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002127947?sid=105",
+			"description":"또 <b>청라<\/b>의료복합타운 사업으로 2027년에 조성되는 ‘서울아산<b>청라<\/b>병원’의 차세대 의료 환경 구축을 위해 네이버클라우드는 병원 로봇 서비스 기술과 함께 이를 효과적으로 운용하기 위한 건축 설계 컨설팅을 지원한다.... ",
+			"pubDate":"Tue, 05 Jul 2022 14:00:00 +0900"
+		},
 		{
 			"title":"네이버클라우드-서울아산병원, 스마트 병원 구축 업무협약",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=900174",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005260007?sid=105",
 			"description":"조성중인 서울아산<b>청라<\/b>병원에 병원 로봇 지원 <b>청라<\/b>의료복합타운 사업으로 2027년에 조성되는 ‘서울아산<b>청라<\/b>병원’의 차세대 의료 환경 구축을 위해 네이버클라우드는 병원 로봇 서비스 기술과 함께 이를 효과적으로... ",
 			"pubDate":"Tue, 05 Jul 2022 11:08:00 +0900"
-		},
-		{
-			"title":"[오늘의 주요 사회 일정] 인천·김포·부천(7월5일 화요일)",
-			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=251739",
-			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=251739",
-			"description":"ONE-STPOP민원 기동대 발족식, 정보센터 1층 민원실 ▲오후 2시 인천경제청 <b>청라<\/b>의료복합타운 개발계획변경안 자문회의, 충북 오송 ▲오후 2시30분 도성훈 교육감 제2기 출범에 따른 기자회견, 정보센터 4층 대회의실",
-			"pubDate":"Tue, 05 Jul 2022 11:02:00 +0900"
-		},
-		{
-			"title":"서울아산병원, 네이버클라우드 손잡고 스마트병원 청사진 그린다",
-			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20220705105505",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002261494?sid=105",
-			"description":"또한, <b>청라<\/b>의료복합타운 사업으로 2027년에 조성되는 ‘서울아산<b>청라<\/b>병원’의 차세대 의료 환경 구축을 위해 네이버클라우드가 병원 로봇 서비스 기술과 함께 이를 효과적으로 운용하기 위한 건축 설계 컨설팅을... ",
-			"pubDate":"Tue, 05 Jul 2022 11:02:00 +0900"
 		}
 	]
 }
