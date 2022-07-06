@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 06 Jul 2022 15:30:02 +0900",
-	"total":181336,
+	"lastBuildDate":"Wed, 06 Jul 2022 15:40:02 +0900",
+	"total":181337,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[지속가능 인천] 지속 가능한 랜드마크 위한 제언",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1151651",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1151651",
+			"description":"송도와 <b>청라<\/b>, 영종국제도시에서도, 그리고 이제는 부두의 기능을 상실한 인천내항 1·8부두에 대한 재개발 계획을 세우면서 랜드마크를 언급한다. 여기서 언급하는 랜드마크는 대부분 거대한 빌딩이나 특정한 시설, 즉... ",
+			"pubDate":"Wed, 06 Jul 2022 15:32:00 +0900"
+		},
 		{
 			"title":"[민지야 놀자]정용진이 사랑하는 '노브랜드버거'…신세계의 영리한 야구 마케...",
 			"originallink":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022070614442307806",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newspim.com\/news\/view\/20220705001040",
 			"description":"나아가 네이버클라우드는 <b>청라<\/b>의료복합타운 사업으로 2027년에 조성되는 '서울아산<b>청라<\/b>병원'의 차세대 의료 환경 구축을 위해 병원 로봇 서비스 기술과 함께 건축 설계 컨설팅도 지원하기로 했다. 이는 네이버의... ",
 			"pubDate":"Tue, 05 Jul 2022 19:56:00 +0900"
-		},
-		{
-			"title":"야구장 찾은 용진이형, 유니폼 입고 제이릴라와 '인증샷'",
-			"originallink":"https:\/\/www.hankyung.com\/life\/article\/202207058570g",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004720683?sid=103",
-			"description":"정용진 부회장은 인천 <b>청라<\/b>에 돔구장을 건설하겠다고 밝히는 등 야구에 꾸준히 애정을 나타내고 있다. 올해 4월에는 SSG랜더스의 10연승을 기념해 삼성 라이온즈의 경기 시작을 알리는 시구를 하기도 했다. 스포츠와... ",
-			"pubDate":"Tue, 05 Jul 2022 19:44:00 +0900"
 		}
 	]
 }
