@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Jul 2022 17:30:02 +0900",
-	"total":181423,
+	"lastBuildDate":"Thu, 07 Jul 2022 17:40:02 +0900",
+	"total":181424,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천삼성썬더스, 인천 연합 써머리그 참가... 초등부 4학년 우승 '쾌거'",
+			"originallink":"http:\/\/basketkorea.com\/news\/newsview.php?ncode=1065601647815949",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=351&aid=0000059946",
+			"description":"이번 대회는 인천 청소년 수련관 스포츠센터 체육관에서 진행 되었으며, 인천삼성썬더스, <b>청라<\/b> 이글스, 일산 플레이짐 3개 클럽 200여 명의 선수가 참가한 대회였다. 가장 큰 목적은 각 클럽 간의 교류와 화합 도모였다.... ",
+			"pubDate":"Thu, 07 Jul 2022 17:35:00 +0900"
+		},
 		{
 			"title":"KLPGA 성유진, 후배 위해 유원골프재단에 장학금 2천만원 기부",
 			"originallink":"http:\/\/www.lkp.news\/news\/articleView.html?idxno=21770",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005261892?sid=101",
 			"description":"인천도 송도 신도시가 있는 연수구(-0.16%)와 <b>청라<\/b>국제도시·검단신도시가 위치한 서구(-0.09%)가 하락을 주도했다. 지방도 0.02% 떨어졌다. 대구(-0.19%)와 세종(-0.14%) 내림세도 이어졌다. 매물 적체가 이어지고 있고... ",
 			"pubDate":"Thu, 07 Jul 2022 14:01:00 +0900"
-		},
-		{
-			"title":"서울 아파트값 6주 연속 하락…강남구도 하락 전환",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022070711195871603",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005114464?sid=101",
-			"description":"연수구(-0.16%)는 가격 상승 피로감 있는 송도신도시 위주로, 서구(-0.09%)는 <b>청라<\/b>국제도시나 검단신도시 위주로, 계양구(-0.05%)는 계산·병방동 구축 위주로 하락하며 인천 전체 하락세 지속됐다. 경기도는 지난주 0.... ",
-			"pubDate":"Thu, 07 Jul 2022 14:00:00 +0900"
 		}
 	]
 }
