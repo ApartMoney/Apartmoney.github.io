@@ -1,9 +1,65 @@
 {
-	"lastBuildDate":"Thu, 07 Jul 2022 14:00:02 +0900",
-	"total":181393,
+	"lastBuildDate":"Thu, 07 Jul 2022 14:10:02 +0900",
+	"total":181401,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울 아파트값, 금리 인상 경계에 약세…강남구 하락 전환",
+			"originallink":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4222694",
+			"link":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4222694",
+			"description":"인천(-0.07%)은 신규 입주물량이 이어지는 가운데 연수구(-0.16%)가 송도 신도시 위주로, 서구(-0.09%)는 <b>청라<\/b>국제도시, 검단신도시 위주로 하락했다. 경기(-0.04%)는 이천시(0.25%)가 정주여건이 좋은 지역 위주로, 안성시... ",
+			"pubDate":"Thu, 07 Jul 2022 14:06:00 +0900"
+		},
+		{
+			"title":"서울 아파트값 6주째 '내리막'…서초만 나홀로 상승",
+			"originallink":"http:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=128144",
+			"link":"http:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=128144",
+			"description":"연수구(-0.16%)는 가격 상승 피로감 있는 송도신도시 위주로, 서구(-0.09%)는 <b>청라<\/b>국제도시나 검단신도시 위주로, 계양구(-0.05%)는 계산‧병방동 구축 위주로 집값이 떨어졌다. 경기(-0.05%→-0.04%) 아파트값도 전주보다... ",
+			"pubDate":"Thu, 07 Jul 2022 14:04:00 +0900"
+		},
+		{
+			"title":"KLPGA 성유진 프로, 후배 양성을 위해 유원골프재단에 장학금 2천만 원 기부",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2503731",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2503731",
+			"description":"성유진 선수는 지난달 5일 인천 베어즈베스트 <b>청라<\/b>에서 열린 KLPGA 투어 롯데오픈에서 생애 첫 우승을 차지해 유원골프재단에 우승상금의 일부를 기부하겠다고 밝힌 바 있다. 유원골프재단은 2017년, 골프존 엘리트... ",
+			"pubDate":"Thu, 07 Jul 2022 14:02:00 +0900"
+		},
+		{
+			"title":"쌓여가는 매물에 강남 집값도 떨어졌다…억 단위 하락 확산",
+			"originallink":"https:\/\/www.hankyung.com\/realestate\/article\/2022070729806",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004721453?sid=101",
+			"description":"인천은 송도국제도시가 있는 연수구가 0.16%, <b>청라<\/b>국제도시와 검단신도시가 있는 서구가 0.09% 하락했다. 연수구 동춘동 '하나' 전용 99㎡는 지난달 28일 3억3000만원에 손바뀜됐다. 직전 거래가인 지난해 11월... ",
+			"pubDate":"Thu, 07 Jul 2022 14:02:00 +0900"
+		},
+		{
+			"title":"송파구 제외 서울 전체 아파트 전세가격 보합·하락…경기침체 우려에 시장 위...",
+			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2022070710361092795e6e69892f_18",
+			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2022070710361092795e6e69892f_18",
+			"description":"연수구(-0.16%)는 가격 상승 피로감 있는 송도신도시 위주로, 서구(-0.09%)는 <b>청라<\/b>국제도시나 검단신도시... 17%)는 <b>청라<\/b>동이나 인근의 구축 단지 위주로 하락했다. 반면 경기 아파트 전세가격 하락폭은 지난주 –0.02... ",
+			"pubDate":"Thu, 07 Jul 2022 14:02:00 +0900"
+		},
+		{
+			"title":"서울 아파트값 6주째 하락…서초구만 2주째 올라",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220707010004006",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220707010004006",
+			"description":"연수구(-0.16%)는 가격 상승 피로감 있는 송도신도시 위주로 서구(-0.09%)는 <b>청라<\/b>국제도시나 검단신도시 위주로 하락하면서 인천 전체 집값이 내렸다. 지방 아파트값은 4주연속 하락했다.5대광역시(0.04%)와 세종(0.14%)이... ",
+			"pubDate":"Thu, 07 Jul 2022 14:02:00 +0900"
+		},
+		{
+			"title":"서울 아파트값 6주째 하락..서초구 상승 유일",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02456726632392224",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005261892?sid=101",
+			"description":"인천도 송도 신도시가 있는 연수구(-0.16%)와 <b>청라<\/b>국제도시·검단신도시가 위치한 서구(-0.09%)가 하락을 주도했다. 지방도 0.02% 떨어졌다. 대구(-0.19%)와 세종(-0.14%) 내림세도 이어졌다. 매물 적체가 지속되고, 급매물... ",
+			"pubDate":"Thu, 07 Jul 2022 14:01:00 +0900"
+		},
+		{
+			"title":"서울 아파트값 6주 연속 하락…강남구도 하락 전환",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022070711195871603",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005114464?sid=101",
+			"description":"연수구(-0.16%)는 가격 상승 피로감 있는 송도신도시 위주로, 서구(-0.09%)는 <b>청라<\/b>국제도시나 검단신도시 위주로, 계양구(-0.05%)는 계산·병방동 구축 위주로 하락하며 인천 전체 하락세 지속됐다. 경기도는 지난주 0.... ",
+			"pubDate":"Thu, 07 Jul 2022 14:00:00 +0900"
+		},
 		{
 			"title":"'마해영 단장' 13세 리틀야구, 월드시리즈 갑니다",
 			"originallink":"http:\/\/www.sportsq.co.kr\/news\/articleView.html?idxno=441667",
@@ -40,17 +96,17 @@
 			"pubDate":"Thu, 07 Jul 2022 13:34:00 +0900"
 		},
 		{
-			"title":"KLPGA 성유진 프로, 후배 양성 위해 유원골프재단에 장학금 2천만원 기부",
-			"originallink":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=167329",
-			"link":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=167329",
-			"description":"성유진 선수는 지난달 5일 인천 베어즈베스트 <b>청라<\/b>에서 열린 KLPGA 투어 롯데오픈에서 생애 첫 우승을 차지해 유원골프재단에 우승상금의 일부를 기부하겠다고 밝힌 바 있다. 유원골프재단은 2017년, 골프존 엘리트... ",
-			"pubDate":"Thu, 07 Jul 2022 13:18:00 +0900"
-		},
-		{
 			"title":"KLPGA 성유진 프로, 유원골프재단에 장학금 기부",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=932585",
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=932585",
 			"description":"성유진은 지난달 5일 인천 베어즈베스트 <b>청라<\/b>에서 열린 KLPGA 투어 롯데오픈에서 생애 첫 우승을 차지한 뒤 유원골프재단에 우승상금의 일부를 기부하겠다고 밝힌 바 있다. 유원골프재단은 2017년 골프존 엘리트... ",
+			"pubDate":"Thu, 07 Jul 2022 13:18:00 +0900"
+		},
+		{
+			"title":"KLPGA 성유진 프로, 후배 양성 위해 유원골프재단에 장학금 2천만원 기부",
+			"originallink":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=167329",
+			"link":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=167329",
+			"description":"성유진 선수는 지난달 5일 인천 베어즈베스트 <b>청라<\/b>에서 열린 KLPGA 투어 롯데오픈에서 생애 첫 우승을 차지해 유원골프재단에 우승상금의 일부를 기부하겠다고 밝힌 바 있다. 유원골프재단은 2017년, 골프존 엘리트... ",
 			"pubDate":"Thu, 07 Jul 2022 13:18:00 +0900"
 		},
 		{
@@ -157,62 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=470&aid=0000013799",
 			"description":"성유진은 지난달 5일 인천 베어즈베스트 <b>청라<\/b>에서 열린 KLPGA 투어 롯데오픈에서 우승을 차지했다. 2019년 KLPGA 정규투어 데뷔 후 73번째 대회 만에 거둔 쾌거였다. 성유진은 우승 당시 유원골프재단에 우승상금의 일부를... ",
 			"pubDate":"Thu, 07 Jul 2022 10:42:00 +0900"
-		},
-		{
-			"title":"보령시, 민선8기 93개 공약 이행 '시동'",
-			"originallink":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=272406",
-			"link":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=272406",
-			"description":"이날 보고회에서는 ▲웅천산업단지와 <b>청라<\/b>농공단지의 조기분양 및 우량기업 유치 ▲사회적 경제조직 육성 ▲행복택시 활성화 방안 ▲일·휴식·관광 공유 오피스(스마트 워케이션센터) 조성 ▲K-웰니스 도시 육성 관광... ",
-			"pubDate":"Thu, 07 Jul 2022 10:34:00 +0900"
-		},
-		{
-			"title":"유원골프재단, KLPGA 성유진 프로로부터 장학금 2천만 원 전달받아",
-			"originallink":"http:\/\/star.mt.co.kr\/stview.php?no=2022070710225847339",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/108\/0003068705?sid=004",
-			"description":"성유진 선수는 지난달 5일 인천 베어즈베스트 <b>청라<\/b>에서 열린 KLPGA 투어 롯데오픈에서 생애 첫 우승을 차지해 유원골프재단에 우승상금의 일부를 기부하겠다고 밝힌 바 있다. 유원골프재단은 2017년, 골프존 엘리트... ",
-			"pubDate":"Thu, 07 Jul 2022 10:27:00 +0900"
-		},
-		{
-			"title":"보령시, 민선 8기 시장 공약사항 추진계획 보고회 개최",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20220707010001092",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20220707010001092",
-			"description":"이날 보고회에서는 ▲웅천산업단지, <b>청라<\/b> 농공단지 조기 분양 및 우량기업 유치 ▲사회적 경제조직(사회적기업, 마을기업) 육성 ▲어르신 이동권 보호를 위한 행복택시 활성화 ▲어르신 일자리 사업 확대 ▲일·휴식... ",
-			"pubDate":"Thu, 07 Jul 2022 10:26:00 +0900"
-		},
-		{
-			"title":"인천 영종국제도시 주상복합, 7월 민간 사전청약 예정",
-			"originallink":"http:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=59839",
-			"link":"http:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=59839",
-			"description":"특히 단지 인근으로 영종국제도시 제3연륙교 건설(2025년 개통예정)이 예정되어 있어 <b>청라<\/b>국제도시와의 접근성이 향상될 전망이다. 관계자는 &quot;이번 사전청약 당첨자는 계약금을 본청약 시 납부하기 때문에 당장의... ",
-			"pubDate":"Thu, 07 Jul 2022 10:20:00 +0900"
-		},
-		{
-			"title":"풍부한 생활인프라 품은 인천 '서해그랑블 뉴어반' 조합원 모집",
-			"originallink":"http:\/\/www.jeonmin.co.kr\/news\/articleView.html?idxno=359081",
-			"link":"http:\/\/www.jeonmin.co.kr\/news\/articleView.html?idxno=359081",
-			"description":"인천의 경우 검단신도시, <b>청라<\/b>국제도시, 송도국제도시 등 굵직한 개발사업들이 진행되고 있는데다 계양지역은 계양산업단지, 서운일반산업단지, 계양테크노밸리 등 대규모 호재들이 예정돼 있어 완료 시 직장과... ",
-			"pubDate":"Thu, 07 Jul 2022 10:12:00 +0900"
-		},
-		{
-			"title":"탄탄한 배후수요 누린다.. 기업 몰린 지역 내 오피스텔 주목해야 하는 이유",
-			"originallink":"http:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=59838",
-			"link":"http:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=59838",
-			"description":"또 SK, 현대모비스, LG 등의 대기업들의 이전 러쉬가 이어지고 있는 <b>청라<\/b>국제도시에서 올해 2월 분양한 '<b>청라<\/b> 월드메르디앙 커낼웨이' 역시 총 112실 공급에 588명이 몰리면서 평균 5.25대 1의 청약경쟁률을 나타내며 높은... ",
-			"pubDate":"Thu, 07 Jul 2022 10:10:00 +0900"
-		},
-		{
-			"title":"KLPGA 성유진, 후배 위해 유원골프재단에 장학금 기부",
-			"originallink":"http:\/\/www.newspim.com\/news\/view\/20220707000173",
-			"link":"http:\/\/www.newspim.com\/news\/view\/20220707000173",
-			"description":"[사진= 유원골프재단] 성유진은 지난 6월5일 인천 베어즈베스트 <b>청라<\/b>에서 열린 KLPGA 투어 롯데오픈에서 생애 첫 우승을한후 우승상금의 일부를 기부하겠다고 밝힌 바 있다. 유원골프재단은 2017년, 골프존 엘리트... ",
-			"pubDate":"Thu, 07 Jul 2022 10:00:00 +0900"
-		},
-		{
-			"title":"KLPGA 성유진 프로, 유원골프재단에 '장학금 2천만 원 기부'",
-			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=262363",
-			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=262363",
-			"description":"성유진 선수 성유진 선수는 지난달 5일 인천 베어즈베스트 <b>청라<\/b>에서 열린 KLPGA 투어 롯데오픈에서 생애 첫 우승을 차지해 유원골프재단에 우승상금의 일부를 기부하겠다고 밝힌 바 있다. 유원골프재단은 2017년, 골프존... ",
-			"pubDate":"Thu, 07 Jul 2022 10:00:00 +0900"
 		}
 	]
 }
