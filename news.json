@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Jul 2022 18:30:02 +0900",
-	"total":181428,
+	"lastBuildDate":"Thu, 07 Jul 2022 18:40:02 +0900",
+	"total":181429,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대출난·고금리에 반년새 4억씩 뚝... 송도 전세값 반토막 속출",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89215",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89215",
+			"description":"<b>청라<\/b>국제도시와 영종국제도시가 있는 서구와 중구 전셋값도 이번 주 0.23%, 0.17%로 지난주 대비 하락폭이... 서구(-0.09%)는 <b>청라<\/b>국제도시와 검단신도시 위주로, 계양구(-0.05%)는 계산동과 병방동 구축 매물 위주로 각각... ",
+			"pubDate":"Thu, 07 Jul 2022 18:36:00 +0900"
+		},
 		{
 			"title":"인천 공항철도-서울 9호선 직결 청신호 켜지나…총리실 중재 받는다",
 			"originallink":"http:\/\/www.ifm.kr\/news\/339306",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=128144",
 			"description":"연수구(-0.16%)는 가격 상승 피로감 있는 송도신도시 위주로, 서구(-0.09%)는 <b>청라<\/b>국제도시나 검단신도시 위주로, 계양구(-0.05%)는 계산‧병방동 구축 위주로 집값이 떨어졌다. 경기(-0.05%→-0.04%) 아파트값도 전주보다... ",
 			"pubDate":"Thu, 07 Jul 2022 14:04:00 +0900"
-		},
-		{
-			"title":"강남구 아파트값 4개월만에 하락…서초구만 2주째 올라",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220707010004006",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220707010004006",
-			"description":"연수구(-0.16%)는 가격 상승 피로감 있는 송도신도시 위주로 서구(-0.09%)는 <b>청라<\/b>국제도시나 검단신도시 위주로 하락하면서 인천 전체 집값이 내렸다. 지방 아파트값은 4주연속 하락했다.5대광역시(0.04%)와 세종(0.14%)이... ",
-			"pubDate":"Thu, 07 Jul 2022 14:02:00 +0900"
 		}
 	]
 }
