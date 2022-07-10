@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 11 Jul 2022 05:30:02 +0900",
-	"total":181548,
+	"lastBuildDate":"Mon, 11 Jul 2022 05:40:02 +0900",
+	"total":181549,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"빅3 병원 불참에 병원계 충격 &quot;사업 선정되더라도 중도 포기&quot;",
+			"originallink":"https:\/\/www.medicaltimes.com\/Main\/News\/NewsView.html?ID=1148350&ref=naverpc",
+			"link":"https:\/\/www.medicaltimes.com\/Main\/News\/NewsView.html?ID=1148350&ref=naverpc",
+			"description":"세브란스병원은 송도에, 서울아산병원은 <b>청라<\/b>에 이미 분원 설립을 확정지은 상태로 의료진 확보가 필수이다.외래 감축 시 진료 교수와 간호사를 줄일 수밖에 없는 상황에서 분원 준비 과정에 차질일 발생할 수 있다.... ",
+			"pubDate":"Mon, 11 Jul 2022 05:36:00 +0900"
+		},
 		{
 			"title":"[종합] '구해줘! 홈즈' 테이&amp;김숙 '<b>청라<\/b> 삼창'으로 승리…송도&amp;<b>청라<\/b> '초특급'...",
 			"originallink":"http:\/\/www.topstarnews.net\/news\/articleView.html?idxno=14704496",
@@ -68,13 +75,6 @@
 			"pubDate":"Sun, 10 Jul 2022 18:46:00 +0900"
 		},
 		{
-			"title":"화려한 분수쇼에 더위 싹",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=987365",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=987365",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 이른 무더위가 이어지는 가운데 지난 9일 오후 인천시 서구 <b>청라<\/b>호수공원 음악분수 앞에서 시민들이 분수쇼를 보며 더위를 식혔다.",
-			"pubDate":"Sun, 10 Jul 2022 18:28:00 +0900"
-		},
-		{
 			"title":"에코크레이션 신사옥 준공식 폐비닐 리사이클링 사업 속도",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=987349",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=987349",
@@ -86,6 +86,13 @@
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=987339",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=987339",
 			"description":"뉴홍콩시티는 인천의 공항과 항만, 경제자유구역 등의 인프라를 활용해 영종도와 강화도, 송도·<b>청라<\/b>와 수도권매립지 등을 연계한 글로벌 금융허브를 조성하는 대형 프로젝트다. 시는 이러한 내용의 조직개편안을 마련해... ",
+			"pubDate":"Sun, 10 Jul 2022 18:28:00 +0900"
+		},
+		{
+			"title":"화려한 분수쇼에 더위 싹",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=987365",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=987365",
+			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 이른 무더위가 이어지는 가운데 지난 9일 오후 인천시 서구 <b>청라<\/b>호수공원 음악분수 앞에서 시민들이 분수쇼를 보며 더위를 식혔다.",
 			"pubDate":"Sun, 10 Jul 2022 18:28:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/408\/0000160737?sid=106",
 			"description":"두 사람은 인천 <b>청라<\/b>국제도시에 위치한 대단지 아파트를 소개한다. 아들 부부와 같은 동네로 <b>청라<\/b> 호수공원이 도보 3분 거리에 있는 이 매물은 최근 세련된 인테리어로 올 리모델링을 마쳤다고 해 기대를 모은다. 널찍한... ",
 			"pubDate":"Sun, 10 Jul 2022 09:14:00 +0900"
-		},
-		{
-			"title":"서울도시철도 7호선 <b>청라<\/b> 연장선 추가역...市, 1천200억 확보 ‘골머리’",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20220705580158",
-			"link":"https:\/\/www.kyeonggi.com\/article\/20220705580158",
-			"description":"7호선 <b>청라<\/b>국제도시 연장선 노선도. 인천시 제공 인천시가 유정복 시장의 공약인 서울도시철도 7호선 <b>청라<\/b>국제도시 연장선의 추가역 건립을 위한 1천200억원의 사업비 확보에 골머리를 앓고 있다. 올해 안에 사업비... ",
-			"pubDate":"Sun, 10 Jul 2022 08:44:00 +0900"
 		}
 	]
 }
