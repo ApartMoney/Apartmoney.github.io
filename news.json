@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 10 Jul 2022 10:10:02 +0900",
-	"total":181522,
+	"lastBuildDate":"Sun, 10 Jul 2022 10:20:03 +0900",
+	"total":181523,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"제9대 인천서구의회 개원… ‘책임의정, 열린의회’",
+			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220709010002254",
+			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220709010002254",
+			"description":"(더불어민주당, <b>청라<\/b>1,2동), 환경경제위원회 위원장 김춘수 의원(더불어민주당, 검암경서동·연희동)이 각각 선출됐다. 신임 의장으로 선출된 한승일 의장은 &quot; '구민에게 신뢰받는 책임의정, 열린의회'로 거듭나기 위한... ",
+			"pubDate":"Sun, 10 Jul 2022 10:10:00 +0900"
+		},
 		{
 			"title":"인천시, 민선8기 첫 조직개편안… 7월 11일 입법예고",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220709010002257",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ntoday.co.kr\/news\/articleView.html?idxno=92047",
 			"description":"신세계는 투자비 중 절반이 넘는 총 11조원을 오프라인 유통 사업 확대에 쓸 예정으로 스타필드 수원‧창원‧<b>청라<\/b> 등 신규 점포 출점에도 2조2000억원을 투자할 것으로 나타났다. 화성 테마파크 사업과 복합개발사업에는... ",
 			"pubDate":"Fri, 08 Jul 2022 23:52:00 +0900"
-		},
-		{
-			"title":"[대형마트 휴무일] 이마트·홈플러스·롯데마트·코스트코 7월할인상품 영업시...",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2504675",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2504675",
-			"description":"인천<b>청라<\/b>, 인하 • 경기 : 동수원, 병점, 부천상동, 북수원, 분당오리, 서수원, 송탄, 시화, 야탑, 영통, 원천, 의정부, 평택안중, 화성동탄, 화성향남 • 대구 : 내당, 대구수성, 동촌, 상인, 성서, 칠곡 • 경북\/울산... ",
-			"pubDate":"Fri, 08 Jul 2022 22:26:00 +0900"
 		}
 	]
 }
