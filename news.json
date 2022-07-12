@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 13 Jul 2022 08:10:02 +0900",
-	"total":181680,
+	"lastBuildDate":"Wed, 13 Jul 2022 08:20:02 +0900",
+	"total":181681,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"최원철의 부동산 경제 뉴스",
+			"originallink":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2022\/07\/13\/2022071300469.html",
+			"link":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2022\/07\/13\/2022071300469.html",
+			"description":"문제는 인천내 신도시인 <b>청라<\/b>, 검단 등에 저렴한 신축아파트 입주가 내년부터 매년 5천가구 이상 되어 전세물량도 폭증할 것이라고.. 이미 검단은 비어있는 아파트도 많다고 하죠? 하락할 수 밖에... 전국 아파트... ",
+			"pubDate":"Wed, 13 Jul 2022 08:16:00 +0900"
+		},
 		{
 			"title":"[더벨][금융사 DT 전략 돋보기]함영주 회장의 비전…디지털 전환으로 이어진다",
 			"originallink":"http:\/\/www.thebell.co.kr\/front\/free\/contents\/news\/article_view.asp?key=202207071022119200102942",
@@ -47,17 +54,17 @@
 			"pubDate":"Tue, 12 Jul 2022 20:42:00 +0900"
 		},
 		{
-			"title":"송도·영종·<b>청라<\/b> 국제도시 명칭 기념 축제 열린다",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1152574",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1152574",
-			"description":"인천 송도·영종·<b>청라<\/b> 경제자유구역의 '국제도시' 타이틀 사용을 기념해 올 하반기 관련 축제가 열린다. 인천경제자유구역청은 올해부터 3개 국제도시 지정 기념 문화행사를 각각 개최한다고 12일 밝혔다. <b>청라<\/b>... ",
-			"pubDate":"Tue, 12 Jul 2022 20:08:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>3동, 클린 업 데이 실시",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1152569",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1152569",
 			"description":"인천 서구 <b>청라<\/b>3동 행정복지센터는 지난 8일 포스코에너지, 한국전력 인천본부와 함께 지역 내 청소... 쓰레기 상습 투기지역이던 <b>청라<\/b>5단지 상가주택 크린넷 주변은 지난해 화단을 설치한 뒤 주민들의 자발적 관리로... ",
+			"pubDate":"Tue, 12 Jul 2022 20:08:00 +0900"
+		},
+		{
+			"title":"송도·영종·<b>청라<\/b> 국제도시 명칭 기념 축제 열린다",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1152574",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1152574",
+			"description":"인천 송도·영종·<b>청라<\/b> 경제자유구역의 '국제도시' 타이틀 사용을 기념해 올 하반기 관련 축제가 열린다. 인천경제자유구역청은 올해부터 3개 국제도시 지정 기념 문화행사를 각각 개최한다고 12일 밝혔다. <b>청라<\/b>... ",
 			"pubDate":"Tue, 12 Jul 2022 20:08:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.paxnetnews.com\/articles\/89117",
 			"description":"코스트코코리아는 오는 8월에 김해에 이어 내년에는 <b>청라<\/b>점을 열 것으로 알려졌다. 2024년 이후에는 서울 고척점과 전북 익산점도 검토하고 있다. 창고형 할인점 시장이 성장하면서 국내 업체들이 출점 전략을... ",
 			"pubDate":"Tue, 12 Jul 2022 08:16:00 +0900"
-		},
-		{
-			"title":"[핀테크핫이슈] 은행권 DID 기반 전자지갑 서비스 나올까",
-			"originallink":"http:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=452530",
-			"link":"http:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=452530",
-			"description":"하나금융티아이는 인천 <b>청라<\/b> 하나금융그룹 통합데이터센터에서 하나은행, LG CNS와 글로벌 뱅킹 시스템... 서구 <b>청라<\/b>동 하나금융그룹 통합데이터센터에서 글로벌 뱅킹 시스템 '뱅크하이브(BankHive)'  대외 확산을 위한... ",
-			"pubDate":"Tue, 12 Jul 2022 07:16:00 +0900"
 		}
 	]
 }
