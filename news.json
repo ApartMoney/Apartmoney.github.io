@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 12 Jul 2022 09:50:02 +0900",
-	"total":181601,
+	"lastBuildDate":"Tue, 12 Jul 2022 10:00:02 +0900",
+	"total":181602,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"“다시, 안전·건강!” 199개 안심여행지 리스트",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20220712000179",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002014440?sid=103",
+			"description":"1만세운동길, 동산<b>청라<\/b>언덕(근대골목), 금호강 오토캠핑장, 김광석스토리하우스(김광석 다시그리기길), 네이처파크&amp;스파밸리, 달서 별빛캠프 캠핑장, 대구 아쿠아리움, 동성로(스파크랜드), 동촌유원지 및 해맞이공원... ",
+			"pubDate":"Tue, 12 Jul 2022 09:51:00 +0900"
+		},
 		{
 			"title":"[더벨]한미글로벌운용, 첫 리츠에 '<b>청라<\/b> 리테일' 담는다",
 			"originallink":"http:\/\/www.thebell.co.kr\/front\/free\/contents\/news\/article_view.asp?key=202207111537030120106272",
@@ -75,13 +82,6 @@
 			"pubDate":"Mon, 11 Jul 2022 19:44:00 +0900"
 		},
 		{
-			"title":"인천시의회 &quot;유 시장, 에코랜드 지정 폐기는 성급&quot;",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1152331",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1152331",
-			"description":"서구 <b>청라<\/b>3동·당하동·오류왕길동·마전동 등 매립지 인근을 지역구로 두고 있는 이 의원 역시 지방선거 이후 급격하게 달라진 매립지 종료 정책에 대한 주민 우려를 대신 표한 셈이다. 한편 유 시장은 조성이 중단된... ",
-			"pubDate":"Mon, 11 Jul 2022 19:36:00 +0900"
-		},
-		{
 			"title":"7호선 <b>청라<\/b>연장선 역사 신설, 향후 추진 돔구장과 연계 검토",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1152325",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1152325",
@@ -89,17 +89,24 @@
 			"pubDate":"Mon, 11 Jul 2022 19:36:00 +0900"
 		},
 		{
-			"title":"인천 서북부 '도시철도 연장선' 순항...",
-			"originallink":"http:\/\/www.ifm.kr\/news\/339543",
-			"link":"http:\/\/www.ifm.kr\/news\/339543",
-			"description":"인천도시철도건설본부는 오늘(11일) 인천시의회 업무보고에서 &quot;'인천 1호선 검단연장선'과 '7호선 <b>청라<\/b>... 도시철도건설본부는 이를 해결하기 위해 7호선 <b>청라<\/b> 연장 사업과 함께 전동차 제작을 통합발주했고, '다원시스... ",
-			"pubDate":"Mon, 11 Jul 2022 18:08:00 +0900"
+			"title":"인천시의회 &quot;유 시장, 에코랜드 지정 폐기는 성급&quot;",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1152331",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1152331",
+			"description":"서구 <b>청라<\/b>3동·당하동·오류왕길동·마전동 등 매립지 인근을 지역구로 두고 있는 이 의원 역시 지방선거 이후 급격하게 달라진 매립지 종료 정책에 대한 주민 우려를 대신 표한 셈이다. 한편 유 시장은 조성이 중단된... ",
+			"pubDate":"Mon, 11 Jul 2022 19:36:00 +0900"
 		},
 		{
 			"title":"[B tv 인천뉴스] 7080 포크음악 · 전통춤 · 퓨전 국악… 다양한 장르 공연 ...",
 			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=143472",
 			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=143472",
 			"description":"오는 27일, 서구 <b>청라<\/b>블루노바홀에서 열리는 이번 공연에서 조엘라는 대중들에게 쉽게 다가갈 수 있는 여러 퓨전 국악 무대를 선보입니다. 재미있는 해설과 어우러진 신명나는 음악이 더위에 지친 관객들에게 특별한... ",
+			"pubDate":"Mon, 11 Jul 2022 18:08:00 +0900"
+		},
+		{
+			"title":"인천 서북부 '도시철도 연장선' 순항...",
+			"originallink":"http:\/\/www.ifm.kr\/news\/339543",
+			"link":"http:\/\/www.ifm.kr\/news\/339543",
+			"description":"인천도시철도건설본부는 오늘(11일) 인천시의회 업무보고에서 &quot;'인천 1호선 검단연장선'과 '7호선 <b>청라<\/b>... 도시철도건설본부는 이를 해결하기 위해 7호선 <b>청라<\/b> 연장 사업과 함께 전동차 제작을 통합발주했고, '다원시스... ",
 			"pubDate":"Mon, 11 Jul 2022 18:08:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207111012240830072",
 			"description":"(더불어민주당, <b>청라<\/b>1,2동), 환경경제위원회 위원장 김춘수 의원(더불어민주당, 검암경서동·연희동)이 각각 선출됐다. 신임 의장으로 선출된 한승일 의장은 “ ‘구민에게 신뢰받는 책임의정, 열린의회’로 거듭나기... ",
 			"pubDate":"Mon, 11 Jul 2022 13:22:00 +0900"
-		},
-		{
-			"title":"‘<b>청라<\/b> 더리브 티아모 까사’ 청약일정 돌입",
-			"originallink":"http:\/\/www.sentv.co.kr\/news\/view\/624549",
-			"link":"http:\/\/www.sentv.co.kr\/news\/view\/624549",
-			"description":"<b>청라<\/b>국제도시에 위치한 <b>청라<\/b> 커낼웨이를 바로 앞에서 누릴 수 있는 ‘<b>청라<\/b> 더리브 티아모 까사’가 견본주택을 개관하고 본격 청약일정에 돌입했다고 밝혔다.인천 서구 <b>청라<\/b>국제도시 <b>청라<\/b>동 일원에 들어서는 ‘<b>청라<\/b>... ",
-			"pubDate":"Mon, 11 Jul 2022 13:06:00 +0900"
 		}
 	]
 }
