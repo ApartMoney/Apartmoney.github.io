@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 14 Jul 2022 20:50:02 +0900",
-	"total":181864,
+	"lastBuildDate":"Thu, 14 Jul 2022 21:00:02 +0900",
+	"total":181865,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"어떤 세계 초일류 인천일까?",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=988050",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=988050",
+			"description":"<b>청라<\/b> 아파트 단지의 한 도서관에서 지역 환경에 대해 강연할 기회가 있었다. 신청자는 많아도 5차례 이어진 강연을 한 번도 빠지지 않은 수강자는 거의 없었다. 퇴근 이후 시간을 맞추지 못했다며 미안해하던 수강자는... ",
+			"pubDate":"Thu, 14 Jul 2022 20:52:00 +0900"
+		},
 		{
 			"title":"김교흥 의원 &quot;9호선-공항철도 직결 협상, 국무조정실이 나서달라&quot;",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220714010002687",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=902409",
 			"description":"청년 일자리 창출 및 지역경제 활성화에도 역점을 두고 웅천산업단지와 <b>청라<\/b>농공단지 내 우량기업을 유치해 신속하게 분양 완료될 수 있도록 추진해 나가고자 한다. 아울러 그동안 중부권 500만 주민에게 &quot;보령의 바다를... ",
 			"pubDate":"Thu, 14 Jul 2022 15:24:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행",
-			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=505749",
-			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=505749",
-			"description":"조장원 ▲인천<b>청라<\/b> 조한규 ▲서울대입구역 주대성 ▲광교신도시 최은지 ▲대덕테크노밸리 최장희 ▲시흥동 하상국 ▲송탄 한승봉 ▲남서울 함진식 ▲미금역금융센터 홍기인 ▲서산 겸 서산지원 홍종만 ◇ RM ▲이수역... ",
-			"pubDate":"Thu, 14 Jul 2022 15:22:00 +0900"
 		}
 	]
 }
