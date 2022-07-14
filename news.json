@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 14 Jul 2022 18:20:02 +0900",
-	"total":181860,
+	"lastBuildDate":"Thu, 14 Jul 2022 18:30:02 +0900",
+	"total":181861,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인사 종합 \/ 7월 14일",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2153838",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2153838",
+			"description":"조장원 △인천<b>청라<\/b> 조한규 △서울대입구역 주대성 △광교신도시 최은지 △대덕테크노밸리 최장희 △시흥동 하상국 △송탄 한승봉 △남서울 함진식 △미금역금융센터 홍기인 △서산 겸 서산지원 홍종만 ◇RM △이수역... ",
+			"pubDate":"Thu, 14 Jul 2022 18:22:00 +0900"
+		},
 		{
 			"title":"[인사] 하나은행",
 			"originallink":"http:\/\/www.apnews.kr\/news\/articleView.html?idxno=3003742",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003715158?sid=102",
 			"description":"조장원 △인천<b>청라<\/b> 조한규 △서울대입구역 주대성 △광교신도시 최은지 △대덕테크노밸리 최장희 △시흥동 하상국 △송탄 한승봉 △남서울 함진식 △미금역금융센터 홍기인 △서산 겸 서산지원 홍종만 ◆RM 전보... ",
 			"pubDate":"Thu, 14 Jul 2022 15:13:00 +0900"
-		},
-		{
-			"title":"김교흥, 국무조정실장 만나 &quot;공항철도·서울9호선 직결 조정&quot; 주문",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=220019",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=220019",
-			"description":"서울9호선과 공항철도는 김포공항역에서 만나는데 직결되면 환승 없이 인천공항에서부터 <b>청라<\/b>를 거쳐 김포공항과 서울 강남권의 쌍방향 통행이 가능하다. 앞서 서울시는 9호선 플랫폼과 터널 확장공사를 마쳤고, 건넘선... ",
-			"pubDate":"Thu, 14 Jul 2022 15:08:00 +0900"
 		}
 	]
 }
