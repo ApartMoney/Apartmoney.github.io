@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 15 Jul 2022 09:30:02 +0900",
-	"total":181910,
+	"lastBuildDate":"Fri, 15 Jul 2022 09:40:02 +0900",
+	"total":181912,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 아파트 시장 하향세 뚜렷... 하반기도 '먹구름'",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89381",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89381",
+			"description":"사진=인천경제자유구역청 송도국제도시와 함께 집값이 급등했던 <b>청라<\/b>국제도시 역시 상당수 매물이 상승분을 반납한 모습이다. <b>청라<\/b>의 대표적인 대장주로 꼽히는 '<b>청라<\/b>국제금융단지한양수자인레이크블루' 전용 59.... ",
+			"pubDate":"Fri, 15 Jul 2022 09:30:00 +0900"
+		},
+		{
+			"title":"[대형마트 휴무일] '온라인배송 찬반' 이마트·홈플러스·롯데마트·코스트코...",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2508998",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2508998",
+			"description":"인천<b>청라<\/b>, 인하 • 경기 : 동수원, 병점, 부천상동, 북수원, 분당오리, 서수원, 송탄, 시화, 야탑, 영통, 원천, 의정부, 평택안중, 화성동탄, 화성향남 • 대구 : 내당, 대구수성, 동촌, 상인, 성서, 칠곡 • 경북\/울산... ",
+			"pubDate":"Fri, 15 Jul 2022 09:30:00 +0900"
+		},
 		{
 			"title":"SK에코플랜트, <b>청라<\/b>국제도시에 지식산업센터 ‘<b>청라<\/b> SK V1’ 8월 분양",
 			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=2022071509070946802d2db879fd_23",
@@ -12,17 +26,17 @@
 			"pubDate":"Fri, 15 Jul 2022 09:14:00 +0900"
 		},
 		{
-			"title":"2세 홍정혁이 이끄는 BGF에코바이오, 화이트바이오 육성 업무협약",
-			"originallink":"https:\/\/biz.chosun.com\/distribution\/channel\/2022\/07\/15\/B4BHCNYO6NDHNJMTRHO4X7NILA\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000827711?sid=101",
-			"description":"올해 인천 <b>청라<\/b>에 국내 최대 규모(1만5623㎡, 4700평)의 화이트바이오 R&amp;D 센터 및 제조 공장을 준공했다. BGF는 이달 초 소재 부문 사업의 경쟁력 강화를 위해 BGF에코바이오를 엔지니어링 플라스틱 제조 기업인 또다른... ",
-			"pubDate":"Fri, 15 Jul 2022 09:12:00 +0900"
-		},
-		{
 			"title":"인구 증가세 상위 10개 지역 신규 분양 기대감",
 			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1538539\/?sc=Naver",
 			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1538539\/?sc=Naver",
 			"description":"DL건설은 9월 인천광역시 서구 <b>청라<\/b>동에 'e편한세상 시티 <b>청라<\/b>' 주거형 오피스텔을 분양 예정이다. 단지는 지하 3층~지상 21층, 2개 동, 전용면적 72~73㎡ 총 240실 규모다. 초등학교를 도보로 통학할 수 있고 <b>청라<\/b>... ",
+			"pubDate":"Fri, 15 Jul 2022 09:12:00 +0900"
+		},
+		{
+			"title":"2세 홍정혁이 이끄는 BGF에코바이오, 화이트바이오 육성 업무협약",
+			"originallink":"https:\/\/biz.chosun.com\/distribution\/channel\/2022\/07\/15\/B4BHCNYO6NDHNJMTRHO4X7NILA\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000827711?sid=101",
+			"description":"올해 인천 <b>청라<\/b>에 국내 최대 규모(1만5623㎡, 4700평)의 화이트바이오 R&amp;D 센터 및 제조 공장을 준공했다. BGF는 이달 초 소재 부문 사업의 경쟁력 강화를 위해 BGF에코바이오를 엔지니어링 플라스틱 제조 기업인 또다른... ",
 			"pubDate":"Fri, 15 Jul 2022 09:12:00 +0900"
 		},
 		{
@@ -68,10 +82,10 @@
 			"pubDate":"Fri, 15 Jul 2022 08:52:00 +0900"
 		},
 		{
-			"title":"SK에코플랜트 '<b>청라<\/b> SK V1' 내달 분양",
-			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1538518\/?sc=Naver",
-			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1538518\/?sc=Naver",
-			"description":"SK에코플랜트가 오는 8월 인천 서구 <b>청라<\/b>국제도시에 지식산업센터 '<b>청라<\/b> SK V1'을 분양할 예정이라고 15일 밝혔다. <b>청라<\/b> SK V1은 인천광역시 서구 <b>청라<\/b>동 202-2번지에 들어서며, 지하 2층~지상 10층, 연면적 약 12만6022.25... ",
+			"title":"BGF에코바이오, 산학연 업무협약…화이트바이오 산업 육성 나선다",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4742975",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006219014?sid=101",
+			"description":"또 올해 인천 <b>청라<\/b>에 국내 최대 규모의 화이트바이오 R&amp;D 센터 및 제조 공장을 준공해 국내외 시장 수요에 대응 할 수 있는 경쟁력도 갖추고 있다. 한편 BGF그룹의 지주사인 BGF는 이달 초 소재 부문 사업의 경쟁력... ",
 			"pubDate":"Fri, 15 Jul 2022 08:28:00 +0900"
 		},
 		{
@@ -82,10 +96,10 @@
 			"pubDate":"Fri, 15 Jul 2022 08:28:00 +0900"
 		},
 		{
-			"title":"BGF에코바이오, 산학연 업무협약…화이트바이오 산업 육성 나선다",
-			"originallink":"https:\/\/www.news1.kr\/articles\/?4742975",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006219014?sid=101",
-			"description":"또 올해 인천 <b>청라<\/b>에 국내 최대 규모의 화이트바이오 R&amp;D 센터 및 제조 공장을 준공해 국내외 시장 수요에 대응 할 수 있는 경쟁력도 갖추고 있다. 한편 BGF그룹의 지주사인 BGF는 이달 초 소재 부문 사업의 경쟁력... ",
+			"title":"SK에코플랜트 '<b>청라<\/b> SK V1' 내달 분양",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1538518\/?sc=Naver",
+			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1538518\/?sc=Naver",
+			"description":"SK에코플랜트가 오는 8월 인천 서구 <b>청라<\/b>국제도시에 지식산업센터 '<b>청라<\/b> SK V1'을 분양할 예정이라고 15일 밝혔다. <b>청라<\/b> SK V1은 인천광역시 서구 <b>청라<\/b>동 202-2번지에 들어서며, 지하 2층~지상 10층, 연면적 약 12만6022.25... ",
 			"pubDate":"Fri, 15 Jul 2022 08:28:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004724382?sid=102",
 			"description":"조장원▷인천<b>청라<\/b> 조한규▷서울대입구역 주대성▷광교신도시 최은지▷대덕테크노밸리 최장희▷시흥동 하상국▷송탄 한승봉▷남서울 함진식▷미금역금융센터 홍기인▷서산 겸 서산지원 홍종만 ◈국세청◎전보... ",
 			"pubDate":"Thu, 14 Jul 2022 18:06:00 +0900"
-		},
-		{
-			"title":"[인사] 총리실 \/ 기획재정부 \/ 국세청 등",
-			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=622809&year=2022",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004991664?sid=102",
-			"description":"조장원 △인천<b>청라<\/b> 조한규 △서울대입구역 주대성 △광교신도시 최은지 △대덕테크노밸리 최장희 △시흥동 하상국 △송탄 한승봉 △남서울 함진식 △미금역금융센터 홍기인 △서산 겸 서산지원 홍종만 ◇RM 전보... ",
-			"pubDate":"Thu, 14 Jul 2022 17:54:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행",
-			"originallink":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065588239678051",
-			"link":"http:\/\/thepublic.kr\/news\/newsview.php?ncode=1065588239678051",
-			"description":"조장원 ▲인천<b>청라<\/b> 조한규 ▲서울대입구역 주대성 ▲광교신도시 최은지 ▲대덕테크노밸리 최장희 ▲시흥동 하상국 ▲송탄 한승봉 ▲남서울 함진식 ▲미금역금융센터 홍기인 ▲서산 겸 서산지원 홍종만 ◇ RM ▲이수역... ",
-			"pubDate":"Thu, 14 Jul 2022 17:42:00 +0900"
 		}
 	]
 }
