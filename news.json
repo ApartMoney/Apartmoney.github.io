@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 16 Jul 2022 22:00:02 +0900",
-	"total":181971,
+	"lastBuildDate":"Sat, 16 Jul 2022 22:10:02 +0900",
+	"total":181972,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 서구, 오는 23일부터 어린이 물놀이장 개장",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286229819081",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286229819081",
+			"description":"경서근린공원, <b>청라<\/b>늘푸른공원, 당하1호근린공원, 대촌공원)에서 진행할 예정이었으나 검단신도시 도담공원을 추가하며 총 8곳에서 운영한다. 또한 인천시에서 <b>청라<\/b>호수공원과 경명공원에 어린이 물놀이장을... ",
+			"pubDate":"Sat, 16 Jul 2022 22:06:00 +0900"
+		},
 		{
 			"title":"[맛있는 부동산] 인구 감소세 속 인구 성장지 신규 분양 주목",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202207161439447393",
@@ -125,7 +132,7 @@
 		},
 		{
 			"title":"SK에코플랜트, <b>청라<\/b>에 지식산업센터 'SK V1' 8월 분양",
-			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202207150251&t=NN",
+			"originallink":"",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001043006?sid=101",
 			"description":"SK에코플랜트가 인천 서구 <b>청라<\/b>국제도시에 지식산업센터 '<b>청라<\/b> SK V1'을 다음달(8월) 분양한다고 15일 밝혔다. <b>청라<\/b> SK V1은 인천광역시 서구 <b>청라<\/b>동에 지하 2층~지상 10층, 연면적 약 126,022㎡ 규모로 지어진다.... ",
 			"pubDate":"Fri, 15 Jul 2022 16:29:00 +0900"
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011307428?sid=102",
 			"description":"그러면서 &quot;영종국제도시뿐만 아니라 인천시교육청이 중투심에 상정한 송도·<b>청라<\/b>국제도시, 검단신도시 등의 5개 신설 학교 모두 승인 결정 날 수 있도록 최선을 다해 지원하겠다&quot;고 말했다.",
 			"pubDate":"Fri, 15 Jul 2022 15:04:00 +0900"
-		},
-		{
-			"title":"SK에코플랜트, 지식산업센터 '<b>청라<\/b> SK V1' 8월 분양",
-			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000071844?division=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000294744?sid=101",
-			"description":"SK에코플랜트가 오는 8월 인천 서구 <b>청라<\/b>국제도시에 지식산업센터 <b>청라<\/b> SK V1을 분양할 예정이라고 오늘(15일) 밝혔습니다. <b>청라<\/b> SK V1은 인천광역시 서구 <b>청라<\/b>동 일대에 지어지는 지하 2층~지상 10층, 연면적 약 12만6022.25... ",
-			"pubDate":"Fri, 15 Jul 2022 14:44:00 +0900"
 		}
 	]
 }
