@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 17 Jul 2022 13:00:02 +0900",
-	"total":181978,
+	"lastBuildDate":"Sun, 17 Jul 2022 13:10:02 +0900",
+	"total":181979,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[여의도 통신] 왜 경인선 지하화인가",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1153075",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1153075",
+			"description":"송도, 영종, <b>청라<\/b> 등 바다를 메워 시역을 넓힌 '확장도시 인천'의 시작일지도 모르겠다. 급속한 산업화는... 2000년대엔 연수, 구월·만수, 계산에, 2010년대엔 송도·<b>청라<\/b>·영종과 검단에 사람이 모이기 시작했다. 새로운... ",
+			"pubDate":"Sun, 17 Jul 2022 13:04:00 +0900"
+		},
 		{
 			"title":"&lt;아파트 실거래&gt; 동작구 흑석동양아파트 전용면적 84.99㎡ 11억4000만원 거래",
 			"originallink":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=161724",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.sisajournal-e.com\/news\/articleView.html?idxno=280397",
 			"description":"현재 하나은행은 인천 <b>청라<\/b>국제도시에 그룹 차원의 '하나드림타운' 조성을 앞세워 하나금융그룹 본사... 하나금융그룹은 인천 서구 <b>청라<\/b>국제도시에 주요 계열사와 시설들을 한데 모으는 '하나드림타운' 조성 사업을... ",
 			"pubDate":"Fri, 15 Jul 2022 15:52:00 +0900"
-		},
-		{
-			"title":"[인사]하나은행",
-			"originallink":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296706",
-			"link":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=296706",
-			"description":"조장원 ▲인천<b>청라<\/b> 조한규 ▲서울대입구역 주대성 ▲광교신도시 최은지 ▲대덕테크노밸리 최장희 ▲시흥동 하상국 ▲송탄 한승봉 ▲남서울 함진식 ▲미금역금융센터 홍기인 ▲서산 겸 서산지원 홍종만 ◇ RM ▲이수역... ",
-			"pubDate":"Fri, 15 Jul 2022 15:45:00 +0900"
 		}
 	]
 }
