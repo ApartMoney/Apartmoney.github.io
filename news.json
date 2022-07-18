@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 18 Jul 2022 20:00:02 +0900",
-	"total":182036,
+	"lastBuildDate":"Mon, 18 Jul 2022 20:10:02 +0900",
+	"total":182037,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"오전 6시부터 공사장 망치 소리… 새벽잠 빼앗긴 가정2 인근 주민",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220718010003095",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220718010003095",
+			"description":"가정2지구 공공주택지구는 서구 가정동, 심곡동, 연희동, <b>청라<\/b>동 일원 26만2천㎡ 규모다. 이곳엔 공공임대주택인 행복주택, 민간주택 등 총 2천422가구가 들어설 예정이다.  현재는 510가구·246가구 규모의 행복주택 공사가... ",
+			"pubDate":"Mon, 18 Jul 2022 20:08:00 +0900"
+		},
 		{
 			"title":"SK에코플랜트, 8월 지식산업센터 ‘<b>청라<\/b> SK V1’ 분양",
 			"originallink":"https:\/\/economist.co.kr\/2022\/07\/18\/realEstate\/parcelOut\/20220718191246637.html",
@@ -12,17 +19,17 @@
 			"pubDate":"Mon, 18 Jul 2022 19:13:00 +0900"
 		},
 		{
-			"title":"인천경제청, 규제샌드박스로 기업지원 확대 “호응 커져”",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=04031126632395832",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005271194?sid=102",
-			"description":"인천경제청은 앞으로 송도 외에도 <b>청라<\/b>·영종까지 인천경제자유구역 전체 기업을 대상으로 규제샌드박스 설명회를 열고 각종 규제유예 등을 지원하도록 사업을 확대할 계획이다. 앞서 인천경제청은 지난해 5월 진흥원과... ",
-			"pubDate":"Mon, 18 Jul 2022 19:10:00 +0900"
-		},
-		{
 			"title":"LH, 하반기 인천·경기서북권에 주택 9067호 공급",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1153337",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1153337",
 			"description":"LH인천지역본부는 &quot;공공분양에 관심이 있는 무주택 실수요자들은 제3연륙교 착공으로 향후 <b>청라<\/b>국제도시와의 접근성이 크게 향상되는 인천 영종지구 3개 블록 공급을 눈여겨 볼만하다&quot;며 &quot;3개 블록 단지들은... ",
+			"pubDate":"Mon, 18 Jul 2022 19:10:00 +0900"
+		},
+		{
+			"title":"인천경제청, 규제샌드박스로 기업지원 확대 “호응 커져”",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=04031126632395832",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005271194?sid=102",
+			"description":"인천경제청은 앞으로 송도 외에도 <b>청라<\/b>·영종까지 인천경제자유구역 전체 기업을 대상으로 규제샌드박스 설명회를 열고 각종 규제유예 등을 지원하도록 사업을 확대할 계획이다. 앞서 인천경제청은 지난해 5월 진흥원과... ",
 			"pubDate":"Mon, 18 Jul 2022 19:10:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0000833477?sid=101",
 			"description":"SK에코플랜트가 오는 8월 인천광역시 서구 <b>청라<\/b>국제도시에 지식산업센터 '<b>청라<\/b> SK V1'을 분양할 예정이다. <b>청라<\/b> SK V1은 서구 <b>청라<\/b>동 202-2번지에 들어서는 지하 2층~지상 10층, 연면적 약 12만6022㎡ 규모에 지식산업센터다.... ",
 			"pubDate":"Mon, 18 Jul 2022 11:14:00 +0900"
-		},
-		{
-			"title":"SK에코플랜트,4차 비즈니스 거점도시 <b>청라<\/b>에 ‘<b>청라<\/b> SK V1’ 8월 분양 예정",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20220718010002863",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20220718010002863",
-			"description":"SK에코플랜트가 오는 8월 인천 서구 <b>청라<\/b>국제도시에 지식산업센터 <b>청라<\/b> SK V1을 분양할 예정이라고 18일 밝혔다. <b>청라<\/b> SK V1은 인천광역시 서구 <b>청라<\/b>동 일원에 들어서며, 지하 2층~지상 10층, 연면적 약 12만6022.25... ",
-			"pubDate":"Mon, 18 Jul 2022 11:12:00 +0900"
 		}
 	]
 }
