@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 20 Jul 2022 06:30:02 +0900",
-	"total":182074,
+	"lastBuildDate":"Wed, 20 Jul 2022 06:40:02 +0900",
+	"total":182075,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 아파트 매매-전세가, 민간통계서 3년 만에 동반 '하락'",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220718_0001946963&cID=10401&pID=10400",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011314735?sid=101",
+			"description":"22% 2019년 이후 약 3년 만 매매-전세 동반 하락 고가 아파트 밀집한 송도·<b>청라<\/b>서도 하락 거래 &quot;단기급등... 인천에서 고가 아파트가 밀집한 송도와 <b>청라<\/b>에서는 최근 하락 거래가 속속 나오고 있다. 국토교통부... ",
+			"pubDate":"Wed, 20 Jul 2022 06:30:00 +0900"
+		},
 		{
 			"title":"[인천판\/게시판]인천 外",
 			"originallink":"https:\/\/www.donga.com\/news\/article\/all\/20220719\/114536792\/1",
@@ -54,17 +61,17 @@
 			"pubDate":"Tue, 19 Jul 2022 20:10:00 +0900"
 		},
 		{
-			"title":"한국은행 인천본부 경제 세미나 &quot;바이오 고부가화…지역혁신기반 구축을&quot;",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1153523",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1153523",
-			"description":"마지막 세션에서는 최은지 한국은행 인천본부 과장이 '인천지역 내 군·구별 성장 불균형 현황 및 시사점'이라는 주제로, 송도·<b>청라<\/b>·영종 경제자유구역을 중심으로 한 신성장지역과 그 외 기타지역으로 나눠 경제성장률... ",
-			"pubDate":"Tue, 19 Jul 2022 19:46:00 +0900"
-		},
-		{
 			"title":"신도심 신축 원도심 폐쇄 위기…적십자 북부봉사관 차별 논란",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1153521",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1153521",
 			"description":"지난 4월20일 인천 서구 <b>청라<\/b>동 155번지 일대에서 열린 '대한적십자사 인천지사 북부봉사관의 신축 기공식'에서 내외빈들과 봉사원들이 기공식을 함께하고 있다. 2023년 4월 준공 목표로 <b>청라<\/b>국도시안에 신축되는... ",
+			"pubDate":"Tue, 19 Jul 2022 19:46:00 +0900"
+		},
+		{
+			"title":"한국은행 인천본부 경제 세미나 &quot;바이오 고부가화…지역혁신기반 구축을&quot;",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1153523",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1153523",
+			"description":"마지막 세션에서는 최은지 한국은행 인천본부 과장이 '인천지역 내 군·구별 성장 불균형 현황 및 시사점'이라는 주제로, 송도·<b>청라<\/b>·영종 경제자유구역을 중심으로 한 신성장지역과 그 외 기타지역으로 나눠 경제성장률... ",
 			"pubDate":"Tue, 19 Jul 2022 19:46:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002622183?sid=101",
 			"description":"SK에코플랜트가 오는 8월 인천 서구 <b>청라<\/b>국제도시에 지식산업센터 '<b>청라<\/b> SK V1'을 분양할 예정이다. 인천 서구 <b>청라<\/b>동 202-2번지에 들어서는 이곳 지식산업센터는 지하 2층~지상 10층, 연면적 약 12만6022.25㎡ 규모에... ",
 			"pubDate":"Tue, 19 Jul 2022 10:37:00 +0900"
-		},
-		{
-			"title":"인천시 일자리 환경개선 위해 직주근접성 높여야",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207190951474710067",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202207190951474710067",
-			"description":"생활권별 직주근접성 분석결과, 원도심의 일자리는 일반적으로 급여에 비하여 주택가격이 높아 직주근접성이 낮으며, 송도, 영종, 연수남동, <b>청라<\/b>권역은 주택가격 부담 정도가 낮아 직주근접성이 높다는 것을 보여주었다.... ",
-			"pubDate":"Tue, 19 Jul 2022 10:32:00 +0900"
 		}
 	]
 }
