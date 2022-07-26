@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 26 Jul 2022 20:20:02 +0900",
-	"total":182282,
+	"lastBuildDate":"Tue, 26 Jul 2022 20:30:02 +0900",
+	"total":182284,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 산업부 평가 '4년연속 최고등급'",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220726010004653",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220726010004653",
+			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터... <b>청라<\/b>국제도시도 현대모비스의 수소 생산시설 유치와 BMW 모빌리티 R&amp;D시설 건립 사업 추진 등으로 수소... ",
+			"pubDate":"Tue, 26 Jul 2022 20:20:00 +0900"
+		},
 		{
 			"title":"인천 <b>청라<\/b> 주민들, <b>청라<\/b>시티타워 사업 지연에 감사원 공익감사 청구 및 집단 ...",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20220726580159",
@@ -17,6 +24,13 @@
 			"link":"https:\/\/www.kyeonggi.com\/article\/20220726580158",
 			"description":"앞서 2006년부터 인천경제청은 1~5공구 및 6~8공구를 비롯해 <b>청라<\/b>국제도시 및 영종까지 모든 경제자유구역에 크린넷을 설치·운영하고 있다. 특히 인천경제청이 구의 반대를 명분삼아 11공구의 크린넷 설치를 하지... ",
 			"pubDate":"Tue, 26 Jul 2022 18:22:00 +0900"
+		},
+		{
+			"title":"[인터뷰] 맹성규 더불어민주당 인천시당위원장 후보 &quot;국민들의 신뢰회복 절실...",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363551914",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363551914",
+			"description":"GTX-B노선 건설비(803억 원), 지하철7호선 <b>청라<\/b>연장 사업비(724억 원) 등이 반영되게끔 기획재정부에 건의한데 이어 신규 및 증액 반영도 이끌어 냈다. 특히 여·야가 원활하게 소통해서 타협하고 협치할 수 있도록 중간자... ",
+			"pubDate":"Tue, 26 Jul 2022 18:14:00 +0900"
 		},
 		{
 			"title":"[인터뷰] 김교흥 더불어민주당 인천시당위원장 후보 &quot;민주당 불꽃 인천서 되살...",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89557",
 			"description":"인천에는 인천아트플랫폼과 트라이보울, 아트센터인천, 인천서구문화회관, <b>청라<\/b>블루노바홀, 부평아트센터 등 문화·예술 시설이 곳곳에 산재해 있다. 다양한 문화·예술 시설에서 전시와 행사가 개최되고 있다. 이에 대해... ",
 			"pubDate":"Mon, 25 Jul 2022 15:12:00 +0900"
-		},
-		{
-			"title":"인천서부소방서, 공사 현장 '소소심+소방안전교육' 실시",
-			"originallink":"http:\/\/fpn119.co.kr\/181361",
-			"link":"http:\/\/fpn119.co.kr\/181361",
-			"description":"= 인천서부소방서(서장 송태철)는 지난 21일 <b>청라<\/b>국제도시 아이파크 공사 현장 현대산업개발 관계자를 대상으로 찾아가는 '소소심+소방안전교육'을 실시했다고 밝혔다. 이번 교육은 관계자 50명을 대상으로... ",
-			"pubDate":"Mon, 25 Jul 2022 15:04:00 +0900"
-		},
-		{
-			"title":"인천 서구, 제2회 우리 동네 팝업 놀이터 개최",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220725_0001955192&cID=14001&pID=14000",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011324694?sid=102",
-			"description":"앞서 서구는 지난 5월 어린이날을 맞아 <b>청라<\/b>호수공원에서 '어린이날 100주년 기념, 문화 놀이터'를 개최했다. 서구 관계자는 지난 행사 만족도 조사 결과를 반영해 여름에 맞는 '시원한 여름, 해적 놀이터'라는 주제로... ",
-			"pubDate":"Mon, 25 Jul 2022 14:58:00 +0900"
 		}
 	]
 }
