@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 26 Jul 2022 21:40:02 +0900",
-	"total":182285,
+	"lastBuildDate":"Tue, 26 Jul 2022 21:50:02 +0900",
+	"total":182286,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"산업부 경제구역 7곳 평가 IFEZ 4년째 '최우수 등급'",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=989787",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=989787",
+			"description":"송도국제도시는 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략산업을 육성했다. 특히... ",
+			"pubDate":"Tue, 26 Jul 2022 21:40:00 +0900"
+		},
 		{
 			"title":"IFEZ, 경자구역 성과평가 4년 연속 '최우수'",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1154440",
@@ -33,17 +40,17 @@
 			"pubDate":"Tue, 26 Jul 2022 18:22:00 +0900"
 		},
 		{
-			"title":"[인터뷰] 맹성규 더불어민주당 인천시당위원장 후보 &quot;국민들의 신뢰회복 절실...",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363551914",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363551914",
-			"description":"GTX-B노선 건설비(803억 원), 지하철7호선 <b>청라<\/b>연장 사업비(724억 원) 등이 반영되게끔 기획재정부에 건의한데 이어 신규 및 증액 반영도 이끌어 냈다. 특히 여·야가 원활하게 소통해서 타협하고 협치할 수 있도록 중간자... ",
-			"pubDate":"Tue, 26 Jul 2022 18:14:00 +0900"
-		},
-		{
 			"title":"[인터뷰] 김교흥 더불어민주당 인천시당위원장 후보 &quot;민주당 불꽃 인천서 되살...",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363551915",
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363551915",
 			"description":"&quot;인천시부시장 시절 하나금융그룹 본사 <b>청라<\/b> 유치를 추진했고, 국회사무총장 임기 중에는 인천대가 지역... 또 오랜 숙원 사업인 인천항 제1항로(팔미도~북항) 준설 설계 비용 확보와 서울도시철도 7호선 <b>청라<\/b> 연장을 위한... ",
+			"pubDate":"Tue, 26 Jul 2022 18:14:00 +0900"
+		},
+		{
+			"title":"[인터뷰] 맹성규 더불어민주당 인천시당위원장 후보 &quot;국민들의 신뢰회복 절실...",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363551914",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363551914",
+			"description":"GTX-B노선 건설비(803억 원), 지하철7호선 <b>청라<\/b>연장 사업비(724억 원) 등이 반영되게끔 기획재정부에 건의한데 이어 신규 및 증액 반영도 이끌어 냈다. 특히 여·야가 원활하게 소통해서 타협하고 협치할 수 있도록 중간자... ",
 			"pubDate":"Tue, 26 Jul 2022 18:14:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=220248",
 			"description":"인천투데이=장호영 기자｜인천 서구 <b>청라<\/b>국제도시 내 신설을 추진했던 <b>청라<\/b>4고등학교가 교육부 중앙투자심사를 통과하지 못한 뒤 인천시교육청에 사과를 촉구하는 목소리가 커지고 있다. 인천시의회 회기 중 <b>청라<\/b> 인근... ",
 			"pubDate":"Mon, 25 Jul 2022 16:58:00 +0900"
-		},
-		{
-			"title":"서인천발전本, 녹색기업 재지정 달성",
-			"originallink":"http:\/\/www.todayenergy.kr\/news\/articleView.html?idxno=250678",
-			"link":"http:\/\/www.todayenergy.kr\/news\/articleView.html?idxno=250678",
-			"description":"특히 지역사회와 상생을 위한 활동으로는 폐열회수설비를 이용해 저가의 난방열을 <b>청라<\/b>와 인천 서구지역 13만 세대에 공급하고 있으며 기업 환경 멘토링을 통해 중소기업에 환경시설 관리 및 운영 노하우를 전수, 1사... ",
-			"pubDate":"Mon, 25 Jul 2022 15:44:00 +0900"
 		}
 	]
 }
