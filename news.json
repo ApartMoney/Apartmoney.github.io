@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 29 Jul 2022 09:40:02 +0900",
-	"total":182395,
+	"lastBuildDate":"Fri, 29 Jul 2022 09:50:02 +0900",
+	"total":182396,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 신도시 집값 얼마나 떨어지나... 35개월 만에 최대 하락",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89715",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89715",
+			"description":"인천 8개 구가 모두 하락세를 보인 가운데 연수구(-0.13%)와 서구(-0.13%), 중구(-0.10%) 등 송도·<b>청라<\/b>·영종국제도시 및 검단신도시 등의 신도시가 위치한 지역의 하락세가 두드러졌다. 연수구 송도국제도시와 서구... ",
+			"pubDate":"Fri, 29 Jul 2022 09:44:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b> ~ 강서간 BRT노선(7700번) 2대 증차",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=408468",
@@ -68,17 +75,17 @@
 			"pubDate":"Thu, 28 Jul 2022 21:30:00 +0900"
 		},
 		{
-			"title":"[인천광역시 신임 인사 프로필] 윤현모 해양항공국장",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220728010005095",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220728010005095",
-			"description":"인하대 법학과를 졸업하고 제6회 지방고시를 통해 공직에 입문했다. 인천 중구 부구청장과 영종<b>청라<\/b>사업본부장 등을 역임했으며 행정력과 관리력을 두루 갖춘 공직자로 평가받고 있다. \/ 행정·관리력 다 갖춘 공직자",
-			"pubDate":"Thu, 28 Jul 2022 21:06:00 +0900"
-		},
-		{
 			"title":"[인천광역시 신임 인사 프로필] 이상범 인천경제자유구역청 차장",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220728010005091",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220728010005091",
 			"description":"인천시 환경녹지국장과 일자리경제본부장, 인천경제자유구역청 영종<b>청라<\/b>사업본부장 등을 역임했다. 추진력 있는 일처리로 각종 현안을 합리적으로 해결한다는 평가를 받고 있다. \/ 각종 갈등 현안 해결 &apos;적임자&apos;",
+			"pubDate":"Thu, 28 Jul 2022 21:06:00 +0900"
+		},
+		{
+			"title":"[인천광역시 신임 인사 프로필] 윤현모 해양항공국장",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220728010005095",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220728010005095",
+			"description":"인하대 법학과를 졸업하고 제6회 지방고시를 통해 공직에 입문했다. 인천 중구 부구청장과 영종<b>청라<\/b>사업본부장 등을 역임했으며 행정력과 관리력을 두루 갖춘 공직자로 평가받고 있다. \/ 행정·관리력 다 갖춘 공직자",
 			"pubDate":"Thu, 28 Jul 2022 21:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000768553?sid=110",
 			"description":"16년. 지난 11일 폐막한 대구국제뮤지컬페스티벌(이하 DIMF) 역사다. 2005년 &apos;맘마미아&apos; 흥행을 계기로 대구시는 뮤지컬을 블루오션 장르로 인식하기 시작했다. 이를 계기로 2007년 DIMF가 탄생했다. 그리고 지난 16년 세월... ",
 			"pubDate":"Thu, 28 Jul 2022 15:31:00 +0900"
-		},
-		{
-			"title":"인천경제청, <b>청라<\/b>국제도시 영상·문화 복합단지 사업자 공모",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89708",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89708",
-			"description":"<b>청라<\/b>국제도시 영상·문화 복합단지 사업부지 위치(자료제공=인천경제청) 인천경제자유구역청이 <b>청라<\/b> 영상·문화 복합단지 사업자를 공모한다. 인천경제청은 28일 <b>청라<\/b>국제도시 5-4블럭 투자유치용지 18만8,282㎡에... ",
-			"pubDate":"Thu, 28 Jul 2022 15:08:00 +0900"
 		}
 	]
 }
