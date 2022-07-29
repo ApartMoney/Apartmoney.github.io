@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 29 Jul 2022 23:10:02 +0900",
-	"total":182422,
+	"lastBuildDate":"Fri, 29 Jul 2022 23:20:02 +0900",
+	"total":182423,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천교통공사, 8월1일 부터 BRT 증차 운행개시",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288165820404",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288165820404",
+			"description":"이번 증차는 <b>청라<\/b>~강서간 BRT노선(7700번) 출근시간대 과밀구간 혼잡도 해소를 위한 것으로, 계양구 지역에... 또한 BRT(7700번)를 주로 이용하는 인천 <b>청라<\/b>, 계양구 일대 주민들이 서울 지역으로 좀 더 편리하게 이동할... ",
+			"pubDate":"Fri, 29 Jul 2022 23:12:00 +0900"
+		},
 		{
 			"title":"인천교통공사, 8월1일 부터 BRT 증차 운행개시",
 			"originallink":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=360750",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=90705",
 			"description":"또한 인천 <b>청라<\/b>에서 시흥 신천, 광명을 지나 서울까지 이어지는 제2경인선도 추진되고 있다. 제2경인선이 개통하면 신도림, 영등포, 노량진 등으로 환승없이 한번에 이동할 수 있어 서울, 특히 여의도 접근성이 더욱... ",
 			"pubDate":"Fri, 29 Jul 2022 10:36:00 +0900"
-		},
-		{
-			"title":"인천교통공사, 다음달부터 BRT 증차 운행",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=408471",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=408471",
-			"description":"▲ BRT 노선 버스 인천교통공사는 <b>청라<\/b> ~ 강서간 BRT노선(7700번) 출근시간대 과밀구간 혼잡도 해소를 위해... 또한 BRT(7700번)를 주로 이용하는 인천 <b>청라<\/b>, 계양구 일대 주민들이 서울 지역으로 좀 더 편리하게 이동할... ",
-			"pubDate":"Fri, 29 Jul 2022 10:30:00 +0900"
 		}
 	]
 }
