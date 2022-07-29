@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 29 Jul 2022 22:50:03 +0900",
-	"total":182424,
+	"lastBuildDate":"Fri, 29 Jul 2022 23:00:02 +0900",
+	"total":182422,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천교통공사, 8월1일 부터 BRT 증차 운행개시",
+			"originallink":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=360750",
+			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=360750",
+			"description":"<b>청라<\/b> ~ 강서간 BRT노선(7700번) 출근시간대 과밀구간 혼잡도 해소를 위해 42인승 CNG대형좌석버스. 사진제공=인천교통공사 인천교통공사가  <b>청라<\/b>~강서간 BRT노선(7700번) 출근시간대 과밀구간 혼잡도 해소를 위해... ",
+			"pubDate":"Fri, 29 Jul 2022 22:58:00 +0900"
+		},
 		{
 			"title":"20만 평 당진호수공원 가능할까",
 			"originallink":"http:\/\/www.djtimes.co.kr\/news\/articleView.html?idxno=93889",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=408471",
 			"description":"▲ BRT 노선 버스 인천교통공사는 <b>청라<\/b> ~ 강서간 BRT노선(7700번) 출근시간대 과밀구간 혼잡도 해소를 위해... 또한 BRT(7700번)를 주로 이용하는 인천 <b>청라<\/b>, 계양구 일대 주민들이 서울 지역으로 좀 더 편리하게 이동할... ",
 			"pubDate":"Fri, 29 Jul 2022 10:30:00 +0900"
-		},
-		{
-			"title":"인천 신도시 집값 얼마나 떨어지나... 35개월 만에 최대 하락",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89715",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=89715",
-			"description":"인천 8개 구가 모두 하락세를 보인 가운데 연수구(-0.13%)와 서구(-0.13%), 중구(-0.10%) 등 송도·<b>청라<\/b>·영종국제도시 및 검단신도시 등의 신도시가 위치한 지역의 하락세가 두드러졌다. 연수구 송도국제도시와 서구... ",
-			"pubDate":"Fri, 29 Jul 2022 09:44:00 +0900"
 		}
 	]
 }
