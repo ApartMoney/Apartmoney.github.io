@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 01 Aug 2022 14:40:02 +0900",
-	"total":182485,
+	"lastBuildDate":"Mon, 01 Aug 2022 14:50:02 +0900",
+	"total":182486,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[동정] 보령시장",
+			"originallink":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=926007",
+			"link":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=926007",
+			"description":"▲ 김동일 보령시장 ▲김동일 보령시장은 2일 오전 9시 30분 주산, 미산, 성주, <b>청라<\/b>, 천북면 일원의 피서지 근무자 및 직원을 격려한다.",
+			"pubDate":"Mon, 01 Aug 2022 14:42:00 +0900"
+		},
 		{
 			"title":"하나금융그룹, 손흥민과 함께하는 &apos;그룹 캠페인 영상 광고&apos; 선보여",
 			"originallink":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=272813",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.efnews.co.kr\/news\/articleView.html?idxno=97643",
 			"description":"한편, 오는 5일부터는 하나금융그룹의 대표 모델 손흥민 선수가 직접 녹음한 <b>청라<\/b>국제도시 &apos;하나금융타운&apos;역 하차 안내 방송을 통해 하나금융타운역에 가면 손흥민 선수의 목소리를 만나볼 수 있다.[파이낸셜신문=]",
 			"pubDate":"Mon, 01 Aug 2022 10:02:00 +0900"
-		},
-		{
-			"title":"하나금융, 손흥민의 &apos;그룹 캠페인 영상 광고&apos; 새롭게 선보여",
-			"originallink":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022080109540631477",
-			"link":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022080109540631477",
-			"description":"한편, 오는 5일부터는 하나금융그룹의 대표 모델 손흥민 선수가 직접 녹음한 <b>청라<\/b>국제도시 &apos;하나금융타운&apos;역 하차 안내 방송을 통해 하나금융타운역에 가면 손흥민 선수의 목소리를 만나볼 수 있다. 2234jung@",
-			"pubDate":"Mon, 01 Aug 2022 10:00:00 +0900"
 		}
 	]
 }
