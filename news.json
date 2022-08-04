@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 04 Aug 2022 10:00:02 +0900",
-	"total":182606,
+	"lastBuildDate":"Thu, 04 Aug 2022 10:10:02 +0900",
+	"total":182607,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[분양 정보] SK에코플랜트, 영종국제도시 ‘영종 SK VIEW’ 5일 홍보관 오픈",
+			"originallink":"https:\/\/www.news2day.co.kr\/article\/20220804500085",
+			"link":"https:\/\/www.news2day.co.kr\/article\/20220804500085",
+			"description":"영종~<b>청라<\/b>를 잇는 제3연륙교가 2025년 개통 예정으로, 신월여의지하도로와 연계돼 여의도까지 차량 30분 이내 접근이 가능해질 전망이다. 영종국제도시의 핵심 인프라를 누리는 주거환경도 주목된다. 롯데마트... ",
+			"pubDate":"Thu, 04 Aug 2022 10:08:00 +0900"
+		},
 		{
 			"title":"[인천소식] <b>청라<\/b> 영상문화단지 5일 사업자 공모 설명회",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220804044900065?input=1195m",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004999782?sid=101",
 			"description":"송도국제도시·<b>청라<\/b>국제도시와 함께 인천경제자유구역(IFEZ)으로 지정됐으며 올해 인구 10만 명을 넘어섰다.... 이 가운데 A16블록은 오는 2025년 제3연륙교가 개통할 예정으로, 향후 <b>청라<\/b>국제도시와 바로 연결돼 스타필드... ",
 			"pubDate":"Wed, 03 Aug 2022 11:01:00 +0900"
-		},
-		{
-			"title":"인천 북항해저터널, 도로에 바닷물 스며들어… 운영사 “배수로 문제”",
-			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/08\/03\/20220803508026.html?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003721677?sid=102",
-			"description":"YTN 캡처 인천 신흥동에서 <b>청라<\/b>국제도시를 잇는 인천북항해저터널에 바닷물이 유입돼 운영사가 원인 규명에 나섰다. 3일 YTN의 보도에 따르면 북항해저터널에서 배출돼야 할 바닷물이 배수로 일부 구간의 문제로... ",
-			"pubDate":"Wed, 03 Aug 2022 10:53:00 +0900"
 		}
 	]
 }
