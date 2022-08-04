@@ -1,21 +1,42 @@
 {
-	"lastBuildDate":"Thu, 04 Aug 2022 16:10:02 +0900",
-	"total":182641,
+	"lastBuildDate":"Thu, 04 Aug 2022 16:20:02 +0900",
+	"total":182644,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"한국부동산원, 서울 아파트값 10주째 하락…매수자 우위 시장 형성",
-			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=255378",
-			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=255378",
-			"description":"인천에서도 서구(-0.13%→-0.15%)는 <b>청라<\/b>동과 검단신도시, 연수구(-0.13%→-0.15%)는 송도신도시와 연수동, 남동구(-0.10%→-0.11%)는 논현·만수·서창동 위주로 하락폭이 확대됐다. 경기에서는 이천시(0.26%→0.10%)가... ",
-			"pubDate":"Thu, 04 Aug 2022 15:58:00 +0900"
+			"title":"청도군, 관광웹드라마 ‘<b>청라<\/b>우드’ 제작",
+			"originallink":"http:\/\/www.newscj.com\/article\/20220804580462",
+			"link":"http:\/\/www.newscj.com\/article\/20220804580462",
+			"description":"경북 청도군이 지역의 관광 소재를 활용한 웹드라마 ‘청리우드’를 제작했다고 4일 밝혔다. ⓒ천지일보 2022.08.04 경북 청도군이 경상북도 디지털콘텐츠 제작 지원 사업 공모에 선정돼 지역의 관광 소재를 활용한... ",
+			"pubDate":"Thu, 04 Aug 2022 16:16:00 +0900"
+		},
+		{
+			"title":"금리인상에 거품 꺼지는 집값…수도권 외곽부터 우수수",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=940251",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=940251",
+			"description":"인천은 서구(-0.15%)는 <b>청라<\/b>동과 검단신도시 위주로, 경기는 광주시(-0.26%), 오산시(-0.26%) 등이 하락했다. 실제로 국토교통부 실거래가 공개시스템을 통해 살펴본 결과, 최근 경기도 아파트 단지에서 지난해 최고가... ",
+			"pubDate":"Thu, 04 Aug 2022 16:16:00 +0900"
+		},
+		{
+			"title":"SK에코플랜트, 주거용 오피스텔 `영종 SK VIEW` 5일 분양",
+			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2022080402109963075001&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002747529?sid=101",
+			"description":"여기에 영종~<b>청라<\/b>를 잇는 제3연륙교가 2025년 개통 예정으로, 신월여의지하도로와 연계돼 여의도까지 차량 30분 이내 접근이 가능해질 전망이다. 영종국제도시 내 리조트와 테마파크 등의 개발사업이 순항 중으로... ",
+			"pubDate":"Thu, 04 Aug 2022 16:07:00 +0900"
 		},
 		{
 			"title":"바닥 뚫린 서울 아파트 값, 10주 연속 내림세…&apos;철옹성&apos; 서초구도 20주 만에 ...",
 			"originallink":"http:\/\/www.todaykorea.co.kr\/news\/articleView.html?idxno=300856",
 			"link":"http:\/\/www.todaykorea.co.kr\/news\/articleView.html?idxno=300856",
 			"description":"이에 인천 서구 아파트 값은 <b>청라<\/b>동, 검단신도시 위주로 무려 0.15% 떨어졌고, 연수구의 경우 송도신도시와 연수동을 중심으로 0.15% 하락했다. 남동구는 논현동·만수동 일대에서 –0.11%의 하락 폭을 나타냈다. 경기의... ",
+			"pubDate":"Thu, 04 Aug 2022 15:58:00 +0900"
+		},
+		{
+			"title":"한국부동산원, 서울 아파트값 10주째 하락…매수자 우위 시장 형성",
+			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=255378",
+			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=255378",
+			"description":"인천에서도 서구(-0.13%→-0.15%)는 <b>청라<\/b>동과 검단신도시, 연수구(-0.13%→-0.15%)는 송도신도시와 연수동, 남동구(-0.10%→-0.11%)는 논현·만수·서창동 위주로 하락폭이 확대됐다. 경기에서는 이천시(0.26%→0.10%)가... ",
 			"pubDate":"Thu, 04 Aug 2022 15:58:00 +0900"
 		},
 		{
@@ -110,10 +131,10 @@
 			"pubDate":"Thu, 04 Aug 2022 14:16:00 +0900"
 		},
 		{
-			"title":"&apos;국제업무지구개발&apos; 용산, 하락세 멈춰…서울 전체는 하락세 계속",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5797430",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003671757?sid=101",
-			"description":"서구(-0.15%)는 <b>청라<\/b>동, 검단신도시 위주로, 연수구(-0.15%)는 송도신도시, 연수동 위주로, 남동구(-0.11%)는 논현동과 만수동 등을 위주로 하락폭이 확대되고 있다. 인천 전체 하락폭도 확대(-0.10% → -0.11%)됐다. 경기는... ",
+			"title":"서울 주간 아파트값 10주째 하락…서초구도 보합 전환",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220804010002962",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220804010002962",
+			"description":"인천(-0.11%)은 지난주(-0.10%)보다 하락폭이 소폭 커졌다.서구(-0.15%)는 <b>청라<\/b>동과 검단신도시 위주로, 연수구(-0.15%)는 송도신도시, 연수동 위주로 집값이 내렸다. 지방 아파트값은 8주 연속 떨어졌다.5대 광역시(0.07... ",
 			"pubDate":"Thu, 04 Aug 2022 14:02:00 +0900"
 		},
 		{
@@ -124,10 +145,10 @@
 			"pubDate":"Thu, 04 Aug 2022 14:02:00 +0900"
 		},
 		{
-			"title":"서울 주간 아파트값 10주째 하락…서초구도 보합 전환",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220804010002962",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220804010002962",
-			"description":"인천(-0.11%)은 지난주(-0.10%)보다 하락폭이 소폭 커졌다.서구(-0.15%)는 <b>청라<\/b>동과 검단신도시 위주로, 연수구(-0.15%)는 송도신도시, 연수동 위주로 집값이 내렸다. 지방 아파트값은 8주 연속 떨어졌다.5대 광역시(0.07... ",
+			"title":"&apos;국제업무지구개발&apos; 용산, 하락세 멈춰…서울 전체는 하락세 계속",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5797430",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003671757?sid=101",
+			"description":"서구(-0.15%)는 <b>청라<\/b>동, 검단신도시 위주로, 연수구(-0.15%)는 송도신도시, 연수동 위주로, 남동구(-0.11%)는 논현동과 만수동 등을 위주로 하락폭이 확대되고 있다. 인천 전체 하락폭도 확대(-0.10% → -0.11%)됐다. 경기는... ",
 			"pubDate":"Thu, 04 Aug 2022 14:02:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003292195?sid=102",
 			"description":"뉴 홍콩시티는 영종도와 강화도 남단, 송도·<b>청라<\/b> 등에 홍콩에 대한 중국 지배력이 강화되면서 홍콩을 벗어나고자 하는 세계 다국적 기업들을 유치해 글로벌 금융 중심지로 만들겠다는 구상이다. 홍콩의 대안이 인천이 될... ",
 			"pubDate":"Thu, 04 Aug 2022 11:47:00 +0900"
-		},
-		{
-			"title":"“보조개 수술, 개개인 특징 고려해 위치 및 모양 선정해야”",
-			"originallink":"http:\/\/www.segyebiz.com\/newsView\/20220804510562?OutUrl=naver",
-			"link":"http:\/\/www.segyebiz.com\/newsView\/20220804510562?OutUrl=naver",
-			"description":"이미지=인천 <b>청라<\/b>국제병원 얼굴은 이목구비 생김새를 비롯해 작은 점 하나의 위치만으로도 인상이 크게 변할... 인천 <b>청라<\/b>국제병원 성형외과 이민영 원장은 “보조개 수술은 비교적 간단한 방법으로 인상을 더욱 부드럽게... ",
-			"pubDate":"Thu, 04 Aug 2022 11:10:00 +0900"
-		},
-		{
-			"title":"SK에코플랜트, &apos;영종 SK VIEW&apos; 공개...영종도 개발 수혜 잇는 주거형 오피스텔",
-			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=150711",
-			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=150711",
-			"description":"여기에 영종~<b>청라<\/b>를 잇는 제3연륙교가 2025년 개통 예정으로, 신월여의지하도로와 연계돼 여의도까지 차량 30분 이내 접근이 가능해질 전망입니다. 영종국제도시의 핵심 인프라를 누리는 주거환경도 주목됩니다.... ",
-			"pubDate":"Thu, 04 Aug 2022 11:10:00 +0900"
-		},
-		{
-			"title":"SK에코플랜트, 주거용 오피스텔 &apos;영종 SK VIEW&apos; 5일 분양 시작",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220804_0001967467&cID=10401&pID=10400",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011344301?sid=101",
-			"description":"여기에 영종~<b>청라<\/b>를 잇는 제3연륙교가 2025년 개통 예정으로, 신월여의지하도로와 연계돼 여의도까지 차량 30분 이내 접근이 가능해질 전망이다. 최근에는 영종국제도시 내 리조트와 테마파크 등의 개발사업이 순항... ",
-			"pubDate":"Thu, 04 Aug 2022 10:37:00 +0900"
 		}
 	]
 }
