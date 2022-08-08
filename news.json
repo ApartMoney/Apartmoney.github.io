@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 08 Aug 2022 11:20:02 +0900",
-	"total":182717,
+	"lastBuildDate":"Mon, 08 Aug 2022 11:30:03 +0900",
+	"total":182718,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[지자체의 SR] 인천 서구, CF 패러디 영상으로 관광 명소 홍보",
+			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=118469",
+			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=118469",
+			"description":"서구 공무원들이 직접 출연한 이번 영상은 물놀이 공원, 정서진 노을종, 아라뱃길, <b>청라<\/b>호수공원 등 서구를 배경으로 여행플랫폼 앱의 CF를 패러디해 제작됐다. 구는 영상에 등장하는 서구 명소 중 가고 싶은 곳을 선정해... ",
+			"pubDate":"Mon, 08 Aug 2022 11:22:00 +0900"
+		},
 		{
 			"title":"갤러리 <b>청라<\/b> &apos;캔버스의 시인들&apos;展 9일 개막…중견 작가 참여",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220808066700053?input=1195m",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20220807500038",
 			"description":"영종도와 <b>청라<\/b>를 잇는 제3연륙교가 오는 2025년 개통예정이며 인천대교를 통해 송도 및 서울 서부권 이동이 용이하다. 운서초, 영종중 등을 도보 통학할 수 있고 영종하늘도시근린공원, 씨사이드파크 등이 가까워... ",
 			"pubDate":"Sun, 07 Aug 2022 09:46:00 +0900"
-		},
-		{
-			"title":"[이번주 분양] &apos;제일풍경채 영종국제도시&apos; 등 전국 1만 5198가구",
-			"originallink":"http:\/\/www.opinionnews.co.kr\/news\/articleView.html?idxno=71556",
-			"link":"http:\/\/www.opinionnews.co.kr\/news\/articleView.html?idxno=71556",
-			"description":"영종도와 <b>청라<\/b>를 잇는 제3연륙교가 오는 2025년 개통예정이다. 인천대교를 통해 송도 및 서울 서부권 이동이 가능하다. 운서초, 영종중 등을 도보 통학할 수 있다. 영종하늘도시 근린공원, 씨사이드파크 등이... ",
-			"pubDate":"Sun, 07 Aug 2022 09:18:00 +0900"
 		}
 	]
 }
