@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 09 Aug 2022 13:30:03 +0900",
-	"total":182771,
+	"lastBuildDate":"Tue, 09 Aug 2022 13:40:02 +0900",
+	"total":182772,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;동선 바꾸니 고객 발길 늘었다&quot;…홈플러스 메가푸드마켓, 매출 69% ↑",
+			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2022080913241388861c3c506100_1\/article.html",
+			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2022080913241388861c3c506100_1\/article.html",
+			"description":"일례로 인천 간석점과 서울 방학점의 2030 고객은 전년 동기 대비 38% 증가했고, 월드컵점이35%, 인천 <b>청라<\/b>점이 28%, 대전 유성점이 28% 증가하며 30% 안팎의 높은 증가율을 보였다. 마이홈플러스 앱에 가입한 신규 회원수 역시... ",
+			"pubDate":"Tue, 09 Aug 2022 13:34:00 +0900"
+		},
 		{
 			"title":"포스코에너지, <b>청라<\/b> 1동 북카페 아동·청소년 도서 기증",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220809010002188",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363553313",
 			"description":"57만여명의 주민 중 <b>청라<\/b>국제도시와 검단신도시 인구가 27만여명으로 절반이 채 되지 않지만 출생아... 송도의 경우 인천 평균 학령인구 23명을 넘어서는 33명대를 기록하고 있으며 영종과 <b>청라<\/b>도 학령인구가... ",
 			"pubDate":"Mon, 08 Aug 2022 19:08:00 +0900"
-		},
-		{
-			"title":"한국 리틀야구 13세 이하 대표팀, 월드시리즈 준우승",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1156187",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1156187",
-			"description":"김장환(인천서구<b>청라<\/b>), 김진수(인천남동구), 신승원(서울영등포구), 한민용(안성시), 김준성(수원영통구), 우효준(김포시), 손 건(안산시), 박지현(부천시), 오영찬(수원장안구), 문준혁(평택시), 강민서(평택시)",
-			"pubDate":"Mon, 08 Aug 2022 19:00:00 +0900"
 		}
 	]
 }
