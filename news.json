@@ -1,41 +1,104 @@
 {
-	"lastBuildDate":"Tue, 09 Aug 2022 15:30:02 +0900",
-	"total":182792,
+	"lastBuildDate":"Tue, 09 Aug 2022 15:40:02 +0900",
+	"total":182805,
 	"start":1,
 	"display":30,
 	"items":[
 		{
 			"title":"정답은?",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5519135",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006268188?sid=102",
-			"description":"= 9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 &apos;2022년 도전! 독서골든벨&apos; 행사에 참여한 중구 관내 5개 지역아동센터 어린이들이 지정도서(어린왕자)를 읽고 골든벨 문제를 풀고 있다. 2022.8.9\/뉴스1",
-			"pubDate":"Tue, 09 Aug 2022 15:06:00 +0900"
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220809_0019118643",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011353495?sid=102",
+			"description":"9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 ‘2022년 도전! 독서골든벨’ 대회에 참여한 관내 5개 지역아동센터 어린이들이 지정된 도서를 바탕으로 만든 퀴즈 문제를 풀고 있다. 2022.08.09. lmy@newsis.... ",
+			"pubDate":"Tue, 09 Aug 2022 15:35:00 +0900"
+		},
+		{
+			"title":"&apos;독서골든벨을 울려라&apos;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220809_0019118644",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011353490?sid=102",
+			"description":"9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 ‘2022년 도전! 독서골든벨’ 대회에 참여한 관내 5개 지역아동센터 어린이들이 지정된 도서를 바탕으로 만든 퀴즈 문제를 풀고 있다. 2022.08.09. lmy@newsis.... ",
+			"pubDate":"Tue, 09 Aug 2022 15:35:00 +0900"
+		},
+		{
+			"title":"독서골든벨 정답은?",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220809_0019118652",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011353491?sid=102",
+			"description":"9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 ‘2022년 도전! 독서골든벨’ 대회에 참여한 관내 5개 지역아동센터 어린이들이 지정된 도서를 바탕으로 만든 퀴즈 문제를 풀고 있다. 2022.08.09. lmy@newsis.... ",
+			"pubDate":"Tue, 09 Aug 2022 15:35:00 +0900"
+		},
+		{
+			"title":"정답은?",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220809_0019118647",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011353485?sid=102",
+			"description":"9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 ‘2022년 도전! 독서골든벨’ 대회에 참여한 관내 5개 지역아동센터 어린이들이 지정된 도서를 바탕으로 만든 퀴즈 문제를 풀고 있다. 2022.08.09. lmy@newsis.... ",
+			"pubDate":"Tue, 09 Aug 2022 15:35:00 +0900"
+		},
+		{
+			"title":"독서골든벨 정답은?",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220809_0019118646",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011353492?sid=102",
+			"description":"9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 ‘2022년 도전! 독서골든벨’ 대회에 참여한 관내 5개 지역아동센터 어린이들이 지정된 도서를 바탕으로 만든 퀴즈 문제를 풀고 있다. 2022.08.09. lmy@newsis.... ",
+			"pubDate":"Tue, 09 Aug 2022 15:35:00 +0900"
+		},
+		{
+			"title":"정답은?",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220809_0019118648",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011353487?sid=102",
+			"description":"9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 ‘2022년 도전! 독서골든벨’ 대회에 참여한 관내 5개 지역아동센터 어린이들이 지정된 도서를 바탕으로 만든 퀴즈 문제를 풀고 있다. 2022.08.09. lmy@newsis.... ",
+			"pubDate":"Tue, 09 Aug 2022 15:35:00 +0900"
+		},
+		{
+			"title":"&apos;독서골든벨을 울려라&apos;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220809_0019118650",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011353486?sid=102",
+			"description":"9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 ‘2022년 도전! 독서골든벨’ 대회에 참여한 관내 5개 지역아동센터 어린이들이 지정된 도서를 바탕으로 만든 퀴즈 문제를 풀고 있다. 2022.08.09. lmy@newsis.... ",
+			"pubDate":"Tue, 09 Aug 2022 15:35:00 +0900"
+		},
+		{
+			"title":"‘2022년 도전! 독서골든벨 대회&apos;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220809_0019118654",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011353493?sid=102",
+			"description":"9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 ‘2022년 도전! 독서골든벨’ 대회에 참여한 관내 5개 지역아동센터 어린이들이 지정된 도서를 바탕으로 만든 퀴즈 문제를 풀고 있다. 2022.08.09. lmy@newsis.... ",
+			"pubDate":"Tue, 09 Aug 2022 15:35:00 +0900"
+		},
+		{
+			"title":"‘2022년 도전! 독서골든벨 대회&apos;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220809_0019118653",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011353494?sid=102",
+			"description":"9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 ‘2022년 도전! 독서골든벨’ 대회에 참여한 관내 5개 지역아동센터 어린이들이 지정된 도서를 바탕으로 만든 퀴즈 문제를 풀고 있다. 2022.08.09. lmy@newsis.... ",
+			"pubDate":"Tue, 09 Aug 2022 15:35:00 +0900"
+		},
+		{
+			"title":"독서골든벨 정답은?",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220809_0019118645",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011353488?sid=102",
+			"description":"9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 ‘2022년 도전! 독서골든벨’ 대회에 참여한 관내 5개 지역아동센터 어린이들이 지정된 도서를 바탕으로 만든 퀴즈 문제를 풀고 있다. 2022.08.09. lmy@newsis.... ",
+			"pubDate":"Tue, 09 Aug 2022 15:35:00 +0900"
+		},
+		{
+			"title":"&apos;독서골든벨을 울려라&apos;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220809_0019118649",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011353489?sid=102",
+			"description":"9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 ‘2022년 도전! 독서골든벨’ 대회에 참여한 관내 5개 지역아동센터 어린이들이 지정된 도서를 바탕으로 만든 퀴즈 문제를 풀고 있다. 2022.08.09. lmy@newsis.... ",
+			"pubDate":"Tue, 09 Aug 2022 15:35:00 +0900"
+		},
+		{
+			"title":"‘2022년 도전! 독서골든벨 대회&apos;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220809_0019118642",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011353496?sid=102",
+			"description":"9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 ‘2022년 도전! 독서골든벨’ 대회에 참여한 관내 5개 지역아동센터 어린이들이 지정된 도서를 바탕으로 만든 퀴즈 문제를 풀고 있다. 2022.08.09. lmy@newsis.... ",
+			"pubDate":"Tue, 09 Aug 2022 15:35:00 +0900"
+		},
+		{
+			"title":"홈플러스 메가푸드마켓, 동선 개선 후 매출 최대 69%↑",
+			"originallink":"http:\/\/www.apparelnews.co.kr\/news\/news_view\/?idx=199636",
+			"link":"http:\/\/www.apparelnews.co.kr\/news\/news_view\/?idx=199636",
+			"description":"이전까지 경험할 수 없었던 동선 혁신에 인천 간석점과 서울 방학점의 2030 고객은 전년 동기 대비 38% 증가했고, 월드컵점이 35%, 인천 <b>청라<\/b>점이 28%, 대전 유성점이 28% 증가하며 30% 안팎의 높은 증가율을 보였다. 한편... ",
+			"pubDate":"Tue, 09 Aug 2022 15:34:00 +0900"
 		},
 		{
 			"title":"&apos;책 속에 정답이&apos;",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5519137",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006268191?sid=102",
-			"description":"= 9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 &apos;2022년 도전! 독서골든벨&apos; 행사에 참여한 중구 관내 5개 지역아동센터 어린이들이 지정도서(어린왕자)를 읽고 골든벨 문제를 풀고 있다. 2022.8.9\/뉴스1",
-			"pubDate":"Tue, 09 Aug 2022 15:06:00 +0900"
-		},
-		{
-			"title":"신나는 장기자랑",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5519143",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006268194?sid=102",
-			"description":"= 9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 &apos;2022년 도전! 독서골든벨&apos; 행사에 참여한 중구 관내 5개 지역아동센터 어린이들이 장기자랑을 무대를 선보이고 있다. 2022.8.9\/뉴스1",
-			"pubDate":"Tue, 09 Aug 2022 15:06:00 +0900"
-		},
-		{
-			"title":"&apos;꿈이 꿈틀꿈틀&apos;",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5519142",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006268193?sid=102",
-			"description":"= 9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 &apos;2022년 도전! 독서골든벨&apos; 행사에 참여한 중구 관내 5개 지역아동센터 어린이들이 장기자랑을 무대를 선보이고 있다. 2022.8.9\/뉴스1",
-			"pubDate":"Tue, 09 Aug 2022 15:06:00 +0900"
-		},
-		{
-			"title":"정답은?",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5519136",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006268189?sid=102",
 			"description":"= 9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 &apos;2022년 도전! 독서골든벨&apos; 행사에 참여한 중구 관내 5개 지역아동센터 어린이들이 지정도서(어린왕자)를 읽고 골든벨 문제를 풀고 있다. 2022.8.9\/뉴스1",
 			"pubDate":"Tue, 09 Aug 2022 15:06:00 +0900"
 		},
@@ -54,9 +117,37 @@
 			"pubDate":"Tue, 09 Aug 2022 15:06:00 +0900"
 		},
 		{
+			"title":"&apos;꿈이 꿈틀꿈틀&apos;",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5519142",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006268193?sid=102",
+			"description":"= 9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 &apos;2022년 도전! 독서골든벨&apos; 행사에 참여한 중구 관내 5개 지역아동센터 어린이들이 장기자랑을 무대를 선보이고 있다. 2022.8.9\/뉴스1",
+			"pubDate":"Tue, 09 Aug 2022 15:06:00 +0900"
+		},
+		{
 			"title":"&apos;책 속에 정답이&apos;",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5519140",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006268192?sid=102",
+			"description":"= 9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 &apos;2022년 도전! 독서골든벨&apos; 행사에 참여한 중구 관내 5개 지역아동센터 어린이들이 지정도서(어린왕자)를 읽고 골든벨 문제를 풀고 있다. 2022.8.9\/뉴스1",
+			"pubDate":"Tue, 09 Aug 2022 15:06:00 +0900"
+		},
+		{
+			"title":"정답은?",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5519135",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006268188?sid=102",
+			"description":"= 9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 &apos;2022년 도전! 독서골든벨&apos; 행사에 참여한 중구 관내 5개 지역아동센터 어린이들이 지정도서(어린왕자)를 읽고 골든벨 문제를 풀고 있다. 2022.8.9\/뉴스1",
+			"pubDate":"Tue, 09 Aug 2022 15:06:00 +0900"
+		},
+		{
+			"title":"신나는 장기자랑",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5519143",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006268194?sid=102",
+			"description":"= 9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 &apos;2022년 도전! 독서골든벨&apos; 행사에 참여한 중구 관내 5개 지역아동센터 어린이들이 장기자랑을 무대를 선보이고 있다. 2022.8.9\/뉴스1",
+			"pubDate":"Tue, 09 Aug 2022 15:06:00 +0900"
+		},
+		{
+			"title":"정답은?",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5519136",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006268189?sid=102",
 			"description":"= 9일 오후 대구 중구 <b>청라<\/b>국민체육센터 실내체육관에서 열린 &apos;2022년 도전! 독서골든벨&apos; 행사에 참여한 중구 관내 5개 지역아동센터 어린이들이 지정도서(어린왕자)를 읽고 골든벨 문제를 풀고 있다. 2022.8.9\/뉴스1",
 			"pubDate":"Tue, 09 Aug 2022 15:06:00 +0900"
 		},
@@ -89,17 +180,17 @@
 			"pubDate":"Tue, 09 Aug 2022 14:40:00 +0900"
 		},
 		{
-			"title":"7호선 연장 호재 &apos;<b>청라<\/b> SK V1&apos; 지식산업센터 미래가치 주목",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=258851",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=258851",
-			"description":"<b>청라<\/b> SK V1 투시도. 지식산업센터가 알짜 투자처로 주목받으면서 시장에서 관심을 끌고 있다. 주택과... 이러한 가운데 우수한 광역 교통망을 갖춘 지식산업센터 &apos;<b>청라<\/b> SK V1&apos;가 분양을 앞두고 있어 눈길을 끈다.... ",
-			"pubDate":"Tue, 09 Aug 2022 14:30:00 +0900"
-		},
-		{
 			"title":"청약 저가점자, 틈새 주거상품 주거형 오피스텔 주목",
 			"originallink":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=233373",
 			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=233373",
 			"description":"지난해 12월 인천 서구에서 분양한 &apos;<b>청라<\/b>국제도시 아이파크&apos; 오피스텔의 전용 84㎡ 타입은 평균 658.5대 1의 경쟁률을 기록했다. 반면 전용 43㎡ 타입은 평균 7.6대 1의 경쟁률을 기록하며, 전용 84㎡ 오피스텔 경쟁률이 약... ",
+			"pubDate":"Tue, 09 Aug 2022 14:30:00 +0900"
+		},
+		{
+			"title":"7호선 연장 호재 &apos;<b>청라<\/b> SK V1&apos; 지식산업센터 미래가치 주목",
+			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=258851",
+			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=258851",
+			"description":"<b>청라<\/b> SK V1 투시도. 지식산업센터가 알짜 투자처로 주목받으면서 시장에서 관심을 끌고 있다. 주택과... 이러한 가운데 우수한 광역 교통망을 갖춘 지식산업센터 &apos;<b>청라<\/b> SK V1&apos;가 분양을 앞두고 있어 눈길을 끈다.... ",
 			"pubDate":"Tue, 09 Aug 2022 14:30:00 +0900"
 		},
 		{
@@ -122,97 +213,6 @@
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=258847",
 			"description":"지난해 12월 인천 서구에서 분양한 &apos;<b>청라<\/b>국제도시 아이파크&apos; 오피스텔의 전용 84㎡ 타입은 평균 658.5대 1의 경쟁률을 기록했다. 반면 전용 43㎡ 타입은 평균 7.6대 1의 경쟁률을 기록하며, 전용 84㎡ 오피스텔 경쟁률이 약... ",
 			"pubDate":"Tue, 09 Aug 2022 13:56:00 +0900"
-		},
-		{
-			"title":"윤환 계양구청장 &quot;국내 최고 명품도시 계양 만들 것&quot;",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=220568",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=220568",
-			"description":"서울도시철도 2호선을 작전동·효성동·<b>청라<\/b>까지 연결하고 대장홍대선과 서울도시철도 9호선을 계양테크노밸리까지 연장하면 사통팔달 계양이 될 것으로 기대된다. 이를 적기에 확충하기 위해 인천시, 정부와 긴밀하게... ",
-			"pubDate":"Tue, 09 Aug 2022 13:46:00 +0900"
-		},
-		{
-			"title":"제8회 인천평화창작가요제 &apos;피스송 페스타&apos; 개최",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=220563",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=220563",
-			"description":"9일 인천평화창작가요제조직위원회는 인천시가 공동주최하고, 인천시민문화예술센터·(사)인천사람과문화가 공동주관하는 제8회 인천평화창작가요제 &apos;피스송 페스타&apos;를 20일 오후 5시부터 <b>청라<\/b>호수공원... ",
-			"pubDate":"Tue, 09 Aug 2022 13:42:00 +0900"
-		},
-		{
-			"title":"&apos;동선 바꾸니 매출 증가&apos;…홈플러스 메가푸드마켓, 매출 69%↑",
-			"originallink":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=87452",
-			"link":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=87452",
-			"description":"인천 간석점과 서울 방학점의 2030 고객은 전년 동기 대비 38% 증가했고, 월드컵점이 35%, 인천 <b>청라<\/b>점이 28%, 대전 유성점이 28% 증가하며 30% 안팎의 증가율을 보였다. 오용근 홈플러스 스토어전략팀장은 &quot;최신 소비... ",
-			"pubDate":"Tue, 09 Aug 2022 13:40:00 +0900"
-		},
-		{
-			"title":"&quot;동선 바꾸니 고객 발길 늘었다&quot;…홈플러스 메가푸드마켓, 매출 69% ↑",
-			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2022080913241388861c3c506100_1\/article.html",
-			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2022080913241388861c3c506100_1\/article.html",
-			"description":"일례로 인천 간석점과 서울 방학점의 2030 고객은 전년 동기 대비 38% 증가했고, 월드컵점이35%, 인천 <b>청라<\/b>점이 28%, 대전 유성점이 28% 증가하며 30% 안팎의 높은 증가율을 보였다. 마이홈플러스 앱에 가입한 신규 회원수 역시... ",
-			"pubDate":"Tue, 09 Aug 2022 13:34:00 +0900"
-		},
-		{
-			"title":"포스코에너지, <b>청라<\/b> 1동 북카페 아동·청소년 도서 기증",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220809010002188",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220809010002188",
-			"description":"포스코에너지, <b>청라<\/b> 1동 북카페 아동·청소년 도서 기증 인천 서구 <b>청라<\/b> 1동 행정복지센터는 지난 8일 포스코에너지 인천발전소로부터 청사 내 ‘청초랑’ 북카페에 비치할 500만 원 상당 아동·청소년 도서 300여 권을... ",
-			"pubDate":"Tue, 09 Aug 2022 12:50:00 +0900"
-		},
-		{
-			"title":"&quot;고객 중심 동선 효과&quot;…홈플러스 메가푸드마켓, 매출 최대 69%↑",
-			"originallink":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022080911373283072",
-			"link":"http:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2022080911373283072",
-			"description":"인천 간석점과 서울 방학점의 2030 고객은 전년 동기 대비 38% 증가했고 월드컵점이35%, 인천 <b>청라<\/b>점이 28%, 대전 유성점이 28% 증가하며 30% 안팎의 높은 증가율을 보였다. 마이홈플러스 앱에 가입한 신규 회원 수는 49... ",
-			"pubDate":"Tue, 09 Aug 2022 12:36:00 +0900"
-		},
-		{
-			"title":"[인터뷰 | 김교흥 민주당 신임 인천시당 위원장] &quot;인천시당 문을 활짝 열어놓...",
-			"originallink":"http:\/\/www.naeil.com\/news_view\/?id_art=432065",
-			"link":"http:\/\/www.naeil.com\/news_view\/?id_art=432065",
-			"description":"김 위원장은 특히 &quot;<b>청라<\/b>시티타워 사업 정상화, 스타필드 돔구장, 루원시티 학교용지 확보, 수도권 쓰레기 매립지 종료와 이음카드 혜택 복원을 조속히 매듭시키겠다&quot;고 했다. 이는 그가 주장하는 &apos;유능한 정당&apos; &apos;이기는... ",
-			"pubDate":"Tue, 09 Aug 2022 12:16:00 +0900"
-		},
-		{
-			"title":"홈플러스 &quot;메가푸드마켓, &apos;동선 혁신&apos;으로 매출 급증&quot;",
-			"originallink":"http:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=62904",
-			"link":"http:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=62904",
-			"description":"일례로 인천 간석점과 서울 방학점의 2030 고객은 전년 동기 대비 38% 증가했고, 월드컵점이35%, 인천 <b>청라<\/b>점이 28%, 대전 유성점이 28% 증가하며 30% 안팎의 높은 증가율을 보였다. 마이홈플러스 앱에 가입한 신규... ",
-			"pubDate":"Tue, 09 Aug 2022 11:42:00 +0900"
-		},
-		{
-			"title":"하나은행, 강력한 ‘플랫폼’ 고도화 ‧ 오픈 아키텍처 혁신 [기획\/2022년 5대...",
-			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=244165",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002130372?sid=105",
-			"description":"하나금융티아이는 인천 <b>청라<\/b>지구에 대규모 데이터센터를 운용중이다. 하나금융티아이측은 “ESG 경영 실천의 과제로 친환경 그룹 통합데이터센터 운영을 통한 에너지 절감에 나서는 한편 금융권 1호 공인전자문서센터... ",
-			"pubDate":"Tue, 09 Aug 2022 11:35:00 +0900"
-		},
-		{
-			"title":"홈플러스 메가푸드마켓, ‘동선 혁신’ 매출 69% 증가",
-			"originallink":"https:\/\/www.fetv.co.kr\/news\/article.html?no=121800",
-			"link":"https:\/\/www.fetv.co.kr\/news\/article.html?no=121800",
-			"description":"일례로 인천 간석점과 서울 방학점의 2030 고객은 전년 동기 대비 38% 증가했고, 월드컵점이35%, 인천 <b>청라<\/b>점이 28%, 대전 유성점이 28% 증가하며 30% 안팎의 높은 증가율을 보였다. 마이홈플러스 앱에 가입한 신규 회원수... ",
-			"pubDate":"Tue, 09 Aug 2022 11:34:00 +0900"
-		},
-		{
-			"title":"홈플러스 메가푸드마켓, &apos;동선 혁신&apos;으로 매출 최대 69% 증가",
-			"originallink":"http:\/\/www.econovill.com\/news\/articleView.html?idxno=585024",
-			"link":"http:\/\/www.econovill.com\/news\/articleView.html?idxno=585024",
-			"description":"일례로 인천 간석점과 서울 방학점의 2030 고객은 전년 동기 대비 38% 증가했고 월드컵점 35%, 인천 <b>청라<\/b>점 28%, 대전 유성점이 28% 증가했다. 마이홈플러스 앱에 가입한 신규 회원수 역시 49% 급증하며 온라인 고객까지... ",
-			"pubDate":"Tue, 09 Aug 2022 10:54:00 +0900"
-		},
-		{
-			"title":"청약 저가점자 &apos;주거형 오피스텔&apos;로 눈길",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02322246632425680",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005287459?sid=101",
-			"description":"지난해 12월 인천 서구에서 분양한 ‘<b>청라<\/b>국제도시 아이파크’ 오피스텔의 전용 84㎡ 타입은 평균 658.5대 1의 경쟁률을 기록했다. 반면 전용 43㎡ 타입은 평균 7.6대 1의 경쟁률을 기록하며, 전용 84㎡ 오피스텔 경쟁률이... ",
-			"pubDate":"Tue, 09 Aug 2022 10:52:00 +0900"
-		},
-		{
-			"title":"홈플러스 메가푸드마켓, &apos;동선 혁신&apos;으로 매출 최대 69% 증가",
-			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=151022",
-			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=151022",
-			"description":"일례로 인천 간석점과 서울 방학점의 2030 고객은 전년 동기 대비 38% 증가했고, 월드컵점이35%, 인천 <b>청라<\/b>점이 28%, 대전 유성점이 28% 증가하며 30% 안팎의 높은 증가율을 보였습니다. 마이홈플러스 앱에 가입한 신규 회원수... ",
-			"pubDate":"Tue, 09 Aug 2022 10:42:00 +0900"
 		}
 	]
 }
