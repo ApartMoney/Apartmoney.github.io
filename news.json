@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 10 Aug 2022 16:00:02 +0900",
-	"total":182866,
+	"lastBuildDate":"Wed, 10 Aug 2022 16:10:02 +0900",
+	"total":182868,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"삼일씨엔에스, 833억 영종·<b>청라<\/b> 연결도로 건설공사 수주",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220810_0001974371&cID=10401&pID=10400",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011356008?sid=101",
+			"description":"규모의 연결도로 건설공사를 수주했다고 10일 공시했다. 이는 인천 중구 중산동과 서구 <b>청라<\/b>동에 위치한 영종~<b>청라<\/b> 연결도로를 짓는 사업이다. 계약금액은 최근 매출액의 37.2%에 달하며 오는 2025년 12월13일까지다.",
+			"pubDate":"Wed, 10 Aug 2022 16:05:00 +0900"
+		},
+		{
+			"title":"인천 서구문화재단, 26~27일 <b>청라<\/b>블루노바홀서 뮤지컬 &apos;포미니츠&apos; 개최",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363553558",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363553558",
+			"description":"인천 서구문화재단이 오는 26∼ 27일 <b>청라<\/b>블루노바홀 연극·뮤지컬 시리즈인&apos;디아떼 시리즈&apos; 첫 번째... 올해 여름 정동극장에서 재공연을 성황리에 마치고 <b>청라<\/b>블루노바홀 무대에 연이어 오른다. 포미니츠는 실화를... ",
+			"pubDate":"Wed, 10 Aug 2022 16:04:00 +0900"
+		},
 		{
 			"title":"삼일씨엔에스, 포스코건설과 834억 규모 공사계약 체결",
 			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20220810000738",
@@ -173,6 +187,13 @@
 			"pubDate":"Wed, 10 Aug 2022 10:32:00 +0900"
 		},
 		{
+			"title":"LH, 이달 분양·임대주택 총 2320가구 입주자 모집",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20220810091401937",
+			"link":"https:\/\/www.ajunews.com\/view\/20220810091401937",
+			"description":"인천영종지구는 인천국제공항고속도로, 공항철도선 등을 이용해 인천 송도·<b>청라<\/b> 및 서울 서부권 진입이 용이하며, 2025년 제3연륙교 개발도 예정돼있다. 모집 일정은 △청약접수(8월 16~18일) △당첨자 발표(8월... ",
+			"pubDate":"Wed, 10 Aug 2022 10:22:00 +0900"
+		},
+		{
 			"title":"LH, 이번 달 전국에서 분양·임대주택 총 2320호 공급",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220810010002483",
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220810010002483",
@@ -187,32 +208,11 @@
 			"pubDate":"Wed, 10 Aug 2022 10:22:00 +0900"
 		},
 		{
-			"title":"LH, 이달 분양·임대주택 총 2320가구 입주자 모집",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20220810091401937",
-			"link":"https:\/\/www.ajunews.com\/view\/20220810091401937",
-			"description":"인천영종지구는 인천국제공항고속도로, 공항철도선 등을 이용해 인천 송도·<b>청라<\/b> 및 서울 서부권 진입이 용이하며, 2025년 제3연륙교 개발도 예정돼있다. 모집 일정은 △청약접수(8월 16~18일) △당첨자 발표(8월... ",
-			"pubDate":"Wed, 10 Aug 2022 10:22:00 +0900"
-		},
-		{
 			"title":"LH, 8월 전국에 시세보다 저렴한 공공분양·임대주택 총 2,320호 공급",
 			"originallink":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=361788",
 			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=361788",
 			"description":"인천영종지구는 인천국제공항고속도로, 공항철도선 등을 이용해 인천 송도·<b>청라<\/b> 및 서울 서부권 진입이 용이하며, 제3연륙교 개발로 교통여건이 대폭 개선될 전망이다. 또한, A33블록은 중산동 내 인구밀집지역에... ",
 			"pubDate":"Wed, 10 Aug 2022 10:20:00 +0900"
-		},
-		{
-			"title":"LH, 8월 전국 분양·임대주택 총 2320가구 공급",
-			"originallink":"http:\/\/www.mediapen.com\/news\/view\/745096",
-			"link":"http:\/\/www.mediapen.com\/news\/view\/745096",
-			"description":"인천영종지구는 인천국제공항고속도로, 공항철도선 등을 이용해 인천 송도·<b>청라<\/b> 및 서울 서부권 진입이 가능하며 제3연륙교(2025년 개통)도 예정됐다. 모집 일정은 오는 16일부터 18일까지 청약 접수를 받고 당첨자... ",
-			"pubDate":"Wed, 10 Aug 2022 10:20:00 +0900"
-		},
-		{
-			"title":"보령 한달살기, &apos;가을시즌&apos; 참가자 모집",
-			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=265573",
-			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=265573",
-			"description":"김동일 보령시장은 &quot;아름다운 성주산 단풍과 <b>청라<\/b> 은행마을, 무창포 대하전어 축제, 무창포 신비의 바닷길 축제 등이 관광객 여러분을 기다리고 있다&quot;며 &quot;가을뿐만 아니라 사계절 모두가 아름다운 보령에 방문하여... ",
-			"pubDate":"Wed, 10 Aug 2022 10:12:00 +0900"
 		}
 	]
 }
