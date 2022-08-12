@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 12 Aug 2022 14:40:02 +0900",
-	"total":182994,
+	"lastBuildDate":"Fri, 12 Aug 2022 14:50:02 +0900",
+	"total":182995,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"다원시스, 상반기 매출 907억…&quot;하반기 턴어라운드 기대&quot;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220812_0001977179&cID=10403&pID=15000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011360462?sid=101",
+			"description":"다원시스 관계자는 &quot;검단∙<b>청라<\/b>연장선 추가 수주 등 약 9885억원의 안정적인 수주잔고와 점진적인 생산성 증가로 하반기부터는 흑자전환이 기대된다&quot;고 말했다. 한편 다원시스는 올해 신규 사업인 반도체·디스플레이... ",
+			"pubDate":"Fri, 12 Aug 2022 14:44:00 +0900"
+		},
 		{
 			"title":"인천시 &quot;수도권매립지 경제자유구역 지정 연구 추진&quot;(종합)",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220812061551065?input=1195m",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220811010002294",
 			"description":"또 서구 <b>청라<\/b>국제도시에 주요 계열사와 본사를 모으는 &apos;하나드림타운&apos;을 조성하는 등 지역사회 공헌 활동을 활발하게 추진하고 있다. 하나은행이 서구 금고를 수성할지, 신한은행 등 다른 은행이 금고를 탈환·입성할지... ",
 			"pubDate":"Thu, 11 Aug 2022 20:58:00 +0900"
-		},
-		{
-			"title":"&apos;BJ 찾아가려고&apos; 흉기 위협·택시 탈취한 20대, 스토킹 범행도 했다",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220811_0001976264&cID=10802&pID=14000",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011359027?sid=102",
-			"description":"A씨는 택시를 타고 도주하던 중 <b>청라<\/b>IC 인근 도로에서 또 다른 택시의 뒤 범퍼를 들이받았다. 또 경기 군포시 수도권제1순환고속도로 산본IC 출구에서 가드레일과 충돌한 뒤 경찰에 체포됐다. 당시 A씨는 신고를 받고... ",
-			"pubDate":"Thu, 11 Aug 2022 20:24:00 +0900"
 		}
 	]
 }
