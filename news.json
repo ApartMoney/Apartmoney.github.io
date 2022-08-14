@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 14 Aug 2022 15:50:02 +0900",
-	"total":183078,
+	"lastBuildDate":"Sun, 14 Aug 2022 16:00:03 +0900",
+	"total":183079,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[특보] 새벽 시간당 110mm 기습호우…부여 등 피해 속출",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5532513&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011320489?sid=102",
+			"description":"부여에서는 은산면과 규암면 일대 시설하우스 등 170여 ㏊가 침수됐고 보령 <b>청라<\/b>면 등에서도 논 30여㏊가 침수되는 등 충남 남부를 중심으로 200여㏊ 이상 피해를 본 것으로 잠정 집계됐습니다. 도로가 유실된 구간도... ",
+			"pubDate":"Sun, 14 Aug 2022 15:44:00 +0900"
+		},
 		{
 			"title":"[집중호우] 부여·청양 폭우에 2명 실종·농경지 침수 등 피해 속출(종합)",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220814030100063?input=1195m",
@@ -40,17 +47,17 @@
 			"pubDate":"Sun, 14 Aug 2022 12:45:00 +0900"
 		},
 		{
-			"title":"충남 부여에 폭우 쏟아져… 트럭 떠내려가 2명 실종",
-			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=477711",
-			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=477711",
-			"description":"보령 <b>청라<\/b>와 신흑동 등에서는 주택 마당 등의 침수가 12건 발생했고, 대천천 하상주차장에도 물이 차는 등 모두 18건의 시설피해가 발생했다. 청양 남양면과 장평면 낙지리에서는 사면 유실이 발생했다. 현재 일부... ",
-			"pubDate":"Sun, 14 Aug 2022 12:26:00 +0900"
-		},
-		{
 			"title":"충남 도로·사면 유실 시설 피해 18건…농작물 200여㏊ 침수",
 			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=669411",
 			"link":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=669411",
 			"description":"보령 <b>청라<\/b>와 신흑동 등에서 주택 마당 등의 침수가 12건 발생했으며, 대천천 하상주차장에도 물이 차는 등... 보령 <b>청라<\/b>면 등에서도 논 30여㏊에 물이 들어찼으며, 청양의 멜론 비닐하우스 10여㏊와 공주, 논산... ",
+			"pubDate":"Sun, 14 Aug 2022 12:26:00 +0900"
+		},
+		{
+			"title":"충남 부여에 폭우 쏟아져… 트럭 떠내려가 2명 실종",
+			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=477711",
+			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=477711",
+			"description":"보령 <b>청라<\/b>와 신흑동 등에서는 주택 마당 등의 침수가 12건 발생했고, 대천천 하상주차장에도 물이 차는 등 모두 18건의 시설피해가 발생했다. 청양 남양면과 장평면 낙지리에서는 사면 유실이 발생했다. 현재 일부... ",
 			"pubDate":"Sun, 14 Aug 2022 12:26:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.travelitoday.com\/read\/contentsView\/15487\/41",
 			"description":"김동일 보령시장은 “아름다운 성주산 단풍과 <b>청라<\/b> 은행마을, 무창포 대하전어 축제, 무창포 신비의 바닷길 축제 등이 관광객 여러분을 기다리고 있다”며 “가을뿐만 아니라 사계절 모두가 아름다운 보령에... ",
 			"pubDate":"Sat, 13 Aug 2022 09:38:00 +0900"
-		},
-		{
-			"title":"폐기물이 옷과 가방이 되기까지…",
-			"originallink":"https:\/\/www.eroun.net\/news\/articleView.html?idxno=29279",
-			"link":"https:\/\/www.eroun.net\/news\/articleView.html?idxno=29279",
-			"description":"폐완구를 활용한 전시회가 올해 5월 <b>청라<\/b>블루노바홀 B1 전시실에서 진행됐다. 이 전시실에서는 버려진 장난감이 예술 작품으로 재탄생하는 과정이 전시됐다. 또한 버려진 장난감 플라스틱 조각으로 작품을 만드는 등의... ",
-			"pubDate":"Sat, 13 Aug 2022 08:08:00 +0900"
 		}
 	]
 }
