@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 14 Aug 2022 16:30:02 +0900",
-	"total":183081,
+	"lastBuildDate":"Sun, 14 Aug 2022 16:40:02 +0900",
+	"total":183082,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 서구, 포스코에너지 인천발전소로부터 아동·청소년 도서 기증 받아",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160292587334549",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160292587334549",
+			"description":"인천 서구 <b>청라<\/b>1동 행정복지센터(동장 김남효)는 최근 포스코에너지 인천발전소로부터 청사 내 ‘청초랑’ 북카페에 비치할 500만 원 상당 아동·청소년 도서 300여 권을 전달받았다고 밝혔다. 포스코에너지 인천발전소는... ",
+			"pubDate":"Sun, 14 Aug 2022 16:32:00 +0900"
+		},
 		{
 			"title":"폭우 쏟아진 충남 부여·청양 2명 실종…농경지 피해 200㏊",
 			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/08\/14\/20220814510026.html?OutUrl=naver",
@@ -61,17 +68,17 @@
 			"pubDate":"Sun, 14 Aug 2022 12:45:00 +0900"
 		},
 		{
-			"title":"충남 도로·사면 유실 시설 피해 18건…농작물 200여㏊ 침수",
-			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=669411",
-			"link":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=669411",
-			"description":"보령 <b>청라<\/b>와 신흑동 등에서 주택 마당 등의 침수가 12건 발생했으며, 대천천 하상주차장에도 물이 차는 등... 보령 <b>청라<\/b>면 등에서도 논 30여㏊에 물이 들어찼으며, 청양의 멜론 비닐하우스 10여㏊와 공주, 논산... ",
-			"pubDate":"Sun, 14 Aug 2022 12:26:00 +0900"
-		},
-		{
 			"title":"충남 부여에 폭우 쏟아져… 트럭 떠내려가 2명 실종",
 			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=477711",
 			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=477711",
 			"description":"보령 <b>청라<\/b>와 신흑동 등에서는 주택 마당 등의 침수가 12건 발생했고, 대천천 하상주차장에도 물이 차는 등 모두 18건의 시설피해가 발생했다. 청양 남양면과 장평면 낙지리에서는 사면 유실이 발생했다. 현재 일부... ",
+			"pubDate":"Sun, 14 Aug 2022 12:26:00 +0900"
+		},
+		{
+			"title":"충남 도로·사면 유실 시설 피해 18건…농작물 200여㏊ 침수",
+			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=669411",
+			"link":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=669411",
+			"description":"보령 <b>청라<\/b>와 신흑동 등에서 주택 마당 등의 침수가 12건 발생했으며, 대천천 하상주차장에도 물이 차는 등... 보령 <b>청라<\/b>면 등에서도 논 30여㏊에 물이 들어찼으며, 청양의 멜론 비닐하우스 10여㏊와 공주, 논산... ",
 			"pubDate":"Sun, 14 Aug 2022 12:26:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=244547",
 			"description":"▲인천 <b>청라<\/b>지구 인근 신인천가스발전단지 ⓒE2 DB 한전의 전기요금 적자가 4~6월 석달사이 6조5164억원이나 불어났다. 매달 2조원 이상 빚이 증가한 셈이다. 전기생산 연료인 천연가스·석탄·석유가격은 크게... ",
 			"pubDate":"Sat, 13 Aug 2022 15:58:00 +0900"
-		},
-		{
-			"title":"인천시 서구 <b>청라<\/b>3동 주민자치회, ‘동심의 나라로~’ 초등생과 함께 신나는 ...",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287911030891",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287911030891",
-			"description":"최근 인천 서구 <b>청라<\/b>3동 주민자치회 교육복지분과가 ‘동심의 나라로~ 신나는 강화 문화탐방’을 진행했다. 이번 문화탐방은 올해 <b>청라<\/b>3동 주민참여예산 주민자치 사업 중 하나로 관내 초등 3학년부터 6학년생을 대상으로... ",
-			"pubDate":"Sat, 13 Aug 2022 15:16:00 +0900"
 		}
 	]
 }
