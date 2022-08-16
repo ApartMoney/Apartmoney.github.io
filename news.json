@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 16 Aug 2022 19:30:02 +0900",
-	"total":183173,
+	"lastBuildDate":"Tue, 16 Aug 2022 19:40:02 +0900",
+	"total":183174,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"리본카, 1억원 규모 ‘CM송 챌린지’ 영상 공모전",
+			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2022081602109932064008&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002749296?sid=103",
+			"description":"오토플러스는 비대면 중고차 브랜드 리본카가 지난 13일 인천 <b>청라<\/b> 종합정비 관리센터인 ATC에서 총 상금 1억원 규모의 &apos;CM송 챌린지&apos; 영상 공모전 시상식을 개최했다고 16일 밝혔다. 이날 시상식에는 특별상 수상자를... ",
+			"pubDate":"Tue, 16 Aug 2022 19:23:00 +0900"
+		},
 		{
 			"title":"[B tv 인천뉴스] 서구, <b>청라<\/b> 시티타워 사업 정상화 촉구",
 			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=144883",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004087966?sid=102",
 			"description":"편리한 교통환경 구현과 사통팔달 도로망 구축을 위해 <b>청라<\/b>지구~북항간 도로 신설 100억 원 등에 286억 원을 편성했고, 어린이보호구역 무인단속 장비 확충, 도시철도차량 내 폐쇄회로(CCTV) 설치 등 교통안전 예산... ",
 			"pubDate":"Tue, 16 Aug 2022 14:04:00 +0900"
-		},
-		{
-			"title":"인천 서구, LH에 <b>청라<\/b>시티타워사업 정상화 요청",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220816095100065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013377873?sid=102",
-			"description":"인천시 서구는 16일 한국토지주택공사(LH)에 <b>청라<\/b>시티타워 사업 정상화 등 지역현안 해결을 요청했다고 밝혔다. <b>청라<\/b>시티타워 사업은 <b>청라<\/b>국제도시 호수공원 중심부에 있는 3만3천㎡ 부지에 지하 2층·지상 30층·높이... ",
-			"pubDate":"Tue, 16 Aug 2022 13:57:00 +0900"
 		}
 	]
 }
