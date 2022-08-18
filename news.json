@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 18 Aug 2022 18:10:02 +0900",
-	"total":182893,
+	"lastBuildDate":"Thu, 18 Aug 2022 18:20:03 +0900",
+	"total":182894,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천사서원, 우리 손으로 만드는 복지지도",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202208181020073880821",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202208181020073880821",
+			"description":"보면 <b>청라<\/b>신도시, 검단신도시 개발과 같이 최근 몇 년 사이 큰 변화가 있었다는 사실을 알 수 있다”고 말했다. 이렇게 노인들의 손으로 직접 만든 복지지도는 올해 가을이면 모두 완성한다. 부평센터는 오는 10월 사업을... ",
+			"pubDate":"Thu, 18 Aug 2022 18:12:00 +0900"
+		},
 		{
 			"title":"[B tv 인천뉴스] &quot;GTX B·D·E 조속 건설 협의&quot;…인천시-국힘 &apos;예산정책협의회...",
 			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=144990",
@@ -36,7 +43,7 @@
 			"title":"“시원하게 버스 기다리고 싶어요” 인천 신·원도심 교통복지差 심각",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20220818580109",
 			"link":"https:\/\/www.kyeonggi.com\/article\/20220818580109",
-			"description":"서구 <b>청라<\/b> 신도시 홈플러스 인근 버스정류장에도 쿨링포그가 가동되는 반면, 서구 석남동 홈플러스 인근 버스정류장은 햇빛 가림막조차 없어 땡볕에서 버스를 기다려야 한다. 이곳에서 만난 직장인 유민희씨(28·여)는... ",
+			"description":"서구 <b>청라<\/b> 신도시 홈플러스 인근 버스정류장에도 쿨링포그가 가동되는 반면, 구도심인 서구 석남동 홈플러스 인근 버스정류장은 햇빛 가림막조차 없어 시민들은 온 몸으로 땡볕을 체험하며 버스를 애타게 기다리고... ",
 			"pubDate":"Thu, 18 Aug 2022 17:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=59363",
 			"description":"송인경 작가는 2016년 스타벅스 신세계 본점의 스트링아트 작업을 시작으로, BGF 리테일 빌딩 고객접견실, 인천 <b>청라<\/b>지구 하나금융 인재개발원, 롯데호텔 클럽라운지 등 국내 유수 스트링아트 작업을 수행한 바 있다.... ",
 			"pubDate":"Wed, 17 Aug 2022 19:10:00 +0900"
-		},
-		{
-			"title":"GTX 등 지역현안 물꼬 트나…인천시, 여당지도부와 예산정책협의회",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1157376",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1157376",
-			"description":"7호선 <b>청라<\/b> 연장(954억 원) ▲공항철도∼서울9호선 직결(사업 조속추진) ▲GTX-B노선(480억 원) 등 16개 사업, 3849억 원의 국비 반영을 요청했다. 국비 지원 외에도 ▲GCF 콤플렉스 조성(예타 면제) ▲수소생산 클러스터 구축... ",
-			"pubDate":"Wed, 17 Aug 2022 19:04:00 +0900"
 		}
 	]
 }
