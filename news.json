@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 18 Aug 2022 19:50:02 +0900",
-	"total":182894,
+	"lastBuildDate":"Thu, 18 Aug 2022 20:00:02 +0900",
+	"total":182895,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[걷고 보고 느끼고] 사과의 도시를 걷다",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5536308&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011323404?sid=102",
+			"description":"대구하면 사과를 떠올렸지만 도시화와 기후변화로 옛 명성을 잃어버린지 오래다. 19세기 말 미국 선교사 존슨이 <b>청라<\/b>언덕에 심은 대구 최초의 사과나무와 동구 평광동 사과 마을에서 사과의 고장 대구의 흔적을 찾아본다.",
+			"pubDate":"Thu, 18 Aug 2022 19:46:00 +0900"
+		},
 		{
 			"title":"인천사서원, 우리 손으로 만드는 복지지도",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202208181020073880821",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=362503",
 			"description":"7호선 <b>청라<\/b> 연장(954억 원) ▲공항철도~서울9호선 직결(사업 조속추진) ▲GTX- B노선(480억 원) 등 16개 사업, 3,849억 원의 국비 반영을 요청했다. 국비 지원 외에도 ▲GCF 콤플렉스(Complex) 조성(예타 면제) ▲수소생산 클러스터... ",
 			"pubDate":"Wed, 17 Aug 2022 19:46:00 +0900"
-		},
-		{
-			"title":"광주송정역 주변 광산로, 예술 거리로 탈바꿈",
-			"originallink":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=59363",
-			"link":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=59363",
-			"description":"송인경 작가는 2016년 스타벅스 신세계 본점의 스트링아트 작업을 시작으로, BGF 리테일 빌딩 고객접견실, 인천 <b>청라<\/b>지구 하나금융 인재개발원, 롯데호텔 클럽라운지 등 국내 유수 스트링아트 작업을 수행한 바 있다.... ",
-			"pubDate":"Wed, 17 Aug 2022 19:10:00 +0900"
 		}
 	]
 }
