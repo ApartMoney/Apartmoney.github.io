@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 19 Aug 2022 19:00:02 +0900",
-	"total":182923,
+	"lastBuildDate":"Fri, 19 Aug 2022 19:10:03 +0900",
+	"total":182924,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대신대학교 선교문화센터 건립 착공 감사예배",
+			"originallink":"http:\/\/www.cts.tv\/news\/view?ncate=THMNWS01&dpid=293339",
+			"link":"http:\/\/www.cts.tv\/news\/view?ncate=THMNWS01&dpid=293339",
+			"description":"선교 기록 등 대구경북지역 선교 자료를 전시할 예정 입니다. 명예총장 전재규 장로는 “대구 경북 기독교의 시작인 <b>청라<\/b>언덕과 대신대 선교문화센터 를 잇는 기독교 역사의 벨트로 이어지길 기 대한다”고 말했습니다.",
+			"pubDate":"Fri, 19 Aug 2022 19:02:00 +0900"
+		},
 		{
 			"title":"[햐양머드 보령] &apos;티맵 검색 1위&apos; 보령 대천해수욕장 전국 여름철 최고의 휴양...",
 			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=577114",
@@ -131,16 +138,16 @@
 			"pubDate":"Fri, 19 Aug 2022 11:02:00 +0900"
 		},
 		{
-			"title":"보령시, 대천해수욕장 등 주요 관광지 관광객 늘어",
-			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220819010005340",
-			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220819010005340",
+			"title":"&apos;티맵 검색 1위&apos; 보령시, 여름철 최고의 휴가지 입증",
+			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=266393",
+			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=266393",
 			"description":"이밖에 <b>청라<\/b> 냉풍욕장에는 7월 27일부터 8월 18일까지 약 8만5000 명이 다녀가 무더위에 최고의 피서를 즐길 수 있는 보령의 대표 관광지가 됐으며, 여름철 성수기 운영 기간에 약 2만5000 명이 다녀간... ",
 			"pubDate":"Fri, 19 Aug 2022 10:40:00 +0900"
 		},
 		{
-			"title":"&apos;티맵 검색 1위&apos; 보령시, 여름철 최고의 휴가지 입증",
-			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=266393",
-			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=266393",
+			"title":"보령시, 대천해수욕장 등 주요 관광지 관광객 늘어",
+			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220819010005340",
+			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220819010005340",
 			"description":"이밖에 <b>청라<\/b> 냉풍욕장에는 7월 27일부터 8월 18일까지 약 8만5000 명이 다녀가 무더위에 최고의 피서를 즐길 수 있는 보령의 대표 관광지가 됐으며, 여름철 성수기 운영 기간에 약 2만5000 명이 다녀간... ",
 			"pubDate":"Fri, 19 Aug 2022 10:40:00 +0900"
 		},
@@ -166,17 +173,17 @@
 			"pubDate":"Fri, 19 Aug 2022 09:38:00 +0900"
 		},
 		{
-			"title":"청약통장 필요 없는 주거용 오피스텔… &apos;영종 SK VIEW&apos; 19일까지 정당계약 실...",
-			"originallink":"http:\/\/www.issuenbiz.com\/news\/articleView.html?idxno=16152",
-			"link":"http:\/\/www.issuenbiz.com\/news\/articleView.html?idxno=16152",
-			"description":"여기에 영종~<b>청라<\/b>를 잇는 제3연륙교가 2025년 개통 예정으로, 신월여의지하도로와 연계돼 여의도까지 차량 30분 이내 접근이 가능해질 전망이다. 영종국제도시의 핵심 인프라를 누리는 주거환경도 주목된다. 롯데마트... ",
-			"pubDate":"Fri, 19 Aug 2022 09:00:00 +0900"
-		},
-		{
 			"title":"지식산업센터도 &apos;규모의 경제&apos; 실현 <b>청라<\/b> 최대 규모 갖춘 &apos;<b>청라<\/b> SK V1&apos; 눈길",
 			"originallink":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=18325",
 			"link":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=18325",
 			"description":"사진\/<b>청라<\/b> SK V1 제공 지식산업센터 시장에서 규모의 경제 효과가 두드러지게 나타나고 있어 눈길을 끌고... 이러한 가운데 <b>청라<\/b>국제도시 내 최대 규모를 갖춘 지식산업센터 &apos;<b>청라<\/b> SK V1&apos;이 공급 예정이어서 눈길을 끈다.... ",
+			"pubDate":"Fri, 19 Aug 2022 09:00:00 +0900"
+		},
+		{
+			"title":"청약통장 필요 없는 주거용 오피스텔… &apos;영종 SK VIEW&apos; 19일까지 정당계약 실...",
+			"originallink":"http:\/\/www.issuenbiz.com\/news\/articleView.html?idxno=16152",
+			"link":"http:\/\/www.issuenbiz.com\/news\/articleView.html?idxno=16152",
+			"description":"여기에 영종~<b>청라<\/b>를 잇는 제3연륙교가 2025년 개통 예정으로, 신월여의지하도로와 연계돼 여의도까지 차량 30분 이내 접근이 가능해질 전망이다. 영종국제도시의 핵심 인프라를 누리는 주거환경도 주목된다. 롯데마트... ",
 			"pubDate":"Fri, 19 Aug 2022 09:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363554651",
 			"description":"인천시 서구 <b>청라<\/b>국제도시에 건설하기로 한 스타필드 <b>청라<\/b> 공사가 1년여째 멈춰 선 가운데 공사 현장이 적막할 정도로 조용하다. 사진=중부DB 신세계그룹이 지난해 3월 &apos;스타필드 <b>청라<\/b>&apos;에 돔구장을 추가 건설하겠다는... ",
 			"pubDate":"Thu, 18 Aug 2022 20:56:00 +0900"
-		},
-		{
-			"title":"[걷고 보고 느끼고] 사과의 도시를 걷다",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5536308&amp;ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011323404?sid=102",
-			"description":"대구하면 사과를 떠올렸지만 도시화와 기후변화로 옛 명성을 잃어버린지 오래다. 19세기 말 미국 선교사 존슨이 <b>청라<\/b>언덕에 심은 대구 최초의 사과나무와 동구 평광동 사과 마을에서 사과의 고장 대구의 흔적을 찾아본다.",
-			"pubDate":"Thu, 18 Aug 2022 19:46:00 +0900"
 		}
 	]
 }
