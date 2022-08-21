@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 21 Aug 2022 13:50:02 +0900",
-	"total":181868,
+	"lastBuildDate":"Sun, 21 Aug 2022 14:00:02 +0900",
+	"total":181869,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[단독] &quot;인천시 &apos;만석 우회고가교 철거&apos; 전면 재검토해야&quot;",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=909918",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=909918",
+			"description":"또 <b>청라<\/b>국제도시와 송도국제도시를 잇는 중간 원도심 권역에 즐겨 찾는 관광명소는 물론 경인선을 이용한 서울과 수도권, 수인선을 통한 안산, 수원지역의 관광객 유입도 충분히 고려 가능한 입지를 배후로 갖고 있다.... ",
+			"pubDate":"Sun, 21 Aug 2022 13:58:00 +0900"
+		},
 		{
 			"title":"[르포] 녹지 한가득 영종국제도시에 &apos;호반써밋&apos; 아파트",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1589108",
@@ -152,13 +159,6 @@
 			"pubDate":"Fri, 19 Aug 2022 16:05:00 +0900"
 		},
 		{
-			"title":"KLPGT, 2022 KLPGA PLK 챔피언스 클래식 개최 조인식 가져",
-			"originallink":"http:\/\/www.stoo.com\/article.php?aid=82091630571",
-			"link":"http:\/\/www.stoo.com\/article.php?aid=82091630571",
-			"description":"PLK가 주최하고 KLPGA가 주관하는 2022 KLPGA PLK 챔피언스 클래식은 총 1억4000만 원(대회 당 총상금 7000만 원)을 놓고 인천에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽에서 개최된다. 1차전은 오는 9월 15일부터 16일까지... ",
-			"pubDate":"Fri, 19 Aug 2022 16:02:00 +0900"
-		},
-		{
 			"title":"&apos;티맵 검색 1위&apos; 보령시, 여름철 최고의 휴가지 입증",
 			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=670078",
 			"link":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=670078",
@@ -166,17 +166,24 @@
 			"pubDate":"Fri, 19 Aug 2022 16:02:00 +0900"
 		},
 		{
-			"title":"KLPGT, 퍼시픽링스코리아와 &apos;챔피언스 클래식&apos; 개최 조인식 체결",
-			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=55300",
-			"link":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=55300",
-			"description":"챔피언스 클래식 대회 개최 조인식을 체결했다고 19일 밝혔다. 챔피언스 클래식은 총 1억4천만원(차전별 상금 7천만원)으로 1차전(9월 15일~16일), 2차전(11월 3일~4일)이 베어즈베스트 <b>청라<\/b>GC에서 진행된다.",
-			"pubDate":"Fri, 19 Aug 2022 15:50:00 +0900"
+			"title":"KLPGT, 2022 KLPGA PLK 챔피언스 클래식 개최 조인식 가져",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=82091630571",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=82091630571",
+			"description":"PLK가 주최하고 KLPGA가 주관하는 2022 KLPGA PLK 챔피언스 클래식은 총 1억4000만 원(대회 당 총상금 7000만 원)을 놓고 인천에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽에서 개최된다. 1차전은 오는 9월 15일부터 16일까지... ",
+			"pubDate":"Fri, 19 Aug 2022 16:02:00 +0900"
 		},
 		{
 			"title":"독학재수학원 잇올 스파르타, 명문대 라이브멘토 힐링 콘서트 성황리에 진행",
 			"originallink":"http:\/\/www.lecturernews.com\/news\/articleView.html?idxno=104986",
 			"link":"http:\/\/www.lecturernews.com\/news\/articleView.html?idxno=104986",
 			"description":"이번 라이브멘토 힐링 콘서트는 학생들의 높은 만족도와 호응으로 9월 평가원 모의고사 이후 9월 6일(화)에는 인천 <b>청라<\/b>센터에서 외부생 및 학부모, 재원생들과 상담을 진행하는 라이브멘토 힐링 콘서트가 추가로... ",
+			"pubDate":"Fri, 19 Aug 2022 15:50:00 +0900"
+		},
+		{
+			"title":"KLPGT, 퍼시픽링스코리아와 &apos;챔피언스 클래식&apos; 개최 조인식 체결",
+			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=55300",
+			"link":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=55300",
+			"description":"챔피언스 클래식 대회 개최 조인식을 체결했다고 19일 밝혔다. 챔피언스 클래식은 총 1억4천만원(차전별 상금 7천만원)으로 1차전(9월 15일~16일), 2차전(11월 3일~4일)이 베어즈베스트 <b>청라<\/b>GC에서 진행된다.",
 			"pubDate":"Fri, 19 Aug 2022 15:50:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.it-b.co.kr\/news\/articleView.html?idxno=62013",
 			"description":"서구 <b>청라<\/b> 국제도시의 제페토 메타버스 맵이 사람들의 큰 관심을 불러일으키며 3주만에 누적 방문자 수 5만명을 돌파했다. 이는 지자체 맵 중 역대 최고의 누적 방문자 수이다. 해당 맵은 <b>청라<\/b> 국제도시를 그대로 제페토로... ",
 			"pubDate":"Fri, 19 Aug 2022 15:04:00 +0900"
-		},
-		{
-			"title":"보령시 ‘티맵 검색 1위’…올해 최고 여름 휴양지 입증",
-			"originallink":"https:\/\/www.news1.kr\/articles\/4777805",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006286922?sid=102",
-			"description":"이밖에 <b>청라<\/b>냉풍욕장에는 7월27일부터 18일까지 약 8만5000명이, 성주자연휴양림에는 약 2만5000명이 다녀갔다. 김동일 시장은 “전국의 관광객들이 보령을 방문해 주셔서 2022보령해양머드박람회와 제25회... ",
-			"pubDate":"Fri, 19 Aug 2022 14:26:00 +0900"
 		}
 	]
 }
