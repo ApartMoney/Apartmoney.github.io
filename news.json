@@ -1,5 +1,5 @@
 {
-	"lastBuildDate":"Mon, 22 Aug 2022 12:40:02 +0900",
+	"lastBuildDate":"Mon, 22 Aug 2022 12:50:02 +0900",
 	"total":182981,
 	"start":1,
 	"display":30,
@@ -54,17 +54,17 @@
 			"pubDate":"Mon, 22 Aug 2022 11:05:00 +0900"
 		},
 		{
-			"title":"올해 전국 상가 입주물량 전년 대비 20% 감소",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=944057",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=944057",
-			"description":"이 중 인천의 경우 <b>청라<\/b>, 검단 등 신도시가 위치한 서구의 근린상가 입주가 늘면서 2005년(5577개) 이후 최다 물량이 공급될 예정이다. 2019년 이후 수도권에서만 연 2만 개 이상의 상가가 신규 공급됐다는... ",
-			"pubDate":"Mon, 22 Aug 2022 11:02:00 +0900"
-		},
-		{
 			"title":"IFEZ 내  사고다발 장소에 스마트 횡단보도 설치",
 			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=98843",
 			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=98843",
 			"description":"▲<b>청라<\/b>국제도시 청람초등학교앞 사거리 설치 스마트 횡단보도 모습). 또 영종국제도시는 보행자가 많고 어린이 보호를 위해 영종하늘도시 교차로 4곳, <b>청라<\/b>국제도시는 △<b>청라<\/b>중 입구 네거리 △<b>청라<\/b>초교 남측(단일로)... ",
+			"pubDate":"Mon, 22 Aug 2022 11:02:00 +0900"
+		},
+		{
+			"title":"올해 전국 상가 입주물량 전년 대비 20% 감소",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=944057",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=944057",
+			"description":"이 중 인천의 경우 <b>청라<\/b>, 검단 등 신도시가 위치한 서구의 근린상가 입주가 늘면서 2005년(5577개) 이후 최다 물량이 공급될 예정이다. 2019년 이후 수도권에서만 연 2만 개 이상의 상가가 신규 공급됐다는... ",
 			"pubDate":"Mon, 22 Aug 2022 11:02:00 +0900"
 		},
 		{
@@ -96,17 +96,17 @@
 			"pubDate":"Mon, 22 Aug 2022 10:58:00 +0900"
 		},
 		{
-			"title":"수도권 상가 3년 연속 2만개 이상 공급···“투자 유의”",
-			"originallink":"https:\/\/www.khan.co.kr\/economy\/economy-general\/article\/202208221051001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003167997?sid=103",
-			"description":"이 중 인천의 경우 <b>청라<\/b>, 검단 등 신도시가 위치한 서구의 근린상가 입주가 늘면서 2005년(5577개) 이후 최다 물량이 공급될 것으로 전망됐다. 부동산R114는 “2019년 이후 수도권에서만 연 2만 개 이상의 상가가... ",
-			"pubDate":"Mon, 22 Aug 2022 10:52:00 +0900"
-		},
-		{
 			"title":"인천경제자유구역 내 사고다발 장소…스마트 횡단보도 설치 완료",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220822010005360",
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220822010005360",
 			"description":"22일 인천경제청에 따르면 최신 정보통신기술(ICT)을 접목한 스마트 횡단보도를 송도·영종·<b>청라<\/b> 국제도시에... 또 영종국제도시는 보행자가 많고 어린이 보호를 위해 영종하늘도시 교차로 4곳, <b>청라<\/b>국제도시는 △<b>청라<\/b>중... ",
+			"pubDate":"Mon, 22 Aug 2022 10:52:00 +0900"
+		},
+		{
+			"title":"수도권 상가 3년 연속 2만개 이상 공급···“투자 유의”",
+			"originallink":"https:\/\/www.khan.co.kr\/economy\/economy-general\/article\/202208221051001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003167997?sid=103",
+			"description":"이 중 인천의 경우 <b>청라<\/b>, 검단 등 신도시가 위치한 서구의 근린상가 입주가 늘면서 2005년(5577개) 이후 최다 물량이 공급될 것으로 전망됐다. 부동산R114는 “2019년 이후 수도권에서만 연 2만 개 이상의 상가가... ",
 			"pubDate":"Mon, 22 Aug 2022 10:52:00 +0900"
 		},
 		{
@@ -152,6 +152,13 @@
 			"pubDate":"Mon, 22 Aug 2022 09:12:00 +0900"
 		},
 		{
+			"title":"오피스텔 투자 적기 &apos;尹정부 시대&apos;, 새집은 처음이라 &apos;더챔버(The Chamber)&apos; ...",
+			"originallink":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=91429",
+			"link":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=91429",
+			"description":"이처럼 교통 편의성이 높은 데다 화곡역 인근에 형성된 다양한 생활 인프라를 바탕으로 편리한 생활이 가능하며, 화곡역에 대장홍대선(예정), 2호선 <b>청라<\/b>연장선(예정) 등이 개통하면 트리플 역세권으로 거듭나는 등... ",
+			"pubDate":"Mon, 22 Aug 2022 09:02:00 +0900"
+		},
+		{
 			"title":"&apos;호반써밋 더 센트럴&apos; 대구 중구에 이달 분양",
 			"originallink":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2022\/08\/18\/2022081801012.html",
 			"link":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2022\/08\/18\/2022081801012.html",
@@ -163,13 +170,6 @@
 			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=259439",
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=259439",
 			"description":"완공 시 지역 주민들은 <b>청라<\/b>국제도시와의 접근성이 크게 향상될 전망이다. 이에 따라 스타필드 <b>청라<\/b>(예정), 코스트코 <b>청라<\/b>(예정), <b>청라<\/b> 서울 아산병원(예정) 등을 편리하게 이용할 수 있을 것으로 보인다. 영종도... ",
-			"pubDate":"Mon, 22 Aug 2022 09:02:00 +0900"
-		},
-		{
-			"title":"오피스텔 투자 적기 &apos;尹정부 시대&apos;, 새집은 처음이라 &apos;더챔버(The Chamber)&apos; ...",
-			"originallink":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=91429",
-			"link":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=91429",
-			"description":"이처럼 교통 편의성이 높은 데다 화곡역 인근에 형성된 다양한 생활 인프라를 바탕으로 편리한 생활이 가능하며, 화곡역에 대장홍대선(예정), 2호선 <b>청라<\/b>연장선(예정) 등이 개통하면 트리플 역세권으로 거듭나는 등... ",
 			"pubDate":"Mon, 22 Aug 2022 09:02:00 +0900"
 		},
 		{
