@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 22 Aug 2022 18:30:02 +0900",
-	"total":183025,
+	"lastBuildDate":"Mon, 22 Aug 2022 18:40:02 +0900",
+	"total":183026,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청장에 김진용 전 청장 유력…인천시, 3명 후보 압축해 산업부와 협의...",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20220822580147",
+			"link":"https:\/\/www.kyeonggi.com\/article\/20220822580147",
+			"description":"시의 한 관계자는 “현재 인천경제청은 송도 6·8공구 개발사업 문제나 <b>청라<\/b> <b>청라<\/b>영상·문화복합단지 사업 등 현안이 쌓여있다”며 “최적의 적임자가 필요한 시점”고 했다. 이민우기자 \/이민우 기자",
+			"pubDate":"Mon, 22 Aug 2022 18:32:00 +0900"
+		},
 		{
 			"title":"IFEZ 내 사고다발 장소 등에 스마트 횡단보도 설치 완료",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1157957",
@@ -145,6 +152,13 @@
 			"pubDate":"Mon, 22 Aug 2022 15:39:00 +0900"
 		},
 		{
+			"title":"IFEZ, 사고다발장소 곳곳에 ‘스마트 횡단보도’",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281311253861",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281311253861",
+			"description":"또 영종국제도시는 보행자가 많고 어린이 보호를 위해 영종하늘도시 교차로 4곳, <b>청라<\/b>국제도시는 ▲<b>청라<\/b>중 입구 네거리 ▲<b>청라<\/b>초교 남측(단일로) ▲해원초교 네거리 ▲청람초교 네거리 ▲경연초중교 네거리 등 5곳에... ",
+			"pubDate":"Mon, 22 Aug 2022 15:36:00 +0900"
+		},
+		{
 			"title":"IFEZ 내 사고다발 장소 등에 스마트 횡단보도 설치 완료",
 			"originallink":"http:\/\/www.newscj.com\/article\/20220822580485",
 			"link":"http:\/\/www.newscj.com\/article\/20220822580485",
@@ -156,13 +170,6 @@
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20220822010003873",
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20220822010003873",
 			"description":"다만 보령시의 경우, 피해액이 중앙합동 조사에서 국고지원 기준 이상으로 확정되면 <b>청라<\/b>면을 특별재난지역으로 추가 선포해 줄 것을 신속히 건의할 예정이다. 지난 8일부터 17일까지 충남에 내린 집중호우로... ",
-			"pubDate":"Mon, 22 Aug 2022 15:36:00 +0900"
-		},
-		{
-			"title":"IFEZ, 사고다발장소 곳곳에 ‘스마트 횡단보도’",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281311253861",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281311253861",
-			"description":"또 영종국제도시는 보행자가 많고 어린이 보호를 위해 영종하늘도시 교차로 4곳, <b>청라<\/b>국제도시는 ▲<b>청라<\/b>중 입구 네거리 ▲<b>청라<\/b>초교 남측(단일로) ▲해원초교 네거리 ▲청람초교 네거리 ▲경연초중교 네거리 등 5곳에... ",
 			"pubDate":"Mon, 22 Aug 2022 15:36:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.segyebiz.com\/newsView\/20220822515283?OutUrl=naver",
 			"description":"신세계프라퍼티의 경우 스타필드 수원, 스타필드 창원, 스타필드 <b>청라<\/b> 신규 점포 출점에 2조2000억원 투자를 예고했고, 최근에는 8000억원을 투입해 스타필드 광주 조성한다는 청사진도 공개했다.",
 			"pubDate":"Mon, 22 Aug 2022 15:04:00 +0900"
-		},
-		{
-			"title":"올해 상가 공급 물량 경기에 집중",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202208221451079780711",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202208221451079780711",
-			"description":"인천은 <b>청라<\/b>와 검단 등 신도시가 위치한 서구에서 근린상가 입주가 늘면서 지난 2005년(5577개) 이후 입주 물량이 가장 많다. 이처럼 수도권에 상가 입주 물량이 집중되면서 일부 지역에서는 공급 과잉이 나타날... ",
-			"pubDate":"Mon, 22 Aug 2022 15:02:00 +0900"
 		}
 	]
 }
