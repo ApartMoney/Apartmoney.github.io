@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 23 Aug 2022 20:50:03 +0900",
-	"total":183068,
+	"lastBuildDate":"Tue, 23 Aug 2022 21:00:02 +0900",
+	"total":183069,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 집값 억 단위 &apos;뚝뚝&apos;…입주 폭탄 우려까지",
+			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1363942",
+			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1363942",
+			"description":"[함영진 \/ 직방 빅데이터랩장: 기준 금리 인상에 따른 자금 조달의 이자 부담, 거기에 집값의 고점 인식, 수요자들의 거래 관망으로 당분간 주택시장이 하향 조정될 수 있습니다.] 송도와 <b>청라<\/b> 등 신도시 아파트 가격... ",
+			"pubDate":"Tue, 23 Aug 2022 20:52:00 +0900"
+		},
 		{
 			"title":"스타필드 <b>청라<\/b>, 지하철 연결 논의 &apos;급물살&apos;",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1158233",
@@ -26,7 +33,7 @@
 			"pubDate":"Tue, 23 Aug 2022 19:46:00 +0900"
 		},
 		{
-			"title":"인천 송도 ‘잭니클라우스 골프빌라’ 투기장 전락",
+			"title":"9개월 만에 웃돈 수억… 투기판 된 ‘인천 송도 골프 빌라’",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20220823580186",
 			"link":"https:\/\/www.kyeonggi.com\/article\/20220823580186",
 			"description":"앞서 지난 2015년 분양한 <b>청라<\/b>국제도시 내 한 골프장 내 단독주택 단지도 전체 264필지 중 주택이 지어진... 이어 “<b>청라<\/b> 골프 빌라의 사례를 참고해 주택 시공이 이뤄지지 않을 경우에 대비한 대책을 마련하겠다”고... ",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003446821?sid=102",
 			"description":"9월 16일∼11월 4일 매주 금요일 오전 10시∼낮 12시 <b>청라<\/b>국제도서관 세미나실1. □캐릭터 만들기=초등학교 3∼6학년생 대상 ‘메타버스 안의 부캐―메타버스에 내 부캐 만들기’ 참가자 20명. 9월 17일∼10월... ",
 			"pubDate":"Tue, 23 Aug 2022 03:03:00 +0900"
-		},
-		{
-			"title":"인천경제청, IFEZ 내  사고다발 장소 등에 &apos;스마트 횡단보도 설치&apos; 완료",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=509499",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=509499",
-			"description":"<b>청라<\/b>국제도시 청람초등학교앞 사거리 설치 스마트 횡단보도 모습.(사진제공=인천경제청)  인천경제자유구역청은 22일 횡단보도 보행자 사고 예방을 위해 사업비 10억원을 들여 관내 주요 교차로 사고다발 장소 등 모두... ",
-			"pubDate":"Tue, 23 Aug 2022 00:18:00 +0900"
 		}
 	]
 }
