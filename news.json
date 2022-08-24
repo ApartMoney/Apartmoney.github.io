@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 24 Aug 2022 13:30:02 +0900",
-	"total":183082,
+	"lastBuildDate":"Wed, 24 Aug 2022 13:40:02 +0900",
+	"total":183084,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이은선 작가, 근현대 문학사를 따라가는 문학지도 『백석이라니』출간",
+			"originallink":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=675792",
+			"link":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=675792",
+			"description":"여고시절 이정록 시인의 제자였던 작가는 선생님을 따라 백일장에 나갔다가 낙선한 아픔을 달래기 위해 친구들과 찾은 <b>청라<\/b> 저수지에서 수풀 사이에서 나타난 허름한 메리야스에 낡은 츄리닝 바지를 입은 무섭게 생긴... ",
+			"pubDate":"Wed, 24 Aug 2022 13:30:00 +0900"
+		},
+		{
+			"title":"정용진 신세계 부회장 &quot;인천 <b>청라<\/b>에 돔구장 건설&quot;",
+			"originallink":"https:\/\/www.news1.kr\/articles\/4782022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006294974?sid=102",
+			"description":"정용진 신세계그룹 부회장이 인천 <b>청라<\/b>국제도시에 돔구장을 짓겠다고 공언했다. 24일 인천시에 따르면 정 부회장은 이날 유정복 인천시장과 접견을 갖고 이같이 약속했다. 유 시장은 “행정적으로 적극 지원하겠다”고... ",
+			"pubDate":"Wed, 24 Aug 2022 13:29:00 +0900"
+		},
 		{
 			"title":"서산인삼농협, 인삼 소비촉진 행사 개최",
 			"originallink":"http:\/\/www.wonyesanup.co.kr\/news\/articleView.html?idxno=52857",
@@ -75,10 +89,10 @@
 			"pubDate":"Tue, 23 Aug 2022 21:20:00 +0900"
 		},
 		{
-			"title":"신도시와 논습지 그리고 금개구리",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=992910",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=992910",
-			"description":"2007년에는 <b>청라<\/b>국제도시라 불리는 <b>청라<\/b>경제자유구역 개발사업을 진행하면서 500만 평(1천652만8천㎡)이 넘는 <b>청라<\/b>의 곳곳에 살던 금개구리들을 심곡천 하류의 작은 습지로 이주시켰다. 포획하고 이주하는 과정... ",
+			"title":"인천시 추경 재원배분과 주요사업",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=992949",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=992949",
+			"description":"이를 위해 <b>청라<\/b>지구~북항 도로 신설에 100억 원, 문학터널 구조 개선에 38억 원, 영종~신도 평화도로 신설에 27억 원 등 총 286억 원을 편성했다. 또 단절된 도시 공간을 연결하고 주변 지역 슬럼화를 방지하는 내용의... ",
 			"pubDate":"Tue, 23 Aug 2022 21:16:00 +0900"
 		},
 		{
@@ -96,10 +110,10 @@
 			"pubDate":"Tue, 23 Aug 2022 21:16:00 +0900"
 		},
 		{
-			"title":"인천시 추경 재원배분과 주요사업",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=992949",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=992949",
-			"description":"이를 위해 <b>청라<\/b>지구~북항 도로 신설에 100억 원, 문학터널 구조 개선에 38억 원, 영종~신도 평화도로 신설에 27억 원 등 총 286억 원을 편성했다. 또 단절된 도시 공간을 연결하고 주변 지역 슬럼화를 방지하는 내용의... ",
+			"title":"신도시와 논습지 그리고 금개구리",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=992910",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=992910",
+			"description":"2007년에는 <b>청라<\/b>국제도시라 불리는 <b>청라<\/b>경제자유구역 개발사업을 진행하면서 500만 평(1천652만8천㎡)이 넘는 <b>청라<\/b>의 곳곳에 살던 금개구리들을 심곡천 하류의 작은 습지로 이주시켰다. 포획하고 이주하는 과정... ",
 			"pubDate":"Tue, 23 Aug 2022 21:16:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=715065",
 			"description":"이 콘서트는 집중호우와 무더위로 지친 인천시민들을 위로하고 수해복구에 힘을 보태기 위해 지난 12일 서구 <b>청라<\/b>호수공원 야외음악당에서 열렸다. 출연진과 제작진은 행사 후 출연료 일부를 기부하기로 하고 이날... ",
 			"pubDate":"Tue, 23 Aug 2022 15:56:00 +0900"
-		},
-		{
-			"title":"퇴행성 관절염 초기라면 보존적‧비수술적 치료로 증상 완화",
-			"originallink":"https:\/\/mdtoday.co.kr\/news\/view\/1065594975989157",
-			"link":"https:\/\/mdtoday.co.kr\/news\/view\/1065594975989157",
-			"description":"인천 <b>청라<\/b>국제병원 김철호 원장은 “퇴행성 관절염 초기라면 보존적‧비수술적 치료만으로 증상 개선이 가능하므로, 초기에 정형외과에 내원해 정밀 진단을 받고 치료를 받는 것이 바람직하다”며 “다른 질환과 혼동될... ",
-			"pubDate":"Tue, 23 Aug 2022 15:44:00 +0900"
-		},
-		{
-			"title":"[단독] 서울7호선 <b>청라<\/b>스타필드 추가역 &apos;윤곽&apos;... 비용 분담 관건",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=220836",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=220836",
-			"description":"인천투데이=김현철 기자│인천 <b>청라<\/b>국제도시 내에 신세계가 스타필드<b>청라<\/b>와 함께 야구 돔경기장을 구상 중이다. 서울도시철도 7호선 <b>청라<\/b> 추가역 윤곽이 드러나는 가운데 사업비 분담을 위한 협의가 막바지에 이른... ",
-			"pubDate":"Tue, 23 Aug 2022 15:30:00 +0900"
 		}
 	]
 }
