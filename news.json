@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 25 Aug 2022 09:30:02 +0900",
-	"total":183337,
+	"lastBuildDate":"Thu, 25 Aug 2022 09:40:02 +0900",
+	"total":183338,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"메트로신문 - 8월 25일 한줄 뉴스",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20220825500011",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20220825500011",
+			"description":"▲24일 신세계그룹은 인천광역시와 함께 스타필드 <b>청라<\/b>와 야구 돔구장 건설 및 지하철 역사 신설을 포괄적으로 협력해 나가기로 합의했다고 알렸다. ▲국내 1세대 커피전문점 이디야커피가 최첨단 설비 시설을 앞세워... ",
+			"pubDate":"Thu, 25 Aug 2022 09:36:00 +0900"
+		},
 		{
 			"title":"신세계, <b>청라<\/b>에 2만석 야구 돔구장 짓는다",
 			"originallink":"https:\/\/sports.donga.com\/article\/all\/20220825\/115129998\/4",
@@ -75,13 +82,6 @@
 			"pubDate":"Thu, 25 Aug 2022 07:30:00 +0900"
 		},
 		{
-			"title":"[김성욱의 독설(獨說)] &apos;야구광&apos; 정용진이 완성시킬 故구본무의 이루지 못한 ...",
-			"originallink":"http:\/\/www.sporbiz.co.kr\/news\/articleView.html?idxno=629603",
-			"link":"http:\/\/www.sporbiz.co.kr\/news\/articleView.html?idxno=629603",
-			"description":"정용진 신세계그룹 부회장은 24일 유정복 인천시장과 돔구장 건설을 비롯해 <b>청라<\/b>에 추진 중인 각종 사업에 대해 포괄적으로 협력하기로 합의했습니다. 이에 따라 현재 신세계그룹이 <b>청라<\/b> 지역에 건립 중인... ",
-			"pubDate":"Thu, 25 Aug 2022 07:02:00 +0900"
-		},
-		{
 			"title":"신세계그룹, 스타필드 <b>청라<\/b> 개발 속도낸다...인천시와 &apos;돔구장 신속 추진&apos; 협...",
 			"originallink":"http:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=137924",
 			"link":"http:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=137924",
@@ -93,6 +93,13 @@
 			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1143040&inflow=N",
 			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1143040&inflow=N",
 			"description":"인천 서구 <b>청라<\/b>동에 자리한 &apos;<b>청라<\/b>국제금융단지 한양수자인 레이크블루&apos; 전용면적 84㎡는 지난해 3월 10억원에 매매되며 10억 클럽에 가입한 이후 같은 해 8월에는 12억9500만원에 최고가 거래됐지만, 올해 5월에는... ",
+			"pubDate":"Thu, 25 Aug 2022 07:02:00 +0900"
+		},
+		{
+			"title":"[김성욱의 독설(獨說)] &apos;야구광&apos; 정용진이 완성시킬 故구본무의 이루지 못한 ...",
+			"originallink":"http:\/\/www.sporbiz.co.kr\/news\/articleView.html?idxno=629603",
+			"link":"http:\/\/www.sporbiz.co.kr\/news\/articleView.html?idxno=629603",
+			"description":"정용진 신세계그룹 부회장은 24일 유정복 인천시장과 돔구장 건설을 비롯해 <b>청라<\/b>에 추진 중인 각종 사업에 대해 포괄적으로 협력하기로 합의했습니다. 이에 따라 현재 신세계그룹이 <b>청라<\/b> 지역에 건립 중인... ",
 			"pubDate":"Thu, 25 Aug 2022 07:02:00 +0900"
 		},
 		{
@@ -194,13 +201,6 @@
 			"pubDate":"Wed, 24 Aug 2022 21:48:00 +0900"
 		},
 		{
-			"title":"신세계 &apos;문학야구장 위탁&apos; 끝나면 주변 상권 어쩌나",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=993223",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=993223",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 신세계의 <b>청라<\/b> 돔구장 건설이 긍정적인 효과만 나타나지는 않는다.... 신세계는 2027년 <b>청라<\/b> 돔구장 건설까지 문학야구장을 사용한다는 계획이다. 하지만 2027년 이후가 문제다. 시는... ",
-			"pubDate":"Wed, 24 Aug 2022 21:30:00 +0900"
-		},
-		{
 			"title":"&apos;<b>청라<\/b> 돔구장&apos; 2027년에 들어선다",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=993200",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=993200",
@@ -208,11 +208,11 @@
 			"pubDate":"Wed, 24 Aug 2022 21:30:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b> 돔구장 모델은… &apos;복합 쇼핑몰-야구장&apos; 연계 구상 유력",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220824010004389",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220824010004389",
-			"description":"인천 <b>청라<\/b>국제도시 &apos;스타필드 <b>청라<\/b>&apos; 예정지 일대에 2만석 규모의 야구 경기, K-팝·아티스트 공연, e-스포츠 국제대회, 전시 등 시민들이 다양한 문화 콘텐츠를 즐길 수 있는 돔구장 건설 계획이 공식화됐다. 사진은 인천시... ",
-			"pubDate":"Wed, 24 Aug 2022 21:28:00 +0900"
+			"title":"신세계 &apos;문학야구장 위탁&apos; 끝나면 주변 상권 어쩌나",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=993223",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=993223",
+			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 신세계의 <b>청라<\/b> 돔구장 건설이 긍정적인 효과만 나타나지는 않는다.... 신세계는 2027년 <b>청라<\/b> 돔구장 건설까지 문학야구장을 사용한다는 계획이다. 하지만 2027년 이후가 문제다. 시는... ",
+			"pubDate":"Wed, 24 Aug 2022 21:30:00 +0900"
 		}
 	]
 }
