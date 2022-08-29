@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 29 Aug 2022 09:40:02 +0900",
-	"total":183517,
+	"lastBuildDate":"Mon, 29 Aug 2022 09:50:03 +0900",
+	"total":183518,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"역사·예술이 꽃핀 대구 중구…‘중구를 노래하다’ 시화전",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220829_0001993710&cID=10810&pID=10800",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011388644?sid=102",
+			"description":"류규하 중구청장은 “대구 중구에는 <b>청라<\/b>언덕, 개산성당, 북성로, 이상화 고택 등 골목 구석구석에 많은 근대 유산들이 생생히 살아 숨 쉬고 있다”며 “이번 시화전을 통해 대구시민과 대구를 방문하는 모두가 대구... ",
+			"pubDate":"Mon, 29 Aug 2022 09:48:00 +0900"
+		},
 		{
 			"title":"논 배수 물꼬 설치, 양분 유출 줄여 수질 개선 효과",
 			"originallink":"http:\/\/www.amnews.co.kr\/news\/articleView.html?idxno=50953",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160279895234569",
 			"description":"<b>청라<\/b> 공동주택 대상, 음식물류 폐기물 대형감량기 시범사업 공개 모집  자원순환 선도도시를 향해 나아가는... 인천 서구는 <b>청라<\/b>지역 내 공동주택을 대상으로 오는 9월 8일까지 ‘음식물류 폐기물 대형감량기 설치·운영... ",
 			"pubDate":"Sun, 28 Aug 2022 10:02:00 +0900"
-		},
-		{
-			"title":"인천 ‘검암 플라시아 환승센터 개발사업’ 탄력",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160259672389776",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160259672389776",
-			"description":"특히 사업 대상지는 검암역을 비롯해 인천공항고속도로 <b>청라<\/b>IC를 통한 광역 접근성이 우수한 것은 물론 복합 환승센터의 서북버스터미널과 연계해 지역 교통망의 거점으로 거듭날 것으로 기대된다. 이번 사업으로... ",
-			"pubDate":"Sun, 28 Aug 2022 09:26:00 +0900"
 		}
 	]
 }
