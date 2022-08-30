@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 30 Aug 2022 15:30:01 +0900",
-	"total":183563,
+	"lastBuildDate":"Tue, 30 Aug 2022 15:40:02 +0900",
+	"total":183564,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인구 10만명 영종도…&quot;버스노선 절반이 비싼 좌석버스&quot;",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220830120100065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013407630?sid=102",
+			"description":"게다가 연수구와 <b>청라<\/b>국제도시 등을 경유하는 이들 좌석버스는 일반 버스와 비교해 상대적으로 요금 부담이 커 주민들의 이용률도 높지 않다. 좌석버스는 기본요금이 1천650원으로, 일반 버스 요금보다 400원 비싸고 이동... ",
+			"pubDate":"Tue, 30 Aug 2022 15:29:00 +0900"
+		},
 		{
 			"title":"인프라 좋고 호재 탄탄…수도권 택지지구 지식산업센터 &apos;눈길&apos;",
 			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=152671",
@@ -33,17 +40,17 @@
 			"pubDate":"Tue, 30 Aug 2022 14:49:00 +0900"
 		},
 		{
-			"title":"[이슈] 수도권매립지를 첨단산업단지로 개발하려면",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1159110",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1159110",
-			"description":"인천시가 <b>청라<\/b> 매립지의 사용 종료를 앞두고 인근 김포 간척지를 대체 매립지로 지정해 줄 것을 정부에... <b>청라<\/b> 매립지를 <b>청라<\/b> 국제도시로 개발한 것처럼, 인천시는 수도권매립지를 첨단산업단지와 체육, 문화... ",
-			"pubDate":"Tue, 30 Aug 2022 14:42:00 +0900"
-		},
-		{
 			"title":"[사설] 경제자유구역 추가 지정 속도감 있게 추진",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1159108",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1159108",
 			"description":"송도, <b>청라<\/b>, 영종 등 기존 경제자유구역 지역과 원도심 간 개발격차를 좁히고 새로운 성장동력을 확보하기 위해서다. 인천내항 일원 4.83㎢은 민선8기 시의 주요 도시개발 정책인 제물포 르네상스의 중심축이다. 내년 중... ",
+			"pubDate":"Tue, 30 Aug 2022 14:42:00 +0900"
+		},
+		{
+			"title":"[이슈] 수도권매립지를 첨단산업단지로 개발하려면",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1159110",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1159110",
+			"description":"인천시가 <b>청라<\/b> 매립지의 사용 종료를 앞두고 인근 김포 간척지를 대체 매립지로 지정해 줄 것을 정부에... <b>청라<\/b> 매립지를 <b>청라<\/b> 국제도시로 개발한 것처럼, 인천시는 수도권매립지를 첨단산업단지와 체육, 문화... ",
 			"pubDate":"Tue, 30 Aug 2022 14:42:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363555964",
 			"description":"가을을 재촉하는 비가 내린 29일 인천 서구 <b>청라<\/b>호수공원에 조성된 수크렁 풀 사이로 산책을 나온 시민들이 가을의 정취를 느끼며 걷고 있다. 정선식기자 &lt;독자 신뢰도, 열독률 1위 ⓒ 중부일보(www.joongboo.com)... ",
 			"pubDate":"Mon, 29 Aug 2022 20:12:00 +0900"
-		},
-		{
-			"title":"인천시 &apos;제물포르네상스·뉴홍콩시티&apos; 구체화 시동",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363555947",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363555947",
-			"description":"또한 시는 송도와 영종도, 내항 1·8부두, <b>청라<\/b>, 강화 남단 등을 연결하는 망을 만들어 새로운 도시를 만드는 뉴홍콩 시티를 구상하고 있다. 이는 뉴홍콩 시티의 1단계 사업으로, 이후 인천 전역으로 확산한 망을 만들게... ",
-			"pubDate":"Mon, 29 Aug 2022 20:04:00 +0900"
 		}
 	]
 }
