@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 31 Aug 2022 17:20:02 +0900",
-	"total":183599,
+	"lastBuildDate":"Wed, 31 Aug 2022 17:30:02 +0900",
+	"total":183600,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"검단구·영종구 신설, 중구·동구 통합... 인천시, 27년만에 행정구역 개편 나...",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=90439",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=90439",
+			"description":"이 지역은 <b>청라<\/b>국제도시와 루원시티, 검단신도시 등 신도시를 중심으로 인구 유입이 지속돼 분구가 불가피하다는 목소리가 있었다. 남동구(51만명)도 구월2지구에 3기 신도시가 예정돼 인구 증가가 예상되는 만큼 추후... ",
+			"pubDate":"Wed, 31 Aug 2022 17:20:00 +0900"
+		},
 		{
 			"title":"한라, &apos;인천 작전 한라비발디&apos; 다음달 분양",
 			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2022083117122994390",
@@ -145,17 +152,17 @@
 			"pubDate":"Wed, 31 Aug 2022 15:36:00 +0900"
 		},
 		{
-			"title":"이강구 의원 , 인천시 통합재정안정화기금조례 반대",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=946808",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=946808",
-			"description":"7호선 <b>청라<\/b> 연장사업, 아트센터 2단계 사업, 글로벌 캠퍼스 2단계 사업등 많은 재정투입이 예고된 것들에 제때... 아울러 &quot;영종 <b>청라<\/b>는 LH공사가 공공시설을 지원해 건립 했던 것처럼, 송도는 인천 경제청이 적극 지원해... ",
-			"pubDate":"Wed, 31 Aug 2022 15:32:00 +0900"
-		},
-		{
 			"title":"유정복 인천시장, 시민 행복 위한 미래지향적 행정체제 개편 추진",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20220831145349117",
 			"link":"https:\/\/www.ajunews.com\/view\/20220831145349117",
 			"description":"현재 인구는 57만명 정도이지만 <b>청라<\/b>, 루원, 검단 등 지역에 신도시 개발이 계속되고 있어 향후 인구가 70만명 이상으로 전망되며 검단지역에만 앞으로 10만 명 이상의 인구가 증가할 것으로 예상된다. 인구증가에 따른... ",
+			"pubDate":"Wed, 31 Aug 2022 15:32:00 +0900"
+		},
+		{
+			"title":"이강구 의원 , 인천시 통합재정안정화기금조례 반대",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=946808",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=946808",
+			"description":"7호선 <b>청라<\/b> 연장사업, 아트센터 2단계 사업, 글로벌 캠퍼스 2단계 사업등 많은 재정투입이 예고된 것들에 제때... 아울러 &quot;영종 <b>청라<\/b>는 LH공사가 공공시설을 지원해 건립 했던 것처럼, 송도는 인천 경제청이 적극 지원해... ",
 			"pubDate":"Wed, 31 Aug 2022 15:32:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013410350?sid=101",
 			"description":"스타필드는 경기 하남, 고양, 안성과 서울 코엑스몰 등 4곳이 있으며 수원(2023년), <b>청라<\/b>(2024년), 창원(2025년)점도 개장할 예정이다. 이보다 규모가 작은 스타필드 시티가 하남, 부천, 부산에 문을 열었다. 노 시장은 &quot;순천은... ",
 			"pubDate":"Wed, 31 Aug 2022 15:06:00 +0900"
-		},
-		{
-			"title":"한라, ‘인천 작전 한라비발디’ 9월 분양",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02952006632432896",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005306327?sid=101",
-			"description":"교통 개발 호재로는 작전역에 예정돼있는 ‘서울 지하철 2호선 연장선(<b>청라<\/b>~홍대)’이 건설되면 더블역세권으로 거듭나게 된다. 부평역에 예정돼있는 ‘GTX-B노선’ 이용도 수월해 서울 접근성이 크게 나아질 것으로... ",
-			"pubDate":"Wed, 31 Aug 2022 15:03:00 +0900"
 		}
 	]
 }
