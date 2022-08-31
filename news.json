@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 31 Aug 2022 17:10:02 +0900",
-	"total":183597,
+	"lastBuildDate":"Wed, 31 Aug 2022 17:20:02 +0900",
+	"total":183599,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"한라, &apos;인천 작전 한라비발디&apos; 다음달 분양",
+			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2022083117122994390",
+			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2022083117122994390",
+			"description":"인근에 부평IC가 있어 경인고속도로 이용이 편리하고 수도권 제1외곽순환도로 계양IC도 이용하기 좋다.작전역에 예정되어 있는 ‘서울 지하철 2호선 연장선(<b>청라<\/b>~홍대)’이 건설되면 더블역세권으로 거듭나게 된다.... ",
+			"pubDate":"Wed, 31 Aug 2022 17:18:00 +0900"
+		},
+		{
+			"title":"인천 지하철 역세권 &apos;인천 작전 한라비발디&apos; 9월 분양",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022083117040089323",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004789676?sid=101",
+			"description":"작전역에 예정돼 있는 &apos;서울 지하철 2호선 연장선(<b>청라<\/b>~홍대)&apos;이 건설되면 더블역세권이다. 부평역에 예정되어 있는 &apos;GTX-B노선&apos; 이용도 수월하여 서울 접근성이 크게 향상된다. 교육환경은 화천초, 작전중, 안남고... ",
+			"pubDate":"Wed, 31 Aug 2022 17:15:00 +0900"
+		},
 		{
 			"title":"인천 보수교육계, 최계운 전 교육감 후보 환경공단 이사장 응모에 ‘우려’",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=716208",
@@ -131,17 +145,17 @@
 			"pubDate":"Wed, 31 Aug 2022 15:36:00 +0900"
 		},
 		{
-			"title":"유정복 인천시장, 시민 행복 위한 미래지향적 행정체제 개편 추진",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20220831145349117",
-			"link":"https:\/\/www.ajunews.com\/view\/20220831145349117",
-			"description":"현재 인구는 57만명 정도이지만 <b>청라<\/b>, 루원, 검단 등 지역에 신도시 개발이 계속되고 있어 향후 인구가 70만명 이상으로 전망되며 검단지역에만 앞으로 10만 명 이상의 인구가 증가할 것으로 예상된다. 인구증가에 따른... ",
-			"pubDate":"Wed, 31 Aug 2022 15:32:00 +0900"
-		},
-		{
 			"title":"이강구 의원 , 인천시 통합재정안정화기금조례 반대",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=946808",
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=946808",
 			"description":"7호선 <b>청라<\/b> 연장사업, 아트센터 2단계 사업, 글로벌 캠퍼스 2단계 사업등 많은 재정투입이 예고된 것들에 제때... 아울러 &quot;영종 <b>청라<\/b>는 LH공사가 공공시설을 지원해 건립 했던 것처럼, 송도는 인천 경제청이 적극 지원해... ",
+			"pubDate":"Wed, 31 Aug 2022 15:32:00 +0900"
+		},
+		{
+			"title":"유정복 인천시장, 시민 행복 위한 미래지향적 행정체제 개편 추진",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20220831145349117",
+			"link":"https:\/\/www.ajunews.com\/view\/20220831145349117",
+			"description":"현재 인구는 57만명 정도이지만 <b>청라<\/b>, 루원, 검단 등 지역에 신도시 개발이 계속되고 있어 향후 인구가 70만명 이상으로 전망되며 검단지역에만 앞으로 10만 명 이상의 인구가 증가할 것으로 예상된다. 인구증가에 따른... ",
 			"pubDate":"Wed, 31 Aug 2022 15:32:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005306327?sid=101",
 			"description":"교통 개발 호재로는 작전역에 예정돼있는 ‘서울 지하철 2호선 연장선(<b>청라<\/b>~홍대)’이 건설되면 더블역세권으로 거듭나게 된다. 부평역에 예정돼있는 ‘GTX-B노선’ 이용도 수월해 서울 접근성이 크게 나아질 것으로... ",
 			"pubDate":"Wed, 31 Aug 2022 15:03:00 +0900"
-		},
-		{
-			"title":"한라, &apos;인천 작전 한라비발디&apos; 9월 분양",
-			"originallink":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=233943",
-			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=233943",
-			"description":"특히 작전역에 예정된 &apos;서울 지하철 2호선 연장선(<b>청라<\/b>~홍대)&apos;이 건설되면 더블역세권으로 거듭나게 된다. 부평역에 예정된 수도권광역급행철도(GTX)-B노선 이용도 수월해 서울 접근성이 크게 향상되어 교통망은... ",
-			"pubDate":"Wed, 31 Aug 2022 15:02:00 +0900"
-		},
-		{
-			"title":"LH, 인천 <b>청라<\/b>에 `BMW R&amp;D센터` 유치",
-			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2022083102109963032001&ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002751777?sid=101",
-			"description":"<b>청라<\/b>국제도시에 BMW코리아 R&amp;D(연구·개발) 센터가 설립된다. 한국토지주택공사(LH)와 BMW코리아는 31일 인천경제자유구역청과 &apos;<b>청라<\/b>국제도시 BMW코리아 R&amp;D센터 건립 사업협약&apos;을 체결했다고 밝혔다. 이번 협약에... ",
-			"pubDate":"Wed, 31 Aug 2022 14:56:00 +0900"
 		}
 	]
 }
