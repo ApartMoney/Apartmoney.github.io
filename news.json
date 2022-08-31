@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 31 Aug 2022 11:20:02 +0900",
-	"total":183538,
+	"lastBuildDate":"Wed, 31 Aug 2022 11:30:02 +0900",
+	"total":183539,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 행정구역 개편한다…검단·영종·제물포구 신설 추진",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022083111164125196",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005140657?sid=102",
+			"description":"현재 인구는 57만명 가량이지만 <b>청라<\/b>·루원·검단 등 지역에 신도시 개발이 계속되고 있어 향후 인구가 70만명 이상으로 늘어날 전망이다. 검단지역에만 10만명 이상이 증가할 것으로 예상된다. 인구증가에 따른 분구가... ",
+			"pubDate":"Wed, 31 Aug 2022 11:16:00 +0900"
+		},
 		{
 			"title":"LH, 인천 <b>청라<\/b> ‘BMW코리아 R&amp;D센터’ 유치",
 			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20220831000362",
@@ -19,17 +26,17 @@
 			"pubDate":"Wed, 31 Aug 2022 11:15:00 +0900"
 		},
 		{
-			"title":"인천시 10월까지 관내 8개 공원…도시 숲 기능성 조사 실시",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220831010008157",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220831010008157",
-			"description":"청량산 산림휴양공원, 함봉근린공원, 계양근린공원, 중앙근린공원, 자유공원, 수봉근린공원, 송도해돋이공원, <b>청라<\/b>호수공원 등이다. 현재까지 조사결과, 도시 숲의 음이온은 354개\/㎤으로 도심 대조군에 비해 평균 2배... ",
-			"pubDate":"Wed, 31 Aug 2022 11:14:00 +0900"
-		},
-		{
 			"title":"한라 &apos;인천 작전 한라비발디&apos; 9월 분양",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202208311112078865",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004891251?sid=101",
 			"description":"특히 작전역에 예정된 &apos;서울 지하철 2호선 연장선(<b>청라<\/b>~홍대)&apos;이 건설되면 더블역세권으로 거듭나게 돼 교통호재도 기대된다. 부평역에 예정된 수도권광역급행철도(GTX)-B노선 이용도 수월해 서울 접근성이 크게... ",
+			"pubDate":"Wed, 31 Aug 2022 11:14:00 +0900"
+		},
+		{
+			"title":"인천시 10월까지 관내 8개 공원…도시 숲 기능성 조사 실시",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220831010008157",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220831010008157",
+			"description":"청량산 산림휴양공원, 함봉근린공원, 계양근린공원, 중앙근린공원, 자유공원, 수봉근린공원, 송도해돋이공원, <b>청라<\/b>호수공원 등이다. 현재까지 조사결과, 도시 숲의 음이온은 354개\/㎤으로 도심 대조군에 비해 평균 2배... ",
 			"pubDate":"Wed, 31 Aug 2022 11:14:00 +0900"
 		},
 		{
@@ -173,13 +180,6 @@
 			"pubDate":"Wed, 31 Aug 2022 10:22:00 +0900"
 		},
 		{
-			"title":"[속보] 인천 서구 분구, 중·동구 병합, 영종국제도시 독립구 분구",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=90420",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=90420",
-			"description":"현재 인구는 57만명 정도이지만 <b>청라<\/b>, 루원, 검단 등 지역에 신도시 개발이 계속되고 있어, 향후 인구가 70만명 이상으로 전망된다. 검단지역에만 앞으로 10만 명 이상의 인구가 증가할 것으로 예상된다. 인구증가에 따른... ",
-			"pubDate":"Wed, 31 Aug 2022 10:20:00 +0900"
-		},
-		{
 			"title":"&quot;피톤치드 가득한 도시 숲서 힐링 하세요&quot;",
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1595071",
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1595071",
@@ -187,11 +187,11 @@
 			"pubDate":"Wed, 31 Aug 2022 10:20:00 +0900"
 		},
 		{
-			"title":"인천시 &apos;서구-검단구&apos; 분구 등 군·구 11개 개편 추진",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=221005",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=221005",
-			"description":"서구 현재 인구는 약 57만명으로, <b>청라<\/b>·루원·검단 등 지역에 신도시 개발로 향후 인구가 70만명까지 늘어날 것으로 전망한다. 특히 검단지역을 중심으로 인구가 늘어난다. 이에 유정복 시장은 서구 남쪽을 서구, 북쪽을... ",
-			"pubDate":"Wed, 31 Aug 2022 10:18:00 +0900"
+			"title":"[속보] 인천 서구 분구, 중구·동구 병합, 영종국제도시 독립구 분구",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=90420",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=90420",
+			"description":"현재 인구는 57만명 정도이지만 <b>청라<\/b>, 루원, 검단 등 지역에 신도시 개발이 계속되고 있어, 향후 인구가 70만명 이상으로 전망된다. 검단지역에만 앞으로 10만 명 이상의 인구가 증가할 것으로 예상된다. 인구증가에 따른... ",
+			"pubDate":"Wed, 31 Aug 2022 10:20:00 +0900"
 		},
 		{
 			"title":"쾌적한 업무환경에서 일할 맛 나네... 특화 설계로 개방감 높인 &apos;<b>청라<\/b> SK V1&apos;",
@@ -201,18 +201,18 @@
 			"pubDate":"Wed, 31 Aug 2022 10:18:00 +0900"
 		},
 		{
+			"title":"인천시 &apos;서구-검단구&apos; 분구 등 군·구 11개 개편 추진",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=221005",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=221005",
+			"description":"서구 현재 인구는 약 57만명으로, <b>청라<\/b>·루원·검단 등 지역에 신도시 개발로 향후 인구가 70만명까지 늘어날 것으로 전망한다. 특히 검단지역을 중심으로 인구가 늘어난다. 이에 유정복 시장은 서구 남쪽을 서구, 북쪽을... ",
+			"pubDate":"Wed, 31 Aug 2022 10:18:00 +0900"
+		},
+		{
 			"title":"보령시 <b>청라<\/b>면 의용소방대 집중호우 피해 복구 봉사나서.",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220831010008911",
 			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220831010008911",
 			"description":"= 보령시 <b>청라<\/b>면 의용소방대(남성대장 송학석, 여성대장 김종숙)는 30일 집중호우로 토사 매몰 피해를 받은... 한편, <b>청라<\/b>면 의용소방대는 관내에서 발생하는 화재 사고에 대한 신속한 진압 활동 및 화재 예방 활동, 소외된... ",
 			"pubDate":"Wed, 31 Aug 2022 10:12:00 +0900"
-		},
-		{
-			"title":"LH, 인천 <b>청라<\/b>에 BMW코리아 R&amp;D센터 유치",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=260093",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=260093",
-			"description":"LH는 31일 BMW코리아(주), 인천경제자유구역청과 &apos;<b>청라<\/b>국제도시 BMW코리아 R&amp;D센터 건립 사업협약&apos;을... BMW코리아 R&amp;D센터는 LH가 조성한 <b>청라<\/b> IHP 도시첨단산업단지 내 외국인투자유치지역에 건립되며 부지 규모는 5,296... ",
-			"pubDate":"Wed, 31 Aug 2022 10:10:00 +0900"
 		}
 	]
 }
