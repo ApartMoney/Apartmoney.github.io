@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Thu, 01 Sep 2022 17:30:02 +0900",
-	"total":183715,
+	"lastBuildDate":"Thu, 01 Sep 2022 17:40:02 +0900",
+	"total":183718,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"홍천군 특별재난지역 추가",
+			"originallink":"http:\/\/www.kwnews.co.kr\/page\/view\/2022090116104726840",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/087\/0000920979?sid=100",
+			"description":"중앙재난안전대책본부에 따르면 추가로 특별재난지역으로 선포된 곳은 홍천군과 서울 동작구·서초구, 경기 여주시, 경기 의왕시 고천동·청계동, 경기 용인시 동천동, 충남 보령시 <b>청라<\/b>면이다. 이들 지자체는 우선... ",
+			"pubDate":"Thu, 01 Sep 2022 17:32:00 +0900"
+		},
+		{
+			"title":"집값 상승 1위 인천…입주 쏟아지며 수억 &apos;뚝&apos;",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=776357&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005012300?sid=101",
+			"description":"인천 아파트 가격을 이끌던 송도 지역 가격 하락으로 또 다른 인천 신도시인 서구 <b>청라<\/b> 지역도 하락하는 모습이다. <b>청라<\/b>호수공원 인근 <b>청라<\/b>한양수자인레이크블루 전용 84㎡는 작년 8월 7일 12억9500만원(23층)에... ",
+			"pubDate":"Thu, 01 Sep 2022 17:31:00 +0900"
+		},
+		{
+			"title":"서진에너지, H2 MEET 2022에서 &apos;AnMBR(EMS)&apos; 상용화 알려… &quot;폐자원 이용한 바...",
+			"originallink":"http:\/\/kr.aving.net\/news\/articleView.html?idxno=1771322",
+			"link":"http:\/\/kr.aving.net\/news\/articleView.html?idxno=1771322",
+			"description":"뿐만 아니라 인천 <b>청라<\/b>와 수도권 매립지에 음폐수 바이오가스화 시설을 구축하고 바이오가스 도시가스(바이오메탄) 배관망을 공급하고 있다&quot;라며 이어서 &quot;뿐만 아니라 EMS기술의 성공을 인정받아 미국... ",
+			"pubDate":"Thu, 01 Sep 2022 17:30:00 +0900"
+		},
 		{
 			"title":"[아침광장] K클래식과 음악창의도시 대구",
 			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2111009",
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.hg-times.com\/news\/articleView.html?idxno=244538",
 			"description":"대상 지역에는 서울 동작구와 서초구가 포함됐으며 경기 여주시ㆍ의왕시 고천동ㆍ청계동, 용인시 동천동, 강원 홍천군, 충남 보령시 <b>청라<\/b>면 등이 이름을 올렸다. 행정안전부 중앙재난안전대책본부는 1일 집중호우 피해... ",
 			"pubDate":"Thu, 01 Sep 2022 14:50:00 +0900"
-		},
-		{
-			"title":"집중호우 수해 피해 입은 서초·동작구 등 7곳 특별재난지역 추가",
-			"originallink":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=693814",
-			"link":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=693814",
-			"description":"중앙재난안전대책본부에 따르면 추가로 특별재난지역으로 선포된 곳은 서울 동작구·서초구, 경기 여주시, 강원 홍천군, 경기 의왕시 고천동·청계동, 경기 용인시 동천동, 충남 보령시 <b>청라<\/b>면이다. 2개 면이... ",
-			"pubDate":"Thu, 01 Sep 2022 14:50:00 +0900"
-		},
-		{
-			"title":"서울 동작·서초구 등 7개 지자체 &apos;특별재난지역&apos; 추가 선포",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02778166632455856",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005307223?sid=100",
-			"description":"보령시 <b>청라<\/b>면 등 7개 지자체를 특별재난지역으로 추가 선포했다. 중앙재난안전대책본부는 이번에 추가로 선포하는 서울 동작구·서초구, 강원 홍천군 등은 시·군·구 단위로, 경기 의왕시·용인시, 충남 보령시는 읍·면... ",
-			"pubDate":"Thu, 01 Sep 2022 14:46:00 +0900"
-		},
-		{
-			"title":"`수해` 서울 동작·서초구 등 7곳, 특별재난지역으로 추가 선포",
-			"originallink":"http:\/\/tbs.seoul.kr\/news\/newsView.do?typ_800=9&idx_800=3477241&seq_800=20469907",
-			"link":"http:\/\/tbs.seoul.kr\/news\/newsView.do?typ_800=9&idx_800=3477241&seq_800=20469907",
-			"description":"특별재난지역으로 추가 선포된 곳은 서울 동작구·서초구, 경기 여주시, 강원 홍천군, 경기 의왕시 고천동·청계동, 경기 용인시 동천동, 충남 보령시 <b>청라<\/b>면입니다. 2개 면이 특별재난지역으로 우선 선포됐던 경기... ",
-			"pubDate":"Thu, 01 Sep 2022 14:40:00 +0900"
 		}
 	]
 }
