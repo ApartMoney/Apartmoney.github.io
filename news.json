@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Thu, 01 Sep 2022 15:00:02 +0900",
-	"total":183692,
+	"lastBuildDate":"Thu, 01 Sep 2022 15:10:02 +0900",
+	"total":183695,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[아유경제_부동산] 8월 5주 아파트 가격 동향… 매매가격 -0.15% 하락ㆍ전세가...",
+			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=73490",
+			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=73490",
+			"description":"신규 입주 물량 영향 등으로 대부분 지역에서 하락세 지속되는 가운데, 중구(-0.56%)는 중산ㆍ운남 위주, 서구(-0.39%)는 <b>청라<\/b>ㆍ당하 대단지 위주, 연수구(-0.38%)는 송도ㆍ연수 위주로 하락하면서 전주 대비 하락폭... ",
+			"pubDate":"Thu, 01 Sep 2022 15:08:00 +0900"
+		},
+		{
+			"title":"동작구 등 집중호우 피해 7곳 특별재난지역 추가선포",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1594152",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1594152",
+			"description":"1일 중앙재난안전대책본부에 따르면 특별재난지역으로 추가 선포된 지역은 서울 동작구·서초구, 경기 여주시, 강원 홍천군, 경기 의왕시 고천동·청계동, 경기 용인시 동천동, 충남 보령시 <b>청라<\/b>면이다. 경기 여주시는 우선... ",
+			"pubDate":"Thu, 01 Sep 2022 15:06:00 +0900"
+		},
+		{
+			"title":"서구 “행정체제 개편, 구민 편익 증진을 최우선으로” ",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1594137",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1594137",
+			"description":"시 보도자료에 따르면 서구는 <b>청라<\/b>, 루원, 검단 등 신도시 개발이 계속됨에 따라 향후 인구가 70만명 이상으로 전망되며 검단지역에만 앞으로 10만명 이상의 인구가 증가할 것으로 예상된다. 인구증가에 따른 분구가... ",
+			"pubDate":"Thu, 01 Sep 2022 15:00:00 +0900"
+		},
 		{
 			"title":"尹대통령, 동작·서초, 여주, 홍천 등 7개 지자체 특별재난지역 선포",
 			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2151945",
@@ -19,17 +40,17 @@
 			"pubDate":"Thu, 01 Sep 2022 14:52:00 +0900"
 		},
 		{
-			"title":"집중호우 수해 피해 입은 서초·동작구 등 7곳 특별재난지역 추가",
-			"originallink":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=693814",
-			"link":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=693814",
-			"description":"중앙재난안전대책본부에 따르면 추가로 특별재난지역으로 선포된 곳은 서울 동작구·서초구, 경기 여주시, 강원 홍천군, 경기 의왕시 고천동·청계동, 경기 용인시 동천동, 충남 보령시 <b>청라<\/b>면이다. 2개 면이... ",
-			"pubDate":"Thu, 01 Sep 2022 14:50:00 +0900"
-		},
-		{
 			"title":"정부, &apos;특별재난지역&apos; 7곳 추가선포... 서울 동작구ㆍ서초구 포함",
 			"originallink":"http:\/\/www.hg-times.com\/news\/articleView.html?idxno=244538",
 			"link":"http:\/\/www.hg-times.com\/news\/articleView.html?idxno=244538",
 			"description":"대상 지역에는 서울 동작구와 서초구가 포함됐으며 경기 여주시ㆍ의왕시 고천동ㆍ청계동, 용인시 동천동, 강원 홍천군, 충남 보령시 <b>청라<\/b>면 등이 이름을 올렸다. 행정안전부 중앙재난안전대책본부는 1일 집중호우 피해... ",
+			"pubDate":"Thu, 01 Sep 2022 14:50:00 +0900"
+		},
+		{
+			"title":"집중호우 수해 피해 입은 서초·동작구 등 7곳 특별재난지역 추가",
+			"originallink":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=693814",
+			"link":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=693814",
+			"description":"중앙재난안전대책본부에 따르면 추가로 특별재난지역으로 선포된 곳은 서울 동작구·서초구, 경기 여주시, 강원 홍천군, 경기 의왕시 고천동·청계동, 경기 용인시 동천동, 충남 보령시 <b>청라<\/b>면이다. 2개 면이... ",
 			"pubDate":"Thu, 01 Sep 2022 14:50:00 +0900"
 		},
 		{
@@ -61,10 +82,10 @@
 			"pubDate":"Thu, 01 Sep 2022 14:31:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b>호수공원 메타버스 맵, 공공기관 중 최고",
-			"originallink":"http:\/\/www.aitimes.com\/news\/articleView.html?idxno=146586",
-			"link":"http:\/\/www.aitimes.com\/news\/articleView.html?idxno=146586",
-			"description":"인천 서구(구청장 강범석)가 지난 7월 처음 선보인 &apos;메타버스 <b>청라<\/b> 호수공원&apos;이 메타버스 플랫폼 &apos;제페토&apos;에서 방문자 8만여명을 기록, 모든 공공기관 메타버스 중 최고 접속 수치를 기록했다고 31일 밝혔다. <b>청라<\/b>호수공... ",
+			"title":"수해 피해 입은 서초·동작구 등 7곳 특별재난지역 추가 선포(종합)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220901110000530?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013412939?sid=102",
+			"description":"중앙재난안전대책본부에 따르면 추가로 특별재난지역으로 선포된 곳은 서울 동작구·서초구, 경기 여주시, 강원 홍천군, 경기 의왕시 고천동·청계동, 경기 용인시 동천동, 충남 보령시 <b>청라<\/b>면이다. 2개 면이... ",
 			"pubDate":"Thu, 01 Sep 2022 14:30:00 +0900"
 		},
 		{
@@ -75,10 +96,10 @@
 			"pubDate":"Thu, 01 Sep 2022 14:30:00 +0900"
 		},
 		{
-			"title":"수해 피해 입은 서초·동작구 등 7곳 특별재난지역 추가 선포(종합)",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220901110000530?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013412939?sid=102",
-			"description":"중앙재난안전대책본부에 따르면 추가로 특별재난지역으로 선포된 곳은 서울 동작구·서초구, 경기 여주시, 강원 홍천군, 경기 의왕시 고천동·청계동, 경기 용인시 동천동, 충남 보령시 <b>청라<\/b>면이다. 2개 면이... ",
+			"title":"인천 <b>청라<\/b>호수공원 메타버스 맵, 공공기관 중 최고",
+			"originallink":"http:\/\/www.aitimes.com\/news\/articleView.html?idxno=146586",
+			"link":"http:\/\/www.aitimes.com\/news\/articleView.html?idxno=146586",
+			"description":"인천 서구(구청장 강범석)가 지난 7월 처음 선보인 &apos;메타버스 <b>청라<\/b> 호수공원&apos;이 메타버스 플랫폼 &apos;제페토&apos;에서 방문자 8만여명을 기록, 모든 공공기관 메타버스 중 최고 접속 수치를 기록했다고 31일 밝혔다. <b>청라<\/b>호수공... ",
 			"pubDate":"Thu, 01 Sep 2022 14:30:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=405244",
 			"description":"보령향교는 조선 경종 3년(1723년)에 창건해 공자와 중국의 4성4현 및 국내 18현의 위패를 봉안하고 있으며, 지난 1994년 8월 31일 충청남도 기념물 제112호로 지정됐고, 주포와 주교, 청소, <b>청라<\/b>, 5개 동 지역을 관할했다.... ",
 			"pubDate":"Thu, 01 Sep 2022 11:20:00 +0900"
-		},
-		{
-			"title":"올 상반기 상업·업무용 건축물 거래비율 ‘역대 최고’… 아파트는 최저",
-			"originallink":"http:\/\/www.rcast.co.kr\/sub02.php?BRD_ID=1661998587128",
-			"link":"http:\/\/www.rcast.co.kr\/sub02.php?BRD_ID=1661998587128",
-			"description":"서해선과 제2경인선(예정)이 지나는 신천역과 도보 약 1분 거리에 위치해 초역세권, 더블역세권 입지를 동시에 누릴 수 있다.9월 인천 서구 <b>청라<\/b>동 일원에서는 ‘<b>청라<\/b> SK V1’이 분양 예정이다. 지하 2층~지상 10층... ",
-			"pubDate":"Thu, 01 Sep 2022 11:18:00 +0900"
-		},
-		{
-			"title":"강화웰빙CC 골프장 정식 개장",
-			"originallink":"https:\/\/www.news2day.co.kr\/article\/20220901500107",
-			"link":"https:\/\/www.news2day.co.kr\/article\/20220901500107",
-			"description":"또 김포한강신도시, <b>청라<\/b>지구, 검단신도시, 마곡지구, 일산 등 신도시들과 인접해 있으며 주변에 강화도 내 전등사, 동검도, 초지진 등 관광명소도 있어 수도권 지역 골퍼들에게 희소식이 아닐 수 없다.... ",
-			"pubDate":"Thu, 01 Sep 2022 11:10:00 +0900"
-		},
-		{
-			"title":"인천시, &apos;도심항공교통&apos; 가상체험 콘텐츠 개발…도시마케팅 추진",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220901010000293",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20220901010000293",
-			"description":"인천 △<b>청라<\/b>로봇랜드와 같은 가상공간 및 게임 콘텐츠를 공개한다고 1일 밝혔다. 콘텐츠는 2040년 미래도시 인천에 구현될 가상공간선 유저들이 직접 UAM을 타고 송도센트럴파크, 인천공항, 인천대교, <b>청라<\/b>로봇랜드... ",
-			"pubDate":"Thu, 01 Sep 2022 10:58:00 +0900"
 		}
 	]
 }
