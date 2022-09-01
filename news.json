@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 01 Sep 2022 10:10:02 +0900",
-	"total":183654,
+	"lastBuildDate":"Thu, 01 Sep 2022 10:20:03 +0900",
+	"total":183656,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"영종도 버스노선 절반이 비싼 좌석버스 &apos;눈총&apos;",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=912290",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=912290",
+			"description":"더구나 연수구와 <b>청라<\/b>국제도시 등을 경유하는 이들 좌석버스는 일반 버스와 비교해 상대적으로 요금 부담이 커 주민들의 이용률도 높지 않다. 좌석버스는 기본요금이 1650원으로 일반 버스 요금보다 400원 비싸고 이동... ",
+			"pubDate":"Thu, 01 Sep 2022 10:14:00 +0900"
+		},
+		{
+			"title":"서구 &quot;인천시 행정구역 개편 추진에 적극 협조할 것&quot;",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=90453",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=90453",
+			"description":"그동안 <b>청라<\/b>와 검단지역 주민들 사이에서 행정구역 개편에 대한 요구가 꾸준히 제기돼 왔다. 구는 <b>청라<\/b>, 루원, 검단 등 신도시 개발이 계속됨에 따라 향후 인구가 70만 명 이상으로 늘어날 것으로 전망되며 검단지역에만... ",
+			"pubDate":"Thu, 01 Sep 2022 10:12:00 +0900"
+		},
 		{
 			"title":"인천TP, <b>청라<\/b> 로봇타워에 &apos;AI 방역로봇&apos; 투입",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220901_0001998499&cID=14001&pID=14000",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=994162",
 			"description":"또 앞으로 <b>청라<\/b>와 루원, 검단 등에 신도시 개발이 이어지기 때문에 현재 인구 57만 명에서 앞으로 70만 명 이상으로 증가할 전망이다. 남동구는 주민 의견을 경청한 뒤 중앙부처와 협의해 추가로 검토할 계획이다.... ",
 			"pubDate":"Wed, 31 Aug 2022 21:52:00 +0900"
-		},
-		{
-			"title":"&apos;메타버스 <b>청라<\/b>호수공원&apos; 맵 방문자 한 달 새 8만 명 &apos;훌쩍&apos;",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=994111",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=994111",
-			"description":"선보인 &apos;메타버스 <b>청라<\/b>국제도시 호수공원&apos; 맵의 방문자가 한 달 사이 8만 명을 넘어섰다. 이는 전국 모든... 구는 <b>청라<\/b>호수공원 맵을 알리는 선물 증정 등 다양한 이벤트를 진행하고, 맘카페 등에서 적극적인 홍보활동을... ",
-			"pubDate":"Wed, 31 Aug 2022 21:52:00 +0900"
-		},
-		{
-			"title":"인천 행정구역 개편, 중·동구→ &apos;제물포·영종&apos;, 서구→ &apos;서구·검단구&apos;",
-			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=56409",
-			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=56409",
-			"description":"현재 인구는 57만명 정도이지만 <b>청라<\/b>, 루원, 검단 등 지역에 신도시 개발이 계속되고 있어, 향후 인구가 70만명 이상으로 전망된다. 검단지역에만 앞으로 10만명 이상의 인구가 증가할 것으로 예상된다. 인구증가에 따른... ",
-			"pubDate":"Wed, 31 Aug 2022 21:28:00 +0900"
 		}
 	]
 }
