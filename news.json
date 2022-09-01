@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Sep 2022 20:00:02 +0900",
-	"total":183728,
+	"lastBuildDate":"Thu, 01 Sep 2022 20:10:02 +0900",
+	"total":183729,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시 <b>청라<\/b>면 특별재난지역 선포",
+			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=718851",
+			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=718851",
+			"description":"8월 집중호우로 대규모 피해가 발생한 보령시 <b>청라<\/b>면이 특별재난지역으로 추가 선포됐다. 부여군과 청양군에 이어 충남도내 3번째 지정이다. 윤석열 대통령은 1일 보령시 <b>청라<\/b>면, 서울 동작·서초구, 경기 여주·의왕... ",
+			"pubDate":"Thu, 01 Sep 2022 20:04:00 +0900"
+		},
 		{
 			"title":"인천 복지전문가 &quot;인천형 시민생활보장제 도입해야&quot;",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1159614",
@@ -117,17 +124,17 @@
 			"pubDate":"Thu, 01 Sep 2022 17:09:00 +0900"
 		},
 		{
-			"title":"수해 피해 입은 서초·동작구 등 7곳 특별재난지역 추가 선포",
-			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3079780",
-			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3079780",
-			"description":"특별재난지역으로 추가 선포된 곳은 서울 동작구·서초구, 경기 여주시, 강원 홍천군, 경기 의왕시 고천동·청계동, 경기 용인시 동천동, 충남 보령시 <b>청라<\/b>면입니다. 2개 면이 특별재난지역으로 우선 선포됐던 경기... ",
-			"pubDate":"Thu, 01 Sep 2022 17:06:00 +0900"
-		},
-		{
 			"title":"尹대통령, 여주·용인·의왕시 특별재난지역 추가 선포",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363556471",
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363556471",
 			"description":"중앙재난안전대책본부에 따르면, 특별재난지역으로 추가 선포된 곳은 서울 동작구·서초구, 경기 여주시, 의왕시 고천동·청계동, 용인시 동천동, 강원 홍천군, 충남 보령시 <b>청라<\/b>면이다. 2개 면이 특별재난지역으로 우선... ",
+			"pubDate":"Thu, 01 Sep 2022 17:06:00 +0900"
+		},
+		{
+			"title":"수해 피해 입은 서초·동작구 등 7곳 특별재난지역 추가 선포",
+			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3079780",
+			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3079780",
+			"description":"특별재난지역으로 추가 선포된 곳은 서울 동작구·서초구, 경기 여주시, 강원 홍천군, 경기 의왕시 고천동·청계동, 경기 용인시 동천동, 충남 보령시 <b>청라<\/b>면입니다. 2개 면이 특별재난지역으로 우선 선포됐던 경기... ",
 			"pubDate":"Thu, 01 Sep 2022 17:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220901010000336",
 			"description":"인천시 보도자료에 따르면 서구는 <b>청라<\/b>, 루원, 검단 등 신도시 개발이 계속됨에 따라 향후 인구가 70만 명 이상으로 전망되며 검단지역에만 앞으로 10만 명 이상의 인구가 증가할 것으로 예상하기 때문이라고 했다. 이처럼... ",
 			"pubDate":"Thu, 01 Sep 2022 15:30:00 +0900"
-		},
-		{
-			"title":"동작·서초 등 7곳 특별재난지역 추가 선포…&quot;피해 지원금 추석 전 지급&quot;",
-			"originallink":"http:\/\/www.sisajournal.com\/news\/articleView.html?idxno=245602",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000044208?sid=102",
-			"description":"보령시 <b>청라<\/b>면 등 7곳을 특별재난지역으로 추가 선포했다고 1일 밝혔다. 정부는 앞서 경기 성남시·광주시·양평군과 여주시 금사면·산북면, 서울 영등포구·관악구·강남구 개포1동, 충남 부여군·청양군, 강원 횡성군 등... ",
-			"pubDate":"Thu, 01 Sep 2022 15:26:00 +0900"
 		}
 	]
 }
