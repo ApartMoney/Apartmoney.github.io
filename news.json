@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Sep 2022 10:00:03 +0900",
-	"total":183653,
+	"lastBuildDate":"Thu, 01 Sep 2022 10:10:02 +0900",
+	"total":183654,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천TP, <b>청라<\/b> 로봇타워에 &apos;AI 방역로봇&apos; 투입",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220901_0001998499&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011396366?sid=102",
+			"description":"기사내용 요약 바이러스 살균으로 방문객 안전↑ 인천테크노파크(인천TP)는 인천 서구 <b>청라<\/b>국제도시 로봇타워에 AI(인공지능) 기반의 방역로봇을 투입해 본격 운영한다고 1일 밝혔다. 앞서 2주 동안 시범운영을 마친 &apos;AI... ",
+			"pubDate":"Thu, 01 Sep 2022 10:04:00 +0900"
+		},
 		{
 			"title":"인천크래프트, 하늘 길 연다",
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1595442",
@@ -33,17 +40,17 @@
 			"pubDate":"Thu, 01 Sep 2022 09:38:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b> 로봇타워에 &apos;AI 방역로봇&apos; 투입",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022090109283865292",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005141183?sid=102",
-			"description":"인천테크노파크(인천TP)는 <b>청라<\/b>국제도시 로봇타워에 AI(인공지능) 기반의 방역로봇을 투입해 본격 운영한다고 1일 밝혔다. 앞서 2주간의 시범운영을 마친 2대의 AI 방역로봇은 소독액 분사 대신 바이러스를 99.9% 이상... ",
-			"pubDate":"Thu, 01 Sep 2022 09:28:00 +0900"
-		},
-		{
 			"title":"인천TP, &apos;AI 방역로봇&apos; 투입…바이러스 살균으로 방문객 안전↑",
 			"originallink":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=29423",
 			"link":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=29423",
 			"description":"인천테크노파크는 <b>청라<\/b>국제도시 로봇타워에 인공지능 기반의 방역로봇을 투입해 본격 운영한다고 1일 밝혔다. 앞서 2주간의 시범운영을 마친 2대의 &apos;&apos;은 소독액 분사 대신 바이러스를 99.9% 이상 살균하는 인체에 무해한... ",
+			"pubDate":"Thu, 01 Sep 2022 09:28:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b> 로봇타워에 &apos;AI 방역로봇&apos; 투입",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022090109283865292",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005141183?sid=102",
+			"description":"인천테크노파크(인천TP)는 <b>청라<\/b>국제도시 로봇타워에 AI(인공지능) 기반의 방역로봇을 투입해 본격 운영한다고 1일 밝혔다. 앞서 2주간의 시범운영을 마친 2대의 AI 방역로봇은 소독액 분사 대신 바이러스를 99.9% 이상... ",
 			"pubDate":"Thu, 01 Sep 2022 09:28:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=56409",
 			"description":"현재 인구는 57만명 정도이지만 <b>청라<\/b>, 루원, 검단 등 지역에 신도시 개발이 계속되고 있어, 향후 인구가 70만명 이상으로 전망된다. 검단지역에만 앞으로 10만명 이상의 인구가 증가할 것으로 예상된다. 인구증가에 따른... ",
 			"pubDate":"Wed, 31 Aug 2022 21:28:00 +0900"
-		},
-		{
-			"title":"제물포·영종·검단구 신설… 행정지도 바뀐다",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20220831580203",
-			"link":"https:\/\/www.kyeonggi.com\/article\/20220831580203",
-			"description":"시는 <b>청라<\/b>국제도시와 루원시티, 검단신도시 등 신도시 개발로 서구의 인구가 70만명을 넘길 것으로 보이는 만큼 행정구역을 나눠 행정의 효율성을 높일 방침이다. 이와 함께 시는 남동구의 경우 구월2지구 ‘3기 신도시’... ",
-			"pubDate":"Wed, 31 Aug 2022 21:00:00 +0900"
 		}
 	]
 }
