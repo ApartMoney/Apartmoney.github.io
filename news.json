@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Sep 2022 09:50:02 +0900",
-	"total":183652,
+	"lastBuildDate":"Thu, 01 Sep 2022 10:00:03 +0900",
+	"total":183653,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천크래프트, 하늘 길 연다",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1595442",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1595442",
+			"description":"인천 ▲<b>청라<\/b>로봇랜드와 같은 가상공간 및 게임 콘텐츠를 공개한다고 밝혔다. 2040년 미래도시 인천에 구현될 가상공간선 유저들이 직접 UAM을 타고 송도센트럴파크, 인천공항, 인천대교, <b>청라<\/b>로봇랜드 위를 비행할... ",
+			"pubDate":"Thu, 01 Sep 2022 09:50:00 +0900"
+		},
 		{
 			"title":"서구, 인천시 행정체제 개편 추진 관련 협조 입장 밝혀",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=408934",
@@ -26,17 +33,17 @@
 			"pubDate":"Thu, 01 Sep 2022 09:38:00 +0900"
 		},
 		{
-			"title":"인천TP, &apos;AI 방역로봇&apos; 투입…바이러스 살균으로 방문객 안전↑",
-			"originallink":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=29423",
-			"link":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=29423",
-			"description":"인천테크노파크는 <b>청라<\/b>국제도시 로봇타워에 인공지능 기반의 방역로봇을 투입해 본격 운영한다고 1일 밝혔다. 앞서 2주간의 시범운영을 마친 2대의 &apos;&apos;은 소독액 분사 대신 바이러스를 99.9% 이상 살균하는 인체에 무해한... ",
-			"pubDate":"Thu, 01 Sep 2022 09:28:00 +0900"
-		},
-		{
 			"title":"인천 <b>청라<\/b> 로봇타워에 &apos;AI 방역로봇&apos; 투입",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022090109283865292",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005141183?sid=102",
 			"description":"인천테크노파크(인천TP)는 <b>청라<\/b>국제도시 로봇타워에 AI(인공지능) 기반의 방역로봇을 투입해 본격 운영한다고 1일 밝혔다. 앞서 2주간의 시범운영을 마친 2대의 AI 방역로봇은 소독액 분사 대신 바이러스를 99.9% 이상... ",
+			"pubDate":"Thu, 01 Sep 2022 09:28:00 +0900"
+		},
+		{
+			"title":"인천TP, &apos;AI 방역로봇&apos; 투입…바이러스 살균으로 방문객 안전↑",
+			"originallink":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=29423",
+			"link":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=29423",
+			"description":"인천테크노파크는 <b>청라<\/b>국제도시 로봇타워에 인공지능 기반의 방역로봇을 투입해 본격 운영한다고 1일 밝혔다. 앞서 2주간의 시범운영을 마친 2대의 &apos;&apos;은 소독액 분사 대신 바이러스를 99.9% 이상 살균하는 인체에 무해한... ",
 			"pubDate":"Thu, 01 Sep 2022 09:28:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kyeonggi.com\/article\/20220831580203",
 			"description":"시는 <b>청라<\/b>국제도시와 루원시티, 검단신도시 등 신도시 개발로 서구의 인구가 70만명을 넘길 것으로 보이는 만큼 행정구역을 나눠 행정의 효율성을 높일 방침이다. 이와 함께 시는 남동구의 경우 구월2지구 ‘3기 신도시’... ",
 			"pubDate":"Wed, 31 Aug 2022 21:00:00 +0900"
-		},
-		{
-			"title":"캠프마켓 공원·도로부지 매입사업 국비 미반영 &apos;발등에 불&apos;",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220831010005624",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220831010005624",
-			"description":"서울지하철 7호선 <b>청라<\/b>연장사업은 인천시에서 요청한 954억원이 전액 수용됐다. 인천발 KTX 사업과 GTX B노선 건설 사업은 각각 750억원, 480억원 반영됐다. 영종~강화 도로건설사업은 인천시 목표액(150억원)보다 3억원... ",
-			"pubDate":"Wed, 31 Aug 2022 20:46:00 +0900"
 		}
 	]
 }
