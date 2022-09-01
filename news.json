@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Sep 2022 11:40:02 +0900",
-	"total":183668,
+	"lastBuildDate":"Thu, 01 Sep 2022 11:50:02 +0900",
+	"total":183669,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"로봇타워 방역, 로봇이 책임진다",
+			"originallink":"http:\/\/www.etnews.com\/20220901000128",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003040946?sid=102",
+			"description":"인천테크노파크는 <b>청라<\/b>국제도시 로봇타워에 인공지능(AI) 기반 방역로봇을 투입해 운영한다고 1일 밝혔다. 앞서 2주간 시범운영을 마친 2대 AI 방역로봇은 소독액 분사 대신 바이러스를 99.9% 이상 살균하는 인체에 무해한... ",
+			"pubDate":"Thu, 01 Sep 2022 11:43:00 +0900"
+		},
 		{
 			"title":"보령시 향교 추기 석전대제 봉행",
 			"originallink":"http:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2021503",
@@ -54,17 +61,17 @@
 			"pubDate":"Thu, 01 Sep 2022 10:58:00 +0900"
 		},
 		{
-			"title":"남동구.서구, 인천시 행정체제 개편 추진 관련 입장 밝혀..,",
-			"originallink":"http:\/\/www.breaknews.com\/920671",
-			"link":"http:\/\/www.breaknews.com\/920671",
-			"description":"인천시 보도자료에 따르면 서구는 <b>청라<\/b>, 루원, 검단 등 신도시 개발이 계속됨에... 이에 따라 그동안 <b>청라<\/b>와 검단지역 주민들 사이에서 행정구역 개편에 대한 요구가... ",
-			"pubDate":"Thu, 01 Sep 2022 10:34:00 +0900"
-		},
-		{
 			"title":"인천시, 인천크래프트 활용 도시마케팅 추진",
 			"originallink":"http:\/\/www.breaknews.com\/920676",
 			"link":"http:\/\/www.breaknews.com\/920676",
 			"description":"인천, <b>청라<\/b>로봇랜드와 같은 가상공간 및 게임 콘텐츠를 공개한다. 2040년 미래도시... 인천대교, <b>청라<\/b>로봇랜드 위를 비행할 수 있다. 인천시 주요 장소에 구현된 UAM 이... ",
+			"pubDate":"Thu, 01 Sep 2022 10:34:00 +0900"
+		},
+		{
+			"title":"남동구.서구, 인천시 행정체제 개편 추진 관련 입장 밝혀..,",
+			"originallink":"http:\/\/www.breaknews.com\/920671",
+			"link":"http:\/\/www.breaknews.com\/920671",
+			"description":"인천시 보도자료에 따르면 서구는 <b>청라<\/b>, 루원, 검단 등 신도시 개발이 계속됨에... 이에 따라 그동안 <b>청라<\/b>와 검단지역 주민들 사이에서 행정구역 개편에 대한 요구가... ",
 			"pubDate":"Thu, 01 Sep 2022 10:34:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=91844",
 			"description":"송도·<b>청라<\/b>와 함께 &apos;경제자유구역&apos;으로 지정돼 지역 경제를 리딩하는 중이다. 단연 눈에 띄는 것은... 영종국제도시와 <b>청라<\/b>를 연결하는 제3연륙교는 2025년 준공을 목표로 개발이 한창이다. 영종도와 육지를 잇는 3개의... ",
 			"pubDate":"Thu, 01 Sep 2022 08:02:00 +0900"
-		},
-		{
-			"title":"LH, 인천 <b>청라<\/b>에 BMW코리아 R&amp;D센터 유치",
-			"originallink":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=136916",
-			"link":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=136916",
-			"description":"대상지 위치도(사진=LH)©열린뉴스통신ONA  LH와 BMW코리아, 인천경제자유구역청이 &apos;<b>청라<\/b>국제도시 BMW코리아... BMW코리아 R&amp;D센터는 LH가 조성한 <b>청라<\/b> IHP 도시첨단산업단지 내 외국인투자유치지역에 건립되며 부지... ",
-			"pubDate":"Thu, 01 Sep 2022 06:22:00 +0900"
 		}
 	]
 }
