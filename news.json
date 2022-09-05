@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 05 Sep 2022 19:10:03 +0900",
-	"total":183865,
+	"lastBuildDate":"Mon, 05 Sep 2022 19:20:02 +0900",
+	"total":183866,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[경제프리즘] 인천 행정체제 개편과 정치경제",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20220905580058",
+			"link":"https:\/\/www.kyeonggi.com\/article\/20220905580058",
+			"description":"또 <b>청라<\/b>국제도시, 검단신도시 등 신도시 개발로 인구가 70만 명까지 급증할 것으로 예상되는 서구는 검단구(19만명)를 신설, 분구가 이뤄진다. 시는 인천의 군·구당 평균 인구수는 29만6천명으로 전국 광역시 중 가장... ",
+			"pubDate":"Mon, 05 Sep 2022 19:18:00 +0900"
+		},
 		{
 			"title":"iH, 검암역세권 개발사업 이달 안으로 시공사 선정 나선다",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363556971",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005142991?sid=101",
 			"description":"또 인천 <b>청라<\/b>시티타워 사업은 올 7월 초 GMP(최대보증금액) 계약을 마치고 8월 안에 착공할 예정이었으나, 한국토지주택공사(LH)가 증액 공사비에 대한 적정성을 검토해야 한다며 경영심의회를 열기로 하면서 아직 착공... ",
 			"pubDate":"Mon, 05 Sep 2022 10:46:00 +0900"
-		},
-		{
-			"title":"인천, 통영 한국의 &apos;심포니 오브 라이트&apos;로 만든다",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202209051021323983",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004893664?sid=103",
-			"description":"송도센트럴파크와 월미도, 개항장·자유시장을 핵심 권역으로 정서진, 수봉공원, <b>청라<\/b>호수공원 등까지 사업을 연계할 예정이다. 인천은 이번 공모사업을 통해 신규 관광객 110만 명 유치, 소비지출액 770억 원 유발과... ",
-			"pubDate":"Mon, 05 Sep 2022 10:26:00 +0900"
 		}
 	]
 }
