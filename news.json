@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 05 Sep 2022 10:40:02 +0900",
-	"total":183836,
+	"lastBuildDate":"Mon, 05 Sep 2022 10:50:02 +0900",
+	"total":183837,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"신중모드 돌입한 건설업계, “착공 미루고 수주는 가려가며...”",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022090510315491232",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005142991?sid=101",
+			"description":"또 인천 <b>청라<\/b>시티타워 사업은 올 7월 초 GMP(최대보증금액) 계약을 마치고 8월 안에 착공할 예정이었으나, 한국토지주택공사(LH)가 증액 공사비에 대한 적정성을 검토해야 한다며 경영심의회를 열기로 하면서 아직 착공... ",
+			"pubDate":"Mon, 05 Sep 2022 10:46:00 +0900"
+		},
 		{
 			"title":"인천, 통영 한국의 &apos;심포니 오브 라이트&apos;로 만든다",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202209051021323983",
@@ -152,6 +159,13 @@
 			"pubDate":"Sun, 04 Sep 2022 20:14:00 +0900"
 		},
 		{
+			"title":"인천시 2년 연속 &apos;국비 5조 원 시대&apos; 목전",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=994544",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=994544",
+			"description":"이번 정부 예산(안)을 보면 인천에서는 ▶영종~강화 도로 건설(180억 원) ▶제물포 디지털 인재 양성·실증(22억 원) ▶인천발 KTX 건설(632억 원) ▶서울지하철 7호선 <b>청라<\/b> 연장(954억 원) ▶금곡동~대곡동 간 도로 개설... ",
+			"pubDate":"Sun, 04 Sep 2022 19:48:00 +0900"
+		},
+		{
 			"title":"SK인천석유화학 올 명절도 홀몸노인에 &apos;효도&apos;",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=994499",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=994499",
@@ -163,13 +177,6 @@
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=994486",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=994486",
 			"description":"9월 1일 열린 2022 WSCE Awards 시상식에서는 &apos;디지털트윈 기반 화재 대응 현장지휘 통합플랫폼 구축&apos;과 &apos;IFEZ(송도·영종·<b>청라<\/b>) 스마트시티 조성사업&apos;으로 인천시와 IFEZ가 City 부문 우수상을 수상했다. 김지영 시... ",
-			"pubDate":"Sun, 04 Sep 2022 19:48:00 +0900"
-		},
-		{
-			"title":"인천시 2년 연속 &apos;국비 5조 원 시대&apos; 목전",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=994544",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=994544",
-			"description":"이번 정부 예산(안)을 보면 인천에서는 ▶영종~강화 도로 건설(180억 원) ▶제물포 디지털 인재 양성·실증(22억 원) ▶인천발 KTX 건설(632억 원) ▶서울지하철 7호선 <b>청라<\/b> 연장(954억 원) ▶금곡동~대곡동 간 도로 개설... ",
 			"pubDate":"Sun, 04 Sep 2022 19:48:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1159873",
 			"description":"이번 기부 사업은 한국에너지공단 인천지역본부, 인천시, 인천지역 에너지 유관기관인 인천국제공항공사, 한국전력공사 인천본부, 인천종합에너지㈜, <b>청라<\/b>에너지㈜가 참여했다. 본부는 부평구 노인거주복지시설... ",
 			"pubDate":"Sun, 04 Sep 2022 18:26:00 +0900"
-		},
-		{
-			"title":"인천시, 내년 국비 4조9천억 확보… 추가 확보 시 5조 돌파",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363556732",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363556732",
-			"description":"정부안에 반영한 주요 사업은 수도권광역급행철도(GTX) B노선 384억 원, 영종~강화 도로건설 180억 원, 제물포 디지털 인재양성·실증 구축 22억 원, 인천발 KTX 건설 632억 원, 서울도시철도 7호선 <b>청라<\/b>연장 954억 원... ",
-			"pubDate":"Sun, 04 Sep 2022 17:26:00 +0900"
 		}
 	]
 }
