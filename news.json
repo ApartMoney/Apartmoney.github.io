@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Sep 2022 16:20:02 +0900",
-	"total":183994,
+	"lastBuildDate":"Wed, 07 Sep 2022 16:30:03 +0900",
+	"total":183995,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 송도 주민단체 “연수구서 송도국제도시 분리해야”",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5551203&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011334953?sid=102",
+			"description":"인천시는 지난달 31일 가칭 ‘검단·영종·제물포구’ 신설을 핵심 내용으로 하는 행정구역 개편안을 발표했으며, 영종과 <b>청라<\/b>국제도시는 개편 대상에 포함됐지만, 송도국제도시는 분구 대상에서 제외됐습니다. 이와... ",
+			"pubDate":"Wed, 07 Sep 2022 16:22:00 +0900"
+		},
 		{
 			"title":"인천경제자유구역청장에 김진용씨...개청 후 첫 재임 청장",
 			"originallink":"https:\/\/www.chosun.com\/national\/regional\/gyeonggi-incheon\/2022\/09\/07\/VZFHIMXQHRFH7OCURDAQ7VX7YQ\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=948722",
 			"description":"이어, &quot;지금의 IFEZ는 많은 성과를 거둔 명실상부한 대한민국 최고의 경제자유구역이지만 더 큰 도약을 위해서는 더 많은 노력이 필요하다&quot;며, &quot;지혜를 모아 인천타워 건설, <b>청라<\/b>시티타워 등의 현안을 해결해 나가는데... ",
 			"pubDate":"Wed, 07 Sep 2022 13:40:00 +0900"
-		},
-		{
-			"title":"김진용 인천경제자유구역청장 취임 &quot;글로벌 비즈니스 도시로”",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220907_0002006228&cID=10802&pID=14000",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011409038?sid=102",
-			"description":"이어 “지금의 IFEZ는 많은 성과를 거둔 명실상부한 대한민국 최고의 경제자유구역이지만 더 큰 도약을 위해서는 더 많은 노력이 필요하다”며 “지혜를 모아 인천타워 건설, <b>청라<\/b>시티타워 등의 현안을 해결해 나가는데... ",
-			"pubDate":"Wed, 07 Sep 2022 13:34:00 +0900"
 		}
 	]
 }
