@@ -1,28 +1,21 @@
 {
-	"lastBuildDate":"Thu, 08 Sep 2022 14:10:02 +0900",
-	"total":184101,
+	"lastBuildDate":"Thu, 08 Sep 2022 14:20:02 +0900",
+	"total":184102,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"서울 아파트값, 9년만 최대 낙폭…브레이크 없는 집값 하락",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2171321",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2171321",
-			"description":"이 밖에 인천은 0.29% 하락해 지난주 수준을 이어갔다. 연수구(-0.33%)는 입주물량 영향 있는 송도신도시 위주로, 서구(-0.32%)는 <b>청라<\/b>·당하동 대단지 위주로, 계양구(-0.28%)는 방축·서운동 위주로 하락했다.",
-			"pubDate":"Thu, 08 Sep 2022 14:02:00 +0900"
+			"title":"전국 아파트값, 통계 작성 이래 가장 많이 내렸다… 서울 9년만에 최대",
+			"originallink":"https:\/\/biz.chosun.com\/real_estate\/real_estate_general\/2022\/09\/08\/OI5L4IHBDFBJHKT3D7AFBOYFDE\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000839675?sid=101",
+			"description":"인천 연수구(-0.33%)는 입주물량 영향 있는 송도신도시 위주로, 서구(-0.32%)는 <b>청라<\/b>·당하동 대단지 위주로 하락세가 지속됐다. 경기 화성시(-0.39%)는 매물 적체 영향 있는 동탄신도시 위주로, 광주시(-0.35%)는 역·삼동... ",
+			"pubDate":"Thu, 08 Sep 2022 14:18:00 +0900"
 		},
 		{
 			"title":"서울 집값 하락폭 2달 사이 5배 커졌다…급매물 위주 간헐적 거래만",
 			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2022090811481616255e6e69892f_18",
 			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2022090811481616255e6e69892f_18",
 			"description":"연수구(-0.33%)는 입주물량 영향 있는 송도신도시 위주로, 서구(-0.32%)는 <b>청라<\/b>·당하동 대단지 위주로... 38%)는 <b>청라<\/b>신도시 대단지 위주로, 연수구(-0.32%)는 송도·연수동 위주로 하락하며 하락세를 막지 못했다. 반면... ",
-			"pubDate":"Thu, 08 Sep 2022 14:02:00 +0900"
-		},
-		{
-			"title":"서울 아파트값 0.15% ↓…15주 연속 하락",
-			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1146286&inflow=N",
-			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1146286&inflow=N",
-			"description":"서구는 <b>청라<\/b>동과 당하동 대단지를 중심으로 0.32% 하락했다. 지방 아파트 매매가격은 0.13% 하락했다. 이 중 5대 광역시는 0.20% 떨어졌다. 대전(-0.27%)은 서구(-0.37%)와 유성구(-0.27%) 등에서 높은 하락폭을 기록했고... ",
 			"pubDate":"Thu, 08 Sep 2022 14:02:00 +0900"
 		},
 		{
@@ -33,6 +26,20 @@
 			"pubDate":"Thu, 08 Sep 2022 14:02:00 +0900"
 		},
 		{
+			"title":"서울 아파트값 0.15% ↓…15주 연속 하락",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1146286&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1146286&inflow=N",
+			"description":"서구는 <b>청라<\/b>동과 당하동 대단지를 중심으로 0.32% 하락했다. 지방 아파트 매매가격은 0.13% 하락했다. 이 중 5대 광역시는 0.20% 떨어졌다. 대전(-0.27%)은 서구(-0.37%)와 유성구(-0.27%) 등에서 높은 하락폭을 기록했고... ",
+			"pubDate":"Thu, 08 Sep 2022 14:02:00 +0900"
+		},
+		{
+			"title":"“아무도 안 사요” 서울 아파트값, 9년만 최대 낙폭…집값 브레이크 풀렸다",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2171321",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2171321",
+			"description":"이 밖에 인천은 0.29% 하락해 지난주 수준을 이어갔다. 연수구(-0.33%)는 입주물량 영향 있는 송도신도시 위주로, 서구(-0.32%)는 <b>청라<\/b>·당하동 대단지 위주로, 계양구(-0.28%)는 방축·서운동 위주로 하락했다.",
+			"pubDate":"Thu, 08 Sep 2022 14:02:00 +0900"
+		},
+		{
 			"title":"서울 아파트값, 9년만에 최대폭 하락",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202209081131463298",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004896151?sid=101",
@@ -40,17 +47,17 @@
 			"pubDate":"Thu, 08 Sep 2022 14:01:00 +0900"
 		},
 		{
-			"title":"15주째 하락한 서울 아파트값…낙폭은 9년 만에 최대",
-			"originallink":"https:\/\/www.news1.kr\/articles\/4798030",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006325897?sid=101",
-			"description":"인천의 경우 연수구(-0.33%)가 입주물량 영향이 있는 송도신도시 위주로, 서구(-0.32%)는 <b>청라<\/b>·당하동 대단지 위주로, 계양구(-0.28%)는 방축·서운동 위주로 하락하며 내림세가 이어졌다. 경기 지역은 화성시(-0.39%)가... ",
-			"pubDate":"Thu, 08 Sep 2022 14:00:00 +0900"
-		},
-		{
 			"title":"서울 아파트 전셋값 13주 연속 하락",
 			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1545981\/?sc=Naver",
 			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1545981\/?sc=Naver",
 			"description":"신규 입주물량 영향 등으로 대부분 지역에서 하락세 지속되는 가운데, 중구(-0.46%)는 중산·운남동 위주로, 서구(-0.38%)는 <b>청라<\/b>신도시 대단지 위주로, 연수구(-0.32%)는 송도·연수동 위주로 하락하며 하락세가... ",
+			"pubDate":"Thu, 08 Sep 2022 14:00:00 +0900"
+		},
+		{
+			"title":"15주째 하락한 서울 아파트값…낙폭은 9년 만에 최대",
+			"originallink":"https:\/\/www.news1.kr\/articles\/4798030",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006325897?sid=101",
+			"description":"인천의 경우 연수구(-0.33%)가 입주물량 영향이 있는 송도신도시 위주로, 서구(-0.32%)는 <b>청라<\/b>·당하동 대단지 위주로, 계양구(-0.28%)는 방축·서운동 위주로 하락하며 내림세가 이어졌다. 경기 지역은 화성시(-0.39%)가... ",
 			"pubDate":"Thu, 08 Sep 2022 14:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003042659?sid=101",
 			"description":"<b>청라<\/b> 하나글로벌캠퍼스에서 진행된 이날 봉사활동에는 박성호 하나은행장을 비롯 그룹 임직원 및 가족 100여명과 하나금융그룹 스마트 홍보대사 50명이 참석했다. 봉사활동 참여자들은 <b>청라<\/b> 인근 재래시장에서 재료를... ",
 			"pubDate":"Thu, 08 Sep 2022 11:02:00 +0900"
-		},
-		{
-			"title":"하나금융, &apos;추석맞이 사랑의 송편 나눔 봉사활동&apos; 진행",
-			"originallink":"http:\/\/www.lkp.news\/news\/articleView.html?idxno=23576",
-			"link":"http:\/\/www.lkp.news\/news\/articleView.html?idxno=23576",
-			"description":"봉사활동 참여자들은 <b>청라<\/b> 인근 재래시장에서 재료를 직접 구입해 송편을 함께 빚으며 소통의 시간을 가졌다. 직접 빚은 송편은 재래시장에서 구입한 쌀과 과일, 식료품 등과 함께 행복상자에 정성껏 담았다.... ",
-			"pubDate":"Thu, 08 Sep 2022 10:56:00 +0900"
 		}
 	]
 }
