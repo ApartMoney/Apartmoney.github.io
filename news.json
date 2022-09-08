@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Thu, 08 Sep 2022 14:40:03 +0900",
-	"total":184108,
+	"lastBuildDate":"Thu, 08 Sep 2022 14:50:02 +0900",
+	"total":184111,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융, 추석맞이 사랑의 송편 나눔 봉사활동",
+			"originallink":"http:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=89063",
+			"link":"http:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=89063",
+			"description":"<b>청라<\/b> 하나글로벌캠퍼스에서 진행된 봉사활동에는 박성호 하나은행장을 비롯한 그룹 임직원 및 가족 100여 명과 하나금융그룹 SMART 홍보대사 50명이 참석했다. <b>청라<\/b> 인근 재래시장에서 재료를 직접 구입해 송편을 함께... ",
+			"pubDate":"Thu, 08 Sep 2022 14:44:00 +0900"
+		},
+		{
+			"title":"[아유경제_부동산] 9월 1주 아파트 가격 동향… 매매가격 -0.17% 하락ㆍ전세가...",
+			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=73596",
+			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=73596",
+			"description":"연수구(-0.33%)는 입주 물량 영향 있는 송도신도시 위주, 서구 (-0.32%)는 <b>청라<\/b>와 당하 대단지 위주로, 계양구... 38%)는 <b>청라<\/b>신도시 대단지 위주, 연수구(-0.32%)는 송도ㆍ연수 위주로 하락하며 하락세 지속했다. 경기(-0.25... ",
+			"pubDate":"Thu, 08 Sep 2022 14:42:00 +0900"
+		},
+		{
+			"title":"하나금융, &apos;추석맞이 사랑의 송편 나눔&apos; 봉사활동",
+			"originallink":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=466609",
+			"link":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=466609",
+			"description":"<b>청라<\/b> 하나글로벌캠퍼스에서 진행된 봉사활동에는 박성호 하나은행장을 비롯한 그룹 임직원과 가족 100여명, 하나금융 SMART(스마트) 홍보대사 50명이 참석했다. 봉사활동 참여자들은 <b>청라<\/b> 인근 재래시장에서 재료를... ",
+			"pubDate":"Thu, 08 Sep 2022 14:39:00 +0900"
+		},
 		{
 			"title":"전국 아파트값 하락세 가속..서울은 9년여만에 최대폭↓",
 			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2024590",
@@ -54,13 +75,6 @@
 			"pubDate":"Thu, 08 Sep 2022 14:18:00 +0900"
 		},
 		{
-			"title":"서울 집값 하락폭 2달 사이 5배 커졌다…급매물 위주 간헐적 거래만",
-			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2022090811481616255e6e69892f_18",
-			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2022090811481616255e6e69892f_18",
-			"description":"연수구(-0.33%)는 입주물량 영향 있는 송도신도시 위주로, 서구(-0.32%)는 <b>청라<\/b>·당하동 대단지 위주로... 38%)는 <b>청라<\/b>신도시 대단지 위주로, 연수구(-0.32%)는 송도·연수동 위주로 하락하며 하락세를 막지 못했다. 반면... ",
-			"pubDate":"Thu, 08 Sep 2022 14:02:00 +0900"
-		},
-		{
 			"title":"“아무도 안 사요”…서울 아파트값, 9년만 최대 낙폭",
 			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2171321",
 			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2171321",
@@ -82,6 +96,13 @@
 			"pubDate":"Thu, 08 Sep 2022 14:02:00 +0900"
 		},
 		{
+			"title":"서울 집값 하락폭 2달 사이 5배 커졌다…급매물 위주 간헐적 거래만",
+			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2022090811481616255e6e69892f_18",
+			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2022090811481616255e6e69892f_18",
+			"description":"연수구(-0.33%)는 입주물량 영향 있는 송도신도시 위주로, 서구(-0.32%)는 <b>청라<\/b>·당하동 대단지 위주로... 38%)는 <b>청라<\/b>신도시 대단지 위주로, 연수구(-0.32%)는 송도·연수동 위주로 하락하며 하락세를 막지 못했다. 반면... ",
+			"pubDate":"Thu, 08 Sep 2022 14:02:00 +0900"
+		},
+		{
 			"title":"서울 아파트값, 9년만에 최대폭 하락",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202209081131463298",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004896151?sid=101",
@@ -89,17 +110,17 @@
 			"pubDate":"Thu, 08 Sep 2022 14:01:00 +0900"
 		},
 		{
-			"title":"15주째 하락한 서울 아파트값…낙폭은 9년 만에 최대",
-			"originallink":"https:\/\/www.news1.kr\/articles\/4798030",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006325897?sid=101",
-			"description":"인천의 경우 연수구(-0.33%)가 입주물량 영향이 있는 송도신도시 위주로, 서구(-0.32%)는 <b>청라<\/b>·당하동 대단지 위주로, 계양구(-0.28%)는 방축·서운동 위주로 하락하며 내림세가 이어졌다. 경기 지역은 화성시(-0.39%)가... ",
-			"pubDate":"Thu, 08 Sep 2022 14:00:00 +0900"
-		},
-		{
 			"title":"서울 아파트 값 15주 연속 하락",
 			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1545977\/?sc=Naver",
 			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1545977\/?sc=Naver",
 			"description":"연수구(-0.33%)는 입주물량 영향 있는 송도신도시 위주로, 서구(-0.32%)는 <b>청라<\/b>·당하동 대단지 위주로, 계양구(-0.28%)는 방축·서운동 위주로 하락하며 하락세가 지속됐다. 경기는 -0.21%에서 -0.22%로 내렸다. 화성시(-0.39... ",
+			"pubDate":"Thu, 08 Sep 2022 14:00:00 +0900"
+		},
+		{
+			"title":"15주째 하락한 서울 아파트값…낙폭은 9년 만에 최대",
+			"originallink":"https:\/\/www.news1.kr\/articles\/4798030",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006325897?sid=101",
+			"description":"인천의 경우 연수구(-0.33%)가 입주물량 영향이 있는 송도신도시 위주로, 서구(-0.32%)는 <b>청라<\/b>·당하동 대단지 위주로, 계양구(-0.28%)는 방축·서운동 위주로 하락하며 내림세가 이어졌다. 경기 지역은 화성시(-0.39%)가... ",
 			"pubDate":"Thu, 08 Sep 2022 14:00:00 +0900"
 		},
 		{
@@ -138,13 +159,6 @@
 			"pubDate":"Thu, 08 Sep 2022 12:44:00 +0900"
 		},
 		{
-			"title":"하나금융, 추석맞이 &apos;사랑의 송편&apos; 나눔 봉사활동 실시",
-			"originallink":"http:\/\/www.techholic.co.kr\/news\/articleView.html?idxno=205173",
-			"link":"http:\/\/www.techholic.co.kr\/news\/articleView.html?idxno=205173",
-			"description":"하나금융그룹은 추석을 맞아 지역 소상공인과 취약계층을 지원하고자 <b>청라<\/b> 하나글로벌캠퍼스에서 박성호... 봉사활동 참여자들은 <b>청라<\/b> 인근 재래시장에서 재료를 구입해 직접 빚은 송편과 재래시장에서 구입한 쌀, 과일... ",
-			"pubDate":"Thu, 08 Sep 2022 12:26:00 +0900"
-		},
-		{
 			"title":"하나금융, 사랑의 송편 나눔 봉사활동 실시",
 			"originallink":"http:\/\/www.newsbrite.net\/news\/articleView.html?idxno=168074",
 			"link":"http:\/\/www.newsbrite.net\/news\/articleView.html?idxno=168074",
@@ -152,16 +166,23 @@
 			"pubDate":"Thu, 08 Sep 2022 12:26:00 +0900"
 		},
 		{
-			"title":"[은행가 이모저모] 하나·SBI·KB·신한...&apos;IRP 가입 이벤트&apos;→&apos;베트남 진출 ...",
-			"originallink":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=383490",
-			"link":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=383490",
-			"description":"<b>청라<\/b> 하나글로벌캠퍼스에서 진행된 이날 봉사활동에는 박성호 하나은행장을 비롯한 그룹 임직원 및 가족 100여 명과 하나금융그룹 SMART 홍보대사 50명이 참석했다. 봉사활동 참여자들은 <b>청라<\/b> 인근 재래시장에서 재료를... ",
-			"pubDate":"Thu, 08 Sep 2022 12:14:00 +0900"
+			"title":"하나금융, 추석맞이 &apos;사랑의 송편&apos; 나눔 봉사활동 실시",
+			"originallink":"http:\/\/www.techholic.co.kr\/news\/articleView.html?idxno=205173",
+			"link":"http:\/\/www.techholic.co.kr\/news\/articleView.html?idxno=205173",
+			"description":"하나금융그룹은 추석을 맞아 지역 소상공인과 취약계층을 지원하고자 <b>청라<\/b> 하나글로벌캠퍼스에서 박성호... 봉사활동 참여자들은 <b>청라<\/b> 인근 재래시장에서 재료를 구입해 직접 빚은 송편과 재래시장에서 구입한 쌀, 과일... ",
+			"pubDate":"Thu, 08 Sep 2022 12:26:00 +0900"
 		},
 		{
 			"title":"하나금융, 추석맞이 사랑의 송편 나눔 봉사활동 실시",
 			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=117431",
 			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=117431",
+			"description":"<b>청라<\/b> 하나글로벌캠퍼스에서 진행된 이날 봉사활동에는 박성호 하나은행장을 비롯한 그룹 임직원 및 가족 100여 명과 하나금융그룹 SMART 홍보대사 50명이 참석했다. 봉사활동 참여자들은 <b>청라<\/b> 인근 재래시장에서 재료를... ",
+			"pubDate":"Thu, 08 Sep 2022 12:14:00 +0900"
+		},
+		{
+			"title":"[은행가 이모저모] 하나·SBI·KB·신한...&apos;IRP 가입 이벤트&apos;→&apos;베트남 진출 ...",
+			"originallink":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=383490",
+			"link":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=383490",
 			"description":"<b>청라<\/b> 하나글로벌캠퍼스에서 진행된 이날 봉사활동에는 박성호 하나은행장을 비롯한 그룹 임직원 및 가족 100여 명과 하나금융그룹 SMART 홍보대사 50명이 참석했다. 봉사활동 참여자들은 <b>청라<\/b> 인근 재래시장에서 재료를... ",
 			"pubDate":"Thu, 08 Sep 2022 12:14:00 +0900"
 		},
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=511792",
 			"description":"<b>청라<\/b> 하나글로벌캠퍼스에서 진행된 이날 봉사활동에는 박성호 하나은행장을 비롯한 그룹 임직원 및 가족 100여명과 하나금융그룹 SMART 홍보대사 50명이 참석했다. 봉사활동 참여자들은 <b>청라<\/b> 인근 재래시장에서 재료를... ",
 			"pubDate":"Thu, 08 Sep 2022 11:50:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 취약계층 지원...‘사랑의 송편 나눔 봉사활동’ 실시",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20220908010001578",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20220908010001578",
-			"description":"<b>청라<\/b> 하나글로벌캠퍼스에서 진행된 이날 봉사활동에는 박성호 하나은행장을 비롯한 그룹 임직원 및 가족 100여 명과 하나금융그룹 SMART 홍보대사 50명이 참석했다. 봉사활동 참여자들은 <b>청라<\/b> 인근 재래시장에서 재료를... ",
-			"pubDate":"Thu, 08 Sep 2022 11:40:00 +0900"
-		},
-		{
-			"title":"인천시, 제7대 경제자유구역청장에 김진용 임명",
-			"originallink":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=873458",
-			"link":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=873458",
-			"description":"이어, &quot;지금의 IFEZ는 많은 성과를 거둔 명실상부한 대한민국 최고의 경제자유구역이지만 더 큰 도약을 위해서는 더 많은 노력이 필요하다&quot;며, &quot;지혜를 모아 인천타워 건설, <b>청라<\/b>시티타워 등의 현안을 해결해 나가는데... ",
-			"pubDate":"Thu, 08 Sep 2022 11:40:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, &apos;추석맞이 사랑의 송편 나눔 봉사활동&apos; 실시",
-			"originallink":"http:\/\/www.it-b.co.kr\/news\/articleView.html?idxno=62521",
-			"link":"http:\/\/www.it-b.co.kr\/news\/articleView.html?idxno=62521",
-			"description":"봉사활동에 참여한 박성호 하나은행장(왼쪽)이 직원 자녀와 함께 <b>청라<\/b> 인근 재래시장에서 직접 구입한 송편... <b>청라<\/b> 하나글로벌캠퍼스에서 진행된 이날 봉사활동에는 박성호 하나은행장을 비롯한 그룹 임직원 및 가족... ",
-			"pubDate":"Thu, 08 Sep 2022 11:32:00 +0900"
 		}
 	]
 }
