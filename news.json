@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 15 Sep 2022 14:20:02 +0900",
-	"total":184415,
+	"lastBuildDate":"Thu, 15 Sep 2022 14:30:03 +0900",
+	"total":184416,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울 아파트 전셋값 14주 연속 하락",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1546622\/?sc=Naver",
+			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1546622\/?sc=Naver",
+			"description":"신규 입주물량 영향 등으로 매물 적체 지속되는 가운데, 미추홀구(-0.35%)는 용현·주안동 위주로, 서구(-0.35%)는 <b>청라<\/b>신도시 위주로, 중구(-0.34%)는 중산·운남동 위주로 하락하며 하락세 지속했다. 경기는 –0.25%에서... ",
+			"pubDate":"Thu, 15 Sep 2022 14:26:00 +0900"
+		},
 		{
 			"title":"“부동산 거래 침체 심각 수준”…서울 아파트 가격, 전주 대비 0.16% 하락",
 			"originallink":"http:\/\/www.segyebiz.com\/newsView\/20220915511562?OutUrl=naver",
@@ -110,17 +117,17 @@
 			"pubDate":"Thu, 15 Sep 2022 08:58:00 +0900"
 		},
 		{
-			"title":"지난 1년간 인구증가 1위 지역은 &apos;인천서구&apos;",
-			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1546532\/?sc=Naver",
-			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1546532\/?sc=Naver",
-			"description":"인천 서구에는 <b>청라<\/b>국제신도시 등이, 경기 남부의 화성시나 평택시에는 동탄신도시와 고덕국제신도시... 특히 <b>청라<\/b>국제도시는 인천경제자유구역의 핵심지 중 하나다. 주요 고속도로 2개 노선이 지나며, 향후에는... ",
-			"pubDate":"Thu, 15 Sep 2022 08:34:00 +0900"
-		},
-		{
 			"title":"지난 1년간 인구증가 1위 &apos;인천서구&apos;...톱10 &apos;신흥 주거벨트 조성지&apos;",
 			"originallink":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=384780",
 			"link":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=384780",
 			"description":"인천 서구에는 <b>청라<\/b>국제신도시 등이, 경기 남부의 화성시나 평택시에는 동탄신도시와 고덕국제신도시... 특히 <b>청라<\/b>국제도시는 인천경제자유구역의 핵심지 중 하나다. 주요 고속도로 2개 노선이 지나며 향후에는... ",
+			"pubDate":"Thu, 15 Sep 2022 08:34:00 +0900"
+		},
+		{
+			"title":"지난 1년간 인구증가 1위 지역은 &apos;인천서구&apos;",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1546532\/?sc=Naver",
+			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1546532\/?sc=Naver",
+			"description":"인천 서구에는 <b>청라<\/b>국제신도시 등이, 경기 남부의 화성시나 평택시에는 동탄신도시와 고덕국제신도시... 특히 <b>청라<\/b>국제도시는 인천경제자유구역의 핵심지 중 하나다. 주요 고속도로 2개 노선이 지나며, 향후에는... ",
 			"pubDate":"Thu, 15 Sep 2022 08:34:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202209141719051250793",
 			"description":"현재 부동산 투자이민 대상지역은 제주도를 비롯해 강원도 2곳(평창 알펜시아ㆍ강릉 정동진), 인천 3곳(송도ㆍ<b>청라<\/b>국제도시 및 영종지구), 전남 여수 2곳(경도 해양관광단지ㆍ화양지구), 부산 2곳... ",
 			"pubDate":"Wed, 14 Sep 2022 18:12:00 +0900"
-		},
-		{
-			"title":"송도에 무슨 일이?…아파트값 반토막·거래 취소도 잇따라",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20220914141834015",
-			"link":"https:\/\/www.ajunews.com\/view\/20220914141834015",
-			"description":"서진형 경인여대 교수(공정거래포럼 공동대표)는 “작년 인천은 전국에서 많이 오른 곳이며, 그중에서도 송도·<b>청라<\/b> 등 신도시가 상승세를 이끌었다”며 “최근 시장 상황이 안 좋아지면서 해당 지역에서 조정이... ",
-			"pubDate":"Wed, 14 Sep 2022 18:02:00 +0900"
 		}
 	]
 }
