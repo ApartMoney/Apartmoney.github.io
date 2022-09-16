@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 16 Sep 2022 16:50:02 +0900",
-	"total":184463,
+	"lastBuildDate":"Fri, 16 Sep 2022 17:00:02 +0900",
+	"total":184464,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울 전 자치구 아파트 매매거래 50건 미만…거래 실종 심각",
+			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2022091616313595165",
+			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2022091616313595165",
+			"description":"인천은 송도동 송도글로벌파크베르디움, <b>청라<\/b>동 <b>청라<\/b>풍림엑슬루타워, 간석동 간석신동아파밀리에명품 등이 500만~2500만원 하락했다.윤지해 부동산R114 수석연구원은 &quot;상반기 보다 하반기의 주택 거래량이 더... ",
+			"pubDate":"Fri, 16 Sep 2022 16:52:00 +0900"
+		},
 		{
 			"title":"LG전자 박세리 월드매치 개최…소렌스탐·오초아 방한",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220916_0002015946&cID=10504&pID=10500",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=241&aid=0003229628",
 			"description":"&apos;<b>청라<\/b> 시대&apos;를 준비 중인 SSG 랜더스가 걸출한 투수 유망주를 품었다. SSG는 지난 15일 서울 중구 소공동... (2028년 개장 예정인) <b>청라<\/b>돔 시대를 대비한 미래의 선발 자원&quot;이라고 만족감을 나타냈다. 송영진을 뽑은 건... ",
 			"pubDate":"Fri, 16 Sep 2022 05:00:00 +0900"
-		},
-		{
-			"title":"국내 첫 외국대학 공동 학업공간… 글로벌 인재 양성 산실 [지방기획]",
-			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/09\/13\/20220913526025.html?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003735006?sid=102",
-			"description":"송도·영종·<b>청라<\/b> 지구. 이들 삼각 축은 인천의 지도를 바꿀 만큼 비약적인 발전을 가져왔다. 이 가운데 핵심인 송도는 바다를 메운 땅 위에 초고층 오피스와 각종 인프라가 들어섰고 첨단 연구소 및 바이오 기업이... ",
-			"pubDate":"Fri, 16 Sep 2022 01:29:00 +0900"
 		}
 	]
 }
