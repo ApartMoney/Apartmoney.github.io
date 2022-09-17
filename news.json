@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 17 Sep 2022 10:10:02 +0900",
-	"total":184482,
+	"lastBuildDate":"Sat, 17 Sep 2022 10:20:02 +0900",
+	"total":184483,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[KLPGA] 김민기, PLK 챔피언스 클래식 초대 챔피언 등극 &quot;우승 원동력은 아들...",
+			"originallink":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065575009461712",
+			"link":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065575009461712",
+			"description":"김민기는 16일 인천 서구에 위치한 베어즈베스트<b>청라<\/b> 골프클럽(파72\/5,515야드)에서 막을 내린 ‘KLPGA PLK 챔피언스 클래식 2022 1차전’(총상금 7천만 원, 우승상금 1,050만 원)’에서 최종합계 11언더파 133타를 기록, 2위... ",
+			"pubDate":"Sat, 17 Sep 2022 10:12:00 +0900"
+		},
 		{
 			"title":"사천시의회 건설항공위원회, 타지자체 우수사례 견학",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220917010004013",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=89160",
 			"description":"중인 <b>청라<\/b>에서 다채로운 볼거리와 이벤트를 함께 즐겨보시기를 권합니다.&quot; (하나금융그룹 관계자) 김효주를 비롯해 이민지, 패티 타와타나킷 등 국내외 스타급 골프 플레이어들이 인천 <b>청라<\/b> 소재 &apos;베어즈베스트 <b>청라<\/b>... ",
 			"pubDate":"Fri, 16 Sep 2022 15:40:00 +0900"
-		},
-		{
-			"title":"박세리희망재단, 26일 LG전자 박세리 월드매치 개최",
-			"originallink":"https:\/\/www.spotvnews.co.kr\/news\/articleView.html?idxno=549493",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=477&aid=0000382057",
-			"description":"박세리희망재단(이사장 박세리)이 26일 베어즈베스트 <b>청라<\/b> 골프클럽에서 &apos;LG전자 박세리 월드매치&apos;를 개최한다. 이 대회는 LPGA 투어 통산 25승을 거둔 박세리와 같은 시대 활약한 레전드 선수 5명, 세리키즈 출신을 포함한... ",
-			"pubDate":"Fri, 16 Sep 2022 15:35:00 +0900"
 		}
 	]
 }
