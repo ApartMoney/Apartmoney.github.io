@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 19 Sep 2022 20:10:02 +0900",
-	"total":184568,
+	"lastBuildDate":"Mon, 19 Sep 2022 20:20:02 +0900",
+	"total":184569,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시 고용률 `최고치 달성&apos;",
+			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=720735",
+			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=720735",
+			"description":"한편 시는 민선 8기 일자리 공약으로 웅천산업단지·<b>청라<\/b>농공단지 조기분양 및 우량기업 유치, 석탄화력 폐쇄 대안사업추진, 그린에너지타운 조성, 관산지구내 미래형 모빌리티 시험인증평가 기반 구축 등을 추진할... ",
+			"pubDate":"Mon, 19 Sep 2022 20:14:00 +0900"
+		},
 		{
 			"title":"보령시 고용률 68.3%로 역대 최고치 달성",
 			"originallink":"http:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=780464",
@@ -138,13 +145,6 @@
 			"pubDate":"Mon, 19 Sep 2022 16:16:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b>·검단∼서울 강남 M버스 노선 신설…내년 개통",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/26B4VE6UDY",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004100451?sid=102",
-			"description":"인천시 서구 <b>청라<\/b>국제도시~검단신도시~서울 강남을 연결하는 광역급행버스(M버스) 2개 노선이 신설된다. 19일... 신설되는 노선은 <b>청라<\/b>6단지∼국제금융단지∼가정역∼고속터미널∼강남역∼양재역∼검암역∼독정역 등을... ",
-			"pubDate":"Mon, 19 Sep 2022 16:12:00 +0900"
-		},
-		{
 			"title":"인천 서구, 명칭 없는 교차로 이름 부여...교차로명 정비",
 			"originallink":"http:\/\/www.breaknews.com\/925016",
 			"link":"http:\/\/www.breaknews.com\/925016",
@@ -156,6 +156,13 @@
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1161688",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1161688",
 			"description":"국토부 대도시권광역위원회 노선조정위원회가 이날 심의 의결한 노선은 ▲<b>청라<\/b>6단지~국제금융단지~가정역... 김교흥 의원은 &quot;<b>청라<\/b>·가정지구(루원시티) 및 검암지구·검단신도시는 급속도로 진행된 도시개발 및 교통수요... ",
+			"pubDate":"Mon, 19 Sep 2022 16:12:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b>·검단∼서울 강남 M버스 노선 신설…내년 개통",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/26B4VE6UDY",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004100451?sid=102",
+			"description":"인천시 서구 <b>청라<\/b>국제도시~검단신도시~서울 강남을 연결하는 광역급행버스(M버스) 2개 노선이 신설된다. 19일... 신설되는 노선은 <b>청라<\/b>6단지∼국제금융단지∼가정역∼고속터미널∼강남역∼양재역∼검암역∼독정역 등을... ",
 			"pubDate":"Mon, 19 Sep 2022 16:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013447676?sid=102",
 			"description":"인천시 서구 <b>청라<\/b>국제도시·검단신도시와 서울 강남을 오가는 광역급행버스(M버스) 2개 노선이 신설된다.... 신설되는 노선은 <b>청라<\/b>6단지∼국제금융단지∼가정역∼고속터미널∼강남역∼양재역∼검암역∼독정역 등을... ",
 			"pubDate":"Mon, 19 Sep 2022 15:14:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>·검단~서울 강남 M버스 2개 노선 의결…내년 운행",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02840486632461760",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005320368?sid=102",
-			"description":"인천 서구 <b>청라<\/b>국제도시 전경. 내년부터 인천 서구 <b>청라<\/b>국제도시와 검단신도시에서 서울 강남으로 가는 광역급행버스(M버스) 2개 노선이 운행된다. 김교흥(인천서구갑) 더불어민주당 국회의원은 19일 “국토교통부... ",
-			"pubDate":"Mon, 19 Sep 2022 15:10:00 +0900"
 		}
 	]
 }
