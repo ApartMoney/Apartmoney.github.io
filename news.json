@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 20 Sep 2022 18:00:02 +0900",
-	"total":184689,
+	"lastBuildDate":"Tue, 20 Sep 2022 18:10:03 +0900",
+	"total":184690,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융그룹, 디지털 인재 양성을 위한 『하나 디지털 파워 온 프로젝트』 실...",
+			"originallink":"http:\/\/www.betanews.net:8080\/article\/1362245.html",
+			"link":"http:\/\/www.betanews.net:8080\/article\/1362245.html",
+			"description":"이번 프로젝트는 AI, Big Data, Cloud 활용 등 「금융과 디지털의 융합」과 관련된 아이디어를 주제로 1차 서류심사를 통해 20개 팀을 선정하고, 다음달 27일에 <b>청라<\/b>에 위치한 하나금융그룹 글로벌캠퍼스에서 개최되는... ",
+			"pubDate":"Tue, 20 Sep 2022 18:02:00 +0900"
+		},
 		{
 			"title":"하나금융, 디지털 인재 양성 프로젝트 실시",
 			"originallink":"http:\/\/www.meconomynews.com\/news\/articleView.html?idxno=70828",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=221505",
 			"description":"인천 서구 <b>청라<\/b>자원환경센터(광역소각장)의 모습.(사진제공 인천환경공단) 먼저 서구는 기존에 사용 중인 <b>청라<\/b>자원환경센터(소각장)를 대체할 자체 소각장 마련을 위한 입지선정위원회 구성을 위해 서구의회와 협의를... ",
 			"pubDate":"Tue, 20 Sep 2022 15:38:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 하나 디지털 파워 온 프로젝트",
-			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=100647",
-			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=100647",
-			"description":"이번 프로젝트는 AI, Big Data, Cloud 활용 등 「금융과 디지털의 융합」과 관련된 아이디어를 주제로 1차 서류심사를 통해 20개 팀을 선정하고, 다음달 27일에 <b>청라<\/b>에 위치한 하나금융그룹 글로벌캠퍼스에서 개최되는... ",
-			"pubDate":"Tue, 20 Sep 2022 15:36:00 +0900"
 		}
 	]
 }
