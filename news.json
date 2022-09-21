@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 21 Sep 2022 10:40:02 +0900",
-	"total":184716,
+	"lastBuildDate":"Wed, 21 Sep 2022 10:50:02 +0900",
+	"total":184717,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시, 청년 귀농체험 살아보령 참가자 모집",
+			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=269827",
+			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=269827",
+			"description":"이번 행사는 <b>청라<\/b>면 소재 스마트팜 시설인 그린몬스터즈, 딸기농장 더주오, 오천면 원산도의 청년창업카페 원산창고에서 진행되며, 시설 견학과 사업설명, 농산물 수확 및 만들기 체험, 6차산업 창업 성공사례 강연... ",
+			"pubDate":"Wed, 21 Sep 2022 10:46:00 +0900"
+		},
 		{
 			"title":"제일건설 등 올 가을 해안도시 바다조망 아파트 분양 &apos;밀물&apos;",
 			"originallink":"http:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=70282",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.meconomynews.com\/news\/articleView.html?idxno=70828",
 			"description":"내달 27일 <b>청라<\/b>에 위치한 하나금융 글로벌캠퍼스에서 개최되는 본선대회를 거쳐 10개 팀을 선발한다. 본선대회를 거쳐 선발된 10개 팀은 1개월간 구글, 아마존웹서비스(AWS), 마이크로소프트의 전문가들이 진행하는 무료... ",
 			"pubDate":"Tue, 20 Sep 2022 17:58:00 +0900"
-		},
-		{
-			"title":"하나금융, 디지털 인재 양성 &apos;하나 디지털 파워 온 프로젝트&apos; 진행",
-			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=873315",
-			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=873315",
-			"description":"이후 다음달 27일 하나금융그룹 글로벌캠퍼스(인천 <b>청라<\/b>)에서 개최되는 본선대회를 거쳐 10개 팀을 선발한다. 본선대회를 거쳐 선발된 10개 팀에게는 1개월 간 구글, 아마존웹서비스(AWS), 마이크로소프트의 전문가들이... ",
-			"pubDate":"Tue, 20 Sep 2022 17:50:00 +0900"
 		}
 	]
 }
