@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 21 Sep 2022 09:10:02 +0900",
-	"total":184707,
+	"lastBuildDate":"Wed, 21 Sep 2022 09:20:02 +0900",
+	"total":184708,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[보령소식]‘2022 보령 방문의 해’ 전국 사진 공모전 등",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220921_0002020595&cID=10807&pID=10800",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011430360?sid=102",
+			"description":"<b>청라<\/b>면 스마트팜 시설인 그린몬스터즈, 딸기농장 더주오, 오천면 원산도의 청년창업카페 원산창고에서 진행된다. 시설 견학과 사업설명, 농산물 수확 및 만들기 체험, 6차산업 창업 성공사례 강연 등이 펼쳐진다.... ",
+			"pubDate":"Wed, 21 Sep 2022 09:14:00 +0900"
+		},
 		{
 			"title":"서울 반값에 내 집 마련… 인천 계양 ‘유탑 유블레스’ 오피스텔 분양",
 			"originallink":"https:\/\/news.koreadaily.com\/2022\/09\/20\/economy\/economygeneral\/20220920170008405.html",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.fortunekorea.co.kr\/news\/articleView.html?idxno=23851",
 			"description":"이번 프로젝트는 AI, Big Data(빅데이터), Cloud(클라우드) 활용 등 &apos;금융과 디지털의 융합&apos;과 관련된 아이디어를 주제로 1차 서류심사를 통해 20개 팀을 선정하고, 다음달 27일에 <b>청라<\/b>에 위치한 하나금융그룹... ",
 			"pubDate":"Tue, 20 Sep 2022 16:42:00 +0900"
-		},
-		{
-			"title":"하나금융, &apos;하나 디지털 파워 온 프로젝트&apos; 실시 &quot;디지털 인재 양성&quot;",
-			"originallink":"https:\/\/www.foodneconomy.com\/news\/articleView.html?idxno=340085",
-			"link":"https:\/\/www.foodneconomy.com\/news\/articleView.html?idxno=340085",
-			"description":"이번 프로젝트는 AI, Big Data, Cloud 활용 등 &apos;금융과 디지털의 융합&apos;과 관련된 아이디어를 주제로 1차 서류심사를 통해 20개 팀을 선정하고, 다음달 27일에 <b>청라<\/b>에 위치한 하나금융그룹 글로벌캠퍼스에서 개최되는... ",
-			"pubDate":"Tue, 20 Sep 2022 16:40:00 +0900"
 		}
 	]
 }
