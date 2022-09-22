@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 22 Sep 2022 20:50:02 +0900",
-	"total":184837,
+	"lastBuildDate":"Thu, 22 Sep 2022 21:00:03 +0900",
+	"total":184838,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"경기 아파트 가격 20주 연속 &apos;내리막&apos;",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=996873",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=996873",
+			"description":"연수구(-0.36%)는 송도국제도시 위주로 매물 적체가 심화되면서 하락, 서구(-0.31%)는 당하·<b>청라<\/b>동 주요 단지 위주로, 중구(-0.30%)는 중산·운서동 (준)신축 위주로, 남동구(-0.21%)는 논현·서창·구월동 대단지 위주로... ",
+			"pubDate":"Thu, 22 Sep 2022 20:56:00 +0900"
+		},
 		{
 			"title":"인천경제청, 가을·와인·음악 <b>청라<\/b> 뮤직&amp;와인 페스티벌 개최",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2556530",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1162301",
 			"description":"수도권매립지와 <b>청라<\/b>소각장은 우리 서구의 최대 현안이자 다수의 주민들이 희생을 감내한 애증이 담겨 있다. 수도권매립지는 조성 이후 30년 동안 운영됐고, <b>청라<\/b>소각장은 2001년 조성돼 내구연한이 다 됐음에도 폐쇄 또는... ",
 			"pubDate":"Thu, 22 Sep 2022 15:16:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 뮤직&amp;와인 페스티벌 24∼25일 개최",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1162310",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1162310",
-			"description":"▲ 9월 24~25일 <b>청라<\/b>호수공원 야외음악당 일대에서 열리는 &apos;<b>청라<\/b> 뮤직 &amp; 와인 페스티벌(Cheongna Music &amp; Wine Festival)&apos; 포스터. \/사진제공=인천경제자유구역청 인천경제자유구역청은 서구문화재단 주관으로 오는 24∼25일... ",
-			"pubDate":"Thu, 22 Sep 2022 15:10:00 +0900"
 		}
 	]
 }
