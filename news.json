@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 22 Sep 2022 19:50:02 +0900",
-	"total":184835,
+	"lastBuildDate":"Thu, 22 Sep 2022 20:00:02 +0900",
+	"total":184836,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경자구역 추가 지정 &apos;산 넘어 산&apos;",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1162382",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1162382",
+			"description":"노렸던 을왕산 일대의 경우 최근 국토교통부의 반대로 좌절됐다. 한편, 인천경제자유구역은 약 122㎢ 규모로, 송도와 <b>청라<\/b>의 경우 경제자유구역 부지의 변화가 없었으나 영종은 기존 약 138.3㎢에서 현재 51.26㎢로 줄었다.",
+			"pubDate":"Thu, 22 Sep 2022 19:52:00 +0900"
+		},
 		{
 			"title":"가을·와인·음악 - <b>청라<\/b> 뮤직&amp;와인 페스티벌 24~25일 열린다",
 			"originallink":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=366814",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.jeonmin.co.kr\/news\/articleView.html?idxno=363985",
 			"description":"&apos;e편한세상 시티 <b>청라<\/b>&apos; 투시도(이미지 제공 : DL건설) 집 근처에 &apos;산책코스&apos;가 완비된 주거시설이 꾸준히... 이 가운데 최근에도 집 앞에서 산책을 즐길 수 있는 주거상품인 &apos;e편한세상 시티 <b>청라<\/b>&apos; 등의 분양이 예정됐다.... ",
 			"pubDate":"Thu, 22 Sep 2022 15:08:00 +0900"
-		},
-		{
-			"title":"전국 아파트값 10년 4개월 만에 가장 큰 폭 하락…서울 집값도 17주 연속 떨어...",
-			"originallink":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=609897",
-			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=609897",
-			"description":"서구(-0.28%→-0.31%)는 당하·<b>청라<\/b>동 주요 단지, 중구(-0.29%→-0.30%)는 중산·운서동 준신축, 남동구(-0.26%→-0.21%)는 논현·서창·구월동 대단지 위주로 하락했다. 경기(-0.21%→-0.25%)는 전반적으로 호가가 낮게... ",
-			"pubDate":"Thu, 22 Sep 2022 15:06:00 +0900"
 		}
 	]
 }
