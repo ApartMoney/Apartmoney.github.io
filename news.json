@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 23 Sep 2022 11:20:03 +0900",
-	"total":184862,
+	"lastBuildDate":"Fri, 23 Sep 2022 11:30:02 +0900",
+	"total":184863,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"둘레길 에워싼 친환경 단지 ‘계양 유탑 유블레스’ 분양",
+			"originallink":"https:\/\/www.hankyung.com\/realestate\/article\/202209230867O",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004753414?sid=101",
+			"description":"인천 계양 ‘유탑 유블레스’는 서울 지하철 2호선 홍대입구역에서 인천 <b>청라<\/b> 국제도시를 잇는 2호선 연장 사업의 혜택을 누릴 것으로 보인다. 연장선 구간의 역사가 단지 인근에 들어설 예정이기 때문이다. 유탑... ",
+			"pubDate":"Fri, 23 Sep 2022 11:23:00 +0900"
+		},
 		{
 			"title":"캐딜락 에스컬레이드, LPGA 레전드 &apos;박세리 월드매치&apos; 의전차 제공",
 			"originallink":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=92631",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=366814",
 			"description":"가을, <b>청라<\/b>호수공원의 아름다운 풍광 속에서 와인과 음악 콘서트를 함께 즐길 수 있는 행사가 열려 관심을 모으고 있다. 인천경제자유구역청은 서구문화재단 주관으로 오는 24~25일 <b>청라<\/b>호수공원 야외음악당 일대에서... ",
 			"pubDate":"Thu, 22 Sep 2022 19:46:00 +0900"
-		},
-		{
-			"title":"&quot;잠실 &apos;엘리트&apos; 7억 넘게 빠졌다&quot;…서울 아파트 값, 17주 연속 하락",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20220922500368",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20220922500368",
-			"description":"서구는 당하·<b>청라<\/b>동 주요 단지 위주로, 중구는 중산·운서동 준신축 위주로, 남동구는 논현·서창·구월동 대단지 위주로 하락하며 하락세를 견인했다. 한편 전국 아파트 전세값은 -0.19%로 전주 대비 하락 폭이... ",
-			"pubDate":"Thu, 22 Sep 2022 18:54:00 +0900"
 		}
 	]
 }
