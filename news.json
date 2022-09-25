@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 26 Sep 2022 07:30:02 +0900",
-	"total":184922,
+	"lastBuildDate":"Mon, 26 Sep 2022 07:40:03 +0900",
+	"total":184923,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"10월 전국에 1만3793가구 공급…연내 최저 물량",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022092607311493541",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005152456?sid=101",
+			"description":"<b>청라<\/b>언덕역서한포레스트는 대구시 중구 동산동에 위치한 주상복합 단지다. 총 302가구가 전용 84~99㎡로 구성됐다. 나주빛가람코오롱하늘채는 전라남도 나주시 금천면 석전리에 있다. 총 1480가구, 전용59~196㎡로... ",
+			"pubDate":"Mon, 26 Sep 2022 07:31:00 +0900"
+		},
 		{
 			"title":"[르포] &quot;집은 있는데 생활시설은?&quot;…6년간 주민 불편 이어지는 &apos;옥길 신도시&apos;...",
 			"originallink":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=188283",
@@ -110,17 +117,17 @@
 			"pubDate":"Sun, 25 Sep 2022 12:14:00 +0900"
 		},
 		{
-			"title":"조정대상지역 해제 따른 분양시장 영향은?",
-			"originallink":"http:\/\/www.sportsseoul.com\/news\/read\/1162644?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/468\/0000885401?sid=101",
-			"description":"미만의 소형 아파트 단지 3곳이 분양을 앞두고 있다. 모델하우스 오픈은 ‘e편한세상 시티 <b>청라<\/b>’, ‘e편한세상 사천 스카이마리나’, ‘경산 2차 아이파크’ 등 13곳이다. 당첨자 발표는 3곳, 정당 계약은 13곳이다.",
-			"pubDate":"Sun, 25 Sep 2022 10:42:00 +0900"
-		},
-		{
 			"title":"조정대상지역 해제 후 청약 성적 &apos;관심&apos;… 이번주 전국 1540가구 분양",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20220925010006102",
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20220925010006102",
 			"description":"견본주택 오픈은 ’e편한세상 시티 <b>청라<\/b>’, ‘e편한세상 사천 스카이마리나’, ‘경산 2차 아이파크’ 등 13곳이며, 당첨자 발표는 3곳, 정당 계약은 13곳이다. (자료=리얼투데이)",
+			"pubDate":"Sun, 25 Sep 2022 10:42:00 +0900"
+		},
+		{
+			"title":"조정대상지역 해제 따른 분양시장 영향은?",
+			"originallink":"http:\/\/www.sportsseoul.com\/news\/read\/1162644?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/468\/0000885401?sid=101",
+			"description":"미만의 소형 아파트 단지 3곳이 분양을 앞두고 있다. 모델하우스 오픈은 ‘e편한세상 시티 <b>청라<\/b>’, ‘e편한세상 사천 스카이마리나’, ‘경산 2차 아이파크’ 등 13곳이다. 당첨자 발표는 3곳, 정당 계약은 13곳이다.",
 			"pubDate":"Sun, 25 Sep 2022 10:42:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20220924084343664",
 			"description":"모델하우스 오픈은 &apos;e편한세상 시티 <b>청라<\/b>&apos;, &apos;e편한세상 사천 스카이마리나&apos;, &apos;경산 2차 아이파크&apos; 등... ◇모델하우스 오픈 예정 단지 오는 30일 DL건설은 인천 서구 <b>청라<\/b>동 151-1·2번지 일원에 들어서는 &apos;e편한세상 시티... ",
 			"pubDate":"Sat, 24 Sep 2022 08:52:00 +0900"
-		},
-		{
-			"title":"조정대상지역 해제 발표후 전국 분양시장 훈풍불까",
-			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2022092317013937891",
-			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2022092317013937891",
-			"description":"모델하우스 오픈은 &apos;e편한세상 시티 <b>청라<\/b>&apos;, &apos;e편한세상 사천 스카이마리나&apos;, &apos;경산 2차 아이파크&apos; 등... 30일 DL건설은 인천 서구 <b>청라<\/b>동 151-1·2번지 일원에 들어서는 &apos;e편한세상 시티 <b>청라<\/b>&apos;의 모델하우스를 오픈할... ",
-			"pubDate":"Sat, 24 Sep 2022 08:02:00 +0900"
 		}
 	]
 }
