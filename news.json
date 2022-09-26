@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 26 Sep 2022 11:00:02 +0900",
-	"total":184948,
+	"lastBuildDate":"Mon, 26 Sep 2022 11:10:03 +0900",
+	"total":184950,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"박세리·임희정 vs 소렌스탐·박현경, 박세리 월드매치 맞대결",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01220166632464056",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005326090",
+			"description":"26일 인천의 베어즈베스트 <b>청라<\/b> 골프클럽에서 열리는 LG전자 박세리 월드매치를 앞둔 공식 기자회견에서 조 추첨을 진행했다. 이번 대회는 박세리를 비롯해 안니카 소렌스탐, 로레나 오초아(멕시코), 로라 데이비스(영국)... ",
+			"pubDate":"Mon, 26 Sep 2022 11:08:00 +0900"
+		},
+		{
+			"title":"인천서구문화재단, ‘제27회 서곶문화예술제’ 개최",
+			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220926010006974",
+			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20220926010006974",
+			"description":"아트갤러리, <b>청라<\/b>블루노바홀 아트갤러리, 카페테오, B:커피, 노마드스터디카페, 북항아트홀, 카페그레이스... 북소리&apos;가 <b>청라<\/b>블루노바홀에서 선보인다 ▲무용공연 &apos;JUST NOW&apos;은 서구문화회관 대공연장에서 펼쳐진다. 특히... ",
+			"pubDate":"Mon, 26 Sep 2022 11:00:00 +0900"
+		},
 		{
 			"title":"10월 아파트 입주물량 1만3793가구 &apos;연내 최저&apos; … 전년比 39%↓",
 			"originallink":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=381088",
@@ -26,6 +40,13 @@
 			"pubDate":"Mon, 26 Sep 2022 10:47:00 +0900"
 		},
 		{
+			"title":"박세리 &apos;멋진 승부 기대하세요&apos;",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20220926053100065?input=1196m",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013462383",
+			"description":"26일 인천 베어즈베스트<b>청라<\/b>골프클럽에서 열린 &apos;LG전자 박세리 월드매치 기자회견&apos;에서 미국여자프로골프(LPGA) 레전드로 출전하는 박세리가 취재진의 질문에 답변하고 있다. 2022.9.26",
+			"pubDate":"Mon, 26 Sep 2022 10:40:00 +0900"
+		},
+		{
 			"title":"답변하는 LPGA 레전드 박세리",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20220926052700065?input=1196m",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013462379",
@@ -40,10 +61,10 @@
 			"pubDate":"Mon, 26 Sep 2022 10:40:00 +0900"
 		},
 		{
-			"title":"박세리 &apos;멋진 승부 기대하세요&apos;",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20220926053100065?input=1196m",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013462383",
-			"description":"26일 인천 베어즈베스트<b>청라<\/b>골프클럽에서 열린 &apos;LG전자 박세리 월드매치 기자회견&apos;에서 미국여자프로골프(LPGA) 레전드로 출전하는 박세리가 취재진의 질문에 답변하고 있다. 2022.9.26",
+			"title":"한자리에 모인 LPGA 레전드 선수들",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20220926052600065?input=1196m",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013462378",
+			"description":"26일 인천 베어즈베스트<b>청라<\/b>골프클럽에서 열린 &apos;LG전자 박세리 월드매치 기자회견&apos;에서 미국여자프로골프(LPGA) 레전드로 출전하는 전·현직 선수들이 취재진의 질문을 받고 있다. 왼쪽 앞줄부터 쩡야니(대만)... ",
 			"pubDate":"Mon, 26 Sep 2022 10:40:00 +0900"
 		},
 		{
@@ -54,10 +75,10 @@
 			"pubDate":"Mon, 26 Sep 2022 10:40:00 +0900"
 		},
 		{
-			"title":"한자리에 모인 LPGA 레전드 선수들",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20220926052600065?input=1196m",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013462378",
-			"description":"26일 인천 베어즈베스트<b>청라<\/b>골프클럽에서 열린 &apos;LG전자 박세리 월드매치 기자회견&apos;에서 미국여자프로골프(LPGA) 레전드로 출전하는 전·현직 선수들이 취재진의 질문을 받고 있다. 왼쪽 앞줄부터 쩡야니(대만)... ",
+			"title":"답변하는 LPGA 레전드 박세리",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20220926052900065?input=1196m",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013462381",
+			"description":"26일 인천 베어즈베스트<b>청라<\/b>골프클럽에서 열린 &apos;LG전자 박세리 월드매치 기자회견&apos;에서 미국여자프로골프(LPGA) 레전드로 출전하는 박세리가 취재진의 질문에 답변하고 있다. 2022.9.26",
 			"pubDate":"Mon, 26 Sep 2022 10:40:00 +0900"
 		},
 		{
@@ -65,13 +86,6 @@
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20220926053000065?input=1196m",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013462382",
 			"description":"26일 인천 베어즈베스트<b>청라<\/b>골프클럽에서 열린 &apos;LG전자 박세리 월드매치 기자회견&apos;에서 미국여자프로골프(LPGA) 레전드로 출전하는 전·현직 선수들이 취재진의 질문을 받고 있다. 왼쪽 앞줄부터 쩡야니(대만)... ",
-			"pubDate":"Mon, 26 Sep 2022 10:40:00 +0900"
-		},
-		{
-			"title":"답변하는 LPGA 레전드 박세리",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20220926052900065?input=1196m",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013462381",
-			"description":"26일 인천 베어즈베스트<b>청라<\/b>골프클럽에서 열린 &apos;LG전자 박세리 월드매치 기자회견&apos;에서 미국여자프로골프(LPGA) 레전드로 출전하는 박세리가 취재진의 질문에 답변하고 있다. 2022.9.26",
 			"pubDate":"Mon, 26 Sep 2022 10:40:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.rpm9.com\/news\/article.html?id=20220925090003",
 			"description":"아메리칸 럭셔리 브랜드 캐딜락이 오는 26일 베어즈베스트 <b>청라<\/b> 골프클럽에서 열리는 박세리 희망재단 주최 ‘LG전자 박세리 월드매치’에 플래그십 SUV 에스컬레이드를 공식 의전차로 지원한다. 이번 대회는 박세리... ",
 			"pubDate":"Sun, 25 Sep 2022 21:48:00 +0900"
-		},
-		{
-			"title":"대구오페라하우스, 창작오페라 4편 &apos;리딩공연&apos; 무대에",
-			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=395637",
-			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=395637",
-			"description":"10월 8일 오후8시에 공연되는 &apos;264, 그 한 개의 별&apos;은 제10회 대구국제오페라축제 개막작이자 그 해 오페라대상을 수상한 &apos;<b>청라<\/b>언덕&apos;의 작곡자 김성재와 2019년 대한민국오페라축제 대상을 수상한 &apos;윤심덕, 사의 찬미&apos;의... ",
-			"pubDate":"Sun, 25 Sep 2022 21:24:00 +0900"
-		},
-		{
-			"title":"[인터뷰] 유정복 인천시장 &quot;인천항 다시 돌면서 항만기능 재배치 전략적 접근...",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363559415",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363559415",
-			"description":"유 시장은 &quot;시드니라는 도시 자체는 작지만 굉장한 프라이드가 있다&quot;며 &quot;(이 같은 상황에서) 현재 인천이 갖고 있는 것은 송도와 <b>청라<\/b>, 경제자유구역밖에 없다. 이제는 항만기능 재배치를 통해 획기적인 변화를 가져와야... ",
-			"pubDate":"Sun, 25 Sep 2022 20:30:00 +0900"
 		}
 	]
 }
