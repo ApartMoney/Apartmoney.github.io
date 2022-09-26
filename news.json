@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 26 Sep 2022 17:10:03 +0900",
-	"total":185132,
+	"lastBuildDate":"Mon, 26 Sep 2022 17:20:02 +0900",
+	"total":185133,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"오초아, 박세리 월드매치 우승…박민지와 팀 이뤄 2언더파 기록",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220926137400007?input=1195m",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013463967",
+			"description":"오초아와 박민지(24)는 26일 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 열린 박세리 월드매치 9홀 포섬(1개의 공을 번갈아 치는 방식) 경기에서 버디 3개와 보기 1개로 2언더파 34타로 쳐 우승했다. 3번 홀(파3)에서 보기를... ",
+			"pubDate":"Mon, 26 Sep 2022 17:18:00 +0900"
+		},
 		{
 			"title":"2026년 직매립 금지 코앞인데…인천시, 소각장 주변지역 보상 법적 체계 없다",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=719443",
@@ -26,13 +33,6 @@
 			"pubDate":"Mon, 26 Sep 2022 16:28:00 +0900"
 		},
 		{
-			"title":"로라데이비스-크리스티커 ‘박세리 월드매치 시작’ [포토]",
-			"originallink":"https:\/\/sports.donga.com\/article\/all\/20220926\/115660412\/1",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=382&aid=0001006456",
-			"description":"26일 인천 베어즈베스트 <b>청라<\/b>CC에서 열린 ‘LG전자 박세리 월드매치’ 10번 홀에서 티샷을 마친 로라 데이비스와 크리스티 커가 세컨샷을 위해 이동하고 있다. <b>청라<\/b> |",
-			"pubDate":"Mon, 26 Sep 2022 16:24:00 +0900"
-		},
-		{
 			"title":"팬들에게 인사하는 로라 데이비스 [포토]",
 			"originallink":"https:\/\/sports.donga.com\/article\/all\/20220926\/115660394\/1",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=382&aid=0001006455",
@@ -40,11 +40,11 @@
 			"pubDate":"Mon, 26 Sep 2022 16:24:00 +0900"
 		},
 		{
-			"title":"박세리-소렌스탐 ‘티샷 전 몸풀기 필수’ [포토]",
-			"originallink":"https:\/\/sports.donga.com\/article\/all\/20220926\/115660365\/1",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=382&aid=0001006453",
-			"description":"26일 인천 베어즈베스트 <b>청라<\/b>CC에서 열린 ‘LG전자 박세리 월드매치’ 10번 홀에서 박세리와 아니카 소렌스탐이 티샷을 준비하고 있다. <b>청라<\/b> |",
-			"pubDate":"Mon, 26 Sep 2022 16:23:00 +0900"
+			"title":"로라데이비스-크리스티커 ‘박세리 월드매치 시작’ [포토]",
+			"originallink":"https:\/\/sports.donga.com\/article\/all\/20220926\/115660412\/1",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=382&aid=0001006456",
+			"description":"26일 인천 베어즈베스트 <b>청라<\/b>CC에서 열린 ‘LG전자 박세리 월드매치’ 10번 홀에서 티샷을 마친 로라 데이비스와 크리스티 커가 세컨샷을 위해 이동하고 있다. <b>청라<\/b> |",
+			"pubDate":"Mon, 26 Sep 2022 16:24:00 +0900"
 		},
 		{
 			"title":"나란히 출발 기다리는 박세리-소렌스탐 [포토]",
@@ -54,17 +54,24 @@
 			"pubDate":"Mon, 26 Sep 2022 16:23:00 +0900"
 		},
 		{
-			"title":"박세리-임희정 ‘코스 공략은’ [포토]",
-			"originallink":"https:\/\/sports.donga.com\/article\/all\/20220926\/115660330\/1",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=382&aid=0001006450",
-			"description":"26일 인천 베어즈베스트 <b>청라<\/b>CC에서 열린 ‘LG전자 박세리 월드매치’ 10번 홀에서 박세리와 임희정이 이야기를 하고 있다. <b>청라<\/b> |",
-			"pubDate":"Mon, 26 Sep 2022 16:22:00 +0900"
+			"title":"박세리-소렌스탐 ‘티샷 전 몸풀기 필수’ [포토]",
+			"originallink":"https:\/\/sports.donga.com\/article\/all\/20220926\/115660365\/1",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=382&aid=0001006453",
+			"description":"26일 인천 베어즈베스트 <b>청라<\/b>CC에서 열린 ‘LG전자 박세리 월드매치’ 10번 홀에서 박세리와 아니카 소렌스탐이 티샷을 준비하고 있다. <b>청라<\/b> |",
+			"pubDate":"Mon, 26 Sep 2022 16:23:00 +0900"
 		},
 		{
 			"title":"박세리-소렌스탐 ‘싱글벙글’ [포토]",
 			"originallink":"https:\/\/sports.donga.com\/article\/all\/20220926\/115660354\/1",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=382&aid=0001006452",
 			"description":"26일 인천 베어즈베스트 <b>청라<\/b>CC에서 열린 ‘LG전자 박세리 월드매치’ 10번 홀에서 박세리, 아니카 소렌스탐, 임희정이 이야기를 하고 있다. <b>청라<\/b> |",
+			"pubDate":"Mon, 26 Sep 2022 16:22:00 +0900"
+		},
+		{
+			"title":"박세리-임희정 ‘코스 공략은’ [포토]",
+			"originallink":"https:\/\/sports.donga.com\/article\/all\/20220926\/115660330\/1",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=382&aid=0001006450",
+			"description":"26일 인천 베어즈베스트 <b>청라<\/b>CC에서 열린 ‘LG전자 박세리 월드매치’ 10번 홀에서 박세리와 임희정이 이야기를 하고 있다. <b>청라<\/b> |",
 			"pubDate":"Mon, 26 Sep 2022 16:22:00 +0900"
 		},
 		{
@@ -205,13 +212,6 @@
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220926_0019290728",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=003&aid=0011440807",
 			"description":"26일 오후 인천 서구 베어즈베스트<b>청라<\/b>GC에서 열린 &apos;LG전자 박세리 월드매치&apos;에 LPGA 레전드로 출전한 박세리(LPGA 통산 25승)가 퍼팅라인을 살펴보고 있다. 이번 대회는 대한민국 골프 영웅 박세리와 동시대에... ",
-			"pubDate":"Mon, 26 Sep 2022 16:01:00 +0900"
-		},
-		{
-			"title":"소렌스탐 &apos;공 가져가&apos;",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20220926_0019290724",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=003&aid=0011440806",
-			"description":"26일 오후 인천 서구 베어즈베스트<b>청라<\/b>GC에서 열린 &apos;LG전자 박세리 월드매치&apos;에 LPGA 레전드로 출전한 아니카 소렌스탐(LPGA 통산 72승)이 버디 퍼팅 성공 후 같은 조 박현경에게 공을 건네고 있다. 이번 대회는... ",
 			"pubDate":"Mon, 26 Sep 2022 16:01:00 +0900"
 		}
 	]
