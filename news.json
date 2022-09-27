@@ -1,21 +1,21 @@
 {
-	"lastBuildDate":"Tue, 27 Sep 2022 21:00:02 +0900",
-	"total":185500,
+	"lastBuildDate":"Tue, 27 Sep 2022 21:10:02 +0900",
+	"total":185501,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[포토]박용배 목사 “수용자에 복음 전해요”",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017514136&code=61221111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001555615?sid=103",
+			"description":"박용배 <b>청라<\/b>사랑의교회 목사(왼쪽)가 27일 서울구치소에서 설교한 뒤, 정대철 더불어민주당 상임고문과 함께 기념촬영을 하고 있다. 박 목사는 유튜브 방송 ‘박용배 TV’도 운영하며 복음 전파와 북한 선교 노하우를... ",
+			"pubDate":"Tue, 27 Sep 2022 21:01:00 +0900"
+		},
 		{
 			"title":"영종 주민들 &apos;영종대교 상부도로&apos;도 무료로 달린다",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220927010004434",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220927010004434",
 			"description":"하부 도로 이용 시 북인천IC로 진출해 <b>청라<\/b>IC로 재진입하는 등 불편을 겪는 데다, 출퇴근 시간대에 차량이 몰리면서 <b>청라<\/b>IC에서 계양구·부평구로 이어지는 경명대로에선 정체 현상이 빚어지고 있다. 이 때문에 영종도... ",
-			"pubDate":"Tue, 27 Sep 2022 20:38:00 +0900"
-		},
-		{
-			"title":"2개 군 8개 구 → 2개 군 9개 구… 인천시, 행정체제 개편 &apos;가속도&apos;",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220927010004407",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220927010004407",
-			"description":"<b>청라<\/b>국제도시, 검단신도시 조성 등 각종 개발사업으로 인구가 급증한 서구를 &apos;서구&apos;와 &apos;검단구&apos;로 나누는 방안도 이번 행정체제 개편안에 포함됐다. 이렇게 되면 인천 행정구역이 현재 &apos;2개 군 8개 구&apos;에서 &apos;2개 군 9개 구&apos;로... ",
 			"pubDate":"Tue, 27 Sep 2022 20:38:00 +0900"
 		},
 		{
@@ -26,6 +26,13 @@
 			"pubDate":"Tue, 27 Sep 2022 20:38:00 +0900"
 		},
 		{
+			"title":"2개 군 8개 구 → 2개 군 9개 구… 인천시, 행정체제 개편 &apos;가속도&apos;",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220927010004407",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220927010004407",
+			"description":"<b>청라<\/b>국제도시, 검단신도시 조성 등 각종 개발사업으로 인구가 급증한 서구를 &apos;서구&apos;와 &apos;검단구&apos;로 나누는 방안도 이번 행정체제 개편안에 포함됐다. 이렇게 되면 인천 행정구역이 현재 &apos;2개 군 8개 구&apos;에서 &apos;2개 군 9개 구&apos;로... ",
+			"pubDate":"Tue, 27 Sep 2022 20:38:00 +0900"
+		},
+		{
 			"title":"인천·영종대교 통행료 무료화 본격 추진",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363559760",
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363559760",
@@ -33,17 +40,17 @@
 			"pubDate":"Tue, 27 Sep 2022 20:06:00 +0900"
 		},
 		{
-			"title":"고교로 몰리는 &apos;황금돼지띠&apos;…정원 확대·배치 &apos;고민 또 고민&apos;",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1163031",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1163031",
-			"description":"배치하는데 <b>청라<\/b>국제도시 등 일부 신도시 지역의 경우 학교군 내 정원 초과로 타 지역 학교에 배정되는 사례가 예년보다 급증할 것으로 우려된다. 실제 <b>청라<\/b>에 있는 해원고의 경우 입학 정원은 283명인데 지원자가... ",
-			"pubDate":"Tue, 27 Sep 2022 20:00:00 +0900"
-		},
-		{
 			"title":"꽉 막히는 <b>청라<\/b>IC, 속 터지는 주민들",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1163030",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1163030",
 			"description":"▲<b>청라<\/b>IC 위성지도 캡처 사진.\/사진제공=네이버 지도 인천국제공항고속도로 <b>청라<\/b>IC에서 상습적 차량 정체가 발생하면서 진·출입로 확충 등 대책 마련에 대한 요구가 커지고 있다. 27일 인천시에 따르면 인천 서북부지역... ",
+			"pubDate":"Tue, 27 Sep 2022 20:00:00 +0900"
+		},
+		{
+			"title":"고교로 몰리는 &apos;황금돼지띠&apos;…정원 확대·배치 &apos;고민 또 고민&apos;",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1163031",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1163031",
+			"description":"배치하는데 <b>청라<\/b>국제도시 등 일부 신도시 지역의 경우 학교군 내 정원 초과로 타 지역 학교에 배정되는 사례가 예년보다 급증할 것으로 우려된다. 실제 <b>청라<\/b>에 있는 해원고의 경우 입학 정원은 283명인데 지원자가... ",
 			"pubDate":"Tue, 27 Sep 2022 20:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=144&aid=0000839065",
 			"description":"박민지와 이민지는 29일부터 나흘간 인천 베어즈베스트 <b>청라<\/b>GC 미국·유럽 코스(파72·6745야드)에서 열리는 한국여자프로골프(KLPGA) 투어 하나금융그룹 챔피언십(총상금 15억원)에서 우승상금 2억 7000만원을 놓고... ",
 			"pubDate":"Tue, 27 Sep 2022 16:06:00 +0900"
-		},
-		{
-			"title":"[은행가소식] 하나금융, &apos;하나금융 챔피언십&apos; 개최",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20220927500276",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20220927500276",
-			"description":"□ 하나금융, &apos;하나금융 챔피언십&apos; 개최 하나금융지주는 오는 29일부터 10월 2일까지 나흘간 &apos;하나금융타운&apos;이 조성중인 인천 <b>청라<\/b> 소재 &apos;베어즈베스트 <b>청라<\/b> 골프클럽&apos;에서 KLPGA 정규투어 &apos;하나금융그룹 챔피언십&apos;을... ",
-			"pubDate":"Tue, 27 Sep 2022 16:04:00 +0900"
 		}
 	]
 }
