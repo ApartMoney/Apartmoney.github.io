@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Wed, 28 Sep 2022 03:00:03 +0900",
-	"total":185508,
+	"lastBuildDate":"Wed, 28 Sep 2022 03:10:02 +0900",
+	"total":185511,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"우승 2억7000만 원…KLPGA 상금왕 판도 가를 빅매치 온다",
+			"originallink":"http:\/\/www.kookje.co.kr\/news2011\/asp\/newsbody.asp?code=0600&key=20220928.22015007695",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=658&aid=0000021238",
+			"description":"29일부터 인천 베어즈베스트 <b>청라<\/b>에서 열리는 하나금융 챔피언십은 올 시즌 투어 대회 가운데 상금 규모가 가장 크다. 무려 15억 원의 총 상금이 걸려있는 이번 대회에서는 우승 2억 7000만 원, 준우승 1억 6500만... ",
+			"pubDate":"Wed, 28 Sep 2022 03:04:00 +0900"
+		},
+		{
+			"title":"공조기에 붙이기만 하면 건물 유입 세균-바이러스 싹~",
+			"originallink":"https:\/\/www.donga.com\/news\/article\/all\/20220927\/115687018\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003453249?sid=101",
+			"description":"클리어윈코리아의 클리어쉴드는 현재 서울 강남의 대표적인 사무용 빌딩인 강남파이낸스빌딩을 비롯해 강남의 대형 병원과 대형 쇼핑몰 등에 설치됐고, 인천 <b>청라<\/b>지구 <b>청라<\/b>베어즈베스트 골프장의 클럽하우스와 식당... ",
+			"pubDate":"Wed, 28 Sep 2022 03:03:00 +0900"
+		},
+		{
+			"title":"메이저대회보다 많은 상금… 국내파-해외파 총출동",
+			"originallink":"https:\/\/www.donga.com\/news\/article\/all\/20220927\/115687306\/1",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=020&aid=0003453214",
+			"description":"‘국내파냐, 해외파냐?’ 29일 인천 베어즈베스트 <b>청라<\/b>GC(파72)에서 막을 올리는 한국여자프로골프(KLPGA)투어 하나금융그룹 챔피언십 우승 트로피의 향방에 관심이 쏠리고 있다. 메이저대회는 아니지만 총상금 15억... ",
+			"pubDate":"Wed, 28 Sep 2022 03:02:00 +0900"
+		},
 		{
 			"title":"LG전자, 장애 아동·골프 꿈나무 지원",
 			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/09\/27\/20220927515419.html?OutUrl=naver",
@@ -61,13 +82,6 @@
 			"pubDate":"Tue, 27 Sep 2022 21:01:00 +0900"
 		},
 		{
-			"title":"2개 군 8개 구 → 2개 군 9개 구… 인천시, 행정체제 개편 &apos;가속도&apos;",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220927010004407",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220927010004407",
-			"description":"<b>청라<\/b>국제도시, 검단신도시 조성 등 각종 개발사업으로 인구가 급증한 서구를 &apos;서구&apos;와 &apos;검단구&apos;로 나누는 방안도 이번 행정체제 개편안에 포함됐다. 이렇게 되면 인천 행정구역이 현재 &apos;2개 군 8개 구&apos;에서 &apos;2개 군 9개 구&apos;로... ",
-			"pubDate":"Tue, 27 Sep 2022 20:38:00 +0900"
-		},
-		{
 			"title":"영종 주민들 &apos;영종대교 상부도로&apos;도 무료로 달린다",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220927010004434",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220927010004434",
@@ -79,6 +93,13 @@
 			"originallink":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=297914",
 			"link":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=297914",
 			"description":"ㅇ..LG전자는 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 열린 &apos;LG전자 박세리 월드매치 골프대회&apos;에 메인 스폰서로 참가했다. 이 대회는 거동이 불편한 장애 아동과 골프 꿈나무 등을 지원하기 위해 마련된 자선행사다.... ",
+			"pubDate":"Tue, 27 Sep 2022 20:38:00 +0900"
+		},
+		{
+			"title":"2개 군 8개 구 → 2개 군 9개 구… 인천시, 행정체제 개편 &apos;가속도&apos;",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220927010004407",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20220927010004407",
+			"description":"<b>청라<\/b>국제도시, 검단신도시 조성 등 각종 개발사업으로 인구가 급증한 서구를 &apos;서구&apos;와 &apos;검단구&apos;로 나누는 방안도 이번 행정체제 개편안에 포함됐다. 이렇게 되면 인천 행정구역이 현재 &apos;2개 군 8개 구&apos;에서 &apos;2개 군 9개 구&apos;로... ",
 			"pubDate":"Tue, 27 Sep 2022 20:38:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003738760?sid=105",
 			"description":"LG전자 제공 LG전자가 지난 26일 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 열린 ‘LG전자 박세리 월드매치 골프대회’에 메인 스폰서로 참가했다고 27일 밝혔다. 이 대회는 거동이 불편한 장애 아동과 골프 꿈나무 등을... ",
 			"pubDate":"Tue, 27 Sep 2022 17:13:00 +0900"
-		},
-		{
-			"title":"KLPGA 정규투어 &apos;하나금융그룹 챔피언십&apos; 개최",
-			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1548272\/?sc=Naver",
-			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1548272\/?sc=Naver",
-			"description":"하나금융그룹은 오는 29일부터 10월 2일까지 나흘간 인천 <b>청라<\/b> 소재 베어즈베스트 <b>청라<\/b> 골프클럽에서 KLPGA 정규투어 &apos;하나금융그룹 챔피언십&apos;을 개최한다고 27일 밝혔다. KLPGA 정규투어 중 최대 상금 규모로 개최되는... ",
-			"pubDate":"Tue, 27 Sep 2022 17:00:00 +0900"
-		},
-		{
-			"title":"[문화도시 서구] 7. 매립지와 도시생태 시민연구단",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1162947",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1162947",
-			"description":"<b>청라<\/b>호수공원 속 숨겨진 생태 보물을 찾아 지도를 완성하는 &apos;시민과학자&apos;도 진행했다. <b>청라<\/b>호수에 사는 생물을 관찰하고 속속들이 알아 지속가능한 보전 방안을 마련하는 것으로 활동이 이어졌다. 이번 여름방학때 서구... ",
-			"pubDate":"Tue, 27 Sep 2022 16:40:00 +0900"
-		},
-		{
-			"title":"LG 스탠바이미 옆에 선 박세리…&apos;LPGA 전설&apos; 소렌스탐·오초아 한자리에",
-			"originallink":"https:\/\/www.hankyung.com\/it\/article\/202209279658g",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004754884?sid=105",
-			"description":"LG전자는 지난 26일 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 열린 ‘LG전자 박세리 월드매치 골프대회’에 메인스폰서로 참가했다고 27일 밝혔다. 박세리뿐 아니라 안니카 소렌스탐(스웨덴), 로레나 오초아(멕시코) 등... ",
-			"pubDate":"Tue, 27 Sep 2022 16:39:00 +0900"
 		}
 	]
 }
