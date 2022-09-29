@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 29 Sep 2022 12:10:02 +0900",
-	"total":185726,
+	"lastBuildDate":"Thu, 29 Sep 2022 12:20:03 +0900",
+	"total":185728,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;중도금 무이자에 이자 지원까지&quot;…신성디앤씨, 오피스텔 &apos;김포 휴트라움&apos; 공...",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=860772&year=2022",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005023591?sid=101",
+			"description":"인접한 수도권제2순환고속도로 대곶IC(인천~김포)와 올림픽대로와 연결된 김포한강로를 통해 각각 <b>청라<\/b>·송도국제도시와 여의도·마곡지구·상암DMC·강남권 등 서울 주요 업무지구로 빠르게 이동할 수 있다. 한편... ",
+			"pubDate":"Thu, 29 Sep 2022 12:16:00 +0900"
+		},
+		{
+			"title":"인천시, 국토교통부, 경기도 &apos;인천~서울 지하고속도로 업무협약&apos;",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=91115",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=91115",
+			"description":"남<b>청라<\/b>IC~서인천IC~신월IC 간 19.3㎞ 중 약 14.0㎞ 구간을 4~6차로로 지하화하는 내용이며 예상 총사업비는... 완공되면 <b>청라<\/b>지구에서 여의도 간 이동 시간이 40분에서 23분으로 단축될 것으로 예상된다. 인천시, 국토교통부... ",
+			"pubDate":"Thu, 29 Sep 2022 12:12:00 +0900"
+		},
 		{
 			"title":"[MD포토] 장수연 &apos;아이언은 정확하게&apos;",
 			"originallink":"http:\/\/www.mydaily.co.kr\/new_yk\/html\/read.php?newsid=202209291148675661&ext=na&utm_campaign=naver_news&utm_source=naver&utm_medium=related_news",
@@ -96,20 +110,6 @@
 			"pubDate":"Thu, 29 Sep 2022 11:03:00 +0900"
 		},
 		{
-			"title":"민자→재정 전환 경인道 지하화, 국토부·인천·경기 추진에 힘 합친다",
-			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2022092909092661846",
-			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2022092909092661846",
-			"description":"경인고속도로 지하화는 총 2조856억원을 투입해 ‘남<b>청라<\/b>나들목(IC)∼서인천IC∼신월IC’(현 경인고속도로를 수도권제2순환고속도로 남<b>청라<\/b>IC까지 연장) 구간 19.3㎞를 지하화하는 프로젝트다. 국토부는 지난 2월 공개한... ",
-			"pubDate":"Thu, 29 Sep 2022 11:02:00 +0900"
-		},
-		{
-			"title":"인천~서울 지하고속도로 건설 국토부·인천·경기 협력",
-			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20220929000318",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002046804?sid=102",
-			"description":"‘인천-서울 지하고속도로 건설사업’은 남<b>청라<\/b>IC~서인천IC~신월IC 간 19.3km 구간 중 약 14.0km 구간을 4... 지하고속도로가 건설되면, 인천 <b>청라<\/b>지구와 여의도 간 이동 거리 시간이 약 17분(40분→23분) 단축돼 인천시와... ",
-			"pubDate":"Thu, 29 Sep 2022 11:02:00 +0900"
-		},
-		{
 			"title":"국토부·인천·경기, 인천∼서울 지하고속도로 건설 합심",
 			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017519835&code=61121111&cp=nv",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001556086?sid=102",
@@ -117,10 +117,24 @@
 			"pubDate":"Thu, 29 Sep 2022 11:02:00 +0900"
 		},
 		{
+			"title":"민자→재정 전환 경인道 지하화, 국토부·인천·경기 추진에 힘 합친다",
+			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2022092909092661846",
+			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2022092909092661846",
+			"description":"경인고속도로 지하화는 총 2조856억원을 투입해 ‘남<b>청라<\/b>나들목(IC)∼서인천IC∼신월IC’(현 경인고속도로를 수도권제2순환고속도로 남<b>청라<\/b>IC까지 연장) 구간 19.3㎞를 지하화하는 프로젝트다. 국토부는 지난 2월 공개한... ",
+			"pubDate":"Thu, 29 Sep 2022 11:02:00 +0900"
+		},
+		{
 			"title":"국토·인천·경기, 경인지하고속도 활용도 높일 업무협약 체결",
 			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5825030",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003690542?sid=101",
 			"description":"총사업비 2조856억원을 들여 남<b>청라<\/b>IC와 신월IC를 잇는 19.3㎞ 길이의 인천-서울 지하고속도로는 인천 <b>청라<\/b>지구와 여의도 간 이동시간을 기존 40분에 23분으로 단축시켜 출퇴근 편의성을 높이고 약 2만명의 고용 유발효과를... ",
+			"pubDate":"Thu, 29 Sep 2022 11:02:00 +0900"
+		},
+		{
+			"title":"인천~서울 지하고속도로 건설 국토부·인천·경기 협력",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20220929000318",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002046804?sid=102",
+			"description":"‘인천-서울 지하고속도로 건설사업’은 남<b>청라<\/b>IC~서인천IC~신월IC 간 19.3km 구간 중 약 14.0km 구간을 4... 지하고속도로가 건설되면, 인천 <b>청라<\/b>지구와 여의도 간 이동 거리 시간이 약 17분(40분→23분) 단축돼 인천시와... ",
 			"pubDate":"Thu, 29 Sep 2022 11:02:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=2022092909434493062d2db879fd_23",
 			"description":"SK에코플랜트는 29일 인천 <b>청라<\/b>국제도시에서 지식산업센터 ‘<b>청라<\/b> SK V1’가 모델하우스를 열고 본격 분양에 돌입했다고 밝혔다. <b>청라<\/b> SK V1은 인천광역시 서구 <b>청라<\/b>동에 들어서며, SK에코플랜트가 시공을 맡았다.... ",
 			"pubDate":"Thu, 29 Sep 2022 10:00:00 +0900"
-		},
-		{
-			"title":"순천향대 부천병원, KLPGA투어 &apos;하나금융그룹 챔피언십&apos; 의료 지원",
-			"originallink":"http:\/\/sports.chosun.com\/news\/ntype.htm?id=202209300100208440012754&servicedate=20220929",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/076\/0003921464?sid=102",
-			"description":"순천향대학교 부천병원(병원장 신응진)이 29일부터 10월 2일까지 베어즈베스트 <b>청라<\/b> 골프클럽에서 열리는 KLPGA(한국여자프로골프협회)투어 &apos;하나금융그룹 챔피언십&apos;을 의료 지원한다. &apos;하나금융그룹 챔피언십&apos;은 지난... ",
-			"pubDate":"Thu, 29 Sep 2022 09:57:00 +0900"
-		},
-		{
-			"title":"신동근, 대광위원장 만나 &apos;인천 서구 교통 현안&apos; 조속 추진 촉구",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=221738",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=221738",
-			"description":"서구의 주요 교통 현안은 ▲인천2호선 고양 연장 ▲서울7호선 <b>청라<\/b>연장 ▲서울9호선 공항철도직결 ▲광역급행버스(M버스)노선 신설 ▲서울5호선 김포검단 연장 ▲서북부 광역 급행철도(GTX-D) 등이다. 도로는 ▲금곡~대곡... ",
-			"pubDate":"Thu, 29 Sep 2022 09:56:00 +0900"
 		}
 	]
 }
