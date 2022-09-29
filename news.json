@@ -1,9 +1,93 @@
 {
-	"lastBuildDate":"Thu, 29 Sep 2022 11:00:02 +0900",
-	"total":185704,
+	"lastBuildDate":"Thu, 29 Sep 2022 11:10:03 +0900",
+	"total":185716,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"국토부-인천시-경기도, 경인고속도로 지하화 추진…2027년 착공",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220929051200003?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013471332?sid=102",
+			"description":"인천 <b>청라<\/b>지구~서울 여의도 40→23분 단축 정부와 지방자치단체가 인천과 서울을 잇는 경인고속도로 지하화... 남<b>청라<\/b>IC부터 신월IC까지 19.3㎞ 구간을 잇는 인천∼서울 지하고속도로 사업은 국토부가 지난 2월 발표한... ",
+			"pubDate":"Thu, 29 Sep 2022 11:07:00 +0900"
+		},
+		{
+			"title":"‘인천-서울 지하고속도로’ 2027년 착공",
+			"originallink":"https:\/\/www.khan.co.kr\/local\/Incheon\/article\/202209291105001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003176191?sid=102",
+			"description":"인천-서울 지하고속도로 건설사업은 인천 서구 남<b>청라<\/b>IC(인천∼김포고속도로) ~ 서인천IC(경인고속도로)... 이 지하고속도로가 건설되면 서구 <b>청라<\/b>국제도시에서 서울 여의도까지 40분에서 23분 단축된 17분에 갈 수... ",
+			"pubDate":"Thu, 29 Sep 2022 11:06:00 +0900"
+		},
+		{
+			"title":"인천-서울 지하고속도로 업무협약…“경인고속도로 상부 일반도로·녹지로”",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=5567391&amp;ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011347493?sid=101",
+			"description":"인천-서울 지하고속도로 건설사업은 남<b>청라<\/b>IC에서 신월IC까지 19.3km를 4∼6차로 잇는 사업으로 추진되며... 국토부는 “인천-서울 지하고속도로가 건설되면 인천 <b>청라<\/b>지구와 여의도 간 이동 거리가 약 17분(40→23분) 단축돼... ",
+			"pubDate":"Thu, 29 Sep 2022 11:03:00 +0900"
+		},
+		{
+			"title":"민자→재정 전환 경인道 지하화, 국토부·인천·경기 추진에 힘 합친다",
+			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2022092909092661846",
+			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2022092909092661846",
+			"description":"경인고속도로 지하화는 총 2조856억원을 투입해 ‘남<b>청라<\/b>나들목(IC)∼서인천IC∼신월IC’(현 경인고속도로를 수도권제2순환고속도로 남<b>청라<\/b>IC까지 연장) 구간 19.3㎞를 지하화하는 프로젝트다. 국토부는 지난 2월 공개한... ",
+			"pubDate":"Thu, 29 Sep 2022 11:02:00 +0900"
+		},
+		{
+			"title":"국토부·인천·경기, 인천∼서울 지하고속도로 건설 합심",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017519835&code=61121111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001556086?sid=102",
+			"description":"인천∼서울 지하고속도로 사업은 2조856억원을 투입해 남<b>청라<\/b>나들목(IC)∼서인천IC∼신월IC 19.3㎞ 중 14.0... 앞으로 인천∼서울 지하고속도로가 건설되면 인천 <b>청라<\/b>국제도시와 서울 여의도 간 이동 시간이 40분에서... ",
+			"pubDate":"Thu, 29 Sep 2022 11:02:00 +0900"
+		},
+		{
+			"title":"인천~서울 지하고속도로 건설 국토부·인천·경기 협력",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20220929000318",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002046804?sid=102",
+			"description":"‘인천-서울 지하고속도로 건설사업’은 남<b>청라<\/b>IC~서인천IC~신월IC 간 19.3km 구간 중 약 14.0km 구간을 4... 지하고속도로가 건설되면, 인천 <b>청라<\/b>지구와 여의도 간 이동 거리 시간이 약 17분(40분→23분) 단축돼 인천시와... ",
+			"pubDate":"Thu, 29 Sep 2022 11:02:00 +0900"
+		},
+		{
+			"title":"국토·인천·경기, 경인지하고속도 활용도 높일 업무협약 체결",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5825030",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003690542?sid=101",
+			"description":"총사업비 2조856억원을 들여 남<b>청라<\/b>IC와 신월IC를 잇는 19.3㎞ 길이의 인천-서울 지하고속도로는 인천 <b>청라<\/b>지구와 여의도 간 이동시간을 기존 40분에 23분으로 단축시켜 출퇴근 편의성을 높이고 약 2만명의 고용 유발효과를... ",
+			"pubDate":"Thu, 29 Sep 2022 11:02:00 +0900"
+		},
+		{
+			"title":"&quot;여의도 23분 컷&quot;…인천~서울 지하고속도로 2027년 착공",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2176985",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2176985",
+			"description":"인천 <b>청라<\/b>지구에서 여의도를 23분 만에 갈 수 있다. 국토교통부는 30일 인천광역시청에서 인천~서울 지하고속도로 사업의 원활한 추진 등을 위해 인천시, 경기도와 업무협약(MOU)을 체결한다고 29일 밝혔다. 남<b>청라<\/b>IC와... ",
+			"pubDate":"Thu, 29 Sep 2022 11:02:00 +0900"
+		},
+		{
+			"title":"국토부-인천시-경기도, 경인고속도로 지하화 MOU",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02243526632465040",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005328853?sid=101",
+			"description":"국토부는 2월 남<b>청라<\/b>나들목(IC)에서 신월IC에 이르는 경인고속도로 19.3㎞ 구간을 지하화하겠다고 발표했다. 지하고속도로가 개통하면 인천 <b>청라<\/b>신도시에서 서울 여의도까지 이동하는 시간이 40분에서 23분으로 줄어든다.... ",
+			"pubDate":"Thu, 29 Sep 2022 11:01:00 +0900"
+		},
+		{
+			"title":"국토부·인천·경기도 &apos;인천-서울 지하고속도로 건설&apos; 협약",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220929_0002031250&cID=10802&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011447449?sid=102",
+			"description":"기사내용 요약 남<b>청라<\/b>IC~신월IC 19.3㎞…2조1천억원 규모 인천-서울 지하고속도로 오는 2027년 착공 [서울... 인천-서울 지하고속도로 건설사업은 수도권 제2순환고속도로 남<b>청라<\/b>IC부터 경인고속도로 서인천IC를 거쳐... ",
+			"pubDate":"Thu, 29 Sep 2022 11:00:00 +0900"
+		},
+		{
+			"title":"인천-서울 지하고속道 2027년 착공…<b>청라<\/b>~여의도 17분 단축",
+			"originallink":"https:\/\/www.news1.kr\/articles\/4817396",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006363533?sid=101",
+			"description":"남<b>청라<\/b>IC에서 신월IC까지 19.3㎞ 구간을 지하고속도로로 건설하는 사업이며 총사업비는 2조856억원이다.... 인천-서울 지하고속도로가 건설되면 인천 <b>청라<\/b>지구와 여의도 간 이동 거리가 약 17분(40→23분) 단축될 것으로... ",
+			"pubDate":"Thu, 29 Sep 2022 11:00:00 +0900"
+		},
+		{
+			"title":"국토부·인천시·경기도, 지하 경인고속도로 상부 이용 힘 모은다",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20220929000062",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20220929000062",
+			"description":"<b>청라<\/b>지구와 여의도 간 이동 거리가 약 17분(40→23분) 단축돼 출퇴근길 불편이 줄어들 것으로 보여 약 2만 명의 고용 유발효과가 발생하는 기대효과가 예상된다는 분석이 있다. &apos;인천~서울 지하고속도로&apos;는 남<b>청라<\/b>나들... ",
+			"pubDate":"Thu, 29 Sep 2022 11:00:00 +0900"
+		},
 		{
 			"title":"순천향대 부천병원, KLPGA투어 &apos;하나금융그룹 챔피언십&apos; 의료 지원",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20220929_0002031292&cID=14001&pID=14000",
@@ -12,17 +96,17 @@
 			"pubDate":"Thu, 29 Sep 2022 10:40:00 +0900"
 		},
 		{
-			"title":"LH, 직주근접 가능 인천가정2 A-1블록·A-3블록 행복주택 공급",
-			"originallink":"https:\/\/www.sisa-news.com\/news\/article.html?no=214040",
-			"link":"https:\/\/www.sisa-news.com\/news\/article.html?no=214040",
-			"description":"인천 가정2지구는 <b>청라<\/b>국제도시, 가정지구, 루원시티를 연결하는 인천의 중심입지로 주목받고 있다.... 생활인프라는 <b>청라<\/b>와 가정1지구, 루원시티에 조성된 다양한 쇼핑·문화시설을 편하게 이용할 수 있다.... ",
-			"pubDate":"Thu, 29 Sep 2022 10:36:00 +0900"
-		},
-		{
 			"title":"&quot;더불어민주당, 이제는 반사이익 아닌 제대로 된 정치 보여줘야&quot;",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=91110",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=91110",
 			"description":"덧붙여 인천의 발전을 위해서라면 유정복 시장과 언제든 협력할 용의가 있으며, <b>청라<\/b>까지 이어지는 서울 2호선 연장과 GTX-D Y노선 추진, 인천대 공공의대 설립, 경인고속도로 일반도로화 및 지하화, 인천고등법원 설치... ",
+			"pubDate":"Thu, 29 Sep 2022 10:36:00 +0900"
+		},
+		{
+			"title":"LH, 직주근접 가능 인천가정2 A-1블록·A-3블록 행복주택 공급",
+			"originallink":"https:\/\/www.sisa-news.com\/news\/article.html?no=214040",
+			"link":"https:\/\/www.sisa-news.com\/news\/article.html?no=214040",
+			"description":"인천 가정2지구는 <b>청라<\/b>국제도시, 가정지구, 루원시티를 연결하는 인천의 중심입지로 주목받고 있다.... 생활인프라는 <b>청라<\/b>와 가정1지구, 루원시티에 조성된 다양한 쇼핑·문화시설을 편하게 이용할 수 있다.... ",
 			"pubDate":"Thu, 29 Sep 2022 10:36:00 +0900"
 		},
 		{
@@ -103,17 +187,17 @@
 			"pubDate":"Thu, 29 Sep 2022 09:00:00 +0900"
 		},
 		{
-			"title":"박민지, 하나금융그룹 챔피언십 첫날부터 김수지·송가은과 격돌 [KLPGA]",
-			"originallink":"http:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20003714",
-			"link":"http:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20003714",
-			"description":"박민지는 29일 인천 <b>청라<\/b>에서 펼쳐지는 대회 첫날 김수지(26), 송가은(22)과 함께 1라운드 1번홀 마지막 조로... 그러나 지난해 포천아도니스에서 올해 베어즈베스트<b>청라<\/b> 골프클럽 미국-유럽코스(파72·6,745야드)으로... ",
-			"pubDate":"Thu, 29 Sep 2022 08:52:00 +0900"
-		},
-		{
 			"title":"[분양 정보] SK에코플랜트, ‘<b>청라<\/b> SK V1’ 모델하우스 열고 분양 본격화",
 			"originallink":"https:\/\/www.news2day.co.kr\/article\/20220929500007",
 			"link":"https:\/\/www.news2day.co.kr\/article\/20220929500007",
 			"description":"<b>청라<\/b>국제도시 최대 규모 브랜드 지식산업센터…7호선 연장 등 교통호재 <b>청라<\/b> SK V1 투시도. [사진=SK에코플랜트] 인천 <b>청라<\/b>국제도시에서 지식산업센터 ‘<b>청라<\/b> SK V1’가 모델하우스를 열고 본격 분양에 돌입했다. <b>청라<\/b> SK... ",
+			"pubDate":"Thu, 29 Sep 2022 08:52:00 +0900"
+		},
+		{
+			"title":"박민지, 하나금융그룹 챔피언십 첫날부터 김수지·송가은과 격돌 [KLPGA]",
+			"originallink":"http:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20003714",
+			"link":"http:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20003714",
+			"description":"박민지는 29일 인천 <b>청라<\/b>에서 펼쳐지는 대회 첫날 김수지(26), 송가은(22)과 함께 1라운드 1번홀 마지막 조로... 그러나 지난해 포천아도니스에서 올해 베어즈베스트<b>청라<\/b> 골프클럽 미국-유럽코스(파72·6,745야드)으로... ",
 			"pubDate":"Thu, 29 Sep 2022 08:52:00 +0900"
 		},
 		{
@@ -129,90 +213,6 @@
 			"link":"http:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20003713",
 			"description":"사진제공=KLPGA 29일 인천 <b>청라<\/b>의 베어즈베스트<b>청라<\/b> 골프클럽 미국-유럽코스(파72·6,745야드)에서 개막한 한국여자프로골프(KLPGA) 투어 하나금융그룹 챔피언십(총상금 15억원) 첫째 날 조편성에서 김효주(27)... ",
 			"pubDate":"Thu, 29 Sep 2022 08:26:00 +0900"
-		},
-		{
-			"title":"[KLPGA] 최민경, 스포츠W 선정 &apos;7월의 MIG&apos; 수상 &quot;남은 대회에 더 집중할 것&quot;",
-			"originallink":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065563923848842",
-			"link":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065563923848842",
-			"description":"지난 달 당한 손가락 부상으로 최근 출전한 대회에서 다소 부진한 모습을 보여주며 상금 순위가 42위로 내려온 상태인 최민경은 29일부터 나흘간 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,745야드)... ",
-			"pubDate":"Thu, 29 Sep 2022 07:48:00 +0900"
-		},
-		{
-			"title":"이번 주말에 최경주와 김효주 중 누구 보러갈까...KPGA 현대해상 vs KLPGA 하...",
-			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202209290733332174daecd3dad5_1\/article.html",
-			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202209290733332174daecd3dad5_1\/article.html",
-			"description":"무대는 29일 4일간 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72·6745야드)에서 열리는 한국여자프로골프(KLPGA) 투어의 24번째 대회인 하나금융그룹 챔피언십(총상금 15억원, 우승상금 2억7000만원). 올 시즌... ",
-			"pubDate":"Thu, 29 Sep 2022 07:48:00 +0900"
-		},
-		{
-			"title":"[오늘의 경기] 프로야구= NC-삼성(대구 18시30분)",
-			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220929010003708",
-			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20220929010003708",
-			"description":"챔피언십(인천 베어즈베스트 <b>청라<\/b>)테니스= ATP 투어 유진투자증권 코리아오픈(12시·올림픽코트)사격= 제31회 경찰청장기 전국대회(9시·청주종합사격장)펜싱= 전국체육대회 사전경기(9시·울산 동천체육관)",
-			"pubDate":"Thu, 29 Sep 2022 07:34:00 +0900"
-		},
-		{
-			"title":"벌떼 입찰 원천 차단, 우미 포트폴리오 변화 계기 될까",
-			"originallink":"http:\/\/www.sporbiz.co.kr\/news\/articleView.html?idxno=633065",
-			"link":"http:\/\/www.sporbiz.co.kr\/news\/articleView.html?idxno=633065",
-			"description":"지난해 7월엔 서울아산병원등과 함께 약 2조원에 달하는 &apos;인천 <b>청라<\/b>의료복합타운 프로젝트&apos;를, 지난 12월엔 우미건설이 속한 컨소시엄이 국내 최대 민간투자사업인 &apos;잠실 스포츠·마이스복합공간 조성 민간투자사업... ",
-			"pubDate":"Thu, 29 Sep 2022 07:12:00 +0900"
-		},
-		{
-			"title":"[오늘의 주요 일정] &apos;회계부정·부당합병&apos; 이재용 삼성전자 부회장 공판",
-			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=114600",
-			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=114600",
-			"description":"(인천 베어즈베스트 <b>청라<\/b>) ■테니스= ATP 투어 유진투자증권 코리아오픈(12시·올림픽코트) ■사격= 제31회 경찰청장기 전국대회(9시·청주종합사격장) ■펜싱= 전국체육대회 사전경기(9시·울산 동천체육관)",
-			"pubDate":"Thu, 29 Sep 2022 07:04:00 +0900"
-		},
-		{
-			"title":"&apos;시즌 최대 상금 걸린&apos; 하나금융그룹 챔피언십 관전포인트…송가은·김수지·...",
-			"originallink":"http:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20003708",
-			"link":"http:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20003708",
-			"description":"제공=KLPGA 한국여자프로골프(KLPGA) 투어 2022시즌 24번째 대회인 하나금융그룹 챔피언십이 29일부터 나흘 동안 인천 <b>청라<\/b>의 베어즈베스트<b>청라<\/b> 골프클럽 미국-유럽코스(파72·6,745야드)에서 막을 올린다. 총상금... ",
-			"pubDate":"Thu, 29 Sep 2022 06:54:00 +0900"
-		},
-		{
-			"title":"◇내일의 경기(30일)",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220927168552007?input=1195m",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013470591",
-			"description":"베어즈베스트 <b>청라<\/b>) △테니스= ATP 투어 유진투자증권 코리아오픈(올림픽코트) △사격= 제31회 경찰청장기 전국대회(9시·청주종합사격장) △펜싱= 전국체육대회 사전경기(9시·울산 동천체육관) △볼링= 영월컵... ",
-			"pubDate":"Thu, 29 Sep 2022 06:16:00 +0900"
-		},
-		{
-			"title":"◇오늘의 경기(29일)",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20220927168551007?input=1195m",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013470590",
-			"description":"베어즈베스트 <b>청라<\/b>) △테니스= ATP 투어 유진투자증권 코리아오픈(12시·올림픽코트) △사격= 제31회 경찰청장기 전국대회(9시·청주종합사격장) △펜싱= 전국체육대회 사전경기(9시·울산 동천체육관) (서울... ",
-			"pubDate":"Thu, 29 Sep 2022 06:16:00 +0900"
-		},
-		{
-			"title":"DLㆍ포스코ㆍ롯데, 남해 해저터널 수주 3파전",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202209281457575310297",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202209281457575310297",
-			"description":"실제 포스코건설은 ‘영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사(낙찰금액 3211억원)’ 이후 1년 7개월 만에 기술형 시장에 복귀했다. 여기에 ‘평택~오송 복복선화 건설공사’ 1공구 참여 등 토목분야 기술형 입찰 참여를... ",
-			"pubDate":"Thu, 29 Sep 2022 05:12:00 +0900"
-		},
-		{
-			"title":"[오늘의 경기]",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20220929022013&wlog_tag3=naver",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=081&aid=0003305070",
-			"description":"코리안투어 현대해상 최경주 인비테이셔널(오전 7시 여주 페럼클럽) KLPGA 투어 하나금융그룹 챔피언십(오전 8시 인천 베어즈베스트 <b>청라<\/b>) ●테니스=ATP 투어 코리아오픈(낮 12시·서울올림픽공원)",
-			"pubDate":"Thu, 29 Sep 2022 05:04:00 +0900"
-		},
-		{
-			"title":"LPGA 한국선수 실종사건… 11년만에 최악 성적표 받나",
-			"originallink":"https:\/\/www.chosun.com\/sports\/golf\/2022\/09\/29\/N57JU632NRABNPC4WSO7Y2H4KY\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=023&aid=0003718904",
-			"description":"이민지와 김효주는 29일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72·6745야드)에서 막을 올리는 한국여자프로골프(KLPGA) 투어 하나금융그룹 챔피언십에 나선다. 이민지와 함께 하나금융그룹 후원을 받는 미LPGA... ",
-			"pubDate":"Thu, 29 Sep 2022 04:26:00 +0900"
-		},
-		{
-			"title":"[오늘의 경기] 2022년 9월 29일",
-			"originallink":"https:\/\/www.chosun.com\/sports\/sports_general\/2022\/09\/29\/ZRZIANI2VJBUBGYM4YRSK5NPNY\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=023&aid=0003718903",
-			"description":"베어즈베스트 <b>청라<\/b>·SBS골프·10시) 테니스 ATP 투어 유진투자증권 코리아오픈(올림픽코트·tvN스포츠·12시) 사격 경찰청장기 전국대회(청주종합사격장·9시) 펜싱 전국체육대회 사전경기(울산 동천체육관... ",
-			"pubDate":"Thu, 29 Sep 2022 04:23:00 +0900"
 		}
 	]
 }
