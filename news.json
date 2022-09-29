@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 29 Sep 2022 12:30:02 +0900",
-	"total":185728,
+	"lastBuildDate":"Thu, 29 Sep 2022 12:40:02 +0900",
+	"total":185730,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[MD포토] 하민송 &apos;정확하게 때린다&apos;",
+			"originallink":"http:\/\/www.mydaily.co.kr\/new_yk\/html\/read.php?newsid=202209291234448877&ext=na&utm_campaign=naver_news&utm_source=naver&utm_medium=related_news",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003650981",
+			"description":"하민송이 29일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b> 골프크럽(파72\/6,745야드)에서 진행된 &apos;하나금융그룹 챔피언십(총상금 15억 원, 우승 상금 2억 7천만 원) 1라운드 1번 티에서 샷을 때리고 있다.",
+			"pubDate":"Thu, 29 Sep 2022 12:35:00 +0900"
+		},
+		{
+			"title":"항공·해양·레저 중심 ‘뉴홍콩시티’ 구체화…영종도 주거용 오피스텔 ‘영...",
+			"originallink":"https:\/\/www.sisa-news.com\/news\/article.html?no=214057",
+			"link":"https:\/\/www.sisa-news.com\/news\/article.html?no=214057",
+			"description":"세부적으로는 영종국제도시를 중심으로 강화, 송도, <b>청라<\/b>, 수도권매립지를 연계해 다국적 기업을 유치하는... 여기에 영종~<b>청라<\/b>를 잇는 제3연륙교가 2025년 개통 예정으로, 신월여의지하도로와 연계돼 여의도까지 차량... ",
+			"pubDate":"Thu, 29 Sep 2022 12:32:00 +0900"
+		},
 		{
 			"title":"&quot;중도금 무이자에 이자 지원까지&quot;…신성디앤씨, 오피스텔 &apos;김포 휴트라움&apos; 공...",
 			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=860772&year=2022",
@@ -19,17 +33,17 @@
 			"pubDate":"Thu, 29 Sep 2022 12:12:00 +0900"
 		},
 		{
-			"title":"[MD포토] 장수연 &apos;아이언은 정확하게&apos;",
-			"originallink":"http:\/\/www.mydaily.co.kr\/new_yk\/html\/read.php?newsid=202209291148675661&ext=na&utm_campaign=naver_news&utm_source=naver&utm_medium=related_news",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003650967",
-			"description":"장수연이 29일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b> 골프크럽(파72\/6,745야드)에서 진행된 &apos;하나금융그룹 챔피언십(총상금 15억 원, 우승 상금 2억 7천만 원) 1라운드 1번티에서 아이언 샷을 때리고 있다.",
-			"pubDate":"Thu, 29 Sep 2022 11:49:00 +0900"
-		},
-		{
 			"title":"[MD포토] 한진선 &apos;출발은 산뜻하게&apos;",
 			"originallink":"http:\/\/www.mydaily.co.kr\/new_yk\/html\/read.php?newsid=202209291148284368&ext=na&utm_campaign=naver_news&utm_source=naver&utm_medium=related_news",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003650968",
 			"description":"한진선이 29일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b> 골프크럽(파72\/6,745야드)에서 진행된 &apos;하나금융그룹 챔피언십(총상금 15억 원, 우승 상금 2억 7천만 원) 1라운드 1번티에서 아이언 샷을 때리고 있다.",
+			"pubDate":"Thu, 29 Sep 2022 11:49:00 +0900"
+		},
+		{
+			"title":"[MD포토] 장수연 &apos;아이언은 정확하게&apos;",
+			"originallink":"http:\/\/www.mydaily.co.kr\/new_yk\/html\/read.php?newsid=202209291148675661&ext=na&utm_campaign=naver_news&utm_source=naver&utm_medium=related_news",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003650967",
+			"description":"장수연이 29일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b> 골프크럽(파72\/6,745야드)에서 진행된 &apos;하나금융그룹 챔피언십(총상금 15억 원, 우승 상금 2억 7천만 원) 1라운드 1번티에서 아이언 샷을 때리고 있다.",
 			"pubDate":"Thu, 29 Sep 2022 11:49:00 +0900"
 		},
 		{
@@ -194,25 +208,11 @@
 			"pubDate":"Thu, 29 Sep 2022 10:36:00 +0900"
 		},
 		{
-			"title":"&quot;대기자만 400명&quot;…&apos;하늘의 별 따기&apos; 된 테니스 예약",
+			"title":"&quot;27년 만에 이런 열기는 처음&quot;…MZ세대들 요즘 푹 빠진 운동",
 			"originallink":"https:\/\/www.hankyung.com\/society\/article\/2022092823177",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004755759?sid=102",
 			"description":"한 달 전부터 테니스를 배우고 있다는 송준엽(32) 씨는 &quot;평소 테니스에 관심을 갖고 있었는데, 최근 사내동호회에 가입해 테니스 레슨을 받고 있다&quot;며 &quot;주말엔 서울에 있는 코트 예약이 어려워 경기도 광주나 인천 <b>청라<\/b>까... ",
 			"pubDate":"Thu, 29 Sep 2022 10:21:00 +0900"
-		},
-		{
-			"title":"인천시, &apos;2022 KLPGA 하나금융그룹 챔피언십&apos; <b>청라<\/b>서 개최",
-			"originallink":"https:\/\/www.cnbnews.com\/news\/article.html?no=566553",
-			"link":"https:\/\/www.cnbnews.com\/news\/article.html?no=566553",
-			"description":"인천시와 인천관광공사가 후원하는 &apos;2022 KLPGA 하나금융그룹 챔피언십&apos;(총 상금 15억 원, 우승상금 2억7000만 원)이 오는 10월 2일까지 4일간 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽에서 개최된다.... ",
-			"pubDate":"Thu, 29 Sep 2022 10:12:00 +0900"
-		},
-		{
-			"title":"SK에코플랜트, 인천 <b>청라<\/b>동 &apos;<b>청라<\/b> SK V1&apos; 지식산업센터 분양 돌입",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=2022092909434493062d2db879fd_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=2022092909434493062d2db879fd_23",
-			"description":"SK에코플랜트는 29일 인천 <b>청라<\/b>국제도시에서 지식산업센터 ‘<b>청라<\/b> SK V1’가 모델하우스를 열고 본격 분양에 돌입했다고 밝혔다. <b>청라<\/b> SK V1은 인천광역시 서구 <b>청라<\/b>동에 들어서며, SK에코플랜트가 시공을 맡았다.... ",
-			"pubDate":"Thu, 29 Sep 2022 10:00:00 +0900"
 		}
 	]
 }
