@@ -1,5 +1,5 @@
 {
-	"lastBuildDate":"Fri, 30 Sep 2022 19:50:02 +0900",
+	"lastBuildDate":"Fri, 30 Sep 2022 20:00:02 +0900",
 	"total":187532,
 	"start":1,
 	"display":30,
@@ -54,13 +54,6 @@
 			"pubDate":"Fri, 30 Sep 2022 19:23:00 +0900"
 		},
 		{
-			"title":"홍정민-임희정-유해란, 20대 초반 바람 거센 하나금융 챔피언십",
-			"originallink":"http:\/\/jtbcgolf.joins.com\/news\/news_view.asp?ns1=42294",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=470&aid=0000014486",
-			"description":"홍정민은 30일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 대회 둘째날 버디 6개, 보기 1개로 5타를 줄여 합계 11언더파로 이틀 연속 단독 선두를 달렸다. 홍정민의 뒤를 이어 임희정, 유해란이 나란히 합계... ",
-			"pubDate":"Fri, 30 Sep 2022 19:22:00 +0900"
-		},
-		{
 			"title":"&apos;데일리 베스트&apos; 박민지, 2R 공동 9위로 수직상승 [KLPGA 하나금융그룹 챔피언...",
 			"originallink":"http:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20003750",
 			"link":"http:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20003750",
@@ -72,6 +65,13 @@
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022093019054043119",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=277&aid=0005155682",
 			"description":"홍정민은 30일 인천 베어즈베스트<b>청라<\/b>골프클럽(파72·6745야드)에서 열린 한국여자프로골프(KLPGA) 투어 하나금융그룹 챔피언십 2라운드에서 버디 6개, 보기 1개를 엮어 5언더파 67타를 쳤다. 중간 합계 11언더파... ",
+			"pubDate":"Fri, 30 Sep 2022 19:22:00 +0900"
+		},
+		{
+			"title":"홍정민-임희정-유해란, 20대 초반 바람 거센 하나금융 챔피언십",
+			"originallink":"http:\/\/jtbcgolf.joins.com\/news\/news_view.asp?ns1=42294",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=470&aid=0000014486",
+			"description":"홍정민은 30일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 대회 둘째날 버디 6개, 보기 1개로 5타를 줄여 합계 11언더파로 이틀 연속 단독 선두를 달렸다. 홍정민의 뒤를 이어 임희정, 유해란이 나란히 합계... ",
 			"pubDate":"Fri, 30 Sep 2022 19:22:00 +0900"
 		},
 		{
@@ -117,16 +117,16 @@
 			"pubDate":"Fri, 30 Sep 2022 19:11:00 +0900"
 		},
 		{
-			"title":"김효주 &apos;무언의 엄지 척&apos;[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142747",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073908?sid=004",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 2022시즌 스물네 번째 대회인 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원) 2라운드가 열렸다. 김효주(27.롯데)가... ",
-			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
-		},
-		{
 			"title":"이민지 &apos;빈틈 없이 살핀다&apos;[포토]",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142751",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073904?sid=004",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 2022시즌 스물네 번째 대회인 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원) 2라운드가 열렸다. 이민지(26.... ",
+			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
+		},
+		{
+			"title":"이민지 &apos;시차 적은 안되네&apos;[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142750",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073905?sid=004",
 			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 2022시즌 스물네 번째 대회인 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원) 2라운드가 열렸다. 이민지(26.... ",
 			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
 		},
@@ -152,27 +152,6 @@
 			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
 		},
 		{
-			"title":"[포토]정지유-손주희, 오늘도 최선을 다할게요",
-			"originallink":"https:\/\/www.etnews.com\/20220930000172",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003048168",
-			"description":"2022시즌 KLPGA 투어의 스물네 번째 대회인 &apos;하나금융그룹 챔피언십(총상금 15억 원, 우승상금 2억 7천만 원)&apos;이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,745야드)에서 열리고 있다. 30일 현재... ",
-			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
-		},
-		{
-			"title":"이민지 &apos;시차 적은 안되네&apos;[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142750",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073905?sid=004",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 2022시즌 스물네 번째 대회인 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원) 2라운드가 열렸다. 이민지(26.... ",
-			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
-		},
-		{
-			"title":"한유미-김효주 &apos;효주 응원 하고 있어요&apos;[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142744",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073911?sid=004",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 2022시즌 스물네 번째 대회인 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원) 2라운드가 열렸다. 전 배구 선수이자... ",
-			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
-		},
-		{
 			"title":"김효주 &apos;벙커 탈출 후 볼 확인&apos;[포토]",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142748",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073907?sid=004",
@@ -180,9 +159,9 @@
 			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
 		},
 		{
-			"title":"김효주 &apos;파 세이브 하며 볼 인사로 마무리&apos;[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142749",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073906?sid=004",
+			"title":"김효주 &apos;무언의 엄지 척&apos;[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142747",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073908?sid=004",
 			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 2022시즌 스물네 번째 대회인 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원) 2라운드가 열렸다. 김효주(27.롯데)가... ",
 			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
 		},
@@ -194,13 +173,6 @@
 			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
 		},
 		{
-			"title":"전 배구 선수 한유미 &apos;앗 카메라다&apos;[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142745",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073910?sid=004",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 2022시즌 스물네 번째 대회인 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원) 2라운드가 열렸다. 전 배구 선수이자... ",
-			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
-		},
-		{
 			"title":"김효주 &apos;아카데미 동생과 함께 18번홀 그린으로 이동&apos;[포토]",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142746",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073909?sid=004",
@@ -208,10 +180,38 @@
 			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
 		},
 		{
-			"title":"쉬고 있는 김재희 &apos;앗 카메라 발견&apos;[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142742",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073912?sid=004",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 2022시즌 스물네 번째 대회인 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원) 2라운드가 열렸다. 김재희(21.메디힐)가... ",
+			"title":"현세린 &apos;18번홀 마친 후 통증 호소&apos;[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142739",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073915?sid=004",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 2022시즌 스물네 번째 대회인 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원) 2라운드가 열렸다. 현세린(21.대방건설)이... ",
+			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
+		},
+		{
+			"title":"이소영 &apos;벙커 탈출은 문제 없어&apos;[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142740",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073914?sid=004",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 2022시즌 스물네 번째 대회인 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원) 2라운드가 열렸다. 이소영(25.롯데)이... ",
+			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
+		},
+		{
+			"title":"현세린-이승주 &apos;길어서 러프로 간 내 볼&apos;[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142737",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073917?sid=004",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 2022시즌 스물네 번째 대회인 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원) 2라운드가 열렸다. 현세린(21.대방건설)이... ",
+			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
+		},
+		{
+			"title":"현세린-이승주 &apos;위풍당당한 발걸음&apos;[포토]",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=142738",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000073916?sid=004",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 2022시즌 스물네 번째 대회인 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원) 2라운드가 열렸다. 현세린(21.대방건설)이... ",
+			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
+		},
+		{
+			"title":"[포토]정지유-손주희, 오늘도 최선을 다할게요",
+			"originallink":"https:\/\/www.etnews.com\/20220930000172",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003048168",
+			"description":"2022시즌 KLPGA 투어의 스물네 번째 대회인 &apos;하나금융그룹 챔피언십(총상금 15억 원, 우승상금 2억 7천만 원)&apos;이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,745야드)에서 열리고 있다. 30일 현재... ",
 			"pubDate":"Fri, 30 Sep 2022 19:08:00 +0900"
 		}
 	]
