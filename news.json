@@ -1,20 +1,125 @@
 {
-	"lastBuildDate":"Fri, 30 Sep 2022 23:00:02 +0900",
-	"total":187837,
+	"lastBuildDate":"Fri, 30 Sep 2022 23:10:03 +0900",
+	"total":187852,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"[포토]진성용 &apos;우승위해 전진한다&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02627286632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330993",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.진성용의 1번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:58:00 +0900"
+			"title":"[포토]홍정민 &apos;뒤에서 미소 브이 인사&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02686326632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005331011",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.홍정민의 1홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:06:00 +0900"
+		},
+		{
+			"title":"[포토]홍정민 &apos;와이어투와이어 우승 조준&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02689606632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005331012",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.홍정민의 1홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:06:00 +0900"
+		},
+		{
+			"title":"[포토]홍정민 &apos;선두를 지킨다&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02692886632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005331013",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.홍정민의 1홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:06:00 +0900"
+		},
+		{
+			"title":"[포토]유해란 &apos;우승위해 더욱 집중한다&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02683046632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005331010",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.유해란의 1홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:05:00 +0900"
+		},
+		{
+			"title":"[포토]유해란,오재승 &apos;우승위한 밝은 손인사&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02673206632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005331007",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.유해란의 1홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:04:00 +0900"
+		},
+		{
+			"title":"[포토]유해란 &apos;실수없이 우승간다&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02679766632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005331009",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.유해란의 1홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:04:00 +0900"
+		},
+		{
+			"title":"[포토]유해란 &apos;우승 보여드리지요&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02676486632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005331008",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.유해란의 1홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:04:00 +0900"
+		},
+		{
+			"title":"[포토]패티 타와타나킷 &apos;장타를 보여준다&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02663366632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005331004",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.패티 타와타나킷의 9홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:02:00 +0900"
+		},
+		{
+			"title":"[포토]패티 타와타나킷 &apos;파워풀 임팩트&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02666646632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005331005",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.패티 타와타나킷의 9홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:02:00 +0900"
+		},
+		{
+			"title":"[포토]패티 타와타나킷 &apos;정조준으로 시작&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02669926632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005331006",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.패티 타와타나킷의 9홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:02:00 +0900"
+		},
+		{
+			"title":"[포토]장수연 &apos;꾸준히 상승한다&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02656806632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005331002",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.장수연의 9홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:01:00 +0900"
+		},
+		{
+			"title":"[포토]안지현 &apos;버디쇼 이제 시작합니다&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02646966632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330999",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.안지현의 1번홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:01:00 +0900"
+		},
+		{
+			"title":"[포토]장수연 &apos;노련하고 정확한 임팩트&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02660086632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005331003",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.장수연의 9홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:01:00 +0900"
+		},
+		{
+			"title":"[포토]안지현 &apos;버디쇼 향한 임팩트&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02643686632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330998",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.안지현의 1번홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:00:00 +0900"
+		},
+		{
+			"title":"[포토]안지현 &apos;오랜만에 버디쇼 보셨죠&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02640406632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330997",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.안지현의 1번홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 23:00:00 +0900"
 		},
 		{
 			"title":"[포토]임진영 &apos;간결한 아이언샷&apos;",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02620726632465368",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330991",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.임진영의 1번홀 경기 장면.",
+			"pubDate":"Fri, 30 Sep 2022 22:58:00 +0900"
+		},
+		{
+			"title":"[포토]임진영 &apos;귀여운 손인사&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02617446632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330990",
 			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.임진영의 1번홀 경기 장면.",
 			"pubDate":"Fri, 30 Sep 2022 22:58:00 +0900"
 		},
@@ -26,10 +131,10 @@
 			"pubDate":"Fri, 30 Sep 2022 22:58:00 +0900"
 		},
 		{
-			"title":"[포토]임진영 &apos;귀여운 손인사&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02617446632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330990",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.임진영의 1번홀 경기 장면.",
+			"title":"[포토]진성용 &apos;우승위해 전진한다&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02627286632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330993",
+			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.진성용의 1번홀 경기 장면.",
 			"pubDate":"Fri, 30 Sep 2022 22:58:00 +0900"
 		},
 		{
@@ -61,9 +166,9 @@
 			"pubDate":"Fri, 30 Sep 2022 22:55:00 +0900"
 		},
 		{
-			"title":"[포토]김희준 &apos;폭발적인 임팩트&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02597766632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330984",
+			"title":"[포토]김희준 &apos;최선을 다한다&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02594486632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330983",
 			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.김희준의 10번홀 경기 장면.",
 			"pubDate":"Fri, 30 Sep 2022 22:55:00 +0900"
 		},
@@ -75,18 +180,11 @@
 			"pubDate":"Fri, 30 Sep 2022 22:55:00 +0900"
 		},
 		{
-			"title":"[포토]김희준 &apos;최선을 다한다&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02594486632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330983",
+			"title":"[포토]김희준 &apos;폭발적인 임팩트&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02597766632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330984",
 			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.김희준의 10번홀 경기 장면.",
 			"pubDate":"Fri, 30 Sep 2022 22:55:00 +0900"
-		},
-		{
-			"title":"[포토]현세린 &apos;첫 홀 버디를 정조준한다&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02584646632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330980",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.현세린의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:54:00 +0900"
 		},
 		{
 			"title":"[포토]현세린 &apos;타구는 핀 방향이다&apos;",
@@ -103,9 +201,9 @@
 			"pubDate":"Fri, 30 Sep 2022 22:54:00 +0900"
 		},
 		{
-			"title":"[포토]현세린 &apos;볼을 받아주세요&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02591206632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330982",
+			"title":"[포토]현세린 &apos;핀을 향해 유연하게&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02581366632465368",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330979",
 			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.현세린의 10번홀 경기 장면.",
 			"pubDate":"Fri, 30 Sep 2022 22:54:00 +0900"
 		},
@@ -115,104 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330976",
 			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.현세린의 10번홀 경기 장면.",
 			"pubDate":"Fri, 30 Sep 2022 22:54:00 +0900"
-		},
-		{
-			"title":"[포토]현세린 &apos;핀을 향해 유연하게&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02581366632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330979",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.현세린의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:54:00 +0900"
-		},
-		{
-			"title":"[포토]현세린 &apos;간결하고 정확한 임팩트&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02587926632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330981",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.현세린의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:54:00 +0900"
-		},
-		{
-			"title":"[포토]현세린 &apos;홀 안으로 들어가라&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02568246632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330975",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.현세린의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:53:00 +0900"
-		},
-		{
-			"title":"[포토]이소영 &apos;강력한 아이언샷&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02555126632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330971",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.이소영의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:52:00 +0900"
-		},
-		{
-			"title":"[포토]이소영 &apos;핀을 재확인해요&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02564966632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330974",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.이소영의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:52:00 +0900"
-		},
-		{
-			"title":"[포토]이소영 &apos;첫 홀 버디가 필요해&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02561686632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330973",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.이소영의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:52:00 +0900"
-		},
-		{
-			"title":"[포토]이소영 &apos;실수없는 임팩트샷&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02558406632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330972",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.이소영의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:52:00 +0900"
-		},
-		{
-			"title":"[포토]이소영 &apos;홀을 보고 볼을 놓는다&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02551846632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330970",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.이소영의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:51:00 +0900"
-		},
-		{
-			"title":"[포토]이소영 &apos;첫 홀 버디 도전&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02548566632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330969",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.이소영의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:51:00 +0900"
-		},
-		{
-			"title":"[포토]이민지 &apos;핀 위치를 파악한다&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02535446632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330965",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.이민지의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:50:00 +0900"
-		},
-		{
-			"title":"[포토]김효주 &apos;부드러운 임팩트&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02545286632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330968",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.김효주의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:50:00 +0900"
-		},
-		{
-			"title":"[포토]김효주 &apos;오차없는 아이언샷&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02538726632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330966",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.김효주의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:50:00 +0900"
-		},
-		{
-			"title":"[포토]김효주 &apos;차분히 핀을 본다&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02542006632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330967",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.김효주의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:50:00 +0900"
-		},
-		{
-			"title":"[포토]이민지 &apos;거리감이 중요해&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02522326632465368",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005330961",
-			"description":"30일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다.이민지의 10번홀 경기 장면.",
-			"pubDate":"Fri, 30 Sep 2022 22:49:00 +0900"
 		}
 	]
 }
