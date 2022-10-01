@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 01 Oct 2022 18:10:02 +0900",
-	"total":188545,
+	"lastBuildDate":"Sat, 01 Oct 2022 18:20:02 +0900",
+	"total":188546,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"홍정민, KLPGA 투어 하나금융그룹 챔피언십 사흘 연속 1위…‘매치 퀸’에 이...",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20221001010000042",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20221001010000042",
+			"description":"홍정민은 1일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파 72·6745야드)에서 열린 대회 이틀째 2라운드에서 버디 5개, 보기 1개로 4언더파 68타를 쳐 중간 합계 15언더파 201타를 기록해 사흘 연속 리더 보드 맨 윗자리에 이름을... ",
+			"pubDate":"Sat, 01 Oct 2022 18:16:00 +0900"
+		},
 		{
 			"title":"홍정민, KLPGA 하나금융 챔피언십 3라운드 선두",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20221001_0002034362&cID=10504&pID=10500",
@@ -117,38 +124,17 @@
 			"pubDate":"Sat, 01 Oct 2022 17:24:00 +0900"
 		},
 		{
+			"title":"아이언샷 날리는 이예원",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607067",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368397",
+			"description":"= 이예원이 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 6번홀에서 아이언샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
+			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
+		},
+		{
 			"title":"한진선 &apos;힘차게&apos;",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607072",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368388",
 			"description":"= 한진선이 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 6번홀에서 아이언샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
-			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
-		},
-		{
-			"title":"아이언샷 날리는 유해란",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607068",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368391",
-			"description":"= 유혜란이 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 6번홀에서 아이언샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
-			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
-		},
-		{
-			"title":"아이언샷 날리는 자라비 분차트",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607065",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368395",
-			"description":"= 자라비 분차트가 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 6번홀에서 아이언샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
-			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
-		},
-		{
-			"title":"벙커샷 치는 최가빈",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607062",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368398",
-			"description":"= 최가빈이 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 1번홀에서 벙커샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
-			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
-		},
-		{
-			"title":"벙커샷 날리는 박민지",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607069",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368390",
-			"description":"= 박민지가 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 6번홀에서 벙커샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
 			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
 		},
 		{
@@ -159,10 +145,10 @@
 			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
 		},
 		{
-			"title":"아이언샷 날리는 홍정민",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607071",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368387",
-			"description":"= 홍정민이 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 6번홀에서 아이언샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
+			"title":"아이언샷 날리는 자라비 분차트",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607065",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368395",
+			"description":"= 자라비 분차트가 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 6번홀에서 아이언샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
 			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
 		},
 		{
@@ -173,10 +159,10 @@
 			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
 		},
 		{
-			"title":"아이언샷 날리는 전우리",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607063",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368392",
-			"description":"= 전우리가 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 6번홀에서 아이언샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
+			"title":"아이언샷 날리는 홍정민",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607071",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368387",
+			"description":"= 홍정민이 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 6번홀에서 아이언샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
 			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
 		},
 		{
@@ -187,17 +173,24 @@
 			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
 		},
 		{
-			"title":"티샷 날리는 지한솔",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607061",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368399",
-			"description":"= 지한솔이 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 1번홀에서 티샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
+			"title":"아이언샷 날리는 유해란",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607068",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368391",
+			"description":"= 유혜란이 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 6번홀에서 아이언샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
 			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
 		},
 		{
-			"title":"아이언샷 날리는 이예원",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607067",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368397",
-			"description":"= 이예원이 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 6번홀에서 아이언샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
+			"title":"벙커샷 날리는 박민지",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607069",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368390",
+			"description":"= 박민지가 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 6번홀에서 벙커샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
+			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
+		},
+		{
+			"title":"벙커샷 치는 최가빈",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607062",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368398",
+			"description":"= 최가빈이 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 1번홀에서 벙커샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
 			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
 		},
 		{
@@ -208,11 +201,18 @@
 			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
 		},
 		{
-			"title":"[포토]유지나,안선주,박지영 &apos;얼굴 하트와 밝은 브이 인사&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01731846632488656",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005331356",
-			"description":"1일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다.유지나,안선주,박지영의 1번홀 경기 장면.",
-			"pubDate":"Sat, 01 Oct 2022 17:22:00 +0900"
+			"title":"아이언샷 날리는 전우리",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607063",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368392",
+			"description":"= 전우리가 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 6번홀에서 아이언샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
+			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
+		},
+		{
+			"title":"티샷 날리는 지한솔",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5607061",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006368399",
+			"description":"= 지한솔이 30일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3라운드 1번홀에서 티샷을 치고 있다. (KLPGA 제공) 2022.10.1\/뉴스1",
+			"pubDate":"Sat, 01 Oct 2022 17:23:00 +0900"
 		}
 	]
 }
