@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 02 Oct 2022 09:40:02 +0900",
-	"total":188695,
+	"lastBuildDate":"Sun, 02 Oct 2022 09:50:02 +0900",
+	"total":188696,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[MD포토] 박현경 &apos;부드러운 티샷&apos;",
+			"originallink":"http:\/\/www.mydaily.co.kr\/new_yk\/html\/read.php?newsid=202210020944162443&ext=na&utm_campaign=naver_news&utm_source=naver&utm_medium=related_news",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003652144",
+			"description":"박현경이 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b> 골프크럽(파72\/6,745야드)에서 진행된 &apos;하나금융그룹 챔피언십(총상금 15억 원, 우승 상금 2억 7천만 원) 4라운드 10번 티에서 티샷을 때리고 있다.",
+			"pubDate":"Sun, 02 Oct 2022 09:45:00 +0900"
+		},
 		{
 			"title":"포커페이스 홍정민, &apos;부담 떨치고 그냥 하던 대로&apos;…시즌 2승에 성큼 [KLPGA ...",
 			"originallink":"http:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20003767",
@@ -187,17 +194,17 @@
 			"pubDate":"Sat, 01 Oct 2022 20:21:00 +0900"
 		},
 		{
-			"title":"인사하는 김수지",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20221001_0019310348",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=003&aid=0011452310",
-			"description":"1일 인천 <b>청라<\/b> 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3R 김수지가 8홀 티샷 후 인사하고 있다. (사진=하나금융그룹챔피언십 조직위 제공) 2022.10.01. photo@newsis.com *재판매 및 DB 금지 공감언론... ",
-			"pubDate":"Sat, 01 Oct 2022 20:21:00 +0900"
-		},
-		{
 			"title":"그린 살피는 박보겸",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20221001_0019310347",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=003&aid=0011452311",
 			"description":"1일 인천 <b>청라<\/b> 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3R 박보겸이 14홀 그린을 살피고 있다. (사진=하나금융그룹챔피언십 조직위 제공) 2022.10.01. photo@newsis.com *재판매 및 DB 금지 공감언론... ",
+			"pubDate":"Sat, 01 Oct 2022 20:21:00 +0900"
+		},
+		{
+			"title":"인사하는 김수지",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20221001_0019310348",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=003&aid=0011452310",
+			"description":"1일 인천 <b>청라<\/b> 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;하나금융그룹 챔피언십&apos; 3R 김수지가 8홀 티샷 후 인사하고 있다. (사진=하나금융그룹챔피언십 조직위 제공) 2022.10.01. photo@newsis.com *재판매 및 DB 금지 공감언론... ",
 			"pubDate":"Sat, 01 Oct 2022 20:21:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003652055",
 			"description":"홍정민은 1일 인천광역시 베어즈베스트 <b>청라<\/b> 골프클럽(파72, 6745야드)에서 열린 2022 KLPGA 투어 하나금융그룹 챔피언십(총상금 15억원) 3라운드서 버디 5개, 보기 1개로 4언더파 68타를 쳤다. 중간합계 15언더파 201타로... ",
 			"pubDate":"Sat, 01 Oct 2022 20:16:00 +0900"
-		},
-		{
-			"title":"김지현 &apos;창공 위 바람은&apos;[포토]",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=143238",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/445\/0000074335?sid=004",
-			"description":"1일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 2022시즌 스물네 번째 대회인 &apos;하나금융그룹 챔피언십&apos;(총상금 15억 원, 우승상금 2억 7천만 원) 무빙데이 3라운드가 열렸다. 김지현(31.... ",
-			"pubDate":"Sat, 01 Oct 2022 20:13:00 +0900"
 		}
 	]
 }
