@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 03 Oct 2022 15:20:02 +0900",
-	"total":189488,
+	"lastBuildDate":"Mon, 03 Oct 2022 15:30:03 +0900",
+	"total":189489,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하락세 깊어지는 인천 아파트값…송도 4억·부평 2억 ‘뚝’",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2177995",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2177995",
+			"description":"연수구(-0.38%)는 송도신도시, 서구(-0.33%)는 당하·<b>청라<\/b>동, 부평구(-0.32%)는 산곡·삼산동, 남동구(-0.25%)는 구월·간석동 위주로 하락 거래가 발생했다. 부평구 산곡동 A공인 관계자는 “시세보다 저렴한 매물이 나오고... ",
+			"pubDate":"Mon, 03 Oct 2022 15:22:00 +0900"
+		},
 		{
 			"title":"제2회 보령청년주간 행사 개최",
 			"originallink":"http:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2026459",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005332016",
 			"description":"2일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 열린 대회 최종일 김수지는 한 타를 줄여 최종합계 274타 14언더파로 우승트로피의 주인공이 되었다.우승상금 2억 7천만 원.통산4승.",
 			"pubDate":"Sun, 02 Oct 2022 23:59:00 +0900"
-		},
-		{
-			"title":"[포토]김수진 &apos;통산 4번째 우승 키스&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02125446632488984",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005332013",
-			"description":"2일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 열린 대회 최종일 김수지는 한 타를 줄여 최종합계 274타 14언더파로 우승트로피의 주인공이 되었다.우승상금 2억 7천만 원.통산4승.",
-			"pubDate":"Sun, 02 Oct 2022 23:51:00 +0900"
 		}
 	]
 }
