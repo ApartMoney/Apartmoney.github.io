@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 04 Oct 2022 03:00:02 +0900",
-	"total":189500,
+	"lastBuildDate":"Tue, 04 Oct 2022 03:10:02 +0900",
+	"total":189501,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[부동산 캘린더]전국 13개 단지서 6842채 분양",
+			"originallink":"https:\/\/www.donga.com\/news\/article\/all\/20221003\/115774604\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003454303?sid=101",
+			"description":"인천 서구 ‘e편한세상시티<b>청라<\/b>’(오피스텔), 충북 음성군 ‘음성자이센트럴시티’, 전남 광양시 ‘더샵광양라크포엠’ 등도 청약을 받는다. 본보기집은 경기 평택시 장당동 평택석정공원화성파크드림, 인천 중구... ",
+			"pubDate":"Tue, 04 Oct 2022 03:03:00 +0900"
+		},
 		{
 			"title":"대구 중구청, 화재대피용 산소발생 방연마스크 배부",
 			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=396566&part_idx=170",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=381309",
 			"description":"주요 단지는 △인천 서구 <b>청라<\/b>동 &apos;e편한세상시티<b>청라<\/b>&apos;(오피스텔) △충북 음성군 금왕읍 &apos;음성자이센트럴시티&apos; △전남 광양시 마동 &apos;더샵광양라크포엠&apos; 등에서 청약을 진행한다. 그 중 GS건설은 충북에서... ",
 			"pubDate":"Mon, 03 Oct 2022 09:52:00 +0900"
-		},
-		{
-			"title":"&apos;가을의 여왕&apos; 김수지, 하나금융 대회서 2주 연속 우승",
-			"originallink":"http:\/\/www.kbsm.net\/news\/view.php?idx=365640",
-			"link":"http:\/\/www.kbsm.net\/news\/view.php?idx=365640",
-			"description":"2일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 하나금융그룹 챔피언십 최종라운드에 김수지는 버디 4개에 보기 3개로 1타를 줄여 최종 합계 14언더파 274타로 공동 2위인 홍정민(20)과 이예원(19)을 1타 차로 제쳤다.... ",
-			"pubDate":"Mon, 03 Oct 2022 07:08:00 +0900"
 		}
 	]
 }
