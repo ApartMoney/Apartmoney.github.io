@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 03 Oct 2022 18:30:02 +0900",
-	"total":189492,
+	"lastBuildDate":"Mon, 03 Oct 2022 18:40:03 +0900",
+	"total":189493,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[영종 차별의 섬에서 기회의 땅으로] ① 르포…대규모 개발 현장의 내면",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1163709",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1163709",
+			"description":"송도, <b>청라<\/b> 등 인천의 다른 국제도시에 비해 더딘 개발 속도도 영종을 이야기할 때면 꼬리표처럼 따라붙는 이야기다. 이처럼 누구나 알지만 모르는 영종도의 내면을, 영종도 속 대표적인 대형 개발 현장들을 지난... ",
+			"pubDate":"Mon, 03 Oct 2022 18:36:00 +0900"
+		},
 		{
 			"title":"속초 출신 한진선, 하나금융그룹 챔피언십 공동 6위",
 			"originallink":"http:\/\/www.kwnews.co.kr\/page\/view\/2022100317313689477",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003652468",
 			"description":"박혜준이 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b> 골프크럽(파72\/6,745야드)에서 진행된 &apos;하나금융그룹 챔피언십(총상금 15억 원, 우승 상금 2억 7천만 원) 4라운드 10번 티에서 티샷 준비를 하고 있다.",
 			"pubDate":"Mon, 03 Oct 2022 00:32:00 +0900"
-		},
-		{
-			"title":"‘역습의 김수지’ 상금왕도, 대상포인트도 모른다",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1158449\/?sc=Naver",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=119&aid=0002644548",
-			"description":"김수지는 2일 인천 베어즈베스트 <b>청라<\/b>에서 열린 KLPGA 투어 하나금융그룹 챔피언십 최종 라운드서 1언더 71타를 적어냈다. 이로써 14언더파 274타를 기록한 김수지는 이날 2오버파로 부진했던 1~3라운드 선두 홍정민을... ",
-			"pubDate":"Mon, 03 Oct 2022 00:16:00 +0900"
 		}
 	]
 }
