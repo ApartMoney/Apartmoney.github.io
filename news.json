@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 03 Oct 2022 15:40:02 +0900",
-	"total":189489,
+	"lastBuildDate":"Mon, 03 Oct 2022 15:50:02 +0900",
+	"total":189490,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"눈길끄는 톱스타 박민지, 최혜진의 시즌 첫 기권··· 원기회복 발판 기대",
+			"originallink":"http:\/\/sports.khan.co.kr\/news\/sk_index.html?art_id=202210031543003&sec_id=530201&pt=nv",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=144&aid=0000840096",
+			"description":"한국여자프로골프(KLPGA) 투어에서 올해 유일하게 3승을 넘어 4승까지 챙긴 ‘2년 연속 대세’ 박민지는 지난주 인천 베어즈베스트 <b>청라<\/b>GC에서 열린 하나금융그룹 챔피언십(총상금 15억원)에서 3라운드를 마친 뒤 감기... ",
+			"pubDate":"Mon, 03 Oct 2022 15:45:00 +0900"
+		},
 		{
 			"title":"하락세 깊어지는 인천 아파트값…송도 4억·부평 2억 ‘뚝’",
 			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2177995",
@@ -33,17 +40,17 @@
 			"pubDate":"Mon, 03 Oct 2022 13:44:00 +0900"
 		},
 		{
-			"title":"인천서구문화재단, 5∼30일 이색공간 10곳에서 &apos;서구가 갤러리&apos; 팝업전시",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=998025",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=998025",
-			"description":"검단에서는 ▶자미궁 제빵소-강혜정, 카페 요일-청화, 검암경서동에서는 ▶카페 아라-김문선, 인천 2호선 검암역 환승통로-이시내, <b>청라<\/b>에서는 ▶아날로그 클래식-이기라, ▶카페 리본-문지혜, 가정·석남에서는... ",
-			"pubDate":"Mon, 03 Oct 2022 13:30:00 +0900"
-		},
-		{
 			"title":"인천 <b>청라<\/b>국제도시발전협의회, 서구청에 취약계층 위한 성금 및 물품 전달",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=998015",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=998015",
 			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천 <b>청라<\/b>국제도시발전협의회는 서구청에 이웃돕기 성금과 물품(2천만 원 상당)을 전달했다고 3일 전했다. <b>청라<\/b>국제도시발전협의회는 <b>청라<\/b> 거주 기업체, 자영업 대표로 구성된... ",
+			"pubDate":"Mon, 03 Oct 2022 13:30:00 +0900"
+		},
+		{
+			"title":"인천서구문화재단, 5∼30일 이색공간 10곳에서 &apos;서구가 갤러리&apos; 팝업전시",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=998025",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=998025",
+			"description":"검단에서는 ▶자미궁 제빵소-강혜정, 카페 요일-청화, 검암경서동에서는 ▶카페 아라-김문선, 인천 2호선 검암역 환승통로-이시내, <b>청라<\/b>에서는 ▶아날로그 클래식-이기라, ▶카페 리본-문지혜, 가정·석남에서는... ",
 			"pubDate":"Mon, 03 Oct 2022 13:30:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005332017",
 			"description":"2일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 열린 대회 최종일 김수지는 한 타를 줄여 최종합계 274타 14언더파로 우승트로피의 주인공이 되었다.우승상금 2억 7천만 원.통산4승.",
 			"pubDate":"Mon, 03 Oct 2022 00:00:00 +0900"
-		},
-		{
-			"title":"[포토]김수지 &apos;가을의 여왕입니다&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02132006632488984",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005332016",
-			"description":"2일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,745야드)에서 열린 대회 최종일 김수지는 한 타를 줄여 최종합계 274타 14언더파로 우승트로피의 주인공이 되었다.우승상금 2억 7천만 원.통산4승.",
-			"pubDate":"Sun, 02 Oct 2022 23:59:00 +0900"
 		}
 	]
 }
