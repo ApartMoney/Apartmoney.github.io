@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 04 Oct 2022 13:40:02 +0900",
-	"total":189526,
+	"lastBuildDate":"Tue, 04 Oct 2022 13:50:02 +0900",
+	"total":189527,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"가을 이사철 본격 시작…이달 전국 아파트 입주물량 2만6000가구",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20221004010000294",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20221004010000294",
+			"description":"주요 단지로는 △전남 나주시 빛가람코오롱하늘채(1480가구) △부산 해운대구 우동 해운대센트럴푸르지오(548가구) △전남 여수시 신월동 경도비전지에이그린웰(391가구) △대구 중구 동산동 <b>청라<\/b>언덕역서한포레... ",
+			"pubDate":"Tue, 04 Oct 2022 13:40:00 +0900"
+		},
 		{
 			"title":"DL건설, ‘e편한세상 시티 <b>청라<\/b>’ 오피스텔 4일 청약접수",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/26C7X9TINX",
@@ -61,17 +68,17 @@
 			"pubDate":"Tue, 04 Oct 2022 11:16:00 +0900"
 		},
 		{
-			"title":"하나은행, 퇴직연금 디폴트옵션 세미나 개최",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1163724",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1163724",
-			"description":"인천 <b>청라<\/b>국제도시로 이전에 나선 하나금융그룹의 하나은행은 DC형(확정기여형) 퇴직연금제도를 운용 중인 기업의 퇴직연금 담당자를 대상으로 디폴트옵션(사전지정운용제도)에 대한 정보제공과 가입자의 투자전략을... ",
-			"pubDate":"Tue, 04 Oct 2022 11:06:00 +0900"
-		},
-		{
 			"title":"전셋값 더 빠질라…10월 전국 아파트 2만6000여가구 입주 [부동산360]",
 			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20221004000325",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002048379?sid=101",
 			"description":"주요 단지로는 ▷전남 나주시 빛가람코오롱하늘채(1480가구) ▷부산 해운대구 우동 해운대센트럴푸르지오(548가구) ▷전남 여수시 신월동 경도비전지에이그린웰(391가구) ▷대구 중구 동산동 <b>청라<\/b>언덕역서한포... ",
+			"pubDate":"Tue, 04 Oct 2022 11:06:00 +0900"
+		},
+		{
+			"title":"하나은행, 퇴직연금 디폴트옵션 세미나 개최",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1163724",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1163724",
+			"description":"인천 <b>청라<\/b>국제도시로 이전에 나선 하나금융그룹의 하나은행은 DC형(확정기여형) 퇴직연금제도를 운용 중인 기업의 퇴직연금 담당자를 대상으로 디폴트옵션(사전지정운용제도)에 대한 정보제공과 가입자의 투자전략을... ",
 			"pubDate":"Tue, 04 Oct 2022 11:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221003010000078",
 			"description":"<b>청라<\/b>국제도시와 맞닿아 있어 인근에 이미 조성된 인프라를 공유할 수 있다. 경인고속도로, 인천국제공항고속도로, 수도권 제2순환고속도로가 단지 주변에 있어 서울 접근성이 좋다. 인천도시철도 2호선 서구청역도... ",
 			"pubDate":"Mon, 03 Oct 2022 20:58:00 +0900"
-		},
-		{
-			"title":"&apos;런던 타워브릿지·시드니 하버브릿지처럼&apos;… 제3연륙교 &apos;글로벌 관광명소&apos; 청...",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221003010000120",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221003010000120",
-			"description":"\/인천경제청 제공  인천 영종도와 <b>청라<\/b>국제도시를 잇는 제3연륙교가 글로벌 관광 명소로 거듭날 전망이다.3일 인천시와 인천경제자유구역청에 따르면 지난달 30일 송도국제도시 G타워에서 유정복 인천시장이 참석한... ",
-			"pubDate":"Mon, 03 Oct 2022 20:42:00 +0900"
 		}
 	]
 }
