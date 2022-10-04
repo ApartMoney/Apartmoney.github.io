@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 04 Oct 2022 17:50:03 +0900",
-	"total":189572,
+	"lastBuildDate":"Tue, 04 Oct 2022 18:00:02 +0900",
+	"total":189573,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[포토뉴스] 빗길 &apos;안전운전&apos;은 필수",
+			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022100417530692504",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000777888?sid=102",
+			"description":"가을비가 내린 4일 오전 10시 8분쯤 대구 중구 신남네거리 도시철도 2호선 <b>청라<\/b>언덕역 2번출구 앞 도로에 덤프트럭이 빗길에 미끄러지면서 지하철역 출입구를 들이박았다. 이날 사고로 인명피해는 없었지만 유동인구가... ",
+			"pubDate":"Tue, 04 Oct 2022 17:54:00 +0900"
+		},
 		{
 			"title":"인천시, 민선8기 120대 공약 발표",
 			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/1969294.htm",
@@ -54,17 +61,17 @@
 			"pubDate":"Tue, 04 Oct 2022 16:53:00 +0900"
 		},
 		{
-			"title":"민선8기 인천시 120대 공약사업 실천계획 보고회 개최",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20221004010000608",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20221004010000608",
-			"description":"조성 ▲<b>청라<\/b> 돔 야구장 건립 ▲정수장 고도처리 및 개선 등이 보고됐다. 공약 추진을 위해 임기 내 필요한 예산은 38조1100억 원으로 추산된다. 이 중 국비는 11조4100억 원, 시비는 13조900억 원, 군·구비 2조700억 원, 민자... ",
-			"pubDate":"Tue, 04 Oct 2022 16:52:00 +0900"
-		},
-		{
 			"title":"인천시, 민선8기 120대 공약사업 윤곽 드러나",
 			"originallink":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=368100",
 			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=368100",
 			"description":"조성 ▲<b>청라<\/b> 돔 야구장 건립 ▲정수장 고도처리 및 개선 등이 보고됐다. 공약 추진을 위해 임기 내 필요한 예산은 38조 1,100억 원으로 추산되고, 이 중 국비는 11조 4,100억 원, 시비는 13조 900억 원, 군·구비 2조 700억 원... ",
+			"pubDate":"Tue, 04 Oct 2022 16:52:00 +0900"
+		},
+		{
+			"title":"민선8기 인천시 120대 공약사업 실천계획 보고회 개최",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20221004010000608",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20221004010000608",
+			"description":"조성 ▲<b>청라<\/b> 돔 야구장 건립 ▲정수장 고도처리 및 개선 등이 보고됐다. 공약 추진을 위해 임기 내 필요한 예산은 38조1100억 원으로 추산된다. 이 중 국비는 11조4100억 원, 시비는 13조900억 원, 군·구비 2조700억 원, 민자... ",
 			"pubDate":"Tue, 04 Oct 2022 16:52:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=409374",
 			"description":"조성 ▲<b>청라<\/b> 돔 야구장 건립 ▲정수장 고도처리 및 개선 등이 보고됐다. 공약 추진을 위해 임기 내 필요한 예산은 38조 1,100억 원으로 추산되고, 이 중 국비는 11조 4,100억 원, 시비는 13조 900억 원, 군·구비 2조 700억 원... ",
 			"pubDate":"Tue, 04 Oct 2022 15:40:00 +0900"
-		},
-		{
-			"title":"유정복 인천시장, 120대 공약사업 발표… 38조 예산 추산",
-			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20221004000661",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002048602?sid=102",
-			"description":"조성 ▷<b>청라<\/b> 돔 야구장 건립 등을 추진한다. 공약 추진을 위해 필요한 예산은 38조1100억원으로 추산되고 이 중 국비는 11조4100억원, 시비는 13조900억원, 군·구비 2조700억원, 민자 및 기타가 11조5400억원이 소요될... ",
-			"pubDate":"Tue, 04 Oct 2022 15:38:00 +0900"
 		}
 	]
 }
