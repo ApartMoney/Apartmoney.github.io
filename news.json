@@ -1,21 +1,21 @@
 {
-	"lastBuildDate":"Thu, 06 Oct 2022 11:50:02 +0900",
+	"lastBuildDate":"Thu, 06 Oct 2022 12:00:03 +0900",
 	"total":190158,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"유정복 시장, 경제규모 100조 시대 달성에 올인...제2의 도시로 도약",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=409411",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=409411",
-			"description":"문화·관광·체육 분야에는 <b>청라<\/b> 돔구장 건설, 문화예술인 종합지원 플랫폼 구축, 해양관광 실크로드 개척... 이어 수도권 3자 협의체 구성과 <b>청라<\/b>스타필드 돔구장 추진, 삼성바이오로직스 바이오의약 시설투자 유치... ",
-			"pubDate":"Thu, 06 Oct 2022 11:46:00 +0900"
-		},
-		{
 			"title":"LH, 인천·경기·전북서 ‘공공분양·임대주택’ 1046호 공급",
 			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202210061143555267191f6c6e_12",
 			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202210061143555267191f6c6e_12",
 			"description":"송도·<b>청라<\/b> 및 서울 서부권 등 수도권 접근성이 높다. 특히 이번 공급되는 A60블록은 영종~<b>청라<\/b>를 잇는 제3연륙교(2025년 개통예정) 초입에 위치한 단지로서 개통 시 교통 편의성이 더욱 높아질 것으로 기대된다는... ",
+			"pubDate":"Thu, 06 Oct 2022 11:46:00 +0900"
+		},
+		{
+			"title":"유정복 시장, 경제규모 100조 시대 달성에 올인...제2의 도시로 도약",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=409411",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=409411",
+			"description":"문화·관광·체육 분야에는 <b>청라<\/b> 돔구장 건설, 문화예술인 종합지원 플랫폼 구축, 해양관광 실크로드 개척... 이어 수도권 3자 협의체 구성과 <b>청라<\/b>스타필드 돔구장 추진, 삼성바이오로직스 바이오의약 시설투자 유치... ",
 			"pubDate":"Thu, 06 Oct 2022 11:46:00 +0900"
 		},
 		{
@@ -40,6 +40,13 @@
 			"pubDate":"Thu, 06 Oct 2022 11:40:00 +0900"
 		},
 		{
+			"title":"하나금융 <b>청라<\/b> 그룹헤드쿼터, 뉴욕서 &apos;2022 디자인 혁신상&apos; 1위 선정",
+			"originallink":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=20362",
+			"link":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=20362",
+			"description":"하나금융그룹은 <b>청라<\/b>에 조성 중인 하나드림타운 내 그룹헤드쿼터 디자인으로 글로벌 혁신 어워드인 &quot;2022... 하나금융그룹은 지난해 글로벌 건축 디자인상 3관왕을 달성하고, 이번 글로벌 디자인 혁신상에서 <b>청라<\/b>... ",
+			"pubDate":"Thu, 06 Oct 2022 11:38:00 +0900"
+		},
+		{
 			"title":"하나금융 &apos;<b>청라<\/b> 그룹헤드쿼터&apos;, 글로벌 디자인 혁신상 1위",
 			"originallink":"http:\/\/www.meconomynews.com\/news\/articleView.html?idxno=71317",
 			"link":"http:\/\/www.meconomynews.com\/news\/articleView.html?idxno=71317",
@@ -58,13 +65,6 @@
 			"originallink":"https:\/\/www.jejutwn.com\/news\/article.html?no=148049",
 			"link":"https:\/\/www.jejutwn.com\/news\/article.html?no=148049",
 			"description":"이에 따라 10월 본격 분양에 돌입한 ‘<b>청라<\/b> SK V1’에도 사옥을 마련하려는 기업들의 관심이 쏠리고 있다. 인천광역시 서구 <b>청라<\/b>동에 들어서며, SK건설에서 사명을 바꿔 새 단장한 SK에코플랜트가 시공한다. 지하 2층... ",
-			"pubDate":"Thu, 06 Oct 2022 11:38:00 +0900"
-		},
-		{
-			"title":"하나금융 <b>청라<\/b> 그룹헤드쿼터, 뉴욕서 &apos;2022 디자인 혁신상&apos; 1위 선정",
-			"originallink":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=20362",
-			"link":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=20362",
-			"description":"하나금융그룹은 <b>청라<\/b>에 조성 중인 하나드림타운 내 그룹헤드쿼터 디자인으로 글로벌 혁신 어워드인 &quot;2022... 하나금융그룹은 지난해 글로벌 건축 디자인상 3관왕을 달성하고, 이번 글로벌 디자인 혁신상에서 <b>청라<\/b>... ",
 			"pubDate":"Thu, 06 Oct 2022 11:38:00 +0900"
 		},
 		{
@@ -89,17 +89,17 @@
 			"pubDate":"Thu, 06 Oct 2022 11:32:00 +0900"
 		},
 		{
-			"title":"하나금융 <b>청라<\/b> 그룹헤드쿼터, 글로벌 ‘디자인 혁신상’에서 1위",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1159735\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002645725?sid=101",
-			"description":"하나금융그룹은 <b>청라<\/b>에 조성중인 하나드림타운 내 그룹헤드쿼터 디자인으로 세계적 명성의 글로벌... <b>청라<\/b> 그룹헤드쿼터 디자인의 우수성을 다시 한번 전 세계에 알린 쾌거라는 설명이다. 뉴욕에서 개최된 이번... ",
-			"pubDate":"Thu, 06 Oct 2022 11:26:00 +0900"
-		},
-		{
 			"title":"하나금융 &apos;<b>청라<\/b> 그룹헤드쿼터&apos; 혁신적 디자인 세계서 인정",
 			"originallink":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=240167",
 			"link":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=240167",
 			"description":"하나금융그룹 <b>청라<\/b> 그룹헤드쿼터 전경. 사진\/하나금융그룹 하나금융그룹은 <b>청라<\/b>에 조성중인 하나드림타운 내 그룹헤드쿼터 디자인으로 세계적 명성의 글로벌 혁신 어워드인 &apos;2022 디자인 혁신상(Innovation by... ",
+			"pubDate":"Thu, 06 Oct 2022 11:26:00 +0900"
+		},
+		{
+			"title":"하나금융 <b>청라<\/b> 그룹헤드쿼터, 글로벌 ‘디자인 혁신상’에서 1위",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1159735\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002645725?sid=101",
+			"description":"하나금융그룹은 <b>청라<\/b>에 조성중인 하나드림타운 내 그룹헤드쿼터 디자인으로 세계적 명성의 글로벌... <b>청라<\/b> 그룹헤드쿼터 디자인의 우수성을 다시 한번 전 세계에 알린 쾌거라는 설명이다. 뉴욕에서 개최된 이번... ",
 			"pubDate":"Thu, 06 Oct 2022 11:26:00 +0900"
 		},
 		{
