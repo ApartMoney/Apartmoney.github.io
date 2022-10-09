@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 09 Oct 2022 13:50:02 +0900",
-	"total":190386,
+	"lastBuildDate":"Sun, 09 Oct 2022 14:00:03 +0900",
+	"total":190387,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"쉽게 글 배우라고 만든 한글인데..도로명·아파트명에 정체불명 외국어가 가득",
+			"originallink":"http:\/\/kpenews.com\/View.aspx?No=2561612",
+			"link":"http:\/\/kpenews.com\/View.aspx?No=2561612",
+			"description":"대표적으로 인천시 서구 <b>청라<\/b>국제도시. 국제도시라는 이름을 내건 탓인지 <b>청라<\/b>에는 보석과 관련된 도로표지판이 곳곳에 걸려 있다. 루비로, 사파이어로, 에메랄드로, 크리스탈로 등 모두 외래어로 된 보석명칭을... ",
+			"pubDate":"Sun, 09 Oct 2022 13:58:00 +0900"
+		},
 		{
 			"title":"호반건설, 영종국제도시 &apos;호반써밋 스카이센트럴 2차&apos; 분양",
 			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2026181",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=103049",
 			"description":"<b>청라<\/b> SK V1 투시도 인천광역시 서구 <b>청라<\/b>동에 들어서는 지식산업센터 &apos;<b>청라<\/b> SK V1&apos;의 분양이 진행된다. SK건설에서 사명을 바꿔 새 단장한 SK에코플랜트가 시공을 맡은 가운데, 지하 2층~지상 10층 규모에 지식산업센터... ",
 			"pubDate":"Fri, 07 Oct 2022 13:12:00 +0900"
-		},
-		{
-			"title":"주택시장 이끄는 GS건설 &apos;자이(Xi)&apos;, 대구 남구 대명동에 &apos;대명자이 그랜드시...",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=262251",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=262251",
-			"description":"실제 단지가 위치하는 달구벌대로 주변은 중구 대신동 &apos;대신센트럴자이(1,147세대)&apos;, 중구 남산동 &apos;<b>청라<\/b>힐스자이(947세대)&apos; 등 자이 브랜드 대단지가 속속 모습을 드러내고 있고, 이번 대명자이 그랜드시티가 들어서면 약... ",
-			"pubDate":"Fri, 07 Oct 2022 12:46:00 +0900"
 		}
 	]
 }
