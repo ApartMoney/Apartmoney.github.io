@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 14 Oct 2022 15:30:03 +0900",
-	"total":190545,
+	"lastBuildDate":"Fri, 14 Oct 2022 15:40:02 +0900",
+	"total":190546,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천교통공사 사장 김성완·인천시설공단 이사장 김종필 임명",
+			"originallink":"http:\/\/www.ifm.kr\/news\/345596",
+			"link":"http:\/\/www.ifm.kr\/news\/345596",
+			"description":"인천교통공사는 인천도시철도, 준공영제 시내버스, <b>청라<\/b>-가양 간선급행버스(BRT) 등을 운영하는 종합교통 공기업입니다. 인천시는 또 인천시설공단 신임 이사장에 김종필(52) 전 남동구 도시관리공단 이사장을... ",
+			"pubDate":"Fri, 14 Oct 2022 15:38:00 +0900"
+		},
 		{
 			"title":"[국감초점] 마포 이어 인천까지…&apos;서울 쓰레기 처리&apos; 논란 확대",
 			"originallink":"https:\/\/www.news1.kr\/articles\/4832657",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20221014010003310",
 			"description":"인천교통공사는 연평균 1억4000만 명의 시민들이 이용하는 전국 최초의 종합교통공기업으로, 인천 도시철도 1호선, 2호선, 7호선(인천·부천 구간)을 비롯해 준공영제 시내버스, <b>청라<\/b>-가양 BRT, GRT, 장애인 콜택시... ",
 			"pubDate":"Fri, 14 Oct 2022 11:00:00 +0900"
-		},
-		{
-			"title":"인천시설공단 제9대 김종필 이사장 임명",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=409527",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=409527",
-			"description":"송도, <b>청라<\/b>, 영종의 도시기반 시설물을 비롯해 국내 명소로 자리 잡은 송도센트럴파크, <b>청라<\/b>호수공원, 씨사이드파크 등을 운영·관리하며 시민의 편익과 복리증진에 힘써왔다. 또 인천가족공원, 아시아드주경기장... ",
-			"pubDate":"Fri, 14 Oct 2022 10:34:00 +0900"
 		}
 	]
 }
