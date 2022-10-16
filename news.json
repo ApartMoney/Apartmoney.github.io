@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 17 Oct 2022 07:00:02 +0900",
-	"total":190585,
+	"lastBuildDate":"Mon, 17 Oct 2022 07:10:02 +0900",
+	"total":190586,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[이번주 기획재정부 및 경제부처 일정]",
+			"originallink":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4237856",
+			"link":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4237856",
+			"description":"개원식(<b>청라<\/b>) ▲11:20 2차관 국감 현장시찰(경주) ※제10차 소재부품장비 경쟁력강화위원회 개최(19일 조간) ※한국공기과학시험연구원 개원식(19일 조간) ※한-필리핀, 핵심 공급망 및 에너지, 친환경자동차... ",
+			"pubDate":"Mon, 17 Oct 2022 07:06:00 +0900"
+		},
 		{
 			"title":"인천시민 10명 중 8명 제물포르네상스 공감",
 			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/10\/16\/20221016515183.html?OutUrl=naver",
@@ -33,17 +40,17 @@
 			"pubDate":"Sun, 16 Oct 2022 20:04:00 +0900"
 		},
 		{
-			"title":"개청 19주년 맞은 인천경제청 &quot;최상의 정주여건 갖춘 도시로&quot;",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=999680",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=999680",
-			"description":"그는 앞으로 ▶민선8기 핵심 공약인 제물포 르네상스 등과 연계된 경제자유구역 지정 ▶송도 6·8공구 개발, <b>청라<\/b>시티타워 등 각종 현안 해결 ▶스타트업 육성을 통한 고용 창출 등 미래 성장 동력 확보 ▶송도... ",
-			"pubDate":"Sun, 16 Oct 2022 19:58:00 +0900"
-		},
-		{
 			"title":"김종필 인천시설공단 이사장 취임 &quot;낮은 자세 경청&quot;",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=999677",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=999677",
 			"description":"송도센트럴공원, <b>청라<\/b>호수공원, 씨사이드파크로 대표되는 인천경제자유구역 내 명소나 도시기반시설물은 물론 인천가족공원, 아시아드주경기장, 공영주차장, 지하도상가와 같은 공공시설물을 관리하며 시민 안전과... ",
+			"pubDate":"Sun, 16 Oct 2022 19:58:00 +0900"
+		},
+		{
+			"title":"개청 19주년 맞은 인천경제청 &quot;최상의 정주여건 갖춘 도시로&quot;",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=999680",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=999680",
+			"description":"그는 앞으로 ▶민선8기 핵심 공약인 제물포 르네상스 등과 연계된 경제자유구역 지정 ▶송도 6·8공구 개발, <b>청라<\/b>시티타워 등 각종 현안 해결 ▶스타트업 육성을 통한 고용 창출 등 미래 성장 동력 확보 ▶송도... ",
 			"pubDate":"Sun, 16 Oct 2022 19:58:00 +0900"
 		},
 		{
@@ -68,17 +75,17 @@
 			"pubDate":"Sun, 16 Oct 2022 19:08:00 +0900"
 		},
 		{
-			"title":"인천경제청 개청 19주년 &quot;IFEZ, 세계 경제 중심으로&quot;",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165397",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165397",
-			"description":"또한 향후 ▲민선 8기 핵심 공약인 제물포 르네상스 등과 연계된 경제자유구역 지정 ▲송도 6·8공구 개발, <b>청라<\/b>시티타워 등 각종 현안 해결 ▲스타트업 육성을 통한 고용창출 등 미래 성장 동력 확보 ▲송도... ",
-			"pubDate":"Sun, 16 Oct 2022 18:26:00 +0900"
-		},
-		{
 			"title":"인천시 유럽한인문화타운 조성·재외동포청 유치 합심",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165398",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165398",
 			"description":"양해각서에는 인천경제자유구역(IFEZ)인 송도, <b>청라<\/b>, 영종 국제도시 중 한곳에 유럽한인문화타운 조성을 추진하고 재외동포청 인천 유치를 위해 상호 협력한다는 내용이 담겼다. 최근 행정안전부가 재외동포청 신설을... ",
+			"pubDate":"Sun, 16 Oct 2022 18:26:00 +0900"
+		},
+		{
+			"title":"인천경제청 개청 19주년 &quot;IFEZ, 세계 경제 중심으로&quot;",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165397",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165397",
+			"description":"또한 향후 ▲민선 8기 핵심 공약인 제물포 르네상스 등과 연계된 경제자유구역 지정 ▲송도 6·8공구 개발, <b>청라<\/b>시티타워 등 각종 현안 해결 ▲스타트업 육성을 통한 고용창출 등 미래 성장 동력 확보 ▲송도... ",
 			"pubDate":"Sun, 16 Oct 2022 18:26:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202210142048451300336",
 			"description":"인천교통공사는 연평균 1억 4000만 명의 시민들이 이용하는 전국 최초의 종합교통공기업으로, 인천 도시철도 1호선, 2호선, 7호선(인천ㆍ부천 구간)을 비롯해 준공영제 시내버스, <b>청라<\/b>-가양 BRT, GRT, 장애인 콜택시... ",
 			"pubDate":"Sun, 16 Oct 2022 10:02:00 +0900"
-		},
-		{
-			"title":"IFEZ 송도·영종·<b>청라<\/b> 블록체인 허브 만든다",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20221013580085",
-			"link":"https:\/\/www.kyeonggi.com\/article\/20221013580085",
-			"description":"디지털 생태계 조성 추진 인천시가 인천경제자유구역(IFEZ)인 송도·영종·<b>청라<\/b>국제도시를 ‘블록체인 경제구역’으로 지정하고 블록체인 기업의 허브도시로 나아간다. 15일 시에 따르면 오는 2026년까지 총 사업비... ",
-			"pubDate":"Sun, 16 Oct 2022 09:00:00 +0900"
 		}
 	]
 }
