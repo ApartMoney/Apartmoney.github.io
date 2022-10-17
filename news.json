@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 17 Oct 2022 09:30:02 +0900",
-	"total":190591,
+	"lastBuildDate":"Mon, 17 Oct 2022 09:40:02 +0900",
+	"total":190592,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"IFEZ 스마트시티운영센터, 실시간 모니터링…시민안전 지켜",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20221017_0002049998&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011478076?sid=102",
+			"description":"연수구 송도동 G타워에 위치한 IFEZ 스마트시티 운영센터는 송도 1457대, <b>청라<\/b> 504대, 영종 151대 등 총 2112대의 폐쇄회로(CC)TV를 가동하며 365일 24시간 체제로 운영되고 있다. 특히 CCTV 실시간 영상 감시와 유관기관... ",
+			"pubDate":"Mon, 17 Oct 2022 09:30:00 +0900"
+		},
 		{
 			"title":"인천경제청, IFEZ 스마트시티운영센터 &apos;안전 지킴이&apos; 역할 톡톡 밝혀",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20221017091415067",
@@ -75,17 +82,17 @@
 			"pubDate":"Sun, 16 Oct 2022 20:04:00 +0900"
 		},
 		{
-			"title":"개청 19주년 맞은 인천경제청 &quot;최상의 정주여건 갖춘 도시로&quot;",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=999680",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=999680",
-			"description":"그는 앞으로 ▶민선8기 핵심 공약인 제물포 르네상스 등과 연계된 경제자유구역 지정 ▶송도 6·8공구 개발, <b>청라<\/b>시티타워 등 각종 현안 해결 ▶스타트업 육성을 통한 고용 창출 등 미래 성장 동력 확보 ▶송도... ",
-			"pubDate":"Sun, 16 Oct 2022 19:58:00 +0900"
-		},
-		{
 			"title":"김종필 인천시설공단 이사장 취임 &quot;낮은 자세 경청&quot;",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=999677",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=999677",
 			"description":"송도센트럴공원, <b>청라<\/b>호수공원, 씨사이드파크로 대표되는 인천경제자유구역 내 명소나 도시기반시설물은 물론 인천가족공원, 아시아드주경기장, 공영주차장, 지하도상가와 같은 공공시설물을 관리하며 시민 안전과... ",
+			"pubDate":"Sun, 16 Oct 2022 19:58:00 +0900"
+		},
+		{
+			"title":"개청 19주년 맞은 인천경제청 &quot;최상의 정주여건 갖춘 도시로&quot;",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=999680",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=999680",
+			"description":"그는 앞으로 ▶민선8기 핵심 공약인 제물포 르네상스 등과 연계된 경제자유구역 지정 ▶송도 6·8공구 개발, <b>청라<\/b>시티타워 등 각종 현안 해결 ▶스타트업 육성을 통한 고용 창출 등 미래 성장 동력 확보 ▶송도... ",
 			"pubDate":"Sun, 16 Oct 2022 19:58:00 +0900"
 		},
 		{
@@ -110,17 +117,17 @@
 			"pubDate":"Sun, 16 Oct 2022 19:08:00 +0900"
 		},
 		{
-			"title":"인천시 유럽한인문화타운 조성·재외동포청 유치 합심",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165398",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165398",
-			"description":"양해각서에는 인천경제자유구역(IFEZ)인 송도, <b>청라<\/b>, 영종 국제도시 중 한곳에 유럽한인문화타운 조성을 추진하고 재외동포청 인천 유치를 위해 상호 협력한다는 내용이 담겼다. 최근 행정안전부가 재외동포청 신설을... ",
-			"pubDate":"Sun, 16 Oct 2022 18:26:00 +0900"
-		},
-		{
 			"title":"인천경제청 개청 19주년 &quot;IFEZ, 세계 경제 중심으로&quot;",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165397",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165397",
 			"description":"또한 향후 ▲민선 8기 핵심 공약인 제물포 르네상스 등과 연계된 경제자유구역 지정 ▲송도 6·8공구 개발, <b>청라<\/b>시티타워 등 각종 현안 해결 ▲스타트업 육성을 통한 고용창출 등 미래 성장 동력 확보 ▲송도... ",
+			"pubDate":"Sun, 16 Oct 2022 18:26:00 +0900"
+		},
+		{
+			"title":"인천시 유럽한인문화타운 조성·재외동포청 유치 합심",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165398",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165398",
+			"description":"양해각서에는 인천경제자유구역(IFEZ)인 송도, <b>청라<\/b>, 영종 국제도시 중 한곳에 유럽한인문화타운 조성을 추진하고 재외동포청 인천 유치를 위해 상호 협력한다는 내용이 담겼다. 최근 행정안전부가 재외동포청 신설을... ",
 			"pubDate":"Sun, 16 Oct 2022 18:26:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202210142114443460346",
 			"description":"그는 앞으로 △민선 8기 핵심 공약인 제물포 르네상스 등과 연계된 경제자유구역 지정 △송도 6·8공구 개발, <b>청라<\/b>시티타워 등 각종 현안 해결 △스타트업 육성을 통한 고용창출 등 미래 성장 동력 확보 △송도... ",
 			"pubDate":"Sun, 16 Oct 2022 12:42:00 +0900"
-		},
-		{
-			"title":"[정부 주요 일정] 경제·사회부처 주간 일정 (10월 17일 ~ 21일)",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2182099",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2182099",
-			"description":"개원식(<b>청라<\/b>) △산업부 2차관 11:20 국감 현장시찰(경주) △“공공기관 에너지 다이어트 10” 18일부터 시행 △2022 한국산업대전 개막식 개최 △유럽 원자재법 제정 동향 관련 간담회 개최 △전기안전관리법」... ",
-			"pubDate":"Sun, 16 Oct 2022 10:06:00 +0900"
 		}
 	]
 }
