@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 17 Oct 2022 14:20:02 +0900",
-	"total":190611,
+	"lastBuildDate":"Mon, 17 Oct 2022 14:30:02 +0900",
+	"total":190612,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"시중은행 “카카오 ‘먹통’ 촉각...데이터센터 분산・백업 철저히”",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1163016\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002648717?sid=101",
+			"description":"또 하나은행은 인천 <b>청라<\/b>, 경기 분당에 우리은행은 상암(주센터) 및 분당(재복구센터)에 유사한 방식으로 데이터를 관리해오고 있다. 이들 은행들은 규정에 따라 매년 1회 이상 재해 발생 대비 훈련을 실시해오고 있다.... ",
+			"pubDate":"Mon, 17 Oct 2022 14:29:00 +0900"
+		},
 		{
 			"title":"인천 서구, <b>청라<\/b>‧가정동서 배달음식 다회용기 이용 서비스",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=91448",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221016010002269",
 			"description":"경제자유구역 각 지구별 FDI 현황을 보면 송도가 2천290만 달러, 영종 5천300만 달러, <b>청라<\/b>가 3천520만 달러로 집계됐다. 올해 들어 외국인 투자 신규 계약은 지난 2월 (주)코스트코 코리아가 유일하고 투자를 위한 양해각서... ",
 			"pubDate":"Sun, 16 Oct 2022 20:18:00 +0900"
-		},
-		{
-			"title":"대구 중구, 2022 중구청장배 생활체육대회 개최",
-			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2114507",
-			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2114507",
-			"description":"이번 체육대회는 다음 달 4일까지 <b>청라<\/b>국민체육센터와 대봉교 게이트볼장에서 열린다. 체조와 탁구, 게이트볼 등 11개 종목에 1600여 명의 생활체육 동호인이 참가한다. 류규하 청장은 &quot;생활체육 동호인이 함께 즐기는... ",
-			"pubDate":"Sun, 16 Oct 2022 20:04:00 +0900"
 		}
 	]
 }
