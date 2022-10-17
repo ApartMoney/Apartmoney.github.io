@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 17 Oct 2022 20:20:03 +0900",
-	"total":190642,
+	"lastBuildDate":"Mon, 17 Oct 2022 20:30:02 +0900",
+	"total":190643,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청 스마트센터, 올 1~8월 안전사고 415건 예방",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221017010002561",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221017010002561",
+			"description":"인천경제자유구역청은 송도·<b>청라<\/b>·영종국제도시에 설치돼 있는 폐쇄회로(CC)TV를 모니터링하는... 송도국제도시 G타워에 있는 스마트시티 운영센터의 관제요원들은 송도 1천457대, <b>청라<\/b> 504대, 영종 151대 등 총... ",
+			"pubDate":"Mon, 17 Oct 2022 20:28:00 +0900"
+		},
 		{
 			"title":"남부발전, 호주 주정부와 ‘수소경제 활성화’ 협력 강화",
 			"originallink":"https:\/\/www.busan.com\/view\/busan\/view.php?code=2022101717572995768",
@@ -61,17 +68,17 @@
 			"pubDate":"Mon, 17 Oct 2022 17:16:00 +0900"
 		},
 		{
-			"title":"[내일의 경제 일정] 한은, 8월 통화 및 유동성 발표",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20221017500262",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20221017500262",
-			"description":"(14:00 <b>청라<\/b>) ▲ 국토부, 2022 도시대상(15:00 서울) ▲ 중소벤처기업부, 컴업 기자브리핑(11:30 마루180) ▲ 중소벤처기업부, 소부장 경쟁력 강화위원회(14:00 정부서울청사) ▲ 중소벤처기업부, 2022 규제자유특구 챌린지... ",
-			"pubDate":"Mon, 17 Oct 2022 17:14:00 +0900"
-		},
-		{
 			"title":"IFEZ 스마트시티운영센터 ‘안전 지킴이’ 역할 톡톡",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202210171706507875",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004914060?sid=102",
 			"description":"연수구 송도동 G타워에 위치한 IFEZ 스마트시티 운영센터는 송도 1457대, <b>청라<\/b> 504대, 영종 151대 등 총 2112대의 CCTV를 가동해 365일 24시간 체제로 운영되고 있다. 특히 CCTV 실시간 영상 감시와 유관기관 공조체제 구축을... ",
+			"pubDate":"Mon, 17 Oct 2022 17:14:00 +0900"
+		},
+		{
+			"title":"[내일의 경제 일정] 한은, 8월 통화 및 유동성 발표",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20221017500262",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20221017500262",
+			"description":"(14:00 <b>청라<\/b>) ▲ 국토부, 2022 도시대상(15:00 서울) ▲ 중소벤처기업부, 컴업 기자브리핑(11:30 마루180) ▲ 중소벤처기업부, 소부장 경쟁력 강화위원회(14:00 정부서울청사) ▲ 중소벤처기업부, 2022 규제자유특구 챌린지... ",
 			"pubDate":"Mon, 17 Oct 2022 17:14:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=892260",
 			"description":"연수구 송도동 G타워에 위치한 IFEZ 스마트시티 운영센터는 송도 1,457대, <b>청라<\/b> 504대, 영종 151대 등 총 2,112대의 CCTV를 가동하며 365일 24시간 체제로 운영되고 있다. 특히 CCTV 실시간 영상 감시와 유관기관 공조체제... ",
 			"pubDate":"Mon, 17 Oct 2022 14:34:00 +0900"
-		},
-		{
-			"title":"유일로보틱스, 공장 신축위해 인천 <b>청라<\/b>에 260억원 토지 매입",
-			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=248973",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002134769?sid=004",
-			"description":"유일로보틱스는 17일 공시를 통해,  공장신축을 위한 토지 매입을 목적으로 인청 서구 <b>청라<\/b>지역의 토지를 LH로부터 260억원에 양수(매입)했다고 밝혔다. 토지규모는 2만6045 제곱미터이며, 매입 금액은 유일로보틱스... ",
-			"pubDate":"Mon, 17 Oct 2022 14:31:00 +0900"
 		}
 	]
 }
