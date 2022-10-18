@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 18 Oct 2022 14:30:02 +0900",
-	"total":190703,
+	"lastBuildDate":"Tue, 18 Oct 2022 14:40:02 +0900",
+	"total":190704,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"데이터센터 화재 &apos;먹통&apos; 촉각…은행권, 전산센터 분산 백업 강화",
+			"originallink":"http:\/\/www.newsfc.co.kr\/news\/articleView.html?idxno=54754",
+			"link":"http:\/\/www.newsfc.co.kr\/news\/articleView.html?idxno=54754",
+			"description":"하나은행은 주전산센터가 인천 <b>청라<\/b>에 위치했고 경기도 성남시 분당에 보조센터를 두고 있다. 신한은행 역시 전산센터가 외부 IDC가 아닌 신한금융 자체 전산센터를 운영하고 있다. 주전산센터는 용인시 죽전에... ",
+			"pubDate":"Tue, 18 Oct 2022 14:36:00 +0900"
+		},
 		{
 			"title":"인천 <b>청라<\/b>에 ‘한국공기과학시험연구원’ 개원",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/26CEDGIX1E",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006399587?sid=101",
 			"description":"제일건설은 살기 좋은 아파트 국무총리상 3회·2017년 국토교통부 시공능력평가 조경분야 실적 1위·2021년 신용평가(주택도시보증공사) AAA등급 등을 기록했다. 특히 인천에서는 <b>청라<\/b>·검단·루원 등에서 아파트를 공급했다.",
 			"pubDate":"Tue, 18 Oct 2022 10:36:00 +0900"
-		},
-		{
-			"title":"역 품은 오피스텔에 소비자 이목 쏠리는 이유는?",
-			"originallink":"https:\/\/news.koreadaily.com\/2022\/10\/17\/economy\/realestate\/20221017183351689.html",
-			"link":"https:\/\/news.koreadaily.com\/2022\/10\/17\/economy\/realestate\/20221017183351689.html",
-			"description":"인천 <b>청라<\/b>에서는 수도권 지하철 7호선 ‘<b>청라<\/b>연장선(공사중)’ 중 ‘시티타워역(가칭)’이 들어설 예정이다. 역 인근에는 DL건설이 ‘e편한세상 시티 <b>청라<\/b>’ 주거형 오피스텔을 공급한다. 이 단지는 인천 서구 <b>청라<\/b>동... ",
-			"pubDate":"Tue, 18 Oct 2022 10:34:00 +0900"
 		}
 	]
 }
