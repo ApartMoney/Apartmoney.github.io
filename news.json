@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 18 Oct 2022 16:00:03 +0900",
-	"total":190716,
+	"lastBuildDate":"Tue, 18 Oct 2022 16:10:02 +0900",
+	"total":190717,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘카카오 먹통’로 불거진 은행권 전산장애 우려… 2·3중 대응체계에도 매년...",
+			"originallink":"http:\/\/www.newscj.com\/article\/20221018580525",
+			"link":"http:\/\/www.newscj.com\/article\/20221018580525",
+			"description":"하나은행은 인천 <b>청라<\/b>에 주전산센터가 위치해있고 경기도 분당에 보조센터를 운영하고 있다. 농협은행은 의왕시에 메인 IT통합센터가 있다. 화재나 비상상황 발생 시 업무지속계획(BCP) 메뉴얼에 따라 백업센터 역할을... ",
+			"pubDate":"Tue, 18 Oct 2022 16:00:00 +0900"
+		},
 		{
 			"title":"은행·증권 데이터센터는 안전한가···“백업 철저히, 재난 매뉴얼 준수”",
 			"originallink":"https:\/\/www.khan.co.kr\/economy\/finance\/article\/202210181552001",
@@ -47,17 +54,17 @@
 			"pubDate":"Tue, 18 Oct 2022 15:22:00 +0900"
 		},
 		{
-			"title":"[인천 주요 뉴스]인천 시민단체 &quot;제물포 르네상스 전면 재검토해야&quot;",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5834507",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003697056?sid=102",
-			"description":"한국공기과학시험연구원, 인천 <b>청라<\/b>에 개원초미세먼지에 대응하는 공조시스템을 시험하고 평가하는 한국공기과학시험연구원이 오늘 인천 <b>청라<\/b>국제도시 도시첨단산업단지에 문을 열었습니다. 시험연구원은 공항... ",
-			"pubDate":"Tue, 18 Oct 2022 15:04:00 +0900"
-		},
-		{
 			"title":"[썰물밀물] 인천경제자유구역 지정 19년, 옥타포트로 날개를 달자",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165657",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1165657",
 			"description":"특히 인천지역은 인천국제공항과 인천항이라는 물류 인프라가 확보된 경쟁우위를 갖고 있어 신도시 건설이 가능한 송도, <b>청라<\/b>, 영종 등의 지역을 물류 및 관광단지, 국제업무와 지식기반산업 중심지로 개발하기에... ",
+			"pubDate":"Tue, 18 Oct 2022 15:04:00 +0900"
+		},
+		{
+			"title":"[인천 주요 뉴스]인천 시민단체 &quot;제물포 르네상스 전면 재검토해야&quot;",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5834507",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003697056?sid=102",
+			"description":"한국공기과학시험연구원, 인천 <b>청라<\/b>에 개원초미세먼지에 대응하는 공조시스템을 시험하고 평가하는 한국공기과학시험연구원이 오늘 인천 <b>청라<\/b>국제도시 도시첨단산업단지에 문을 열었습니다. 시험연구원은 공항... ",
 			"pubDate":"Tue, 18 Oct 2022 15:04:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.mtnews.net\/news\/view.php?idx=14661",
 			"description":"인천시 서구 <b>청라<\/b>국제도시 도시첨단산업단지에서 18일 초미세먼지 대응 공조시스템의 성능을 시험하고 평가할 수 있는 ‘한국공기과학시험연구원’ 개원식이 개최됐다. 시험연구원은 건축물의 실내 공기를... ",
 			"pubDate":"Tue, 18 Oct 2022 12:00:00 +0900"
-		},
-		{
-			"title":"인천시, 공조설비 시험인증 지원 ‘한국공기과학시험연구원’ 개원",
-			"originallink":"http:\/\/www.breaknews.com\/929824",
-			"link":"http:\/\/www.breaknews.com\/929824",
-			"description":"인천시가 18일 <b>청라<\/b>국제도시 도시첨단산업단지에 초미세먼지 대응 공조시스템의 성능을 시험하고 평가할 수 있는 ‘한국공기과학시험연구원’(이하 시험연구원)... ",
-			"pubDate":"Tue, 18 Oct 2022 11:56:00 +0900"
 		}
 	]
 }
