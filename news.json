@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 20 Oct 2022 17:50:02 +0900",
-	"total":190840,
+	"lastBuildDate":"Thu, 20 Oct 2022 18:00:02 +0900",
+	"total":190841,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[B tv 인천뉴스] <b>청라<\/b>IC 누적 통행료 2천억… “통행료 인하해야”",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=147519",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=147519",
+			"description":"<b>청라<\/b>IC 누적 통행료가 2천억 원에 달하는 것으로 확인됐습니다. 국토교통부가 허종식 국회의원에게 제출한 자료를 보면, 지난 2013년 7월부터 올해 8월까지 <b>청라<\/b>IC 누적 통행료는 2천92억 원으로 집계됐습니다.... ",
+			"pubDate":"Thu, 20 Oct 2022 17:54:00 +0900"
+		},
 		{
 			"title":"초고령사회 진입 코 앞…&quot;노인복지주택 수요 늘어난다&quot;",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20221020_0002055593&cID=10401&pID=10400",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=112687",
 			"description":"고상규 기자 서울 방향 인천국제공항고속도로를 이용할 수 있는 <b>청라<\/b>나들목(<b>청라<\/b>IC)이 개통 이후 10년 동안 2000억원의 통행료 수입을 거둔 것으로 나타났다. <b>청라<\/b>IC의 통행료 규모가 공개된 것은 이번이 처음이어서... ",
 			"pubDate":"Thu, 20 Oct 2022 09:40:00 +0900"
-		},
-		{
-			"title":"&quot;<b>청라<\/b>IC 통행료 수입 10년간 2000억…통행료 인하해야&quot;",
-			"originallink":"https:\/\/www.news1.kr\/articles\/4838169",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006404616?sid=102",
-			"description":"인천공항고속도로 <b>청라<\/b>IC 통행료 수입금이 개통 10년간 2000억원을 넘는 것으로 나타나 통행료 인하 목소리가 높아질 전망이다. <b>청라<\/b>IC 통행료 규모가 공개된 것은 처음이다. 20일 국회 국토교통위원회 허종식... ",
-			"pubDate":"Thu, 20 Oct 2022 09:22:00 +0900"
 		}
 	]
 }
