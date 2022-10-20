@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 20 Oct 2022 16:50:02 +0900",
-	"total":190838,
+	"lastBuildDate":"Thu, 20 Oct 2022 17:00:03 +0900",
+	"total":190839,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전국 아파트값 하락률 또 사상 최대치 경신",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20221020500174&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003310321?sid=101",
+			"description":"인천의 경우 <b>청라<\/b>신도시, 루원시티, 검단신도시까지 대규모 신규 공급을 하고 있는 서구(-0.47%)와 송도신도시가 있는 연수구(-0.41%)의 하락폭이 컸다. 이대로라면 서울의 아파트 거래 건수 역시 역대 최저일 것으로... ",
+			"pubDate":"Thu, 20 Oct 2022 16:53:00 +0900"
+		},
 		{
 			"title":"인천시, &apos;초일류도시 인천&apos; 자문위원 78명 자문단 발족",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=222340",
@@ -54,17 +61,17 @@
 			"pubDate":"Thu, 20 Oct 2022 14:52:00 +0900"
 		},
 		{
-			"title":"허리 통증 및 다리 저림, 허리디스크일 수 있어 정확한 진단 필요",
-			"originallink":"http:\/\/www.medisobizanews.com\/news\/articleView.html?idxno=101149",
-			"link":"http:\/\/www.medisobizanews.com\/news\/articleView.html?idxno=101149",
-			"description":"<b>청라<\/b>국제병원 정세진 원장은 &quot;갑작스럽게 몸을 움직이거나 무거운 물건을 드는 등의 행동으로 허리에... 강화를 위한 운동 등이 도움이 되며, 음주와 흡연을 삼가는 것이 좋다&quot;고 전했다.&lt;도움말: <b>청라<\/b>국제병원 정세진 원장&gt;",
-			"pubDate":"Thu, 20 Oct 2022 14:42:00 +0900"
-		},
-		{
 			"title":"허종식 &quot;<b>청라<\/b>IC 누적 통행료 2000억원…정부 통행료 인하 약속 지켜야&quot;",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1166106",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1166106",
 			"description":"더불어민주당 허종식(인천 동구·미추홀구갑) 국회의원이 <b>청라<\/b>IC 통행료 인하에 대한 정부의 약속 이행을 촉구했다. 20일 허 의원실에 따르면 서울 방향 인천국제공항고속도로를 이용할 수 있는 <b>청라<\/b>나들목(<b>청라<\/b>IC)... ",
+			"pubDate":"Thu, 20 Oct 2022 14:42:00 +0900"
+		},
+		{
+			"title":"허리 통증 및 다리 저림, 허리디스크일 수 있어 정확한 진단 필요",
+			"originallink":"http:\/\/www.medisobizanews.com\/news\/articleView.html?idxno=101149",
+			"link":"http:\/\/www.medisobizanews.com\/news\/articleView.html?idxno=101149",
+			"description":"<b>청라<\/b>국제병원 정세진 원장은 &quot;갑작스럽게 몸을 움직이거나 무거운 물건을 드는 등의 행동으로 허리에... 강화를 위한 운동 등이 도움이 되며, 음주와 흡연을 삼가는 것이 좋다&quot;고 전했다.&lt;도움말: <b>청라<\/b>국제병원 정세진 원장&gt;",
 			"pubDate":"Thu, 20 Oct 2022 14:42:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=222314",
 			"description":"인천투데이=이종선 기자 | 서울 방향 인천국제공항고속도로에 있는 <b>청라<\/b>나들목(IC)이 개통 이후 10년 동안 통행료 수입 2000억원을 거둔 것으로 확인됐다. <b>청라<\/b>IC의 통행료 규모가 공개되는 것은 이번이 처음이라... ",
 			"pubDate":"Thu, 20 Oct 2022 09:14:00 +0900"
-		},
-		{
-			"title":"LH, 인천영종 A60BL 공공분양 675호 입주자모집",
-			"originallink":"http:\/\/theviewers.co.kr\/View.aspx?No=2572864",
-			"link":"http:\/\/theviewers.co.kr\/View.aspx?No=2572864",
-			"description":"LH는 &quot;인천영종지구는 주거·산업·관광 등 미래가치가 높은 복합 도시로 공항철도, 영종대교, 인천대교, 제2경인고속도로 등을 통한 인천 송도·<b>청라<\/b> 및 서울 서부권 등 수도권 접근성이 높아 무주택 실수요자들의... ",
-			"pubDate":"Thu, 20 Oct 2022 08:32:00 +0900"
 		}
 	]
 }
