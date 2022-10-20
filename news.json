@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 20 Oct 2022 11:10:03 +0900",
-	"total":190820,
+	"lastBuildDate":"Thu, 20 Oct 2022 11:20:02 +0900",
+	"total":190821,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융그룹, 뮤지컬 드리머스 후원",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1166041",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1166041",
+			"description":"인천 <b>청라<\/b>국제도시로 이전에 나선 하나금융그룹은 20∼23일 세종문화회관에서 공연되는 사단법인 라하프의 창작 뮤지컬 &apos;드리머스(Dreamers)&apos;를 후원한다고 20일 밝혔다. 판타지 뮤지컬 &apos;드리머스(Dreamers)&apos;는 발달장애... ",
+			"pubDate":"Thu, 20 Oct 2022 11:16:00 +0900"
+		},
 		{
 			"title":"인천 <b>청라<\/b>지구 IHP 도시첨단산업단지에 상업시설 공급",
 			"originallink":"http:\/\/www.munhwa.com\/news\/view.html?no=2022102001039907008002",
@@ -124,17 +131,17 @@
 			"pubDate":"Wed, 19 Oct 2022 22:42:00 +0900"
 		},
 		{
-			"title":"인천시, 건축 대상에 셀-로스터스 선정",
-			"originallink":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=369841",
-			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=369841",
-			"description":"또 시민관심투표에서 가장 많은 표를 얻은 <b>청라<\/b> &apos;덤&apos; 주택은 &apos;인천시민건축상&apos;및 &apos;장려상&apos;을 받게 됐다. <b>청라<\/b> &apos;덤&apos;주택은 골프장 조망이 가능한 장소성을 ㄷ자형 평면으로 실현한 작품으로 건축주 가족의 독립된... ",
-			"pubDate":"Wed, 19 Oct 2022 21:38:00 +0900"
-		},
-		{
 			"title":"인천, 부동산 허위매물 전국 최고 수준",
 			"originallink":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=369838",
 			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=369838",
 			"description":"특히, <b>청라<\/b>･루원･검단 등 각종 개발사업이 집중적으로 추진되고 있는 서구에서 2년 새 의심건수가 무려... 이는 <b>청라<\/b>경제자유구역, 루원도시개발사업, 검단택지개발사업 등으로 인해 서구에 대량의 인구가 유입돼... ",
+			"pubDate":"Wed, 19 Oct 2022 21:38:00 +0900"
+		},
+		{
+			"title":"인천시, 건축 대상에 셀-로스터스 선정",
+			"originallink":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=369841",
+			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=369841",
+			"description":"또 시민관심투표에서 가장 많은 표를 얻은 <b>청라<\/b> &apos;덤&apos; 주택은 &apos;인천시민건축상&apos;및 &apos;장려상&apos;을 받게 됐다. <b>청라<\/b> &apos;덤&apos;주택은 골프장 조망이 가능한 장소성을 ㄷ자형 평면으로 실현한 작품으로 건축주 가족의 독립된... ",
 			"pubDate":"Wed, 19 Oct 2022 21:38:00 +0900"
 		},
 		{
@@ -205,13 +212,6 @@
 			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=262954",
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=262954",
 			"description":"■ <b>청라<\/b> IHP도시첨단산업단지 개발 계성건설은 인천시 서구 <b>청라<\/b>동 209-2번지 일대에 &apos;<b>청라<\/b>IHP 이지움&apos; 1차를 공급한다. IHP 4개 블록에 2차례로 나눠 공급하는 총 600여실 중 오피스텔 304실과 상업시설 46실을 1차로 공급할... ",
-			"pubDate":"Wed, 19 Oct 2022 17:10:00 +0900"
-		},
-		{
-			"title":"[2022 국감, 인천은] 인천 부동산 허위매물 전국 최고 수준…시정은 14%에 그...",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=722260",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=722260",
-			"description":"허 의원은 <b>청라<\/b>경제자유구역, 루원도시개발사업, 검단택지개발사업 등으로 인해 부동산 수요가 높아졌고 상대적으로 정보력이 약한 이주민을 대상으로 한 허위매물이 늘었다고 설명했다. 허위매물이 점점... ",
 			"pubDate":"Wed, 19 Oct 2022 17:10:00 +0900"
 		}
 	]
