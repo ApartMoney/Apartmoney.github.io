@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Thu, 20 Oct 2022 10:00:03 +0900",
-	"total":190812,
+	"lastBuildDate":"Thu, 20 Oct 2022 10:10:02 +0900",
+	"total":190815,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 <b>청라<\/b>IC 10년간 통행료 수입 2000억 넘어",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20221020000188",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002054982?sid=102",
+			"description":"서울 방향 인천국제공항고속도로를 이용할 수 있는 <b>청라<\/b>나들목(이하 <b>청라<\/b>IC)이 개통 이후 10년 동안 2000억원이 넘는 통행료 수입을 챙긴 것으로 집계됐다. <b>청라<\/b>IC의 2000억원이 넘는 통행료 수입에 따라... ",
+			"pubDate":"Thu, 20 Oct 2022 10:05:00 +0900"
+		},
+		{
+			"title":"김포한강신도시 분양가 1억원대 오피스텔 ’김포 휴트라움’",
+			"originallink":"https:\/\/www.hankyung.com\/realestate\/article\/202210197958O",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004764742?sid=101",
+			"description":"수도권제2순환고속도로 대곶IC(인천~김포)가 가까워 차량을 통해 <b>청라<\/b>ㆍ송도국제도시로 쉽게 이동할 수 있다. 해당 오피스텔은 최저가 보상제를 진행 중이다. 최저가 보장제는 판매 중인 현 상품보다 다른 상품의 가격이... ",
+			"pubDate":"Thu, 20 Oct 2022 10:02:00 +0900"
+		},
+		{
+			"title":"숨은 진주 &apos;영종국제도시&apos;, 부동산 침체 속 꾸준히 활기",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/26CF8NMAFH",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004112356?sid=101",
+			"description":"송도국제도시, <b>청라<\/b>국제도시와 함께 인천자유경제구역청으로 묶여 인천의 미래와 지역 경제를 이끌 중심지로 여겨지고 있는 곳으로 통한다. 영종국제도시는 내륙과 붙어 있는 송도, <b>청라<\/b>와는 달리 섬이라는 지리적... ",
+			"pubDate":"Thu, 20 Oct 2022 10:01:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>IC 누적 통행료 2천억...공항고속도로 통행료 인하는 언제? ",
 			"originallink":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=112687",
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=70730",
 			"description":"7호선은 서울 강남권, 가산디지털단지 등 한강 이남을 횡단하는 수도권 핵심 노선이며, 현재 연장선 인천 <b>청라<\/b>, 경기 포천까지 연장 사업이 추진 중에 있어 이용객은 더욱 많아질 전망이다. 이렇다 보니 황금노선과... ",
 			"pubDate":"Wed, 19 Oct 2022 15:26:00 +0900"
-		},
-		{
-			"title":"인천, 부동산 허위매물 전국 최고 수준 … 서구,허위매물 60배 늘어",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=409582",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=409582",
-			"description":"특히, <b>청라<\/b>･루원･검단 등 각종 개발사업이 집중적으로 추진되고 있는 서구에서 2년 새 의심건수가 무려... ▲시·도별 부동산 허위매물 위반의심 현황 이는 <b>청라<\/b>경제자유구역, 루원도시개발사업... ",
-			"pubDate":"Wed, 19 Oct 2022 15:14:00 +0900"
-		},
-		{
-			"title":"2중·3중 데이터센터 운영하지만…은행, 전자금융사고로 &apos;400번&apos; 넘게 멈췄다",
-			"originallink":"http:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=149384",
-			"link":"http:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=149384",
-			"description":"우리은행은 서울 상암동에서 주전산센터를, 성남시 분당에 재해복구센터를 두고 있으며 하나은행은 주 전산센터를 인천 <b>청라<\/b>에, 재해복구센터는 분당에 두고 있다. 카카오뱅크는 서울 상암동의 LG CNS데이터센터를 주... ",
-			"pubDate":"Wed, 19 Oct 2022 14:32:00 +0900"
-		},
-		{
-			"title":"인천, 부동산 허위매물 많아‧‧‧ 서구 2년새 60배 증가",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=222285",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=222285",
-			"description":"이는 <b>청라<\/b>국제도시와 루원시티 개발사업, 검단신도시 개발사업 등으로 인구가 대량 유입돼 집을 찾는 숫자가 늘고, 부동산 과수요가 발생하면서 상대적으로 정보력이 약한 이주민을 대상으로 한 허위‧미끼매물이... ",
-			"pubDate":"Wed, 19 Oct 2022 14:30:00 +0900"
 		}
 	]
 }
