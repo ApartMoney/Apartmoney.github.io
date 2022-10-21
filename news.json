@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 21 Oct 2022 15:20:02 +0900",
-	"total":190867,
+	"lastBuildDate":"Fri, 21 Oct 2022 15:30:03 +0900",
+	"total":190868,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 &apos;제3연륙교&apos; 명칭 두고 <b>청라<\/b>·영종 주민 의견 분분",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=222393",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=222393",
+			"description":"인천투데이=이종선 기자 | 오는 2025년 12월 준공 예정으로 인천 <b>청라<\/b>와 영종을 잇는 제3연륙교 명칭을 두고 <b>청라<\/b>·영종 주민들 사이에 의견이 분분하다. <b>청라<\/b>지역에선 <b>청라<\/b>가 향후 인천을 대표하는 경제도시라며 &apos;<b>청라<\/b>대교... ",
+			"pubDate":"Fri, 21 Oct 2022 15:28:00 +0900"
+		},
 		{
 			"title":"[라이센스 유통 PICK] 휴테크 휴앤·아성다이소·시몬스 침대",
 			"originallink":"http:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=39328",
@@ -180,17 +187,17 @@
 			"pubDate":"Thu, 20 Oct 2022 18:40:00 +0900"
 		},
 		{
-			"title":"뚝뚝 떨어지는 집값… 서울 10년 4개월 만에 ‘최대폭 하락’",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20221021002001&wlog_tag3=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003310365?sid=101",
-			"description":"인천의 경우 <b>청라<\/b>신도시, 루원시티, 검단신도시까지 대규모 신규 공급을 하고 있는 서구(-0.47%)와 송도신도시가 있는 연수구(-0.41%)의 하락폭이 컸다. 이대로라면 서울의 아파트 거래 건수 역시 역대 최저일 것으로... ",
-			"pubDate":"Thu, 20 Oct 2022 18:06:00 +0900"
-		},
-		{
 			"title":"[인터뷰] 최계운 인천환경공단 이사장 &quot;공단 역할 재정립…친환경 인천 보여줄...",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1166185",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1166185",
 			"description":"<b>청라<\/b> 소각시설은 2002년 1월 준공되어 현재 21년, 송도 소각시설은 2006년 6월 준공되어 17년간 운영되고 있다.... 즉 현재 <b>청라<\/b> 소각시설의 경우 내구연한을 초과했으며, 송도 소각장의 경우는 내구연한이 곧 도래한다. 공단은... ",
+			"pubDate":"Thu, 20 Oct 2022 18:06:00 +0900"
+		},
+		{
+			"title":"뚝뚝 떨어지는 집값… 서울 10년 4개월 만에 ‘최대폭 하락’",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20221021002001&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003310365?sid=101",
+			"description":"인천의 경우 <b>청라<\/b>신도시, 루원시티, 검단신도시까지 대규모 신규 공급을 하고 있는 서구(-0.47%)와 송도신도시가 있는 연수구(-0.41%)의 하락폭이 컸다. 이대로라면 서울의 아파트 거래 건수 역시 역대 최저일 것으로... ",
 			"pubDate":"Thu, 20 Oct 2022 18:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011487688?sid=101",
 			"description":"서울아산병원, KT&amp;G, 하나은행 컨소시엄은 오는 2028년 준공을 목표로 인천 <b>청라<\/b>의료복합타운을 조성할 계획이다. <b>청라<\/b>의료복합타운에는 800병상의 종합병원과 노인복지주택 등이 들어선다. 홍지은 세빌스코리아 리서치... ",
 			"pubDate":"Thu, 20 Oct 2022 17:07:00 +0900"
-		},
-		{
-			"title":"전국 아파트값 하락률 또 사상 최대치 경신",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20221020500174&wlog_tag3=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003310321?sid=101",
-			"description":"인천의 경우 <b>청라<\/b>신도시, 루원시티, 검단신도시까지 대규모 신규 공급을 하고 있는 서구(-0.47%)와 송도신도시가 있는 연수구(-0.41%)의 하락폭이 컸다. 이대로라면 서울의 아파트 거래 건수 역시 역대 최저일 것으로... ",
-			"pubDate":"Thu, 20 Oct 2022 16:53:00 +0900"
 		}
 	]
 }
