@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 22 Oct 2022 08:50:03 +0900",
-	"total":190874,
+	"lastBuildDate":"Sat, 22 Oct 2022 09:00:02 +0900",
+	"total":190875,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 도시형 수소생산 클러스터 ‘백지화 위기’",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20221020580117",
+			"link":"https:\/\/www.kyeonggi.com\/article\/20221020580117",
+			"description":"21일 시에 따르면 오는 2027년까지 2천733억원을 들여 서구 <b>청라<\/b>국제도시 곳곳에 수소 산업과 관련한 시설을 집적화하는 ‘수소생산 클러스터’ 조성을 추진 중이다. 수소생산 클러스터에는 부생수소 생산시설, 수소산업... ",
+			"pubDate":"Sat, 22 Oct 2022 08:52:00 +0900"
+		},
 		{
 			"title":"서울 전세가 3년7개월만에 최대 하락…&apos;역전세 우려&apos; 더 커졌다",
 			"originallink":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2022\/10\/21\/2022102102008.html",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363562847",
 			"description":"인천 서구 <b>청라<\/b>영상·문화 복합단지 사업자 공모가 특정 업체를 밀어주기 위한 공고라는 의혹이 일고 있다. 20일 인천경제자유구역청과 한국토지주택공사(LH) 등에 따르면 인천경제청은 지난 7월 28일 <b>청라<\/b>국제도시 영상... ",
 			"pubDate":"Thu, 20 Oct 2022 19:32:00 +0900"
-		},
-		{
-			"title":"전국 아파트값 하락률 일주일 만에 사상 최대치 경신",
-			"originallink":"https:\/\/www.hankyung.com\/economy\/article\/2022102027177",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004765224?sid=101",
-			"description":"인천의 경우 <b>청라<\/b>신도시, 루원시티, 검단신도시까지 대규모 신규 공급을 하고 있는 서구(-0.47%)와 송도신도시가 있는 연수구(-0.41%)의 하락폭이 컸다. 이대로라면 서울의 아파트 거래 건수 역시 역대 최저일 것으로... ",
-			"pubDate":"Thu, 20 Oct 2022 19:18:00 +0900"
 		}
 	]
 }
