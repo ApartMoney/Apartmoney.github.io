@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 24 Oct 2022 07:00:03 +0900",
-	"total":190889,
+	"lastBuildDate":"Mon, 24 Oct 2022 07:10:02 +0900",
+	"total":190890,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"카카오 &apos;데이터 셧다운 사태&apos;…보험업계는",
+			"originallink":"http:\/\/www.fins.co.kr\/news\/articleView.html?idxno=94968",
+			"link":"http:\/\/www.fins.co.kr\/news\/articleView.html?idxno=94968",
+			"description":"하나금융TI는 인천 <b>청라<\/b> IDC(Internet Data Center)에 위치했다. 하나금융TI 외에도 하나생명은 경기도 분당에 DR(Disaster Recovery) 센터를 별도로 운영하고 있다. KB손해보험은 주요 데이터 센터 외에 경기도 김포에 &apos;KB통합IT센터... ",
+			"pubDate":"Mon, 24 Oct 2022 07:04:00 +0900"
+		},
 		{
 			"title":"미분양 &apos;악전고투&apos; 지방 건설사들…재분양에 계약금 안심보장제까지 제시",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202210211217201220036",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1166251",
 			"description":"육성푸드의 숯불닭갈비 창업브랜드 팔각도가 신규 가맹점 <b>청라<\/b>시티타워점을 오픈했다고 밝혔다. 팔각도는... <b>청라<\/b>시티타워점 가맹점주는 &quot;해당 지점은 다세대 아파트 밀집 지역에 위치해 있고 <b>청라<\/b> 호수 공원 및... ",
 			"pubDate":"Fri, 21 Oct 2022 10:40:00 +0900"
-		},
-		{
-			"title":"이오플로우, 미국 자회사 출자",
-			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=102559",
-			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=102559",
-			"description":"또한 오는 2028년까지 인천 <b>청라<\/b>국제도시에 종합병원과 의료바이오 산학연 시설 등을 짓는 <b>청라<\/b>의료복합단지 사업에 메사추세츠 종합병원 컨소시엄으로 참여하고 있다. 혈색소 침착증(Hemochromatosis) 또는... ",
-			"pubDate":"Fri, 21 Oct 2022 10:38:00 +0900"
 		}
 	]
 }
