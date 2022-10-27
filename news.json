@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 27 Oct 2022 22:40:02 +0900",
-	"total":191258,
+	"lastBuildDate":"Thu, 27 Oct 2022 22:50:02 +0900",
+	"total":191259,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융, 혁신 행보…‘하나 디지털 파워 온’ IT 인재 양성 선포식",
+			"originallink":"https:\/\/www.khan.co.kr\/economy\/finance\/article\/202210272239025",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003182458?sid=101",
+			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 열린 선포식에는 이복현 금융감독원장과 함기호 아마존웹서비스코리아 대표이사, 이지은 마이크로소프트코리아 대표이사, 여지영 SK텔레콤 부사장, 이훈규 ‘아이들과 미래재단’... ",
+			"pubDate":"Thu, 27 Oct 2022 22:40:00 +0900"
+		},
 		{
 			"title":"인천, 내년 예산 ‘역대 최대’ 14조원…전년비 5.9% 증가",
 			"originallink":"https:\/\/www.khan.co.kr\/local\/Incheon\/article\/202210272206015",
@@ -205,13 +212,6 @@
 			"originallink":"https:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202210270316&t=NNv",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001062370?sid=101",
 			"description":"하나금융그룹이 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 디지털 인재 양성으로 대한민국 금융 혁신을 선도하기 위한 프로젝트 `하나 디지털 파워 온`의 선포식을 개최하고, 프로젝트 최종 대상자 선발을 위한 디지털 신기술... ",
-			"pubDate":"Thu, 27 Oct 2022 17:35:00 +0900"
-		},
-		{
-			"title":"[포토] 하나금융, 디지털 인재로 금융혁신",
-			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=956709&year=2022",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005036747?sid=101",
-			"description":"하나금융그룹이 27일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 디지털 인재를 양성해 금융 혁신을 선도하기 위한 프로젝트 &apos;하나 디지털 파워 온&apos; 선포식을 개최했다. 왼쪽부터 이훈규 아이들과미래재단 이사장, 이복현... ",
 			"pubDate":"Thu, 27 Oct 2022 17:35:00 +0900"
 		}
 	]
