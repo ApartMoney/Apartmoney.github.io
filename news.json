@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 01 Nov 2022 05:00:03 +0900",
-	"total":191473,
+	"lastBuildDate":"Tue, 01 Nov 2022 05:10:02 +0900",
+	"total":191474,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 주요일정] 대전·충남(1일, 화)",
+			"originallink":"https:\/\/www.news1.kr\/articles\/4849926",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006428751?sid=102",
+			"description":"추모제향(<b>청라<\/b>면 김성우 장군 묘역) ◇서천군 -김기웅 군수 08:30 11월 월례아침모임(군청 대회의실) ◇홍성군 -이용록 군수 09:00 11월 직원모임(군청 대강당) ◇예산군 -최재구 군수 15:30 11월 월례모임 및 행정역량... ",
+			"pubDate":"Tue, 01 Nov 2022 05:00:00 +0900"
+		},
 		{
 			"title":"대기업·스타트업 연결, 경제자유구역 전체로 확장",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221031010005318",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=685859",
 			"description":"김동일 보령시장 김동일 보령시장은 1일 오전 11시 <b>청라<\/b>면 김성우장군 묘역에서 김성우장군 추모제향에 참석한다.",
 			"pubDate":"Mon, 31 Oct 2022 10:38:00 +0900"
-		},
-		{
-			"title":"[동정]김동일 충남 보령시장 ",
-			"originallink":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=420870",
-			"link":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=420870",
-			"description":"김동일 보령시장은 1일 오전 11시 <b>청라<\/b>면 김성우장군 묘역에서 열리는 김성우장군 추모제향, 오후 3시 시청 중 회의실에서 2022년 열리는 어린이집 선정서 수여식, 오후 4시 문예회관 대공연장에서 열리는 11월... ",
-			"pubDate":"Mon, 31 Oct 2022 10:06:00 +0900"
 		}
 	]
 }
