@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 01 Nov 2022 17:10:02 +0900",
-	"total":191522,
+	"lastBuildDate":"Tue, 01 Nov 2022 17:20:02 +0900",
+	"total":191523,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[단독] “지금 집 사면 손해” 3억대 공공분양마저 ‘미분양’ 속출",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/26DGIJJWQL",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004117167?sid=101",
+			"description":"또 영종과 <b>청라<\/b>를 잇는 제3연륙교 건설(2025년 개통 예정) 등 교통 호재가 있고 중심상업지구 내 생활 인프라를 갖췄지만 수요자의 선택을 받지 못했다. 같은 달 공급된 인천 영종 A37블록 공공분양도 상황은... ",
+			"pubDate":"Tue, 01 Nov 2022 17:11:00 +0900"
+		},
 		{
 			"title":"인천시 2027년까지 폐기물 매립 5.5% 목표, 소각시설 확충은 여전히 제자리",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1167849",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/082\/0001181655?sid=101",
 			"description":"2021년에는 인천 <b>청라<\/b>지구에 약 5천평 규모의 공장 준공을 완료했으며, 생산 CAPA 증대를 도모하고 신규 R&amp;D센터를 통해 바이오플라스틱 컴파운드 스페셜리스트로 거듭나고 있다. 또 바이오플라스틱의 재생원료 공급... ",
 			"pubDate":"Tue, 01 Nov 2022 11:08:00 +0900"
-		},
-		{
-			"title":"BGF그룹, 소재 부문 계열사 합병...‘BGF에코머티리얼즈’로 이름 바꾼다",
-			"originallink":"https:\/\/economist.co.kr\/2022\/11\/01\/industry\/distribution\/20221101105825724.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000033219?sid=101",
-			"description":"지난해에는 인천 <b>청라<\/b>지구에 약 5000평 규모의 공장 준공을 완료했다. BGF그룹은 향후 합병법인을 전문 소재 회사로 키운다는 계획이다. 회사는 성장을 이끌 3가지 키워드로 신소재, 바이오 소재, 재활용소재(PCR... ",
-			"pubDate":"Tue, 01 Nov 2022 10:59:00 +0900"
 		}
 	]
 }
