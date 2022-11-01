@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 01 Nov 2022 14:20:03 +0900",
-	"total":191507,
+	"lastBuildDate":"Tue, 01 Nov 2022 14:30:02 +0900",
+	"total":191508,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천-암참, ‘뉴홍콩시티’ 프로젝트 &apos;맞손&apos;",
+			"originallink":"http:\/\/mbnmoney.mbn.co.kr\/news\/view?news_no=MM1004767607",
+			"link":"http:\/\/mbnmoney.mbn.co.kr\/news\/view?news_no=MM1004767607",
+			"description":"이 프로젝트는 민선 8기 주요 공약사업으로 영종도와 강화도 남단, 송도, <b>청라<\/b>, 수도권매립지 등을 연계한 글로벌 금융허브를 조성하는 것입니다. 행사에는 제임스 김 암참 회장 겸 대표이사와 마테오 쿠시오 델타항공... ",
+			"pubDate":"Tue, 01 Nov 2022 14:22:00 +0900"
+		},
 		{
 			"title":"보령시, 왜구 무찌른 김성우 장군 추모 제향",
 			"originallink":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=996946",
@@ -152,17 +159,17 @@
 			"pubDate":"Tue, 01 Nov 2022 09:58:00 +0900"
 		},
 		{
-			"title":"김주현 &quot;레고랜드 사태 이전으로 돌아간다고 단언 어려워&quot;",
-			"originallink":"http:\/\/www.inews24.com\/view\/1534321",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000707127?sid=101",
-			"description":"지난달 27일 이복현 금융감독원장은 인천 <b>청라<\/b>동의 하나글로벌캠퍼스에서 열린 하나금융그룹 주관 &apos;디지털 인재 양성 프로젝트 선포식&apos;에 참석한 뒤, 기자들과 만나 &quot;최소 이번 주가 지나면 &apos;레고랜드 사태&apos; 이전 상황으로... ",
-			"pubDate":"Tue, 01 Nov 2022 09:57:00 +0900"
-		},
-		{
 			"title":"BGF 소재 계열사 KOPLA, BGF에코머티리얼즈로 사명 변경",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1168495\/?sc=Naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002653643?sid=101",
 			"description":"2021년에는 인천 <b>청라<\/b>지구에 약 5000평 규모의 공장 준공을 완료했으며, 생산 CAPA 증대를 도모하고 신규 R&amp;D센터를 통해 바이오플라스틱 컴파운드 스페셜리스트로 거듭나고 있다. 또한 바이오플라스틱의 재생원료... ",
+			"pubDate":"Tue, 01 Nov 2022 09:57:00 +0900"
+		},
+		{
+			"title":"김주현 &quot;레고랜드 사태 이전으로 돌아간다고 단언 어려워&quot;",
+			"originallink":"http:\/\/www.inews24.com\/view\/1534321",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000707127?sid=101",
+			"description":"지난달 27일 이복현 금융감독원장은 인천 <b>청라<\/b>동의 하나글로벌캠퍼스에서 열린 하나금융그룹 주관 &apos;디지털 인재 양성 프로젝트 선포식&apos;에 참석한 뒤, 기자들과 만나 &quot;최소 이번 주가 지나면 &apos;레고랜드 사태&apos; 이전 상황으로... ",
 			"pubDate":"Tue, 01 Nov 2022 09:57:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=517573",
 			"description":"지난해에는 인천 <b>청라<\/b>지구에 약 5000평 규모의 공장 준공을 완료했으며 생산 CAPA 증대를 도모하고 신규 연구개발(R&amp;D)센터를 통해 바이오플라스틱 컴파운드 스페셜리스트로 거듭나고 있다. 양사간 합병 및 사명... ",
 			"pubDate":"Tue, 01 Nov 2022 08:26:00 +0900"
-		},
-		{
-			"title":"올 2분기 오피스 공실률 8년여만에 최저…&apos;맞춤설계&apos; 지식산업센터 부상",
-			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=594028",
-			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=594028",
-			"description":"SK에코플랜트는 인천 서구 <b>청라<\/b>동에서 &apos;<b>청라<\/b> SK V1&apos; 지식산업센터를 분양중이다. 전체 연면적 약 12만 6022㎡ 규모로 하 2층~지상 10층으로 조성된다. 인근에 <b>청라<\/b> IHP도시첨단산업단지가 들어선다. 또 7호선 연장선(2027년... ",
-			"pubDate":"Tue, 01 Nov 2022 08:20:00 +0900"
 		}
 	]
 }
