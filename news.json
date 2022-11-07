@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 07 Nov 2022 15:30:02 +0900",
-	"total":191734,
+	"lastBuildDate":"Mon, 07 Nov 2022 15:40:02 +0900",
+	"total":191735,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"12월 베트남에서 KLPGA 퍼시픽링스코리아 챔피언십 개최",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1006961485&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=055&aid=0001011319",
+			"description":"PLK 챔피언스 클래식은 수도권인 베어즈베스트 <b>청라<\/b> 골프클럽에서 열렸는데, 스폰서가 없는 선수가 PLK 모자와 패치를 착용하면 성적에 따라 인센티브를 주는 &apos;1일 스폰서&apos;를 통해 큰 호응을 얻었습니다. PLK의... ",
+			"pubDate":"Mon, 07 Nov 2022 15:33:00 +0900"
+		},
 		{
 			"title":"KLPGA 퍼시픽링스코리아 챔피언십, 내달 베트남서 개최",
 			"originallink":"http:\/\/www.dailysportshankook.co.kr\/news\/articleView.html?idxno=266485",
@@ -33,17 +40,17 @@
 			"pubDate":"Mon, 07 Nov 2022 14:40:00 +0900"
 		},
 		{
-			"title":"부형순 프로(51), KLPGA PLK 챔피언스 클래식 2차전 우승",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/10519435",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=009&aid=0005041097",
-			"description":"부형순는 4일까지 이틀간 인천에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽에서 개최된 이번 대회에서 2라운드 합계 144타로 2위인 유재희 프로(48)와 1차타로 우승컵을 차지했다. 우승상금은 1천50만원. 이번 대회는 36홀... ",
-			"pubDate":"Mon, 07 Nov 2022 14:29:00 +0900"
-		},
-		{
 			"title":"다음 달 베트남에서 KLPGA 퍼시픽링스코리아 챔피언십 개최",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20221107102000007?input=1195m",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013558585",
 			"description":"PLK 챔피언스 클래식은 대회 개최 비용이 많이 드는 수도권 골프장인 베어즈베스트 <b>청라<\/b> 골프클럽에서 치러졌고, 스폰서가 없는 선수가 PLK 모자와 패치를 착용하면 성적에 따라 인센티브를 제공하는 &apos;일일... ",
+			"pubDate":"Mon, 07 Nov 2022 14:29:00 +0900"
+		},
+		{
+			"title":"부형순 프로(51), KLPGA PLK 챔피언스 클래식 2차전 우승",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/10519435",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=009&aid=0005041097",
+			"description":"부형순는 4일까지 이틀간 인천에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽에서 개최된 이번 대회에서 2라운드 합계 144타로 2위인 유재희 프로(48)와 1차타로 우승컵을 차지했다. 우승상금은 1천50만원. 이번 대회는 36홀... ",
 			"pubDate":"Mon, 07 Nov 2022 14:29:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=788349",
 			"description":"충청매일 CCDN 재단법인 제일장학재단(이사장 권영기)이 지난 4일 충남 보령시 <b>청라<\/b>면에 장학금을 전달했다. 장학금은 저소득 가정 초·중·고등학생들에게 전달할 계획이다.",
 			"pubDate":"Sun, 06 Nov 2022 19:42:00 +0900"
-		},
-		{
-			"title":"보령시 제일장학재단 장학금 전달식 개최",
-			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=726585",
-			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=726585",
-			"description":"보령시는 지난 4일 열린 <b>청라<\/b>면 이장회의에서 재단법인 제일장학재단(이사장 권영기) 장학금 전달식을 개최했다. \/보령시 제공",
-			"pubDate":"Sun, 06 Nov 2022 18:58:00 +0900"
 		}
 	]
 }
