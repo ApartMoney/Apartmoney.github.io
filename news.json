@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 07 Nov 2022 14:40:02 +0900",
-	"total":191730,
+	"lastBuildDate":"Mon, 07 Nov 2022 14:50:02 +0900",
+	"total":191731,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"택배 왔다고 해서 문 열었더니 강도로 돌변...범인 붙잡고 아버지가 오열한 이...",
+			"originallink":"https:\/\/www.insight.co.kr\/news\/417889",
+			"link":"https:\/\/www.insight.co.kr\/news\/417889",
+			"description":"A씨는 이날 오전 11시 30분께 인천시 서구 <b>청라<\/b>동 한 빌라에서 50대 여성을 흉기로 위협해 1500만원 상당의 현금과 휴대전화를 빼앗아 달아난 혐의를 받고 있다.충격적인 부분은 A씨가 강도를 벌인 대상이 평소 왕래가... ",
+			"pubDate":"Mon, 07 Nov 2022 14:40:00 +0900"
+		},
 		{
 			"title":"부형순 프로(51), KLPGA PLK 챔피언스 클래식 2차전 우승",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/10519435",
@@ -194,13 +201,6 @@
 			"pubDate":"Sun, 06 Nov 2022 18:58:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b> 로봇타워 &apos;친환경 건축&apos; 입증",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1002543",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1002543",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO <b>청라<\/b> 인천로봇랜드 로봇타워가 국토교통부·환경부 지정 인증기관인 한국부동산원에서 &apos;녹색건축인증&apos; 최우수등급(그린1등급)으로 재선정됐다. 6일 인천시에 따르면... ",
-			"pubDate":"Sun, 06 Nov 2022 18:44:00 +0900"
-		},
-		{
 			"title":"택배기사 강도 돌변 현금 갈취 잡고보니 왕래 뜸하던 친아들",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1002588",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1002588",
@@ -208,11 +208,11 @@
 			"pubDate":"Sun, 06 Nov 2022 18:44:00 +0900"
 		},
 		{
-			"title":"보령시 라원2리 주민대책위 &quot;매립된 폐기물 원상복구 하라&quot;",
-			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=679400",
-			"link":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=679400",
-			"description":"김동일 보령시장이 <b>청라<\/b>면사무소에서 대책위와 대화를 하고 있다. ［동양일보 오광연 기자］보령시 <b>청라<\/b>면 라원2리에 매립된 폐기물에 대해 치울것을 재차 명령한 후 이행되지 않을 경우 행정대집행을 예고 하는 쪽으로... ",
-			"pubDate":"Sun, 06 Nov 2022 18:18:00 +0900"
+			"title":"<b>청라<\/b> 로봇타워 &apos;친환경 건축&apos; 입증",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1002543",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1002543",
+			"description":"기호일보 - 아침을 여는 신문, KIHOILBO <b>청라<\/b> 인천로봇랜드 로봇타워가 국토교통부·환경부 지정 인증기관인 한국부동산원에서 &apos;녹색건축인증&apos; 최우수등급(그린1등급)으로 재선정됐다. 6일 인천시에 따르면... ",
+			"pubDate":"Sun, 06 Nov 2022 18:44:00 +0900"
 		}
 	]
 }
