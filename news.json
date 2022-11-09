@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Wed, 09 Nov 2022 16:00:02 +0900",
-	"total":191878,
+	"lastBuildDate":"Wed, 09 Nov 2022 16:10:02 +0900",
+	"total":191881,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제자유구역 올해 외국인 투자 부진",
+			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1372919",
+			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1372919",
+			"description":"올해 들어 인천경제자유구역에서 체결된 외국인 투자 신규 계약은 코스트코 <b>청라<\/b>점 건립과 독일 싸토리우스의 송도 제조·연구시설 등 2건입니다. 인천경제자유구역청은 코로나19 사태 장기화와 러시아-우크라이나... ",
+			"pubDate":"Wed, 09 Nov 2022 16:02:00 +0900"
+		},
+		{
+			"title":"CJ대한통운 건설부문, 2022 한국건축가협회상 수상",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03581766632524080",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005362826?sid=101",
+			"description":"<b>청라<\/b> 하나금융 공동 직장어린이집. (사진=CJ대한통훈 건설부문) CJ대한통운 건설부문이 시공한 하나금융그룹 공동 직장 어린이집은 지난 2021년 8월 인천 <b>청라<\/b> 하나드림타운 내에 준공됐다. 설계를 한... ",
+			"pubDate":"Wed, 09 Nov 2022 16:01:00 +0900"
+		},
+		{
+			"title":"눈물 쏟은 정용진, 야구 사랑은 &apos;찐&apos;이었다...&apos;돔구장&apos;도 속도",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20221109001076",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20221109001076",
+			"description":"정용진 신세계 부회장(왼쪽)과 유정복 인천시장이 24일 만나 돔구장, 스타필드 <b>청라<\/b>, 역사 신설 관련 포괄적 협력에 대한 합의를 진행했다. [사진=신세계] ◆관심은 <b>청라<\/b> 돔구장으로...연내 실시설계 마무리 정 부회장의... ",
+			"pubDate":"Wed, 09 Nov 2022 15:59:00 +0900"
+		},
 		{
 			"title":"CJ대한통운 건설부문, 한국건축가협회상 수상",
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1613442",
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=235520",
 			"description":"특히, 제3연륙교(2025년 예정)는 <b>청라<\/b>와 송도가 연결돼 인천경제자유구역 3곳이 최단거리로 이어지게 된다. 전 가구 4베이 판상형 구조로 설계하고, 남향 위주로 단지를 배치해 채광과 통풍이 우수하다. 가변형 벽체를... ",
 			"pubDate":"Wed, 09 Nov 2022 11:30:00 +0900"
-		},
-		{
-			"title":"대학병원 분원 설립 러시···&quot;연구와 중증진료 외면 우려&quot;",
-			"originallink":"http:\/\/www.doctorstimes.com\/news\/articleView.html?idxno=220737",
-			"link":"http:\/\/www.doctorstimes.com\/news\/articleView.html?idxno=220737",
-			"description":"송도국제도시에 세브란스병원 분원이 오는 12월 착공할 것이라고 최근 발표한 바 있고, <b>청라<\/b>국제도시에는 아산병원이 800병상 규모의 분원을 설립할 예정이다. 인근 김포에는 인천의 인하대병원이 700병상 규모의 분원... ",
-			"pubDate":"Wed, 09 Nov 2022 11:24:00 +0900"
-		},
-		{
-			"title":"정용진 &apos;큰 경사&apos;… SSG, 스토리 파워 써내다",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=962941",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=962941",
-			"description":"2027년 오픈을 목표로 하는 <b>청라<\/b>돔(스타필드 <b>청라<\/b>) 건설이 정 부회장이 추구하는 &apos;신세계 유니버스&apos;의 주요 축이 될 거라는 예측도 나온다. 투자비용만 1조3000억원에 달한다. 2만석 규모의 돔구장은 야구 경기뿐 아니라... ",
-			"pubDate":"Wed, 09 Nov 2022 11:24:00 +0900"
-		},
-		{
-			"title":"정용진 1300억 베팅 통했다…‘1등 야구’ 덕에 쓱 활짝",
-			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20221109000364",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002063320?sid=101",
-			"description":"이마트 관계자는 “2027년 스타필드 <b>청라<\/b>와 연계한 SSG 랜더스 <b>청라<\/b> 돔구장까지 완공되면 쇼핑센터와 결합된 신개념 복합시설을 만날 수 있을 것”이라며 “SSG 야구와 유통을 연계한 굿즈와 캐릭터 사업도 활발히 진행... ",
-			"pubDate":"Wed, 09 Nov 2022 11:23:00 +0900"
 		}
 	]
 }
