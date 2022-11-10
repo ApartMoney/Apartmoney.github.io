@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 11 Nov 2022 03:10:02 +0900",
-	"total":192009,
+	"lastBuildDate":"Fri, 11 Nov 2022 03:20:02 +0900",
+	"total":192010,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 북부권, 도심항공교통 중심지로… 도시철도 ‘북부 순환망’ 구축",
+			"originallink":"https:\/\/www.donga.com\/news\/article\/all\/20221110\/116424361\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003461728?sid=102",
+			"description":"또 서구 검단∼<b>청라<\/b>∼중구∼동구(제물포) 지역을 연결하는 인천 3호선 조성도 추진한다. 또 서구 가현산부터 수도권매립지 야생화단지로 이어지는 녹지축을 만들어 주거 지역과 산업 지역이 혼재되지 않도록 하고... ",
+			"pubDate":"Fri, 11 Nov 2022 03:08:00 +0900"
+		},
 		{
 			"title":"유정복 인천시장 &quot;변화·혁신 첫걸음, 인천북부지역 초일류도시 만들 것&quot;",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=518999",
@@ -152,17 +159,17 @@
 			"pubDate":"Thu, 10 Nov 2022 18:17:00 +0900"
 		},
 		{
-			"title":"유정복 인천광역시장, 초일류도시 인천 북부 종합발전계획 발표",
-			"originallink":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=373073",
-			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=373073",
-			"description":"또한, 인천3호선은 서구 검단~<b>청라<\/b>~중구, 동구(제물포)를 연결하는 노선으로 추진할 예정이다. 서울7호선은 <b>청라<\/b>연장선을 인천2호선 검단오류역과 연결해 북부순환망을 형성하도록 하고, 인천2호선과 환승을 통해 강화... ",
-			"pubDate":"Thu, 10 Nov 2022 18:16:00 +0900"
-		},
-		{
 			"title":"인천 서구, 더불어민주당과 예산정책협의회 - 지역 현안 논의",
 			"originallink":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=373065",
 			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=373065",
 			"description":"아울러 구는 지역 현안인 ▲수도권매립지특별회계 서구 이관, ▲<b>청라<\/b>소각장 폐쇄, ▲검단권역 문화인프라 부재 해소, ▲서울지하철 5호선, 9호선 연장 지연 등에 대해 심도 있는 논의를 진행했다고 덧붙였다.... ",
+			"pubDate":"Thu, 10 Nov 2022 18:16:00 +0900"
+		},
+		{
+			"title":"유정복 인천광역시장, 초일류도시 인천 북부 종합발전계획 발표",
+			"originallink":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=373073",
+			"link":"http:\/\/www.kmaeil.com\/news\/articleView.html?idxno=373073",
+			"description":"또한, 인천3호선은 서구 검단~<b>청라<\/b>~중구, 동구(제물포)를 연결하는 노선으로 추진할 예정이다. 서울7호선은 <b>청라<\/b>연장선을 인천2호선 검단오류역과 연결해 북부순환망을 형성하도록 하고, 인천2호선과 환승을 통해 강화... ",
 			"pubDate":"Thu, 10 Nov 2022 18:16:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=725143",
 			"description":"수도권매립지에 UAM 시험장 설치 아라뱃길에 UAM 노선 신설 인천3호선, 서구 검단~<b>청라<\/b>~중구·동구 신설... 또 인천3호선을 만들어 서구 검단~<b>청라<\/b>~중구·동구(제물포)를 잇는다. 서울7호선은 <b>청라<\/b>연장선을 인천2호선... ",
 			"pubDate":"Thu, 10 Nov 2022 17:08:00 +0900"
-		},
-		{
-			"title":"용진이형 투자하니 &apos;쓱&apos; 1등…유통‧야구 시너지 기대",
-			"originallink":"http:\/\/www.newspost.kr\/news\/articleView.html?idxno=103356",
-			"link":"http:\/\/www.newspost.kr\/news\/articleView.html?idxno=103356",
-			"description":"지난 8월 24일 유정복 인천시장과 정용진 신세계그룹 부회장은 <b>청라<\/b>국제도시에 들어설 신세계 복합쇼핑몰 스타필드<b>청라<\/b> 및 최첨단 멀티스타디움 돔구장 사업 등을 논의했다. (사진=뉴시스 제공) &apos;신세계 유니버스... ",
-			"pubDate":"Thu, 10 Nov 2022 17:04:00 +0900"
 		}
 	]
 }
