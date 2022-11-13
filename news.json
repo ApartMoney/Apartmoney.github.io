@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 13 Nov 2022 13:10:02 +0900",
-	"total":192044,
+	"lastBuildDate":"Sun, 13 Nov 2022 13:20:03 +0900",
+	"total":192045,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 &quot;서울 지하철 5호선 김포연장 적극 협의할 것&quot;",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20221113000051",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002064885?sid=101",
+			"description":"북부 순환망은 인천1호선∼인천2호선∼서울7호선을 환승할 수 있게 하고 인천3호선은 서구 검단∼<b>청라<\/b>∼중구·동구(제물포)를 연결하는 노선으로 추진할 예정이다. 아울러 인천시는 서울시와 김포시 등이 5호선 연장... ",
+			"pubDate":"Sun, 13 Nov 2022 13:18:00 +0900"
+		},
 		{
 			"title":"인천시 &quot;서울지하철 5호선 김포연장 노선계획 적극 협의할 것&quot;",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20221113028100065?input=1195m",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.taxtimes.co.kr\/news\/article.html?no=257146",
 			"description":"서인천세무서가 오는 28일 <b>청라<\/b>동 신청사에서 업무를 시작한다. 11일 서인천세무서(서장⋅양경렬)에 따르면, 신축청사는 인천 서구 <b>청라<\/b>사파이어로 192(<b>청라<\/b>동 92-5)에 위치하고 있으며, 지하 1층, 지상 5층, 연면적 7천851... ",
 			"pubDate":"Fri, 11 Nov 2022 11:52:00 +0900"
-		},
-		{
-			"title":"제일건설 &apos;영종국제도시 제일풍경채 디오션&apos; 선착순 계약 진행",
-			"originallink":"http:\/\/www.nextdaily.co.kr\/news\/articleView.html?idxno=211895",
-			"link":"http:\/\/www.nextdaily.co.kr\/news\/articleView.html?idxno=211895",
-			"description":"구축계획에 따라 공항철도 고속화 사업(150km)도 추진 계획이다. 특히, 영종국제도시와 <b>청라<\/b>를 연결하는 제3연륙교가 2025년 준공을 목표로 개발이 한창이며, 개통시 서울 여의도와 강남권까지 이동시간도 개선된다.",
-			"pubDate":"Fri, 11 Nov 2022 11:30:00 +0900"
 		}
 	]
 }
