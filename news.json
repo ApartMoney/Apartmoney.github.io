@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 14 Nov 2022 20:00:02 +0900",
-	"total":192075,
+	"lastBuildDate":"Mon, 14 Nov 2022 20:10:03 +0900",
+	"total":192076,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[경제프리즘] 인천지하철 3호선과 경제적 타당성",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20221114580185",
+			"link":"https:\/\/www.kyeonggi.com\/article\/20221114580185",
+			"description":"연수구 송도국제도시를 시작으로 서구 검단과 <b>청라<\/b>를 거쳐 중구, 동구, 미추홀구, 부평구에 이르기까지 신도시와 원도심을 잇는 인천3호선은 처음 계획했던 대순환선을 기반으로 한다. 당시 대순환선은 총사업비... ",
+			"pubDate":"Mon, 14 Nov 2022 20:06:00 +0900"
+		},
 		{
 			"title":"인천경제청 ㈜<b>청라<\/b>시티타워와 협약 해지 검토…인천경제청, 운염도 민간개발 ...",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20221114580151",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363565927",
 			"description":"인천공항 30분 이내에는 영종도, 송도국제도시, <b>청라<\/b>국제도시지역으로 이동해 각종 쇼핑을 충분히 즐길 수 있다. 이들에게 뭘 보여줘야할지는 인천시의 의지에 달려있다. 젊은 층에게 인기를 끌고 있는 K뷰티와 K푸드... ",
 			"pubDate":"Sun, 13 Nov 2022 15:06:00 +0900"
-		},
-		{
-			"title":"[사설] 인천북부균형발전, 큰 그림 후 설득나서야",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1169460",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1169460",
-			"description":"또 검단부터 <b>청라<\/b>, 중·동구(제물포구)를 연결하는 인천 3호선 신설도 추진된다. 수도권매립지는 매립 종료와 함께 시 주도로 &apos;에코메타시티&apos;로 개발한다는 청사진을 제시했다. 제2매립장에는 국내 유일 드론 인증센터와... ",
-			"pubDate":"Sun, 13 Nov 2022 13:40:00 +0900"
 		}
 	]
 }
