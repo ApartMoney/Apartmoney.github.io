@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 14 Nov 2022 15:20:02 +0900",
-	"total":192065,
+	"lastBuildDate":"Mon, 14 Nov 2022 15:30:02 +0900",
+	"total":192066,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울지하철 5호선 연장 협약에 `인천시 패싱` 논란",
+			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2022111402109963080005&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002766137?sid=102",
+			"description":"과거 서울7호선 <b>청라<\/b> 연장 사업은 수도권매립지 사용 기한 연장 합의를 조건으로 진행된 바 있다. 이에 인천시는 지금까지 수도권매립지 유지로 고통받았고, 서울시의 서울시 건설폐기물처리장 이전은 절대 수용할 수... ",
+			"pubDate":"Mon, 14 Nov 2022 15:21:00 +0900"
+		},
 		{
 			"title":"한창한 인천 중구의회 도시정책위원장 &quot;영종지역 24시 응급실 운영 추진&quot; 요청",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=923719",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=92029",
 			"description":"남동구의 서창지구자치연합회, 서구의 검단주민총연합회, 비법인사단<b>청라<\/b>국제카페, <b>청라<\/b>미래연합회, 루원총연합회, 오류지구연합회, 수도권매립지종료 주민대책위원 등 21만 회원으로 구성됐다.",
 			"pubDate":"Sat, 12 Nov 2022 07:34:00 +0900"
-		},
-		{
-			"title":"김포에 4만6천호 신규택지, 집단에너지 호재",
-			"originallink":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=247569",
-			"link":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=247569",
-			"description":"개발규모가 만만치 않지만 <b>청라<\/b>에너지 공급권역으로 둘러싼 지역이어서 경쟁구도로 가지 않을 것이란... 기존 김포한강신도시에 지역난방을 공급하는 <b>청라<\/b>에너지의 판단이 중요할 것이란 분석이 나온다. 김포열병합을... ",
-			"pubDate":"Sat, 12 Nov 2022 06:02:00 +0900"
 		}
 	]
 }
