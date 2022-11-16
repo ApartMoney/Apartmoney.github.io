@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 16 Nov 2022 09:00:02 +0900",
-	"total":192122,
+	"lastBuildDate":"Wed, 16 Nov 2022 09:10:02 +0900",
+	"total":192123,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"엔카닷컴, 중고차 신뢰 핵심 기지 &apos;광고지원센터&apos; 46개점 돌파",
+			"originallink":"http:\/\/autotimes.hankyung.com\/apps\/news.sub_view?popup=0&nid=03&c1=03&c2=03&c3=00&nkey=202211160858291",
+			"link":"http:\/\/autotimes.hankyung.com\/apps\/news.sub_view?popup=0&nid=03&c1=03&c2=03&c3=00&nkey=202211160858291",
+			"description":"-인천 <b>청라<\/b>·수원 권선·용인 기흥·서부산 등 지점 신규 및 확장 개소 -엔카가 확인한 무사고차에 엔카진단... 올해 하반기에는 인천 <b>청라<\/b>, 수원 권선, 용인 기흥, 서부산 지점을 추가했다. 엔카닷컴은 중고차 신뢰 거점인... ",
+			"pubDate":"Wed, 16 Nov 2022 09:00:00 +0900"
+		},
 		{
 			"title":"인천환경공단 안정적인 시민 환경서비스 제공을 위한 고유사업 내실화",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20221115010004581",
@@ -40,17 +47,17 @@
 			"pubDate":"Tue, 15 Nov 2022 21:52:00 +0900"
 		},
 		{
-			"title":"인천경제청, FEZ 개발이익 재투자 &apos;걸림돌&apos; 제거 앞장",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1003978",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1003978",
-			"description":"인천경제자유구역은 영종하늘도시와 <b>청라<\/b>국제도시가 대상으로, 이곳의 개발사업시행자는 한국토지주택공사(LH)다. <b>청라<\/b>국제도시는 지난해 말 2-4단계 기반시설 준공을 끝으로 올해 안에 시설물 인수·인계 작업이... ",
-			"pubDate":"Tue, 15 Nov 2022 21:28:00 +0900"
-		},
-		{
 			"title":"탄소중립 클러스터 조성… &apos;환경 선진도시&apos; 인천 건설",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1003965",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1003965",
 			"description":"또 가좌 하수처리시설 2단계 공사와 슬러지 처리시설 개선, <b>청라<\/b> 송도 노후소각 시설 개선에 모두 206억 원을 투입해 질 좋은 시민 환경서비스를 제공할 계획이다. 하수슬러지나 폐기물 감량을 거쳐 처리비용을 절감하고... ",
+			"pubDate":"Tue, 15 Nov 2022 21:28:00 +0900"
+		},
+		{
+			"title":"인천경제청, FEZ 개발이익 재투자 &apos;걸림돌&apos; 제거 앞장",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1003978",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1003978",
+			"description":"인천경제자유구역은 영종하늘도시와 <b>청라<\/b>국제도시가 대상으로, 이곳의 개발사업시행자는 한국토지주택공사(LH)다. <b>청라<\/b>국제도시는 지난해 말 2-4단계 기반시설 준공을 끝으로 올해 안에 시설물 인수·인계 작업이... ",
 			"pubDate":"Tue, 15 Nov 2022 21:28:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1623598",
 			"description":"또 가좌 하수처리시설 2단계 공사와 슬러치 처리시설 개선, <b>청라<\/b> 송도 노후소각 시설 개선에 총 206억을 투입해 안정적인 시민 환경서비스를 제공할 계획이다. 두 번째는 △미래성장 역할강화이다. 하수슬러지 등 폐기물... ",
 			"pubDate":"Tue, 15 Nov 2022 14:56:00 +0900"
-		},
-		{
-			"title":"지식산업센터 &apos;양주 옥정 메가시티&apos; 총 232호실 공급 예정",
-			"originallink":"http:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=952963",
-			"link":"http:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=952963",
-			"description":"또한 논현, 강남구청, <b>청라<\/b> 등 수도권 중심지를 관통하는 지하철 7호선 연장 개통이 계획되어 있어 옥정~서울~인천 출퇴근이 가능해질 전망이다. 이러한 교통 호재에 힘입어 양주시는 의정부, 동두천을 잇는... ",
-			"pubDate":"Tue, 15 Nov 2022 14:44:00 +0900"
 		}
 	]
 }
