@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 19 Nov 2022 01:00:02 +0900",
-	"total":192236,
+	"lastBuildDate":"Sat, 19 Nov 2022 01:10:02 +0900",
+	"total":192237,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 내년도 예산 1조1410억원 원도심 균형발전 집중",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/11\/18\/20221118507838.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003755834?sid=102",
+			"description":"다음으로 소규모 영세 사업장 미세먼지 방지시설 지원, 기후대응 도시숲 구축, <b>청라<\/b>지구 수변 및 공촌천 보행환경 개선, 자원순환센터 건립 타당성 조사 용역 등에도 나선다. 구는 ‘삶이 윤택해지는 도시’... ",
+			"pubDate":"Sat, 19 Nov 2022 01:06:00 +0900"
+		},
 		{
 			"title":"대형마트 휴무일·영업시간 &apos;인파 몰리는이유&apos;",
 			"originallink":"https:\/\/www.sisamagazine.co.kr\/news\/articleView.html?idxno=475198",
@@ -173,17 +180,17 @@
 			"pubDate":"Fri, 18 Nov 2022 08:27:00 +0900"
 		},
 		{
-			"title":"“유럽한인들 귀환 도울 재외동포청 인천 유치 지지”",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20221118500011&wlog_tag3=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003318129?sid=102",
-			"description":"송도·<b>청라<\/b>·영종 등 인천경제자유구역(IFEZ)에 유럽 재외국민들의 귀환 거주를 지원하기 위한... 이날 설명회에서 인천경제자유구역청은 송도·<b>청라<\/b>·영종 등에 유럽과 한국 문화·교역의 거점이 될 유럽한인문화타운 및... ",
-			"pubDate":"Fri, 18 Nov 2022 08:24:00 +0900"
-		},
-		{
 			"title":"[놓치면 후회!] 조각가 김기용의 &apos;소나무, 사과, 생명의 흐름전&apos;…12월12일까...",
 			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20221118010002468",
 			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20221118010002468",
 			"description":"갤러리<b>청라<\/b>가 가을 기획전으로 조각가 김기용의 &apos;소나무, 사과, 생명의 흐름전&apos;을 12월12일까지 연다.... 김선굉 갤러리<b>청라<\/b> 대표는 &quot;김기용의 조각은 동양화의 미덕을 구현하고 있다는 점에서 남다른 방향성이 있다.... ",
+			"pubDate":"Fri, 18 Nov 2022 08:24:00 +0900"
+		},
+		{
+			"title":"“유럽한인들 귀환 도울 재외동포청 인천 유치 지지”",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20221118500011&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003318129?sid=102",
+			"description":"송도·<b>청라<\/b>·영종 등 인천경제자유구역(IFEZ)에 유럽 재외국민들의 귀환 거주를 지원하기 위한... 이날 설명회에서 인천경제자유구역청은 송도·<b>청라<\/b>·영종 등에 유럽과 한국 문화·교역의 거점이 될 유럽한인문화타운 및... ",
 			"pubDate":"Fri, 18 Nov 2022 08:24:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011543739?sid=101",
 			"description":"올해 하반기에는 &apos;인천 <b>청라<\/b>&apos;, &apos;수원 권선&apos;, &apos;용인 기흥&apos;, &apos;서부산&apos; 지점을 추가로 신규 또는 확장 개설했다. 엔카닷컴은 향후에도 중고차 업계 신뢰 제고를 위해 광고지원센터를 확충한다는 계획이다. 엔카닷컴 관계자는... ",
 			"pubDate":"Fri, 18 Nov 2022 05:30:00 +0900"
-		},
-		{
-			"title":"인천 자동차산업, 미래차 중심으로 산업구조 재편 시작됐다",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20221117221040040",
-			"link":"https:\/\/www.ajunews.com\/view\/20221117221040040",
-			"description":"미래차 연구개발(R&amp;D) 지원 사업도 추진 중으로, 친환경·지능형 부품 및 커넥티드형 통신부품 개발을 지원하고 있으며, 특히, 커넥티드형 통신부품 개발은 인천경제자유구역청에서 <b>청라<\/b> 로봇랜드에 건립 중인... ",
-			"pubDate":"Thu, 17 Nov 2022 22:36:00 +0900"
 		}
 	]
 }
