@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 24 Nov 2022 05:30:02 +0900",
-	"total":192454,
+	"lastBuildDate":"Thu, 24 Nov 2022 05:40:02 +0900",
+	"total":192455,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"“고양, 경제자유구역 지정 땐 낙후 경기북부 지역경제 견인”",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20221124010028&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003319672?sid=102",
+			"description":"평택·송도·<b>청라<\/b>·영종 등과 같이 경제자유구역으로 지정되면 경쟁력 높은 많은 기업의 입주로 양질의 일자리가 늘어나 자족도시로의 도약이 쉬워진다. 시의 장기 목표는 경제자유구역을 시작으로 각종 규제를 완화해... ",
+			"pubDate":"Thu, 24 Nov 2022 05:31:00 +0900"
+		},
 		{
 			"title":"대구 중구, 재난대응 안전한국훈련 토론훈련",
 			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=403323&part_idx=170",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ifm.kr\/news\/348498",
 			"description":"영종·<b>청라<\/b> 등 인천경제자유구역에 유치하는 MOU를 체결했습니다. 이에 따라 테르메는 연내 2억 달러 규모의 외국인 직접투자 신청서를 제출하고 사업부지는 인천경제청과 협의해 선정하기로 했습니다. 이어 200년 전통의... ",
 			"pubDate":"Tue, 22 Nov 2022 18:30:00 +0900"
-		},
-		{
-			"title":"&apos;신세계 vs. 현대&apos; 스타필드까지 참전…광주시 백화점 대전",
-			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20221122500620",
-			"link":"http:\/\/www.metroseoul.co.kr\/article\/20221122500620",
-			"description":"스타필드는 하남·코엑스몰·고양·안성, 스타필드시티 위례·부천·명지 총 7개 지점이 운영 중이고 <b>청라<\/b>, 수원, 창원에 추가 건립 중이다. 신세계 측에서는 스타필드 광주와 광주신세계는 사업 주체가 다르기 때문에... ",
-			"pubDate":"Tue, 22 Nov 2022 17:32:00 +0900"
 		}
 	]
 }
