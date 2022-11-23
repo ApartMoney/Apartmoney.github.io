@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 24 Nov 2022 06:00:02 +0900",
-	"total":192455,
+	"lastBuildDate":"Thu, 24 Nov 2022 06:10:02 +0900",
+	"total":192456,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서구청장배 골프대회, 왜 강원 평창군서 열렸을까",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20221123_0002098003&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011554170?sid=102",
+			"description":"이 밖에 서구 내 다른 대중 골프장인 인천그랜드CC와 베어즈베스트<b>청라<\/b>골프클럽 측 모두 구청장배 골프대회와 관련한 대관 신청 및 예약 문의를 받지 못했다고 한다. 골프장 한 관계자는 &quot;서구청장배 행사가 열리면... ",
+			"pubDate":"Thu, 24 Nov 2022 06:00:00 +0900"
+		},
 		{
 			"title":"“고양, 경제자유구역 지정 땐 낙후 경기북부 지역경제 견인”",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20221124010028&wlog_tag3=naver",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1170998",
 			"description":"한편, 해오름 호수공원과 달리 서구 <b>청라<\/b>국제도시 <b>청라<\/b> 호수공원의 경우 한강물을 원수로 받고 있으며, 수질정화시설과 물 흐름을 위한 커낼웨이도 8개소나 설치해 하루 1만6000㎡ 면적의 수처리 용량을 갖추고 있다. 경기... ",
 			"pubDate":"Tue, 22 Nov 2022 19:06:00 +0900"
-		},
-		{
-			"title":"[보도국 브리핑] 세계속 인천의 위상...유럽4개국 순방 성과",
-			"originallink":"http:\/\/www.ifm.kr\/news\/348498",
-			"link":"http:\/\/www.ifm.kr\/news\/348498",
-			"description":"영종·<b>청라<\/b> 등 인천경제자유구역에 유치하는 MOU를 체결했습니다. 이에 따라 테르메는 연내 2억 달러 규모의 외국인 직접투자 신청서를 제출하고 사업부지는 인천경제청과 협의해 선정하기로 했습니다. 이어 200년 전통의... ",
-			"pubDate":"Tue, 22 Nov 2022 18:30:00 +0900"
 		}
 	]
 }
