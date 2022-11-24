@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 24 Nov 2022 18:20:03 +0900",
-	"total":192723,
+	"lastBuildDate":"Thu, 24 Nov 2022 18:30:02 +0900",
+	"total":192725,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"11억 아파트가 4억에… 1년 새 절반 ‘뚝’ 속출",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20221125022004&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003319910?sid=101",
+			"description":"특히 인천 송도신도시와 <b>청라<\/b>신도시에선 1년 새 아파트 매매가격이 절반 이상 떨어진 거래가 속출하고... <b>청라<\/b>신도시도 상황은 마찬가지다. 2019년 입주한 <b>청라<\/b>동 <b>청라<\/b>한양수자인레이크블루의 전용면적 84㎡의... ",
+			"pubDate":"Thu, 24 Nov 2022 18:24:00 +0900"
+		},
+		{
+			"title":"&apos;돌싱글즈3&apos; 전다빈, 박한별 소속사 이엘파크와 전속계약 [공식]",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01400566632529000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005374386?sid=106",
+			"description":"또한 최근 <b>청라<\/b> 소재의 필라테스 아카데미 ‘솔라테스’ 오픈을 준비하고 있다. 이러한 가운데 이엘파크와 전속계약 소식을 전하며 새로운 프로필 사진이 공개됐다. 블랙톤 의상에서는 도회적이면서도 세련된 분위기를... ",
+			"pubDate":"Thu, 24 Nov 2022 18:19:00 +0900"
+		},
 		{
 			"title":"포스코에너지, 인천에 &apos;미세먼지 저감 3호숲&apos; 조성",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202211241809430858",
@@ -26,6 +40,13 @@
 			"pubDate":"Thu, 24 Nov 2022 17:48:00 +0900"
 		},
 		{
+			"title":"[B tv 인천뉴스] <b>청라<\/b> 주민 뿔났다… &quot;시티타워 해결하라&quot;",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=149032",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=149032",
+			"description":"박인애 앵커) <b>청라<\/b>국제도시 랜드마크인 시티타워 사업이 10년 넘게 지지부진한데요. 참다 못한 <b>청라<\/b> 주민들이 인천경제청과 LH, SPC를 성토하며 대책 마련을 촉구하고 나섰습니다. 보도에 배상민 기잡니다. 리포트)... ",
+			"pubDate":"Thu, 24 Nov 2022 17:42:00 +0900"
+		},
+		{
 			"title":"국회 국토위서 인천 교통 예산 증액... 예결특위 통과 여부 주목",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=92274",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=92274",
@@ -37,13 +58,6 @@
 			"originallink":"http:\/\/www.energydaily.co.kr\/news\/articleView.html?idxno=132648",
 			"link":"http:\/\/www.energydaily.co.kr\/news\/articleView.html?idxno=132648",
 			"description":"포스코에너지는 24일 인천 서구 <b>청라<\/b>국제도시에 위치한 용머리공원에서 강범석 인천 서구청장, 이전혁 포스코에너지 부사장(기획지원본부장), 신정원 초록우산어린이재단 본부장이 참석한 가운데 &apos;미세먼지 저감 3호 숲... ",
-			"pubDate":"Thu, 24 Nov 2022 17:42:00 +0900"
-		},
-		{
-			"title":"[B tv 인천뉴스] <b>청라<\/b> 주민 뿔났다… &quot;시티타워 해결하라&quot;",
-			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=149032",
-			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=149032",
-			"description":"박인애 앵커) <b>청라<\/b>국제도시 랜드마크인 시티타워 사업이 10년 넘게 지지부진한데요. 참다 못한 <b>청라<\/b> 주민들이 인천경제청과 LH, SPC를 성토하며 대책 마련을 촉구하고 나섰습니다. 보도에 배상민 기잡니다. 리포트)... ",
 			"pubDate":"Thu, 24 Nov 2022 17:42:00 +0900"
 		},
 		{
@@ -89,17 +103,17 @@
 			"pubDate":"Thu, 24 Nov 2022 16:40:00 +0900"
 		},
 		{
-			"title":"포스코에너지, 인천에 1000그루 식재…미세먼지 저감",
-			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=311929",
-			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=311929",
-			"description":"포스코에너지(사장 정기섭)는 24일 인천 서구 <b>청라<\/b>국제도시에 위치한 용머리공원에서 강범석 인천 서구청장, 이전혁 포스코에너지 부사장(기획지원본부장), 신정원 초록우산어린이재단 본부장이 참석한 가운데... ",
-			"pubDate":"Thu, 24 Nov 2022 16:34:00 +0900"
-		},
-		{
 			"title":"서울7호선 <b>청라<\/b>연장‧경인고속도로 지하화 ‘증액’",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202211241537118479",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004933275?sid=102",
 			"description":"서울지하철 7호선 <b>청라<\/b> 연장을 비롯해 경인고속도로 지하화 등 인천 지역 교통 현안 해결을 위한 예산이... 허 의원은 소위에서 논의된 인천 교통사업 중 △서울지하철 7호선 <b>청라<\/b> 연장 100억원 △경인고속도로 지하화... ",
+			"pubDate":"Thu, 24 Nov 2022 16:34:00 +0900"
+		},
+		{
+			"title":"포스코에너지, 인천에 1000그루 식재…미세먼지 저감",
+			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=311929",
+			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=311929",
+			"description":"포스코에너지(사장 정기섭)는 24일 인천 서구 <b>청라<\/b>국제도시에 위치한 용머리공원에서 강범석 인천 서구청장, 이전혁 포스코에너지 부사장(기획지원본부장), 신정원 초록우산어린이재단 본부장이 참석한 가운데... ",
 			"pubDate":"Thu, 24 Nov 2022 16:34:00 +0900"
 		},
 		{
@@ -110,10 +124,10 @@
 			"pubDate":"Thu, 24 Nov 2022 16:29:00 +0900"
 		},
 		{
-			"title":"포스코에너지, 미세먼지 저감 3호 숲 조성",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20221124204100013?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013599377?sid=101",
-			"description":"24일 인천 서구 <b>청라<\/b>국제도시에 위치한 용머리공원에서 열린 &apos;포스코에너지 미세먼지 저감 3호 숲 조성&apos; 행사에서 강범석 인천 서구청장(왼쪽부터), 이전혁 포스코에너지 부사장, 신정원 초록우산어린이재단... ",
+			"title":"인천 서구 미세먼지 저감 3호 숲 조성",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20221124204000013?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013599375?sid=101",
+			"description":"24일 인천 서구 <b>청라<\/b>국제도시에 위치한 용머리공원에서 열린 &apos;포스코에너지 미세먼지 저감 3호 숲 조성&apos; 행사에서 강범석 인천 서구청장, 이전혁 포스코에너지 부사장을 비롯한 관계자들이 기념 촬영하고 있다. 2022.... ",
 			"pubDate":"Thu, 24 Nov 2022 16:20:00 +0900"
 		},
 		{
@@ -124,10 +138,10 @@
 			"pubDate":"Thu, 24 Nov 2022 16:20:00 +0900"
 		},
 		{
-			"title":"인천 서구 미세먼지 저감 3호 숲 조성",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20221124204000013?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013599375?sid=101",
-			"description":"24일 인천 서구 <b>청라<\/b>국제도시에 위치한 용머리공원에서 열린 &apos;포스코에너지 미세먼지 저감 3호 숲 조성&apos; 행사에서 강범석 인천 서구청장, 이전혁 포스코에너지 부사장을 비롯한 관계자들이 기념 촬영하고 있다. 2022.... ",
+			"title":"포스코에너지, 미세먼지 저감 3호 숲 조성",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20221124204100013?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013599377?sid=101",
+			"description":"24일 인천 서구 <b>청라<\/b>국제도시에 위치한 용머리공원에서 열린 &apos;포스코에너지 미세먼지 저감 3호 숲 조성&apos; 행사에서 강범석 인천 서구청장(왼쪽부터), 이전혁 포스코에너지 부사장, 신정원 초록우산어린이재단... ",
 			"pubDate":"Thu, 24 Nov 2022 16:20:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/076\/0003943084?sid=106",
 			"description":"또한 최근 <b>청라<\/b> 소재의 필라테스 아카데미 &apos;솔라테스&apos; 오픈을 준비하며 필라테스 강사에서 원장으로 발돋움을 준비 중에 있다. 이러한 가운데 이엘파크와 전속계약 소식을 전하며 공개된 전다빈의 새로운 프로필 사진이... ",
 			"pubDate":"Thu, 24 Nov 2022 15:29:00 +0900"
-		},
-		{
-			"title":"‘돌싱글즈3’ 전다빈, 이엘파크와 전속계약…박하선과 한솥밥",
-			"originallink":"http:\/\/sports.khan.co.kr\/news\/sk_index.html?art_id=202211241521003&sec_id=540101&pt=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/144\/0000851233?sid=106",
-			"description":"전다빈은 방송 이후 <b>청라<\/b> 소재 필라테스 아카데미 ‘솔라테스’ 오픈을 준비 중이다. 또 이엘파크와 전속계약을 맺으면서 본격 연예인 행보도 걸을 것으로 예측된다. 새롭게 공개된 프로필에서 전다빈은 블랙톤 의상의... ",
-			"pubDate":"Thu, 24 Nov 2022 15:22:00 +0900"
-		},
-		{
-			"title":"카페24, 인천 8번째 창업센터 &apos;영종점&apos; 오픈",
-			"originallink":"http:\/\/mbnmoney.mbn.co.kr\/news\/view?news_no=MM1004790440",
-			"link":"http:\/\/mbnmoney.mbn.co.kr\/news\/view?news_no=MM1004790440",
-			"description":"영종·<b>청라<\/b>·송도·부평 등 인천 전역을 포함해 전국 86개 지점을 마련하게 됐습니다. 창업센터 영종점은 영종IC, 공항 신도시JC 등이 가까워 차량 이동이 용이하고 인천대교, 영종대교, 공항철도 등을 통해 <b>청라<\/b>, 송도, 서울... ",
-			"pubDate":"Thu, 24 Nov 2022 14:46:00 +0900"
 		}
 	]
 }
