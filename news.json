@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 28 Nov 2022 20:20:03 +0900",
-	"total":192825,
+	"lastBuildDate":"Mon, 28 Nov 2022 20:30:02 +0900",
+	"total":192826,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"작년 서울·경기 의사 수, 전체의 50% 육박",
+			"originallink":"https:\/\/www.chosun.com\/national\/welfare-medical\/2022\/11\/28\/3BCDZ5WZY5E4PPFC74KDNWK3II\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003731285?sid=102",
+			"description":"지난해 의정부을지대병원에 이어 올해 3월 중앙대광명병원이 문을 열었고, 연세의료원(인천 송도), 아산병원(인천 <b>청라<\/b>), 서울대병원(시흥), 고려대의료원(과천·남양주)도 분원을 설립할 예정이다. 인하대병원... ",
+			"pubDate":"Mon, 28 Nov 2022 20:21:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>대교 vs 하늘대교…&apos;제3연륙교&apos; 명칭 갈등 심화",
 			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1375408",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=224121",
 			"description":"인천공항고속도로 <b>청라<\/b>나들목(IC) 진출입로의 교통 정체 개선을 요구했다. 구는 지난 23일 강범석 서구청장이 신공항하이웨이(주)를 방문해 출퇴근 시 상습적으로 극심한 정체 현상이 발생하고 있는 <b>청라<\/b>IC 진출입로... ",
 			"pubDate":"Mon, 28 Nov 2022 11:28:00 +0900"
-		},
-		{
-			"title":"제일건설 &apos;영종국제도시 제일풍경채 디오션&apos; 선착순 공급",
-			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=607250",
-			"link":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=607250",
-			"description":"특히, 영종국제도시와 <b>청라<\/b>를 연결하는 제3연륙교가 2025년 준공을 목표로 개발이 한창이며, 개통시 서울 여의도와 강남권까지 이동시간도 개선된다. 견본주택은 인천 서구 왕길동 일대에 자리며, 현장 인근에 홍보관을... ",
-			"pubDate":"Mon, 28 Nov 2022 11:22:00 +0900"
 		}
 	]
 }
