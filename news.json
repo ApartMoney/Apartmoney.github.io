@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 28 Nov 2022 19:20:03 +0900",
-	"total":192821,
+	"lastBuildDate":"Mon, 28 Nov 2022 19:30:02 +0900",
+	"total":192822,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[경제프리즘] 글로벌 도시 인천 ‘초일류도시화’",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20221128580162",
+			"link":"https:\/\/www.kyeonggi.com\/article\/20221128580162",
+			"description":"이번 민선 8기는 문화와 산업·관광이 융합되는 원도심을 구현하기 위한 ‘제물포 르네상스’와 영종도와 강화도 남단, 송도·<b>청라<\/b> 등지에 홍콩을 대신할 글로벌 네트워크 중심도시를 만들기 위해 세계 각국의 기업들과... ",
+			"pubDate":"Mon, 28 Nov 2022 19:28:00 +0900"
+		},
 		{
 			"title":"인천서구의회, 세어도 관련 행정·업무태만 지적",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=967848",
@@ -159,17 +166,17 @@
 			"pubDate":"Mon, 28 Nov 2022 11:54:00 +0900"
 		},
 		{
-			"title":"&quot;인천을 세계적인 로봇산업의 핵심기지로&quot;",
-			"originallink":"http:\/\/mbnmoney.mbn.co.kr\/news\/view?news_no=MM1004793336",
-			"link":"http:\/\/mbnmoney.mbn.co.kr\/news\/view?news_no=MM1004793336",
-			"description":"인천시는 다음달 1일 서구 <b>청라<\/b>동 인천로봇랜드 로봇타워에서 &apos;2022 인천 로봇산업 컨퍼런스&apos;를 개최합니다. &apos;특화로봇으로 인천의 미래를 열다&apos;라는 주제로 진행되는 행사에는 김호철 산업통상자원부 기계로봇항공과장과... ",
-			"pubDate":"Mon, 28 Nov 2022 11:28:00 +0900"
-		},
-		{
 			"title":"강범석 인천서구청장, <b>청라<\/b>IC 진출입로 교통정체 개선 요구",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=224121",
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=224121",
 			"description":"인천공항고속도로 <b>청라<\/b>나들목(IC) 진출입로의 교통 정체 개선을 요구했다. 구는 지난 23일 강범석 서구청장이 신공항하이웨이(주)를 방문해 출퇴근 시 상습적으로 극심한 정체 현상이 발생하고 있는 <b>청라<\/b>IC 진출입로... ",
+			"pubDate":"Mon, 28 Nov 2022 11:28:00 +0900"
+		},
+		{
+			"title":"&quot;인천을 세계적인 로봇산업의 핵심기지로&quot;",
+			"originallink":"http:\/\/mbnmoney.mbn.co.kr\/news\/view?news_no=MM1004793336",
+			"link":"http:\/\/mbnmoney.mbn.co.kr\/news\/view?news_no=MM1004793336",
+			"description":"인천시는 다음달 1일 서구 <b>청라<\/b>동 인천로봇랜드 로봇타워에서 &apos;2022 인천 로봇산업 컨퍼런스&apos;를 개최합니다. &apos;특화로봇으로 인천의 미래를 열다&apos;라는 주제로 진행되는 행사에는 김호철 산업통상자원부 기계로봇항공과장과... ",
 			"pubDate":"Mon, 28 Nov 2022 11:28:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1618597",
 			"description":"<b>청라<\/b>국제도시 한 아파트단지내에 설치된 음식물폐기물감량기. 인천시가 자원순환정책의 일환으로 시행하고... 이에 대해 서구의회 김원진 의원은 &quot;최근 <b>청라<\/b>지역 아파트단지에 설치된 음식물감량기 설치 민원을 점검차... ",
 			"pubDate":"Mon, 28 Nov 2022 10:00:00 +0900"
-		},
-		{
-			"title":"‘인천 작전 한라비발디’ 계약조건 10%서 5%로 낮춰 계약 진행 중",
-			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=472072&class=16&grp=",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002291427?sid=101",
-			"description":"교통 개발호재로는 작전역에 예정되어 있는 ‘서울 지하철 2호선 연장선(<b>청라<\/b>~홍대)’이 건설되면 더블역세권으로 거듭나게 되며, 부평역에 예정되어 있는 ‘GTX-B노선’ 이용도 수월하여 서울 접근성이 크게 향상되어... ",
-			"pubDate":"Mon, 28 Nov 2022 09:03:00 +0900"
 		}
 	]
 }
