@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 28 Nov 2022 15:20:02 +0900",
-	"total":192804,
+	"lastBuildDate":"Mon, 28 Nov 2022 15:30:03 +0900",
+	"total":192805,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&apos;교통량 4만대 <b>청라<\/b>IC&apos;…강범석 서구청장 &quot;진출입로 교통정체 개선해야&quot;",
+			"originallink":"https:\/\/www.news1.kr\/articles\/4878254",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006486629?sid=102",
+			"description":"정체구간인 <b>청라<\/b>IC 진출입로 개선을 요구했다. 28일 인천 서구에 따르면 강 구청장은 최근 신공항하이웨이를 방문해 출퇴근 상습 정체구간인 인천공항고속도로 <b>청라<\/b>IC 진출입로 개선을 요구했다.... ",
+			"pubDate":"Mon, 28 Nov 2022 15:21:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>IC 진출입로 교통정체 개선 요구",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1629052",
@@ -173,17 +180,17 @@
 			"pubDate":"Sun, 27 Nov 2022 20:18:00 +0900"
 		},
 		{
-			"title":"검암 플라시아 내년 1월 착공… iH, 내달 입찰 공사업체 선정",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221127010004808",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221127010004808",
-			"description":"검암역세권 사업 대상지는 공항철도와 인천도시철도 2호선을 탈 수 있는 검암역과 가깝다. 인근에 <b>청라<\/b>국제도시(경제자유구역)가 있고, 인천국제공항고속도로 접근성도 뛰어나다.",
-			"pubDate":"Sun, 27 Nov 2022 19:46:00 +0900"
-		},
-		{
 			"title":"인천경제청 &quot;<b>청라<\/b> 재투자 걸림돌 &apos;법령 불일치&apos; 시정해야&quot;",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221127010004800",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221127010004800",
 			"description":"인천경제자유구역청이 입주한 i-타워 \/경인일보DB  인천경제자유구역청이 법령 불일치 문제로 인천 <b>청라<\/b>국... 현행 경제자유구역특별법(이하 특별법)은 <b>청라<\/b>국제도시와 같은 경제자유구역에서 개발사업을 진행한... ",
+			"pubDate":"Sun, 27 Nov 2022 19:46:00 +0900"
+		},
+		{
+			"title":"검암 플라시아 내년 1월 착공… iH, 내달 입찰 공사업체 선정",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221127010004808",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221127010004808",
+			"description":"검암역세권 사업 대상지는 공항철도와 인천도시철도 2호선을 탈 수 있는 검암역과 가깝다. 인근에 <b>청라<\/b>국제도시(경제자유구역)가 있고, 인천국제공항고속도로 접근성도 뛰어나다.",
 			"pubDate":"Sun, 27 Nov 2022 19:46:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1005602",
 			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천 서구가 <b>청라<\/b> 경계에서부터 아시아드사거리까지 1.9㎞ 구간에 이르는 경서3구역 주변 공촌천 생태환경을 개선했다. 27일 구에 따르면 경서3구역 도시개발사업이 진행 중인 주변... ",
 			"pubDate":"Sun, 27 Nov 2022 19:40:00 +0900"
-		},
-		{
-			"title":"공시가보다 낮은 실거래가… 인천 부동산 시장 3중고 심화",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20221127580172",
-			"link":"https:\/\/www.kyeonggi.com\/article\/20221127580172",
-			"description":"또 <b>청라<\/b>국제도시의 B아파트 86㎡형은 최근 공시가격인 4억4천700만원보다 낮은 4억2천만원에 매매가 이뤄지기도 했다. 여기에 원도심에서도 이 같은 역전 현상이 나오고 있다. 지역 내 원도심인 연수구 연수동의 C아파트... ",
-			"pubDate":"Sun, 27 Nov 2022 19:12:00 +0900"
 		}
 	]
 }
