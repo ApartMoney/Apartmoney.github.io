@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Wed, 30 Nov 2022 14:50:02 +0900",
-	"total":192880,
+	"lastBuildDate":"Wed, 30 Nov 2022 15:00:03 +0900",
+	"total":192886,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나은행, 해외 청소년 초청 &apos;글로벌 금융 체험&apos; 실시",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1557000\/?sc=Naver",
+			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1557000\/?sc=Naver",
+			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 &apos;하나글로벌캠퍼스&apos;에서 머물게 된다. 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행 딜링룸을 방문해 치열한... ",
+			"pubDate":"Wed, 30 Nov 2022 14:56:00 +0900"
+		},
+		{
+			"title":"하나은행, 전 세계 32개국 청소년 초청 &apos;글로벌 금융 체험&apos; 제공",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286550076796",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286550076796",
+			"description":"초청된 해외 청소년들은 4박5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 ‘하나글로벌캠퍼스’에서 머물게 된다. 하나은행에 따르면 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행... ",
+			"pubDate":"Wed, 30 Nov 2022 14:52:00 +0900"
+		},
+		{
+			"title":"하나은행, &apos;글로벌 금융 체험&apos;",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=546656",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=546656",
+			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 &apos;하나글로벌캠퍼스&apos;에서 머물게 된다. 30일에는 하나은행 딜링룸을 방문해 외환딜러들의 업무를 체험해보며 글로벌 금융거래의... ",
+			"pubDate":"Wed, 30 Nov 2022 14:52:00 +0900"
+		},
+		{
+			"title":"하나은행, 전 세계 32개국 청소년 초청 글로벌 금융 체험",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1178820\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002662851?sid=101",
+			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융 연수원 ‘하나글로벌캠퍼스’에서 머물게 된다. 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행 딜링룸을 방문해 치열한... ",
+			"pubDate":"Wed, 30 Nov 2022 14:50:00 +0900"
+		},
+		{
+			"title":"하나은행, 32개국 청소년 초청 &apos;글로벌 금융 체험&apos; 실시",
+			"originallink":"http:\/\/www.it-b.co.kr\/news\/articleView.html?idxno=64494",
+			"link":"http:\/\/www.it-b.co.kr\/news\/articleView.html?idxno=64494",
+			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 &apos;하나글로벌캠퍼스&apos;에서 머물게 된다. 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행 딜링룸을 방문해 치열한... ",
+			"pubDate":"Wed, 30 Nov 2022 14:48:00 +0900"
+		},
+		{
+			"title":"하나은행, 전 세계 32개국 청소년 초청 금융 체험 실시",
+			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=105092",
+			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=105092",
+			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 &apos;하나글로벌캠퍼스&apos;에서 머물게 된다. 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행 딜링룸을 방문해 치열한... ",
+			"pubDate":"Wed, 30 Nov 2022 14:48:00 +0900"
+		},
 		{
 			"title":"하나은행, 전 세계 32개국 청소년 초청 글로벌 금융 체험&apos; 실시",
 			"originallink":"https:\/\/www.socialvalue.kr\/news\/view\/1065591523903894",
@@ -171,48 +213,6 @@
 			"link":"http:\/\/edu.chosun.com\/site\/data\/html_dir\/2022\/11\/29\/2022112901826.html",
 			"description":"부문별 대상에는 △수학일기 임주하(인천<b>청라<\/b>?6세), 김수정(창원상남?7세) △과학일기 김우진(분당정자?6세), 김기찬(은평?7세) △수학독후감 최유주(경산?6세), 최진우(동탄?7세) △ 과학독후감 박채린(동탄2?6세), 이찬유... ",
 			"pubDate":"Wed, 30 Nov 2022 09:12:00 +0900"
-		},
-		{
-			"title":"한국정보통신, 전자결제 브랜드평판 빅데이터 분석 1위···코리아센터·카페...",
-			"originallink":"https:\/\/www.enetnews.co.kr\/news\/articleView.html?idxno=8094",
-			"link":"https:\/\/www.enetnews.co.kr\/news\/articleView.html?idxno=8094",
-			"description":"영종점은 영종IC, 공항 신도시JC 등이 가까워 차량 이동이 용이하고 인천대교, 영종대교, 공항철도 등을 통해 <b>청라<\/b>, 송도, 서울 및 수도권을 쉽게 오갈 수 있어 교통이 편리하다는 특징이 있다. 특히 차로... ",
-			"pubDate":"Wed, 30 Nov 2022 08:46:00 +0900"
-		},
-		{
-			"title":"&quot;소재부터 ESG까지&quot;, 포스코그룹, 친환경 스틸로 지속가능 건설 이끈다",
-			"originallink":"http:\/\/www.ilyoseoul.co.kr\/news\/articleView.html?idxno=469216",
-			"link":"http:\/\/www.ilyoseoul.co.kr\/news\/articleView.html?idxno=469216",
-			"description":"제3연륙교 조감도 [제공 : 홍보팀] 인천의 영종도와 <b>청라<\/b>를 연결하는 제3연륙교는 주경간장은 560m로 인천대교에 이어 국내 두 번째이나 주탑 전망대 높이는 180m로 세계에서 가장 높은 미국의 페놉스콧 내로스교량... ",
-			"pubDate":"Wed, 30 Nov 2022 08:12:00 +0900"
-		},
-		{
-			"title":"메타버스 쇼핑게임, 야구와 콜라보… “세상에 없는 쇼핑 경험”",
-			"originallink":"https:\/\/www.donga.com\/news\/article\/all\/20221129\/116759576\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003465257?sid=101",
-			"description":"정용진 신세계그룹 부회장은 2027년까지 스타필드 <b>청라<\/b>와 연계한 SSG <b>청라<\/b> 돔구장을 짓겠다는 ‘스타필드 <b>청라<\/b>’ 프로젝트 구상을 밝히며 공격적인 마케팅을 예고했다. 전용배 단국대 스포츠경영학과 교수는 “신세계가... ",
-			"pubDate":"Wed, 30 Nov 2022 03:03:00 +0900"
-		},
-		{
-			"title":"서울·인천에 ‘첫눈’ 내렸다… 지난해보다 19일 늦어",
-			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/11\/30\/20221130500057.html?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003759353?sid=102",
-			"description":"이날 인천 <b>청라<\/b>에 방문한 이모(27)씨는 “모임을 가진 후 오후 10시쯤 지인과 함께 밖에 나왔더니 눈이 내리고 있어 깜짝 놀랐다”며 “첫눈을 보기로 했던 연인에게 연락해 눈이 온다 하니 놀라더라. 다음 내리는... ",
-			"pubDate":"Wed, 30 Nov 2022 00:25:00 +0900"
-		},
-		{
-			"title":"한창한 5분 자유발언…&quot;제3연륙교 명칭, &apos;하늘대교&apos;로 칭해야&quot; [듣고보니]",
-			"originallink":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=145226",
-			"link":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=145226",
-			"description":"ⓒ사진제공 = 한창한 의원실 국민의힘 한창한 중구의원은 지난 25일 열린 307회 본회의에서 5분 자유발언을 통해 영종도와 인천 <b>청라<\/b>국제도시를 연결하는 &apos;제3연륙교&apos; 명칭을 &apos;<b>청라<\/b>대교&apos;가 아닌 &apos;하늘대교&apos;로 변경할 것을... ",
-			"pubDate":"Tue, 29 Nov 2022 20:54:00 +0900"
-		},
-		{
-			"title":"&quot;인천 현안해결 초당적 협력하자&quot;",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363568257",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363568257",
-			"description":"이밖에 이날 협의회에서는 윤석열 대통령과 유 시장의 주요 공약이었던 GTX-Y 노선 유치와 13년간 난항을 겪고 있는 <b>청라<\/b>시티타워 건립 문제, 최근 부평 캠프마켓으로 발표된 제2의료원 입지 선정 등이 거론됐다. 유 시장은... ",
-			"pubDate":"Tue, 29 Nov 2022 20:42:00 +0900"
 		}
 	]
 }
