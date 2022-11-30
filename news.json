@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Wed, 30 Nov 2022 15:00:03 +0900",
-	"total":192886,
+	"lastBuildDate":"Wed, 30 Nov 2022 15:10:02 +0900",
+	"total":192890,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나은행, 전세계 32개국 청소년 초청 &apos;글로벌 금융 체험&apos;",
+			"originallink":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=194158",
+			"link":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=194158",
+			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 &apos;하나글로벌캠퍼스&apos;에서 머물게 된다. 이날에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행 딜링룸을 방문해 치열한... ",
+			"pubDate":"Wed, 30 Nov 2022 15:06:00 +0900"
+		},
+		{
+			"title":"하나은행, 32개국 청소년 초청 &apos;글로벌 금융 체험&apos;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20221130_0002106311&cID=15001&pID=15000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011567368?sid=101",
+			"description":"초청된 해외 청소년들은 4박5일간의 연수기간에 인천 <b>청라<\/b> 하나금융그룹 연수원 &apos;하나글로벌캠퍼스&apos;에 머문다. 청소년들은 이날 하나은행 딜링룸을 방문해 치열한 외환시장에서 외환딜러들의 업무를 체험했다. 또... ",
+			"pubDate":"Wed, 30 Nov 2022 15:01:00 +0900"
+		},
+		{
+			"title":"하나은행, 32개국 청소년 초청 &apos;글로벌 금융 체험&apos; 실시",
+			"originallink":"http:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=41066",
+			"link":"http:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=41066",
+			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 &apos;하나글로벌캠퍼스&apos;에서 머물게 된다. 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행 딜링룸을 방문해 치열한... ",
+			"pubDate":"Wed, 30 Nov 2022 15:00:00 +0900"
+		},
+		{
+			"title":"하나은행, 해외 청소년 100여명에 위폐 감별법 등 교육",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20221130010016919",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20221130010016919",
+			"description":"하나은행 VIP클럽 영업점에서 PB(프라이빗 뱅커)로부터 자산관리서비스도 경험했다.이들은 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 &apos;하나글로벌캠퍼스&apos;에서 4박 5일간 머물 예정이다.  하나은행 관계자는 &quot;이번 체험 활동을... ",
+			"pubDate":"Wed, 30 Nov 2022 14:58:00 +0900"
+		},
 		{
 			"title":"하나은행, 해외 청소년 초청 &apos;글로벌 금융 체험&apos; 실시",
 			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1557000\/?sc=Naver",
@@ -12,17 +40,17 @@
 			"pubDate":"Wed, 30 Nov 2022 14:56:00 +0900"
 		},
 		{
-			"title":"하나은행, 전 세계 32개국 청소년 초청 &apos;글로벌 금융 체험&apos; 제공",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286550076796",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286550076796",
-			"description":"초청된 해외 청소년들은 4박5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 ‘하나글로벌캠퍼스’에서 머물게 된다. 하나은행에 따르면 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행... ",
-			"pubDate":"Wed, 30 Nov 2022 14:52:00 +0900"
-		},
-		{
 			"title":"하나은행, &apos;글로벌 금융 체험&apos;",
 			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=546656",
 			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=546656",
 			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 &apos;하나글로벌캠퍼스&apos;에서 머물게 된다. 30일에는 하나은행 딜링룸을 방문해 외환딜러들의 업무를 체험해보며 글로벌 금융거래의... ",
+			"pubDate":"Wed, 30 Nov 2022 14:52:00 +0900"
+		},
+		{
+			"title":"하나은행, 전 세계 32개국 청소년 초청 &apos;글로벌 금융 체험&apos; 제공",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286550076796",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286550076796",
+			"description":"초청된 해외 청소년들은 4박5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 ‘하나글로벌캠퍼스’에서 머물게 된다. 하나은행에 따르면 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행... ",
 			"pubDate":"Wed, 30 Nov 2022 14:52:00 +0900"
 		},
 		{
@@ -131,17 +159,17 @@
 			"pubDate":"Wed, 30 Nov 2022 14:30:00 +0900"
 		},
 		{
-			"title":"하나은행, 세계 32개국 청소년 초청 ‘글로벌 금융체험’",
-			"originallink":"http:\/\/www.popcornnews.net\/34423",
-			"link":"http:\/\/www.popcornnews.net\/34423",
-			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 ‘하나글로벌캠퍼스’에서 머물게 된다. 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행 딜링룸을 방문해 치열한... ",
-			"pubDate":"Wed, 30 Nov 2022 14:20:00 +0900"
-		},
-		{
 			"title":"하나은행, 32개국 청소년 초청 &apos;글로벌 금융체험&apos; 실시",
 			"originallink":"https:\/\/www.fetv.co.kr\/news\/article.html?no=129358",
 			"link":"https:\/\/www.fetv.co.kr\/news\/article.html?no=129358",
 			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융 연수원 ‘하나글로벌캠퍼스’에서 머물게 된다. 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행 딜링룸을 방문해 치열한... ",
+			"pubDate":"Wed, 30 Nov 2022 14:20:00 +0900"
+		},
+		{
+			"title":"하나은행, 세계 32개국 청소년 초청 ‘글로벌 금융체험’",
+			"originallink":"http:\/\/www.popcornnews.net\/34423",
+			"link":"http:\/\/www.popcornnews.net\/34423",
+			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 ‘하나글로벌캠퍼스’에서 머물게 된다. 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행 딜링룸을 방문해 치열한... ",
 			"pubDate":"Wed, 30 Nov 2022 14:20:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"http:\/\/fpn119.co.kr\/187843",
 			"description":"<b>청라<\/b>호수도서관 1층 로비엔 어린이 불조심 포스터 수상작 20점(대상 2, 최우수 2, 우수 6, 장려 10)이 전시됐다. 전시회는 내달 1일까지 진행되며 향후 지하철 역사 등 릴레이 형식으로 전시될 계획이다. 박은지... ",
 			"pubDate":"Wed, 30 Nov 2022 10:50:00 +0900"
-		},
-		{
-			"title":"포스코 &apos;친환경 스틸&apos; 건설현장 접목 시킨다",
-			"originallink":"http:\/\/news.bizwatch.co.kr\/article\/industry\/2022\/11\/29\/0023",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/648\/0000012059?sid=101",
-			"description":"인천 중구 중산동과 서구 <b>청라<\/b>동 사이를 잇는 제3연륙교 건설현장. 오는 2025년 준공을 목표로 4.68km 구간의 다리 건설이 한창이다. 인천경제자유구역에 따르면 제3연륙교는 영종과 <b>청라<\/b>를 연결해 지역발전 시너지 효과를... ",
-			"pubDate":"Wed, 30 Nov 2022 10:01:00 +0900"
-		},
-		{
-			"title":"‘인천 작전 한라비발디’ 계약금 2천만원대 계약조건 변경",
-			"originallink":"http:\/\/www.sisa-news.com\/news\/article.html?no=222515",
-			"link":"http:\/\/www.sisa-news.com\/news\/article.html?no=222515",
-			"description":"교통 개발호재로는 작전역에 예정되어 있는 ‘서울 지하철 2호선 연장선(<b>청라<\/b>~홍대)’이 건설되면 더블역세권으로 거듭나게 되며, 부평역에 예정되어 있는 ‘GTX-B노선’ 이용도 수월하여 서울 접근성이 크게 향상되어... ",
-			"pubDate":"Wed, 30 Nov 2022 09:42:00 +0900"
-		},
-		{
-			"title":"금리인상 걱정 없는 ‘인천 작전 한라비발디’ 주목",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/26DTS6XPE5",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004128137?sid=101",
-			"description":"교통 개발호재로는 작전역에 예정되어 있는 ‘서울 지하철 2호선 연장선(<b>청라<\/b>~홍대)’이 건설되면 더블역세권으로 거듭나게 되며, 부평역에 예정되어 있는 ‘GTX-B노선’ 이용도 수월하여 서울 접근성이 크게 향상되어... ",
-			"pubDate":"Wed, 30 Nov 2022 09:29:00 +0900"
-		},
-		{
-			"title":"유아 창의사고력 브랜드 와이키즈 주최 ‘제15회 창의력 글쓰기 대회’ 성료",
-			"originallink":"http:\/\/edu.chosun.com\/site\/data\/html_dir\/2022\/11\/29\/2022112901826.html",
-			"link":"http:\/\/edu.chosun.com\/site\/data\/html_dir\/2022\/11\/29\/2022112901826.html",
-			"description":"부문별 대상에는 △수학일기 임주하(인천<b>청라<\/b>?6세), 김수정(창원상남?7세) △과학일기 김우진(분당정자?6세), 김기찬(은평?7세) △수학독후감 최유주(경산?6세), 최진우(동탄?7세) △ 과학독후감 박채린(동탄2?6세), 이찬유... ",
-			"pubDate":"Wed, 30 Nov 2022 09:12:00 +0900"
 		}
 	]
 }
