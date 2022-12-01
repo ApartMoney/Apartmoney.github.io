@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Dec 2022 19:20:02 +0900",
-	"total":192979,
+	"lastBuildDate":"Thu, 01 Dec 2022 19:30:03 +0900",
+	"total":192980,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 &apos;마천루 건설 사업&apos; 오리무중",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1172451",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1172451",
+			"description":"\/사진제공=인천경제청 인천지역 양대 건설사업인 연수구 송도국제도시 &apos;인천타워&apos;와 서구 <b>청라<\/b>국제도시... 448m, 약 110층 높이의 <b>청라<\/b> &apos;시티타워&apos;는 사업자 선정부터 다시 밟아야 할 위기다. LH는 특수목적법인(SPC)인... ",
+			"pubDate":"Thu, 01 Dec 2022 19:26:00 +0900"
+		},
 		{
 			"title":"계약자 부담 줄인 &apos;인천 작전 한라비발디&apos;",
 			"originallink":"http:\/\/www.newskr.kr\/news\/articleView.html?idxno=84522",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=105138",
 			"description":"세련된 편집과 디자인으로 창간호 이후 18년 동안 IFEZ 비전과 전략,  송도·영종·<b>청라<\/b>국제도시의 개발 현황, 투자유치 진행 사항, 문화·정주여건을 전하는 등 IFEZ의 역사를 기록해 온 투자 소식지로 투자 관계자와... ",
 			"pubDate":"Thu, 01 Dec 2022 10:20:00 +0900"
-		},
-		{
-			"title":"인천경제청, ‘IFEZ 저널’ 2022 대한민국 커뮤니케이션대상 수상",
-			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20221201010000083",
-			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20221201010000083",
-			"description":"세련된 편집과 디자인으로 창간호 이후 18년 동안 IFEZ 비전과 전략, 송도·영종·<b>청라<\/b>국제도시의 개발 현황, 투자유치 진행 사항, 문화·정주여건을 전하는 등 IFEZ의 역사를 기록해 온 투자 소식지로 투자 관계자와... ",
-			"pubDate":"Thu, 01 Dec 2022 09:56:00 +0900"
 		}
 	]
 }
