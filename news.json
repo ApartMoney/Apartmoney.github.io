@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Dec 2022 17:20:02 +0900",
-	"total":192971,
+	"lastBuildDate":"Thu, 01 Dec 2022 17:30:02 +0900",
+	"total":192972,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[B tv 인천뉴스] [의정포커스] 이용창 인천시의원",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=149381",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=149381",
+			"description":"<b>청라<\/b>국제도시 검단신도시 루원시티 등 신도시가 계속 급속하게 발전하는데도 불구하고 상대적으로 제 지역구에는 올겨울을 나기 위해 연탄을 지원받을 정도로 낙후되고 어려운 지역도 많이 있습니다. 그것을 보면서... ",
+			"pubDate":"Thu, 01 Dec 2022 17:24:00 +0900"
+		},
 		{
 			"title":"[<b>청라<\/b>언덕]이제 민주당만 남았다",
 			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022112813550256666",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=435650",
 			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 &apos;하나글로벌캠퍼스&apos;에서 머물게 된다. 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행 딜링룸을 방문해 치열한... ",
 			"pubDate":"Wed, 30 Nov 2022 21:36:00 +0900"
-		},
-		{
-			"title":"하나은행, 전 세계 32개국 청소년 초청 &apos;글로벌 금융 체험&apos; 실시",
-			"originallink":"http:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=66863",
-			"link":"http:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=66863",
-			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 &apos;하나글로벌캠퍼스&apos;에서 머물게 된다. 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행 딜링룸을 방문해 치열한... ",
-			"pubDate":"Wed, 30 Nov 2022 21:14:00 +0900"
 		}
 	]
 }
