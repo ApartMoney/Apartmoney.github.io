@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Dec 2022 11:10:02 +0900",
-	"total":192958,
+	"lastBuildDate":"Thu, 01 Dec 2022 11:20:02 +0900",
+	"total":192959,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[1일 인천 서구 소식] 마을공동체지원사업 사례공유회 개최 등",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20221201500125",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20221201500125",
+			"description":"포스코에너지 인천발전소, <b>청라<\/b>1동에 노트북∙PC 기증 인천 서구 <b>청라<\/b>1동은 지난달 30일 포스코에너지 인천발전소로부터 <b>청라<\/b>1동 주민자치센터에서 사용할 노트북, PC를 기증받았다고 밝혔다. 포스코에너지 인천발전소는... ",
+			"pubDate":"Thu, 01 Dec 2022 11:16:00 +0900"
+		},
 		{
 			"title":"포스코에너지 인천발전소, <b>청라<\/b>1동에 노트북·PC 기증",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1630593",
@@ -82,17 +89,17 @@
 			"pubDate":"Thu, 01 Dec 2022 07:41:00 +0900"
 		},
 		{
-			"title":"글로벌 ESG 활동 실천 하나은행…32개국 청소년 초청 &apos;글로벌 금융 체험&apos;",
-			"originallink":"http:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=90377",
-			"link":"http:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=90377",
-			"description":"해외 청소년들은 4박 5일간에 걸친 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 &apos;하나글로벌캐퍼스&apos;에 머물게 되며 지난달 30일에는 하나은행 딜링룸을 방문, 외환딜러들의 업무를 체험하고 글로벌 금융거래 실제... ",
-			"pubDate":"Thu, 01 Dec 2022 00:56:00 +0900"
-		},
-		{
 			"title":"하나은행, 전 세계 32개국 청소년 대상 금융 체험 기회 제공",
 			"originallink":"http:\/\/www.segyebiz.com\/newsView\/20221201500419?OutUrl=naver",
 			"link":"http:\/\/www.segyebiz.com\/newsView\/20221201500419?OutUrl=naver",
 			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 ‘하나글로벌캠퍼스’에서 머문다. 지난달 30일엔 하나은행 딜링룸을 방문해 외환딜러들의 업무를 체험해보며 글로벌... ",
+			"pubDate":"Thu, 01 Dec 2022 00:56:00 +0900"
+		},
+		{
+			"title":"글로벌 ESG 활동 실천 하나은행…32개국 청소년 초청 &apos;글로벌 금융 체험&apos;",
+			"originallink":"http:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=90377",
+			"link":"http:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=90377",
+			"description":"해외 청소년들은 4박 5일간에 걸친 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 &apos;하나글로벌캐퍼스&apos;에 머물게 되며 지난달 30일에는 하나은행 딜링룸을 방문, 외환딜러들의 업무를 체험하고 글로벌 금융거래 실제... ",
 			"pubDate":"Thu, 01 Dec 2022 00:56:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004781895?sid=102",
 			"description":"30일 인천경제자유구역청에 따르면 내년부터 인천경제자유구역(송도·영종·<b>청라<\/b>국제도시)에서 영어로... 우선 송도국제도시에서 영어통용도시 선포식을 열고 영종·<b>청라<\/b> 등으로 확대할 계획이다. 외국인 친화 사업장... ",
 			"pubDate":"Wed, 30 Nov 2022 18:29:00 +0900"
-		},
-		{
-			"title":"하나은행, 전 세계 청소년 100명 하나은행 딜링룸에 초청",
-			"originallink":"http:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=42557",
-			"link":"http:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=42557",
-			"description":"초청된 해외 청소년들은 4박 5일간의 연수기간 동안 인천 <b>청라<\/b> 소재 하나금융그룹 연수원 &apos;하나글로벌캠퍼스&apos;에서 머물게 된다. 30일에는 국내 최대 규모의 외환거래가 일어나고 있는 하나은행 딜링룸을 방문해 치열한... ",
-			"pubDate":"Wed, 30 Nov 2022 18:12:00 +0900"
 		}
 	]
 }
