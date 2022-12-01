@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Dec 2022 20:40:02 +0900",
-	"total":192983,
+	"lastBuildDate":"Thu, 01 Dec 2022 20:50:03 +0900",
+	"total":192984,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[뉴스분석] 인천 제2의료원 &apos;캠프 마켓&apos; 입지 선정 논란",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221201010000142",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221201010000142",
+			"description":"서구 <b>청라<\/b>국제도시에는 종합병원과 의료·바이오 교육·연구시설이 들어선다. 서울아산병원 컨소시엄은 지난해 8월 <b>청라<\/b>의료복합타운 사업자 공모에서 1위를 차지해 800병상 규모의 종합병원을 건립·운영하게 됐다.... ",
+			"pubDate":"Thu, 01 Dec 2022 20:40:00 +0900"
+		},
 		{
 			"title":"멈춰서는 물류… 해법 찾아 잰걸음",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1006498",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1630593",
 			"description":"인천 서구 <b>청라<\/b>1동은 지난달 30일 포스코에너지 인천발전소로부터 <b>청라<\/b>1동 주민자치센터에서 사용할 노트북, PC를 기증받았다고 1일 밝혔다. 포스코에너지 인천발전소는 그간 지속적인 기증을 통해 <b>청라<\/b>1동 주민들에게... ",
 			"pubDate":"Thu, 01 Dec 2022 11:00:00 +0900"
-		},
-		{
-			"title":"인천경제청, &apos;IFEZ 저널&apos; 대한민국 커뮤니케이션대상에서 한국사보협회장상 수...",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20221201104016157",
-			"link":"https:\/\/www.ajunews.com\/view\/20221201104016157",
-			"description":"세련된 편집과 디자인으로 창간호 이후 18년 동안 IFEZ 비전과 전략, 송도·영종·<b>청라<\/b>국제도시의 개발 현황, 투자유치 진행 사항, 문화·정주여건을 전하는 등 IFEZ의 역사를 기록해 온 투자 소식지로 투자 관계자와... ",
-			"pubDate":"Thu, 01 Dec 2022 10:56:00 +0900"
 		}
 	]
 }
