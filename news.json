@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 03 Dec 2022 01:00:03 +0900",
-	"total":193042,
+	"lastBuildDate":"Sat, 03 Dec 2022 01:10:02 +0900",
+	"total":193043,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 지방자치 경쟁력 전국 최고… 3년 연속 1위",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/12\/02\/20221202505819.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003760582?sid=102",
+			"description":"구는 인천국제공항과 항만이 인접해 있는 지리적인 이점과 함께 <b>청라<\/b>국제도시, 루원시티, 검단신도시, 가정지구 개발 등 대형 개발 프로젝트들이 맞물려 추진 중이다. 연장선에서 지속적인 인구 증가로 무한한 성장... ",
+			"pubDate":"Sat, 03 Dec 2022 01:03:00 +0900"
+		},
 		{
 			"title":"인천 서구, 지방자치 경쟁력 3년 연속 최우수 - 자치 역량 최고",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=376456",
@@ -138,13 +145,6 @@
 			"pubDate":"Fri, 02 Dec 2022 14:46:00 +0900"
 		},
 		{
-			"title":"홈플러스, 전기에너지 절약 경진대회 대상 수상",
-			"originallink":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=91055",
-			"link":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=91055",
-			"description":"홈플러스는 이번 경진대회에 합정, 강동, 상봉, 남현, 인천<b>청라<\/b>, 동수원, 북수원, 향남, 김포, 오산, 평택안중, 울산동구점 등 총 12개 매장이 참여해 매장 내 조명을 LED로 교체하는 등의 노력을 통해 경진대회 참여 사업장... ",
-			"pubDate":"Fri, 02 Dec 2022 14:02:00 +0900"
-		},
-		{
 			"title":"[육아] &quot;아동보육 시설, 이 정도는 돼야지!&quot;… 노동부 우수 &apos;직장어린이집&apos; 포...",
 			"originallink":"http:\/\/www.womentimes.co.kr\/news\/articleView.html?idxno=58499",
 			"link":"http:\/\/www.womentimes.co.kr\/news\/articleView.html?idxno=58499",
@@ -152,17 +152,24 @@
 			"pubDate":"Fri, 02 Dec 2022 14:02:00 +0900"
 		},
 		{
-			"title":"제3연륙교 명칭 분쟁...영종주민들 &apos;시민추진단&apos; 발족 &apos;선공&apos;",
-			"originallink":"http:\/\/www.ifm.kr\/news\/349317",
-			"link":"http:\/\/www.ifm.kr\/news\/349317",
-			"description":"인천 영종국제도시와 <b>청라<\/b>국제도시를 잇는 &apos;제3연륙교&apos;의 명칭을 놓고 <b>청라<\/b> 주민들과 갈등을 빚었던 영종 주민들이 &apos;명칭 선정 시민추진단&apos;을 발족했습니다. 영종지역 15개 주민단체로 구성된 &apos;영종국제도시총연합회... ",
-			"pubDate":"Fri, 02 Dec 2022 14:00:00 +0900"
+			"title":"홈플러스, 전기에너지 절약 경진대회 대상 수상",
+			"originallink":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=91055",
+			"link":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=91055",
+			"description":"홈플러스는 이번 경진대회에 합정, 강동, 상봉, 남현, 인천<b>청라<\/b>, 동수원, 북수원, 향남, 김포, 오산, 평택안중, 울산동구점 등 총 12개 매장이 참여해 매장 내 조명을 LED로 교체하는 등의 노력을 통해 경진대회 참여 사업장... ",
+			"pubDate":"Fri, 02 Dec 2022 14:02:00 +0900"
 		},
 		{
 			"title":"[유통산책] 고객 요청에… GS25, 버터맥주 팝업스토어 3주 연장 外",
 			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202212021348437921c3c506100_1\/article.html",
 			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202212021348437921c3c506100_1\/article.html",
 			"description":"홈플러스는 합정, 강동, 상봉, 남현, 인천<b>청라<\/b>, 동수원, 북수원, 향남, 김포, 오산, 평택안중, 울산동구점 등 총 12개 매장이 참여해 매장 내 조명을 LED로 교체하는 등의 노력을 통해 경진대회 참여 사업장 중... ",
+			"pubDate":"Fri, 02 Dec 2022 14:00:00 +0900"
+		},
+		{
+			"title":"제3연륙교 명칭 분쟁...영종주민들 &apos;시민추진단&apos; 발족 &apos;선공&apos;",
+			"originallink":"http:\/\/www.ifm.kr\/news\/349317",
+			"link":"http:\/\/www.ifm.kr\/news\/349317",
+			"description":"인천 영종국제도시와 <b>청라<\/b>국제도시를 잇는 &apos;제3연륙교&apos;의 명칭을 놓고 <b>청라<\/b> 주민들과 갈등을 빚었던 영종 주민들이 &apos;명칭 선정 시민추진단&apos;을 발족했습니다. 영종지역 15개 주민단체로 구성된 &apos;영종국제도시총연합회... ",
 			"pubDate":"Fri, 02 Dec 2022 14:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.sisanews24.co.kr\/9444",
 			"description":"이는 송도국제도시가 있는 연수구가 –5.99%, <b>청라<\/b>국제도시·검단신도시가 소재한 서구가 –3.13%를 기록한 것에 비해 크게 낮은 하락폭이다. 지방 광역시도 비슷한 양상이다. 같은 기간 부산 중구 아파트 매매가 상승률은... ",
 			"pubDate":"Fri, 02 Dec 2022 11:20:00 +0900"
-		},
-		{
-			"title":"양경렬 서인천세무서장 &quot;<b>청라<\/b>동 신청사…고품질 납세서비스 역점&quot;",
-			"originallink":"http:\/\/www.taxtimes.co.kr\/news\/article.html?no=257447",
-			"link":"http:\/\/www.taxtimes.co.kr\/news\/article.html?no=257447",
-			"description":"서인천세무서(서장·양경렬)가 인천 <b>청라<\/b>동 시대를 맞아 지역납세자들의 수준 높은 기대에 부응할 수 있는 납세서비스 제공 기반을 마련했다. 서인천세무서는  1일 서구 <b>청라<\/b>사파이어로 192에 소재한 신축청사로 이전을... ",
-			"pubDate":"Fri, 02 Dec 2022 11:08:00 +0900"
 		}
 	]
 }
