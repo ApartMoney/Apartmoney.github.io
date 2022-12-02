@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 02 Dec 2022 15:40:02 +0900",
-	"total":193027,
+	"lastBuildDate":"Fri, 02 Dec 2022 15:50:02 +0900",
+	"total":193029,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[생활경제 이슈] 홈플러스, ‘전기에너지 절약 경진대회’서 대상 수상 外",
+			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=20221202154145681204ead0791_12",
+			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=20221202154145681204ead0791_12",
+			"description":"홈플러스는 이번 경진대회에 합정, 강동, 상봉, 남현, 인천<b>청라<\/b>, 동수원, 북수원, 향남, 김포, 오산, 평택안중, 울산동구점 등 총 12개 매장이 참여해 매장 내 조명을 LED로 교체하는 등의 노력을 통해 경진대회 참여... ",
+			"pubDate":"Fri, 02 Dec 2022 15:48:00 +0900"
+		},
+		{
+			"title":"[조달청 입찰정보]주간 물품구매",
+			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2022120202109931731003&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002770300?sid=105",
+			"description":"한국토지주택공사 대구경북지역본부 1,805 2022\/12\/09 적격심사 20 (긴급)<b>청라<\/b> 커넬웨이 경관조명 개선사업(2단계) 관급자재(특수조명설비) 구매 인천광역시 경제자유구역청 964 2022\/12\/09 규격가격",
+			"pubDate":"Fri, 02 Dec 2022 15:39:00 +0900"
+		},
 		{
 			"title":"서인천세무서, <b>청라<\/b>동 신청사서 준공기념식",
 			"originallink":"http:\/\/kpenews.com\/View.aspx?No=2626696",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002291834?sid=101",
 			"description":"서인천세무서가 인천광역시 서구 <b>청라<\/b>사파이어로 192 소재 신축청사로 이전을 완료하고 지난 1일 청사 준공기념행사를 가졌다. 이번 준공기념식에는 이현규 인천지방국세청장, 강범석 서구청장 등 지역 내 주요 인사들이... ",
 			"pubDate":"Fri, 02 Dec 2022 09:58:00 +0900"
-		},
-		{
-			"title":"양경렬 서인천서장, &quot;신뢰받는 인천 1번지 세무서 될 것을 약속&quot;",
-			"originallink":"http:\/\/www.intn.co.kr\/news\/articleView.html?idxno=2026089",
-			"link":"http:\/\/www.intn.co.kr\/news\/articleView.html?idxno=2026089",
-			"description":"왼쪽 열번째 양경렬 서인천서장과 이현규 인천지방국세청장 서인천세무서(서장 양경렬)가 1일 인천광역시 서구 <b>청라<\/b>사파이어로 192 소재 신축청사로 이전을 완료하고 청사 준공기념행사를 가졌다고 2일 밝혔다.... ",
-			"pubDate":"Fri, 02 Dec 2022 09:54:00 +0900"
-		},
-		{
-			"title":"홈플러스, ‘전기에너지 절약 경진대회’서 대상 수상",
-			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20221202000138",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002073150?sid=101",
-			"description":"홈플러스는 합정, 강동, 상봉, 남현, 인천<b>청라<\/b>, 동수원, 북수원, 향남, 김포, 오산, 평택안중, 울산동구점 등 총 12개 매장이 조명을 LED로 교체하는 등의 노력을 통해 경진대회 참여 사업장 중 전력사용량을 가장 많이 낮춘... ",
-			"pubDate":"Fri, 02 Dec 2022 09:47:00 +0900"
 		}
 	]
 }
