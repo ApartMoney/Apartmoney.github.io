@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 02 Dec 2022 16:40:02 +0900",
-	"total":193032,
+	"lastBuildDate":"Fri, 02 Dec 2022 16:50:02 +0900",
+	"total":193033,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 지방자치 경쟁력 3년 연속 최우수 기관 인증",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25122650",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003243174?sid=102",
+			"description":"서구가 이렇게 높은 평가를 받은 배경으로는 인천국제공항과 항만이 인접해 있는 지리적 이점과 함께 <b>청라<\/b>국제도시·루원시티·검단신도시·가정지구 개발 등 대형 도시개발사업 추진으로 도시 성장이 가속화되는 점... ",
+			"pubDate":"Fri, 02 Dec 2022 16:40:00 +0900"
+		},
 		{
 			"title":"&apos;직접 <b>청라<\/b>돔 구상?&apos; 정용진 구단주, MLB 구장 투어 나섰다",
 			"originallink":"http:\/\/sports.chosun.com\/news\/ntype.htm?id=202212030100017950002409&servicedate=20221202",
@@ -68,13 +75,6 @@
 			"pubDate":"Fri, 02 Dec 2022 14:46:00 +0900"
 		},
 		{
-			"title":"[육아] &quot;아동보육 시설, 이 정도는 돼야지!&quot;… 노동부 우수 &apos;직장어린이집&apos; 포...",
-			"originallink":"http:\/\/www.womentimes.co.kr\/news\/articleView.html?idxno=58499",
-			"link":"http:\/\/www.womentimes.co.kr\/news\/articleView.html?idxno=58499",
-			"description":"하나금융지주 <b>청라<\/b>하나금융공동직장어린이집 △우수상(상금 50만원)=엘지전자㈜ LG전자창원어린이집, 원주소방서어린이집, ㈜KCC직장어린이집 ◇ UCC 부문 △대상(상금 200만원)=롯데백화점노원점어린이집 △최우수상... ",
-			"pubDate":"Fri, 02 Dec 2022 14:02:00 +0900"
-		},
-		{
 			"title":"홈플러스, 전기에너지 절약 경진대회 대상 수상",
 			"originallink":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=91055",
 			"link":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=91055",
@@ -82,17 +82,24 @@
 			"pubDate":"Fri, 02 Dec 2022 14:02:00 +0900"
 		},
 		{
-			"title":"[유통산책] 고객 요청에… GS25, 버터맥주 팝업스토어 3주 연장 外",
-			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202212021348437921c3c506100_1\/article.html",
-			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202212021348437921c3c506100_1\/article.html",
-			"description":"홈플러스는 합정, 강동, 상봉, 남현, 인천<b>청라<\/b>, 동수원, 북수원, 향남, 김포, 오산, 평택안중, 울산동구점 등 총 12개 매장이 참여해 매장 내 조명을 LED로 교체하는 등의 노력을 통해 경진대회 참여 사업장 중... ",
-			"pubDate":"Fri, 02 Dec 2022 14:00:00 +0900"
+			"title":"[육아] &quot;아동보육 시설, 이 정도는 돼야지!&quot;… 노동부 우수 &apos;직장어린이집&apos; 포...",
+			"originallink":"http:\/\/www.womentimes.co.kr\/news\/articleView.html?idxno=58499",
+			"link":"http:\/\/www.womentimes.co.kr\/news\/articleView.html?idxno=58499",
+			"description":"하나금융지주 <b>청라<\/b>하나금융공동직장어린이집 △우수상(상금 50만원)=엘지전자㈜ LG전자창원어린이집, 원주소방서어린이집, ㈜KCC직장어린이집 ◇ UCC 부문 △대상(상금 200만원)=롯데백화점노원점어린이집 △최우수상... ",
+			"pubDate":"Fri, 02 Dec 2022 14:02:00 +0900"
 		},
 		{
 			"title":"제3연륙교 명칭 분쟁...영종주민들 &apos;시민추진단&apos; 발족 &apos;선공&apos;",
 			"originallink":"http:\/\/www.ifm.kr\/news\/349317",
 			"link":"http:\/\/www.ifm.kr\/news\/349317",
 			"description":"인천 영종국제도시와 <b>청라<\/b>국제도시를 잇는 &apos;제3연륙교&apos;의 명칭을 놓고 <b>청라<\/b> 주민들과 갈등을 빚었던 영종 주민들이 &apos;명칭 선정 시민추진단&apos;을 발족했습니다. 영종지역 15개 주민단체로 구성된 &apos;영종국제도시총연합회... ",
+			"pubDate":"Fri, 02 Dec 2022 14:00:00 +0900"
+		},
+		{
+			"title":"[유통산책] 고객 요청에… GS25, 버터맥주 팝업스토어 3주 연장 外",
+			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202212021348437921c3c506100_1\/article.html",
+			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202212021348437921c3c506100_1\/article.html",
+			"description":"홈플러스는 합정, 강동, 상봉, 남현, 인천<b>청라<\/b>, 동수원, 북수원, 향남, 김포, 오산, 평택안중, 울산동구점 등 총 12개 매장이 참여해 매장 내 조명을 LED로 교체하는 등의 노력을 통해 경진대회 참여 사업장 중... ",
 			"pubDate":"Fri, 02 Dec 2022 14:00:00 +0900"
 		},
 		{
@@ -187,17 +194,17 @@
 			"pubDate":"Fri, 02 Dec 2022 10:20:00 +0900"
 		},
 		{
-			"title":"홈플러스, &apos;전기에너지 절약 경진대회&apos;서 대상 수상...&quot;에너지 절감 위한 ESG...",
-			"originallink":"http:\/\/www.thekpm.com\/news\/articleView.html?idxno=139896",
-			"link":"http:\/\/www.thekpm.com\/news\/articleView.html?idxno=139896",
-			"description":"홈플러스는 이번 경진대회에 합정, 강동, 상봉, 남현, 인천<b>청라<\/b>, 동수원, 북수원, 향남, 김포, 오산, 평택안중, 울산동구점 등 총 12개 매장이 참여해 매장 내 조명을 LED로 교체하는 등의 노력을 통해 경진대회 참여 사업장... ",
-			"pubDate":"Fri, 02 Dec 2022 10:14:00 +0900"
-		},
-		{
 			"title":"&apos;인천 1번지&apos; 서인천세무서, <b>청라<\/b>동 신청사에서 준공기념식 개최",
 			"originallink":"https:\/\/www.sejungilbo.com\/news\/articleView.html?idxno=40540",
 			"link":"https:\/\/www.sejungilbo.com\/news\/articleView.html?idxno=40540",
 			"description":"서인천세무서가 인천광역시 서구 <b>청라<\/b>사파이어로 192 소재 신축청사로 이전을 완료하고 지난 1일 청사 준공기념 행사를 가졌다. 이번 준공기념식은 이현규 인천지방국세청장, 강범석 인천 서구청장 등 지역 내 주요... ",
+			"pubDate":"Fri, 02 Dec 2022 10:14:00 +0900"
+		},
+		{
+			"title":"홈플러스, &apos;전기에너지 절약 경진대회&apos;서 대상 수상...&quot;에너지 절감 위한 ESG...",
+			"originallink":"http:\/\/www.thekpm.com\/news\/articleView.html?idxno=139896",
+			"link":"http:\/\/www.thekpm.com\/news\/articleView.html?idxno=139896",
+			"description":"홈플러스는 이번 경진대회에 합정, 강동, 상봉, 남현, 인천<b>청라<\/b>, 동수원, 북수원, 향남, 김포, 오산, 평택안중, 울산동구점 등 총 12개 매장이 참여해 매장 내 조명을 LED로 교체하는 등의 노력을 통해 경진대회 참여 사업장... ",
 			"pubDate":"Fri, 02 Dec 2022 10:14:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.news2day.co.kr\/article\/20221202500065",
 			"description":"홈플러스는 이번 경진대회에 합정, 강동, 상봉, 남현, 인천<b>청라<\/b>, 동수원, 북수원, 향남, 김포, 오산, 평택안중, 울산동구점 등 총 12개 매장이 참여해 매장 내 조명을 LED로 교체하는 등의 노력을 통해 경진대회 참여 사업장... ",
 			"pubDate":"Fri, 02 Dec 2022 10:08:00 +0900"
-		},
-		{
-			"title":"서구문화재단, 20일 <b>청라<\/b>블루노바홀서 송년음악회",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=92424",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=92424",
-			"description":"인천 서구문화재단이 오는 20일 오후 7시 30분 <b>청라<\/b>블루노바홀에서 송년음악회 &apos;그대가 있음에&apos;를 개최한다고 2일 밝혔다. 이날 공연에는 중후한 성량과 가슴을 울리는 담백한 목소리로 듣는 이의 감성을 이끌어내는 가수... ",
-			"pubDate":"Fri, 02 Dec 2022 10:04:00 +0900"
 		}
 	]
 }
