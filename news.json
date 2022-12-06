@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Dec 2022 05:30:03 +0900",
-	"total":193266,
+	"lastBuildDate":"Wed, 07 Dec 2022 05:40:02 +0900",
+	"total":193267,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"㈜서한, 올해 6개단지 3194가구 입주…역대 최고 현금성 자산 보유",
+			"originallink":"http:\/\/news.heraldcorp.com\/village\/view.php?ud=202212070521303445696_10",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002074909?sid=101",
+			"description":"6일 서한에 따르면 올해 만촌역 서한포레스트, 대봉 서한포레스트, 반월당역 서한포레스트, <b>청라<\/b>언덕역 서한포레스트, 유성둔곡지구 서한이다음 1·2단지의 입주를 해 6개 단지 3194가구 입주가 이어지면서 2023년 역대 최고... ",
+			"pubDate":"Wed, 07 Dec 2022 05:32:00 +0900"
+		},
 		{
 			"title":"12월7일 알림",
 			"originallink":"https:\/\/www.hani.co.kr\/arti\/society\/ngo\/1070520.html",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003243951?sid=101",
 			"description":"인천에 들어설 스타필드 <b>청라<\/b>에 돔구장을 함께 세워 최첨단 멀티 스타디움으로 조성하는 ‘<b>청라<\/b> 프로젝트’도 추진 중이다. 이 때문에 정 부회장이 프로야구 사상 첫 통합 우승 성과를 낸 SSG랜더스 구단주로서 <b>청라<\/b>... ",
 			"pubDate":"Tue, 06 Dec 2022 14:28:00 +0900"
-		},
-		{
-			"title":"㈜서한, 2023년 최고 현금성 자산 확보",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20221206_0002113314&cID=10810&pID=10800",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011577995?sid=102",
-			"description":"올 한해 동안 서한은 만촌역 서한포레스트, 대봉 서한포레스트, 반월당역 서한포레스트, <b>청라<\/b>언덕역 서한포레스트, 유성둔곡지구 서한이다음 1·2단지 입주 등 6개 단지 3194가구 입주가 이어지면서 2023년 역대 최고... ",
-			"pubDate":"Tue, 06 Dec 2022 14:09:00 +0900"
 		}
 	]
 }
