@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Dec 2022 16:10:03 +0900",
-	"total":193278,
+	"lastBuildDate":"Wed, 07 Dec 2022 16:20:02 +0900",
+	"total":193279,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 서구, 심곡천 녹지에 ‘미세먼지 차단 숲’ 완공",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288543615054",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288543615054",
+			"description":"구는 4.7ha 규모 심곡천 녹지(<b>청라<\/b>16호 경관녹지)에 산림청, 인천시와 함께 사업비 30억원을 투입해 녹지를 정비하고 나무를 심는 사업을 지난 9월 시작해 이달 조성을 마쳤다. 인구 11만이 거주하는 <b>청라<\/b>지역에는... ",
+			"pubDate":"Wed, 07 Dec 2022 16:16:00 +0900"
+		},
 		{
 			"title":"인천광역시 주최 &apos;거리공연사업&apos; 성료… 인천 시민들에게 문화 향유 기회 제공",
 			"originallink":"https:\/\/www.dailysecu.com\/news\/articleView.html?idxno=141918",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000049079?sid=102",
 			"description":"신원 밝히지 않은 주민, <b>청라<\/b>2동에 3년째 따뜻한 기부 서구는 신원을 밝히지 않은 한 주민이 500만원을 기부했다고 6일 밝혔다. 익명의 주민은 지난 1일 서구 <b>청라<\/b>2동 행정복지센터를 찾아 어려운 이웃을 위해... ",
 			"pubDate":"Tue, 06 Dec 2022 17:04:00 +0900"
-		},
-		{
-			"title":"하나은행, 2022 코러스-액센츄어 뱅킹 혁신 어워드에서 최고상 수상",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1172980",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1172980",
-			"description":"▲ 하나은행 로고.\/인천일보DB 인천 <b>청라<\/b>국제도시로 이전에 나선 하나금융그룹 내 하나은행은 스페인 바르셀로나에서 개최된 &apos;2022 코러스-액센츄어 뱅킹 혁신 어워드(Qorus-Accenture Banking Innovation Awards 2022)&apos;에서... ",
-			"pubDate":"Tue, 06 Dec 2022 16:44:00 +0900"
 		}
 	]
 }
