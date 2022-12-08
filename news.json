@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 08 Dec 2022 15:30:02 +0900",
-	"total":193309,
+	"lastBuildDate":"Thu, 08 Dec 2022 15:40:03 +0900",
+	"total":193311,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[아유경제_부동산] 12월 1주 아파트 가격 동향… 매매가격 -0.59% 하락ㆍ전세...",
+			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=74952",
+			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=74952",
+			"description":"전세 기피 현상으로 매물 적체 심화되며 매물 거래 가격 하락이 지속 중인 가운데 연수구(-1.46%)는 송도 주요 단지 위주로, 부평구(-1.21%)는 삼산ㆍ부개ㆍ부평 대단지 중심으로, 서구(-1.17%)는 <b>청라<\/b>ㆍ가정ㆍ신현... ",
+			"pubDate":"Thu, 08 Dec 2022 15:34:00 +0900"
+		},
+		{
+			"title":"우원개발, 166억 규모 7호선 <b>청라<\/b>국제도시 연장 공사계약",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20221208_0002116627&cID=10401&pID=10400",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011582648?sid=101",
+			"description":"= 우원개발은 금호건설과 166억1400만원 규모의 서울도시철도 7호선 <b>청라<\/b>국제도시 연장 1공구 건설공사 계약을 체결했다고 8일 공시했다. 이는 지난해 매출액의 9.53% 규모로 계약기간은 이날부터 2027년... ",
+			"pubDate":"Thu, 08 Dec 2022 15:26:00 +0900"
+		},
 		{
 			"title":"우원개발, 금호건설과 166억원 건설공사 계약",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02683046632556552",
@@ -19,17 +33,17 @@
 			"pubDate":"Thu, 08 Dec 2022 14:52:00 +0900"
 		},
 		{
-			"title":"인천기후·환경네트워크, 녹색생활 아파트단지 10곳 시상",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=92553",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=92553",
-			"description":"서구 <b>청라<\/b>반도유보라2.0), 장려 5개소(연수구 연수주공 1단지, 서구 마전주공, 연수구 송도더샵그린스퀘어, 남동구 범마을논현휴먼시아 2단지, 서구 <b>청라<\/b>우미린), 지역특화 1개소(서구 <b>청라<\/b>반도유보라2.0)가 선정됐다.... ",
-			"pubDate":"Thu, 08 Dec 2022 14:08:00 +0900"
-		},
-		{
 			"title":"인천기후·환경네트워크, 2022 인천녹색생활아파트 시상식 열어",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=410332",
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=410332",
 			"description":"서구 <b>청라<\/b>반도유보라2.0), 장려 5개소(연수구 연수주공 1단지, 서구 마전주공, 연수구 송도더샵그린스퀘어, 남동구 범마을논현휴먼시아 2단지, 서구 <b>청라<\/b>우미린), 지역특화 1개소(서구 <b>청라<\/b>반도유보라2.0)가 시상하였다.... ",
+			"pubDate":"Thu, 08 Dec 2022 14:08:00 +0900"
+		},
+		{
+			"title":"인천기후·환경네트워크, 녹색생활 아파트단지 10곳 시상",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=92553",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=92553",
+			"description":"서구 <b>청라<\/b>반도유보라2.0), 장려 5개소(연수구 연수주공 1단지, 서구 마전주공, 연수구 송도더샵그린스퀘어, 남동구 범마을논현휴먼시아 2단지, 서구 <b>청라<\/b>우미린), 지역특화 1개소(서구 <b>청라<\/b>반도유보라2.0)가 선정됐다.... ",
 			"pubDate":"Thu, 08 Dec 2022 14:08:00 +0900"
 		},
 		{
@@ -110,10 +124,10 @@
 			"pubDate":"Wed, 07 Dec 2022 21:38:00 +0900"
 		},
 		{
-			"title":"SK E&amp;S, <b>청라<\/b> &apos;SK플러그&apos; 공장·연구소 건립 인허가 절차 돌입",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1007305",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1007305",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO SK E&amp;S가 <b>청라<\/b>국제도시 안 인천하이테크파크(IHP)에 &apos;SK플러그... 제출한 &apos;<b>청라<\/b> IHP F2-3블록 생산시설 신축(안)&apos;을 조건부 의결했다. SK E&amp;S는 앞으로 건축허가 같은 각종 인허가... ",
+			"title":"인천시 서구, 심곡천에 4만7천㎡ 규모의 &apos;미세먼지 차단 숲&apos; 준공",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1007263",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1007263",
+			"description":"구는 산림청, 인천시와 함께 사업비 30억 원을 투입해 4만7천㎡ 규모의 심곡천 녹지(<b>청라<\/b>16호 경관녹지)에 미세먼지 차단 숲을 조성하는 사업을 마무리했다. 인구 11만 명이 사는 <b>청라<\/b>지역에는 심곡천을 경계로... ",
 			"pubDate":"Wed, 07 Dec 2022 21:38:00 +0900"
 		},
 		{
@@ -124,10 +138,10 @@
 			"pubDate":"Wed, 07 Dec 2022 21:38:00 +0900"
 		},
 		{
-			"title":"인천시 서구, 심곡천에 4만7천㎡ 규모의 &apos;미세먼지 차단 숲&apos; 준공",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1007263",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1007263",
-			"description":"구는 산림청, 인천시와 함께 사업비 30억 원을 투입해 4만7천㎡ 규모의 심곡천 녹지(<b>청라<\/b>16호 경관녹지)에 미세먼지 차단 숲을 조성하는 사업을 마무리했다. 인구 11만 명이 사는 <b>청라<\/b>지역에는 심곡천을 경계로... ",
+			"title":"SK E&amp;S, <b>청라<\/b> &apos;SK플러그&apos; 공장·연구소 건립 인허가 절차 돌입",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1007305",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1007305",
+			"description":"기호일보 - 아침을 여는 신문, KIHOILBO SK E&amp;S가 <b>청라<\/b>국제도시 안 인천하이테크파크(IHP)에 &apos;SK플러그... 제출한 &apos;<b>청라<\/b> IHP F2-3블록 생산시설 신축(안)&apos;을 조건부 의결했다. SK E&amp;S는 앞으로 건축허가 같은 각종 인허가... ",
 			"pubDate":"Wed, 07 Dec 2022 21:38:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1173196",
 			"description":"또 수도권매립지 종료부터 인천발 KTX, 백령공항 건설 추진, 재외동포청 유치, 감염병 전문병원 구축, <b>청라<\/b>시... 지하철 7호선 <b>청라<\/b>연장사업 예산의 경우도 당초 정부안보다 100억원 증액한 1054억원으로 국토교통위원회에서... ",
 			"pubDate":"Wed, 07 Dec 2022 16:46:00 +0900"
-		},
-		{
-			"title":"인천 서구, 심곡천에 미세먼지 차단 숲 준공식",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=377101",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=377101",
-			"description":"서구는 4.7ha 규모 심곡천 녹지(<b>청라<\/b>16호 경관녹지)에 산림청, 인천시와 함께 사업비 30억 원을 투입해 녹지를 정비하고 나무를 심는 사업을 지난 9월 시작해 이달 조성을 마쳤다. 인구 11만이 거주하는 <b>청라<\/b>지역에는... ",
-			"pubDate":"Wed, 07 Dec 2022 16:42:00 +0900"
-		},
-		{
-			"title":"서구, 심곡천에 축구장 7개 크기 &apos;미세먼지 차단 숲&apos; 조성",
-			"originallink":"http:\/\/www.ifm.kr\/news\/349672",
-			"link":"http:\/\/www.ifm.kr\/news\/349672",
-			"description":"7ha 규모 심곡천 녹지(<b>청라<\/b>16호 경관녹지)에 산림청, 인천시와 함께 사업비 30억 원을 투입해 녹지를 정비하고 나무를 심는 사업을 지난 9월 시작해 이달 조성을 마쳤습니다. 인구 11만이 거주하는 <b>청라<\/b>지역에는 심곡천을... ",
-			"pubDate":"Wed, 07 Dec 2022 16:32:00 +0900"
 		}
 	]
 }
