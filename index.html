@@ -337,7 +337,7 @@
       $(document).on('click','.newsshare',function(){
         var idx = $(this).data("idx");
         var shareText = '';
-        shareText += $($('#newsList').find('p')[idx]).find('a').attr('href') + '\n' + $($('#newsList').find('p')[idx]).text();
+        shareText += $($('#newsList').find('p')[idx]).find('a').attr('href') + '\n' + $($('#newsList').find('p')[idx]).find('a').text();
 
         copyToClipboard(shareText);
       });
