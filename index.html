@@ -334,7 +334,7 @@
 
       $('.todayDate').text("("+new Date(new Date().getTime() + ( 1000 * 60 * 60 * 9 )).toISOString().slice(0, 10) +" 기준)");
 
-      $('.newsshare').click(function(){console.log(this)
+      $(document).on('click','.newsshare',function(){
         var idx = $(this).data("idx");
         var shareText = '';
         shareText += $($('#newsList').find('p')[idx]).find('a').attr('href') + '\n' + $($('#newsList').find('p')[idx]).text();
