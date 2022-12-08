@@ -161,12 +161,7 @@
                   <path fill-rule="evenodd" d="M8 3a5 5 0 1 0 4.546 2.914.5.5 0 0 1 .908-.417A6 6 0 1 1 8 2v1z"></path>
                   <path d="M8 4.466V.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384L8.41 4.658A.25.25 0 0 1 8 4.466z"></path>
                 </svg>
-              </button>
-              <button type="button" class="btn btn-sm btn-secondary" id="newscopy" style="padding: .25rem .5rem;font-size: .875rem;">
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-share" viewBox="0 0 16 16">
-                  <path d="M13.5 1a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zM11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5zm-8.5 4a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm11 5.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/>
-                </svg>
-              </button>
+              </button>              
                 <br>
               <span id="newslastBuildDate" style="font-size: 14px;"></span>
             </h4>
@@ -323,7 +318,12 @@
             var html = $("#newsList").text() + " <br>";
             for(var i = 0 ; i < json.items.length ; i ++){
               var news = json.items[i];
-              html += '<p><a title="'+news.title+'" href="'+news.link+'">' + news.title + '</a><br>';
+              html += '<p><a title="'+news.title+'" href="'+news.link+'">' + news.title + '</a>';
+              html += '<button type="button" class="btn btn-sm btn-secondary newsshare" data-idx="'+i+'" style="padding: .25rem .5rem;font-size: .875rem;">';
+              html += '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-share" viewBox="0 0 16 16">';
+              html += '<path d="M13.5 1a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zM11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5zm-8.5 4a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm11 5.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/>';
+              html += '</svg></button>';              
+              html += '<br>';
               html += news.description + '<br><span style="color: #8e6d6d;font-size: 14px;">발행시간 : ' + new Date(news.pubDate).toLocaleString() + '</span> </p>';
             }
             $("#newsList").html(html);
@@ -333,16 +333,35 @@
 
       $('.todayDate').text("("+new Date(new Date().getTime() + ( 1000 * 60 * 60 * 9 )).toISOString().slice(0, 10) +" 기준)");
 
-      $('#newscopy').click(function(){
+      $('#newsshare').click(function(){
+        var idx = $(this).data("idx");
         var shareText = '';
+        shareText += $('#newsList').find('p')[idx].find('a').attr('href') + '\n' + $('#newsList').find('p')[idx];        
 
-        $('#newsList').find('p').each(function(){
-          shareText += $(this).find('a').attr('href') + '\n' + $(this).text() + '\n\n'
-        });
-
-        prompt("텍스트를 복사하세요.",shareText);
+        copyToClipboard(shareText);
       });
 
+      function copyToClipboard(text) {
+          var el = document.createElement('textarea');  // Create a <textarea> element
+          el.value = text; // Set its value to the string that you want copied
+          el.setAttribute('readonly', '');                // Make it readonly to be tamper-proof
+          el.style.position = 'absolute';                 
+          el.style.left = '-9999px';                      // Move outside the screen to make it invisible
+          document.body.appendChild(el);                  // Append the <textarea> element to the HTML document
+          var selected =            
+            document.getSelection().rangeCount > 0        // Check if there is any content selected previously
+              ? document.getSelection().getRangeAt(0)     // Store selection if found
+              : false;                                    // Mark as false to know no selection existed before
+          el.select();                                    // Select the <textarea> content
+          document.execCommand('copy');                   // Copy - only works as a result of a user action (e.g. click events)
+          document.body.removeChild(el);                  // Remove the <textarea> element
+          if (selected) {                                 // If a selection existed before copying
+            document.getSelection().removeAllRanges();    // Unselect everything on the HTML document
+            document.getSelection().addRange(selected);   // Restore the original selection           
+          }
+          alert("복사되었습니다.");
+        };
+      
        $('#newsreload').click();
     });
   </script>
