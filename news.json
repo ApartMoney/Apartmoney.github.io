@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 09 Dec 2022 09:30:03 +0900",
-	"total":193339,
+	"lastBuildDate":"Fri, 09 Dec 2022 09:40:02 +0900",
+	"total":193340,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융그룹 공용 클라우드, 내년 말 신규 클러스터 ‘<b>청라<\/b> 4세대’ 오픈",
+			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=252952",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002138444?sid=105",
+			"description":"이를 통해 2023년 말에 하나 클라우디아 신규 클러스터인 ‘<b>청라<\/b> 4세대’ 오픈이 가능할 전망이다. 조 팀장은 “1세대 시스템부터 3세대 시스템에 이르기까지 클라우드 기반이 되는 시스템을 지속적으로 업그레이드하고... ",
+			"pubDate":"Fri, 09 Dec 2022 09:38:00 +0900"
+		},
 		{
 			"title":"하나금융, &apos;산업화이전보다 1.5℃ 낮추기&apos; 동참",
 			"originallink":"https:\/\/www.smartcitytoday.co.kr\/news\/articleView.html?idxno=25586",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=74952",
 			"description":"전세 기피 현상으로 매물 적체 심화되며 매물 거래 가격 하락이 지속 중인 가운데 연수구(-1.46%)는 송도 주요 단지 위주로, 부평구(-1.21%)는 삼산ㆍ부개ㆍ부평 대단지 중심으로, 서구(-1.17%)는 <b>청라<\/b>ㆍ가정ㆍ신현... ",
 			"pubDate":"Thu, 08 Dec 2022 15:34:00 +0900"
-		},
-		{
-			"title":"우원개발, 166억 규모 7호선 <b>청라<\/b>국제도시 연장 공사계약",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20221208_0002116627&cID=10401&pID=10400",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011582648?sid=101",
-			"description":"= 우원개발은 금호건설과 166억1400만원 규모의 서울도시철도 7호선 <b>청라<\/b>국제도시 연장 1공구 건설공사 계약을 체결했다고 8일 공시했다. 이는 지난해 매출액의 9.53% 규모로 계약기간은 이날부터 2027년... ",
-			"pubDate":"Thu, 08 Dec 2022 15:26:00 +0900"
 		}
 	]
 }
