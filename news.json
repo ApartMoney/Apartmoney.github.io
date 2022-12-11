@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 11 Dec 2022 21:10:02 +0900",
-	"total":193365,
+	"lastBuildDate":"Sun, 11 Dec 2022 21:20:02 +0900",
+	"total":193366,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서부산업단지, 준공업지 변경… 친환경 첨단업종 유치 나선다",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221207010001266",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221207010001266",
+			"description":"서부산단은 서쪽으로 <b>청라<\/b>국제도시를 기반으로 하나금융그룹, 신세계 스타필드, 아산병원 등 각종 개발... 업계에서는 이번 용도지역 변경이 <b>청라<\/b> 로봇랜드 등 주변 산업단지와 연계할 수 있는 업체를 유치할 수 있게... ",
+			"pubDate":"Sun, 11 Dec 2022 21:10:00 +0900"
+		},
 		{
 			"title":"송도 개발 잉여금, IFEZ 추가 지정에 투자 반대",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20221211580208",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.news2day.co.kr\/article\/20221209500003",
 			"description":"7호선 <b>청라<\/b>국제도시 연장 1공구 건설공사 ■ 눈에 띄는 경제 외신 - 지난 6일(현지시간) CNBC에 따르면 모건스탠리가 전체 글로벌 인력 2%에 해당하는 8만1567명 중에서 1600명가량을 해고했다고 보도했다. 월가는... ",
 			"pubDate":"Fri, 09 Dec 2022 07:16:00 +0900"
-		},
-		{
-			"title":"[기업공시 12월 8일]디아이, 20억 규모 반도체 검사보드 공급계약 체결 등",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/26EU2D1GGN",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004131628?sid=101",
-			"description":"7호선 <b>청라<\/b>국제도시 연장 1공구 건설공사 계약 체결 ▲저스템(417840)=마이크론메모리재팬과 23억 원 규모 장비 공급계약 체결 ▲FSN(214270)=싸이칸홀딩스 대상으로 50억 원 규모 제3자배정 유상증자 결정... ",
-			"pubDate":"Fri, 09 Dec 2022 07:01:00 +0900"
 		}
 	]
 }
