@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 13 Dec 2022 17:30:02 +0900",
-	"total":193414,
+	"lastBuildDate":"Tue, 13 Dec 2022 17:40:02 +0900",
+	"total":193415,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[보도국 브리핑] &apos;컨트롤타워&apos; 부재가 키운 &apos;수도권매립지&apos; 불협화음",
+			"originallink":"http:\/\/www.ifm.kr\/news\/350094",
+			"link":"http:\/\/www.ifm.kr\/news\/350094",
+			"description":"현재 인천에는 송도소각장과 <b>청라<\/b>소각장 두 곳이 있습니다. 그러나 시는 2026년 &apos;수도권지역 생활폐기물 직매립 금지&apos; 조치에 대비해 인천 자치군·구를 동·서·남·북으로 나눈 4개 권역별로 소각장을 신설하겠다는 입장을... ",
+			"pubDate":"Tue, 13 Dec 2022 17:34:00 +0900"
+		},
 		{
 			"title":"제일건설 &apos;영종국제도시 제일풍경채 디오션&apos; 선착순 분양 관심",
 			"originallink":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=236406",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20221212010003115",
 			"description":"= 인천시설공단 <b>청라<\/b>공원사업단은 최근 &apos;시설물의 안전 및 유지관리에 관한 특별법&apos; 제11조에 따라 호수공원 내 갑문설비에 대한 정기점검을 실시했다고 12일 밝혔다. 이번 점검은 풍수해를 대비하여 호수위 조절 등의... ",
 			"pubDate":"Mon, 12 Dec 2022 17:30:00 +0900"
-		},
-		{
-			"title":"스타필드 고양, &quot;천장에서 물 콸콸&quot;... &apos;나비효과&apos; 일으키나",
-			"originallink":"http:\/\/www.nbntv.kr\/news\/articleView.html?idxno=65465",
-			"link":"http:\/\/www.nbntv.kr\/news\/articleView.html?idxno=65465",
-			"description":"<b>청라<\/b>, 수원, 창원 등에서는 공사가 한창이다. 윤석열 대통령이 대선 당시 지역 공약으로 내걸었던 광주광역시 복합쇼핑몰 건립을 두고 신세계도 뛰어 들어, 이곳에 스타필드를 오픈할 계획이다. 정용진 신세계 부회장이... ",
-			"pubDate":"Mon, 12 Dec 2022 17:16:00 +0900"
 		}
 	]
 }
