@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 15 Dec 2022 16:20:02 +0900",
-	"total":193539,
+	"lastBuildDate":"Thu, 15 Dec 2022 16:30:02 +0900",
+	"total":193541,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전국 아파트값, 한 주간 0.64%↓…서울도 0.65% 하락",
+			"originallink":"http:\/\/www.wolyo.co.kr\/news\/articleView.html?idxno=217088",
+			"link":"http:\/\/www.wolyo.co.kr\/news\/articleView.html?idxno=217088",
+			"description":"부평구(-1.04%→-1.05%)는 십정동·삼산·청천 위주로, 서구(-1.03%→-1.01%)는 신규 입주 물량의 영향이 있는 당하동·가정·신현·<b>청라<\/b> 위주로 떨어졌다. 아울러 경기(-0.78%→-0.81%)에서도 1% 넘게 떨어진 지역이... ",
+			"pubDate":"Thu, 15 Dec 2022 16:24:00 +0900"
+		},
+		{
+			"title":"[<b>청라<\/b>언덕] ‘조수미’가 뭐길래",
+			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022121509422723700",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000788881?sid=110",
+			"description":"지난 14일 대구 아양아트센터에서 열린 조수미 콘서트는 티켓 오픈 때부터 지역 관객을 어리둥절하게 했다. 서울 예술의전당 공연보다 관람료가 30~50% 비쌌던 탓이다. 아양아트센터는 지난달 4일 &apos;조수미 콘서트: 인... ",
+			"pubDate":"Thu, 15 Dec 2022 16:20:00 +0900"
+		},
 		{
 			"title":"더이앤엠 컨소시엄, 인천 <b>청라<\/b> 영상문화복합단지 우선사업자 선정 예정...현대...",
 			"originallink":"http:\/\/www.sisunnews.co.kr\/news\/articleView.html?idxno=175467",
@@ -54,7 +68,7 @@
 			"pubDate":"Thu, 15 Dec 2022 14:36:00 +0900"
 		},
 		{
-			"title":"제일건설 랜드마크 대단지 ‘제일풍경채 인천 계양’",
+			"title":"제일건설 랜드마크 대단지 ‘제일풍경채 인천 계양’ 예정",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202212151412516943",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004942619?sid=101",
 			"description":"제일건설의 우수한 브랜드 파워도 눈에 띄는데, 제일건설은 인천 검단, <b>청라<\/b>, 루원시티 등 여러 곳에서 아파트를 성공적으로 분양하며 인기를 입증한 바 있으며 살기 좋은 아파트 국무총리상 3회 수상 및 2017년... ",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20221215010003999",
 			"description":"무엇보다 송도 6·8공구 개발 사업 및 국제업무지구 사업, <b>청라<\/b> 시티타워, 영종 미단시티 및 국제학교 등... 이와함께 김청장은 취임 후 추석 연휴기간이 끝난 뒤 곧바로 <b>청라<\/b>시티타워 등 <b>청라<\/b>국제도시에서 추진 중인 개발... ",
 			"pubDate":"Thu, 15 Dec 2022 10:16:00 +0900"
-		},
-		{
-			"title":"더이앤엠 컨소시엄 “<b>청라<\/b> 영상문화복합단지 우선사업자 선정 예정”",
-			"originallink":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=50575",
-			"link":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=50575",
-			"description":"컨소시엄이 <b>청라<\/b> 영상∙문화복합단지 조성사업 공모에서 우선협상대상자로 선정될 예정이라고 밝혔다.... 더이앤엠 컨소시엄은 공모사업 제안서 평가에서 최고점을 받아 향후 인천경제자유구역청과 <b>청라<\/b> 영상... ",
-			"pubDate":"Thu, 15 Dec 2022 10:16:00 +0900"
-		},
-		{
-			"title":"KH그룹 계열사, 인천 <b>청라<\/b> 영상·문화복합단지 운선협상대상자 선정",
-			"originallink":"http:\/\/www.munhwa.com\/news\/view.html?no=2022121501039927085001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002546517?sid=102",
-			"description":"KH그룹, 이재명 변호사비 대납 연루 의혹 <b>청라<\/b> 주민, 컨소시엄 선정과정 수사 촉구 인천=지건태 기자 사업비만 1조5000억 원이 넘는 인천 <b>청라<\/b> 영상·문화복합단지 공모에서 이재명 더불어민주당 대표의 변호사비 대납... ",
-			"pubDate":"Thu, 15 Dec 2022 10:13:00 +0900"
 		}
 	]
 }
