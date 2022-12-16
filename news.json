@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 16 Dec 2022 17:30:02 +0900",
-	"total":193581,
+	"lastBuildDate":"Fri, 16 Dec 2022 17:40:02 +0900",
+	"total":193582,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"조직 간 ‘거리 좁히기’ 나선 함영주 하나금융 회장, 키워드는 ‘통합’",
+			"originallink":"https:\/\/www.ceoscoredaily.com\/page\/view\/2022121615302421543",
+			"link":"https:\/\/www.ceoscoredaily.com\/page\/view\/2022121615302421543",
+			"description":"이르면 오는 2025년 인천 <b>청라<\/b> ‘하나드림타운’에 하나은행을 비롯한 하나카드, 하나증권, 하나생명, 하나손해보험, 하나금융지주 등 6개사가 입주한다. 계열사별 물리적 거리를 좁혀 긴밀성을 강화하고 시너지를 낸다는... ",
+			"pubDate":"Fri, 16 Dec 2022 17:34:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>영상단지 부실심사 논란에…인천경제청 “공모 지침대로 평가 이뤄졌다”",
 			"originallink":"https:\/\/www.donga.com\/news\/article\/all\/20221216\/117034369\/1",
@@ -68,17 +75,17 @@
 			"pubDate":"Fri, 16 Dec 2022 14:44:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b>국제도시 내 최대 규모의 지식산업센터",
-			"originallink":"https:\/\/hankookilbo.com\/News\/Read\/A2022121609230001178?did=NA",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000713225?sid=101",
-			"description":"SK에코플랜트가 <b>청라<\/b>국제도시에 지식산업센터 ‘<b>청라<\/b> SK V1’을 조성하며 분양 중이다. <b>청라<\/b> SK V1은 인천 서구 일대에 조성되는 <b>청라<\/b>국제도시 최대 규모의 지식산업센터로, 지하 2층~지상 10층, 연면적 약 12만 6,000... ",
-			"pubDate":"Fri, 16 Dec 2022 14:31:00 +0900"
-		},
-		{
 			"title":"[시사상식퀴즈] 12월 17일자",
 			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022121423065026948",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000788983?sid=103",
 			"description":"이 노래에 &apos;<b>청라<\/b>언덕&apos;이 등장하면서 관광명소가 되기도 했다. 이 노래의 제목은?(힌트 12월 14일자 매일신문 18면) 3. 문화예술·스포츠 등에 대한 원조 및 사회적·인도적 입장에서 공익사업 등에 지원하는 기업들의 지원... ",
+			"pubDate":"Fri, 16 Dec 2022 14:31:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>국제도시 내 최대 규모의 지식산업센터",
+			"originallink":"https:\/\/hankookilbo.com\/News\/Read\/A2022121609230001178?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000713225?sid=101",
+			"description":"SK에코플랜트가 <b>청라<\/b>국제도시에 지식산업센터 ‘<b>청라<\/b> SK V1’을 조성하며 분양 중이다. <b>청라<\/b> SK V1은 인천 서구 일대에 조성되는 <b>청라<\/b>국제도시 최대 규모의 지식산업센터로, 지하 2층~지상 10층, 연면적 약 12만 6,000... ",
 			"pubDate":"Fri, 16 Dec 2022 14:31:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newscj.com\/article\/20221215580938",
 			"description":"무엇보다 송도 6·8공구 개발 사업 및 국제업무지구 사업, <b>청라<\/b> 시티타워, 영종 미단시티 및 국제학교 등... 15 이와 함께 김청장은 취임 후 추석 연휴기간이 끝난 뒤 곧바로 <b>청라<\/b>시티타워 등 <b>청라<\/b>국제도시에서 추진 중인... ",
 			"pubDate":"Thu, 15 Dec 2022 23:30:00 +0900"
-		},
-		{
-			"title":"인천TP·인천시 &apos;미래차 전환시대&apos; 제조기업 지원방안 고심",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221215010002969",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221215010002969",
-			"description":"또 <b>청라<\/b>(커넥티드카 부품인증), 송도(자율주행차 연구개발), 남동·부평(미래차부품 기술전환)을 거점으로 하는 미래차 기술전환종합지원센터를 구축해 미래차 산업을 활성화하겠다는 구상이다.",
-			"pubDate":"Thu, 15 Dec 2022 20:42:00 +0900"
 		}
 	]
 }
