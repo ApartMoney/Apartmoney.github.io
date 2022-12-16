@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 17 Dec 2022 08:10:02 +0900",
-	"total":193588,
+	"lastBuildDate":"Sat, 17 Dec 2022 08:20:02 +0900",
+	"total":193589,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;어디서든 책 읽어요&quot;…대구 안지랑역서도 스마트 도서관 운영",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20221216083600053?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013647027?sid=103",
+			"description":"대구에는 안지랑역 외에도 1호선 설화명곡역·상인역·중앙로역·대구역, 2호선 용산역·두류역·<b>청라<\/b>언덕역·2반월당역, 3호선 매천시장역 등에 스마트 도서관이 있다. 공사 관계자는 &quot;시민들이 가까운 지하철역에서... ",
+			"pubDate":"Sat, 17 Dec 2022 08:14:00 +0900"
+		},
 		{
 			"title":"대학병원 분원도 &apos;수도권 쏠림&apos;…지방 의료 공백 심화",
 			"originallink":"http:\/\/news.tvchosun.com\/site\/data\/html_dir\/2022\/12\/16\/2022121690210.html",
@@ -124,17 +131,17 @@
 			"pubDate":"Fri, 16 Dec 2022 14:44:00 +0900"
 		},
 		{
-			"title":"[시사상식퀴즈] 12월 17일자",
-			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022121423065026948",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000788983?sid=103",
-			"description":"이 노래에 &apos;<b>청라<\/b>언덕&apos;이 등장하면서 관광명소가 되기도 했다. 이 노래의 제목은?(힌트 12월 14일자 매일신문 18면) 3. 문화예술·스포츠 등에 대한 원조 및 사회적·인도적 입장에서 공익사업 등에 지원하는 기업들의 지원... ",
-			"pubDate":"Fri, 16 Dec 2022 14:31:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>국제도시 내 최대 규모의 지식산업센터",
 			"originallink":"https:\/\/hankookilbo.com\/News\/Read\/A2022121609230001178?did=NA",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000713225?sid=101",
 			"description":"SK에코플랜트가 <b>청라<\/b>국제도시에 지식산업센터 ‘<b>청라<\/b> SK V1’을 조성하며 분양 중이다. <b>청라<\/b> SK V1은 인천 서구 일대에 조성되는 <b>청라<\/b>국제도시 최대 규모의 지식산업센터로, 지하 2층~지상 10층, 연면적 약 12만 6,000... ",
+			"pubDate":"Fri, 16 Dec 2022 14:31:00 +0900"
+		},
+		{
+			"title":"[시사상식퀴즈] 12월 17일자",
+			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2022121423065026948",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000788983?sid=103",
+			"description":"이 노래에 &apos;<b>청라<\/b>언덕&apos;이 등장하면서 관광명소가 되기도 했다. 이 노래의 제목은?(힌트 12월 14일자 매일신문 18면) 3. 문화예술·스포츠 등에 대한 원조 및 사회적·인도적 입장에서 공익사업 등에 지원하는 기업들의 지원... ",
 			"pubDate":"Fri, 16 Dec 2022 14:31:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005192950?sid=101",
 			"description":"가정지구와 <b>청라<\/b>국제도시 내 기조성된 생활 인프라를 차량 10분대 거리로 모두 이용 가능해 편리한 생활을... 또한, 루원시티를 거쳐 <b>청라<\/b>국제도시까지 연결되는 7호선 <b>청라<\/b>연장선(27년 예정)이 도보권에 개통될... ",
 			"pubDate":"Fri, 16 Dec 2022 10:00:00 +0900"
-		},
-		{
-			"title":"의료시설·강좌·호텔서비스까지…시니어 주택 고급화 전략",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20221216_0002125490&cID=10401&pID=10400",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011594721?sid=101",
-			"description":"또 내년 10월에는 인천광역시 <b>청라<\/b>국제도시에 &apos;더시그넘하우스 <b>청라<\/b>&apos;가 공급된다. 단지는 입주민을 위한 스마트 건강관리 시스템을 구축할 예정으로 이를 통해 건강관리 및 신속한 응급 대응이 가능할 전망이다. 또 지하... ",
-			"pubDate":"Fri, 16 Dec 2022 09:55:00 +0900"
 		}
 	]
 }
