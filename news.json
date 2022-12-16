@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 16 Dec 2022 14:10:03 +0900",
-	"total":193569,
+	"lastBuildDate":"Fri, 16 Dec 2022 14:20:02 +0900",
+	"total":193570,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"제일건설, ‘제일풍경채 인천 계양’ 분양 예정",
+			"originallink":"https:\/\/www.donga.com\/news\/article\/all\/20221216\/117031278\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003468473?sid=004",
+			"description":"제일건설은 인천 검단, <b>청라<\/b>, 루원시티 등 여러 곳에서 아파트를 성공적으로 분양한 바 있다. 살기 좋은 아파트 국무총리상 3회 수상 및 2017년 국토교통부 시공능력평가 조경분야 실적 1위 수상, 2021년 신용평가... ",
+			"pubDate":"Fri, 16 Dec 2022 14:10:00 +0900"
+		},
 		{
 			"title":"오십견, 보존적 치료 소용없다면 브리즈망 등 시술적 치료 필요",
 			"originallink":"http:\/\/www.psychiatricnews.net\/news\/articleView.html?idxno=33946",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=224779",
 			"description":"<b>청라<\/b>·송도소각장(자원순환센터) 증설을 고려해야 한다는 발언을 두고 주제넘은 훈수라며 반성해야 한다는 지적이 나왔다. 더불어민주당 인천시당은 15일 논평을 내고 최 이사장의 해당 발언은 시와 서구의 <b>청라<\/b> 소각장... ",
 			"pubDate":"Thu, 15 Dec 2022 16:34:00 +0900"
-		},
-		{
-			"title":"서울 아파트값 최대 하락폭 또 경신, 0.65% 떨어지며 29주째 내리막",
-			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=300857",
-			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=300857",
-			"description":"부평구(-1.05%)는 삼산, 청천, 심정동 주요단지에서, 서구(-1.01%)는 신규 입주물량이 많은 가정, 신현, <b>청라<\/b>, 당하동에서 집값이 하락했다. 12월 둘째 주 전국 아파트값은 0.64% 떨어졌다. 지난주보다 하락폭이 0.05... ",
-			"pubDate":"Thu, 15 Dec 2022 16:32:00 +0900"
 		}
 	]
 }
