@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 17 Dec 2022 14:30:02 +0900",
-	"total":193595,
+	"lastBuildDate":"Sat, 17 Dec 2022 14:40:02 +0900",
+	"total":193596,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 외국인투자 실적 14년만에 최저 전망",
+			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1378074",
+			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1378074",
+			"description":"인천경제자유구역청에 따르면 12월을 제외한 올해 송도와 영종, <b>청라<\/b> 등 경제자유구역의 외국인 직접투자 신고금액이 1억1천900만달러로 나타났습니다. 지난해 외국인 직접투자 신고금액 전체 금액과 비교하면 16.1... ",
+			"pubDate":"Sat, 17 Dec 2022 14:34:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b> 영상문화복합단지 정상궤도에 올라 … 상암 일산 이어 3번째 규모",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20221217500029&wlog_tag3=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.mediafine.co.kr\/news\/articleView.html?idxno=22831",
 			"description":"인천에서는 선글라스와 마스크 등으로 얼굴을 가린 중년 여성이 지난 1일 <b>청라<\/b>2동 행정복지센터를 찾아 어려운 이웃에게 써 달라며 현금 500만원을 건냈다. 이른바 &apos;선글라스 기부천사&apos;는 최근 3년 간 이같은 방식으로 총... ",
 			"pubDate":"Fri, 16 Dec 2022 12:44:00 +0900"
-		},
-		{
-			"title":"더이앤엠 컨소시엄, 인천 <b>청라<\/b> 영상·문화복합단지 우선사업자 선정 예정",
-			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=106110",
-			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=106110",
-			"description":"컨소시움&apos;이 <b>청라<\/b> 영상·문화복합단지 조성사업 공모에서 우선협상대상자로 선정될 예정이라고 15일 밝혔다. 더이앤엠 컨소시엄은 공모사업 제안서 평가에서 최고점을 받아 향후 인천경제청과 <b>청라<\/b> 영상·문화복합단지... ",
-			"pubDate":"Fri, 16 Dec 2022 12:30:00 +0900"
 		}
 	]
 }
