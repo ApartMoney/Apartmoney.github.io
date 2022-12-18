@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Dec 2022 20:00:02 +0900",
-	"total":193604,
+	"lastBuildDate":"Sun, 18 Dec 2022 20:10:02 +0900",
+	"total":193605,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천에 닥친 사상 최악 &apos;부동산 혹한기&apos;",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363570757",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363570757",
+			"description":"실제 인천은 급급매물도 안팔리는 거래절벽이 장기화하면서 지난해 10억 원까지 치솟았던 송도·<b>청라<\/b>국제... 서구 <b>청라<\/b>동 &apos;<b>청라<\/b>국제금융단지한양수자인레이크블루&apos; 전용면적 84.3477㎡ 11층은 지난달 8억 원에 거래돼... ",
+			"pubDate":"Sun, 18 Dec 2022 20:00:00 +0900"
+		},
 		{
 			"title":"계양TV 광역교통 대책 &apos;S-BRT서 철도로&apos; 노선 변경하나",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221218010003230",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2022\/12\/16\/2022121600130.html",
 			"description":"뉴데일리 신희강 기자 = 인천 <b>청라<\/b> 영상·문화복합단지 사업 우선협상대상자 선정 기준에 대한 타당성... 하지만 업계에서는 <b>청라<\/b> 영상·문화복합단지 사업의 핵심은 오피스텔 사업이 아닌 영상문화복합시설을 짓는 점을... ",
 			"pubDate":"Fri, 16 Dec 2022 16:06:00 +0900"
-		},
-		{
-			"title":"경제력 갖춘 &apos;뉴 시니어&apos; 맞춤형 하이엔드 시니어 주택 주목",
-			"originallink":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=236538",
-			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=236538",
-			"description":"내년 10월에는 인천광역시 <b>청라<\/b>국제도시에 &apos;더시그넘하우스 <b>청라<\/b>&apos;가 선보일 예정이다. 입주민을 위한 스마트 건강관리 시스템을 구축해 건강관리 및 신속한 응급 대응이 가능할 전망이다. 서울 주요 지역 및 인천... ",
-			"pubDate":"Fri, 16 Dec 2022 15:54:00 +0900"
 		}
 	]
 }
