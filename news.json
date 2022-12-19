@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 20 Dec 2022 04:00:02 +0900",
-	"total":193680,
+	"lastBuildDate":"Tue, 20 Dec 2022 04:10:02 +0900",
+	"total":193681,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제자유구역 입주업체 매출액 증가",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0924278623&code=11131411&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001574352?sid=102",
+			"description":"지구별 사업체 수는 송도국제도시 2169곳, 영종국제도시 706곳, <b>청라<\/b>국제도시 606곳 등이다. 중점유치 업종 사업체 수는 항공·복합물류 사업체 261곳, 지식서비스 사업체 113곳, 바이오헬스·케어 사업체 57곳... ",
+			"pubDate":"Tue, 20 Dec 2022 04:06:00 +0900"
+		},
 		{
 			"title":"작년 IFEZ 입주사업체 총 매출액 90兆",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286983010901",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=410500",
 			"description":"▲<b>청라<\/b> 영상·문화복합단지 조감도 인천 <b>청라<\/b>국제도시 영상문화 복합단지 사업자 선정 관련 부실 심사 의혹이 제기되면서 인천시의회가 직접 나서 조사하기로 했다. 인천시의회 산업경제위원회는 19일 상임위원회를 열고... ",
 			"pubDate":"Mon, 19 Dec 2022 16:46:00 +0900"
-		},
-		{
-			"title":"금강주택, &apos;검단신도시 금강펜테리움3차 센트럴파크&apos; 내년 1월 분양",
-			"originallink":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=101934",
-			"link":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=101934",
-			"description":"커뮤니티 시설로 골프연습장,피트니스, GX룸, 작은도서관, 웰컴라운지 등이 마련될 예정이다. 검단신도시 금강펜테리움3차 센트럴파크의 견본주택은 인천 서구 <b>청라<\/b>동 일대에 위치했다.",
-			"pubDate":"Mon, 19 Dec 2022 16:36:00 +0900"
 		}
 	]
 }
