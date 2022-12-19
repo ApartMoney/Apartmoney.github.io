@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 19 Dec 2022 11:20:02 +0900",
-	"total":193628,
+	"lastBuildDate":"Mon, 19 Dec 2022 11:30:02 +0900",
+	"total":193631,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제자유구역 외투기업 20% 증가…매출 7조400억↑",
+			"originallink":"https:\/\/www.news1.kr\/articles\/4898658",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006526742?sid=102",
+			"description":"외투기업은 송도 143개, 영종 53개, <b>청라<\/b> 10개 등 총 206개였으며 종사자 수는 각각 2만438명, 7700명, 589명... 국내기업을 포함한 인천경제자유구역 내 전체 기업체수는 송도 2169개, 영종 706개, <b>청라<\/b> 606개 등 3481개... ",
+			"pubDate":"Mon, 19 Dec 2022 11:23:00 +0900"
+		},
+		{
+			"title":"인천경제자유구역 입주 사업체·매출액 증가…외투사업체 대폭 증가",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20221219010005667",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20221219010005667",
+			"description":"지구별 사업체수는 송도국제도시 2169개사, 영종국제도시 706개사, <b>청라<\/b> 국제도시 606개사가 각각 입주하고 있으며, 종사자수는 송도 6만1922명, 영종 2만2879명, <b>청라<\/b> 1만1840명인 것으로 집계됐다. 또 입주사업체의... ",
+			"pubDate":"Mon, 19 Dec 2022 11:22:00 +0900"
+		},
+		{
+			"title":"인천경제자유구역, 입주·외투사업체 증가 등 성장세 지속",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=224865",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=224865",
+			"description":"인천경제자유구역 지구별 사업체수는 송도국제도시 2169개, 영종국제도시 706개, <b>청라<\/b>국제도시 606개로 나타났다. 경제자유구역 입주사업체 총 매출액은 90조17억원으로 전년(77조8473억원) 대비 15.6% 증가했으며 이... ",
+			"pubDate":"Mon, 19 Dec 2022 11:22:00 +0900"
+		},
 		{
 			"title":"인천경제청, 입주 사업체·매출액 증가…외투사업체 대폭 증가 등 성장세 지속",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20221219103608831",
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.kbsm.net\/news\/view.php?idx=374623",
 			"description":"이번에 설치되는 안지랑역 외에도 ▲1호선 설화명곡역, 상인역, 중앙로역, 대구역 ▲2호선 용산역, 두류역, <b>청라<\/b>언덕역, 2반월당역 ▲3호선매천시장역 등 9개역에서 스마트도서관이 운영되고 있다.대구교통공사 사장은... ",
 			"pubDate":"Sun, 18 Dec 2022 16:36:00 +0900"
-		},
-		{
-			"title":"‘인천 <b>청라<\/b>영상단지 우선협상자 불공정 심사’ 의혹 조사",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20221218580120",
-			"link":"https:\/\/www.kyeonggi.com\/article\/20221218580120",
-			"description":"사업자 재무 타당성 등 살펴 인천경제자유구역청의 <b>청라<\/b> 영상문화복합단지 사업자 선정 과정이 불공정 평가 의혹에 휘말린 가운데 인천시의회 산업경제위원회가 <b>청라<\/b>영상문화복합단지 사업의 우선협상대상자 선정... ",
-			"pubDate":"Sun, 18 Dec 2022 16:30:00 +0900"
-		},
-		{
-			"title":"광역철도, 3기 신도시 인천 계양지구까지 연장될까…LH 검토 중",
-			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2022121802109963080002&ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002773185?sid=101",
-			"description":"박효기 인천연구원 수석연구위원은 &quot;신도시(주민)는 외부에서 이주를 오는데, 타도시하고 연결하는 대형 교통수단들이 마련돼 있어야 한다&quot;며 &quot;<b>청라<\/b>지구 BRT는 광역버스와 큰 차이가 없다. 성공한 사례가 없다&quot;고... ",
-			"pubDate":"Sun, 18 Dec 2022 14:28:00 +0900"
-		},
-		{
-			"title":"규제 완화 효과 어디로…서울 아파트가격, 2008년 금융위기 이후 최대 하락",
-			"originallink":"http:\/\/www.segyebiz.com\/newsView\/20221218504223?OutUrl=naver",
-			"link":"http:\/\/www.segyebiz.com\/newsView\/20221218504223?OutUrl=naver",
-			"description":"부평구(-1.05%)는 삼산‧청천‧십정동 주요단지 위주로, 서구(-1.01%)는 신규 입주물량 영향 있는 가정‧신현‧<b>청라<\/b>‧당하동 위주로 하락하며 하락폭이 확대됐다. 경기(-0.81%)는 간헐적인 급매물 거래가 매물가격... ",
-			"pubDate":"Sun, 18 Dec 2022 11:50:00 +0900"
 		}
 	]
 }
