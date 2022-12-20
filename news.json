@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 20 Dec 2022 14:30:02 +0900",
-	"total":193709,
+	"lastBuildDate":"Tue, 20 Dec 2022 14:40:02 +0900",
+	"total":193710,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 자원순환센터 들어설 지역에 인센티브 확대",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SC70000000&idx=351960",
+			"link":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SC70000000&idx=351960",
+			"description":"현재 인천지역에는 송도와 <b>청라<\/b> 등 2곳에 폐기물처리 소각시설인 자원순환센터를 운영 중인데요. 소각용량이 부족해 새롭게 3곳을 설치하고 기존 시설은 증량해야 하는 상황입니다. 문제는 인식 문제 등으로 인해 설립이나... ",
+			"pubDate":"Tue, 20 Dec 2022 14:30:00 +0900"
+		},
 		{
 			"title":"‘<b>청라<\/b> 영상·문화 복합단지 사업’ 소위원회 구성",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1638863",
@@ -47,17 +54,17 @@
 			"pubDate":"Tue, 20 Dec 2022 12:52:00 +0900"
 		},
 		{
-			"title":"[지자체의 SR] 인천 서구 더불어민주당 시·구의원, 최계운 인천환경공단 이사...",
-			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=126129",
-			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=126129",
-			"description":"ⓒ서구의회 -&quot;<b>청라<\/b>소각장 증설 망언 최계운 규탄한다&quot; 인천 서구 더불어민주당 시ㆍ구의원들은 20일 <b>청라<\/b>소각장 증설을 언급한 최계운 인천환경공단 이사장을 항의 방문했다고 밝혔다. 이번 항의 방문에는 이순학, 정종혁... ",
-			"pubDate":"Tue, 20 Dec 2022 12:42:00 +0900"
-		},
-		{
 			"title":"인천시, 신규 자원순환센터 지역에 주민 편익시설 짓는다",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202212201040170210533",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202212201040170210533",
 			"description":"시는 현재 운영 중인 2개 광역 자원순환센터(송도·<b>청라<\/b>)로는 소각용량(864t\/일)이 부족해 신규 자원순환센터 3개소와 노후화된 송도자원순환센터 현대화(1개소)를 통해 2026년까지 총 1485t\/일을 확충해 가연성폐기물 직매립... ",
+			"pubDate":"Tue, 20 Dec 2022 12:42:00 +0900"
+		},
+		{
+			"title":"[지자체의 SR] 인천 서구 더불어민주당 시·구의원, 최계운 인천환경공단 이사...",
+			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=126129",
+			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=126129",
+			"description":"ⓒ서구의회 -&quot;<b>청라<\/b>소각장 증설 망언 최계운 규탄한다&quot; 인천 서구 더불어민주당 시ㆍ구의원들은 20일 <b>청라<\/b>소각장 증설을 언급한 최계운 인천환경공단 이사장을 항의 방문했다고 밝혔다. 이번 항의 방문에는 이순학, 정종혁... ",
 			"pubDate":"Tue, 20 Dec 2022 12:42:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001574352?sid=102",
 			"description":"지구별 사업체 수는 송도국제도시 2169곳, 영종국제도시 706곳, <b>청라<\/b>국제도시 606곳 등이다. 중점유치 업종 사업체 수는 항공·복합물류 사업체 261곳, 지식서비스 사업체 113곳, 바이오헬스·케어 사업체 57곳... ",
 			"pubDate":"Tue, 20 Dec 2022 04:06:00 +0900"
-		},
-		{
-			"title":"작년 IFEZ 입주사업체 총 매출액 90兆",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286983010901",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286983010901",
-			"description":"지구별 사업체수는 송도국제도시 2169개사, 영종국제도시 706개사, <b>청라<\/b> 국제도시 606개사가 각각 입주하고 있으며, 종사자수는 송도 6만1922명, 영종 2만2879명, <b>청라<\/b> 1만1840명인 것으로 집계됐다. 또... ",
-			"pubDate":"Tue, 20 Dec 2022 00:26:00 +0900"
 		}
 	]
 }
