@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 23 Dec 2022 07:00:03 +0900",
-	"total":193763,
+	"lastBuildDate":"Fri, 23 Dec 2022 07:10:02 +0900",
+	"total":193764,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서 벤츠 음주운전, 차량 3대 들이받고 도주 30대 체포",
+			"originallink":"https:\/\/www.news1.kr\/articles\/4903287",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006535814?sid=102",
+			"description":"만취한 A씨는 이날 오전 1시쯤 인천시 서구 <b>청라<\/b>동의 한 사거리에서 벤츠를 몰다 신호 대기중이던 차량 3대를 들이받고 도주한 혐의를 받는다. 이 사고로 다른 차량 운전자 B씨가 다쳐 병원에서 치료를 받고 있다.... ",
+			"pubDate":"Fri, 23 Dec 2022 07:07:00 +0900"
+		},
 		{
 			"title":"음주 운전하다 차량 3대 연쇄 추돌 30대 붙잡혀",
 			"originallink":"http:\/\/www.ikbc.co.kr\/article\/view\/kbc202212230005",
@@ -54,17 +61,17 @@
 			"pubDate":"Fri, 23 Dec 2022 03:28:00 +0900"
 		},
 		{
-			"title":"김교흥 의원, 행정안전부 특별교부세 25억원 확보",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=379479",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=379479",
-			"description":"<b>청라<\/b>~정서진 자전거도로 연결사업 위치도 더불어민주당 김교흥 국회의원(인천 서구갑, 행정안전위원회)은... 7억원 △<b>청라<\/b>∽정서진 자전거도로 연결사업 4억원 △율도근린공원 축구장 정비사업 4억원 등 총 25억원이다.... ",
-			"pubDate":"Fri, 23 Dec 2022 00:28:00 +0900"
-		},
-		{
 			"title":"인천경제자유구역, 경관위원 추가 모집",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=379509",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=379509",
 			"description":"김진용 인천경제자유구역청장은 &quot;IFEZ 경관 관련 전문성을 겸비한 인재를 보강해 송도, 영종, <b>청라<\/b> 각 국제도시별 경관가치를 높이는 데 최선의 노력을 기울이겠다&quot;며 많은 관심을 당부했다.",
+			"pubDate":"Fri, 23 Dec 2022 00:28:00 +0900"
+		},
+		{
+			"title":"김교흥 의원, 행정안전부 특별교부세 25억원 확보",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=379479",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=379479",
+			"description":"<b>청라<\/b>~정서진 자전거도로 연결사업 위치도 더불어민주당 김교흥 국회의원(인천 서구갑, 행정안전위원회)은... 7억원 △<b>청라<\/b>∽정서진 자전거도로 연결사업 4억원 △율도근린공원 축구장 정비사업 4억원 등 총 25억원이다.... ",
 			"pubDate":"Fri, 23 Dec 2022 00:28:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2022122111242246183dd5a24e3a_1\/article.html",
 			"description":"김진용 인천경제자유구역청장은 “IFEZ 경관 관련 전문성을 겸비한 인재를 보강해 송도, 영종, <b>청라<\/b> 각 국제도시별 경관가치를 높이는 데 최선의 노력을 기울이겠다”며 많은 관심을 당부했다. 임희선 글로벌이코노믹... ",
 			"pubDate":"Thu, 22 Dec 2022 13:12:00 +0900"
-		},
-		{
-			"title":"입주 전 전매, 분양가상한제 갖춘 &apos;영종 오션파크 모아엘가 그랑데&apos; 관심",
-			"originallink":"https:\/\/news.koreadaily.com\/2022\/12\/21\/economy\/realestate\/20221221195954132.html",
-			"link":"https:\/\/news.koreadaily.com\/2022\/12\/21\/economy\/realestate\/20221221195954132.html",
-			"description":"인천대교, 영종대교, 공항철도 등을 통해 <b>청라<\/b>, 송도, 서울 및 수도권을 편리하게 오갈 수 있으며, 인근에는 영종국제신도시와 <b>청라<\/b>를 연결하는 제3연륙교가 2025년 준공을 목표로 개발되고 있어 추가적인 교통호재도... ",
-			"pubDate":"Thu, 22 Dec 2022 13:00:00 +0900"
 		}
 	]
 }
