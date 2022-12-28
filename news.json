@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 28 Dec 2022 11:50:02 +0900",
-	"total":193950,
+	"lastBuildDate":"Wed, 28 Dec 2022 12:00:02 +0900",
+	"total":193951,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천해경, 신청사 기공식 개최…2024년 완공 예정",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017811532&code=61121111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001576206?sid=102",
+			"description":"인천해경 신청사는 인천시 서구 <b>청라<\/b>국제도시에 지하 1층∼지상 4층, 전체면적 8520㎡ 규모로 지어질 예정이다. 투입되는 총사업비는 256억원에 이른다. 기공식은 인천해양경찰서장 등 인천해경 직원과 현장 관계자... ",
+			"pubDate":"Wed, 28 Dec 2022 11:56:00 +0900"
+		},
 		{
 			"title":"인천해경 신청사 <b>청라<\/b>국제도시 착공... 2024년 완공",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=225198",
@@ -40,17 +47,17 @@
 			"pubDate":"Wed, 28 Dec 2022 10:53:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b>7호선·인천발KTX·경인고속도로 지하화·공항철도 고속화",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202212280956599450425",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202212280956599450425",
-			"description":"상임위에서 각각 100억원, 96억원이 증액된 서울지하철 7호선 <b>청라<\/b> 연장 사업과 인천발 KTX 기반시설 사업은 각각 85억원, 63억2000만원이 반영됐다. 신규로 4억원이 편성된 경인고속도로 지하화 타당성평가 용역비는... ",
-			"pubDate":"Wed, 28 Dec 2022 10:52:00 +0900"
-		},
-		{
 			"title":"인천경제청, 4대 전략·21대 중점 과제 등 내년 주요업무계획 보고",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202212280931114050406",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202212280931114050406",
 			"description":"이밖에 GTX-B 환승센터, 스마트시티 기반 서비스·기반시설 구축, 공원 조성 등 시민들이 체감할 수 있는 도시기반 시설 확충에 노력하고, 송도 6·8공구 개발, <b>청라<\/b>의료복합타운, <b>청라<\/b> 영상문화제작단지, <b>청라<\/b>시티타워 등... ",
+			"pubDate":"Wed, 28 Dec 2022 10:52:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>7호선·인천발KTX·경인고속도로 지하화·공항철도 고속화",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202212280956599450425",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202212280956599450425",
+			"description":"상임위에서 각각 100억원, 96억원이 증액된 서울지하철 7호선 <b>청라<\/b> 연장 사업과 인천발 KTX 기반시설 사업은 각각 85억원, 63억2000만원이 반영됐다. 신규로 4억원이 편성된 경인고속도로 지하화 타당성평가 용역비는... ",
 			"pubDate":"Wed, 28 Dec 2022 10:52:00 +0900"
 		},
 		{
@@ -205,13 +212,6 @@
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1010222",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1010222",
 			"description":"한편, 상임위에서 각각 100억 원, 96억 원이 증액된 서울지하철 7호선 <b>청라<\/b> 연장 사업과 인천발 KTX 기반시설 사업은 각각 85억 원, 63억2천만 원이 반영됐다. 새로 4억 원이 편성된 경인고속도로 지하화 타당성평가... ",
-			"pubDate":"Tue, 27 Dec 2022 21:40:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>시티타워 건설·운영 LH·경제청으로 나누자",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1010236",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1010236",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO <b>청라<\/b>시티타워 조감도. \/사진 = 인천경제청 제공 인천경제자유구역청이 <b>청라<\/b>시티타워를 이른 시기에 준공하려고 타워는 한국토지주택공사(LH)가 건설하고, 관리·운영은 경제청이... ",
 			"pubDate":"Tue, 27 Dec 2022 21:40:00 +0900"
 		}
 	]
