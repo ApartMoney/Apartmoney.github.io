@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 30 Dec 2022 01:10:02 +0900",
-	"total":194062,
+	"lastBuildDate":"Fri, 30 Dec 2022 01:20:02 +0900",
+	"total":194063,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, &apos;IFEZ 태양광발전설비&apos; 설치…연간 18만9천㎾ 전력생산",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=525398",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=525398",
+			"description":"공공시설은 송도국제도시 솔찬공원 국제캠핑장 주차장과 <b>청라<\/b>BRT 통합차고지에 146.5㎾ 규모의 태양광발전설비 설치를 통해 연간 18만9천㎾의 전기를 생산하게 된다. 이는 매년 약 2천5백만원의 전기요금 절감과... ",
+			"pubDate":"Fri, 30 Dec 2022 01:16:00 +0900"
+		},
 		{
 			"title":"유정복 인천시장 “임기내 대체 매립지 확보… 원도심 활성화 온힘” [민선8기...",
 			"originallink":"http:\/\/www.segye.com\/content\/html\/2022\/12\/29\/20221229516587.html?OutUrl=naver",
@@ -26,17 +33,17 @@
 			"pubDate":"Thu, 29 Dec 2022 20:50:00 +0900"
 		},
 		{
-			"title":"연수·서·중구 &apos;경제구역&apos;-미추홀·동구 &apos;구도심&apos;… 집값 양극화 심화",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221229010005770",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221229010005770",
-			"description":"반면 동구, 미추홀구, 남동구, 강화군은 &apos;유지형&apos;으로 PIR 지수에 변동이 크지 않았다.조형진 인천연구원 도시정보센터 전임연구원은 &quot;인천은 송도·<b>청라<\/b>·영종 등 경제자유구역과 구도심 간 지역별 주거비 부담... ",
-			"pubDate":"Thu, 29 Dec 2022 20:34:00 +0900"
-		},
-		{
 			"title":"인천시, 내년 산업단지 지정 150만㎡로 확대",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221229010005753",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221229010005753",
 			"description":"인천의 경우 송도와 <b>청라<\/b>, 영종국제도시 등 경제자유구역을 중심으로 개발 중이거나 미분양 상황인 산업단지 등의 면적이 많아 신규 산업단지 지정 면적을 확보하기가 어려웠다. 이 때문에 37만5천㎡ 규모의... ",
+			"pubDate":"Thu, 29 Dec 2022 20:34:00 +0900"
+		},
+		{
+			"title":"연수·서·중구 &apos;경제구역&apos;-미추홀·동구 &apos;구도심&apos;… 집값 양극화 심화",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221229010005770",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221229010005770",
+			"description":"반면 동구, 미추홀구, 남동구, 강화군은 &apos;유지형&apos;으로 PIR 지수에 변동이 크지 않았다.조형진 인천연구원 도시정보센터 전임연구원은 &quot;인천은 송도·<b>청라<\/b>·영종 등 경제자유구역과 구도심 간 지역별 주거비 부담... ",
 			"pubDate":"Thu, 29 Dec 2022 20:34:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.medisobizanews.com\/news\/articleView.html?idxno=103452",
 			"description":"<b>청라<\/b>국제병원 김철호 원장은 &quot;퇴행성 관절염 예방을 위해서는 쪼그려 앉는 자세나 장기간의 무리한 신체 활동, 과격한 운동 및 스포츠 등을 자제하고, 달리기, 등산 등 무릎 관절에 무리를 주는 행위를 삼가는 등 생활 습관... ",
 			"pubDate":"Thu, 29 Dec 2022 16:22:00 +0900"
-		},
-		{
-			"title":"인천뉴스 창간 24주년 &apos;제9회 올해의 봉사대상&apos; 시상식 &quot;성황&quot;",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=410655",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=410655",
-			"description":"의정봉사대상(기초)을 수상한 김학엽 서구의회 기초의원은 &quot;이 상은 <b>청라<\/b> IC 통행료 인하 및 진출입로 개선, 검암지역 복지관 건립 추진 등 그동안 다양한 지역현안 사항을 해결하기 위한 노력과 오랜 시간 주민자치위원회... ",
-			"pubDate":"Thu, 29 Dec 2022 16:16:00 +0900"
 		}
 	]
 }
