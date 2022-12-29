@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Dec 2022 11:50:02 +0900",
-	"total":194011,
+	"lastBuildDate":"Thu, 29 Dec 2022 12:00:02 +0900",
+	"total":194012,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 태양광발전설비 등 재생에너지 보급사업 지속 추진  ",
+			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=611166",
+			"link":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=611166",
+			"description":"사업이 완료함에 따라 송도국제도시 솔찬공원 국제캠핑장 주차장과 <b>청라<\/b>BRT 통합차고지에 146.5㎾ 규모의 태양광발전설비 설치를 통해 연간 18만9천㎾의 전기를 생산하게 된다. 이는 매년 약 2천5백만원의 전기요금... ",
+			"pubDate":"Thu, 29 Dec 2022 11:50:00 +0900"
+		},
 		{
 			"title":"IFEZ 태양광발전설비 설치, 연간 18만9천㎾ 전력생산",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=410653",
@@ -205,13 +212,6 @@
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176238",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176238",
 			"description":"그러면서 &quot;원도심을 활성화할 수 있는 교통 현안들이 원활히 추진되도록 해야 한다&quot;며 &quot;서구 <b>청라<\/b>국제도시에서 중구 동인천역과 가칭 국제여객터미널역 등지로 이어질 수 있는 인천도시철도 3호선 신설을 비롯해... ",
-			"pubDate":"Wed, 28 Dec 2022 20:14:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 주민 &quot;LH, 시티타워 위기 초래&quot; 공익감사청구",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176236",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176236",
-			"description":"인천 <b>청라<\/b>지역 주민단체인 <b>청라<\/b>미래연합은 28일 감사원을 방문해 주민 1090명 서명을 담은 공익감사 청구서를 제출했다고 밝혔다. 이 단체는 감사청구서에서 &quot;시티타워 사업 발주처인 LH는 직무유기로 주관 사업자인... ",
 			"pubDate":"Wed, 28 Dec 2022 20:14:00 +0900"
 		}
 	]
