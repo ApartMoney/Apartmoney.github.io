@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Dec 2022 11:40:03 +0900",
-	"total":194010,
+	"lastBuildDate":"Thu, 29 Dec 2022 11:50:02 +0900",
+	"total":194011,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"IFEZ 태양광발전설비 설치, 연간 18만9천㎾ 전력생산",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=410653",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=410653",
+			"description":"공공시설은 송도국제도시 솔찬공원 국제캠핑장 주차장과 <b>청라<\/b>BRT 통합차고지에 146.5㎾ 규모의 태양광발전설비 설치를 통해 연간 18만9천㎾의 전기를 생산하게 된다. 이는 매년 약 2천5백만원의 전기요금 절감과... ",
+			"pubDate":"Thu, 29 Dec 2022 11:46:00 +0900"
+		},
 		{
 			"title":"인천경제청 태양광발전설비 설치, 연간 18만9000㎾ 전력생산",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20221229010009179",
@@ -187,10 +194,10 @@
 			"pubDate":"Wed, 28 Dec 2022 21:22:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b> 주민 &quot;LH, 시티타워 위기 초래&quot; 공익감사청구",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176236",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176236",
-			"description":"인천 <b>청라<\/b>지역 주민단체인 <b>청라<\/b>미래연합은 28일 감사원을 방문해 주민 1090명 서명을 담은 공익감사 청구서를 제출했다고 밝혔다. 이 단체는 감사청구서에서 &quot;시티타워 사업 발주처인 LH는 직무유기로 주관 사업자인... ",
+			"title":"고군분투 임인년…<b>청라<\/b>타워부터 롯데몰까지 &apos;해결 산적&apos;",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176232",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176232",
+			"description":"시작된 <b>청라<\/b>시티타워는 12월이 지나도 해결은 커녕 더욱 꼬여만 갔다. 송도 6·8공구 랜드마크 사업 역시... <b>청라<\/b>시티타워는 여전히 답보 상태다. 시공사 선정이 늦어지며 지역 주민 반발은 커졌고, 인천국제공항 옆... ",
 			"pubDate":"Wed, 28 Dec 2022 20:14:00 +0900"
 		},
 		{
@@ -201,18 +208,11 @@
 			"pubDate":"Wed, 28 Dec 2022 20:14:00 +0900"
 		},
 		{
-			"title":"고군분투 임인년…<b>청라<\/b>타워부터 롯데몰까지 &apos;해결 산적&apos;",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176232",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176232",
-			"description":"시작된 <b>청라<\/b>시티타워는 12월이 지나도 해결은 커녕 더욱 꼬여만 갔다. 송도 6·8공구 랜드마크 사업 역시... <b>청라<\/b>시티타워는 여전히 답보 상태다. 시공사 선정이 늦어지며 지역 주민 반발은 커졌고, 인천국제공항 옆... ",
+			"title":"<b>청라<\/b> 주민 &quot;LH, 시티타워 위기 초래&quot; 공익감사청구",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176236",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176236",
+			"description":"인천 <b>청라<\/b>지역 주민단체인 <b>청라<\/b>미래연합은 28일 감사원을 방문해 주민 1090명 서명을 담은 공익감사 청구서를 제출했다고 밝혔다. 이 단체는 감사청구서에서 &quot;시티타워 사업 발주처인 LH는 직무유기로 주관 사업자인... ",
 			"pubDate":"Wed, 28 Dec 2022 20:14:00 +0900"
-		},
-		{
-			"title":"2023년 인천 권역별 소각시설 &apos;확보 역점&apos;",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176223",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1176223",
-			"description":"기존 <b>청라<\/b>소각시설을 폐쇄·이전하기로 한 서구·강화군의 북부권 시설은 물론, 중구·동구·옹진군의... 송도·서구 <b>청라<\/b> 소각장 2곳에 (증설할 만한) 여유 부분이 있다. (현대화를 통해) 시설을 개선하며 여유 부지를... ",
-			"pubDate":"Wed, 28 Dec 2022 19:24:00 +0900"
 		}
 	]
 }
