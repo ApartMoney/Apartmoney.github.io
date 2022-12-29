@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Dec 2022 14:10:02 +0900",
-	"total":194020,
+	"lastBuildDate":"Thu, 29 Dec 2022 14:20:03 +0900",
+	"total":194021,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"IFEZ 태양광발전설비 설치 사업 완료 매년 약 2500만원 전기요금 절감",
+			"originallink":"http:\/\/www.newscj.com\/article\/20221229580305",
+			"link":"http:\/\/www.newscj.com\/article\/20221229580305",
+			"description":"공공시설은 송도국제도시 솔찬공원 국제캠핑장 주차장과 <b>청라<\/b>BRT 통합차고지에 146.5㎾ 규모의 태양광발전설비 설치를 통해 연간 18만 9000㎾의 전기를 생산하게 된다. 이는 매년 약 2500만원의 전기요금 절감과... ",
+			"pubDate":"Thu, 29 Dec 2022 14:12:00 +0900"
+		},
 		{
 			"title":"주간 아파트 매매가 0.76% 하락폭 확대…“서울 추가하락우려 지속”",
 			"originallink":"http:\/\/www.nspna.com\/news\/?mode=view&newsid=612764",
@@ -26,17 +33,17 @@
 			"pubDate":"Thu, 29 Dec 2022 14:02:00 +0900"
 		},
 		{
-			"title":"[인사] 충남 보령시",
-			"originallink":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=738030",
-			"link":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=738030",
-			"description":"한은경 ▲<b>청라<\/b>면 오다미 ▲<b>청라<\/b>면 윤희창 ▲남포면 김승주 ▲주산면 김홍수 ▲주산면 안주영 ▲주산면 심미선 ▲주산면 임대혁 ▲미산면 박상길 ▲성주면 방영권 ▲성주면 조원창 ▲대천1동 유정아 ▲대천1동 오세윤... ",
-			"pubDate":"Thu, 29 Dec 2022 14:00:00 +0900"
-		},
-		{
 			"title":"서울 아파트값 31주째 하락…&quot;추가 하락 우려 지속&quot;",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022122913513869556",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005198607?sid=101",
 			"description":"서구(-1.30%)는 <b>청라<\/b>·마전·검암동 주요 단지 위주로, 계양구(-1.21%)는 용종·작전·병방동 일대 구축·중소 규모 단지의 가격이 내려갔다. 세종시의 경우 다정·새롬동 위주로 1.68% 내렸다. 전국 시·도 가운데 4주 연속... ",
+			"pubDate":"Thu, 29 Dec 2022 14:00:00 +0900"
+		},
+		{
+			"title":"[인사] 충남 보령시",
+			"originallink":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=738030",
+			"link":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=738030",
+			"description":"한은경 ▲<b>청라<\/b>면 오다미 ▲<b>청라<\/b>면 윤희창 ▲남포면 김승주 ▲주산면 김홍수 ▲주산면 안주영 ▲주산면 심미선 ▲주산면 임대혁 ▲미산면 박상길 ▲성주면 방영권 ▲성주면 조원창 ▲대천1동 유정아 ▲대천1동 오세윤... ",
 			"pubDate":"Thu, 29 Dec 2022 14:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=909155",
 			"description":"한은경 ▲<b>청라<\/b>면 오다미 ▲<b>청라<\/b>면 윤희창 ▲남포면 김승주 ▲주산면 김홍수 ▲주산면 안주영 ▲주산면 심미선 ▲주산면 임대혁 ▲미산면 박상길 ▲성주면 방영권 ▲성주면 조원창 ▲대천1동 유정아 ▲대천1동 오세윤... ",
 			"pubDate":"Thu, 29 Dec 2022 09:06:00 +0900"
-		},
-		{
-			"title":"[인사] 보령시",
-			"originallink":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=281972",
-			"link":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=281972",
-			"description":"한은경 ▲<b>청라<\/b>면 오다미 ▲<b>청라<\/b>면 윤희창 ▲남포면 김승주 ▲주산면 김홍수 ▲주산면 안주영 ▲주산면 심미선 ▲주산면 임대혁 ▲미산면 박상길 ▲성주면 방영권 ▲성주면 조원창 ▲대천1동 유정아 ▲대천1동 오세윤... ",
-			"pubDate":"Thu, 29 Dec 2022 08:30:00 +0900"
 		}
 	]
 }
