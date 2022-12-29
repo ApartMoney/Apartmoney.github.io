@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 30 Dec 2022 05:00:02 +0900",
-	"total":194063,
+	"lastBuildDate":"Fri, 30 Dec 2022 05:10:02 +0900",
+	"total":194064,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"미래엔인천, 결국 인천종합에너지 품으로",
+			"originallink":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=249419",
+			"link":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=249419",
+			"description":"인천종합 외에도 연일 공급권역을 확대하고 있는 GS파워와 인천 <b>청라<\/b>·검단지구 및 김포 한강지구를 공급하는 <b>청라<\/b>에너지 지분도 49.9%를 가지고 있기 때문이다. GS에너지는 중·장기적으로 GS파워와 인천종합에너지... ",
+			"pubDate":"Fri, 30 Dec 2022 05:02:00 +0900"
+		},
 		{
 			"title":"“풍암호수 일부 매립해 공원화” vs “원형 보전하자”",
 			"originallink":"https:\/\/www.chosun.com\/national\/regional\/honam\/2022\/12\/30\/ZDRUTZXHBJGGBB55ROSYQZG2QA\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202212291529537630913",
 			"description":"인천 송도신도시와 <b>청라<\/b>신도시 등에서 새 아파트 입주가 진행되면서 연수구(-1.69%)와 서구(-1.30%)가 크게 떨어졌다. 지난해 산업단지 배후 수요로 인해 다른 경기도 지역이 모두 떨어질 때도 상승세를 유지하며... ",
 			"pubDate":"Thu, 29 Dec 2022 16:32:00 +0900"
-		},
-		{
-			"title":"[신년 인터뷰] 허식 인천시의장 &quot;당면한 난제 극복, 혼신 다할 것&quot;",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20221229_0002141487&cID=10802&pID=14000",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011617607?sid=102",
-			"description":"허 의장은 특히 인천도시철도 3호선(<b>청라<\/b>국제도시역-동인천역-국제여객터미널역), 인천발 KTX, 제2공항철도, 제4경인고속도로, 동인천역세권 개발, 영종-강화 연륙교 건설 등 관련 사업들이 원활히 추진되도록 중앙정부, 시... ",
-			"pubDate":"Thu, 29 Dec 2022 16:30:00 +0900"
 		}
 	]
 }
