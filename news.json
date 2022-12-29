@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Dec 2022 10:40:02 +0900",
-	"total":194001,
+	"lastBuildDate":"Thu, 29 Dec 2022 10:50:03 +0900",
+	"total":194002,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 신재생에너지 확대기반 조성사업 완료",
+			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20221229010008073",
+			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20221229010008073",
+			"description":"공공시설은 송도국제도시 솔찬공원 국제캠핑장 주차장과 <b>청라<\/b>BRT 통합차고지에 146.5㎾ 규모의 태양광발전설비 설치를 통해 연간 18만9000㎾의 전기를 생산하게 된다. 이는 매년 약 2500만원의 전기요금 절감과... ",
+			"pubDate":"Thu, 29 Dec 2022 10:44:00 +0900"
+		},
 		{
 			"title":"[인사] 보령시",
 			"originallink":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=953426",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=225212",
 			"description":"현재 운영 중인 송도·<b>청라<\/b> 소각장을 증설해야 한다&quot;고 발언했다. 이에 시는 바로 설명자료를 배포하며 &quot;시의 공식 의견이 아니다&quot;라고 밝혔지만, 반발 여론은 거침없이 커졌고 정치권 공방으로도 이어졌다. 2025년... ",
 			"pubDate":"Wed, 28 Dec 2022 17:34:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 주민들, LH 상대로 <b>청라<\/b>시티타워 공익감사 청구",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=92970",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=92970",
-			"description":"<b>청라<\/b>시티타워 조감도. 사진=인천경제자유구역청 인천 <b>청라<\/b>국제도시의 랜드마크 사업인 <b>청라<\/b>시티타워 착공이 공사비 분담 문제로 표류하는 가운데 주민들이 한국토지주택공사(LH)를 상대로 감사원에 감사를... ",
-			"pubDate":"Wed, 28 Dec 2022 17:32:00 +0900"
 		}
 	]
 }
