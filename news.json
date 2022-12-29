@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Dec 2022 15:30:02 +0900",
-	"total":194029,
+	"lastBuildDate":"Thu, 29 Dec 2022 15:40:02 +0900",
+	"total":194030,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 시민소통민원 빅data 첫 분석..최다민원발생지역 ?",
+			"originallink":"https:\/\/www.smartcitytoday.co.kr\/news\/articleView.html?idxno=25821",
+			"link":"https:\/\/www.smartcitytoday.co.kr\/news\/articleView.html?idxno=25821",
+			"description":"<b>청라<\/b>경제자유구역 품은 서구, 최대 민원 발생 &apos;수모&apos; 최근 5년간 지역별 민원 발생 추이는 서구가 475건으로 가장 많았으며, 민선8기 출범 이후에는 각종 개발사업문제와 전세사기 피해 등 민원이 많았던 미추홀구가 가장... ",
+			"pubDate":"Thu, 29 Dec 2022 15:30:00 +0900"
+		},
 		{
 			"title":"합참이 공개한 北무인기 항적 지도, 53년 전 것?…배경놓고 온라인 후끈 [디지...",
 			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=254436",
@@ -75,13 +82,6 @@
 			"pubDate":"Thu, 29 Dec 2022 14:04:00 +0900"
 		},
 		{
-			"title":"서울 아파트값 &apos;31주 연속&apos; 하락세…매주 최대 낙폭 신기록 경신",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20221229500194",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20221229500194",
-			"description":"서구(-1.30%)는 <b>청라<\/b>‧마전‧검암동 주요단지 위주로, 남동구(-1.26%)는 서창‧구월‧간석동 대단지 밀집지역 위주로, 계양구(-1.21%)는 용종‧작전‧병방동 일대 구축‧중소규모 위주로 하락했다. 경기에서는 이천시... ",
-			"pubDate":"Thu, 29 Dec 2022 14:02:00 +0900"
-		},
-		{
 			"title":"서울 아파트값 7개월째 하락세…급급매 가격하락→추가하락 기대감 반복",
 			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2022122910434637005e6e69892f_18",
 			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2022122910434637005e6e69892f_18",
@@ -89,17 +89,24 @@
 			"pubDate":"Thu, 29 Dec 2022 14:02:00 +0900"
 		},
 		{
-			"title":"[인사] 충남 보령시",
-			"originallink":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=738030",
-			"link":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=738030",
-			"description":"한은경 ▲<b>청라<\/b>면 오다미 ▲<b>청라<\/b>면 윤희창 ▲남포면 김승주 ▲주산면 김홍수 ▲주산면 안주영 ▲주산면 심미선 ▲주산면 임대혁 ▲미산면 박상길 ▲성주면 방영권 ▲성주면 조원창 ▲대천1동 유정아 ▲대천1동 오세윤... ",
-			"pubDate":"Thu, 29 Dec 2022 14:00:00 +0900"
+			"title":"서울 아파트값 &apos;31주 연속&apos; 하락세…매주 최대 낙폭 신기록 경신",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20221229500194",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20221229500194",
+			"description":"서구(-1.30%)는 <b>청라<\/b>‧마전‧검암동 주요단지 위주로, 남동구(-1.26%)는 서창‧구월‧간석동 대단지 밀집지역 위주로, 계양구(-1.21%)는 용종‧작전‧병방동 일대 구축‧중소규모 위주로 하락했다. 경기에서는 이천시... ",
+			"pubDate":"Thu, 29 Dec 2022 14:02:00 +0900"
 		},
 		{
 			"title":"서울 아파트값 31주째 하락…&quot;추가 하락 우려 지속&quot;",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2022122913513869556",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005198607?sid=101",
 			"description":"서구(-1.30%)는 <b>청라<\/b>·마전·검암동 주요 단지 위주로, 계양구(-1.21%)는 용종·작전·병방동 일대 구축·중소 규모 단지의 가격이 내려갔다. 세종시의 경우 다정·새롬동 위주로 1.68% 내렸다. 전국 시·도 가운데 4주 연속... ",
+			"pubDate":"Thu, 29 Dec 2022 14:00:00 +0900"
+		},
+		{
+			"title":"[인사] 충남 보령시",
+			"originallink":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=738030",
+			"link":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=738030",
+			"description":"한은경 ▲<b>청라<\/b>면 오다미 ▲<b>청라<\/b>면 윤희창 ▲남포면 김승주 ▲주산면 김홍수 ▲주산면 안주영 ▲주산면 심미선 ▲주산면 임대혁 ▲미산면 박상길 ▲성주면 방영권 ▲성주면 조원창 ▲대천1동 유정아 ▲대천1동 오세윤... ",
 			"pubDate":"Thu, 29 Dec 2022 14:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=953426",
 			"description":"한은경 ▲<b>청라<\/b>면 오다미 ▲〃 윤희창 ▲남포면 김승주 ▲주산면 김홍수 ▲〃 안주영 ▲〃 심미선 ▲〃 임대혁 ▲미산면 박상길 ▲성주면 방영권 ▲〃 조원창 ▲대천1동 유정아 ▲〃 오세윤 ▲대천2동 김아람 ▲대천3동... ",
 			"pubDate":"Thu, 29 Dec 2022 10:38:00 +0900"
-		},
-		{
-			"title":"“현대무벡스, 2차전지·지하철 자동문 수출로 내년 매출 성장 기대”&lt;NH투자...",
-			"originallink":"https:\/\/www.news2day.co.kr\/article\/20221229500111",
-			"link":"https:\/\/www.news2day.co.kr\/article\/20221229500111",
-			"description":"시장 성장률 둔화·경기 침체로 이커머스 성장 위축 우려 2차전지·자동문 수출로 수주잔고-매출 동반 증가 기대 현대무벡스 <b>청라<\/b> R&amp;D센터 [사진 = 인천경제자유구역 홈페이지] [뉴스투데이=전소영 기자] 현대무벡스가... ",
-			"pubDate":"Thu, 29 Dec 2022 10:26:00 +0900"
 		}
 	]
 }
