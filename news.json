@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Dec 2022 16:50:03 +0900",
-	"total":194036,
+	"lastBuildDate":"Thu, 29 Dec 2022 17:00:02 +0900",
+	"total":194037,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"IFEZ 태양광발전설비 설치, 연간 18만9천㎾ 전력생산",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202212291119559090808",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202212291119559090808",
+			"description":"공공시설은 송도국제도시 솔찬공원 국제캠핑장 주차장과 <b>청라<\/b>BRT 통합차고지에 146.5㎾ 규모의 태양광발전설비 설치를 통해 연간 18만9000㎾의 전기를 생산하게 된다. 이는 매년 약 2500만원의 전기요금 절감과... ",
+			"pubDate":"Thu, 29 Dec 2022 16:52:00 +0900"
+		},
 		{
 			"title":"아파트값, 연말까지 하락세 지속",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202212291529537630913",
@@ -82,17 +89,17 @@
 			"pubDate":"Thu, 29 Dec 2022 15:08:00 +0900"
 		},
 		{
-			"title":"[아유경제_부동산] 12월 4주 아파트 가격 동향… 매매가격 -0.76% 하락ㆍ전세...",
-			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=75229",
-			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=75229",
-			"description":"연수구(-1.69%)는 송도신도시와 인근 연수 동춘으로 하락 지역 확대되며, 서구(-1.3%)는 <b>청라<\/b>ㆍ마전ㆍ검암... 4%)는 인근 입주 물량 영향으로 신현ㆍ<b>청라<\/b>ㆍ마전ㆍ당하 위주로, 남동구(-1.37%)는 남촌ㆍ논현ㆍ서창 위주로... ",
-			"pubDate":"Thu, 29 Dec 2022 15:04:00 +0900"
-		},
-		{
 			"title":"IFEZ 공공시설 내 태양광 발전설비 설치",
 			"originallink":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=177988",
 			"link":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=177988",
 			"description":"공공시설은 송도국제도시 솔찬공원 국제캠핑장 주차장과 <b>청라<\/b>BRT 통합차고지에 146.5㎾ 규모의 태양광 발전설비 설치를 통해 연간 18만9000㎾의 전기를 생산하게 된다. 이는 매년 약 2500만 원의 전기요금 절감과... ",
+			"pubDate":"Thu, 29 Dec 2022 15:04:00 +0900"
+		},
+		{
+			"title":"[아유경제_부동산] 12월 4주 아파트 가격 동향… 매매가격 -0.76% 하락ㆍ전세...",
+			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=75229",
+			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=75229",
+			"description":"연수구(-1.69%)는 송도신도시와 인근 연수 동춘으로 하락 지역 확대되며, 서구(-1.3%)는 <b>청라<\/b>ㆍ마전ㆍ검암... 4%)는 인근 입주 물량 영향으로 신현ㆍ<b>청라<\/b>ㆍ마전ㆍ당하 위주로, 남동구(-1.37%)는 남촌ㆍ논현ㆍ서창 위주로... ",
 			"pubDate":"Thu, 29 Dec 2022 15:04:00 +0900"
 		},
 		{
@@ -205,13 +212,6 @@
 			"originallink":"https:\/\/www.news1.kr\/articles\/4909325",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006547156?sid=102",
 			"description":"공공시설은 송도국제도시 솔찬공원 국제캠핑장 주차장과 <b>청라<\/b>BRT 통합차고지에 146.5㎾ 규모로 설치, 연간 18만9000㎾의 전기를 생산하게 된다. 이는 매년 약 2500만원의 전기요금 절감과 온실가스 약 90톤 저감 및... ",
-			"pubDate":"Thu, 29 Dec 2022 11:22:00 +0900"
-		},
-		{
-			"title":"인천경제청, IFEZ 태양광발전설비 설치...연간 18만 9000㎾ 전력생산",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20221229010006580",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20221229010006580",
-			"description":"인천경제청에 따르면 공공시설은 송도국제도시 솔찬공원 국제캠핑장 주차장과 <b>청라<\/b>BRT 통합차고지에 146.5㎾ 규모의 태양광발전설비 설치를 통해 연간 18만 9000㎾의 전기를 생산하게 된다. 이는 매년 약 2500만원의... ",
 			"pubDate":"Thu, 29 Dec 2022 11:22:00 +0900"
 		}
 	]
