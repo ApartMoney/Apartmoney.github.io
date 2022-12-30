@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 30 Dec 2022 09:10:02 +0900",
-	"total":194067,
+	"lastBuildDate":"Fri, 30 Dec 2022 09:20:02 +0900",
+	"total":194068,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 태양광으로 18.9만㎾생산..&quot;소나무1.3만그루 효과&quot;",
+			"originallink":"https:\/\/www.smartcitytoday.co.kr\/news\/articleView.html?idxno=25832",
+			"link":"https:\/\/www.smartcitytoday.co.kr\/news\/articleView.html?idxno=25832",
+			"description":"우선 송도국제도시 솔찬공원 국제캠핑장 주차장과 <b>청라<\/b>BRT 통합차고지에 146.5㎾ 규모의 태양광발전설비 설치를 통해 연간 18만9천㎾의 전기를 생산했다. 이 사업은 산업통상자원부의 신재생에너지 확대기반... ",
+			"pubDate":"Fri, 30 Dec 2022 09:16:00 +0900"
+		},
 		{
 			"title":"루원시티 메인상권 기대 &apos;루원 지웰시티몰&apos; 공급",
 			"originallink":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=236786",
@@ -68,17 +75,17 @@
 			"pubDate":"Thu, 29 Dec 2022 20:50:00 +0900"
 		},
 		{
-			"title":"연수·서·중구 &apos;경제구역&apos;-미추홀·동구 &apos;구도심&apos;… 집값 양극화 심화",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221229010005770",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221229010005770",
-			"description":"반면 동구, 미추홀구, 남동구, 강화군은 &apos;유지형&apos;으로 PIR 지수에 변동이 크지 않았다.조형진 인천연구원 도시정보센터 전임연구원은 &quot;인천은 송도·<b>청라<\/b>·영종 등 경제자유구역과 구도심 간 지역별 주거비 부담... ",
-			"pubDate":"Thu, 29 Dec 2022 20:34:00 +0900"
-		},
-		{
 			"title":"인천시, 내년 산업단지 지정 150만㎡로 확대",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221229010005753",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221229010005753",
 			"description":"인천의 경우 송도와 <b>청라<\/b>, 영종국제도시 등 경제자유구역을 중심으로 개발 중이거나 미분양 상황인 산업단지 등의 면적이 많아 신규 산업단지 지정 면적을 확보하기가 어려웠다. 이 때문에 37만5천㎡ 규모의... ",
+			"pubDate":"Thu, 29 Dec 2022 20:34:00 +0900"
+		},
+		{
+			"title":"연수·서·중구 &apos;경제구역&apos;-미추홀·동구 &apos;구도심&apos;… 집값 양극화 심화",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221229010005770",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20221229010005770",
+			"description":"반면 동구, 미추홀구, 남동구, 강화군은 &apos;유지형&apos;으로 PIR 지수에 변동이 크지 않았다.조형진 인천연구원 도시정보센터 전임연구원은 &quot;인천은 송도·<b>청라<\/b>·영종 등 경제자유구역과 구도심 간 지역별 주거비 부담... ",
 			"pubDate":"Thu, 29 Dec 2022 20:34:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=731587",
 			"description":"수도권매립지‧광역소각장 갈등, 여전히 아득한 해법 지방선거가 끝나자 ‘수도권매립지 2025년 종료, <b>청라<\/b>... 인천타워‧시티타워 논란, 누가 던진 폭탄인가 151층 인천타워와 <b>청라<\/b>시티타워 건설 문제를 놓고 지역... ",
 			"pubDate":"Thu, 29 Dec 2022 17:22:00 +0900"
-		},
-		{
-			"title":"서울 강북 아파트값 1% 가까이 하락, 아파트값 하락폭 기록 매주 경신",
-			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=302051",
-			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=302051",
-			"description":"인천 연수구(-1.69%)는 송도신도시와 인근 연수, 둔촌동으로 하락지역이 확대됐고 서구(-1.30%)는 <b>청라<\/b>, 마전, 검암동 주요단지 위주로 매물가격이 내렸다. 남동구(-1.26%)는 서창, 구월, 간석동 대단지 밀집구역에서... ",
-			"pubDate":"Thu, 29 Dec 2022 17:18:00 +0900"
 		}
 	]
 }
