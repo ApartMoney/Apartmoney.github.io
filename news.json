@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 30 Dec 2022 16:50:02 +0900",
-	"total":194094,
+	"lastBuildDate":"Fri, 30 Dec 2022 17:00:02 +0900",
+	"total":194096,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[특집] 인천 철도·도로 &apos;2022년 핫클릭&apos; Top10 ①~⑤",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=225324",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=225324",
+			"description":"당초 인천시는 GTX-D로 이름을 붙여 영종(인천국제공항)에서 출발해 <b>청라<\/b>·가정 등을 거쳐 김포·검단... 최근 제3연륙교 명칭을 두고 영종과 <b>청라<\/b> 주민 간 갈등이 발생했다. 제3연륙교의 명칭은 여론 수렴 등을 거쳐... ",
+			"pubDate":"Fri, 30 Dec 2022 16:56:00 +0900"
+		},
+		{
+			"title":"합참, 북 무인기 항적도에 50여 년 전 지도사용 &apos;빈축&apos;",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007027326&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001024654?sid=100",
+			"description":"인천공항이 있는 영종도와 <b>청라<\/b>지구의 모습도 확연히 다릅니다. 잠실도는 1970년대 초 잠실지구 개발에 따라 육지로 편입돼 현재는 존재하지 않습니다. 결과적으로 합참이 무인기 항적도 작성에 이용한 지도는 1970년 이전... ",
+			"pubDate":"Fri, 30 Dec 2022 16:54:00 +0900"
+		},
 		{
 			"title":"‘인천 <b>청라<\/b>시티타워’ 원점에서 재검토",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202212301636400460166",
@@ -19,7 +33,7 @@
 			"pubDate":"Fri, 30 Dec 2022 16:40:00 +0900"
 		},
 		{
-			"title":"올해 유통업계 다사다난, &apos;성덕&apos; 구단주 정용진과 &apos;밉상&apos; SPC 허영인 주목",
+			"title":"유통업계 다사다난, &apos;성덕&apos; 구단주 정용진과 &apos;여론 뭇매&apos; SPC 허영인 주목",
 			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=302162",
 			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=302162",
 			"description":"정 부회장은 SSG랜더스와 신세계그룹의 시너지에 속도를 내기 위해 복합쇼핑몰 스타필드 <b>청라<\/b> 건립에 힘을 쏟고 있다. 그는 올해 8월 유정복 인천시장과 스타필드 <b>청라<\/b> 및 야구 돔구장 건설, 지하철 역사 신설에... ",
@@ -96,17 +110,17 @@
 			"pubDate":"Fri, 30 Dec 2022 11:28:00 +0900"
 		},
 		{
-			"title":"인천경제청, 건축가들이 직접 알려주는 건축 디자인 이야기 유튜브 공개",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20221230110451478",
-			"link":"https:\/\/www.ajunews.com\/view\/20221230110451478",
-			"description":"<b>청라<\/b>국제업무지구에 곡선 경계를 넘나드는 소통의 공간 디자인을 선보인 다세움종합건축사사무소 윤영대... 또 <b>청라<\/b> IHP(인천하이테크파크) 첨단 신소재 개발 공장인 그린리소스를 설계한 비오엔건축 김인곤 소장은... ",
-			"pubDate":"Fri, 30 Dec 2022 11:22:00 +0900"
-		},
-		{
 			"title":"&apos;GTX-D Y자&apos; 노선 챌린지 참여 명단 공개...유정복·이재명",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=225309",
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=225309",
 			"description":"인천 영종·<b>청라<\/b>·루원·계양 등 지역 주민단체가 연합한 &apos;GTX-D Y자 노선 예타면제 촉구 시민연합... 영종·<b>청라<\/b>에서 오는 노선을 부천종합운동장에서 만나게 해 강남~삼성~하남~팔당 구간까지 연결하자는 주장이다.... ",
+			"pubDate":"Fri, 30 Dec 2022 11:22:00 +0900"
+		},
+		{
+			"title":"인천경제청, 건축가들이 직접 알려주는 건축 디자인 이야기 유튜브 공개",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20221230110451478",
+			"link":"https:\/\/www.ajunews.com\/view\/20221230110451478",
+			"description":"<b>청라<\/b>국제업무지구에 곡선 경계를 넘나드는 소통의 공간 디자인을 선보인 다세움종합건축사사무소 윤영대... 또 <b>청라<\/b> IHP(인천하이테크파크) 첨단 신소재 개발 공장인 그린리소스를 설계한 비오엔건축 김인곤 소장은... ",
 			"pubDate":"Fri, 30 Dec 2022 11:22:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=236786",
 			"description":"경인고속도로 서인천IC 접근이 용이해 광역 교통망도 잘 갖춰졌고, 도보거리에 7호선 <b>청라<\/b>연장선(27년 예정)이 개통되면 향후 더블역세권으로 거듭나게 된다. 현장 관계자는 &quot;&apos;루원 지웰시티몰&apos;은 49층 랜드마크 &apos;루원... ",
 			"pubDate":"Fri, 30 Dec 2022 09:02:00 +0900"
-		},
-		{
-			"title":"[ESG돋보기] 바디프랜드 &quot;ESG의 핵심은 재활용&quot;",
-			"originallink":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=247383",
-			"link":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=247383",
-			"description":"보령시 <b>청라<\/b>면), 경북 포항시, 경주시 등 수해 지역에서 침수 피해를 입은 바디프랜드 안마의자를 대상으로 했다. 바디프랜드는 2020년 9월 코로나19 전담 병원으로 지정된 서울의료원에 안마의자 6대를 기부해 격무에... ",
-			"pubDate":"Fri, 30 Dec 2022 08:46:00 +0900"
-		},
-		{
-			"title":"&apos;국내 최고층 전망 타워&apos; 인천 <b>청라<\/b>시티타워 건립 원점으로",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20221229144400065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013671907?sid=101",
-			"description":"인천 <b>청라<\/b>시티타워 건립 사업이 공사를 시작하지 못하고 원점으로 돌아가게 됐다. 30일 인천경제자유구역청 등에 따르면 이 사업을 총괄 관리하는 한국토지주택공사(LH)는 주관 사업자인 특수목적법인(SPC) <b>청라<\/b>시티타... ",
-			"pubDate":"Fri, 30 Dec 2022 08:10:00 +0900"
 		}
 	]
 }
