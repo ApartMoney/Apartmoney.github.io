@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 30 Dec 2022 17:10:02 +0900",
-	"total":194097,
+	"lastBuildDate":"Fri, 30 Dec 2022 17:20:02 +0900",
+	"total":194098,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 부동산시장 역대급 한파... 전문가들 &quot;내년도 어렵다&quot;",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93013",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93013",
+			"description":"지난해 집값 상승세가 가팔랐던 송도·<b>청라<\/b>·영종국제도시 등 경제자유구역을 중심으로 하락세가... 서구 <b>청라<\/b>국제도시에서는 &apos;<b>청라<\/b>센트럴에일린의뜰&apos; 전용 95.2717㎡이 이달 6억9,000만원(18층)에 손바뀜했다. 직전... ",
+			"pubDate":"Fri, 30 Dec 2022 17:12:00 +0900"
+		},
 		{
 			"title":"[특집] 인천 철도·도로 &apos;2022년 핫클릭&apos; Top10 ①~⑤",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=225324",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004139374?sid=102",
 			"description":"<b>청라<\/b>국제업무지구에 곡선 경계를 넘나드는 소통의 공간 디자인을 선보인 윤영대 다세움종합건축사사무소... 또 <b>청라<\/b> IHP(인천하이테크파크) 첨단 신소재 개발 공장인 그린리소스를 설계한 김인곤 비오엔건축 소장은... ",
 			"pubDate":"Fri, 30 Dec 2022 09:25:00 +0900"
-		},
-		{
-			"title":"인천경제청, 태양광으로 18.9만㎾생산..&quot;소나무1.3만그루 효과&quot;",
-			"originallink":"https:\/\/www.smartcitytoday.co.kr\/news\/articleView.html?idxno=25832",
-			"link":"https:\/\/www.smartcitytoday.co.kr\/news\/articleView.html?idxno=25832",
-			"description":"우선 송도국제도시 솔찬공원 국제캠핑장 주차장과 <b>청라<\/b>BRT 통합차고지에 146.5㎾ 규모의 태양광발전설비 설치를 통해 연간 18만9천㎾의 전기를 생산했다. 이 사업은 산업통상자원부의 신재생에너지 확대기반... ",
-			"pubDate":"Fri, 30 Dec 2022 09:16:00 +0900"
 		}
 	]
 }
