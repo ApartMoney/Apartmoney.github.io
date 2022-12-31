@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 01 Jan 2023 06:00:02 +0900",
-	"total":194171,
+	"lastBuildDate":"Sun, 01 Jan 2023 06:10:02 +0900",
+	"total":194173,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[신년사] 허식 인천시의회 의장 “계묘년 새해 ‘원도심·신도시 균형발전’ ...",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=731294",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=731294",
+			"description":"특히 인천도시철도 3호선(<b>청라<\/b>국제도시역-동인천역-국제여객터미널역), 인천발 KTX, 제2공항철도, 제4경인고속도로, 동인천역세권 개발, 영종-강화 연륙교 건설 등 관련 사업들이 원활히 추진되도록 중앙정부, 인천시 등과... ",
+			"pubDate":"Sun, 01 Jan 2023 06:02:00 +0900"
+		},
+		{
+			"title":"[신년 인터뷰] 강범석 인천 서구청장 &quot;품격 있는 도시로 성장&quot;",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20221231_0002143484&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011620155?sid=102",
+			"description":"&quot;서구는 인천국제공항과 항만이 인접해 있는 지리적 이점과 함께 <b>청라<\/b>국제도시, 루원시티, 검단신도시, 가정지구 등 대형 개발 프로젝트가 맞물려 추진 중인 점이 가장 큰 장점이다. 이에 따라 수도권에서는 이례적으로... ",
+			"pubDate":"Sun, 01 Jan 2023 06:00:00 +0900"
+		},
 		{
 			"title":"유정복 인천시장, 신년사 전문",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20230101014410869",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20221230010006967",
 			"description":"김현주 ▲<b>청라<\/b> 강은주 ▲구리역 지은주 ▲병점 김민선 ▲성남 신윤경 ▲시화공단 성미경 ▲안양 박정선 ▲원주 함채연 ▲제주 주향선 ◇ 영업본부 RM지점장 ▲신성장기업 강귀정 ▲신성장기업 김용만 ◇ 금융센터 지점장... ",
 			"pubDate":"Fri, 30 Dec 2022 23:26:00 +0900"
-		},
-		{
-			"title":"[인사] 우리은행",
-			"originallink":"http:\/\/www.consumernews.co.kr\/news\/articleView.html?idxno=667510",
-			"link":"http:\/\/www.consumernews.co.kr\/news\/articleView.html?idxno=667510",
-			"description":"김현주 ▲<b>청라<\/b> 강은주 ▲구리역 지은주 ▲병점 김민선 ▲성남 신윤경 ▲시화공단 성미경 ▲안양 박정선 ▲원주 함채연 ▲제주 주향선 ◇ 영업본부 RM지점장 승진 ▲신성장기업 강귀정 ▲신성장기업 김용만 ◇ 금융센터... ",
-			"pubDate":"Fri, 30 Dec 2022 23:24:00 +0900"
-		},
-		{
-			"title":"[인사] 우리금융지주·우리은행",
-			"originallink":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=384033",
-			"link":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=384033",
-			"description":"김현주 △<b>청라<\/b> 강은주 △구리역 지은주 △병점 김민선 △성남 신윤경 △시화공단 성미경 △안양 박정선 △원주 함채연 △제주 주향선 ▷영업본부 RM지점장 △신성장기업 강귀정 △신성장기업 김용만 ▷금융센터 지점장... ",
-			"pubDate":"Fri, 30 Dec 2022 23:12:00 +0900"
 		}
 	]
 }
