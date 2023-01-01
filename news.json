@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 02 Jan 2023 07:50:02 +0900",
-	"total":194208,
+	"lastBuildDate":"Mon, 02 Jan 2023 08:00:02 +0900",
+	"total":194209,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 공공심야약국 2배 증가… 새해부터 26개소 확대",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230102000033",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002085341?sid=102",
+			"description":"지난해까지 공공심야약국이 운영되지 않아 시민 불편이 제기됐던 검단·<b>청라<\/b>·연수 3개 지역에 5개소가 새롭게 지정된다. 따라서 인천시민 누구나 반경 3km 안의 공공심야약국을 15분 내에 이용할 수 있다.... ",
+			"pubDate":"Mon, 02 Jan 2023 07:53:00 +0900"
+		},
 		{
 			"title":"韓 세계 1위 로봇 밀집도, 노동혁명 시작됐다… “365일 근무, 파업도 없어”",
 			"originallink":"https:\/\/biz.chosun.com\/it-science\/ict\/2023\/01\/02\/VZ2PP5OLFFGEXMGGDKAV6CHE5Y\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1627450",
 			"description":"GTX-D 노선 조기 착공, GTX-E 노선 신설, 서울 지하철 2호선 <b>청라<\/b> 연장 및 서울 지하철 5호선 검단 연장 등 서구와... <b>청라<\/b>IC 교통 혼잡 해소를 위해 관계기관과 협의, 인천공항고속도로 <b>청라<\/b>IC 확장과 경명대로-인천공항고속도로... ",
 			"pubDate":"Sun, 01 Jan 2023 11:05:00 +0900"
-		},
-		{
-			"title":"[인사] 우리은행",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=20230101101533465096085a06ef_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=20230101101533465096085a06ef_23",
-			"description":"김현주 ▲<b>청라<\/b> 강은주 ▲구리역 지은주 ▲병점 김민선 ▲성남 신윤경 ▲시화공단 성미경 ▲안양 박정선 ▲원주 함채연 ▲제주 주향선 &lt;영업본부 RM지점장&gt; ▲신성장기업 강귀정 ▲신성장기업 김용만 &lt;금융센터 지점장... ",
-			"pubDate":"Sun, 01 Jan 2023 10:32:00 +0900"
 		}
 	]
 }
