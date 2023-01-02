@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 02 Jan 2023 21:30:02 +0900",
-	"total":194333,
+	"lastBuildDate":"Mon, 02 Jan 2023 21:40:02 +0900",
+	"total":194334,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 공공 심야약국 26곳으로 확대 운영",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1011045",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1011045",
+			"description":"더구나 지난해까지 공공심야약국을 운영하지 않아 시민 불편이 잇따랐던 검단·<b>청라<\/b>·연수 3개 지역에 5곳을 새롭게 지정했다. 덕분에 인천시민 누구나 반경 3㎞ 안에서 공공심야약국을 15분 안에 이용하게 됐다.... ",
+			"pubDate":"Mon, 02 Jan 2023 21:38:00 +0900"
+		},
 		{
 			"title":"LH, 인천경제청이 발표한 <b>청라<\/b> 토지 보상금 1043억 확보 소송 제기",
 			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230102000725",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=731935",
 			"description":"정용진 신세계그룹 부회장 신년사 통해 포부 밝혀 인천시도 <b>청라<\/b>돔구장 인근에 서울7호선 역사 신설 총력 정용진 신세계그룹 부회장이 2023년 신년사를 통해 <b>청라<\/b>돔구장의 포부를 밝히면서 예상 조감도를 공개했다.... ",
 			"pubDate":"Mon, 02 Jan 2023 16:36:00 +0900"
-		},
-		{
-			"title":"인천시의회, 새해에 시민 행복 의정 구현 다짐",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=410712",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=410712",
-			"description":"3호선(<b>청라<\/b>국제도시역~동인천역~국제여객터미널역), 인천발 KTX, 제2공항철도, 제4경인고속도로, 동인천역세권 개발, 영종-강화 연륙교 건설, 제2외곽순환도로, 배곧대교 건설, 송도연세세브란스병원, <b>청라<\/b> 서울아산병원... ",
-			"pubDate":"Mon, 02 Jan 2023 16:32:00 +0900"
 		}
 	]
 }
