@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 02 Jan 2023 21:50:02 +0900",
-	"total":194335,
+	"lastBuildDate":"Mon, 02 Jan 2023 22:00:02 +0900",
+	"total":194336,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 공공심야약국 2배 증가, 올부터 26개소 운영",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=380899",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=380899",
+			"description":"주목할만한 것은 지난해까지 공공심야약국이 운영되지 않아 시민 불편이 제기됐던 검단·<b>청라<\/b>·연수 3개 지역에 5개소가 새롭게 지정되면서 인천시민 누구나 반경 3km 안의 공공심야약국을 15분 내에 이용할 수 있게 된... ",
+			"pubDate":"Mon, 02 Jan 2023 21:52:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b> 로봇랜드 인근 나대지 15필지 토지보상금 1043억 경제청 품으로",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1011028",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1644766",
 			"description":"3호선(<b>청라<\/b>국제도시역~동인천역~국제여객터미널역), 인천발 KTX, 제2공항철도, 제4경인고속도로, 동인천역세권 개발, 영종-강화 연륙교 건설, 제2외곽순환도로, 배곧대교 건설, 송도연세세브란스병원, <b>청라<\/b> 서울아산병원... ",
 			"pubDate":"Mon, 02 Jan 2023 16:46:00 +0900"
-		},
-		{
-			"title":"인천경제청, LH가 부당 취득한 1,000억원대 <b>청라<\/b> 땅값 받기로",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93052",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93052",
-			"description":"LH공사가 행정절차를 밟지 않고 부당하게 무상 취득한 인천경제청 소유 <b>청라<\/b>국제도시 토지 20만여㎡의 위치(자료제공=인천경제청) 인천경제자유구역청이 <b>청라<\/b>국제도시 사업시행자인 LH공사가 정당한 행정절차를 밟지... ",
-			"pubDate":"Mon, 02 Jan 2023 16:42:00 +0900"
 		}
 	]
 }
