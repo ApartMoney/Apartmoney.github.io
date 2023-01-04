@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Wed, 04 Jan 2023 10:00:02 +0900",
-	"total":194467,
+	"lastBuildDate":"Wed, 04 Jan 2023 10:10:02 +0900",
+	"total":194471,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 한국토지주택공사 본부장·부서장",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2031634",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2031634",
+			"description":"인천지역본부 <b>청라<\/b>영종사업단장 김연중 △ 경기남부지역본부장 권세연 △ 경기남부지역본부 사업관리처장 김형주 △ 경기남부지역본부 단지사업처장 이재진 △ 경기남부지역본부 주택사업처장 이순제... ",
+			"pubDate":"Wed, 04 Jan 2023 10:08:00 +0900"
+		},
+		{
+			"title":"LH, 조직개편에 따른 후속인사 단행...품질·교통 기능 강화",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20230104094530076",
+			"link":"https:\/\/www.ajunews.com\/view\/20230104094530076",
+			"description":"인천지역본부 <b>청라<\/b>영종사업단장 김연중 ∆ 경기남부지역본부장 권세연 ∆ 경기남부지역본부 사업관리처장 김형주 ∆ 경기남부지역본부 단지사업처장 이재진 ∆ 경기남부지역본부 주택사업처장 이순제... ",
+			"pubDate":"Wed, 04 Jan 2023 10:02:00 +0900"
+		},
+		{
+			"title":"인천경제청, 영종․<b>청라<\/b> 개발이익 재투자 본격 시동",
+			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=107148",
+			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=107148",
+			"description":"김진용 인천경제자유구청장은 &quot;그동안 경제자유구역청장협의회의 대 정부 공동건의문으로 채택하는 등 적극적으로 개발이익의 재투자에 노력한 결과&quot;라며 &quot;앞으로 영종·<b>청라<\/b>국제도시 개발이익의 재투자를 위해... ",
+			"pubDate":"Wed, 04 Jan 2023 10:00:00 +0900"
+		},
+		{
+			"title":"[인사] 한국토지주택공사(LH)",
+			"originallink":"https:\/\/www.news1.kr\/articles\/4914812",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006557360?sid=102",
+			"description":"인천지역본부 <b>청라<\/b>영종사업단장 김연중 ∆ 경기남부지역본부장 권세연 ∆ 경기남부지역본부 사업관리처장 김형주 ∆ 경기남부지역본부 단지사업처장 이재진 ∆ 경기남부지역본부 주택사업처장 이순제... ",
+			"pubDate":"Wed, 04 Jan 2023 10:00:00 +0900"
+		},
 		{
 			"title":"[인사] 한국토지주택공사(LH)",
 			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2209279",
@@ -26,17 +54,17 @@
 			"pubDate":"Wed, 04 Jan 2023 09:50:00 +0900"
 		},
 		{
-			"title":"영종·<b>청라<\/b> 개발이익 재투자 본격 시동걸었다",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230104_0002147281&cID=14001&pID=14000",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011625853?sid=102",
-			"description":"영종·<b>청라<\/b>국제도시 사업 시행자와도 개발이익 재투자에 대한 본격적인 협상을 진행, 가시적인 성과를 낼 수 있도록 역점 사업으로 추진할 계획이다. 김진용 인천경제자유구청장은 “앞으로 영종·<b>청라<\/b>국제도시... ",
-			"pubDate":"Wed, 04 Jan 2023 09:48:00 +0900"
-		},
-		{
 			"title":"인천경제자유구역, 영종·<b>청라<\/b> 개발이익 재투자 ‘시동’",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29KCDBWROF",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004141079?sid=102",
 			"description":"인천경제청은 영종·<b>청라<\/b>국제도시 사업 시행자와도 개발이익 재투자 협상을 본격적으로 진행할 방침이다.... 노력한 결과”라며 “앞으로 영종·<b>청라<\/b>국제도시 개발이익의 재투자를 위해 적극 노력하겠다”고 밝혔다.",
+			"pubDate":"Wed, 04 Jan 2023 09:48:00 +0900"
+		},
+		{
+			"title":"영종·<b>청라<\/b> 개발이익 재투자 본격 시동걸었다",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230104_0002147281&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011625853?sid=102",
+			"description":"영종·<b>청라<\/b>국제도시 사업 시행자와도 개발이익 재투자에 대한 본격적인 협상을 진행, 가시적인 성과를 낼 수 있도록 역점 사업으로 추진할 계획이다. 김진용 인천경제자유구청장은 “앞으로 영종·<b>청라<\/b>국제도시... ",
 			"pubDate":"Wed, 04 Jan 2023 09:48:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4249177",
 			"description":"인천지역본부 <b>청라<\/b>영종사업단장 김연중 ▲ 경기남부지역본부장 권세연 ▲ 경기남부지역본부 사업관리처장 김형주 ▲ 경기남부지역본부 단지사업처장 이재진 ▲ 경기남부지역본부 주택사업처장 이순제... ",
 			"pubDate":"Wed, 04 Jan 2023 08:32:00 +0900"
-		},
-		{
-			"title":"[인사]한국토지주택공사(LH)",
-			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2023010408094027402",
-			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2023010408094027402",
-			"description":"이상민 ▲인천지역본부 <b>청라<\/b>영종사업단장 김연중 ▲경기남부지역본부장 권세연 ▲경기남부지역본부 사업관리처장 김형주 ▲경기남부지역본부 단지사업처장 이재진 ▲경기남부지역본부 주택사업처장 이순제... ",
-			"pubDate":"Wed, 04 Jan 2023 08:12:00 +0900"
-		},
-		{
-			"title":"계묘년 &apos;빅5 병원&apos; 화두, 분원 설립과 중증진료 역량 강화",
-			"originallink":"https:\/\/www.medigatenews.com\/news\/2392659568",
-			"link":"https:\/\/www.medigatenews.com\/news\/2392659568",
-			"description":"사진=서울아산병원 800병상 &apos;<b>청라<\/b>병원 건립&apos;...중입자가속치료기 도입 추진 서울아산병원 박승일 병원장 역시 서울아산<b>청라<\/b>병원 건립을 가장 서두에 언급했다. 중입자가속치료기 도입 추진과 환자안전 및 의료질 향상도... ",
-			"pubDate":"Wed, 04 Jan 2023 07:16:00 +0900"
-		},
-		{
-			"title":"9억→4.5억 되니 거래 폭발… 하락장 특수 누리는 인천 루원시티",
-			"originallink":"https:\/\/biz.chosun.com\/real_estate\/real_estate_general\/2023\/01\/04\/TXGA7SMKAVA5VFTLSZWBSX4XSY\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000867208?sid=101",
-			"description":"또 루원시티를 거쳐 <b>청라<\/b>국제도시까지 연결되는 서울지하철 7호선 <b>청라<\/b>연장선 공사의 수혜를 받는 곳이다. 지난해 2월 착공한 이 노선은 2027년 개통 예정이다. 김학렬 스마트튜브 소장은 “루원시티는... ",
-			"pubDate":"Wed, 04 Jan 2023 06:01:00 +0900"
-		},
-		{
-			"title":"“경부-경인고속도 지하화, 2027년내 착공 목표”",
-			"originallink":"https:\/\/www.donga.com\/news\/article\/all\/20230104\/117280713\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003471787?sid=101",
-			"description":"경인고속도로 지하화 준공 시 인천 <b>청라<\/b>에서 서울 여의도까지 이동 시간이 평균 40분에서 23분으로 17분가량 단축될 것으로 전망된다. 경부고속도로는 1시간 이상 소요되는 기흥에서 양재까지가 20분으로 약 40분 줄어들... ",
-			"pubDate":"Wed, 04 Jan 2023 03:01:00 +0900"
 		}
 	]
 }
