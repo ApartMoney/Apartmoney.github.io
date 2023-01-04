@@ -1,21 +1,28 @@
 {
-	"lastBuildDate":"Wed, 04 Jan 2023 13:00:02 +0900",
-	"total":194511,
+	"lastBuildDate":"Wed, 04 Jan 2023 13:10:02 +0900",
+	"total":194512,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] LH",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20230104000508",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20230104000508",
+			"description":"이상민 ▲인천지역본부 <b>청라<\/b>영종사업단장 김연중 ▲경기남부지역본부장 권세연 ▲경기남부지역본부 사업관리처장 김형주 ▲경기남부지역본부 단지사업처장 이재진 ▲경기남부지역본부 주택사업처장 이순제... ",
+			"pubDate":"Wed, 04 Jan 2023 13:03:00 +0900"
+		},
+		{
+			"title":"인천경제자유구역청· LH, <b>청라<\/b>국제도시 사업 정상화 추진",
+			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2023010410364718433dd5a24e3a_1\/article.html",
+			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2023010410364718433dd5a24e3a_1\/article.html",
+			"description":"인천경제자유구역청은 새해를 맞아 김진용 경제청장과 김연중 한국토지주택공사(LH) <b>청라<\/b>영종사업단장이 <b>청라<\/b>국제도시 시티타워 현장에서 만나 사업 정상화 추진의지를 다졌다고 4일 밝혔다. <b>청라<\/b>시티타워의 정상적인... ",
+			"pubDate":"Wed, 04 Jan 2023 12:56:00 +0900"
+		},
 		{
 			"title":"인천경제청, 인천공항 개발이익 44억원 확보 재투자",
 			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2023010410292327353dd5a24e3a_1\/article.html",
 			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2023010410292327353dd5a24e3a_1\/article.html",
 			"description":"인천경제청은 이와함께 영종ㆍ<b>청라<\/b>국제도시 사업 시행자와도 개발이익 재투자에 대한 본격적인 협상을... 영종·<b>청라<\/b>국제도시 개발이익의 재투자를 위해 적극 노력하겠다”고 밝혔다. 임희선 글로벌이코노믹 기자",
-			"pubDate":"Wed, 04 Jan 2023 12:56:00 +0900"
-		},
-		{
-			"title":"인천경제자유구청· LH, <b>청라<\/b>국제도시 사업정상화 추진",
-			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2023010410364718433dd5a24e3a_1\/article.html",
-			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/2023010410364718433dd5a24e3a_1\/article.html",
-			"description":"인천경제자유구청은 새해를 맞아 김진용 경제청장과 김연중 한국토지주택공사(LH) <b>청라<\/b>영종사업단장이 <b>청라<\/b>국제도시 시티타워 현장에서 만나 사업 정상화 추진의지를 다졌다고 4일 밝혔다. <b>청라<\/b>시티타워의 정상적인... ",
 			"pubDate":"Wed, 04 Jan 2023 12:56:00 +0900"
 		},
 		{
@@ -103,16 +110,16 @@
 			"pubDate":"Wed, 04 Jan 2023 11:16:00 +0900"
 		},
 		{
-			"title":"[인사] 한국토지주택공사(LH)",
-			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=491033",
-			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=491033",
+			"title":"[인사] 한국토지주택공사",
+			"originallink":"http:\/\/www.ntoday.co.kr\/news\/articleView.html?idxno=95543",
+			"link":"http:\/\/www.ntoday.co.kr\/news\/articleView.html?idxno=95543",
 			"description":"이상민 ▲인천지역본부 <b>청라<\/b>영종사업단장 김연중 ▲경기남부지역본부장 권세연 ▲경기남부지역본부 사업관리처장 김형주 ▲경기남부지역본부 단지사업처장 이재진 ▲경기남부지역본부 주택사업처장 이순제... ",
 			"pubDate":"Wed, 04 Jan 2023 11:12:00 +0900"
 		},
 		{
-			"title":"[인사] 한국토지주택공사",
-			"originallink":"http:\/\/www.ntoday.co.kr\/news\/articleView.html?idxno=95543",
-			"link":"http:\/\/www.ntoday.co.kr\/news\/articleView.html?idxno=95543",
+			"title":"[인사] 한국토지주택공사(LH)",
+			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=491033",
+			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=491033",
 			"description":"이상민 ▲인천지역본부 <b>청라<\/b>영종사업단장 김연중 ▲경기남부지역본부장 권세연 ▲경기남부지역본부 사업관리처장 김형주 ▲경기남부지역본부 단지사업처장 이재진 ▲경기남부지역본부 주택사업처장 이순제... ",
 			"pubDate":"Wed, 04 Jan 2023 11:12:00 +0900"
 		},
@@ -173,13 +180,6 @@
 			"pubDate":"Wed, 04 Jan 2023 10:42:00 +0900"
 		},
 		{
-			"title":"GTX-B 내년 상반기 착공, 경인고속도 지하화 2027년 이내 착공",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93087",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93087",
-			"description":"(서울2호선 <b>청라<\/b>연장 선행 노선) ▲백령공항 추진 계획이 담겼다. ◇ 경인고속도로 지하화 윤석열 정부... 경인고속도로 지하화 사업이 준공되면 인천 <b>청라<\/b>국제도시에서 서울 여의도까지 이동 시간이 평균 40분에서... ",
-			"pubDate":"Wed, 04 Jan 2023 10:40:00 +0900"
-		},
-		{
 			"title":"인천시 민선8기, 10대 정책 120대 공약 400개 실천과제 확정",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230104010001073",
 			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230104010001073",
@@ -194,18 +194,18 @@
 			"pubDate":"Wed, 04 Jan 2023 10:40:00 +0900"
 		},
 		{
+			"title":"GTX-B 내년 상반기 착공, 경인고속도 지하화 2027년 이내 착공",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93087",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93087",
+			"description":"(서울2호선 <b>청라<\/b>연장 선행 노선) ▲백령공항 추진 계획이 담겼다. ◇ 경인고속도로 지하화 윤석열 정부... 경인고속도로 지하화 사업이 준공되면 인천 <b>청라<\/b>국제도시에서 서울 여의도까지 이동 시간이 평균 40분에서... ",
+			"pubDate":"Wed, 04 Jan 2023 10:40:00 +0900"
+		},
+		{
 			"title":"[인사] LH 한국토지주택공사",
 			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3094517",
 			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3094517",
 			"description":"인천지역본부 <b>청라<\/b>영종사업단장 김연중 ∆ 경기남부지역본부장 권세연 ∆ 경기남부지역본부 사업관리처장 김형주 ∆ 경기남부지역본부 단지사업처장 이재진 ∆ 경기남부지역본부 주택사업처장 이순제... ",
 			"pubDate":"Wed, 04 Jan 2023 10:38:00 +0900"
-		},
-		{
-			"title":"LH, 혁신방안 반영 조직개편 단행…&apos;국민신뢰 회복&apos;",
-			"originallink":"https:\/\/www.smartfn.co.kr\/article\/view\/sfn202301040014",
-			"link":"https:\/\/www.smartfn.co.kr\/article\/view\/sfn202301040014",
-			"description":"인천지역본부 <b>청라<\/b>영종사업단장 김연중 ▲ 경기남부지역본부장 권세연 ▲ 경기남부지역본부 사업관리처장 김형주 ▲ 경기남부지역본부 단지사업처장 이재진 ▲ 경기남부지역본부 주택사업처장 이순제... ",
-			"pubDate":"Wed, 04 Jan 2023 10:32:00 +0900"
 		},
 		{
 			"title":"민선8기 인천 유정복 號, 10대 정책 120대 공약, 400개 실천과제 발표",
