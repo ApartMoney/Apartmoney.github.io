@@ -1,9 +1,44 @@
 {
-	"lastBuildDate":"Wed, 04 Jan 2023 09:40:02 +0900",
-	"total":194458,
+	"lastBuildDate":"Wed, 04 Jan 2023 09:50:02 +0900",
+	"total":194463,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제자유구역, 영종·<b>청라<\/b> 개발이익 재투자 본격 시동",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29KCDBWROF",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004141079?sid=102",
+			"description":"인천경제청은 이와함께 영종·<b>청라<\/b>국제도시 사업 시행자와도 개발이익 재투자에 대한 본격적인 협상을... 노력한 결과”라며 “앞으로 영종·<b>청라<\/b>국제도시 개발이익의 재투자를 위해 적극 노력하겠다”고 밝혔다.",
+			"pubDate":"Wed, 04 Jan 2023 09:48:00 +0900"
+		},
+		{
+			"title":"[인사] 한국토지주택공사",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20230104010001131",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230104010001131",
+			"description":"이상민 ▲인천지역본부 <b>청라<\/b>영종사업단장 김연중 ▲경기남부지역본부장 권세연 ▲경기남부지역본부 사업관리처장 김형주 ▲경기남부지역본부 단지사업처장 이재진 ▲경기남부지역본부 주택사업처장 이순제... ",
+			"pubDate":"Wed, 04 Jan 2023 09:46:00 +0900"
+		},
+		{
+			"title":"[인사] 한국토지주택공사",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230104010000754",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230104010000754",
+			"description":"이상민 △인천지역본부 <b>청라<\/b>영종사업단장 김연중 △경기남부지역본부장 권세연 △경기남부지역본부 사업관리처장 김형주 △경기남부지역본부 단지사업처장 이재진 △경기남부지역본부 주택사업처장 이순제... ",
+			"pubDate":"Wed, 04 Jan 2023 09:42:00 +0900"
+		},
+		{
+			"title":"LH, 조직개편·인사 단행…국민주거혁신실·선교통계획처 설치",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1628228",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1628228",
+			"description":"이상민 ▲인천지역본부 <b>청라<\/b>영종사업단장 김연중 ▲경기남부지역본부장 권세연 ▲경기남부지역본부 사업관리처장 김형주 ▲경기남부지역본부 단지사업처장 이재진 ▲경기남부지역본부 주택사업처장 이순제... ",
+			"pubDate":"Wed, 04 Jan 2023 09:41:00 +0900"
+		},
+		{
+			"title":"인천경제청, 개발이익 확보 박차…기반시설 등에 재투자",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230104041100065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013680307?sid=102",
+			"description":"그 이전에 최초 실시계획이 승인된 단위개발사업지구도 개발이익 재투자 대상이라고 유권해석을 내렸다. 인천경제청은 영종·<b>청라<\/b>국제도시 사업 시행자와도 개발이익 재투자 협상을 본격적으로 진행할 방침이다.",
+			"pubDate":"Wed, 04 Jan 2023 09:40:00 +0900"
+		},
 		{
 			"title":"[인사] LH(한국토지주택공사)",
 			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?tp=1&ud=2023010409304768972",
@@ -12,17 +47,17 @@
 			"pubDate":"Wed, 04 Jan 2023 09:32:00 +0900"
 		},
 		{
-			"title":"&lt;인사&gt;한국토지주택공사(LH)",
-			"originallink":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=236951",
-			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=236951",
-			"description":"이상민 ▲인천지역본부 <b>청라<\/b>영종사업단장 김연중 ▲경기남부지역본부장 권세연 ▲경기남부지역본부 사업관리처장 김형주 ▲경기남부지역본부 단지사업처장 이재진 ▲경기남부지역본부 주택사업처장 이순제... ",
-			"pubDate":"Wed, 04 Jan 2023 09:28:00 +0900"
-		},
-		{
 			"title":"LH, 사장 직속 컨트롤타워 신설…혁신안 반영한 조직개편 단행",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230104038600003?input=1195m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013680269?sid=101",
 			"description":"인천지역본부 <b>청라<\/b>영종사업단장 김연중 ▲ 경기남부지역본부장 권세연 ▲ 경기남부지역본부 사업관리처장 김형주 ▲ 경기남부지역본부 단지사업처장 이재진 ▲ 경기남부지역본부 주택사업처장 이순제... ",
+			"pubDate":"Wed, 04 Jan 2023 09:28:00 +0900"
+		},
+		{
+			"title":"&lt;인사&gt;한국토지주택공사(LH)",
+			"originallink":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=236951",
+			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=236951",
+			"description":"이상민 ▲인천지역본부 <b>청라<\/b>영종사업단장 김연중 ▲경기남부지역본부장 권세연 ▲경기남부지역본부 사업관리처장 김형주 ▲경기남부지역본부 단지사업처장 이재진 ▲경기남부지역본부 주택사업처장 이순제... ",
 			"pubDate":"Wed, 04 Jan 2023 09:28:00 +0900"
 		},
 		{
@@ -111,16 +146,16 @@
 		},
 		{
 			"title":"[인사] 한국토지주택공사(LH)",
-			"originallink":"http:\/\/www.public25.com\/news\/articleView.html?idxno=12549",
-			"link":"http:\/\/www.public25.com\/news\/articleView.html?idxno=12549",
-			"description":"인천지역본부 <b>청라<\/b>영종사업단장 김연중 ∆ 경기남부지역본부장 권세연 ∆ 경기남부지역본부 사업관리처장 김형주 ∆ 경기남부지역본부 단지사업처장 이재진 ∆ 경기남부지역본부 주택사업처장 이순제... ",
+			"originallink":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4249177",
+			"link":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4249177",
+			"description":"인천지역본부 <b>청라<\/b>영종사업단장 김연중 ▲ 경기남부지역본부장 권세연 ▲ 경기남부지역본부 사업관리처장 김형주 ▲ 경기남부지역본부 단지사업처장 이재진 ▲ 경기남부지역본부 주택사업처장 이순제... ",
 			"pubDate":"Wed, 04 Jan 2023 08:32:00 +0900"
 		},
 		{
 			"title":"[인사] 한국토지주택공사(LH)",
-			"originallink":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4249177",
-			"link":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4249177",
-			"description":"인천지역본부 <b>청라<\/b>영종사업단장 김연중 ▲ 경기남부지역본부장 권세연 ▲ 경기남부지역본부 사업관리처장 김형주 ▲ 경기남부지역본부 단지사업처장 이재진 ▲ 경기남부지역본부 주택사업처장 이순제... ",
+			"originallink":"http:\/\/www.public25.com\/news\/articleView.html?idxno=12549",
+			"link":"http:\/\/www.public25.com\/news\/articleView.html?idxno=12549",
+			"description":"인천지역본부 <b>청라<\/b>영종사업단장 김연중 ∆ 경기남부지역본부장 권세연 ∆ 경기남부지역본부 사업관리처장 김형주 ∆ 경기남부지역본부 단지사업처장 이재진 ∆ 경기남부지역본부 주택사업처장 이순제... ",
 			"pubDate":"Wed, 04 Jan 2023 08:32:00 +0900"
 		},
 		{
@@ -178,41 +213,6 @@
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381071",
 			"description":"또, 인스파이어 복합리조트 연내 준공 등 복합리조트 집적화, <b>청라<\/b> 영상·문화복합단지 협의와 인허가 추진... 체결, △<b>청라<\/b>의료복합단지 본격 추진, △송도세브란스병원 착공, △제3연륙교 및 송도 워터프런터 조성... ",
 			"pubDate":"Tue, 03 Jan 2023 23:28:00 +0900"
-		},
-		{
-			"title":"인천경제청, <b>청라<\/b>시티타워 정상 추진·해결 의지에 맞손",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381070",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381070",
-			"description":"김진용 IFEZ 청장이 한국토지주택공사(LH) <b>청라<\/b>영종사업단 관계자들과 함께 <b>청라<\/b>시티타워 현장에서 대화를 나누고 있다. 사진제공=인천경제청 새해를 맞아 김진용 인천경제자유구역청장과 김연중 한국토지주택공사(LH)... ",
-			"pubDate":"Tue, 03 Jan 2023 23:28:00 +0900"
-		},
-		{
-			"title":"뉴진스 &apos;디토&apos; 이어 &apos;OMG&apos; 뮤비도 대구 계성중 배경",
-			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2023010322184854126",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000791770?sid=102",
-			"description":"디토 뮤직비디오에는 계성중을 포함해 같은 대구 중구의 <b>청라<\/b>언덕, 동산의료원, 대구도시철도 3호선 등이 등장해 대구 지역 팬들의 눈길을 끈 바 있다.(매일신문 2022년 12월 19일 &apos;뉴진스 &apos;디토(Ditto)&apos; 뮤비, 대구 <b>청라<\/b>언... ",
-			"pubDate":"Tue, 03 Jan 2023 22:20:00 +0900"
-		},
-		{
-			"title":"인천경제청, IFEZ 내 태양광발전설비 설치로 연간 18만9000㎾ 전력생산",
-			"originallink":"https:\/\/www.etnews.com\/20230103000272",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003070110?sid=102",
-			"description":"공공시설은 송도국제도시 솔찬공원 국제캠핑장 주차장과 <b>청라<\/b>BRT 통합차고지에 146.5㎾ 규모 태양광발전설비 설치를 통해 연간 18만9000㎾ 전기를 생산하게 된다. 이는 매년 약 2500만원 전기요금 절감과 온실가스 89.... ",
-			"pubDate":"Tue, 03 Jan 2023 21:56:00 +0900"
-		},
-		{
-			"title":"도시재생은 이탈리아 베로나처럼",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1011157",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1011157",
-			"description":"인천의 옛 도심으로 자존감을 세웠던 제물포와 동인천은 세월이 흐른 지금, 성장 속도가 송도와 <b>청라<\/b>지역에 비해 더딥니다. 이러한 현상을 극복하고 다시 명성을 살리는 방법은 무엇일까요? 바로 원도심의 다양한 가치를... ",
-			"pubDate":"Tue, 03 Jan 2023 21:16:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>시티타워 건설 정상화 &apos;한마음&apos;",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1011191",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1011191",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 김진용 인천경제청장이 3일 <b>청라<\/b>국제도시 시티타워 건설 현장에서 LH <b>청라<\/b>영종사업단장 등과 사업 정상화 결의를 다졌다. &lt;인천경제청 제공&gt; 김진용 인천경제자유구역청장과... ",
-			"pubDate":"Tue, 03 Jan 2023 21:16:00 +0900"
 		}
 	]
 }
