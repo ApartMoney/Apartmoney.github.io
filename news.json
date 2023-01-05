@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 05 Jan 2023 10:50:02 +0900",
-	"total":194587,
+	"lastBuildDate":"Thu, 05 Jan 2023 11:00:02 +0900",
+	"total":194588,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 민선8기 공약실천 본격 시행",
+			"originallink":"http:\/\/www.breaknews.com\/942175",
+			"link":"http:\/\/www.breaknews.com\/942175",
+			"description":"민선8기 공약이 이행되면, 영종․강화․<b>청라<\/b>․내항․송도 등을 글로벌 기업 및 금융자본 유치 거점으로 육성하기 위한 ‘뉴홍콩시티 건설’과 ‘제물포르네상스’... ",
+			"pubDate":"Thu, 05 Jan 2023 10:58:00 +0900"
+		},
 		{
 			"title":"인천 송도국제도시, 영어가 공용어?",
 			"originallink":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=414947",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000716643?sid=102",
 			"description":"이화식 △인천지역본부 <b>청라<\/b>영종 김연중 △경기남부지역본부 동탄 송영석 △경기북부지역본부 파주 이영민 ◆한국인터넷진흥원 &lt;보임&gt; ◇본부장급 △경영기획 신대규 △사이버침해대응 최광희 △디지털산업 권현오... ",
 			"pubDate":"Wed, 04 Jan 2023 17:52:00 +0900"
-		},
-		{
-			"title":"[인사] LH",
-			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=313886",
-			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=313886",
-			"description":"인천지역본부 <b>청라<\/b>영종사업단장 김연중 ∆ 경기남부지역본부장 권세연 ∆ 경기남부지역본부 사업관리처장 김형주 ∆ 경기남부지역본부 단지사업처장 이재진 ∆ 경기남부지역본부 주택사업처장 이순제... ",
-			"pubDate":"Wed, 04 Jan 2023 17:44:00 +0900"
 		}
 	]
 }
