@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 06 Jan 2023 11:20:02 +0900",
-	"total":194616,
+	"lastBuildDate":"Fri, 06 Jan 2023 11:30:02 +0900",
+	"total":194617,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 지자체]  보령시",
+			"originallink":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=384222",
+			"link":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=384222",
+			"description":"순방은 1일 2개 읍면동으로 실시하며, 4일 오전 주산면, 오후 미산면을 시작으로 ▲5일 오전 오천면, 오후 천북면 ▲6일 오전 대천2동, 오후 대천1동 ▲9일 오전 청소면, 오후 <b>청라<\/b>면 ▲10일 오후 웅천읍 ▲11일 오전 주포면... ",
+			"pubDate":"Fri, 06 Jan 2023 11:26:00 +0900"
+		},
 		{
 			"title":"한양·보성, ‘잿밥’에만 관심·대안없는 LH…<b>청라<\/b>시티타워 파국으로",
 			"originallink":"http:\/\/theviewers.co.kr\/View.aspx?No=2680910",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=413&aid=0000152745",
 			"description":"(2020) -AFC U-23 아시압컵 대표 (2023) 사진=대전하나시티즌 제공 *오피셜 사진은 인천 <b>청라<\/b> 국제도시에 위치한 하나금융그룹의 글로벌, 디지털 인재 육성을 위한 연수 시설인 &quot;하나글로벌캠퍼스&quot;에서 촬영되었습니다.",
 			"pubDate":"Thu, 05 Jan 2023 13:23:00 +0900"
-		},
-		{
-			"title":"김동일 보령시장, 계묘년 민선8기 연두순방 첫날 주산면 방문 시민들과의 대화",
-			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=589818",
-			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=589818",
-			"description":"한편, 읍면동 연두순방은 4일 주산면·미산면으로부터 5일 오천면·천북면, 6일 대천2동·대천1동, 9일 청소면·<b>청라<\/b>면, 10일 웅천며, 11일 주포면·주교면, 12일 대천3동·남포면, 16일 대천4동·대천5동, 17일 성주면 순이다.",
-			"pubDate":"Thu, 05 Jan 2023 13:02:00 +0900"
 		}
 	]
 }
