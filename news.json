@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 06 Jan 2023 10:00:02 +0900",
-	"total":194612,
+	"lastBuildDate":"Fri, 06 Jan 2023 10:10:03 +0900",
+	"total":194613,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[동정] 김동일 보령시장",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2630534",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2630534",
+			"description":"국제뉴스DB = 김동일 충남 보령시장은 오는 9일 오전 10시 오천면행정복지센터에서 2023년 새해농업인실용교육 참석 후 오전 10시30분 청소면행정복지센터 계묘년 연두순방, 오후 1시 <b>청라<\/b>면행정복지센터 계묘년... ",
+			"pubDate":"Fri, 06 Jan 2023 10:00:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>주민단체, 시티타워 정상화 국토부 앞 원정집회 예고",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=225647",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.breaknews.com\/942175",
 			"description":"민선8기 공약이 이행되면, 영종․강화․<b>청라<\/b>․내항․송도 등을 글로벌 기업 및 금융자본 유치 거점으로 육성하기 위한 ‘뉴홍콩시티 건설’과 ‘제물포르네상스’... ",
 			"pubDate":"Thu, 05 Jan 2023 10:58:00 +0900"
-		},
-		{
-			"title":"인천 송도국제도시, 영어가 공용어?",
-			"originallink":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=414947",
-			"link":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=414947",
-			"description":"인천경제청 관계자는 &quot;송도를 시작으로 영종·<b>청라<\/b> 등 인천경제자유구역 전체를 영어통용도시로 지정하는 방안을 검토할 것&quot;이라며 &quot;일상생활에서 영어로 자유롭게 의사소통하는 환경을 만들어 도시 경쟁력을 높이려... ",
-			"pubDate":"Thu, 05 Jan 2023 10:28:00 +0900"
 		}
 	]
 }
