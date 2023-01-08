@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 09 Jan 2023 05:30:02 +0900",
-	"total":194651,
+	"lastBuildDate":"Mon, 09 Jan 2023 05:40:03 +0900",
+	"total":194652,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청-LH, <b>청라<\/b>·영종 개발이익금환수 ‘대립’",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20230108580159",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000001127?sid=101",
+			"description":"인천경제자유구역청의 <b>청라<\/b>국제도시 개발이익금 재투자 방침을 두고 LH(한국토지주택공사)가 난색을 표하면서 개발이익 재투자금 환수 절차에 난항을 겪을 전망이다. 사진은 <b>청라<\/b>호수공원 전경. 인천경제청 제공... ",
+			"pubDate":"Mon, 09 Jan 2023 05:32:00 +0900"
+		},
 		{
 			"title":"[신년인터뷰] 강범석 인천서구청장 &quot;구민의 의지처 되는 구정 전개&quot;",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363573722",
@@ -40,17 +47,17 @@
 			"pubDate":"Sun, 08 Jan 2023 20:31:00 +0900"
 		},
 		{
-			"title":"특교세·국비 확보 &apos;또 쥐꼬리&apos;…영종 주민들 &quot;홀대 멈춰라&quot;",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1177534",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1177534",
-			"description":"특히 인천경제자유구역에 속하는 송도·<b>청라<\/b>국제도시와 비교하면 영종국제도시 국비는 두 지역의 1\/10... 또 국회 행정안전위원회 소속 더불어민주당 김교흥(인천 서구갑) 의원이 확보한 1132억원 중 <b>청라<\/b>국제도시... ",
-			"pubDate":"Sun, 08 Jan 2023 18:56:00 +0900"
-		},
-		{
 			"title":"소각장 용역업체 &apos;선정기준 변경&apos;…폐기물 처리업체 &apos;혼선&apos;",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1177536",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1177536",
 			"description":"▲ <b>청라<\/b>소각장 전경. 인천환경공단이 <b>청라<\/b>소각장에서 배출되는 소각재 처리 입찰공고를 내면서 적격심사 기준을 갑작스럽게 변경해 지역 폐기물 업체들이 혼선을 빚고 있다. 8일 인천일보의 취재를 종합하면... ",
+			"pubDate":"Sun, 08 Jan 2023 18:56:00 +0900"
+		},
+		{
+			"title":"특교세·국비 확보 &apos;또 쥐꼬리&apos;…영종 주민들 &quot;홀대 멈춰라&quot;",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1177534",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1177534",
+			"description":"특히 인천경제자유구역에 속하는 송도·<b>청라<\/b>국제도시와 비교하면 영종국제도시 국비는 두 지역의 1\/10... 또 국회 행정안전위원회 소속 더불어민주당 김교흥(인천 서구갑) 의원이 확보한 1132억원 중 <b>청라<\/b>국제도시... ",
 			"pubDate":"Sun, 08 Jan 2023 18:56:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005202098?sid=101",
 			"description":"송도와 <b>청라<\/b>, 영종에 이어 검단신도시, 루원시티 등 새로운 도시개발사업 붐이 일면서 분양도 쏠렸었다.... 인천 A공인중개업소 관계자는 “인천은 송도나 <b>청라<\/b>, 검단 등 신도시 선호 현상이 높았는데 최근 인천... ",
 			"pubDate":"Fri, 06 Jan 2023 15:04:00 +0900"
-		},
-		{
-			"title":"&quot;분위기 반전될까&quot;… 인천 원도심 도시정비사업 &apos;눈길&apos;",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=267725",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=267725",
-			"description":"송도와 <b>청라<\/b>, 영종에 이어 검단신도시, 루원시티 등 새로운 도시개발사업 붐이 일면서 분양도 쏠렸었다.... 업계 관계자는 &quot;인천은 송도나 <b>청라<\/b>, 검단 등 신도시 선호 현상이 높았는데 최근 인천 전통주거지역인... ",
-			"pubDate":"Fri, 06 Jan 2023 14:54:00 +0900"
 		}
 	]
 }
