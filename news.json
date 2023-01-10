@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 11 Jan 2023 05:30:02 +0900",
-	"total":194879,
+	"lastBuildDate":"Wed, 11 Jan 2023 05:40:03 +0900",
+	"total":194880,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"의사 없어 문 닫는 소아과의원… 인천 원도심은 ‘호흡곤란’",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20230110580281",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000001311?sid=100",
+			"description":"특히 송도국제도시가 있는 연수구와 <b>청라<\/b>국제도시가 있는 서구는 소아과 의원이 각각 19곳, 31곳에 달하는 반면, 원도심인 중·동구는 각각 6곳과 2곳에 불과하다. 이마저도 중구의 소아과 6곳은 모두 영종국제도시에 몰려... ",
+			"pubDate":"Wed, 11 Jan 2023 05:32:00 +0900"
+		},
 		{
 			"title":"만취해 &apos;지그재그 운전&apos; 20대…차 몰고 추적한 시민 신고로 검거",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03722806635476408",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004797910?sid=101",
 			"description":"영종국제도시와 <b>청라<\/b>를 연결하는 제3연륙교가 2025년 준공을 목표로 개발이 한창이며, 개통시 서울 여의도와 강남권까지 이동시간도 개선된다. 제4차 국가철도망 구축계획에 따라 공항철도 고속화 사업(150km)도 추진... ",
 			"pubDate":"Tue, 10 Jan 2023 17:10:00 +0900"
-		},
-		{
-			"title":"고성 관광객 천만 시대…대규모 관광지 개발 본격화",
-			"originallink":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SCF0000000&idx=353240",
-			"link":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SCF0000000&idx=353240",
-			"description":"[인터뷰:김성민 인천시 서구 <b>청라<\/b>동] &quot;제가 여기 처음 와 봤는데 처음 와 본 것치고는 너무 한적하고 좋거든요. 그리고 여긴 해운대나 이런 데와 다르게 가족들이 오기 좋은 고성이잖아요.&quot; 코로나19 발생 이후 고성군이... ",
-			"pubDate":"Tue, 10 Jan 2023 17:00:00 +0900"
 		}
 	]
 }
