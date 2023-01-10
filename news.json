@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 11 Jan 2023 08:20:02 +0900",
-	"total":194882,
+	"lastBuildDate":"Wed, 11 Jan 2023 08:30:02 +0900",
+	"total":194883,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 <b>청라<\/b>동서 광역버스 등 7중 추돌사고…2명 부상",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12110564",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000328331?sid=102",
+			"description":"어제(10일) 오후 7시쯤 인천 <b>청라<\/b>동 북인천 지하차도 옆 도로에서 60대 남성이 몰던 광역버스가 신호를 기다리던 1톤 화물차를 들이받았습니다. 화물차가 밀리면서 차 7대가 잇따라 부딪혔고 승용차 운전자인 40대 남성과... ",
+			"pubDate":"Wed, 11 Jan 2023 08:21:00 +0900"
+		},
 		{
 			"title":"[사제인사] 인천교구, 1월 16일 부",
 			"originallink":"http:\/\/www.cpbc.co.kr\/CMS\/newspaper\/view_body.php?cid=839018&path=202301",
@@ -82,17 +89,17 @@
 			"pubDate":"Tue, 10 Jan 2023 21:14:00 +0900"
 		},
 		{
-			"title":"강범석 서구청장, <b>청라<\/b>시티타워 정상화 촉구 나서",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381949",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381949",
-			"description":"만나 <b>청라<\/b>국제도시와 검단지구 택지개발사업 관련 주요 현안에 대해 적극적으로 의지를 갖고 해결책 마련에 뜻을 모아줄 것을 요청하고있다. 사진제공=인천서구청 인천 서구가 <b>청라<\/b> 최대 현안인 시티타워 정상화를 LH에... ",
-			"pubDate":"Tue, 10 Jan 2023 21:12:00 +0900"
-		},
-		{
 			"title":"인천 서구, 지방공공기관 혁신 보고대회 우수기관 선정",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381948",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381948",
 			"description":"현재 서구는 <b>청라<\/b>국제도시와 루원시티, 검단신도시 등 한 도시에 신도시가 2개 이상 건설되고 있는 유례 없는 지역으로 각종 국시책 사업이 활발히 진행 중이며, 인구 역시 꾸준히 늘고 있어 올해 60만 명을 넘어설... ",
+			"pubDate":"Tue, 10 Jan 2023 21:12:00 +0900"
+		},
+		{
+			"title":"강범석 서구청장, <b>청라<\/b>시티타워 정상화 촉구 나서",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381949",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381949",
+			"description":"만나 <b>청라<\/b>국제도시와 검단지구 택지개발사업 관련 주요 현안에 대해 적극적으로 의지를 갖고 해결책 마련에 뜻을 모아줄 것을 요청하고있다. 사진제공=인천서구청 인천 서구가 <b>청라<\/b> 최대 현안인 시티타워 정상화를 LH에... ",
 			"pubDate":"Tue, 10 Jan 2023 21:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.gndomin.com\/news\/articleView.html?idxno=339438",
 			"description":"인천은 △송도센트럴파크, △개항장지구 일원, △월미도, △인천문화예술회관 일원, △소래포구, △아래뱃길&amp;정서진, △인천대교, △<b>청라<\/b>호수공원, △인천국제공항, △수봉공원, 통영은 △강구안 일원, △디피랑... ",
 			"pubDate":"Tue, 10 Jan 2023 17:52:00 +0900"
-		},
-		{
-			"title":"[인사] 국무조정실·국무총리비서실 외",
-			"originallink":"https:\/\/hankookilbo.com\/News\/Read\/A2023011014020004133?did=NA",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000717625?sid=102",
-			"description":"전해광 △<b>청라<\/b> 정민호 △수원 정성일 △영도 정영희 △마곡역 정원식 △북악 정일원 △마린시티 정재훈 △영등포중기타운 정하은 △신도봉 정혜경 △김제 정혜식 △풍암 조규정 △세종대 조동호 △대덕특구 조상희... ",
-			"pubDate":"Tue, 10 Jan 2023 17:50:00 +0900"
 		}
 	]
 }
