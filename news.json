@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 11 Jan 2023 10:10:03 +0900",
-	"total":194889,
+	"lastBuildDate":"Wed, 11 Jan 2023 10:20:03 +0900",
+	"total":194890,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서 광역버스·승용차 등 &apos;7중 추돌사고&apos;…2명 부상",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230111_0002154989&cID=10802&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011636754?sid=102",
+			"description":"인천 서구 <b>청라<\/b>동 북인천 지하차도 인근 도로에서 7중 연쇄 추돌사고가 발생했다. 11일 인천 서부경찰서 등에 따르면 전날 오후 6시 52분께 인천시 서구 <b>청라<\/b>동 북인천 지하차도 인근 도로에서 광역버스가 신호를... ",
+			"pubDate":"Wed, 11 Jan 2023 10:12:00 +0900"
+		},
 		{
 			"title":"&quot;주력만 하라는 법 어딨어&quot; 넷마블·KT&amp;G, 공통분모는 뷰티",
 			"originallink":"https:\/\/www.the-pr.co.kr\/news\/articleView.html?idxno=49611",
@@ -131,17 +138,17 @@
 			"pubDate":"Tue, 10 Jan 2023 21:14:00 +0900"
 		},
 		{
-			"title":"인천 서구, 지방공공기관 혁신 보고대회 우수기관 선정",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381948",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381948",
-			"description":"현재 서구는 <b>청라<\/b>국제도시와 루원시티, 검단신도시 등 한 도시에 신도시가 2개 이상 건설되고 있는 유례 없는 지역으로 각종 국시책 사업이 활발히 진행 중이며, 인구 역시 꾸준히 늘고 있어 올해 60만 명을 넘어설... ",
-			"pubDate":"Tue, 10 Jan 2023 21:12:00 +0900"
-		},
-		{
 			"title":"강범석 서구청장, <b>청라<\/b>시티타워 정상화 촉구 나서",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381949",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381949",
 			"description":"만나 <b>청라<\/b>국제도시와 검단지구 택지개발사업 관련 주요 현안에 대해 적극적으로 의지를 갖고 해결책 마련에 뜻을 모아줄 것을 요청하고있다. 사진제공=인천서구청 인천 서구가 <b>청라<\/b> 최대 현안인 시티타워 정상화를 LH에... ",
+			"pubDate":"Tue, 10 Jan 2023 21:12:00 +0900"
+		},
+		{
+			"title":"인천 서구, 지방공공기관 혁신 보고대회 우수기관 선정",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381948",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=381948",
+			"description":"현재 서구는 <b>청라<\/b>국제도시와 루원시티, 검단신도시 등 한 도시에 신도시가 2개 이상 건설되고 있는 유례 없는 지역으로 각종 국시책 사업이 활발히 진행 중이며, 인구 역시 꾸준히 늘고 있어 올해 60만 명을 넘어설... ",
 			"pubDate":"Tue, 10 Jan 2023 21:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=612378",
 			"description":"영종국제도시와 <b>청라<\/b>를 잇는 제3연륙교는 2025년 준공을 목표로 개발이 한창이다. 제3연륙교가 뚫리면 <b>청라<\/b> 인프라를 편리하게 누릴 수 있으며, 서울 영등포 일대까지 빠르게 진입 가능하다. 제4차 국가철도망... ",
 			"pubDate":"Tue, 10 Jan 2023 18:50:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>영상문화단지 사업자 선정 ‘잡음’…외국인 투자자 지분 기준 논란",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2211376",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2211376",
-			"description":"이투데이=정용욱 기자 | <b>청라<\/b>영상문화복합단지 추진 관련 심사에 참여한 The E&amp;M 컨소시엄(더이앤엠... <b>청라<\/b>영상문화복합단지는 <b>청라<\/b> 5-4블록 일대 18만8282㎡에 영화와 드라마 촬영 스튜디오, 미디어센터, 업무시설... ",
-			"pubDate":"Tue, 10 Jan 2023 18:30:00 +0900"
 		}
 	]
 }
