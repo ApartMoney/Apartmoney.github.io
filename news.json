@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 13 Jan 2023 12:40:02 +0900",
-	"total":195102,
+	"lastBuildDate":"Fri, 13 Jan 2023 12:50:02 +0900",
+	"total":195103,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"김동일 보령시장, 시민들의 목소리에 귀 기울이다",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20230113122713286",
+			"link":"https:\/\/www.ajunews.com\/view\/20230113122713286",
+			"description":"주요 건의 사항 중 <b>청라<\/b>면에서 제기된 폐농약 일제 수거 방안 마련 건에 대해 김 시장은 농협에서 농약 잔류병을 수매할 수 있도록 보조금을 지급하는 등 방법을 검토하고 보령시 차원에서 농약 잔류병 회수 대책을... ",
+			"pubDate":"Fri, 13 Jan 2023 12:48:00 +0900"
+		},
 		{
 			"title":"인천서구문화재단, 출범 5주년 맞아 ‘ESG경영·미래비전’발표한다.",
 			"originallink":"http:\/\/www.breaknews.com\/943534",
@@ -33,17 +40,17 @@
 			"pubDate":"Fri, 13 Jan 2023 11:42:00 +0900"
 		},
 		{
-			"title":"서구, ‘다함께돌봄센터 6호점’ 개소식 열어",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1649269",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1649269",
-			"description":"인천 서구가 지난 12일 <b>청라<\/b>에 초등생 돌봄시설 ‘다함께돌봄센터’ 6호점 개소식을 열었다고 13일 밝혔다.... <b>청라<\/b>동 린스트라우스 아파트 내 설치된 센터 6호점은 비영리법인 한국커뮤니티연구원이 운영을 맡는다.... ",
-			"pubDate":"Fri, 13 Jan 2023 11:02:00 +0900"
-		},
-		{
 			"title":"서구시설관리공단, 서구지역 재난대응·자원관리 공동활용 업무협약",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1649268",
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1649268",
 			"description":"준성중기, <b>청라<\/b>에너지(주), 코스포서비스(주) 신인천사업소 등 13개 기관이다 공단 구재용 이사장은 “각종 재난사고가 다양하게 발생하는 만큼 서구관내 유관기관과의 상호 협약을 통해 신속하고 효과적인 재난대응으로... ",
+			"pubDate":"Fri, 13 Jan 2023 11:02:00 +0900"
+		},
+		{
+			"title":"서구, ‘다함께돌봄센터 6호점’ 개소식 열어",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1649269",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1649269",
+			"description":"인천 서구가 지난 12일 <b>청라<\/b>에 초등생 돌봄시설 ‘다함께돌봄센터’ 6호점 개소식을 열었다고 13일 밝혔다.... <b>청라<\/b>동 린스트라우스 아파트 내 설치된 센터 6호점은 비영리법인 한국커뮤니티연구원이 운영을 맡는다.... ",
 			"pubDate":"Fri, 13 Jan 2023 11:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ifm.kr\/news\/352502",
 			"description":"앞서 <b>청라<\/b>국제도시와 검단신도시를 관할하는 서부경찰서는 급격한 치안수요 증가로 &apos;검단경찰서&apos; 신설을 승인받아 내년 착공해 2026년 개청됩니다. 검단경찰서는 서구 마전동 545-9번지 1만9천258㎡ 부지에 140억 원의... ",
 			"pubDate":"Thu, 12 Jan 2023 17:52:00 +0900"
-		},
-		{
-			"title":"들쭉날쭉 인천 버스…전국 최하 수준에 시민들 &apos;답답&apos;",
-			"originallink":"http:\/\/www.sisajournal.com\/news\/articleView.html?idxno=254278",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000050784?sid=102",
-			"description":"버스 서비스 취약지역에는 검단, <b>청라<\/b>, 송도, 계양동과 같은 인천 외곽에 위치한 신도시가 다수 포함됐다. 신도시 및 공공택지 조성 등으로 인구가 늘어났지만, 버스 노선의 공급은 상대적으로 부족하기 때문으로... ",
-			"pubDate":"Thu, 12 Jan 2023 17:27:00 +0900"
 		}
 	]
 }
