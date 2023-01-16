@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 16 Jan 2023 16:00:03 +0900",
-	"total":195292,
+	"lastBuildDate":"Mon, 16 Jan 2023 16:10:02 +0900",
+	"total":195293,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 하나은행",
+			"originallink":"http:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=468537",
+			"link":"http:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=468537",
+			"description":"이병호 ▲<b>청라<\/b>HQ추진부 이상훈 ▲전략기획부 이승석 ▲인재개발부 이정희 ▲영남영업추진지원부 장필식 ▲검사기획부 정준형 ▲홍보부 지영흔 ▲기업사업지원부 한상헌 ▲자산관리지원부 홍화진 ◇ 센터장... ",
+			"pubDate":"Mon, 16 Jan 2023 16:06:00 +0900"
+		},
 		{
 			"title":"&apos;녹조·악취&apos; 광주 풍암호수 수질개선 논란 지속… IT 업계 &apos;AI 녹조 제거 기...",
 			"originallink":"http:\/\/kr.aving.net\/news\/articleView.html?idxno=1775655",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002279754?sid=105",
 			"description":"이병호 ▲<b>청라<\/b>HQ추진부 이상훈 ▲전략기획부 이승석 ▲인재개발부 이정희 ▲영남영업추진지원부 장필식 ▲검사기획부 정준형 ▲홍보부 지영흔 ▲기업사업지원부 한상헌 ▲자산관리지원부 홍화진 ◇ 센터장... ",
 			"pubDate":"Mon, 16 Jan 2023 11:13:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행",
-			"originallink":"http:\/\/www.newskr.kr\/news\/articleView.html?idxno=86030",
-			"link":"http:\/\/www.newskr.kr\/news\/articleView.html?idxno=86030",
-			"description":"이병호 ▲ <b>청라<\/b>HQ추진부 이상훈 ▲ 전략기획부 이승석 ▲ 인재개발부 이정희 ▲ 영남영업추진지원부 장필식 ▲ 검사기획부 정준형 ▲ 홍보부 지영흔 ▲ 기업사업지원부 한상헌 ▲ 자산관리지원부 홍화진 ◇ 센터장 전보... ",
-			"pubDate":"Mon, 16 Jan 2023 11:10:00 +0900"
 		}
 	]
 }
