@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 16 Jan 2023 19:20:02 +0900",
-	"total":195301,
+	"lastBuildDate":"Mon, 16 Jan 2023 19:30:02 +0900",
+	"total":195302,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"1월17일 인사",
+			"originallink":"https:\/\/www.hani.co.kr\/arti\/society\/internalmove\/1075947.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002623657?sid=102",
+			"description":"이병호 △<b>청라<\/b>HQ추진부 이상훈 △전략기획부 이승석 △인재개발부 이정희 △영남영업추진지원부 장필식 △검사기획부 정준형 △홍보부 지영흔 △기업사업지원부 한상헌 △자산관리지원부 홍화진 ◇센터장... ",
+			"pubDate":"Mon, 16 Jan 2023 19:27:00 +0900"
+		},
 		{
 			"title":"[인사] 하나은행",
 			"originallink":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=67762",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=273440",
 			"description":"이병호 ▲<b>청라<\/b>HQ추진부 이상훈 ▲전략기획부 이승석 ▲인재개발부 이정희 ▲영남영업추진지원부 장필식 ▲검사기획부 정준형 ▲홍보부 지영흔 ▲기업사업지원부 한상헌 ▲자산관리지원부 홍화진 ◇ 센터장... ",
 			"pubDate":"Mon, 16 Jan 2023 11:52:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160275311209098",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160275311209098",
-			"description":"이병호 ▲<b>청라<\/b>HQ추진부 이상훈 ▲전략기획부 이승석 ▲인재개발부 이정희 ▲영남영업추진지원부 장필식 ▲검사기획부 정준형 ▲홍보부 지영흔 ▲기업사업지원부 한상헌 ▲자산관리지원부 홍화진 ◇ 센터장... ",
-			"pubDate":"Mon, 16 Jan 2023 11:44:00 +0900"
 		}
 	]
 }
