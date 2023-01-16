@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 16 Jan 2023 21:50:02 +0900",
-	"total":195304,
+	"lastBuildDate":"Mon, 16 Jan 2023 22:00:02 +0900",
+	"total":195305,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"오늘의 인사 - 2023년 1월 17일",
+			"originallink":"https:\/\/www.khan.co.kr\/people\/personnel_shift\/article\/202301162148025",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003199521?sid=102",
+			"description":"이병호 △<b>청라<\/b>HQ추진부 이상훈 △전략기획부 이승석 △인재개발부 이정희 △영남영업추진지원부 장필식 △검사기획부 정준형 △홍보부 지영흔 △기업사업지원부 한상헌 ■동아일보 ◇출판국 팀장 부장급 △출판광고팀... ",
+			"pubDate":"Mon, 16 Jan 2023 21:49:00 +0900"
+		},
 		{
 			"title":"[신년기획] 인천의 발전 이끌 10대 과제는...①침체된 원도심에 활력을...제물...",
 			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=59832",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202301161326466620822",
 			"description":"GTX-B·D 노선(예정), 7호선 <b>청라<\/b> 연장선(2027년 예정), 송내부천선(2025년 예정) 등의 교통망도 확충될 계획으로 향후 교통여건은 더 좋아질 전망이다. 단지 인근으로 홈플러스, 이마트, 현대백화점, 롯데백화점... ",
 			"pubDate":"Mon, 16 Jan 2023 13:32:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=527471",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=527471",
-			"description":"이병호 ▲<b>청라<\/b>HQ추진부 이상훈 ▲전략기획부 이승석 ▲인재개발부 이정희 ▲영남영업추진지원부 장필식 ▲검사기획부 정준형 ▲홍보부 지영흔 ▲기업사업지원부 한상헌 ▲자산관리지원부 홍화진 ◇센터장... ",
-			"pubDate":"Mon, 16 Jan 2023 12:18:00 +0900"
 		}
 	]
 }
