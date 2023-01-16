@@ -1,20 +1,27 @@
 {
-	"lastBuildDate":"Mon, 16 Jan 2023 14:10:02 +0900",
-	"total":195283,
+	"lastBuildDate":"Mon, 16 Jan 2023 14:20:02 +0900",
+	"total":195284,
 	"start":1,
 	"display":30,
 	"items":[
 		{
 			"title":"[인사] 하나은행",
-			"originallink":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3014968",
-			"link":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3014968",
+			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023011614112181980583674372_18",
+			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023011614112181980583674372_18",
 			"description":"이병호 ▲<b>청라<\/b>HQ추진부 이상훈 ▲전략기획부 이승석 ▲인재개발부 이정희 ▲영남영업추진지원부 장필식 ▲검사기획부 정준형 ▲홍보부 지영흔 ▲기업사업지원부 한상헌 ▲자산관리지원부 홍화진 ◇ 센터장... ",
-			"pubDate":"Mon, 16 Jan 2023 14:04:00 +0900"
+			"pubDate":"Mon, 16 Jan 2023 14:14:00 +0900"
 		},
 		{
 			"title":"[인사] 하나은행 인사",
 			"originallink":"http:\/\/www.newsbrite.net\/news\/articleView.html?idxno=170502",
 			"link":"http:\/\/www.newsbrite.net\/news\/articleView.html?idxno=170502",
+			"description":"이병호 ▲<b>청라<\/b>HQ추진부 이상훈 ▲전략기획부 이승석 ▲인재개발부 이정희 ▲영남영업추진지원부 장필식 ▲검사기획부 정준형 ▲홍보부 지영흔 ▲기업사업지원부 한상헌 ▲자산관리지원부 홍화진 ◇ 센터장... ",
+			"pubDate":"Mon, 16 Jan 2023 14:04:00 +0900"
+		},
+		{
+			"title":"[인사] 하나은행",
+			"originallink":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3014968",
+			"link":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3014968",
 			"description":"이병호 ▲<b>청라<\/b>HQ추진부 이상훈 ▲전략기획부 이승석 ▲인재개발부 이정희 ▲영남영업추진지원부 장필식 ▲검사기획부 정준형 ▲홍보부 지영흔 ▲기업사업지원부 한상헌 ▲자산관리지원부 홍화진 ◇ 센터장... ",
 			"pubDate":"Mon, 16 Jan 2023 14:04:00 +0900"
 		},
@@ -194,13 +201,6 @@
 			"pubDate":"Mon, 16 Jan 2023 10:56:00 +0900"
 		},
 		{
-			"title":"[포토]“가요세상, 트롯계 여신들”…“강혜연·송별이·조정민·혜진이·강자...",
-			"originallink":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=275999",
-			"link":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=275999",
-			"description":"ECONOMY(지이코노미) 정길종 기자 | “가요세상” 새해 첫 공개방송이 강혜연·송별이 등 다양한 장르의 가수들 20여 명이 합류해 11일(수)에 <b>청라<\/b> 블루노바홀에서 진행됐다. ▲&apos;가요세상&apos; 라이브 콘서트 공개방송 포스터... ",
-			"pubDate":"Mon, 16 Jan 2023 10:54:00 +0900"
-		},
-		{
 			"title":"[인사] 하나은행",
 			"originallink":"https:\/\/www.ddaily.co.kr\/news\/article.html?no=255534",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002140790?sid=004",
@@ -208,11 +208,11 @@
 			"pubDate":"Mon, 16 Jan 2023 10:54:00 +0900"
 		},
 		{
-			"title":"[인사] 하나은행",
-			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000098645?division=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000318745?sid=101",
-			"description":"윤경애 ▶브랜드전략부 이병호 ▶<b>청라<\/b>HQ추진부 이상훈 ▶전략기획부 이승석 ▶인재개발부 이정희 ▶영남영업추진지원부 장필식 ▶검사기획부 정준형 ▶홍보부 지영흔 ▶기업사업지원부 한상헌 ▶자산관리지원부 홍화진",
-			"pubDate":"Mon, 16 Jan 2023 10:49:00 +0900"
+			"title":"[포토]“가요세상, 트롯계 여신들”…“강혜연·송별이·조정민·혜진이·강자...",
+			"originallink":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=275999",
+			"link":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=275999",
+			"description":"ECONOMY(지이코노미) 정길종 기자 | “가요세상” 새해 첫 공개방송이 강혜연·송별이 등 다양한 장르의 가수들 20여 명이 합류해 11일(수)에 <b>청라<\/b> 블루노바홀에서 진행됐다. ▲&apos;가요세상&apos; 라이브 콘서트 공개방송 포스터... ",
+			"pubDate":"Mon, 16 Jan 2023 10:54:00 +0900"
 		}
 	]
 }
