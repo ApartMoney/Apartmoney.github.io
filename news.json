@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 17 Jan 2023 09:30:02 +0900",
-	"total":195309,
+	"lastBuildDate":"Tue, 17 Jan 2023 09:40:03 +0900",
+	"total":195310,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 공항신도시 주민 주차 편의 제공 위한 협약 체결",
+			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=107826",
+			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=107826",
+			"description":"천준홍 인천경제청 영종<b>청라<\/b>기반과장은 &quot;은골1 공영주차장은 외부 이용객으로 인해  공영주차장 이용이 어려운 주민들의 지속적인 민원이 있어 이를 해소키 위해 협약을 맺고 운영 방식을 바꾸게 됐다&quot;며 &quot;앞으로... ",
+			"pubDate":"Tue, 17 Jan 2023 09:34:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>영상단지 사업 놓친 KT... 구현모 &apos;디지코&apos; 전략 타이밍 놓칠라",
 			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2023\/01\/17\/2023011700005.html",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000722884?sid=102",
 			"description":"이병호 ▲<b>청라<\/b>HQ추진부 이상훈 ▲전략기획부 이승석 ▲인재개발부 이정희 ▲영남영업추진지원부 장필식 ▲검사기획부 정준형 ▲홍보부 지영흔 ▲기업사업지원부 한상헌 ▲자산관리지원부 홍화진 ◇ 센터장... ",
 			"pubDate":"Mon, 16 Jan 2023 14:03:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=935185",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=935185",
-			"description":"이병호 ▲ <b>청라<\/b>HQ추진부 이상훈 ▲ 전략기획부 이승석 ▲ 인재개발부 이정희 ▲ 영남영업추진지원부 장필식 ▲ 검사기획부 정준형 ▲ 홍보부 지영흔 ▲ 기업사업지원부 한상헌 ▲ 자산관리지원부 홍화진 ◇ 센터장 전보... ",
-			"pubDate":"Mon, 16 Jan 2023 14:00:00 +0900"
 		}
 	]
 }
