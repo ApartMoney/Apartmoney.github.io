@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 18 Jan 2023 18:10:02 +0900",
-	"total":195496,
+	"lastBuildDate":"Wed, 18 Jan 2023 18:20:02 +0900",
+	"total":195497,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[구모룡 칼럼] 그래도 희망이다",
+			"originallink":"https:\/\/www.busan.com\/view\/busan\/view.php?code=2023011818041570505",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/082\/0001194236?sid=110",
+			"description":"영종국제도시 30만, 송도국제도시 35만, <b>청라<\/b>국제도시 15만의 증가로 조만간에 인구 340만에 육박하여 부산을 앞지를 공산이 크다고 한다. 최근 인천은 120년 전 제물포항에서 시작된 해외 이민을 기념하여 하와이에서... ",
+			"pubDate":"Wed, 18 Jan 2023 18:11:00 +0900"
+		},
 		{
 			"title":"[B tv 인천뉴스] 상반기 GTX-D 추진 방안 수립… ‘Y자’ 노선 기대감 ↑",
 			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=151507",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1178921",
 			"description":"도시중심축이 구월동 시청주변, <b>청라<\/b>·송도 등 신도시 방향으로 이동된 영향도 있다. 2019년 국토교통부의 도시재생 뉴딜사업에 선정돼 2020년부터 5년간 거점연계 사업으로 추진될 &apos;동인천역 2030 역전(逆轉) 프로젝트&apos;가... ",
 			"pubDate":"Wed, 18 Jan 2023 16:20:00 +0900"
-		},
-		{
-			"title":"인천 GTX-D Y자 노선 유치 기원, 1만여 명 동참",
-			"originallink":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SC70000000&idx=353863",
-			"link":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SC70000000&idx=353863",
-			"description":"인천국제공항을 출발해 <b>청라<\/b>와 가정, 계양을 거쳐 부천종합운동장에서 서부권광역급행철도와 만나 하남·팔당과 수서·여주로 연결하겠는 것인데요. 이후 국토교통부는 2023년 주요 업무계획에서 GTX 확충 통합기획... ",
-			"pubDate":"Wed, 18 Jan 2023 16:16:00 +0900"
 		}
 	]
 }
