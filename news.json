@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Wed, 18 Jan 2023 16:10:02 +0900",
-	"total":195463,
+	"lastBuildDate":"Wed, 18 Jan 2023 16:20:03 +0900",
+	"total":195467,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 GTX-D Y자 노선 유치 기원, 1만여 명 동참",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SC70000000&idx=353863",
+			"link":"http:\/\/news.lghellovision.net\/news\/newsView.do?soCode=SC70000000&idx=353863",
+			"description":"인천국제공항을 출발해 <b>청라<\/b>와 가정, 계양을 거쳐 부천종합운동장에서 서부권광역급행철도와 만나 하남·팔당과 수서·여주로 연결하겠는 것인데요. 이후 국토교통부는 2023년 주요 업무계획에서 GTX 확충 통합기획... ",
+			"pubDate":"Wed, 18 Jan 2023 16:16:00 +0900"
+		},
+		{
+			"title":"[인사] 신한은행",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230118010004215",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230118010004215",
+			"description":"최진영 △<b>청라<\/b>국제도시지점장 강광원 △인천서구청지점장 신동관 △만수동지점장 최경임 △계양구청지점장 김해규 △연수구청지점장 김대진 △남동구청지점장 임춘홍 △광안리지점장 김정미 △장산역지점장... ",
+			"pubDate":"Wed, 18 Jan 2023 16:12:00 +0900"
+		},
+		{
+			"title":"[인사] 신한은행",
+			"originallink":"http:\/\/www.newscj.com\/article\/20230118580382",
+			"link":"http:\/\/www.newscj.com\/article\/20230118580382",
+			"description":"최진영 ▲<b>청라<\/b>국제도시지점장 강광원 ▲인천서구청지점장 신동관 ▲만수동지점장 최경임 ▲계양구청지점장 김해규 ▲연수구청지점장 김대진 ▲남동구청지점장 임춘홍 ▲광안리지점장 김정미 ▲장산역지점장... ",
+			"pubDate":"Wed, 18 Jan 2023 16:12:00 +0900"
+		},
+		{
+			"title":"[인사] 특허청, 중소기업유통센터, 신한은행",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=303860",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=303860",
+			"description":"최진영 △<b>청라<\/b>국제도시지점장 강광원 △인천서구청지점장 신동관 △만수동지점장 최경임 △계양구청지점장 김해규 △연수구청지점장 김대진 △남동구청지점장 임춘홍 △광안리지점장 김정미 △장산역지점장... ",
+			"pubDate":"Wed, 18 Jan 2023 16:10:00 +0900"
+		},
 		{
 			"title":"대구 중구 도심재생문화재단, ‘중구를 노래하다’ 시화집 발간",
 			"originallink":"http:\/\/www.kbsm.net\/news\/view.php?idx=378585",
@@ -61,17 +89,17 @@
 			"pubDate":"Wed, 18 Jan 2023 15:42:00 +0900"
 		},
 		{
-			"title":"인천시, 경인전철 지하화 추진전략 수립용역 착수",
-			"originallink":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=942511",
-			"link":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=942511",
-			"description":"경인전철 지하화 방안은 현재 추진 중인 수도권광역급행철도(GTX) B노선, 제2경인선 및 서울7호선 <b>청라<\/b>국제도시 연장 등이 개통됐을 때의 경인선 수요 변화를 예측해, 최적의 건설·운영계획을 수립하고 경제적 타당성을... ",
-			"pubDate":"Wed, 18 Jan 2023 15:38:00 +0900"
-		},
-		{
 			"title":"신한은행, 상반기 정기인사…&quot;내부통제 강화&quot;",
 			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202301180222&t=NN",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001078122?sid=101",
 			"description":"최진영 ▲<b>청라<\/b>국제도시지점장 강광원 ▲인천서구청지점장 신동관 ▲만수동지점장 최경임 ▲계양구청지점장 김해규 ▲연수구청지점장 김대진 ▲남동구청지점장 임춘홍 ▲광안리지점장 김정미 ▲장산역지점장... ",
+			"pubDate":"Wed, 18 Jan 2023 15:38:00 +0900"
+		},
+		{
+			"title":"인천시, 경인전철 지하화 추진전략 수립용역 착수",
+			"originallink":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=942511",
+			"link":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=942511",
+			"description":"경인전철 지하화 방안은 현재 추진 중인 수도권광역급행철도(GTX) B노선, 제2경인선 및 서울7호선 <b>청라<\/b>국제도시 연장 등이 개통됐을 때의 경인선 수요 변화를 예측해, 최적의 건설·운영계획을 수립하고 경제적 타당성을... ",
 			"pubDate":"Wed, 18 Jan 2023 15:38:00 +0900"
 		},
 		{
@@ -104,15 +132,15 @@
 		},
 		{
 			"title":"[인사] 신한은행",
-			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=613467",
-			"link":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=613467",
+			"originallink":"http:\/\/www.consumernews.co.kr\/news\/articleView.html?idxno=669290",
+			"link":"http:\/\/www.consumernews.co.kr\/news\/articleView.html?idxno=669290",
 			"description":"최진영 ▲<b>청라<\/b>국제도시지점장 강광원 ▲인천서구청지점장 신동관 ▲만수동지점장 최경임 ▲계양구청지점장 김해규 ▲연수구청지점장 김대진 ▲남동구청지점장 임춘홍 ▲광안리지점장 김정미 ▲장산역지점장... ",
 			"pubDate":"Wed, 18 Jan 2023 15:20:00 +0900"
 		},
 		{
 			"title":"[인사] 신한은행",
-			"originallink":"http:\/\/www.consumernews.co.kr\/news\/articleView.html?idxno=669290",
-			"link":"http:\/\/www.consumernews.co.kr\/news\/articleView.html?idxno=669290",
+			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=613467",
+			"link":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=613467",
 			"description":"최진영 ▲<b>청라<\/b>국제도시지점장 강광원 ▲인천서구청지점장 신동관 ▲만수동지점장 최경임 ▲계양구청지점장 김해규 ▲연수구청지점장 김대진 ▲남동구청지점장 임춘홍 ▲광안리지점장 김정미 ▲장산역지점장... ",
 			"pubDate":"Wed, 18 Jan 2023 15:20:00 +0900"
 		},
@@ -173,13 +201,6 @@
 			"pubDate":"Wed, 18 Jan 2023 15:08:00 +0900"
 		},
 		{
-			"title":"[인사]신한은행",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=527948",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=527948",
-			"description":"최진영 ▲<b>청라<\/b>국제도시지점장 강광원 ▲인천서구청지점장 신동관 ▲만수동지점장 최경임 ▲계양구청지점장 김해규 ▲연수구청지점장 김대진 ▲남동구청지점장 임춘홍 ▲광안리지점장 김정미 ▲장산역지점장... ",
-			"pubDate":"Wed, 18 Jan 2023 15:06:00 +0900"
-		},
-		{
 			"title":"[인사] 신한은행",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1651365",
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1651365",
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.greenpostkorea.co.kr\/news\/articleView.html?idxno=205018",
 			"description":"최진영 ▲<b>청라<\/b>국제도시지점장 강광원 ▲인천서구청지점장 신동관 ▲만수동지점장 최경임 ▲계양구청지점장 김해규 ▲연수구청지점장 김대진 ▲남동구청지점장 임춘홍 ▲광안리지점장 김정미 ▲장산역지점장... ",
 			"pubDate":"Wed, 18 Jan 2023 15:06:00 +0900"
-		},
-		{
-			"title":"[인사] 신한은행",
-			"originallink":"http:\/\/www.inews24.com\/view\/1559392",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000723429?sid=102",
-			"description":"최진영 ▲<b>청라<\/b>국제도시지점장 강광원 ▲인천서구청지점장 신동관 ▲만수동지점장 최경임 ▲계양구청지점장 김해규 ▲연수구청지점장 김대진 ▲남동구청지점장 임춘홍 ▲광안리지점장 김정미 ▲장산역지점장... ",
-			"pubDate":"Wed, 18 Jan 2023 15:05:00 +0900"
-		},
-		{
-			"title":"[인사] 신한은행",
-			"originallink":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=198344",
-			"link":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=198344",
-			"description":"최진영 ▲<b>청라<\/b>국제도시지점장 강광원 ▲인천서구청지점장 신동관 ▲만수동지점장 최경임 ▲계양구청지점장 김해규 ▲연수구청지점장 김대진 ▲남동구청지점장 임춘홍 ▲광안리지점장 김정미 ▲장산역지점장... ",
-			"pubDate":"Wed, 18 Jan 2023 15:02:00 +0900"
-		},
-		{
-			"title":"[인사]신한은행",
-			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20230118500364",
-			"link":"http:\/\/www.metroseoul.co.kr\/article\/20230118500364",
-			"description":"최진영 △<b>청라<\/b>국제도시지점장 강광원 △인천서구청지점장 신동관 △만수동지점장 최경임 △계양구청지점장 김해규 △연수구청지점장 김대진 △남동구청지점장 임춘홍 △광안리지점장 김정미 △장산역지점장... ",
-			"pubDate":"Wed, 18 Jan 2023 14:56:00 +0900"
 		}
 	]
 }
