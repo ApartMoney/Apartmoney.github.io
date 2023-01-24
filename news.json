@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 25 Jan 2023 07:00:02 +0900",
-	"total":195590,
+	"lastBuildDate":"Wed, 25 Jan 2023 07:10:02 +0900",
+	"total":195591,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;우리동네 경관 지켜라&quot;…신도시는 &apos;시트지&apos;와 전쟁 중",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230120114100065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013716661?sid=102",
+			"description":"검단뿐만 아니라 송도·<b>청라<\/b> 등 신축 상가 건물이 밀집한 신도시에서는 일반적인 간판 대신 시트지를 흔히 볼 수 있다. 시트지 광고물이 남발하는 이런 현상에 대한 주민들의 시선은 곱지 않다. 건물마다 부착된... ",
+			"pubDate":"Wed, 25 Jan 2023 07:00:00 +0900"
+		},
 		{
 			"title":"대구교통공사, 설맞이 고객감사 이벤트 진행",
 			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=411349&part_idx=289",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93354",
 			"description":"체결, <b>청라<\/b>의료복합단지 본격 추진, 송도세브란스병원 착공, 제3연륙교 및 송도 워터프런트 조성 사업의 차질 없는 추진 등을 꼽을 수 있습니다. 아쉬웠던 점은 송도 6·8공구 개발 지연, <b>청라<\/b>시티타워 건립 차질 등으로... ",
 			"pubDate":"Sat, 21 Jan 2023 14:02:00 +0900"
-		},
-		{
-			"title":"인천 원도심 도시정비사업 &apos;눈길&apos;… 실수요자 중심 시장 재편",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=268413",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=268413",
-			"description":"송도와 <b>청라<\/b>, 영종에 이어 검단신도시, 루원시티 등 새로운 도시개발사업 붐이 일면서 분양도 쏠렸었다. 실수요자들 외에 투자 수요자들이 대거 몰리면서 인천의 도시개발사업은 인기를 끌었다. 반면 인천 원도심... ",
-			"pubDate":"Sat, 21 Jan 2023 09:02:00 +0900"
 		}
 	]
 }
