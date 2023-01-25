@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 25 Jan 2023 18:00:02 +0900",
-	"total":195632,
+	"lastBuildDate":"Wed, 25 Jan 2023 18:10:02 +0900",
+	"total":195633,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[B tv 인천뉴스] 인천경제자유구역 외국인 55.3% “정주여건 만족”",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=151656",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=151656",
+			"description":"송도와 영종, <b>청라<\/b>국제도시 등 인천경제자유구역에 살고 있는 외국인 절반 이상이 정주 여건에 만족하고 있는 것으로 나타났습니다. 인천경제청이 거주 외국인들을 대상으로 진행한 설문조사 결과 응답자의 55.3... ",
+			"pubDate":"Wed, 25 Jan 2023 18:02:00 +0900"
+		},
 		{
 			"title":"인천 탄소중립 클러스터, 선택이 아닌 &apos;필수&apos;",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1179523",
@@ -26,17 +33,17 @@
 			"pubDate":"Wed, 25 Jan 2023 17:36:00 +0900"
 		},
 		{
-			"title":"IFEZ 거주 외국인 절반 이상 “정주여건에 만족”",
-			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=445479",
-			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=445479",
-			"description":"송도·영종·<b>청라<\/b>국제도시 등 인천경제자유구역(IFEZ)에 살고 있는 외국인들의 절반 이상이 정주 여건에... 1808명 △<b>청라<\/b> 1086명 등 총 7246명으로 IFEZ 전체 인구의 1.7%다. 김태권 인천경제청 투자유치사업본부장은... ",
-			"pubDate":"Wed, 25 Jan 2023 17:16:00 +0900"
-		},
-		{
 			"title":"[신년 인터뷰] 더불어민주당 유동수 의원",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1179511",
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1179511",
 			"description":"서울도시철도 2호선의 <b>청라<\/b> 연장을 조금이라도 앞당기고 싶다. 제4차 국가철도망구축계획 작성 시점에는 <b>청라<\/b> 연장의 선결과제인 대장홍대선 사업이 확정되지 않았다. 이에 부득이하게 &apos;선결사업 확정시 본 사업을 최적... ",
+			"pubDate":"Wed, 25 Jan 2023 17:16:00 +0900"
+		},
+		{
+			"title":"IFEZ 거주 외국인 절반 이상 “정주여건에 만족”",
+			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=445479",
+			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=445479",
+			"description":"송도·영종·<b>청라<\/b>국제도시 등 인천경제자유구역(IFEZ)에 살고 있는 외국인들의 절반 이상이 정주 여건에... 1808명 △<b>청라<\/b> 1086명 등 총 7246명으로 IFEZ 전체 인구의 1.7%다. 김태권 인천경제청 투자유치사업본부장은... ",
 			"pubDate":"Wed, 25 Jan 2023 17:16:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.jejutwn.com\/news\/article.html?no=159875",
 			"description":"공유오피스25에서 부천 부평 <b>청라<\/b> 등에서 예비 창업 사장님들을 위해 인천비상주오피스 임대 9,500원 특가 이벤트를 진행한다. 인천시 남동구 논현동에 위치한 인천비상주사무실은 지하철역 4번 출구로 도보 30초로... ",
 			"pubDate":"Wed, 25 Jan 2023 10:44:00 +0900"
-		},
-		{
-			"title":"인천경제자유구역 거주 외국인 절반 이상 “정주여건 만족”",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230125_0002168631&cID=14001&pID=14000",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011657181?sid=102",
-			"description":"송도·영종·<b>청라<\/b>국제도시 등 인천경제자유구역(IFEZ)에 살고 있는 외국인들의 절반 이상이 정주 여건에... 이 가운데 외국인은 ▲송도 4352명 ▲영종 1808명 ▲<b>청라<\/b> 1086명 등 총 7246명으로 IFEZ 전체 인구의 1.7%다．",
-			"pubDate":"Wed, 25 Jan 2023 10:35:00 +0900"
 		}
 	]
 }
