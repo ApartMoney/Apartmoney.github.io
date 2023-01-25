@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 25 Jan 2023 17:00:03 +0900",
-	"total":195626,
+	"lastBuildDate":"Wed, 25 Jan 2023 17:10:02 +0900",
+	"total":195627,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"검단복합문화센터, 내년 말 준공 &apos;목표 순항&apos;",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1179497",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1179497",
+			"description":"해당 주민들은 아쉬운 대로 951석 공연장을 운영 중인 가정동 소재 서구문화회관이나 486석 공연장을 갖춘 <b>청라<\/b>복합문화센터로 넘어가 각종 공연 행사를 열어야만 했다. 이에 지역에서는 수도권매립지 부지 내 드림파크... ",
+			"pubDate":"Wed, 25 Jan 2023 17:08:00 +0900"
+		},
 		{
 			"title":"난방비 폭탄에 &apos;울상&apos;, 검단신도시 비싼 단가 인하 &apos;목소리&apos;",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=226162",
@@ -40,17 +47,17 @@
 			"pubDate":"Wed, 25 Jan 2023 15:12:00 +0900"
 		},
 		{
-			"title":"[인천 주요 뉴스]인천경제자유구역 거주 외국인 절반 정도만 &quot;정주여건 만족&quot;",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5884338",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003730586?sid=102",
-			"description":"인천경제자유구역 거주 외국인 절반 정도만 &quot;정주여건 만족&quot;인천 송도·영종·<b>청라<\/b> 등 경제자유구역에 거주하는 외국인 가운데 절반 정도만 정주 여건에 만족하는 것으로 조사됐습니다. 인천경제자유구역청은 지난해... ",
-			"pubDate":"Wed, 25 Jan 2023 15:02:00 +0900"
-		},
-		{
 			"title":"IFEZ 거주 외국인 절반 이상“정주여건에 만족합니다”",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202301251424318680789",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202301251424318680789",
 			"description":"인천경제청, 정주여건 등 설문조사 결과 송도·영종·<b>청라<\/b>국제도시 등 인천경제자유구역(IFEZ)에 살고... 1808명, △<b>청라<\/b> 1086명 등 총 7246명으로 IFEZ 전체 인구의 1.7%다. 김태권 인천경제청 투자유치사업본부장은... ",
+			"pubDate":"Wed, 25 Jan 2023 15:02:00 +0900"
+		},
+		{
+			"title":"[인천 주요 뉴스]인천경제자유구역 거주 외국인 절반 정도만 &quot;정주여건 만족&quot;",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5884338",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003730586?sid=102",
+			"description":"인천경제자유구역 거주 외국인 절반 정도만 &quot;정주여건 만족&quot;인천 송도·영종·<b>청라<\/b> 등 경제자유구역에 거주하는 외국인 가운데 절반 정도만 정주 여건에 만족하는 것으로 조사됐습니다. 인천경제자유구역청은 지난해... ",
 			"pubDate":"Wed, 25 Jan 2023 15:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230125010006664",
 			"description":"인천경제청 외국인 정주여건 등 설문조사 결과…55.3%만족 인천경제자유구역 송도·영종·<b>청라<\/b>국제도시... 1808명, △<b>청라<\/b> 1086명 등 총 7246명으로 IFEZ 전체 인구의 1.7%다. 인천= 설문조사 결과 종합 분석해 외국인 정주... ",
 			"pubDate":"Wed, 25 Jan 2023 09:58:00 +0900"
-		},
-		{
-			"title":"[인천소식] 경제자유구역 거주 외국인 55% &quot;정주여건 만족&quot;",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230125040200065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013716967?sid=102",
-			"description":"인천경제자유구역청은 송도·영종·<b>청라<\/b> 등 인천경제자유구역에 거주하는 외국인 중 절반 이상이 정주 여건에 만족하는 것으로 조사됐다고 25일 밝혔다. 인천경제청이 지난해 말 인천경제자유구역 거주 외국인을... ",
-			"pubDate":"Wed, 25 Jan 2023 09:50:00 +0900"
 		}
 	]
 }
