@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 25 Jan 2023 13:20:02 +0900",
-	"total":195614,
+	"lastBuildDate":"Wed, 25 Jan 2023 13:30:02 +0900",
+	"total":195615,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"IFEZ 거주 외국인 절반 이상 &quot;정주 여건에 만족합니다&quot;",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1653320",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1653320",
+			"description":"송도·영종·<b>청라<\/b>국제도시 등 인천경제자유구역(IFEZ)에 살고 있는 외국인들의 절반 이상이 정주 여건에... 1808명, △<b>청라<\/b> 1086명 등 총 7246명으로 IFEZ 전체 인구의 1.7%다. 김태권 인천경제청 투자유치사업본부장은... ",
+			"pubDate":"Wed, 25 Jan 2023 13:20:00 +0900"
+		},
 		{
 			"title":" 인천경제자유구역 거주 외국인들, 문화·레저, 의료에 불만족",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202301251255437436",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230120010003984",
 			"description":"경인아라뱃길을 기준으로 &apos;북부 지역&apos; &apos;<b>청라<\/b>·가정동&apos; &apos;원창·석남동&apos; 등 3개로 구별하는 것도 바람직하다고 설명했다.용역을 수행한 서원대학교 이지혜 교수는 &quot;인천시가 군·구 행정체제 개편을 추진 중인 점을 고려하면... ",
 			"pubDate":"Tue, 24 Jan 2023 19:28:00 +0900"
-		},
-		{
-			"title":"[경제자유구역 확대, 현장을 가다] 송도유원지 일대, 숙의 모아 최적 방안 찾...",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1179415",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1179415",
-			"description":"\/양진수 기자 photosmith@incheonilbo.com 2019년 11월, 인천경제자유구역청은 <b>청라<\/b> 경제자유구역과 맞닿은 서부산업단지(93만8624㎡)와 그 주변 생산녹지 등 115만9000㎡를 경제자유구역 확대지정을 추진했다. 2020년 11월 준공을... ",
-			"pubDate":"Tue, 24 Jan 2023 18:34:00 +0900"
 		}
 	]
 }
