@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 01 Feb 2023 08:30:03 +0900",
-	"total":195926,
+	"lastBuildDate":"Wed, 01 Feb 2023 08:40:02 +0900",
+	"total":195927,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"공항철도 자전거 승차 전면 제한 - 뿔난 영종도 사람들",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93482",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93482",
+			"description":"앞서 2021년 10월 25일, 인천시는 영종도 &apos;300리 자전거 이음길 선포&apos;를 하고 코스의 시작점인 정서진에서 제3연륙교 영종 해안 남로–무의도–용유해변-해안북로–신도-시도-모도-미단시티-<b>청라<\/b>호수공원-아라뱃길... ",
+			"pubDate":"Wed, 01 Feb 2023 08:38:00 +0900"
+		},
 		{
 			"title":"[더벨][건설부동산 IPO 로드맵]디벨로퍼 DS네트웍스, 2024년 이후 상장 &apos;재논...",
 			"originallink":"http:\/\/www.thebell.co.kr\/front\/free\/contents\/news\/article_view.asp?key=202301271225292800108674",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000873660?sid=101",
 			"description":"<b>청라<\/b> 하나글로벌캠퍼스에서 개최된 이번 워크숍에는 하나은행, 하나증권, 하나캐피탈, 하나금융티아이 등 해외에서 근무 중인 그룹의 주요 관계사 현지 직원 65명이 참여했다. 현지직원들은 ‘글로벌 원 팀(Global One... ",
 			"pubDate":"Tue, 31 Jan 2023 16:25:00 +0900"
-		},
-		{
-			"title":"&quot;인구이동, 경제자유구역 웃고 원도심은 울었다&quot;",
-			"originallink":"https:\/\/www.hankyung.com\/society\/article\/202301315001h",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004805094?sid=102",
-			"description":"31일 인천시에 따르면, 2003년 이후 송도국제도시(연수구) <b>청라<\/b>국제도시(서구) 영종국제도시(중구)는 인구가 급증했지만, 원도심은 반대로 대규모 인구유출을 경험했다. 2005년 인천에서 인구가 가장 많았던 부평구는... ",
-			"pubDate":"Tue, 31 Jan 2023 16:19:00 +0900"
 		}
 	]
 }
