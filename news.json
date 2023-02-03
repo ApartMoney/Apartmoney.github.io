@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 03 Feb 2023 17:10:02 +0900",
-	"total":196007,
+	"lastBuildDate":"Fri, 03 Feb 2023 17:20:02 +0900",
+	"total":196008,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 인천시",
+			"originallink":"http:\/\/www.ifm.kr\/news\/354031",
+			"link":"http:\/\/www.ifm.kr\/news\/354031",
+			"description":"영종<b>청라<\/b>사업본부장 서상호 ▲ 문화체육관광국장 김충진 ▲ 도시계획국장 최태안 ▲ 시민안전본부장 박찬훈... 경체청 <b>청라<\/b>관리과장 최민희 ▲ 교통안전과장 이상철 ▲ 서해5도 특별지원단장 단은송 ▲ 장애인복지과장... ",
+			"pubDate":"Fri, 03 Feb 2023 17:16:00 +0900"
+		},
 		{
 			"title":"[OBS 인섬 뉴스] 미리 보는 제3연륙교…영종도 관광명소로",
 			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1384559",
@@ -19,7 +26,7 @@
 			"pubDate":"Fri, 03 Feb 2023 17:02:00 +0900"
 		},
 		{
-			"title":"[오늘의 인사 : 2월 3일] 산업통상자원부·국세청·인천시·전남도·셀트리온...",
+			"title":"[오늘의 인사 : 2월 3일] 금융위원회·산업통상자원부·국세청·인천시·전남...",
 			"originallink":"https:\/\/www.news2day.co.kr\/article\/20230203500231",
 			"link":"https:\/\/www.news2day.co.kr\/article\/20230203500231",
 			"description":"영종<b>청라<\/b>사업본부장 서상호 ▷ 문화체육관광국장 김충진 ▷ 도시계획국장 최태안 ▷ 시민안전본부장 박찬훈... 경체청 <b>청라<\/b>관리과장 최민희 ▷ 교통안전과장 이상철 ▷ 서해5도 특별지원단장 단은송 ▷ 장애인복지과장... ",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=384761",
 			"description":"제5회 전시회, <b>청라<\/b>블루노바홀 전시실. 사진제공=인천시청 인천광역시는 2월 1일부터 2월 15일까지 15일간 &apos;2023년 시민 공원 사진가&apos;를 모집한다. 시민공원사진가&apos;는 공원의 주요 풍경과 사계절 변화하는 모습 등을 시민이... ",
 			"pubDate":"Thu, 02 Feb 2023 22:26:00 +0900"
-		},
-		{
-			"title":"인천 초교 입학생 모두 20만원 받는다",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230202010000325",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230202010000325",
-			"description":"학생성공버스는 오는 7월부터 서창, 검단, 영종, <b>청라<\/b>, 송도 등 5개 권역에서 운행할 예정이다.학생들의 디지털 교육 강화를 위한 노트북지급사업 대상도 확대된다. 올해에는 초등학교 4학년에 올라가는 학생과... ",
-			"pubDate":"Thu, 02 Feb 2023 20:28:00 +0900"
 		}
 	]
 }
