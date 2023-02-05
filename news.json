@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 05 Feb 2023 11:20:02 +0900",
-	"total":196034,
+	"lastBuildDate":"Sun, 05 Feb 2023 11:30:02 +0900",
+	"total":196035,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"홈플러스 휴무일, 2월5일은 수도권 점포 다수가 &apos;정상 영업&apos;",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=224882",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=224882",
+			"description":"◇&apos;<b>청라<\/b> 더리브 티아모 까사&apos; 남쪽에 위치한 대형마트인 홈플러스 인천<b>청라<\/b>점. (사진=이준혁 기자) 2023년 2월5일은 다수 사람의 경우는 평일 전날이자 휴일인 일요일이다. 그래서 국내 대다수 대형마트 지점에는 사람이... ",
+			"pubDate":"Sun, 05 Feb 2023 11:24:00 +0900"
+		},
 		{
 			"title":"인천시, 도시숲 ‘긍정적 기능’ 입증... 피톤치드 3.1배·음이온 2배 ↑",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230205010002208",
@@ -145,17 +152,17 @@
 			"pubDate":"Fri, 03 Feb 2023 18:28:00 +0900"
 		},
 		{
-			"title":"인천시, &apos;투자유치&apos;로 경제위기 정면 돌파 시동",
-			"originallink":"http:\/\/www.ifm.kr\/news\/354035",
-			"link":"http:\/\/www.ifm.kr\/news\/354035",
-			"description":"투자유치를 위해 내놓은 터는 송도와 <b>청라<\/b>·영종 경제자유구역과 원도심 균형발전의 앵커인 &apos;제물포르네상스&apos;와 &apos;뉴홍콩시티&apos; 개발예정부지 입니다. 시는 이곳에 바이오와 반도체, AI, UAM 등 &apos;미래첨단산업&apos;을 집중... ",
-			"pubDate":"Fri, 03 Feb 2023 18:10:00 +0900"
-		},
-		{
 			"title":"인천 신도시 중·고생 통학버스 노선 3월에 나온다",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93543",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93543",
 			"description":"조사 대상은 연수구 송도국제도시, 서구 <b>청라<\/b>국제도시 및 검단신도시, 중구 영종국제도시, 남동구 서창지구... 인천연구원이 지난달 발표한 &apos;인천시 버스교통체계의 서비스 취약지역 분석&apos; 보고서에 따르면송도·<b>청라<\/b>... ",
+			"pubDate":"Fri, 03 Feb 2023 18:10:00 +0900"
+		},
+		{
+			"title":"인천시, &apos;투자유치&apos;로 경제위기 정면 돌파 시동",
+			"originallink":"http:\/\/www.ifm.kr\/news\/354035",
+			"link":"http:\/\/www.ifm.kr\/news\/354035",
+			"description":"투자유치를 위해 내놓은 터는 송도와 <b>청라<\/b>·영종 경제자유구역과 원도심 균형발전의 앵커인 &apos;제물포르네상스&apos;와 &apos;뉴홍콩시티&apos; 개발예정부지 입니다. 시는 이곳에 바이오와 반도체, AI, UAM 등 &apos;미래첨단산업&apos;을 집중... ",
 			"pubDate":"Fri, 03 Feb 2023 18:10:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.smartfn.co.kr\/article\/view\/sfn202302030054",
 			"description":"영종<b>청라<\/b>사업본부장 서상호 ▲ 문화체육관광국장 김충진 ▲ 도시계획국장 최태안 ▲ 시민안전본부장 박찬훈... 경체청 <b>청라<\/b>관리과장 최민희 ▲ 교통안전과장 이상철 ▲ 서해5도 특별지원단장 단은송 ▲ 장애인복지과장... ",
 			"pubDate":"Fri, 03 Feb 2023 17:02:00 +0900"
-		},
-		{
-			"title":"[오늘의 인사 : 2월 3일] 금융위원회·산업통상자원부·국세청·인천시·전남...",
-			"originallink":"https:\/\/www.news2day.co.kr\/article\/20230203500231",
-			"link":"https:\/\/www.news2day.co.kr\/article\/20230203500231",
-			"description":"영종<b>청라<\/b>사업본부장 서상호 ▷ 문화체육관광국장 김충진 ▷ 도시계획국장 최태안 ▷ 시민안전본부장 박찬훈... 경체청 <b>청라<\/b>관리과장 최민희 ▷ 교통안전과장 이상철 ▷ 서해5도 특별지원단장 단은송 ▷ 장애인복지과장... ",
-			"pubDate":"Fri, 03 Feb 2023 17:00:00 +0900"
 		}
 	]
 }
