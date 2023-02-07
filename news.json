@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 07 Feb 2023 10:20:02 +0900",
-	"total":196118,
+	"lastBuildDate":"Tue, 07 Feb 2023 10:30:02 +0900",
+	"total":196119,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"미세먼지로 가려진 도심",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5822913",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006616073?sid=102",
+			"description":"= 중부지방을 중심으로 미세먼지가 기승을 부리는 7일 인천 서구 영종대교휴게소 기념관에서 바라본 <b>청라<\/b>국제도시의 모습이 뿌옇게 보이고 있다. 2023.2.7\/뉴스1",
+			"pubDate":"Tue, 07 Feb 2023 10:19:00 +0900"
+		},
 		{
 			"title":"영종국제도시 주택시장 &apos;공항경제권&apos;으로 봄바람 부나",
 			"originallink":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=32348",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1180873",
 			"description":"조문래 ▲<b>청라<\/b>관리과 최희수 ▲영종<b>청라<\/b>기반과 김삼희 ▲투자유치기획과 안준열 ▲환경녹지과 최미영 ▲영종<b>청라<\/b>기반과 강상훈 ▲미디어문화과 박은주 ▲운영지원과 김희정·정종영 ▲스마트시티과 이선화·조명란... ",
 			"pubDate":"Mon, 06 Feb 2023 16:06:00 +0900"
-		},
-		{
-			"title":"[인사] 인천경제자유구역청",
-			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=108885",
-			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=108885",
-			"description":"영종<b>청라<\/b>사업본부 영종관리과 최희수    영종<b>청라<\/b>사업본부 <b>청라<\/b>관리과 김삼희    영종<b>청라<\/b>사업본부 영종<b>청라<\/b>기반과 안준열    투자유치사업본부 투자유치기획과(직무대리) 최미영    송도사업본부 환경녹지과... ",
-			"pubDate":"Mon, 06 Feb 2023 16:02:00 +0900"
 		}
 	]
 }
