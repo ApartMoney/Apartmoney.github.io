@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 08 Feb 2023 09:20:02 +0900",
-	"total":196146,
+	"lastBuildDate":"Wed, 08 Feb 2023 09:30:03 +0900",
+	"total":196147,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, ‘희망도서 서점 바로대출’로 동네책방 무료대출",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1199943\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002681787?sid=102",
+			"description":"“무료로 책도 빌리고, 운영이 어려운 &apos;동네서점&apos;을 돕는 일석이조의 서비스 입니다” 인천시는 미추홀도서관 및 분관(<b>청라<\/b>호수‧<b>청라<\/b>국제‧영종하늘‧마전도서관)에서 원하는 책을 무료로 바로 빌려볼 수 있는... ",
+			"pubDate":"Wed, 08 Feb 2023 09:26:00 +0900"
+		},
 		{
 			"title":"인천교구, 아라동·주안7동·선원(준) 본당 신설",
 			"originallink":"http:\/\/www.cpbc.co.kr\/CMS\/newspaper\/view_body.php?cid=840473&path=202302",
@@ -103,17 +110,17 @@
 			"pubDate":"Tue, 07 Feb 2023 16:16:00 +0900"
 		},
 		{
-			"title":"&quot;22대 총선 선거구 30곳 조정&quot;...인천 서구을·연수갑 포함",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=226625",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=226625",
-			"description":"이 경우 인천 서구을은 <b>청라<\/b> 3동을 서구갑으로 넘긴 뒤 검단신도시 등을 주축으로 한 선거구를 만들고, 서구갑을 <b>청라<\/b>국제도시를 주축으로 한 선거구로 재편한 뒤 서구갑에서 원도심 등을 분리해 인천 동구를 합쳐 한... ",
-			"pubDate":"Tue, 07 Feb 2023 16:02:00 +0900"
-		},
-		{
 			"title":"&quot;분위기 반전되나&quot;…인천 원도심 도시정비사업 &apos;재조명&apos;",
 			"originallink":"https:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=71891",
 			"link":"https:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=71891",
 			"description":"송도와 <b>청라<\/b>, 영종에 이어 검단신도시, 루원시티 등 새로운 도시개발사업 붐이 일면서 분양도 쏠렸었다. 실수요자들 외에 투자 수요자들이 대거 몰리면서 인천의 도시개발사업은 인기를 끌었다. 반면 인천 원도심... ",
+			"pubDate":"Tue, 07 Feb 2023 16:02:00 +0900"
+		},
+		{
+			"title":"&quot;22대 총선 선거구 30곳 조정&quot;...인천 서구을·연수갑 포함",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=226625",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=226625",
+			"description":"이 경우 인천 서구을은 <b>청라<\/b> 3동을 서구갑으로 넘긴 뒤 검단신도시 등을 주축으로 한 선거구를 만들고, 서구갑을 <b>청라<\/b>국제도시를 주축으로 한 선거구로 재편한 뒤 서구갑에서 원도심 등을 분리해 인천 동구를 합쳐 한... ",
 			"pubDate":"Tue, 07 Feb 2023 16:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006616073?sid=102",
 			"description":"= 중부지방을 중심으로 미세먼지가 기승을 부리는 7일 인천 서구 영종대교휴게소 기념관에서 바라본 <b>청라<\/b>국제도시의 모습이 뿌옇게 보이고 있다. 2023.2.7\/뉴스1",
 			"pubDate":"Tue, 07 Feb 2023 10:19:00 +0900"
-		},
-		{
-			"title":"영종국제도시 주택시장 &apos;공항경제권&apos;으로 봄바람 부나",
-			"originallink":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=32348",
-			"link":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=32348",
-			"description":"작년 11월25일 기준 인천국제도시의 평균 실거래가를 분석한 결과 인천 중구(영종)가 3.3㎡당 1184만원, 서구(<b>청라<\/b>) 1359만원, 연수구(송도) 1870만원으로 중구가 가장 저렴한 것으로 나타났다. 이는 인천 평균 실거래가... ",
-			"pubDate":"Tue, 07 Feb 2023 09:10:00 +0900"
 		}
 	]
 }
