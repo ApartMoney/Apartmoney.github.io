@@ -1,22 +1,22 @@
 {
-	"lastBuildDate":"Wed, 08 Feb 2023 14:40:02 +0900",
-	"total":196224,
+	"lastBuildDate":"Wed, 08 Feb 2023 14:50:02 +0900",
+	"total":196226,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"서지오, &apos;가요세상&apos; 고혹미 담당[NC포토]",
-			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517106",
-			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517106",
-			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화와 함께 식전 행사로 포토월이 진행됐다. 현장에는 조영구, 강소리의 진행으로 가수 김종서, 플라워 고유진을 비롯해 서지오, 신승태... ",
-			"pubDate":"Wed, 08 Feb 2023 14:32:00 +0900"
+			"title":"집값 반토막 나자 &apos;외지인 매입&apos; 비중 8개월 만에 반등",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230207_0002184714&cID=10401&pID=10400",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011681808?sid=101",
+			"description":"실제 인천 송도·<b>청라<\/b> 등지에서는 최고가 대비 반토막 수준으로 급락한 거래가 잇따른 후 급매물이 차츰 소화되는 모습이 나타난다. 국토교통부 실거래가 공개시스템에 따르면 지난 2021년 9월 11억9000만원(22층)까지... ",
+			"pubDate":"Wed, 08 Feb 2023 14:45:00 +0900"
 		},
 		{
-			"title":"미니마니, 비주얼이 &apos;콸콸콸&apos;[NC포토]",
-			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517105",
-			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517105",
-			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화와 함께 식전 행사로 포토월이 진행됐다. 현장에는 조영구, 강소리의 진행으로 가수 김종서, 플라워 고유진을 비롯해 서지오, 신승태... ",
-			"pubDate":"Wed, 08 Feb 2023 14:32:00 +0900"
+			"title":"보성산업, 고형권 전 기재부 1차관 투자유치위원장으로 영입",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29LO6SFCPP",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004153880?sid=101",
+			"description":"보성산업은 고 전 차관의 풍부한 경험과 글로벌 네트워크를 활용해 솔라시도와 세종·부산 스마트시티, 새만금, <b>청라<\/b>금융단지 등 대규모 프로젝트에 힘을 보탤 계획이다. 특히 국내에서 RE100(재생에너지 100%) 실현을... ",
+			"pubDate":"Wed, 08 Feb 2023 14:40:00 +0900"
 		},
 		{
 			"title":"숙행, &apos;가요세상&apos; 파이팅[NC포토]",
@@ -33,9 +33,30 @@
 			"pubDate":"Wed, 08 Feb 2023 14:32:00 +0900"
 		},
 		{
-			"title":"김종서, 여전히 멋져[NC포토]",
-			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517100",
-			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517100",
+			"title":"서지오, &apos;가요세상&apos; 고혹미 담당[NC포토]",
+			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517106",
+			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517106",
+			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화와 함께 식전 행사로 포토월이 진행됐다. 현장에는 조영구, 강소리의 진행으로 가수 김종서, 플라워 고유진을 비롯해 서지오, 신승태... ",
+			"pubDate":"Wed, 08 Feb 2023 14:32:00 +0900"
+		},
+		{
+			"title":"미니마니, 비주얼이 &apos;콸콸콸&apos;[NC포토]",
+			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517105",
+			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517105",
+			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화와 함께 식전 행사로 포토월이 진행됐다. 현장에는 조영구, 강소리의 진행으로 가수 김종서, 플라워 고유진을 비롯해 서지오, 신승태... ",
+			"pubDate":"Wed, 08 Feb 2023 14:32:00 +0900"
+		},
+		{
+			"title":"보성산업, 고형권 투자유치위원장 영입",
+			"originallink":"https:\/\/dealsite.co.kr\/articles\/98721",
+			"link":"https:\/\/dealsite.co.kr\/articles\/98721",
+			"description":"보성그룹은 현재 RE100(100% 재생에너지로 전력 사용) 실현 최적지로 주목 받고 있는 솔라시도를 비롯해 세종·부산 스마트시티, 새만금, <b>청라<\/b>금융단지 등 프로젝트를 진행하고 있다. 솔라시도는 전남 해남 일대에 여의도... ",
+			"pubDate":"Wed, 08 Feb 2023 14:30:00 +0900"
+		},
+		{
+			"title":"고유진, 훤칠한 안녕 [NC포토]",
+			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517102",
+			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517102",
 			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화와 함께 식전 행사로 포토월이 진행됐다. 현장에는 조영구, 강소리의 진행으로 가수 김종서, 플라워 고유진을 비롯해 서지오, 신승태... ",
 			"pubDate":"Wed, 08 Feb 2023 14:30:00 +0900"
 		},
@@ -47,9 +68,16 @@
 			"pubDate":"Wed, 08 Feb 2023 14:30:00 +0900"
 		},
 		{
-			"title":"고유진, 훤칠한 안녕 [NC포토]",
-			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517102",
-			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517102",
+			"title":"김양, 오늘도 사랑스럽게[NC포토]",
+			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517108",
+			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517108",
+			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화와 함께 식전 행사로 포토월이 진행됐다. 현장에는 조영구, 강소리의 진행으로 가수 김종서, 플라워 고유진을 비롯해 서지오, 신승태... ",
+			"pubDate":"Wed, 08 Feb 2023 14:30:00 +0900"
+		},
+		{
+			"title":"김종서, 여전히 멋져[NC포토]",
+			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517100",
+			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517100",
 			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화와 함께 식전 행사로 포토월이 진행됐다. 현장에는 조영구, 강소리의 진행으로 가수 김종서, 플라워 고유진을 비롯해 서지오, 신승태... ",
 			"pubDate":"Wed, 08 Feb 2023 14:30:00 +0900"
 		},
@@ -58,20 +86,6 @@
 			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517095",
 			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517095",
 			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화와 함께 식전 행사로 포토월이 진행됐다. 현장에는 조영구, 강소리의 진행으로 가수 김종서, 플라워 고유진을 비롯해 서지오, 신승태... ",
-			"pubDate":"Wed, 08 Feb 2023 14:30:00 +0900"
-		},
-		{
-			"title":"김양, 오늘도 사랑스럽게[NC포토]",
-			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517108",
-			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517108",
-			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화와 함께 식전 행사로 포토월이 진행됐다. 현장에는 조영구, 강소리의 진행으로 가수 김종서, 플라워 고유진을 비롯해 서지오, 신승태... ",
-			"pubDate":"Wed, 08 Feb 2023 14:30:00 +0900"
-		},
-		{
-			"title":"보성산업, 고형권 투자유치위원장 영입",
-			"originallink":"https:\/\/dealsite.co.kr\/articles\/98721",
-			"link":"https:\/\/dealsite.co.kr\/articles\/98721",
-			"description":"보성그룹은 현재 RE100(100% 재생에너지로 전력 사용) 실현 최적지로 주목 받고 있는 솔라시도를 비롯해 세종·부산 스마트시티, 새만금, <b>청라<\/b>금융단지 등 프로젝트를 진행하고 있다. 솔라시도는 전남 해남 일대에 여의도... ",
 			"pubDate":"Wed, 08 Feb 2023 14:30:00 +0900"
 		},
 		{
@@ -96,16 +110,16 @@
 			"pubDate":"Wed, 08 Feb 2023 14:16:00 +0900"
 		},
 		{
-			"title":"김양 &apos;볼하트의 정석&apos;[엑&apos;s HD포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/1685757",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/311\/0001555075?sid=106",
+			"title":"김양 &apos;하트는 사랑스럽게&apos;[엑&apos;s HD포토]",
+			"originallink":"https:\/\/www.xportsnews.com\/article\/1685756",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/311\/0001555074?sid=106",
 			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 ‘라이브 토크 콘서트’ 가요세상이 진행됐다. 이날 행사에 참석한 김양이 포즈를 취하고 있다.",
 			"pubDate":"Wed, 08 Feb 2023 14:15:00 +0900"
 		},
 		{
-			"title":"김양 &apos;하트는 사랑스럽게&apos;[엑&apos;s HD포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/1685756",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/311\/0001555074?sid=106",
+			"title":"김양 &apos;볼하트의 정석&apos;[엑&apos;s HD포토]",
+			"originallink":"https:\/\/www.xportsnews.com\/article\/1685757",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/311\/0001555075?sid=106",
 			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 ‘라이브 토크 콘서트’ 가요세상이 진행됐다. 이날 행사에 참석한 김양이 포즈를 취하고 있다.",
 			"pubDate":"Wed, 08 Feb 2023 14:15:00 +0900"
 		},
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004966138?sid=101",
 			"description":"보성산업은 고 전 차관의 풍부한 경험과 글로벌 네트워크를 활용해 솔라시도, 세종·부산 스마트시티, 새만금, <b>청라<\/b>금융단지 등 대규모 프로젝트 추진에 박차를 가할 수 있을 것으로 기대하고 있다. 특히 국내에서 RE100... ",
 			"pubDate":"Wed, 08 Feb 2023 13:37:00 +0900"
-		},
-		{
-			"title":"인천시교육청, 반도체고·예술중·체육중 설립 추진",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93613",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93613",
-			"description":"체육중은 서구 <b>청라<\/b>국제도시에 있는 인천체고 안에 설립하기로 했다. 또 코로나19 이후 다문화 가정이 지속 증가하는 것을 고려해 다문화국제학교도 설립한다. 시교육청은 남동구 논현동 한누리학교를 다문화국제학교로... ",
-			"pubDate":"Wed, 08 Feb 2023 13:36:00 +0900"
-		},
-		{
-			"title":"보성산업, 고형권 前 기재부 제1차관 투자유치위원장 영입",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02614166635508552",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005420745?sid=101",
-			"description":"보성산업은 고 전 차관의 풍부한 경험과 글로벌 네트워크를 활용해 솔라시도, 세종·부산 스마트시티, 새만금, <b>청라<\/b>금융단지 등 대규모 프로젝트 추진에 더욱 박차를 가할 수 있을 것으로 기대하고 있다. 특히 국내에서... ",
-			"pubDate":"Wed, 08 Feb 2023 13:34:00 +0900"
 		}
 	]
 }
