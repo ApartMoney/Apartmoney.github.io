@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 09 Feb 2023 09:00:02 +0900",
-	"total":196310,
+	"lastBuildDate":"Thu, 09 Feb 2023 09:10:02 +0900",
+	"total":196311,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 작전 한라비발디, 선호도 높은 전용 84㎡ 분양가 5%로 내 집 마련 기회",
+			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=57061",
+			"link":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=57061",
+			"description":"작전역까지 지하철 2호선 연장선(<b>청라<\/b>~홍대)이 연결될 예정이며 부평역에 들어설 &apos;GTX-B노선&apos; 이용도 쉬워 서울 접근성도 좋아질 것으로 예상된다. 인근에 도보 통학이 가능한 화천초, 작전중, 안남고, 작전여고 등... ",
+			"pubDate":"Thu, 09 Feb 2023 09:06:00 +0900"
+		},
 		{
 			"title":"대우건설, 장애인 복지시설서 사회공헌 外 부영⋅보성",
 			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202302080203",
@@ -19,13 +26,6 @@
 			"pubDate":"Thu, 09 Feb 2023 08:06:00 +0900"
 		},
 		{
-			"title":"권민정, 생일을 맞이한 요정 비주얼[NC포토]",
-			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517137",
-			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517137",
-			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화와 함께 식전 행사로 포토월이 진행됐다. 자리에는 조영구, 강소리의 진행으로 가수 설하윤, 최우진, 권민정, 채윤, 양지원, 서인아... ",
-			"pubDate":"Thu, 09 Feb 2023 08:04:00 +0900"
-		},
-		{
 			"title":"설하윤, 피할 수 없는 눈 맞춤 [NC포토]",
 			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517134",
 			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517134",
@@ -36,6 +36,13 @@
 			"title":"최우진, 피지컬 자랑하며 손하트[NC포토]",
 			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517136",
 			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517136",
+			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화와 함께 식전 행사로 포토월이 진행됐다. 자리에는 조영구, 강소리의 진행으로 가수 설하윤, 최우진, 권민정, 채윤, 양지원, 서인아... ",
+			"pubDate":"Thu, 09 Feb 2023 08:04:00 +0900"
+		},
+		{
+			"title":"권민정, 생일을 맞이한 요정 비주얼[NC포토]",
+			"originallink":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517137",
+			"link":"http:\/\/www.newsculture.press\/news\/articleView.html?idxno=517137",
 			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화와 함께 식전 행사로 포토월이 진행됐다. 자리에는 조영구, 강소리의 진행으로 가수 설하윤, 최우진, 권민정, 채윤, 양지원, 서인아... ",
 			"pubDate":"Thu, 09 Feb 2023 08:04:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/311\/0001555310?sid=106",
 			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 ‘라이브 토크 콘서트’ 가요세상이 진행됐다. 이날 행사에 참석한 양지원이 포즈를 취하고 있다.",
 			"pubDate":"Wed, 08 Feb 2023 22:24:00 +0900"
-		},
-		{
-			"title":"양지원 &apos;여심 흔드는 비주얼&apos;[엑&apos;s HD포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/1685997",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/311\/0001555308?sid=106",
-			"description":"8일 오후 인천 <b>청라<\/b>블루노바홀에서 ‘라이브 토크 콘서트’ 가요세상이 진행됐다. 이날 행사에 참석한 양지원이 포즈를 취하고 있다.",
-			"pubDate":"Wed, 08 Feb 2023 22:23:00 +0900"
 		}
 	]
 }
