@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 09 Feb 2023 15:20:03 +0900",
-	"total":196344,
+	"lastBuildDate":"Thu, 09 Feb 2023 15:30:02 +0900",
+	"total":196345,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"환자 넘치는 주요 대형병원…지방 분원 설립으로 눈 돌린다",
+			"originallink":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=203685",
+			"link":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=203685",
+			"description":"몇 가지 사례를 보면 서울대병원은 시흥 배곧에, 서울아산병원은 인천 <b>청라<\/b>에, 연세의료원은 인천 송도에 각각 분원을 지을 예정이다. 분원 규모는 500~800병상으로 예정됐으며, 지역 여건과 내부 사정 등을 고려해 향후 병상... ",
+			"pubDate":"Thu, 09 Feb 2023 15:24:00 +0900"
+		},
 		{
 			"title":"고형권 보성산업 투자유치위원장 취임···솔라시도 &apos;탄력&apos;",
 			"originallink":"http:\/\/www.todayenergy.kr\/news\/articleView.html?idxno=257449",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.hapt.co.kr\/news\/articleView.html?idxno=157894",
 			"description":"지난달 30일 인천 서구 <b>청라<\/b>지구 4A시스템에서 김소중 대표를 만나 새해 구상을 들어봤다. 지난해 성과가 좋았다고 들었다. &quot;지난해 전국 아파트 재도장공사 270여 건을 시공했다. 전국 공사의 30%에 육박한다. 지난해... ",
 			"pubDate":"Thu, 09 Feb 2023 10:08:00 +0900"
-		},
-		{
-			"title":"[더벨]이마트, 트레이더스 성장 주춤 &apos;매출 4조 달성&apos; 실패",
-			"originallink":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202302081355522840104259",
-			"link":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202302081355522840104259",
-			"description":"스타필드시티가 지어지는 수원과 <b>청라<\/b>에 출점을 확정했다. 이마트 트레이더스 관계자는 &quot;매출 둔화는 코로나 기간 동안 보인 폭발적인 성장세로 인한 기저효과다&quot;면서 &quot;기존 전략대로 꾸준하게 독자적인 상품 개발과... ",
-			"pubDate":"Thu, 09 Feb 2023 09:38:00 +0900"
 		}
 	]
 }
