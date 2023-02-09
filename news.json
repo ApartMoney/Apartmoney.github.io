@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 10 Feb 2023 08:00:03 +0900",
-	"total":196362,
+	"lastBuildDate":"Fri, 10 Feb 2023 08:10:02 +0900",
+	"total":196363,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전국 주요 신문 톱뉴스](10일 조간)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230210016500505?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013748922?sid=004",
+			"description":"2호선 <b>청라<\/b>국제도시 연장 &apos;파란불&apos; ▲ 신아일보 = &apos;이상민 탄핵&apos;에 정국 급랭…정쟁에 민생 또 뒷전 ▲ 인천일보 = 쓰레기정책, 골든타임은 지금…4자 협의체 재개 절실 ▲ 일간경기 = 1기 신도시 단체장 &quot;기반시설 대책... ",
+			"pubDate":"Fri, 10 Feb 2023 08:00:00 +0900"
+		},
 		{
 			"title":"[뉴스 잠망경] 7호선 온수∼석남 운행 중단?",
 			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=174797",
@@ -40,17 +47,17 @@
 			"pubDate":"Thu, 09 Feb 2023 20:14:00 +0900"
 		},
 		{
-			"title":"대장홍대선, 우선협상자 선정… 서울 2호선 <b>청라<\/b> 연장 &apos;가속도&apos;",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230209010001875",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230209010001875",
-			"description":"2호선 <b>청라<\/b>연장사업 추진 논의가 속도를 낼 전망이다. 국토교통부는 대장~홍대 민자철도사업 신청서 평가... 대장홍대선은 인천시가 추진하는 서울 2호선 <b>청라<\/b> 연장선 구상과 맞물려 있다. 서울 2호선 <b>청라<\/b> 연장선은... ",
-			"pubDate":"Thu, 09 Feb 2023 20:12:00 +0900"
-		},
-		{
 			"title":"서울지하철 2호선 <b>청라<\/b>국제도시 연장 &apos;파란불&apos;",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1016238",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1016238",
 			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천지하철 2호선 <b>청라<\/b> 연장 노선도 \/사진 = 인천시 제공 인천 서구 <b>청라<\/b>국제도시와 서울지하철 2호선을 잇는 인천시 구상에 파란불이 들어왔다. 서울2호선 <b>청라<\/b> 연장선 구축의... ",
+			"pubDate":"Thu, 09 Feb 2023 20:12:00 +0900"
+		},
+		{
+			"title":"대장홍대선, 우선협상자 선정… 서울 2호선 <b>청라<\/b> 연장 &apos;가속도&apos;",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230209010001875",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230209010001875",
+			"description":"2호선 <b>청라<\/b>연장사업 추진 논의가 속도를 낼 전망이다. 국토교통부는 대장~홍대 민자철도사업 신청서 평가... 대장홍대선은 인천시가 추진하는 서울 2호선 <b>청라<\/b> 연장선 구상과 맞물려 있다. 서울 2호선 <b>청라<\/b> 연장선은... ",
 			"pubDate":"Thu, 09 Feb 2023 20:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005085989?sid=101",
 			"description":"인천시 서구 <b>청라<\/b>동 ‘한양수자인레이크블루’도 전용 84㎡가 지난 2일 6억5000만원에 팔렸다. 현재 가장 높은 호가는 13억5000만원으로 실거래가의 두 배가 넘는다. 급매물이 소진돼 호수 조망권을 갖춘 매물임을... ",
 			"pubDate":"Thu, 09 Feb 2023 13:25:00 +0900"
-		},
-		{
-			"title":"보성산업 투자유치위원장에 고형권 전 차관",
-			"originallink":"http:\/\/www.naeil.com\/news_view\/?id_art=450745",
-			"link":"http:\/\/www.naeil.com\/news_view\/?id_art=450745",
-			"description":"보성산업은 고 위원장의 경험을 활용해 솔라시도와 세종·부산 스마트시티, 새만금 종합개발, <b>청라<\/b>금융단지 등 대규모 프로젝트 추진에 속도를 낼 계획이다. 솔라시도는 여의도 면적의 약 7배(632만평)에 달하는 부지에... ",
-			"pubDate":"Thu, 09 Feb 2023 12:40:00 +0900"
 		}
 	]
 }
