@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 09 Feb 2023 20:40:02 +0900",
-	"total":196358,
+	"lastBuildDate":"Thu, 09 Feb 2023 20:50:03 +0900",
+	"total":196359,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;이런 공항 원한다&quot;... 남부권 미래의 &apos;핵심&apos;",
+			"originallink":"https:\/\/busanmbc.co.kr\/article\/aCIWxZUVmKgVKLSN",
+			"link":"https:\/\/busanmbc.co.kr\/article\/aCIWxZUVmKgVKLSN",
+			"description":"영종도에 인천공항을 추진하며 송도, <b>청라<\/b> 지역에 지정된 인천경제자유구역 사례를 참고할 만합니다. 20년 만에 내외국인 주민이 15배 증가했고 입주 기업은 3천300곳을 넘어섰습니다. [석규열 \/ 부산시 신공항도시과장]... ",
+			"pubDate":"Thu, 09 Feb 2023 20:46:00 +0900"
+		},
 		{
 			"title":"대장홍대선 우협 &apos;현대건설&apos;… <b>청라<\/b>연장 탄력",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363578028",
@@ -138,17 +145,17 @@
 			"pubDate":"Thu, 09 Feb 2023 14:30:00 +0900"
 		},
 		{
-			"title":"서울 아파트값 37주째 떨어져, 매도인과 매수인 희망가격 격차로 관망세",
-			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=305772",
-			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=305772",
-			"description":"서구(-0.55%)는 신규공급 영향 있는 마전‧원당‧왕길‧<b>청라<\/b>‧석남동, 계양구(-0.50%)는 병방‧용종‧계산‧귤현동 중소형 위주로 집값이 하락했다. 2월 첫째 주 전국 아파트값은 0.49% 내렸다. 지난주(-0.38%)와 비교해... ",
-			"pubDate":"Thu, 09 Feb 2023 14:22:00 +0900"
-		},
-		{
 			"title":"[KLPGA] 2023 KLPGA 투어 일정, 32개 대회 개최...총상금 311억원",
 			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=57070",
 			"link":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=57070",
 			"description":"(베어즈베스트 <b>청라<\/b>, 총상금 8억원) 2022년 우승 성유진(22) 15언더파 273타, 투어 첫 승 2021년 우승... (베어즈베스트 <b>청라<\/b>, 총상금 15억원) 2022년 우승 김수지(26) 14언더파 274타, 투어 4승 2021년 우승... ",
+			"pubDate":"Thu, 09 Feb 2023 14:22:00 +0900"
+		},
+		{
+			"title":"서울 아파트값 37주째 떨어져, 매도인과 매수인 희망가격 격차로 관망세",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=305772",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=305772",
+			"description":"서구(-0.55%)는 신규공급 영향 있는 마전‧원당‧왕길‧<b>청라<\/b>‧석남동, 계양구(-0.50%)는 병방‧용종‧계산‧귤현동 중소형 위주로 집값이 하락했다. 2월 첫째 주 전국 아파트값은 0.49% 내렸다. 지난주(-0.38%)와 비교해... ",
 			"pubDate":"Thu, 09 Feb 2023 14:22:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/enter.etoday.co.kr\/news\/view\/237017",
 			"description":"조정민은 8일 오후 인천 <b>청라<\/b>블루노바홀에서 진행된 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화에 참여했다. 이날 녹화에는 MC 조영구, 강소리, 가수 김종서, 플라워 고유진, 서지오, 신승태, 숙행, 미니마니, 김양... ",
 			"pubDate":"Thu, 09 Feb 2023 11:40:00 +0900"
-		},
-		{
-			"title":"[비즈 포토] 나태주, 태권 트롯으로 &apos;가요세상&apos; 접수",
-			"originallink":"http:\/\/enter.etoday.co.kr\/news\/view\/237005",
-			"link":"http:\/\/enter.etoday.co.kr\/news\/view\/237005",
-			"description":"나태주는 8일 오후 인천 <b>청라<\/b>블루노바홀에서 진행된 고품격 라이브 토크 콘서트 프로그램 &apos;가요세상&apos; 녹화에 참여했다. 이날 녹화에는 MC 조영구, 강소리, 가수 김종서, 플라워 고유진, 서지오, 신승태, 숙행, 미니마니, 김양... ",
-			"pubDate":"Thu, 09 Feb 2023 11:38:00 +0900"
 		}
 	]
 }
