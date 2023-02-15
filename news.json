@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 15 Feb 2023 09:20:02 +0900",
-	"total":196222,
+	"lastBuildDate":"Wed, 15 Feb 2023 09:30:02 +0900",
+	"total":196223,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구 남산동서 오토바이와 승용차 충돌...10대 2명 부상",
+			"originallink":"http:\/\/www.kbsm.net\/news\/view.php?idx=381302",
+			"link":"http:\/\/www.kbsm.net\/news\/view.php?idx=381302",
+			"description":"대구 중구 남산동의 한 도로에서 10대가 몰던 오토바이가 승용차와 충돌하는 사고가 발생했다.대구소방안전본부에 따르면 15일 오전 3시7분께 대구 중구 남산동 <b>청라<\/b>언덕 네거리 인근 도로에서 승용차와 오토바이... ",
+			"pubDate":"Wed, 15 Feb 2023 09:28:00 +0900"
+		},
 		{
 			"title":"인천 <b>청라<\/b>국제도시ㆍ서울지하철 2호선 잇는 &apos;대장-홍대입구&apos; 사업 추진 급물살",
 			"originallink":"https:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=71965",
@@ -159,17 +166,17 @@
 			"pubDate":"Tue, 14 Feb 2023 17:38:00 +0900"
 		},
 		{
-			"title":"인천시 2027년 완전 자율주행 상용화...송도·<b>청라<\/b> 등 12개 시범구간 선정 용...",
-			"originallink":"http:\/\/www.ifm.kr\/news\/354713",
-			"link":"http:\/\/www.ifm.kr\/news\/354713",
-			"description":"인천시도 송도와 영종, <b>청라<\/b>, 검단 등 경제자유구역과 신도시에 12개 자율주행 시범운행구간을 설정하고... 경제청은 단기적으로 <b>청라<\/b> GRT 2개 노선 연장 12.4km를 자율주행 구간으로 설정하고, 추후 송도센트럴파크 일원을... ",
-			"pubDate":"Tue, 14 Feb 2023 17:34:00 +0900"
-		},
-		{
 			"title":"[아유경제_가로주택정비] 작전동아 가로주택정비, 부지런히 시공자 선정 목표...",
 			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=75938",
 			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=75938",
 			"description":"또 작전역에 가까운 초역세권 입지와 더불어 상권 역시 우수해 입지적 조건이 매우 좋고 향후 신설이 예정된 지하철 2호선 <b>청라<\/b>연장 등이 들어설 경우, 더블 또는 트리플 역세권에 대해 기대감도 있다. - 조합원들에게... ",
+			"pubDate":"Tue, 14 Feb 2023 17:34:00 +0900"
+		},
+		{
+			"title":"인천시 2027년 완전 자율주행 상용화...송도·<b>청라<\/b> 등 12개 시범구간 선정 용...",
+			"originallink":"http:\/\/www.ifm.kr\/news\/354713",
+			"link":"http:\/\/www.ifm.kr\/news\/354713",
+			"description":"인천시도 송도와 영종, <b>청라<\/b>, 검단 등 경제자유구역과 신도시에 12개 자율주행 시범운행구간을 설정하고... 경제청은 단기적으로 <b>청라<\/b> GRT 2개 노선 연장 12.4km를 자율주행 구간으로 설정하고, 추후 송도센트럴파크 일원을... ",
 			"pubDate":"Tue, 14 Feb 2023 17:34:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003204949?sid=102",
 			"description":"인천지방법원 민사16부(장민석 부장판사)는 14일 서구 검단주민 5200명과 <b>청라<\/b>주민 1100명이 각각 인천시를... 이로 인해 인천 서구 검단과 <b>청라<\/b>, 중구 영종도, 강화군 등 26만가구 63만명이 피해를 본 것으로 추산됐다. 이에... ",
 			"pubDate":"Tue, 14 Feb 2023 16:46:00 +0900"
-		},
-		{
-			"title":"인천 서구 주민 6000여명 &apos;붉은 수돗물&apos; 손배 소송서 패소",
-			"originallink":"http:\/\/www.newspim.com\/news\/view\/20230214000972",
-			"link":"http:\/\/www.newspim.com\/news\/view\/20230214000972",
-			"description":"인천지방법원 청사 인천지법 민사16부(장민석 부장판사)는 14일 인천시 서구 검단 주민 5200명과 <b>청라<\/b> 주민 1100명이 각각 인천시를 상대로 낸 2건의 손해배상 소송에서 모두 원고 패소 판결을 했다. 인천에서는 2019년 5월... ",
-			"pubDate":"Tue, 14 Feb 2023 16:35:00 +0900"
 		}
 	]
 }
