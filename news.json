@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 17 Feb 2023 05:00:03 +0900",
-	"total":196358,
+	"lastBuildDate":"Fri, 17 Feb 2023 05:10:02 +0900",
+	"total":196359,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"집값 바닥론 시기상조?…거래량 회복 아직",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1202980\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002684632?sid=101",
+			"description":"경기는 2021년 최고가 대비 낙폭이 컸던 경기 화성 동탄신도시와 수원 영통구에서 3억 초과~6억원 이하 거래가 활발했으며, 인천도 서구 <b>청라<\/b>국제도시, 연수구 송도신도시, 남동구 30평대 아파트의 거래가 집중돼 해당... ",
+			"pubDate":"Fri, 17 Feb 2023 05:04:00 +0900"
+		},
 		{
 			"title":"배준영 의원, 제3연륙교 건설 현장 방문 건설상황 점검",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1203079\/?sc=Naver",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20230216500323",
 			"description":"송도, <b>청라<\/b>와 함께 경제자유구역으로 출발하였지만 그동안 각종 인프라 투자 지연, 개발계획 무산 등으로 우리 지역은 많은 어려움을 겪어왔습니다. 늦었지만 얽혔던 실타래가 하나씩 풀려나가고 있습니다. 제3연육교는... ",
 			"pubDate":"Thu, 16 Feb 2023 14:36:00 +0900"
-		},
-		{
-			"title":"수도권 아파트 매매건수 4개월연속↑…&apos;노·도·성&apos; 집중",
-			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2023\/02\/16\/2023021600115.html",
-			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2023\/02\/16\/2023021600115.html",
-			"description":"경기는 2021년 최고가 대비 낙폭이 컸던 경기 화성 동탄신도시와 수원 영통구에서 3억초과~6억원이하 거래가 활발했으며 인천도 서구 <b>청라<\/b>국제도시·연수구 송도신도시·남동구 30평대 아파트 거래가 집중돼 해당구간... ",
-			"pubDate":"Thu, 16 Feb 2023 14:30:00 +0900"
 		}
 	]
 }
