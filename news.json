@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 16 Feb 2023 12:40:02 +0900",
-	"total":196320,
+	"lastBuildDate":"Thu, 16 Feb 2023 12:50:02 +0900",
+	"total":196321,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"1월 수도권 아파트 거래량 36% 증가…시세 하락에 9억원 이하 중저가 위주 매...",
+			"originallink":"http:\/\/www.topstarnews.net\/news\/articleView.html?idxno=15117814",
+			"link":"http:\/\/www.topstarnews.net\/news\/articleView.html?idxno=15117814",
+			"description":"경기는 2021년 최고가 대비 낙폭이 컸던 경기 화성 동탄신도시와 수원 영통구에서 3억 초과~6억원 이하 거래가 활발했으며, 인천도 서구 <b>청라<\/b>국제도시, 연수구 송도신도시, 남동구 30평대 아파트의 거래가 집중돼 해당... ",
+			"pubDate":"Thu, 16 Feb 2023 12:40:00 +0900"
+		},
 		{
 			"title":"거래량 되살아나나… 전월 수도권 아파트 거래 전월대비 36% 올라",
 			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=616911",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000728953?sid=101",
 			"description":"경기는 지난 2021년 최고가 대비 낙폭이 컸던 경기 화성 동탄신도시와 수원 영통구에서 3억 초과~6억원 이하 거래가 활발했으며, 인천도 서구 <b>청라<\/b>국제도시, 연수구 송도신도시, 남동구 30평대 아파트의 거래가 집중돼... ",
 			"pubDate":"Thu, 16 Feb 2023 09:51:00 +0900"
-		},
-		{
-			"title":"은마 24억→18억 &apos;뚝&apos;…노원·도봉·성북 &apos;9억 이하&apos; 거래로 쏠려",
-			"originallink":"https:\/\/www.news1.kr\/articles\/4955083",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006633930?sid=102",
-			"description":"인천도 서구 <b>청라<\/b>국제도시, 연수구 송도신도시, 남동구 30평대 아파트의 거래가 집중돼 해당 구간 거래 비중이 높았다. 다만 인천은 12억 초과 아파트의 거래가 1월에도 살아나지 못하는 모습이다. 한편 올해 1월... ",
-			"pubDate":"Thu, 16 Feb 2023 09:36:00 +0900"
 		}
 	]
 }
