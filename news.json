@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 16 Feb 2023 12:30:02 +0900",
-	"total":196319,
+	"lastBuildDate":"Thu, 16 Feb 2023 12:40:02 +0900",
+	"total":196320,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"거래량 되살아나나… 전월 수도권 아파트 거래 전월대비 36% 올라",
+			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=616911",
+			"link":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=616911",
+			"description":"경기는 재작년 최고가 대비 낙폭이 높았던 경기 화성 동탄신도시와 수원 영통구에서 3억원 초과~6억원 이하 매매가 활발했으며, 인천도 서구 <b>청라<\/b>국제도시, 연수구 송도신도시와 남동구에서 아파트 매매가 집중돼... ",
+			"pubDate":"Thu, 16 Feb 2023 12:30:00 +0900"
+		},
 		{
 			"title":"수도권 아파트 4개월 연속 거래 증가…1월 거래량 전월 대비 36%↑",
 			"originallink":"http:\/\/www.sisajournal.com\/news\/articleView.html?idxno=256556",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006633930?sid=102",
 			"description":"인천도 서구 <b>청라<\/b>국제도시, 연수구 송도신도시, 남동구 30평대 아파트의 거래가 집중돼 해당 구간 거래 비중이 높았다. 다만 인천은 12억 초과 아파트의 거래가 1월에도 살아나지 못하는 모습이다. 한편 올해 1월... ",
 			"pubDate":"Thu, 16 Feb 2023 09:36:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>국제도시․서울지하철 2호선 잇는 &apos;대장-홍대선&apos; 사업 추진 급물살",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=269498",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=269498",
-			"description":"[국토일보 하종숙 기자] 인천 서구 <b>청라<\/b>국제도시와 서울지하철 2호선을 잇는 &apos;대장홍대선&apos;이 2년 안에... 국토부가 제시한 <b>청라<\/b> 연장선은 <b>청라<\/b>국제도시와 가정·계양,작전, 부천 원종, 서울 화곡, 신도림·홍대입구를... ",
-			"pubDate":"Thu, 16 Feb 2023 09:04:00 +0900"
 		}
 	]
 }
