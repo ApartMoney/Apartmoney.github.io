@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 16 Feb 2023 11:10:03 +0900",
-	"total":196309,
+	"lastBuildDate":"Thu, 16 Feb 2023 11:20:02 +0900",
+	"total":196310,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"거래량 회복되나...1월 수도권 아파트 매매 전월 대비 36% 증가",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20230216102114077",
+			"link":"https:\/\/www.ajunews.com\/view\/20230216102114077",
+			"description":"경기는 2021년 최고가 대비 낙폭이 컸던 경기 화성 동탄신도시와 수원 영통구에서 3억 초과~6억원 이하 거래가 활발했으며, 인천도 서구 <b>청라<\/b>국제도시, 연수구 송도신도시, 남동구 30평대 아파트의 거래가 집중돼... ",
+			"pubDate":"Thu, 16 Feb 2023 11:10:00 +0900"
+		},
 		{
 			"title":"1월 수도권 아파트 매매량 36% 증가…중저가 거래 대다수",
 			"originallink":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=22176",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=414140&part_idx=170",
 			"description":"대구소방안전본부에 따르면 15일 오전 3시7분 대구 중구 남산동 <b>청라<\/b>언덕 네거리 인근 도로에서 승용차 대 오토바이 교통사고가 발생했다. 오토바이 운전자 A군이 심정지, 동승자 B군은 의식장애 등 크게 다쳐 병원으로... ",
 			"pubDate":"Wed, 15 Feb 2023 22:04:00 +0900"
-		},
-		{
-			"title":"인천 서구, 부설주차장 개방 지원 확대…최대 3000만원",
-			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017964648&code=61121111&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001587228?sid=102",
-			"description":"구는 지난해 신현교회, <b>청라<\/b>동 스퀘어세븐 등 2곳에 2500만원씩 지원했다. 구는 또 학교 부설주차장의 경우 별도 예산을 편성해 최대 1억원까지 지원할 방침이다. 예산이 초과되면 추가경정예산을 편성한다. 구 관계자는... ",
-			"pubDate":"Wed, 15 Feb 2023 21:54:00 +0900"
 		}
 	]
 }
