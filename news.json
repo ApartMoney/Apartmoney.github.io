@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 17 Feb 2023 09:20:02 +0900",
-	"total":196361,
+	"lastBuildDate":"Fri, 17 Feb 2023 09:30:02 +0900",
+	"total":196362,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"침체한 주택시장 꿈틀…수도권 아파트 매매거래 36%↑",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1567225\/?sc=Naver",
+			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1567225\/?sc=Naver",
+			"description":"인천도 서구 <b>청라<\/b>국제도시, 연수구 송도신도시, 남동구 30평대 아파트의 거래가 집중돼 해당 구간 거래 비중이 높았다. 다만 인천은 12억 초과 아파트의 거래가 지난달에도 살아나지 못하는 모습이다. 시장에서는... ",
+			"pubDate":"Fri, 17 Feb 2023 09:26:00 +0900"
+		},
 		{
 			"title":"인천, 전국동계체전 &apos;金&apos; 스타트",
 			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=202030",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001587450?sid=101",
 			"description":"인천은 <b>청라<\/b>국제도시, 송도신도시와 남동구 30평대 아파트 거래가 많았다. 12억원 초과 아파트 거래는 0%대로 1월에도 살아나지 못했다. 백 연구원은 “현재 급매 위주의 하향거래가 지속되고 있고 이자상환 부담... ",
 			"pubDate":"Thu, 16 Feb 2023 15:31:00 +0900"
-		},
-		{
-			"title":"대구 중구, 음식물류폐기물 절감 우수 공동주택 &apos;수수료 감면&apos;",
-			"originallink":"http:\/\/www.kbsm.net\/news\/view.php?idx=381553",
-			"link":"http:\/\/www.kbsm.net\/news\/view.php?idx=381553",
-			"description":"1단지, <b>청라<\/b>센트럴파크는 30%의 음식물류폐기물 처리 수수료를 감면받게 된다. 이번 사업을 통해 우수 공동주택으로 선정된 18개 아파트에서만 음식물류폐기물이 전년 대비 8%(81톤) 감량된 것으로 분석됐으며... ",
-			"pubDate":"Thu, 16 Feb 2023 15:16:00 +0900"
 		}
 	]
 }
