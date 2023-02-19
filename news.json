@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 19 Feb 2023 14:30:03 +0900",
-	"total":196451,
+	"lastBuildDate":"Sun, 19 Feb 2023 14:40:02 +0900",
+	"total":196452,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시 &apos;찾아가는 국가 암 이동 검진&apos; 운영",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=941423",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=941423",
+			"description":"검진 일정은 20일 청소보건지소, 21일 성주보건지소, 22일 웅천보건지소, 23일 주산보건지소, 24일 미산보건지소, 27일 <b>청라<\/b>보건지소, 28일 천북보건지소, 3월 2~3일 남포면 주민자치센터 순이다. 전경희 시 보건소장은... ",
+			"pubDate":"Sun, 19 Feb 2023 14:30:00 +0900"
+		},
 		{
 			"title":"BMW 연구·개발센터, 인천 <b>청라<\/b>국제도시로 확장·이전 본격화",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363579158",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003739115?sid=102",
 			"description":"BMW 연구개발센터, 인천 <b>청라<\/b>에 건립 예정 인천 <b>청라<\/b>국제도시에 BMW 연구개발 센터가 들어섭니다. 인천경제자유구역청은 BMW코리아와 한국토지주택공사가 인천시청에서 BMW R&amp;D 센터 건립을 위한 토지 임대차 계약을... ",
 			"pubDate":"Fri, 17 Feb 2023 16:47:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>국제도시 BMW R&amp;D 센터 건립 본격화",
-			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=168234",
-			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=168234",
-			"description":"인천경제자유구역(IFEZ) <b>청라<\/b>국제도시 내 BMW 연구 개발(R&amp;D) 센터 건립과 관련한 토지임대차 계약이... 독일 BMW의 자회사인 BMW코리아(주)는 이번 토지임대차 계약 체결을 통해 <b>청라<\/b> IHP(Incheon Hi-tech Park)... ",
-			"pubDate":"Fri, 17 Feb 2023 16:44:00 +0900"
 		}
 	]
 }
