@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 20 Feb 2023 17:50:02 +0900",
-	"total":196517,
+	"lastBuildDate":"Mon, 20 Feb 2023 18:00:02 +0900",
+	"total":196518,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘 인천] 2022년 2월21일",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1182706",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1182706",
+			"description":"인천에 경계경보&lt;86&gt; ▶이은별 벤쿠버 동계올림픽 인천 첫 메달&lt;2010&gt;▶인천시 하나금융그룹 <b>청라<\/b>경제구역 하나금융타운 조성 협약&lt;12&gt; ▶인천 코로나19 확진자 1만명 육박(9191명)하며 신규확진자 수 역대 최다기록&lt;22&gt;",
+			"pubDate":"Mon, 20 Feb 2023 17:52:00 +0900"
+		},
 		{
 			"title":"인천시설公, 중봉지하차도 점검",
 			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1182643",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.hellot.net\/news\/article.html?no=75290",
 			"description":"하포테크는 각기 다른 풀필먼트 창고에 보관된 상품을 <b>청라<\/b> 하포센터HQ에서 한 박스에 통합 포장 및 배송하는 과정을 수행하여 물류비 절감 효과를 입증했다. ‘클라우드 풀필먼트(Cloud Fulfilment)’는 온라인 리테일 기업의... ",
 			"pubDate":"Mon, 20 Feb 2023 11:16:00 +0900"
-		},
-		{
-			"title":"인천교통공사, BRT[7700번] 노선조정 및 좌석제 시행",
-			"originallink":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=957546",
-			"link":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=957546",
-			"description":"인천교통공사, BRT(7700번) 노선조정 인천교통공사(이하 공사)가 <b>청라<\/b>~강서 BRT노선(7700번) 이용 고객의 편의와 운영 효율을 향상시키고자 3월 20일부터 <b>청라<\/b>로봇타워~가양역(왕복50km)에서 <b>청라<\/b>BRT차고지~화곡역... ",
-			"pubDate":"Mon, 20 Feb 2023 11:14:00 +0900"
 		}
 	]
 }
