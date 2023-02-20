@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 20 Feb 2023 12:30:03 +0900",
-	"total":196495,
+	"lastBuildDate":"Mon, 20 Feb 2023 12:40:02 +0900",
+	"total":196496,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 강화갯벌 서식 두루미 63마리 확인…사상 최대",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0017977407&code=61121111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001588136?sid=102",
+			"description":"대대적인 간척사업이 추진되면서 절반은 수도권매립지로, 절반은 인천경제자유구역(<b>청라<\/b>국제도시)로 지정됐기 때문이다. 이후 절멸하다시피 한 인천의 두루미가 1990년대 강화도에서 1∼3마리가 보이기 시작하면서 뜻... ",
+			"pubDate":"Mon, 20 Feb 2023 12:34:00 +0900"
+		},
 		{
 			"title":"강화갯벌 멸종위기 종 ‘두루미’ 월동지 비중 높아",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160273923284617",
@@ -194,13 +201,6 @@
 			"pubDate":"Sun, 19 Feb 2023 19:34:00 +0900"
 		},
 		{
-			"title":"인천 서구 &apos;인구 60만명시대&apos; 초읽기",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230217010003511",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230217010003511",
-			"description":"2015년 3월 인구수 50만명을 돌파한 서구는 <b>청라<\/b>와 검단 신도시 개발의 영향으로 인구가 계속해서 증가하고... 서구청은 <b>청라<\/b>와 검단 등 신도시 개발로 증가하는 인구와 행정 수요에 대응한 조직 재설계, 인력 배치 방안... ",
-			"pubDate":"Sun, 19 Feb 2023 19:28:00 +0900"
-		},
-		{
 			"title":"BMW 연구개발센터 <b>청라<\/b>로 확장 이전",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202302191927279271",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004971330?sid=101",
@@ -208,11 +208,11 @@
 			"pubDate":"Sun, 19 Feb 2023 19:28:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b>에 BMW R&amp;D센터 건립…IFEZ, 토지 임대차 &apos;계약 체결&apos;",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1182575",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1182575",
-			"description":"(왼쪽부터 김진용 인천경제자유구역청장, 디터 스트로블 BMW R&amp;D 총괄본부장, 유정복 인천시장, 김연중 LH <b>청라<\/b>영종사업단장).\/사진제공=인천시 내년 인천 <b>청라<\/b>국제도시에 BMW 연구개발(R&amp;D) 센터가 들어선다.... ",
-			"pubDate":"Sun, 19 Feb 2023 19:18:00 +0900"
+			"title":"인천 서구 &apos;인구 60만명시대&apos; 초읽기",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230217010003511",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230217010003511",
+			"description":"2015년 3월 인구수 50만명을 돌파한 서구는 <b>청라<\/b>와 검단 신도시 개발의 영향으로 인구가 계속해서 증가하고... 서구청은 <b>청라<\/b>와 검단 등 신도시 개발로 증가하는 인구와 행정 수요에 대응한 조직 재설계, 인력 배치 방안... ",
+			"pubDate":"Sun, 19 Feb 2023 19:28:00 +0900"
 		}
 	]
 }
