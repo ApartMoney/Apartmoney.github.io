@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 21 Feb 2023 17:10:02 +0900",
-	"total":196582,
+	"lastBuildDate":"Tue, 21 Feb 2023 17:20:03 +0900",
+	"total":196583,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[OBS 뉴스오늘2] 수도권매립지 4자 협의체 재가동",
+			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1386950",
+			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1386950",
+			"description":"인천대로 공단고가교 잇는 3.05km 구간도 검토 [질문6] 경인고속도 전 구간 지하화?…교통 혼잡 우려 현재 지상 8차로, 지하 4차로·지상 2차로로 줄어 <b>청라<\/b> 주민 일부 &quot;차로 더 확장해야&quot; 주민 의견 갈리면 사업 지연 우려도... ",
+			"pubDate":"Tue, 21 Feb 2023 17:14:00 +0900"
+		},
 		{
 			"title":"수성못 야경보고 들안길 맛집 투어…대구 수성구청 &apos;수성투어버스&apos; 도입",
 			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2124775",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1664781",
 			"description":"또한 면단위하수처리장 설치사업으로 28억 원을 투입해 <b>청라<\/b>면 의평지구 면단위하수처리장 설치사업을 2026년 준공을 목표로 속도를 내고 있다. 아울러 한국중부발전의 공업용수로 일일 1만 톤을 공급할... ",
 			"pubDate":"Tue, 21 Feb 2023 13:16:00 +0900"
-		},
-		{
-			"title":"보령시, 공공하수처리장 하수관로 정비사업 등 추진",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2659015",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2659015",
-			"description":"또한 면단위하수처리장 설치사업으로 28억원을 투입해 <b>청라<\/b>면 의평지구 면단위하수처리장 설치사업을 2026년 준공을 목표로 박차를 가하고 있다. 한국중부발전 공업용수로 일일 1만톤을 공급할 예정인 보령... ",
-			"pubDate":"Tue, 21 Feb 2023 13:06:00 +0900"
 		}
 	]
 }
