@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 22 Feb 2023 09:00:02 +0900",
-	"total":196608,
+	"lastBuildDate":"Wed, 22 Feb 2023 09:10:02 +0900",
+	"total":196610,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 보령시",
+			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=926796",
+			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=926796",
+			"description":"박유경 ▲<b>청라<\/b>면 구민석 ◆8급 승진 ▲해수욕장경영과 김채원 ▲청소면 김양현 ▲<b>청라<\/b>면 황영은 ▲성주면 조재욱 ▲성주면 황정재 ◆8급 전보 ▲신속허가과 유혜정 ▲건설과 나경돈 ▲도로과 정영빈 ▲체육진흥과 최광선... ",
+			"pubDate":"Wed, 22 Feb 2023 09:04:00 +0900"
+		},
+		{
+			"title":"‘인천 작전 한라비발디’, 동호수 지정 선착순 계약 진행",
+			"originallink":"http:\/\/www.sentv.co.kr\/news\/view\/647052",
+			"link":"http:\/\/www.sentv.co.kr\/news\/view\/647052",
+			"description":"특히 작전역은 인천 서구 <b>청라<\/b>국제도시와 서울 지하철 2호선을 잇는 ‘대장홍대선’이 추진되고 있으며, 부평역에 들어설 ‘GTX-B노선’ 등 서울 접근성은 크게 향상될 전망이다.한편 ‘인천 작전 한라비발디’... ",
+			"pubDate":"Wed, 22 Feb 2023 09:00:00 +0900"
+		},
 		{
 			"title":"인천, 전국동계체전 종합10위 절반의 성공",
 			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=202277",
@@ -61,17 +75,17 @@
 			"pubDate":"Tue, 21 Feb 2023 21:18:00 +0900"
 		},
 		{
-			"title":"인천경제청, 유통식품 연중 수거 검사",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=387424",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=387424",
-			"description":"사진제공=인천경제청 인천경제자유구역청은 송도·영종·<b>청라<\/b>국제도시의 유통식품 안전성 확보를 위해 시민 다소비 식품 및 외국인 선호식품 등에 대해 연중 수거·검사를 실시한다고 21일 밝혔다. 올해는 특별 관리 식품... ",
-			"pubDate":"Tue, 21 Feb 2023 21:06:00 +0900"
-		},
-		{
 			"title":"인천 서구, <b>청라<\/b> &apos;미세먼지 차단 숲&apos; 산림청 우수사례 현장 방문",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=387422",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=387422",
 			"description":"산림청 산림보호국장, 인천시 녹지정책과장 등 관계자들이 <b>청라<\/b> 미세먼지 차단 도시 숲 조성 방향과... 조성한 <b>청라<\/b> 미세먼지 차단 숲 현장을 방문했다고 21일 전했다. 이날 현장 방문에는 산림청 산림보호국장, 인천시... ",
+			"pubDate":"Tue, 21 Feb 2023 21:06:00 +0900"
+		},
+		{
+			"title":"인천경제청, 유통식품 연중 수거 검사",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=387424",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=387424",
+			"description":"사진제공=인천경제청 인천경제자유구역청은 송도·영종·<b>청라<\/b>국제도시의 유통식품 안전성 확보를 위해 시민 다소비 식품 및 외국인 선호식품 등에 대해 연중 수거·검사를 실시한다고 21일 밝혔다. 올해는 특별 관리 식품... ",
 			"pubDate":"Tue, 21 Feb 2023 21:06:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=52021",
 			"description":"상봉역은 GTX-B 노선이 예정돼 있으며, 지하철 7호선 역시 인천 <b>청라<\/b>국제도시, 경기 포천까지 연장사업이 진행 중에 있어 추후 수도권 이동환경이 더욱 좋아질 것으로 기대되고 있습니다. 동부간선도로와 북부간선도로도... ",
 			"pubDate":"Tue, 21 Feb 2023 16:50:00 +0900"
-		},
-		{
-			"title":"고령화 시대 진입, 실버타운 분양 잇따라",
-			"originallink":"http:\/\/www.dailyimpact.co.kr\/news\/articleView.html?idxno=93228",
-			"link":"http:\/\/www.dailyimpact.co.kr\/news\/articleView.html?idxno=93228",
-			"description":"인천광역시 서구 <b>청라<\/b>동 일원에는 &apos;더시그넘하우스 <b>청라<\/b>&apos;가 오는 10월 완공될 예정이다. 단지는 지하 3층에서 지상 9층 총 138실 규모다. 단지는 스마트 워치를 이용한 건강관리 및 응급 대응 시스템을 구축할... ",
-			"pubDate":"Tue, 21 Feb 2023 16:44:00 +0900"
-		},
-		{
-			"title":"보령시, 올해 12개 사업에 270억원 투입해 하수도 기반 시설 확충",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20230221163227116",
-			"link":"https:\/\/www.ajunews.com\/view\/20230221163227116",
-			"description":"또한 면단위하수처리장 설치사업으로 28억 원을 투입해 <b>청라<\/b>면 의평지구 면단위하수처리장 설치사업을 2026년 준공을 목표로 박차를 가하고 있다. 아울러 한국중부발전의 공업용수로 일일 1만 톤을 공급할 예정인... ",
-			"pubDate":"Tue, 21 Feb 2023 16:38:00 +0900"
 		}
 	]
 }
