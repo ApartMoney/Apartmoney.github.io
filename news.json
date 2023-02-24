@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 24 Feb 2023 11:20:02 +0900",
-	"total":195970,
+	"lastBuildDate":"Fri, 24 Feb 2023 11:30:02 +0900",
+	"total":195971,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시, 국도 36호 구간에 감응신호시스템…대기신호 줄여",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230224066800063?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013777244?sid=102",
+			"description":"충남 보령시는 도심지를 제외한 국도 36호 <b>청라<\/b>∼대천해수욕장 구간에 불필요한 신호대기 시간을 줄이기 위한 감응 신호 시스템을 설치해 본격 운영에 들어갔다고 24일 밝혔다. 시는 국비 9억9천만원을 포함한... ",
+			"pubDate":"Fri, 24 Feb 2023 11:22:00 +0900"
+		},
 		{
 			"title":"서구, 올해 공영주차장 5곳 조성... 루원 2곳, 검단 1곳, <b>청라<\/b> 1곳",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93886",
@@ -173,17 +180,17 @@
 			"pubDate":"Fri, 24 Feb 2023 05:04:00 +0900"
 		},
 		{
-			"title":"판교 압도한 송도·<b>청라<\/b>·영종… “일과 삶, 경쟁력 갖춘 도시로”",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20230224017002&wlog_tag3=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003341706?sid=102",
-			"description":"송도·<b>청라<\/b>·영종 등 인천경제자유구역(IFEZ)이 전년 대비 입주 사업체와 매출액 증가, 외국인 투자... 지구별 사업체 수는 송도국제도시 2169개사, 영종국제도시 706개사, <b>청라<\/b>국제도시 606개사가 입주했다. 종사자... ",
-			"pubDate":"Fri, 24 Feb 2023 05:04:00 +0900"
-		},
-		{
 			"title":"외국인 투자 유치를 위한 ‘특별경제구역’",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20230224017001&wlog_tag3=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003341705?sid=102",
 			"description":"송도·<b>청라<\/b>·영종국제도시 등 3곳으로 이뤄진 인천경제자유구역에 입주한 기업은 조세 감면이나 규제 완화, 행정지원 등 여러 가지 혜택을 받는다. 인천국제공항이 주변에 있고 최첨단 항만 인프라를 갖춰 효율성 높은... ",
+			"pubDate":"Fri, 24 Feb 2023 05:04:00 +0900"
+		},
+		{
+			"title":"판교 압도한 송도·<b>청라<\/b>·영종… “일과 삶, 경쟁력 갖춘 도시로”",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20230224017002&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003341706?sid=102",
+			"description":"송도·<b>청라<\/b>·영종 등 인천경제자유구역(IFEZ)이 전년 대비 입주 사업체와 매출액 증가, 외국인 투자... 지구별 사업체 수는 송도국제도시 2169개사, 영종국제도시 706개사, <b>청라<\/b>국제도시 606개사가 입주했다. 종사자... ",
 			"pubDate":"Fri, 24 Feb 2023 05:04:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1018285",
 			"description":"5만 원, <b>청라<\/b>큰사랑약국 5만 원, 아이비모텔 5만 원, 서울정형외과의원 5만 원, 송성철 5만 원, 디한의원 5만 원, 튼튼드림약국 5만 원, 요셉마디의원 5만 원, 청담맥의원 5만 원, 오봉운치과의원 5만 원, 천산교회 5만 원.",
 			"pubDate":"Thu, 23 Feb 2023 21:06:00 +0900"
-		},
-		{
-			"title":"인천시립예술단의 2023 찾아가는 공연 스타트",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=387808",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=387808",
-			"description":"주안지하상가와 <b>청라<\/b>호수공원, 연안부두 해안광장 등 다수의 시민들과 직접적으로 만날 수 있는 야외무대를 확대 운영하고 송도에 자리잡은 인천글로벌캠퍼스와 UN산하기구 등에도 찾아가 국적과 언어를 초월한 감동을... ",
-			"pubDate":"Thu, 23 Feb 2023 20:46:00 +0900"
 		}
 	]
 }
