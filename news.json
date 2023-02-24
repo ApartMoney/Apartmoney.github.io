@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 24 Feb 2023 15:50:02 +0900",
-	"total":196719,
+	"lastBuildDate":"Fri, 24 Feb 2023 16:00:03 +0900",
+	"total":196720,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 올해 루원시티 등 공영주차장 5곳 조성 마무리",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230224_0002205464&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011710274?sid=102",
+			"description":"<b>청라<\/b>3동 행정복지센터 인근 <b>청라<\/b>동 92-16번지에도 예산 29억원을 들여 50면 규모의 지평식 주차장을 계획 중이다. 7월 부지매입을 시작으로 10월 준공할 예정이다. 아울러 서구는 올해 &apos;주차장 수급실태 조사&apos;를 통해... ",
+			"pubDate":"Fri, 24 Feb 2023 15:54:00 +0900"
+		},
 		{
 			"title":"‘영종 주민 공청회’ 기대 저버려",
 			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230224000500",
@@ -138,17 +145,17 @@
 			"pubDate":"Fri, 24 Feb 2023 10:56:00 +0900"
 		},
 		{
-			"title":"인천 서구, 올해 공영주차장 5곳 건설··· 520면 확보",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=227200",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=227200",
-			"description":"<b>청라<\/b>3동 행정복지센터 인근 <b>청라<\/b>동 92-16번지에는 예산 29억원을 들여 50면 규모의 지평식 주차장을 계획 중으로 오는 7월 토지 매입을 시작으로 10월 준공할 예정이다. 구는 올해 &apos;주차장 수급실태 조사&apos;를 진행해... ",
-			"pubDate":"Fri, 24 Feb 2023 10:48:00 +0900"
-		},
-		{
 			"title":"보령시, 국도 36호 감응신호 시스템 운영으로 불필요한 신호대기 &apos;이제 그만&apos;",
 			"originallink":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=703842",
 			"link":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=703842",
 			"description":"보령시, 국도36호 <b>청라<\/b>~대천해수욕장 구간 감응신호 시스템 운영 충남 보령시가 도심지를 제외한 국도 36호 <b>청라<\/b>~대천해수욕장 구간에 불필요한 신호대기 시간을 줄이기 위해 설치한 감응신호 시스템이 본격 운영에... ",
+			"pubDate":"Fri, 24 Feb 2023 10:48:00 +0900"
+		},
+		{
+			"title":"인천 서구, 올해 공영주차장 5곳 건설··· 520면 확보",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=227200",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=227200",
+			"description":"<b>청라<\/b>3동 행정복지센터 인근 <b>청라<\/b>동 92-16번지에는 예산 29억원을 들여 50면 규모의 지평식 주차장을 계획 중으로 오는 7월 토지 매입을 시작으로 10월 준공할 예정이다. 구는 올해 &apos;주차장 수급실태 조사&apos;를 진행해... ",
 			"pubDate":"Fri, 24 Feb 2023 10:48:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=962572",
 			"description":"신개념 소고기 왕창 프리미엄 피자인 먼투썬피자가 1호점 인천<b>청라<\/b>점 오픈에 이어 24일 2호점인... 인천<b>청라<\/b>점을 시작으로 2호점 목동 파리공원점이 2월 24일 오픈에이어 양천향교점, 부평 삼산점, 동탄 영천점 등이... ",
 			"pubDate":"Fri, 24 Feb 2023 09:46:00 +0900"
-		},
-		{
-			"title":"보령시, 불필요한 신호대기 &apos;이제 그만&apos;",
-			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=286328",
-			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=286328",
-			"description":"충남  보령시가 도심지를 제외한 국도 36호 <b>청라<\/b>~대천해수욕장 구간에 불필요한 신호대기 시간을 줄이기 위해 설치한 감응신호 시스템이 본격 운영에 돌입했다. 감응신호 시스템 위치도 시는 국비 9억9000만 원을 포함해... ",
-			"pubDate":"Fri, 24 Feb 2023 09:44:00 +0900"
 		}
 	]
 }
