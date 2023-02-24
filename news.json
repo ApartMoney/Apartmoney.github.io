@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 24 Feb 2023 16:00:03 +0900",
-	"total":196720,
+	"lastBuildDate":"Fri, 24 Feb 2023 16:10:02 +0900",
+	"total":196721,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"당신의 일상으로 인천시립예술단이 찾아갑니다",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202302241314086490748",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202302241314086490748",
+			"description":"주안 지하상가와 <b>청라<\/b>호수공원, 연안부두 해안광장 등 다 수의 시민들과 직접적으로 만날 수 있는 야외무대를 확대 운영하고 송도에 자리 잡은 인천글로벌캠퍼스와 UN 산하 기구 등에도 찾아가 국적과 언어를 초월한... ",
+			"pubDate":"Fri, 24 Feb 2023 16:02:00 +0900"
+		},
 		{
 			"title":"인천 서구, 올해 루원시티 등 공영주차장 5곳 조성 마무리",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230224_0002205464&cID=14001&pID=14000",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=237899",
 			"description":"견본주택은 인천 서구 <b>청라<\/b>동 일대에 구성되며 3월 10일 오픈 예정이다. 견본주택 개관 후 3일간 선착순 사은품을 증정하며 방문자를 대상으로 벤츠E클래스 등 추첨을 통해 다양한 경품 이벤트를 진행한다.",
 			"pubDate":"Fri, 24 Feb 2023 10:00:00 +0900"
-		},
-		{
-			"title":"먼투썬 피자, 목동파리공원점 오픈",
-			"originallink":"http:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=962572",
-			"link":"http:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=962572",
-			"description":"신개념 소고기 왕창 프리미엄 피자인 먼투썬피자가 1호점 인천<b>청라<\/b>점 오픈에 이어 24일 2호점인... 인천<b>청라<\/b>점을 시작으로 2호점 목동 파리공원점이 2월 24일 오픈에이어 양천향교점, 부평 삼산점, 동탄 영천점 등이... ",
-			"pubDate":"Fri, 24 Feb 2023 09:46:00 +0900"
 		}
 	]
 }
