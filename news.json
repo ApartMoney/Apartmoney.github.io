@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 26 Feb 2023 09:40:03 +0900",
-	"total":196761,
+	"lastBuildDate":"Sun, 26 Feb 2023 09:50:02 +0900",
+	"total":196762,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 10월부터 영종대교 상부도로도 통행료 지원",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1666799",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1666799",
+			"description":"상부도로 통행료가 지원되면 그동안 통행료를 지원받기 위해 영종대교 하부도로(북인천영업소)와 <b>청라<\/b>나들목(IC)을 번갈아 이용해야 했던 불편이 사라지게 된다. 또, <b>청라<\/b>나들목(IC) 진출입을 위한 차량으로 인해... ",
+			"pubDate":"Sun, 26 Feb 2023 09:44:00 +0900"
+		},
 		{
 			"title":"인천 서구의회 도시철도 7호선 <b>청라<\/b> 연장사업 공사현장 방문",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20230226010007568",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002108962?sid=102",
 			"description":"상부도로 통행료가 지원되면, 그동안 통행료를 지원받기 위해 영종대교 하부도로(북인천영업소)와 <b>청라<\/b>나들목(IC)을 번갈아 이용해야 했던 불편이 사라지게 된다. 인천시는 상부도로 통행료 지원과 함께 전국 최초로... ",
 			"pubDate":"Fri, 24 Feb 2023 17:57:00 +0900"
-		},
-		{
-			"title":"인천시, &apos;서울7호선 연장 차량기지 증설공사 설계 용역&apos; 발주",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93902",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=93902",
-			"description":"서울 7호선 <b>청라<\/b>선(석남~<b>청라<\/b>)과 포천선(도봉산~옥천~포천) 연장 건설에 따라 증가하는 전동차 정비수요를 감당하기 위해 천왕차량기지(경기 광명시 옥길동)와 도봉차량기지(경기 의정부시 장암동)를 확장하기 위한... ",
-			"pubDate":"Fri, 24 Feb 2023 17:56:00 +0900"
 		}
 	]
 }
