@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 27 Feb 2023 00:30:02 +0900",
-	"total":196791,
+	"lastBuildDate":"Mon, 27 Feb 2023 00:40:03 +0900",
+	"total":196792,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 10월부터 &apos;영종대교 상부도로도 통행료&apos; 지원",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=533333",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=533333",
+			"description":"상부도로 통행료가 지원되면 그동안 통행료를 지원받기 위해 영종대교 하부도로(북인천영업소)와 <b>청라<\/b>나들목(IC)을 번갈아 이용해야 했던 불편이 사라지게 된다. 또 <b>청라<\/b>나들목(IC) 진출입을 위한 차량으로 인해... ",
+			"pubDate":"Mon, 27 Feb 2023 00:38:00 +0900"
+		},
 		{
 			"title":"인천시립예술단 &apos;찾아가는 공연&apos; 시작",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230226010005054",
@@ -33,17 +40,17 @@
 			"pubDate":"Sun, 26 Feb 2023 18:46:00 +0900"
 		},
 		{
-			"title":"인천아카데미 &apos;걷고 싶은 거리&apos; 구축 방안 제안",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1018524",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1018524",
-			"description":"박 교수는 연수구 송도지구와 서구 <b>청라<\/b>지구를 연결하는 중구 개항장 주변이 관광객과 인천시민의 쾌적한 산책길이 되려면 지정학 이점을 충분히 활용하는 거시 도시구조를 개편할 필요성이 있다고 강조했다. 박 교수는... ",
-			"pubDate":"Sun, 26 Feb 2023 18:30:00 +0900"
-		},
-		{
 			"title":"인천시 영종대교 상부도로도 통행료 지원",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1018609",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1018609",
 			"description":"이렇게 되면 그동안 통행료를 지원받으려고 주민들이 영종대교 하부도로(북인천영업소)와 <b>청라<\/b>나들목을 번갈아 이용해야 했던 불편이 사라지고, <b>청라<\/b>나들목 진출입 차량이 많아 유발됐던 교통체증도 일부 해소되리라... ",
+			"pubDate":"Sun, 26 Feb 2023 18:30:00 +0900"
+		},
+		{
+			"title":"인천아카데미 &apos;걷고 싶은 거리&apos; 구축 방안 제안",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1018524",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1018524",
+			"description":"박 교수는 연수구 송도지구와 서구 <b>청라<\/b>지구를 연결하는 중구 개항장 주변이 관광객과 인천시민의 쾌적한 산책길이 되려면 지정학 이점을 충분히 활용하는 거시 도시구조를 개편할 필요성이 있다고 강조했다. 박 교수는... ",
 			"pubDate":"Sun, 26 Feb 2023 18:30:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160295956427601",
 			"description":"이와 함께 <b>청라<\/b>3동행정복지센터 인근 <b>청라<\/b>동 92-16번지에도 예산 29억원을 들여 50면 규모의 지평식 주차장이 계획돼 올해 7월 부지매입을 시작으로 10월 준공할 예정이다. 아울러 구는 올해 &apos;주차장 수급실태 조사&apos;를... ",
 			"pubDate":"Sun, 26 Feb 2023 10:06:00 +0900"
-		},
-		{
-			"title":"인천시, 10월부터 영종대교 상부도로도 통행료 지원",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1666799",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1666799",
-			"description":"상부도로 통행료가 지원되면 그동안 통행료를 지원받기 위해 영종대교 하부도로(북인천영업소)와 <b>청라<\/b>나들목(IC)을 번갈아 이용해야 했던 불편이 사라지게 된다. 또, <b>청라<\/b>나들목(IC) 진출입을 위한 차량으로 인해... ",
-			"pubDate":"Sun, 26 Feb 2023 09:44:00 +0900"
 		}
 	]
 }
