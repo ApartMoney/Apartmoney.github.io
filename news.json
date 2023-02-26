@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 26 Feb 2023 16:30:02 +0900",
-	"total":196781,
+	"lastBuildDate":"Sun, 26 Feb 2023 16:40:02 +0900",
+	"total":196782,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시립예술단, 2023 공연 시작",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1183484",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1183484",
+			"description":"올해는 주안지하상가와 <b>청라<\/b>호수공원, 연안부두 해안광장 등 다중 시설과 야외무대로 무대를 넓히고, 송도국제도시의 인천글로벌캠퍼스와 UN산하기구 등도 간다. 또 미추홀소방서, 근로복지공단 인천병원과 백령도... ",
+			"pubDate":"Sun, 26 Feb 2023 16:36:00 +0900"
+		},
 		{
 			"title":"인천시 연수구, 송도국제도시 도로조명 정비 시행",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281826233728",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=447577",
 			"description":"상부도로 통행료가 지원되면 그동안 통행료를 지원받기 위해 영종대교 하부도로(북인천영업소)와 <b>청라<\/b>나들목(IC)을 번갈아 이용해야 했던 불편이 사라지게 된다. 또 <b>청라<\/b>나들목(IC) 진출입을 위한 차량으로 인해... ",
 			"pubDate":"Sat, 25 Feb 2023 08:56:00 +0900"
-		},
-		{
-			"title":"보령시, <b>청라<\/b>~대천해수욕장 불필요한 신호대기 줄인다",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230224_0002205094&cID=10807&pID=10800",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011710734?sid=102",
-			"description":"기사내용 요약 14개 교차로에 감응신호시스템 본격 운영 충남 보령시가 도심지를 제외한 국도 36호 <b>청라<\/b>~대천해수욕장 구간에서 불필요한 신호대기 시간을 대폭 줄인다. 25일 시에 따르면 국비 9억 9000만원 등 11억... ",
-			"pubDate":"Sat, 25 Feb 2023 07:30:00 +0900"
 		}
 	]
 }
