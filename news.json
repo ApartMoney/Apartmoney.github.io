@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 27 Feb 2023 12:00:02 +0900",
-	"total":196820,
+	"lastBuildDate":"Mon, 27 Feb 2023 12:10:02 +0900",
+	"total":196821,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 서구, 도시개발 대응 위해 관리체계 개선",
+			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1387740",
+			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1387740",
+			"description":"현재 서구에선 <b>청라<\/b>와 검단, 루원, 가정, 검암 등 5개 구역에서 총사업비 20조원 규모의 도시개발이 추진되면서 관련 민원이 끊이질 않지만 구청 담당부서와 사업시행자 간 협조가 원활히 진행되지 못했습니다. 때문에... ",
+			"pubDate":"Mon, 27 Feb 2023 12:02:00 +0900"
+		},
 		{
 			"title":"인천 구월동 로데오거리 상가 보증금·임대료 &apos;최고&apos;",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=227235",
@@ -19,17 +26,17 @@
 			"pubDate":"Mon, 27 Feb 2023 11:52:00 +0900"
 		},
 		{
-			"title":"보령시, 올해 34억 원 투입 영농자재 지원",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230227010015125",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230227010015125",
-			"description":"토양개량제 지원사업은 3년 1주기로 전체 농경지에 공급하고 있으며 올해 주포면, 주교면, 오천면, 천북면, 청소면, <b>청라<\/b>면을 대상으로 공동 살포단을 통해 토양개량제 7020톤을 영농기 이전에 공동살포 할 계획이다.... ",
-			"pubDate":"Mon, 27 Feb 2023 11:42:00 +0900"
-		},
-		{
 			"title":"보령시, 깨끗한 수돗물 공급 &apos;상수도 기반 시설 확충&apos; 속도 올린다",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230227010015107",
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230227010015107",
 			"description":"이 밖에도 미산면 등 2개 지역 농어촌 지방상수도 시설사업에 185억 원, 성주·<b>청라<\/b> 노후 상수 관망 정비사업에 19억 원, 소규모 수도시설 개량사업으로 14개 마을에 13억 원 등을 투입해 농어촌 지역의 상수도 공급... ",
+			"pubDate":"Mon, 27 Feb 2023 11:42:00 +0900"
+		},
+		{
+			"title":"보령시, 올해 34억 원 투입 영농자재 지원",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230227010015125",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230227010015125",
+			"description":"토양개량제 지원사업은 3년 1주기로 전체 농경지에 공급하고 있으며 올해 주포면, 주교면, 오천면, 천북면, 청소면, <b>청라<\/b>면을 대상으로 공동 살포단을 통해 토양개량제 7020톤을 영농기 이전에 공동살포 할 계획이다.... ",
 			"pubDate":"Mon, 27 Feb 2023 11:42:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=533333",
 			"description":"상부도로 통행료가 지원되면 그동안 통행료를 지원받기 위해 영종대교 하부도로(북인천영업소)와 <b>청라<\/b>나들목(IC)을 번갈아 이용해야 했던 불편이 사라지게 된다. 또 <b>청라<\/b>나들목(IC) 진출입을 위한 차량으로 인해... ",
 			"pubDate":"Mon, 27 Feb 2023 00:38:00 +0900"
-		},
-		{
-			"title":"인천시립예술단 &apos;찾아가는 공연&apos; 시작",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230226010005054",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230226010005054",
-			"description":"놓인 시민을 위해 도서(섬) 지역, 사회복지시설과 학교, 군부대 등에서 꾸준히 찾아가는 공연을 펼쳤다. 올해에는 주안지하상가와 <b>청라<\/b>호수공원, 연안부두 해안광장 등 54차례에 걸쳐 많은 시민과 직접 대면할 계획이다.",
-			"pubDate":"Sun, 26 Feb 2023 21:02:00 +0900"
 		}
 	]
 }
