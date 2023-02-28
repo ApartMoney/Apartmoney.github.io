@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 28 Feb 2023 14:00:03 +0900",
-	"total":196866,
+	"lastBuildDate":"Tue, 28 Feb 2023 14:10:02 +0900",
+	"total":196867,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구 중구서 3.1만세운동 재현행사",
+			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20230228010003715",
+			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20230228010003715",
+			"description":"대구 중구청은 대구지역 3.1만세운동이 일어난 장소인 <b>청라<\/b>언덕과 만세운동길에서 학생·지역주민·공무원 등 1천여명이 모여 3.1만세운동의 참 뜻을 되새기고자 &apos;3.1만세운동 재현행사&apos;를 연다.제104주년 3.1절을... ",
+			"pubDate":"Tue, 28 Feb 2023 14:00:00 +0900"
+		},
 		{
 			"title":"보령 원산도에 깨끗한 수돗물 공급된다",
 			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2023022713484567504?utm_source=naver&utm_medium=search",
@@ -103,17 +110,17 @@
 			"pubDate":"Mon, 27 Feb 2023 20:18:00 +0900"
 		},
 		{
-			"title":"보령시 농가 경영안정 영농자재 지원",
-			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=741262",
-			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=741262",
-			"description":"토양개량제 지원사업은 3년 1주기로 전체 농경지에 공급하고 있으며, 올해 주포면, 주교면, 오천면, 천북면, 청소면, <b>청라<\/b>면을 대상으로 공동 살포단을 통해 토양개량제 7020톤을 영농기 이전에 공동살포 할 계획이다.... ",
-			"pubDate":"Mon, 27 Feb 2023 20:16:00 +0900"
-		},
-		{
 			"title":"보령시 상수도 기반시설 확충 `가속도&apos;",
 			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=741260",
 			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=741260",
 			"description":"이 밖에도 미산면 등 2개 지역 농어촌 지방상수도 시설사업에 185억원, 성주·<b>청라<\/b> 노후 상수 관망 정비사업에 19억원, 소규모 수도시설 개량사업으로 14개 마을에 13억원 등을 투입해 농어촌 지역의 상수도 공급 확대에도... ",
+			"pubDate":"Mon, 27 Feb 2023 20:16:00 +0900"
+		},
+		{
+			"title":"보령시 농가 경영안정 영농자재 지원",
+			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=741262",
+			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=741262",
+			"description":"토양개량제 지원사업은 3년 1주기로 전체 농경지에 공급하고 있으며, 올해 주포면, 주교면, 오천면, 천북면, 청소면, <b>청라<\/b>면을 대상으로 공동 살포단을 통해 토양개량제 7020톤을 영농기 이전에 공동살포 할 계획이다.... ",
 			"pubDate":"Mon, 27 Feb 2023 20:16:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=900325",
 			"description":"이 밖에도 미산면 등 2개 지역 농어촌 지방상수도 시설사업에 185억원, 성주·<b>청라<\/b> 노후 상수 관망 정비사업에 19억원, 소규모 수도시설 개량사업으로 14개 마을에 13억원 등을 투입해 농어촌 지역의 상수도 공급... ",
 			"pubDate":"Mon, 27 Feb 2023 16:18:00 +0900"
-		},
-		{
-			"title":"[SR건설부동산] 국토부, 대심도 지하고속도로 자문위원회 구성",
-			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=130730",
-			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=130730",
-			"description":"경인고속도로 (<b>청라<\/b>~신월 구간) 지하화 사업 조감도. ⓒ인천광역시청 - 지반, 터널, 심리ㆍ정신 등 총 6개 분야 42명 전문가 구성 - 제도 개정안 등 검토 사항에 자문 역할 담당 국토교통부는 경인, 경부 등 대심도... ",
-			"pubDate":"Mon, 27 Feb 2023 16:12:00 +0900"
 		}
 	]
 }
