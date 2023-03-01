@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 01 Mar 2023 14:50:03 +0900",
-	"total":196913,
+	"lastBuildDate":"Wed, 01 Mar 2023 15:00:02 +0900",
+	"total":196914,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"김건이 디자이너, 섬유업체 알앤디와 함께 직물과 패션의 만남전",
+			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20230301010000098",
+			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20230301010000098",
+			"description":"재해석한 디지털프린팅 작업으로 주목받기도 했다. 또 <b>청라<\/b>언덕, 3·1 운동길, 계산성당, 종로 진골목 등 대구의 근대 문화유산 이미지를 콜라주 기법을 활용하여 텍스타일 파일로 디자인한 작업도 진행해 각광을 받았다.",
+			"pubDate":"Wed, 01 Mar 2023 14:58:00 +0900"
+		},
 		{
 			"title":"&apos;돌싱글즈3&apos; 한정민, 이별 극복은 운동으로? 이소라와 교류 활발",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2664512",
@@ -20,6 +27,27 @@
 		},
 		{
 			"title":"3.1만세운동길 따라 울려퍼지는 만세삼창",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859824",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658395?sid=102",
+			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동길을 따라 행진하며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
+			"pubDate":"Wed, 01 Mar 2023 12:05:00 +0900"
+		},
+		{
+			"title":"3.1만세운동길 따라 울려퍼지는 만세삼창",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859822",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658394?sid=102",
+			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동길을 따라 행진하며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
+			"pubDate":"Wed, 01 Mar 2023 12:05:00 +0900"
+		},
+		{
+			"title":"다 함께 외쳐라 &quot;대한독립 만세&quot;",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859819",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658391?sid=102",
+			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에서 3.1만세운동을 주제로 한 뮤지컬 공연이 열리고 있다. 2023.3.1\/뉴스1",
+			"pubDate":"Wed, 01 Mar 2023 12:05:00 +0900"
+		},
+		{
+			"title":"3.1만세운동길 따라 울려퍼지는 만세삼창",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859825",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658396?sid=102",
 			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동길을 따라 행진하며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
@@ -33,20 +61,6 @@
 			"pubDate":"Wed, 01 Mar 2023 12:05:00 +0900"
 		},
 		{
-			"title":"3.1만세운동길 따라 울려퍼지는 만세삼창",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859822",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658394?sid=102",
-			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동길을 따라 행진하며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
-			"pubDate":"Wed, 01 Mar 2023 12:05:00 +0900"
-		},
-		{
-			"title":"3.1만세운동길 따라 울려퍼지는 만세삼창",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859824",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658395?sid=102",
-			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동길을 따라 행진하며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
-			"pubDate":"Wed, 01 Mar 2023 12:05:00 +0900"
-		},
-		{
 			"title":"대구 중구 &apos;3.1만세운동 재현&apos;",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859821",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658393?sid=102",
@@ -54,24 +68,17 @@
 			"pubDate":"Wed, 01 Mar 2023 12:05:00 +0900"
 		},
 		{
-			"title":"다 함께 외쳐라 &quot;대한독립 만세&quot;",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859819",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658391?sid=102",
-			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에서 3.1만세운동을 주제로 한 뮤지컬 공연이 열리고 있다. 2023.3.1\/뉴스1",
-			"pubDate":"Wed, 01 Mar 2023 12:05:00 +0900"
+			"title":"3.1만세운동길 따라 울려퍼지는 만세삼창",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859818",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658390?sid=102",
+			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동길을 따라 행진하며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
+			"pubDate":"Wed, 01 Mar 2023 12:04:00 +0900"
 		},
 		{
 			"title":"목청껏 불러보자 &quot;대한독립 만세&quot;",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859815",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658388?sid=102",
 			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에서 3.1만세운동을 주제로 한 뮤지컬 공연이 열리고 있다. 2023.3.1\/뉴스1",
-			"pubDate":"Wed, 01 Mar 2023 12:04:00 +0900"
-		},
-		{
-			"title":"3.1만세운동길 따라 울려퍼지는 만세삼창",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859818",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658390?sid=102",
-			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동길을 따라 행진하며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
 			"pubDate":"Wed, 01 Mar 2023 12:04:00 +0900"
 		},
 		{
@@ -103,6 +110,13 @@
 			"pubDate":"Wed, 01 Mar 2023 11:22:00 +0900"
 		},
 		{
+			"title":"대구 3.1만세운동길 따라 만세삼창",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859770",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658307?sid=102",
+			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동길을 따라 행진하며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
+			"pubDate":"Wed, 01 Mar 2023 11:21:00 +0900"
+		},
+		{
 			"title":"다 함께 만세삼창",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859773",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658309?sid=102",
@@ -117,13 +131,6 @@
 			"pubDate":"Wed, 01 Mar 2023 11:21:00 +0900"
 		},
 		{
-			"title":"대구 3.1만세운동길 따라 만세삼창",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859770",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658307?sid=102",
-			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동길을 따라 행진하며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
-			"pubDate":"Wed, 01 Mar 2023 11:21:00 +0900"
-		},
-		{
 			"title":"대구 도심에 울려퍼지는 만세삼창",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859771",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658306?sid=102",
@@ -132,8 +139,8 @@
 		},
 		{
 			"title":"&apos;그날의 함성을 다시 한번&apos;",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859766",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658303?sid=102",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859765",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658302?sid=102",
 			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동의 숭고한 뜻을 되새기며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
 			"pubDate":"Wed, 01 Mar 2023 11:20:00 +0900"
 		},
@@ -145,17 +152,17 @@
 			"pubDate":"Wed, 01 Mar 2023 11:20:00 +0900"
 		},
 		{
+			"title":"&apos;그날의 함성을 다시 한번&apos;",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859766",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658303?sid=102",
+			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동의 숭고한 뜻을 되새기며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
+			"pubDate":"Wed, 01 Mar 2023 11:20:00 +0900"
+		},
+		{
 			"title":"다 함께 만세삼창",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859768",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658304?sid=102",
 			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동길을 따라 행진하며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
-			"pubDate":"Wed, 01 Mar 2023 11:20:00 +0900"
-		},
-		{
-			"title":"&apos;그날의 함성을 다시 한번&apos;",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859765",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658302?sid=102",
-			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동의 숭고한 뜻을 되새기며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
 			"pubDate":"Wed, 01 Mar 2023 11:20:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003788057?sid=101",
 			"description":"포항점, 성서점, 창원점, 반림점, 남양점, 사파점, 옥동점, 남악점, 서대문점, 양산점, 봉담점, <b>청라<\/b>점 한우 한 마리 행사(농협유통 8개 매장) 양재점, 전주점, 대치점, 성내점, 용인점, 대전점, 청주점, 부산점 이다.",
 			"pubDate":"Wed, 01 Mar 2023 01:03:00 +0900"
-		},
-		{
-			"title":"[인사] 계명문화대 外",
-			"originallink":"https:\/\/www.joongang.co.kr\/article\/25143884",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003262795?sid=102",
-			"description":"성창훈 ◆인천환경공단 ▶경영본부장 백완근 ▶자원순환본부장 정지열 ▶안전감사실장 김만기 ▶가좌사업소장 정지열 ▶승기사업소장 정서구 ▶공촌사업소장 이종민 ▶운북사업소장 이호익 ▶<b>청라<\/b>사업소장 이재충",
-			"pubDate":"Wed, 01 Mar 2023 00:01:00 +0900"
 		}
 	]
 }
