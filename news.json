@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 03 Mar 2023 08:40:03 +0900",
-	"total":196970,
+	"lastBuildDate":"Fri, 03 Mar 2023 08:50:02 +0900",
+	"total":196971,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서 만취 음주운전 30대, 버스정류장 돌진…병원 치료",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20230303500015&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003343430?sid=102",
+			"description":"3일 인천 서부경찰서에 따르면 전날 오후 11시 35분쯤 인천 서구 <b>청라<\/b>동 한 도로에서 30대 A씨가 몰던 승용차가 도로 중앙의 버스 정류장 시설물을 들이받았다. 이 사고로 A씨가 머리 등을 다쳐 119구급대에 의해 병원으로... ",
+			"pubDate":"Fri, 03 Mar 2023 08:48:00 +0900"
+		},
 		{
 			"title":"만취 30대, 승용차로 버스정류장 충돌 부상",
 			"originallink":"https:\/\/www.news1.kr\/articles\/4969662",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004816447?sid=101",
 			"description":"검단신도시 내 계획된 종합의료시설 부지도 가깝다. 검단신도시 금강펜테리움 3차 센트럴파크의 견본주택은 인천 서구 <b>청라<\/b>동 일대에 구성되며 3월 오픈 예정이다. 한경닷컴 뉴스룸",
 			"pubDate":"Thu, 02 Mar 2023 16:41:00 +0900"
-		},
-		{
-			"title":"[<b>청라<\/b>언덕] 인구 감소는 축복이 아니다",
-			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2023022815114206074",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000801383?sid=110",
-			"description":"&apos;세계 인구 1위=중국&apos;이란 공식이 깨지고 있다. 유엔은 지난해 발표한 &apos;세계 인구 전망&apos;에서 올해 4월 인도 인구가 14억2천577만5천850명을 기록, 중국을 추월할 거라고 예측했다. 일부 기관은 이미 지난해 말 인도가... ",
-			"pubDate":"Thu, 02 Mar 2023 15:52:00 +0900"
 		}
 	]
 }
