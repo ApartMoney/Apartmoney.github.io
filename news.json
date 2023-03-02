@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 02 Mar 2023 09:00:02 +0900",
-	"total":196931,
+	"lastBuildDate":"Thu, 02 Mar 2023 09:10:02 +0900",
+	"total":196932,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"맛과 멋, 통영",
+			"originallink":"https:\/\/www.travie.com\/news\/articleView.html?idxno=51031",
+			"link":"https:\/\/www.travie.com\/news\/articleView.html?idxno=51031",
+			"description":"벌써 푸른색으로 갈아입은 <b>청라<\/b>언덕 같은 미륵산에 올라 하루바삐 봄을 마중하고파 달려간 길 끝은 통영이었다. &apos;통영과 한산도 일대의 자연미를 나는 문필로 묘사할 능력이 없다.&apos; 정지용 시인의 글이다. 시인의 말처럼... ",
+			"pubDate":"Thu, 02 Mar 2023 09:00:00 +0900"
+		},
 		{
 			"title":"[영상뉴스] 104주년 3.1절, 대구 곳곳서 울려 퍼진 만세삼창",
 			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20230301001558061",
@@ -68,17 +75,17 @@
 			"pubDate":"Wed, 01 Mar 2023 20:54:00 +0900"
 		},
 		{
-			"title":"[포토] 대구 <b>청라<\/b>언덕 3.1만세운동 재현",
-			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2125432",
-			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2125432",
-			"description":"제104주년 3.1절을 맞은 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 3.1만세운동 재현행사에서 시민과 학생... 정훈진 기자 jhj131@kyongbuk.com제104주년 3.1절을 맞은 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 3.1만세운동... ",
-			"pubDate":"Wed, 01 Mar 2023 19:58:00 +0900"
-		},
-		{
 			"title":"숭고한 나라사랑 정신 되새기며…4년만에 우렁찬 만세삼창",
 			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2125436",
 			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2125436",
 			"description":"제104주년 3.1절을 맞은 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 3.1만세운동 재현행사에서 시민과 학생 1.000여 명이 웅집한 가운데 뮤지컬 공연이 이어지고 있다. 이번 행사는 세대의 역사의식과 애향심을 고취하고 지역... ",
+			"pubDate":"Wed, 01 Mar 2023 19:58:00 +0900"
+		},
+		{
+			"title":"[포토] 대구 <b>청라<\/b>언덕 3.1만세운동 재현",
+			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2125432",
+			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2125432",
+			"description":"제104주년 3.1절을 맞은 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 3.1만세운동 재현행사에서 시민과 학생... 정훈진 기자 jhj131@kyongbuk.com제104주년 3.1절을 맞은 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 3.1만세운동... ",
 			"pubDate":"Wed, 01 Mar 2023 19:58:00 +0900"
 		},
 		{
@@ -166,6 +173,13 @@
 			"pubDate":"Wed, 01 Mar 2023 12:05:00 +0900"
 		},
 		{
+			"title":"3.1만세운동길 따라 울려퍼지는 만세삼창",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859820",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658392?sid=102",
+			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동길을 따라 행진하며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
+			"pubDate":"Wed, 01 Mar 2023 12:05:00 +0900"
+		},
+		{
 			"title":"대구 중구 &apos;3.1만세운동 재현&apos;",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859821",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658393?sid=102",
@@ -187,13 +201,6 @@
 			"pubDate":"Wed, 01 Mar 2023 12:05:00 +0900"
 		},
 		{
-			"title":"3.1만세운동길 따라 울려퍼지는 만세삼창",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859820",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658392?sid=102",
-			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동길을 따라 행진하며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
-			"pubDate":"Wed, 01 Mar 2023 12:05:00 +0900"
-		},
-		{
 			"title":"목청껏 불러보자 &quot;대한독립 만세&quot;",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5859815",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658388?sid=102",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658390?sid=102",
 			"description":"= 제104주년 3.1절을 맞아 1일 오전 대구 중구 <b>청라<\/b>언덕에서 열린 &apos;3.1만세운동 재현 행사&apos;에 참여한 시민들이 3.1만세운동길을 따라 행진하며 만세삼창을 하고 있다. 2023.3.1\/뉴스1",
 			"pubDate":"Wed, 01 Mar 2023 12:04:00 +0900"
-		},
-		{
-			"title":"&quot;되새기는 순국선열의 희생&quot;…대구·경북서도 3·1절 기념식",
-			"originallink":"https:\/\/www.news1.kr\/articles\/4967923",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006658343?sid=102",
-			"description":"이날 대구 중구 <b>청라<\/b>언덕에서는 &apos;3·1만세운동 재현 행사&apos;도 열려 시민들은 3·1만세운동길을 따라 행진하며 자주 독립을 염원했던 순국선열들의 그날의 함성을 재현했다. 대구시는 3·1절을 맞아 애국지사와 유족... ",
-			"pubDate":"Wed, 01 Mar 2023 11:51:00 +0900"
 		}
 	]
 }
