@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Wed, 08 Mar 2023 16:10:02 +0900",
-	"total":197045,
+	"lastBuildDate":"Wed, 08 Mar 2023 16:20:02 +0900",
+	"total":197048,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"1년간 1만명 넘게 증가한 수도권 신규 분양 ‘눈길’",
+			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=20230308161309762567191f6c6e_12",
+			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=20230308161309762567191f6c6e_12",
+			"description":"또 고양시 덕양구는 창릉신도시, 인천 서구는 검단신도시와 <b>청라<\/b>국제신도시가 속해 있다. 교통망 개선과 일자리 확충도 이들 지역의 인구 증가에 큰 영향을 끼쳤다는 분석이다. 예컨대 파주시와 화성시의 경우는... ",
+			"pubDate":"Wed, 08 Mar 2023 16:14:00 +0900"
+		},
+		{
+			"title":"&apos;더 글로리&apos; 인천 촬영지 &apos;<b>청라<\/b>호수공원&apos; 관광자원화…4월 공개",
+			"originallink":"https:\/\/www.news1.kr\/articles\/4975451",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006672390?sid=102",
+			"description":"인천시는 더 글로리 인천 촬영지인 <b>청라<\/b>호수공원의 드라마 속 세트장을 일부 재현해 4월 중 시민들에게... 인천 촬영지인 <b>청라<\/b>호수공원은 주인공들이 스토리를 풀어 가는데 핵심적인 장소로 묘사됐다. 인천시는... ",
+			"pubDate":"Wed, 08 Mar 2023 16:11:00 +0900"
+		},
+		{
+			"title":"인천 서구, 코로나19로 중단한 연세대학교 멘토링 사업 재개",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230308_0002219082&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011730616?sid=102",
+			"description":"서구는 협약기관과 함께 첫 교육지원사업으로 신현·원창·<b>청라<\/b>동 10개 중학교를 대상으로 행복 멘토링 프로그램을 진행한다. 연세대생 멘토의 수학, 영어 등 교과목 학습지도와 연세대 국제캠퍼스 탐방이 총 11회 진행될... ",
+			"pubDate":"Wed, 08 Mar 2023 16:10:00 +0900"
+		},
 		{
 			"title":"서울 접근성 뛰어난 인천 계양구 신규 아파트 &apos;인천 작전 한라비발디&apos; 분양",
 			"originallink":"https:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=72316",
@@ -82,17 +103,17 @@
 			"pubDate":"Wed, 08 Mar 2023 15:05:00 +0900"
 		},
 		{
-			"title":"지하실에서 시작된 만세운동…3.8 대구만세운동의 요람 &apos;계성학교 아담스관&apos;",
-			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=407448",
-			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=407448",
-			"description":"당시 계성학교 교사와 학생들이 독립선언문을 등사하고, 3월 8일 지금의 3.1운동길, <b>청라<\/b>언덕길을 통해서 만세운동을 펼쳐나갔습니다. 3.8 대구만세운동의 시작이었습니다. [장영중 \/ 계성중학교 교장 : &quot;학교 여건상... ",
-			"pubDate":"Wed, 08 Mar 2023 15:04:00 +0900"
-		},
-		{
 			"title":"인천시,&apos;더 글로리&apos; 촬영지 관광자원화 추진",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=411605",
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=411605",
 			"description":"<b>청라<\/b>호수공원 내 재현 세트장 4월 중 일반에 공개 ▲드라마 더 글로리 중 <b>청라<\/b>호수공원 장면 인천시가 넷플릭스 드라마 &apos;더 글로리&apos;의 인천 촬영지 &apos;<b>청라<\/b>호수공원&apos;을 관광자원화 한다. 인천시는 경제청, 인천영상위... ",
+			"pubDate":"Wed, 08 Mar 2023 15:04:00 +0900"
+		},
+		{
+			"title":"지하실에서 시작된 만세운동…3.8 대구만세운동의 요람 &apos;계성학교 아담스관&apos;",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=407448",
+			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=407448",
+			"description":"당시 계성학교 교사와 학생들이 독립선언문을 등사하고, 3월 8일 지금의 3.1운동길, <b>청라<\/b>언덕길을 통해서 만세운동을 펼쳐나갔습니다. 3.8 대구만세운동의 시작이었습니다. [장영중 \/ 계성중학교 교장 : &quot;학교 여건상... ",
 			"pubDate":"Wed, 08 Mar 2023 15:04:00 +0900"
 		},
 		{
@@ -190,29 +211,8 @@
 			"title":"금호건설, 인천서 &apos;왕길역 금호어울림 에듀그린&apos; 분양",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202303080851200900528",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202303080851200900528",
-			"description":"또한 단지 남쪽에는 오류택지지구 내 중심상업시설이 있고, 동쪽과 남쪽에는 각각 검단신도시와 <b>청라<\/b>국제도시도 인접해 있다. 인근 산업단지 배후 수요도 풍부하다. 학운·양촌·대포 산업단지 등 대규모 산업단지가... ",
+			"description":"오류택지지구 내 중심상업시설이 자리하며, 동쪽과 남쪽으로 검단신도시와 <b>청라<\/b>국제도시가 가깝다. 산업단지 배후 수요도 풍부하다. 학운ㆍ양촌ㆍ대포산업단지 등이 있고 인근에서 왕길3지구 등 도시개발사업도... ",
 			"pubDate":"Wed, 08 Mar 2023 09:22:00 +0900"
-		},
-		{
-			"title":"&quot;1년간 1만 명 넘게 늘었다&apos;… 인구 증가 수도권 신규 분양 눈길",
-			"originallink":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=98528",
-			"link":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=98528",
-			"description":"또한 고양시 덕양구는 창릉신도시, 인천 서구는 검단신도시와 <b>청라<\/b>국제신도시가 속해 있다. 교통망 개선과 일자리 확충도 이들 지역의 인구 증가에 큰 영향을 끼쳤다는 분석이다. 예컨대 파주시와 화성시의 경우는... ",
-			"pubDate":"Wed, 08 Mar 2023 09:00:00 +0900"
-		},
-		{
-			"title":"영종·인천대교 통행료 인하…영종∼<b>청라<\/b> 제3연륙교 요금은",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29MY2U1YDN",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004164390?sid=102",
-			"description":"8일 인천시에 따르면 인천경제자유구역청은 2025년 준공을 목표로 중구 영종도와 서구 <b>청라<\/b>국제도시를 잇는 4.68㎞ 길이의 해상교량 제3연륙교 공사를 진행하고 있다. 6500억 사업비를 들여 건립되는 제3연륙교의... ",
-			"pubDate":"Wed, 08 Mar 2023 08:46:00 +0900"
-		},
-		{
-			"title":"영종·인천대교 통행료 인하…영종∼<b>청라<\/b> 제3연륙교 요금은",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230307118000065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013799028?sid=102",
-			"description":"8일 인천시에 따르면 인천경제자유구역청은 2025년 준공을 목표로 중구 영종도와 서구 <b>청라<\/b>국제도시를 잇는 4.68㎞ 길이의 해상교량 제3연륙교 공사를 하고 있다. 6천500억 사업비를 들여 건립되는 제3연륙교의 주탑에는... ",
-			"pubDate":"Wed, 08 Mar 2023 08:10:00 +0900"
 		}
 	]
 }
