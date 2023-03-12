@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 13 Mar 2023 08:10:03 +0900",
-	"total":197160,
+	"lastBuildDate":"Mon, 13 Mar 2023 08:20:02 +0900",
+	"total":197161,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[건설사 신사업 신기술]② 대우건설, 보도블록에 CO₂ 저장하는 &apos;DECO2&apos; 기술...",
+			"originallink":"http:\/\/www.sporbiz.co.kr\/news\/articleView.html?idxno=646320",
+			"link":"http:\/\/www.sporbiz.co.kr\/news\/articleView.html?idxno=646320",
+			"description":"대우건설은 이 기술을 검증하기 위해 2012년부터 2015년까지 인천환경공단 <b>청라<\/b>사업소에서 10톤 CO₂\/일 규모의 파일럿 플랜트을 진행하기도 했다. 또한 영흥화력발전소에서 한국남동발전과 &apos;발전 배출가스 직접 반응을... ",
+			"pubDate":"Mon, 13 Mar 2023 08:14:00 +0900"
+		},
 		{
 			"title":"중도금 확정금리, 입주전 전매가능 5억원대 ‘인천 작전 한라비발디’ 분양",
 			"originallink":"https:\/\/news.koreadaily.com\/2023\/03\/12\/economy\/realestate\/20230312160005678.html",
@@ -131,17 +138,17 @@
 			"pubDate":"Sun, 12 Mar 2023 01:18:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b>호수서 &apos;패들보드&apos; 타는 사람들",
-			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=61410",
-			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=61410",
-			"description":"11일 오후 4시10분께 인천 <b>청라<\/b>호수에서 한 커플로 보이는 젊은 남녀 한 쌍이 패들보드를 타고 있다. (사진=이복수 기자) 11일 오후 4시10분께 인천 <b>청라<\/b>호수에서 한 커플로 보이는 젊은 남녀 한쌍이 패들보드를 타고 있다.",
-			"pubDate":"Sat, 11 Mar 2023 16:54:00 +0900"
-		},
-		{
 			"title":"미세먼지 쯤이야…봄 나들이 즐기는 시민들",
 			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=61409",
 			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=61409",
 			"description":"11일 오후 3시께 인천 <b>청라<\/b>호수공원을 찾은 많은 시민들이 <b>청라<\/b>마린 오리배를 타며 즐거운 시간을 보내고 있다. (사진=이복수 기자) 수도권에 미세먼지 &apos;나쁨&apos; 수준이 예보된 11일 오후 3시께 인천 <b>청라<\/b>호수공원을 찾은... ",
+			"pubDate":"Sat, 11 Mar 2023 16:54:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>호수서 &apos;패들보드&apos; 타는 사람들",
+			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=61410",
+			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=61410",
+			"description":"11일 오후 4시10분께 인천 <b>청라<\/b>호수에서 한 커플로 보이는 젊은 남녀 한 쌍이 패들보드를 타고 있다. (사진=이복수 기자) 11일 오후 4시10분께 인천 <b>청라<\/b>호수에서 한 커플로 보이는 젊은 남녀 한쌍이 패들보드를 타고 있다.",
 			"pubDate":"Sat, 11 Mar 2023 16:54:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=170143",
 			"description":"10일 오전 인천 서구 <b>청라<\/b>동에 마련된 &apos;검단신도시 금강펜테리움 3차 센트럴파크&apos; 견본주택을 방문했습니다. 견본주택이 열리는 오전 10시 이전부터 견본주택을 방문한 사람들이 길게 줄을 서 있습니다. 현장이... ",
 			"pubDate":"Fri, 10 Mar 2023 18:52:00 +0900"
-		},
-		{
-			"title":"부천 광역소각장 결국 무산... 인천시, 부평·계양 소각장 건설 검토",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=94174",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=94174",
-			"description":"<b>청라<\/b>소각장 전경 경기도 부천시와 인천 동부권(부평구·계양구) 지역이 함께 사용하려던 광역소각장(자원순환센터) 계획이 백지화됐다. 10일 부천시에 따르면 신규 건립 소각장을 광역시설이 아닌 자체 발생 쓰레기만... ",
-			"pubDate":"Fri, 10 Mar 2023 17:44:00 +0900"
 		}
 	]
 }
