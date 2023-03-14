@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 15 Mar 2023 08:10:03 +0900",
-	"total":197274,
+	"lastBuildDate":"Wed, 15 Mar 2023 08:20:02 +0900",
+	"total":197275,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"1년 만에 70% 줄어든 전국 오피스텔 거래량…&apos;역대 최저&apos;",
+			"originallink":"https:\/\/www.hankyung.com\/realestate\/article\/2023031591866",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004820855?sid=101",
+			"description":"국토교통부 실거래가 공개시스템에 따르면 인천시 서구 <b>청라<\/b>동 오피스텔 &apos;<b>청라<\/b> 린스트라우스&apos; 전용 59.99㎡는 2022년 1월 22일 3억5000만원(31층)에 거래됐지만, 올해 1월 14일에는 2억5000만원(35층)에 팔려 1년... ",
+			"pubDate":"Wed, 15 Mar 2023 08:13:00 +0900"
+		},
 		{
 			"title":"TBC)문화인- 이방인 눈에 투영된 70년 전 달구벌",
 			"originallink":"http:\/\/www.tbc.co.kr\/tbc_news\/n14_newsview.html?p_no=20230314171335AE07041",
@@ -40,13 +47,6 @@
 			"pubDate":"Tue, 14 Mar 2023 20:06:00 +0900"
 		},
 		{
-			"title":"인천 서구 <b>청라<\/b>2동, 취약계층 73세대에 영양제 지원",
-			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3009073",
-			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3009073",
-			"description":"인천 서구 <b>청라<\/b>2동 지역사회보장협의체가 독거노인, 장애인 가구 등 취약계층 73세대에 영양제를 지원했다고 14일 밝혔다. <b>청라<\/b>2동 협의체는 이번 사업이 올해 연간기획사업 중 첫 번째 사업이라며 이웃에게 건강한 삶을... ",
-			"pubDate":"Tue, 14 Mar 2023 18:38:00 +0900"
-		},
-		{
 			"title":"&apos;송도를 영어통용도시&apos;로 순항...추진위 빠르면 내달 구성",
 			"originallink":"http:\/\/www.ifm.kr\/news\/356679",
 			"link":"http:\/\/www.ifm.kr\/news\/356679",
@@ -54,17 +54,24 @@
 			"pubDate":"Tue, 14 Mar 2023 18:38:00 +0900"
 		},
 		{
-			"title":"교촌그룹, 창립 32주년 행사 진행",
-			"originallink":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=194438",
-			"link":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=194438",
-			"description":"대상을 수상한 우수 가맹점은 인천 <b>청라<\/b>호수공원점으로 선정됐다. 또한 교촌의 경영철학인 상생과 나눔의 가치를 실천하기 위해 교촌 봉사단인 &apos;바르고 봉사단&apos; 발대식도 함께 마련했다. 교촌 가맹점주와 임직원들이... ",
-			"pubDate":"Tue, 14 Mar 2023 18:16:00 +0900"
+			"title":"인천 서구 <b>청라<\/b>2동, 취약계층 73세대에 영양제 지원",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3009073",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3009073",
+			"description":"인천 서구 <b>청라<\/b>2동 지역사회보장협의체가 독거노인, 장애인 가구 등 취약계층 73세대에 영양제를 지원했다고 14일 밝혔다. <b>청라<\/b>2동 협의체는 이번 사업이 올해 연간기획사업 중 첫 번째 사업이라며 이웃에게 건강한 삶을... ",
+			"pubDate":"Tue, 14 Mar 2023 18:38:00 +0900"
 		},
 		{
 			"title":"[기고] 재난안전이 확보된 마천루, 미래사회의 성장동력",
 			"originallink":"http:\/\/www.mdilbo.com\/detail\/AjBTxA\/690459",
 			"link":"http:\/\/www.mdilbo.com\/detail\/AjBTxA\/690459",
 			"description":"포항시는 포항역 부지에 랜드마크가 될 수 있는 70층 이상의 초고층 건축물 건립 사업을, 인천 <b>청라<\/b>국제도시는 지연되고 있던 <b>청라<\/b>시티타워의 건립사업을 LH를 통해 다시 추진하기로 했다. 서울시는 여의도 재건축... ",
+			"pubDate":"Tue, 14 Mar 2023 18:16:00 +0900"
+		},
+		{
+			"title":"교촌그룹, 창립 32주년 행사 진행",
+			"originallink":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=194438",
+			"link":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=194438",
+			"description":"대상을 수상한 우수 가맹점은 인천 <b>청라<\/b>호수공원점으로 선정됐다. 또한 교촌의 경영철학인 상생과 나눔의 가치를 실천하기 위해 교촌 봉사단인 &apos;바르고 봉사단&apos; 발대식도 함께 마련했다. 교촌 가맹점주와 임직원들이... ",
 			"pubDate":"Tue, 14 Mar 2023 18:16:00 +0900"
 		},
 		{
@@ -117,17 +124,17 @@
 			"pubDate":"Tue, 14 Mar 2023 17:14:00 +0900"
 		},
 		{
-			"title":"교촌그룹, 창립 32주년 행사 진행…동반 성장 강화 의지 다져",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=995895",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=995895",
-			"description":"대상을 수상한 우수 가맹점은 인천 <b>청라<\/b>호수공원점이다. 가맹점주와 임직원들이 함께 참여하는 교촌 봉사단인 &apos;바르고 봉사단&apos; 발대식도 마련했다. 창업주 권원강 교촌그룹 회장은 &quot;새로운 상생 문화를 바탕으로... ",
-			"pubDate":"Tue, 14 Mar 2023 17:12:00 +0900"
-		},
-		{
 			"title":"권원강 교촌그룹 회장, &quot;제2의 창업정신으로 해현갱장(解弦更張) 의미 실천&quot; ...",
 			"originallink":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=38213",
 			"link":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=38213",
 			"description":"대상을 수상한 우수 가맹점은 인천 <b>청라<\/b>호수공원점으로, 열정과 진심을 담은 서비스 정신을 인정받아 선정됐다. 교촌의 경영철학인 상생과 나눔의 가치를 꾸준히 실천하기 위해 교촌 봉사단인 &apos;바르고 봉사단&apos; 발대식도... ",
+			"pubDate":"Tue, 14 Mar 2023 17:12:00 +0900"
+		},
+		{
+			"title":"교촌그룹, 창립 32주년 행사 진행…동반 성장 강화 의지 다져",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=995895",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=995895",
+			"description":"대상을 수상한 우수 가맹점은 인천 <b>청라<\/b>호수공원점이다. 가맹점주와 임직원들이 함께 참여하는 교촌 봉사단인 &apos;바르고 봉사단&apos; 발대식도 마련했다. 창업주 권원강 교촌그룹 회장은 &quot;새로운 상생 문화를 바탕으로... ",
 			"pubDate":"Tue, 14 Mar 2023 17:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003084248?sid=101",
 			"description":"교통으로는 영종국제도시와 <b>청라<\/b>를 잇는 제3연륙교는 2025년 준공을 목표로 개발이 한창이다. 제3연륙교가 뚫리면 <b>청라<\/b> 인프라를 편리하게 누릴 수 있으며, 서울 영등포 일대까지 빠르게 진입 가능하다. 제4차... ",
 			"pubDate":"Tue, 14 Mar 2023 15:33:00 +0900"
-		},
-		{
-			"title":"교촌 창립 32주년…권원강 회장 “상생 중요, 가맹점과 동반성장”",
-			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230314000611",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002116228?sid=101",
-			"description":"대상을 수상한 우수 가맹점은 교촌치킨 인천 <b>청라<\/b>호수공원점으로, 열정과 진심을 담은 서비스 정신을 인정받아 선정됐다. 교촌의 경영철학인 상생과 나눔의 가치를 꾸준히 실천하기 위한 봉사단인 &apos;바르고 봉사단... ",
-			"pubDate":"Tue, 14 Mar 2023 15:32:00 +0900"
 		}
 	]
 }
