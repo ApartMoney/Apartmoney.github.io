@@ -1,22 +1,29 @@
 {
-	"lastBuildDate":"Thu, 16 Mar 2023 00:40:02 +0900",
-	"total":197368,
+	"lastBuildDate":"Thu, 16 Mar 2023 00:50:02 +0900",
+	"total":197370,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 뉴홍콩시티 토대로 &apos;첨단혁신·국제자유도시&apos; 도약",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=535760",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=535760",
+			"description":"이러한 뉴홍콩시티 프로젝트는 송도, <b>청라<\/b>, 영종 등 경제자유구역을 비롯해 강화군과 옹진군, 내항을 거점으로 인천 전역을 연계해 첨단 미래산업, 그린산업, 물류·관광·금융 등 다양한 분야의 미래 전략을 수립할... ",
+			"pubDate":"Thu, 16 Mar 2023 00:46:00 +0900"
+		},
+		{
+			"title":"[박승우의 미래의학] 의료계의 ‘붉은 여왕 효과’",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25147538",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003266167?sid=110",
+			"description":"필수 의료인력 부족이라는 절박한 상황에서도 서울대 배곧병원, <b>청라<\/b>지구 아산병원, 세브란스 송도병원 등 새로운 대형병원이 수도권에 계속 문을 열 예정이라 현재로선 의료인력 확충이 필연적인 것으로 보인다. 하지만... ",
+			"pubDate":"Thu, 16 Mar 2023 00:45:00 +0900"
+		},
 		{
 			"title":"인천시, &quot;뉴홍콩시티 토대로 첨단혁신 국제자유도시로 도약한다&quot;",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2674791",
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2674791",
 			"description":"이러한 뉴홍콩시티 프로젝트는 송도, <b>청라<\/b>, 영종 등 경제자유구역을 비롯해 강화군과 옹진군, 내항을 거점으로 인천 전역을 연계해 첨단 미래산업, 그린산업, 물류·관광·금융 등 다양한 분야의 미래 전략을 수립할... ",
 			"pubDate":"Wed, 15 Mar 2023 22:26:00 +0900"
-		},
-		{
-			"title":"인천에 축구장 13개 크기 도시숲 생긴다",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021168",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021168",
-			"description":"조성 지역은 만월산 터널 주변, 제2경인고속도로 주변, <b>청라<\/b>지구(2곳)를 합쳐 4곳이다. 시는 오는 4월부터 연말까지 이들 지역에 나무 13만7천여 그루를 심을 예정이다. 최근 시 보건환경연구원이 &apos;도시숲 기능성 조사... ",
-			"pubDate":"Wed, 15 Mar 2023 21:24:00 +0900"
 		},
 		{
 			"title":"300兆 국가산단 품는 &apos;경쟁자&apos; 용인, 인천 반도체 특화단지 추진에 영향?",
@@ -30,6 +37,13 @@
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021189",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021189",
 			"description":"무엇보다 뉴홍콩시티 프로젝트는 인천경제자유구역(송도·<b>청라<\/b>·영종)을 비롯해 강화군과 옹진군, 내항을 거점으로 한다는 데 의미가 크다. 시는 인천 전역을 연계해 첨단산업, 그린산업, 물류·관광·금융과 같은 다양한... ",
+			"pubDate":"Wed, 15 Mar 2023 21:24:00 +0900"
+		},
+		{
+			"title":"인천에 축구장 13개 크기 도시숲 생긴다",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021168",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021168",
+			"description":"조성 지역은 만월산 터널 주변, 제2경인고속도로 주변, <b>청라<\/b>지구(2곳)를 합쳐 4곳이다. 시는 오는 4월부터 연말까지 이들 지역에 나무 13만7천여 그루를 심을 예정이다. 최근 시 보건환경연구원이 &apos;도시숲 기능성 조사... ",
 			"pubDate":"Wed, 15 Mar 2023 21:24:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=595941",
 			"description":"이날 의원들은 이문구 문학관 건립과 관련해 토지를 매입한 <b>청라<\/b>면 장산리 일원, 보령축제관광재단 머드사업국에서 운영 중인 주포면 관산리 소재 머드화장품 공장, 그리고 남곡동 소재 생활폐기물 위생매립장을... ",
 			"pubDate":"Wed, 15 Mar 2023 17:08:00 +0900"
-		},
-		{
-			"title":"&quot;인천을 홍콩처럼 글로벌 허브도시로&quot;…뉴홍콩시티 비전선포",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5910315",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003747801?sid=102",
-			"description":"뉴홍콩시티 프로젝트는 송도·<b>청라<\/b>·영종국제도시와 강화·옹진군, 인천 내항을 거점으로 최적의 비즈니스 환경을 조성하고 첨단산업을 육성해 인천을 홍콩과 싱가포르와 어깨를 나란히 하겠다는 종합전략계획이다.... ",
-			"pubDate":"Wed, 15 Mar 2023 17:08:00 +0900"
-		},
-		{
-			"title":"“인천을 글로벌 허브 도시로”...‘뉴홍콩시티’ 비전 선포식",
-			"originallink":"https:\/\/www.chosun.com\/national\/regional\/gyeonggi-incheon\/2023\/03\/15\/LLYZ6QHM6NCTNDXX4MGS6M4PLY\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003751893?sid=102",
-			"description":"뉴홍콩시티 프로젝트는 송도·<b>청라<\/b>·영종국제도시와 강화·옹진군, 인천 내항을 거점으로 최적의 비즈니스 환경을 조성하고 첨단산업을 육성함으로써 인천을 홍콩·싱가포르와 경쟁하는 글로벌 허브 도시로 육성하겠다는... ",
-			"pubDate":"Wed, 15 Mar 2023 17:06:00 +0900"
 		}
 	]
 }
