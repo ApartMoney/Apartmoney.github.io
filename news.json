@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 15 Mar 2023 15:20:02 +0900",
-	"total":197321,
+	"lastBuildDate":"Wed, 15 Mar 2023 15:30:02 +0900",
+	"total":197322,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천을 동아시아 글로벌 허브로 … ‘뉴홍콩시티’ 비전 선포",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20230315500119&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003346344?sid=102",
+			"description":"바이오·반도체·모빌리티·항공정비 산업과 물류·금융·관광산업 집중 육성 뉴홍콩시티 프로젝트는 송도·<b>청라<\/b>·영종국제도시와 강화·옹진군,인천 내항을 거점으로 최적의 비즈니스 환경을 조성하고 첨단 미래산업 등을... ",
+			"pubDate":"Wed, 15 Mar 2023 15:22:00 +0900"
+		},
 		{
 			"title":"인천시, 뉴홍콩시티 토대로 첨단혁신·국제자유도시로 도약",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1674452",
@@ -75,6 +82,13 @@
 			"pubDate":"Wed, 15 Mar 2023 14:30:00 +0900"
 		},
 		{
+			"title":"[본사손님] 변주영씨, 김범수씨, 서상호씨",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230315010002751",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230315010002751",
+			"description":"▲변주영(인천경제자유구역청 차장) ▲김범수(〃기획조정본부장) ▲서상호(〃영종<b>청라<\/b>사업본부장)씨=인사",
+			"pubDate":"Wed, 15 Mar 2023 14:28:00 +0900"
+		},
+		{
 			"title":"은퇴 후, 노후 설계…&apos;실버 타운&apos; 안락한 주거지로 시니어 수요자 이끌어",
 			"originallink":"https:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=72436",
 			"link":"https:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=72436",
@@ -86,13 +100,6 @@
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29N1C25MPC",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004167347?sid=102",
 			"description":"뉴홍콩시티 프로젝트는 송도·<b>청라<\/b>·영종국제도시와 강화·옹진군, 인천 내항을 거점으로 최적의 비즈니스 환경을 조성하고 첨단산업을 육성하는 계획이다. 구체적으로 인천이 강점을 지닌 바이오·반도체·모빌리티... ",
-			"pubDate":"Wed, 15 Mar 2023 14:28:00 +0900"
-		},
-		{
-			"title":"[본사손님] 변주영씨, 김범수씨, 서상호씨",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230315010002751",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230315010002751",
-			"description":"▲변주영(인천경제자유구역청 차장) ▲김범수(〃기획조정본부장) ▲서상호(〃영종<b>청라<\/b>사업본부장)씨=인사",
 			"pubDate":"Wed, 15 Mar 2023 14:28:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=481834",
 			"description":"인천 <b>청라<\/b>호수공원점 등 29개 교촌치킨 가맹점과 본사 우수 직원 및 장기근속자 시상식, 교촌의 경영철학인 상생과 나눔 가치를 실천하기 위한 &apos;바르고 봉사단&apos; 발대식도 이어졌다. 교촌치킨 가맹점주와 임직원들이 꾸린... ",
 			"pubDate":"Wed, 15 Mar 2023 10:59:00 +0900"
-		},
-		{
-			"title":"인천시, <b>청라<\/b> 등 4곳에 축구장 12배 크기 도시숲 조성",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=94244",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=94244",
-			"description":"<b>청라<\/b> 16호 녹지(왼쪽)와 영종하늘도시 34호 녹지(오른쪽)에 조성한 &apos;기후대응 도시숲&apos;(사진제공=인천시)... 시는 올해 90억원을 들여 만월산 터널 주변, 제2경인고속도로(서창JC) 주변, <b>청라<\/b>국제도시 4~7호 완충녹지... ",
-			"pubDate":"Wed, 15 Mar 2023 10:56:00 +0900"
 		}
 	]
 }
