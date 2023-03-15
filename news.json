@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 15 Mar 2023 17:10:02 +0900",
-	"total":197341,
+	"lastBuildDate":"Wed, 15 Mar 2023 17:20:02 +0900",
+	"total":197342,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천 주요 뉴스]인천시, 연말까지 축구장 13개 면적 도시숲 조성",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5910311",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003747802?sid=102",
+			"description":"인천시, 연말까지 축구장 13개 면적 도시숲 조성 인천시는 쾌적한 도심환경을 위해 올해 말까지 90억원을 들여 만월산 터널 주변, 제2경인고속도로 주변, <b>청라<\/b>국제도시 2곳 등 시내 4곳에 도시숲을 조성한다고... ",
+			"pubDate":"Wed, 15 Mar 2023 17:09:00 +0900"
+		},
 		{
 			"title":"보령시의회 사업장 3개소 방문 통해 시민들 &apos;의견수렴&apos;",
 			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=595941",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=408671",
 			"description":"현재 부평과 계양의 생활쓰레기는 서구 <b>청라<\/b> 광역소각장에서 일부 소각하고 나머지는 서구 수도권매립지에 묻고 있습니다. 문제는 <b>청라<\/b>소각장이 3년 뒤 현대화사업을 완료하면 서구·강화지역 쓰레기만 반입하기 때문에... ",
 			"pubDate":"Wed, 15 Mar 2023 14:34:00 +0900"
-		},
-		{
-			"title":"“글로벌도시 홍콩처럼”…인천시, 뉴홍콩시티 프로젝트 ‘시동’",
-			"originallink":"https:\/\/www.khan.co.kr\/economy\/businessman\/article\/202303151429001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003211003?sid=102",
-			"description":"뉴홍콩시티는 경제자유구역인 송도와 <b>청라<\/b>, 영종도를 비롯해 강화군과 옹진군, 인천항 등을 거점으로, 인천 전역을 연계해 첨단미래산업과 그린산업, 물류·관광·금융 등 다양한 분야의 전략을 수립할 계획이다. 또한... ",
-			"pubDate":"Wed, 15 Mar 2023 14:30:00 +0900"
 		}
 	]
 }
