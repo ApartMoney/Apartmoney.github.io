@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 16 Mar 2023 08:50:02 +0900",
-	"total":197376,
+	"lastBuildDate":"Thu, 16 Mar 2023 09:00:03 +0900",
+	"total":197378,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 무명의 교차로에 이름을 붙여준다",
+			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0002910471&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002385380?sid=102",
+			"description":"&apos;교차로명&apos;은 특정 지점의 위치를 파악할 수 있는 척도 ▲  인천시 서구 <b>청라<\/b>국제도시 내 사거리. 아직까지 교차로 명칭이 없다. ⓒ 인천시 인천시(시장 유정복)는 아직 이름이 없는 교차로에 명칭을 부여하고, 지역 특성에... ",
+			"pubDate":"Thu, 16 Mar 2023 08:54:00 +0900"
+		},
+		{
+			"title":"충남 보령시, 폐광지역 경로당 건강교실 &apos;호응&apos;",
+			"originallink":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=452173",
+			"link":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=452173",
+			"description":"폐광지역 경로당 건강교실은 어르신의 자가 건강관리 능력 향상 및 건강한 노후생활을 도모하기 위해 마련됐으며, &apos;폐광지역 개발 지원에 관한 특별법&apos;에 따라 지정된 보령시 폐광지역 중 가장 넓은 면적을 차지하는 <b>청라<\/b>... ",
+			"pubDate":"Thu, 16 Mar 2023 08:52:00 +0900"
+		},
 		{
 			"title":"[Who Is ?] 정몽규 HDC 대표이사 회장",
 			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=309174",
@@ -68,6 +82,13 @@
 			"pubDate":"Wed, 15 Mar 2023 22:26:00 +0900"
 		},
 		{
+			"title":"인천에 축구장 13개 크기 도시숲 생긴다",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021168",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021168",
+			"description":"조성 지역은 만월산 터널 주변, 제2경인고속도로 주변, <b>청라<\/b>지구(2곳)를 합쳐 4곳이다. 시는 오는 4월부터 연말까지 이들 지역에 나무 13만7천여 그루를 심을 예정이다. 최근 시 보건환경연구원이 &apos;도시숲 기능성 조사... ",
+			"pubDate":"Wed, 15 Mar 2023 21:24:00 +0900"
+		},
+		{
 			"title":"300兆 국가산단 품는 &apos;경쟁자&apos; 용인, 인천 반도체 특화단지 추진에 영향?",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021188",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021188",
@@ -79,13 +100,6 @@
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021189",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021189",
 			"description":"무엇보다 뉴홍콩시티 프로젝트는 인천경제자유구역(송도·<b>청라<\/b>·영종)을 비롯해 강화군과 옹진군, 내항을 거점으로 한다는 데 의미가 크다. 시는 인천 전역을 연계해 첨단산업, 그린산업, 물류·관광·금융과 같은 다양한... ",
-			"pubDate":"Wed, 15 Mar 2023 21:24:00 +0900"
-		},
-		{
-			"title":"인천에 축구장 13개 크기 도시숲 생긴다",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021168",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021168",
-			"description":"조성 지역은 만월산 터널 주변, 제2경인고속도로 주변, <b>청라<\/b>지구(2곳)를 합쳐 4곳이다. 시는 오는 4월부터 연말까지 이들 지역에 나무 13만7천여 그루를 심을 예정이다. 최근 시 보건환경연구원이 &apos;도시숲 기능성 조사... ",
 			"pubDate":"Wed, 15 Mar 2023 21:24:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1185755",
 			"description":"인천 서구는 3일 인천시에 인천국제공항고속도로 <b>청라<\/b>IC 통행료 인하를 건의했다. 영종대교 통행료 인하에 따른 영향이다. 인천에서 강남지역으로 가는 제3경인고속도로 통행료 5300원도 높은 수준으로 인식된다. 영종... ",
 			"pubDate":"Wed, 15 Mar 2023 17:40:00 +0900"
-		},
-		{
-			"title":"인천시, ‘뉴홍콩시티’ 선포…“홍콩·싱가포르 같은 글로벌 허브도시로 도약...",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=7627207&amp;ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011446010?sid=102",
-			"description":"‘뉴홍콩시티 프로젝트’는 인천 송도·<b>청라<\/b>·영종국제도시와 강화·옹진군, 인천 내항을 거점으로 최적의... 인천시는 이를 위해, 영종과 <b>청라<\/b>, 송도 등 현재 3곳인 경제자유구역을 강화와 인천 내항으로 더 확대하고, 가칭... ",
-			"pubDate":"Wed, 15 Mar 2023 17:37:00 +0900"
-		},
-		{
-			"title":"충남 보령시의회, 사업장 방문 통해 시민 의견 전해",
-			"originallink":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=452112",
-			"link":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=452112",
-			"description":"이날 의원들은 이문구 문학관 건립과 관련해 토지를 매입한 <b>청라<\/b>면 장산리 일원, 보령축제관광재단 머드사업국에서 운영 중인 주포면 관산리 소재 머드화장품 공장, 그리고 남곡동 소재 생활폐기물 위생매립장을 방문했다.... ",
-			"pubDate":"Wed, 15 Mar 2023 17:34:00 +0900"
 		}
 	]
 }
