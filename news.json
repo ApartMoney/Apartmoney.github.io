@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 17 Mar 2023 11:10:02 +0900",
-	"total":197457,
+	"lastBuildDate":"Fri, 17 Mar 2023 11:20:03 +0900",
+	"total":197458,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천소식] <b>청라<\/b>~강서 BRT(7700번) 좌석제 전면 시행 등",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230317_0002230676&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011748363?sid=102",
+			"description":"인천교통공사는 <b>청라<\/b>~강서 BRT노선(7700번)이 오는 20일 새벽 첫차부터 모든 구간에 좌석제가 전면... 공사는 시행 초기 이용 고객의 혼선을 최소화하기 위해 <b>청라<\/b>~강서 BRT 노선의 모든 차량에 빈자리표시기를... ",
+			"pubDate":"Fri, 17 Mar 2023 11:12:00 +0900"
+		},
 		{
 			"title":"인천자치경찰과 현장 경찰관들 한자리서 다양한 의견 나눠",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202303171027056770409",
@@ -26,17 +33,17 @@
 			"pubDate":"Fri, 17 Mar 2023 10:32:00 +0900"
 		},
 		{
-			"title":"인천교통공사, &apos;<b>청라<\/b>~강서 BRT 좌석제&apos; 전면 시행",
-			"originallink":"https:\/\/www.thedrive.co.kr\/news\/newsview.php?ncode=1065574874852506",
-			"link":"https:\/\/www.thedrive.co.kr\/news\/newsview.php?ncode=1065574874852506",
-			"description":"일환으로, <b>청라<\/b>~강서 BRT노선(7700번)이 2023년 3월 20일(월) 새벽 첫차부터 모든 구간에 좌석제가 전면 시행된다고 밝혔다. 인천교통공사는 시행 초기 이용 고객의 혼선을 최소화하기 위해 <b>청라<\/b>~강서 BRT 노선의... ",
-			"pubDate":"Fri, 17 Mar 2023 10:06:00 +0900"
-		},
-		{
 			"title":"인천 <b>청라<\/b>~강서 BRT(7700번) 좌석제 전면 시행",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=411728",
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=411728",
 			"description":"<b>청라<\/b>~강서 BRT노선(7700번) 이 이달 20일(월) 새벽 첫차부터 모든 구간에 좌석제가 전면 시행된다. 인천교통공사는 시행 초기 이용 고객의 혼선을 최소화하기 위해 <b>청라<\/b>~강서 BRT 노선의 모든 차량에... ",
+			"pubDate":"Fri, 17 Mar 2023 10:06:00 +0900"
+		},
+		{
+			"title":"인천교통공사, &apos;<b>청라<\/b>~강서 BRT 좌석제&apos; 전면 시행",
+			"originallink":"https:\/\/www.thedrive.co.kr\/news\/newsview.php?ncode=1065574874852506",
+			"link":"https:\/\/www.thedrive.co.kr\/news\/newsview.php?ncode=1065574874852506",
+			"description":"일환으로, <b>청라<\/b>~강서 BRT노선(7700번)이 2023년 3월 20일(월) 새벽 첫차부터 모든 구간에 좌석제가 전면 시행된다고 밝혔다. 인천교통공사는 시행 초기 이용 고객의 혼선을 최소화하기 위해 <b>청라<\/b>~강서 BRT 노선의... ",
 			"pubDate":"Fri, 17 Mar 2023 10:06:00 +0900"
 		},
 		{
@@ -117,17 +124,17 @@
 			"pubDate":"Fri, 17 Mar 2023 09:11:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b>국제도시․서울지하철 2호선 잇는 &apos;대장-홍대입구&apos;사업 추진 본격화",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=270939",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=270939",
-			"description":"[국토일보 하종숙 기자] 인천 서구 <b>청라<\/b>국제도시와 서울지하철 2호선을 잇는 &apos;대장홍대선&apos;이 2년 안에... 국토교통부가 제시한 <b>청라<\/b> 연장선은 <b>청라<\/b>국제도시와 가정·계양, 작전, 부천 원종, 서울 화곡, 신도림·홍대입구를... ",
-			"pubDate":"Fri, 17 Mar 2023 09:02:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>국제도시ㆍ서울지하철 2호선 잇는 &apos;대장-홍대입구&apos; 사업 추진 급물살",
 			"originallink":"https:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=72446",
 			"link":"https:\/\/www.woodkorea.co.kr\/news\/articleView.html?idxno=72446",
 			"description":"인천 서구 <b>청라<\/b>국제도시와 서울지하철 2호선을 잇는 &apos;대장홍대선&apos;이 2년 안에 착공을 목표로 추진 중이다.... 국토교통부가 제시한 <b>청라<\/b> 연장선은 <b>청라<\/b>국제도시와 가정·계양,작전, 부천 원종, 서울 화곡, 신도림... ",
+			"pubDate":"Fri, 17 Mar 2023 09:02:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>국제도시․서울지하철 2호선 잇는 &apos;대장-홍대입구&apos;사업 추진 본격화",
+			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=270939",
+			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=270939",
+			"description":"[국토일보 하종숙 기자] 인천 서구 <b>청라<\/b>국제도시와 서울지하철 2호선을 잇는 &apos;대장홍대선&apos;이 2년 안에... 국토교통부가 제시한 <b>청라<\/b> 연장선은 <b>청라<\/b>국제도시와 가정·계양, 작전, 부천 원종, 서울 화곡, 신도림·홍대입구를... ",
 			"pubDate":"Fri, 17 Mar 2023 09:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=743526",
 			"description":"이날 의원들은 이문구 문학관 건립과 관련해 토지를 매입한 <b>청라<\/b>면 장산리 일원, 보령축제관광재단 머드사업국에서 운영 중인 주포면 관산리 소재 머드화장품 공장, 그리고 남곡동 소재 생활폐기물 위생매립장을 방문했다.... ",
 			"pubDate":"Thu, 16 Mar 2023 20:22:00 +0900"
-		},
-		{
-			"title":"쪼그라든 오피스텔 시장… 전년동월비 거래량 73% ↓",
-			"originallink":"http:\/\/www.segye.com\/content\/html\/2023\/03\/16\/20230316518875.html?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003793117?sid=101",
-			"description":"국토교통부 실거래가 공개시스템에 따르면, 인천 서구 <b>청라<\/b>동의 오피스텔 ‘<b>청라<\/b> 린스트라우스’(59㎡)는 지난해 1월 3억5000만원에 팔렸지만, 올해 1월에는 1억원이나 떨어진 2억5000만원에 매매 계약이... ",
-			"pubDate":"Thu, 16 Mar 2023 19:51:00 +0900"
 		}
 	]
 }
