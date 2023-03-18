@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 19 Mar 2023 06:20:02 +0900",
-	"total":197509,
+	"lastBuildDate":"Sun, 19 Mar 2023 06:30:02 +0900",
+	"total":197510,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"로또 1059회 당첨번호+당첨지역…서울 최다 당첨",
+			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=935645",
+			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=935645",
+			"description":"102호 <b>청라<\/b>로또하엘점 \/ 자동 \/ 인천 서구 <b>청라<\/b>한내로 96 112호(<b>청라<\/b>동, 하엘에스페이스) 훼미리그랜드 \/ 수동 \/ 광주 동구 의재로 34-1 CU그랜드점내 복권나라(매곡동) \/ 자동 \/ 광주 북구 서하로 117 101호 (매곡동)... ",
+			"pubDate":"Sun, 19 Mar 2023 06:20:00 +0900"
+		},
 		{
 			"title":"[로또당첨번호 조회]연금복권 720+ 당첨번호 확인!",
 			"originallink":"http:\/\/www.jejuilbo.net\/news\/articleView.html?idxno=201225",
@@ -96,17 +103,17 @@
 			"pubDate":"Sat, 18 Mar 2023 20:38:00 +0900"
 		},
 		{
-			"title":"인천교통공사, <b>청라<\/b>-강서 BRT(7700번) 좌석제 전면 시행",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=390948",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=390948",
-			"description":"일환으로, <b>청라<\/b>~강서 BRT노선(7700번)이 2023년 3월 20일(월) 새벽 첫차부터 모든 구간에 좌석제가 전면 시행된다고 18일 밝혔다. 인천교통공사는 시행 초기 이용 고객의 혼선을 최소화하기 위해 <b>청라<\/b>~강서 BRT 노선의... ",
-			"pubDate":"Sat, 18 Mar 2023 17:16:00 +0900"
-		},
-		{
 			"title":"인천TP, 의료·바이오 기업 성장 뒷받침",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=390942",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=390942",
 			"description":"송도·영종·<b>청라<\/b> 등 인천경제자유구역의 핵심 전략산업 가운데 하나인 바이오헬스케어 기반 생태계 조성 및 입주기업의 성장을 돕는 사업이다. 지원 부문은 △인증·지적재산권(IP) 획득 △기술 자문 △연구·개발(R&amp;D)... ",
+			"pubDate":"Sat, 18 Mar 2023 17:16:00 +0900"
+		},
+		{
+			"title":"인천교통공사, <b>청라<\/b>-강서 BRT(7700번) 좌석제 전면 시행",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=390948",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=390948",
+			"description":"일환으로, <b>청라<\/b>~강서 BRT노선(7700번)이 2023년 3월 20일(월) 새벽 첫차부터 모든 구간에 좌석제가 전면 시행된다고 18일 밝혔다. 인천교통공사는 시행 초기 이용 고객의 혼선을 최소화하기 위해 <b>청라<\/b>~강서 BRT 노선의... ",
 			"pubDate":"Sat, 18 Mar 2023 17:16:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004983259?sid=102",
 			"description":"20일부터 <b>청라<\/b>~강서 BRT노선(7700번)의 좌석제를 시행한다고 17일 밝혔다. 공사는 시행 초기 승객의 혼선을 최소화하기 위해 <b>청라<\/b>~강서 BRT 노선의 모든 차량에 빈자리표시기를 설치할 예정이다. 공사는 우선 오는... ",
 			"pubDate":"Fri, 17 Mar 2023 16:34:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>~서울 강서 BRT...전 구간 좌석제 전면 시행",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1212920\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002693475?sid=004",
-			"description":"인천 <b>청라<\/b>에서 서울 강서를 오가는 간선급행버스(BRT)가 다음주부터 전 구간 좌석제가 전면 시행된다. 17일 인천교통공사에 따르면 <b>청라<\/b>~강서 BRT노선인 7700번이 오는 20일 새벽 첫차부터 모든 구간에 좌석제가 전면... ",
-			"pubDate":"Fri, 17 Mar 2023 16:33:00 +0900"
 		}
 	]
 }
