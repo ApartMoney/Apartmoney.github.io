@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 19 Mar 2023 22:10:03 +0900",
-	"total":197547,
+	"lastBuildDate":"Sun, 19 Mar 2023 22:20:02 +0900",
+	"total":197548,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구소방·교통公, 심폐소생술 교육",
+			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=414217",
+			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=414217",
+			"description":"오후 2시부터 4시까지 반월당, <b>청라<\/b>언덕, 명덕역 등 도시철도 환승역에서 심폐소생술 교육을 실시했다. 이날 교육은 최근 심폐소생술에 대한 관심이 높아지고, 교육을 받고자 하는 시민들이 늘면서 교육 기회를 제공하기... ",
+			"pubDate":"Sun, 19 Mar 2023 22:14:00 +0900"
+		},
 		{
 			"title":"[경인 WIDE] &apos;자원순환사회&apos; 피할수 없는 과제… 시설 포화 &apos;쓰레기대란&apos; 비상",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230317010003285",
@@ -33,17 +40,17 @@
 			"pubDate":"Sun, 19 Mar 2023 19:52:00 +0900"
 		},
 		{
-			"title":"지하철 7호선 부천구간 운행 중단 걱정 뚝",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021593",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021593",
-			"description":"또 현재 운영 중인 까치울~석남 구간(11개역)에 이어 앞으로 추가 연장할 <b>청라<\/b> 구간의 안정감 있는 운영 기반도 마련했다. 유정복 인천시장은 &quot;서울 7호선을 중단 없이 운영하도록 협력해 주신 대광위, 경기도, 부천시... ",
-			"pubDate":"Sun, 19 Mar 2023 19:32:00 +0900"
-		},
-		{
 			"title":"김교흥 의원, 22~23일 인천 서구서 의정보고회 개최",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021514",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021514",
 			"description":"의정보고회 주제는 &apos;김교흥의 진심, 김교흥의 약속&apos;이며 22일 오후 6시 서구문화회관(가정·석남·신현·원창·가좌권역), 23일 오후 6시 <b>청라<\/b>2동 행정복지센터(<b>청라<\/b>권역)에서 지역 맞춤형 의정보고회를 진행한다. 국회... ",
+			"pubDate":"Sun, 19 Mar 2023 19:32:00 +0900"
+		},
+		{
+			"title":"지하철 7호선 부천구간 운행 중단 걱정 뚝",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021593",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1021593",
+			"description":"또 현재 운영 중인 까치울~석남 구간(11개역)에 이어 앞으로 추가 연장할 <b>청라<\/b> 구간의 안정감 있는 운영 기반도 마련했다. 유정복 인천시장은 &quot;서울 7호선을 중단 없이 운영하도록 협력해 주신 대광위, 경기도, 부천시... ",
 			"pubDate":"Sun, 19 Mar 2023 19:32:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20230319113803989",
 			"description":"부대사업개발 인력 등 46명 증원하기로 <b>청라<\/b>~강서 BRT(7700번) 좌석제 전면 시행 아주경제=(인천)강대웅... <b>청라<\/b>~강서 BRT(7700번) 좌석제 전면 시행 [사진=인천교통공사] 인천교통공사는 최근 이슈로 대두되고 있는... ",
 			"pubDate":"Sun, 19 Mar 2023 11:46:00 +0900"
-		},
-		{
-			"title":"인천교통공사, 서울7호선 부천구간 운영권 연장 합의",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202303191138127989",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004983439?sid=102",
-			"description":"또 현재 운영 중인 까치울~석남(11개역) 구간에 이어 앞으로 추가 연장될 <b>청라<\/b> 구간의 안정적인 운영 기반도 마련할 수 있게 됐다. 유정복 인천시장은 “인천시민은 물론 서울, 경기 등 수도권 도시철도 이용객이... ",
-			"pubDate":"Sun, 19 Mar 2023 11:44:00 +0900"
 		}
 	]
 }
