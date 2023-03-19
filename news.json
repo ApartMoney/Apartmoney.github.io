@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 19 Mar 2023 15:00:02 +0900",
-	"total":197530,
+	"lastBuildDate":"Sun, 19 Mar 2023 15:10:02 +0900",
+	"total":197531,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천TP, 바이오헬스케어 기술개발 지원사업 참여 기업 모집",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363583228",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363583228",
+			"description":"송도·영종·<b>청라<\/b> 등 인천경제자유구역의 핵심 전략산업 중 하나인 바이오헬스케어 기반 생태계 조성 및 입주기업의 성장을 지원하기 위해 마련된 사업이다. 지원 부문은 ▶인증·지적재산권 획득 ▶기술자문 ▶연구... ",
+			"pubDate":"Sun, 19 Mar 2023 15:02:00 +0900"
+		},
 		{
 			"title":"인천교통공사, <b>청라<\/b>~강서 7700번 좌석제 전면 시행",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230317010005035",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011749914?sid=102",
 			"description":"103-1) ▲<b>청라<\/b>로또하엘점(인천 서구 <b>청라<\/b>한내로 96 112호) ▲복권나라(광주 북구 서하로 117 101호) ▲씨스페이스 아산모종로또점(충남 아산시 문화로 329 1층 104호) ▲복권나라동성점(전남 순천시 연향번영길... ",
 			"pubDate":"Sat, 18 Mar 2023 21:15:00 +0900"
-		},
-		{
-			"title":"로또 3월 18일 제1059회 당첨번호와 1등 판매지역은?",
-			"originallink":"http:\/\/www.mydaily.co.kr\/new_yk\/html\/read.php?newsid=202303182111705246&ext=na&utm_campaign=naver_news&utm_source=naver&utm_medium=related_news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/117\/0003708855?sid=103",
-			"description":"<b>청라<\/b>로또하엘점: 인천 서구 <b>청라<\/b>한내로 96 112호(<b>청라<\/b>동, 하엘에스페이스) 8. 훼미리그랜드: 광주 동구 의재로 34-1 CU그랜드점내 9. 복권나라(매곡동): 광주 북구 서하로 117 101호 (매곡동) 10. 주택복권방: 경기... ",
-			"pubDate":"Sat, 18 Mar 2023 21:13:00 +0900"
 		}
 	]
 }
