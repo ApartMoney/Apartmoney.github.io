@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 20 Mar 2023 13:40:03 +0900",
-	"total":197559,
+	"lastBuildDate":"Mon, 20 Mar 2023 13:50:02 +0900",
+	"total":197560,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천교통공사, <b>청라<\/b>~강서 BRT(7700번) 좌석제 전면 시행",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=946779",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=946779",
+			"description":"인천교통공사는 <b>청라<\/b>~강서 BRT노선(7700번)이 20일 새벽 첫차부터 모든 구간에 좌석제가 전면 시행됐다고... 공사는 시행 초기 이용 고객의 혼선을 최소화하기 위해 <b>청라<\/b>~강서 BRT 노선의 모든 차량에... ",
+			"pubDate":"Mon, 20 Mar 2023 13:44:00 +0900"
+		},
 		{
 			"title":"인천시(교통공사), 서울7호선 부천구간 운영권 연장 전격 합의",
 			"originallink":"http:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=289015",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363583228",
 			"description":"송도·영종·<b>청라<\/b> 등 인천경제자유구역의 핵심 전략산업 중 하나인 바이오헬스케어 기반 생태계 조성 및 입주기업의 성장을 지원하기 위해 마련된 사업이다. 지원 부문은 ▶인증·지적재산권 획득 ▶기술자문 ▶연구... ",
 			"pubDate":"Sun, 19 Mar 2023 15:02:00 +0900"
-		},
-		{
-			"title":"인천교통공사, <b>청라<\/b>~강서 7700번 좌석제 전면 시행",
-			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230317010005035",
-			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230317010005035",
-			"description":"일환으로, <b>청라<\/b>~강서 BRT노선(7700번)이 3월 20일 새벽 첫차부터 모든 구간에 좌석제로 시행된다고 밝혔다. 공사는 시행 초기 이용 고객의 혼선을 최소화하기 위해 <b>청라<\/b>~강서 BRT 노선의 모든 차량에... ",
-			"pubDate":"Sun, 19 Mar 2023 14:46:00 +0900"
 		}
 	]
 }
