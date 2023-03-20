@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 20 Mar 2023 13:50:02 +0900",
-	"total":197560,
+	"lastBuildDate":"Mon, 20 Mar 2023 14:00:03 +0900",
+	"total":197561,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 &apos;북항터널&apos; 물고임 현상…세부 설계기준 미비 때문",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29N3MOSLKZ",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004169067?sid=102",
+			"description":"이에 따라 포스코건설 측은 물고임 발생 구간인 터널 최저점부에서 <b>청라<\/b> 방향 왕복 3200m 구간에 대해 유공관을 전면 교체하고, 부직포를 제거하기로 했다. 또 유지관리홀 66개과 집수정을 설치, 배수시설의 유지 관리... ",
+			"pubDate":"Mon, 20 Mar 2023 13:58:00 +0900"
+		},
 		{
 			"title":"인천교통공사, <b>청라<\/b>~강서 BRT(7700번) 좌석제 전면 시행",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=946779",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.segyebiz.com\/newsView\/20230319507892?OutUrl=naver",
 			"description":"이상훈 <b>청라<\/b>바른정형외과 대표원장(정형외과 전문의)에 따르면 나이가 들면서 척추 역시 퇴행성변화가 진행되는데, 척추 구조물이 약해지면 뼈가 흔들리게 되고 이런 문제를 보완하기 위해 인대가 점차 두껍고 딱딱하게... ",
 			"pubDate":"Sun, 19 Mar 2023 16:14:00 +0900"
-		},
-		{
-			"title":"인천TP, 바이오헬스케어 기술개발 지원사업 참여 기업 모집",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363583228",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363583228",
-			"description":"송도·영종·<b>청라<\/b> 등 인천경제자유구역의 핵심 전략산업 중 하나인 바이오헬스케어 기반 생태계 조성 및 입주기업의 성장을 지원하기 위해 마련된 사업이다. 지원 부문은 ▶인증·지적재산권 획득 ▶기술자문 ▶연구... ",
-			"pubDate":"Sun, 19 Mar 2023 15:02:00 +0900"
 		}
 	]
 }
