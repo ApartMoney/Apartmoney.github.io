@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 20 Mar 2023 14:20:03 +0900",
-	"total":197562,
+	"lastBuildDate":"Mon, 20 Mar 2023 14:30:02 +0900",
+	"total":197563,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천북항터널, 물고임 현상…원인은 굳은 ‘부직포’때문에 발생",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230320_0002233284&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011752112?sid=102",
+			"description":"이에 따라 포스코건설 측은 물고임 발생 구간인 터널 최저점부에서 <b>청라<\/b> 방향 왕복 3200m 구간에 대해 유공관을 전면 교체하고, 부직포를 제거하기로 했다. 또한 유지관리홀 66개과 집수정을 설치, 배수시설의 유지 관리... ",
+			"pubDate":"Mon, 20 Mar 2023 14:25:00 +0900"
+		},
 		{
 			"title":"인천시 교통공사, 서울7호선 부천구간 운영권 연장 적격 합의",
 			"originallink":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=185844",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=390968",
 			"description":"연장될 <b>청라<\/b> 구간의 안정적인 운영 기반도 마련할 수 있게 됐다. 유정복 인천시장은 &quot;도시철도는 무엇보다 시민의 안전과 편의가 우선돼야 한다&quot;면서, &quot;인천시민은 물론 서울, 경기 등 수도권 도시철도 이용객이 안전하고... ",
 			"pubDate":"Sun, 19 Mar 2023 17:12:00 +0900"
-		},
-		{
-			"title":"&apos;중단 위기&apos; 7호선 부천·인천구간, 인천교통공사 운영 합의",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=227983",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=227983",
-			"description":"현재 운영 중인 까치울~석남(11개역) 구간에 이어 앞으로 추가 연장될 <b>청라<\/b> 구간의 안정적인 운영 기반도 마련했다는 것이 시의 설명이다. 유정복 인천시장은 &quot;도시철도는 무엇보다 시민의 안전과 편의가 우선돼야 한다... ",
-			"pubDate":"Sun, 19 Mar 2023 16:16:00 +0900"
 		}
 	]
 }
