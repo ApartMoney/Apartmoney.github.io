@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 21 Mar 2023 11:00:03 +0900",
-	"total":197605,
+	"lastBuildDate":"Tue, 21 Mar 2023 11:10:02 +0900",
+	"total":197606,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천TP, 미래 이끌 로봇 꿈나무 육성",
+			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1390931",
+			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1390931",
+			"description":"상반기 교육은 다음 달 15일부터 7월 16일까지 주말에 <b>청라<\/b>국제도시 로봇타워 20층 교육실에서 진행됩니다. 수강 신청은 오는 27일부터 다음 달 7일까지 인천TP 누리집(www.itp.or.kr)을 통해 접수하면 됩니다.",
+			"pubDate":"Tue, 21 Mar 2023 11:06:00 +0900"
+		},
 		{
 			"title":"유정복 시장, 실질적 성과 창출에 전 간부들의 헌신 강조",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=411774",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=228028",
 			"description":"기자｜인천 <b>청라<\/b>와 서울 강서를 잇는 간선급행버스(BRT)가 20일부터 전면 좌석제를 도입한 가운데, 출퇴근길 대안 없은 좌석제는 탁상행정이라는 지적이 나왔다. 더불어민주당 유동수(인천 계양구갑) 국회의원은 <b>청라<\/b>... ",
 			"pubDate":"Mon, 20 Mar 2023 17:12:00 +0900"
-		},
-		{
-			"title":"인천 북항터널 물고임 원인은 부직포... 시공사, 개선 공사",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=228021",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=228021",
-			"description":"이에 포스코건설 측은 물고임 발생 구간인 터널 최저점부에서 <b>청라<\/b> 방향 왕복 3200m 구간 유공관을 전면 교체하고, 부직포를 제거하기로 했다. 또한, 유지관리홀 66개와 집수정을 설치하고 배수시설 유지 관리 시스템을... ",
-			"pubDate":"Mon, 20 Mar 2023 16:46:00 +0900"
 		}
 	]
 }
