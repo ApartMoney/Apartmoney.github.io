@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 23 Mar 2023 11:30:02 +0900",
-	"total":197706,
+	"lastBuildDate":"Thu, 23 Mar 2023 11:40:02 +0900",
+	"total":197707,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[팀장시각] 태양광·수소에 달린 ‘꼬리표’",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230323000427",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002120431?sid=110",
+			"description":"앞선 10월 7일에는 인천 <b>청라<\/b>지구에서 열린 ‘수소경제 성과 및 수소 선도국가 비전 보고’에 참석해 최태원 SK그룹 회장, 정의선 현대차그룹 회장 등과 수소트램을 체험하고 “수소경제는 우리 정부가 역점을 두고 있는... ",
+			"pubDate":"Thu, 23 Mar 2023 11:31:00 +0900"
+		},
 		{
 			"title":"입주폭탄 대구, 마피·다운계약 ‘몸살’",
 			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230323000338",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001863819?sid=102",
 			"description":"영종, <b>청라<\/b>, 송도. 여기가 눈부시게 발전하고, <b>청라<\/b>에도 800병상의 아산병원도 들어설 예정이고. 27년도 완성되고. 또 26년 말에는 연세세브란스병원이 들어서요. 그다음에 가까운 바로 길 건너의 시흥도 서울대병원... ",
 			"pubDate":"Wed, 22 Mar 2023 13:29:00 +0900"
-		},
-		{
-			"title":"2023학년도 미대 합격생 인터뷰",
-			"originallink":"http:\/\/www.naeil.com\/news_view\/?id_art=455038",
-			"link":"http:\/\/www.naeil.com\/news_view\/?id_art=455038",
-			"description":"중3부터 <b>청라<\/b> 클릭전원 미술학원에서 예고입시를 준비한 그는 고3 3월부터 자연스럽게 부천 클릭전원 미술학원에서 대입을 준비하게 됐다. “경기예고는 일반고에 비해 미술 활동이 많아요. 상을 받을 수 있는 교내 전시... ",
-			"pubDate":"Wed, 22 Mar 2023 12:46:00 +0900"
 		}
 	]
 }
