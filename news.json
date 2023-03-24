@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 24 Mar 2023 10:30:03 +0900",
-	"total":197749,
+	"lastBuildDate":"Fri, 24 Mar 2023 10:40:02 +0900",
+	"total":197750,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서 음주운전 후 중앙 분리대 들이받은 40대 입건",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1186937",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1186937",
+			"description":"A씨는 전날 오후 11시45분쯤 서구 <b>청라<\/b>동 한 도로에서 술에 취한 상태로 차를 몰다가 중앙 분리대 겸 화단을 들이받은 혐의를 받고 있다. 음주 측정 결과, A씨 혈중알코올농도는 면허 취소(0.08% 이상) 수치로 확인됐다.... ",
+			"pubDate":"Fri, 24 Mar 2023 10:38:00 +0900"
+		},
 		{
 			"title":"인천서 음주운전 외제차 화단 들이받고 불나 운전자 부상",
 			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007127350&plink=ORI&cooper=NAVER",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.redaily.co.kr\/news\/articleView.html?idxno=5339",
 			"description":"공항철도의 독립운임구간 정기승차권은 <b>청라<\/b>국제도시역-인천공항2터미널역 사이 구간을 지정, 기간 내 할인된 운임으로 사용할 수 있는 정기권이다. 애플페이로 직통열차 승차권 결제 시, 승객은 측면버튼이나 터치ID... ",
 			"pubDate":"Thu, 23 Mar 2023 16:16:00 +0900"
-		},
-		{
-			"title":"&quot;<b>청라<\/b>소각장 증설 아냐, 인천 권역별 소각장 조속 추진에 최선&quot;",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=228176",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=228176",
-			"description":"인천투데이=장호영 기자｜유정복 인천시장이 <b>청라<\/b>소각장(<b>청라<\/b>자원환경센터) 증설 의혹과 관련해 사실이 아니며, 2026년 수도권매립지 종료를 위해 <b>청라<\/b>소각장 대신 추진 중인 북부 권역 소각장 등 4대 권역별 소각장... ",
-			"pubDate":"Thu, 23 Mar 2023 16:06:00 +0900"
 		}
 	]
 }
