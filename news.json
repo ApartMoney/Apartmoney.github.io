@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 26 Mar 2023 13:40:02 +0900",
-	"total":197791,
+	"lastBuildDate":"Sun, 26 Mar 2023 13:50:02 +0900",
+	"total":197793,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 블록체인 기술혁신지원센터 유치 나선다",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=741515",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=741515",
+			"description":"시는 지역특화 바이오‧헬스 산업, 인천경제자유구역, 글로벌 기업‧대학 등 인천이 보유한 최적의 입지와 송도-영종-<b>청라<\/b>-미추홀(원도심) 연결의 4차 산업혁명 기술 혁신생태계 조성 등을 강조해 블록체인... ",
+			"pubDate":"Sun, 26 Mar 2023 13:48:00 +0900"
+		},
+		{
+			"title":"유정복 인천시장 &quot;인천, 4차 산업혁명 기반의 디지털 경제특구 최적지&quot;",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230326010006311",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230326010006311",
+			"description":"시는 이에따라 지역특화 바이오·헬스 산업, 인천경제자유구역(IFEZ), 글로벌 기업·대학 등 인천이 보유한 최적의 입지와 송도-영종-<b>청라<\/b>-미추홀(원도심) 등으로 연결되는 4차 산업혁명 기술 혁신생태계 조성에 최적의... ",
+			"pubDate":"Sun, 26 Mar 2023 13:44:00 +0900"
+		},
 		{
 			"title":"인천시, 블록체인 기술혁신지원센터 유치 도전",
 			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0018092071&code=61121111&cp=nv",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013836320?sid=102",
 			"description":"24일 인천 서부경찰서에 따르면 전날 오후 11시 45분께 인천시 서구 <b>청라<\/b>동의 한 도로에서 40대 A씨가 몰던 벤츠 차량이 중앙 화단을 들이받았다. 사고 직후 차량 엔진룸에서 불길과 연기가 치솟았으나 A씨는 미처 대피하지... ",
 			"pubDate":"Fri, 24 Mar 2023 16:50:00 +0900"
-		},
-		{
-			"title":"검단·<b>청라<\/b>·루원 집값 바닥 쳤나... 보합세 전환 코앞",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=94438",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=94438",
-			"description":"인천 <b>청라<\/b>국제도시 아파트 단지 전경. 사진=인천경제자유구역청 지난해 인천에서 하락폭이 컸던 서구 아파트값이 최근 낙폭을 크게 줄이면서 보합세 전환에 대한 기대를 높이고 있다. 검단신도시와 <b>청라<\/b>국제... ",
-			"pubDate":"Fri, 24 Mar 2023 16:22:00 +0900"
-		},
-		{
-			"title":"&quot;송도유원지 일대 경제자유구역 추가지정 꼭 필요한가?&quot;",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=411842",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=411842",
-			"description":"유 의원은 &quot;지금까지 송도, <b>청라<\/b>, 영종에 이르기까지 인천시의 경제자유구역이 경제자유구역으로의 기능과... 송도, <b>청라<\/b>, 영종 경제자유구역의 외자 유치가 부진한 상황에서 추가적인 경제자유구역의 지정으로... ",
-			"pubDate":"Fri, 24 Mar 2023 16:18:00 +0900"
 		}
 	]
 }
