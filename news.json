@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 29 Mar 2023 21:30:02 +0900",
-	"total":197948,
+	"lastBuildDate":"Wed, 29 Mar 2023 21:40:02 +0900",
+	"total":197949,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서한, 지역 건설사 매출 &apos;5년 연속 1위&apos;",
+			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=415388",
+			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=415388",
+			"description":"작년 한 해 동안 만촌역 서한포레스트, 대봉 서한포레스트, 반월당역 서한포레스트, <b>청라<\/b>언덕역 서한포레스트, 유성둔곡지구 서한이다음 1·2단지 등 6개 단지 3천194세대의 입주가 이어지고 있으며, 내달에는 서대구역... ",
+			"pubDate":"Wed, 29 Mar 2023 21:34:00 +0900"
+		},
 		{
 			"title":"인천시교육청, 교육부에 인천 계양구 북부 관할로 편입 요청",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=392332",
@@ -145,17 +152,17 @@
 			"pubDate":"Wed, 29 Mar 2023 15:32:00 +0900"
 		},
 		{
-			"title":"인천시교육청, 교육부에 인천 계양구 북부 관할 편입 요청",
-			"originallink":"http:\/\/www.breaknews.com\/956364",
-			"link":"http:\/\/www.breaknews.com\/956364",
-			"description":"많고, <b>청라<\/b>, 검단, 루원시티 등 대규모 개발 사업이 진행되면서 인구 유입이 계속되고 있다. 또 신설 학교도 지속적으로 늘고 있어 교육지원청이 관할하는 규모의... ",
-			"pubDate":"Wed, 29 Mar 2023 15:06:00 +0900"
-		},
-		{
 			"title":"인천시교육청, ‘계양구 북부 관할로 편입’ 교육부에 요청",
 			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230329000634",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002123089?sid=102",
 			"description":"반면 계양구와 서구를 관할하는 서부교육지원청은 서구만으로도 인구수와 학생 수가 인천 자치구 중 가장 많고 <b>청라<\/b>, 검단, 루원시티 등 대규모 개발 사업이 진행되면서 인구 유입이 계속되고 있다. 또 신설 학교도... ",
+			"pubDate":"Wed, 29 Mar 2023 15:06:00 +0900"
+		},
+		{
+			"title":"인천시교육청, 교육부에 인천 계양구 북부 관할 편입 요청",
+			"originallink":"http:\/\/www.breaknews.com\/956364",
+			"link":"http:\/\/www.breaknews.com\/956364",
+			"description":"많고, <b>청라<\/b>, 검단, 루원시티 등 대규모 개발 사업이 진행되면서 인구 유입이 계속되고 있다. 또 신설 학교도 지속적으로 늘고 있어 교육지원청이 관할하는 규모의... ",
 			"pubDate":"Wed, 29 Mar 2023 15:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230329010009466",
 			"description":"지난해 만촌역 서한포레스트, 대봉 서한포레스트, 반월당역 서한포레스트, <b>청라<\/b>언덕역 서한포레스트, 유성둔곡지구 서한이다음 1ㆍ2단지 등 6개 단지 3194세대의 입주가 이어지고 있다. 다음 달에는 서대구역... ",
 			"pubDate":"Wed, 29 Mar 2023 14:06:00 +0900"
-		},
-		{
-			"title":"인천시교육청 교육부에 인천 계양구 북부 관할로 편입 요청",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20230329010009450",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230329010009450",
-			"description":"반면 계양구와 서구를 관할하는 서부교육지원청은 서구만으로도 인구수와 학생 수가 인천 자치구 중 가장 많고, <b>청라<\/b>, 검단, 루원시티 등 대규모 개발 사업이 진행되면서 인구 유입이 계속되고 있다. 또 신설 학교도... ",
-			"pubDate":"Wed, 29 Mar 2023 13:54:00 +0900"
 		}
 	]
 }
