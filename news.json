@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 29 Mar 2023 19:40:02 +0900",
-	"total":197943,
+	"lastBuildDate":"Wed, 29 Mar 2023 19:50:02 +0900",
+	"total":197944,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 행정구역 개편 설명회…주민은 &apos;지역 발전&apos; 외쳤다",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1187746",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1187746",
+			"description":"아라동 주민 김모씨는 &quot;단순히 거주 인구가 늘어나니 행정구역을 분리하겠다는 얘기보다는 실질적으로 검단을 어떻게 발전시킬지, 어떻게 세수를 확보할지 등에 대한 계획을 알고 싶다&quot;며 &quot;<b>청라<\/b>와 송도국제도시처럼... ",
+			"pubDate":"Wed, 29 Mar 2023 19:44:00 +0900"
+		},
 		{
 			"title":"인천시교육청 &apos;계양구&apos; 북부교육청 관할로 이관 요청",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230329010005546",
@@ -110,17 +117,17 @@
 			"pubDate":"Wed, 29 Mar 2023 15:32:00 +0900"
 		},
 		{
-			"title":"인천시교육청, 교육부에 인천 계양구 북부 관할 편입 요청",
-			"originallink":"http:\/\/www.breaknews.com\/956364",
-			"link":"http:\/\/www.breaknews.com\/956364",
-			"description":"많고, <b>청라<\/b>, 검단, 루원시티 등 대규모 개발 사업이 진행되면서 인구 유입이 계속되고 있다. 또 신설 학교도 지속적으로 늘고 있어 교육지원청이 관할하는 규모의... ",
-			"pubDate":"Wed, 29 Mar 2023 15:06:00 +0900"
-		},
-		{
 			"title":"인천시교육청, ‘계양구 북부 관할로 편입’ 교육부에 요청",
 			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230329000634",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002123089?sid=102",
 			"description":"반면 계양구와 서구를 관할하는 서부교육지원청은 서구만으로도 인구수와 학생 수가 인천 자치구 중 가장 많고 <b>청라<\/b>, 검단, 루원시티 등 대규모 개발 사업이 진행되면서 인구 유입이 계속되고 있다. 또 신설 학교도... ",
+			"pubDate":"Wed, 29 Mar 2023 15:06:00 +0900"
+		},
+		{
+			"title":"인천시교육청, 교육부에 인천 계양구 북부 관할 편입 요청",
+			"originallink":"http:\/\/www.breaknews.com\/956364",
+			"link":"http:\/\/www.breaknews.com\/956364",
+			"description":"많고, <b>청라<\/b>, 검단, 루원시티 등 대규모 개발 사업이 진행되면서 인구 유입이 계속되고 있다. 또 신설 학교도 지속적으로 늘고 있어 교육지원청이 관할하는 규모의... ",
 			"pubDate":"Wed, 29 Mar 2023 15:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=94523",
 			"description":"계양구와 서구를 관할하는 서부교육지원청은 인구수와 학생 수가 인천 자치구 중 가장 많은고 <b>청라<\/b>국제도시, 검단신도시, 루원시티 등 대규모 개발 사업으로 인구 유입이 계속되고 있다. 또 신설 학교도 늘고 있어... ",
 			"pubDate":"Wed, 29 Mar 2023 11:42:00 +0900"
-		},
-		{
-			"title":"[29일 인천시교육청 소식] 교육부에 &apos;계양구, 북부 관할로 편입&apos; 요청 등",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20230329500147",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20230329500147",
-			"description":"반면 계양구와 서구를 관할하는 서부교육지원청은 서구만으로도 인구수와 학생 수가 인천 자치구 중 가장 많고, <b>청라<\/b>, 검단, 루원시티 등 대규모 개발 사업이 진행되면서 인구 유입이 계속되고 있다. 또 신설 학교도... ",
-			"pubDate":"Wed, 29 Mar 2023 11:32:00 +0900"
 		}
 	]
 }
