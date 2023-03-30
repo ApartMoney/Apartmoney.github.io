@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 30 Mar 2023 17:40:02 +0900",
-	"total":197971,
+	"lastBuildDate":"Thu, 30 Mar 2023 17:50:02 +0900",
+	"total":197972,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서 병원 또 돌연 폐업... 입원 환자들 혼란",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=94563",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=94563",
+			"description":"인천 <b>청라<\/b>국제도시 A 재활전문병원 전경. 사진=카카오맵 인천 <b>청라<\/b>국제도시에 있는 한 재활전문병원이 폐업을 하루 앞두고 운영 종료를 통보해 입원 환자들이 혼란을 겪고 있다. 30일 관련 업계에 따르면 서구 <b>청라<\/b>동에... ",
+			"pubDate":"Thu, 30 Mar 2023 17:44:00 +0900"
+		},
 		{
 			"title":"인천시, 올 상반기 정부에 행정체제 개편 공식 건의…검단·영종·제물포구 신...",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023033015582369900",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230329010005546",
 			"description":"그런데 <b>청라<\/b>국제도시와 검단신도시, 루원시티 등 서구 지역의 대규모 도시 개발 사업이 이어지면서 학생 수도 계속해서 증가하는 데다, 신설 학교도 많아져 업무 부담이 늘어나고 있다. 부평구 지역의 초·중등학교만... ",
 			"pubDate":"Wed, 29 Mar 2023 18:42:00 +0900"
-		},
-		{
-			"title":"인천 ‘행정구역 개편’ 앞서 ‘교육 행정구역 조정’ 먼저 착수",
-			"originallink":"http:\/\/www.ifm.kr\/news\/357738",
-			"link":"http:\/\/www.ifm.kr\/news\/357738",
-			"description":"서구는 <b>청라<\/b>와 검단, 루윈시티 등 대규모 개발사업이 진행되면서 인구 유입도 계속 늘어, 올해에만 4곳의 학교가 신설됩니다. 이에 따라 시교육청은 부평구와 인접한 계양구를 북부교육지원청으로 편입시키는 방안을... ",
-			"pubDate":"Wed, 29 Mar 2023 18:00:00 +0900"
 		}
 	]
 }
