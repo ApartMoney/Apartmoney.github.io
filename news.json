@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 02 Apr 2023 06:00:03 +0900",
-	"total":197629,
+	"lastBuildDate":"Sun, 02 Apr 2023 06:10:02 +0900",
+	"total":197630,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"지역 곳곳에 전기차 충전시설 설치…충전 사각지대 없애는 인천시",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202303311349403321",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004990314?sid=102",
+			"description":"국제 금융·관광 유통 촉진 <b>청라<\/b>국제도시 전기차 충전 편의시설 허브 구축사업에는 75억원(국비 36억, 민간 39억)을 들여 남동구, 계양구, 서구 일원에 급속 153기, 완속 35기를 설치한다. 강화도 역사 문화 관광... ",
+			"pubDate":"Sun, 02 Apr 2023 06:01:00 +0900"
+		},
 		{
 			"title":"보령시 자원봉사센터, &apos;가치차린 행복도시락&apos; 동행 시작",
 			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2195438",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002124146?sid=102",
 			"description":"영종대교, 인천대교를 건너 송도(연세대 세브란스병원), <b>청라<\/b>(서울 아산병원), 시흥시(서울대병원)에 종합병원들이 건립될 예정인데, 영종국제도시에 종합병원을 설립하는 것은 중복투자에 불과하다는 논리로, 이는 영종... ",
 			"pubDate":"Fri, 31 Mar 2023 11:02:00 +0900"
-		},
-		{
-			"title":"인천시, 총 333억원 투입해 관내 곳곳에 전기차 충전시설 905기 확충",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230331010007875",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230331010007875",
-			"description":"또「글로벌 거점 송도국제도시 전기차 충전 편의시설 구축사업」에는 89억원(국비 43억, 민간 46억)을 들여 연수구, 부평구를 중심으로 급속 205기, 완속 16기를, 「국제 금융·관광 유통 촉진 <b>청라<\/b>국제도시 전기차... ",
-			"pubDate":"Fri, 31 Mar 2023 10:46:00 +0900"
 		}
 	]
 }
