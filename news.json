@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 03 Apr 2023 07:00:02 +0900",
-	"total":197723,
+	"lastBuildDate":"Mon, 03 Apr 2023 07:10:02 +0900",
+	"total":197725,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[IB토마토]&apos;홀로서기&apos; 실패한 신세계건설…다시 그룹의존도 심화 우려",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1182961&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1182961&inflow=N",
+			"description":"현재 신세계건설이 진행하고 있는 계열사 공사는 △스타필드 수원(수주잔고 2388억원) △장충동 교육연구시설(553억원) △스타필드 <b>청라<\/b>(339억원) △신세계 경기점 리모델링(234억원) △신세계 강남점 리모델링(207억원)... ",
+			"pubDate":"Mon, 03 Apr 2023 07:02:00 +0900"
+		},
+		{
+			"title":"충남 홍성 &apos;산불 3단계&apos;‥학교 3곳 휴교",
+			"originallink":"https:\/\/imnews.imbc.com\/replay\/2023\/nwtoday\/article\/6470136_36207.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001263667?sid=102",
+			"description":"보령시 <b>청라<\/b>면의 산불은 진화율 85%를 기록하고 있고, 당진시 대호지면의 산불은 70%가량 불길을 잡았습니다. 지금까지 충남 홍성 산불 현장에서 MBC 뉴스 이승섭입니다.",
+			"pubDate":"Mon, 03 Apr 2023 07:01:00 +0900"
+		},
 		{
 			"title":"충남 홍성 &apos;산불 3단계&apos;‥학교 3곳 휴업",
 			"originallink":"https:\/\/imnews.imbc.com\/replay\/2023\/nwtoday\/article\/6470115_36207.html",
@@ -15,7 +29,7 @@
 			"title":"홍성·대전 큰 산불 이틀째 이어져 ‘산불 3단계’…밤샘 진화에 진화율 60%",
 			"originallink":"https:\/\/www.khan.co.kr\/national\/incident\/article\/202304030613001",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003214847?sid=102",
-			"description":"산림 당국은 산불 2단계인 충남 보령시 <b>청라<\/b>면 내현리 야산에서 발생한 산불은 85% 가량 진화됐다고 설명했다. 이 산불로 건물 12채가 소실됐고, 인근 주민 14명이 마을회관으로 대피해 있다. 산림 당국 관계자는... ",
+			"description":"산림 당국은 충남 보령시 <b>청라<\/b>면 내현리 야산에서 발생한 산불은 85% 가량 진화됐다고 설명했다. 당국은 이 불에 대해 산불 2단계를 발령했다. 이 산불로 가옥 5채, 사찰 1채, 빈집 1채, 창고 1채, 하우스 4채 등 총 건물... ",
 			"pubDate":"Mon, 03 Apr 2023 06:14:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002792457?sid=102",
 			"description":"이날 오전 11시 충남 보령시 <b>청라<\/b>면 내현리 야산과 충남 당진 대호지면 사성리 야산에서 각각 발생한 산불은 바람을 타고 확산되면서 &apos;산불 2단계&apos;가 발령된 상황이다. 산림당국은 야간 진화 작업에 돌입했다. 산림청... ",
 			"pubDate":"Sun, 02 Apr 2023 21:04:00 +0900"
-		},
-		{
-			"title":"충남 홍성군 ‘산불 3단계’…야간 진화 중",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=7640998&ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011457325?sid=102",
-			"description":"충남에서는 홍성 외에도 금산군 복수면에도 산불3단계가 발령됐고, 보령시 <b>청라<\/b>면과 당진시 대호지면에 산불 2단계가 발령된 가운데 진화작업이 벌어지고 있습니다. 지금까지 충남 홍성군 산불 현장에서... ",
-			"pubDate":"Sun, 02 Apr 2023 21:01:00 +0900"
-		},
-		{
-			"title":"보령 <b>청라<\/b>면 임야 화재... 보령소방서 총력 대응",
-			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=290066",
-			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=290066",
-			"description":"2일 오후 1시 42분경 충남 보령시 <b>청라<\/b>면 내현리 소재 임야에 화재가 발생했다. 보령소방서는 즉시 대응 1단계를 발령, 초기부터 압도적인 소방력으로 총력 대응을 펼쳤다. 소방서는 인접 소방서 가용 인력과 장비까지... ",
-			"pubDate":"Sun, 02 Apr 2023 20:58:00 +0900"
 		}
 	]
 }
