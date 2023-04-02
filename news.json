@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 03 Apr 2023 08:10:02 +0900",
-	"total":197726,
+	"lastBuildDate":"Mon, 03 Apr 2023 08:20:02 +0900",
+	"total":197727,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"충남 홍성 산불 진화율 65%...오전 주불 진화 목표",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0115_202304030811447091",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001868393?sid=102",
+			"description":"보령시 <b>청라<\/b>면 산불은 진화율 85%로 주택과 사찰 등 시설물 12곳이 불에 탄 것으로 집계됐고, 당진시 대호지면에서 발생한 산불은 진화율 70%입니다. 산림 당국은 건조한 날씨로 산불 발생 위험이 큰 만큼, 쓰레기를... ",
+			"pubDate":"Mon, 03 Apr 2023 08:11:00 +0900"
+		},
 		{
 			"title":"보령 산불 85%, 당진 70% 진화..대응 2단계 발령",
 			"originallink":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/62066",
@@ -180,17 +187,17 @@
 			"pubDate":"Sun, 02 Apr 2023 21:32:00 +0900"
 		},
 		{
-			"title":"충남 홍성군 ‘산불 3단계’…야간 진화 중",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=7641010&ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011457337?sid=102",
-			"description":"충남에서는 홍성 외에도 금산군 복수면에도 산불3단계가 발령됐고, 보령시 <b>청라<\/b>면과 당진시 대호지면에 산불 2단계가 발령된 가운데 진화작업이 벌어지고 있습니다. 지금까지 충남 홍성군 산불 현장에서... ",
-			"pubDate":"Sun, 02 Apr 2023 21:26:00 +0900"
-		},
-		{
 			"title":"충남 홍성 산불 ‘대응 3단계’... 김태흠 지사 ‘도청 전 직원 동원령’",
 			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202304020077",
 			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202304020077",
 			"description":"이밖에 충남 보령시 <b>청라<\/b>면 내현리 377번지 일원에서도 오후 1시 42분경 원인을 알수 없는 산불이 발생해... 보령 <b>청라<\/b>중)에서 주민들의 편의를 최대한 제공할 것을 지시했다. 또한, 현재 산불 진화 중인 홍성군 서부면... ",
+			"pubDate":"Sun, 02 Apr 2023 21:26:00 +0900"
+		},
+		{
+			"title":"충남 홍성군 ‘산불 3단계’…야간 진화 중",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=7641010&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011457337?sid=102",
+			"description":"충남에서는 홍성 외에도 금산군 복수면에도 산불3단계가 발령됐고, 보령시 <b>청라<\/b>면과 당진시 대호지면에 산불 2단계가 발령된 가운데 진화작업이 벌어지고 있습니다. 지금까지 충남 홍성군 산불 현장에서... ",
 			"pubDate":"Sun, 02 Apr 2023 21:26:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011779148?sid=102",
 			"description":"오후 1시 42분께 보령시 <b>청라<\/b>면 내현리 377번지 일원에서 발생한 산불은 오후 7시 현재 35.9ha가 소실되고 주민 6명이 마을회관으로 대피했다. 85%가 진화된 상태다. 주택 4가구, 사찰 1동도 피해가 발생했다. 이날 산불... ",
 			"pubDate":"Sun, 02 Apr 2023 21:19:00 +0900"
-		},
-		{
-			"title":"부여 주불 진화, 당진·보령·천안·서산서도 산불",
-			"originallink":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/62056",
-			"link":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/62056",
-			"description":"홍성군에서 발생한 산불로 장비와 인력이 부족해 한때 진화에 어려움을 겪었습니다. 오전 11시쯤 당진 대호지면과 보령 <b>청라<\/b>면에서도 화재가 발생해 주민들이 마을회관에 대피했고, 아직까지 진화작업이 이어지고 있습니다.",
-			"pubDate":"Sun, 02 Apr 2023 21:06:00 +0900"
 		}
 	]
 }
