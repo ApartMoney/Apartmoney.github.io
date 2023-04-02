@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 03 Apr 2023 03:00:02 +0900",
-	"total":197717,
+	"lastBuildDate":"Mon, 03 Apr 2023 03:10:02 +0900",
+	"total":197718,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 원도심 중-동구 교통 인프라 확충",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20230403\/118646553\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003488956?sid=102",
+			"description":"송도와 중구 동인천, <b>청라<\/b>, 검단 등을 잇는 인천 3호선은 경제성 향상 방안을 보완해 제2차 인천 도시철도망 구축계획에 반영할 계획이다. 도로망 확충에도 속도를 내기로 했다. 제4경인고속화도로(서구 가좌 나들목∼구로... ",
+			"pubDate":"Mon, 03 Apr 2023 03:02:00 +0900"
+		},
 		{
 			"title":"대전·홍성·보령 산불 &quot;야간 강풍&quot; 번짐우려",
 			"originallink":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=51783",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202304020076",
 			"description":"산림청은 충남 보령시 <b>청라<\/b>면과 당진시 대호지면, 대전 서구 산직동 등 3곳에 ‘산불 2단계’를 발령했다.... 산림청은 2일 오후 6시 30분을 기해 보령시 <b>청라<\/b>면 산불 대응 단계를 1단계에서 2단계로 올렸다. 충남도청도... ",
 			"pubDate":"Sun, 02 Apr 2023 20:32:00 +0900"
-		},
-		{
-			"title":"충남 보령 주포면 &apos;산불 2단계&apos; 발령...진화율 30%",
-			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/2008939.htm",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000209337?sid=102",
-			"description":"산불진화헬기 5대, 진화장비 48대, 산불진화대원 780명을 투입해 진화 중 산림청 중앙산불방지대책본부는 2일 오전 11시께 충남 보령시 <b>청라<\/b>면 내현리 377 일원에서 발생한 산불의 확산을 막고 신속한 진화를 위해... ",
-			"pubDate":"Sun, 02 Apr 2023 20:20:00 +0900"
 		}
 	]
 }
