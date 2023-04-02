@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 02 Apr 2023 19:30:03 +0900",
-	"total":197676,
+	"lastBuildDate":"Sun, 02 Apr 2023 19:40:02 +0900",
+	"total":197677,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"충청권 동시다발 산불…강한 바람으로 불길 확산 피해 눈덩이",
+			"originallink":"http:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2056104",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000046599?sid=102",
+			"description":"충남 보령시 <b>청라<\/b>면 내현리 인근에서도 대형 산불이 발생했다. 보령시는 <b>청라<\/b>면 내현리, 장산리 등 인근 주민들에게 대피를 당부했다. 충남 부여군 세도면 동사리과 서산시 성연면 일람리에서도 산불이나 관계당국이... ",
+			"pubDate":"Sun, 02 Apr 2023 19:34:00 +0900"
+		},
 		{
 			"title":"충남 보령시 <b>청라<\/b>면 내현리 산불 2단계 등급 상향",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02027046635572184",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006722034?sid=102",
 			"description":"2일 오후 1시42분께 충남 보령시 <b>청라<\/b>면 내현리 377 일원에서 산불이 발생한 가운데, 오후 3시30분을 기해 산불 1단계가 발령됐다. 산림당국은 산불진화헬기 5대와 장비 26대, 산불진화대원 140명을 긴급 투입해 진화... ",
 			"pubDate":"Sun, 02 Apr 2023 15:56:00 +0900"
-		},
-		{
-			"title":"보령 <b>청라<\/b>면 ‘산불 1단계’ 발령…헬기 5대 ‘투입’",
-			"originallink":"https:\/\/cc.newdaily.co.kr\/site\/data\/html\/2023\/04\/02\/2023040200055.html",
-			"link":"https:\/\/cc.newdaily.co.kr\/site\/data\/html\/2023\/04\/02\/2023040200055.html",
-			"description":"뉴데일리 김정원 기자 = 2일 오후 1시 42분쯤 충남 보령시 <b>청라<\/b>면 내현리 377 일원에서 발생한 산불이 계속 확산하고 있다. 산림청은 보령 산불의 확산을 막고 신속한 진화를 위해 오후 3시 30분을 기준으로 ‘산불... ",
-			"pubDate":"Sun, 02 Apr 2023 15:52:00 +0900"
 		}
 	]
 }
