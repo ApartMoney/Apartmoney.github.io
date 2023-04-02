@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 02 Apr 2023 23:00:02 +0900",
-	"total":197708,
+	"lastBuildDate":"Sun, 02 Apr 2023 23:10:03 +0900",
+	"total":197709,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&apos;홍성 산불&apos;에 김태흠, &quot;주민대피 확인하라&quot;... 김지철, 3개 학교 휴업 지시",
+			"originallink":"http:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2056133",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000046666?sid=102",
+			"description":"김지철 교육감은 이날 회의를 직접 주재하고 동시다발적인 산불로 대피령이 발효되자 학교 피해 최소대책과 대피장소로 제공되는 홍성 서부초등학교, 당진 조금초등학교, 보령 <b>청라<\/b>중학교 등 3개 학교 학교에 대해서는... ",
+			"pubDate":"Sun, 02 Apr 2023 23:08:00 +0900"
+		},
 		{
 			"title":"보령소방서, <b>청라<\/b>면 내현리 임야화재 소방력 총동원해",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20230402221444434",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=745706",
 			"description":"보령시 자원봉사센터(센터장 임선배)는 지난달 31일 <b>청라<\/b>면 삼다향복지센터에서 `가치차린 행복도시락&apos; 나눔 봉사를 진행했다. \/보령",
 			"pubDate":"Sun, 02 Apr 2023 19:50:00 +0900"
-		},
-		{
-			"title":"금산·대전과 당진 산불에 &apos;산불 2단계&apos; 발령, 총력 대응",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230402_0002250672&cID=10807&pID=10800",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011779099?sid=102",
-			"description":"기사내용 요약 2단계 보령 <b>청라<\/b>면, 3단계 홍성 서부면 화재도 진화 난항 충남 금산에서 시작해 대전으로... 이에 앞서 충남 보령시 <b>청라<\/b>면 내현리서 발생한 산불은 오후 6시 기준 산불 2단계가, 홍성군 서부면 중리 야산... ",
-			"pubDate":"Sun, 02 Apr 2023 19:38:00 +0900"
 		}
 	]
 }
