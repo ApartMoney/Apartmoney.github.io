@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 03 Apr 2023 08:00:02 +0900",
-	"total":197725,
+	"lastBuildDate":"Mon, 03 Apr 2023 08:10:02 +0900",
+	"total":197726,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령 산불 85%, 당진 70% 진화..대응 2단계 발령",
+			"originallink":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/62066",
+			"link":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/62066",
+			"description":"어제(2) 하루 충남 곳곳에서 산불이 잇따른 가운데, 오후 2시 35분쯤 보령 <b>청라<\/b>면에서 발생한 산불은 어젯밤 주불을 잡으면서 현재 85% 가량 진화된 상탭니다. 또 어제 오전 11시 20분 발생한 당진 대호지면 산불 역시... ",
+			"pubDate":"Mon, 03 Apr 2023 08:06:00 +0900"
+		},
 		{
 			"title":"[IB토마토]&apos;홀로서기&apos; 실패한 신세계건설…다시 그룹의존도 심화 우려",
 			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1182961&inflow=N",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/62056",
 			"description":"홍성군에서 발생한 산불로 장비와 인력이 부족해 한때 진화에 어려움을 겪었습니다. 오전 11시쯤 당진 대호지면과 보령 <b>청라<\/b>면에서도 화재가 발생해 주민들이 마을회관에 대피했고, 아직까지 진화작업이 이어지고 있습니다.",
 			"pubDate":"Sun, 02 Apr 2023 21:06:00 +0900"
-		},
-		{
-			"title":"충남 홍성·보령·대전 등 전국 곳곳서 동시다발 산불 `야간 진화 중`",
-			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2023040202109931731004&ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002792457?sid=102",
-			"description":"이날 오전 11시 충남 보령시 <b>청라<\/b>면 내현리 야산과 충남 당진 대호지면 사성리 야산에서 각각 발생한 산불은 바람을 타고 확산되면서 &apos;산불 2단계&apos;가 발령된 상황이다. 산림당국은 야간 진화 작업에 돌입했다. 산림청... ",
-			"pubDate":"Sun, 02 Apr 2023 21:04:00 +0900"
 		}
 	]
 }
