@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 03 Apr 2023 00:40:02 +0900",
-	"total":197715,
+	"lastBuildDate":"Mon, 03 Apr 2023 00:50:02 +0900",
+	"total":197716,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대전·홍성 산불 &quot;장태산 번짐우려&quot; 긴장감 최고조",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2687607",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2687607",
+			"description":"특히 충남 홍성 산불과 금산·대전 산직동 산불, 보령 <b>청라<\/b>면 산불진화에 있어 야간체제 진화에 총력을... 또, 2일 오전 11시경, 충남도 보령시 <b>청라<\/b>면 내현리 377 일원에서 발생한 산불의 확산을 막고 신속한 진화를 위해... ",
+			"pubDate":"Mon, 03 Apr 2023 00:46:00 +0900"
+		},
 		{
 			"title":"홍성·대전 대형 산불…&apos;산불 3단계&apos; 야간 진화 주력",
 			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007138632&plink=ORI&cooper=NAVER",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004990588?sid=102",
 			"description":"이날 오전 11시께 보령시 <b>청라<\/b>면 내현리 야산에서 발생한 산불은 오후 6시30분 현재 &apos;산불 2단계&apos;가 발령됐으며 진화율은 30% 보이고 있다.산불영향구역은 22㏊, 화선은 3㎞까지 번진 것으로 추정된다. 이 불로... ",
 			"pubDate":"Sun, 02 Apr 2023 20:18:00 +0900"
-		},
-		{
-			"title":"대전·당진·보령 산불, &apos;2단계&apos; 상향 발령...진화 난항",
-			"originallink":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=438233",
-			"link":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=438233",
-			"description":"충남 보령시 <b>청라<\/b>면과 당진시 대호지면, 대전 서구 산직동 등 3곳에 &apos;산불 2단계&apos;가 발령됐다. 사진... 산림청은 2일 오후 6시 30분을 기해 보령시 <b>청라<\/b>면 산불 대응 단계를 1단계에서 2단계로 올렸다. 이 산불은 오전... ",
-			"pubDate":"Sun, 02 Apr 2023 20:08:00 +0900"
 		}
 	]
 }
