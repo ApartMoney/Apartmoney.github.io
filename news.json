@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 03 Apr 2023 15:20:02 +0900",
-	"total":197795,
+	"lastBuildDate":"Mon, 03 Apr 2023 15:30:02 +0900",
+	"total":197796,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"충남도의회, 충남 산불 현장 피해 상황 및 주민안전 점검",
+			"originallink":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=709327",
+			"link":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=709327",
+			"description":"도 의회에 따르면 건조주의보가 발효된 지난 2일 충남에는 ▲홍성군 서부면 중리 ▲당진시 대호지면 사성리 ▲금산군 복수면 지량리 ▲서산시 성연면 오사리 ▲보령시 <b>청라<\/b>면 내현리 ▲부여군 세도면 동사리 등 6개... ",
+			"pubDate":"Mon, 03 Apr 2023 15:26:00 +0900"
+		},
 		{
 			"title":"보령시, 3월 중 열심히 일한 공무원 선정 표창",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230403010000886",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001263733?sid=102",
 			"description":"보령시 <b>청라<\/b>면의 산불은 발생 21시간 만인 10시 52분 주불이 진화됐고, 당진시 대호지면의 산불은 78%가량, 불길을 잡은 상태입니다. 지금까지 홍성 산불 화재 현장에서 MBC뉴스 김광연입니다.",
 			"pubDate":"Mon, 03 Apr 2023 12:03:00 +0900"
-		},
-		{
-			"title":"충남 보령 산불 21시간만에 진화...가옥 등 12채 피해",
-			"originallink":"http:\/\/www.newspim.com\/news\/view\/20230403000586",
-			"link":"http:\/\/www.newspim.com\/news\/view\/20230403000586",
-			"description":"<b>청라<\/b>면에서 발생한 산불이 21시간만에 진화됐다. 산림당국은 3일 일출과 동시에 산불진화헬기 8대와 산불진화장비 30대, 산불진화대원 483을 투입해 오전 10시 52분에 진화 완료했다고 밝혔다. 2일 충남 보령시 <b>청라<\/b>... ",
-			"pubDate":"Mon, 03 Apr 2023 11:59:00 +0900"
 		}
 	]
 }
