@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 03 Apr 2023 18:40:02 +0900",
-	"total":197827,
+	"lastBuildDate":"Mon, 03 Apr 2023 18:50:03 +0900",
+	"total":197828,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"건조한 날씨 강한 바람에 산불진화 난항…홍성·대전 피해 커져",
+			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230403010000651",
+			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230403010000651",
+			"description":"보령시 <b>청라<\/b>면 일원 산불은 발생 21시간 만에 주불을 잡고 진화율 85%를 보였다. 주택 5동과 사찰 1채 등 시설물 12동이 소실됐으나, 다행히 인명피해는 보고되지 않았다. 산불과 연기를 피해 6가구 주민 14명이... ",
+			"pubDate":"Mon, 03 Apr 2023 18:44:00 +0900"
+		},
 		{
 			"title":"취임100일 구기선 보령부시장, 정부예산 확보 &apos;온힘&apos;",
 			"originallink":"https:\/\/www.cctoday.co.kr\/news\/articleView.html?idxno=2175557",
@@ -40,17 +47,17 @@
 			"pubDate":"Mon, 03 Apr 2023 17:44:00 +0900"
 		},
 		{
-			"title":"충남·대전 산불 이틀째…총력 대응에도 진화 난항",
-			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2195952",
-			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2195952",
-			"description":"보령시 <b>청라<\/b>면에서 발생한 산불은 발생 21시간 만인 이날 오전 10시 52분쯤 산림 70㏊를 태우고 주불이 잡혔다. 충북 옥천 산불도 아직 진화 중이다. 진화율은 70%로 산불 영향구역은 약 20ha로 추정하고 있으며, 현재... ",
-			"pubDate":"Mon, 03 Apr 2023 17:42:00 +0900"
-		},
-		{
 			"title":"[산불과의 사투] 고온에 강한 바람 … 사그라들지 않는 불길",
 			"originallink":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=967862",
 			"link":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=967862",
 			"description":"충남 보령 <b>청라<\/b>면 내련리 산 26에서 발생한 불은 21시간 5분 만인 3일 오전 10시 52분 주불 진화가 완료됐다. 영농부산물 소각이 산림으로 비화해 발생했는데 인명피해는 없었지만 총 12개 동의 시설물 피해(가옥 5개 동... ",
+			"pubDate":"Mon, 03 Apr 2023 17:42:00 +0900"
+		},
+		{
+			"title":"충남·대전 산불 이틀째…총력 대응에도 진화 난항",
+			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2195952",
+			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2195952",
+			"description":"보령시 <b>청라<\/b>면에서 발생한 산불은 발생 21시간 만인 이날 오전 10시 52분쯤 산림 70㏊를 태우고 주불이 잡혔다. 충북 옥천 산불도 아직 진화 중이다. 진화율은 70%로 산불 영향구역은 약 20ha로 추정하고 있으며, 현재... ",
 			"pubDate":"Mon, 03 Apr 2023 17:42:00 +0900"
 		},
 		{
@@ -205,13 +212,6 @@
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281571890932",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281571890932",
 			"description":"이어 구는 올해까지 <b>청라<\/b>지역 건물번호판을 정비하고 5년간 점차 정비 지역을 늘린다는 계획이다. 구 토지정보과 관계자는 “소유자의 관리에만 맡겨오던 건물번호판을 구가 직접 나서 정비하게 됐다”며 “도시미관... ",
-			"pubDate":"Mon, 03 Apr 2023 15:32:00 +0900"
-		},
-		{
-			"title":"강한 바람에 산불 진압 난항…진화율 홍성 66%·대전 81%",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230403110000063?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013856449?sid=102",
-			"description":"3㎞로 추정된다. 산림당국은 헬기 15대와 인력 761명, 장비 45대 등을 투입해 불을 끄고 있다. 보령시 <b>청라<\/b>면에서 발생한 산불은 발생 21시간 만인 이날 오전 10시 52분께 산림 70㏊를 태우고 주불이 잡혔다.",
 			"pubDate":"Mon, 03 Apr 2023 15:32:00 +0900"
 		}
 	]
