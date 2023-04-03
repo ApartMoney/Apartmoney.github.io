@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Mon, 03 Apr 2023 12:00:02 +0900",
-	"total":197763,
+	"lastBuildDate":"Mon, 03 Apr 2023 12:10:02 +0900",
+	"total":197767,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"충남 보령 산불, 21시간 만에 주불 진화...축구장 100개 면적 불타",
+			"originallink":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=438470",
+			"link":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=438470",
+			"description":"사진=산림청 산림청은 지난 2일 오후 1시 45분 보령시 <b>청라<\/b>면에서 발생한 산불의 주불이 21시간 5분 만인 3일 오전 10시 52분께 진화됐다고 3일 밝혔다. 당국은 전날 오후 6시 30분을 기해 산불 대응 단계를 1단계에서... ",
+			"pubDate":"Mon, 03 Apr 2023 12:08:00 +0900"
+		},
+		{
+			"title":"강풍·건조·고온 탓… 35곳중 5곳 아직 불길 안 잡혀",
+			"originallink":"https:\/\/www.munhwa.com\/news\/view.html?no=2023040301071027102002",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002564684?sid=102",
+			"description":"이밖에 당진 대호지면은 78%, 보령 <b>청라<\/b>면 산불은 완진 단계로 파악됐다. 최근 봄철 산불은 급증세다. 올 들어 3월 말 현재까지 산불 발생 건수는 376건으로 최근 11년 동안 최고치다. 건조특보 발령이 이어지고 있는... ",
+			"pubDate":"Mon, 03 Apr 2023 12:04:00 +0900"
+		},
+		{
+			"title":"건조한 날씨에 휴일 전국 곳곳서 산불…홍성·대전 산불 진화 속도",
+			"originallink":"http:\/\/tbs.seoul.kr\/news\/newsView.do?typ_800=6&idx_800=3493415&seq_800=20486078",
+			"link":"http:\/\/tbs.seoul.kr\/news\/newsView.do?typ_800=6&idx_800=3493415&seq_800=20486078",
+			"description":"이밖에 당진 대호지면은 72％, 보령 <b>청라<\/b>면 산불 진화율은 각각 90％로 파악됐습니다. 어제 오전 11시쯤 홍성군 서부면에서 난 산불로 현재까지 민가 30동 등 시설 62동이 불에 탄 것으로 집계됐고, 어제 낮 대전... ",
+			"pubDate":"Mon, 03 Apr 2023 12:03:00 +0900"
+		},
+		{
+			"title":"충남 보령 산불 21시간만에 진화...가옥 등 12채 피해",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20230403000586",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20230403000586",
+			"description":"<b>청라<\/b>면에서 발생한 산불이 21시간만에 진화됐다. 산림당국은 3일 일출과 동시에 산불진화헬기 8대와 산불진화장비 30대, 산불진화대원 483을 투입해 오전 10시 52분에 진화 완료했다고 밝혔다. 2일 충남 보령시 <b>청라<\/b>... ",
+			"pubDate":"Mon, 03 Apr 2023 11:59:00 +0900"
+		},
 		{
 			"title":"충남 보령 산불 21시간 만에 주불 진화…70㏊ 피해",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230403075000063?input=1195m",
@@ -185,34 +213,6 @@
 			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202304030033",
 			"description":"보령시 <b>청라<\/b>면 내현리 일원 산불은 60% 진화 중으로 45ha가 소실되었으며 주변 6가구 14명이 마을회관 등으로 대피중이다. 또 당진시 대호지면 사성리 일대 산불은 40% 진화중으로 60ha가 소실됐고 주민 100명이... ",
 			"pubDate":"Mon, 03 Apr 2023 09:56:00 +0900"
-		},
-		{
-			"title":"충남 홍성 산불 진화율 69%...오늘 주불 진화 목표",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0115_202304030950537604",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001868427?sid=102",
-			"description":"보령시 <b>청라<\/b>면 산불은 진화율 90%로 주택과 사찰 등 시설물 12곳이 불에 탄 것으로 집계됐고, 당진시 대호지면에서 발생한 산불은 진화율 72%입니다. 산림 당국은 건조한 날씨로 산불 발생 위험이 큰 만큼, 쓰레기를... ",
-			"pubDate":"Mon, 03 Apr 2023 09:50:00 +0900"
-		},
-		{
-			"title":"[하우머니] 눈 떠보니 길바닥…부동산 경매의 두 얼굴?",
-			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000111283?division=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000329905?sid=101",
-			"description":"이번엔 <b>청라<\/b> 쪽을 다녀오셨다고요? - 인천 <b>청라<\/b> 임장, 후기와 체크포인트는? - 가정역에서 출발해 루원시티 걸어서 임장 - 루원시티, 여전히 개발진행중…상가라인은 한산 - 경매 예정물건, 프라디움아파트 33평형... ",
-			"pubDate":"Mon, 03 Apr 2023 09:45:00 +0900"
-		},
-		{
-			"title":"홍성·대전 산불 이틀째…헬기 투입되며 진화 속도",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230403036600063?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013855171?sid=102",
-			"description":"9시 이후 바람이 초속 5∼12ｍ로 불어 진화에 다소 어려움이 있다&quot;며 &quot;오전에 주불 진화가 완료되도록 총력을 기울이겠다&quot;고 말했다. 이밖에 당진 대호지면과 보령 <b>청라<\/b>면 산불 진화율은 각각 72%와 90%로 파악됐다.",
-			"pubDate":"Mon, 03 Apr 2023 09:43:00 +0900"
-		},
-		{
-			"title":"충남 홍성 산불 22시간째 &apos;주불잡기&apos; 총력전",
-			"originallink":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=743153",
-			"link":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=743153",
-			"description":"보령시 <b>청라<\/b>면 산불은 진화율 85%, 당진시 대호지면에서 발생한 산불은 진화율 70%를 보이고 있다. 김태흠 충남지사가 2일 오후 11시 40분께 홍성군 능동마을회관 인근 현장통합지휘본부 현장에서 산불 발생 대응을... ",
-			"pubDate":"Mon, 03 Apr 2023 09:38:00 +0900"
 		}
 	]
 }
