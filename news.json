@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 04 Apr 2023 19:40:03 +0900",
-	"total":197891,
+	"lastBuildDate":"Tue, 04 Apr 2023 19:50:02 +0900",
+	"total":197892,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&apos;센터&apos; 명칭 사용, 의료기관 혼선",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1188574",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1188574",
+			"description":"\/사진=이미지투데이 인천 송도·<b>청라<\/b>국제도시 등 신도시에서 &apos;센터&apos; 명칭을 사용한 의료기관이 늘어나고 있는 가운데 현장에서는 병의원급이 센터 명칭을 사용할 수 있는지를 두고 혼선을 빚고 있다. 4일 인천일보 취재 결과... ",
+			"pubDate":"Tue, 04 Apr 2023 19:46:00 +0900"
+		},
 		{
 			"title":"&apos;인천 <b>청라<\/b>~서울 화곡&apos; 7700번 BRT노선에 전세버스 2대 투입",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363585899",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3014976",
 			"description":"인천 <b>청라<\/b>~서울 강서간 7700번 간선급행버스체계(BRT) 노선에 전세버스가 추가로 투입되면서 이용객들의 교통 편의성도 큰 폭으로 향상될 전망이다. 인천시는 오늘(4일)부터 출근시간대 서구 <b>청라<\/b>~서울 화곡 운행 7700번... ",
 			"pubDate":"Tue, 04 Apr 2023 10:04:00 +0900"
-		},
-		{
-			"title":"[기자수첩] 보령 산불진화 일사불란한 대처",
-			"originallink":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=709398",
-			"link":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=709398",
-			"description":"보령시도 지난 2일 <b>청라<\/b>면 내현리에서 농업부산물을 태우려다 산불로 번져 축구장 100여 개에 해당하는 임야 70ha가 소실됐고, 주택과 사찰·창고·비닐하우스 등이 전소 또는 소실됐다. 그나마 다행인 것은 인명피해가... ",
-			"pubDate":"Tue, 04 Apr 2023 09:58:00 +0900"
 		}
 	]
 }
