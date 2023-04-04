@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 04 Apr 2023 11:30:02 +0900",
-	"total":197869,
+	"lastBuildDate":"Tue, 04 Apr 2023 11:40:02 +0900",
+	"total":197870,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 <b>청라<\/b>~서울 강서간 7700번 BRT 증편",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202304041122483359",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004991558?sid=102",
+			"description":"인천 <b>청라<\/b>~서울 강서간 7700번 간선급행버스체계(BRT) 노선에 전세버스가 추가로 투입돼 운행횟수가 늘어난다. 인천시는 출근시간대 인천 서구 <b>청라<\/b>국제도시에서 서울 화곡까지 운행하는 7700번 간선급행버스체계(BRT)... ",
+			"pubDate":"Tue, 04 Apr 2023 11:30:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>~강서 BRT 노선에 전세버스 2대 긴급 투입",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=94631",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/62081",
 			"description":"어제부터 충남 곳곳에서 산불이 잇따른 가운데, 어제 낮 1시 45분쯤 보령시 <b>청라<\/b>면에서 발생한 산불은 21시간만에 진화됐습니다. 이 불로 주택 5동과 하우스 4동, 사찰 1동 등 12동이 불에 탄 가운데, 농업 부산물을... ",
 			"pubDate":"Mon, 03 Apr 2023 21:06:00 +0900"
-		},
-		{
-			"title":"강풍에 다시 확산… 진화 난항, 홍성·대전·당진 산불 이틀 밤 넘길 전망",
-			"originallink":"https:\/\/biz.chosun.com\/topics\/topics_social\/2023\/04\/03\/KJD4GLRTHNFZLEKFKGY6DWFKLE\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000890472?sid=102",
-			"description":"보령시 <b>청라<\/b>면에서 발생한 산불은 발생 21시간 만인 이날 오전 10시 52분쯤 산림 70㏊를 태우고 주불이 잡혔다. 남성현 산림청장은 “민가와 시설 피해가 없도록 방어선을 철저히 구축하겠다”며... ",
-			"pubDate":"Mon, 03 Apr 2023 20:56:00 +0900"
 		}
 	]
 }
