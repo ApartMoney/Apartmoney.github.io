@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 04 Apr 2023 15:00:02 +0900",
-	"total":197877,
+	"lastBuildDate":"Tue, 04 Apr 2023 15:10:02 +0900",
+	"total":197879,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"충남적십자, 산불 지역 봉사원들 총동원",
+			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=290331",
+			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=290331",
+			"description":"대한적십자사 충남지사는 지난 3일 산불이 발생한 홍성군 서부면, 금산군 복수면, 당진시 대호지면, 부여군 세도면, 보령시 <b>청라<\/b>면 등에서 전사적 구호역량을 총동원하여 구호활동을 펼치고 있다. 소방대원 및 이재민... ",
+			"pubDate":"Tue, 04 Apr 2023 15:06:00 +0900"
+		},
+		{
+			"title":"‘인천 <b>청라<\/b>~서울 강서’ 7700번 BRT 버스 증편",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=742707",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=742707",
+			"description":"인천 <b>청라<\/b>와 서울 강서구를 오가는 7700번 간선급행버스체계(BRT) 전세버스가 증편된다. 인천시는 4일부터 출근시간대(오전 7시~오전 8시) 인천 서구 <b>청라<\/b>에서 서울 화곡까지 운행하는 7700번 BRT 노선에 전세버스... ",
+			"pubDate":"Tue, 04 Apr 2023 15:02:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>~강서간 7700번 BRT(간선급행버스체계) 운행횟수 증편",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=411972",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.topstarnews.net\/news\/articleView.html?idxno=15317716",
 			"description":"보령시 <b>청라<\/b>면에서 발생한 산불은 발생 21시간 만인 이날 오전 10시 52분께 산림 70㏊를 태우고 주불이 잡혔다. 남성현 산림청장은 &quot;민가와 시설 피해가 없도록 방어선을 철저히 구축하겠다&quot;며 &quot;산불재난특수진화대와... ",
 			"pubDate":"Mon, 03 Apr 2023 23:16:00 +0900"
-		},
-		{
-			"title":"강풍에 진화 난항…홍성·대전 산불 야간 진화 계속(종합2보)",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230403036652063?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013857268?sid=102",
-			"description":"보령시 <b>청라<\/b>면에서 발생한 산불은 발생 21시간 만인 이날 오전 10시 52분께 산림 70㏊를 태우고 주불이 잡혔다. 남성현 산림청장은 &quot;민가와 시설 피해가 없도록 방어선을 철저히 구축하겠다&quot;며 &quot;산불재난특수진화대와... ",
-			"pubDate":"Mon, 03 Apr 2023 22:55:00 +0900"
-		},
-		{
-			"title":"`가뭄·건조·강풍&apos;에 충남 곳곳서 산불",
-			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=745829",
-			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=745829",
-			"description":"산불 2단계가 발령됐던 보령시 <b>청라<\/b>면 화재는 완진됐다. 산림청 중앙산불대책본부는 3일 &quot;지난 2일 오후 1시 45분쯤 보령시 <b>청라<\/b>면 내현리 야산서 발생한 산불의 주불을 오늘 오전 10시 52분쯤 잡았다&quot;고 밝혔다.... ",
-			"pubDate":"Mon, 03 Apr 2023 22:38:00 +0900"
 		}
 	]
 }
