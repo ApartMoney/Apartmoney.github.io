@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 04 Apr 2023 23:20:02 +0900",
-	"total":197899,
+	"lastBuildDate":"Tue, 04 Apr 2023 23:30:03 +0900",
+	"total":197900,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, <b>청라<\/b>-강서간 7700번 BRT(간선급행버스체계) 운행횟수 증편",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=393202",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=393202",
+			"description":"인천 <b>청라<\/b>-서울 강서간 7700번 간선급행버스체계(BRT) 노선에 전세버스가 추가로 투입되면서 이용객들의 교통 편의성도 큰 폭으로 향상될 전망이다. 인천광역시는 4일부터 출근시간대 인천 서구 <b>청라<\/b>에서 서울... ",
+			"pubDate":"Tue, 04 Apr 2023 23:22:00 +0900"
+		},
 		{
 			"title":"출근시간대 인천 <b>청라<\/b>~서울 BRT 증편",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1024254",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/mdtoday.co.kr\/news\/view\/1065580972829434",
 			"description":"▲ 이영종 원장 (사진=<b>청라<\/b>국제병원 제공) 안검하수는 눈 뜨는 근육의 힘이 약해져 눈을 똑바로 뜨기 어려운... 인천 <b>청라<\/b>국제병원 이영종 원장은 “개인마다 가지고 있는 눈매 고민이 다른 만큼, 숙련된 의료진과 충분한... ",
 			"pubDate":"Tue, 04 Apr 2023 11:58:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>~서울 강서간 7700번 BRT 증편",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202304041122483359",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004991558?sid=102",
-			"description":"인천 <b>청라<\/b>~서울 강서간 7700번 간선급행버스체계(BRT) 노선에 전세버스가 추가로 투입돼 운행횟수가 늘어난다. 인천시는 출근시간대 인천 서구 <b>청라<\/b>국제도시에서 서울 화곡까지 운행하는 7700번 간선급행버스체계(BRT)... ",
-			"pubDate":"Tue, 04 Apr 2023 11:30:00 +0900"
 		}
 	]
 }
