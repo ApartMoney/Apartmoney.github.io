@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 04 Apr 2023 15:30:03 +0900",
-	"total":197879,
+	"lastBuildDate":"Tue, 04 Apr 2023 15:40:02 +0900",
+	"total":197880,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[기자의 눈] 김동일 보령시장의 공직자에 대한 ‘고마움’",
+			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2023040414583481818?utm_source=naver&utm_medium=search",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002281332?sid=102",
+			"description":"지난 2일 보령시 <b>청라<\/b>면에서 발생한 산불이 진화되면서 진화에 동원됐던 공무원들을 향한 고마움의 인사를... 나와 <b>청라<\/b> 산불 진화에 나선 열성 수원삼성 팬 직원 등의 후일담이 이어지고 있다. 당일 산불 현장 상황실에서... ",
+			"pubDate":"Tue, 04 Apr 2023 15:39:00 +0900"
+		},
 		{
 			"title":"충남적십자, 산불 지역 봉사원들 총동원",
 			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=290331",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003270565?sid=102",
 			"description":"2일 오후 1시45분쯤 충남 보령시 <b>청라<\/b>면에서 발생한 산불도 21시간 만인 3일 오전 1시50분쯤 주불이 잡혔다. 대전 산불과 충남 당진 산불은 진화율이 70% 정도지만 강한 바람에다 송전탑 등의 영향으로 진화가 더디게 진행... ",
 			"pubDate":"Tue, 04 Apr 2023 00:06:00 +0900"
-		},
-		{
-			"title":"&apos;강풍에 진화 난항&apos; 홍성·대전 산불 야간 진화 계속…진화율 홍성 60%·대전...",
-			"originallink":"http:\/\/www.topstarnews.net\/news\/articleView.html?idxno=15317716",
-			"link":"http:\/\/www.topstarnews.net\/news\/articleView.html?idxno=15317716",
-			"description":"보령시 <b>청라<\/b>면에서 발생한 산불은 발생 21시간 만인 이날 오전 10시 52분께 산림 70㏊를 태우고 주불이 잡혔다. 남성현 산림청장은 &quot;민가와 시설 피해가 없도록 방어선을 철저히 구축하겠다&quot;며 &quot;산불재난특수진화대와... ",
-			"pubDate":"Mon, 03 Apr 2023 23:16:00 +0900"
 		}
 	]
 }
