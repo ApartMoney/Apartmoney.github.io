@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 05 Apr 2023 15:10:02 +0900",
-	"total":197942,
+	"lastBuildDate":"Wed, 05 Apr 2023 15:20:03 +0900",
+	"total":197943,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구 중구, 자매 도시간 민간교류 시범 사업 시행",
+			"originallink":"http:\/\/www.kbsm.net\/news\/view.php?idx=387000",
+			"link":"http:\/\/www.kbsm.net\/news\/view.php?idx=387000",
+			"description":"대구 중구가 자매도시인 청도군 소재 이서중학교 전교생 140명이 5일 자매(우호)도시간 민간교류 지원 사업의 일환으로 근대골목투어(2코스)에 방문했다고 밝혔다.학생들은 <b>청라<\/b>언덕, 계산성당, 이상화 고택 등을 돌아보며... ",
+			"pubDate":"Wed, 05 Apr 2023 15:14:00 +0900"
+		},
 		{
 			"title":"인천 서구, 석남이음숲 내 &apos;미세먼지 차단숲&apos; 준공",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230405010002664",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=228658",
 			"description":"아울러 하반기에는 서구 <b>청라<\/b>국제도시에서 부평 현장의 로봇을 제어하는 원거리 원격관제도 시도한다. 이남주 시 미래산업국장은 &quot;로봇산업은 생산성 향상, 산업재해 예방, 미래 신성장 산업 등 1석3조 효과를 가진... ",
 			"pubDate":"Wed, 05 Apr 2023 09:26:00 +0900"
-		},
-		{
-			"title":"부평지하상가에 안내로봇 등 15대 투입 실증",
-			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1393007",
-			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1393007",
-			"description":"로봇 융합모델 실증사업 2단계에 착수하고 배송로봇 2대와 웨어러블로봇과 안내로봇을 각각 3대를 추가한다고 밝혔습니다. 하반기에는 서구 <b>청라<\/b>에서 부평 현장 로봇을 제어하는 원격제어 실증도 이뤄질 전망입니다.",
-			"pubDate":"Wed, 05 Apr 2023 09:12:00 +0900"
 		}
 	]
 }
