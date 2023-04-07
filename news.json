@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 07 Apr 2023 18:30:02 +0900",
-	"total":198062,
+	"lastBuildDate":"Fri, 07 Apr 2023 18:40:03 +0900",
+	"total":198063,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"카톡 먹통 사태 계기로 ‘하나금융 데이터센터’ 각광받는다는데…",
+			"originallink":"https:\/\/www.chosun.com\/economy\/tech_it\/2023\/04\/07\/WUPEH2WJMRCAVGU2TXKCFOHNFM\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003756548?sid=105",
+			"description":"최근 데이터센터를 새로 만들려는 많은 사업자가 ‘카카오톡 먹통사태의 반면교사’이자 ‘벤치마킹 모델’로 삼는 곳은 2017년 <b>청라<\/b> 신도시에 준공된 ‘하나금융그룹 통합 데이터센터’다. ‘부분적인 화재에도... ",
+			"pubDate":"Fri, 07 Apr 2023 18:30:00 +0900"
+		},
 		{
 			"title":"낭만과 그리움 찾아... &apos;인천 경인아라뱃길 정서진 드라이브&apos;",
 			"originallink":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=58715",
@@ -152,17 +159,17 @@
 			"pubDate":"Fri, 07 Apr 2023 10:00:00 +0900"
 		},
 		{
-			"title":"수도권 대학병원 &apos;병상 확장&apos; 경쟁...지방의료 소멸 우려 커져",
-			"originallink":"http:\/\/www.rapportian.com\/news\/articleView.html?idxno=159493",
-			"link":"http:\/\/www.rapportian.com\/news\/articleView.html?idxno=159493",
-			"description":"서울대병원은 시흥 배곧에 800병상 규모 분원 설립을 추진하고 있으며, 서울아산병원과 연세의료원은 각각 인천 <b>청라<\/b>국제도시와 송도에 각각 800병상 이상 분원 설립을 진행 중이다. 경희대의료원은 경기도 하남(500병상)에... ",
-			"pubDate":"Fri, 07 Apr 2023 09:38:00 +0900"
-		},
-		{
 			"title":"구기선 보령시 부시장 취임 100일 맞아",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230407010002112",
 			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230407010002112",
 			"description":"구 부시장은 취임 후 에너지그린도시 조성, 오섬아일랜드 조성 등 주요 현안 사업 현장과 <b>청라<\/b>면 라원리 폐기물 불법매립지, 홍성축협 가축분뇨처리시설 예정지 등 민원 발생 현장을 들여다보며 빠르게 시정을 파악해... ",
+			"pubDate":"Fri, 07 Apr 2023 09:38:00 +0900"
+		},
+		{
+			"title":"수도권 대학병원 &apos;병상 확장&apos; 경쟁...지방의료 소멸 우려 커져",
+			"originallink":"http:\/\/www.rapportian.com\/news\/articleView.html?idxno=159493",
+			"link":"http:\/\/www.rapportian.com\/news\/articleView.html?idxno=159493",
+			"description":"서울대병원은 시흥 배곧에 800병상 규모 분원 설립을 추진하고 있으며, 서울아산병원과 연세의료원은 각각 인천 <b>청라<\/b>국제도시와 송도에 각각 800병상 이상 분원 설립을 진행 중이다. 경희대의료원은 경기도 하남(500병상)에... ",
 			"pubDate":"Fri, 07 Apr 2023 09:38:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=287007",
 			"description":"시에 따르면 구 부시장은 취임 후 에너지그린도시와 오섬아일랜드 조성 등 주요 현안 사업 현장은 물론 <b>청라<\/b>면 폐기물 불법매립지, 홍성축협 가축분뇨처리시설 대응 등 민원 발생 현장을 살피며 빠르게 시정을 파악해... ",
 			"pubDate":"Fri, 07 Apr 2023 08:42:00 +0900"
-		},
-		{
-			"title":"인천시, 드론쇼, 쉐푸드 버슐랭 등 다채로운 야간관광 행사 개최",
-			"originallink":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=985279",
-			"link":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=985279",
-			"description":"<b>청라<\/b>국제도시역에서 출발해 <b>청라<\/b>호수공원을 거쳐 센트럴파크까지 이어지는 코스의 야경을 감상하며 달리고, 식사와 함께 공연을 즐기는 색다른 경험까지 제공한다. 김충진 시 문화체육관광국장은 &quot;밤하늘을 빛으로... ",
-			"pubDate":"Thu, 06 Apr 2023 23:40:00 +0900"
 		}
 	]
 }
