@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 09 Apr 2023 21:10:02 +0900",
-	"total":198102,
+	"lastBuildDate":"Sun, 09 Apr 2023 21:20:02 +0900",
+	"total":198103,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;대구 시티투어 버스타고 이건희 특별전 보러 가자&quot;",
+			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2128751",
+			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2128751",
+			"description":"코스는 <b>청라<\/b>언덕역·동대구역→국립대구박물관&lt;어느 수집가의 초대&gt;→서문시장→인물기행 &lt;호암 이병철&gt;→대구미술관&lt;웰컴 홈: 개화 開花&gt;→동대구역·<b>청라<\/b>언덕역을 순회한다. 또 이병철 고택→삼성상회 터... ",
+			"pubDate":"Sun, 09 Apr 2023 21:10:00 +0900"
+		},
 		{
 			"title":"故 삼성그룹 이병철 회장 자취 따라가는 &apos;인물기행&apos;",
 			"originallink":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=955330",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002127696?sid=101",
 			"description":"인천 서구 <b>청라<\/b>동 ‘<b>청라<\/b>자이’ 전용 142㎡는 지난달 28일 9억1000만원에 거래됐다. 같은 면적의 직전(2월 11일) 거래가격인 7억4000만원보다 1억7000만원 상승했다. 부평구 ‘동아 2차’의 경우, 전용 164㎡가 지난달... ",
 			"pubDate":"Sat, 08 Apr 2023 17:02:00 +0900"
-		},
-		{
-			"title":"“자연 속 백패킹, 호랑이 기운이 솟아나요” 백패킹 1세대 정샘 씨의 건강법...",
-			"originallink":"https:\/\/www.donga.com\/news\/Health\/article\/all\/20230407\/118737574\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003490257?sid=103",
-			"description":"집이 인천 부평인데 인근 <b>청라<\/b>나 계양산까지 갔다 온다든지 다른 지역을 탐방하고 오는 게 즐겁다. 어디 출장 가서도 그 지역을 달려서 한 바퀴 돌면 그 지역을 더 잘 알게 된다”고 했다. 짧게는 5km, 길게는 20~30km를... ",
-			"pubDate":"Sat, 08 Apr 2023 12:01:00 +0900"
 		}
 	]
 }
