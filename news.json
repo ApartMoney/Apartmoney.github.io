@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 10 Apr 2023 17:00:02 +0900",
-	"total":198129,
+	"lastBuildDate":"Mon, 10 Apr 2023 17:10:03 +0900",
+	"total":198130,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[B tv 인천뉴스] [이슈현장] &apos;제4연륙교&apos; 용역 추진…제4경인고속도로에 미칠...",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=155238",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=155238",
+			"description":"제3연륙교는 영종과 <b>청라<\/b>를 연결하는 다리 인데요, 공항에서 오는 모든 수요는 사실상 영종대교를 통해 서울로 인천대교를 통해 수도권으로 우리 인천을 통과만 합니다. 특히 유정복 시장의 제1호 공약인 제물포... ",
+			"pubDate":"Mon, 10 Apr 2023 17:08:00 +0900"
+		},
 		{
 			"title":"인천 <b>청라<\/b>소각장 이전 입지 후보지 용역 5월에나 가능",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=228828",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=955330",
 			"description":"특별테마 노선은 <b>청라<\/b>언덕역\/동대구역→국립대구박물관(어느 수집가의 초대0→서문시장→인물기행(호암 이병철&gt;)→대구미술관(웰컴 홈: 개화 開花)→동대구역·<b>청라<\/b>언덕역이 운영된다 국립대구박물관의 이건희... ",
 			"pubDate":"Sun, 09 Apr 2023 20:22:00 +0900"
-		},
-		{
-			"title":"인천TP, 로봇인 한마음 화단 가꾸기 구슬땀...디자인서포터즈 13기 위촉식도 ...",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363586591",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363586591",
-			"description":"인천테크노파크(인천TP)는 지난 7일 <b>청라<\/b>국제도시 로봇타워 앞 야외정원에서 로봇 기업인 등과 함께 &apos;인천 로봇인 한마음 식목행사&apos;를 열었다고 9일 밝혔다. 이 행사는 식목일을 맞아 친환경 도시 인천 만들기에 힘을... ",
-			"pubDate":"Sun, 09 Apr 2023 20:18:00 +0900"
 		}
 	]
 }
