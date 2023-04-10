@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 10 Apr 2023 18:30:03 +0900",
-	"total":198131,
+	"lastBuildDate":"Mon, 10 Apr 2023 18:40:02 +0900",
+	"total":198132,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 석남이음숲에 &apos;미세먼지 차단숲&apos; 조성 완료",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1189272",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1189272",
+			"description":"지난해 12월 조성한 <b>청라<\/b>지역 미세먼지 차단숲을 더하면 <b>청라<\/b>·석남 일대에 약 8만㎡ 규모 미세먼지 차단숲이 만들어진 것이다. 미세먼지 차단숲은 미세먼지가 생활권으로 확산하는 것을 차단하기 위해 산림 내 공기... ",
+			"pubDate":"Mon, 10 Apr 2023 18:32:00 +0900"
+		},
 		{
 			"title":"[B tv 인천뉴스] [이슈현장] &apos;제4연륙교&apos; 용역 추진…제4경인고속도로에 미칠...",
 			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=155258",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=450070",
 			"description":"동선은 <b>청라<\/b>언덕역·동대구역, 국립대구박물관, 서문시장, 인물기행, 대구미술관 또는 이병철 고택, 삼성상회 터, 수창청춘맨숀·대구예술발전소, 오페라하우스, 삼성창조캠퍼스로 짜여졌다. 국립대구박물관의 이건희... ",
 			"pubDate":"Sun, 09 Apr 2023 21:42:00 +0900"
-		},
-		{
-			"title":"&quot;대구 시티투어 버스타고 이건희 특별전 보러 가자&quot;",
-			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2128751",
-			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2128751",
-			"description":"코스는 <b>청라<\/b>언덕역·동대구역→국립대구박물관&lt;어느 수집가의 초대&gt;→서문시장→인물기행 &lt;호암 이병철&gt;→대구미술관&lt;웰컴 홈: 개화 開花&gt;→동대구역·<b>청라<\/b>언덕역을 순회한다. 또 이병철 고택→삼성상회 터... ",
-			"pubDate":"Sun, 09 Apr 2023 21:10:00 +0900"
 		}
 	]
 }
