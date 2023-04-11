@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 11 Apr 2023 11:10:02 +0900",
-	"total":198149,
+	"lastBuildDate":"Tue, 11 Apr 2023 11:20:02 +0900",
+	"total":198150,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"불황인데...대형아파트 ‘수억 반등’",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230411000344",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002128735?sid=101",
+			"description":"인천 서구 <b>청라<\/b>동 ‘<b>청라<\/b>자이’ 전용 142㎡는 지난달 28일 9억1000만원에 거래됐다. 같은 면적의 직전(2월 11일) 거래가격인 7억4000만원보다 1억7000만원 상승했다. 부평구 ‘동아 2차’의 경우, 전용 164㎡가 지난달... ",
+			"pubDate":"Tue, 11 Apr 2023 11:13:00 +0900"
+		},
 		{
 			"title":"보령시, 산불 확산 막기 총력에 앞장선 &apos;자랑스런 모범 기관·단체&apos; 표창",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230411010003205",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2693084",
 			"description":"정기감사 강평, 오후 2시 시청 중회의실에서 제3기 여성친화도시 시민 서포터즈단 발대식, 오후 3시 시장실에서 고향사랑기부금 전달식, 오후 4시 시장실에서 <b>청라<\/b> 산불진화 협조 모범단체 표창을 수여한다.",
 			"pubDate":"Mon, 10 Apr 2023 13:46:00 +0900"
-		},
-		{
-			"title":"국립대구박물관, 고故 이건희 회장 기증 특별전 &apos;어느 수집가의 초대&apos; 개최",
-			"originallink":"https:\/\/www.mhns.co.kr\/news\/articleView.html?idxno=551170",
-			"link":"https:\/\/www.mhns.co.kr\/news\/articleView.html?idxno=551170",
-			"description":"* 대구시 시티투어 버스 특별코스 - <b>청라<\/b>언덕역\/동대구역→ 국립대구박물관 → 서문시장 → 인물기행(호암 이병철)→ 대구미술관→동대구역\/<b>청라<\/b>언덕역 고 이건희 회장은 &quot;전통문화의 우수성만 되뇐다고 해서 우리... ",
-			"pubDate":"Mon, 10 Apr 2023 13:26:00 +0900"
 		}
 	]
 }
