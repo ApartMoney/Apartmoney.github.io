@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 12 Apr 2023 08:00:02 +0900",
-	"total":198193,
+	"lastBuildDate":"Wed, 12 Apr 2023 08:10:02 +0900",
+	"total":198194,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전국 주요 신문 톱뉴스](12일 조간)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230412014400505?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013874662?sid=004",
+			"description":"현대일보 = <b>청라<\/b> IHP 수소생산 클러스터 조성 거창한 계획만 발표 1년째 지지부진 ▲ 강원도민일보 = 강릉 경포 덮친 대형산불…올봄에도 못 피했다 ▲ 강원일보 = 또다시 덮친 4월 산불…강릉 축구장 530개 면적 잿더미... ",
+			"pubDate":"Wed, 12 Apr 2023 08:00:00 +0900"
+		},
 		{
 			"title":"인천경제청 &quot;SNS 통해 IFEZ 관광·먹거리 알린다&quot;",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=539498",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.idaegu.com\/newsView\/idg202304110042",
 			"description":"지역 내 국민체육센터는 2004년 동구아양아트센터 내 스포츠센터가 처음 문을 연 이후 2021년 완공된 <b>청라<\/b>국민... 주말에도 시설을 이용할 수 있도록 오전 9시부터 오후 2시까지, <b>청라<\/b>국민체육센터는 오후 6시, 달서구... ",
 			"pubDate":"Tue, 11 Apr 2023 15:40:00 +0900"
-		},
-		{
-			"title":"[단독] 인천내항·강화·매립지 경제자유구역 확대 용역 5월 발주",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=228862",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=228862",
-			"description":"우선 강화남단은 영종·<b>청라<\/b>국제도시와 연계해 다국적 기업과 금융기관 등을 유치하겠다는 구상이다. 이를 위해선 향후 남북교류에 대비한 서해평화도로 영종~강화 구간(1단계 영종~신도 공사중, 2단계 신도~강화)... ",
-			"pubDate":"Tue, 11 Apr 2023 15:18:00 +0900"
 		}
 	]
 }
