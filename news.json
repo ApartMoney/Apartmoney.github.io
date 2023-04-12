@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 12 Apr 2023 20:40:02 +0900",
-	"total":198267,
+	"lastBuildDate":"Wed, 12 Apr 2023 20:50:02 +0900",
+	"total":198268,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[이슈플러스] 영어가 어색한 송도국제도시… 영어통용 경쟁력 시급하다",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0924296252&code=11131100&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001600791?sid=102",
+			"description":"인천경제자유구역에서 <b>청라<\/b>·영종국제도시를 제외한 송도에 거주하는 외국인은 같은 기간 189명에서 4364명으로 2209%나 늘어났다. 또 송도에는 녹색기후기금사무국(GCF), 유엔 아태경제사회위원회(UNESCAP), 유엔... ",
+			"pubDate":"Wed, 12 Apr 2023 20:49:00 +0900"
+		},
 		{
 			"title":"인천 신도시로 빠르게 분산… 구도심 상권 침체 이어진다",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230412010002379",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1025342",
 			"description":"인천경제청은 &apos;메타버스(Metarverse)&apos;에서 송도·영종·<b>청라<\/b>국제도시 가이드 노릇을 하는 &apos;메타 캐릭터&apos;를 통해 국내외 SNS 이용자들에게 보다 친숙하게 IFEZ 내 관광 먹거리 콘텐츠를 전달한다. 더욱이 주민들과 원활한... ",
 			"pubDate":"Tue, 11 Apr 2023 21:38:00 +0900"
-		},
-		{
-			"title":"보령시, 산불 진화 앞장 산림조합 등 모범 기관·단체 표창",
-			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=747073",
-			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=747073",
-			"description":"보령시는 11일 시장실에서 <b>청라<\/b>면 내현리에서 발생한 대형 산불 진화에 앞장선 보령시산림조합(조합장 백승일), 보령시의용소방대연합회(회장 황의완), 보령시자율방범연합대(대장 김경환), 대한적십자사보령지구협의회... ",
-			"pubDate":"Tue, 11 Apr 2023 20:04:00 +0900"
 		}
 	]
 }
