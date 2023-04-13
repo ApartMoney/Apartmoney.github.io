@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 13 Apr 2023 18:40:02 +0900",
-	"total":198339,
+	"lastBuildDate":"Thu, 13 Apr 2023 18:50:03 +0900",
+	"total":198340,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"국내 최대 중고차 커머스 &apos;부산 상륙&apos;",
+			"originallink":"https:\/\/www.hankyung.com\/society\/article\/2023041365371",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004832441?sid=102",
+			"description":"오토플러스는 인천 <b>청라<\/b> ‘리본카 스튜디오’에 이어 두 번째 스튜디오를 부산에 열었다고 13일 밝혔다. 리본카는 오토플러스가 출시한 중고차 거래 플랫폼이다. 부산 스튜디오는 <b>청라<\/b> 스튜디오 면적의 세 배로, 990... ",
+			"pubDate":"Thu, 13 Apr 2023 18:42:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>·검단 집값 바닥쳤나... 서구 아파트값 1년 만에 감짝 상승",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=94819",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=92453",
 			"description":"공항철도 <b>청라<\/b>국제도시역에서 집결해 <b>청라<\/b>호수공원으로 이동, 노을을 보며 웰컴드링크를 마신다. 이후 인천의 야경명소인 송도 센트럴파크로 이동해 감미로운 버스킹 공연을 곁들인 파인다이닝 코스요리를 즐긴다.... ",
 			"pubDate":"Thu, 13 Apr 2023 13:04:00 +0900"
-		},
-		{
-			"title":"리본카, 국내 최대 규모 중고차 라이브 스튜디오 개관",
-			"originallink":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=74144",
-			"link":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=74144",
-			"description":"이번에 개관하는 리본카 부산스튜디오는 기존 리본카 <b>청라<\/b>스튜디오 면적의 3배인 990m2에 이르며 중고차 전용 라이브 방송 시설로는 국내 최대규모다. 리본카 부산스튜디오는 카메라∙초대형 빔프로젝터∙방송 송출... ",
-			"pubDate":"Thu, 13 Apr 2023 12:58:00 +0900"
 		}
 	]
 }
