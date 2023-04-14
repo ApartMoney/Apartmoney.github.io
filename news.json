@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 14 Apr 2023 16:00:02 +0900",
-	"total":198368,
+	"lastBuildDate":"Fri, 14 Apr 2023 16:10:03 +0900",
+	"total":198369,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"강남·서초·용산 아파트값 하락폭 줄어… 기준금리 동결 영향?",
+			"originallink":"http:\/\/moneys.mt.co.kr\/news\/mwView.php?no=2023041414175933966",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0000913007?sid=101",
+			"description":"인천은 연수구 송도동 송도더샵퍼스트월드, 중구 중산동 영종스카이시티자이, 서구 <b>청라<\/b>동 <b>청라<\/b>제일풍경채2차에듀&amp;파크 등이 500만원에서 2000만원 빠졌다. 이번주 수도권 전세시장은 전주 대비 비슷한 하락폭을... ",
+			"pubDate":"Fri, 14 Apr 2023 16:07:00 +0900"
+		},
 		{
 			"title":"인천 지하차도서 화물차 화재…출근하던 소방관이 초기 진압(종합)",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230414_0002267324&cID=10802&pID=14000",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004832441?sid=102",
 			"description":"오토플러스는 인천 <b>청라<\/b> ‘리본카 스튜디오’에 이어 두 번째 스튜디오를 부산에 열었다고 13일 밝혔다. 리본카는 오토플러스가 출시한 중고차 거래 플랫폼이다. 부산 스튜디오는 <b>청라<\/b> 스튜디오 면적의 세 배로, 990... ",
 			"pubDate":"Thu, 13 Apr 2023 18:42:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>·검단 집값 바닥쳤나... 서구 아파트값 1년 만에 깜짝 상승",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=94819",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=94819",
-			"description":"인천 <b>청라<\/b>국제도시 전경. 사진=인천경제자유구역청 인천 <b>청라<\/b>국제도시와 검단신도시를 중심으로 일부 매수세가 붙으면서 서구 아파트값이 1년 만에 상승 전환됐다. 다만 매수자와 매도자 간 희망가격 차이로... ",
-			"pubDate":"Thu, 13 Apr 2023 18:08:00 +0900"
 		}
 	]
 }
