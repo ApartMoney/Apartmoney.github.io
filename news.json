@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 18 Apr 2023 19:50:03 +0900",
-	"total":198516,
+	"lastBuildDate":"Tue, 18 Apr 2023 20:00:02 +0900",
+	"total":198517,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[대구교육청 소식] 대구시교육청, 학교 고위직 대상 성희롱‧성폭력 예방 교육...",
+			"originallink":"https:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2023133",
+			"link":"https:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2023133",
+			"description":"대구시교육청, 대구내일학교 성인문해학습자 현장체험 활동 실시 대구시교육청은 19일(수)부터 27일(목)까지 <b>청라<\/b>언덕, 약령시한의약박물관, 영화관 등에서 대구내일학교 성인문해학습자 대상으로 다양한 현장체험활동을... ",
+			"pubDate":"Tue, 18 Apr 2023 19:50:00 +0900"
+		},
 		{
 			"title":"인천시 서구의회 국민의힘 소속 의원 &apos;노동·연금·교육 3대 분야 개혁&apos; 촉구...",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1026506",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=351&aid=0000065361",
 			"description":"WKBL 라이징스타 선수단은 27일(목) 오후 하나원큐 <b>청라<\/b>체육관에 소집, 한 차례 훈련을 가진 뒤 28일(금) 오전 김포공항을 통해 일본으로 출국할 예정이다. 사진 제공 = WKBL",
 			"pubDate":"Tue, 18 Apr 2023 13:50:00 +0900"
-		},
-		{
-			"title":"WKBL 라이징스타, 일본 여자 프로농구 올스타와 도쿄서 맞대결",
-			"originallink":"http:\/\/sports.khan.co.kr\/news\/sk_index.html?art_id=202304181348003&sec_id=530301&pt=nv",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=144&aid=0000881162",
-			"description":"활약한 도카시키 라무를 비롯해 2021년 도쿄올림픽 은메달리스트인 미야자와 유키, 아카오 히마와리 등이 출전한다. WKBL 선수들은 27일 인천의 하나원큐 <b>청라<\/b>체육관에 모여 한 차례 훈련하고, 28일 출국한다.",
-			"pubDate":"Tue, 18 Apr 2023 13:49:00 +0900"
 		}
 	]
 }
