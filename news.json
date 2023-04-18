@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Tue, 18 Apr 2023 10:50:02 +0900",
-	"total":198460,
+	"lastBuildDate":"Tue, 18 Apr 2023 11:00:02 +0900",
+	"total":198463,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"WKBL 라이징스타 팀, 日 여자농구 올스타와 한판 대결",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5929359",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=079&aid=0003760465",
+			"description":"WKBL 라이징스타 선수단은 27일 오후 하나원큐 <b>청라<\/b>체육관에 소집, 한 차례 훈련을 실시한 뒤 28일 오전 김포공항을 통해 일본으로 출국할 예정이다. ◇WKBL 라이징스타 팀 명단 ▲코칭스태프 : 우리은행 전주원(감독)... ",
+			"pubDate":"Tue, 18 Apr 2023 10:58:00 +0900"
+		},
+		{
+			"title":"WKBL 라이징스타, 29일 일본 여자프로농구 올스타와 맞대결",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230418066600007?input=1195m",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013887044",
+			"description":"도카시키 라무를 비롯해 2021년 도쿄올림픽 은메달리스트인 미야자와 유키, 아카오 히마와리 등이 출전한다. WKBL 선수들은 27일 인천의 하나원큐 <b>청라<\/b>체육관에 모여 한 차례 훈련하고 28일 김포공항을 통해 출국한다.",
+			"pubDate":"Tue, 18 Apr 2023 10:55:00 +0900"
+		},
+		{
+			"title":"한국 여자 농구의 영건들, 일본 올스타 선수들과 한판 맞대결",
+			"originallink":"http:\/\/sports.chosun.com\/news\/ntype.htm?id=202304190100142630017445&servicedate=20230418",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=076&aid=0003996303",
+			"description":"(후지쯔), 아카호 히마와리(덴소) 등 총 14명의 선수가 명단에 이름을 올렸다. WKBL 라이징스타 선수단은 27일 하나원큐 <b>청라<\/b>체육관에 소집, 한차례 훈련을 가진 뒤 28일 오전 김포공항을 통해 일본으로 출국할 예정이다.",
+			"pubDate":"Tue, 18 Apr 2023 10:53:00 +0900"
+		},
 		{
 			"title":"보령시, 산불 특별재난지역 지적측량수수료 감면",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230418010010081",
@@ -19,17 +40,17 @@
 			"pubDate":"Tue, 18 Apr 2023 10:40:00 +0900"
 		},
 		{
-			"title":"보령시, 산불 특별재난지역 지적측량수수료 감면",
-			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2199066",
-			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2199066",
-			"description":"지적측량수수료 감면 혜택을 받기 위해서는 대형산불로 인한 피해 사항 등을 기재한 피해사실확인서를 보령시 안전총괄과 또는 <b>청라<\/b>면 행정복지센터에 제출하여야 하며, 피해 사실이 확인된 후 수수료 감면 혜택을... ",
-			"pubDate":"Tue, 18 Apr 2023 10:38:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>면 지역사회보장협의체 찾아가는 이·미용 서비스 주민 환영",
 			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2199071",
 			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2199071",
 			"description":"충남 보령시 <b>청라<\/b>면 지역사회보장협의체에서는 거동이 불편한 저소득 취약계층과 홀몸노인 등을 대상으로 생신 선물을 전달하고 방문 이·미용 봉사를 추진하여 행복과 웃음이 넘치는 <b>청라<\/b>면을 만들기 위한 활동을... ",
+			"pubDate":"Tue, 18 Apr 2023 10:38:00 +0900"
+		},
+		{
+			"title":"보령시, 산불 특별재난지역 지적측량수수료 감면",
+			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2199066",
+			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2199066",
+			"description":"지적측량수수료 감면 혜택을 받기 위해서는 대형산불로 인한 피해 사항 등을 기재한 피해사실확인서를 보령시 안전총괄과 또는 <b>청라<\/b>면 행정복지센터에 제출하여야 하며, 피해 사실이 확인된 후 수수료 감면 혜택을... ",
 			"pubDate":"Tue, 18 Apr 2023 10:38:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=540347",
 			"description":"7호선 <b>청라<\/b>국제도시연장 건설(1조 3629억 원) △인천1,2호선 철도통합무선망 구축(380억 원) △광역버스... &apos;서울도시철도 7호선 <b>청라<\/b>국제도시 연장&apos;은 <b>청라<\/b>국제도시를 비롯한 인천 서부지역의 교통불편을 해소하기 위해... ",
 			"pubDate":"Tue, 18 Apr 2023 00:34:00 +0900"
-		},
-		{
-			"title":"인천시 7호선 <b>청라<\/b> 연장에 국고 지원 타진",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1026322",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1026322",
-			"description":"7호선 <b>청라<\/b>국제도시연장 건설(1조3천629억 원) ▶인천1·2호선 철도통합무선망 구축(380억 원) ▶광역버스... 서울도시철도 7호선 <b>청라<\/b>국제도시 연장은 <b>청라<\/b>국제도시를 비롯한 인천 서부지역의 교통불편을 해소하려고... ",
-			"pubDate":"Mon, 17 Apr 2023 21:08:00 +0900"
-		},
-		{
-			"title":"내년 광역버스 준공영제 국비확보 시동건 인천시",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230417010003222",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230417010003222",
-			"description":"인천시가 광역버스 준공영제와 함께 국비 요청을 한 안건은 ▲공단고가교~서인천IC 혼잡도로 개선(356억원) ▲서울도시철도 7호선 <b>청라<\/b>연장선 건설(1천145억원) ▲인천도시철도 1·2호선 철도통합무선망 구축(97억원)... ",
-			"pubDate":"Mon, 17 Apr 2023 20:52:00 +0900"
-		},
-		{
-			"title":"[리포트]대형산불 원인 &apos;담배꽁초&apos;...CCTV 보니",
-			"originallink":"https:\/\/tjmbc.co.kr\/article\/CdRL6W_Xh5L",
-			"link":"https:\/\/tjmbc.co.kr\/article\/CdRL6W_Xh5L",
-			"description":"그분들이 잠깐 산에 올라가지고 그렇게 해서 발생이 됐을 가능성이 있다고 판단하고 있습니다.&quot; 이달 초 홍성 대형 산불과 함께 발생한 보령시 <b>청라<\/b>면 산불 역시 원인은 &apos;실화&apos;로 꼽힙니다. 보령시는 주민이 농산... ",
-			"pubDate":"Mon, 17 Apr 2023 20:52:00 +0900"
 		}
 	]
 }
