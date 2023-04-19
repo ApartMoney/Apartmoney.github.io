@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 19 Apr 2023 21:30:03 +0900",
-	"total":198575,
+	"lastBuildDate":"Wed, 19 Apr 2023 21:40:02 +0900",
+	"total":198576,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시교육청, 난독증·경계선지능 학생 지원 업무협약",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=395436",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=395436",
+			"description":"이루언어심리발달센터▶<b>청라<\/b>라파언어심리센터▶톡톡언어학습심리센터▶힐링아트 총 14개 기관이 참여했다. 전문기관은 난독증과 경계선지능 지원 대상자로 선정된 학생들을 대상으로 한글해득과 읽기 교육을 비롯해... ",
+			"pubDate":"Wed, 19 Apr 2023 21:32:00 +0900"
+		},
 		{
 			"title":"제14회 대구 꽃 박람회 6월 엑스코서 개막",
 			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=7655852&ref=A",
@@ -153,13 +160,6 @@
 		},
 		{
 			"title":"무인결제기 사용, 이렇게",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5948216",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006756973?sid=102",
-			"description":"대구시교육청은 오는 27일까지 <b>청라<\/b>언덕, 약령시한의약박물관, 영화관 등에서 대구내일학교 성인문해학습자 대상으로 다양한 현장체험활동을 실시한다. 2023.4.19\/뉴스1",
-			"pubDate":"Wed, 19 Apr 2023 13:22:00 +0900"
-		},
-		{
-			"title":"무인결제기 사용, 이렇게",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5948218",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006756975?sid=102",
 			"description":"대구시교육청은 오는 27일까지 <b>청라<\/b>언덕, 약령시한의약박물관, 영화관 등에서 대구내일학교 성인문해학습자 대상으로 다양한 현장체험활동을 실시한다. 2023.4.19\/뉴스1",
@@ -187,17 +187,17 @@
 			"pubDate":"Wed, 19 Apr 2023 13:22:00 +0900"
 		},
 		{
+			"title":"무인결제기 사용, 이렇게",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5948216",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006756973?sid=102",
+			"description":"대구시교육청은 오는 27일까지 <b>청라<\/b>언덕, 약령시한의약박물관, 영화관 등에서 대구내일학교 성인문해학습자 대상으로 다양한 현장체험활동을 실시한다. 2023.4.19\/뉴스1",
+			"pubDate":"Wed, 19 Apr 2023 13:22:00 +0900"
+		},
+		{
 			"title":"&apos;무인결제도 척척!&apos; 대구내일학교, 다양한 현장체험활동",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5948204",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006756963?sid=102",
 			"description":"대구시교육청은 오는 27일까지 <b>청라<\/b>언덕, 약령시한의약박물관, 영화관 등에서 대구내일학교 성인문해학습자 대상으로 다양한 현장체험활동을 실시한다. 대구내일학교는 배움의 기회를 놓친 성인들을 위한 초·중학교... ",
-			"pubDate":"Wed, 19 Apr 2023 13:21:00 +0900"
-		},
-		{
-			"title":"&apos;키오스크 사용법, 잘 배워보자구&apos;",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5948202",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006756970?sid=102",
-			"description":"대구시교육청은 오는 27일까지 <b>청라<\/b>언덕, 약령시한의약박물관, 영화관 등에서 대구내일학교 성인문해학습자 대상으로 다양한 현장체험활동을 실시한다. 2023.4.19\/뉴스1",
 			"pubDate":"Wed, 19 Apr 2023 13:21:00 +0900"
 		},
 		{
@@ -208,9 +208,9 @@
 			"pubDate":"Wed, 19 Apr 2023 13:21:00 +0900"
 		},
 		{
-			"title":"무인결제기 사용법 배우는 어르신들",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5948207",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006756967?sid=102",
+			"title":"&apos;키오스크 사용법, 잘 배워보자구&apos;",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?5948202",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006756970?sid=102",
 			"description":"대구시교육청은 오는 27일까지 <b>청라<\/b>언덕, 약령시한의약박물관, 영화관 등에서 대구내일학교 성인문해학습자 대상으로 다양한 현장체험활동을 실시한다. 2023.4.19\/뉴스1",
 			"pubDate":"Wed, 19 Apr 2023 13:21:00 +0900"
 		}
