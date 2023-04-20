@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 20 Apr 2023 11:20:02 +0900",
-	"total":198593,
+	"lastBuildDate":"Thu, 20 Apr 2023 11:30:02 +0900",
+	"total":198594,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천소식] 인천시설공단·인천소방본부, 재난대응 업무협약 등",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230420_0002274128&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011814356?sid=102",
+			"description":"또 지난 14일 서구 <b>청라<\/b> 중봉지하차도에서 발생한 화재 사고에서는 매년 실시한 유관기관 합동 훈련을 통해 신속한 안전시스템 대응 조치로 화재 확산 및 인명사고 방지에 기여한 것으로 알려졌다. ◇인천어린이과학관... ",
+			"pubDate":"Thu, 20 Apr 2023 11:23:00 +0900"
+		},
 		{
 			"title":"[류성화 원장 건강칼럼] 낙상사고, 심각한 골절로 이어질 수 있어 주의 필요",
 			"originallink":"http:\/\/www.healthinnews.co.kr\/news\/articleView.html?idxno=37073",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=312809",
 			"description":"토목분야에서는 대구테크노폴리스단지 등 산업단지 조성공사부터 인천<b>청라<\/b>, 세종시 등 도시 조경공사, 대구 신서혁신도시 조성공사 3공구 사업을 수행했다. 서한 주가는 TK신공항 특별법이 국회를 통과한 다음날인... ",
 			"pubDate":"Wed, 19 Apr 2023 17:10:00 +0900"
-		},
-		{
-			"title":"‘실버타운’ 시장 선점, 고령친화적 특화설계 ‘속속’",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202304190826036386",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0004999522?sid=101",
-			"description":"더시그넘하우스도 올해 상반기 인천광역시 서구 <b>청라<\/b>동 일원에서 ‘더시그넘하우스 <b>청라<\/b>’를 분양할 예정이다. 지하 3층~지상 9층, 1개동, 총 138실 규모로 조성된다. 단지 내에서는 스마트 워치를 이용한 건강관리 및... ",
-			"pubDate":"Wed, 19 Apr 2023 16:47:00 +0900"
 		}
 	]
 }
