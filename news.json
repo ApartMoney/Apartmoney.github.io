@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 24 Apr 2023 19:50:02 +0900",
-	"total":198741,
+	"lastBuildDate":"Mon, 24 Apr 2023 20:00:03 +0900",
+	"total":198742,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 아파트 낙폭 축소, 송도 반등",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1191274",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1191274",
+			"description":"<b>청라<\/b>국제도시가 있는 서구는 2주 전 0.12% 상승하며 1년여 만에 반등했으며 지난주에도 0.06% 상승하며 2주... 올해 330건, 지난해 324건 거래된 <b>청라<\/b>동에서도 마찬가지였다. 인천 원도심 지역에선 집값 하락세가... ",
+			"pubDate":"Mon, 24 Apr 2023 19:54:00 +0900"
+		},
 		{
 			"title":"인천시설공단 이사장배 첫 파크골프대회 열린다",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230424_0002278679&cID=14001&pID=14000",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1191083",
 			"description":"현재도 검단·루원시티 입주가 계속되고 검암역세권, 불로·대곡·오류·왕길 개발사업이 진행 중으로 오는 2024년 말에는 서울 송파구 인구도 넘을 것으로 예상하고 있다. 사진은 23일 인천 서구 <b>청라<\/b>국제도시 전경.",
 			"pubDate":"Sun, 23 Apr 2023 18:06:00 +0900"
-		},
-		{
-			"title":"눈물짓던 인천 신도시…&apos;송도·<b>청라<\/b>&apos; 거래량 급증에 집값 반등",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20230423140407105",
-			"link":"https:\/\/www.ajunews.com\/view\/20230423140407105",
-			"description":"<b>청라<\/b>신도시가 있는 인천 서구는 2주 전 0.12% 상승하며 1년여 만에 반등했으며 지난주에도 0.06% 상승하며 2주 연속 올랐다. 실제로 반등 거래 또한 쏟아지고 있다. 서구 <b>청라<\/b>자이 전용 142㎡는 지난 2월 7억4000만원에... ",
-			"pubDate":"Sun, 23 Apr 2023 18:02:00 +0900"
 		}
 	]
 }
