@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 24 Apr 2023 10:40:02 +0900",
-	"total":198726,
+	"lastBuildDate":"Mon, 24 Apr 2023 10:50:02 +0900",
+	"total":198727,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"합리적 분양가·역세권·학세권으로 주목 받는 ‘인천 작전 한라비발디’",
+			"originallink":"http:\/\/sports.khan.co.kr\/news\/sk_index.html?art_id=202304241044013&sec_id=564001&pt=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/144\/0000882416?sid=101",
+			"description":"교통 개발호재로는 작전역에 예정되어 있는 ‘서울 지하철 2호선 연장선(<b>청라<\/b>~홍대)’이 건설되면 더블역세권으로 거듭나게 되며, 부평역에 예정되어 있는 ‘GTX-B노선’ 이용도 수월하여 서울 접근성이 크게 향상되어... ",
+			"pubDate":"Mon, 24 Apr 2023 10:45:00 +0900"
+		},
 		{
 			"title":"인천시 서구, <b>청라<\/b> 주민단체와 소통간담회··· 현안 ‘머리 맞대’",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281023207980",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004878332?sid=101",
 			"description":"지난해 말 리뉴얼한 <b>청라<\/b>점와 부평점도 상황이 비슷하다. <b>청라<\/b>지구는 젊은 세대 구성비가 높아 가공식품 매장을 기존 대비 40% 넓혔다. 아동, 유아 브랜드 매장도 신규입점해 유아용품에 대한 수요를 반영했다.... ",
 			"pubDate":"Sun, 23 Apr 2023 08:00:00 +0900"
-		},
-		{
-			"title":"[이경복의 아침생각]...가장 행복했던 초등 6년",
-			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=20230423073458279446a9e4dd7f_30",
-			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=20230423073458279446a9e4dd7f_30",
-			"description":"어제 모교 <b>청라<\/b>초교 개교 100주년, 보령 성주산 벽촌에 일찌기 학교 세운 건 대단, 1950년 입학 직후 6.25, 그래도 제일 행복했던 시절, 천심인 동심으로 살아서? 우리 동기 70여명 졸업 지금은 전교생 50명, 느티나무... ",
-			"pubDate":"Sun, 23 Apr 2023 07:40:00 +0900"
 		}
 	]
 }
