@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 25 Apr 2023 15:10:02 +0900",
-	"total":198756,
+	"lastBuildDate":"Tue, 25 Apr 2023 15:20:02 +0900",
+	"total":198757,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구은행, &apos;기업특화&apos; 인천금융센터 확장 이전",
+			"originallink":"https:\/\/www.hankyung.com\/economy\/article\/202304251792i",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004836936?sid=101",
+			"description":"인천금융센터는 인천 구도심과 <b>청라<\/b>국제도시를 연결하는 관문 지역인 루원시티의 중심에 위치한 가정역 2호선에 인접해 있다. 서인천IC와도 인접한 교통의 요지에 위치해 고객접근성이 더욱 편리해질 것으로 기대된다.... ",
+			"pubDate":"Tue, 25 Apr 2023 15:18:00 +0900"
+		},
 		{
 			"title":"아산시 탕정2지구 도시개발사업 개발계획 주민설명회",
 			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2200717",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004182463?sid=101",
 			"description":"뿐만 아니라 오류택지지구 내 중심상업시설이 단지 남쪽에 위치해 있어 보다 편리한 생활이 가능하며 동쪽으로는 검단신도시, 남쪽으로는 <b>청라<\/b>국제도시가 인접해 더블생활권을 누릴 수 있다. 이마트와 롯데마트 등... ",
 			"pubDate":"Mon, 24 Apr 2023 14:03:00 +0900"
-		},
-		{
-			"title":"합리적 분양가·역세권·학세권으로 주목 받는 ‘인천 작전 한라비발디’",
-			"originallink":"http:\/\/sports.khan.co.kr\/news\/sk_index.html?art_id=202304241044013&sec_id=564001&pt=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/144\/0000882416?sid=101",
-			"description":"교통 개발호재로는 작전역에 예정되어 있는 ‘서울 지하철 2호선 연장선(<b>청라<\/b>~홍대)’이 건설되면 더블역세권으로 거듭나게 되며, 부평역에 예정되어 있는 ‘GTX-B노선’ 이용도 수월하여 서울 접근성이 크게 향상되어... ",
-			"pubDate":"Mon, 24 Apr 2023 10:45:00 +0900"
 		}
 	]
 }
