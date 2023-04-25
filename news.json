@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Tue, 25 Apr 2023 15:30:02 +0900",
-	"total":198758,
+	"lastBuildDate":"Tue, 25 Apr 2023 15:40:02 +0900",
+	"total":198764,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"DGB대구은행 &apos;인천금융센터&apos; 확장 이전",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230425010014810",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230425010014810",
+			"description":"인천금융센터는 구도심과 <b>청라<\/b>국제도시를 연결하는 관문 지역에 위치해 있어 고객접근성도 확보하고 있다.이로써 대구은행은 지난 1월 개점한 성남금융센터를 포함해 총 3곳의 금융센터를 운영하게 됐다.황병우... ",
+			"pubDate":"Tue, 25 Apr 2023 15:38:00 +0900"
+		},
+		{
+			"title":"DGB대구은행 인천금융센터 확장 이전…&quot;경기 북서부권 영업망 확대&quot;",
+			"originallink":"https:\/\/www.news1.kr\/articles\/5026920",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006768881?sid=102",
+			"description":"인천 구도심과 <b>청라<\/b>국제도시를 연결하는 관문인 루원시티의 중심에 위치한 인천금융센터는 가정역 2호선과 서인천IC와 인접해 접근성이 뛰어나다. 올해 영업조직 정비를 통해 새로 선보이는 금융센터는 우량 자산... ",
+			"pubDate":"Tue, 25 Apr 2023 15:37:00 +0900"
+		},
+		{
+			"title":"이정환 오토플러스 대표 “국내 최초 중고차 라이브 쇼핑 시대 연다”",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230425010014802",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230425010014802",
+			"description":"오토플러스는 기존 리본카 <b>청라<\/b>스튜디오와 함께 리본카 부산스튜디오 운영을 본격화하며 국내 중고차 라이브 커머스 선두주자로서의 입지를 공고히 할 방침이다. 현재 두 스튜디오는 일 평균 5회의 중고차 라이브 방송을... ",
+			"pubDate":"Tue, 25 Apr 2023 15:34:00 +0900"
+		},
+		{
+			"title":"[최현석 원장 건강칼럼] 따뜻해진 날씨에 봄철 식중독 기승, 올바른 대처와 예...",
+			"originallink":"http:\/\/www.healthinnews.co.kr\/news\/articleView.html?idxno=37183",
+			"link":"http:\/\/www.healthinnews.co.kr\/news\/articleView.html?idxno=37183",
+			"description":"<b>청라<\/b> 다정한내과 최현석 원장 &apos;식중독&apos;은 병원성 미생물이나 미생물이 뿜어내는 독소, 화학물질 등이 소화기를 통해 흡수되어 각종 이상 증세를 일으키는 질환이다. 많은 사람들이 여름철 식중독을 우려하지만 의외로... ",
+			"pubDate":"Tue, 25 Apr 2023 15:32:00 +0900"
+		},
+		{
+			"title":"아산시, 탕정2지구 도시개발사업 &apos;명품 스마트도시&apos; 만든다",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230425010014182",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230425010014182",
+			"description":"탕정2지구는 단순한 산업단지가 아닌, 판교디지털단지나 <b>청라<\/b>국제신도시 못지않은 명품 신도시로 조성될 수 있을 것&quot;이라고 말했다.박 시장의 마스터플랜 발표 후 참석자들은 개발 구역 외 마을 낙후 방지 대안, 연결... ",
+			"pubDate":"Tue, 25 Apr 2023 15:30:00 +0900"
+		},
+		{
+			"title":"대구은행, &apos;기업특화&apos; 인천금융센터 확장 이전",
+			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=134513",
+			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=134513",
+			"description":"인천금융센터는 인천 구도심과 <b>청라<\/b>국제도시를 연결하는 관문 지역인 루원시티의 중심에 위치한 가정역 2호선에 인접해 있다. 서인천IC와도 인접한 교통의 요지에 위치해 고객접근성이 더욱 편리해질 것으로 기대된다.... ",
+			"pubDate":"Tue, 25 Apr 2023 15:30:00 +0900"
+		},
 		{
 			"title":"리본카, 업계 최초 &apos;중고차 라이브 스튜디오&apos; 개국...라이브 쇼핑 시대 선언",
 			"originallink":"http:\/\/www.slist.kr\/news\/articleView.html?idxno=445006",
@@ -171,48 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000009586?sid=100",
 			"description":"육성, <b>청라<\/b>지역 수소에너지와 로봇산업 중심 클러스터 조성, 60만 일자리 창출 공시 목표 달성... 또 <b>청라<\/b>시티타워, 인천타워 등 국제도시 위상에 맞는 랜드마크를 건설하고 2025년 아시아태평양경제협력체(APEC) 등... ",
 			"pubDate":"Mon, 24 Apr 2023 16:41:00 +0900"
-		},
-		{
-			"title":"인천시설공단, ‘제1회 이사장배, 파크골프대회’ 개최",
-			"originallink":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=189600",
-			"link":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=189600",
-			"description":"[사진 제공=인천시설공단] 인천시설공단은 가정의 달을 맞아 5월22일 <b>청라<\/b> 파크골프장에서 2023년 제1회... 김종필 이사장은 “파크골프를 사랑하는 시민 덕분에 <b>청라<\/b> 파크골프장이 시민이 행복한 세계 초일류 도시... ",
-			"pubDate":"Mon, 24 Apr 2023 16:08:00 +0900"
-		},
-		{
-			"title":"금호건설, &apos;왕길역 금호어울림 에듀그린&apos; 분양",
-			"originallink":"http:\/\/www.mediapen.com\/news\/view\/812754",
-			"link":"http:\/\/www.mediapen.com\/news\/view\/812754",
-			"description":"단지 남쪽으로는 오류택지지구 내 중심상업시설과 <b>청라<\/b>국제도시, 동쪽으로는 검단신도시 등이 인접해 있다. 이마트와 롯데마트 등 대형마트도 인근에 위치한다. 인근 산업단지로는 학운·양촌·대포 산업단지 등이... ",
-			"pubDate":"Mon, 24 Apr 2023 16:04:00 +0900"
-		},
-		{
-			"title":"인천서부소방서, 가천대길병원 닥터카와 합동 훈련",
-			"originallink":"http:\/\/fpn119.co.kr\/196684",
-			"link":"http:\/\/fpn119.co.kr\/196684",
-			"description":"= 인천서부소방서(서장 강한석)는 24일 서구 메가와이즈 <b>청라<\/b>물류센터에서 가천대길병원 권역외상센터 인천시 닥터카와 추락 환자 발생을 가정한 중증외상환자 합동 훈련을 진행했다고 밝혔다. 이번 훈련은 소방과 병원 간... ",
-			"pubDate":"Mon, 24 Apr 2023 15:14:00 +0900"
-		},
-		{
-			"title":"송파 다음 인천 서구, 인구 수 전국 2위 자치구에 신축 아파트 공급 예정",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=273032",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=273032",
-			"description":"인천광역시 서구에는 검단신도시 등에서 입주가 진행 중이며, 불로동, <b>청라<\/b>동 등에서 개발사업이 진행되고... 견본주택은 인천광역시 서구 <b>청라<\/b>동 일대에 마련될 예정이다. 현재 전화문의는 가능하다.",
-			"pubDate":"Mon, 24 Apr 2023 15:10:00 +0900"
-		},
-		{
-			"title":"인천 서구 초품아 아파트 &apos;왕길역 금호어울림 에듀그린&apos; 분양",
-			"originallink":"https:\/\/www.news1.kr\/articles\/5025458",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006766047?sid=101",
-			"description":"동쪽으로는 검단신도시, 남쪽으로는 <b>청라<\/b>국제도시가 인접해 더블 생활권을 누릴 수 있다. 이마트와 롯데마트 등 대형마트도 인근에 있다. 인근 산업단지 등 배후 수요 또한 풍부한데, 학운·양촌·대포 산업단지 등... ",
-			"pubDate":"Mon, 24 Apr 2023 14:45:00 +0900"
-		},
-		{
-			"title":"제1회 인천시설공단 이사장배 파크골프대회 5월 22일 <b>청라<\/b>서 개최",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=745613",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=745613",
-			"description":"인천시설공단은 가정의 달을 맞아 다음달 22일 <b>청라<\/b> 파크골프장에서 2023년 제1회 인천시설공단 이사장배... 김종필 이사장은 “파크골프를 사랑하는 시민 덕분에 <b>청라<\/b> 파크골프장이 시민이 행복한 세계 초일류 도시... ",
-			"pubDate":"Mon, 24 Apr 2023 14:44:00 +0900"
 		}
 	]
 }
