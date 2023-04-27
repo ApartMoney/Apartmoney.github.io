@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 27 Apr 2023 14:50:02 +0900",
-	"total":198927,
+	"lastBuildDate":"Thu, 27 Apr 2023 15:00:02 +0900",
+	"total":198928,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[아유경제_부동산] 4월 4주 아파트 가격 동향… 매매가격 -0.11% 하락ㆍ전세가...",
+			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=76705",
+			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=76705",
+			"description":"서구(0.1%)는 주거환경 양호한 검단ㆍ<b>청라<\/b>신도시 신축 위주로 상승했으나, 미추홀구(-0.17%)는 숭의 외곽 지역과 입주 물량 영향 있는 주안 대단지 위주로, 부평구(-0.15%)는 산곡ㆍ십정ㆍ일신 구축 위주로, 남동구(-0.06... ",
+			"pubDate":"Thu, 27 Apr 2023 14:50:00 +0900"
+		},
 		{
 			"title":"잠실 &apos;엘·리·트&apos; 하락 마침표…서울 집값 3주째 낙폭 주춤",
 			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2023042714164263830",
@@ -33,7 +40,7 @@
 			"pubDate":"Thu, 27 Apr 2023 14:29:00 +0900"
 		},
 		{
-			"title":"강남3구 아파트값 모두 올랐다…부동산 반등 시작하나",
+			"title":"강남3구 아파트값 모두 올랐다…반등의 서막인가",
 			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202304270200&t=NN",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001098174?sid=101",
 			"description":"인천 서구(0.10%)는 주거환경 양호한 검단·<b>청라<\/b>신도시 신축 위주로 가격이 상승했으나, 최근 전세사기 여파가 미치고 있는 미추홀구(-0.17%)의 경우엔 숭의동 외곽지역과 입주 물량 영향이 있는 주안동 대단지 위주로... ",
@@ -117,17 +124,17 @@
 			"pubDate":"Thu, 27 Apr 2023 14:01:00 +0900"
 		},
 		{
-			"title":"&quot;급매물 소진&quot;…강남3구 집값 ↑, 노원도 51주 만에 상승 전환",
-			"originallink":"https:\/\/www.news1.kr\/articles\/5029445",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006774068?sid=101",
-			"description":"인천은 서구(0.10%)는 주거환경 양호한 검단·<b>청라<\/b>신도시 신축 위주로 상승했으나, 미추홀구(-0.17%)는 숭의동 외곽지역과 입주물량 영향 있는 주안동 대단지 위주로, 부평구(-0.15%)는 산곡·십정·일신동 구축 위주로... ",
-			"pubDate":"Thu, 27 Apr 2023 14:00:00 +0900"
-		},
-		{
 			"title":"&apos;급매 소진&apos; 송파·서초·강남·노원 소폭 상승...전국 대부분 낙폭 축소",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230427_0002283190&cID=10405&pID=10400",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011828077?sid=101",
 			"description":"서구(0.06%→0.10%)는 주거환경이 양호한 검단·<b>청라<\/b>신도시 신축 위주로 상승세를 보였다. 송도신도시를 품은 연수구도 0.03% 올라 전주(0.01%) 대비 상승폭이 커졌다. 경기에서는 처인구(0.24%→0.35%)가 반도체 클러스터... ",
+			"pubDate":"Thu, 27 Apr 2023 14:00:00 +0900"
+		},
+		{
+			"title":"&quot;급매물 소진&quot;…강남3구 집값 ↑, 노원도 51주 만에 상승 전환",
+			"originallink":"https:\/\/www.news1.kr\/articles\/5029445",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006774068?sid=101",
+			"description":"인천은 서구(0.10%)는 주거환경 양호한 검단·<b>청라<\/b>신도시 신축 위주로 상승했으나, 미추홀구(-0.17%)는 숭의동 외곽지역과 입주물량 영향 있는 주안동 대단지 위주로, 부평구(-0.15%)는 산곡·십정·일신동 구축 위주로... ",
 			"pubDate":"Thu, 27 Apr 2023 14:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=100457",
 			"description":"영종국제도시와 <b>청라<\/b>를 잇는 제3연륙교는 2025년 준공을 목표로 개발이 한창이다. 제3연륙교가 뚫리면 <b>청라<\/b> 인프라를 편리하게 누릴 수 있으며, 서울 영등포 일대까지 빠르게 진입 가능하다. 제4차 국가철도망 구축계획에... ",
 			"pubDate":"Thu, 27 Apr 2023 11:28:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>1동 주민자치회, <b>청라<\/b>초서 자전거 안전교육 실시",
-			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1191712",
-			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1191712",
-			"description":"인천 서구 <b>청라<\/b>1동 주민자치회(회장 박철민)는 지난 25일 <b>청라<\/b>초에서 3학년 학생을 대상으로 &apos;자전거 안전교육&apos;을 실시했다. 이번 교육은 &apos;우리 동네 배움터&apos; 사업 중 하나로, 주민이 함께 배우며 교류하는 마을공동체를... ",
-			"pubDate":"Thu, 27 Apr 2023 11:22:00 +0900"
 		}
 	]
 }
