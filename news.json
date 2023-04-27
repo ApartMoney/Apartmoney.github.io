@@ -1,9 +1,72 @@
 {
-	"lastBuildDate":"Thu, 27 Apr 2023 14:00:02 +0900",
-	"total":198909,
+	"lastBuildDate":"Thu, 27 Apr 2023 14:10:02 +0900",
+	"total":198918,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"선호 지역·단지 상승세 보이는 서울·경기 아파트 매매가",
+			"originallink":"http:\/\/www.arunews.com\/news\/articleView.html?idxno=31919",
+			"link":"http:\/\/www.arunews.com\/news\/articleView.html?idxno=31919",
+			"description":"인천(-0.02%→-0.03%)의 경우 서구(0.1%)만 주거환경 양호한 검단·<b>청라<\/b>신도시 신축 위주로 상승세를 보였다. 미추홀구(-0.17%)는 숭의동 외곽지역과 입주물량 영향 있는 주안동 대단지 위주로, 부평구(-0.15%)는 산곡... ",
+			"pubDate":"Thu, 27 Apr 2023 14:06:00 +0900"
+		},
+		{
+			"title":"강남4구, 11개월 만에 일제히 집값 하락세 멈춰",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1008692",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1008692",
+			"description":"검단·<b>청라<\/b>와 송도가 위치한 서구(0.10%)·연수구(0.03%)는 상승폭을 키웠지만,  미추홀구(-0.17%)가 한 주 만에 큰 폭으로 하락 전환하며 수치를 끌어내렸다. 반도체 개발 호재에 탄력을 받아 용인 처인구(0.35%)와 더불어... ",
+			"pubDate":"Thu, 27 Apr 2023 14:02:00 +0900"
+		},
+		{
+			"title":"서울 아파트값, 낙폭 또 줄여 0.07% 하락…강남 3구·노원구 ‘상승’",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2244584",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2244584",
+			"description":"인천 서구(0.10%)는 검단·<b>청라<\/b>신도시 신축 위주로 상승했지만, 미추홀구(-0.17%)와 부평구(-0.15%)는 하락했다. 반면, 경기지역은 이번 주 0.12% 내려 지난주(-0.17%)보다 0.05%p 추가 낙폭을 만회했다. 용인 처인구(0.35%)는... ",
+			"pubDate":"Thu, 27 Apr 2023 14:02:00 +0900"
+		},
+		{
+			"title":"강남3구 집값 모두 상승세…노원도 상승 전환",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5934757",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003764205?sid=101",
+			"description":"핵심요약 &apos;반세권&apos; 용인 처인·&apos;상승세&apos; 세종, 집값 상승폭 키워 <b>청라<\/b>·검단 신도시, 집값·전셋값 모두... 집값 하락기 하락폭이 컸던 인천 송도와 <b>청라<\/b>, 검단신도시도 전주 상승으로 돌아선 뒤 상승세를 이어가고... ",
+			"pubDate":"Thu, 27 Apr 2023 14:02:00 +0900"
+		},
+		{
+			"title":"강남4구 아파트값 2주연속 상승",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230427010016537",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230427010016537",
+			"description":"인천에서는 서구(0.10%)가 주거환경 양호한 검단·<b>청라<\/b>신도시 신축 위주로 상승했다. 지방(-0.14%→-0.13%)도 지난주대비 낙폭이 감소했다. 세종(0.17% → 0.27%)은 새롬·다정동 주요단지 위주로 가격 상승세 보이며... ",
+			"pubDate":"Thu, 27 Apr 2023 14:02:00 +0900"
+		},
+		{
+			"title":"급매물 많은 강남3구 아파트값 상승세·노원구도 상승전환…집값 혼조세 뚜렷",
+			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023042711002510885e6e69892f_18",
+			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023042711002510885e6e69892f_18",
+			"description":"서구(0.10%)는 주거환경 양호한 검단·<b>청라<\/b>신도시 신축 위주로 상승했으나, 나머지 미추홀구(-0.17%)는 숭의동 외곽지역과 입주물량 영향 있는 주안동 대단지 위주로, 부평구(-0.15%)는 산곡·십정·일신동 구축 위주로... ",
+			"pubDate":"Thu, 27 Apr 2023 14:02:00 +0900"
+		},
+		{
+			"title":"전국 아파트값 전주 대비 0.11%↓… 송파·서초·강남 상승세",
+			"originallink":"https:\/\/biz.chosun.com\/real_estate\/real_estate_general\/2023\/04\/27\/ZCE2O3G5CZGKHCS5L4P5ADOEZM\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000897220?sid=101",
+			"description":"서구(0.10%)는 주거환경 양호한 검단·<b>청라<\/b>신도시 신축 위주로 상승했지만, 미추홀구(-0.17%) 등은 숭의동 외곽지역과 입주물량 영향 있는 주안동 대단지 위주로 하락했다. 경기(-0.07%)와 인천(-0.02%)도 전주(-0.22%, -0.07... ",
+			"pubDate":"Thu, 27 Apr 2023 14:01:00 +0900"
+		},
+		{
+			"title":"&apos;급매 소진&apos; 송파·서초·강남·노원 소폭 상승...전국 대부분 낙폭 축소",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230427_0002283190&cID=10405&pID=10400",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011828077?sid=101",
+			"description":"서구(0.06%→0.10%)는 주거환경이 양호한 검단·<b>청라<\/b>신도시 신축 위주로 상승세를 보였다. 송도신도시를 품은 연수구도 0.03% 올라 전주(0.01%) 대비 상승폭이 커졌다. 경기에서는 처인구(0.24%→0.35%)가 반도체 클러스터... ",
+			"pubDate":"Thu, 27 Apr 2023 14:00:00 +0900"
+		},
+		{
+			"title":"&quot;급매물 소진&quot;…강남3구 집값 ↑, 노원도 51주 만에 상승 전환",
+			"originallink":"https:\/\/www.news1.kr\/articles\/5029445",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006774068?sid=101",
+			"description":"인천은 서구(0.10%)는 주거환경 양호한 검단·<b>청라<\/b>신도시 신축 위주로 상승했으나, 미추홀구(-0.17%)는 숭의동 외곽지역과 입주물량 영향 있는 주안동 대단지 위주로, 부평구(-0.15%)는 산곡·십정·일신동 구축 위주로... ",
+			"pubDate":"Thu, 27 Apr 2023 14:00:00 +0900"
+		},
 		{
 			"title":"인천시, 인하대병원에 24시간 소아전문 응급의료센터 개소",
 			"originallink":"https:\/\/www.cnbnews.com\/news\/article.html?no=598976",
@@ -12,17 +75,17 @@
 			"pubDate":"Thu, 27 Apr 2023 13:54:00 +0900"
 		},
 		{
-			"title":"인천시, 본예산 대비 7962억원 늘어난 1회 추경예산 편성",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1694850",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1694850",
-			"description":"강화 황청~인화 간 해안도로, <b>청라<\/b>지구~북항 간 도로, 북항로(대1-7호선) 도로 확장 등 연내 준공 예정인 도로가 차질 없이 개통되도록 지원하기 위해 473억원을 투입한다. 또, 주차난 해소를 위해서는 계산택지2 등... ",
-			"pubDate":"Thu, 27 Apr 2023 12:56:00 +0900"
-		},
-		{
 			"title":"인천시, 본예산 대비 5.7% 증액 14조 7,119억 원 추경예산 편성",
 			"originallink":"http:\/\/www.breaknews.com\/962108",
 			"link":"http:\/\/www.breaknews.com\/962108",
 			"description":"교통망 구축 가속화에 780억 원 투입 강화 황청~인화 간 해안도로, <b>청라<\/b>지구~북항 간 도로, 북항로(대1-7호선) 도로 확장 등 연내 준공 예정인 도로가 차질 없이... ",
+			"pubDate":"Thu, 27 Apr 2023 12:56:00 +0900"
+		},
+		{
+			"title":"인천시, 본예산 대비 7962억원 늘어난 1회 추경예산 편성",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1694850",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1694850",
+			"description":"강화 황청~인화 간 해안도로, <b>청라<\/b>지구~북항 간 도로, 북항로(대1-7호선) 도로 확장 등 연내 준공 예정인 도로가 차질 없이 개통되도록 지원하기 위해 473억원을 투입한다. 또, 주차난 해소를 위해서는 계산택지2 등... ",
 			"pubDate":"Thu, 27 Apr 2023 12:56:00 +0900"
 		},
 		{
@@ -150,69 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000009854?sid=100",
 			"description":"강화 황청~인화 간 해안도로, <b>청라<\/b>지구~북항 간 도로, 북항로(대1-7호선) 도로 확장 등 연내 준공 예정인 도로가 차질 없이 개통되도록 지원하기 위해 473억원을 투입한다. 또 주차난 해소를 위해서는 계산택지2 등... ",
 			"pubDate":"Thu, 27 Apr 2023 11:02:00 +0900"
-		},
-		{
-			"title":"고작 0.1%? 대구 상가 투자수익률도 바닥…미분양발 주택시장 침체 여파",
-			"originallink":"http:\/\/www.idaegu.com\/newsView\/idg202304260060",
-			"link":"http:\/\/www.idaegu.com\/newsView\/idg202304260060",
-			"description":"중구 동성로와 서문시장 및 <b>청라<\/b>언덕 상권에서 전반적인 지역 부동산 경기 침체로 자산가치가 하락한 영향으로 풀이된다. 중대형상가는 동성로 0.01%, 서문시장·<b>청라<\/b>언덕 0.03%며 소규모 상가는 동성로 0.29... ",
-			"pubDate":"Thu, 27 Apr 2023 10:12:00 +0900"
-		},
-		{
-			"title":"토스트 브랜드 &apos;에그 2000&apos;, &apos;창업비용 0원&apos; 지원 혜택 제공",
-			"originallink":"https:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=968207",
-			"link":"https:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=968207",
-			"description":"현재 가맹점 35호점을 운영 중인 에그2000은 세종(아름), 대전(복수), 전남(장성), 인천(<b>청라<\/b>), 울산, 서울(구로)에 신규 매장을 오픈할 예정이다. 업종변경 창업 등을 진행할 경우 기존 머신, 집기류 일체를 재사용하도록... ",
-			"pubDate":"Thu, 27 Apr 2023 10:02:00 +0900"
-		},
-		{
-			"title":"본푸드서비스, 버거앤프라이즈와 MOU 체결",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02325526635580384",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005473100?sid=101",
-			"description":"버거앤프라이즈는 창업자인 유용호 대표가 LA에서 경험한 ‘인앤아웃버거’의 맛을 국내에 선보이고자 미국 현지에서 오랜 연구 끝에 론칭한 미국식 수제버거 브랜드로, 2014년 인천 <b>청라<\/b>본점을 성공적으로 운영하며... ",
-			"pubDate":"Thu, 27 Apr 2023 09:32:00 +0900"
-		},
-		{
-			"title":"폐기물 치웠지만 훼손 그대로... 보령시 산지복구 대집행 &apos;고심&apos;",
-			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0002922516&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002390258?sid=102",
-			"description":"시 &quot;매립행위자 서울보증보험 예치금으로 행정대집행할 수도&quot; ▲  불법 폐기물이 묻혔던 충남 보령시 <b>청라<\/b>면 라원리 산지. 아직 산지복구가 이루어지지 않고 있다. ⓒ 이재환 불법 폐기물로 &apos;악취 민원&apos;이 나왔던 충남... ",
-			"pubDate":"Thu, 27 Apr 2023 09:26:00 +0900"
-		},
-		{
-			"title":"하나금융 “예비 신혼부부에 웨딩홀 무료 대관”",
-			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0924298893&code=11151400&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001604336?sid=101",
-			"description":"하나금융그룹이 서울 명동·여의도와 인천 <b>청라<\/b>, 대전 오류동, 광주 금남로, 부산 중앙동 6곳의 관계사 공간을 웨딩홀(하나 그랜드 홀)로 리모델링해 예비 신혼부부에게 무료로 빌려주기로 했다고 26일 밝혔다. 소방... ",
-			"pubDate":"Thu, 27 Apr 2023 04:08:00 +0900"
-		},
-		{
-			"title":"“저출산 극복” 하나금융, 웨딩홀 무료 대관",
-			"originallink":"http:\/\/www.segye.com\/content\/html\/2023\/04\/26\/20230426516052.html?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003806848?sid=101",
-			"description":"하나금융은 올해 하반기까지 서울 여의도, 인천 <b>청라<\/b>, 대전 오류동, 광주 금남로, 부산 중앙동 등으로 하나 그랜드 홀을 확장할 계획이다. 처음으로 개장하는 명동의 경우 매주 토요일과 일요일 각 1팀이 결혼식을 진행해... ",
-			"pubDate":"Thu, 27 Apr 2023 01:03:00 +0900"
-		},
-		{
-			"title":"DGB대구은행, 기업특화 영업조직 인천금융센터 확장 이전",
-			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=399205",
-			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=399205",
-			"description":"인천금융센터는 인천 구도심과 <b>청라<\/b>국제도시를 연결하는 관문 지역인 루원시티의 중심에 위치한 가정역 2호선에 인접해 있으며 서인천IC와도 인접한 교통의 요지에 위치해 고객접근성이 더욱 편리해질 것으로 보고... ",
-			"pubDate":"Wed, 26 Apr 2023 21:46:00 +0900"
-		},
-		{
-			"title":"LH 인천본부 영종 A33·37·60블록 공공분양 추가 모집",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1028038",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1028038",
-			"description":"또한 현재 공사 중인 영종도와 <b>청라<\/b>를 연결하는 제3연륙교가 2025년 개통 예정으로 정주 여건은 더 좋아질 전망이다. 주택전시관은 인천시 서구 가정동에 위치해 28일부터 30일까지 문을 연다. 방문이 어려운... ",
-			"pubDate":"Wed, 26 Apr 2023 21:38:00 +0900"
-		},
-		{
-			"title":"부동산 위축에 1분기 대구 오피스·상가 임대료↓",
-			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=418404",
-			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=418404",
-			"description":"투자수익률이 하락한 가장 큰 원인은 미분양 증가 등 주택시장 위축에 따른 파급효과와 동성로, 서문시장과 <b>청라<\/b>언덕 상권의 전반적인 경기 침체에 따른 자산가치 하락 때문이다. 공실률은 오피스(12.7%→10.6... ",
-			"pubDate":"Wed, 26 Apr 2023 21:34:00 +0900"
 		}
 	]
 }
