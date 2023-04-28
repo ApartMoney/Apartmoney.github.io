@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 29 Apr 2023 06:50:02 +0900",
-	"total":199042,
+	"lastBuildDate":"Sat, 29 Apr 2023 07:00:02 +0900",
+	"total":199043,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;한 동네에서 담합&quot; 원비 2만원 올린 태권도장들",
+			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202304290011&t=NN",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001098563?sid=102",
+			"description":"인천 <b>청라<\/b>지구에 있는 8개 태권도장이 학원비를 월 2만원씩 올리기로 담합했다가 공정거래위원회의 경고를 받았다. 29일 공정위 등에 따르면 인천 서구 <b>청라<\/b>동에 있는 8개 태권도장 대표는 작년 11월 1일부터... ",
+			"pubDate":"Sat, 29 Apr 2023 06:54:00 +0900"
+		},
 		{
 			"title":"&apos;학원비 2만원씩 올리자&apos; 담합…공정위, 8개 태권도장에 경고",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230428164500002?input=1195m",
@@ -26,13 +33,6 @@
 			"pubDate":"Fri, 28 Apr 2023 22:35:00 +0900"
 		},
 		{
-			"title":"[포토] 이혜미 &apos;연습도 실전처럼&apos;",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=86393",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000068440",
-			"description":"27일 인천 <b>청라<\/b>에 위치한 하나원큐체육관에서 25세 이하 젊은 선수들로 이루어진 WKBL 라이징 스타팀이 훈련에 임했다. 29일 일본 도쿄에 위치한 아리아케 아레나에서 WKBL X WJBL 올스타 한일 교류전을 준비하는... ",
-			"pubDate":"Fri, 28 Apr 2023 22:33:00 +0900"
-		},
-		{
 			"title":"[포토] 선수들의 연습을 지켜보는 전주원 감독과 하상윤 코치",
 			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=86392",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000068439",
@@ -40,16 +40,23 @@
 			"pubDate":"Fri, 28 Apr 2023 22:33:00 +0900"
 		},
 		{
-			"title":"[포토] 양지수 &apos;집중 또 집중&apos;",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=86390",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000068437",
+			"title":"[포토] 이혜미 &apos;연습도 실전처럼&apos;",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=86393",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000068440",
 			"description":"27일 인천 <b>청라<\/b>에 위치한 하나원큐체육관에서 25세 이하 젊은 선수들로 이루어진 WKBL 라이징 스타팀이 훈련에 임했다. 29일 일본 도쿄에 위치한 아리아케 아레나에서 WKBL X WJBL 올스타 한일 교류전을 준비하는... ",
-			"pubDate":"Fri, 28 Apr 2023 22:32:00 +0900"
+			"pubDate":"Fri, 28 Apr 2023 22:33:00 +0900"
 		},
 		{
 			"title":"[포토] 이해란 &apos;내가 제일 빨라&apos;",
 			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=86391",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000068438",
+			"description":"27일 인천 <b>청라<\/b>에 위치한 하나원큐체육관에서 25세 이하 젊은 선수들로 이루어진 WKBL 라이징 스타팀이 훈련에 임했다. 29일 일본 도쿄에 위치한 아리아케 아레나에서 WKBL X WJBL 올스타 한일 교류전을 준비하는... ",
+			"pubDate":"Fri, 28 Apr 2023 22:32:00 +0900"
+		},
+		{
+			"title":"[포토] 양지수 &apos;집중 또 집중&apos;",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=86390",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000068437",
 			"description":"27일 인천 <b>청라<\/b>에 위치한 하나원큐체육관에서 25세 이하 젊은 선수들로 이루어진 WKBL 라이징 스타팀이 훈련에 임했다. 29일 일본 도쿄에 위치한 아리아케 아레나에서 WKBL X WJBL 올스타 한일 교류전을 준비하는... ",
 			"pubDate":"Fri, 28 Apr 2023 22:32:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=273387",
 			"description":"위치한 <b>청라<\/b>국제도시 등을 자차 약 30분대에 도달할 수 있다. 단지는 인천광역시 서구 불로동 일대에 전용면적 59㎡, 84㎡, 지하 3층~지상 최고 20층, 11개 동, 총 781세대로 조성된다. 견본주택은 인천광역시 서구 <b>청라<\/b>동... ",
 			"pubDate":"Fri, 28 Apr 2023 16:58:00 +0900"
-		},
-		{
-			"title":"[르포] 내가 마신 커피가 울타리로? 친환경에 &apos;진심&apos;인 맥도날드, <b>청라<\/b>국제도...",
-			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=280803",
-			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=280803",
-			"description":"28일 오후 인천 <b>청라<\/b>국제도시의 맥도날드는 방문객들과 드라이브 스루를 이용하려는 차량으로 북적였다. 맥도날드 &apos;인천<b>청라<\/b>DT점&apos;은 <b>청라<\/b>국제도시에 처음으로 오픈한 맥도날드로, 맥도날드의 지속 가능한 ESG 경영 철학을... ",
-			"pubDate":"Fri, 28 Apr 2023 16:52:00 +0900"
 		}
 	]
 }
