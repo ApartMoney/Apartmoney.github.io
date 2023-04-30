@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 30 Apr 2023 17:10:02 +0900",
-	"total":199110,
+	"lastBuildDate":"Sun, 30 Apr 2023 17:20:02 +0900",
+	"total":199111,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 22년만에 광역시도 노선 전면 재정비",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1009388",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1009388",
+			"description":"(송도, <b>청라<\/b>, 영종), 택지개발, 산업단지, 항만건설, 각종 개발사업과 상위계획 등으로 인한 지역의 여건 변화** 등을 위한 것이다. * 프로젝트 [전략8] 바다로 확장하는 인천(섬∼섬 간 연결망 확보로 접근성 개선) ** `01년... ",
+			"pubDate":"Sun, 30 Apr 2023 17:12:00 +0900"
+		},
 		{
 			"title":"인천시, 22년만에 광역시도 노선 전면 재정비",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202304301654055250811",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=50568",
 			"description":"하나금융은 경남 거제시를 시작으로 이번 칠곡 왜관하나어린이집을 포함한 전국의 보육 취약 지역에 총 64개의 국공립어린이집, 광주·명동·부산·<b>청라<\/b> 등에 9개의 직장어린이집을 완공해 총 73개의 어린이집을... ",
 			"pubDate":"Sun, 30 Apr 2023 09:12:00 +0900"
-		},
-		{
-			"title":"인천시, 22년만에 광역시도 노선 전면 재정비",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230430_0002285985&cID=10802&pID=14000",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011832393?sid=102",
-			"description":"(송도, <b>청라<\/b>, 영종), 택지개발, 산업단지, 항만건설, 각종 개발사업과 상위계획 등으로 인한 지역의 여건 변화 등을 위한 것이다. 광역시도 노선의 지정(폐지) 변경은 2001년 최초로 시 전역에 대한 광역시도 노선 지정... ",
-			"pubDate":"Sun, 30 Apr 2023 09:10:00 +0900"
 		}
 	]
 }
