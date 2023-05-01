@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 01 May 2023 20:40:02 +0900",
-	"total":199199,
+	"lastBuildDate":"Mon, 01 May 2023 20:50:02 +0900",
+	"total":199200,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&apos;일몰 연장&apos; 부동산투자이민제, 금액상향 발목 잡나",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230501010000235",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230501010000235",
+			"description":"1일 법무부에 따르면 당초 지난달까지였던 인천 영종·송도·<b>청라<\/b>국제도시 등 부동산투자이민제 시행기간이 2026년 4월까지 3년 더 연장됐다. 또 투자금액은 5억원 더 상향 조정되고, 명칭이 &apos;관광·휴양시설 투자이민제... ",
+			"pubDate":"Mon, 01 May 2023 20:44:00 +0900"
+		},
 		{
 			"title":"송도·영종·<b>청라<\/b> 부동산 투자이민제도 3년 연장",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363590217",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013914667?sid=101",
 			"description":"1일 법무부·제주도 등에 따르면 법무부는 지난달 30일 끝난 제주, 인천 송도·영종·<b>청라<\/b>, 강원 평창 알펜시아, 전남 여수 경도 등 4개 지역의 부동산 투자이민제 시행 기간을 2026년 4월 30일까지 3년 연장했다. 이달 19일... ",
 			"pubDate":"Mon, 01 May 2023 15:16:00 +0900"
-		},
-		{
-			"title":"&apos;5억→10억&apos; 투자액 상향...법무부, 부동산 투자이민제도 전면 개편",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202305011451251028",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005005351?sid=102",
-			"description":"제주, 인천(송도·영종·<b>청라<\/b>), 부산(해운대·동부산), 평창(알펜시아), 여수(경도) 지역의 시행기간을 3년 연장한다. 4월 말 종료되는 지역 중 일부 지역은 유치 실적이 저조했지만, 최근 코로나19 및 국제경기침체 등을... ",
-			"pubDate":"Mon, 01 May 2023 14:56:00 +0900"
 		}
 	]
 }
