@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 01 May 2023 16:00:02 +0900",
-	"total":199181,
+	"lastBuildDate":"Mon, 01 May 2023 16:10:02 +0900",
+	"total":199182,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;10억 투자하면 영주권&quot;…인천·제주 부동산 투자이민제 연장",
+			"originallink":"http:\/\/www.dt.co.kr\/contents.html?article_no=2023050102109919608005&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002798004?sid=102",
+			"description":"1일 법무부·제주도 등에 따르면 법무부는 지난 4월 30일 끝난 제주, 인천 송도·영종·<b>청라<\/b>, 강원 평창... 인천의 경우 2013년 5월부터 송도·영종·<b>청라<\/b> 등 인천경제자유구역을 대상으로 시행에 들어갔다. 제주 부동산... ",
+			"pubDate":"Mon, 01 May 2023 16:03:00 +0900"
+		},
 		{
 			"title":"하나금융그룹, &apos;국공립 칠곡 왜관하나어린이집&apos; 개원",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286870222479",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005476388?sid=106",
 			"description":"특히 이번 곡의 뮤직비디오는 인천 <b>청라<\/b>호수공원을 배경으로 특설무대를 설치, 카우보이와 카우걸 콘셉트를 가미해 신선함과 재미를 더했고 아이돌 댄스팀의 멋진 안무에 맞춰 두 사람의 화려한 퍼포먼스가 시선을... ",
 			"pubDate":"Mon, 01 May 2023 11:12:00 +0900"
-		},
-		{
-			"title":"제주 부동산 투자이민제 3년 연장…투자금액도 2배 상향",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230501_0002286621&cID=10813&pID=10800",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011833468?sid=102",
-			"description":"한편 오는 2026년 4월 30일까지 기간이 연장되고 투자금액도 10억원 이상으로 상향 적용되는 곳은 제주를 비롯해 ▲강원도 평창 알펜시아 ▲인천경제자유구역 송도·영종·<b>청라<\/b> ▲전남 여수 경도다.",
-			"pubDate":"Mon, 01 May 2023 11:08:00 +0900"
 		}
 	]
 }
