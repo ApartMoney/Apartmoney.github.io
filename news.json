@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 05 May 2023 08:30:02 +0900",
-	"total":199411,
+	"lastBuildDate":"Fri, 05 May 2023 08:40:02 +0900",
+	"total":199412,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"가천대 길병원 &apos;고위험산모 및 신생아 통합 건강관리 심포지엄&apos; 9일 개최",
+			"originallink":"http:\/\/sports.chosun.com\/news\/ntype.htm?id=202305060100041760004895&servicedate=20230505",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/076\/0004003616?sid=102",
+			"description":"아인여성병원, <b>청라<\/b>여성병원, W여성병원, 가나다순)원장 및 의료진이 참석할 예정이다. 이번 심포지엄에서는 인천지역 고위험산모신생아통합치료센터 김석영 센터장(산부인과) 연구팀이 &apos;인천 지역 고위험 산모 관리 현황... ",
+			"pubDate":"Fri, 05 May 2023 08:32:00 +0900"
+		},
 		{
 			"title":"오토플러스, 獨 시험인증기관 인증 4년 연속 획득…정비 부문 세계 최초 인증",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202305050511366240032",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.smartfn.co.kr\/article\/view\/sfn202305040058",
 			"description":"인천 서구는 2기 신도시인 <b>청라<\/b>·검단 신도시가 조성되면서, 인구 유입이 꾸준하게 이뤄지고 있다. 3월과 1분기 수도권 아파트 매매 거래량이 증가한 것은 시장 금리가 안정적으로 이어지고, 정부가 전방위적으로... ",
 			"pubDate":"Thu, 04 May 2023 16:18:00 +0900"
-		},
-		{
-			"title":"[<b>청라<\/b>언덕] 법문정답 ‘법을 묻는데, 정치로 답한다’",
-			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2023050416131772237",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000812486?sid=110",
-			"description":"Q: &quot;아침밥 먹었어?&quot; A: &quot;엄마랑 아빠랑 싸웠어.&quot; 대화가 헛돌 수밖에 없다. 유치원생들의 문답도 이렇지는 않을 터인데. 대한민국 정치판이 이 모양 이 꼴이다. 황당하기 그지없다. 본질은 법을 묻는데, 정치로 답하기... ",
-			"pubDate":"Thu, 04 May 2023 16:15:00 +0900"
 		}
 	]
 }
