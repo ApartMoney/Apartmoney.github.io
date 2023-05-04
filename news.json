@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 04 May 2023 20:30:02 +0900",
-	"total":199403,
+	"lastBuildDate":"Thu, 04 May 2023 20:40:02 +0900",
+	"total":199404,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘미추홀 전세사기’ 남헌기와 정치권 커넥션 어디까지 번지나",
+			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=451569",
+			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=451569",
+			"description":"인천 일부 지역(송도·영종·<b>청라<\/b>국제도시)은 2003년 8월 경제자유구역으로 지정됐다. 10년 뒤인 2013년 강원도는 동해안 일대에 동해안권경제자유구역을 지정했다. 두 경제자유구역 모두 2003년 7월 1일부터 시행된... ",
+			"pubDate":"Thu, 04 May 2023 20:30:00 +0900"
+		},
 		{
 			"title":"(17시) 충남도 &apos;고소득·새 도전·행복&apos; 우수 청년농부 50인 선정",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20230504091510783",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/autotimes.hankyung.com\/apps\/news.sub_view?popup=0&nid=03&c1=03&c2=03&c3=00&nkey=202305041517401",
 			"description":"인증 심사는 오토플러스가 인천 <b>청라<\/b>지구에 보유한 직영 정비 공장(Autoplus Trust Center)를 대상으로 진행했다. 오토플러스는 TÜV SÜD MS CBS 규격에 맞춘 자동차 판금 및 도장, 기계 및 정비 부품 공인 절차 등 차량 정비... ",
 			"pubDate":"Thu, 04 May 2023 15:18:00 +0900"
-		},
-		{
-			"title":"오토플러스, &apos;EVHEV&apos; 정비 부문 세계 최초 인증 획득",
-			"originallink":"http:\/\/moneys.mt.co.kr\/news\/mwView.php?no=2023050415154512638",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0000918501?sid=103",
-			"description":"인증 심사는 오토플러스가 인천 <b>청라<\/b>지구에 보유한 직영 정비 공장 &apos;오토플러스 트러스스센터&apos;(ATC)를... 스튜디오인 &apos;리본카 <b>청라<\/b>스튜디오&apos;에서 진행됐다. 특히 티유브이슈드 글로벌 최초로 전기차하이브리드차(EVPHEV)... ",
-			"pubDate":"Thu, 04 May 2023 15:17:00 +0900"
 		}
 	]
 }
