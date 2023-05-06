@@ -1,9 +1,86 @@
 {
-	"lastBuildDate":"Sun, 07 May 2023 08:30:02 +0900",
-	"total":199428,
+	"lastBuildDate":"Sun, 07 May 2023 08:40:03 +0900",
+	"total":199439,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융, 대만 중국신탁상업은행과 글로벌 사업 확대 맞손",
+			"originallink":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065540731386392",
+			"link":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065540731386392",
+			"description":"▲ 하나금융은 지난 4일 오후 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 대만 최대 은행 중 하나인 중국신탁상업은행... 인천 <b>청라<\/b>에 위치한 하나드림타운 내 하나글로벌캠퍼스에서 진행된 이번 협약식에는 이은형 하나금융그룹... ",
+			"pubDate":"Sun, 07 May 2023 08:36:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 대만 CTBC Bank와 글로벌 사업 확대 &apos;맞손&apos;",
+			"originallink":"http:\/\/www.choicenews.co.kr\/news\/articleView.html?idxno=115238",
+			"link":"http:\/\/www.choicenews.co.kr\/news\/articleView.html?idxno=115238",
+			"description":"인천 <b>청라<\/b> 하나글로벌캠퍼스에서 진행된 이번 협약식에는 이은형 하나금융 부회장, 모리스 리(Morris Li) CTBC은행 회장 등 양측의 주요 인사가 참석했다. 이들은 실질적인 협력 방안을 모색함으로써 양국의 금융 협력을... ",
+			"pubDate":"Sun, 07 May 2023 08:32:00 +0900"
+		},
+		{
+			"title":"하나금융-대만 CTBC, 글로벌 사업 업무협약 체결",
+			"originallink":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=42172",
+			"link":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=42172",
+			"description":"인천 <b>청라<\/b>에 위치한 하나드림타운 내 하나글로벌캠퍼스에서 진행된 이번 협약식에는 이은형 하나금융그룹 부회장, 모리스 리(Morris Li) CTBC은행 회장 등 양 은행의 주요 인사가 참석해 실질적인 협력 방안을... ",
+			"pubDate":"Sun, 07 May 2023 08:32:00 +0900"
+		},
+		{
+			"title":"하나금융, 대만 CTBC은행와 글로벌 사업 확대 MOU",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2039071",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2039071",
+			"description":"포쓰저널 박소연 기자 하나금융그룹은 4일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 대만 최대은행 중 하나인... 인천 <b>청라<\/b> 하나드림타운 내 하나글로벌캠퍼스에서 4일 진행된 업무협약식에는 이은형 하나금융그룹 부회장... ",
+			"pubDate":"Sun, 07 May 2023 08:32:00 +0900"
+		},
+		{
+			"title":"하나금융, 대만 중국신탁상업銀과 맞손",
+			"originallink":"http:\/\/www.greenpostkorea.co.kr\/news\/articleView.html?idxno=207706",
+			"link":"http:\/\/www.greenpostkorea.co.kr\/news\/articleView.html?idxno=207706",
+			"description":"인천 <b>청라<\/b>에 위치한 하나드림타운 내 하나글로벌캠퍼스에서 진행된 이번 협약식에는 이은형 하나금융그룹 부회장, 모리스 리 CTBC은행 회장 등 양 은행의 주요 인사가 참석해 실질적인 협력 방안을 모색함으로써 양국의... ",
+			"pubDate":"Sun, 07 May 2023 08:32:00 +0900"
+		},
+		{
+			"title":"하나금융, 대만 CTBC은행과 글로벌 사업확대 MOU",
+			"originallink":"https:\/\/it.chosun.com\/site\/data\/html_dir\/2023\/05\/06\/2023050601472.html",
+			"link":"https:\/\/it.chosun.com\/site\/data\/html_dir\/2023\/05\/06\/2023050601472.html",
+			"description":"인천 <b>청라<\/b>에 위치한 하나드림타운 내 하나글로벌캠퍼스에서 진행된 이번 협약식에는 이은형 하나금융그룹 부회장, 모리스 리(Morris Li) CTBC은행 회장 등 양 은행의 주요 인사가 참석했다. 이은형 하나금융그룹 부회장은... ",
+			"pubDate":"Sun, 07 May 2023 08:32:00 +0900"
+		},
+		{
+			"title":"하나금융그룹-중국신탁상업은행, 글로벌 사업 확대를 위한 MOU 체결",
+			"originallink":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=164723",
+			"link":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=164723",
+			"description":"인천 <b>청라<\/b>에 위치한 하나드림타운 내 하나글로벌캠퍼스에서 진행된 이번 협약식에는 이은형 하나금융그룹 부회장, 모리스 리(Morris Li) CTBC은행 회장 등 양 은행의 주요 인사가 참석해 실질적인 협력 방안을... ",
+			"pubDate":"Sun, 07 May 2023 08:32:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 대만 최대 은행 CTBC은행과 맞손…&apos;글로벌 사업 확대 박차&apos;",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1699021",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1699021",
+			"description":"인천 <b>청라<\/b>에 위치한 하나드림타운 내 하나글로벌캠퍼스에서 진행된 이번 협약식에는 이은형 하나금융그룹 부회장, 모리스 리(Morris Li) CTBC은행 회장 등 양 은행의 주요 인사가 참석했다. 이은형 하나금융그룹 부회장은... ",
+			"pubDate":"Sun, 07 May 2023 08:32:00 +0900"
+		},
+		{
+			"title":"하나금융, 대만 CTBC은행과 맞손…글로벌 사업 위해 협력",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1230919\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002709923?sid=101",
+			"description":"이번 업무협약은 지난 4일 인천 송도에서 개최된 제56차 아시아개발은행 연차총회 기간 중 이은형 하나금융 부회장과 모리스 리 CTBC 은행 회장이 인천 <b>청라<\/b> 하나드림타운 내 하나글로벌캠퍼스에서 직접 만나 진행됐다.... ",
+			"pubDate":"Sun, 07 May 2023 08:31:00 +0900"
+		},
+		{
+			"title":"하나금융, 대만 중국신탁상업은행과 전략적 업무협약",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2023050706263849033",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004883880?sid=101",
+			"description":"인천 <b>청라<\/b>의 하나드림타운 내 하나글로벌캠퍼스에서 진행된 이번 협약식에는 이은형 하나금융그룹 부회장, 모리스 리 CTBC은행 회장 등 양사 주요 인사가 참석해 실질적인 협력 방안을 모색했다. 이은형 하나금융... ",
+			"pubDate":"Sun, 07 May 2023 08:30:00 +0900"
+		},
+		{
+			"title":"하나금융, 대만 중국신탁상업은행과 글로벌 사업 확대 업무협약",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20230506000103",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20230506000103",
+			"description":"하나금융과 CTBC은행은 56차 아시아개발은행(ADB) 연차총회 기간 중 인천 <b>청라<\/b>에 있는 하나드림타운 내... [서울=뉴스핌] 한태희 기자 = 하나금융그룹은 지난 4일 오후 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 대만 최대 은행 중... ",
+			"pubDate":"Sun, 07 May 2023 08:30:00 +0900"
+		},
 		{
 			"title":"어린이날 시리즈 유일하게 지킨 반쪽돔…곧 만나게 될 &apos;진짜돔&apos; 기대↑[SC초점...",
 			"originallink":"http:\/\/sports.chosun.com\/news\/ntype.htm?id=202305080100049540005702&servicedate=20230507",
@@ -136,83 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003766765?sid=101",
 			"description":"검단‧<b>청라<\/b>신도시 입주물량 등의 영향으로 하락세가 거셌던 인천 서구도 입주물량이 소화된 후 4월 둘째주(10일 기준) 상승전환한 뒤 이번 주(1일 기준)에도 0.08% 오르며 4주 연속 상승세가 계속되고 있다. 인천... ",
 			"pubDate":"Fri, 05 May 2023 05:03:00 +0900"
-		},
-		{
-			"title":"환자·의사 다 빨아들인 &apos;빅5&apos;... 분원 늘려 지방까지 독식 채비",
-			"originallink":"https:\/\/hankookilbo.com\/News\/Read\/A2023050317200003968?did=NA",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000737716?sid=102",
-			"description":"송도·<b>청라<\/b>신도시다. 국내 최대 의료기관 중 두 곳이 여기에 분원을 짓고 있다. 의료계는 이곳에 분원이 완성되면 대형병원 중심 체계가 더 공고해질 수 있다며 긴장하고 있다. <b>청라<\/b>엔 아산, 송도엔 세브란스 지난달... ",
-			"pubDate":"Fri, 05 May 2023 04:31:00 +0900"
-		},
-		{
-			"title":"‘신도시의 힘’ 인천 서구 인구 60만 돌파",
-			"originallink":"https:\/\/www.chosun.com\/national\/regional\/gyeonggi-incheon\/2023\/05\/05\/4J6GIXFQNZHOZAMVMXM4XHJRQI\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003761838?sid=102",
-			"description":"<b>청라<\/b>·검단·루원시티 개발 효과… 서울 송파구 이어 區 인구 2위 인천시 서구 인구가 60만명을 돌파했다.... 이런 서구가 <b>청라<\/b>국제도시와 검단신도시, 루원시티 등 신도시를 품은 전국적 규모로 커졌다. 계획 인구... ",
-			"pubDate":"Fri, 05 May 2023 03:02:00 +0900"
-		},
-		{
-			"title":"3월 수도권 아파트 매매량, 16개월만에 최고치",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20230504500125",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20230504500125",
-			"description":"인천 서구는 2기 신도시인 <b>청라<\/b>·검단 신도시가 조성돼며 인구 유입이 꾸준하게 이뤄지고 있다. 리얼투데이 관계자는 &quot;금리 안정과 정부의 규제 완화 효과에 수도권의 각종 부동산 지표들이 회복세를 보이고 있다... ",
-			"pubDate":"Fri, 05 May 2023 00:02:00 +0900"
-		},
-		{
-			"title":"&apos;힘쎈충남 도지사와 우수 청년농부의 농담&apos; 개최",
-			"originallink":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=605335",
-			"link":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=605335",
-			"description":"충남도 농업기술원은 4일 보령시 <b>청라<\/b>면 소재의 한 스마트팜 농가에서 &apos;힘쎈충남, 도지사와 우수 청년농부의 농담(農談)&apos;을 개최했다. 김태흠 지사와 청년 농업인, 도와 도 농업기술원 관계자 등 70여 명이 참석한 가운데... ",
-			"pubDate":"Thu, 04 May 2023 23:04:00 +0900"
-		},
-		{
-			"title":"[IT이슈] 젤리스페이스, 펀플라잉과 메타콜라보 및 도시 재생 공간 사업 활성...",
-			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=20230504214428116204ead0791_12",
-			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=20230504214428116204ead0791_12",
-			"description":"젤리스페이스 관계자는 &quot;양사는 이번 협약을 통해 <b>청라<\/b> 지역에 위치한 스퀘어 7 공간에 메타젤리스와의 도시재생사업의 일환으로 인천 <b>청라<\/b>의 스퀘어 7의 공간 활성화를 위한 다양한 협업을 진행하기로 했다&quot;라며... ",
-			"pubDate":"Thu, 04 May 2023 21:46:00 +0900"
-		},
-		{
-			"title":"‘미추홀 전세사기’ 남헌기와 정치권 커넥션 어디까지 번지나",
-			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=451569",
-			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=451569",
-			"description":"인천 일부 지역(송도·영종·<b>청라<\/b>국제도시)은 2003년 8월 경제자유구역으로 지정됐다. 10년 뒤인 2013년 강원도는 동해안 일대에 동해안권경제자유구역을 지정했다. 두 경제자유구역 모두 2003년 7월 1일부터 시행된... ",
-			"pubDate":"Thu, 04 May 2023 20:30:00 +0900"
-		},
-		{
-			"title":"(17시) 충남도 &apos;고소득·새 도전·행복&apos; 우수 청년농부 50인 선정",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20230504091510783",
-			"link":"https:\/\/www.ajunews.com\/view\/20230504091510783",
-			"description":"- &apos;힘쎈충남 도지사와 우수 청년농부의 농담&apos; 개최…인증패 수여·소통 등 아주경제=(충남)허희만 기자 hmher@ajunews.com 도지사와 우수 청년농부의 농담 장면[사진=충남도] 충남도 농업기술원은 4일 보령시 <b>청라<\/b>면 소재의 한... ",
-			"pubDate":"Thu, 04 May 2023 19:10:00 +0900"
-		},
-		{
-			"title":"충남도, 김태흠 지사 민선8기 힘쎈충남 &apos;청년 농부와의 농담&apos;",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2712201",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2712201",
-			"description":"김태흠지사와 우수 청년 농부의 농담(사진=충남도청) 충남도 농업기술원은 4일 보령시 <b>청라<\/b>면 소재의 한 스마트팜 농가에서 &apos;힘쎈충남, 도지사와 우수 청년농부의 농담(農談)&apos;을 개최했다. 김태흠 지사와 청년 농업인... ",
-			"pubDate":"Thu, 04 May 2023 18:54:00 +0900"
-		},
-		{
-			"title":"LH, <b>청라<\/b>시티타워 사업자에 해지통보",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=747050",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=747050",
-			"description":"한국토지주택공사(LH)가 <b>청라<\/b>시티타워 사업자 <b>청라<\/b>시티타워㈜(한양·보성산업·타워에스크로우)에 4일 해지 통보했다. <b>청라<\/b>시티타워는 지하 2층, 지상 30층, 높이 448ｍ 규모로 추진됐지만 LH와 기존 사업자 간 공사비... ",
-			"pubDate":"Thu, 04 May 2023 18:08:00 +0900"
-		},
-		{
-			"title":"[B tv 인천뉴스] 서구 60만 명 돌파…&quot;경인고속도로 주변 &apos;도시재생&apos; 추진&quot;",
-			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=156350",
-			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=156350",
-			"description":"바로 <b>청라<\/b>와 검단 등 신도시 개발이 한창인 서구인데요. 최근엔 전국 자치구 중 두 번째로 60만 명을... 그런 서구는 검단과 <b>청라<\/b> 등 잇단 신도시 개발로 지형이 바뀝니다. 미나리꽝 일대는 루원시티 개발이 추진되면서... ",
-			"pubDate":"Thu, 04 May 2023 17:58:00 +0900"
-		},
-		{
-			"title":"충남도, &apos;고소득·새 도전·행복&apos; 우수 청년 농부 50인 선정",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230504169900063?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013922825?sid=102",
-			"description":"충남도 농업기술원은 4일 보령시 <b>청라<\/b>면 한 스마트팜 농가에서 우수 청년 농부 50명에게 인증패를 수여했다. 청년 농업인 유입·육성 정책을 대내외에 알리기 위해 우수 청년 농부를 뽑았다고 도는 설명했다. 만 18세 이상... ",
-			"pubDate":"Thu, 04 May 2023 17:58:00 +0900"
 		}
 	]
 }
