@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 08 May 2023 10:00:02 +0900",
-	"total":199509,
+	"lastBuildDate":"Mon, 08 May 2023 10:10:02 +0900",
+	"total":199512,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"IFEZ, 송도·영종·<b>청라<\/b> 교통 불편 해소 마련",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1231156\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002710160?sid=004",
+			"description":"TF는 김진용 IFEZ 청장을 단장으로 시 교통국장, 인천발전연구원, 교통전문가, 송도, 영종, <b>청라<\/b> 주민 등으로 구성되며 경제자유구역 내 교통 불편 해소와 대책 마련 등을 추진할 계획이다.",
+			"pubDate":"Mon, 08 May 2023 10:08:00 +0900"
+		},
+		{
+			"title":"인천경제청, 송도·영종·<b>청라<\/b> 주민 교통 불편 해소에 팔 걷었다",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202305080955427230285",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202305080955427230285",
+			"description":"이번에 발족하는 TF는 김진용 경제청장을 단장으로 시 교통국장, 인천경제청 본부장, 인천발전연구원, 교통전문가, 송도, 영종, <b>청라<\/b> 주민 등으로 구성될 예정이다. 인천경제청은 이번 TF 회의를 통해 경제자유구역 내... ",
+			"pubDate":"Mon, 08 May 2023 10:02:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> BMW R&amp;D 센터 착공",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202305080958503490286",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202305080958503490286",
+			"description":"(주)가 <b>청라<\/b>국제도시 내 BMW 연구개발(R&amp;D) 센터 공사에 본격 착수했다고 8일 밝혔다. 이를 위해 BMW코리아(주)는 지난 2월 토지임대차 계약 체결을 통해 <b>청라<\/b> IHP(Incheon Hi-tech Park) 도시첨단산업단지 내... ",
+			"pubDate":"Mon, 08 May 2023 10:02:00 +0900"
+		},
 		{
 			"title":"인천경제자유구역청, <b>청라<\/b> BMW R&amp;D센터 착공",
 			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=114166",
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230426010005080",
 			"description":"한 도시 안에 <b>청라<\/b>국제도시와 검단신도시, 루원시티 등 3개나 되는 신도시가 조성됐다는 점부터가 서구의... 10만 계획인구를 훌쩍 넘어 11만 인구가 사는 <b>청라<\/b>국제도시는 공연장으로도 활용될 멀티스타디움 돔구장을... ",
 			"pubDate":"Sun, 07 May 2023 19:16:00 +0900"
-		},
-		{
-			"title":"하나금융, 대만 CTBC은행과 글로벌 사업 확대 맞손",
-			"originallink":"https:\/\/www.fetv.co.kr\/news\/article.html?no=138938",
-			"link":"https:\/\/www.fetv.co.kr\/news\/article.html?no=138938",
-			"description":"이은형 하나금융그룹 부회장(오른쪽 다섯번째)과 모리스 리 중국신탁상업은행 회장(오른쪽 여섯번째)이 지난 4일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 열린 글로벌 사업확대 업무협약식에서 양사 관계자들과 함께 기념... ",
-			"pubDate":"Sun, 07 May 2023 19:06:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>시티타워, LH 주도로 다시 시작",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20230507580171",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000010581?sid=102",
-			"description":"상반기 중 인천경제청과 업무협약...연말까지 입찰공고 마무리 <b>청라<\/b>시티타워 조감도. 경기일보DB 16년째 첫 삽조차 뜨지 못했던 <b>청라<\/b>시티타워가 LH(한국토지주택공사) 주도로 새롭게 시작한다. LH는 지난 4일... ",
-			"pubDate":"Sun, 07 May 2023 18:37:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 대만 중국신탁상업은행과 글로벌사업 확대 전략적 업무협약",
-			"originallink":"http:\/\/www.insidevina.com\/news\/articleView.html?idxno=23720",
-			"link":"http:\/\/www.insidevina.com\/news\/articleView.html?idxno=23720",
-			"description":"인천 <b>청라<\/b>의 하나드림타운내 하나글로벌캠퍼스에서 진행된 이번 협약식에는 이은형 하나금융그룹 부회장, 모리스 리(Morris Li) CTBC은행 회장 등 양 은행의 주요인사가 참석해 실질적인 협력방안을 모색함으로써 양국의... ",
-			"pubDate":"Sun, 07 May 2023 18:28:00 +0900"
 		}
 	]
 }
