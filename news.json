@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 10 May 2023 14:40:02 +0900",
-	"total":199726,
+	"lastBuildDate":"Wed, 10 May 2023 14:50:02 +0900",
+	"total":199727,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"용인 아파트 한달새 2억 &apos;껑충&apos;...수도권 곳곳서 반등 움직임",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=747674",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=747674",
+			"description":"인천시 서구 ‘<b>청라<\/b> 센트럴 에일린의 뜰’ 전용면적 84㎡ 역시 지난해 말에서 올 초까지 5억 9000만 원에서 6억 5000만 원까지의 가격을 형성하다가 3월 7억 1000만 원(30층)에 팔렸다. 매수세 위축이 심했던 작년 말과... ",
+			"pubDate":"Wed, 10 May 2023 14:40:00 +0900"
+		},
 		{
 			"title":"[10일 인천시 소식] <b>청라<\/b>~강서 간 7700번 노선 이용객 84% &apos;긍정&apos; 등",
 			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20230510500239",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003811105?sid=102",
 			"description":"현재 인천의 송도·영종·<b>청라<\/b> 경제자유구역은 총 122.4㎢로 국내 전체(275㎢)의 45%를 차지한다. 송도는 바이오·비즈니스, <b>청라<\/b>의 경우 금융·레저, 영종은 물류·관광 기능을 각각 맡고 있다. 2003년 8월 11일 국내 최초... ",
 			"pubDate":"Wed, 10 May 2023 10:48:00 +0900"
-		},
-		{
-			"title":"집값 반등세 경기도로 퍼지나...한 달 만에 2억원 뛴 곳도",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202305101036099400053",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202305101036099400053",
-			"description":"인천시 서구 &apos;<b>청라<\/b> 센트럴 에일린의 뜰&apos; 전용면적 84㎡도 지난해 말 5억9000만원에서 6억5000만원까지 가격을 형성하다가 올해3월 7억1000만원에 팔렸다. 매수세 위축이 심했던 작년 말에 비해서 아파트값회복세가... ",
-			"pubDate":"Wed, 10 May 2023 10:42:00 +0900"
 		}
 	]
 }
