@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 10 May 2023 11:40:02 +0900",
-	"total":199706,
+	"lastBuildDate":"Wed, 10 May 2023 11:50:03 +0900",
+	"total":199707,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 바닥 찍었나…거래량 2배 늘고 2억 뛴 거래도",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230509_0002296478&cID=10405&pID=10400",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011850251?sid=101",
+			"description":"기사내용 요약 3월 거래량 659건, 인천 전체의 24.6% <b>청라<\/b> &apos;한양수자인&apos; 한 달만 약 2억 상승 [서울=뉴시스]... 국토교통부 실거래가 공개시스템에 따르면 서구 <b>청라<\/b>국제도시 대장주로 꼽히는 &apos;<b>청라<\/b>국제금융단지... ",
+			"pubDate":"Wed, 10 May 2023 11:41:00 +0900"
+		},
 		{
 			"title":"보령시, &apos;벼루의 탄생&apos; 프로그램 참여자 모집",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230510010002846",
@@ -89,17 +96,17 @@
 			"pubDate":"Wed, 10 May 2023 10:32:00 +0900"
 		},
 		{
-			"title":"집값 반등세 서울→수도권 번지나…한달새 2억원 오른 곳도",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1011924",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1011924",
-			"description":"인천시 서구 <b>청라<\/b> 센트럴 에일린의 뜰 전용면적 84㎡은 지난 3월 7억1000만원에 매매 계약이 체결됐다. 부동산 침체기였던 지난 2022년 말부터 올 초까지 5억9000만~6억5000만원에 가격대를 형성했던 것과 비교해... ",
-			"pubDate":"Wed, 10 May 2023 10:28:00 +0900"
-		},
-		{
 			"title":"용인 아파트 한달새 2억 뛰었다…수도권 곳곳서 반등 움직임",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023051010084147542",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005256960?sid=101",
 			"description":"인천시 서구 <b>청라<\/b> 센트럴 에일린의 뜰 전용면적 84㎡ 역시 지난해 말에서 올 초까지 5억9000만원에서 6억5000만원 수준의 가격을 형성하다가 3월 7억1000만원(30층)에 팔렸다. 매수세 위축이 심했던 지난해 말과 올해... ",
+			"pubDate":"Wed, 10 May 2023 10:28:00 +0900"
+		},
+		{
+			"title":"집값 반등세 서울→수도권 번지나…한달새 2억원 오른 곳도",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1011924",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1011924",
+			"description":"인천시 서구 <b>청라<\/b> 센트럴 에일린의 뜰 전용면적 84㎡은 지난 3월 7억1000만원에 매매 계약이 체결됐다. 부동산 침체기였던 지난 2022년 말부터 올 초까지 5억9000만~6억5000만원에 가격대를 형성했던 것과 비교해... ",
 			"pubDate":"Wed, 10 May 2023 10:28:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002570927?sid=101",
 			"description":"인천시 서구 ‘<b>청라<\/b> 센트럴 에일린의 뜰’ 전용면적 84㎡ 역시 지난해 말에서 올 초까지 5억9000만 원에서 6억5000만 원 수준의 가격을 형성하다가 3월 7억1000만 원(30층)에 팔렸다. 매수세 위축이 심했던 지난해 말과... ",
 			"pubDate":"Wed, 10 May 2023 09:13:00 +0900"
-		},
-		{
-			"title":"&apos;한달새 2억 상승&apos;…아파트값 부활하나",
-			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202305100055&t=NN",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001100424?sid=101",
-			"description":"인천 서구 &apos;<b>청라<\/b> 센트럴 에일린의 뜰&apos; 전용면적 84㎡ 역시 동일 면적 34층이 올해 1월 6억원에 거래됐으나 올해 3월에는 7억1천만원(30층)에 팔리며 반등했다. 한국부동산원 공동주택 실거래가 지수에 따르면 ㎡당... ",
-			"pubDate":"Wed, 10 May 2023 09:11:00 +0900"
 		}
 	]
 }
