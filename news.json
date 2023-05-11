@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 12 May 2023 07:00:02 +0900",
-	"total":199860,
+	"lastBuildDate":"Fri, 12 May 2023 07:10:02 +0900",
+	"total":199861,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 계양역도 사고 위험성 높아…&quot;혼잡도 완화 대책 필요&quot;",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230511138300065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013937199?sid=102",
+			"description":"이 사업이 완료되면 기존 공항철도 서울역행 승객 수요가 분산되며, 영종·<b>청라<\/b>·계양 등 인천 서북부권 주민은 전철을 갈아타지 않고도 강남까지 한 번에 갈 수 있다.",
+			"pubDate":"Fri, 12 May 2023 07:00:00 +0900"
+		},
 		{
 			"title":"인천지역 발전소 주변지역 확대 ‘제동’…로봇랜드 타당성 조사 추진",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20230511580240",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/kr.aving.net\/news\/articleView.html?idxno=1779142",
 			"description":"산업포장을 수상한 한국지엠㈜ 최종 부사장은 GM 아태지역 본부 한국 유치, <b>청라<\/b> 주행시험장 건립, GMTCK 법인 분리 등에 중추적인 역할을 수행하며 한국지엠의 전략적 위상과 경쟁력 강화에 기여하고, 2년간 무분규... ",
 			"pubDate":"Thu, 11 May 2023 17:04:00 +0900"
-		},
-		{
-			"title":"인천경제청, AI CCTV로 실종자 찾고 도로상태도 관리…스마트시티 고도화 구현",
-			"originallink":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1008380",
-			"link":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1008380",
-			"description":"얼굴 인식 영상 관제 서비스는 IFEZ 송도·영종·<b>청라<\/b>국제도시의 어린이 보호구역 내 스마트횡단보도가 설치된 총 16곳의 초등학교 앞을 대상으로 얼굴 인식이 가능한 &apos;AI(인공지능) CCTV&apos;를 설치, 어린이 뿐만아니라 치매... ",
-			"pubDate":"Thu, 11 May 2023 16:58:00 +0900"
 		}
 	]
 }
