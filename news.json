@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 13 May 2023 05:10:02 +0900",
-	"total":199887,
+	"lastBuildDate":"Sat, 13 May 2023 05:20:03 +0900",
+	"total":199888,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 날씨] 경기·인천(13일, 토)…대체로 맑고, 경기남동부 &apos;소나기&apos;",
+			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=63285",
+			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=63285",
+			"description":"인천 <b>청라<\/b>호수공원 분수대가 물을 뿜어내고 있다. 13일 토요일인 오늘 경기·인천지역은 대체로 맑다가 낮부터 가끔 구름이 많겠다. (영상=중앙신문DB) 13일 토요일인 오늘 경기·인천지역은 대체로... ",
+			"pubDate":"Sat, 13 May 2023 05:12:00 +0900"
+		},
 		{
 			"title":"‘구색 맞추기인가, 시늉 내기인가’… 뒤늦게 영종 찾은 외교부 재외동포청 ...",
 			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230512000662",
@@ -138,17 +145,17 @@
 			"pubDate":"Fri, 12 May 2023 11:18:00 +0900"
 		},
 		{
-			"title":"“혼잡도 완화 대책 필요&quot;…인천 계양역도 사고 위험성 높아",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29PJT96D2Y",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004189429?sid=102",
-			"description":"이 사업이 완료되면 기존 공항철도 서울역행 승객 수요가 분산되며, 영종·<b>청라<\/b>·계양 등 인천 서북부권 주민은 전철을 갈아타지 않고도 강남까지 한 번에 갈 수 있다.",
-			"pubDate":"Fri, 12 May 2023 10:00:00 +0900"
-		},
-		{
 			"title":"자율주행 로봇이 배달 서비스…인천경제청 스마트시티 고도화",
 			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=451869",
 			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=451869",
 			"description":"IFEZ는 인천광역시에 위치한 경제자유구역으로, 송도지구, 영종지구, <b>청라<\/b>지구 등 3개의 지구로 구성되어 있으며, 물류, 의료, 교육, 첨단산업 등 다양한 분야에서 세계적인 수준의 서비스를 제공하고 있다.",
+			"pubDate":"Fri, 12 May 2023 10:00:00 +0900"
+		},
+		{
+			"title":"“혼잡도 완화 대책 필요&quot;…인천 계양역도 사고 위험성 높아",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29PJT96D2Y",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004189429?sid=102",
+			"description":"이 사업이 완료되면 기존 공항철도 서울역행 승객 수요가 분산되며, 영종·<b>청라<\/b>·계양 등 인천 서북부권 주민은 전철을 갈아타지 않고도 강남까지 한 번에 갈 수 있다.",
 			"pubDate":"Fri, 12 May 2023 10:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000011039?sid=100",
 			"description":"한편, 이날 시의회 산업경제위원회는 서구 <b>청라<\/b>국제도시의 로봇랜드 사업의 정상화를 위한 타당성 조사에 대해 면밀한 검토를 주문했다. 나상길 시의원(민주·부평4)은 “언제 착공이 이뤄질 지 미지수인 사업에 타당성... ",
 			"pubDate":"Fri, 12 May 2023 05:02:00 +0900"
-		},
-		{
-			"title":"[오늘의 주요 일정] 대전·충남(12일, 금)",
-			"originallink":"https:\/\/www.news1.kr\/articles\/5044270",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006801820?sid=102",
-			"description":"제7회 <b>청라<\/b>면민 화합대회(<b>청라<\/b>중학교) ◇아산시 -박경귀 시장 15:00 맹사성 아카데미 핵심 인재 양성 과정 전문가 트렌드 특강(시청 시민홀) ◇당진시 -오성환 시장 14:00 2023년 해양수산 정책 설명회(종합복지타운)... ",
-			"pubDate":"Fri, 12 May 2023 05:00:00 +0900"
 		}
 	]
 }
