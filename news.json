@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 14 May 2023 05:40:02 +0900",
-	"total":199898,
+	"lastBuildDate":"Sun, 14 May 2023 05:50:03 +0900",
+	"total":199899,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[자막뉴스] 이 속도면 &apos;전국 1위&apos;...대한민국 인구 지각변동",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0134_202305140536476108",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001884489?sid=102",
+			"description":"경제자유구역인 <b>청라<\/b>국제도시를 비롯해 검단신도시, 행정복합타운 루원시티가 개발되면서 인구 유입도 빠르게 이뤄졌습니다. [강범석 \/ 인천 서구청장 : 서구에 사는 사람이라면 내 삶에 대해서 누군가 신경 써주고... ",
+			"pubDate":"Sun, 14 May 2023 05:36:00 +0900"
+		},
 		{
 			"title":"김정헌 중구청장, 재외동포청 &apos;영종국제도시&apos;가 최적지",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=398641",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=256920",
 			"description":"이외에도 인천시 서구 <b>청라<\/b> 센트럴 에일린의 뜰 전용면적 84㎡ 역시 지난해 말 5억9000만원 가량으로 거래됐다가 3월에는 7억1000만원(30층)에 팔렸다. 이를 두고 부동산 시장에선 시중의 급매물이 상당수 소진되고, 일부... ",
 			"pubDate":"Fri, 12 May 2023 11:34:00 +0900"
-		},
-		{
-			"title":"유정복 시장, 중앙부처 방문해 국비 확보에 속도 … 행정체제 개편 건의도",
-			"originallink":"http:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=292331",
-			"link":"http:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=292331",
-			"description":"서울도시철도7호선 <b>청라<\/b> 국제도시 연장(1,200억), 저상버스 구입(119억), 경인권역재활병원 노후 장비교체(29억), 인천 감염병 전문 병원 유치·설립(11억), 인천항 내항 1·8부두 재개발(예타통과), 경인고속도로 연장 및... ",
-			"pubDate":"Fri, 12 May 2023 11:18:00 +0900"
 		}
 	]
 }
