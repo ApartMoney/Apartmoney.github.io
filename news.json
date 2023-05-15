@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 15 May 2023 16:50:02 +0900",
-	"total":200000,
+	"lastBuildDate":"Mon, 15 May 2023 17:00:03 +0900",
+	"total":200001,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘BMW R&amp;D 센터’ <b>청라<\/b>서 착공",
+			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20230515\/119303483\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003497430?sid=103",
+			"description":"BMW코리아가 <b>청라<\/b>국제도시 내 신규 BMW R&amp;D 센터 건립사업을 이달 착공했다. 지난 2015년 인천 BMW 드라이빙... 새로운 BMW R&amp;D 센터 코리아는 <b>청라<\/b> IHP 도시첨단산업단지 내 5295㎡ 부지에 자리를 잡고 독일 본사와 함께... ",
+			"pubDate":"Mon, 15 May 2023 16:56:00 +0900"
+		},
 		{
 			"title":"BMW코리아, <b>청라<\/b>에 R&amp;D센터 착공…2024년 완공",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1233952\/?sc=Naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000044895?sid=101",
 			"description":"BMW그룹코리아가 <b>청라<\/b>국제도시 내 신규 BMW 연구개발(R&amp;D) 센터 건립사업을 이달 착공했다. 15일... 새로운 BMW R&amp;D 센터는 <b>청라<\/b> IHP(Incheon Hi-Tech Park) 도시첨단산업단지 내 5295㎡ 부지에 자리를 잡고 독일 본사와 함께... ",
 			"pubDate":"Mon, 15 May 2023 14:42:00 +0900"
-		},
-		{
-			"title":"BMW그룹코리아, <b>청라<\/b>에 R&amp;D 센터 건립사업 착공",
-			"originallink":"http:\/\/autotimes.hankyung.com\/apps\/news.sub_view?popup=0&nid=03&c1=03&c2=03&c3=00&nkey=202305151438031",
-			"link":"http:\/\/autotimes.hankyung.com\/apps\/news.sub_view?popup=0&nid=03&c1=03&c2=03&c3=00&nkey=202305151438031",
-			"description":"-다양한 미래 모빌리티 분야 연구 수행 -한국 시장에 대한 지속적인 투자와 의지 BMW그룹코리아가 <b>청라<\/b>국... 새로운 BMW R&amp;D 센터 코리아는 <b>청라<\/b> IHP(Incheon Hi-Tech Park) 도시첨단산업단지 내 5,295m2 부지에 자리를 잡는다.... ",
-			"pubDate":"Mon, 15 May 2023 14:40:00 +0900"
 		}
 	]
 }
