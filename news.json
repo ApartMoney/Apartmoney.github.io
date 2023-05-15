@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 15 May 2023 16:10:02 +0900",
-	"total":199994,
+	"lastBuildDate":"Mon, 15 May 2023 16:20:02 +0900",
+	"total":199995,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"BMW코리아, <b>청라<\/b>에 신규 R&amp;D 센터 착공",
+			"originallink":"http:\/\/www.upinews.kr\/newsView\/upi202305150098",
+			"link":"http:\/\/www.upinews.kr\/newsView\/upi202305150098",
+			"description":"BMW코리아가 인천 <b>청라<\/b>국제도시 내에 신규 BMW 연구개발(R&amp;D) 센터 건립사업을 이달 착공했다고 15일... 새로운 센터는 <b>청라<\/b> 인천하이테크파크 도시첨단산업단지 내 5295 제곱미터(㎡) 부지에 자리 잡으며, 독일 본사와... ",
+			"pubDate":"Mon, 15 May 2023 16:18:00 +0900"
+		},
 		{
 			"title":"BMW코리아, <b>청라<\/b>국제도시 내 신규 BMW R&amp;D 센터 건립사업 착공",
 			"originallink":"http:\/\/www.mediapen.com\/news\/view\/818847",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013942410?sid=101",
 			"description":"BMW코리아는 인천 <b>청라<\/b>국제도시 내 신규 연구개발(R&amp;D) 센터 건립 사업을 이달 시작했다고 15일 밝혔다.... 새 센터는 <b>청라<\/b> 인천하이테크파크(IHP) 도시첨단산업단지 내 5천295㎡ 부지에 들어선다. 독일 본사와 함께... ",
 			"pubDate":"Mon, 15 May 2023 14:28:00 +0900"
-		},
-		{
-			"title":"BMW코리아, 신규 R&amp;D 센터 착공",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02765046635609248",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005486216?sid=103",
-			"description":"BMW그룹코리아가 <b>청라<\/b>국제도시 내 신규 BMW R&amp;D 센터 건립사업을 이달 착공했다고 15일 밝혔다. BMW R&amp;D센터는... 새로운 BMW R&amp;D센터는 <b>청라<\/b> IHP 도시첨단산업단지 내 5295㎡ 부지에 자리를 잡는다. 독일 본사와 함께... ",
-			"pubDate":"Mon, 15 May 2023 14:20:00 +0900"
 		}
 	]
 }
