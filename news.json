@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 17 May 2023 03:00:03 +0900",
-	"total":200085,
+	"lastBuildDate":"Wed, 17 May 2023 03:10:02 +0900",
+	"total":200086,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20230516\/119326518\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003497861?sid=102",
+			"description":"26일 오후 4∼6시 <b>청라<\/b>국제도서관 제1다목적실. □힐링 공예=‘5월 심야 공방-나를 위로하는 시간, 미니 센터피스 만들기’ 참가자 15명. 31일 오후 7∼9시 검단도서관 지하 1층 어울림터. 참가비 2만 원. □그림책... ",
+			"pubDate":"Wed, 17 May 2023 03:06:00 +0900"
+		},
 		{
 			"title":"대구 중구, 미소친절 문화확산 거리 캠페인",
 			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=426679&part_idx=170",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2204877",
 			"description":"구자옥 대표는 보령시 <b>청라<\/b>면 출신으로 수처리 기계생산 생산업체인 ㈜디에이치 대표이사로 재직하고 있으며, 제10대 금강중기협의회 회장과 중소벤처연구원 이사로 활동하고 있다. 구자옥 대표는 &quot;고향인 보령을 위해... ",
 			"pubDate":"Tue, 16 May 2023 14:24:00 +0900"
-		},
-		{
-			"title":"대구 중구 “미소친절 대구 FOR YOU 운동 시민추진단 거리 캠페인” 실시",
-			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2023051613414741755",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000814444?sid=004",
-			"description":"또한 치매전문봉사단인 &apos;<b>청라<\/b>지기&apos; 활동도 함께 겸하여 치매 관련 정보를 안내하고 치매에 대한 부정적 인식... 참여하고, <b>청라<\/b>지기 활동의 일환으로 경증 치매환자 대상 일상생활 체험 훈련 프로그램, 치매 관련 지역 행사... ",
-			"pubDate":"Tue, 16 May 2023 13:44:00 +0900"
 		}
 	]
 }
