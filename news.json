@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 16 May 2023 20:40:02 +0900",
-	"total":200080,
+	"lastBuildDate":"Tue, 16 May 2023 20:50:02 +0900",
+	"total":200081,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[뉴스분석] 갈수록 어려워지는 서울행 철도 연결",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230515010002828",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230515010002828",
+			"description":"민자 철도 노선인 &apos;대장홍대선&apos;을 통해 서울로 연결할 구상인 서울 2호선 <b>청라<\/b> 연장선도 서울시 원칙에 영향을 받을 가능성이 있다. 인천시 관계자는 &quot;기존보다 혼잡도 기준을 더 강화한 GTX(수도권광역급행철도) 등... ",
+			"pubDate":"Tue, 16 May 2023 20:48:00 +0900"
+		},
 		{
 			"title":"&apos;강릉 35.5도&apos; 5월 맞아?…삼복 더위에 열대야 가능성까지",
 			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12126630",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002144078?sid=102",
 			"description":"외교부는 송도와 <b>청라<\/b>지역 현장만 실사하고 영종은 아예 검토 대상에서 제외됐다. 이같은 결과는 인천시가... 서구청장도 지난 3월 언론 인터뷰를 통해 <b>청라<\/b> 유치를 주장했고 구민 서명운동을 벌여 한 달간 8만5709명을... ",
 			"pubDate":"Tue, 16 May 2023 13:19:00 +0900"
-		},
-		{
-			"title":"BMW 그룹 코리아, <b>청라<\/b>에 신규 BMW R&amp;D 센터 건립사업 착공... 2024년 완공 목...",
-			"originallink":"https:\/\/kr.aving.net\/news\/articleView.html?idxno=1779255",
-			"link":"https:\/\/kr.aving.net\/news\/articleView.html?idxno=1779255",
-			"description":"BMW 그룹 코리아(대표 한상윤)가 인천 <b>청라<\/b>국제도시 내 신규 BMW R&amp;D 센터 건립사업을 이달 착공했다고... 새로운 BMW R&amp;D 센터 코리아는 <b>청라<\/b> IHP(Incheon Hi-Tech Park) 도시첨단산업단지 내 5,295㎡ 부지에 자리를 잡고 독일... ",
-			"pubDate":"Tue, 16 May 2023 12:44:00 +0900"
 		}
 	]
 }
