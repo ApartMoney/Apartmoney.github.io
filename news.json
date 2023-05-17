@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 18 May 2023 03:00:03 +0900",
-	"total":200173,
+	"lastBuildDate":"Thu, 18 May 2023 03:10:02 +0900",
+	"total":200174,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천 外",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20230517\/119350385\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003498123?sid=102",
+			"description":"23일 오후 1시∼2시 반 <b>청라<\/b>호수도서관 회의실2. □역사 교실=‘길 위의 인문학-역사 속 전쟁으로 보는 우리의 삶과 미래’ 참가자 40명. 6월 2∼16일 매주 금요일 오후 7∼9시 주안도서관 평생학습1실. 부천 □영어... ",
+			"pubDate":"Thu, 18 May 2023 03:06:00 +0900"
+		},
 		{
 			"title":"[프리존TV] 전국 네트워크 5월 셋째주 광역권 헤드라인 뉴스 2-1부",
 			"originallink":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=470095",
@@ -205,13 +212,6 @@
 			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=7677853&ref=A",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011486930?sid=102",
 			"description":"인천 <b>청라<\/b>국제도시에 국내외 게임 기업 혁신지구와 게임엔터테인먼트지구 등을 갖춘 ‘e스포츠 특화단지’... 5개 기관과 기업은 이번 협약에 따라 인천 <b>청라<\/b>국제도시의 투자유치용지 6블록 26만㎡에 1조 6천200억 원... ",
-			"pubDate":"Wed, 17 May 2023 17:44:00 +0900"
-		},
-		{
-			"title":"유정복, &quot;<b>청라<\/b>를 아시아 주도 게임산업 허브 도시로 조성&quot;…경제성장·청년 고...",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230517010004578",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230517010004578",
-			"description":"인천경제자유구역(IFEZ) <b>청라<\/b>국제도시가 세계적인 e-스포츠 게임산업의 허브로 조성될 전망이다. 인천시와 인천경제청은 17일 송도국제도시 G타워에서 ‘<b>청라<\/b> G-Tech City 조성을 위한 양해각서’를 체결했다고... ",
 			"pubDate":"Wed, 17 May 2023 17:44:00 +0900"
 		}
 	]
