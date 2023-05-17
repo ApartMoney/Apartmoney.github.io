@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 18 May 2023 06:00:02 +0900",
-	"total":200174,
+	"lastBuildDate":"Thu, 18 May 2023 06:10:02 +0900",
+	"total":200175,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"선수 성장에 중점 둔 하나원큐, 태백에서 본격 담금질",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=86764",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000068774",
+			"description":"이후에는 숙소인 인천 <b>청라<\/b>에서 팀 훈련을 계속하고 7월 말 일본 전지훈련을 계획 중이다. 8월말에 예정된 박신자컵 서머리그도 준비해야한다. 올해부터는 일본 WJBL 상위 2팀을 비롯해 전력이 강한 외국 팀이 4팀 정도... ",
+			"pubDate":"Thu, 18 May 2023 06:06:00 +0900"
+		},
 		{
 			"title":"[인천판\/게시판]인천 外",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20230517\/119350385\/1",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=95402",
 			"description":"&apos;<b>청라<\/b> G-Tech City&apos; 조감도(자료제공=인천경제청) 인천경제자유구역 <b>청라<\/b>국제도시에 게임산업의 실리콘밸리가 될 게임특화단지 조성이 추진된다. 인천경제자유구역청은 17일 송도 G타워에서 유정복 시장, 김진용 청장... ",
 			"pubDate":"Wed, 17 May 2023 17:48:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>국제도시에 ‘e스포츠 특화단지’ 조성 추진",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=7677853&ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011486930?sid=102",
-			"description":"인천 <b>청라<\/b>국제도시에 국내외 게임 기업 혁신지구와 게임엔터테인먼트지구 등을 갖춘 ‘e스포츠 특화단지’... 5개 기관과 기업은 이번 협약에 따라 인천 <b>청라<\/b>국제도시의 투자유치용지 6블록 26만㎡에 1조 6천200억 원... ",
-			"pubDate":"Wed, 17 May 2023 17:44:00 +0900"
 		}
 	]
 }
