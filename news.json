@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 19 May 2023 01:40:02 +0900",
-	"total":200232,
+	"lastBuildDate":"Fri, 19 May 2023 01:50:02 +0900",
+	"total":200233,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 아파트 지하주차장서 차량 화재…차량 1대 전소",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007197297&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001058998?sid=102",
+			"description":"어제(18일) 오후 4시 10분쯤 인천시 서구 <b>청라<\/b>동 한 고층 아파트의 지하 2층 주차장에 있던 승용차에서 불이 났습니다. 이 불로 승용차 소유주인 40대 여성 A 씨가 연기를 들이마셔 병원으로 옮겨졌고, 차량은... ",
+			"pubDate":"Fri, 19 May 2023 01:41:00 +0900"
+		},
 		{
 			"title":"제3연륙교 공정률 15%…제2공항철도 타당성 검토 시작",
 			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=7679149&ref=A",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.khgames.co.kr\/news\/articleView.html?idxno=213483",
 			"description":"인천경제청은 17일 송도국제도시 G타워에서 &apos;<b>청라<\/b> G-Tech City 조성을 위한 양해각서&apos;를 체결했다고 17일... 이번 양해각서의 골자는 총사업비 1조 6,200억 이상을 들여 <b>청라<\/b> 투자유치용지 6블럭 약 26만395㎡에 글로벌... ",
 			"pubDate":"Thu, 18 May 2023 15:18:00 +0900"
-		},
-		{
-			"title":"인천 아파트값 상승 전환, 서울은 0.01%내려...&quot;곧 반등 오나&quot;",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202305181447026440494",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202305181447026440494",
-			"description":"실제 인천에서는 송도신도시가 위치한 연수구(0.08%)와 검단·<b>청라<\/b>신도시가 있는 서구(0.04%)가 가장 크게 오르며 오름세를 이끌었다. 한국부동산원 관계자는 &quot;인천은 구도심 위주로 하락세가 지속 중이지만, 대단지... ",
-			"pubDate":"Thu, 18 May 2023 15:12:00 +0900"
 		}
 	]
 }
