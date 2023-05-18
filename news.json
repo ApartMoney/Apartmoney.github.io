@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 18 May 2023 18:00:02 +0900",
-	"total":200215,
+	"lastBuildDate":"Thu, 18 May 2023 18:10:02 +0900",
+	"total":200216,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 아파트 지하주차장서 차량 화재…40대 연기 흡입",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230518147800065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013951157?sid=102",
+			"description":"18일 오후 4시 10분께 인천시 서구 <b>청라<\/b>동 한 고층 아파트의 지하 2층 주차장에 있던 승용차에서 불이 나 승용차 소유주인 40대 여성 A씨가 연기를 흡입해 병원으로 옮겨졌으며 차량은 전소됐다. 신고를 접수한... ",
+			"pubDate":"Thu, 18 May 2023 18:07:00 +0900"
+		},
 		{
 			"title":"인천 <b>청라<\/b>에 게임산업의 실리콘밸리 생긴다",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25163496",
@@ -33,7 +40,7 @@
 			"pubDate":"Thu, 18 May 2023 17:32:00 +0900"
 		},
 		{
-			"title":"[세상을 바꾼 유통혁명가⑥정용진] 매장 거대화 주역, 쇼핑의 개념을 바꾸다",
+			"title":"[정용진] 매장 거대화 주역, 쇼핑의 개념을 바꾸다",
 			"originallink":"http:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=111621",
 			"link":"http:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=111621",
 			"description":"현재 <b>청라<\/b>·광주 등에 새로운 스타필드를 준비하고 있다. 지난 5월 3일 오후 이마트 연수점을 방문한 정용진 부회장이 직원과 대화하고 있다.&lt;이마트&gt; 소통형 리더…현장경영 속도낸다 정 부회장은 특유의 친근한 이미지를... ",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2001482",
 			"description":"통기타, 밴드, 요들송, 마술, 클래식, 재즈 등 다양한 장르의 공연이 마련되고 ▲검단 완정역광장, ▲검단 도담공원, ▲검암 시천문화광장, ▲연희 마실거리, ▲가정 음식문화의거리, ▲<b>청라<\/b> 1동 커넬웨이 등 6곳에서... ",
 			"pubDate":"Thu, 18 May 2023 10:45:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>에 게임산업 실리콘밸리 조성된다",
-			"originallink":"http:\/\/www.breaknews.com\/965803",
-			"link":"http:\/\/www.breaknews.com\/965803",
-			"description":"인천시가 18일 인천경제자유구역(IFEZ) <b>청라<\/b>국제도시가 세계적인 e-스포츠... 인천시에 따르면, 시 산하 인천경제청은 지난 17일 송도국제도시 G타워에서 ‘<b>청라<\/b> G-Tech... ",
-			"pubDate":"Thu, 18 May 2023 10:26:00 +0900"
 		}
 	]
 }
