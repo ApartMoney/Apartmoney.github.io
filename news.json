@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 20 May 2023 16:00:02 +0900",
-	"total":200259,
+	"lastBuildDate":"Sat, 20 May 2023 16:10:02 +0900",
+	"total":200260,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"고향을 떠난 자들의 도시 인천 그리고 재외동포청",
+			"originallink":"http:\/\/www.mediatoday.co.kr\/news\/articleView.html?idxno=310228",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/006\/0000118132?sid=102",
+			"description":"이 단지가 완공된 2002년 7월만 해도 쓰레기 매립장 근처에 있는 인천의 오지에 불과했지만 북측에서 검단신도시 개발이 이뤄졌고 남쪽에서는 <b>청라<\/b>국제도시가 들어서면서 종합환경연구단지는 이제 서구의 중심에 위치하게... ",
+			"pubDate":"Sat, 20 May 2023 16:06:00 +0900"
+		},
 		{
 			"title":"&apos;제2공항철도&apos; 연결까지…영종 국제도시 호반건설, &apos;호반써밋 스카이센트럴 2...",
 			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=627206",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000599312?sid=102",
 			"description":"오늘(18일) 오후 4시쯤 인천 서구 <b>청라<\/b>동의 한 고층아파트 지하 2층 주차장에 있던 승용차에서 불이... 경찰과 소방당국은 정확한 화재 원인을 조사 중입니다. 한웅희 기자 (hlight@yna.co.kr) #인천_<b>청라<\/b> #지하주차장 #화재",
 			"pubDate":"Thu, 18 May 2023 21:21:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>국제도시 고층 아파트 주차장서 불‥1명 부상",
-			"originallink":"https:\/\/imnews.imbc.com\/news\/2023\/society\/article\/6485116_36126.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001273746?sid=102",
-			"description":"오늘 오후 4시쯤 인천시 서구 <b>청라<\/b>동의 31층짜리 아파트의 지하 2층 주차장에 있던 승용차에서 불이 났습니다. 불은 20분 만에 꺼졌지만, 차량 주인 40대 여성이 연기를 흡입해 병원으로 옮겨졌고, 생명에 지장은 없는... ",
-			"pubDate":"Thu, 18 May 2023 20:42:00 +0900"
 		}
 	]
 }
