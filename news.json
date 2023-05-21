@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 21 May 2023 18:50:02 +0900",
-	"total":200280,
+	"lastBuildDate":"Sun, 21 May 2023 19:00:02 +0900",
+	"total":200281,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 내년 주요사업 10건 국비 확보 &apos;잰걸음&apos;",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1194836",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1194836",
+			"description":"세부적으로 살펴보면 서해5도 정주생활 지원금(35억 증액), 공단고가교~서인천IC 혼잡도로 개선(356억), 인천발 KTX 건설(900억), 서울지하철 7호선 <b>청라<\/b>연장(1200억), 인천 감염병 전문 병원 유치·설립(11억) 등 총... ",
+			"pubDate":"Sun, 21 May 2023 18:56:00 +0900"
+		},
 		{
 			"title":"인천경제청, 영종·<b>청라<\/b>·송도국제도시 교통불편 해소 추진",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160293204949498",
@@ -89,17 +96,17 @@
 			"pubDate":"Sun, 21 May 2023 12:46:00 +0900"
 		},
 		{
-			"title":"인천환경공단, &apos;제28회 환경의 날&apos; 환경공모전 개최",
-			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2002390",
-			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2002390",
-			"description":"한편 인천시에서 주최하는 환경의 날 기념행사는 6월 3일 <b>청라<\/b>사업소 일원에서 환경의 날 기념식, 자원순환 녹색나눔장터, 환경과학 체험부스 30동, 로봇밴 음악공연, 숲속 놀이학교, 미디어 나눔버스 등 시민들과 함께... ",
-			"pubDate":"Sun, 21 May 2023 12:40:00 +0900"
-		},
-		{
 			"title":"인천경제청, ‘IFEZ 교통대책 TF’제1차 회의 개최",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230521010005440",
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230521010005440",
 			"description":"특히 영종·<b>청라<\/b>·송도 국제도시의 주민대표들이 참여하는 지역별 교통불편과 대책을 제시하며 교통문화... 4%의 8배에 달할 뿐 아니라, 영종, <b>청라<\/b>, 송도 중에서 가장 인구가 많은 송도를 기준으로 비교해도 최근 5년간... ",
+			"pubDate":"Sun, 21 May 2023 12:40:00 +0900"
+		},
+		{
+			"title":"인천환경공단, &apos;제28회 환경의 날&apos; 환경공모전 개최",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2002390",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2002390",
+			"description":"한편 인천시에서 주최하는 환경의 날 기념행사는 6월 3일 <b>청라<\/b>사업소 일원에서 환경의 날 기념식, 자원순환 녹색나눔장터, 환경과학 체험부스 30동, 로봇밴 음악공연, 숲속 놀이학교, 미디어 나눔버스 등 시민들과 함께... ",
 			"pubDate":"Sun, 21 May 2023 12:40:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ifm.kr\/news\/361390",
 			"description":"장애인과 비장애인이 함께 볼 수 있는 배리어프리 음악극 &lt;친절한 돼지씨&gt;가 오는 26일 오전 11시와 오후 7시30분 인천 <b>청라<\/b>블루노바홀에서 선보입니다.세종국악관현악단이 제작한 창작 음악극 &lt;친절한 돼지씨&gt;는 신정민... ",
 			"pubDate":"Fri, 19 May 2023 18:06:00 +0900"
-		},
-		{
-			"title":"&apos;게임 밸리&apos; 조성되는 인천 <b>청라<\/b>, 제2의 판교로 거듭날까?",
-			"originallink":"http:\/\/www.tgdaily.co.kr\/news\/articleView.html?idxno=325006",
-			"link":"http:\/\/www.tgdaily.co.kr\/news\/articleView.html?idxno=325006",
-			"description":"&apos;<b>청라<\/b> G-테크 시티&apos; 조감도. 인천광역시가 2조원에 달하는 막대한 비용을 투자해 <b>청라<\/b>국제도시에 &apos;게임산업 허브도시&apos;를 조성할 계획이다. 19일 관련업계에 따르면 인천광역시 산하 인천경제청은 최근 송도국제도시... ",
-			"pubDate":"Fri, 19 May 2023 17:52:00 +0900"
 		}
 	]
 }
