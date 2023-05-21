@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 22 May 2023 08:10:02 +0900",
-	"total":200287,
+	"lastBuildDate":"Mon, 22 May 2023 08:20:02 +0900",
+	"total":200288,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 <b>청라<\/b>지하차도서 추돌사고…50대 1명 사망",
+			"originallink":"https:\/\/www.news1.kr\/articles\/5053729",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006820536?sid=102",
+			"description":"인천 <b>청라<\/b>지하차도에서 추돌사고가 발생해 50대 남성 1명이 숨졌다. 22일 인천 서부경찰서에 따르면 전날 오전 8시 15분쯤 인천시 서구 <b>청라<\/b>동 인천김포고속도로 내 <b>청라<\/b>국제지하차도에서 30대 운전자 A씨가 운전한... ",
+			"pubDate":"Mon, 22 May 2023 08:15:00 +0900"
+		},
 		{
 			"title":"인천 <b>청라<\/b>지하차도서 추돌사고로 1명 사망…30대 운전자 입건",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230522016200065?input=1195m",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=627206",
 			"description":"주요 교통망 개발 호재를 살펴보면 영종국제도시와 <b>청라<\/b>국제도시를 잇는 제3연륙교가 있다. 길이 4.67km, 폭... (출처: 인천경제자유구역청) 영종도와 <b>청라<\/b>국제도시를 잇는 제3연륙교와 영종국제도시 내부를 순환하는... ",
 			"pubDate":"Sat, 20 May 2023 09:40:00 +0900"
-		},
-		{
-			"title":"인천시, 지방재정협의회서 내년도 국비 2738억 건의",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20230520010005804",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230520010005804",
-			"description":"대면건의 5건은 서해5도 정주생활 지원금(35억 증액), 공단고가교∼서인천IC 혼잡도로 개선(356억), 인천발 KTX 건설(900억), 서울지하철 7호선 <b>청라<\/b>연장(1200억), 인천 감염병 전문 병원 유치·설립 11억이다. 또한 서면건의... ",
-			"pubDate":"Sat, 20 May 2023 09:24:00 +0900"
 		}
 	]
 }
