@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 21 May 2023 12:20:02 +0900",
-	"total":200264,
+	"lastBuildDate":"Sun, 21 May 2023 12:30:02 +0900",
+	"total":200265,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 주민 교통불편 해소에 팔 걷었다",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20230521121722963",
+			"link":"https:\/\/www.ajunews.com\/view\/20230521121722963",
+			"description":"[사진=인천경제청] 특히, 영종·<b>청라<\/b>·송도 국제도시의 주민대표들이 참여하는 지역별 교통불편과 대책을... 4%의 8배에 달할 뿐 아니라, 영종, <b>청라<\/b>, 송도 중에서 가장 인구가 많은 송도를 기준으로 비교해도 최근 5년간... ",
+			"pubDate":"Sun, 21 May 2023 12:28:00 +0900"
+		},
 		{
 			"title":"&quot;봄철 김치, 소외계층에 나눠줬어요&quot;",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=412643",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011488178?sid=102",
 			"description":"[리포트] 인천 영종에서 <b>청라<\/b> 방면으로 1.2km 길이의 가교가 만들어졌습니다. 영종도의 3번째 다리, 제3연륙교... &quot;] 현재 공정률은 약 15%, 2025년 말 완공이 목표인데, 완공이 되면 영종도와 인천 <b>청라<\/b>, 서울 여의도 일대의... ",
 			"pubDate":"Fri, 19 May 2023 07:37:00 +0900"
-		},
-		{
-			"title":"수억씩 뛴 아파트값 수도권에 &apos;집중&apos;…회복세 더딘 지방시장",
-			"originallink":"https:\/\/www.news1.kr\/articles\/5051554",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006816367?sid=101",
-			"description":"강동구 고덕동 고덕그라시움 전용 84㎡은 약 3억원, 인천 서구 <b>청라<\/b>동 <b>청라<\/b>롯데캐슬 전용 125㎡는 약 1억원 오른 값에 팔렸다. 하지만 지방은 수도권에 비해 개선 폭이 미미했다. 5대 광역시는 같은 기간 -0.13%에서... ",
-			"pubDate":"Fri, 19 May 2023 06:00:00 +0900"
 		}
 	]
 }
