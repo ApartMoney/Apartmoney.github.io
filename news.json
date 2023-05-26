@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 26 May 2023 11:10:02 +0900",
-	"total":200523,
+	"lastBuildDate":"Fri, 26 May 2023 11:20:02 +0900",
+	"total":200524,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&apos;인천 서구 인구 60만 돌파 기념 음악회&apos; 31일 <b>청라<\/b>에서 열려",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=95497",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=95497",
+			"description":"인천 서구는 관내 인구가 60만명을 넘어선 것을 기념하는 기념식과 음악회를 오는 31일(수) 오후 6시 <b>청라<\/b>국제도시 하나은행 글로벌캠퍼스에서 개최한다고 26일 밝혔다. <b>청라<\/b>국제도시로 본점 이전을 앞둔 하나은행과... ",
+			"pubDate":"Fri, 26 May 2023 11:16:00 +0900"
+		},
 		{
 			"title":"인천 서구, 음식경연 통해 &apos;맛집 6곳&apos; 선정",
 			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/856667",
@@ -75,17 +82,17 @@
 			"pubDate":"Thu, 25 May 2023 20:46:00 +0900"
 		},
 		{
-			"title":"주민 환영받는 자원순환센터 건립 모색",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1032895",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1032895",
-			"description":"송도와 <b>청라<\/b> 자원환경센터를 견학한 데 이어 자원순환시설 정책 간담회를 개최해 시설 필요성에 공감했다. 시는 25일 인천환경공단 <b>청라<\/b>사업소 내 <b>청라<\/b>자원환경센터에서 &apos;자원순환시설 정책 공유에 필요한 환경 분야... ",
-			"pubDate":"Thu, 25 May 2023 20:46:00 +0900"
-		},
-		{
 			"title":"인천 서구 인구 60만 명 돌파 기념 31일 &apos;푸른음악회&apos;",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1032822",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1032822",
 			"description":"함께 <b>청라<\/b> 하나글로벌캠퍼스에서 기념식과 음악회를 개최한다. 구는 인구 60만 시대를 맞아 코로나19... 2부에서는 구가 <b>청라<\/b>에 본사 이전을 앞둔 하나은행과 함께 &apos;푸른음악회&apos;를 연다. 다비치, 에픽하이, 나태주 들... ",
+			"pubDate":"Thu, 25 May 2023 20:46:00 +0900"
+		},
+		{
+			"title":"주민 환영받는 자원순환센터 건립 모색",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1032895",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1032895",
+			"description":"송도와 <b>청라<\/b> 자원환경센터를 견학한 데 이어 자원순환시설 정책 간담회를 개최해 시설 필요성에 공감했다. 시는 25일 인천환경공단 <b>청라<\/b>사업소 내 <b>청라<\/b>자원환경센터에서 &apos;자원순환시설 정책 공유에 필요한 환경 분야... ",
 			"pubDate":"Thu, 25 May 2023 20:46:00 +0900"
 		},
 		{
@@ -194,13 +201,6 @@
 			"pubDate":"Thu, 25 May 2023 16:48:00 +0900"
 		},
 		{
-			"title":"인천교통공사 &quot;대중교통 이용 코로나 이전으로 회복&quot;",
-			"originallink":"https:\/\/www.hankyung.com\/society\/article\/2023052591101",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004849053?sid=102",
-			"description":"공사가 운영하는 <b>청라<\/b>~강서 BRT 7700번 버스는 코로나19가 유행한 2020년에 이용 승객이 다소 줄었으나... <b>청라<\/b>지역의 순환선인 GRT 701번과 702번 버스도 BRT와 마찬가지 패턴으로 코로나19가 크게 유행한 2020년에 이용... ",
-			"pubDate":"Thu, 25 May 2023 16:26:00 +0900"
-		},
-		{
 			"title":"송도에 재외동포청 유치…인천 &apos;1000만 글로벌 도시&apos; 도약대",
 			"originallink":"https:\/\/www.hankyung.com\/society\/article\/2023052591131",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004849054?sid=102",
@@ -208,11 +208,11 @@
 			"pubDate":"Thu, 25 May 2023 16:26:00 +0900"
 		},
 		{
-			"title":"인천경제청, 해묵은 현안 해결…경제자유구역 미래 사업 &apos;탄력&apos;",
-			"originallink":"https:\/\/www.hankyung.com\/society\/article\/2023052591231",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004849051?sid=102",
-			"description":"전국 최초 인공지능(AI)·메타버스 교육센터 조성, 에디슨 교육과학박물관, 유현준 테라스타운, <b>청라<\/b>국제도시를 게임산업의 실리콘밸리로 도약시키는 ‘<b>청라<\/b> G-테크시티’ 조성 사업도 잇따라 시동을 걸고 있다.... ",
-			"pubDate":"Thu, 25 May 2023 16:25:00 +0900"
+			"title":"인천교통공사 &quot;대중교통 이용 코로나 이전으로 회복&quot;",
+			"originallink":"https:\/\/www.hankyung.com\/society\/article\/2023052591101",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004849053?sid=102",
+			"description":"공사가 운영하는 <b>청라<\/b>~강서 BRT 7700번 버스는 코로나19가 유행한 2020년에 이용 승객이 다소 줄었으나... <b>청라<\/b>지역의 순환선인 GRT 701번과 702번 버스도 BRT와 마찬가지 패턴으로 코로나19가 크게 유행한 2020년에 이용... ",
+			"pubDate":"Thu, 25 May 2023 16:26:00 +0900"
 		}
 	]
 }
