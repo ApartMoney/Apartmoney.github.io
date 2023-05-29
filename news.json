@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 30 May 2023 08:30:02 +0900",
-	"total":200601,
+	"lastBuildDate":"Tue, 30 May 2023 08:40:02 +0900",
+	"total":200602,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 검단·송도 노선버스 증차…원도심 주차공간 확충",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230530021100065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0013970331?sid=102",
+			"description":"광역버스도 검단∼강남, <b>청라<\/b>∼양재꽃시장 노선을 신설할 계획이다. 송도에는 재외동포청 개청을 고려해 7월부터 인천공항을 오가는 광역버스 운행을 재개하고 교통수요를 분석해 광역버스 노선 조정·신설을 추진할... ",
+			"pubDate":"Tue, 30 May 2023 08:37:00 +0900"
+		},
 		{
 			"title":"[기고] 대중교통을 &apos;대구굴기&apos; 시금석으로",
 			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20230523010002990",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001611851?sid=103",
 			"description":"대구 중구에는 ‘몽마르트르’로 불리는 <b>청라<\/b>언덕이 있다. 130여년 전 대구에 자리 잡은 미국 선교사들의... 푸른 담쟁이를 뜻하는 <b>청라<\/b>(靑蘿)란 말 그대로 담쟁이덩굴을 가장 먼저 심고 붉은 벽돌로 건물을 올리며... ",
 			"pubDate":"Mon, 29 May 2023 03:03:00 +0900"
-		},
-		{
-			"title":"인천경제청, 영종 골든테라시티 국제학교 유치 사업설명회 개최",
-			"originallink":"https:\/\/www.etnews.com\/20230528000124",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003103146?sid=102",
-			"description":"인천경제자유구역(IFEZ)에는 송도국제도시에 2010년 개교한 채드윅국제학교, 올해 9월 개교 예정인 칼빈 매니토바 국제학교, <b>청라<\/b>국제도시에 2011년 개교한 달튼 외국인학교 등이 자리 잡고 있다.",
-			"pubDate":"Sun, 28 May 2023 20:38:00 +0900"
 		}
 	]
 }
