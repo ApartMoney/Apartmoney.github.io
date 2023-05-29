@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 29 May 2023 20:20:03 +0900",
-	"total":200594,
+	"lastBuildDate":"Mon, 29 May 2023 20:30:02 +0900",
+	"total":200595,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 시내버스 250원·지하철 200원 동시에 올린다",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363594377",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363594377",
+			"description":"시는 일반(성인) 요금 기준 ▶시내버스 250원 인상 ▶광역버스(직행좌석) 350원 인상 ▶<b>청라<\/b>~강서 광역간선급행버스(BRT) 400원 인상 등을 추진한다. 시내버스 요금이 일괄 250원 인상될 경우 간선버스는 1천500원... ",
+			"pubDate":"Mon, 29 May 2023 20:28:00 +0900"
+		},
 		{
 			"title":"영종 골든테라시티에 국제학교 유치 추진",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1033154",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=311&aid=0001597880",
 			"description":"어쩌면 2027년 <b>청라<\/b> 돔구장과 스타필드 <b>청라<\/b> 건립을 목표로 세운 SSG 랜더스가 바라는 이상적인 방향이 아닐까. 소프트뱅크 구단은 지속적으로 흥미로운 야구 문화를 만들고 있다. SSG가 그리는 <b>청라<\/b> 프로젝트는 어떤... ",
 			"pubDate":"Sun, 28 May 2023 07:21:00 +0900"
-		},
-		{
-			"title":"미래차 시장 초석은 &apos;인재 양성&apos;…산학협력·채용 연계 지원 줄이어",
-			"originallink":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=150669",
-			"link":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=150669",
-			"description":"영종도 드라이빙 센터 운영, <b>청라<\/b>국제도시 R&amp;D 센터 건립 등 활발한 국내 투자를 전개해 온 위상에 걸맞은 행보라는 평가다. BMW 그룹 코리아는 지난 2004년 8개 대학교와 자동차 전문 인재 양성을 위한 협약을 맺은 이래... ",
-			"pubDate":"Sun, 28 May 2023 07:02:00 +0900"
 		}
 	]
 }
