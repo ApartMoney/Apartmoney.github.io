@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 29 May 2023 14:30:02 +0900",
-	"total":200578,
+	"lastBuildDate":"Mon, 29 May 2023 14:40:02 +0900",
+	"total":200579,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 음식 경연대회 &apos;맛있는 집&apos; 6곳 선정",
+			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230527010008141",
+			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230527010008141",
+			"description":"서구는 1차 서류 심사와 사전 위생평가를 거친 음식점 15곳을 대상으로 실시한 대회 결과 ▲<b>청라<\/b>동 고쉐프의 신선한 초밥 ▲검암동 솔잎장어 ▲석남동 한성국밥 ▲석남동 갈마골 다슬기옻닭 ▲<b>청라<\/b>동 금화정남원추어탕... ",
+			"pubDate":"Mon, 29 May 2023 14:30:00 +0900"
+		},
 		{
 			"title":"인천경제청, (가칭)미단시티국제학교 유치 사업설명회",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230527010008130",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=95517",
 			"description":"<b>청라<\/b>국제도시 로즈가든 □ <b>청라<\/b>국제도시 로즈가든 <b>청라<\/b>국제도시 랜드마크인 <b>청라<\/b>호수공원에는 로즈가든이 있다. 남측 호수와 접한 약 2,000㎡ 평지에 조성된 로즈가든에는 데임드꼬르 등 5종류의 장미 1만6,000주가... ",
 			"pubDate":"Fri, 26 May 2023 18:46:00 +0900"
-		},
-		{
-			"title":"인천경제청, 영종 골든테라시티 국제학교 유치 사업설명회 개최",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230526010007185",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230526010007185",
-			"description":"또 <b>청라<\/b>국제도시에 달튼 외국인학교가 있지만 국제도시로의 성숙과 외국인학교 수요에 부응한 선제적 대응 차원에서 인천경제청이 국제 학교 추가 설립에 나섰다. 인천경제청 관계자는 &quot;외국명문사학 유치 어려움을... ",
-			"pubDate":"Fri, 26 May 2023 18:20:00 +0900"
 		}
 	]
 }
