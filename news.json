@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 31 May 2023 03:00:02 +0900",
-	"total":200706,
+	"lastBuildDate":"Wed, 31 May 2023 03:10:02 +0900",
+	"total":200707,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘매치 퀸’ 성유진, 첫 타이틀 방어전",
+			"originallink":"http:\/\/www.kookje.co.kr\/news2011\/asp\/newsbody.asp?code=0600&key=20230531.22019010044",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=658&aid=0000042472",
+			"description":"성유진은 다음 달 1일부터 나흘 동안 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열리는 KLPGA 투어 롯데 오픈에 출전한다. 롯데 오픈은 성유진에게 매우 특별한 의미를 갖는 대회다. 지난해까지 별다른 두각을... ",
+			"pubDate":"Wed, 31 May 2023 03:03:00 +0900"
+		},
 		{
 			"title":"인천시, 신도시 &apos;대중교통&apos;·원도심 &apos;주차공간&apos; 늘린다",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=546036",
@@ -33,17 +40,17 @@
 			"pubDate":"Tue, 30 May 2023 21:34:00 +0900"
 		},
 		{
-			"title":"인천 신도시 출퇴근 지옥 해결 나선다",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1033381",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1033381",
-			"description":"하반기에는 5개 노선에 전세버스 10대를 추가 투입하고, 광역버스 노선 2개(검단~강남, <b>청라<\/b>~양재꽃시장)를 신설한다. 송도지역에 운행되는 광역버스 노선의 조정과 신설도 추진할 예정이다. 또 도심 교통 혼잡을... ",
-			"pubDate":"Tue, 30 May 2023 21:32:00 +0900"
-		},
-		{
 			"title":"시민 스트레스 우울감 전국 1위 인천",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1033241",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1033241",
 			"description":"송도·<b>청라<\/b>·영종국제도시를 근간으로 하는 인천경제자유구역이 도시 경쟁력을 선도하고, 낙후된 원도심 지역은 테마가 있는 문화 공간으로 재정비될 것이다. 수도 서울과 너무 인접한 지정학적·인식적 현실에서... ",
+			"pubDate":"Tue, 30 May 2023 21:32:00 +0900"
+		},
+		{
+			"title":"인천 신도시 출퇴근 지옥 해결 나선다",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1033381",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1033381",
+			"description":"하반기에는 5개 노선에 전세버스 10대를 추가 투입하고, 광역버스 노선 2개(검단~강남, <b>청라<\/b>~양재꽃시장)를 신설한다. 송도지역에 운행되는 광역버스 노선의 조정과 신설도 추진할 예정이다. 또 도심 교통 혼잡을... ",
 			"pubDate":"Tue, 30 May 2023 21:32:00 +0900"
 		},
 		{
@@ -138,17 +145,17 @@
 			"pubDate":"Tue, 30 May 2023 18:08:00 +0900"
 		},
 		{
-			"title":"대구 엑스코, ‘제14회 대구꽃박람회’ 개최",
-			"originallink":"https:\/\/www.nspna.com\/news\/?mode=view&newsid=639921",
-			"link":"https:\/\/www.nspna.com\/news\/?mode=view&newsid=639921",
-			"description":"172개 단체 및 기업들이 주제관, <b>청라<\/b>관 등 다양한 작품관 속에 ‘꽃의 힘’ 담아 국내 최대 실내 플라워쇼... 대구꽃박람회는 주제관, <b>청라<\/b>상관, 일반조성관 등 다양하게 조성된 작품관을 통해 화려한 꽃의 향연이... ",
-			"pubDate":"Tue, 30 May 2023 18:04:00 +0900"
-		},
-		{
 			"title":"국내 최대 실내 플라워쇼…대구꽃박람회 6월 2일 엑스코서 개막",
 			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2132974",
 			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2132974",
 			"description":"<b>청라<\/b>상관, 일반조성관 등 다양하게 조성된 작품관을 통해 화려한 꽃의 향연을 펼친다. &apos;꽃의 힘&apos; 주제를 상징하는 대형 화훼조형물이 전시될 &apos;주제관&apos;에서는 &apos;꽃으로 피어나는 MBTI(flowering MBTI)&apos;라는 작품을, &apos;<b>청라<\/b>상관... ",
+			"pubDate":"Tue, 30 May 2023 18:04:00 +0900"
+		},
+		{
+			"title":"대구 엑스코, ‘제14회 대구꽃박람회’ 개최",
+			"originallink":"https:\/\/www.nspna.com\/news\/?mode=view&newsid=639921",
+			"link":"https:\/\/www.nspna.com\/news\/?mode=view&newsid=639921",
+			"description":"172개 단체 및 기업들이 주제관, <b>청라<\/b>관 등 다양한 작품관 속에 ‘꽃의 힘’ 담아 국내 최대 실내 플라워쇼... 대구꽃박람회는 주제관, <b>청라<\/b>상관, 일반조성관 등 다양하게 조성된 작품관을 통해 화려한 꽃의 향연이... ",
 			"pubDate":"Tue, 30 May 2023 18:04:00 +0900"
 		},
 		{
@@ -205,13 +212,6 @@
 			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=136260",
 			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=136260",
 			"description":"강남, <b>청라<\/b>~양재꽃시장) 신설 등으로 시민들의 버스 이용 여건을 크게 개선할 계획이다. 또한 지난 3월 7700번 BRT(간선급행버스)의 경우 혼잡구간과 만석으로 인한 무정차 통과 지역의 승객 좌석확보를 위해 당초 <b>청라<\/b>... ",
-			"pubDate":"Tue, 30 May 2023 16:26:00 +0900"
-		},
-		{
-			"title":"충남도, 건설 신규 공무원 대상 현장 견학",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1710414",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1710414",
-			"description":"(영종∼<b>청라<\/b> 연결도로) 건설공사’ 현장이다. 송산그린시티 국제테마파크 주거단지 조성공사는 사업비... 제3연륙교(영종∼<b>청라<\/b> 연결도로) 건설공사의 경우 사업비 6500억 원을 투입하는 대규모 현장으로... ",
 			"pubDate":"Tue, 30 May 2023 16:26:00 +0900"
 		}
 	]
