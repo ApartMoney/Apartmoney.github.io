@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Tue, 30 May 2023 09:40:02 +0900",
-	"total":200607,
+	"lastBuildDate":"Tue, 30 May 2023 09:50:02 +0900",
+	"total":200611,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 신도시 대중교통·원도심 주차공간 늘린다",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2004778",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2004778",
+			"description":"(검단~강남, <b>청라<\/b>~양재꽃시장) 신설 등으로 시민들의 버스 이용 여건을 크게 개선할 계획이다. 또한 3월 7700번 BRT(간선급행버스)의 경우, 혼잡구간과 만석으로 인한 무정차 통과 지역의 승객 좌석확보를 위해 당초 <b>청라<\/b>... ",
+			"pubDate":"Tue, 30 May 2023 09:45:00 +0900"
+		},
+		{
+			"title":"인천시, 신도시 대중교통 확대…원도심 주차장 확보",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0018310788&code=61121111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001612183?sid=102",
+			"description":"시는 검단을 비롯한 송도국제도시, <b>청라<\/b>국제도시 등 신도시 대중교통 혼잡도 개선을 위해 하반기 중 광역버스 5개 노선에 전세버스 10대를 추가 투입할 계획이다. 검단∼서울 강남, <b>청라<\/b>∼서울 양재꽃시장 구간을 오가는... ",
+			"pubDate":"Tue, 30 May 2023 09:44:00 +0900"
+		},
+		{
+			"title":"대구꽃박람회, ‘꽃의 힘’을 주제로 6월 2일 개막",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/857196",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/857196",
+			"description":"대구꽃박람회는 주제관, <b>청라<\/b>상관, 일반조성관 등 다양하게 조성된 작품관을 통해 화려한 꽃의 향연이... 전시되며, ‘<b>청라<\/b>상관’에서는 장관상을 겨룰 엄선된 10개의 작품이 전시된다.  이번 행사에는 참가분야도 더욱... ",
+			"pubDate":"Tue, 30 May 2023 09:44:00 +0900"
+		},
+		{
+			"title":"인천시, 검단·송도 노선버스 증차…원도심 주차공간 확충",
+			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1400427",
+			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1400427",
+			"description":"광역버스도 검단∼강남, <b>청라<\/b>∼양재꽃시장 노선을 신설할 계획입니다. 송도에는 재외동포청 개청을 고려해 7월부터 인천공항을 오가는 광역버스 운행을 재개하고 교통수요를 분석해 광역버스 노선 조정·신설을 추진할... ",
+			"pubDate":"Tue, 30 May 2023 09:40:00 +0900"
+		},
 		{
 			"title":"흥행 이어가는 KLPGA, 이번 주는 롯데 오픈",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20230530092446194",
@@ -185,34 +213,6 @@
 			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230526010008071",
 			"description":"인천 서구는 <b>청라<\/b>, 검단, 루원, 가정, 검암 등 대규모의 도시개발이 추진되고 있는 신도시와 모내기가 한창인 논밭도 함께 안고 있는 도농 복합지역이다. 서구 도시농업 연구회는 이러한 서구의 지역 특징에 맞는... ",
 			"pubDate":"Mon, 29 May 2023 15:22:00 +0900"
-		},
-		{
-			"title":"서구의회 도시농업 연구회, 활동 본격화",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1709823",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1709823",
-			"description":"서구는 <b>청라<\/b>, 검단, 루원, 가정, 검암 등 대규모의 도시개발이 추진되고 있는 신도시를 품고 있음과 동시에, 모내기가 한창인 논밭도 함께 안고 있는 도농 복합지역으로 서구 도시농업 연구회는 이러한 서구의 지역 특징에... ",
-			"pubDate":"Mon, 29 May 2023 15:08:00 +0900"
-		},
-		{
-			"title":"인천 서구, 음식경연대회 열고 ‘맛있는 집’ 선정",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1709793",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1709793",
-			"description":"구는 1차 서류 심사와 사전 위생평가를 거친 음식점 15곳이 24일 열린 대회에 참가한 가운데 <b>청라<\/b>동 고쉐프의 신선한 초밥, 검암동 솔잎장어, 석남동 한성국밥, 석남동 갈마골 다슬기옻닭, <b>청라<\/b>동 금화정남원추어탕, 심곡동... ",
-			"pubDate":"Mon, 29 May 2023 14:42:00 +0900"
-		},
-		{
-			"title":"인천 서구, 음식 경연대회 &apos;맛있는 집&apos; 6곳 선정",
-			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230527010008141",
-			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230527010008141",
-			"description":"서구는 1차 서류 심사와 사전 위생평가를 거친 음식점 15곳을 대상으로 실시한 대회 결과 ▲<b>청라<\/b>동 고쉐프의 신선한 초밥 ▲검암동 솔잎장어 ▲석남동 한성국밥 ▲석남동 갈마골 다슬기옻닭 ▲<b>청라<\/b>동 금화정남원추어탕... ",
-			"pubDate":"Mon, 29 May 2023 14:30:00 +0900"
-		},
-		{
-			"title":"인천경제청, (가칭)미단시티국제학교 유치 사업설명회",
-			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230527010008130",
-			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230527010008130",
-			"description":"또 <b>청라<\/b>국제도시에 달튼 외국인학교가 있지만 국제도시로의 성숙과 외국인학교 수요에 부응한 선제적 대응 차원에서 인천경제청이 국제학교 추가 설립에 나선 것이다. 인천경제청은 토지소유자인 인천도시공사와... ",
-			"pubDate":"Mon, 29 May 2023 14:26:00 +0900"
 		}
 	]
 }
