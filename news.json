@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 30 May 2023 13:20:02 +0900",
-	"total":200655,
+	"lastBuildDate":"Tue, 30 May 2023 13:30:03 +0900",
+	"total":200656,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 신도시 ‘대중교통’- 원도심 ‘주차공간’ 늘린다",
+			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/2021025.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000219385?sid=102",
+			"description":"(검단~강남, <b>청라<\/b>~양재꽃시장) 신설 등으로 시민들의 버스 이용 여건을 크게 개선할 계획이다. 또 검단신도시 등 신규 입주지역의 시민 불편이 가중됨에 따라 입주 추이를 모니터링해 시내버스를 증차하고 노선도... ",
+			"pubDate":"Tue, 30 May 2023 13:23:00 +0900"
+		},
 		{
 			"title":"창원→강릉→전주 떠나 올해는 부천에서…“매년 이사하는 게 쉬운 게 아니더...",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/10748069",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=95600",
 			"description":"<b>청라<\/b>~화곡 간 7700번 BRT 인천시가 대중교통 혼잡도 개선과 원도심 주차 문제 해결을 위한 교통대책을... 시는 광역버스 2개 노선(검단~강남, <b>청라<\/b>~양재꽃시장) 신설을 추진하고 하반기 중 광역버스 5개 노선에... ",
 			"pubDate":"Tue, 30 May 2023 10:32:00 +0900"
-		},
-		{
-			"title":"인천시, ‘시민행복 교통대책’ 수립",
-			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230530010008652",
-			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230530010008652",
-			"description":"강남, <b>청라<\/b>~양재꽃시장) 신설 등으로 시민들의 버스 이용 여건을 크게 개선할 계획이다. 또한 지난 3월 7700번 BRT(간선급행버스)의 경우, 혼잡구간과 만석으로 인한 무정차 통과 지역의 승객 좌석확보를 위해 당초 <b>청라<\/b>... ",
-			"pubDate":"Tue, 30 May 2023 10:28:00 +0900"
 		}
 	]
 }
