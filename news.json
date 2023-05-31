@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 31 May 2023 09:30:03 +0900",
-	"total":200715,
+	"lastBuildDate":"Wed, 31 May 2023 09:40:02 +0900",
+	"total":200716,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"캐논코리아, ‘KLPGA 2023 롯데오픈’ 제품 체험 부스 운영",
+			"originallink":"https:\/\/www.etnews.com\/20230531000038",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003103625?sid=105",
+			"description":"롯데가 주최하고 한국여자프로골프(KLPGA)가 주관하는 이번 대회는 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 6월 1일부터 4일까지 나흘간 열린다. 캐논코리아, 롯데정보통신, 롯데건설, 롯데웰푸드 등 롯데 계열사가... ",
+			"pubDate":"Wed, 31 May 2023 09:34:00 +0900"
+		},
 		{
 			"title":"김효주, 최혜진 ‘롯데 오픈’ 동반 출격…후원사 주최 대회서 우승 도전",
 			"originallink":"https:\/\/sports.donga.com\/article\/all\/20230531\/119552166\/2",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/087\/0000973764?sid=102",
 			"description":"한국여자프로골프(KLGPA) 투어는 다음달 1일부터 나흘간 인천 베어즈베스트 <b>청라<\/b>(파72·6,725야드)에서 ‘롯데 오픈(총상금 8억원, 우승상금 1억4,400만원)’을 개최한다. 이번 대회에도 역시 강원골퍼들이 다수 출전한다.... ",
 			"pubDate":"Tue, 30 May 2023 18:08:00 +0900"
-		},
-		{
-			"title":"국내 최대 실내 플라워쇼…대구꽃박람회 6월 2일 엑스코서 개막",
-			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2132974",
-			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2132974",
-			"description":"<b>청라<\/b>상관, 일반조성관 등 다양하게 조성된 작품관을 통해 화려한 꽃의 향연을 펼친다. &apos;꽃의 힘&apos; 주제를 상징하는 대형 화훼조형물이 전시될 &apos;주제관&apos;에서는 &apos;꽃으로 피어나는 MBTI(flowering MBTI)&apos;라는 작품을, &apos;<b>청라<\/b>상관... ",
-			"pubDate":"Tue, 30 May 2023 18:04:00 +0900"
 		}
 	]
 }
