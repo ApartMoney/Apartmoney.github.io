@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Jun 2023 07:00:02 +0900",
-	"total":200873,
+	"lastBuildDate":"Thu, 01 Jun 2023 07:10:02 +0900",
+	"total":200874,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 주요 일정] 타다 서비스의 적법성 대법원 선고",
+			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=204799",
+			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=204799",
+			"description":"(베어즈베스트 <b>청라<\/b>) ▲ 펜싱= 국가대표선수 선발대회(9시·계룡시민체육관) ▲ 역도= 문곡 서상천배(10시·서천군민회관) ▲ 테니스= ITF 창원국제여자대회(창원시립코트) ▲ 바둑= GS칼텍스배 8강(13시), KB리그... ",
+			"pubDate":"Thu, 01 Jun 2023 07:04:00 +0900"
+		},
 		{
 			"title":"&apos;방신실·박지영·박현경·박민지 빠진&apos; KLPGA 롯데오픈, 신데렐라 탄생하나?...",
 			"originallink":"https:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20007030",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230531010006001",
 			"description":"요구안엔 ▲서울도시철도 7호선 <b>청라<\/b>국제도시 연장(1천200억원) ▲인천발 KTX 건설(900억원) ▲공단고가교~서인천IC 혼잡도로 개선 사업(356억원) ▲저상버스 확대(119억원) ▲서해 5도 정주생활지원금 인상(35억원)... ",
 			"pubDate":"Wed, 31 May 2023 20:46:00 +0900"
-		},
-		{
-			"title":"김효주, 최혜진 출전 롯데 오픈 6월 1일 티오프..갤러리 이벤트도 풍성",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01361206635614496",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005497929",
-			"description":"(사진=대홍기획) 한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 8억원)이 6월 1일부터 나흘 동안 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 세 번째 막을 올린다. 올해 대회는 국내 선수뿐만 아니라 김효주와 최혜진 등... ",
-			"pubDate":"Wed, 31 May 2023 20:33:00 +0900"
 		}
 	]
 }
