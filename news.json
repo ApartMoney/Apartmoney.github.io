@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Jun 2023 08:20:03 +0900",
-	"total":200874,
+	"lastBuildDate":"Thu, 01 Jun 2023 08:30:02 +0900",
+	"total":200875,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"6월의 KLPGA",
+			"originallink":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=277512",
+			"link":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=277512",
+			"description":"롯데 오픈 일시 6월 1일~6월 4일 총상금 800,000,000원 장소 베어즈베스트 <b>청라<\/b> 2020년까지 ‘롯데 칸타타... 베어즈베스트 <b>청라<\/b>로 변경하며 완벽 하게 새로운 대회의 모습으로 다시 태어났다. 지난해 우승자는... ",
+			"pubDate":"Thu, 01 Jun 2023 08:20:00 +0900"
+		},
 		{
 			"title":"[오늘의 주요 일정] 타다 서비스의 적법성 대법원 선고",
 			"originallink":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=204799",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363594795",
 			"description":"특히 서해5도 정주생활지원금 인상(35억 원) 및 공단고가교~서인천IC 혼잡도로 개선(356억 원), 인천발 KTX 건설(900억 원), 서울도시철도7호선 <b>청라<\/b> 국제도시 연장(1천200억 원) 등이 총 7건 사업 2천650억 원이 국비에 반영될... ",
 			"pubDate":"Wed, 31 May 2023 20:58:00 +0900"
-		},
-		{
-			"title":"친정에 간 유정복 인천시장 &quot;지역 현안 도와달라&quot;",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230531010006001",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230531010006001",
-			"description":"요구안엔 ▲서울도시철도 7호선 <b>청라<\/b>국제도시 연장(1천200억원) ▲인천발 KTX 건설(900억원) ▲공단고가교~서인천IC 혼잡도로 개선 사업(356억원) ▲저상버스 확대(119억원) ▲서해 5도 정주생활지원금 인상(35억원)... ",
-			"pubDate":"Wed, 31 May 2023 20:46:00 +0900"
 		}
 	]
 }
