@@ -1,9 +1,65 @@
 {
-	"lastBuildDate":"Wed, 31 May 2023 10:30:02 +0900",
-	"total":200724,
+	"lastBuildDate":"Wed, 31 May 2023 10:40:03 +0900",
+	"total":200732,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"2030부산세계박람회 유치를 기원합니다",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230531_0019906711",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=003&aid=0011888282",
+			"description":"31일 인천 <b>청라<\/b>에 위치한 베어즈베스트<b>청라<\/b>CC에서 열린 &apos;롯데오픈&quot; 공식 포토콜에서 양효진(왼쪽부터 시계방향으로) 이예원 이다연 최혜진 성유진 김효주가 2030부산세계박람회 유치를 기원하는 피켓을 들고... ",
+			"pubDate":"Wed, 31 May 2023 10:39:00 +0900"
+		},
+		{
+			"title":"‘롯데걸’ 김효주·최혜진 “부산엑스포 우리도 응원합니다”[포토]",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29PSJCMPIS",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=011&aid=0004196493",
+			"description":"한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 8억 원)이 다음달 1일부터 나흘간 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린다. 개막을 하루 앞둔 31일 대회장에서 포토콜 행사가 진행됐다. 김효주(오른쪽)와... ",
+			"pubDate":"Wed, 31 May 2023 10:32:00 +0900"
+		},
+		{
+			"title":"나흘간의 샷 대결 앞두고 ‘파이팅’[포토]",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29PSJY4ECG",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=011&aid=0004196489",
+			"description":"한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 8억 원)이 다음달 1일부터 나흘간 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린다. 개막을 하루 앞둔 31일 대회장에서 포토콜 행사가 진행됐다. 양효진(왼쪽부터)... ",
+			"pubDate":"Wed, 31 May 2023 10:31:00 +0900"
+		},
+		{
+			"title":"“롯데월드타워 우승트로피는 내 차지”[포토]",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29PSJP60RU",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=011&aid=0004196491",
+			"description":"한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 8억 원)이 다음달 1일부터 나흘간 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린다. 개막을 하루 앞둔 31일 대회장에서 포토콜 행사가 진행됐다. 양효진(왼쪽 위부터... ",
+			"pubDate":"Wed, 31 May 2023 10:31:00 +0900"
+		},
+		{
+			"title":"“부산엑스포 유치 롯데와 함께 응원해 주세요”[포토]",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29PSKKQS1N",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=011&aid=0004196492",
+			"description":"한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 8억 원)이 다음달 1일부터 나흘간 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린다. 개막을 하루 앞둔 31일 대회장에서 포토콜 행사가 진행됐다. 양효진(왼쪽 위부터... ",
+			"pubDate":"Wed, 31 May 2023 10:31:00 +0900"
+		},
+		{
+			"title":"“부산엑스포 롯데가 응원합니다”[포토]",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29PSKC0ROU",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=011&aid=0004196488",
+			"description":"한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 8억 원)이 다음달 1일부터 나흘간 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린다. 개막을 하루 앞둔 31일 대회장에서 포토콜 행사가 진행됐다. 양효진(왼쪽부터)... ",
+			"pubDate":"Wed, 31 May 2023 10:31:00 +0900"
+		},
+		{
+			"title":"인천시-국민의힘 인천시당, &apos;국비 확보&apos; 당정협의회 개최",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=230550",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=230550",
+			"description":"이날 당정협의회에선 ▲서울도시철도 7호선 <b>청라<\/b>국제도시 연장(1200억원) ▲공단고가교~서인천나들목 혼잡도로 개선(356억원) ▲서해5도 정주생활지원금 인상(35억원) 등 2650억원이 주요 국비 요청 사업으로 논의됐다. 유... ",
+			"pubDate":"Wed, 31 May 2023 10:30:00 +0900"
+		},
+		{
+			"title":"강범석 인천 남동구청장, 인구 60만 돌파 기념식수",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/857676",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/857676",
+			"description":"구민과 함께 내실을 다져 서구만의 정체성을 확립하기 위해 노력하겠다”고 말했다. 서구는 이날 인구 60만 돌파를 기념하는 기념식과 음악회를 하나은행과 함께 오후 6시부터 <b>청라<\/b>동 하나글로벌캠퍼스에서 개최한다.",
+			"pubDate":"Wed, 31 May 2023 10:30:00 +0900"
+		},
 		{
 			"title":"인천시, 국민의힘에 &apos;경인고속도로 무료화&apos; 지원 요청",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230531063700065?input=1195m",
@@ -157,62 +213,6 @@
 			"link":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=428722&part_idx=296",
 			"description":"대구꽃박람회는 주제관, <b>청라<\/b>상관, 일반조성관 등 다양하게 조성된 작품관을 통해 화려한 꽃의 향연이... 전시되며, ‘<b>청라<\/b>상관’에서는 장관상을 겨룰 엄선된 10개의 작품이 전시된다.이번 행사에는 참가분야도 더욱... ",
 			"pubDate":"Tue, 30 May 2023 22:06:00 +0900"
-		},
-		{
-			"title":"대구서 국내 최대 &apos;실내 플라워쇼&apos; 연다",
-			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=422033",
-			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=422033",
-			"description":"대구꽃박람회는 주제관, <b>청라<\/b>상관, 일반조성관 등 다양하게 조성된 작품관을 통해 화려한 꽃의 향연이... 전시되며, &apos;<b>청라<\/b>상관&apos;에서는 장관상을 겨룰 엄선된 10개 작품이 저마다 매력을 뽐낸다. 참가 분야도 더욱... ",
-			"pubDate":"Tue, 30 May 2023 21:34:00 +0900"
-		},
-		{
-			"title":"시민 스트레스 우울감 전국 1위 인천",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1033241",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1033241",
-			"description":"송도·<b>청라<\/b>·영종국제도시를 근간으로 하는 인천경제자유구역이 도시 경쟁력을 선도하고, 낙후된 원도심 지역은 테마가 있는 문화 공간으로 재정비될 것이다. 수도 서울과 너무 인접한 지정학적·인식적 현실에서... ",
-			"pubDate":"Tue, 30 May 2023 21:32:00 +0900"
-		},
-		{
-			"title":"인천 신도시 출퇴근 지옥 해결 나선다",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1033381",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1033381",
-			"description":"하반기에는 5개 노선에 전세버스 10대를 추가 투입하고, 광역버스 노선 2개(검단~강남, <b>청라<\/b>~양재꽃시장)를 신설한다. 송도지역에 운행되는 광역버스 노선의 조정과 신설도 추진할 예정이다. 또 도심 교통 혼잡을... ",
-			"pubDate":"Tue, 30 May 2023 21:32:00 +0900"
-		},
-		{
-			"title":"인천 서구 수도권매립지·강화남단, 내년 하반기 경제자유구역 추가 지정 신청",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20230530580352",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000012579?sid=101",
-			"description":"강영훈 인천경제청 영종<b>청라<\/b>계획과장은 “기초단계의 토지를 개발하는 과정에서 경제성을 어떻게 확보해서... 인천경제청은 수도권매립지는 단독 개발보다는 <b>청라<\/b>국제도시와 연계한 개발을, 강화남단은 개발원가를... ",
-			"pubDate":"Tue, 30 May 2023 21:25:00 +0900"
-		},
-		{
-			"title":"신도심 &apos;대중교통&apos; 구도심 &apos;주차장&apos; 늘린다",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230530010005736",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230530010005736",
-			"description":"인천시는 &apos;검단~서울 강남&apos;(6월 개통 예정), &apos;<b>청라<\/b>~서울 양재꽃시장&apos;(9~10월 개통 예정) 등 2개 광역버스 노선을 신설할 방침이다. 인천시는 &apos;무정차 통과&apos;가 잦은 검단신도시~계양역 간 시내버스 노선도 조정·증차하기로... ",
-			"pubDate":"Tue, 30 May 2023 21:10:00 +0900"
-		},
-		{
-			"title":"&apos;기운 받은 그곳&apos;…김효주, 스폰서 대회 우승 도전 &quot;더 잘해야 한다는 생각&quot;",
-			"originallink":"http:\/\/www.golfdigest.co.kr\/news\/articleView.html?idxno=42695",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=435&aid=0000012441",
-			"description":"김효주는 오는 6월 1일부터 인천 베어즈베스트<b>청라<\/b>골프클럽(파72)에서 열릴 한국여자프로골프(KLPGA)투어 롯데오픈(총상금 8억원)에 출전할 예정이다. 지난 시즌 10월 말 열린 SK네트웍스·서울경제레이디스클래식 이후... ",
-			"pubDate":"Tue, 30 May 2023 21:01:00 +0900"
-		},
-		{
-			"title":"신도시 출퇴근시간 대중교통 혼잡 줄인다… 송도·검단 등에 노선버스 확대",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363594579",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363594579",
-			"description":"이에 따라 이용객 불편을 해소하기 위해 하반기에는 5개 노선에 전세버스 10대를 추가 배치하고, 광역 버스 노선 2개(검단~강남, <b>청라<\/b>~양재꽃시장)를 신설할 예정이다. 재외동포청 개청에 맞춰 송도와 인천공항을... ",
-			"pubDate":"Tue, 30 May 2023 20:54:00 +0900"
-		},
-		{
-			"title":"인천 버스도 중앙으로 ‘슝’",
-			"originallink":"https:\/\/www.khan.co.kr\/local\/Incheon\/article\/202305302048025",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003226818?sid=102",
-			"description":"또 검단∼강남, <b>청라<\/b>∼양재꽃시장 등에 광역버스 2개 노선을 신설하고 코로나19 사태로 중단됐던 송도와 인천공항을 운행하는 광역버스(6777번)도 7월부터 운행을 재개하기로 했다. 인천 원도심에는 2026년까지... ",
-			"pubDate":"Tue, 30 May 2023 20:50:00 +0900"
 		}
 	]
 }
