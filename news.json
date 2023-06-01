@@ -1,9 +1,65 @@
 {
-	"lastBuildDate":"Thu, 01 Jun 2023 09:30:02 +0900",
-	"total":200891,
+	"lastBuildDate":"Thu, 01 Jun 2023 09:40:02 +0900",
+	"total":200899,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[포토] 홍정민, &apos;힘차게 날아라&apos;",
+			"originallink":"https:\/\/www.hankyung.com\/sports\/article\/202306012671H",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004851260",
+			"description":"한국여자프로골프(KLPGA)투어 &apos;롯데 오픈&apos; 1라운드 경기가 1일 인천 서구 베어즈베스트 <b>청라<\/b>에서 열렸다. 대회에 출전한 홍정민이 10번 홀에서 티샷하고 있다.",
+			"pubDate":"Thu, 01 Jun 2023 09:38:00 +0900"
+		},
+		{
+			"title":"[ST포토] 안소현 &apos;야디지북 확인&apos;",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=87417196003",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=87417196003",
+			"description":"2023 KLPGA 투어 &apos;롯데 오픈&apos; (총상금 8억원 \/ 우승상금 1억4400만 원) 1라운드 경기가 1일 인천 베어즈베스트<b>청라<\/b>GC(파72 \/ 6725야드)에서 열렸다. 안소현이 10번홀 티샷을 준비하고 있다. 2023.06.01.",
+			"pubDate":"Thu, 01 Jun 2023 09:38:00 +0900"
+		},
+		{
+			"title":"[ST포토] 엄규원 &apos;반가운 손인사&apos;",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=87417014459",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=87417014459",
+			"description":"2023 KLPGA 투어 &apos;롯데 오픈&apos; (총상금 8억원 \/ 우승상금 1억4400만 원) 1라운드 경기가 1일 인천 베어즈베스트<b>청라<\/b>GC(파72 \/ 6725야드)에서 열렸다. 엄규원이 10번홀 티샷 후 이동을 하고 있다. 2023.06.01.",
+			"pubDate":"Thu, 01 Jun 2023 09:36:00 +0900"
+		},
+		{
+			"title":"[ST포토] 최혜용 &apos;밝은 표정&apos;",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=87416983404",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=87416983404",
+			"description":"2023 KLPGA 투어 &apos;롯데 오픈&apos; (총상금 8억원 \/ 우승상금 1억4400만 원) 1라운드 경기가 1일 인천 베어즈베스트<b>청라<\/b>GC(파72 \/ 6725야드)에서 열렸다. 최혜용이 10번홀 티샷 후 이동을 하고 있다. 2023.06.01.",
+			"pubDate":"Thu, 01 Jun 2023 09:36:00 +0900"
+		},
+		{
+			"title":"[ST포토] 양효진 &apos;자신감있게&apos;",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=87416760174",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=87416760174",
+			"description":"2023 KLPGA 투어 &apos;롯데 오픈&apos; (총상금 8억원 \/ 우승상금 1억4400만 원) 1라운드 경기가 1일 인천 베어즈베스트<b>청라<\/b>GC(파72 \/ 6725야드)에서 열렸다. 양효진이 10번홀 티샷을 하고 있다. 2023.06.01.",
+			"pubDate":"Thu, 01 Jun 2023 09:34:00 +0900"
+		},
+		{
+			"title":"[ST포토] 양효진 &apos;페어웨이 정조준&apos;",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=87416690873",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=87416690873",
+			"description":"2023 KLPGA 투어 &apos;롯데 오픈&apos; (총상금 8억원 \/ 우승상금 1억4400만 원) 1라운드 경기가 1일 인천 베어즈베스트<b>청라<\/b>GC(파72 \/ 6725야드)에서 열렸다. 양효진이 10번홀 티샷을 준비하고 있다. 2023.06.01.",
+			"pubDate":"Thu, 01 Jun 2023 09:32:00 +0900"
+		},
+		{
+			"title":"[ST포토] 최혜용 &apos;힘차게&apos;",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=87416595842",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=87416595842",
+			"description":"2023 KLPGA 투어 &apos;롯데 오픈&apos; (총상금 8억원 \/ 우승상금 1억4400만 원) 1라운드 경기가 1일 인천 베어즈베스트<b>청라<\/b>GC(파72 \/ 6725야드)에서 열렸다. 최혜용이 10번홀 티샷을 하고 있다. 2023.06.01.",
+			"pubDate":"Thu, 01 Jun 2023 09:32:00 +0900"
+		},
+		{
+			"title":"[ST포토] 엄규원 &apos;페어웨이 중앙을 노린다&apos;",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=87416363217",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=87416363217",
+			"description":"2023 KLPGA 투어 &apos;롯데 오픈&apos; (총상금 8억원 \/ 우승상금 1억4400만 원) 1라운드 경기가 1일 인천 베어즈베스트<b>청라<\/b>GC(파72 \/ 6725야드)에서 열렸다. 엄규원이 10번홀 티샷을 하고 있다. 2023.06.01.",
+			"pubDate":"Thu, 01 Jun 2023 09:30:00 +0900"
+		},
 		{
 			"title":"[ST포토] 김지영2-김희지-김수빈 &apos;기분 좋은 출발&apos;",
 			"originallink":"http:\/\/www.stoo.com\/article.php?aid=87416078725",
@@ -19,17 +75,17 @@
 			"pubDate":"Thu, 01 Jun 2023 09:20:00 +0900"
 		},
 		{
-			"title":"김효주 &quot;기쁘고 설레면서도…더 잘해야 한다는 생각&quot; [KLPGA 롯데오픈]",
-			"originallink":"https:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20007027",
-			"link":"https:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20007027",
-			"description":"사진제공=KLPGA 6월 1일부터 나흘 동안 인천 베어즈베스트 <b>청라<\/b>(파72·6,725야드)에서 한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 8억원)이 펼쳐진다. 미국여자프로골프(LPGA) 투어에서 활약하는 김효주는 올해 첫... ",
-			"pubDate":"Thu, 01 Jun 2023 09:18:00 +0900"
-		},
-		{
 			"title":"[ST포토] 에이밍 하는 김수빈",
 			"originallink":"http:\/\/www.stoo.com\/article.php?aid=87415658149",
 			"link":"http:\/\/www.stoo.com\/article.php?aid=87415658149",
 			"description":"2023 KLPGA 투어 &apos;롯데 오픈&apos; (총상금 8억원 \/ 우승상금 1억4400만 원) 1라운드 경기가 1일 인천 베어즈베스트<b>청라<\/b>GC(파72 \/ 6725야드)에서 열렸다. 김수빈이 10번홀 티샷을 준비하고 있다. 2023.06.01.",
+			"pubDate":"Thu, 01 Jun 2023 09:18:00 +0900"
+		},
+		{
+			"title":"김효주 &quot;기쁘고 설레면서도…더 잘해야 한다는 생각&quot; [KLPGA 롯데오픈]",
+			"originallink":"https:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20007027",
+			"link":"https:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20007027",
+			"description":"사진제공=KLPGA 6월 1일부터 나흘 동안 인천 베어즈베스트 <b>청라<\/b>(파72·6,725야드)에서 한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 8억원)이 펼쳐진다. 미국여자프로골프(LPGA) 투어에서 활약하는 김효주는 올해 첫... ",
 			"pubDate":"Thu, 01 Jun 2023 09:18:00 +0900"
 		},
 		{
@@ -68,17 +124,17 @@
 			"pubDate":"Thu, 01 Jun 2023 09:08:00 +0900"
 		},
 		{
-			"title":"롯데 오픈 디펜딩 챔피언 &apos;성유진&apos; 2연패 도전",
-			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=602774",
-			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=602774",
-			"description":"베어즈베스트 <b>청라<\/b>(파72)에서 개최된다. 지난 2020년까지 &apos;롯데 칸타타 여자오픈&apos;으로 10년 동안 개최돼 온... 베어즈베스트 <b>청라<\/b>로 변경하면서 완벽히 새로운 대회로 다시 태어났다. 특히 매년 극적인 승부로 탄생한... ",
-			"pubDate":"Thu, 01 Jun 2023 09:06:00 +0900"
-		},
-		{
 			"title":"[ST포토] 김지영2, 타구 확인",
 			"originallink":"http:\/\/www.stoo.com\/article.php?aid=87415149428",
 			"link":"http:\/\/www.stoo.com\/article.php?aid=87415149428",
 			"description":"2023 KLPGA 투어 &apos;롯데 오픈&apos; (총상금 8억원 \/ 우승상금 1억4400만 원) 1라운드 경기가 1일 인천 베어즈베스트<b>청라<\/b>GC(파72 \/ 6725야드)에서 열렸다. 김지영2가 10번홀 티샷을 하고 있다. 2023.06.01.",
+			"pubDate":"Thu, 01 Jun 2023 09:06:00 +0900"
+		},
+		{
+			"title":"인천시, 환경의 날 기념 &apos;시민 환경 한마당&apos; 개최",
+			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=202306010847599934a2b977df50_29",
+			"link":"http:\/\/www.globalepic.co.kr\/view.php?ud=202306010847599934a2b977df50_29",
+			"description":"인천광역시(시장 유정복)는 오는 3일, <b>청라<\/b>자원환경센터에서 ‘제28회 환경의 날’ 기념 행사를 개최한다.... 시는 시민들의 편의를 위해 행사장~가정역을 순환하는 노선과 <b>청라<\/b>국제도시를 순환하는 노선으로 셔틀버스... ",
 			"pubDate":"Thu, 01 Jun 2023 09:06:00 +0900"
 		},
 		{
@@ -89,10 +145,10 @@
 			"pubDate":"Thu, 01 Jun 2023 09:06:00 +0900"
 		},
 		{
-			"title":"인천시, 환경의 날 기념 &apos;시민 환경 한마당&apos; 개최",
-			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=202306010847599934a2b977df50_29",
-			"link":"http:\/\/www.globalepic.co.kr\/view.php?ud=202306010847599934a2b977df50_29",
-			"description":"인천광역시(시장 유정복)는 오는 3일, <b>청라<\/b>자원환경센터에서 ‘제28회 환경의 날’ 기념 행사를 개최한다.... 시는 시민들의 편의를 위해 행사장~가정역을 순환하는 노선과 <b>청라<\/b>국제도시를 순환하는 노선으로 셔틀버스... ",
+			"title":"롯데 오픈 디펜딩 챔피언 &apos;성유진&apos; 2연패 도전",
+			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=602774",
+			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=602774",
+			"description":"베어즈베스트 <b>청라<\/b>(파72)에서 개최된다. 지난 2020년까지 &apos;롯데 칸타타 여자오픈&apos;으로 10년 동안 개최돼 온... 베어즈베스트 <b>청라<\/b>로 변경하면서 완벽히 새로운 대회로 다시 태어났다. 특히 매년 극적인 승부로 탄생한... ",
 			"pubDate":"Thu, 01 Jun 2023 09:06:00 +0900"
 		},
 		{
@@ -157,62 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202305311353232150823",
 			"description":"이미 스타필드 <b>청라<\/b>는 스포츠와 리테일이라는 두 가지 산업이 어우러진 공간으로 꾸며지고 있다. 쇼핑몰과 돔구장이 직접 이어지는 복합개발 사업으로, 스포츠 팬들은 기꺼이 자신의 시간을 이 공간에 투자할 수 있을... ",
 			"pubDate":"Thu, 01 Jun 2023 06:12:00 +0900"
-		},
-		{
-			"title":"[뉴투분석] 하반기 입주물량 16만 가구 풀린다…수도권 &apos;역전세&apos; 우려",
-			"originallink":"https:\/\/www.news2day.co.kr\/article\/20230530500202",
-			"link":"https:\/\/www.news2day.co.kr\/article\/20230530500202",
-			"description":"지역별로 보면 서구(0.11%)는 당하, 가정, <b>청라<\/b>동 신축 위주로 상승세를 보였으나, 미추홀구(-0.20%)는 공급물량 영향을 받는 숭의·주안동 위주로 하락했다. 부평구(-0.08%) 역시 대규모 입주 영향으로 갈산·산곡동... ",
-			"pubDate":"Thu, 01 Jun 2023 06:02:00 +0900"
-		},
-		{
-			"title":"우리카드서 재회한 박진우와 한성정 &quot;인생은 돌고 돈다는 것 실감&quot;",
-			"originallink":"https:\/\/www.news1.kr\/articles\/5063834",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006840697",
-			"description":"(인천)<b>청라<\/b> 쪽으로 집도 알아보고 있다. 빨리 이 곳 생활에 적응해야 한다&quot;고 설명했다. &quot;왜 하필 송림에서 재회한 것이냐&quot;는 농담에도 박진우와 한성정은 굳은 책임감을 나타냈다. 한성정은 &quot;KB에서 부진했기에 미안하고... ",
-			"pubDate":"Thu, 01 Jun 2023 05:07:00 +0900"
-		},
-		{
-			"title":"[오늘의 경기]",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20230601023001&wlog_tag3=naver",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=081&aid=0003365428",
-			"description":"●프로야구=kt-KIA(광주) 롯데-LG(잠실) 두산-NC(창원) 삼성-SSG(인천) 키움-한화(대전·이상 오후 6시 30분) ●골프=코리안투어 데상트코리아 매치플레이(킹스데일GC) KLPGA 투어 롯데 오픈(베어즈베스트 <b>청라<\/b>)... ",
-			"pubDate":"Thu, 01 Jun 2023 05:05:00 +0900"
-		},
-		{
-			"title":"정상화 시동 거는 <b>청라<\/b>시티타워… 2029년 완공 목표",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20230531580300",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000012709?sid=101",
-			"description":"경제청, LH와 이달 업무협약 추진 年 100억대 운영비 조달 과제 남아 “숙원 사업인 만큼 해결방안 총력” 인천시 <b>청라<\/b>국제도시의 <b>청라<\/b>호수공원 내 <b>청라<\/b>시티타워 건립 부지 모습. 경기일보DB 인천 서구 <b>청라<\/b>국제도시의... ",
-			"pubDate":"Thu, 01 Jun 2023 05:02:00 +0900"
-		},
-		{
-			"title":"대구시 “국내 최대 규모 실내 꽃 전시회 즐겨보세요”",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20230531\/119568331\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003500975?sid=102",
-			"description":"대구꽃박람회는 주제관과 <b>청라<\/b>상관, 일반조성관 등으로 구성됐다. 특히 주제관에서는 꽃의 힘을 주제로 대형 화훼조형물을 전시할 예정이어서 기대를 모으고 있다. 일본식 꽃꽂이인 이케바나 전시회와 꽃을 활용한... ",
-			"pubDate":"Thu, 01 Jun 2023 03:06:00 +0900"
-		},
-		{
-			"title":"“인구는 계속 느는데”… 인천 서구 검단지역 교통망 확충 절실",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20230531\/119568539\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003500962?sid=102",
-			"description":"일단 인천시는 검단과 <b>청라<\/b> 지역에 서울을 오가는 광역버스 노선을 신설하고, 2025년까지 공항철도의 열차를 늘려 혼잡도를 개선하기로 했다. 또 원도심 지역의 교통망도 확충할 예정이다. 시는 인천대입구역에서... ",
-			"pubDate":"Thu, 01 Jun 2023 03:05:00 +0900"
-		},
-		{
-			"title":"성유진 “롯데오픈은 내 땅… 넘보지 말라”",
-			"originallink":"https:\/\/www.donga.com\/news\/Sports\/article\/all\/20230531\/119569157\/1",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=020&aid=0003500914",
-			"description":"성유진은 1일부터 나흘간 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열리는 한국여자프로골프(KLPGA)투어 롯데 오픈에 나선다. 대회 총상금은 8억 원, 우승 상금은 1억4400만 원이다. 성유진은 지난해 이 대회에서... ",
-			"pubDate":"Thu, 01 Jun 2023 03:04:00 +0900"
-		},
-		{
-			"title":"[오늘의 경기] 2023년 6월 1일",
-			"originallink":"https:\/\/www.chosun.com\/sports\/sports_general\/2023\/06\/01\/RJSNDWR2GVBMTOECTPWQ3ZQTYA\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=023&aid=0003767014",
-			"description":"(베어즈베스트 <b>청라<\/b>·SBS골프·중계 11시) 펜싱 국가대표선수 선발대회(계룡시민체·9시) 역도 문곡 서상천배(서천군민회관·10시) 테니스 ITF 창원국제여자대회(창원시립코트) 바둑 GS칼텍스배 8강(13시)... ",
-			"pubDate":"Thu, 01 Jun 2023 03:02:00 +0900"
 		}
 	]
 }
