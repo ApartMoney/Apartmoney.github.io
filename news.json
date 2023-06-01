@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 01 Jun 2023 22:20:02 +0900",
-	"total":201688,
+	"lastBuildDate":"Thu, 01 Jun 2023 22:30:02 +0900",
+	"total":201690,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘투어 2년 차’ 최예본, KLPGA 투어 롯데 오픈 1라운드 6언더파 1위",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20230601010000474",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230601010000474",
+			"description":"최예본은 1일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파 72·6725야드)에서 열린 대회 첫날 1라운드에서 보기 없이 이글 1개, 버디 4개로 6언더파 66타를 쳐 리더 보드 맨 윗자리에 이름을 올렸다. 2번(파 5), 3번 홀(파 3)에서... ",
+			"pubDate":"Thu, 01 Jun 2023 22:26:00 +0900"
+		},
+		{
+			"title":"김진용 청장, 광역버스 배차 간격 등 불편 해소에 적극 노력",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=401406",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=401406",
+			"description":"이 자리에서 만난 한 시민은 IFEZ의 경우 영종국제도시와 <b>청라<\/b>국제도시는 공항철도가 있어 서울로의 접근성이 비교적 용이한 반면 송도국제도시는 입주민들이 증가하면서 M버스 등 광역교통시설 확충이 절실하다고... ",
+			"pubDate":"Thu, 01 Jun 2023 22:22:00 +0900"
+		},
 		{
 			"title":"[포토]서연정,정윤지,나희원 &apos;촬영 방해하면 안되는데&apos;",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02791286635637456",
@@ -40,13 +54,6 @@
 			"pubDate":"Thu, 01 Jun 2023 21:47:00 +0900"
 		},
 		{
-			"title":"[포토]김효주 &apos;노련한 임팩트로 올라갑니다&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02778166635637456",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499231",
-			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 김효주의 2번홀... ",
-			"pubDate":"Thu, 01 Jun 2023 21:47:00 +0900"
-		},
-		{
 			"title":"[포토]김효주 &apos;미소와 함께 홀아웃&apos;",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02768326635637456",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499228",
@@ -61,6 +68,13 @@
 			"pubDate":"Thu, 01 Jun 2023 21:47:00 +0900"
 		},
 		{
+			"title":"[포토]김효주 &apos;버디 성공 인사&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02771606635637456",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499229",
+			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 김효주의 1번홀... ",
+			"pubDate":"Thu, 01 Jun 2023 21:47:00 +0900"
+		},
+		{
 			"title":"[포토]김효주 &apos;차분히 샷을 준비해요&apos;",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02774886635637456",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499230",
@@ -68,10 +82,10 @@
 			"pubDate":"Thu, 01 Jun 2023 21:47:00 +0900"
 		},
 		{
-			"title":"[포토]김효주 &apos;버디 성공 인사&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02771606635637456",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499229",
-			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 김효주의 1번홀... ",
+			"title":"[포토]김효주 &apos;노련한 임팩트로 올라갑니다&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02778166635637456",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499231",
+			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 김효주의 2번홀... ",
 			"pubDate":"Thu, 01 Jun 2023 21:47:00 +0900"
 		},
 		{
@@ -89,23 +103,16 @@
 			"pubDate":"Thu, 01 Jun 2023 21:44:00 +0900"
 		},
 		{
-			"title":"[포토]김민별 &apos;깔끔한 임팩트 공략&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02728966635637456",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499215",
+			"title":"[포토]김민별 &apos;버디위해 핀에 붙어라&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02735526635637456",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499217",
 			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 김민별의 1번홀... ",
 			"pubDate":"Thu, 01 Jun 2023 21:43:00 +0900"
 		},
 		{
-			"title":"[포토]김민별 &apos;실수없는 정조준&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02738806635637456",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499218",
-			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 김민별의 2번홀... ",
-			"pubDate":"Thu, 01 Jun 2023 21:43:00 +0900"
-		},
-		{
-			"title":"[포토]김민별 &apos;버디위해 핀에 붙어라&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02735526635637456",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499217",
+			"title":"[포토]김민별 &apos;깔끔한 임팩트 공략&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02728966635637456",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499215",
 			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 김민별의 1번홀... ",
 			"pubDate":"Thu, 01 Jun 2023 21:43:00 +0900"
 		},
@@ -117,6 +124,13 @@
 			"pubDate":"Thu, 01 Jun 2023 21:43:00 +0900"
 		},
 		{
+			"title":"[포토]김민별 &apos;실수없는 정조준&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02738806635637456",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499218",
+			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 김민별의 2번홀... ",
+			"pubDate":"Thu, 01 Jun 2023 21:43:00 +0900"
+		},
+		{
 			"title":"[포토]김민별 &apos;첫 날 선두권으로 가자&apos;",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02742086635637456",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499219",
@@ -124,16 +138,16 @@
 			"pubDate":"Thu, 01 Jun 2023 21:43:00 +0900"
 		},
 		{
-			"title":"[포토]김서윤 &apos;목표는 우승이다&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02751926635637456",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499222",
+			"title":"[포토]김서윤 &apos;바람을 먼저 본다&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02745366635637456",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499220",
 			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 김서윤의 2번홀... ",
 			"pubDate":"Thu, 01 Jun 2023 21:43:00 +0900"
 		},
 		{
-			"title":"[포토]김서윤 &apos;바람을 먼저 본다&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02745366635637456",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499220",
+			"title":"[포토]김서윤 &apos;목표는 우승이다&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02751926635637456",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499222",
 			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 김서윤의 2번홀... ",
 			"pubDate":"Thu, 01 Jun 2023 21:43:00 +0900"
 		},
@@ -180,16 +194,16 @@
 			"pubDate":"Thu, 01 Jun 2023 21:39:00 +0900"
 		},
 		{
-			"title":"[포토]이세희,오재승 &apos;콤비로 꼭 우승 갑니다&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02709286635637456",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499208",
+			"title":"[포토]이세희 &apos;생애 첫 승 정조준&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02702726635637456",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499206",
 			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 이세희의 10번홀... ",
 			"pubDate":"Thu, 01 Jun 2023 21:38:00 +0900"
 		},
 		{
-			"title":"[포토]이세희 &apos;생애 첫 승 정조준&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02702726635637456",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499206",
+			"title":"[포토]이세희,오재승 &apos;콤비로 꼭 우승 갑니다&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02709286635637456",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499208",
 			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 이세희의 10번홀... ",
 			"pubDate":"Thu, 01 Jun 2023 21:38:00 +0900"
 		},
@@ -199,20 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499207",
 			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 이세희의 10번홀... ",
 			"pubDate":"Thu, 01 Jun 2023 21:38:00 +0900"
-		},
-		{
-			"title":"[포토]정주원 &apos;목표지점으로 정확하게&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02696166635637456",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499204",
-			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 정주원의 11번홀... ",
-			"pubDate":"Thu, 01 Jun 2023 21:37:00 +0900"
-		},
-		{
-			"title":"[포토]정주원 &apos;신중한 조준&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02692886635637456",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005499203",
-			"description":"1일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)1라운드가 열렸다. 정주원의 11번홀... ",
-			"pubDate":"Thu, 01 Jun 2023 21:37:00 +0900"
 		}
 	]
 }
