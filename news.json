@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Thu, 01 Jun 2023 17:40:02 +0900",
-	"total":201162,
+	"lastBuildDate":"Thu, 01 Jun 2023 17:50:02 +0900",
+	"total":201166,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[포토] 성유진, &apos;우승을 위해&apos;",
+			"originallink":"https:\/\/www.hankyung.com\/sports\/article\/202306014524H",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004851551",
+			"description":"한국여자프로골프(KLPGA)투어 &apos;롯데 오픈&apos; 1라운드 경기가 1일 인천 서구 베어즈베스트 <b>청라<\/b>에서 열렸다. 대회에 출전한 성유진이 1번 홀에서 티샷하고 있다.",
+			"pubDate":"Thu, 01 Jun 2023 17:48:00 +0900"
+		},
+		{
+			"title":"롯데건설, &apos;KLPGA 2023 롯데오픈&apos; 부스 운영",
+			"originallink":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=115814",
+			"link":"http:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=115814",
+			"description":"롯데가 주최하고 한국여자프로골프(KLPGA)가 주관하는 이번 대회는 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 1일부터 4일까지 나흘간 열린다. 롯데건설은 대회 기간 중 유럽코스 1번홀 잔디 위에 설치된 홍보관에서... ",
+			"pubDate":"Thu, 01 Jun 2023 17:46:00 +0900"
+		},
+		{
+			"title":"[인천24시] 인천시, 몽골 의료관광객 유치 박차",
+			"originallink":"http:\/\/www.sisajournal.com\/news\/articleView.html?idxno=264792",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000058750?sid=102",
+			"description":"영종국제도시와 <b>청라<\/b>국제도시는 공항철도가 있어 서울로의 접근성이 비교적 용이한 편이다. 하지만 송도는 M버스에 주로 의존하고 있다. 인천경제청은 광역버스의 입석인원의 증가로  전세버스를 추가로 투입했지만... ",
+			"pubDate":"Thu, 01 Jun 2023 17:44:00 +0900"
+		},
+		{
+			"title":"&apos;샷 이글에 그린 공략 만족도 100%&apos;..최예본의 하루는 완벽했다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=191281",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000116855",
+			"description":"최예본은 1일 인천광역시 서구 <b>청라<\/b>에 있는 베어즈베스트 골프클럽(파72)에서 열린 롯데 오픈 1라운드를 6언더파 66타, 단독 선두(오후 5시 30분 현재)로 기분 좋게 마쳤다. 최예본은 &quot;오늘 안정적인 플레이로 스코어를 쉽게... ",
+			"pubDate":"Thu, 01 Jun 2023 17:44:00 +0900"
+		},
 		{
 			"title":"롯데건설, ‘KLPGA 2023 롯데오픈’에서 브랜드 부스 운영",
 			"originallink":"http:\/\/www.dizzotv.com\/site\/data\/html_dir\/2023\/06\/01\/2023060180202.html",
@@ -82,31 +110,10 @@
 			"pubDate":"Thu, 01 Jun 2023 17:17:00 +0900"
 		},
 		{
-			"title":"이정민 &apos;힘찬 세컨드 샷&apos;",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6026253",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006842943",
-			"description":"= 이정민이 1일 인천 <b>청라<\/b> 베어즈베스트<b>청라<\/b>CC에서 열린 롯데오픈 1라운드 6번 홀에서 세컨드 샷을 하고 있다. (KLPGA 제공) 2023.6.1\/뉴스1",
-			"pubDate":"Thu, 01 Jun 2023 17:16:00 +0900"
-		},
-		{
-			"title":"티샷 치는 허다빈",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6026246",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006842947",
-			"description":"= 허다빈이 1일 인천 <b>청라<\/b> 베어즈베스트<b>청라<\/b>CC에서 열린 롯데오픈 1라운드 1번 홀에서 티샷을 하고 있다. (KLPGA 제공) 2023.6.1\/뉴스1",
-			"pubDate":"Thu, 01 Jun 2023 17:16:00 +0900"
-		},
-		{
 			"title":"성유진 &apos;2연패를 향해&apos;",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6026242",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006842948",
 			"description":"= 성유진이 1일 인천 <b>청라<\/b> 베어즈베스트<b>청라<\/b>CC에서 열린 롯데오픈 1라운드 6번 홀에서 아이언 샷을 하고 있다. (KLPGA 제공) 2023.6.1\/뉴스1",
-			"pubDate":"Thu, 01 Jun 2023 17:16:00 +0900"
-		},
-		{
-			"title":"이소영 &apos;느낌이 좋아&apos;",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6026250",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006842944",
-			"description":"= 이소영이 1일 인천 <b>청라<\/b> 베어즈베스트<b>청라<\/b>CC에서 열린 롯데오픈 1라운드 6번 홀에서 세컨드 샷을 하고 있다. (KLPGA 제공) 2023.6.1\/뉴스1",
 			"pubDate":"Thu, 01 Jun 2023 17:16:00 +0900"
 		},
 		{
@@ -124,10 +131,31 @@
 			"pubDate":"Thu, 01 Jun 2023 17:16:00 +0900"
 		},
 		{
+			"title":"이소영 &apos;느낌이 좋아&apos;",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6026250",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006842944",
+			"description":"= 이소영이 1일 인천 <b>청라<\/b> 베어즈베스트<b>청라<\/b>CC에서 열린 롯데오픈 1라운드 6번 홀에서 세컨드 샷을 하고 있다. (KLPGA 제공) 2023.6.1\/뉴스1",
+			"pubDate":"Thu, 01 Jun 2023 17:16:00 +0900"
+		},
+		{
+			"title":"티샷 치는 허다빈",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6026246",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006842947",
+			"description":"= 허다빈이 1일 인천 <b>청라<\/b> 베어즈베스트<b>청라<\/b>CC에서 열린 롯데오픈 1라운드 1번 홀에서 티샷을 하고 있다. (KLPGA 제공) 2023.6.1\/뉴스1",
+			"pubDate":"Thu, 01 Jun 2023 17:16:00 +0900"
+		},
+		{
 			"title":"세컨드샷 선보이는 김효주",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6026241",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006842949",
 			"description":"= 김효주가 1일 인천 <b>청라<\/b> 베어즈베스트<b>청라<\/b>CC에서 열린 롯데오픈 1라운드 6번 홀에서 세컨드샷 하고 있다. (KLPGA 제공) 2023.6.1\/뉴스1",
+			"pubDate":"Thu, 01 Jun 2023 17:16:00 +0900"
+		},
+		{
+			"title":"이정민 &apos;힘찬 세컨드 샷&apos;",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6026253",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=421&aid=0006842943",
+			"description":"= 이정민이 1일 인천 <b>청라<\/b> 베어즈베스트<b>청라<\/b>CC에서 열린 롯데오픈 1라운드 6번 홀에서 세컨드 샷을 하고 있다. (KLPGA 제공) 2023.6.1\/뉴스1",
 			"pubDate":"Thu, 01 Jun 2023 17:16:00 +0900"
 		},
 		{
@@ -138,17 +166,17 @@
 			"pubDate":"Thu, 01 Jun 2023 17:16:00 +0900"
 		},
 		{
-			"title":"롯데건설, &apos;KLPGA 2023 롯데오픈&apos;서 롯데캐슬 브랜드 부스 운영",
-			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=613541",
-			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=613541",
-			"description":"롯데가 주최하고 한국여자프로골프(KLPGA)가 주관하는 이번 대회는 1일부터 4일까지 나흘간 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 열린다. 롯데건설은 대회 기간 중 유럽코스 1번홀 잔디 위에 설치된 홍보관에서 관람객을... ",
-			"pubDate":"Thu, 01 Jun 2023 17:14:00 +0900"
-		},
-		{
 			"title":"롯데건설, ‘KLPGA 2023 롯데오픈’서 브랜드 홍보 진행",
 			"originallink":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=54335",
 			"link":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=54335",
 			"description":"이번 대회는 롯데가 주최하고 한국여자프로골프(KLPGA)가 주관하며 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 1일부터 오는 4일까지 나흘간 진행됩니다. 롯데건설은 대회 기간 중 유럽코스 1번홀 잔디 위에 설치된 홍보관에서... ",
+			"pubDate":"Thu, 01 Jun 2023 17:14:00 +0900"
+		},
+		{
+			"title":"롯데건설, &apos;KLPGA 2023 롯데오픈&apos;서 롯데캐슬 브랜드 부스 운영",
+			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=613541",
+			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=613541",
+			"description":"롯데가 주최하고 한국여자프로골프(KLPGA)가 주관하는 이번 대회는 1일부터 4일까지 나흘간 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 열린다. 롯데건설은 대회 기간 중 유럽코스 1번홀 잔디 위에 설치된 홍보관에서 관람객을... ",
 			"pubDate":"Thu, 01 Jun 2023 17:14:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013977891",
 			"description":"김효주가 1일 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 열린 KLPGA투어 롯데오픈 1라운드 6번 홀에서 세컨드 샷하고 있다. 2023.6.1",
 			"pubDate":"Thu, 01 Jun 2023 17:02:00 +0900"
-		},
-		{
-			"title":"김민별, 6번 홀 세컨드샷",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20230601197100013?input=1196m",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0013977894",
-			"description":"김효주가 1일 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 열린 KLPGA투어 롯데오픈 1라운드 6번 홀에서 세컨드 샷하고 있다. 2023.6.1",
-			"pubDate":"Thu, 01 Jun 2023 17:02:00 +0900"
-		},
-		{
-			"title":"1라운드 마친 최혜진 “보기 위기 2번, 파로 세이브”",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1239871\/?sc=Naver",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=119&aid=0002718154",
-			"description":"최혜진은 1일 인천 <b>청라<\/b>에 위치한 베어즈 베스트 골프클럽에서 열린 ‘2023 KLPGA 투어 롯데 오픈’ 1라운드서 3언더파 69타를 적어내며 공동 11위로 출발했다. 이번 대회는 자신의 메인 스폰서인 롯데서 주최하는 대회. 이에... ",
-			"pubDate":"Thu, 01 Jun 2023 17:02:00 +0900"
-		},
-		{
-			"title":"롯데건설, &apos;KLPGA 2023 롯데오픈&apos;서 콘셉트 부스 운영",
-			"originallink":"https:\/\/www.koreaittimes.com\/news\/articleView.html?idxno=122367",
-			"link":"https:\/\/www.koreaittimes.com\/news\/articleView.html?idxno=122367",
-			"description":"롯데건설이4일까지나흘간인천베어즈베스트<b>청라<\/b>골프클럽에서열리는&apos;한국여자프로골프(KLPGA)2023롯데오픈&apos;골프대회에공식후원사로참여해대회기간중유럽코스1번홀잔디위에설치된홍보관에서관람객들을위한브랜드컨... ",
-			"pubDate":"Thu, 01 Jun 2023 16:50:00 +0900"
-		},
-		{
-			"title":"롯데건설, &apos;KLPGA 2023 롯데오픈&apos; 공식 후원… 브랜드 홍보관 운영",
-			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=504444",
-			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=504444",
-			"description":"롯데가 주최하고 한국여자프로골프(KLPGA)가 주관하는 이번 대회는 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 오는 4일까지 열린다. 롯데건설은 대회 기간 중 유럽코스 1번홀 잔디 위에 설치된 홍보관에서 관람객들을 위한... ",
-			"pubDate":"Thu, 01 Jun 2023 16:44:00 +0900"
 		}
 	]
 }
