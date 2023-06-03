@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 03 Jun 2023 19:10:02 +0900",
+	"lastBuildDate":"Sat, 03 Jun 2023 19:20:02 +0900",
 	"total":203006,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"최혜진, 우승 보인다…롯데 오픈 3R ‘단독 선두’ 도약",
+			"originallink":"http:\/\/www.sportsworldi.com\/newsView\/20230603505656",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=396&aid=0000646027",
+			"description":"최혜진은 3일 인천 베어즈베스트 <b>청라<\/b>(파72)에서 열린 한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 8억원·우승상금 1억4400만원) 3라운드에서 보기 없이 버디만 6개를 수확했다. 6언더파 66타를 빚었다.... ",
+			"pubDate":"Sat, 03 Jun 2023 19:13:00 +0900"
+		},
 		{
 			"title":"[포토]이채은 &apos;버디를 생각해요&apos;",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02099206635638112",
@@ -26,13 +33,6 @@
 			"pubDate":"Sat, 03 Jun 2023 19:01:00 +0900"
 		},
 		{
-			"title":"&apos;LPGA파&apos; 최혜진, KLPGA 11번째 우승 눈앞…롯데오픈 3R 3타 차 선두",
-			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=2023060318564449155e8e941087_19",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=425&aid=0000140814",
-			"description":"최혜진은 3일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 KLPGA 투어 롯데오픈(총상금 8억원) 3라운드에서 보기 없이 버디만 6개를 몰아쳤다. 중간 합계 15언더파 201타를 친 최혜진은 2위 정윤지를 3타 차로... ",
-			"pubDate":"Sat, 03 Jun 2023 19:01:00 +0900"
-		},
-		{
 			"title":"[포토]임희정 &apos;먼거리 버디 도전&apos;",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02076246635638112",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500647",
@@ -40,16 +40,16 @@
 			"pubDate":"Sat, 03 Jun 2023 19:01:00 +0900"
 		},
 		{
-			"title":"[포토]임희정 &apos;팬들에게 인사하며 홀아웃&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02086086635638112",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500650",
-			"description":"3일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)3라운드가 열렸다. 임희정의 18번홀... ",
+			"title":"&apos;LPGA파&apos; 최혜진, KLPGA 11번째 우승 눈앞…롯데오픈 3R 3타 차 선두",
+			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=2023060318564449155e8e941087_19",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=425&aid=0000140814",
+			"description":"최혜진은 3일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 KLPGA 투어 롯데오픈(총상금 8억원) 3라운드에서 보기 없이 버디만 6개를 몰아쳤다. 중간 합계 15언더파 201타를 친 최혜진은 2위 정윤지를 3타 차로... ",
 			"pubDate":"Sat, 03 Jun 2023 19:01:00 +0900"
 		},
 		{
-			"title":"[포토]임희정 &apos;나이스 파세이브&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02079526635638112",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500648",
+			"title":"[포토]임희정 &apos;팬들에게 인사하며 홀아웃&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02086086635638112",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500650",
 			"description":"3일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)3라운드가 열렸다. 임희정의 18번홀... ",
 			"pubDate":"Sat, 03 Jun 2023 19:01:00 +0900"
 		},
@@ -64,6 +64,13 @@
 			"title":"[포토]임희정 &apos;경사를 보며 준비한다&apos;",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02072966635638112",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500646",
+			"description":"3일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)3라운드가 열렸다. 임희정의 18번홀... ",
+			"pubDate":"Sat, 03 Jun 2023 19:01:00 +0900"
+		},
+		{
+			"title":"[포토]임희정 &apos;나이스 파세이브&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02079526635638112",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500648",
 			"description":"3일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)3라운드가 열렸다. 임희정의 18번홀... ",
 			"pubDate":"Sat, 03 Jun 2023 19:01:00 +0900"
 		},
@@ -96,9 +103,9 @@
 			"pubDate":"Sat, 03 Jun 2023 19:00:00 +0900"
 		},
 		{
-			"title":"[포토]임희정 &apos;밝은 미소로 이동&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02056566635638112",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500641",
+			"title":"[포토]임희정 &apos;핀위치를 파악해요&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02053286635638112",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500640",
 			"description":"3일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)3라운드가 열렸다. 임희정의 18번홀... ",
 			"pubDate":"Sat, 03 Jun 2023 19:00:00 +0900"
 		},
@@ -117,17 +124,10 @@
 			"pubDate":"Sat, 03 Jun 2023 19:00:00 +0900"
 		},
 		{
-			"title":"[포토]임희정 &apos;핀위치를 파악해요&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02053286635638112",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500640",
+			"title":"[포토]임희정 &apos;밝은 미소로 이동&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02056566635638112",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500641",
 			"description":"3일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)3라운드가 열렸다. 임희정의 18번홀... ",
-			"pubDate":"Sat, 03 Jun 2023 19:00:00 +0900"
-		},
-		{
-			"title":"최혜진, 롯데오픈 3R &apos;3타 차 선두&apos;... 11번째 우승 눈앞",
-			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=202306031854427788a5b6bbcc6e_19",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=425&aid=0000140813",
-			"description":"최혜진은 3일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 KLPGA 투어 롯데오픈(총상금 8억원) 3라운드에서 보기 없이 버디만 6개를 몰아쳤다. 중간 합계 15언더파 201타를 친 최혜진은 2위 정윤지를 3타 차로... ",
 			"pubDate":"Sat, 03 Jun 2023 19:00:00 +0900"
 		},
 		{
@@ -138,16 +138,16 @@
 			"pubDate":"Sat, 03 Jun 2023 18:59:00 +0900"
 		},
 		{
-			"title":"[포토]임희정 &apos;페어웨이로 정확히 공략&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02043446635638112",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500637",
+			"title":"[포토]임희정 &apos;미소로 먼저 맞이해요&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02046726635638112",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500638",
 			"description":"3일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)3라운드가 열렸다. 임희정의 18번홀... ",
 			"pubDate":"Sat, 03 Jun 2023 18:59:00 +0900"
 		},
 		{
-			"title":"[포토]임희정 &apos;미소로 먼저 맞이해요&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02046726635638112",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500638",
+			"title":"[포토]임희정 &apos;페어웨이로 정확히 공략&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02043446635638112",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500637",
 			"description":"3일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)3라운드가 열렸다. 임희정의 18번홀... ",
 			"pubDate":"Sat, 03 Jun 2023 18:59:00 +0900"
 		},
@@ -173,16 +173,16 @@
 			"pubDate":"Sat, 03 Jun 2023 18:54:00 +0900"
 		},
 		{
-			"title":"[포토]김재희 &apos;홀과 정조준한다&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02027046635638112",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500632",
+			"title":"[포토]김재희 &apos;홀을 보며 준비&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02030326635638112",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500633",
 			"description":"3일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)3라운드가 열렸다. 김재희의 18번홀... ",
 			"pubDate":"Sat, 03 Jun 2023 18:54:00 +0900"
 		},
 		{
-			"title":"[포토]김재희 &apos;홀을 보며 준비&apos;",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02030326635638112",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500633",
+			"title":"[포토]김재희 &apos;홀과 정조준한다&apos;",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02027046635638112",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005500632",
 			"description":"3일 인천 서구 경서동에 위치한 베어즈베스트 <b>청라<\/b> \/ 미국(OUT) 오스트랄아시아(IN)(파72.예선 6,725yds, 본선 6,725yds)에서 &apos;롯데 오픈&apos;(총상금8억원.우승상금1억4천4백만원)3라운드가 열렸다. 김재희의 18번홀... ",
 			"pubDate":"Sat, 03 Jun 2023 18:54:00 +0900"
 		},
