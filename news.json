@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 04 Jun 2023 12:00:03 +0900",
-	"total":203065,
+	"lastBuildDate":"Sun, 04 Jun 2023 12:10:02 +0900",
+	"total":203066,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이예원, 기분 좋아지는 &apos;밝은 미소&apos; [TF사진관]",
+			"originallink":"http:\/\/news.tf.co.kr\/read\/photomovie\/2022121.htm",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=629&aid=0000220269",
+			"description":"이예원이 4일 오전 인천 베어즈베스트 <b>청라<\/b>에서 열린 KLPGA &apos;롯데 오픈&apos; 최종라운드 1번 홀에서 티샷을 하고 있다. 사진영상기획부",
+			"pubDate":"Sun, 04 Jun 2023 12:05:00 +0900"
+		},
 		{
 			"title":"[ST포토] 전예성-현세린-최가빈 &apos;승리의 브이&apos;",
 			"originallink":"http:\/\/www.stoo.com\/article.php?aid=87464027496",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005500757?sid=101",
 			"description":"4일 롯데그룹에 따르면 지난 1일부터 이날까지 베어즈베스트 <b>청라<\/b>에서 열리는 ‘2023 롯데오픈’에서... 베어즈베스트 <b>청라<\/b>를 방문해 롯데 오픈 운영 직원, 부산시 대표 캐릭터 부기(왼쪽 첫번째), 롯데홈쇼핑 캐릭터... ",
 			"pubDate":"Sun, 04 Jun 2023 10:47:00 +0900"
-		},
-		{
-			"title":"신동빈 회장, KLPGA &apos;2023 롯데 오픈&apos; 응원…부산세계박람회 홍보 총력",
-			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202306041036081190fd3ea9dd48_1\/article.html",
-			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202306041036081190fd3ea9dd48_1\/article.html",
-			"description":"1일부터 나흘 간 베어즈베스트 <b>청라<\/b> 골프클럽에서 KLPGA ‘2023 롯데 오픈’ 개최 3일, 신동빈 롯데 회장 대회 방문해 부산엑스포 유치 응원 환호∙응원 가능한 롯데플레저홀, 선수∙갤러리 간 교감 이벤트로 축제 분위기... ",
-			"pubDate":"Sun, 04 Jun 2023 10:38:00 +0900"
 		}
 	]
 }
