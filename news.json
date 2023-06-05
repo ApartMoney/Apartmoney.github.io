@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 05 Jun 2023 11:20:02 +0900",
-	"total":203936,
+	"lastBuildDate":"Mon, 05 Jun 2023 11:30:02 +0900",
+	"total":203937,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"쏘카 일레클, 전기자전거 가맹사업자 추가 모집",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230605000326",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002152357?sid=105",
+			"description":"▷영종하늘도시 ▷<b>청라<\/b>국제도시 ▷삼송지구 ▷옥정신도시 ▷다산·별내신도시 ▷배곧신도시 등 기존에 일레클 이용 수요가 확보된 수도권 신도시에 기기를 추가 투입해 운영하는 경우에는 지역 권리금을 면제하는 우대... ",
+			"pubDate":"Mon, 05 Jun 2023 11:20:00 +0900"
+		},
 		{
 			"title":"롯데, KLPGA &apos;2023 롯데 오픈&apos; 앞세워 부산세계박람회 유치 홍보 총력...후원...",
 			"originallink":"http:\/\/sports.chosun.com\/news\/ntype.htm?id=202306060100033850003891&servicedate=20230605",
@@ -82,17 +89,17 @@
 			"pubDate":"Mon, 05 Jun 2023 10:30:00 +0900"
 		},
 		{
-			"title":"남녕고 양효진, 롯데오픈 아마추어 1위",
-			"originallink":"http:\/\/www.mediajeju.com\/news\/articleView.html?idxno=344878",
-			"link":"http:\/\/www.mediajeju.com\/news\/articleView.html?idxno=344878",
-			"description":"양효진은 지난 1일부터 4일까지 인천에 있는 베어즈베스트<b>청라<\/b>GC에서 열린 대회에서 6언더파로 공동 15위를 기록했으나, 아마추어 선수 가운데는 1위를 차지했다. 양효진은 대회 첫날은 2언더파로 공동 27위... ",
-			"pubDate":"Mon, 05 Jun 2023 10:06:00 +0900"
-		},
-		{
 			"title":"신동빈 롯데 회장 “역량 총 동원해 부산세계박람회 유치 지원하겠다”",
 			"originallink":"https:\/\/www.cnbnews.com\/news\/article.html?no=604406",
 			"link":"https:\/\/www.cnbnews.com\/news\/article.html?no=604406",
 			"description":"신동빈 롯데 회장(왼쪽 여섯번째)이 3일 &apos;2023 롯데 오픈&apos; 경기가 열린 베어즈베스트 <b>청라<\/b>를 방문해 롯데 오픈 운영 직원, 부산시 대표 캐릭터 부기(왼쪽 첫번째), 롯데홈쇼핑 캐릭터 벨리곰(오른쪽 첫번째)과 함께... ",
+			"pubDate":"Mon, 05 Jun 2023 10:06:00 +0900"
+		},
+		{
+			"title":"남녕고 양효진, 롯데오픈 아마추어 1위",
+			"originallink":"http:\/\/www.mediajeju.com\/news\/articleView.html?idxno=344878",
+			"link":"http:\/\/www.mediajeju.com\/news\/articleView.html?idxno=344878",
+			"description":"양효진은 지난 1일부터 4일까지 인천에 있는 베어즈베스트<b>청라<\/b>GC에서 열린 대회에서 6언더파로 공동 15위를 기록했으나, 아마추어 선수 가운데는 1위를 차지했다. 양효진은 대회 첫날은 2언더파로 공동 27위... ",
 			"pubDate":"Mon, 05 Jun 2023 10:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003105198",
 			"description":"최혜진은 4일 인천 메어즈베스트 <b>청라<\/b>GC(파72)에서 막을 내린 한국여자프로골프(KLPGA)투어 롯데오픈(총상금 8억원)에서 최종합계 14언더파 274타로 2위 정윤지를 2타 차로 따돌리고 정상에 올랐다. 지난 2020년 11월... ",
 			"pubDate":"Mon, 05 Jun 2023 08:36:00 +0900"
-		},
-		{
-			"title":"일레클, 1천대 한정 2기 가맹사업자 추가 모집",
-			"originallink":"http:\/\/www.newspim.com\/news\/view\/20230605000043",
-			"link":"http:\/\/www.newspim.com\/news\/view\/20230605000043",
-			"description":"영종하늘도시, <b>청라<\/b>국제도시, 삼송지구, 옥정신도시, 다산·별내신도시, 배곧신도시 등 기존에 일레클 이용 수요가 확보된 수도권 신도시에 기기를 추가 투입해 운영하는 경우에는 지역 권리금을 면제하는 우대 혜택을... ",
-			"pubDate":"Mon, 05 Jun 2023 08:13:00 +0900"
 		}
 	]
 }
