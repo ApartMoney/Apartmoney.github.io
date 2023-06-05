@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 05 Jun 2023 16:00:02 +0900",
-	"total":203947,
+	"lastBuildDate":"Mon, 05 Jun 2023 16:10:03 +0900",
+	"total":203948,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"KLPGA 롯데오픈, 톨비스트가 후원한 최혜진 프로 우승",
+			"originallink":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=111354",
+			"link":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=111354",
+			"description":"최혜진은 대회 내내 완벽에 가까운 경기력을 선보이며, 4일 인천 서구 베어즈베스트 <b>청라<\/b> 골프클럽(파72•6725야드)에서 진행된 대회에서 최종라운드 버디 3개, 보기 4개를 기록하며 우승 트로피를 안았다.... ",
+			"pubDate":"Mon, 05 Jun 2023 16:00:00 +0900"
+		},
 		{
 			"title":"[위믹스 포인트] &apos;롯데 오픈&apos;서 통산 11승 달성한 최혜진, 2개 대회 만에 16위...",
 			"originallink":"https:\/\/www.techm.kr\/news\/articleView.html?idxno=110869",
@@ -159,17 +166,17 @@
 			"pubDate":"Mon, 05 Jun 2023 10:30:00 +0900"
 		},
 		{
-			"title":"신동빈 롯데 회장 “역량 총 동원해 부산세계박람회 유치 지원하겠다”",
-			"originallink":"https:\/\/www.cnbnews.com\/news\/article.html?no=604406",
-			"link":"https:\/\/www.cnbnews.com\/news\/article.html?no=604406",
-			"description":"신동빈 롯데 회장(왼쪽 여섯번째)이 3일 &apos;2023 롯데 오픈&apos; 경기가 열린 베어즈베스트 <b>청라<\/b>를 방문해 롯데 오픈 운영 직원, 부산시 대표 캐릭터 부기(왼쪽 첫번째), 롯데홈쇼핑 캐릭터 벨리곰(오른쪽 첫번째)과 함께... ",
-			"pubDate":"Mon, 05 Jun 2023 10:06:00 +0900"
-		},
-		{
 			"title":"남녕고 양효진, 롯데오픈 아마추어 1위",
 			"originallink":"http:\/\/www.mediajeju.com\/news\/articleView.html?idxno=344878",
 			"link":"http:\/\/www.mediajeju.com\/news\/articleView.html?idxno=344878",
 			"description":"양효진은 지난 1일부터 4일까지 인천에 있는 베어즈베스트<b>청라<\/b>GC에서 열린 대회에서 6언더파로 공동 15위를 기록했으나, 아마추어 선수 가운데는 1위를 차지했다. 양효진은 대회 첫날은 2언더파로 공동 27위... ",
+			"pubDate":"Mon, 05 Jun 2023 10:06:00 +0900"
+		},
+		{
+			"title":"신동빈 롯데 회장 “역량 총 동원해 부산세계박람회 유치 지원하겠다”",
+			"originallink":"https:\/\/www.cnbnews.com\/news\/article.html?no=604406",
+			"link":"https:\/\/www.cnbnews.com\/news\/article.html?no=604406",
+			"description":"신동빈 롯데 회장(왼쪽 여섯번째)이 3일 &apos;2023 롯데 오픈&apos; 경기가 열린 베어즈베스트 <b>청라<\/b>를 방문해 롯데 오픈 운영 직원, 부산시 대표 캐릭터 부기(왼쪽 첫번째), 롯데홈쇼핑 캐릭터 벨리곰(오른쪽 첫번째)과 함께... ",
 			"pubDate":"Mon, 05 Jun 2023 10:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=410&aid=0000941877",
 			"description":"인천광역시 베어즈베스트<b>청라<\/b> 미국(OUT) 오스트랄아시아(IN) 코스(파72·6725야드)에서는 6월 1~4일 2023 KLPGA 정규투어(1부리그) 11번째 대회 ‘롯데오픈’이 총상금 8억 원 규모로 열렸다. 최혜진은 최종 합계 14언더파 274타... ",
 			"pubDate":"Mon, 05 Jun 2023 09:47:00 +0900"
-		},
-		{
-			"title":"&apos;새로운 출발 보령100년&apos; 5월 중 열심히 일한 공무원 선정 표창",
-			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=603006",
-			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=603006",
-			"description":"복지정책과 박지혜 주무관은 <b>청라<\/b>면 산불 피해 이재민에 임시주거시설과 생활안전지원금을 신속히 지원했으며, 중증아토피 치료 아동 지원, 난임진단 검진비 지원 등 지역 사회보장 제도 신설 및 변경사항에 대해... ",
-			"pubDate":"Mon, 05 Jun 2023 09:36:00 +0900"
 		}
 	]
 }
