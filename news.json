@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 06 Jun 2023 14:10:02 +0900",
-	"total":203977,
+	"lastBuildDate":"Tue, 06 Jun 2023 14:20:03 +0900",
+	"total":203978,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 야간·휴일 진료 가능한 어린이병원 1곳 확대",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=750872",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=750872",
+			"description":"현재 미추홀구 연세소아과, 서구 <b>청라<\/b>연세어린이병원이 운영 중이다. 이와 함께 인천에는 소아 중증... 서구에는 지난 3월 <b>청라<\/b>연세어린이병원에 이은 두 번째다. 김석철 시 보건복지국장은 “현재 우리 시는 소아 응급... ",
+			"pubDate":"Tue, 06 Jun 2023 14:16:00 +0900"
+		},
 		{
 			"title":"인천시, &apos;제2차 도시숲 등 조성·관리계획(2019~2028)&apos; 수립",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=95722",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=119&aid=0002718986",
 			"description":"최혜진은 4일 인천 <b>청라<\/b>에 위치한 베어즈 베스트 골프클럽에서 열린 ‘2023 KLPGA 투어 롯데 오픈’에서 최종... 이후 2021년부터는 장소를 인천 <b>청라<\/b>로 바꾸면서 대회명 역시 ‘롯데 오픈’으로 교체했고 후원사 역시... ",
 			"pubDate":"Mon, 05 Jun 2023 16:14:00 +0900"
-		},
-		{
-			"title":"KLPGA 롯데오픈, 톨비스트가 후원한 최혜진 프로 우승",
-			"originallink":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=111354",
-			"link":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=111354",
-			"description":"최혜진은 대회 내내 완벽에 가까운 경기력을 선보이며, 4일 인천 서구 베어즈베스트 <b>청라<\/b> 골프클럽(파72•6725야드)에서 진행된 대회에서 최종라운드 버디 3개, 보기 4개를 기록하며 우승 트로피를 안았다.... ",
-			"pubDate":"Mon, 05 Jun 2023 16:00:00 +0900"
 		}
 	]
 }
