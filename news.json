@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 06 Jun 2023 11:20:02 +0900",
-	"total":203972,
+	"lastBuildDate":"Tue, 06 Jun 2023 11:30:02 +0900",
+	"total":203973,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시, 5월 중 열심히 일한 공무원 선정 표창",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230606010002107",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230606010002107",
+			"description":"복지정책과 박지혜 주무관은 <b>청라<\/b>면 산불 피해 이재민에 임시주거시설과 생활안전지원금을 신속히 지원했으며 중증아토피 치료 아동 지원, 난임진단 검진비 지원 등 지역 사회보장 제도 신설 및 변경사항에 대해... ",
+			"pubDate":"Tue, 06 Jun 2023 11:28:00 +0900"
+		},
 		{
 			"title":"인천시, 서구에 달빛어린이병원 확대",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230606010001242",
@@ -145,17 +152,17 @@
 			"pubDate":"Mon, 05 Jun 2023 17:30:00 +0900"
 		},
 		{
-			"title":"[포토-롯데오픈] 김민별ㆍ배소현ㆍ양효진ㆍ오수민ㆍ허다빈의 2번홀 드라이브샷",
-			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=58215",
-			"link":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=58215",
-			"description":"4일 베어즈베스트 <b>청라<\/b>(파72, 6,725야드, 인천 서구)에서 열린 2023시즌 KLPGA(한국여자프로골프) 투어 롯데오픈(총상금 8억원, 우승상금 1억4,400만원) 최종라운드 김민별ㆍ배소현ㆍ양효진(아마추어)... ",
-			"pubDate":"Mon, 05 Jun 2023 17:26:00 +0900"
-		},
-		{
 			"title":"[포토-롯데오픈] 6번홀에서 드라이브샷을 하는 최혜진ㆍ정윤지ㆍ이소영ㆍ이제...",
 			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=58216",
 			"link":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=58216",
 			"description":"4일 베어즈베스트 <b>청라<\/b>(파72, 6,725야드, 인천 서구)에서 열린 2023시즌 KLPGA(한국여자프로골프) 투어 롯데오픈(총상금 8억원, 우승상금 1억4,400만원) 최종라운드 6번홀(파5, 550야드) 티잉 그라운드에서... ",
+			"pubDate":"Mon, 05 Jun 2023 17:26:00 +0900"
+		},
+		{
+			"title":"[포토-롯데오픈] 김민별ㆍ배소현ㆍ양효진ㆍ오수민ㆍ허다빈의 2번홀 드라이브샷",
+			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=58215",
+			"link":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=58215",
+			"description":"4일 베어즈베스트 <b>청라<\/b>(파72, 6,725야드, 인천 서구)에서 열린 2023시즌 KLPGA(한국여자프로골프) 투어 롯데오픈(총상금 8억원, 우승상금 1억4,400만원) 최종라운드 김민별ㆍ배소현ㆍ양효진(아마추어)... ",
 			"pubDate":"Mon, 05 Jun 2023 17:26:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.iminju.net\/news\/articleView.html?idxno=85900",
 			"description":"지난 3일 &apos;2023 롯데 오픈&apos; 경기가 열린 베어즈베스트 <b>청라<\/b>에서 신동빈 롯데그룹 회장(왼쪽 여섯번째)과  롯데... ⓒ뉴시스 민주신문=최경서 기자 | 롯데그룹은 신동빈 롯데그룹 회장이 지난 3일 베어즈베스트 <b>청라<\/b>... ",
 			"pubDate":"Mon, 05 Jun 2023 14:18:00 +0900"
-		},
-		{
-			"title":"[물류24시] CJ대한통운, 미래기술챌린지 개최 外",
-			"originallink":"https:\/\/dealsite.co.kr\/articles\/104809",
-			"link":"https:\/\/dealsite.co.kr\/articles\/104809",
-			"description":"▲영종하늘도시 ▲<b>청라<\/b>국제도시 ▲삼송지구 ▲옥정신도시 ▲다산·별내신도시 ▲배곧신도시 등 수요가 확보된 수도권 신도시에 기기를 추가 투입할 경우에는 지역 권리금을 면제하는 우대 혜택이 제공된다.... ",
-			"pubDate":"Mon, 05 Jun 2023 14:14:00 +0900"
 		}
 	]
 }
