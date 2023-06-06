@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 06 Jun 2023 10:20:02 +0900",
-	"total":203969,
+	"lastBuildDate":"Tue, 06 Jun 2023 10:30:03 +0900",
+	"total":203970,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시, 학교로 찾아가는 구강 인형극 개최",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230604010001451",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230604010001451",
+			"description":"인형극 공연은 지난 1일 보령정심학교, 송학초등학교를 시작으로 △7일 남포초등학교, 옥계초등학교 △8일 한내초등학교, <b>청라<\/b>초등학교 △12일 대관초등학교, 청보초등학교에서 이뤄진다. 의료시설이 취약한 면 소재지... ",
+			"pubDate":"Tue, 06 Jun 2023 10:22:00 +0900"
+		},
 		{
 			"title":"인천시, 야간·휴일 진료 가능 &apos;어린이병원&apos; 3곳으로 확대 운영",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3033849",
@@ -124,17 +131,17 @@
 			"pubDate":"Mon, 05 Jun 2023 17:30:00 +0900"
 		},
 		{
-			"title":"[포토-롯데오픈] 김민별ㆍ배소현ㆍ양효진ㆍ오수민ㆍ허다빈의 2번홀 드라이브샷",
-			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=58215",
-			"link":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=58215",
-			"description":"4일 베어즈베스트 <b>청라<\/b>(파72, 6,725야드, 인천 서구)에서 열린 2023시즌 KLPGA(한국여자프로골프) 투어 롯데오픈(총상금 8억원, 우승상금 1억4,400만원) 최종라운드 김민별ㆍ배소현ㆍ양효진(아마추어)... ",
-			"pubDate":"Mon, 05 Jun 2023 17:26:00 +0900"
-		},
-		{
 			"title":"[포토-롯데오픈] 6번홀에서 드라이브샷을 하는 최혜진ㆍ정윤지ㆍ이소영ㆍ이제...",
 			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=58216",
 			"link":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=58216",
 			"description":"4일 베어즈베스트 <b>청라<\/b>(파72, 6,725야드, 인천 서구)에서 열린 2023시즌 KLPGA(한국여자프로골프) 투어 롯데오픈(총상금 8억원, 우승상금 1억4,400만원) 최종라운드 6번홀(파5, 550야드) 티잉 그라운드에서... ",
+			"pubDate":"Mon, 05 Jun 2023 17:26:00 +0900"
+		},
+		{
+			"title":"[포토-롯데오픈] 김민별ㆍ배소현ㆍ양효진ㆍ오수민ㆍ허다빈의 2번홀 드라이브샷",
+			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=58215",
+			"link":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=58215",
+			"description":"4일 베어즈베스트 <b>청라<\/b>(파72, 6,725야드, 인천 서구)에서 열린 2023시즌 KLPGA(한국여자프로골프) 투어 롯데오픈(총상금 8억원, 우승상금 1억4,400만원) 최종라운드 김민별ㆍ배소현ㆍ양효진(아마추어)... ",
 			"pubDate":"Mon, 05 Jun 2023 17:26:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160280045300043",
 			"description":"인천<b>청라<\/b>점(점장 이동한)이 서구 내 아동생활시설에 필요한 식료품 100만 원 상당을 지원했다고 밝혔다. 홈플러스 <b>청라<\/b>점은 사전 조사를 통해 시설에 필요한 육류, 과일 등 먹거리를 마련해 이날 시설 7곳을 방문해... ",
 			"pubDate":"Mon, 05 Jun 2023 13:02:00 +0900"
-		},
-		{
-			"title":"[MD포토] 버디 노리는 이소영 &apos;간절한 눈빛&apos;",
-			"originallink":"http:\/\/www.mydaily.co.kr\/new_yk\/html\/read.php?newsid=202306041138937496&ext=na&utm_campaign=naver_news&utm_source=naver&utm_medium=related_news",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003736497",
-			"description":"이소영이 4일 인천 베어즈베스트 <b>청라<\/b>(파72ㅣ6,725야드)에서 진행된 &apos;롯데 오픈&apos;(총상금 8억 원, 우승상금 1억 4천 4백만 원) 4라운드 1번 홀에서 퍼팅 한 뒤 볼을 바라보고 있다.",
-			"pubDate":"Mon, 05 Jun 2023 12:04:00 +0900"
 		}
 	]
 }
