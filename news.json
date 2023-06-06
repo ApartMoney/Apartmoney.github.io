@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Jun 2023 05:00:02 +0900",
-	"total":203995,
+	"lastBuildDate":"Wed, 07 Jun 2023 05:10:02 +0900",
+	"total":203996,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 주요일정]인천·김포·부천(6월7일 수요일)",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230606_0002329187&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011899193?sid=102",
+			"description":"▲오후 1시30분 행정안전부 집중안전점검 현장방문, 인천 미추홀·연수구 ▲오후 1시30분 유정복 인천시장 1호서 검단연장 및 7호선 <b>청라<\/b>연장 현장점검, 검담 및 <b>청라<\/b>연장 현장 ▲오후 2시 부천시 일반동전환... ",
+			"pubDate":"Wed, 07 Jun 2023 05:01:00 +0900"
+		},
 		{
 			"title":"인천시, 야간·휴일 진료 가능 &apos;어린이병원 1곳&apos; 확대·운영",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=546823",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011898319?sid=102",
 			"description":"서구 <b>청라<\/b>연세어린이병원)가 운영 중이다. 이와 함께 인천에는 소아 중증 응급환자 치료를 위해 길병원에... 3월 <b>청라<\/b>연세어린이병원에 이은 두 번째다. 김석철 시 보건복지국장은 “현재 우리 시는 소아 응급 병원 등... ",
 			"pubDate":"Tue, 06 Jun 2023 09:16:00 +0900"
-		},
-		{
-			"title":"인천시 올 하반기 검단에 달빛어린이병원 1곳 신규 지정",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20230606010001294",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230606010001294",
-			"description":"서구 <b>청라<\/b>연세어린이병원이 운영 중이다. 아울러 인천에는 소아 중증 응급환자 치료를 위해 길병원에 이어... 최근 서구 지역 인구가 지속적으로 증가하는 만큼 하반기에 서구 검단에 신규로 지정함에 따라 지난 3월 <b>청라<\/b>... ",
-			"pubDate":"Tue, 06 Jun 2023 09:14:00 +0900"
 		}
 	]
 }
