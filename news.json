@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Wed, 07 Jun 2023 14:50:02 +0900",
-	"total":204089,
+	"lastBuildDate":"Wed, 07 Jun 2023 15:00:02 +0900",
+	"total":204095,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"유정복 시장, &quot;안전사고 예방 및 공정관리를 통한 적기 개통에 최선 다해 달라...",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230607010001466",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230607010001466",
+			"description":"이번 현장점검은 인천도시철도 1호선 검단 연장(인천시 계양구 계양역~검단신도시)과 서울도시철도 7호선 <b>청라<\/b> 연장(인천시 서구 석남동~공항철도 <b>청라<\/b>국제도시역) 건설 현장의 종합적인 안전관리 실태 점검을 위해... ",
+			"pubDate":"Wed, 07 Jun 2023 14:58:00 +0900"
+		},
+		{
+			"title":"엑스코 제14회 대구꽃박람회, 3만 8천여 명 방문 성황리에 폐막",
+			"originallink":"https:\/\/sports.donga.com\/article\/all\/20230607\/119656617\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/382\/0001055653?sid=102",
+			"description":"조성된 ‘<b>청라<\/b>상관’, 지방자치단체의 화훼문화를 알리기 위한 ‘지자체관’과 야생화, 압화, 테라리움... 또 ‘꽃이 가진 우주의 힘’, ‘무지개 꽃길(치유의 문門)’, ‘태초의 지구’ 등을 주제로 한 <b>청라<\/b>상관에서는... ",
+			"pubDate":"Wed, 07 Jun 2023 14:58:00 +0900"
+		},
+		{
+			"title":"신동빈 롯데 회장, 日 소비재 포럼 찾아 &apos;부산엑스포&apos; 유치 활동",
+			"originallink":"https:\/\/www.thekpm.com\/news\/articleView.html?idxno=157993",
+			"link":"https:\/\/www.thekpm.com\/news\/articleView.html?idxno=157993",
+			"description":"한편 신동빈 회장은 지난 3일 KLPGA 롯데오픈이 열린 인천 베어즈베스트 <b>청라<\/b>에도 방문해 부산 엑스포 홍보에 힘을 더했다. 부산 엑스포 포토존을 찾아, 골프 대회를 관람하기 위해 방문한 갤러리들과 유치 응원을... ",
+			"pubDate":"Wed, 07 Jun 2023 14:56:00 +0900"
+		},
+		{
+			"title":"유정복 인천시장 &quot;안전 점검·품질관리 철저&quot;",
+			"originallink":"http:\/\/www.inews24.com\/view\/1600611",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000750587?sid=102",
+			"description":"이날 점검은 인천도시철도 1호선 검단 연장(계양구 계양역~검단신도시)과 서울도시철도 7호선 <b>청라<\/b> 연장(서구 석남동~공항철도 <b>청라<\/b>국제도시역) 건설 현장의 안전 관리 실태 등을 파악하기 위해 실시됐다. 유 시장은... ",
+			"pubDate":"Wed, 07 Jun 2023 14:54:00 +0900"
+		},
+		{
+			"title":"신동빈 롯데 회장, 日 CGF서 부산박람회 유치 활동",
+			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=130860",
+			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=130860",
+			"description":"한편, 신 회장은 지난 3일 KLPGA 롯데오픈이 열린 인천 베어즈베스트 <b>청라<\/b>에도 방문해 부산 엑스포 홍보에 힘을 더했다. 그는 부산 엑스포 포토존을 찾아 골프 대회를 관람하기 위해 방문한 갤러리들과 유치 응원을... ",
+			"pubDate":"Wed, 07 Jun 2023 14:52:00 +0900"
+		},
+		{
+			"title":"신동빈 롯데 회장, 부산 엑스포 유치 위해 &apos;동분서주&apos;… 이번에는 일본 行",
+			"originallink":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=59138",
+			"link":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=59138",
+			"description":"한편 신동빈 회장은 지난 3일 KLPGA 롯데오픈이 열린 인천 베어즈베스트 <b>청라<\/b>를 방문해 부산 엑스포 홍보에 힘을 더했다. 부산 엑스포 포토존도 찾아 골프 대회를 관람하기 위해 방문한 갤러리들과 유치 응원을... ",
+			"pubDate":"Wed, 07 Jun 2023 14:52:00 +0900"
+		},
 		{
 			"title":"인천1호선 검단·서울7호선 <b>청라<\/b> 연장 &apos;적기 개통&apos; 순항",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=230837",
@@ -117,17 +159,17 @@
 			"pubDate":"Wed, 07 Jun 2023 13:28:00 +0900"
 		},
 		{
-			"title":"신동빈 롯데 회장, 부산엑스포 유치전 &apos;종횡무진&apos;",
-			"originallink":"http:\/\/www.newswatch.kr\/news\/articleView.html?idxno=63522",
-			"link":"http:\/\/www.newswatch.kr\/news\/articleView.html?idxno=63522",
-			"description":"한편, 신 회장은 지난 3일 KLPGA 롯데오픈이 열린 인천 베어즈베스트 <b>청라<\/b>에도 방문해 부산엑스포 홍보에 힘을 더했다. 부산엑스포 포토존에서 골프 대회를 관람하기 위해 방문한 갤러리들과 유치 응원을 함께하기도... ",
-			"pubDate":"Wed, 07 Jun 2023 13:24:00 +0900"
-		},
-		{
 			"title":"15년 희망고문 끝에 나온 <b>청라<\/b>시티타워 결론…&quot;6년만 더 기다려 봐&quot;",
 			"originallink":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2023\/06\/07\/2023060701705.html",
 			"link":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2023\/06\/07\/2023060701705.html",
 			"description":"국내 최고층 전망 타워이자 <b>청라<\/b> 지역 숙원사업인 인천 <b>청라<\/b>시티타워 사업이 원점으로 돌아왔다. 사업을 총괄하는 한국토지주택공사(LH)가 기존 민간사업자와 맺은 협약을 해지한 데 이어서 LH가 직접 나서 사업을... ",
+			"pubDate":"Wed, 07 Jun 2023 13:24:00 +0900"
+		},
+		{
+			"title":"신동빈 롯데 회장, 부산엑스포 유치전 &apos;종횡무진&apos;",
+			"originallink":"http:\/\/www.newswatch.kr\/news\/articleView.html?idxno=63522",
+			"link":"http:\/\/www.newswatch.kr\/news\/articleView.html?idxno=63522",
+			"description":"한편, 신 회장은 지난 3일 KLPGA 롯데오픈이 열린 인천 베어즈베스트 <b>청라<\/b>에도 방문해 부산엑스포 홍보에 힘을 더했다. 부산엑스포 포토존에서 골프 대회를 관람하기 위해 방문한 갤러리들과 유치 응원을 함께하기도... ",
 			"pubDate":"Wed, 07 Jun 2023 13:24:00 +0900"
 		},
 		{
@@ -171,48 +213,6 @@
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230607010002604",
 			"description":"△7일 청소보건지소 △8일 천북보건지소 △9일 <b>청라<\/b>보건지소 △12·13일 남포면 주민자치센터 △14일 성주보건지소 △15일 웅천보건지소 △16일 주산보건지소 순으로 오전 8시부터 오전 11시 30분까지 진행할 예정이다.... ",
 			"pubDate":"Wed, 07 Jun 2023 12:04:00 +0900"
-		},
-		{
-			"title":"신동빈 롯데 회장, 일본 소비재포럼서 ‘부산엑스포’ 홍보",
-			"originallink":"https:\/\/www.munhwa.com\/news\/view.html?no=2023060701031707205001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002575873?sid=101",
-			"description":"신 회장은 지난 3일에도 한국여자프로골프(KLPGA) 롯데오픈이 열린 인천 베어즈베스트 <b>청라<\/b>를 방문해 “남은 기간 롯데의 역량을 총동원해 부산 엑스포의 성공적 유치를 지원하겠다”고 강조했다.",
-			"pubDate":"Wed, 07 Jun 2023 12:01:00 +0900"
-		},
-		{
-			"title":"[오늘의 주요 사회 일정] 인천·김포·부천(6월7일 수요일)",
-			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=290012",
-			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=290012",
-			"description":"▲오후 1시30분 행정안전부 집중안전점검 현장방문, 인천 미추홀·연수구 ▲오후 1시30분 유정복 인천시장 1호서 검단연장 및 7호선 <b>청라<\/b>연장 현장점검, 검담 및 <b>청라<\/b>연장 현장 ▲오후 2시 부천시 일반동전환... ",
-			"pubDate":"Wed, 07 Jun 2023 11:46:00 +0900"
-		},
-		{
-			"title":"신동빈 롯데그룹 회장, 日 교토서 부산 엑스포 홍보",
-			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=613871",
-			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=613871",
-			"description":"한편 신동빈 회장은 지난 3일 KLPGA 롯데오픈이 열린 인천 베어즈베스트 <b>청라<\/b>에도 방문해 부산 엑스포 홍보에 힘을 더했다. 부산 엑스포 포토존을 찾아, 골프 대회를 관람하기 위해 방문한 갤러리들과 유치 응원을... ",
-			"pubDate":"Wed, 07 Jun 2023 11:36:00 +0900"
-		},
-		{
-			"title":"신동빈, 일본 CGF서 글로벌 CEO 만나 부산엑스포 홍보",
-			"originallink":"http:\/\/www.segye.com\/content\/html\/2023\/06\/07\/20230607510016.html?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003820395?sid=101",
-			"description":"한편 신 회장은 지난 3일 KLPGA 롯데오픈이 열린 인천 베어즈베스트 <b>청라<\/b>에도 방문해 부산 엑스포 홍보에 힘을 보탰다. 부산 엑스포 포토존을 찾아, 골프 대회를 관람하기 위해 방문한 갤러리들과 유치 응원을... ",
-			"pubDate":"Wed, 07 Jun 2023 11:24:00 +0900"
-		},
-		{
-			"title":"최문순, 인천 전세사기범 남헌기에 특혜 제공?…與 “송영길 측도 수사해야”",
-			"originallink":"https:\/\/thepublic.kr\/news\/view\/1065577526529937",
-			"link":"https:\/\/thepublic.kr\/news\/view\/1065577526529937",
-			"description":"더불어민주당 송영길 전 대표가 인천시장으로 재임(2010년 7월~2014년 6월)할 당시 인천 송도 및 <b>청라<\/b> 지구 투자유치를 담당했던 인천경제자유구역청(인자청) 출신 인사들이 동자청 투자유치본부장 등으로 채용됐다고... ",
-			"pubDate":"Wed, 07 Jun 2023 11:22:00 +0900"
-		},
-		{
-			"title":"대구꽃박람회, 3만8000명 다녀갔다… 국내 최대 실내 플라워쇼 우뚝",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023060710453371045",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005269280?sid=102",
-			"description":"조성된 ‘<b>청라<\/b>상관’, 지방자치단체의 화훼문화를 알리기 위한 ‘지자체 관’과 야생화, 압화, 테라리움... 또 ‘꽃이 가진 우주의 힘’, ‘무지개 꽃길(치유의 문門)’, ‘태초의 지구’ 등을 주제로 한 <b>청라<\/b> 상관에서는... ",
-			"pubDate":"Wed, 07 Jun 2023 11:22:00 +0900"
 		}
 	]
 }
