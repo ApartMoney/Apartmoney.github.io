@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Jun 2023 18:30:02 +0900",
-	"total":204141,
+	"lastBuildDate":"Wed, 07 Jun 2023 18:40:02 +0900",
+	"total":204142,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천지하철 1호선 검단연장선, 지하 17m 아래 방수작업 한창…유정복 인천시장...",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20230607580239",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000013173?sid=100",
+			"description":"한편, 유 시장은 이날 서울지하철 7호선의 <b>청라<\/b> 연장선의 공사 현장을 방문, 선제적인 안전점검과 차질 없는 공사가 이뤄질 수 있도록 대책 마련 등을 지시했다. 서구 석남동에서 공항철도 <b>청라<\/b>국제도시역까지 10.767... ",
+			"pubDate":"Wed, 07 Jun 2023 18:37:00 +0900"
+		},
 		{
 			"title":"이번엔 日 찾았다… 신동빈 회장, 부산엑스포 유치 &apos;올인&apos;",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202306071824430648",
@@ -96,17 +103,17 @@
 			"pubDate":"Wed, 07 Jun 2023 17:05:00 +0900"
 		},
 		{
-			"title":"대구꽃박람회, 3만8000여명 방문하며 성료… 최대 실내 플라워쇼 위상 확고히",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1714103",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1714103",
-			"description":"조성된 ‘<b>청라<\/b>상관’, 지방자치단체의 화훼문화를 알리기 위한 ‘지자체관’과 야생화, 압화, 테라리움... 또 ‘꽃이 가진 우주의 힘’, ‘무지개 꽃길(치유의 문門)’, ‘태초의 지구’ 등을 주제로 한 <b>청라<\/b>상관에서는... ",
-			"pubDate":"Wed, 07 Jun 2023 17:00:00 +0900"
-		},
-		{
 			"title":"롯데 신동빈, 글로벌 소비재포럼서 직접 부산 엑스포 홍보",
 			"originallink":"https:\/\/weekly.cnbnews.com\/news\/article.html?no=151135",
 			"link":"https:\/\/weekly.cnbnews.com\/news\/article.html?no=151135",
 			"description":"한편, 신동빈 회장은 3일 KLPGA 롯데오픈이 열린 인천 베어즈베스트 <b>청라<\/b>에도 방문해 부산 엑스포 홍보에 힘을 더했다. 부산 엑스포 포토존을 찾아, 골프 대회를 관람하기 위해 방문한 갤러리들과 유치 응원을... ",
+			"pubDate":"Wed, 07 Jun 2023 17:00:00 +0900"
+		},
+		{
+			"title":"대구꽃박람회, 3만8000여명 방문하며 성료… 최대 실내 플라워쇼 위상 확고히",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1714103",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1714103",
+			"description":"조성된 ‘<b>청라<\/b>상관’, 지방자치단체의 화훼문화를 알리기 위한 ‘지자체관’과 야생화, 압화, 테라리움... 또 ‘꽃이 가진 우주의 힘’, ‘무지개 꽃길(치유의 문門)’, ‘태초의 지구’ 등을 주제로 한 <b>청라<\/b>상관에서는... ",
 			"pubDate":"Wed, 07 Jun 2023 17:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230607010001802",
 			"description":"7호선 <b>청라<\/b> 연장 건설 현장을 찾아 철저한 품질관리 및 안전사고 예방에 최선을 다해달라고 당부했다. 유정복... 서울도시철도7호선 <b>청라<\/b> 연장(인천시 서구 석남동~공항철도 <b>청라<\/b>국제도시역) 건설 현장의 종합적인... ",
 			"pubDate":"Wed, 07 Jun 2023 15:42:00 +0900"
-		},
-		{
-			"title":"5월 패밀리레스토랑 톱5 &apos;애슐리&apos; 1단계 상승",
-			"originallink":"https:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=971641",
-			"link":"https:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=971641",
-			"description":"애슐리의 경우 뉴코아 부천점을 포함한 인천<b>청라<\/b>점 2개 매장에서 키즈타운을 구성해 운영 중이다. 이외에도 NC 신구로점은 애슐리와 키즈파크를 결합한 형태로 통합 이용권 구매 시 조금 더 저렴하게 이용... ",
-			"pubDate":"Wed, 07 Jun 2023 15:40:00 +0900"
 		}
 	]
 }
