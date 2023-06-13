@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 13 Jun 2023 10:00:02 +0900",
-	"total":204262,
+	"lastBuildDate":"Tue, 13 Jun 2023 10:10:02 +0900",
+	"total":204263,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"사람이 곧 주택수요… 인구 증가 뚜렷한 &apos;인천 서구&apos; 부동산 활기",
+			"originallink":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=101942",
+			"link":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=101942",
+			"description":"이와 같은 인천 서구의 인구 증가는 검단신도시, <b>청라<\/b>국제도시 등의 신도시 개발과 교통환경 증대 등이 맞물리면서 효과를 내고 있는 것으로 풀이된다. 이로 인한 인프라 개선으로 주거여건이 확대되면서 인구가... ",
+			"pubDate":"Tue, 13 Jun 2023 10:00:00 +0900"
+		},
 		{
 			"title":"신동빈, 부산세계박람회 유치 &apos;민간 홍보대사&apos; 역할 톡톡",
 			"originallink":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=131923",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004200407?sid=102",
 			"description":"계획대로 사업이 완료되면 기존 채드윅송도국제학교와 <b>청라<\/b>달튼외국인학교에 이어 개교를 앞둔 칼빈매니토바국제학교까지 총 5개의 국제학교가 운영될 전망이다. 인천경제자유구역청은 외국인의 정주 여건을 개선하기... ",
 			"pubDate":"Sun, 11 Jun 2023 17:55:00 +0900"
-		},
-		{
-			"title":"&quot;<b>청라<\/b>소각장 기술진단결과 타당성 있어야 폐쇄·이전 가능&quot;",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=231016",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=231016",
-			"description":"인천투데이=장호영 기자｜인천 서구가 <b>청라<\/b>자원환경센터(<b>청라<\/b>소각장)를 대체할 자원순환센터 건립을 추진 중인 가운데, 현재 추진 중인 <b>청라<\/b>소각장의 소각시설 기술진단 용역결과가 타당성 있게 나와야 폐쇄·이전이... ",
-			"pubDate":"Sun, 11 Jun 2023 16:22:00 +0900"
 		}
 	]
 }
