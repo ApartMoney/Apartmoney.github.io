@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 13 Jun 2023 19:50:02 +0900",
-	"total":204303,
+	"lastBuildDate":"Tue, 13 Jun 2023 20:00:02 +0900",
+	"total":204304,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 학생성공버스, 내달 달릴 수 있을까",
+			"originallink":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1198022",
+			"link":"http:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1198022",
+			"description":"학생성공버스는 ▲연수구 송도 ▲서구 <b>청라<\/b>·경서 ▲서구 검단 ▲중구 영종 ▲남동구 서창·남촌 ▲부평구 일신 등 6개 권역별로 21개 노선에서 중고생 등교 통학버스로 운행될 예정이다. 수요 조사를 거쳐 노선 윤곽은... ",
+			"pubDate":"Tue, 13 Jun 2023 19:58:00 +0900"
+		},
 		{
 			"title":"인천경제청, Harrow School과 이상적 교육 환경 조성을 위한 상호협력 양해각...",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230613010003135",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=95823",
 			"description":"<b>청라<\/b>국제도시 달튼 외국인학교 인천경제자유구역에는 송도국제도시 3공구에서 2010년 개교한 채드윅 송도국제학교와 <b>청라<\/b>국제도시에서 2011년 개교한 달튼 외국인학교가 있다. 또 송도국제도시 4공구의 전 가톨릭대... ",
 			"pubDate":"Tue, 13 Jun 2023 11:56:00 +0900"
-		},
-		{
-			"title":"인천경제청, Harrow School과 상호협력 양해각서 체결",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1021234",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1021234",
-			"description":"이어 김청장은 또 &quot;인천경제자유구역은 채드윅 국제학교와 달튼 외국인학교, 올해 9월에 개교하는 캘빈매니토바 국제학교 및 곧 공모에 들어가는 영종 미단시티 국제학교, 현재 계획중인 <b>청라<\/b> 국제학교 및... ",
-			"pubDate":"Tue, 13 Jun 2023 11:26:00 +0900"
 		}
 	]
 }
