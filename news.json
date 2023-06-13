@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 13 Jun 2023 11:00:02 +0900",
-	"total":204271,
+	"lastBuildDate":"Tue, 13 Jun 2023 11:10:02 +0900",
+	"total":204272,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 송도에 영국 명문 ‘해로우 스쿨’ 유치 양해각서 체결",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=7697994&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011503517?sid=102",
+			"description":"현재 인천경제자유구역에는 채드윅·캘빈매니토바 등 송도 국제학교 2곳과 <b>청라<\/b> 달튼 외국인학교 1곳이 있습니다. 1572년에 설립된 ‘해로우 스쿨’은 영국 수상 윈스터 처칠, 시인 고든 바이런, 인도 수상 네루 등... ",
+			"pubDate":"Tue, 13 Jun 2023 11:02:00 +0900"
+		},
 		{
 			"title":"신동빈 롯데 회장 ‘부산 엑스포’ 알리기 잰걸음",
 			"originallink":"https:\/\/www.khan.co.kr\/economy\/economy-general\/article\/202306131052001",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20230612500306",
 			"description":"인천 서구 <b>청라<\/b>동에 위치한 &apos;<b>청라<\/b>국제금융단지한양수자인레이크블루&apos;의 경우 지난 1월 전용면적 84㎡의 거래가격이 6억3000만원이었지만, 4개월 만에 1억3500만원 상승한 7억6500만원에 거래됐다. 전문가들은 집값... ",
 			"pubDate":"Mon, 12 Jun 2023 14:32:00 +0900"
-		},
-		{
-			"title":"영종 바다 오션뷰 갖춘 제일건설 &apos;영종국제도시 제일풍경채 디오션&apos;",
-			"originallink":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=240159",
-			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=240159",
-			"description":"특히, 영종국제도시와 <b>청라<\/b>를 연결하는 제3연륙교가 2025년 준공을 목표로 개발이 한창이며, 개통시 서울 여의도와 강남권까지 이동시간도 개선된다. 견본주택은 인천 서구 왕길동 일대 인천2호선 검단사거리역 인근에... ",
-			"pubDate":"Mon, 12 Jun 2023 10:48:00 +0900"
 		}
 	]
 }
