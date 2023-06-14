@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 15 Jun 2023 04:00:02 +0900",
-	"total":204341,
+	"lastBuildDate":"Thu, 15 Jun 2023 04:10:03 +0900",
+	"total":204342,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[민태원의 메디컬 인사이드] 대형병원 수도권 분원 경쟁을 보는 두 시선",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0924306963&code=11171437&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001616146?sid=110",
+			"description":"세브란스병원은 2026년 말까지 송도에 800병상, 서울아산병원은 2027년 완공 목표로 <b>청라<\/b>에 800병상 분원을 짓고 있다. 행정구역상 인천은 아니지만 송도에서 다리 하나만 건너면 닿는 경기 시흥에는 800병상의... ",
+			"pubDate":"Thu, 15 Jun 2023 04:08:00 +0900"
+		},
 		{
 			"title":"롯데 선두권 선전에…‘동빈이 형’ 사직구장 또 찾았다",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25169953",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1190603&inflow=N",
 			"description":"지난 4월 인천금융센터는 인천의 구도심과 <b>청라<\/b>국제도시의 중간 지점으로 확장 이전했으며 성남금융센터도 위례신도시와 인접해 있어 고객들의 방문 진입장벽을 낮췄다. 대구은행은 현재 서울지역에는... ",
 			"pubDate":"Wed, 14 Jun 2023 06:02:00 +0900"
-		},
-		{
-			"title":"윈스터 처칠 모교 ‘해로스쿨’ 송도에 짓는다",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20230613\/119752235\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003503378?sid=102",
-			"description":"인천에는 송도 채드윅 국제학교와 <b>청라<\/b> 달튼외국인학교가 운영되고 있다. 올해 9월에는 캘빈매니토바 국제학교가 문을 연다. 이 외에도 영종 미단시티 국제학교가 공모에 들어간 상태이고, <b>청라<\/b> 국제학교와 영종 중국계... ",
-			"pubDate":"Wed, 14 Jun 2023 03:05:00 +0900"
 		}
 	]
 }
