@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 15 Jun 2023 06:00:02 +0900",
-	"total":204342,
+	"lastBuildDate":"Thu, 15 Jun 2023 06:10:02 +0900",
+	"total":204343,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대우건설 하자논란…빛바랜 국내 첫 ‘리조트도시’",
+			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202306140258",
+			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202306140258",
+			"description":"2013년 <b>청라<\/b>에서도 아파트를 시공했는데 내진구조물에 철근을 절반만 시공해 질타를 받았다. 대우건설 관계자는 “입주자 사전방문 때 설치가 미진한 부분이 있었고 보완을 요구했다”며 “전사 차원에서 입주 전까지... ",
+			"pubDate":"Thu, 15 Jun 2023 06:04:00 +0900"
+		},
 		{
 			"title":"[민태원의 메디컬 인사이드] 대형병원 수도권 분원 경쟁을 보는 두 시선",
 			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0924306963&code=11171437&cp=nv",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dailymedi.com\/news\/news_view.php?wr_id=898715",
 			"description":"[왼쪽부터 배곧서울대병원, 서울아산병원<b>청라<\/b> 조감도] 실제로 지난 6차 의정 의료현안협의체 회의가 끝난 후 보건복지부는 “수도권 대학병원 분원 설립 제한 등 수도권 병상 관리를 위한 법적‧제도 마련 및 의료기관... ",
 			"pubDate":"Wed, 14 Jun 2023 06:44:00 +0900"
-		},
-		{
-			"title":"[IB토마토](지방은행 생존법)①대구은행, &apos;기업특화&apos; 승부수…수도권으로 도약",
-			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1190603&inflow=N",
-			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1190603&inflow=N",
-			"description":"지난 4월 인천금융센터는 인천의 구도심과 <b>청라<\/b>국제도시의 중간 지점으로 확장 이전했으며 성남금융센터도 위례신도시와 인접해 있어 고객들의 방문 진입장벽을 낮췄다. 대구은행은 현재 서울지역에는... ",
-			"pubDate":"Wed, 14 Jun 2023 06:02:00 +0900"
 		}
 	]
 }
