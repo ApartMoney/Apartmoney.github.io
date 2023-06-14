@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 14 Jun 2023 14:10:02 +0900",
-	"total":204326,
+	"lastBuildDate":"Wed, 14 Jun 2023 14:20:02 +0900",
+	"total":204328,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[대구] 대구시, 다음 달부터 시티투어 군위군으로 확대 운영",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0115_202306141412172555",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001896985?sid=102",
+			"description":"체험형과 투어형 등 3개 노선으로 매달 8번 운영되는 시티투어는 대구 <b>청라<\/b>언덕역을 출발해 군위 삼존석굴과 한밤마을, 화본역 등을 둘러봅니다. 이용 요금은 성인 기준 만 원이고, 대구시티투어 홈페이지나 전화를 통해... ",
+			"pubDate":"Wed, 14 Jun 2023 14:12:00 +0900"
+		},
+		{
+			"title":"인천시의회 건교위, 지하철 · 버스 요금 인상안 찬성 의결",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=95847",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=95847",
+			"description":"&apos;버스 요금 조정안&apos;은 성인 기준 ▲시내버스 250원 ▲광역버스(직행좌석) 350원 ▲<b>청라<\/b>~강서 광역간선급행버스(BRT) 400원을 인상하는 내용이다. 시내버스 요금을 일괄 250원 인상하면 ▲간선버스는 1,250원→1... ",
+			"pubDate":"Wed, 14 Jun 2023 14:10:00 +0900"
+		},
 		{
 			"title":"신동빈, 부산 엑스포 유치 위해 부산항 방문",
 			"originallink":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=653776",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004201384?sid=102",
 			"description":"한편 인천경제자유구역에는 기존 송도채드윅국제학교와 <b>청라<\/b>달튼외국인학교가 운영되고 있고 올 9월에는 송도에 캘빈매니토바국제학교가 추가로 개교할 예정이다. 인천경제청은 인천경제자유구역 중 유일하게... ",
 			"pubDate":"Tue, 13 Jun 2023 18:16:00 +0900"
-		},
-		{
-			"title":"450년 전통 영국의 &apos;해로우 스쿨&apos; 분교 인천 유치 추진",
-			"originallink":"http:\/\/www.ifm.kr\/news\/362857",
-			"link":"http:\/\/www.ifm.kr\/news\/362857",
-			"description":"개교한 <b>청라<\/b> 달튼 외국인학교가 운영 중입니다. 지난해 유치를 확정한 송도 캘빈매니토바 국제학교는 오는 9월 개교를 앞두고 있어, &apos;해로우 스쿨&apos;은 인천에 4번째로 들어설 국제학교가 되는 겁니다. 송도·<b>청라<\/b>·영종... ",
-			"pubDate":"Tue, 13 Jun 2023 17:58:00 +0900"
-		},
-		{
-			"title":"[OBS 뉴스오늘] &apos;주민 숙원&apos; <b>청라<\/b>소각장 폐쇄 가능할까",
-			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1402367",
-			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1402367",
-			"description":"인천 서구, <b>청라<\/b>소각장 대체할 자원순환센터 추진 &apos;서구청장 공약&apos; <b>청라<\/b>소각장 폐쇄 문제없나 서구 &quot;기술진단결과 타당성 있어야 폐쇄·이전 가능&quot; [질문2] <b>청라<\/b>소각장 내구 연한 2015년…이미 만료 직선거리 2km 내 초중고... ",
-			"pubDate":"Tue, 13 Jun 2023 17:38:00 +0900"
 		}
 	]
 }
