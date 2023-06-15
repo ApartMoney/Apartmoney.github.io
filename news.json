@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 15 Jun 2023 11:30:02 +0900",
-	"total":204365,
+	"lastBuildDate":"Thu, 15 Jun 2023 11:40:02 +0900",
+	"total":204366,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천공동모금회 &apos;일상 속 나눔&apos; 실천 유공자 포상",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=231223",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=231223",
+			"description":"인천본부 대리, 전찬우 인천소방본부 소방공무원, 조병상 서구 <b>청라<\/b>1동 지역사회보장협의체 위원장, 엄형찬 중구 지방사회복지서기, (주)엔비플러스, 포레스트아웃팅스 송도점, 이마트24, (주)해륜개발 등 13명이다.",
+			"pubDate":"Thu, 15 Jun 2023 11:38:00 +0900"
+		},
 		{
 			"title":"호반건설, &apos;호반써밋 인천검단 AB19블록&apos; 15일 견본주택 개관",
 			"originallink":"http:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=112990",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363596816",
 			"description":"버스 요금 조정안은 일반(성인) 요금을 기준으로 시내버스는 250원, 광역버스(직행좌석)는 350원, <b>청라<\/b>~강서 광역간선급행버스(BRT)는 400원을 인상하는 내용이다. 시에 따르면 지난해 기준 인천시 도시철도의 수송원가... ",
 			"pubDate":"Wed, 14 Jun 2023 20:36:00 +0900"
-		},
-		{
-			"title":"&quot;대구시티투어 버스타고 군위군 여행가자&quot;",
-			"originallink":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=518223",
-			"link":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=518223",
-			"description":"군위군 테마코스는 모두 <b>청라<\/b>언덕역에서 출발해 동대구역을 거쳐 군위 유명지를 거치는 일정으로 구성된다. 체험형 코스는 군위 전통 5일장에 맞춰 운영된다. 3·8일 열리는 군위전통시장은 시골 오일장의 정취를 느낄 수... ",
-			"pubDate":"Wed, 14 Jun 2023 18:54:00 +0900"
 		}
 	]
 }
