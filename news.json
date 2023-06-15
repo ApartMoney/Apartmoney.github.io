@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 16 Jun 2023 08:00:02 +0900",
-	"total":204445,
+	"lastBuildDate":"Fri, 16 Jun 2023 08:10:02 +0900",
+	"total":204446,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전국 주요 신문 톱뉴스](16일 조간)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230616015000505?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014005892?sid=004",
+			"description":"현대일보 = &apos;<b>청라<\/b>시티타워&apos; 재추진…LH가 건설 ▲ 강원도민일보 = 민간 단체 보조금 비리 정조준 송곳 감사 초긴장 ▲ 강원일보 = 아파트값 -6,700만원 &apos;눈물의 손절매&apos; 속출 ▲ 경남도민신문 = 진주 문산지구, 국토부 신규... ",
+			"pubDate":"Fri, 16 Jun 2023 08:00:00 +0900"
+		},
 		{
 			"title":"분양가 상승세 지속...신규 분양 시장으로 쏠리는 눈",
 			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=202026",
@@ -47,17 +54,17 @@
 			"pubDate":"Thu, 15 Jun 2023 21:06:00 +0900"
 		},
 		{
-			"title":"공사비 갈등 수년째 표류… &apos;<b>청라<\/b>시티타워&apos; 건립 재추진",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230615010002699",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230615010002699",
-			"description":"공사비 분담금 갈등으로 수년째 표류하고 있는 인천 <b>청라<\/b>시티타워 건립사업 정상화에 속도가 붙을 전망이다.인천경제자유구역청과 한국토지주택공사(LH)는 15일 인천시청에서 <b>청라<\/b>시티타워 건설사업 추진을 위한... ",
-			"pubDate":"Thu, 15 Jun 2023 20:52:00 +0900"
-		},
-		{
 			"title":"&quot;지진위험 정기점검 시나리오별 대응전략 짜야&quot;",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230615010002608",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230615010002608",
 			"description":"특히 인천은 조수간만의 차가 크고 송도·<b>청라<\/b>·영종 등 해안을 매립해 조성된 신도시가 많다. 연구를 주도한 조성윤 인천연구원 안전도시연구센터장은 &quot;인천의 지진 위험성은 포항·부산 등에 비해 상대적으로 낮은... ",
+			"pubDate":"Thu, 15 Jun 2023 20:52:00 +0900"
+		},
+		{
+			"title":"공사비 갈등 수년째 표류… &apos;<b>청라<\/b>시티타워&apos; 건립 재추진",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230615010002699",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230615010002699",
+			"description":"공사비 분담금 갈등으로 수년째 표류하고 있는 인천 <b>청라<\/b>시티타워 건립사업 정상화에 속도가 붙을 전망이다.인천경제자유구역청과 한국토지주택공사(LH)는 15일 인천시청에서 <b>청라<\/b>시티타워 건설사업 추진을 위한... ",
 			"pubDate":"Thu, 15 Jun 2023 20:52:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003108210?sid=102",
 			"description":"사장이 ‘<b>청라<\/b>시티타워 건설 사업 추진을 위한 협약’을 체결했다고 밝혔다. 협약은 민간 사업 시행자를 선정해 추진했던 기존의 사업 방식을 변경해 <b>청라<\/b>시티타워의 사업 주체인 LH가 직접 시공사를 선정해 건설하고... ",
 			"pubDate":"Thu, 15 Jun 2023 17:20:00 +0900"
-		},
-		{
-			"title":"인천시·LH, <b>청라<\/b>시티타워 협약 체결…사업 추진 본격화",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1022288",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1022288",
-			"description":"매일일보 = 이종민 기자  |  <b>청라<\/b>국제도시의 랜드마크인 시티타워 건설 사업이 본격화되고 있다. 인천경제자유구역청은 15일 인천시청에서 유정복 인천시장과 이한준 LH(한국토지주택공사) 사장이 &apos;<b>청라<\/b>시티타워 건설... ",
-			"pubDate":"Thu, 15 Jun 2023 17:04:00 +0900"
 		}
 	]
 }
