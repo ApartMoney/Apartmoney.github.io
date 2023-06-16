@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 16 Jun 2023 09:00:02 +0900",
-	"total":204451,
+	"lastBuildDate":"Fri, 16 Jun 2023 09:10:02 +0900",
+	"total":204452,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시·LH, <b>청라<\/b>시티타워 MOU 체결",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2010201",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2010201",
+			"description":"<b>청라<\/b>국제도시의 랜드마크인 시티타워 건설 사업이 본격화되고 있다. 인천경제자유구역청은 15일 인천시청에서 유정복 인천시장과 이한준 LH(한국토지주택공사) 사장이 &apos;<b>청라<\/b>시티타워 건설 사업 추진을 위한 협약&apos;을... ",
+			"pubDate":"Fri, 16 Jun 2023 09:00:00 +0900"
+		},
 		{
 			"title":"&apos;누락철근, 그때는 맞고 지금은 틀리다&apos; 대우건설 &apos;안전&apos; vs GS건설 &apos;엄벌?&apos;",
 			"originallink":"http:\/\/www.ngonews.kr\/news\/articleView.html?idxno=141880",
@@ -103,17 +110,17 @@
 			"pubDate":"Thu, 15 Jun 2023 20:52:00 +0900"
 		},
 		{
-			"title":"인천 택시 기본요금 내달 4800원으로 인상",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1035871",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1035871",
-			"description":"시는 현재 버스 요금을 ▶시내버스 250원 인상 ▶광역버스(직행좌석) 350원 인상 ▶<b>청라<\/b>~강서 광역간선급행버스(BRT) 400원 인상할 계획이다. 이처럼 시내버스 요금을 올리면서 간선버스는 1천250원→1천500원... ",
-			"pubDate":"Thu, 15 Jun 2023 20:46:00 +0900"
-		},
-		{
 			"title":"LH 높이 448m <b>청라<\/b>시티타워 건설 도맡는다",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1035872",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1035872",
 			"description":"인천시청에서 &apos;인천시-LH <b>청라<\/b>시티타워 사업 추진 협약&apos;을 체결했다. 이 자리에는 김교흥 국회의원과 김진용 인천경제청장도 함께했다. &lt;인천시 제공&gt; <b>청라<\/b>시티타워 건설사업이 가닥을 잡았다. 인천경제자유구역청은... ",
+			"pubDate":"Thu, 15 Jun 2023 20:46:00 +0900"
+		},
+		{
+			"title":"인천 택시 기본요금 내달 4800원으로 인상",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1035871",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1035871",
+			"description":"시는 현재 버스 요금을 ▶시내버스 250원 인상 ▶광역버스(직행좌석) 350원 인상 ▶<b>청라<\/b>~강서 광역간선급행버스(BRT) 400원 인상할 계획이다. 이처럼 시내버스 요금을 올리면서 간선버스는 1천250원→1천500원... ",
 			"pubDate":"Thu, 15 Jun 2023 20:46:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000819999?sid=110",
 			"description":"책상 위에 붙은 &apos;대구광역시 직위표&apos;가 또 바뀐다. 지난해 7월 민선 8기 출범 이후 11개월 사이 벌써 다섯 번째다. 그동안 조직 개편도 4차례나 있었다. 잦은 인사 이동에 제자리를 지킨 국장급 간부들은 극소수다. 대구시가... ",
 			"pubDate":"Thu, 15 Jun 2023 18:03:00 +0900"
-		},
-		{
-			"title":"인천시-LH, <b>청라<\/b>시티타워 사업추진 협약 체결",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=964118",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=964118",
-			"description":"인천경제자유구역청은 15일 시청에서 유정복 시장, 이한준 LH 사장이 &apos;<b>청라<\/b>시티타워 건설 사업 추진을 위한 협약&apos;을 체결했다. [인천시 제공] 인천경제자유구역(IFEZ) <b>청라<\/b>국제도시 랜드마크인 &apos;시티타워&apos; 건설 사업이... ",
-			"pubDate":"Thu, 15 Jun 2023 18:00:00 +0900"
 		}
 	]
 }
