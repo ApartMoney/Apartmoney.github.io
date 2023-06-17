@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Jun 2023 07:40:02 +0900",
-	"total":204713,
+	"lastBuildDate":"Sun, 18 Jun 2023 07:50:03 +0900",
+	"total":204714,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 <b>청라<\/b>동 일대 아파트 정전…1천여세대 불편 겪어",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230618004800065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014008617?sid=102",
+			"description":"18일 오전 3시 30분께 인천시 서구 <b>청라<\/b>동 한 상가 건물과 아파트 단지에 전기 공급이 끊겼다. 정전으로 아파트 1천여 세대가 1시간가량 전기를 사용하지 못해 불편을 겪었다. 한국전력공사 인천본부 등은 긴급 복구 작업을... ",
+			"pubDate":"Sun, 18 Jun 2023 07:43:00 +0900"
+		},
 		{
 			"title":"인천 서구 <b>청라<\/b>동 일대 아파트 정전...4천여 세대 불편",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202306180650398632",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2743679",
 			"description":"유정복 인천광역시장이 16일 시청 대접견실에서 열린 &apos;스타필드 <b>청라<\/b> 비전선포식&apos;에서 정용진 신세계 부회장, 김진용 인천경제자유구역청장과 기념촬영을 하고 있다. 인천경제자유구역청은 16일 &quot; &apos;스타필드 <b>청라<\/b> 비전... ",
 			"pubDate":"Fri, 16 Jun 2023 23:10:00 +0900"
-		},
-		{
-			"title":"인천 스타필드<b>청라<\/b>, 세계 최초 돔구장·복합쇼핑몰 결합 랜드마크로 건립",
-			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202306160127",
-			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202306160127",
-			"description":"인천경제자유구역청은 16일 인천시청에서 세계 최초로 멀티스타디움(돔구장)과 복합쇼핑몰이 결합돼 건립되는 스타필드<b>청라<\/b> 비전 선포식을 개최했다. 스타필드<b>청라<\/b>는 세계 최초로 스포츠 경기와 공연이 1년 내내... ",
-			"pubDate":"Fri, 16 Jun 2023 22:42:00 +0900"
 		}
 	]
 }
