@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Jun 2023 06:50:02 +0900",
-	"total":204712,
+	"lastBuildDate":"Sun, 18 Jun 2023 07:00:03 +0900",
+	"total":204713,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구 <b>청라<\/b>동 일대 아파트 정전...4천여 세대 불편",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202306180650398632",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001898552?sid=102",
+			"description":"오늘(18일) 새벽 3시 50분쯤 인천시 서구 <b>청라<\/b>동 일대 아파트에서 전력 공급이 끊겼습니다. 10여 분 만에 정전이 복구된 아파트도 있었지만, 일부 아파트는 1시간 넘게 정전이 지속하는 등 일대 주민 4천여 세대가 불편을... ",
+			"pubDate":"Sun, 18 Jun 2023 06:50:00 +0900"
+		},
 		{
 			"title":"&apos;생산유발 3.6조&apos; 스타필드 <b>청라<\/b>… &quot;세계 최초·최고의 랜드마크로&quot;",
 			"originallink":"http:\/\/moneys.mt.co.kr\/news\/mwView.php?no=2023061616325880530",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202306160127",
 			"description":"인천경제자유구역청은 16일 인천시청에서 세계 최초로 멀티스타디움(돔구장)과 복합쇼핑몰이 결합돼 건립되는 스타필드<b>청라<\/b> 비전 선포식을 개최했다. 스타필드<b>청라<\/b>는 세계 최초로 스포츠 경기와 공연이 1년 내내... ",
 			"pubDate":"Fri, 16 Jun 2023 22:42:00 +0900"
-		},
-		{
-			"title":"[아주경제 오늘의 뉴스 종합] 군, &apos;북한 우주발사체&apos; 인양 성공…한·미 공동...",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20230616221031669",
-			"link":"https:\/\/www.ajunews.com\/view\/20230616221031669",
-			"description":"정용진 신세계 부회장 &quot;스타필드 <b>청라<\/b>, 세계 최고 랜드마크로 만들 것&quot; 정용진 신세계그룹 부회장이 스타필드 <b>청라<\/b>를 세계 최고 랜드마크 시설로 조성하겠다는 포부를 밝혔다. 정 부회장은 16일 인천시청에서 열린... ",
-			"pubDate":"Fri, 16 Jun 2023 22:14:00 +0900"
 		}
 	]
 }
