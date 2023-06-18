@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Jun 2023 22:30:02 +0900",
-	"total":204744,
+	"lastBuildDate":"Sun, 18 Jun 2023 22:40:02 +0900",
+	"total":204745,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울 올해 첫 폭염특보...비상 대책 가동",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202306182228565418",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001898708?sid=102",
+			"description":"[문경훈 \/ 인천 <b>청라<\/b>동 : 가만히 있어도 더워요. 집에서는 얼마나 더울지 모르겠는데, 밖에서도 조금만 걷거나 그러기만 해도 더워요. 땀이 나고.] 서울 한낮 기온은 32.6도. 서울 전역에 올해 첫 폭염주의보가 내려졌습니다.... ",
+			"pubDate":"Sun, 18 Jun 2023 22:28:00 +0900"
+		},
 		{
 			"title":"[DD 주간브리핑] 美 국무장관, 5년만에 中 방문 기류바뀌나…삼성전자 DS·DX...",
 			"originallink":"https:\/\/www.ddaily.co.kr\/page\/view\/2023061709041402374",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=202257",
 			"description":"최근 신세계그룹은 &apos;스타필드 <b>청라<\/b> 비전선포식&apos;을 열고 세계 최초로 돔구장(멀티스타디움)과 복합쇼핑몰을 결합한 &apos;스타필드 <b>청라<\/b>&apos;의 청사진을 발표했다. 국내 최초, 최대 규모의 복합쇼핑몰 스타필드를 개발 운영 중인... ",
 			"pubDate":"Sun, 18 Jun 2023 08:44:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>동 일대 한때 아파트 단지 정전",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007233040&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001066233?sid=102",
-			"description":"오늘(18일) 새벽 3시 반쯤 인천 서구 <b>청라<\/b>동 한 상가 건물과 1천여 세대 아파트 단지에서 약 1시간 동안 전기 공급이 끊겼습니다. 한국전력공사 인천본부 등이 긴급 복구 작업을 벌여 상가 건물은 약 2분 만에 전기 공급이... ",
-			"pubDate":"Sun, 18 Jun 2023 07:52:00 +0900"
 		}
 	]
 }
