@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 19 Jun 2023 08:00:02 +0900",
-	"total":204750,
+	"lastBuildDate":"Mon, 19 Jun 2023 08:10:02 +0900",
+	"total":204751,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전국 주요 신문 톱뉴스](19일 조간)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230619009100505?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014009889?sid=004",
+			"description":"들어설 &apos;<b>청라<\/b> 스타필드&apos; 여가 문화 새 장 연다 ▲ 신아일보 = 尹 &apos;공정 수능&apos; 발언에 교육계 시끌…난이도 변화 주목 ▲ 인천일보 = 인천지역 의석 추가 부정론 ▲ 일간경기 = 도의회 &apos;경기 국제공항&apos; 조례 제동 ▲ 중부일보... ",
+			"pubDate":"Mon, 19 Jun 2023 08:00:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>국제도시 호남향우회 환경정화활동 나서",
 			"originallink":"http:\/\/www.kdpress.co.kr\/news\/articleView.html?idxno=120601",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/658\/0000044055?sid=101",
 			"description":"신세계그룹은 초대형 복합쇼핑몰 스타필드와 돔구장을 결합한 ‘스타필드 <b>청라<\/b>’ 건설 사업을 본격화한다. 스타필드 <b>청라<\/b>는 스포츠 경기와 공연이 연중 진행되고 여기에 초대형 복합쇼핑몰을 결합한 개념이다.... ",
 			"pubDate":"Sun, 18 Jun 2023 14:39:00 +0900"
-		},
-		{
-			"title":"서구 <b>청라<\/b>동 일대 아파트 정전…1천여세대 큰 불편",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1719068",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1719068",
-			"description":"18일 오전 3시 30분께 인천시 서구 <b>청라<\/b>동 한 상가 건물을 비롯한 1천여 세대 아파트 단지에 전기 공급이 끊겨 1시간가량 전기를 사용하지 못해 큰 불편을 겪었다. 한국전력공사 인천본부에 따르면 한전은 긴급 복구 작업을... ",
-			"pubDate":"Sun, 18 Jun 2023 14:00:00 +0900"
 		}
 	]
 }
