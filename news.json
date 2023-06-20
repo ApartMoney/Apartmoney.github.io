@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 21 Jun 2023 03:00:02 +0900",
-	"total":204823,
+	"lastBuildDate":"Wed, 21 Jun 2023 03:10:03 +0900",
+	"total":204824,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천 外",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20230620\/119860732\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003504828?sid=102",
+			"description":"7월 1일 오후 1시 반∼3시 <b>청라<\/b>호수도서관 다목적강당. □인문 교실=‘2023 인문 고전 토의 세미나’ 참가자 15명. 7월 4일∼8월 1일 매주 화요일 오후 2∼4시 미추홀도서관 평생교육실. □로스쿨 강연=‘청소년... ",
+			"pubDate":"Wed, 21 Jun 2023 03:05:00 +0900"
+		},
 		{
 			"title":"인천시, &apos;인천고등법원 유치&apos; 염원…시민사회단체로 확산",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=548738",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/dealsite.co.kr\/articles\/105539",
 			"description":"청량리역 한양수자인 그라시엘(3월 입주 시작), 순천 한양수자인 디에스티지(23년 3월 준공), 의정부 고산 수자인 디에스티지(23년 5월 준공), <b>청라<\/b> 한양수자인 디에스틴(2026년 준공) 등이 대표적이다. 한양 관계자는... ",
 			"pubDate":"Tue, 20 Jun 2023 09:44:00 +0900"
-		},
-		{
-			"title":"인천고법유치추진위·인천시민연합 &apos;100만 서명운동&apos; 협약",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=231355",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=231355",
-			"description":"인천시민연합은 영종시민연합과 <b>청라<\/b>시민연합, 루원시티를 사랑하는 사람들의 모임, 계양시민연합, 검암리조트연합, 검단원당지구연합, 인천시민운동연합, GYD예타면제촉구시민연합 등 인천지역 시민단체 8개로 구성돼... ",
-			"pubDate":"Tue, 20 Jun 2023 09:40:00 +0900"
 		}
 	]
 }
