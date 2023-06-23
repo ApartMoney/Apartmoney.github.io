@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 23 Jun 2023 13:20:02 +0900",
-	"total":205077,
+	"lastBuildDate":"Fri, 23 Jun 2023 13:30:02 +0900",
+	"total":205078,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"경찰, 인천경제청·서구청 압수수색…간부 공무원 5명 뇌물 혐의 포착",
+			"originallink":"http:\/\/www.ifm.kr\/news\/363635",
+			"link":"http:\/\/www.ifm.kr\/news\/363635",
+			"description":"이들은 모두 팀장급 이상 간부 공무원이며, 2명은 인천경제청 영종<b>청라<\/b>사업과 건축 관련분야에서 다른 3명도 서구청의 건설관련 부서에서 근무하고 있는 것으로 알려졌습니다. 경찰은 이들이 건설업체에 편의를 봐주는... ",
+			"pubDate":"Fri, 23 Jun 2023 13:26:00 +0900"
+		},
 		{
 			"title":"[CEO 풍향계] &apos;수리기사 변신&apos; 조주완…&apos;랜드마크 건설&apos; 정용진",
 			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20230623007600641\/?input=1825m",
@@ -117,17 +124,17 @@
 			"pubDate":"Fri, 23 Jun 2023 10:04:00 +0900"
 		},
 		{
-			"title":"[뒤끝토크] &apos;도쿄돔&apos; 있는데 &apos;스타필드 <b>청라<\/b>&apos;가 세계 최초(?)",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20230621500310",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20230621500310",
-			"description":"지난 16일 오후 인천광역시청에서 열린 &apos;스타필드 <b>청라<\/b> 비전선포식&apos;에서 정용진 신세계그룹 부회장이 스타필드 <b>청라<\/b>에 대한 비전을 발표하는 모습. (사진=신세계그룹) 신세계그룹이 지난 16일 ‘스타필드 <b>청라<\/b>’의... ",
-			"pubDate":"Fri, 23 Jun 2023 10:02:00 +0900"
-		},
-		{
 			"title":"인천 <b>청라<\/b> 첨단산업지구, &apos;<b>청라<\/b> IHP 이지움&apos; 오피스텔 독점상가 공급",
 			"originallink":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=255155",
 			"link":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=255155",
 			"description":"인천 서구 주거형 오피스텔 &apos;<b>청라<\/b> IHP 이지움&apos;에서 시행사 1차 보유분에 대한 특별 분양을 진행하고 있다. &apos;<b>청라<\/b> IHP 이지움&apos;은 인천 서구 산업 단지 중에서도 중심인 상업단지에 위치해 있으며, 기존 1차 공급 당시... ",
+			"pubDate":"Fri, 23 Jun 2023 10:02:00 +0900"
+		},
+		{
+			"title":"[뒤끝토크] &apos;도쿄돔&apos; 있는데 &apos;스타필드 <b>청라<\/b>&apos;가 세계 최초(?)",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20230621500310",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20230621500310",
+			"description":"지난 16일 오후 인천광역시청에서 열린 &apos;스타필드 <b>청라<\/b> 비전선포식&apos;에서 정용진 신세계그룹 부회장이 스타필드 <b>청라<\/b>에 대한 비전을 발표하는 모습. (사진=신세계그룹) 신세계그룹이 지난 16일 ‘스타필드 <b>청라<\/b>’의... ",
 			"pubDate":"Fri, 23 Jun 2023 10:02:00 +0900"
 		},
 		{
@@ -173,16 +180,16 @@
 			"pubDate":"Fri, 23 Jun 2023 09:55:00 +0900"
 		},
 		{
-			"title":"[포토] 수비를 피해서 쏴야해",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87488",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069419",
+			"title":"[포토] 블록슛 위로 쏴야지",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87489",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069420",
 			"description":"2023 KOREA BASKETBALL CLUB배 상반기 농구대회를 개최했다. 이 대회는 KOREA 농구교실과 <b>청라<\/b> KBC 농구교실이 주최와 주관을 맡았고, 인천시서구농구협회와 루키, 루키브코, 몰텐, 스매싱스포츠가 후원했다.",
 			"pubDate":"Fri, 23 Jun 2023 09:54:00 +0900"
 		},
 		{
-			"title":"[포토] 블록슛 위로 쏴야지",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87489",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069420",
+			"title":"[포토] 수비를 피해서 쏴야해",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87488",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069419",
 			"description":"2023 KOREA BASKETBALL CLUB배 상반기 농구대회를 개최했다. 이 대회는 KOREA 농구교실과 <b>청라<\/b> KBC 농구교실이 주최와 주관을 맡았고, 인천시서구농구협회와 루키, 루키브코, 몰텐, 스매싱스포츠가 후원했다.",
 			"pubDate":"Fri, 23 Jun 2023 09:54:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069417",
 			"description":"2023 KOREA BASKETBALL CLUB배 상반기 농구대회를 개최했다. 이 대회는 KOREA 농구교실과 <b>청라<\/b> KBC 농구교실이 주최와 주관을 맡았고, 인천시서구농구협회와 루키, 루키브코, 몰텐, 스매싱스포츠가 후원했다.",
 			"pubDate":"Fri, 23 Jun 2023 09:52:00 +0900"
-		},
-		{
-			"title":"[포토] 슛할까 패스할까",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87484",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069415",
-			"description":"2023 KOREA BASKETBALL CLUB배 상반기 농구대회를 개최했다. 이 대회는 KOREA 농구교실과 <b>청라<\/b> KBC 농구교실이 주최와 주관을 맡았고, 인천시서구농구협회와 루키, 루키브코, 몰텐, 스매싱스포츠가 후원했다.",
-			"pubDate":"Fri, 23 Jun 2023 09:50:00 +0900"
 		}
 	]
 }
