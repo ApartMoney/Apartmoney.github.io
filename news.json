@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 23 Jun 2023 14:50:02 +0900",
-	"total":205081,
+	"lastBuildDate":"Fri, 23 Jun 2023 15:00:02 +0900",
+	"total":205082,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 명칭 없는 교차로에 이름 부여···&apos;교차로명&apos; 정비 나선다",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1024737",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1024737",
+			"description":"서구는 검단신도시 1단계, <b>청라<\/b> 지역에 대해 우선 사업을 추진하며 향후 원도심 주변 지역 등으로 교차로 명칭 제정을 확대해 나갈 예정이다. 서구는 교차로의 이름을 교차로가 위치한 옛 지명, 도로명 주소 등을 참고하고... ",
+			"pubDate":"Fri, 23 Jun 2023 14:58:00 +0900"
+		},
 		{
 			"title":"인천시, 글로벌 바이오캠퍼스 유치 1차 통과...내주 현장평가",
 			"originallink":"https:\/\/www.hankyung.com\/society\/article\/202306239857h",
@@ -82,16 +89,16 @@
 			"pubDate":"Fri, 23 Jun 2023 10:16:00 +0900"
 		},
 		{
-			"title":"[포토] 우승의 기쁨을 부모님과 함께",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87503",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069432",
+			"title":"[포토] 우리가 챔피언이야",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87502",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069431",
 			"description":"2023 KOREA BASKETBALL CLUB배 상반기 농구대회를 개최했다. 이 대회는 KOREA 농구교실과 <b>청라<\/b> KBC 농구교실이 주최와 주관을 맡았고, 인천시서구농구협회와 루키, 루키브코, 몰텐, 스매싱스포츠가 후원했다.",
 			"pubDate":"Fri, 23 Jun 2023 10:13:00 +0900"
 		},
 		{
-			"title":"[포토] 우리가 챔피언이야",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87502",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069431",
+			"title":"[포토] 우승의 기쁨을 부모님과 함께",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87503",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069432",
 			"description":"2023 KOREA BASKETBALL CLUB배 상반기 농구대회를 개최했다. 이 대회는 KOREA 농구교실과 <b>청라<\/b> KBC 농구교실이 주최와 주관을 맡았고, 인천시서구농구협회와 루키, 루키브코, 몰텐, 스매싱스포츠가 후원했다.",
 			"pubDate":"Fri, 23 Jun 2023 10:13:00 +0900"
 		},
@@ -204,13 +211,6 @@
 			"title":"[포토] 블록슛 위로 쏴야지",
 			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87489",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069420",
-			"description":"2023 KOREA BASKETBALL CLUB배 상반기 농구대회를 개최했다. 이 대회는 KOREA 농구교실과 <b>청라<\/b> KBC 농구교실이 주최와 주관을 맡았고, 인천시서구농구협회와 루키, 루키브코, 몰텐, 스매싱스포츠가 후원했다.",
-			"pubDate":"Fri, 23 Jun 2023 09:54:00 +0900"
-		},
-		{
-			"title":"[포토] 수비를 피해서 쏴야해",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87488",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069419",
 			"description":"2023 KOREA BASKETBALL CLUB배 상반기 농구대회를 개최했다. 이 대회는 KOREA 농구교실과 <b>청라<\/b> KBC 농구교실이 주최와 주관을 맡았고, 인천시서구농구협회와 루키, 루키브코, 몰텐, 스매싱스포츠가 후원했다.",
 			"pubDate":"Fri, 23 Jun 2023 09:54:00 +0900"
 		}
