@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 24 Jun 2023 11:00:02 +0900",
-	"total":205093,
+	"lastBuildDate":"Sat, 24 Jun 2023 11:10:02 +0900",
+	"total":205094,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"글로벌·혁신·미래 ‘3두마차’ 견인... 희망 새바람, 그리고 미완의 과제 [...",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20230622580085",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000014504?sid=100",
+			"description":"유정복 인천시장이 시청 대접견실에서 열린 &apos;인천광역시 - 한국토지주택공사 <b>청라<\/b>시티타워 사업추진 협약 체결식&apos;에서 협약서에 이한준 한국토지주택공사 사장과 협약서에 서명을 하고 있다. 시 제공 ■ <b>청라<\/b>시티타워... ",
+			"pubDate":"Sat, 24 Jun 2023 11:02:00 +0900"
+		},
 		{
 			"title":"전국 자치구 인구 2위 &apos;인천 서구&apos; 인구 유입에 부동산도 강세",
 			"originallink":"http:\/\/www.gpkorea.com\/news\/articleView.html?idxno=102261",
@@ -166,16 +173,16 @@
 			"pubDate":"Fri, 23 Jun 2023 10:16:00 +0900"
 		},
 		{
-			"title":"[포토] 우리가 챔피언이야",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87502",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069431",
+			"title":"[포토] 우승의 기쁨을 부모님과 함께",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87503",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069432",
 			"description":"2023 KOREA BASKETBALL CLUB배 상반기 농구대회를 개최했다. 이 대회는 KOREA 농구교실과 <b>청라<\/b> KBC 농구교실이 주최와 주관을 맡았고, 인천시서구농구협회와 루키, 루키브코, 몰텐, 스매싱스포츠가 후원했다.",
 			"pubDate":"Fri, 23 Jun 2023 10:13:00 +0900"
 		},
 		{
-			"title":"[포토] 우승의 기쁨을 부모님과 함께",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87503",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069432",
+			"title":"[포토] 우리가 챔피언이야",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87502",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069431",
 			"description":"2023 KOREA BASKETBALL CLUB배 상반기 농구대회를 개최했다. 이 대회는 KOREA 농구교실과 <b>청라<\/b> KBC 농구교실이 주최와 주관을 맡았고, 인천시서구농구협회와 루키, 루키브코, 몰텐, 스매싱스포츠가 후원했다.",
 			"pubDate":"Fri, 23 Jun 2023 10:13:00 +0900"
 		},
@@ -194,13 +201,6 @@
 			"pubDate":"Fri, 23 Jun 2023 10:10:00 +0900"
 		},
 		{
-			"title":"[포토] 떨리는 조추첨",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87498",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069428",
-			"description":"2023 KOREA BASKETBALL CLUB배 상반기 농구대회를 개최했다. 이 대회는 KOREA 농구교실과 <b>청라<\/b> KBC 농구교실이 주최와 주관을 맡았고, 인천시서구농구협회와 루키, 루키브코, 몰텐, 스매싱스포츠가 후원했다.",
-			"pubDate":"Fri, 23 Jun 2023 10:08:00 +0900"
-		},
-		{
 			"title":"[포토] 준우승의 기쁨",
 			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87499",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069429",
@@ -208,11 +208,11 @@
 			"pubDate":"Fri, 23 Jun 2023 10:08:00 +0900"
 		},
 		{
-			"title":"[포토] 수비가 붙어도 여유만만",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87496",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069427",
+			"title":"[포토] 떨리는 조추첨",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=87498",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069428",
 			"description":"2023 KOREA BASKETBALL CLUB배 상반기 농구대회를 개최했다. 이 대회는 KOREA 농구교실과 <b>청라<\/b> KBC 농구교실이 주최와 주관을 맡았고, 인천시서구농구협회와 루키, 루키브코, 몰텐, 스매싱스포츠가 후원했다.",
-			"pubDate":"Fri, 23 Jun 2023 10:06:00 +0900"
+			"pubDate":"Fri, 23 Jun 2023 10:08:00 +0900"
 		}
 	]
 }
