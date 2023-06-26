@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 26 Jun 2023 16:00:02 +0900",
-	"total":205149,
+	"lastBuildDate":"Mon, 26 Jun 2023 16:10:02 +0900",
+	"total":205150,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[서평] 삶을 반추하면서 얻은 깨달음을 토로하다",
+			"originallink":"http:\/\/www.datanews.co.kr\/news\/article.html?no=128046",
+			"link":"http:\/\/www.datanews.co.kr\/news\/article.html?no=128046",
+			"description":"너머 <b>청라<\/b>에 가본 적이 없다 두 시는 마치 한 사람이 쓴 글 같다. 아마 두 사람이 살아온 시대는 조금 차이가 있어도 시골의 정서가 닮았기 때문일 것이다. 이문구(1941~2003) 소설가의 고향은 보령시 대관동(대천1동)이다.... ",
+			"pubDate":"Mon, 26 Jun 2023 16:02:00 +0900"
+		},
 		{
 			"title":"&apos;자연, 문화, 감성 다 담았다&apos; 대한민국 첫 리조트 도시 &apos;검암역 로열파크씨티...",
 			"originallink":"http:\/\/www.newskr.kr\/news\/articleView.html?idxno=91058",
@@ -166,17 +173,17 @@
 			"pubDate":"Mon, 26 Jun 2023 11:12:00 +0900"
 		},
 		{
-			"title":"인하대 윤동혁 건축학과 석사과정생, 대한건축학회 춘계학술발표대회 3년 연속...",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202306261049434910867",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202306261049434910867",
-			"description":"인천 <b>청라<\/b>국제도시의 아파트 단지 내 국공립 어린이집을 대상으로 친환경 시뮬레이션을 통한 빛 환경을 분석하고, 최적화 대안을 제시했다. 윤동혁 학생은 이번 대한건축학회 춘계학술발표대회에서 수상하면서 3년... ",
-			"pubDate":"Mon, 26 Jun 2023 11:02:00 +0900"
-		},
-		{
 			"title":"윤동혁 인하대 건축학과 석사과정생, 춘계학술대회 3년 연속 수상",
 			"originallink":"https:\/\/www.news1.kr\/articles\/5088258",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006888166?sid=102",
 			"description":"인천 <b>청라<\/b>국제도시의 아파트단지 내 국공립 어린이집을 대상으로 친환경 시뮬레이션을 통한 빛 환경을 분석하고, 최적화 대안을 제시했다. 윤동혁씨는 이번 대한건축학회 춘계학술발표대회에서 수상하면서 3년 연속... ",
+			"pubDate":"Mon, 26 Jun 2023 11:02:00 +0900"
+		},
+		{
+			"title":"인하대 윤동혁 건축학과 석사과정생, 대한건축학회 춘계학술발표대회 3년 연속...",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202306261049434910867",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202306261049434910867",
+			"description":"인천 <b>청라<\/b>국제도시의 아파트 단지 내 국공립 어린이집을 대상으로 친환경 시뮬레이션을 통한 빛 환경을 분석하고, 최적화 대안을 제시했다. 윤동혁 학생은 이번 대한건축학회 춘계학술발표대회에서 수상하면서 3년... ",
 			"pubDate":"Mon, 26 Jun 2023 11:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1028484",
 			"description":"인천 <b>청라<\/b>국제도시의 아파트 단지 내 국공립 어린이집을 대상으로 친환경 시뮬레이션을 통한 빛 환경을 분석하고, 최적화 대안을 제시했다. 윤동혁 학생은 이번 대한건축학회 춘계학술발표대회에서 수상하면서 3년... ",
 			"pubDate":"Mon, 26 Jun 2023 10:42:00 +0900"
-		},
-		{
-			"title":"&apos;디어브로우&apos;, 2023 올해의고객만족브랜드대상 1위 수상",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1037201",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1037201",
-			"description":"디어브로우는 인천 서구 <b>청라<\/b>에 위치하고 있는 매장으로, 속눈썸펌 뿐만이 아니라 눈썹문신과 아이라인, 입술 및 헤어라인, 튼살커버 등 다양한 시술을 제공하고 있다. 특히 반영구와 왁싱 그리고 튼살커버 수강 교육을... ",
-			"pubDate":"Mon, 26 Jun 2023 10:38:00 +0900"
 		}
 	]
 }
