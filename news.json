@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 28 Jun 2023 23:30:03 +0900",
-	"total":205223,
+	"lastBuildDate":"Wed, 28 Jun 2023 23:40:02 +0900",
+	"total":205224,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구 동북부 잇는 ‘도시철도 4호선’ 2030년 개통 예정",
+			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=433149&part_idx=289",
+			"link":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=433149&part_idx=289",
+			"description":"아울러, 환승역 수가 기존 3개(명덕역 1-3호선, <b>청라<\/b>언덕역 2-3호선, 반월당역 1-2호선)에서 6개(수성구민운동장역 3-4호선, 범어역 2-4호선, 동대구역 1-4호선)로 확대됨에 따라 이동시간 단축 등으로 대중교통 이용... ",
+			"pubDate":"Wed, 28 Jun 2023 23:34:00 +0900"
+		},
 		{
 			"title":"강범석 인천 서구청장 “인구 60만 자신감… 혁신 도시 만들것”",
 			"originallink":"http:\/\/www.segye.com\/content\/html\/2023\/06\/28\/20230628524866.html?OutUrl=naver",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2135328",
 			"description":"기존 환승역은 명덕역(1-3호선)·<b>청라<\/b>언덕역(2-3호선)·반월당역(1-2호선)이었으나 수성구민운동장역(3-4호선)·범어역(2-4호선)·동대구역(1-4호선)이 추가됐다. 기본계획안은 7월 중 시의회 의견을 들은 뒤 국토교통부에... ",
 			"pubDate":"Wed, 28 Jun 2023 11:42:00 +0900"
-		},
-		{
-			"title":"대구시, 도시철도 4호선 기본계획 확정…2030년 개통 목표",
-			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=425287",
-			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=425287",
-			"description":"기존 환승역은 명덕역과 <b>청라<\/b>언덕역, 반월당역이었으나 기본계획안에서는 수성구민운동장역과 범어역, 동대구역이 추가됐다. 대구도시철도 4호선 노선도. 대구시 제공 도시철도 노선 계획과 역사에 관해서는... ",
-			"pubDate":"Wed, 28 Jun 2023 11:06:00 +0900"
 		}
 	]
 }
