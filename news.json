@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 28 Jun 2023 21:50:02 +0900",
-	"total":205221,
+	"lastBuildDate":"Wed, 28 Jun 2023 22:00:03 +0900",
+	"total":205222,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구 4호선 2030년 개통…차량기지, 도축장 부지로",
+			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=425423",
+			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=425423",
+			"description":"기존 환승역은 명덕역과 <b>청라<\/b>언덕역, 반월당역이었으나 기본계획안에서는 수성구민운동장역과 범어역, 동대구역이 추가됐다. 도시철도 노선 계획과 역사에 관해서는 지난 3월 발표했던 검단공단로를 통과하는 기존... ",
+			"pubDate":"Wed, 28 Jun 2023 21:54:00 +0900"
+		},
 		{
 			"title":"인천서부산업단지관리공단-가람 공단 환경 개선·현장상담 등 협력",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1037812",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/241\/0003284592?sid=101",
 			"description":"주요 사업지를 살펴보면 파주 운정, 고양 삼송, 인천 <b>청라<\/b>, 경기 의왕 등 수도권에 집중돼 있다. 최근 2021년 10월 충남 ‘라피아노 천안아산’을 시작으로 대전 ‘대전둔산 주상복합 오피스텔’, 부산 ‘부산온천... ",
 			"pubDate":"Wed, 28 Jun 2023 10:51:00 +0900"
-		},
-		{
-			"title":"대구 도시철도 4호선 2030년 개통…차량기지로 도축장 부지 확정",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5967139",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003785009?sid=102",
-			"description":"환승역은 명덕역(1-3호선), <b>청라<\/b>언덕역(2-3호선), 반월당역(1-2호선) 등 기존 3개에서 수성구민운동장역(3-4호선), 범어역(2-4호선), 동대구역(1-4호선)이 추가돼 모두 6개로 확대된다. 차량 형식은 현장실사, 제작사 설명회... ",
-			"pubDate":"Wed, 28 Jun 2023 10:32:00 +0900"
 		}
 	]
 }
