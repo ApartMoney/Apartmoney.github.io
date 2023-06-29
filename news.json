@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Jun 2023 20:20:02 +0900",
-	"total":205332,
+	"lastBuildDate":"Thu, 29 Jun 2023 20:30:02 +0900",
+	"total":205333,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사]충남 보령시",
+			"originallink":"https:\/\/www.news1.kr\/articles\/5093425",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006898003?sid=102",
+			"description":"이미화 △경로장애인과장 고준웅 △열린민원과장 서우덕 △환경보호과장 김건호 △보건행정과장 조필행 △주포면장 최태식 △<b>청라<\/b>면장 최윤희 △보령축제관광재단 오경철(직무파견) △자치행정과 김중구(휴직)",
+			"pubDate":"Thu, 29 Jun 2023 20:26:00 +0900"
+		},
 		{
 			"title":"김교흥 국회의원, 행정안전부 특별교부세 25억원 확보",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=405345",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014035333?sid=102",
 			"description":"경로장애인과장 고준웅 ▲ 열린민원과장 서우덕 ▲ 환경보호과장 김건호 ▲ 보건행정과장 조필행 ▲ 주포면장 최태식 ▲ <b>청라<\/b>면장 최윤희 ▲ 보령축제관광재단 오경철(직무파견) ▲ 자치행정과 김중구(휴직) (보령=연합뉴스)",
 			"pubDate":"Thu, 29 Jun 2023 17:09:00 +0900"
-		},
-		{
-			"title":"인천 주민단체들 “‘막말 논란’ 신성영 시의원 윤리위 회부해야”",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=753931",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=753931",
-			"description":"이번 성명에는 검단주민총연합회, 비법인사단 올댓송도, 송도시민총연합회, <b>청라<\/b>국제까페, 서창지구자치연합, 루원총연합회, 영종국제도시총연합회, <b>청라<\/b>미래연합회, 오류지구연합회, 수도권매립지종료주민대책위원회... ",
-			"pubDate":"Thu, 29 Jun 2023 17:08:00 +0900"
 		}
 	]
 }
