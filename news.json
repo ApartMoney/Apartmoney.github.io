@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Jun 2023 19:00:03 +0900",
-	"total":205328,
+	"lastBuildDate":"Thu, 29 Jun 2023 19:10:02 +0900",
+	"total":205329,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"오늘의 인사 종합",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03404646635646640",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005519727?sid=102",
+			"description":"최태식 △<b>청라<\/b>면장 최윤희 △보령축제관광재단 오경철(직무파견) △자치행정과 김중구(휴직) ●경상북도 경산시 &lt;4급&gt; △기획조정국장 김흥수 △행정지원국장 이병호 △맑은물사업단장 직무대리 조순구 ●경상남도... ",
+			"pubDate":"Thu, 29 Jun 2023 19:00:00 +0900"
+		},
 		{
 			"title":"인천시, 7호선 <b>청라<\/b>연장 개통 1년2개월 연기…야당 반발",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03398086635646640",
@@ -47,17 +54,17 @@
 			"pubDate":"Thu, 29 Jun 2023 18:00:00 +0900"
 		},
 		{
-			"title":"인천총연합회, 인천고등법원 유치 동참",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1200606",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1200606",
-			"description":"이번에 추진위와 협약을 맺은 인천총연합회는 송도시민총연합회, 영종국제도시 총연합회, 검단주민총연합회, <b>청라<\/b>미래연합회 등 12개 단체로 구성돼 총 22만명의 회원을 보유한 지역연대조직이다. 앞서 추진위는... ",
-			"pubDate":"Thu, 29 Jun 2023 17:58:00 +0900"
-		},
-		{
 			"title":"인천 서구지역 광역·기초의원들, 인천경제청으로부터 7호선 <b>청라<\/b>연장선 2027...",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1200610",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1200610",
 			"description":"7호선 <b>청라<\/b>국제도시 연장선 추가 역사 신설&apos;과 관련, 공사 지연 없이 오는 2027년 말까지 개통하겠다는 인천경제자유구역청의 답변을 받아냈다. 29일 인천경제청 등에 따르면 지난해 초 공사에 착공한 <b>청라<\/b>연장선... ",
+			"pubDate":"Thu, 29 Jun 2023 17:58:00 +0900"
+		},
+		{
+			"title":"인천총연합회, 인천고등법원 유치 동참",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1200606",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1200606",
+			"description":"이번에 추진위와 협약을 맺은 인천총연합회는 송도시민총연합회, 영종국제도시 총연합회, 검단주민총연합회, <b>청라<\/b>미래연합회 등 12개 단체로 구성돼 총 22만명의 회원을 보유한 지역연대조직이다. 앞서 추진위는... ",
 			"pubDate":"Thu, 29 Jun 2023 17:58:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230629010008720",
 			"description":"인천경제청 정창진 영종<b>청라<\/b>기반과장은 “해안 둘레길 조성을 계기로 영종진 공원이 시민들의 안전하고 여유로운 힐링 공간으로 자리잡을 것으로 기대한다”고 밝혔다. 인천= 인천경제청 시민들의 여유로운 힐링공간... ",
 			"pubDate":"Thu, 29 Jun 2023 16:56:00 +0900"
-		},
-		{
-			"title":"[인사] 충남 보령시, 4급 승진 김구연 외",
-			"originallink":"https:\/\/cc.newdaily.co.kr\/site\/data\/html\/2023\/06\/29\/2023062900283.html",
-			"link":"https:\/\/cc.newdaily.co.kr\/site\/data\/html\/2023\/06\/29\/2023062900283.html",
-			"description":"최태식 △<b>청라<\/b>면장 최윤희 △보령축제관광재단 오경철(직무파견) △자치행정과 김중구(휴직) ◇6급 승진... 유정아 △<b>청라<\/b>면 오향희 △남포면 이랑 △남포면 박의석 △주산면 구소영 △주산면 정용희 △대천1동 김혜영... ",
-			"pubDate":"Thu, 29 Jun 2023 16:52:00 +0900"
 		}
 	]
 }
