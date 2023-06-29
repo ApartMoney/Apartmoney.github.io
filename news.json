@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Jun 2023 18:10:02 +0900",
-	"total":205324,
+	"lastBuildDate":"Thu, 29 Jun 2023 18:20:02 +0900",
+	"total":205325,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 경기 시흥시, 한국무역보험공사, 충남 보령시",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=319679",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=319679",
+			"description":"이미화 △경로장애인과장 고준웅 △열린민원과장 서우덕 △환경보호과장 김건호 △보건행정과장 조필행 △주포면장 최태식 △<b>청라<\/b>면장 최윤희 △보령축제관광재단 오경철(직무파견) △자치행정과 김중구(휴직)",
+			"pubDate":"Thu, 29 Jun 2023 18:16:00 +0900"
+		},
 		{
 			"title":"檢 “7000억원대 부당이득” vs 라덕연 측 “오해받을 지시한 적은 있지만…”",
 			"originallink":"http:\/\/www.segye.com\/content\/html\/2023\/06\/29\/20230629520026.html?OutUrl=naver",
@@ -145,17 +152,17 @@
 			"pubDate":"Thu, 29 Jun 2023 17:10:00 +0900"
 		},
 		{
-			"title":"[인사] 충남 보령시",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230629156400063?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014035333?sid=102",
-			"description":"경로장애인과장 고준웅 ▲ 열린민원과장 서우덕 ▲ 환경보호과장 김건호 ▲ 보건행정과장 조필행 ▲ 주포면장 최태식 ▲ <b>청라<\/b>면장 최윤희 ▲ 보령축제관광재단 오경철(직무파견) ▲ 자치행정과 김중구(휴직) (보령=연합뉴스)",
-			"pubDate":"Thu, 29 Jun 2023 17:09:00 +0900"
-		},
-		{
 			"title":"[인사]보령시",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230629_0002358105&cID=10807&pID=10800",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011944396?sid=102",
 			"description":"이미화 ▲경로장애인과장 고준웅 ▲열린민원과장 서우덕 ▲환경보호과장 김건호 ▲보건행정과장 조필행 ▲주포면장 최태식 ▲<b>청라<\/b>면장 최윤희 ▲보령축제관광재단(파견) 오경철 ▲자치행정과(휴직) 김중구",
+			"pubDate":"Thu, 29 Jun 2023 17:09:00 +0900"
+		},
+		{
+			"title":"[인사] 충남 보령시",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230629156400063?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014035333?sid=102",
+			"description":"경로장애인과장 고준웅 ▲ 열린민원과장 서우덕 ▲ 환경보호과장 김건호 ▲ 보건행정과장 조필행 ▲ 주포면장 최태식 ▲ <b>청라<\/b>면장 최윤희 ▲ 보령축제관광재단 오경철(직무파견) ▲ 자치행정과 김중구(휴직) (보령=연합뉴스)",
 			"pubDate":"Thu, 29 Jun 2023 17:09:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230629010007543",
 			"description":"계성건설은 인천 서구 <b>청라<\/b>동에 조성하는 ‘<b>청라<\/b> IHP 이지움’ 을 분양 중이다. 오피스텔 전용 21~38㎡ 총 304실 및 상업시설 등으로 구성된다. 전 타입이 1인 가구 수요자들을 겨냥해 1룸 및 1.5룸으로 설계됐다.... ",
 			"pubDate":"Thu, 29 Jun 2023 16:50:00 +0900"
-		},
-		{
-			"title":"&apos;22만 회원&apos; 인천총연합회, 인천고등법원 유치 동참",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=967014",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=967014",
-			"description":"인천총연합회는 송도시민총연합회, 영종국제도시 총연합회, 검단주민총연합회, <b>청라<\/b>미래연합회, 서창지구자치연합회, 루원시티총연합회, <b>청라<\/b>국제도시 카페, 오류지구연합회, 올댓송도, 수도권매립지 종료... ",
-			"pubDate":"Thu, 29 Jun 2023 16:46:00 +0900"
 		}
 	]
 }
