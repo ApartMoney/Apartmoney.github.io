@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 30 Jun 2023 22:50:02 +0900",
-	"total":205375,
+	"lastBuildDate":"Fri, 30 Jun 2023 23:00:03 +0900",
+	"total":205376,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 신도시 과밀학급 해소방안은?",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160285555346951",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160285555346951",
+			"description":"인천 신도시 지역별 과밀학급 비율은, 검단(45.1%), <b>청라<\/b>(36.5%), 송도(35.9%), 영종(26.7%) 순으로 검단 신도시 내 과밀학급 비율이 가장 높은 것으로 나타났다. 주제 발표를 맡은 박정현 교육부 정책 자문 위원은“과밀학급은... ",
+			"pubDate":"Fri, 30 Jun 2023 22:52:00 +0900"
+		},
 		{
 			"title":"‘7호선 <b>청라<\/b> 연장선’ 지연 불가피… 27년 개통 &apos;빨간불&apos; (B tv 인천뉴스)",
 			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=158795",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002291333?sid=102",
 			"description":"최태식 △<b>청라<\/b>면장 최윤희 △보령축제관광재단 오경철(직무파견) △자치행정과 김중구(휴직) ◇6급 승진... 유정아 △<b>청라<\/b>면 오향희 △남포면 이랑 △남포면 박의석 △주산면 구소영 △주산면 정용희 △대천1동 김혜영... ",
 			"pubDate":"Fri, 30 Jun 2023 09:42:00 +0900"
-		},
-		{
-			"title":"신세계프라퍼티, 회사채 대신 이례적 신종자본증권 발행 배경은",
-			"originallink":"https:\/\/www.hankyung.com\/economy\/article\/202306293331r",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004862641?sid=101",
-			"description":"2027년 말 준공 예정인 스타필드 <b>청라<\/b>에는 돔구장, 대형 복합 쇼핑몰, 호텔 등이 들어설 예정이다. 백화점·스타필드 등이 들어서는 동서울터미널 개발 계획도 추진 중이다. 지난해 2월에는 미국 와이너리 ‘셰이퍼... ",
-			"pubDate":"Fri, 30 Jun 2023 09:35:00 +0900"
 		}
 	]
 }
