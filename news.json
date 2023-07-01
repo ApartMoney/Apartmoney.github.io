@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 01 Jul 2023 18:20:02 +0900",
-	"total":205380,
+	"lastBuildDate":"Sat, 01 Jul 2023 18:30:02 +0900",
+	"total":205381,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 중구, 연중무휴 &apos;24시간 Moon여는 의료기관&apos; 개소",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/866243",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/866243",
+			"description":"더욱이 송도·<b>청라<\/b>국제도시의 경우 현재 종합병원 설립이 한창 추진 중인 데 반해, 영종 지역에는 계획조차 없어 주민들의 상대적 박탈감이 큰 상황이다. 이에 중구는 이번 사업 외에도 ‘공공심야 어린이병원·약국’을... ",
+			"pubDate":"Sat, 01 Jul 2023 18:22:00 +0900"
+		},
 		{
 			"title":"인천환경공단, 94명 규모 상반기 정기인사 단행",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=405542",
@@ -131,17 +138,17 @@
 			"pubDate":"Fri, 30 Jun 2023 16:12:00 +0900"
 		},
 		{
-			"title":"인천 신도시 내 과밀학급 해소방안 위해 노력",
-			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=632167",
-			"link":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=632167",
-			"description":"인천 신도시 지역별 과밀학급 비율은 검단(45.1%), <b>청라<\/b>(36.5%), 송도(35.9%), 영종(26.7%) 순으로 검단 신도시 내 과밀학급 비율이 가장 높은 것으로 나타났다. 이날 토론회에서 주제 발표를 맡은 박정현 교육부 정책자문 위원은... ",
-			"pubDate":"Fri, 30 Jun 2023 16:08:00 +0900"
-		},
-		{
 			"title":"[단독] 서울7호선 <b>청라<\/b> 연장 추가역, &apos;첫 단추&apos; 잘못 끼웠다",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=231807",
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=231807",
 			"description":"인천투데이=김현철 기자│서울도시철도7호선 <b>청라<\/b> 연장 사업이 <b>청라<\/b>스타필드 &apos;추가 역사 신설&apos;로 개통 지연 논란이 일고 있는데, 추가 역사 신설 시작부터 문제가 있던 점이 드러났다. 30일 인천시 관계자 등의 말을... ",
+			"pubDate":"Fri, 30 Jun 2023 16:08:00 +0900"
+		},
+		{
+			"title":"인천 신도시 내 과밀학급 해소방안 위해 노력",
+			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=632167",
+			"link":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=632167",
+			"description":"인천 신도시 지역별 과밀학급 비율은 검단(45.1%), <b>청라<\/b>(36.5%), 송도(35.9%), 영종(26.7%) 순으로 검단 신도시 내 과밀학급 비율이 가장 높은 것으로 나타났다. 이날 토론회에서 주제 발표를 맡은 박정현 교육부 정책자문 위원은... ",
 			"pubDate":"Fri, 30 Jun 2023 16:08:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001903748?sid=102",
 			"description":"또한 인천 <b>청라<\/b> 지구대에서 나와 엄 씨가 다른 사건으로 인해 채워야 할 형기가 이틀이 남았다며 그를 연행해 다행히 맞대결은 불발됐다. 하지만 엄 씨는 잔여 형기를 마친 후에도 유튜브 채널 커뮤니티를 통해 아직 수원... ",
 			"pubDate":"Fri, 30 Jun 2023 10:55:00 +0900"
-		},
-		{
-			"title":"대세는 &apos;주거 쾌적성&apos;… 호반건설, 인천 연희공원 내 &apos;호반써밋 파크에디션&apos; ...",
-			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=507436",
-			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=507436",
-			"description":"호반건설의 &apos;호반써밋 파크에디션&apos;은 인천 <b>청라<\/b>국제도시 바로 옆에 위치해 주거 인프라를 공유하게 된다. 스타필드 <b>청라<\/b>점(예정), 코스트코 <b>청라<\/b>점(예정), <b>청라<\/b> 의료복합타운(예정), 관공서 등의 이용이 수월하다. 특히... ",
-			"pubDate":"Fri, 30 Jun 2023 10:46:00 +0900"
 		}
 	]
 }
