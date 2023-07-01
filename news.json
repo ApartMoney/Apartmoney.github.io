@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 02 Jul 2023 03:00:02 +0900",
-	"total":205383,
+	"lastBuildDate":"Sun, 02 Jul 2023 03:10:03 +0900",
+	"total":205384,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 중구, 영종국제도시 &apos;24시간 Moon여는 의료기관&apos; 개소",
+			"originallink":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=133279",
+			"link":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=133279",
+			"description":"더욱이 송도·<b>청라<\/b>국제도시의 경우 현재 종합병원 설립이 한창 추진 중인 데 반해, 영종 지역에는 계획조차 없어 주민들의 상대적 박탈감이 큰 상황이다. 이에 중구는 이번 사업 외에도 &apos;공공심야 어린이병원·약국&apos;을... ",
+			"pubDate":"Sun, 02 Jul 2023 03:04:00 +0900"
+		},
 		{
 			"title":"인천환경공단 7월 1일자 인사 실시",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=96162",
@@ -152,17 +159,17 @@
 			"pubDate":"Fri, 30 Jun 2023 16:12:00 +0900"
 		},
 		{
-			"title":"[단독] 서울7호선 <b>청라<\/b> 연장 추가역, &apos;첫 단추&apos; 잘못 끼웠다",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=231807",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=231807",
-			"description":"인천투데이=김현철 기자│서울도시철도7호선 <b>청라<\/b> 연장 사업이 <b>청라<\/b>스타필드 &apos;추가 역사 신설&apos;로 개통 지연 논란이 일고 있는데, 추가 역사 신설 시작부터 문제가 있던 점이 드러났다. 30일 인천시 관계자 등의 말을... ",
-			"pubDate":"Fri, 30 Jun 2023 16:08:00 +0900"
-		},
-		{
 			"title":"인천 신도시 내 과밀학급 해소방안 위해 노력",
 			"originallink":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=632167",
 			"link":"http:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=632167",
 			"description":"인천 신도시 지역별 과밀학급 비율은 검단(45.1%), <b>청라<\/b>(36.5%), 송도(35.9%), 영종(26.7%) 순으로 검단 신도시 내 과밀학급 비율이 가장 높은 것으로 나타났다. 이날 토론회에서 주제 발표를 맡은 박정현 교육부 정책자문 위원은... ",
+			"pubDate":"Fri, 30 Jun 2023 16:08:00 +0900"
+		},
+		{
+			"title":"[단독] 서울7호선 <b>청라<\/b> 연장 추가역, &apos;첫 단추&apos; 잘못 끼웠다",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=231807",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=231807",
+			"description":"인천투데이=김현철 기자│서울도시철도7호선 <b>청라<\/b> 연장 사업이 <b>청라<\/b>스타필드 &apos;추가 역사 신설&apos;로 개통 지연 논란이 일고 있는데, 추가 역사 신설 시작부터 문제가 있던 점이 드러났다. 30일 인천시 관계자 등의 말을... ",
 			"pubDate":"Fri, 30 Jun 2023 16:08:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=96127",
 			"description":"인천 서구가 오는 7월 19일(수) 오후 7시 <b>청라<\/b>블루노바홀에서 콘서트를 즐기며 구청장과 지역 현안을... 스타필드 <b>청라<\/b> 관계자 등이 참석해 <b>청라<\/b>국제도시 개발사업 진행상황 및 비전 등을 주민들과 공유할 예정이다. 서구는... ",
 			"pubDate":"Fri, 30 Jun 2023 12:58:00 +0900"
-		},
-		{
-			"title":"[분양캘린더] 장마철 비수기에 7월 분양시장 개장, 전국 2598가구 분양",
-			"originallink":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=21853",
-			"link":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=21853",
-			"description":"공원 내에 있어 쾌적하며, <b>청라<\/b>국제도시 인프라도 공유할 수 있습니다. 강원에서는 춘천시 삼천동에 HDC현대산업개발이 짓는 &apos;춘천 레이크시티 아이파크&apos;가, 원주시 서곡리에는 DL이앤씨가 짓는 &apos;e편한세상 원주 프리모원... ",
-			"pubDate":"Fri, 30 Jun 2023 11:20:00 +0900"
 		}
 	]
 }
