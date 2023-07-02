@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 02 Jul 2023 15:50:02 +0900",
-	"total":205406,
+	"lastBuildDate":"Sun, 02 Jul 2023 16:00:02 +0900",
+	"total":205407,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 신도시 과밀학급 비율 36.5%로 심각…&quot;입체적인 연구와 정책 실행 필요&quot;",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1200861",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1200861",
+			"description":"검단 45.1%, <b>청라<\/b> 36.5%, 송도 35.9%, 영종 26.7%로 과밀학급 문제가 매우 심각한 수준인 것으로 확인됐다. 교육부 박정현 정책자문위원은 주제발표를 통해 인천 신도시 과밀학급의 원인은 원도심과 신도시가 공존하는 인천지역... ",
+			"pubDate":"Sun, 02 Jul 2023 15:50:00 +0900"
+		},
 		{
 			"title":"영종국제도시 의료 안전망 강화...&apos;24시간 Moon여는 의료기관&apos; 개소",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=967318",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003773048?sid=102",
 			"description":"대구 중구 <b>청라<\/b>언덕역, 동대구역과 함께 팔공산 자락 군위삼존석굴을 거쳐 삼국유사 테마파크(선택)에서... 동대구역, <b>청라<\/b>언덕역으로 돌아온다. 투어형 코스는 <b>청라<\/b>언덕역, 동대구역, 군위삼존석굴, 한밤마을을 거쳐... ",
 			"pubDate":"Sat, 01 Jul 2023 03:05:00 +0900"
-		},
-		{
-			"title":"인천시, 신도시 내 &apos;과밀학급 해소&apos; 해법 찾기 나서",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=550292",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=550292",
-			"description":"인천 신도시 지역별 과밀학급 비율은, 검단(45.1%), <b>청라<\/b>(36.5%), 송도(35.9%), 영종(26.7%) 순으로 검단 신도시 내 과밀학급 비율이 가장 높은 것으로 나타났다. 이날 토론회에서 주제 발표를 맡은 박정현 교육부 정책자문 위원은... ",
-			"pubDate":"Sat, 01 Jul 2023 00:14:00 +0900"
 		}
 	]
 }
