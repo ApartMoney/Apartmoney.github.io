@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 03 Jul 2023 10:00:02 +0900",
-	"total":205429,
+	"lastBuildDate":"Mon, 03 Jul 2023 10:10:02 +0900",
+	"total":205430,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 신도시 내 과밀학급 해소방안은?",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202307030952393610923",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202307030952393610923",
+			"description":"인천 신도시 지역별 과밀학급 비율은, 검단(45.1%), <b>청라<\/b>(36.5%), 송도(35.9%), 영종(26.7%) 순으로 검단 신도시 내 과밀학급 비율이 가장 높은 것으로 나타났다. 이날 토론회에서 주제 발표를 맡은 박정현 교육부 정책자문 위원은... ",
+			"pubDate":"Mon, 03 Jul 2023 10:02:00 +0900"
+		},
 		{
 			"title":"인천환경공단, 94명 상반기 정기인사",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=413231",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230702010000200",
 			"description":"뉴홍콩시티 프로젝트는 강화, 영종을 중심으로 송도, <b>청라<\/b>, 내항 등과 연계해 글로벌 앵커기업을 유치하고... 송도, <b>청라<\/b>, 내항 등 미래상과 투자유치를 위한 마스터플랜 용역도 3월에 착수해 연내 구체화를 목표로 추진... ",
 			"pubDate":"Sun, 02 Jul 2023 14:04:00 +0900"
-		},
-		{
-			"title":"인천 신도시 내 과밀학급 해법 찾는 토론회 개최",
-			"originallink":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=197019",
-			"link":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=197019",
-			"description":"인천 신도시 지역별 과밀학급 비율은, 검단(45.1%), <b>청라<\/b>(36.5%), 송도(35.9%), 영종(26.7%) 순으로 검단 신도시 내 과밀학급 비율이 가장 높은 것으로 나타났다. 이날 토론회에서 주제 발표를 맡은 박정현 교육부 정책자문 위원은... ",
-			"pubDate":"Sun, 02 Jul 2023 13:48:00 +0900"
 		}
 	]
 }
