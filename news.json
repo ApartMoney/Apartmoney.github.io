@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 03 Jul 2023 21:20:02 +0900",
-	"total":205496,
+	"lastBuildDate":"Mon, 03 Jul 2023 21:30:02 +0900",
+	"total":205498,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 통학불편 지역 &apos;학생성공버스&apos; 27대 투입 운행",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363599873",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363599873",
+			"description":"인천시교육청이 주관해 운영하는 학생성공버스는 개발지역, 교통인프라 부족 등의 이유로 등교에 어려움이 있는 송도, <b>청라<\/b>·경서, 검단, 영종, 서창·남촌, 부평(일신지역) 등 6개 권역으로 나뉘며 45인승 버스 총 27대가... ",
+			"pubDate":"Mon, 03 Jul 2023 21:20:00 +0900"
+		},
+		{
+			"title":"인천공항고속도로 쓰레기차 전도…4차선 도로 꽉 막혔다",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007253257&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001070273?sid=102",
+			"description":"오늘(3일) 오후 5시 50분쯤 인천시 중구 인천국제공항고속도로 <b>청라<\/b>IC 인근에서 1.7t 쓰레기 운반차가 앞서 가던 차량 2대를 들이받았습니다. 이 사고로 쓰레기 운반차가 옆으로 넘어지면서 도로에 폐기물이 쏟아졌고... ",
+			"pubDate":"Mon, 03 Jul 2023 21:18:00 +0900"
+		},
 		{
 			"title":"인천공항고속도로서 쓰레기차 전도…한때 극심한 차량정체",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230703_0002362389&cID=10802&pID=14000",
@@ -54,7 +68,7 @@
 			"pubDate":"Mon, 03 Jul 2023 20:58:00 +0900"
 		},
 		{
-			"title":"[유정복 시장 1년] &quot;버전은 있는데 전략이 없다&quot;",
+			"title":"[유정복 시장 1년] 오로지 제물포… 원도심 잊었나",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363599884",
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363599884",
 			"description":"서구에선 <b>청라<\/b>국제도시와 검단 등의 북부지역을 제외한 지역에 대해선 시의 대안이 없고, 연수구에선 송도국제도시를 제외한 원도심 지역의 경우 이곳을 대표할 만한 개발계획이 없다. 집합론적 사고로 볼 때, 유 시장은... ",
@@ -117,17 +131,17 @@
 			"pubDate":"Mon, 03 Jul 2023 20:30:00 +0900"
 		},
 		{
-			"title":"쓰레기차 사고로 인천공항고속도로 혼잡…4명 부상",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007253253&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001070259?sid=102",
-			"description":"오늘(3일) 오후 5시 50분쯤 인천시 중구 인천국제공항고속도로 <b>청라<\/b>IC 인근에서 40대 남성 A 씨가 몰던 1.7톤 쓰레기 운반차가 앞서 있던 차량 2대를 들이받았습니다. 사고 충격으로 쓰레기 운반차가 옆으로 넘어지면서... ",
-			"pubDate":"Mon, 03 Jul 2023 20:26:00 +0900"
-		},
-		{
 			"title":"퇴근길 인천공항고속도서 교통사고…여행객 &apos;발동동&apos;",
 			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202307030281&t=NN",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001111189?sid=102",
 			"description":"3일 오후 5시 49분께 인천시 중구 인천국제공항고속도로 <b>청라<\/b>IC 인근에서 40대 남성 A씨가 몰던 2.5t 쓰레기 운반차가 앞서 있던 차량 2대를 들이받았다. 사고 충격으로 쓰레기 운반차가 옆으로 넘어지며 도로에 폐기물이... ",
+			"pubDate":"Mon, 03 Jul 2023 20:26:00 +0900"
+		},
+		{
+			"title":"쓰레기차 사고로 인천공항고속도로 혼잡…4명 부상",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007253253&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001070259?sid=102",
+			"description":"오늘(3일) 오후 5시 50분쯤 인천시 중구 인천국제공항고속도로 <b>청라<\/b>IC 인근에서 40대 남성 A 씨가 몰던 1.7톤 쓰레기 운반차가 앞서 있던 차량 2대를 들이받았습니다. 사고 충격으로 쓰레기 운반차가 옆으로 넘어지면서... ",
 			"pubDate":"Mon, 03 Jul 2023 20:26:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000416637?sid=102",
 			"description":"3일 오후 5시 49분께 인천시 중구 인천국제공항고속도로 <b>청라<\/b>IC 인근에서 40대 남성 A씨가 몰던 2.5톤의 쓰레기 운반차가 앞서 있던 차량 2대를 들이받는 사고가 났다. 이 충격으로 쓰레기 운반차가 옆으로 넘어지면서... ",
 			"pubDate":"Mon, 03 Jul 2023 19:41:00 +0900"
-		},
-		{
-			"title":"고속도로에 쓰레기 와르르…폐기물 운반차, 앞차 들이받았다",
-			"originallink":"https:\/\/www.joongang.co.kr\/article\/25174509",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003291179?sid=102",
-			"description":"3일 오후 5시 49분쯤 인천시 중구 인천국제공항고속도로 <b>청라<\/b>IC 인근에서 40대 남성 A씨가 몰던 2.5t 쓰레기 운반차가 앞서 있던 차량 2대를 들이받았다. 사고 충격으로 쓰레기 운반차가 옆으로 넘어지며 도로에 폐기물이... ",
-			"pubDate":"Mon, 03 Jul 2023 19:40:00 +0900"
-		},
-		{
-			"title":"신세계프라퍼티 신종자본증권 3000억 발행… 이마트 자금수혈 대신 외부차입 ...",
-			"originallink":"https:\/\/biz.chosun.com\/distribution\/food\/2023\/07\/03\/JOA6HBXLVFH2BFUCDG3HIUMEVA\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000913853?sid=101",
-			"description":"유통업계에서는 스타필드 <b>청라<\/b>와 동서울터미널 등 추진 중인 대규모 개발 사업에 자금이 투입할 것으로 보고 있다. 또 지난해 2월엔 미국 와이너리 ‘셰이퍼 빈야드’를 3000억원에 인수하면서 늘어난 차입금도 일정... ",
-			"pubDate":"Mon, 03 Jul 2023 19:24:00 +0900"
 		}
 	]
 }
