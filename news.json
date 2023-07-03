@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 03 Jul 2023 16:10:02 +0900",
-	"total":205450,
+	"lastBuildDate":"Mon, 03 Jul 2023 16:20:02 +0900",
+	"total":205452,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[사설] 인천 신도시 과밀 학급문제 해법 없나",
+			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=64551",
+			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=64551",
+			"description":"신도시별로는 검단(45.1%), <b>청라<\/b>(36.5%), 송도(35.9%), 영종(26.7%) 순이다. 이를 볼때 인천 신도시 내 초·중·고등학교 36.5%가 과밀학급인 셈이다. 아울러 과대학급문제도 불거지고 있다. 영종국제 신도시의 경우 11개 초등학교... ",
+			"pubDate":"Mon, 03 Jul 2023 16:16:00 +0900"
+		},
+		{
+			"title":"아파트 매매 2년반 만에 상승 전환…서울·세종 70% 늘어",
+			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=20230703161104260067191f6c6e_12",
+			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=20230703161104260067191f6c6e_12",
+			"description":"<b>청라<\/b>국제신도시와 가까워 <b>청라<\/b>스타필드(예정) 등 다양한 인프라를 공유할 수 있는 것이 장점이다. 포스코이앤씨는 7월 청주시 청원구 오창과학산업단지에서 ‘더샵 오창프레스티지’를 분양할 예정이다. 지상... ",
+			"pubDate":"Mon, 03 Jul 2023 16:12:00 +0900"
+		},
 		{
 			"title":"회사채 대신 신종자본증권?…신세계프라퍼티 3000억 발행",
 			"originallink":"https:\/\/www.hankyung.com\/economy\/article\/2023070393261",
@@ -15,7 +29,7 @@
 			"title":"인천 신도시 유입인구 증가로 과밀학급 심각…검단신도시 45%",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023070314153744017",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005281118?sid=102",
-			"description":"신도시 지역별 과밀학급 비율은 검단신도시가 45.1%로 가장 높고 이어 <b>청라<\/b>국제도시(36.5%), 송도국제도시(35.9%), 영종국제도시(26.7%) 순이다, 과밀학급은 신도시 개발에 따른 유입인구의 입주 시점에 맞춰 학교 신설과 증축... ",
+			"description":"신도시 지역별 과밀학급 비율은 검단신도시가 45.1%로 가장 높고 이어 <b>청라<\/b>국제도시(36.5%), 송도국제도시(35.9%), 영종국제도시(26.7%) 순이다. 과밀학급은 신도시 개발에 따른 유입인구의 입주 시점에 맞춰 진행되어야 하는... ",
 			"pubDate":"Mon, 03 Jul 2023 15:48:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003373633?sid=101",
 			"description":"‘호반써밋 파크에디션’은 무엇보다 <b>청라<\/b>국제도시 바로 옆에 위치해 주거 인프라를 공유할 수 있는 장점을 갖췄다. 스타필드 <b>청라<\/b>점(예정), 코스트코 <b>청라<\/b>점(예정), <b>청라<\/b> 의료복합타운(예정), 관공서 등의 이용이... ",
 			"pubDate":"Mon, 03 Jul 2023 05:05:00 +0900"
-		},
-		{
-			"title":"[포토] 의료·바이오 수출기업 간담회",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1200853",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1200853",
-			"description":"▲ 진종욱 산업통상자원부 국가기술표준원장이 29일 인천 <b>청라<\/b>에 위치한 BGF에코솔루션 대회의실에서 열린 &apos;의료·바이오 수출기업 간담회&apos;를 주재하고 있다. \/연합뉴스",
-			"pubDate":"Mon, 03 Jul 2023 02:52:00 +0900"
-		},
-		{
-			"title":"[유정복 시장 1년] &apos;제물포 르네상스·뉴홍콩 시티&apos;…&quot;비전은 있는데 전략이 ...",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363599664",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363599664",
-			"description":"심지어 시는 민선5기 송영길 전 시장 때 추진하던 <b>청라<\/b> 하나금융시티 완성과 GCF와 연계한 글로벌... 참고로, 금융도시를 <b>청라<\/b>로 만들자는 시의 계획은 이미 있다. 이에 유 시장의 정책을 추진하는데 공무원들이 자기 일이... ",
-			"pubDate":"Sun, 02 Jul 2023 21:22:00 +0900"
 		}
 	]
 }
