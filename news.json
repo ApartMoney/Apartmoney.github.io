@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 03 Jul 2023 09:40:02 +0900",
-	"total":205427,
+	"lastBuildDate":"Mon, 03 Jul 2023 09:50:02 +0900",
+	"total":205428,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"아파트 매매거래량 상승 전환… 서울•세종 70% 늘어",
+			"originallink":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=21865",
+			"link":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=21865",
+			"description":"<b>청라<\/b>국제신도시와 가까워 <b>청라<\/b>스타필드(예정) 등 다양한 인프라를 공유할 수 있는 것이 장점이다. 포스코이앤씨는 7월 청주시 청원구 오창과학산업단지에서 &apos;더샵 오창프레스티지&apos;를 분양할 예정이다. 지상 최고... ",
+			"pubDate":"Mon, 03 Jul 2023 09:40:00 +0900"
+		},
 		{
 			"title":"아파트 매매거래량 서울 등 2년 반 만에 상승 전환…신규 분양 귀추 주목",
 			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=2023070309031459983e9bb86c69_23",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=754075",
 			"description":"핵심 공약인 뉴홍콩시티, 제물포르네상스 프로젝트 추진상황은 뉴홍콩시티 프로젝트 일환으로 추진한 재외동포청 인천 유치 등 가시적 성과를 창출해가고 있으며 강화·영종·송도·<b>청라<\/b>·내항 등 미래상과 투자유치를... ",
 			"pubDate":"Sun, 02 Jul 2023 13:26:00 +0900"
-		},
-		{
-			"title":"인천 학령인구 감소·과밀학급 딜레마…”중장기 대책 세워야“",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=754084",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=754084",
-			"description":"인천 신도시 지역별 과밀학급 비율은 검단(45.1%), <b>청라<\/b>(36.5%), 송도(35.9%), 영종(26.7%) 순으로 검단 신도시 내 과밀학급 비율이 가장 높은 것으로 나타났다. 이날 토론회에서 주제 발표를 맡은 박정현 교육부 정책자문... ",
-			"pubDate":"Sun, 02 Jul 2023 13:16:00 +0900"
 		}
 	]
 }
