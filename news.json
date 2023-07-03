@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 03 Jul 2023 20:20:02 +0900",
-	"total":205477,
+	"lastBuildDate":"Mon, 03 Jul 2023 20:30:02 +0900",
+	"total":205480,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"쓰레기차 사고로 인천공항고속도로 혼잡…4명 부상",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007253253&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001070259?sid=102",
+			"description":"오늘(3일) 오후 5시 50분쯤 인천시 중구 인천국제공항고속도로 <b>청라<\/b>IC 인근에서 40대 남성 A 씨가 몰던 2.5톤 쓰레기 운반차가 앞서 있던 차량 2대를 들이받았습니다. 사고 충격으로 쓰레기 운반차가 옆으로 넘어지면서... ",
+			"pubDate":"Mon, 03 Jul 2023 20:26:00 +0900"
+		},
+		{
+			"title":"퇴근길 인천공항고속도서 교통사고…여행객 &apos;발동동&apos;",
+			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202307030281&t=NN",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001111189?sid=102",
+			"description":"3일 오후 5시 49분께 인천시 중구 인천국제공항고속도로 <b>청라<\/b>IC 인근에서 40대 남성 A씨가 몰던 2.5t 쓰레기 운반차가 앞서 있던 차량 2대를 들이받았다. 사고 충격으로 쓰레기 운반차가 옆으로 넘어지며 도로에 폐기물이... ",
+			"pubDate":"Mon, 03 Jul 2023 20:26:00 +0900"
+		},
+		{
+			"title":"&apos;학생성공버스&apos; 드디어 달린다",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1201111",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1201111",
+			"description":"▲연수구 송도(2개) ▲서구 <b>청라<\/b>·경서(3개) ▲검단(4개) ▲중구 영종(6개) ▲남동구 서창·남촌(3개) ▲부평구 일신(3개) 등 6개 권역에서 등교 시간대 중고생이 탈 수 있는 통학버스다. 학생성공버스는 40개 중고등학교에서... ",
+			"pubDate":"Mon, 03 Jul 2023 20:20:00 +0900"
+		},
 		{
 			"title":"고속도로서 ‘기우뚱’…2.5톤 쓰레기 운반車 차량 덮쳤다",
 			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0018425650&code=61121211&cp=nv",
@@ -124,17 +145,17 @@
 			"pubDate":"Mon, 03 Jul 2023 17:58:00 +0900"
 		},
 		{
-			"title":"전국 최초 친환경 수소통학버스 &apos;학생성공버스&apos; 개통",
-			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0002941857&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002397834?sid=102",
-			"description":"&apos;학생성공버스&apos;는 개발지역, 교통인프라 부족 등의 이유로 통학에 어려움이 있는 송도, <b>청라<\/b>경서, 검단신도시, 영종, 서창남촌, 부평(일신지역) 등 6개권역의 학생들을 위해 운영하는 전국 최초의 학생통학복지 사업이다.... ",
-			"pubDate":"Mon, 03 Jul 2023 17:54:00 +0900"
-		},
-		{
 			"title":"인천 ‘친환경 학생성공버스’, 12일부터 6개 노선 동시 ‘시동’",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=754346",
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=754346",
 			"description":"3일 시교육청에 따르면 학생성공버스는 개발지역, 교통인프라 부족 등의 이유로 통학에 어려움이 있는 연수구 송도동, 서구 <b>청라<\/b>‧경서‧검단동, 중구 영종도, 남동구 서창‧남촌동, 부평구 일신동 일대 등 6개 권역... ",
+			"pubDate":"Mon, 03 Jul 2023 17:54:00 +0900"
+		},
+		{
+			"title":"전국 최초 친환경 수소통학버스 &apos;학생성공버스&apos; 개통",
+			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0002941857&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002397834?sid=102",
+			"description":"&apos;학생성공버스&apos;는 개발지역, 교통인프라 부족 등의 이유로 통학에 어려움이 있는 송도, <b>청라<\/b>경서, 검단신도시, 영종, 서창남촌, 부평(일신지역) 등 6개권역의 학생들을 위해 운영하는 전국 최초의 학생통학복지 사업이다.... ",
 			"pubDate":"Mon, 03 Jul 2023 17:54:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=20230703161104260067191f6c6e_12",
 			"description":"<b>청라<\/b>국제신도시와 가까워 <b>청라<\/b>스타필드(예정) 등 다양한 인프라를 공유할 수 있는 것이 장점이다. 포스코이앤씨는 7월 청주시 청원구 오창과학산업단지에서 ‘더샵 오창프레스티지’를 분양할 예정이다. 지상... ",
 			"pubDate":"Mon, 03 Jul 2023 16:12:00 +0900"
-		},
-		{
-			"title":"회사채 대신 신종자본증권?…신세계프라퍼티 3000억 발행",
-			"originallink":"https:\/\/www.hankyung.com\/economy\/article\/2023070393261",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004863549?sid=101",
-			"description":"신세계프라퍼티는 조달한 자금을 스타필드 <b>청라<\/b>와 동서울터미널 등 추진 중인 대규모 개발 사업에 투입할 것으로 전망된다. 이 회사는 지난해 2월엔 미국 와이너리 ‘셰이퍼 빈야드’를 3000억원에 인수했다. 이... ",
-			"pubDate":"Mon, 03 Jul 2023 16:01:00 +0900"
-		},
-		{
-			"title":"인천 신도시 유입인구 증가로 과밀학급 심각…검단신도시 45%",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023070314153744017",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005281118?sid=102",
-			"description":"신도시 지역별 과밀학급 비율은 검단신도시가 45.1%로 가장 높고 이어 <b>청라<\/b>국제도시(36.5%), 송도국제도시(35.9%), 영종국제도시(26.7%) 순이다. 과밀학급은 신도시 개발에 따른 유입인구의 입주 시점에 맞춰 진행되어야 하는... ",
-			"pubDate":"Mon, 03 Jul 2023 15:48:00 +0900"
-		},
-		{
-			"title":"[민선8기 출범1년] 경기·울산·인천·경남 &apos;투자유치 성과&apos;…대구는 공항, 부...",
-			"originallink":"https:\/\/www.hankyung.com\/society\/article\/202307030350i",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004863529?sid=102",
-			"description":"스타필드 <b>청라<\/b>와 재외동포청 유치 등도 유 시장의 주요 성취다. 그는 최근 경제자유구역 확장을 추진하고 있기도 하다. 울산광역시도 투자유치에 속도를 내고 있다. 김두겸 울산시장은 현대차 울산공장 내 전기차 공장... ",
-			"pubDate":"Mon, 03 Jul 2023 15:43:00 +0900"
 		}
 	]
 }
