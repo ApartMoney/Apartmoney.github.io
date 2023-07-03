@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 04 Jul 2023 06:30:03 +0900",
-	"total":205508,
+	"lastBuildDate":"Tue, 04 Jul 2023 06:40:03 +0900",
+	"total":205510,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"교차로서 버스·승용차 충돌...청소차 전도 차량 정체",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202307040631048897",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001905094?sid=102",
+			"description":"인천국제공항으로 가는 <b>청라<\/b> 나들목 인근에서 2.5t 청소차가 옆으로 넘어졌습니다. 앞서 달리던 승용차를 들이받고 전도된 겁니다. 이 사고로 4개 차로 가운데 3개 차로가 통제되면서 3km 가까이 차량 정체가... ",
+			"pubDate":"Tue, 04 Jul 2023 06:31:00 +0900"
+		},
+		{
+			"title":"쓰레기차 사고로 인천공항고속도로 퇴근길 정체",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/view.do?ncd=7714590&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011517292?sid=102",
+			"description":"어제(3일) 오후 5시 50분쯤 인천국제공항고속도로 공항 방향 <b>청라<\/b> 나들목 인근에서 40대 남성 A 씨가 운전하던 2.5톤 쓰레기 운반차가 앞서 있던 차량 2대를 잇달아 들이받았습니다. 쓰레기 운반차가 옆으로 넘어지면서... ",
+			"pubDate":"Tue, 04 Jul 2023 06:27:00 +0900"
+		},
 		{
 			"title":"교통사고 인천공항고속도로 혼잡…출국하려던 여행객들 ‘멘붕’",
 			"originallink":"http:\/\/www.segye.com\/content\/html\/2023\/07\/04\/20230704503337.html?OutUrl=naver",
@@ -21,7 +35,7 @@
 		{
 			"title":"인천공항고속도로서 쓰레기차 쓰러져 &apos;와르르&apos;…퇴근길 &apos;지옥 정체&apos;",
 			"originallink":"http:\/\/news.tvchosun.com\/site\/data\/html_dir\/2023\/07\/04\/2023070490001.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000416672?sid=101",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000416672?sid=102",
 			"description":"3일 오후 5시 50분쯤 인천공항고속도로 <b>청라<\/b>IC 인근에서 40대 남성이 몰던 2.5t 쓰레기 운반차가 승용차 두 대를 잇달아 들이받는 사고가 발생했다. 이 사고로 운반차 운전자와 승용차 운전자 등 모두 4명이 다쳐 병원으로... ",
 			"pubDate":"Tue, 04 Jul 2023 02:22:00 +0900"
 		},
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1201141",
 			"description":"인천국제공항고속도로 <b>청라<\/b>IC 인근에서 교통사고를 낸 쓰레기 운반차가 넘어지면서 폐기물이 쏟아져 극심한 차량 정체가 빚어졌다. 3일 경찰에 따르면 이날 오후 5시49분쯤 인천공항고속도로 <b>청라<\/b>IC 인근 4차로에서 40대... ",
 			"pubDate":"Mon, 03 Jul 2023 20:30:00 +0900"
-		},
-		{
-			"title":"쓰레기차 사고로 인천공항고속도로 혼잡…4명 부상",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007253253&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001070259?sid=102",
-			"description":"오늘(3일) 오후 5시 50분쯤 인천시 중구 인천국제공항고속도로 <b>청라<\/b>IC 인근에서 40대 남성 A 씨가 몰던 1.7톤 쓰레기 운반차가 앞서 있던 차량 2대를 들이받았습니다. 사고 충격으로 쓰레기 운반차가 옆으로 넘어지면서... ",
-			"pubDate":"Mon, 03 Jul 2023 20:26:00 +0900"
-		},
-		{
-			"title":"퇴근길 인천공항고속도서 교통사고…여행객 &apos;발동동&apos;",
-			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202307030281&t=NN",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001111189?sid=102",
-			"description":"3일 오후 5시 49분께 인천시 중구 인천국제공항고속도로 <b>청라<\/b>IC 인근에서 40대 남성 A씨가 몰던 2.5t 쓰레기 운반차가 앞서 있던 차량 2대를 들이받았다. 사고 충격으로 쓰레기 운반차가 옆으로 넘어지며 도로에 폐기물이... ",
-			"pubDate":"Mon, 03 Jul 2023 20:26:00 +0900"
 		}
 	]
 }
