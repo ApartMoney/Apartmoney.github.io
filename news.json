@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 04 Jul 2023 03:00:02 +0900",
-	"total":205506,
+	"lastBuildDate":"Tue, 04 Jul 2023 03:10:02 +0900",
+	"total":205507,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천공항고속도로 쓰레기차 전복… 여행객들 ‘발 동동’",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20230704\/120061170\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003507247?sid=102",
+			"description":"3일 오후 5시 49분경 인천 중구 인천국제공항고속도로 인천공항 방향 <b>청라<\/b> 나들목 인근에서 2.5t 쓰레기 운반 차량이 앞서 가던 차량 2대를 들이받은 뒤 넘어지는 사고가 발생했다. 이 사고로 퇴근 시간대 극심한 차량... ",
+			"pubDate":"Tue, 04 Jul 2023 03:02:00 +0900"
+		},
 		{
 			"title":"인천공항고속도로서 쓰레기차 쓰러져 &apos;와르르&apos;…퇴근길 &apos;지옥 정체&apos;",
 			"originallink":"http:\/\/news.tvchosun.com\/site\/data\/html_dir\/2023\/07\/04\/2023070490001.html",
@@ -47,17 +54,17 @@
 			"pubDate":"Mon, 03 Jul 2023 23:24:00 +0900"
 		},
 		{
-			"title":"인천시 서구, <b>청라<\/b>초교 어린이보호구역서 기관합동 등굣길 교통안전 캠페인",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1038538",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1038538",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천시 서구는 3일 <b>청라<\/b>초등학교 앞 어린이보호구역에서 기관 합동 등굣길 교통안전 캠페인을 벌였다. 이날 캠페인에는 강범석 구청장과 서부경찰서, 서부모범운전자회... ",
-			"pubDate":"Mon, 03 Jul 2023 21:48:00 +0900"
-		},
-		{
 			"title":"인천 개발지역 교통 인프라 열악 권역별 &apos;수소 통학버스&apos; 달린다",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1038617",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1038617",
 			"description":"송도와 <b>청라<\/b>경서, 검단신도시, 영종, 서창남촌, 부평(일신지역) 6개 권역에서 시범운영한다. 시교육청은 올해 1월 시범운영 TF를 구성해 최적 노선을 비롯한 운영 방안을 준비했고 예산 20억 원을 편성했다. 다른 시도는... ",
+			"pubDate":"Mon, 03 Jul 2023 21:48:00 +0900"
+		},
+		{
+			"title":"인천시 서구, <b>청라<\/b>초교 어린이보호구역서 기관합동 등굣길 교통안전 캠페인",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1038538",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1038538",
+			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천시 서구는 3일 <b>청라<\/b>초등학교 앞 어린이보호구역에서 기관 합동 등굣길 교통안전 캠페인을 벌였다. 이날 캠페인에는 강범석 구청장과 서부경찰서, 서부모범운전자회... ",
 			"pubDate":"Mon, 03 Jul 2023 21:48:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1201111",
 			"description":"▲연수구 송도(2개) ▲서구 <b>청라<\/b>·경서(3개) ▲검단(4개) ▲중구 영종(6개) ▲남동구 서창·남촌(3개) ▲부평구 일신(3개) 등 6개 권역에서 등교 시간대 중고생이 탈 수 있는 통학버스다. 학생성공버스는 40개 중고등학교에서... ",
 			"pubDate":"Mon, 03 Jul 2023 20:20:00 +0900"
-		},
-		{
-			"title":"고속도로서 ‘기우뚱’…2.5톤 쓰레기 운반車 차량 덮쳤다",
-			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0018425650&code=61121211&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001620656?sid=102",
-			"description":"3일 오후 5시49분쯤 인천시 중구 인천국제공항고속도로 <b>청라<\/b>IC 인근에서 2.5톤 쓰레기 운반차가 앞서가던 차량 2대를 들이받는 사고가 발생했다. 사고 충격으로 쓰레기 운반차가 옆으로 넘어지며 도로에 폐기물이... ",
-			"pubDate":"Mon, 03 Jul 2023 20:12:00 +0900"
 		}
 	]
 }
