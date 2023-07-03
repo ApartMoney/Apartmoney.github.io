@@ -1,11 +1,25 @@
 {
-	"lastBuildDate":"Mon, 03 Jul 2023 18:00:03 +0900",
-	"total":205461,
+	"lastBuildDate":"Mon, 03 Jul 2023 18:10:02 +0900",
+	"total":205463,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"인천서 중·고등학생 통학버스 운영…수소버스 27대 시범운영",
+			"title":"[칼럼]20만 평 호수공원 공약이 1만 평 인공 호수에 1000억?",
+			"originallink":"http:\/\/www.djtimes.co.kr\/news\/articleView.html?idxno=101325",
+			"link":"http:\/\/www.djtimes.co.kr\/news\/articleView.html?idxno=101325",
+			"description":"△2019년 동탄호수공원, 70만㎡(21만 평), 호수면적 18만㎡(5만6천 평) 710억 △2015년 <b>청라<\/b>호수공원, 70만㎡(21만평), 호수면적 36만㎡(11만 평) 785억 △2013년 세종호수공원, 70만㎡(21만평), 호수면적 33만㎡(10만 평) 924억 △2008년... ",
+			"pubDate":"Mon, 03 Jul 2023 18:08:00 +0900"
+		},
+		{
+			"title":"인천 중고생, &apos;수소버스&apos; 타고 학교 다닌다...이달 첫 운행",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12133459",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000349704?sid=102",
+			"description":"학생성공버스는 인천 송도국제도시, <b>청라<\/b>국제도시·경서, 검단신도시, 영종국제도시, 서창지구·남촌, 부평 등 6개 권역에 도입될 계획입니다. 45인승 버스 총 27대가 투입되며 이 가운데 수소 버스는 3대입니다.... ",
+			"pubDate":"Mon, 03 Jul 2023 18:05:00 +0900"
+		},
+		{
+			"title":"인천서 중·고등학생 통학버스 운영…수소버스 27대 투입",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023070317572219029",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005281236?sid=102",
 			"description":"지역별로 송도, <b>청라<\/b>·경서, 검단, 영종, 서창·남촌, 부평 등 6개 권역으로 나뉘며 45인승 버스 총 27대가 투입된다. 시교육청은 세부 노선과 운행 시간을 확정한 뒤 오는 12일부터 학생성공버스 시범 운영에 나설 예정이다.... ",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202307031009092580942",
 			"description":"단지는 인천 <b>청라<\/b>국제도시옆에 위치해 주거 인프라를 공유할 수 있다. 롯데마트, 홈플러스, <b>청라<\/b>호수공원 등이 이용 가능하며, 스타필드 <b>청라<\/b>점(예정), 코스트코 <b>청라<\/b>점(예정), <b>청라<\/b> 의료복합타운(예정) 등이 예정되어... ",
 			"pubDate":"Mon, 03 Jul 2023 10:52:00 +0900"
-		},
-		{
-			"title":"민선 8기 1주년 맞은 인천서구!",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20230703010000384",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230703010000384",
-			"description":"◇ 서구의 가장 큰 이슈는 ‘60만 인구 돌파’ 한 도시 안에 <b>청라<\/b>국제도시와 검단신도시, 루원시티 등 3개나... 지난달 16일 ‘스타필드 <b>청라<\/b> 비전 선포식’에서 정용진 신세계 부회장이 “스타필드 <b>청라<\/b>를 세계 최초... ",
-			"pubDate":"Mon, 03 Jul 2023 10:36:00 +0900"
-		},
-		{
-			"title":"상반기 아파트 매매거래량 상승 전환… 서울‧세종 70%↑",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1027221",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1027221",
-			"description":"<b>청라<\/b>국제신도시와 가까워 <b>청라<\/b>스타필드(예정) 등의 인프라를 공유할 수 있다. 포스코이앤씨는 충북 청주시 청원구 오창과학산업단지에서 &apos;더샵 오창프레스티지&apos;를 분양할 예정이다. 지상 최고 49층 총 6개 동... ",
-			"pubDate":"Mon, 03 Jul 2023 10:26:00 +0900"
 		}
 	]
 }
