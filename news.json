@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 04 Jul 2023 11:00:02 +0900",
-	"total":205525,
+	"lastBuildDate":"Tue, 04 Jul 2023 11:10:02 +0900",
+	"total":205526,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천교육청, 개발지역에 친환경 무료 통학버스 투입",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/10775839",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005153380?sid=102",
+			"description":"송도·영종·<b>청라<\/b>·검단신도시, 서창·부평 일신지역에 투입 40개 중·고교 학생 무료 등교 가능 이번주 운행... 송도국제도시(연수구)·영종국제도시(중구)·<b>청라<\/b>국제도시(서구)·검단신도시(서구)·서창지구(남동구)·부평... ",
+			"pubDate":"Tue, 04 Jul 2023 11:09:00 +0900"
+		},
 		{
 			"title":"6월 4주차 전국 부동산, 아파트 매매·전세 가격 0.00%-",
 			"originallink":"https:\/\/www.bntnews.co.kr\/article\/view\/bnt202307040016",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001070273?sid=102",
 			"description":"오늘(3일) 오후 5시 50분쯤 인천시 중구 인천국제공항고속도로 <b>청라<\/b>IC 인근에서 1.7t 쓰레기 운반차가 앞서 가던 차량 2대를 들이받았습니다. 이 사고로 쓰레기 운반차가 옆으로 넘어지면서 도로에 폐기물이 쏟아졌고... ",
 			"pubDate":"Mon, 03 Jul 2023 21:18:00 +0900"
-		},
-		{
-			"title":"인천공항고속도로서 쓰레기차 전도…한때 극심한 차량정체",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230703_0002362389&cID=10802&pID=14000",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011950998?sid=102",
-			"description":"3일 경찰 등에 따르면 이날 오후 5시49분께 인천공항고속도로 <b>청라<\/b>IC 인근 4차로에서 A(40대)씨가 몰던 2.5t 쓰레기 운반차량이 앞서가던 차량 2대를 들이받았다. 이후 운반차가 옆으로 전도되면서 폐기물이 도로에... ",
-			"pubDate":"Mon, 03 Jul 2023 21:17:00 +0900"
 		}
 	]
 }
