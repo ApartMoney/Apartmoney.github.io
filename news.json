@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 04 Jul 2023 12:20:03 +0900",
-	"total":205529,
+	"lastBuildDate":"Tue, 04 Jul 2023 12:30:02 +0900",
+	"total":205530,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"제일건설, ‘제일풍경채 계양 위너스카이’ 다음달 분양",
+			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2023070412155717627",
+			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2023070412155717627",
+			"description":"인천 지하철 1호선 작전역과 수도권 도시철도 7호선 산곡역이 인접해 있으며 계양구·부평·경기 부천을 잇는 아나지로 접근성도 수월한 편이다.여기에 서울지하철 2호선(<b>청라<\/b>연장선)까지 뚫리면 서울 접근성은 더욱... ",
+			"pubDate":"Tue, 04 Jul 2023 12:20:00 +0900"
+		},
 		{
 			"title":"인천서 에어컨 관련 화재 잇따라...시민 주의 당부",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1201203",
@@ -205,13 +212,6 @@
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1038617",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1038617",
 			"description":"송도와 <b>청라<\/b>경서, 검단신도시, 영종, 서창남촌, 부평(일신지역) 6개 권역에서 시범운영한다. 시교육청은 올해 1월 시범운영 TF를 구성해 최적 노선을 비롯한 운영 방안을 준비했고 예산 20억 원을 편성했다. 다른 시도는... ",
-			"pubDate":"Mon, 03 Jul 2023 21:48:00 +0900"
-		},
-		{
-			"title":"인천시 서구, <b>청라<\/b>초교 어린이보호구역서 기관합동 등굣길 교통안전 캠페인",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1038538",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1038538",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천시 서구는 3일 <b>청라<\/b>초등학교 앞 어린이보호구역에서 기관 합동 등굣길 교통안전 캠페인을 벌였다. 이날 캠페인에는 강범석 구청장과 서부경찰서, 서부모범운전자회... ",
 			"pubDate":"Mon, 03 Jul 2023 21:48:00 +0900"
 		}
 	]
