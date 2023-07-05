@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 05 Jul 2023 13:50:02 +0900",
-	"total":205591,
+	"lastBuildDate":"Wed, 05 Jul 2023 14:00:02 +0900",
+	"total":205593,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"한여름에도 냉풍이...보령 냉풍욕장 7일 개장",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=968049",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=968049",
+			"description":"한편 보령 냉풍욕장은 <b>청라<\/b>면 냉풍욕장길 190 일원에 있으며 보령 시내에서 36번 국도를 타고 청양·대전 방면으로 이동하다가 청보초등학교 앞 삼거리에서 우회전해 2km 정도 올라가면 쉽게 찾을 수 있다.... ",
+			"pubDate":"Wed, 05 Jul 2023 13:54:00 +0900"
+		},
+		{
+			"title":"인천지하철 요금 10월 1250에서 1400원으로 오른다",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2023070502109954058018&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002811386?sid=102",
+			"description":"시는 하반기에 시내버스 250원, 광역버스(직행좌석) 350원, <b>청라<\/b>∼강서 광역간선급행버스(BRT) 400원을 인상하는 방안도 추진 중이다. 이 경우 성인 기준(교통카드) 버스 요금은 간선버스 1500원, 지선버스 1200원, 타... ",
+			"pubDate":"Wed, 05 Jul 2023 13:51:00 +0900"
+		},
 		{
 			"title":"보령시, 더워질수록 시원해지는 &apos;보령 냉풍욕장&apos; 본격 개장",
 			"originallink":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=982313",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003234125?sid=102",
 			"description":"인천시는 하반기에 시내버스 250원, 광역버스(직행좌석) 350원, <b>청라<\/b>∼강서 광역간선급행버스(BRT) 400원을 인상하는 방안도 추진 중이다. 이 경우 성인 기준(교통카드) 버스 요금은 간선버스 1500원, 지선버스 1200원... ",
 			"pubDate":"Wed, 05 Jul 2023 09:24:00 +0900"
-		},
-		{
-			"title":"인천지하철 요금 1천250→1천400원…10월 인상 예정",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230705036700065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014045454?sid=102",
-			"description":"시는 하반기에 시내버스 250원, 광역버스(직행좌석) 350원, <b>청라<\/b>∼강서 광역간선급행버스(BRT) 400원을 인상하는 방안도 추진 중이다. 이 경우 성인 기준(교통카드) 버스 요금은 간선버스 1천500원, 지선버스 1천200원... ",
-			"pubDate":"Wed, 05 Jul 2023 09:10:00 +0900"
-		},
-		{
-			"title":"충남 보령시, 움직일수록 시원해지는 &apos;보령 냉풍욕장&apos; 본격 개장",
-			"originallink":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=483337",
-			"link":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=483337",
-			"description":"한편, 보령냉풍욕장은 <b>청라<\/b>면 냉풍욕장길 190 일원에 있으며 보령 시내에서 36번 국도를 타고 청양·대전 방면으로 이동하다가 청보초등학교 앞 삼거리에서 우회전해 2km 정도 올라가면 쉽게 찾을 수 있다.",
-			"pubDate":"Wed, 05 Jul 2023 09:10:00 +0900"
 		}
 	]
 }
