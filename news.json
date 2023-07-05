@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 05 Jul 2023 17:00:02 +0900",
-	"total":205605,
+	"lastBuildDate":"Wed, 05 Jul 2023 17:10:02 +0900",
+	"total":205607,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"10월부터 인천지하철요금 12% 인상...버스요금도 줄줄이 인상 대기",
+			"originallink":"http:\/\/www.ifm.kr\/news\/364371",
+			"link":"http:\/\/www.ifm.kr\/news\/364371",
+			"description":"또 공항행 좌석버스는 1천900원, 광역버스는 3천원, <b>청라<\/b>~강서 BRT(광역간선급버스)는 2천600원으로 오릅니다.김준성 시 교통국장은 &quot;고물가 시대에 시민 부담을 최소화하면서 쾌적한 대중교통 서비스를 제공하기... ",
+			"pubDate":"Wed, 05 Jul 2023 17:06:00 +0900"
+		},
+		{
+			"title":"도성훈 교육감 &quot;인천교육 핵심은 올바로·결대로·세계로&quot;",
+			"originallink":"http:\/\/www.ifm.kr\/news\/364401",
+			"link":"http:\/\/www.ifm.kr\/news\/364401",
+			"description":"그래서 송도, 또 <b>청라<\/b> 경서, 검단신도시, 영종, 서창 남촌동, 부평 일신동 6권역. 그렇게 총 27대의 버스가 이제 7월 12일부터 시범운행이 시작이 됩니다. 이 학생성공버스가 갖는 의미는 첫째로는 교육환경 개선과 안전한... ",
+			"pubDate":"Wed, 05 Jul 2023 17:04:00 +0900"
+		},
 		{
 			"title":"인천환경공단, 제28회 환경의 날 기념 환경공모전 시상식 개최",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=406012",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014045861?sid=103",
 			"description":"충남 보령시는 <b>청라<\/b>면에 있는 냉풍욕장이 오는 7일 개장해 다음 달 20일까지 운영된다고 5일 밝혔다. 이곳 냉풍욕장은 지하 수백ｍ까지 이어진 탄광 갱도의 찬 공기가 밖 더운 공기 쪽으로 밀고 나오면서 바람이 발생하는... ",
 			"pubDate":"Wed, 05 Jul 2023 10:43:00 +0900"
-		},
-		{
-			"title":"여름 이색피서지 보령 냉풍욕장 7일 본격 개장",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2757444",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2757444",
-			"description":"보령냉풍욕장은 <b>청라<\/b>면 냉풍욕장길 190 일원에 있으며 보령 시내에서 36번 국도를 타고 청양.대전 방면으로 이동하다가 청보초등학교 앞 삼거리에서 우회전해 2km 정도 올라가면 쉽게 찾을 수 있다.",
-			"pubDate":"Wed, 05 Jul 2023 10:36:00 +0900"
-		},
-		{
-			"title":"인천지하철 기본요금 1250원→1400원 인상",
-			"originallink":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=113232",
-			"link":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=113232",
-			"description":"인천시는 하반기에 시내버스 250원, 광역버스(직행좌석) 350원, <b>청라<\/b>∼강서 광역간선급행버스(BRT) 400원을 인상하는 방안도 추진 중이다. 이 경우 성인 기준(교통카드) 버스 요금은 간선버스 1500원, 지선버스... ",
-			"pubDate":"Wed, 05 Jul 2023 10:32:00 +0900"
 		}
 	]
 }
