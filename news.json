@@ -1,11 +1,25 @@
 {
-	"lastBuildDate":"Wed, 05 Jul 2023 09:30:02 +0900",
-	"total":205564,
+	"lastBuildDate":"Wed, 05 Jul 2023 09:40:02 +0900",
+	"total":205566,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"인천지하철 요금 1250원에서 1400원으로 인상. 오는 10월중 시행 예정",
+			"title":"인천 지하철 기본요금 10월에 150원 인상... 1,250원 → 1400원",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=96215",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=96215",
+			"description":"버스요금 조정안은 일반인 기준 ▲시내버스 250원 ▲광역버스(직행좌석) 350원 ▲<b>청라<\/b>~강서 광역간선급행버스(BRT) 400원 인상안을 유지하지만 인상 시기는 도시철도와 맞춰 10월로 늦춰질 전망이다.",
+			"pubDate":"Wed, 05 Jul 2023 09:34:00 +0900"
+		},
+		{
+			"title":"인천지하철 기본요금 150원 인상 예정",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20230705500030&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003374401?sid=100",
+			"description":"하반기에 시내버스 250원,광역버스(직행좌석) 350원,<b>청라<\/b>∼강서 광역간선급행버스(BRT) 400원을 인상하는 방안도 추진 중이다. 이 경우 성인 기준 교통카드를 이용한 버스 요금은 간선버스 1500원,지선버스 1200원... ",
+			"pubDate":"Wed, 05 Jul 2023 09:32:00 +0900"
+		},
+		{
+			"title":"인천지하철 요금 150원 올려 1400원···10월 중 시행 예정",
 			"originallink":"https:\/\/www.khan.co.kr\/local\/Incheon\/article\/202307050923001",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003234125?sid=102",
 			"description":"인천시는 하반기에 시내버스 250원, 광역버스(직행좌석) 350원, <b>청라<\/b>∼강서 광역간선급행버스(BRT) 400원을 인상하는 방안도 추진 중이다. 이 경우 성인 기준(교통카드) 버스 요금은 간선버스 1500원, 지선버스 1200원... ",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=967769",
 			"description":"송도국제도시, <b>청라<\/b>경서, 검단신도시, 영종국제도시, 서창남촌, 부평(일신지역)등 6개권역의 학생들을 위해... [전국매일신문] 인천\/ 정원근기자 wk-ok@jeonmae.co.kr 인천시교육청,학생성공버스,송도국제도시, <b>청라<\/b>경서... ",
 			"pubDate":"Tue, 04 Jul 2023 14:14:00 +0900"
-		},
-		{
-			"title":"인천교육청, 전국 최초의 학생통학복지 ‘학생성공버스’ 출발",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1727053",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1727053",
-			"description":"학생성공버스는 개발지역, 교통인프라 부족 등의 이유로 통학에 어려움이 있는 송도, <b>청라<\/b>경서, 검단신도시, 영종, 서창남촌, 부평(일신지역)등 6개권역의 학생들을 위해 운영하는 전국 최초의 학생통학복지 사업이다. 타... ",
-			"pubDate":"Tue, 04 Jul 2023 13:42:00 +0900"
-		},
-		{
-			"title":"제일건설, ‘제일풍경채 계양 위너스카이’ 8월 분양 예정",
-			"originallink":"http:\/\/www.sentv.co.kr\/news\/view\/661250",
-			"link":"http:\/\/www.sentv.co.kr\/news\/view\/661250",
-			"description":"여기에 서울지하철 2호선(<b>청라<\/b>연장선) 계획도 발표돼 향후 서울 접근성은 더욱 좋아질 전망이다. 인천 서구 <b>청라<\/b>국제도시와 서울지하철 2호선을 잇는 <b>청라<\/b>연장선은 2025년 착공을 시작해 오는 2031년 개통을 목표로 사업을... ",
-			"pubDate":"Tue, 04 Jul 2023 13:36:00 +0900"
 		}
 	]
 }
