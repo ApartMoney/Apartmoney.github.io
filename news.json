@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 05 Jul 2023 14:40:02 +0900",
-	"total":205594,
+	"lastBuildDate":"Wed, 05 Jul 2023 14:50:02 +0900",
+	"total":205595,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천지하철 기본요금, 10월부터 150원 오른다",
+			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2023070510500000952?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000748083?sid=102",
+			"description":"인천시는 시내버스와 광역버스(직행좌석), <b>청라<\/b>~강서 광역간선급행버스(BRT) 요금을 각각 250원, 350원, 400원 인상하는 방안도 추진하고 있다. 인천시 관계자는 &quot;고물가 시대에 시민이 안전하고 쾌적한 대중교통... ",
+			"pubDate":"Wed, 05 Jul 2023 14:40:00 +0900"
+		},
 		{
 			"title":"더워질수록 시원해지는 ‘보령 냉풍욕장’ 7일 개장",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1727745",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=96215",
 			"description":"버스요금 조정안은 일반인 기준 ▲시내버스 250원 ▲광역버스(직행좌석) 350원 ▲<b>청라<\/b>~강서 광역간선급행버스(BRT) 400원 인상안을 유지하지만 인상 시기는 도시철도와 맞춰 10월로 늦춰질 전망이다.",
 			"pubDate":"Wed, 05 Jul 2023 09:34:00 +0900"
-		},
-		{
-			"title":"인천지하철 기본요금 150원 인상 예정",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20230705500030&wlog_tag3=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003374401?sid=100",
-			"description":"하반기에 시내버스 250원,광역버스(직행좌석) 350원,<b>청라<\/b>∼강서 광역간선급행버스(BRT) 400원을 인상하는 방안도 추진 중이다. 이 경우 성인 기준 교통카드를 이용한 버스 요금은 간선버스 1500원,지선버스 1200원... ",
-			"pubDate":"Wed, 05 Jul 2023 09:32:00 +0900"
 		}
 	]
 }
