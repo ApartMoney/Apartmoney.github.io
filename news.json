@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 07 Jul 2023 06:00:02 +0900",
-	"total":205696,
+	"lastBuildDate":"Fri, 07 Jul 2023 06:10:02 +0900",
+	"total":205697,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전국 아파트 가격 보합… 강남3구 서울 상승세 이끌어",
+			"originallink":"http:\/\/moneys.mt.co.kr\/news\/mwView.php?no=2023070615545015769",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0000933410?sid=101",
+			"description":"송도신도시가 자리한 연수(0.19%)와 정주여건이 양호한 중구(0.15%)의 운서·중산동, 서구(0.06%)의 <b>청라<\/b>·석남동 아파트 가격은 상승했다. 경기 또한 0.03%에서 0.04%로 조정되며 상승세를 유지했다. 양주(-0.20%)는 덕계... ",
+			"pubDate":"Fri, 07 Jul 2023 06:06:00 +0900"
+		},
 		{
 			"title":"&apos;나솔사계&apos; 1기 정식→13기 광수 등장…11기 영철 &quot;바빠서 연애 못해&quot;",
 			"originallink":"https:\/\/sports.hankooki.com\/news\/articleView.html?idxno=6833566",
@@ -61,17 +68,17 @@
 			"pubDate":"Thu, 06 Jul 2023 18:56:00 +0900"
 		},
 		{
-			"title":"[위클리인천] 전국 최초 &apos;학생성공버스&apos;…인천 학생 해외 인턴십 (B tv 인천뉴...",
-			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=159044",
-			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=159044",
-			"description":"그래서 우리교육청에서는 송도,？<b>청라<\/b>경서,？검단신도시,？영종,서창남촌,？부평(일신지역)등？6개권역의 학생들을 위해 ‘학생성공버스’라는 이름으로 전국 최초의 학생통학복지 사업을 시작하게 되었습니다. 타... ",
-			"pubDate":"Thu, 06 Jul 2023 18:44:00 +0900"
-		},
-		{
 			"title":"[사설] 교육평등 가까이 가는 학생성공버스 운행",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1201725",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1201725",
 			"description":"학생성공버스는 송도·<b>청라<\/b>·영종국제도시와 경서, 검단, 서창, 남촌, 일신 등 6개 권역에서 21개 노선이 운행될 예정이다. 40개 지역 중고등학교에서 1240여명이 이용할 전망이다. 학생들의 통학조건은 단순히 이동수단의... ",
+			"pubDate":"Thu, 06 Jul 2023 18:44:00 +0900"
+		},
+		{
+			"title":"[위클리인천] 전국 최초 &apos;학생성공버스&apos;…인천 학생 해외 인턴십 (B tv 인천뉴...",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=159044",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=159044",
+			"description":"그래서 우리교육청에서는 송도,？<b>청라<\/b>경서,？검단신도시,？영종,서창남촌,？부평(일신지역)등？6개권역의 학생들을 위해 ‘학생성공버스’라는 이름으로 전국 최초의 학생통학복지 사업을 시작하게 되었습니다. 타... ",
 			"pubDate":"Thu, 06 Jul 2023 18:44:00 +0900"
 		},
 		{
@@ -194,13 +201,6 @@
 			"pubDate":"Thu, 06 Jul 2023 14:04:00 +0900"
 		},
 		{
-			"title":"서울 아파트값, 7주 연속 상승…전국은 2주 연속 보합",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5972224",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003788125?sid=101",
-			"description":"연수(0.18%→0.19%)는 송도 주요단지를 중심으로 서구(0.04%→0.06%)는 <b>청라<\/b> 주요단지지 상승세를 이끌며... <b>청라<\/b>와 검단이 있는 서구(0.02%→0.07%)는 상승폭이 확대됐고, 중구(-0.03%→0.07%)는 상승전환했지만... ",
-			"pubDate":"Thu, 06 Jul 2023 14:02:00 +0900"
-		},
-		{
 			"title":"강남3구·과천·송도, 수도권 주요지역 아파트값 상승세 지속…지방은 하락 확...",
 			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023070610554920755e6e69892f_18",
 			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023070610554920755e6e69892f_18",
@@ -208,11 +208,11 @@
 			"pubDate":"Thu, 06 Jul 2023 14:02:00 +0900"
 		},
 		{
-			"title":"강남권 상승, 노도강 하락...학군지·신축대단지 전셋값 올라",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230706_0002366271&cID=10405&pID=10400",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011957581?sid=101",
-			"description":"인천(0.06%→0.05%)에서는 연수구(0.18%→0.19%)가 송도·동춘동 주요 단지 위주로, 중구(0.19%→0.15%)는 정주 여건 양호한 운서·중산동 위주로, 서구(0.04%→0.06%)는 <b>청라<\/b>·석남동 위주로 올랐다. 경기(0.03%→0.04%)는... ",
-			"pubDate":"Thu, 06 Jul 2023 14:01:00 +0900"
+			"title":"서울 아파트값, 7주 연속 상승…전국은 2주 연속 보합",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/5972224",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003788125?sid=101",
+			"description":"연수(0.18%→0.19%)는 송도 주요단지를 중심으로 서구(0.04%→0.06%)는 <b>청라<\/b> 주요단지지 상승세를 이끌며... <b>청라<\/b>와 검단이 있는 서구(0.02%→0.07%)는 상승폭이 확대됐고, 중구(-0.03%→0.07%)는 상승전환했지만... ",
+			"pubDate":"Thu, 06 Jul 2023 14:02:00 +0900"
 		}
 	]
 }
