@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 12 Jul 2023 00:00:02 +0900",
-	"total":205878,
+	"lastBuildDate":"Wed, 12 Jul 2023 00:10:02 +0900",
+	"total":205879,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"요상해진 요즘 장마… 전국 돌발 폭포비에 피해 속출",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0924311409&code=11131100&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001622745?sid=102",
+			"description":"중구 대신동 <b>청라<\/b>언덕역 인근 편도 5차선 도로인 달구벌대로에 가로수가 쓰러져 차량 통행이 한때 제한됐고, 달서구 성서공단에서도 가로수가 쓰러져 차량을 덮쳤다. 광주에선 낮 12시쯤 북구 한 아파트단지의 어린이집... ",
+			"pubDate":"Wed, 12 Jul 2023 00:06:00 +0900"
+		},
 		{
 			"title":"기습 폭우로 전국 곳곳 피해 속출 ...1명 사망, 1명 실종",
 			"originallink":"http:\/\/www.ikbc.co.kr\/article\/view\/kbc202307110076",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004212699?sid=102",
 			"description":"오후 2시 9분께 중구 대신동 <b>청라<\/b>언덕역 인근 편도 5차선 도로인 달구벌대로에 가로수가 쓰러져 차량 통행이 한때 제한됐다． 오후 2시 30분께 달서구 성서공단에서도 가로수가 쓰러져 차량 두 대 위를 덮쳤다. 중구... ",
 			"pubDate":"Tue, 11 Jul 2023 17:04:00 +0900"
-		},
-		{
-			"title":"이단비 인천시의원 &quot;인천고등법원 설치해 양질의 사법 서비스 제공해야&quot;",
-			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/2029846.htm",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000226859?sid=102",
-			"description":"이단비 의원은 &quot;인천고등법원 관할 구역은 최근 10년간 가장 빠르게 인구가 증가하고 있고, 향후 개발사업이 완료되면 급격한 인구 증가가 예상된다&quot;며 &quot;송도, 영종, <b>청라<\/b>, 검단 등 인천 내 개발사업이 완료되면 급격한... ",
-			"pubDate":"Tue, 11 Jul 2023 17:03:00 +0900"
 		}
 	]
 }
