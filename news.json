@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 12 Jul 2023 11:00:02 +0900",
-	"total":205888,
+	"lastBuildDate":"Wed, 12 Jul 2023 11:10:03 +0900",
+	"total":205889,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천연희공원 품은 ‘호반써밋파크에디션’ 분양 채비",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/10782538",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/024\/0000083234?sid=101",
+			"description":"단지는 인천 <b>청라<\/b>국제도시 바로 옆에 위치했다. 스타필드 <b>청라<\/b>점(예정), 코스트코 <b>청라<\/b>점(예정), <b>청라<\/b> 의료복합타운(예정), 관공서 등 다양한 생활편의시설을 쉽게 이용할 수 있는 입지다. LG전자 인천캠퍼스... ",
+			"pubDate":"Wed, 12 Jul 2023 11:01:00 +0900"
+		},
 		{
 			"title":"충남 보령시, 충청남도 행복농촌만들기콘테스트 전 분야 수상 &apos;쾌거&apos;",
 			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=924771",
@@ -180,17 +187,17 @@
 			"pubDate":"Tue, 11 Jul 2023 19:12:00 +0900"
 		},
 		{
-			"title":"대구지역 폭우피해 잇따라…약 3시간만에 70여건 접수",
-			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2136552",
-			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2136552",
-			"description":"오후 2시 9분께 중구 대신동 <b>청라<\/b>언덕역 인근 편도 5차선 도로 옆 가로수가 쓰러져 한때 차량 통행이 제한됐고, 비슷한 시각 동구 효목동에서는 갑작스러운 폭우로 하수구가 역류해 도로가 침수됐다. 11일 오후 대구... ",
-			"pubDate":"Tue, 11 Jul 2023 19:02:00 +0900"
-		},
-		{
 			"title":"전국 곳곳 &apos;기습 폭우&apos;… 도로 침수·가로수 쓰러짐 사고 발생",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3043800",
 			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3043800",
 			"description":"오후 2시 9분경에는 대구시 중구 대신동 <b>청라<\/b>언덕역 인근에서 가로수가 쓰러져 차량 통행이 일시 제한됐다. 침수 피해도 속출했다. 오후 2시 10분경 대구시 동구 효목동에서는 하수구가 역류하며 도로가 침수됐다. 같은... ",
+			"pubDate":"Tue, 11 Jul 2023 19:02:00 +0900"
+		},
+		{
+			"title":"대구지역 폭우피해 잇따라…약 3시간만에 70여건 접수",
+			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2136552",
+			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2136552",
+			"description":"오후 2시 9분께 중구 대신동 <b>청라<\/b>언덕역 인근 편도 5차선 도로 옆 가로수가 쓰러져 한때 차량 통행이 제한됐고, 비슷한 시각 동구 효목동에서는 갑작스러운 폭우로 하수구가 역류해 도로가 침수됐다. 11일 오후 대구... ",
 			"pubDate":"Tue, 11 Jul 2023 19:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1202375",
 			"description":"특히 인천은 송도·<b>청라<\/b>·영종·검단 등 신도심 전체 학급 가운데 과밀 비율은 36.5%에 이른다. 인천의 학교 부족과 과밀학급 문제는 어제오늘 일이 아니다. 또한 인천뿐만 아니라 수도권 지역의 공통된 현안이다.... ",
 			"pubDate":"Tue, 11 Jul 2023 18:22:00 +0900"
-		},
-		{
-			"title":"[경제플러스] 글로벌바이오캠퍼스 송도에…기대와 과제는 (B tv 인천뉴스)",
-			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=159189",
-			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=159189",
-			"description":"연세대 세브란스병원과 <b>청라<\/b>의료복합타운의 아산병원도 공사가 진행중입니다. 송도 바이오 클러스터의 바이오 의약품 생산 역량은 현재 8 8만 리터 규모로 단일 도시 기준 세계 최대이고, 삼성바이 오로직스 5공장이... ",
-			"pubDate":"Tue, 11 Jul 2023 18:14:00 +0900"
 		}
 	]
 }
