@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 16 Jul 2023 14:50:02 +0900",
-	"total":206080,
+	"lastBuildDate":"Sun, 16 Jul 2023 15:00:02 +0900",
+	"total":206081,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 공공심야약국 올해부터 27곳으로 확대",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0018468589&code=61121111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001623796?sid=102",
+			"description":"지난해까지 공공심야약국이 운영되지 않아 시민 불편이 제기됐던 서구(검단·<b>청라<\/b>), 연수구 등 지역에 10곳이 새롭게 지정되면서 인천시민 누구나 반경 3㎞ 안의 공공심야약국을 15분 내에 이용할 수 있게 됐다.... ",
+			"pubDate":"Sun, 16 Jul 2023 14:57:00 +0900"
+		},
 		{
 			"title":"인천시, 공공심야약국 올해 27곳으로 확대",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=755889",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069960",
 			"description":"부산 BNK 썸은 14일 <b>청라<\/b>체육관에서 열린 연습경기에서 부천 하나원큐를 상대로 93-69로 승리했다. 이날 이소희는 22점을 기록하면서 BNK의 공격을 이끌었다. 이소희는 &quot;오늘이 첫 프로팀과의 연습경기였다.  대표팀에서... ",
 			"pubDate":"Fri, 14 Jul 2023 20:34:00 +0900"
-		},
-		{
-			"title":"BNK, 연습경기에서 하나원큐 상대로 24점차 승리",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=88116",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000069959",
-			"description":"부산 BNK 썸은 14일 <b>청라<\/b> 하나원큐 체육관에서 열린 연습경기에서 부천 하나원큐를 상대로 93-69로 승리했다. 이소희가 22점 5리바운드를 기록했고 한엄지도 16점 7리바운드를 보탰다. 하나원큐에서는 양인영이 21점을... ",
-			"pubDate":"Fri, 14 Jul 2023 20:32:00 +0900"
 		}
 	]
 }
