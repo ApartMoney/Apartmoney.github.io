@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 17 Jul 2023 20:00:02 +0900",
-	"total":206144,
+	"lastBuildDate":"Mon, 17 Jul 2023 20:10:02 +0900",
+	"total":206145,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[이재우 칼럼] 지금이 인천의 대전환 적기이다!",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230717010001549",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230717010001549",
+			"description":"공항과 관련된 면세, 관광, 레저산업은 영종도, <b>청라<\/b>, 송도 미래도시, 강화 및 제물포 개항지구와 연계하여 한류 문화 지구로 성장할 수 있을 것이다. 영종도와 강화도 연결 대교는 강화를 역사안보갯벌 문화지구로... ",
+			"pubDate":"Mon, 17 Jul 2023 20:00:00 +0900"
+		},
 		{
 			"title":"&apos;대형 개발 호재&apos;…지역 시세·집값 견인한다",
 			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2023\/07\/17\/2023071700254.html",
@@ -33,17 +40,17 @@
 			"pubDate":"Mon, 17 Jul 2023 18:16:00 +0900"
 		},
 		{
-			"title":"아이들 손으로 따뜻한 이웃 사랑 실천",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1203206",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1203206",
-			"description":"인천 서구 <b>청라<\/b>3동 행정복지센터(동장 이은희)는 지난 13일 국공립 <b>청라<\/b>대광어린이집(원장 최윤정)으로부터 이웃 돕기 성금 100만원을 전달받았다. 성금은 어린이집에서 개최한 &apos;시장 놀이&apos; 수익금으로 마련됐다. 최윤정... ",
-			"pubDate":"Mon, 17 Jul 2023 18:02:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b> 늘푸른근린공원·가정 바람꽃공원 물놀이장 활짝",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1203199",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1203199",
 			"description":"\/사진제공=인천서구 인천 서구는 본격적 여름철을 맞아 지난 15일 <b>청라<\/b>동 늘푸른근린공원과 가정동 바람꽃공원 내 물놀이장을 개장했다. 물놀이장 운영 기간은 내달 27일까지이며 운영 시간은 오전 10시부터 오후... ",
+			"pubDate":"Mon, 17 Jul 2023 18:02:00 +0900"
+		},
+		{
+			"title":"아이들 손으로 따뜻한 이웃 사랑 실천",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1203206",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1203206",
+			"description":"인천 서구 <b>청라<\/b>3동 행정복지센터(동장 이은희)는 지난 13일 국공립 <b>청라<\/b>대광어린이집(원장 최윤정)으로부터 이웃 돕기 성금 100만원을 전달받았다. 성금은 어린이집에서 개최한 &apos;시장 놀이&apos; 수익금으로 마련됐다. 최윤정... ",
 			"pubDate":"Mon, 17 Jul 2023 18:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.venturesquare.net\/888584",
 			"description":"올해 오토플러스는 인천 <b>청라<\/b>지구에 보유한 ATC에 대해 ‘중고차 Workshop 프로세스’ 재인증을 성공적으로 마쳤다. 3년에 한 번씩 진행하는 재인증은 최초로 인증을 부여할 때와 동일한 수준으로 프로세스 전 과정을... ",
 			"pubDate":"Mon, 17 Jul 2023 11:17:00 +0900"
-		},
-		{
-			"title":"IBK기업은행, &apos;미래성장동력 강화&apos; 위해 하반기 조직개편·정기인사 단행",
-			"originallink":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=62003",
-			"link":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=62003",
-			"description":"이동현 ▲인천<b>청라<\/b> 문명섭 ▲주안 권혁구 ▲갈산역 이현주 ▲계양 백인범 ▲도당동 홍은수 ▲도당중앙 윤영선 ▲부천 강상철 ▲부천기업스마트 박경란 ▲부평 손화옥 ▲부평기업스마트 김용호 ▲삼정동 임채일 ▲역곡... ",
-			"pubDate":"Mon, 17 Jul 2023 11:00:00 +0900"
 		}
 	]
 }
