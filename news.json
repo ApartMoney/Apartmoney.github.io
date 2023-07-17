@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 18 Jul 2023 08:00:02 +0900",
-	"total":206152,
+	"lastBuildDate":"Tue, 18 Jul 2023 08:10:02 +0900",
+	"total":206153,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전국 주요 신문 톱뉴스](18일 조간)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230718011700505?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014073748?sid=004",
+			"description":"공항고속도로 <b>청라<\/b>IC 출근길은 &quot;교통지옥&quot; ▲ 강원도민일보 = 소양강댐 쌓던 소년…&quot;헤어진 어머니를 찾습니다&quot; ▲ 강원일보 = 폭우에 산불 피해지 산사태·도심 빈집 붕괴 걱정인데…재해 취약지 관리 나 몰라라... ",
+			"pubDate":"Tue, 18 Jul 2023 08:00:00 +0900"
+		},
 		{
 			"title":"병원계에 부는 &apos;중입자&apos; 바람…&quot;수요 충분&quot;vs&quot;검증 필요&quot;",
 			"originallink":"https:\/\/www.medicaltimes.com\/Main\/News\/NewsView.html?ID=1154534&ref=naverpc",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.breaknews.com\/976677",
 			"description":"종목별 대회는 중구 <b>청라<\/b>국민체육센터 외 6곳(남산초등학교, 강변 천연1구장·인조3구장, 동산볼링장, 대봉교게이트볼장, 범어정구장, 강변파크골프장, 남산초등학교)... ",
 			"pubDate":"Mon, 17 Jul 2023 13:56:00 +0900"
-		},
-		{
-			"title":"아파트·오피스·상업시설… 국내 대표 건설사 상품 대거 선보인다",
-			"originallink":"https:\/\/www.chosun.com\/economy\/real_estate\/2023\/07\/17\/M6SR6UDEKVB4LMC7GV637R2JBA\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003776149?sid=101",
-			"description":"‘래미안 라그란데’… ‘THE H’… ‘e편한세상 강동 프레스티지원’… <b>청라<\/b> 최초의 프라임급 오피스... 종합부동산개발 기업인 보성산업은 인천 <b>청라<\/b> 최초의 프라임급 오피스 ‘오피스A(가칭)’와 서울 청량리의... ",
-			"pubDate":"Mon, 17 Jul 2023 13:48:00 +0900"
 		}
 	]
 }
