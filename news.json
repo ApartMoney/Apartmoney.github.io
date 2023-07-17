@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 18 Jul 2023 03:00:02 +0900",
-	"total":206150,
+	"lastBuildDate":"Tue, 18 Jul 2023 03:10:02 +0900",
+	"total":206151,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[아파트 미리보기]인천 학익지구 중심에 562채 분양",
+			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20230717\/120284241\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003509972?sid=101",
+			"description":"미추홀대로를 통해 송도국제도시, <b>청라<\/b>국제도시로도 접근이 용이하다. 수인분당선 인하대역과 학익역(2026년 개통 예정)이 단지 반경 2km 이내에 있어 인천은 물론이고 서울과 경기 지역 접근성도 높다. 법원 등... ",
+			"pubDate":"Tue, 18 Jul 2023 03:05:00 +0900"
+		},
 		{
 			"title":"강수현-최삼섭 양주형 관광개발 투자 ‘공유’",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230718010004787",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003236618?sid=102",
 			"description":"중봉터널은 <b>청라<\/b>국제도시가 있는 서구 경서동 경서삼거리에서 왕길동 검단2 교차로를 연결하는 4.567㎞, 왕복 4차선의 자동차 전용도로이다. 중봉터널은 경인아라뱃길 밑을 지나는 대도심 터널로 건설된다. 3551억원을... ",
 			"pubDate":"Mon, 17 Jul 2023 13:39:00 +0900"
-		},
-		{
-			"title":"제일건설, ‘제일풍경채 계양 위너스카이’ 내달 선봬",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230717001308136",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230717001308136",
-			"description":"최근엔 서울지하철 2호선(<b>청라<\/b>연장선) 계획이 발표돼 향후 서울 접근성이 개선될 전망이다. 인천 서구 <b>청라<\/b>국제도시와 서울지하철 2호선을 잇는 <b>청라<\/b>연장선은 25년 착공을 시작해 오는 31년 개통을 목표로 사업을... ",
-			"pubDate":"Mon, 17 Jul 2023 13:10:00 +0900"
 		}
 	]
 }
