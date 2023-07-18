@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 19 Jul 2023 03:00:02 +0900",
-	"total":206235,
+	"lastBuildDate":"Wed, 19 Jul 2023 03:10:02 +0900",
+	"total":206236,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"<b>청라<\/b>국제도시에 ‘작은 우주’ 펼쳐진다",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20230719\/120303478\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003510183?sid=102",
+			"description":"인천 <b>청라<\/b>국제도시 공원의 야간 경관이 한층 화려해진다. 인천경제자유구역청은 <b>청라<\/b> 창해·녹청문화공원 커낼웨이 구간 1.1km에 미디어파사드와 광섬유 조명을 설치하고 18일부터 운영을 시작했다고 밝혔다. 야간... ",
+			"pubDate":"Wed, 19 Jul 2023 03:02:00 +0900"
+		},
 		{
 			"title":"인천경제청 &quot;<b>청라<\/b>국제도시 공원 힐링공간으로 새롭게 태어난다&quot;",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=552841",
@@ -194,13 +201,6 @@
 			"pubDate":"Tue, 18 Jul 2023 15:59:00 +0900"
 		},
 		{
-			"title":"인천 新주거타운 학익지구 최중심 … 상품성까지 갖춘 &apos;포레나 인천학익&apos;",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/10787552",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005160289?sid=004",
-			"description":"문학IC와 도화IC를 통해 인천대로, 제2경인고속도로 등으로 진입이 수월해 서울, 판교, 분당 등으로 광역 이동이 가능하고 미추홀대로를 통해 송도국제도시와 <b>청라<\/b>국제도시로 접근이 용이하다. 게다가 수인분당선... ",
-			"pubDate":"Tue, 18 Jul 2023 15:59:00 +0900"
-		},
-		{
 			"title":"전주 에코시티 한양수자인 디에스틴, 전주 에코시티 최중심·최고층 랜드마크...",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/10787555",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005160292?sid=004",
@@ -208,11 +208,11 @@
 			"pubDate":"Tue, 18 Jul 2023 15:59:00 +0900"
 		},
 		{
-			"title":"&quot;인천개항장 문화재 야행&quot; 주민 참여형 야행 선도",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=413462",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=413462",
-			"description":"<b>청라<\/b>국제도시 공원 힐링공간으로 새롭게 태어난다 창해·녹청문화공원에 이달중 미디어파사드 등 설치해 야간경관조명 시작 <b>청라<\/b>호수공원에는 수국 포함 초화·수목 식재 테마원 조성 완료 ▲인천경제청 인천개항장... ",
-			"pubDate":"Tue, 18 Jul 2023 15:28:00 +0900"
+			"title":"인천 新주거타운 학익지구 최중심 … 상품성까지 갖춘 &apos;포레나 인천학익&apos;",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/10787552",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005160289?sid=004",
+			"description":"문학IC와 도화IC를 통해 인천대로, 제2경인고속도로 등으로 진입이 수월해 서울, 판교, 분당 등으로 광역 이동이 가능하고 미추홀대로를 통해 송도국제도시와 <b>청라<\/b>국제도시로 접근이 용이하다. 게다가 수인분당선... ",
+			"pubDate":"Tue, 18 Jul 2023 15:59:00 +0900"
 		}
 	]
 }
