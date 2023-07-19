@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 20 Jul 2023 04:50:02 +0900",
-	"total":206283,
+	"lastBuildDate":"Thu, 20 Jul 2023 05:00:03 +0900",
+	"total":206284,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서 달리던 승용차 가드레일 들이받고 전복…60대 부상",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230720003400065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014079057?sid=102",
+			"description":"20일 인천 서부경찰서에 따르면 전날 오후 11시 20분께 인천시 서구 <b>청라<\/b>동 한 도로에서 60대 남성 A씨가 몰던 SM3 승용차가 가드레일을 들이받고 전복됐다. 이 사고로 A씨가 다쳐 인근 병원으로 옮겨져 치료받고 있으며... ",
+			"pubDate":"Thu, 20 Jul 2023 04:49:00 +0900"
+		},
 		{
 			"title":"[이홍석의 시선고정]IFEZ 국제학교 설립 유치 불법 일색… 인천경제청, 현행법...",
 			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230719000827",
@@ -124,17 +131,17 @@
 			"pubDate":"Wed, 19 Jul 2023 16:20:00 +0900"
 		},
 		{
-			"title":"호반건설, 인천 연희공원 품은 ‘호반써밋 파크에디션’ 19일 2순위 청약 접수",
-			"originallink":"http:\/\/www.segye.com\/content\/html\/2023\/07\/19\/20230719519222.html?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003835664?sid=101",
-			"description":"수도권 제2순환고속도로, 인천국제공항고속도로 등 이용이 수월하며, 7호선 <b>청라<\/b> 연장선(석남역~공항철도 <b>청라<\/b>국제도시), 제3 연륙교, 인천 도시철도 3호선 등도 계획되어 있어 광역 교통망을 형성하게 된다. 호반써밋... ",
-			"pubDate":"Wed, 19 Jul 2023 16:07:00 +0900"
-		},
-		{
 			"title":"모리셔스브라운-호요버스 ‘붕괴 스타레일’ 콜라보",
 			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0018480478&code=61151511&cp=nv",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=005&aid=0001624733",
 			"description":"모리셔스브라운 콜라보 이벤트 참여 매장은 서울(대학로마로니에공원점, 망원점, 여의도점, 가양홈플러스점), 인천(<b>청라<\/b>점, 송도한라웨스턴파크점, 영종점), 경기(경기광주점, 운정점, 남양주한양병원점, 안산본오점... ",
+			"pubDate":"Wed, 19 Jul 2023 16:07:00 +0900"
+		},
+		{
+			"title":"호반건설, 인천 연희공원 품은 ‘호반써밋 파크에디션’ 19일 2순위 청약 접수",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2023\/07\/19\/20230719519222.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003835664?sid=101",
+			"description":"수도권 제2순환고속도로, 인천국제공항고속도로 등 이용이 수월하며, 7호선 <b>청라<\/b> 연장선(석남역~공항철도 <b>청라<\/b>국제도시), 제3 연륙교, 인천 도시철도 3호선 등도 계획되어 있어 광역 교통망을 형성하게 된다. 호반써밋... ",
 			"pubDate":"Wed, 19 Jul 2023 16:07:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014077629?sid=102",
 			"description":"청양에서는 제방 붕괴로 침수돼 고립된 마을에 소방보트를 이용해 들어가 대피를 거부하는 주민을 설득하고, 보령에서는 예방 순찰 중 <b>청라<\/b>터널 인근 경사면이 붕괴한 것을 발견하고 신속하게 도로를 통제했다.... ",
 			"pubDate":"Wed, 19 Jul 2023 14:13:00 +0900"
-		},
-		{
-			"title":"충남경찰, 집중호우 피해 복구 총력 지원 나서",
-			"originallink":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=725987",
-			"link":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=725987",
-			"description":"보령경찰서에서는 예방순찰 중 <b>청라<\/b>터널 인근 경사면이 붕괴된 것을 발견하고 신속한 도로통제로 사고예방을 하는 등 신속한 조치를 취했다. 충남경찰청 관계자는 &quot;주말 이후 다시 예상되는 호우에 대비할 필요도 있지만... ",
-			"pubDate":"Wed, 19 Jul 2023 14:10:00 +0900"
 		}
 	]
 }
