@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 19 Jul 2023 17:30:03 +0900",
-	"total":206270,
+	"lastBuildDate":"Wed, 19 Jul 2023 17:40:02 +0900",
+	"total":206271,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시, 벼 병해충 항공·공동방제로 노동력 부족 해소",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230719010010927",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230719010010927",
+			"description":"유인 항공방제는 △19일 <b>청라<\/b>면, 남포면, 천북면, 대천2동(주교면) △20일 대천5동, 남포면, 천북면, 주교면 △21일 웅천읍, 남포면, 오천면, 청소면 △22일 주산면, 대천5동(남포면), 천북면, 청소면 △23일 <b>청라<\/b>면, 남포면... ",
+			"pubDate":"Wed, 19 Jul 2023 17:36:00 +0900"
+		},
 		{
 			"title":"충남 보령시, 벼 병해충 항공·공동방제로 노동력 부족 해소",
 			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=926309",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=487001",
 			"description":"유인 항공방제는 △19일 <b>청라<\/b>면, 남포면, 천북면, 대천2동 △20일 대천5동, 남포면, 천북면, 주교면 △21일 웅천읍, 남포면, 오천면, 청소면 △22일 주산면, 대천5동, 천북면, 청소면 △23일 <b>청라<\/b>면, 남포면, 주교면에서... ",
 			"pubDate":"Wed, 19 Jul 2023 09:14:00 +0900"
-		},
-		{
-			"title":"[공감신문 알쓸다정] 도심 속 공원녹지…수도권 &apos;도시숲 조성&apos; 알아보기",
-			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=743107",
-			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=743107",
-			"description":"올해까지 3개소의 도시바람길 숲과 도롱뇽도시생태공원내·제2경인고속도로 녹지·<b>청라<\/b> 완충녹지, 경관녹지 등 4개소 숲 조성을 마무리하면 13개소(17.68ha)의 도시바람길 숲과 25개소(42.05ha) 기후대응 도시 숲 조성이 모두... ",
-			"pubDate":"Wed, 19 Jul 2023 08:58:00 +0900"
 		}
 	]
 }
