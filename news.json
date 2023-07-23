@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 23 Jul 2023 16:50:02 +0900",
-	"total":206426,
+	"lastBuildDate":"Sun, 23 Jul 2023 17:00:02 +0900",
+	"total":206427,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 아파트값 7주 연속 올라…전주 대비 0.08% 상승",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363603036",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363603036",
+			"description":"<b>청라<\/b>국제도시, 검단신도시, 루원시티가 위치한 서구는 지난 5주 간 상승률이 0.05% → 0.04% → 0.06% → 0.03% → 0.03%로 정체 상태를 보였다. 지역 부동산 중개업계는 아파트값 상승률은 신도시 간 신규 입주물량에... ",
+			"pubDate":"Sun, 23 Jul 2023 16:58:00 +0900"
+		},
 		{
 			"title":"인천 로봇랜드 신규 계약 임박… iH 공동시행자 참여, 사업 본격화 전망",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20230723580154",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=22093",
 			"description":"또한 최근 인천 <b>청라<\/b>권역에서 분양하고 있는 H아파트의 분양가가 전용면적 84㎡ 기준 6억원대에 책정된 것과 비교해도 최대 2억원 정도 저렴한 분양가를 갖추고 있다. 단지는 분양조건도 장점으로, 계약체결 당시의... ",
 			"pubDate":"Sat, 22 Jul 2023 09:10:00 +0900"
-		},
-		{
-			"title":"분양가 더 오르기 전 내집 마련... &apos;포레나 인천학익&apos; 8월 공급 예정 &apos;주목&apos;",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=278094",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=278094",
-			"description":"먼저 단지는 문학IC와 도화IC를 통해 인천대로, 제2경인고속도로 등으로 진입이 수월해 서울, 판교, 분당 등으로 광역 이동이 가능하고 미추홀대로를 통해 송도국제도시, <b>청라<\/b>국제도시로 접근이 용이하다. 여기에... ",
-			"pubDate":"Sat, 22 Jul 2023 09:02:00 +0900"
 		}
 	]
 }
