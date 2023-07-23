@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 23 Jul 2023 22:00:02 +0900",
-	"total":206431,
+	"lastBuildDate":"Sun, 23 Jul 2023 22:10:02 +0900",
+	"total":206432,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 무인 운영 카페서 놀던 2살 여아 사망",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3047450",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3047450",
+			"description":"23일 인천 서부경찰서에 따르면 전날 오전 11시 37분께 인천 서구 <b>청라<\/b>국제도시의 한 무인 키즈카페에서 놀던 A양(2)이 키즈 풀에 빠져 사망했다. 경찰의 조사 결과 A양은 수심 63㎝인 키즈 풀에서 놀던 당시 다른 아이들과... ",
+			"pubDate":"Sun, 23 Jul 2023 22:00:00 +0900"
+		},
 		{
 			"title":"&apos;무인 키즈풀&apos;서 2살 아이 숨져…안전관리 사각지대",
 			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007279680&plink=ORI&cooper=NAVER",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006944646?sid=102",
 			"description":"A씨 등은 21일 오전 5시쯤 인천시 서구 <b>청라<\/b>동의 한 매장 유리창을 둔기로 부순 후 3000만원 상당의 시계와 가방 등을 훔친 혐의를 받는다. 경찰은 CCTV등을 분석해 이들을 인천 서구와 연수구에서 각각 체포했다.... ",
 			"pubDate":"Sat, 22 Jul 2023 11:55:00 +0900"
-		},
-		{
-			"title":"5분 만에 고가 시계·가방 싹쓸이…2명 검거",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007278796&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001075422?sid=102",
-			"description":"A 씨 등은 어제(21일) 새벽 5시쯤 인천시 서구 <b>청라<\/b>동 한 편집숍에서 망치로 유리창을 부수고 들어가 3천만 원 상당의 시계와 가방 등을 훔친 혐의를 받고 있습니다. 이들은 가게에 침입한 지 5분여 만에 훔친 물건들을... ",
-			"pubDate":"Sat, 22 Jul 2023 11:48:00 +0900"
 		}
 	]
 }
