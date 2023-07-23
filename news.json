@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 23 Jul 2023 16:00:02 +0900",
-	"total":206422,
+	"lastBuildDate":"Sun, 23 Jul 2023 16:10:03 +0900",
+	"total":206423,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"우리나라에서 가장 긴 에스컬레이터인데 8년 동안 &apos;무사고&apos; 기록할 수 있었던...",
+			"originallink":"https:\/\/www.insight.co.kr\/news\/445110",
+			"link":"https:\/\/www.insight.co.kr\/news\/445110",
+			"description":"= 길이가 60m에 달하는데도 8년간 &apos;무사고&apos;를 기록하고 있는 에스컬레이터의 비결(?)이 화제가 되고 있다.최근 각종 온라인 커뮤니티에서는 지난달 23일 SBS &apos;8뉴스&apos;가 보도한 대구 도시철도 <b>청라<\/b>언덕역의 에스컬레이터 안전... ",
+			"pubDate":"Sun, 23 Jul 2023 16:06:00 +0900"
+		},
 		{
 			"title":"이행숙 인천시 문화복지정무부시장 “서구 원도심 활력 넣어 부활”",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20230723580117",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=96517",
 			"description":"<b>청라<\/b>국제도시 아파트단지 전경 특히 송도국제도시가 있는 연수구는 지난 4월 17일 이후 13주 연속... <b>청라<\/b>국제도시, 검단신도시, 루원시티가 위치한 서구는 지난 5주 간 상승률이 0.05% → 0.04% → 0.06% → 0.03% → 0.03... ",
 			"pubDate":"Fri, 21 Jul 2023 18:12:00 +0900"
-		},
-		{
-			"title":"주말 &apos;폭염&apos; 식혀줄 비예보...인천 &apos;지하차도&apos;는 안전한가?",
-			"originallink":"http:\/\/www.ifm.kr\/news\/365466",
-			"link":"http:\/\/www.ifm.kr\/news\/365466",
-			"description":"그가 매일 출퇴근 때 이용하는 &apos;<b>청라<\/b>지하차도&apos;가 심곡천 하천변에 있기 때문입니다. 지난 집중호우 때, 제방... 낀 &apos;<b>청라<\/b>지하차도&apos;는 심곡천의 최대 홍수위(3.75m)보다 높은 위치(6~7m)에 건설돼 &apos;오송 지하차도&apos;와 같은 사고... ",
-			"pubDate":"Fri, 21 Jul 2023 16:50:00 +0900"
 		}
 	]
 }
