@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 24 Jul 2023 14:20:02 +0900",
-	"total":206486,
+	"lastBuildDate":"Mon, 24 Jul 2023 14:30:02 +0900",
+	"total":206487,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서구, 중부권역 중심 민·관 합동 야간방역",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1736435",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1736435",
+			"description":"인천시 서구는 장마이후 모기 등 해충 개체 수의 급증을 막기 위해 검암경서, 연희, <b>청라<\/b>, 가정 등 서구 중부권역을 중심으로 지난 20일 민·관 합동 야간방역을 진행했다고 24일 밝혔다. 말라리아 등 감염병에 매개가 되는... ",
+			"pubDate":"Mon, 24 Jul 2023 14:22:00 +0900"
+		},
 		{
 			"title":"호반건설, 인천 &apos;호반써밋 파크에디션&apos; 분양중",
 			"originallink":"http:\/\/sports.chosun.com\/news\/ntype.htm?id=202307250100179450023312&servicedate=20230724",
@@ -61,17 +68,17 @@
 			"pubDate":"Mon, 24 Jul 2023 13:30:00 +0900"
 		},
 		{
+			"title":"유정복 “7호선 <b>청라<\/b>연장 구간 예정대로 2027년 개통”",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/10791872",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005162854?sid=103",
+			"description":"7호선 <b>청라<\/b>연장 구간을 애초 계획대로 2027년 개통하겠다고 밝혔다. 기존 구간에 추가역(가칭 돔구장역) 신설안이 등장하면서 서구 <b>청라<\/b> 주민 중심으로 공사기간 연장 우려가 확산하자 선제적으로 나서 종지부를 찍은... ",
+			"pubDate":"Mon, 24 Jul 2023 13:24:00 +0900"
+		},
+		{
 			"title":"&quot;서울7호선 <b>청라<\/b>연장, 스타필드역 포함 2027년 개통&quot;",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=232682",
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=232682",
 			"description":"인천투데이=김현철 기자│인천시가 서울도시철도 7호선 <b>청라<\/b>연장선 개통 시기를 2027년으로 못 박았다. 24일 유정복 인천시장은 기자간담회를 열고, &quot;서울7호선 <b>청라<\/b>연장선에 추가역 건설과 함께 공사 기간 단축... ",
-			"pubDate":"Mon, 24 Jul 2023 13:24:00 +0900"
-		},
-		{
-			"title":"유정복 “7호선 <b>청라<\/b>연장 예정대로 2027년 개통”...2029년 3월엔 ‘돔구장역...",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/10791872",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005162854?sid=103",
-			"description":"7호선 <b>청라<\/b>연장 구간을 애초 계획대로 2027년 개통하겠다고 밝혔다. 기존 구간에 추가역(가칭 돔구장역) 신설안이 등장하면서 서구 <b>청라<\/b> 주민 중심으로 공사기간 연장 우려가 확산하자 선제적으로 나서 종지부를 찍은... ",
 			"pubDate":"Mon, 24 Jul 2023 13:24:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=443581",
 			"description":"용인, 일죽, 동탄, <b>청라<\/b> 등에 센터를 열어 풀필먼트 서비스를 제공하고 있으며, 신속하고 정확한 패션 전문 풀필먼트 서비스로 브랜드 매출 증대에 일조하고 있다. 셀룩과 파스토의 시너지는 중소 쇼핑몰들의 물류... ",
 			"pubDate":"Mon, 24 Jul 2023 11:34:00 +0900"
-		},
-		{
-			"title":"서울지하철 7호선 <b>청라<\/b> 연장선 &apos;돔구장역&apos; 신설…노선 2027년 개통",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29S97D4QVL",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004217875?sid=102",
-			"description":"인천 <b>청라<\/b> 연장선에 &apos;돔구장&apos;역이 신설된다. 유정복 인천시장은 24일 기자회견을 열고 &quot;시민 교통편의를 위해 추가 정거장 신설을 결정했다&quot;며 이 같은 계획을 발표했다. 시는 2027년 스타필드<b>청라<\/b> 내 2만석 규모의... ",
-			"pubDate":"Mon, 24 Jul 2023 11:32:00 +0900"
 		}
 	]
 }
