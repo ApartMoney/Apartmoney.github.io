@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 25 Jul 2023 05:00:02 +0900",
-	"total":206541,
+	"lastBuildDate":"Tue, 25 Jul 2023 05:10:02 +0900",
+	"total":206542,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"<b>청라<\/b> 연장선에 ‘돔구장역’ 생긴다",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20230725012003&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003379609?sid=102",
+			"description":"인천 <b>청라<\/b> 연장선에 ‘돔구장역’이 신설된다. 유정복 인천시장은 24일 기자회견을 열고 “시민 교통편의를 위해 정거장을 하나 더 신설하기로 했다”고 발표했다. 유 시장은 “2027년 스타필드<b>청라<\/b>에 2만석 규모... ",
+			"pubDate":"Tue, 25 Jul 2023 05:04:00 +0900"
+		},
 		{
 			"title":"“서울 7호선 <b>청라<\/b>연장선 2027년 개통”",
 			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0924313231&code=11131411&cp=nv",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230724010007005",
 			"description":"7호선 <b>청라<\/b>연장선에 추가역(005-1역, 돔구장역)을 건설하더라고 개통 연기 없이 2027년 개통을 목표로 추진한다고 24일 밝혔다. 유정복 인천시장은 24일 시청에서 기자회견 브리핑을 통해, 서울7호선 <b>청라<\/b> 연장선에... ",
 			"pubDate":"Mon, 24 Jul 2023 17:02:00 +0900"
-		},
-		{
-			"title":"강화남단·수도권매립지 경제자유구역 지정 밑그림 분주",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=232710",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=232710",
-			"description":"인천경제청 영종<b>청라<\/b>계획과 관계자는 &quot;강화남단의 경우 농지와 문화재, 갯벌 등이 분포해 있어 환경영향평가가 중요할 것으로 보인다&quot;며 &quot;곧 착수하는 개발계획 수립 용역과 맞물려 종합적인 구상을 마련할 것&quot;이라고... ",
-			"pubDate":"Mon, 24 Jul 2023 16:52:00 +0900"
 		}
 	]
 }
