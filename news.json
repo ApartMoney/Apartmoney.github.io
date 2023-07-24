@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 25 Jul 2023 04:00:02 +0900",
-	"total":206540,
+	"lastBuildDate":"Tue, 25 Jul 2023 04:10:02 +0900",
+	"total":206541,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"“서울 7호선 <b>청라<\/b>연장선 2027년 개통”",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0924313231&code=11131411&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001625934?sid=102",
+			"description":"서울지하철 7호선 <b>청라<\/b>연장선이 추가역 건설과 관계 없이 인천시 목표대로 2027년 개통될 전망이다. 유정복 인천시장은 24일 인천시청에서 기자회견을 열고 “서울7호선 <b>청라<\/b>연장선에 추가역을 건설하더라도 연기 없이... ",
+			"pubDate":"Tue, 25 Jul 2023 04:06:00 +0900"
+		},
 		{
 			"title":"[인천판\/게시판]인천 外",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20230724\/120390747\/1",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=232710",
 			"description":"인천경제청 영종<b>청라<\/b>계획과 관계자는 &quot;강화남단의 경우 농지와 문화재, 갯벌 등이 분포해 있어 환경영향평가가 중요할 것으로 보인다&quot;며 &quot;곧 착수하는 개발계획 수립 용역과 맞물려 종합적인 구상을 마련할 것&quot;이라고... ",
 			"pubDate":"Mon, 24 Jul 2023 16:52:00 +0900"
-		},
-		{
-			"title":"[Check! TODAY] 7월 24일 오늘의 경인",
-			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=428304",
-			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=428304",
-			"description":"-  &quot;7호선 <b>청라<\/b> 연장 개통 지연 없다&quot; - 테러 의심 국제우편물, 인천서도 121건 접수 - 인천서 또 전세사기…일당 &apos;검거&apos; - 부천세계비보이대회 &quot;또 하나의 문화로&quot;",
-			"pubDate":"Mon, 24 Jul 2023 16:42:00 +0900"
 		}
 	]
 }
