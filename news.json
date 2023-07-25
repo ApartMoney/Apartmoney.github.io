@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 25 Jul 2023 15:30:02 +0900",
-	"total":206566,
+	"lastBuildDate":"Tue, 25 Jul 2023 15:40:03 +0900",
+	"total":206567,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구시, 팔공산 국립공원 승격 특별 시티투어",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20230725500167&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003379820?sid=102",
+			"description":"<b>청라<\/b>언덕역을 출발해 동대구역-동화사-동화사집단시설지구(점심식사)-팔공산 올레길 1코스(트레킹)-방짜유기박물관을 둘러본 뒤 출발지로 돌아오는 코스다. 동화사는 마애여래좌상, 비로암 석조비로자나불좌상... ",
+			"pubDate":"Tue, 25 Jul 2023 15:32:00 +0900"
+		},
 		{
 			"title":"&apos;라덕연 주가조작&apos; 고객관리·매매팀 직원들 구속 기소",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230725_0002389776&cID=10201&pID=10200",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003511272?sid=102",
 			"description":"인천시가 ‘<b>청라<\/b> 연장선’ 사업과 관련해 기존 계획 노선은 2027년 말에 개통하고 추가 역은 2029년 3월에 개통하는 방안을 추진하기로 했다. <b>청라<\/b> 연장선은 서울 지하철 7호선 석남역에서 공항철도 <b>청라<\/b>국제도시역까지... ",
 			"pubDate":"Tue, 25 Jul 2023 03:05:00 +0900"
-		},
-		{
-			"title":"유정복 인천시장 &quot;서울7호선 <b>청라<\/b>연장선 추가역 신설해도 2027년 개통할 것&quot;",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=553662",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=553662",
-			"description":"유정복 인천광역시장이 24일 시청 브리핑룸에서 서울 7호선 <b>청라<\/b> 연장선 2027년 개통 관련 기자회견을 하고 있다. 컨슈머타임스=안우진 기자 | 인천시가 서울지하철 7호선 <b>청라<\/b>연장선에 추가역(005-1역, 돔구장역)을... ",
-			"pubDate":"Tue, 25 Jul 2023 00:40:00 +0900"
 		}
 	]
 }
