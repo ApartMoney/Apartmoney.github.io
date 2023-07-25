@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 25 Jul 2023 20:40:02 +0900",
-	"total":206582,
+	"lastBuildDate":"Tue, 25 Jul 2023 20:50:02 +0900",
+	"total":206583,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"신세계 &quot;&apos;야구단 홈구장&apos; 문학 2028년까지 연장하자&quot;",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230725010005116",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230725010005116",
+			"description":"신세계그룹이 인천 <b>청라<\/b>국제도시에 스타필드 <b>청라<\/b> 멀티스타디움(돔구장)을 2027년까지 건립한다는 계획을 밝힌 가운데, SSG랜더스 프로야구단이 이곳으로 홈구장을 이전할 가능성이 거론됐기 때문이다.연말 계약 종료... ",
+			"pubDate":"Tue, 25 Jul 2023 20:42:00 +0900"
+		},
 		{
 			"title":"대구시티투어, 팔공산 국립공원 특별노선 한시 운영",
 			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2023072515285959411?utm_source=naver&utm_medium=search",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230725010014061",
 			"description":"창해·녹청문화공원 미디어파사드 등 설치해 야간경관조명 시작…<b>청라<\/b>호수공원, 수국 포함 초화·수목 식재 테마원 조성 완료 인천 <b>청라<\/b>국제도시 내 공원들이 힐링공간으로 변신을 꾀하고 있다.인천경제자유구역청은... ",
 			"pubDate":"Tue, 25 Jul 2023 11:06:00 +0900"
-		},
-		{
-			"title":"‘80일간 팔공산 나들이’…국립공원 승격 기념 대구시티투어",
-			"originallink":"https:\/\/www.khan.co.kr\/local\/Daegu\/article\/202307251041001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003238402?sid=102",
-			"description":"대구도시철도 <b>청라<\/b>언덕역에서 출발해 동대구역을 경유한 뒤 팔공산으로 향한다. 이후 주요 지점을 통과한 뒤 되돌아오는 일정이다. 특별노선은 기존 테마노선을 대체해 운영된다. 매주 월요일과 추석 당일은 운행되지... ",
-			"pubDate":"Tue, 25 Jul 2023 10:42:00 +0900"
 		}
 	]
 }
