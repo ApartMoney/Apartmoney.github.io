@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 26 Jul 2023 11:10:03 +0900",
-	"total":206607,
+	"lastBuildDate":"Wed, 26 Jul 2023 11:20:02 +0900",
+	"total":206608,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;7호선 <b>청라<\/b>연장선 개통 연기 없다&quot;",
+			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=456131",
+			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=456131",
+			"description":"서울지하철 7호선 <b>청라<\/b>연장선의 개통시기가 연기될 것이라는 우려의 목소리가 나오자, 인천시가 추가역을... 유정복 인천시장은 7월 24일 기자브리핑을 갖고 서울지하철 7호선 <b>청라<\/b>연장선에 추가역 건설과 함께 공사... ",
+			"pubDate":"Wed, 26 Jul 2023 11:18:00 +0900"
+		},
 		{
 			"title":"&apos;전주에코시티 한양수자인&apos; 전타입 마감…에코시티 역대 최고 경쟁률",
 			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2023072610565480751",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=521929",
 			"description":"<b>청라<\/b>언덕역을 출발해 동화사, 동화사집단시설지구, 팔공산 올레길 1코스 걷기(방짜유기박물관~솔숲~북지장사), 방짜유기박물관, <b>청라<\/b>언덕역, 동대구역으로 돌아오는 코스로 짜여졌다. 동화사 방문에선 사찰이 간직한... ",
 			"pubDate":"Tue, 25 Jul 2023 18:56:00 +0900"
-		},
-		{
-			"title":"2TV 저녁 생생정보 전설의맛 자연산 냄비물회",
-			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202307251554466117c4c55f9b3d_1\/article.html",
-			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202307251554466117c4c55f9b3d_1\/article.html",
-			"description":"고향] ■ 보령 냉풍욕장 -위치: 충남 보령시 <b>청라<\/b>면 냉풍욕장길 190 ■ 오천항수산물판매센터 2호점 -위치: 충남 보령시 오천면 오천해안로 782-9 ■ 보령 머드 축제 -위치: 충남 보령시 머드로 123 대천해수욕장 머드광장",
-			"pubDate":"Tue, 25 Jul 2023 18:42:00 +0900"
 		}
 	]
 }
