@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 27 Jul 2023 12:10:02 +0900",
-	"total":206688,
+	"lastBuildDate":"Thu, 27 Jul 2023 12:20:02 +0900",
+	"total":206689,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"한국마사회 탁구단, 국민대상 힐링탁구 재능기부 나서",
+			"originallink":"http:\/\/sports.khan.co.kr\/news\/sk_index.html?art_id=202307271216023&sec_id=561501&pt=nv",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=144&aid=0000902870",
+			"description":"한국마사회(회장 정기환)는 지난 22일 인천 <b>청라<\/b>훈련장에서 탁구 동호인을 대상으로 재능기부 행사를 열고 성황리에 마무리했다고 밝혔다. 한국마사회 탁구단은 계속되는 실업대회, 국제대회 등으로 바쁜 와중에도, 잠시... ",
+			"pubDate":"Thu, 27 Jul 2023 12:17:00 +0900"
+		},
 		{
 			"title":"인천 서구, 광역소각장 후보지 타당성 조사 돌입",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02161526635678784",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000047995?sid=101",
 			"description":"한양은 청량리역 랜드마크로 자리매김한 최고 59층 높이 ‘청량리역 한양수자인 그라시엘’ 입주와 <b>청라<\/b>국제금융단지 중심 입지에 조성되고 있는 최고 47층 ‘<b>청라<\/b> 한양수자인 디에스틴’에 이어 전주에서도 최고층... ",
 			"pubDate":"Wed, 26 Jul 2023 17:10:00 +0900"
-		},
-		{
-			"title":"‘전주 에코시티 한양수자인 디에스틴’ 평균경쟁률 85대1…1순위 마감",
-			"originallink":"https:\/\/www.ceoscoredaily.com\/page\/view\/2023072617050863935",
-			"link":"https:\/\/www.ceoscoredaily.com\/page\/view\/2023072617050863935",
-			"description":"이로써 한양은 청량리의 랜드마크로 자리매김한 ‘청량리역 한양수자인 그라시엘’(최고 59층)과 <b>청라<\/b>국제금융단지 중심에 조성 중인 ‘<b>청라<\/b> 한양수자인 디에스틴’(최고 47층)에 이어 전주에서도 최고층 랜드마크... ",
-			"pubDate":"Wed, 26 Jul 2023 17:08:00 +0900"
 		}
 	]
 }
