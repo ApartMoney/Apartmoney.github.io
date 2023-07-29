@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 29 Jul 2023 11:50:02 +0900",
-	"total":206782,
+	"lastBuildDate":"Sat, 29 Jul 2023 12:00:03 +0900",
+	"total":206783,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"충남 보령시 단독주택서 화재...전기적 요인 추정",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20230729000031",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20230729000031",
+			"description":"충남 보령시 <b>청라<\/b>면 한 단독주택에서 화재가 발생했다. 29일 충남소방본부는 전날 오후 5시 21분쯤 보령시 <b>청라<\/b>면 의평리에 위치한 단독주택에서 불이 나 건물 232㎡가 반소되고 가재도구 등 그을음 피해가... ",
+			"pubDate":"Sat, 29 Jul 2023 11:55:00 +0900"
+		},
 		{
 			"title":"한화건설, 인천 학익지구 &apos;포레나 인천학익&apos; 8월 분양",
 			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202307280200&t=NN",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1030445",
 			"description":"<b>청라<\/b>～강서 BRT(7700번)는 지난 3월 20일부터 노선을 <b>청라<\/b>～화곡 구간으로 단축했고 공사는 노선 단축을 통해 수송 능력을 30% 향상시키면서 좌석제를 시행하고 있다. <b>청라<\/b>～강서 BRT는 지난해 이용객이 150만 명에... ",
 			"pubDate":"Fri, 28 Jul 2023 11:26:00 +0900"
-		},
-		{
-			"title":"인천교통공사, <b>청라<\/b>~강서 BRT 좌석제 정착...전세버스 2대 추가 투입",
-			"originallink":"http:\/\/www.efnews.co.kr\/news\/articleView.html?idxno=105451",
-			"link":"http:\/\/www.efnews.co.kr\/news\/articleView.html?idxno=105451",
-			"description":"인천교통공사에 따르면 <b>청라<\/b>～강서 BRT(7700번)는 지난 3월 20일부터 노선을 <b>청라<\/b>～화곡 구간으로 단축했고 공사는 노선 단축을 통해 수송 능력을 30% 향상시키면서 좌석제를 시행하고 있다. <b>청라<\/b>～강서 BRT는 지난해... ",
-			"pubDate":"Fri, 28 Jul 2023 11:10:00 +0900"
 		}
 	]
 }
