@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 30 Jul 2023 18:00:02 +0900",
-	"total":206814,
+	"lastBuildDate":"Sun, 30 Jul 2023 18:10:02 +0900",
+	"total":206815,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"공촌하수처리장 용량 급증, 사업자들 증설비 나눠 낸다",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1205062",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1205062",
+			"description":"인천시는 2027년 스타필드<b>청라<\/b>, 2029년 아산병원이 들어서는 <b>청라<\/b>의료복합타운 개원 등 대규모 하수처리 시설 수요가 예상됨에 따라 연내 증설비 분담을 마무리 지은 뒤 착공하겠다는 구상이다. 30일 시와 인천경제청에... ",
+			"pubDate":"Sun, 30 Jul 2023 18:08:00 +0900"
+		},
 		{
 			"title":"인천 서구, <b>청라<\/b>지역 음식물 폐기물 대형감량기 설치 공동주택단지 모집",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1042716",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006960334?sid=102",
 			"description":"29일 오전 10시19분께 인천 서구 <b>청라<\/b>동 한 무인항공기 제조공장 창고에서 불이 났다. 당시 신고는 이 공장 화재감지 기기인 자동화재속보설비가 작동해 119에 알리면서 접수됐다. 이 불로 인명피해는 없는 것으로... ",
 			"pubDate":"Sat, 29 Jul 2023 13:59:00 +0900"
-		},
-		{
-			"title":"인천 무인드론 제조 공장서 불…1시간 50분만에 진화",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230729027200065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014100240?sid=102",
-			"description":"29일 오전 10시 19분께 인천시 서구 <b>청라<\/b>동 무인드론 제조 공장에서 불이 났다. 이 불로 인명피해는 없었으나 공장 내부 일부가 탔다. 소방 당국은 소방관 등 123명과 펌프차 등 장비 44대를 투입해 화재 발생 1시간 53분... ",
-			"pubDate":"Sat, 29 Jul 2023 13:56:00 +0900"
 		}
 	]
 }
