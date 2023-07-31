@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 31 Jul 2023 11:20:03 +0900",
-	"total":206844,
+	"lastBuildDate":"Mon, 31 Jul 2023 11:30:02 +0900",
+	"total":206845,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, ‘굉음 내는 이륜차’ 특별 합동단속",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0018518359&code=61121111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001627399?sid=102",
+			"description":"인천 서구는 지난 27일 서부경찰서, 한국교통안전공단과 <b>청라<\/b>지역 주요 도로에서 불법 튜닝 이륜차에 대한 합동단속을 했다고 31일 밝혔다. 구는 최근 이륜차 소음으로 늦은 시간에도 굉음이 계속된다는 주민 민원에 따라... ",
+			"pubDate":"Mon, 31 Jul 2023 11:29:00 +0900"
+		},
 		{
 			"title":"8월 인천 아파트 1,218가구 입주... &apos;가재울역트루엘에코시티&apos; 1개 단지",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=96656",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1205079",
 			"description":"학교 설립이 늦어지면서 원거리 통학 문제가 되풀이됐던 인천 송도·<b>청라<\/b>국제도시에서 고교 추가 신설이... 서구 <b>청라<\/b>국제도시에도 고등학교가 추가로 신설된다. 민주당 김교흥(서구갑) 국회의원은 같은 날 교육부... ",
 			"pubDate":"Sun, 30 Jul 2023 18:46:00 +0900"
-		},
-		{
-			"title":"공촌하수처리장 용량 급증, 사업자들 증설비 나눠 낸다",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1205062",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1205062",
-			"description":"인천시는 2027년 스타필드<b>청라<\/b>, 2029년 아산병원이 들어서는 <b>청라<\/b>의료복합타운 개원 등 대규모 하수처리 시설 수요가 예상됨에 따라 연내 증설비 분담을 마무리 지은 뒤 착공하겠다는 구상이다. 30일 시와 인천경제청에... ",
-			"pubDate":"Sun, 30 Jul 2023 18:08:00 +0900"
 		}
 	]
 }
