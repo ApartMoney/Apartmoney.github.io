@@ -1,11 +1,25 @@
 {
-	"lastBuildDate":"Mon, 31 Jul 2023 17:30:02 +0900",
-	"total":206886,
+	"lastBuildDate":"Mon, 31 Jul 2023 17:40:02 +0900",
+	"total":206888,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"공사중인 <b>청라<\/b>호수공원, 보행길 안내 부실... 안전 위협",
+			"title":"송도·<b>청라<\/b>·검단 등 인천 신도시에 2027년 학교 5곳 신설",
+			"originallink":"http:\/\/www.ifm.kr\/news\/365995",
+			"link":"http:\/\/www.ifm.kr\/news\/365995",
+			"description":"오는 2027년 인천 송도·<b>청라<\/b>·검단 신도시에 신설학교 5곳이 들어섭니다. 인천시교육청은 최근 학교 신설... 검단3고, <b>청라<\/b>국제도시 <b>청라<\/b>4고다. 이들 학교는 모두 오는 2027년 3월 개교할 예정입니다. 이 중 아라3중과... ",
+			"pubDate":"Mon, 31 Jul 2023 17:34:00 +0900"
+		},
+		{
+			"title":"인천시교육청, 교육부 중투심 5개교 신설 100% 통과",
+			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230731010009174",
+			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230731010009174",
+			"description":"이번 중투심에서 승인을 받은 곳은 송도국제도시 내 첨단1고, 아라3중, 검단택지개발지구 내 검단3고, <b>청라<\/b>국제도시 내 <b>청라<\/b>4고, 송도역세권 사업지구 내 옥련1초 등 5개교다. 이중 <b>청라<\/b>4고, 검단3고는 적정승인을... ",
+			"pubDate":"Mon, 31 Jul 2023 17:30:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>호수공원 보행길 공사 안내 부실... 안전 위협",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=96667",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=96667",
 			"description":"인천 서구 <b>청라<\/b>호수공원 힐링건강트랙 정비 1단계 공사가 지난 7월 14일부터 오는 9월 11일까지 진행 중인 가운데 임시 보행통로 이용에 대한 명확한 안내가 없어 이용 시민들이 혼란을 겪고 있다. <b>청라<\/b>호수공원 회주도로는... ",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000762583?sid=102",
 			"description":"31일 인천광역시교육청에 따르면 이번 중투심에서 승인 받은 관내 학교는 송도국제도시 내 첨단1고·아라3중, 검단택지개발지구 내 검단3고, <b>청라<\/b>국제도시 내 <b>청라<\/b>4고, 송도역세권 사업지구 내 옥련1초 등 총 5개교다.... ",
 			"pubDate":"Mon, 31 Jul 2023 14:07:00 +0900"
-		},
-		{
-			"title":"인천 송도·<b>청라<\/b> 등 신도시에 학교 5곳 신설…2027년 개교",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29SCGK971T",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004220741?sid=102",
-			"description":"신설이 승인된 학교는 송도국제도시 아라3중과 첨단1고, 송도역세권 사업지구의 옥련1초, 검단신도시 검단3고, <b>청라<\/b>국제도시 <b>청라<\/b>4고다. 이들 학교는 모두 2027년 3월께 개교할 예정이다. 이 중 아라3중과 첨단1고는 각각... ",
-			"pubDate":"Mon, 31 Jul 2023 14:03:00 +0900"
-		},
-		{
-			"title":"인천 3개 신도시에 5개 초중고교 신설된다…2027년 3월 개교",
-			"originallink":"https:\/\/www.news1.kr\/articles\/5126121",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006962774?sid=102",
-			"description":"인천 송도와 검단, <b>청라<\/b>, 3개 신도시에 초중고교 5곳이 신설된다. 31일 인천시교육청에 따르면 지난 28일... 검단3고, <b>청라<\/b>국제도시 <b>청라<\/b>4고로 총 5곳이다. <b>청라<\/b>4고와 검단3고는 적정승인, 첨단1고는 공동학군 운영 및... ",
-			"pubDate":"Mon, 31 Jul 2023 13:52:00 +0900"
 		}
 	]
 }
