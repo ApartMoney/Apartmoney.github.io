@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 05 Aug 2023 08:40:02 +0900",
-	"total":207080,
+	"lastBuildDate":"Sat, 05 Aug 2023 08:50:02 +0900",
+	"total":207081,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[다음주 한국은행 및 금융위·금감원 일정]",
+			"originallink":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4276370",
+			"link":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4276370",
+			"description":"업무협약식(<b>청라<\/b> 소재 하나 글로벌 캠퍼스) ※공급망 실사 대응 등 중소기업 ESG 경영 지원을 위한 금감원과 지자체(인천광역시, 인천경제자유구역청), 하나금융그룹 간 업무협약 체결(10:00) ※2023년 7월... ",
+			"pubDate":"Sat, 05 Aug 2023 08:40:00 +0900"
+		},
 		{
 			"title":"[이번주 부동산 캘린더] 포레나인천학익 등 전국 2307가구 분양예정",
 			"originallink":"http:\/\/www.newsian.co.kr\/news\/articleView.html?idxno=62645",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0000939878?sid=101",
 			"description":"이어 ▲파주운정3(955억원) ▲고양장항(522억원) ▲인천<b>청라<\/b>(301억원) 등 수백억원씩 연체된 사업장은 40곳이 넘는다. 매입금액 전액을 미납한 사업장은 12곳에 이른다. 연체금액은 지난해 동기(1894억원) 대비 6배나 많다.... ",
 			"pubDate":"Fri, 04 Aug 2023 06:01:00 +0900"
-		},
-		{
-			"title":"정부, 대학병원 분원 신설과의 전쟁…&quot;행정 혁신·법 개정&quot;",
-			"originallink":"http:\/\/www.dailypharm.com\/Users\/News\/NewsView.html?ID=302895&REFERER=NP",
-			"link":"http:\/\/www.dailypharm.com\/Users\/News\/NewsView.html?ID=302895&REFERER=NP",
-			"description":"송도에 연세대세브란스병원 분원, 시흥에 서울대병원 분원, 인천서부에 아산<b>청라<\/b>병원이 신설을 추진하면서 서로 매우 가까운 인접지에 분원을 짓는 상황에 처했기 때문이다. 이렇게 대학병원 분원 신설 사례가 별다른... ",
-			"pubDate":"Fri, 04 Aug 2023 05:36:00 +0900"
 		}
 	]
 }
