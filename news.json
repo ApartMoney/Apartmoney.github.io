@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 07 Aug 2023 01:20:02 +0900",
-	"total":207101,
+	"lastBuildDate":"Mon, 07 Aug 2023 01:30:02 +0900",
+	"total":207102,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[부동산캘린더] &apos;포레나 인천학익&apos; 등 전국 7개 단지 2307채 분양",
+			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=620925",
+			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=620925",
+			"description":"미추홀대로로 송도·<b>청라<\/b> 국제도시에 진출입할 수 있다. 수인분당선 인하대역과 학익역(2026년 개통 예정)이 인근에 있다. 삼성물산은 서울 동대문구 이문동에 &apos;래미안라그란데&apos;의 견본주택(모델하우스)을... ",
+			"pubDate":"Mon, 07 Aug 2023 01:20:00 +0900"
+		},
 		{
 			"title":"&quot;무더위야 물렀거라, 소리꾼이 간다&quot;",
 			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0002950260&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
@@ -173,6 +180,13 @@
 			"pubDate":"Sat, 05 Aug 2023 06:02:00 +0900"
 		},
 		{
+			"title":"&apos;포레나 인천학익&apos; 등 전국 2307가구 분양[분양캘린더]",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230804_0002402556&cID=10405&pID=10400",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012014803?sid=101",
+			"description":"미추홀대로를 통해 송도·<b>청라<\/b> 국제도시 진출입이 용이하며, 수인분당선 인하대역과 학익역(2026년 개통 예정)이 근거리에 위치한다. 또한 단지 주변으로 초·중·고교 교육시설이 풍부하며 대형마트, 종합병원... ",
+			"pubDate":"Sat, 05 Aug 2023 06:01:00 +0900"
+		},
+		{
 			"title":"[분양캘린더] &apos;포레나인천학익&apos; 등 전국 2307가구 분양",
 			"originallink":"http:\/\/www.newspim.com\/news\/view\/20230804000578",
 			"link":"http:\/\/www.newspim.com\/news\/view\/20230804000578",
@@ -184,13 +198,6 @@
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01138166635704368",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005544919?sid=101",
 			"description":"(금감원장, <b>청라<\/b> 하나 글로벌캠퍼스) 11일(금) 10:00 주간업무회의(금융위원장, 정부서울청사) ◇주간 보도 계획 9일(수) 12:00 2023년 7월중 가계대출 동향 10일(목) 10:00 중소기업 ESG 경영 지원 위한 금감원과... ",
-			"pubDate":"Sat, 05 Aug 2023 06:01:00 +0900"
-		},
-		{
-			"title":"&apos;포레나 인천학익&apos; 등 전국 2307가구 분양[분양캘린더]",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230804_0002402556&cID=10405&pID=10400",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012014803?sid=101",
-			"description":"미추홀대로를 통해 송도·<b>청라<\/b> 국제도시 진출입이 용이하며, 수인분당선 인하대역과 학익역(2026년 개통 예정)이 근거리에 위치한다. 또한 단지 주변으로 초·중·고교 교육시설이 풍부하며 대형마트, 종합병원... ",
 			"pubDate":"Sat, 05 Aug 2023 06:01:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=288730",
 			"description":"미추홀대로를 통해 송도·<b>청라<\/b> 국제도시 진출입이 용이하며, 수인분당선 인하대역과 학익역(2026년 개통 예정)이 근거리에 위치한다. 또한 단지 주변으로 초중고교 교육시설이 풍부하며 대형마트, 종합병원, 영화관... ",
 			"pubDate":"Fri, 04 Aug 2023 17:06:00 +0900"
-		},
-		{
-			"title":"콘진원, &apos;2023년 제1회 게임문화포럼&apos; 개최",
-			"originallink":"https:\/\/www.itbiznews.com\/news\/articleView.html?idxno=106949",
-			"link":"https:\/\/www.itbiznews.com\/news\/articleView.html?idxno=106949",
-			"description":"이어 &apos;학교에서의 게임리터러시 이야기&apos;를 주제로 김진모 교사(인천 <b>청라<\/b>초등학교)가 게임을 통해 학생들의 참여와 열정을 끌어올리고, 새로운 지식과 기술을 습득하는 새로운 교육 방법에 대해 전할 예정이다.... ",
-			"pubDate":"Fri, 04 Aug 2023 15:46:00 +0900"
 		}
 	]
 }
