@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 07 Aug 2023 07:00:03 +0900",
-	"total":207102,
+	"lastBuildDate":"Mon, 07 Aug 2023 07:10:02 +0900",
+	"total":207103,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[이번주 한국은행 및 금융위·금감원 일정]",
+			"originallink":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4276393",
+			"link":"http:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4276393",
+			"description":"업무협약식(<b>청라<\/b> 소재 하나 글로벌 캠퍼스) ※공급망 실사 대응 등 중소기업 ESG 경영 지원을 위한 금감원과 지자체(인천광역시, 인천경제자유구역청), 하나금융그룹 간 업무협약 체결(10:00) ※2023년 7월... ",
+			"pubDate":"Mon, 07 Aug 2023 07:06:00 +0900"
+		},
 		{
 			"title":"[부동산캘린더] &apos;포레나 인천학익&apos; 등 전국 7개 단지 2307채 분양",
 			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=620925",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=160170",
 			"description":"[앵커] 서울7호선 <b>청라<\/b>연장선이 지금 공사 중인데요. 당초 계획보다 1개 정거장을 추가할 예정이라고요? [ 유준호 l 인천시 공보담당관 ] 네. 그렇습니다. 서울7호선 <b>청라<\/b>연장선은 <b>청라<\/b>국제도시를 관통해서 7호선... ",
 			"pubDate":"Fri, 04 Aug 2023 18:14:00 +0900"
-		},
-		{
-			"title":"[분양-8월2주] 수요자들 주목할 서울지역 아파트 모델하우스 오픈",
-			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=288730",
-			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=288730",
-			"description":"미추홀대로를 통해 송도·<b>청라<\/b> 국제도시 진출입이 용이하며, 수인분당선 인하대역과 학익역(2026년 개통 예정)이 근거리에 위치한다. 또한 단지 주변으로 초중고교 교육시설이 풍부하며 대형마트, 종합병원, 영화관... ",
-			"pubDate":"Fri, 04 Aug 2023 17:06:00 +0900"
 		}
 	]
 }
