@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 09 Aug 2023 19:40:02 +0900",
-	"total":207277,
+	"lastBuildDate":"Wed, 09 Aug 2023 19:50:02 +0900",
+	"total":207278,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"충남 보령시의회, 관내 피서지 찾아 근무자 격려",
+			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=929736",
+			"link":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=929736",
+			"description":"박상모 의장과 의원들은 지난 4일 성주산자연휴양림을 시작으로 <b>청라<\/b>면 냉풍욕장, 원산도해수욕장, 대천해수욕장, 무창포해수욕장을 차례로 방문하고 구조대와 질서계도반 등 근무자를 격려했다. 지난 7일에는 천북면... ",
+			"pubDate":"Wed, 09 Aug 2023 19:46:00 +0900"
+		},
 		{
 			"title":"[&quot;말복 더위 삼계탕으로 식혀&quot; 경기·인천 곳곳 이웃사랑] 신인천빛드림본부 ...",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230809010001968",
@@ -124,7 +131,7 @@
 			"pubDate":"Wed, 09 Aug 2023 17:02:00 +0900"
 		},
 		{
-			"title":"경제청, 주민 의견 수렴에 무게 [인천 송도 R2부지 개발 방식 장단점 분석]",
+			"title":"‘제안공모’ 공익·기업유치 두마리 토끼사냥 [인천 송도 R2부지 개발]",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20230809580091",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000018403?sid=101",
 			"description":"하지만 지역 안팎에선 <b>청라<\/b>국제도시에 돔구장 등의 추진으로 중복 투자라는 지적과 함께 특혜 의혹 등 논란이 끊이지 않고 있다. 또 주민들은 고밀도 오피스텔 계획과 교통난 가중 등을 이유로 반대하고 있다. 김진용... ",
@@ -194,13 +201,6 @@
 			"pubDate":"Wed, 09 Aug 2023 15:22:00 +0900"
 		},
 		{
-			"title":"인천시설공단, <b>청라<\/b>도시기반사업단 무재해 6배수 달성",
-			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=135618",
-			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=135618",
-			"description":"사진=인천시설공단, <b>청라<\/b>도시기반사업단 무재해 6배수 달성했다. 인천시설공단 <b>청라<\/b>도시기반사업단은 2018년 3월 27일부터 자체 무재해 운동을 추진해 지난 8일 무재해 목표 6배수(1,960일)를 달성했다.... ",
-			"pubDate":"Wed, 09 Aug 2023 15:10:00 +0900"
-		},
-		{
 			"title":"인천시설공단 &apos;카눈&apos; 대비 9일 사전 집중 합동 점검",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1044228",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1044228",
@@ -208,11 +208,11 @@
 			"pubDate":"Wed, 09 Aug 2023 15:10:00 +0900"
 		},
 		{
-			"title":"인천시설공단, 태풍 &apos;카눈&apos; 대비 사전점검",
-			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=135606",
-			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=135606",
-			"description":"특히 9일에는 송도, 영종, <b>청라<\/b>의 시설물을 집중 점검했다. 아울러, 공단은 재난종합상황실을 통해 사업부서에 정부 및 인천시 지시사항을 실시간으로 전파하는 등 신속한 정보전달을 통하여 태풍에 대비하고 있다. 전... ",
-			"pubDate":"Wed, 09 Aug 2023 15:08:00 +0900"
+			"title":"인천시설공단, <b>청라<\/b>도시기반사업단 무재해 6배수 달성",
+			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=135618",
+			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=135618",
+			"description":"사진=인천시설공단, <b>청라<\/b>도시기반사업단 무재해 6배수 달성했다. 인천시설공단 <b>청라<\/b>도시기반사업단은 2018년 3월 27일부터 자체 무재해 운동을 추진해 지난 8일 무재해 목표 6배수(1,960일)를 달성했다.... ",
+			"pubDate":"Wed, 09 Aug 2023 15:10:00 +0900"
 		}
 	]
 }
