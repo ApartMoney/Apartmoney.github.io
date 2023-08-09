@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 09 Aug 2023 19:00:03 +0900",
-	"total":207274,
+	"lastBuildDate":"Wed, 09 Aug 2023 19:10:02 +0900",
+	"total":207275,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"난개발 우려·특혜논란 떠밀려… 송도 K팝시티 의견수렴 `뒷북`",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2023081002101763080001&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002818654?sid=101",
+			"description":"해당 부지에 K팝 엔터테인먼트사를 유치하고 K팝 전용 아레나 등을 건립하겠다는 계획인데, 이미 인천 영종과 <b>청라<\/b>는 물론 경기 일산, 서울 창동 등 수도권 곳곳에서 추진 중이라 중복 투자라는 지적이 많다. 여기에... ",
+			"pubDate":"Wed, 09 Aug 2023 19:02:00 +0900"
+		},
 		{
 			"title":"인천시, 인천 온 스카우트 4천여명 지원 본격 추진",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230809010002045",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005054870?sid=102",
 			"description":"이 밖에 시는 개항장 역사투어, 레트로 코스를 비롯해 월미도와 송도 신도시, 서구 <b>청라<\/b>, 남동구, 강화교통 투어 등 인천 각 지역을 체험할 수 있는 로컬 프로그램을 지역별로 마련한다. 시는 지난 8일부터 잼버리... ",
 			"pubDate":"Wed, 09 Aug 2023 14:56:00 +0900"
-		},
-		{
-			"title":"인천, 태풍 &apos;카눈&apos;피해 예방 비상 돌입",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=413750",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=413750",
-			"description":"특히 9일에는 송도, 영종, <b>청라<\/b>의 시설물을 집중 점검했다. 아울러, 공단은 재난종합상황실을 통해 사업부서에 정부 및 인천시 지시사항을 실시간으로 전파하는 등 신속한 정보전달을 통하여 태풍에 대비하고 있다. 전... ",
-			"pubDate":"Wed, 09 Aug 2023 14:46:00 +0900"
 		}
 	]
 }
