@@ -1,21 +1,98 @@
 {
-	"lastBuildDate":"Thu, 10 Aug 2023 14:10:02 +0900",
-	"total":207459,
+	"lastBuildDate":"Thu, 10 Aug 2023 14:20:02 +0900",
+	"total":207471,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융그룹, 잼버리 이탈리아 대원 전폭 지원…연수원 제공 및 기념품 등 선...",
+			"originallink":"http:\/\/sports.chosun.com\/news\/ntype.htm?id=202308110100080450010206&servicedate=20230810",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/076\/0004042623?sid=101",
+			"description":"하나금융그룹은 10일 유정복 인천광역시장과 이복현 금융감독원장, 페데리코 파일라 주한 이탈리아 대사, 함영주 하나금융그룹 회장이 지난 8일부터 인천 <b>청라<\/b> &apos;하나글로벌캠퍼스&apos;에서 머물고 있는 세계스카우트 잼버리... ",
+			"pubDate":"Thu, 10 Aug 2023 14:17:00 +0900"
+		},
+		{
+			"title":"하나금융, 금감원과 &apos;중소기업 ESG 경영&apos; 지원한다...함영주 회장, 총력지원 ...",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230810010002706",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230810010002706",
+			"description":"하나금융그룹은 10일 인천 <b>청라<\/b>에 위치한 하나금융그룹 글로벌캠퍼스에서 인천광역시청, 금융감독원과 함께... 이복현 하나금융그룹은 10일 인천 <b>청라<\/b>에 위치한 하나금융그룹 글로벌캠퍼스에서 인천광역시청... ",
+			"pubDate":"Thu, 10 Aug 2023 14:16:00 +0900"
+		},
+		{
+			"title":"하나금융, 인천시금감원과 중소기업 ESG 경영지원 위해 맞손",
+			"originallink":"https:\/\/www.tokenpost.kr\/article-142152",
+			"link":"https:\/\/www.tokenpost.kr\/article-142152",
+			"description":"하나금융그룹은 10일 인천 <b>청라<\/b>에 위치한 하나금융그룹 글로벌캠퍼스에서 인천광역시청, 금융감독원과 함께 중소기업 환경·사회·지배구조(ESG) 경영지원을 위한 업무협약을 체결했다고 밝혔다. 이날 협약식에는 유정복... ",
+			"pubDate":"Thu, 10 Aug 2023 14:16:00 +0900"
+		},
+		{
+			"title":"이복현 금감원장 “경남은행 횡령 사고, 법령 최고 책임 물을 것”",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2274069",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2274069",
+			"description":"이 원장은 10일 인천 서구 <b>청라<\/b> 하나금융 글로벌 캠퍼스에서 ‘중소기업 ESG 경영 지원을 위한 업무협약식’에 참석한 뒤 기자들과 만나 “고객 자금의 운용 같은 은행의 핵심 업무 과정에서 거액의 장기간 내지는 반복적... ",
+			"pubDate":"Thu, 10 Aug 2023 14:14:00 +0900"
+		},
+		{
+			"title":"하나금융, 인천시·금감원과 함께 중소기업 ESG 경영지원 해결한다.",
+			"originallink":"http:\/\/www.rightknow.co.kr\/news\/articleView.html?idxno=26521",
+			"link":"http:\/\/www.rightknow.co.kr\/news\/articleView.html?idxno=26521",
+			"description":"하나금융에 따르면 이날 인천 <b>청라<\/b> 하나금융 글로벌캠퍼스에서 인천시, 금감원과 이같은 내용의 업무협약을 체결했다고 설명했다. 협약식에는 유정복 인천광역시장, 이복현 금융감독원장, 김진용 인천경제자유구역청장... ",
+			"pubDate":"Thu, 10 Aug 2023 14:14:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 인천광역시·금융감독원과 중소기업 ESG 경영지원 위해 &apos;맞손&apos;",
+			"originallink":"https:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=76152",
+			"link":"https:\/\/www.dailysmart.co.kr\/news\/articleView.html?idxno=76152",
+			"description":"하나금융그룹은 10일 인천 <b>청라<\/b>에 위치한 하나금융그룹 글로벌캠퍼스에서 인천광역시청, 금융감독원과 함께 중소기업 ESG 경영지원을 위한 업무협약을 체결했다. 이날 협약식에는 유정복 인천광역시장, 이복현... ",
+			"pubDate":"Thu, 10 Aug 2023 14:14:00 +0900"
+		},
+		{
+			"title":"하나금융 ‘금감원·인천시’와 중소기업 ESG 경영 지원",
+			"originallink":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=201945",
+			"link":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=201945",
+			"description":"스카이데일리 임진영기자 = ▲ 10일 인천 서구 <b>청라<\/b>동 하나글로벌캠퍼스에서 이복현(맨 왼쪽부터 차례대로)... 이날 하나금융은 인천 <b>청라<\/b> 하나금융 글로벌캠퍼스에서 금감원 및 인천시와 위 내용을 골자로 한 업무협약을... ",
+			"pubDate":"Thu, 10 Aug 2023 14:14:00 +0900"
+		},
+		{
+			"title":"한화 건설부문 시공 ‘포레나 인천학익’ 분양 중",
+			"originallink":"https:\/\/www.news1.kr\/articles\/5137121",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006983731?sid=101",
+			"description":"단지에서 문학·도화IC를 통해 인천대로·제2경인고속도로 등으로 진입이 수월해 서울·판교·분당 등으로 광역 이동이 가능하고 미추홀대로를 통해 송도국제도시·<b>청라<\/b>국제도시로 접근이 용이하다고 전해졌다. 연학초... ",
+			"pubDate":"Thu, 10 Aug 2023 14:13:00 +0900"
+		},
+		{
+			"title":"하나금융·인천시·금감원, 중소기업 ESG 경영지원 &apos;맞손&apos;",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6152776",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0006983729?sid=101",
+			"description":"= 함영주 하나금융그룹 회장(오른쪽)과 이복현 금융감독원장(왼쪽), 유정복 인천광역시장이 10일 인천 <b>청라<\/b> 하나금융그룹 글로벌캠퍼스에서 중소기업 ESG 경영지원을 위한 업무협약을 체결하고 있다. (하나금융그룹... ",
+			"pubDate":"Thu, 10 Aug 2023 14:12:00 +0900"
+		},
+		{
+			"title":"수도권매립지 간 잼버리 伊대표단…&quot;폐기물 안 보여&quot; 호평",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230810_0002409673&cID=10802&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012024922?sid=102",
+			"description":"10일 수도권매립지공사에 따르면 인천 <b>청라<\/b>국제도시 숙소에서 이동해 공사 홍보관에 도착한 대표단은 조별로 수도권매립지 매립장 투어와 야생화단지 환경교육프로그램을 순차적으로 진행했다. 공사 홍보관에서 영상... ",
+			"pubDate":"Thu, 10 Aug 2023 14:11:00 +0900"
+		},
+		{
+			"title":"한국훼스토, 블로그 오픈하며 기념 이벤트 진행",
+			"originallink":"https:\/\/www.hellot.net\/news\/article.html?no=80887",
+			"link":"https:\/\/www.hellot.net\/news\/article.html?no=80887",
+			"description":"효율화와 지속 가능한 성장을 위해 혁신을 지속하고 있다. 서울, 동탄, 울산에 사무실을 두고 전국의 고객들을 긴밀히 지원하고 있으며, 인천 <b>청라<\/b>에 약 21,400평방미터 규모의 생산 공장을 운영 중이다. 헬로티 임근난 기자 |",
+			"pubDate":"Thu, 10 Aug 2023 14:10:00 +0900"
+		},
+		{
+			"title":"하나금융, 유정복·이복현과 하나글로벌캠퍼스 잼버리 참가자 격려",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2023081013185074046",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004923767?sid=101",
+			"description":"하나금융그룹은 함영주 회장이 유정복 인천시장, 이복현 금융감독원장과 함께 인천 <b>청라<\/b> &apos;하나글로벌캠퍼스&apos;에서 머물고 있는 세계스카우트 잼버리 이탈리아 참가자들을 찾아 응원의 뜻을 전했다고 10일 밝혔다.... ",
+			"pubDate":"Thu, 10 Aug 2023 14:09:00 +0900"
+		},
 		{
 			"title":"함영주 하나금융 회장, 하나글로벌캠퍼스 찾아 잼버리 참가자들 격려",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20230810010003104",
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230810010003104",
 			"description":"함영주 하나금융 회장, 하나글로벌캠퍼스 찾아 잼버리 참가자들 격려 하나금융그룹은 함영주 회장이 10일 인천 <b>청라<\/b> ‘하나글로벌캠퍼스’에서 머무는 세계스카우트 잼버리 이탈리아 참가자를 찾아 응원의 뜻을 전했다고... ",
-			"pubDate":"Thu, 10 Aug 2023 14:08:00 +0900"
-		},
-		{
-			"title":"연이은 은행 사고…이복현 금감원장 &quot;법령상 최고 책임 물을 것&quot;",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230810010002835",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230810010002835",
-			"description":"이복현 10일 인천시 서구 <b>청라<\/b> 하나글로벌캠퍼스에서 열린 ‘중소기업 ESG 경영지원 업무협약식’ 행사를 마친 뒤 이복현 금융감독원장이 취재진 질문에 답하고 있다. 연합뉴스",
 			"pubDate":"Thu, 10 Aug 2023 14:08:00 +0900"
 		},
 		{
@@ -26,6 +103,13 @@
 			"pubDate":"Thu, 10 Aug 2023 14:08:00 +0900"
 		},
 		{
+			"title":"연이은 은행 사고…이복현 금감원장 &quot;법령상 최고 책임 물을 것&quot;",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230810010002835",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230810010002835",
+			"description":"이복현 10일 인천시 서구 <b>청라<\/b> 하나글로벌캠퍼스에서 열린 ‘중소기업 ESG 경영지원 업무협약식’ 행사를 마친 뒤 이복현 금융감독원장이 취재진 질문에 답하고 있다. 연합뉴스",
+			"pubDate":"Thu, 10 Aug 2023 14:08:00 +0900"
+		},
+		{
 			"title":"하나금융, 하나글로벌캠퍼스 세계스카우트잼버리 참가자 찾아 응원과 격려",
 			"originallink":"https:\/\/www.ngetnews.com\/news\/articleView.html?idxno=422037",
 			"link":"https:\/\/www.ngetnews.com\/news\/articleView.html?idxno=422037",
@@ -33,17 +117,10 @@
 			"pubDate":"Thu, 10 Aug 2023 14:08:00 +0900"
 		},
 		{
-			"title":"하나금융, 인천시·금감원과 중소기업 ESG 경영지원 위해 &apos;맞손&apos;",
-			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=211610",
-			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=211610",
-			"description":"사진=하나금융그룹  하나금융그룹은 10일 인천 <b>청라<\/b>에 위차한 하나금융그룹 글로벌캠퍼스에서 인천광역시청, 금융감독원과 함께 중소기업 ESG 경영지원을 위한 업무협약을 체결했다고 밝혔다. 이날 협약식에는 유정복... ",
-			"pubDate":"Thu, 10 Aug 2023 14:02:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 이태리 스카우트 잼버리 참가자 응원·격려",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=2023081013371128053e9bb86c69_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=2023081013371128053e9bb86c69_23",
-			"description":"하나금융그룹(회장 함영주)은 10일 인천 <b>청라<\/b> ‘하나글로벌캠퍼스’에서 머물고 있는 세계스카우트 잼버리 이탈리아 참가자들을 찾아 응원의 뜻을 전했다고 밝혔다. 하나금융그룹은 제6호 태풍 ‘카눈’의 북상으로... ",
+			"title":"함영주 하나금융 회장, ‘하나글로벌캠퍼스’에서 잼버리 참가자 만나 응원",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230810010002830",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230810010002830",
+			"description":"함영주 하나금융그룹 회장이 이복현 금융감독원장과 인천 <b>청라<\/b> ‘하나글로벌캠퍼스’에서 머물고 있는... 함영주 회장 하나금융그룹은 10일 오전 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 머물고 있는 세계스카우트 잼버리... ",
 			"pubDate":"Thu, 10 Aug 2023 14:02:00 +0900"
 		},
 		{
@@ -54,10 +131,17 @@
 			"pubDate":"Thu, 10 Aug 2023 14:02:00 +0900"
 		},
 		{
-			"title":"함영주 하나금융 회장, ‘하나글로벌캠퍼스’에서 잼버리 참가자 만나 응원",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230810010002830",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230810010002830",
-			"description":"함영주 하나금융그룹 회장이 이복현 금융감독원장과 인천 <b>청라<\/b> ‘하나글로벌캠퍼스’에서 머물고 있는... 함영주 회장 하나금융그룹은 10일 오전 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 머물고 있는 세계스카우트 잼버리... ",
+			"title":"하나금융그룹, 이태리 스카우트 잼버리 참가자 응원·격려",
+			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=2023081013371128053e9bb86c69_23",
+			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=2023081013371128053e9bb86c69_23",
+			"description":"하나금융그룹(회장 함영주)은 10일 인천 <b>청라<\/b> ‘하나글로벌캠퍼스’에서 머물고 있는 세계스카우트 잼버리 이탈리아 참가자들을 찾아 응원의 뜻을 전했다고 밝혔다. 하나금융그룹은 제6호 태풍 ‘카눈’의 북상으로... ",
+			"pubDate":"Thu, 10 Aug 2023 14:02:00 +0900"
+		},
+		{
+			"title":"하나금융, 인천시·금감원과 중소기업 ESG 경영지원 위해 &apos;맞손&apos;",
+			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=211610",
+			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=211610",
+			"description":"사진=하나금융그룹  하나금융그룹은 10일 인천 <b>청라<\/b>에 위차한 하나금융그룹 글로벌캠퍼스에서 인천광역시청, 금융감독원과 함께 중소기업 ESG 경영지원을 위한 업무협약을 체결했다고 밝혔다. 이날 협약식에는 유정복... ",
 			"pubDate":"Thu, 10 Aug 2023 14:02:00 +0900"
 		},
 		{
@@ -129,90 +213,6 @@
 			"link":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=32389",
 			"description":"생산 및 제조 효율화와 지속 가능한 성장을 위해 혁신을 지속하고 있다. 서울, 동탄, 울산에 사무실을 두고 전국의 고객들을 긴밀히 지원하고 있으며, 인천 <b>청라<\/b>에 약 2만1400평방미터 규모의 생산 공장을 운영 중이다.",
 			"pubDate":"Thu, 10 Aug 2023 13:48:00 +0900"
-		},
-		{
-			"title":"하나금융그룹-인천광역시-금융감독원, 중소기업 ESG 경영 지원 위해 맞손",
-			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065585884829567",
-			"link":"https:\/\/idsn.co.kr\/news\/view\/1065585884829567",
-			"description":"하나금융그룹이 10일 인천 <b>청라<\/b> 하나금융그룹 글로벌캠퍼스에서 인천광역시청, 금융감독원과 함께 중소기업 ESG 경영 지원을 위한 MOU를 체결했다. 이날 협약식에는 유정복 인천광역시장, 이복현 금융감독원장, 김진용... ",
-			"pubDate":"Thu, 10 Aug 2023 13:46:00 +0900"
-		},
-		{
-			"title":"하나금융, 하나글로벌캠퍼스 머무는 이탈리아 잼버리 참가자 응원",
-			"originallink":"http:\/\/www.sentv.co.kr\/news\/view\/665072",
-			"link":"http:\/\/www.sentv.co.kr\/news\/view\/665072",
-			"description":"하나금융그룹이 인천 <b>청라<\/b> ‘하나글로벌캠퍼스’에서 머물고 있는 세계스카우트 잼버리 이탈리아 참가자들을 찾아 응원의 뜻을 전했다고 10일 밝혔다. 하나금융그룹은 제6호 태풍 ‘카눈’의 북상으로 야영지를 떠나게 된... ",
-			"pubDate":"Thu, 10 Aug 2023 13:46:00 +0900"
-		},
-		{
-			"title":"하나금융, ‘세계스카우트잼버리’ 이태리 참가자 찾아 응원·격려",
-			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=494687&class=18&grp=",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002312898?sid=101",
-			"description":"하나금융그룹은 10일 오전 인천 <b>청라<\/b> &apos;하나글로벌캠퍼스&apos;에서 머물고 있는 세계스카우트 잼버리 이탈리아 참가자들을 찾아 응원의 뜻을 전했다고 밝혔다. 하나금융은 제6호 태풍 &apos;카눈&apos;의 북상으로 야영지를 떠나게 된... ",
-			"pubDate":"Thu, 10 Aug 2023 13:44:00 +0900"
-		},
-		{
-			"title":"하나금융, 인천시·금감원과 손잡고 중소기업 ‘ESG경영 지원’…왜?",
-			"originallink":"http:\/\/sateconomy.co.kr\/news\/view\/1065580909406502",
-			"link":"http:\/\/sateconomy.co.kr\/news\/view\/1065580909406502",
-			"description":"하나금융은 10일 인천시 <b>청라<\/b>에 위치한 하나금융그룹 글로벌캠퍼스에서 인천광역시청, 금감원과 중소기업 ESG 경영지원을 위한 업무협약을 체결했다고 밝혔다. 이번 협약으로 3개 기관은 △공급망 실사 등 ESG 동향... ",
-			"pubDate":"Thu, 10 Aug 2023 13:44:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 세계스카우트잼버리 참가자 찾아 격려",
-			"originallink":"https:\/\/www.ceoscoredaily.com\/page\/view\/2023081013383556874",
-			"link":"https:\/\/www.ceoscoredaily.com\/page\/view\/2023081013383556874",
-			"description":"하나금융그룹은 10일 오전 인천 <b>청라<\/b> ‘하나글로벌캠퍼스’에서 머무는 세계스카우트 잼버리 이탈리아 참가자들을 찾아 응원의 뜻을 전했다고 밝혔다. 하나금융은 제6호 태풍 ‘카눈’의 북상으로 야영지를 떠나게 된... ",
-			"pubDate":"Thu, 10 Aug 2023 13:42:00 +0900"
-		},
-		{
-			"title":"잼버리 참가자들에 기념품 전달하는 유정복-이복현-함영주",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230810_0019991825",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012024826?sid=102",
-			"description":"유정복 인천광역시장과 이복현 금융감독원장, 함영주 하나금융그룹 회장이 10일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 세계스카우트 잼버리 이탈리아 참가자들에게 기념품을 전달하고 있다. (사진=하나금융그룹 제공)... ",
-			"pubDate":"Thu, 10 Aug 2023 13:41:00 +0900"
-		},
-		{
-			"title":"잼버리 참가자 숙소 점검하는 유정복-이복현-함영주",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230810_0019991824",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012024825?sid=102",
-			"description":"유정복 인천광역시장, 이복현 금융감독원장, 함영주 하나금융그룹 회장, 페데리코 파일라 주한 이탈리아 대사가 10일 세계스카우트 잼버리 이탈리아 참가자들이 머물고 있는 인천 <b>청라<\/b> 하나글로벌캠퍼스를 방문해... ",
-			"pubDate":"Thu, 10 Aug 2023 13:41:00 +0900"
-		},
-		{
-			"title":"함영주 하나금융 회장, 이탈리아 잼버리 참가자 격려",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230810094400002?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014124217?sid=101",
-			"description":"이탈리아 잼버리 참가 대원과 진행요원 200여명은 지난 8일부터 인천 <b>청라<\/b> &apos;하나글로벌캠퍼스&apos;에 머무르고 있다. 함 회장, 유종복 인천광역시장, 이복현 금융감독원장, 페데리코 파일라 주한 이탈리아 대사는 이날... ",
-			"pubDate":"Thu, 10 Aug 2023 13:41:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 이탈리아 잼버리 참가자에 응원과 격려 전달",
-			"originallink":"https:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=57999",
-			"link":"https:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=57999",
-			"description":"[사진=하나금융그룹 제공] 라이센스뉴스 = 김형식 기자 | 하나금융그룹(회장 함영주)은 10일 오전 인천 <b>청라<\/b> &apos;하나글로벌캠퍼스&apos;에서 머물고 있는 세계스카우트 잼버리 이탈리아 참가자들을 찾아 응원의 뜻을 전했다고... ",
-			"pubDate":"Thu, 10 Aug 2023 13:38:00 +0900"
-		},
-		{
-			"title":"하나금융, 하나글로벌캠퍼스 세계스카우트 잼버리 참가자 응원",
-			"originallink":"https:\/\/www.mediapen.com\/news\/view\/845059",
-			"link":"https:\/\/www.mediapen.com\/news\/view\/845059",
-			"description":"하나금융그룹은 인천 <b>청라<\/b> ‘하나글로벌캠퍼스’에서 머물고 있는 세계스카우트 잼버리 이탈리아 참가자들을 찾아 응원의 뜻을 전했다고 10일 밝혔다. 하나금융그룹은 10일 오전 인천 <b>청라<\/b> ‘하나글로벌캠퍼스’에서... ",
-			"pubDate":"Thu, 10 Aug 2023 13:38:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 세계스카우트잼버리 이탈리아 대원 응원 · 격려",
-			"originallink":"http:\/\/www.choicenews.co.kr\/news\/articleView.html?idxno=119258",
-			"link":"http:\/\/www.choicenews.co.kr\/news\/articleView.html?idxno=119258",
-			"description":"하나금융그룹(회장 함영주, 이하 하나금융)은 10일 &quot;이날 오전 인천 <b>청라<\/b> &apos;하나글로벌캠퍼스&apos;에 머물고 있는 세계스카우트 잼버리 이탈리아 참가자들을 찾아 응원의 뜻을 전했다&quot;고 밝혔다. 하나금융에 따르면 제6호 태풍... ",
-			"pubDate":"Thu, 10 Aug 2023 13:38:00 +0900"
-		},
-		{
-			"title":"보령시의회, 태풍 ‘카눈’ 피해방지 현장 점검 나서",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1744389",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1744389",
-			"description":"현장은 <b>청라<\/b>면과 성주면을 잇는 터널이 근거리에 있어 차량 통행이 적지 않은 곳으로, 추가 피해를 예방하기 위해 차량 진입을 철저히 통제하고 응급 복구한 부분을 다시 한번 살펴 달라고 당부했다. 의원들은... ",
-			"pubDate":"Thu, 10 Aug 2023 13:36:00 +0900"
 		}
 	]
 }
