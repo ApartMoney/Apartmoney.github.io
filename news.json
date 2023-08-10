@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 10 Aug 2023 12:10:02 +0900",
-	"total":207388,
+	"lastBuildDate":"Thu, 10 Aug 2023 12:20:02 +0900",
+	"total":207389,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"수도권매립지관리공사, 잼버리 이탈리아 대표단에 견학·체험프로그램 제공",
+			"originallink":"http:\/\/www.ngonews.kr\/news\/articleView.html?idxno=143309",
+			"link":"http:\/\/www.ngonews.kr\/news\/articleView.html?idxno=143309",
+			"description":"이탈리아 대표단은 인천 <b>청라<\/b>국제도시 숙소에서 이동, 수도권매립지관리공사 홍보관에 도착한 뒤 조별로 수도권매립지 매립장 투어와 야생화단지 환경교육프로그램을 순차적으로 진행했다. 이탈리아 대표단은... ",
+			"pubDate":"Thu, 10 Aug 2023 12:14:00 +0900"
+		},
 		{
 			"title":"잼버리 이탈리아 대표단 수도권매립지 견학·체험",
 			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0018553683&code=61121111&cp=nv",
@@ -159,17 +166,17 @@
 			"pubDate":"Thu, 10 Aug 2023 11:10:00 +0900"
 		},
 		{
-			"title":"금감원·인천시·하나금융, 중기 ESG경영 지원",
-			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230810000373",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002181891?sid=101",
-			"description":"금감원은 10일 오전 인천광역시 서구 <b>청라<\/b>동 소재 하나 글로벌캠퍼스에서 중소기업의 ESG 경영 지원을 위한 업무협약(MOU)을 체결했다. 현재 국내 수출중소기업들은 유럽연합(EU)의 공급망실사 지침안 발표에 따라 환경 및... ",
-			"pubDate":"Thu, 10 Aug 2023 11:08:00 +0900"
-		},
-		{
 			"title":"잼버리 이탈리아 대표단, 수도권매립지 견학·체험 &apos;원더풀&apos;",
 			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=279033",
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=279033",
 			"description":"인천 <b>청라<\/b>국제도시 숙소에서 이동해 공사 홍보관에 도착한 대표단은 조별로 수도권매립지 매립장 투어와 야생화단지 환경교육프로그램을 순차적으로 진행했다. 공사 홍보관에서 영상 시청을 마친 뒤 수도권매립지... ",
+			"pubDate":"Thu, 10 Aug 2023 11:08:00 +0900"
+		},
+		{
+			"title":"금감원·인천시·하나금융, 중기 ESG경영 지원",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230810000373",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002181891?sid=101",
+			"description":"금감원은 10일 오전 인천광역시 서구 <b>청라<\/b>동 소재 하나 글로벌캠퍼스에서 중소기업의 ESG 경영 지원을 위한 업무협약(MOU)을 체결했다. 현재 국내 수출중소기업들은 유럽연합(EU)의 공급망실사 지침안 발표에 따라 환경 및... ",
 			"pubDate":"Thu, 10 Aug 2023 11:08:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308101057456980183",
 			"description":"인천시설공단(이사장 김종필)은 <b>청라<\/b>도시기반사업단이 지난 2018년 3월 27일부터 자체 무재해 운동을 추진해 8일 무재해 목표 6배수(1960일)를 달성했다고 밝혔다. <b>청라<\/b>도시기반사업단은 <b>청라<\/b>국제도시 내 도로와 <b>청라<\/b>... ",
 			"pubDate":"Thu, 10 Aug 2023 11:02:00 +0900"
-		},
-		{
-			"title":"하나금융, 인천‧금감원과 중기 ESG 돕는다...금융권‧지자체 협력 최초",
-			"originallink":"http:\/\/www.thevaluenews.co.kr\/news\/view.php?idx=177675",
-			"link":"http:\/\/www.thevaluenews.co.kr\/news\/view.php?idx=177675",
-			"description":"하나금융그룹은 인천 <b>청라<\/b>에 위치한 하나금융그룹 글로벌캠퍼스에서 인천광역시청(시장 윤정복), 금융감독원(원장 이복현)과 함께 중소기업 ESG(환경, 사회, 지배구조) 경영지원을 위한 업무협약을 체결했다고 10일... ",
-			"pubDate":"Thu, 10 Aug 2023 11:00:00 +0900"
 		}
 	]
 }
