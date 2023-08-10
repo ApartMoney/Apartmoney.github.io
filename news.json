@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 11 Aug 2023 06:00:02 +0900",
-	"total":207640,
+	"lastBuildDate":"Fri, 11 Aug 2023 06:10:02 +0900",
+	"total":207641,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이번엔 대구은행… 고객 몰래 1000여개 계좌개설 드러나",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2023\/08\/10\/20230810514995.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003843948?sid=101",
+			"description":"이복현 금감원장은 이날 인천 서구 <b>청라<\/b> 하나글로벌캠퍼스에서 열린 ‘중소기업 ESG 경영지원 업무 협약식’ 행사 후 기자들과 만난 자리에서 “여·수신 과정에서 고객자금을 운용하는 건 은행의 기본적 핵심업무인데 그... ",
+			"pubDate":"Fri, 11 Aug 2023 06:04:00 +0900"
+		},
 		{
 			"title":"또 터진 은행비리… DGB, 고객 명의로 증권계좌 1000개 개설",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20230811017001&wlog_tag3=naver",
@@ -205,13 +212,6 @@
 			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=134445",
 			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=134445",
 			"description":"하나금융그룹은 10일 인천 <b>청라<\/b>에 위치한 하나금융그룹 글로벌캠퍼스에서 인천광역시청, 금융감독원과 함께 중소기업 ESG 경영지원을 위한 업무협약을 체결했다고 밝혔다. 이날 협약식에는 유정복 인천광역시장, 이복현... ",
-			"pubDate":"Thu, 10 Aug 2023 17:34:00 +0900"
-		},
-		{
-			"title":"하나금융, 세계스카우트 잼버리 참가자 찾아 응원 전해",
-			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=134449",
-			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=134449",
-			"description":"하나금융그룹은 10일 오전 인천 <b>청라<\/b> &apos;하나글로벌캠퍼스&apos;에서 머물고 있는 세계스카우트 잼버리 이탈리아 참가자들을 찾아 응원의 뜻을 전했다고 밝혔다. 하나금융그룹은 제6호 태풍 &apos;카눈&apos;의 북상으로 야영지를 떠나게 된... ",
 			"pubDate":"Thu, 10 Aug 2023 17:34:00 +0900"
 		}
 	]
