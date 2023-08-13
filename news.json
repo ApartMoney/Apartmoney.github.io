@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 14 Aug 2023 08:20:02 +0900",
-	"total":207756,
+	"lastBuildDate":"Mon, 14 Aug 2023 08:30:02 +0900",
+	"total":207757,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융, 금융감독원과 청년 디지털 인재 양성 ‘맞손’",
+			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=202308132318469419aba9b94271_29",
+			"link":"http:\/\/www.globalepic.co.kr\/view.php?ud=202308132318469419aba9b94271_29",
+			"description":"이어 이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 ‘디지털 신기술 경진대회’가 진행됐다. 18개팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제 해결을 위해 디지털 신기술 ABCD(AI... ",
+			"pubDate":"Mon, 14 Aug 2023 08:24:00 +0900"
+		},
 		{
 			"title":"“수박·상추 먹을 엄두도 못내”… 내수타격에 경제 위축 우려 [밥상 물가 다...",
 			"originallink":"http:\/\/www.segye.com\/content\/html\/2023\/08\/13\/20230813508764.html?OutUrl=naver",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=136389",
 			"description":"13일 하나금융그룹에 따르면, 이번 선포식은 지난 10일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 열렸으며, 이복현 금융감독원장, 엄종환 SK텔레콤 부사장, 이훈규 아이들과미래재단 이사장 등 외부 인사와 함영주 하나금융... ",
 			"pubDate":"Sun, 13 Aug 2023 11:32:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, &apos;하나 디지털 파워 온 프로젝트&apos; 2기 통해 청년 디지털 인재 양...",
-			"originallink":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=445194",
-			"link":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=445194",
-			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 디지털 신기술 경진대회가 진행됐다. 18개 팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을 위해 디지털 신기술 ABCD(AI... ",
-			"pubDate":"Sun, 13 Aug 2023 11:26:00 +0900"
 		}
 	]
 }
