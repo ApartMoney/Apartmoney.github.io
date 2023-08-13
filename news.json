@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 14 Aug 2023 05:00:02 +0900",
-	"total":207752,
+	"lastBuildDate":"Mon, 14 Aug 2023 05:10:03 +0900",
+	"total":207753,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융, 금감원과 청년 디지털 인재 양성 나서",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20230814018006&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003384623?sid=101",
+			"description":"하나금융은 지난 10일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 하나 디지털 파워 온 프로젝트 선포식을 개최했다고 13일 밝혔다. 이 프로젝트의 목표는 청년 디지털 인재 육성이다. 금융감독원과 구글, 아마존웹서비스(AWS)... ",
+			"pubDate":"Mon, 14 Aug 2023 05:05:00 +0900"
+		},
 		{
 			"title":"“첨단 금융산업 인재 키우자”…하나금융·금감원 ‘디지털 청년’ 육성 맞손",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25184485",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230813010003392",
 			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 디지털 신기술 경진대회가 진행됐다. 18개 팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을 위해 디지털 신기술 ABCD(AI... ",
 			"pubDate":"Sun, 13 Aug 2023 11:12:00 +0900"
-		},
-		{
-			"title":"하나금융, 금감원과 청년 디지털 인재 육성 프로젝트 박차",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20230813104743469",
-			"link":"https:\/\/www.ajunews.com\/view\/20230813104743469",
-			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 &apos;디지털 신기술 경진대회&apos;가 진행됐다. 18개 팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제 해결을 위해 디지털 신기술 &apos;ABCD... ",
-			"pubDate":"Sun, 13 Aug 2023 11:04:00 +0900"
 		}
 	]
 }
