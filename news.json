@@ -1,5 +1,5 @@
 {
-	"lastBuildDate":"Sun, 13 Aug 2023 10:10:03 +0900",
+	"lastBuildDate":"Sun, 13 Aug 2023 10:20:02 +0900",
 	"total":207714,
 	"start":1,
 	"display":30,
@@ -117,10 +117,17 @@
 			"pubDate":"Sun, 13 Aug 2023 08:06:00 +0900"
 		},
 		{
-			"title":"하나금융그룹, 금융감독원과 청년 디지털 인재 양성 ... &quot;미래 디지털 금융 혁...",
-			"originallink":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=40577",
-			"link":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=40577",
+			"title":"하나금융, 디지털 인재 양성 &apos;하나 디지털 파워 온 프로젝트&apos; 2기 선포식",
+			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=512148",
+			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=512148",
 			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 &apos;디지털 신기술 경진대회&apos;가 진행됐다. 18개 팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을 위해 디지털 신기술 ABCD(AI... ",
+			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
+		},
+		{
+			"title":"하나금융, 금감원과 청년 디지털 인재 양성 통해 미래 디지털 금융 혁신 선도",
+			"originallink":"http:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=484708",
+			"link":"http:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=484708",
+			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 디지털 신기술 경진대회가 진행됐다. 18개팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을 위해 디지털 신기술 ABCD(AI... ",
 			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
 		},
 		{
@@ -138,17 +145,10 @@
 			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
 		},
 		{
-			"title":"하나금융 함영주 &quot;청년 융합형 인재 양성..디지털금융 혁신 선도&quot;",
-			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2045334",
-			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2045334",
-			"description":"포쓰저널 박소연 기자 10일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 진행된 &apos;하나 디지털 파워 온 프로젝트&apos; 2기... 10일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 진행된 선포식에는 이복현 금융감독원장, 엄종환 SK텔레콤 부사장... ",
-			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
-		},
-		{
-			"title":"하나금융, 금감원과 인재 양성해 디지털 금융 혁신 선도",
-			"originallink":"http:\/\/www.bigtanews.co.kr\/article\/view\/big202308110021",
-			"link":"http:\/\/www.bigtanews.co.kr\/article\/view\/big202308110021",
-			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 &apos;디지털 신기술 경진대회&apos;가 진행됐다. 18개 팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을 위해 디지털 신기술 ABCD(AI... ",
+			"title":"하나금융, 금융감독원과 청년 디지털 인재 양성 &quot;미래 디지털 금융 혁신 선도...",
+			"originallink":"https:\/\/www.foodneconomy.com\/news\/articleView.html?idxno=349227",
+			"link":"https:\/\/www.foodneconomy.com\/news\/articleView.html?idxno=349227",
+			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 「디지털 신기술 경진대회」가 진행됐다. 18개 팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을 위해 디지털 신기술 ABCD... ",
 			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
 		},
 		{
@@ -159,6 +159,13 @@
 			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
 		},
 		{
+			"title":"하나금융, 금감원과 인재 양성해 디지털 금융 혁신 선도",
+			"originallink":"http:\/\/www.bigtanews.co.kr\/article\/view\/big202308110021",
+			"link":"http:\/\/www.bigtanews.co.kr\/article\/view\/big202308110021",
+			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 &apos;디지털 신기술 경진대회&apos;가 진행됐다. 18개 팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을 위해 디지털 신기술 ABCD(AI... ",
+			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
+		},
+		{
 			"title":"하나금융, 금감원과 디지털 신기술 경진대회 열어",
 			"originallink":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=265208",
 			"link":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=265208",
@@ -166,38 +173,17 @@
 			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
 		},
 		{
-			"title":"하나금융, 금감원과 &apos;하나 디지털 파워 온 프로젝트&apos; 2기 선포식·경진대회 개...",
-			"originallink":"https:\/\/www.thekpm.com\/news\/articleView.html?idxno=168467",
-			"link":"https:\/\/www.thekpm.com\/news\/articleView.html?idxno=168467",
-			"description":"이와 함께 이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 &apos;디지털 신기술 경진대회&apos;가 진행됐다. 18개 팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을 위해 블록체인 등... ",
+			"title":"청년 디지털 인재 키우는 하나금융…‘하나 디지털 파워 온 프로젝트 선포식’...",
+			"originallink":"http:\/\/www.segyebiz.com\/newsView\/20230812506365?OutUrl=naver",
+			"link":"http:\/\/www.segyebiz.com\/newsView\/20230812506365?OutUrl=naver",
+			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에선 청년들의 혁신적인 아이디어를 이끌어낼 ‘디지털 신기술 경진대회’도 진행됐다. 18개 팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을... ",
 			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
 		},
 		{
-			"title":"하나금융, 디지털 인재 양성 &apos;하나 디지털 파워 온 프로젝트&apos; 2기 선포식",
-			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=512148",
-			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=512148",
-			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 &apos;디지털 신기술 경진대회&apos;가 진행됐다. 18개 팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을 위해 디지털 신기술 ABCD(AI... ",
-			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
-		},
-		{
-			"title":"하나금융, 금감원과 청년 디지털 인재 양성 통해 미래 디지털 금융 혁신 선도",
-			"originallink":"http:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=484708",
-			"link":"http:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=484708",
-			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 디지털 신기술 경진대회가 진행됐다. 18개팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을 위해 디지털 신기술 ABCD(AI... ",
-			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 청년 디지털 인재 양성 앞장…&quot;미래 디지털 금융 혁신 선도&quot;",
-			"originallink":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=209583",
-			"link":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=209583",
-			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 &apos;디지털 신기술 경진대회&apos;가 진행됐다. 경진대회에서 치열한 경쟁을 뚫고 선발된 팀들에게는 특별한 혜택이 주어진다. 프로젝트 종료 후 최종 성과공유회를 통해... ",
-			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 금감원과 디지털 인재양성·디지털 금융혁신 &apos;맞손&apos;",
-			"originallink":"http:\/\/www.choicenews.co.kr\/news\/articleView.html?idxno=119342",
-			"link":"http:\/\/www.choicenews.co.kr\/news\/articleView.html?idxno=119342",
-			"description":"하나금융 측은 &quot;인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 &apos;디지털 신기술 경진대회&apos;가 진행됐다&quot;며 &quot;18개 팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을 위해 디지털... ",
+			"title":"하나금융 함영주 &quot;청년 융합형 인재 양성..디지털금융 혁신 선도&quot;",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2045334",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2045334",
+			"description":"포쓰저널 박소연 기자 10일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 진행된 &apos;하나 디지털 파워 온 프로젝트&apos; 2기... 10일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 진행된 선포식에는 이복현 금융감독원장, 엄종환 SK텔레콤 부사장... ",
 			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
 		},
 		{
@@ -208,10 +194,24 @@
 			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
 		},
 		{
-			"title":"하나금융, 금융감독원과 청년 디지털 인재 양성 &quot;미래 디지털 금융 혁신 선도...",
-			"originallink":"https:\/\/www.foodneconomy.com\/news\/articleView.html?idxno=349227",
-			"link":"https:\/\/www.foodneconomy.com\/news\/articleView.html?idxno=349227",
-			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 「디지털 신기술 경진대회」가 진행됐다. 18개 팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을 위해 디지털 신기술 ABCD... ",
+			"title":"하나금융그룹, 청년 디지털 인재 양성 앞장…&quot;미래 디지털 금융 혁신 선도&quot;",
+			"originallink":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=209583",
+			"link":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=209583",
+			"description":"이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 &apos;디지털 신기술 경진대회&apos;가 진행됐다. 경진대회에서 치열한 경쟁을 뚫고 선발된 팀들에게는 특별한 혜택이 주어진다. 프로젝트 종료 후 최종 성과공유회를 통해... ",
+			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 디지털 금융 혁신 이끌 &quot;청년 인재 양성&quot;",
+			"originallink":"https:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=58107",
+			"link":"https:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=58107",
+			"description":"하나금융그룹은 지난 10일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 디지털 인재 양성 프로젝트인 &apos;하나 디지털 파워 온 프로젝트&apos; 2기 선포식을 개최하고 &apos;디지털 신기술 경진대회&apos;를 실시했다고 13일 밝혔다. 금융감독원과... ",
+			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
+		},
+		{
+			"title":"하나금융, 금감원과 &apos;하나 디지털 파워 온 프로젝트&apos; 2기 선포식·경진대회 개...",
+			"originallink":"https:\/\/www.thekpm.com\/news\/articleView.html?idxno=168467",
+			"link":"https:\/\/www.thekpm.com\/news\/articleView.html?idxno=168467",
+			"description":"이와 함께 이날 인천 <b>청라<\/b> 하나글로벌캠퍼스에서는 선포식에 이어 &apos;디지털 신기술 경진대회&apos;가 진행됐다. 18개 팀으로 구성된 대학생 참가자들이 금융산업 현장에서 발생할 수 있는 다양한 문제해결을 위해 블록체인 등... ",
 			"pubDate":"Sun, 13 Aug 2023 08:02:00 +0900"
 		}
 	]
