@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 17 Aug 2023 03:10:02 +0900",
-	"total":207937,
+	"lastBuildDate":"Thu, 17 Aug 2023 03:20:02 +0900",
+	"total":207938,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"자유와 평화, 하나된 ‘통일 대한민국’을 소망하며…",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0924316461&code=23111111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001631374?sid=103",
+			"description":"김장환 목사는 “대구는 선교사들이 <b>청라<\/b>언덕을 중심으로 교회, 학교, 병원을 시작하며 대구 근대문화의 초석을 놓은 곳이다. 선교사들이 <b>청라<\/b>언덕에서 선포하고 불렀던 복음의 메시지가 오늘 나라사랑 축제에서... ",
+			"pubDate":"Thu, 17 Aug 2023 03:10:00 +0900"
+		},
 		{
 			"title":"대구 중구,&apos;2023 대구문화재 야행 - 관찰사의 낭만 사진첩&apos;개최··· 18~19일...",
 			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=410647",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014132726?sid=102",
 			"description":"인천 영종과 <b>청라<\/b>는 물론 경기 일산, 서울 창동 등 수도권 곳곳에서 이미 아레나 공사가 추진되고 있기 때문이다. 인천경제청은 제안공모에 앞서 여러 차례 주민 의견을 수렴하고 이에 맞춰 공모지침을 수립한다는... ",
 			"pubDate":"Wed, 16 Aug 2023 07:00:00 +0900"
-		},
-		{
-			"title":"[ESG 경영] 하나금융, 저출산·고령화 해결에 &apos;진심&apos;...&quot;상생 금융 문화 확산...",
-			"originallink":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=305457",
-			"link":"http:\/\/www.greened.kr\/news\/articleView.html?idxno=305457",
-			"description":"6월에는 인천 <b>청라<\/b>에서 웨딩홀 무료 대관 행사를 진행했다. 올해 하반기 ▲서울 여의도 ▲대전 오류동 ▲광주 금남로 ▲부산 중앙동에서도 잇따라 개방된다. 신청은 결혼 3개월 이전부터 하나은행 모바일 앱인... ",
-			"pubDate":"Wed, 16 Aug 2023 00:00:00 +0900"
 		}
 	]
 }
