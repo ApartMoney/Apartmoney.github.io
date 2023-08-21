@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 21 Aug 2023 14:50:02 +0900",
-	"total":208041,
+	"lastBuildDate":"Mon, 21 Aug 2023 15:00:03 +0900",
+	"total":208042,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 운서역 공영주차장 요금 대폭 인상",
+			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/2037864.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000233889?sid=102",
+			"description":"정창진 인천경제청 영종<b>청라<\/b>기반과장은 &quot;이번 급지 변경으로 인천공항 장기 주차요금(9000원\/일)보다 인상돼 공항 이용객이 감소하고 영종 주민들에게 주차장 이용 편의를 제공할 것으로 기대한다&quot;며 &quot;앞으로도... ",
+			"pubDate":"Mon, 21 Aug 2023 14:53:00 +0900"
+		},
 		{
 			"title":"인천경제청, 인천 운서역 공영주차장 요금 1日 4000원→1만원",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282465672864",
@@ -75,17 +82,17 @@
 			"pubDate":"Mon, 21 Aug 2023 11:10:00 +0900"
 		},
 		{
-			"title":"인천 운서역 공영주차장 급지(요금) 변경,9월15부터 시행",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211056299560386",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211056299560386",
-			"description":"정창진 인천경제청 영종<b>청라<\/b>기반과장은 “이번 급지 변경으로 인천공항 장기주차요금(9,000원\/일)보다 인상되어 공항이용객이 감소하고 영종주민들에게 주차장 이용 편의를 제공할 것으로 기대한다”며... ",
-			"pubDate":"Mon, 21 Aug 2023 11:02:00 +0900"
-		},
-		{
 			"title":"인천 <b>청라<\/b> 자원환경센터 기술진단 결과,&apos;기준만족&apos;",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211042306360375",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211042306360375",
 			"description":"실시한 <b>청라<\/b>자원환경센터 소각시설 기술진단 결과 ‘성능진단, 운영현황, 환경오염물질 모두 기준만족 및... <b>청라<\/b> 자원환경센터는 2002년부터 사용 개시해 현재까지 사용되고 있으며, 하루 420톤 규모를 처리하고 있다.... ",
+			"pubDate":"Mon, 21 Aug 2023 11:02:00 +0900"
+		},
+		{
+			"title":"인천 운서역 공영주차장 급지(요금) 변경,9월15부터 시행",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211056299560386",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211056299560386",
+			"description":"정창진 인천경제청 영종<b>청라<\/b>기반과장은 “이번 급지 변경으로 인천공항 장기주차요금(9,000원\/일)보다 인상되어 공항이용객이 감소하고 영종주민들에게 주차장 이용 편의를 제공할 것으로 기대한다”며... ",
 			"pubDate":"Mon, 21 Aug 2023 11:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=324831",
 			"description":"개원예정인 서울아산<b>청라<\/b>병원에 병원 로봇 서비스 기술과 함께 건축 설계 컨설팅도 지원한다.... 첫 글로벌병원인 UAE아산소화기병원의 설립과 첫 분원인 서울아산<b>청라<\/b>병원의 개원에 중추적 역할을 직접 맡게 됨에... ",
 			"pubDate":"Mon, 21 Aug 2023 08:32:00 +0900"
-		},
-		{
-			"title":"[더벨][건설리포트]신세계건설, 원가관리 고전에 적자 지속",
-			"originallink":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202308181420063960101061",
-			"link":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202308181420063960101061",
-			"description":"수주현황을 살펴보면 상반기 중 △스타필드<b>청라<\/b>1단계현장(831억원) △강남점23RM현장(면세\/파미에)(598억원) △대전제2매립장조성공사현장(583억원) △수원화서 트레이더스 및 전문점 내부마감공사(218억원)... ",
-			"pubDate":"Mon, 21 Aug 2023 07:28:00 +0900"
 		}
 	]
 }
