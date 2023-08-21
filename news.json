@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 21 Aug 2023 11:20:02 +0900",
-	"total":208033,
+	"lastBuildDate":"Mon, 21 Aug 2023 11:30:02 +0900",
+	"total":208034,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청 중구 운서역 공영주차장 급지(요금) 대폭 상향",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20230821010005652",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230821010005652",
+			"description":"정창진 인천경제청 영종<b>청라<\/b>기반과장은 “이번 급지 변경으로 인천공항 장기주차요금(9000원\/일)보다 인상돼 공항이용객이 감소하고 영종주민들에게 주차장 이용 편의를 제공할 것으로 기대한다”며, “앞으로도... ",
+			"pubDate":"Mon, 21 Aug 2023 11:22:00 +0900"
+		},
 		{
 			"title":"인천 영종 운서역 공영주차장, 다음달 15일부터 요금 인상",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=233699",
@@ -19,17 +26,17 @@
 			"pubDate":"Mon, 21 Aug 2023 11:10:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b> 자원환경센터 기술진단 결과,&apos;기준만족&apos;",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211042306360375",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211042306360375",
-			"description":"실시한 <b>청라<\/b>자원환경센터 소각시설 기술진단 결과 ‘성능진단, 운영현황, 환경오염물질 모두 기준만족 및... <b>청라<\/b> 자원환경센터는 2002년부터 사용 개시해 현재까지 사용되고 있으며, 하루 420톤 규모를 처리하고 있다.... ",
-			"pubDate":"Mon, 21 Aug 2023 11:02:00 +0900"
-		},
-		{
 			"title":"인천 운서역 공영주차장 급지(요금) 변경,9월15부터 시행",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211056299560386",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211056299560386",
 			"description":"정창진 인천경제청 영종<b>청라<\/b>기반과장은 “이번 급지 변경으로 인천공항 장기주차요금(9,000원\/일)보다 인상되어 공항이용객이 감소하고 영종주민들에게 주차장 이용 편의를 제공할 것으로 기대한다”며... ",
+			"pubDate":"Mon, 21 Aug 2023 11:02:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b> 자원환경센터 기술진단 결과,&apos;기준만족&apos;",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211042306360375",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211042306360375",
+			"description":"실시한 <b>청라<\/b>자원환경센터 소각시설 기술진단 결과 ‘성능진단, 운영현황, 환경오염물질 모두 기준만족 및... <b>청라<\/b> 자원환경센터는 2002년부터 사용 개시해 현재까지 사용되고 있으며, 하루 420톤 규모를 처리하고 있다.... ",
 			"pubDate":"Mon, 21 Aug 2023 11:02:00 +0900"
 		},
 		{
@@ -194,13 +201,6 @@
 			"pubDate":"Sun, 20 Aug 2023 20:12:00 +0900"
 		},
 		{
-			"title":"인천시 자율주행차 시범운행도 &apos;빨간불&apos;",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1045499",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1045499",
-			"description":"시는 용역에서 시범운행지구 신청 대상지인 송도·<b>청라<\/b>국제도시, 영종 인천국제공항, 검단신도시, 인천시청 일대, 동인천역~인천역 구간을 검토할 예정이었다. 하지만 국토부 현장실사가 늦어지면서 전국 대부분... ",
-			"pubDate":"Sun, 20 Aug 2023 19:14:00 +0900"
-		},
-		{
 			"title":"더위 식히는 물줄기 &apos;장관&apos;",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1045489",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1045489",
@@ -208,11 +208,11 @@
 			"pubDate":"Sun, 20 Aug 2023 19:14:00 +0900"
 		},
 		{
-			"title":"&apos;신도시=민주당&apos; 옛말…소형 적은 인천 서구 &apos;표심&apos; 뒤집히나",
-			"originallink":"https:\/\/www.hankyung.com\/politics\/article\/2023082038721",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004881724?sid=100",
-			"description":"<b>청라<\/b>신도시, 검단신도시를 필두로 아파트가 들어서면서 인구가 늘었기 때문이다. 2020년 4월부터 22대... 특히 서구에 새로 입주하는 가구 중 46%를 차지하는 <b>청라<\/b>·백석·원당동은 순서대로 서구에서 평당 가격이 가장... ",
-			"pubDate":"Sun, 20 Aug 2023 18:13:00 +0900"
+			"title":"인천시 자율주행차 시범운행도 &apos;빨간불&apos;",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1045499",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1045499",
+			"description":"시는 용역에서 시범운행지구 신청 대상지인 송도·<b>청라<\/b>국제도시, 영종 인천국제공항, 검단신도시, 인천시청 일대, 동인천역~인천역 구간을 검토할 예정이었다. 하지만 국토부 현장실사가 늦어지면서 전국 대부분... ",
+			"pubDate":"Sun, 20 Aug 2023 19:14:00 +0900"
 		}
 	]
 }
