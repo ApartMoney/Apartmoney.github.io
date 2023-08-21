@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Mon, 21 Aug 2023 18:00:02 +0900",
-	"total":208055,
+	"lastBuildDate":"Mon, 21 Aug 2023 18:10:02 +0900",
+	"total":208059,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천교통공사, 노사 합동 무재해·무사고 결의대회",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1207935",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1207935",
+			"description":"인천교통공사(사장 김성완)는 지난 17일 <b>청라<\/b> BRT통합차고지 등 각 사업장에서 산업 재해와 교통사고 근절을 위한 노사 합동 무재해·무사고 실천 결의대회를 개최했다. 이날 결의대회에는 김양정 공사 육상교통본부장과... ",
+			"pubDate":"Mon, 21 Aug 2023 18:02:00 +0900"
+		},
+		{
+			"title":"[사설] 영종에 종합병원 설립이 절실한 까닭",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1207922",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1207922",
+			"description":"반면 이미 행정 절차를 시작한 서울아산병원과 세브란스의료원 등의 <b>청라<\/b>·송도 분원 설립은 기존 병상 규모를 유지할 전망이다. 영종은 공항과 해양이란 특성을 함께 갖고 있는 곳이다. 그래서 &apos;특수목적 종합병원&apos; 설립은... ",
+			"pubDate":"Mon, 21 Aug 2023 18:02:00 +0900"
+		},
+		{
+			"title":"[알립니다] 2023 함께 걷자, Red Walker",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1207876",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1207876",
+			"description":"서구 <b>청라<\/b>호수공원 일대에서 개최됩니다. 인천일보와 인천시설공단, 인하대병원이 공동 주관하는... ·일 시 : 2023년 9월23일(토) 오후 3시 ·행 사 장 : 인천 서구 <b>청라<\/b>호수공원 일대 (멀티프라자, 음악분수 관람석... ",
+			"pubDate":"Mon, 21 Aug 2023 18:02:00 +0900"
+		},
+		{
+			"title":"내달 15일 운서역 공영주차장 급지(요금) 변경 시행",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363607065",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363607065",
+			"description":"정창진 인천경제청 영종<b>청라<\/b>기반과장은 &quot;이번 급지 변경으로 인천공항 장기주차요금(9천 원\/일)보다 인상돼 공항이용객이 감소하고 영종주민들에게 주차장 이용 편의를 제공할 것으로 기대한다&quot;며 &quot;앞으로도 주민이... ",
+			"pubDate":"Mon, 21 Aug 2023 18:00:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b> 소각장 기술진단 &apos;만족&apos; 결과에 주민 갸우뚱…市 “폐쇄 계획과 상관無”",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=760108",
@@ -173,13 +201,6 @@
 			"pubDate":"Mon, 21 Aug 2023 11:10:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b> 자원환경센터 기술진단 결과,&apos;기준만족&apos;",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211042306360375",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211042306360375",
-			"description":"실시한 <b>청라<\/b>자원환경센터 소각시설 기술진단 결과 ‘성능진단, 운영현황, 환경오염물질 모두 기준만족 및... <b>청라<\/b> 자원환경센터는 2002년부터 사용 개시해 현재까지 사용되고 있으며, 하루 420톤 규모를 처리하고 있다.... ",
-			"pubDate":"Mon, 21 Aug 2023 11:02:00 +0900"
-		},
-		{
 			"title":"인천 운서역 공영주차장 급지(요금) 변경,9월15부터 시행",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211056299560386",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211056299560386",
@@ -187,32 +208,11 @@
 			"pubDate":"Mon, 21 Aug 2023 11:02:00 +0900"
 		},
 		{
-			"title":"인천 중구 운서역 공영주차장 급지(요금) 변경",
-			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230821010005735",
-			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230821010005735",
-			"description":"정창진 인천경제청 영종<b>청라<\/b>기반과장은 &quot;이번 급지 변경으로 인천공항 장기주차요금(9000원\/일)보다 인상되어 공항이용객이 감소하고 영종주민들에게 주차장 이용 편의를 제공할 것으로 기대한다&quot;며 &quot;앞으로도... ",
-			"pubDate":"Mon, 21 Aug 2023 10:58:00 +0900"
-		},
-		{
-			"title":"인천 영종 &apos;운서역 공영주차장&apos; 요금 변경…내달 15일부터 1일 1만원",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230821010010138",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230821010010138",
-			"description":"단 24시간(1일) 이하 주차는 1일 최대 4000원으로 변경사항이 없다.정창진 인천경제청 영종<b>청라<\/b>기반과장은 &quot;이번 급지 변경으로 인천공항 장기주차요금(9000원\/일)보다 인상돼 공항이용객이 감소하고 영종주민들에게... ",
-			"pubDate":"Mon, 21 Aug 2023 10:58:00 +0900"
-		},
-		{
-			"title":"인천 서구 <b>청라<\/b>동에서 치와와 발견 보호",
-			"originallink":"https:\/\/www.notepet.co.kr\/news\/abandon\/abandon_view\/?idx=263206",
-			"link":"https:\/\/www.notepet.co.kr\/news\/abandon\/abandon_view\/?idx=263206",
-			"description":"인천 서구 <b>청라<\/b>동 167-19에서 발견 구조한 암컷 치와와가 20일 동물보호소에 들어왔다. 흰검색 치와와는 몸무게 2.6Kg에 2022년생으로 추정된다. 분홍색 목줄 착용. 순함. 소심함. 겁 있음. 착함.... ",
-			"pubDate":"Mon, 21 Aug 2023 10:24:00 +0900"
-		},
-		{
-			"title":"운서역 공영주차장 급지(요금)변경 시행",
-			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2030059",
-			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2030059",
-			"description":"정창진 인천경제청 영종<b>청라<\/b>기반과장은 &quot;이번 급지 변경으로 인천공항 장기주차요금(9000원\/일)보다 인상돼, 공항이용객이 감소하고 영종주민들에게 주차장 이용 편의를 제공할 것으로 기대한다&quot;며 &quot;앞으로도 주민이... ",
-			"pubDate":"Mon, 21 Aug 2023 10:10:00 +0900"
+			"title":"인천 <b>청라<\/b> 자원환경센터 기술진단 결과,&apos;기준만족&apos;",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211042306360375",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308211042306360375",
+			"description":"실시한 <b>청라<\/b>자원환경센터 소각시설 기술진단 결과 ‘성능진단, 운영현황, 환경오염물질 모두 기준만족 및... <b>청라<\/b> 자원환경센터는 2002년부터 사용 개시해 현재까지 사용되고 있으며, 하루 420톤 규모를 처리하고 있다.... ",
+			"pubDate":"Mon, 21 Aug 2023 11:02:00 +0900"
 		}
 	]
 }
