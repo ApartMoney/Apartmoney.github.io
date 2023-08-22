@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 22 Aug 2023 17:30:02 +0900",
-	"total":208080,
+	"lastBuildDate":"Tue, 22 Aug 2023 17:40:02 +0900",
+	"total":208081,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[OBS 뉴스오늘] 민선 8기 인천 공감 사업은",
+			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1411128",
+			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1411128",
+			"description":"[질문6] <b>청라<\/b>·검단에 5만여 명 입주 앞둬 50대 이상 인구 2년 새 큰 폭 증가 &apos;신도시=민주당&apos; 옛말? 소형 평수 적은 인천 서구 &apos;표심&apos; 뒤집히나 [질문7] 허종식·박찬대 &quot;&apos;주안~연수&apos; 노선 조기 착공&quot; 인천2호선 주안~연수... ",
+			"pubDate":"Tue, 22 Aug 2023 17:30:00 +0900"
+		},
 		{
 			"title":"‘폭탄 돌리기’ 인천 소각장 실마리 이번에 찾을까",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=760257",
@@ -166,17 +173,17 @@
 			"pubDate":"Mon, 21 Aug 2023 18:02:00 +0900"
 		},
 		{
-			"title":"[사설] 영종에 종합병원 설립이 절실한 까닭",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1207922",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1207922",
-			"description":"반면 이미 행정 절차를 시작한 서울아산병원과 세브란스의료원 등의 <b>청라<\/b>·송도 분원 설립은 기존 병상 규모를 유지할 전망이다. 영종은 공항과 해양이란 특성을 함께 갖고 있는 곳이다. 그래서 &apos;특수목적 종합병원&apos; 설립은... ",
-			"pubDate":"Mon, 21 Aug 2023 18:02:00 +0900"
-		},
-		{
 			"title":"[알립니다] 2023 함께 걷자, Red Walker",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1207876",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1207876",
 			"description":"서구 <b>청라<\/b>호수공원 일대에서 개최됩니다. 인천일보와 인천시설공단, 인하대병원이 공동 주관하는... ·일 시 : 2023년 9월23일(토) 오후 3시 ·행 사 장 : 인천 서구 <b>청라<\/b>호수공원 일대 (멀티프라자, 음악분수 관람석... ",
+			"pubDate":"Mon, 21 Aug 2023 18:02:00 +0900"
+		},
+		{
+			"title":"[사설] 영종에 종합병원 설립이 절실한 까닭",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1207922",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1207922",
+			"description":"반면 이미 행정 절차를 시작한 서울아산병원과 세브란스의료원 등의 <b>청라<\/b>·송도 분원 설립은 기존 병상 규모를 유지할 전망이다. 영종은 공항과 해양이란 특성을 함께 갖고 있는 곳이다. 그래서 &apos;특수목적 종합병원&apos; 설립은... ",
 			"pubDate":"Mon, 21 Aug 2023 18:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000019294?sid=102",
 			"description":"인천 서구 <b>청라<\/b>자원환경센터 전경. 인천시 제공 인천 서구 <b>청라<\/b> 자원환경센터(소각장)의 기능에 문제가 없다는 진단 결과가 나왔다. 다만, 장기적 관점에서는 ‘종전 소각시설의 전면 교체 대보수’가 필요한 것으로... ",
 			"pubDate":"Mon, 21 Aug 2023 17:07:00 +0900"
-		},
-		{
-			"title":"인천 부동산시장 상승세 제대로 탔다…각종 지표 호조 이어져",
-			"originallink":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=33873",
-			"link":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=33873",
-			"description":"추진중인 서울지하철 2호선(<b>청라<\/b>연장선)이 개통되면 서울은 물론 서구 <b>청라<\/b>국제도시의 접근성도 크게 개선될 전망이다. 단지 바로 옆으로는 효성문화공원·효성수영장과 5500평 규모의 대형 스트리트몰 조성이... ",
-			"pubDate":"Mon, 21 Aug 2023 16:38:00 +0900"
 		}
 	]
 }
