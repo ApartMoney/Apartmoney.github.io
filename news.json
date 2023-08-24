@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 24 Aug 2023 20:00:03 +0900",
-	"total":208196,
+	"lastBuildDate":"Thu, 24 Aug 2023 20:10:02 +0900",
+	"total":208197,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"경자청, 오송국제학교 설립 준비 잘 해야",
+			"originallink":"https:\/\/www.inews365.com\/news\/article.html?no=778009",
+			"link":"https:\/\/www.inews365.com\/news\/article.html?no=778009",
+			"description":"국내 국제도시는 현재 송도국제도시, <b>청라<\/b>국제도시, 영종국제도시, 명지국제신도시, 고덕국제신도시 등 5군데뿐이다. 그나마 완성된 도시라기보다 여전히 준비 중이라는 표현이 맞다. 인천광역시에 3곳, 부산광역시에 1곳... ",
+			"pubDate":"Thu, 24 Aug 2023 20:04:00 +0900"
+		},
 		{
 			"title":"KLPGA &apos;하나금융그룹 챔피언십&apos; 갤러리티켓 사전판매…모바일앱 &apos;하나원큐&apos;서",
 			"originallink":"http:\/\/www.insidevina.com\/news\/articleView.html?idxno=24961",
@@ -152,17 +159,17 @@
 			"pubDate":"Thu, 24 Aug 2023 16:21:00 +0900"
 		},
 		{
-			"title":"하나금융그룹, KLPGA 챔피언십 내달 21일 개최",
-			"originallink":"https:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=58762",
-			"link":"https:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=58762",
-			"description":"하나금융그룹은 다음달 21일부터 24일까지 나흘 간, 인천 <b>청라<\/b>에 위치한 &apos;베어즈베스트 <b>청라<\/b> 골프클럽&apos;에서 KLPGA 정규투어 &apos;하나금융그룹 챔피언십&apos;(총 상금 15억 원, 우승상금 2억 7000만원)을 개최한다고 24일 밝혔다.... ",
-			"pubDate":"Thu, 24 Aug 2023 16:12:00 +0900"
-		},
-		{
 			"title":"‘베어즈베스트 <b>청라<\/b>’서 내달 KLPGA 정규투어 하나금융그룹 챔피언십 개최",
 			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=20230824160821948cba63abf8_30",
 			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=20230824160821948cba63abf8_30",
 			"description":"하나금융그룹은 다음달 21일부터 24일까지 나흘간, 인천 <b>청라<\/b>에 위치한 ‘베어즈베스트 <b>청라<\/b> 골프클럽’에서 KLPGA 정규투어 ‘하나금융그룹 챔피언십’을 개최한다고 24일 밝혔다. 이번 대회의 총 상금 15억원이며... ",
+			"pubDate":"Thu, 24 Aug 2023 16:12:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, KLPGA 챔피언십 내달 21일 개최",
+			"originallink":"https:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=58762",
+			"link":"https:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=58762",
+			"description":"하나금융그룹은 다음달 21일부터 24일까지 나흘 간, 인천 <b>청라<\/b>에 위치한 &apos;베어즈베스트 <b>청라<\/b> 골프클럽&apos;에서 KLPGA 정규투어 &apos;하나금융그룹 챔피언십&apos;(총 상금 15억 원, 우승상금 2억 7000만원)을 개최한다고 24일 밝혔다.... ",
 			"pubDate":"Thu, 24 Aug 2023 16:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=215381",
 			"description":"하나금융그룹은 다음달 21~24일 나흘 간 인천시 <b>청라<\/b>에 위치한 &apos;베어즈베스트 <b>청라<\/b> 골프클럽&apos;에서 한국여자프로골프(KLPGA) 정규투어 &apos;하나금융그룹 챔피언십&apos;을 개최한다고 24일 밝혔다. 하나금융은 대회 개최를 앞두고... ",
 			"pubDate":"Thu, 24 Aug 2023 14:56:00 +0900"
-		},
-		{
-			"title":"하나금융, 9월 20일까지 하나원큐서 KLPGA &apos;하나금융그룹 챔피언십&apos; 갤러리 티...",
-			"originallink":"http:\/\/sports.chosun.com\/news\/ntype.htm?id=202308250100178790023264&servicedate=20230824",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/076\/0004047572?sid=101",
-			"description":"하나금융그룹이 9월 21~24일 인천 &apos;베어즈베스트 <b>청라<\/b> 골프클럽&apos;에서 개최하는 KLPGA 정규투어 &apos;하나금융그룹... 이외에도 &apos;하나금융그룹 챔피언십&apos;이 개최되는 &apos;베어즈베스트 <b>청라<\/b> 골프클럽&apos;은 하나금융타운 바로 맞은편... ",
-			"pubDate":"Thu, 24 Aug 2023 14:45:00 +0900"
 		}
 	]
 }
