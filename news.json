@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 27 Aug 2023 13:40:02 +0900",
-	"total":208296,
+	"lastBuildDate":"Sun, 27 Aug 2023 13:50:02 +0900",
+	"total":208297,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[부동산] 인천 집값 상승, 서울은 혼조",
+			"originallink":"https:\/\/www.starnewskorea.com\/stview.php?no=2023082713413830931",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/108\/0003177318?sid=004",
+			"description":"최근 가격 반등은 인천에서도 상대적으로 선호도가 높은 송도, <b>청라<\/b> 등이 이끌었다. 수도권 아파트 매매가격은 5주 연속 보합(0.00%)을 나타내며 하락세가 사실상 멈춘 상황이다. 막바지 휴가철도 끼어 있어 가격... ",
+			"pubDate":"Sun, 27 Aug 2023 13:43:00 +0900"
+		},
 		{
 			"title":"&quot;올 가을엔 감성 가득한 보령으로 여행 어때요?&quot;",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1750804",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/109\/0004914938?sid=106",
 			"description":"현실을 깨달은 이장군과 이영희는 서울을 벗어나 인천 <b>청라<\/b>로 간다. 이번 집은 주인도 들어오기 전의 새 아파트였고, 이리 봐도 저리 봐도 마음에 쏙 드는 신축 아파트에 드디어 안색이 환해졌다는데. 이장군 부부의... ",
 			"pubDate":"Sat, 26 Aug 2023 08:42:00 +0900"
-		},
-		{
-			"title":"이장군 아내, 2억 집 구하는 와중에도 못 말리는 클럽 사랑(살림남)",
-			"originallink":"https:\/\/www.newsen.com\/news_view.php?uid=202308260831156310",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/609\/0000763884?sid=106",
-			"description":"현실을 깨달은 이장군과 이영희는 서울을 벗어나 인천 <b>청라<\/b>로 간다. 이번 집은 주인도 들어오기 전의 새 아파트였고, 이리 봐도 저리 봐도 마음에 쏙 드는 신축 아파트에 드디어 안색이 환해졌다고 한다. 26일 오후 9시... ",
-			"pubDate":"Sat, 26 Aug 2023 08:36:00 +0900"
 		}
 	]
 }
