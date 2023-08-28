@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 28 Aug 2023 17:10:02 +0900",
-	"total":208359,
+	"lastBuildDate":"Mon, 28 Aug 2023 17:20:03 +0900",
+	"total":208361,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"공기과학시험연구원, KOLAS 인정 취득",
+			"originallink":"http:\/\/www.todayenergy.kr\/news\/articleView.html?idxno=263902",
+			"link":"http:\/\/www.todayenergy.kr\/news\/articleView.html?idxno=263902",
+			"description":"지난 2022년 10월 인천 <b>청라<\/b> 국제도시 첨단산업단지 내 정식 개원한 연구원은 미국냉동공조협회(AHRI) 시험기관 지정에 이어 KOLAS 국제공인시험기관 인정을 받아 국내규격(KS) 및 해외규격(AHRI)에 대응한 시험이 가능하게 돼... ",
+			"pubDate":"Mon, 28 Aug 2023 17:18:00 +0900"
+		},
+		{
+			"title":"‘16년만에 정상화’…인천로봇랜드 내년 기반시설 착공",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29TL0EB29A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004231134?sid=102",
+			"description":"인천로봇랜드는 경제자유구역인 <b>청라<\/b>국제도시에 76만9000㎡ 규모의 로봇산업 클러스터를 조성하는 사업이다. 인천시는 2007년 11월 경남 마산과 함께 정부로부터 로봇랜드 조성 지자체로 선정됐지만, 부동산 경기침체와... ",
+			"pubDate":"Mon, 28 Aug 2023 17:16:00 +0900"
+		},
 		{
 			"title":"올가을엔 감성 가득한 보령으로 여행 어때요?",
 			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=718560",
@@ -82,17 +96,17 @@
 			"pubDate":"Mon, 28 Aug 2023 16:02:00 +0900"
 		},
 		{
-			"title":"인천로봇랜드 조성사업 정상화 합의...2024년 착공",
-			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/881640",
-			"link":"https:\/\/www.wikitree.co.kr\/articles\/881640",
-			"description":"인천로봇랜드 조성사업은 <b>청라<\/b> 국제도시에 769,279㎡ 규모의 로봇산업 클러스터를 조성하는 사업이다. 산업용지, 업무용지, 로봇체험시설, 상업시설 등으로 구성돼 있으며, 향후 산업통상자원부에 조성실행계획 변경 승인... ",
-			"pubDate":"Mon, 28 Aug 2023 16:00:00 +0900"
-		},
-		{
 			"title":"유정복, 인천로봇랜드 조성 사업 추진에 각 기관 협조 부탁",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20230828155139184",
 			"link":"https:\/\/www.ajunews.com\/view\/20230828155139184",
 			"description":"<b>청라<\/b> 국제도시에 76만9279㎡ 규모...로봇산업 클러스터 조성 인천시-도시공사-인천로봇랜드, 합의약정 iH... 인천로봇랜드 조성사업은 <b>청라<\/b> 국제도시에 76만9279㎡ 규모의 로봇산업 클러스터를 조성하는 사업이다. 산업용지... ",
+			"pubDate":"Mon, 28 Aug 2023 16:00:00 +0900"
+		},
+		{
+			"title":"인천로봇랜드 조성사업 정상화 합의...2024년 착공",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/881640",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/881640",
+			"description":"인천로봇랜드 조성사업은 <b>청라<\/b> 국제도시에 769,279㎡ 규모의 로봇산업 클러스터를 조성하는 사업이다. 산업용지, 업무용지, 로봇체험시설, 상업시설 등으로 구성돼 있으며, 향후 산업통상자원부에 조성실행계획 변경 승인... ",
 			"pubDate":"Mon, 28 Aug 2023 16:00:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005178352?sid=102",
 			"description":"인천 서구 <b>청라<\/b>국제도시 76만9200여㎡(로봇랜드로 155-11)에 조성중인 인천로봇랜드는 로봇산업진흥시설로 로봇타워·로봇R&amp;D센터·산업시설이, 유원·부대시설로 테마파크, 상업·업무시설 등이 들어서는 것으로 계획돼... ",
 			"pubDate":"Mon, 28 Aug 2023 14:27:00 +0900"
-		},
-		{
-			"title":"인천로봇랜드 조성사업 탄력…2024년 착공",
-			"originallink":"https:\/\/www.hankyung.com\/society\/article\/202308283990h",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004884649?sid=102",
-			"description":"인천로봇랜드 조성사업은 <b>청라<\/b> 국제도시에 76만9279㎡ 규모의 로봇산업 클러스터를 조성하는 사업이다. 산업용지, 업무용지, 로봇체험시설, 상업시설 등으로 구성돼 있다. 산업통상자원부에 조성실행계획 변경 승인 등... ",
-			"pubDate":"Mon, 28 Aug 2023 14:02:00 +0900"
-		},
-		{
-			"title":"인천로봇랜드 조성사업 16년만에 정상화…2024년 착공",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202308281321282887",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005063096?sid=102",
-			"description":"인천로봇랜드 조성사업은 <b>청라<\/b>국제도시에 76만9279㎡ 규모의 로봇산업 클러스터를 조성하는 사업이다. 산업용지, 업무용지, 로봇체험시설, 상업시설 등으로 구성돼 있다. 시는 2007년 로봇랜드 사업자로 선정된 이후... ",
-			"pubDate":"Mon, 28 Aug 2023 14:01:00 +0900"
 		}
 	]
 }
