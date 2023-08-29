@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 29 Aug 2023 11:10:02 +0900",
-	"total":208386,
+	"lastBuildDate":"Tue, 29 Aug 2023 11:20:02 +0900",
+	"total":208387,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 ‘로봇랜드 조성사업’ 본격 추진",
+			"originallink":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=203917",
+			"link":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=203917",
+			"description":"인천로봇랜드 조성사업은 <b>청라<\/b> 국제도시에 76만9279㎡ 규모의 로봇산업 클러스터를 조성하는 사업이다. 산업용지, 업무용지, 로봇체험시설, 상업시설 등으로 구성돼 있다. 향후 산업통상자원부에 조성실행계획 변경 승인 등... ",
+			"pubDate":"Tue, 29 Aug 2023 11:10:00 +0900"
+		},
 		{
 			"title":"제4회 광원아트홀 사진 공모전",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230829010008399",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1032052",
 			"description":"인천로봇랜드 조성사업은 <b>청라<\/b> 국제도시에 769,279㎡ 규모의 로봇산업 클러스터를 조성하는 사업이다. 산업용지, 업무용지, 로봇체험시설, 상업시설 등으로 구성돼 있으며, 향후 산업통상자원부에 조성실행계획 변경 승인... ",
 			"pubDate":"Mon, 28 Aug 2023 17:06:00 +0900"
-		},
-		{
-			"title":"한국공기과학시험연구원, '국제공인시험기관' 자격 획득… &quot;시험 품목 확대해...",
-			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=513488",
-			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=513488",
-			"description":"실제 지난해 10월 인천 <b>청라<\/b> 국제도시 첨단산업단지 내 정식 개원한 연구원은 미국냉동공조협회(AHRI)으로부터 시험기관을 지정받았다. 이어 KOLAS 국제공인시험기관 인정받는 등 국내규격(KS) 및 해외규격(AHRI)에 대응한... ",
-			"pubDate":"Mon, 28 Aug 2023 16:58:00 +0900"
 		}
 	]
 }
