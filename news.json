@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 29 Aug 2023 09:00:02 +0900",
-	"total":208380,
+	"lastBuildDate":"Tue, 29 Aug 2023 09:10:02 +0900",
+	"total":208381,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, '인천 로봇랜드' 정상화 약정 체결…내년 기반시설 착공",
+			"originallink":"http:\/\/moneys.mt.co.kr\/news\/mwView.php?no=2023082908431760076",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0000945016?sid=102",
+			"description":"한편 인천 로봇랜드 조성사업은 <b>청라<\/b>국제도시 내 769,279㎡ 규모의 로봇산업 클러스터를 조성하는 것을 목표로 산업 용지·업무 용지·로봇 체험시설·상업시설 등으로 구성돼 산업통상자원부의 공사 실시계획 변경 승인 등... ",
+			"pubDate":"Tue, 29 Aug 2023 09:03:00 +0900"
+		},
 		{
 			"title":"인천로봇랜드 조성사업 정상화 … 2024년 착공",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1043757",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=458035",
 			"description":"인천로봇랜드 조성사업은 <b>청라<\/b> 국제도시에 769,279㎡ 규모의 로봇산업 클러스터를 조성하는 사업이다. 산업용지, 업무용지, 로봇체험시설, 상업시설 등으로 구성돼 있으며, 향후 산업통상자원부에 조성실행계획 변경 승인... ",
 			"pubDate":"Mon, 28 Aug 2023 16:20:00 +0900"
-		},
-		{
-			"title":"인천시, 인천로봇랜드 조성사업 정상화· · ·2024년 착공",
-			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20230828500648",
-			"link":"http:\/\/www.metroseoul.co.kr\/article\/20230828500648",
-			"description":"인천로봇랜드 조성사업은 <b>청라<\/b> 국제도시에 769,279㎡ 규모의 로봇산업 클러스터를 조성하는 사업이다. 산업용지, 업무용지, 로봇체험시설, 상업시설 등으로 구성돼 있으며, 향후 산업통상자원부에 조성실행계획 변경 승인... ",
-			"pubDate":"Mon, 28 Aug 2023 16:16:00 +0900"
 		}
 	]
 }
