@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 29 Aug 2023 20:20:02 +0900",
-	"total":208412,
+	"lastBuildDate":"Tue, 29 Aug 2023 20:30:02 +0900",
+	"total":208413,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"경제구역 외국인 정주여건 개선을… 인천연구원, 국제도시 장기 대책 제언",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230829010006007",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230829010006007",
+			"description":"인천시와 인천경제자유구역청이 송도·<b>청라<\/b>·영종 경제자유구역에서 사는 외국인의 정주 여건을 크게 개선해... 송도·<b>청라<\/b>·영종국제도시 거주 외국인들은 주거 환경에 대체로 만족하고 있는 것으로 나타났다. 하지만 송도... ",
+			"pubDate":"Tue, 29 Aug 2023 20:28:00 +0900"
+		},
 		{
 			"title":"인천시의회 산경위, 인천시 수소경제 전환 대비책 모색",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=413910",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1590290\/?sc=Naver",
 			"description":"인천 아파트 매매가격 0.06% 상승 도시개발 사업 진행에 기대감 커져 “선호도 높은 송도·<b>청라<\/b> 집값... 인천 집값은 개발 호재가 계속되고 있는 송도신도시와 <b>청라<\/b>신도시, 검단신도시 등 신도시 중심으로 빠르게... ",
 			"pubDate":"Tue, 29 Aug 2023 10:18:00 +0900"
-		},
-		{
-			"title":"‘인천경제자유구역 편의시설’… 수도권 평균에 미치지 못해",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29TLFTTCE2",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004231331?sid=102",
-			"description":"송도·<b>청라<\/b>·영종 등 3개 지구로 나눠 개발되고 있는 인천경제자유구역의 생활 편의시설을 비롯해 의료... 거주만족도는 송도·영종·<b>청라<\/b> 등 모든 지역에서 대체로 만족하고 있으며, 공원, 스포츠시설 등의 접근성이... ",
-			"pubDate":"Tue, 29 Aug 2023 10:14:00 +0900"
 		}
 	]
 }
