@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 30 Aug 2023 10:10:02 +0900",
-	"total":208422,
+	"lastBuildDate":"Wed, 30 Aug 2023 10:20:02 +0900",
+	"total":208423,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인구 60만 넘은 인천 서구···부동산 시장도 역시 '강세'",
+			"originallink":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=22599",
+			"link":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=22599",
+			"description":"인천 서구는 검단신도시, <b>청라<\/b>국제도시 등의 신도시 개발과 교통환경 증대 등이 맞물리면서 인구 60만을 돌파했다. 이는 인천의 10개 구·군 가운데 가장 많은 인구 수이며, 전국 자치구(특·광역시 기초자치단체)에서도... ",
+			"pubDate":"Wed, 30 Aug 2023 10:16:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>지구 주요 입지에 들어서는 지식산업센터 `<b>청라<\/b> SK V1` 공급에 관심 집중",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202308291333508047",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005063863?sid=101",
 			"description":"<b>청라<\/b>국제금융단지㈜는 <b>청라<\/b> 첫 프라임 오피스 ‘오피스A(가칭)’를 준공해 임차인을 모집에 나선다. ‘오피스A(가칭)’는 인천광역시 서구 <b>청라<\/b>동 일원에 위치하며, 지하 5층~지상 22층 규모에 대지면적 5,419㎡, 연면적... ",
 			"pubDate":"Tue, 29 Aug 2023 14:10:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, KLPGA 정규투어 '하나금융그룹 챔피언십' 개최",
-			"originallink":"http:\/\/www.intn.co.kr\/news\/articleView.html?idxno=2030597",
-			"link":"http:\/\/www.intn.co.kr\/news\/articleView.html?idxno=2030597",
-			"description":"하나금융그룹(회장 함영주)은 오는 9월 21일부터 나흘 간 인천 <b>청라<\/b>의 '베어즈베스트 <b>청라<\/b> 골프클럽'에서 KLPGA 정규투어 '하나금융그룹 챔피언십'을 개최한다. 하나금융그룹(회장 함영주)은 오는 9월 21일부터 나흘 간... ",
-			"pubDate":"Tue, 29 Aug 2023 13:52:00 +0900"
 		}
 	]
 }
