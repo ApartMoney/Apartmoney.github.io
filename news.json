@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 31 Aug 2023 03:00:02 +0900",
-	"total":208467,
+	"lastBuildDate":"Thu, 31 Aug 2023 03:10:02 +0900",
+	"total":208468,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 ‘<b>청라<\/b>시티타워’ 결국 법정 간다",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20230831\/120944774\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003517953?sid=102",
+			"description":"기대됐던 ‘<b>청라<\/b>시티타워’ 사업이 지지부진한 가운데 한국토지주택공사(LH)로부터 올 5월 계약 해지를 통보받은 민간 사업자가 소송을 제기했다. 이 사업을 맡았던 특수목적법인(SPC) <b>청라<\/b>시티타워는 29일... ",
+			"pubDate":"Thu, 31 Aug 2023 03:03:00 +0900"
+		},
 		{
 			"title":"법정에 간 <b>청라<\/b>시티타워…“LH 설계 오류로 공사비 급증”",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25188704",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=137592",
 			"description":"인천경제자유구역청은 송도, 영종, <b>청라<\/b> 국제도시를 관할하고 있으며, 바이오, 정보통신, 물류, 관광산업 등 광범위한 사업을 육성하고 있다. 또한 앞서가는 인프라로 외국인 투자가 국내에서 제일 활성화된 지역으로... ",
 			"pubDate":"Wed, 30 Aug 2023 12:50:00 +0900"
-		},
-		{
-			"title":"인천 '<b>청라<\/b>시티타워'...계약해지 소송에 또 발목 잡히나?",
-			"originallink":"http:\/\/www.ifm.kr\/news\/367977",
-			"link":"http:\/\/www.ifm.kr\/news\/367977",
-			"description":"<b>청라<\/b>시티타워 사업을 인천경제청과 한국토지주택공사(LH)가 직접 추진하기로 결정한 가운데 LH에 계약 해지를 통보받은 민간 사업자가 소송을 제기했습니다.지난 2016년 사업시행자로 선정된 특수목적법인(SPC) <b>청라<\/b>시... ",
-			"pubDate":"Wed, 30 Aug 2023 12:34:00 +0900"
 		}
 	]
 }
