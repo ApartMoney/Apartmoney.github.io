@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 31 Aug 2023 16:40:02 +0900",
-	"total":208518,
+	"lastBuildDate":"Thu, 31 Aug 2023 16:50:02 +0900",
+	"total":208520,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제자유구역 5년 연속 ‘S등급’",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289482763939",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289482763939",
+			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소ㆍ로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공ㆍ물류, 관광ㆍ레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
+			"pubDate":"Thu, 31 Aug 2023 16:48:00 +0900"
+		},
+		{
+			"title":"인천경제자유구역, 경제자유구역 성과평가 5년 연속 S등급 달성",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2033877",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2033877",
+			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
+			"pubDate":"Thu, 31 Aug 2023 16:45:00 +0900"
+		},
 		{
 			"title":"'일제 조병창' 아픔 풀어낸 뮤지컬 '언노운'…지역사회 호평",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230831139800065?input=1195m",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308311306182860410",
 			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
 			"pubDate":"Thu, 31 Aug 2023 13:22:00 +0900"
-		},
-		{
-			"title":"인천경제자유구역청, 경제자유구역 성과평가 5년 연속 S등급 달성",
-			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202308310100",
-			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202308310100",
-			"description":"인천경제청에 따르면 송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략산업을 육성했다.... ",
-			"pubDate":"Thu, 31 Aug 2023 13:10:00 +0900"
-		},
-		{
-			"title":"인천경제자유구역, 경제자유구역 성과평가 5년 연속 S등급 달성",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=414033",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=414033",
-			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
-			"pubDate":"Thu, 31 Aug 2023 11:40:00 +0900"
 		}
 	]
 }
