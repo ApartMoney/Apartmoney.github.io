@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 31 Aug 2023 16:50:02 +0900",
-	"total":208520,
+	"lastBuildDate":"Thu, 31 Aug 2023 17:00:02 +0900",
+	"total":208521,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 한국e스포츠협회 등과 '게임산업 크러스터 조성 양해각서' 체결",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=97170",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=97170",
+			"description":"'<b>청라<\/b> G테크시티' 조성 양해각서를 체결하고 기념촬영하는 (왼쪽부터) 진재윤 인천e스포츠협회장, 김진용... 인천경제자유구역청이 <b>청라<\/b>국제도시 투자유치용지를 대상으로 추진하는 e-스포츠 중심의 게임특화단지... ",
+			"pubDate":"Thu, 31 Aug 2023 16:52:00 +0900"
+		},
 		{
 			"title":"인천경제자유구역 5년 연속 ‘S등급’",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289482763939",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1753103",
 			"description":"송도국제도시는 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
 			"pubDate":"Thu, 31 Aug 2023 13:30:00 +0900"
-		},
-		{
-			"title":"인천경제자유구역, 경제자유구역 성과평가 5년 연속 S등급 달성",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308311306182860410",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202308311306182860410",
-			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
-			"pubDate":"Thu, 31 Aug 2023 13:22:00 +0900"
 		}
 	]
 }
