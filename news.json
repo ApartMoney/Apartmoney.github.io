@@ -1,9 +1,44 @@
 {
-	"lastBuildDate":"Thu, 31 Aug 2023 15:20:02 +0900",
-	"total":208505,
+	"lastBuildDate":"Thu, 31 Aug 2023 15:30:03 +0900",
+	"total":208509,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[<b>청라<\/b>언덕] 같이 살자",
+			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2023083103345450763",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000833424?sid=110",
+			"description":"지역이 위기다. 처음엔 젊은이들이 서울로 떠나서였다. 일할 사람이 없으니 공장이 문을 닫았다. 산업 기반이 무너지자 도로와 철도 등 사회간접자본에 대한 투자도 멈췄다. 구도심 상권이 흔들리고 문화 인프라도... ",
+			"pubDate":"Thu, 31 Aug 2023 15:26:00 +0900"
+		},
+		{
+			"title":"IFEZ <b>청라<\/b> 투자유치용지에 e-스포츠산업 중심 게임특화단지 조성",
+			"originallink":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1032308",
+			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1032308",
+			"description":"e스포츠 양해각서 체결[사진=인천경제청] 인천경제자유구역(IFEZ) <b>청라<\/b>국제도시에 e-스포츠산업 중심의 게임특화 단지를 조성하는 '<b>청라<\/b> G테크시티' 사업이 탄력을 받고 있다. 인천경제자유구역청은 31일 송도국제도시... ",
+			"pubDate":"Thu, 31 Aug 2023 15:26:00 +0900"
+		},
+		{
+			"title":"IFEZ <b>청라<\/b>G테크시티 탄력…상호협력 양해각서 체결",
+			"originallink":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=200719",
+			"link":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=200719",
+			"description":"등과 <b>청라<\/b> G테크시티 추진과 관련해 e스포츠 게임특화단지 및 게임산업 클러스터 조성을 위한 상호협력 양해각서를 체결했다고 밝혔다. 이는 지난 5월17일 <b>청라<\/b>G테크시티 조성을 위해 세계 e스포츠 대표 교육기관인... ",
+			"pubDate":"Thu, 31 Aug 2023 15:24:00 +0900"
+		},
+		{
+			"title":"인천경제자유구역, 경제자유구역 성과평가 5년 연속 S등급 달성",
+			"originallink":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1032307",
+			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1032307",
+			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
+			"pubDate":"Thu, 31 Aug 2023 15:22:00 +0900"
+		},
+		{
+			"title":"인천경제자유구역, 성과평가 5년 연속 S등급",
+			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1412251",
+			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1412251",
+			"description":"다각적 투자유치 성과 창출로 좋은 평가를 받았습니다. 송도국제도시는 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇 등 신산업 클러스터 조성, 영종국제도시는 항공·물류·관광 클러스터 조성이 대표적입니다.",
+			"pubDate":"Thu, 31 Aug 2023 15:22:00 +0900"
+		},
 		{
 			"title":"인천경제자유구역, 국내외 투자 유치 ‘결실’",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20230831512947?OutUrl=naver",
@@ -124,13 +159,6 @@
 			"pubDate":"Thu, 31 Aug 2023 11:30:00 +0900"
 		},
 		{
-			"title":"인천경제자유구역, 성과평가 5년 연속 S등급",
-			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1412228",
-			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1412228",
-			"description":"다각적 투자유치 성과 창출로 좋은 평가를 받았습니다. 송도국제도시는 바이클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇 등 신산업 클러스터 조성, 영종국제도시는 항공·물류·관광 클러스트 조성이 대표적입니다.",
-			"pubDate":"Thu, 31 Aug 2023 11:28:00 +0900"
-		},
-		{
 			"title":"인천경제자유구역, 경제자유구역 성과평가 5년 연속 S등급 달성",
 			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20230831500118",
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20230831500118",
@@ -185,34 +213,6 @@
 			"link":"https:\/\/www.insight.co.kr\/news\/448801",
 			"description":"이마트는 약 72만 명, G마켓은 약 12만 5,000명, SSG닷컴은 약 10만 명이다.정 부회장은 자신의 SNS 계정을 통해 '신세계 유니버스 클럽' 공식 광고를 공유하거나 '스타필드 <b>청라<\/b> 선포식'에서 발표하는 모습을 게재하는 등 경영... ",
 			"pubDate":"Thu, 31 Aug 2023 11:06:00 +0900"
-		},
-		{
-			"title":"인천경제자유구역(IFEZ), FEZ 성과평가 5년 연속 ‘S등급’",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29TMDZ7WLJ",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004232402?sid=102",
-			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
-			"pubDate":"Thu, 31 Aug 2023 11:02:00 +0900"
-		},
-		{
-			"title":"인천경제자유구역, 성과평가서 '5년 연속 S등급' 달성",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230831_0002432878&cID=14001&pID=14000",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012060946?sid=102",
-			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
-			"pubDate":"Thu, 31 Aug 2023 10:54:00 +0900"
-		},
-		{
-			"title":"인천경제청, 경제자유구역 성과평가 5년 연속 'S등급' 달성",
-			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/882511",
-			"link":"https:\/\/www.wikitree.co.kr\/articles\/882511",
-			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
-			"pubDate":"Thu, 31 Aug 2023 10:54:00 +0900"
-		},
-		{
-			"title":"송도 집값 저리 뛰는데…10억클럽 시흥·<b>청라<\/b> 집값 그대로네 [부동산360]",
-			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230830000811",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002190795?sid=101",
-			"description":"<b>청라<\/b>국제도시 ‘<b>청라<\/b>한양수자인레이크블루’ 전용 84㎡는 지난 4일 7억1500만원에 거래됐다. 이 단지는 지난 2021년 6월 10억1000만원에 팔리며 인천 서구 아파트 중 처음으로 국민평형(전용 84㎡) 10억 클럽에 들었던... ",
-			"pubDate":"Thu, 31 Aug 2023 10:00:00 +0900"
 		}
 	]
 }
