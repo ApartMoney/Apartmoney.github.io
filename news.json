@@ -1,20 +1,48 @@
 {
-	"lastBuildDate":"Thu, 31 Aug 2023 11:00:02 +0900",
-	"total":208478,
+	"lastBuildDate":"Thu, 31 Aug 2023 11:10:02 +0900",
+	"total":208482,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"인천경제청, 경제자유구역 성과평가 5년 연속 'S등급' 달성",
-			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/882511",
-			"link":"https:\/\/www.wikitree.co.kr\/articles\/882511",
+			"title":"극단 물결, '의자 고치는 여인' 용인과 인천에서 9월 공연",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230831010006407",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230831010006407",
+			"description":"극단 물결은 9월 9~10일 용인 평생학습관큰어울마당과 16일 인천 <b>청라<\/b>복합문화센터에서 연극 '의자 고치는... 약 100분 예정이며, 관람 연령은 12세 이상이다. \/ 9~10일 용인 평생학습관·16일 <b>청라<\/b>복합문화센터서 열려",
+			"pubDate":"Thu, 31 Aug 2023 11:08:00 +0900"
+		},
+		{
+			"title":"인천경제자유구역, 경제자유구역 평가 5년 연속 S등급",
+			"originallink":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=200692",
+			"link":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=200692",
 			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
-			"pubDate":"Thu, 31 Aug 2023 10:54:00 +0900"
+			"pubDate":"Thu, 31 Aug 2023 11:08:00 +0900"
+		},
+		{
+			"title":"후쿠시마 오염수 방류 이후 SNS에 매일 해산물 먹방 올리는 정용진 부회장",
+			"originallink":"https:\/\/www.insight.co.kr\/news\/448801",
+			"link":"https:\/\/www.insight.co.kr\/news\/448801",
+			"description":"이마트는 약 72만 명, G마켓은 약 12만 5,000명, SSG닷컴은 약 10만 명이다.정 부회장은 자신의 SNS 계정을 통해 '신세계 유니버스 클럽' 공식 광고를 공유하거나 '스타필드 <b>청라<\/b> 선포식'에서 발표하는 모습을 게재하는 등 경영... ",
+			"pubDate":"Thu, 31 Aug 2023 11:06:00 +0900"
+		},
+		{
+			"title":"인천경제자유구역(IFEZ), FEZ 성과평가 5년 연속 ‘S등급’",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29TMDZ7WLJ",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004232402?sid=102",
+			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
+			"pubDate":"Thu, 31 Aug 2023 11:02:00 +0900"
 		},
 		{
 			"title":"인천경제자유구역, 성과평가서 '5년 연속 S등급' 달성",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230831_0002432878&cID=14001&pID=14000",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012060946?sid=102",
+			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
+			"pubDate":"Thu, 31 Aug 2023 10:54:00 +0900"
+		},
+		{
+			"title":"인천경제청, 경제자유구역 성과평가 5년 연속 'S등급' 달성",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/882511",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/882511",
 			"description":"송도국제도시의 경우 바이오클러스터 확대 조성, <b>청라<\/b>국제도시는 수소·로봇과 미래차 등 신산업 클러스터 조성, 영종국제도시는 항공·물류, 관광·레저 클러스터 조성 등으로 전략 산업을 육성했다. 특히 글로벌... ",
 			"pubDate":"Thu, 31 Aug 2023 10:54:00 +0900"
 		},
@@ -185,34 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001122275?sid=101",
 			"description":"원점으로 돌아간 인천 <b>청라<\/b>시티타워 사업이 소송전으로 비화될 전망이다. 30일 업계에 따르면 한국토지주택공사(LH)로부터 <b>청라<\/b>시티타워 사업 계약 해지를 통보받은 민간 사업자(SPC)가 계약자 지위 확인 소송을... ",
 			"pubDate":"Wed, 30 Aug 2023 18:03:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>시티타워, 법적분쟁 휘말려…SPC, ‘계약 해지 부당’ 소송 제기",
-			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2023083017541847773",
-			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2023083017541847773",
-			"description":"<b>청라<\/b>시티타워 조감도. 사진제공=인천경제자유구역청부동산 경기 침체 등으로 사실상 멈춰 선 <b>청라<\/b>시티타워 개발사업이 법적 분쟁에 휘말렸다. 사업이 재추진 궤도에 오른 가운데 한국토지주택공사(LH)로부터 계약... ",
-			"pubDate":"Wed, 30 Aug 2023 17:58:00 +0900"
-		},
-		{
-			"title":"민화샵의 ㈜다운포스, 임직원 위한 주거 안정 지원 등 다양한 복지혜택 제공",
-			"originallink":"https:\/\/www.raonnews.com\/news\/article.html?no=20310",
-			"link":"https:\/\/www.raonnews.com\/news\/article.html?no=20310",
-			"description":"사무실과도 근거리에 위치하고, 무엇보다 송도·<b>청라<\/b> 등 신도시 역세권에 위치했다는 점이 장점으로 꼽힌다. 최근 사내 복지에 대한 수요가 증가하고, 사내 복지가 인재 유치의 주요 변수로 작용하면서 많은 기업에서... ",
-			"pubDate":"Wed, 30 Aug 2023 17:48:00 +0900"
-		},
-		{
-			"title":"[이슈&amp;피플] 인천 아파트값 1년 7개월 만에 상승 전환?",
-			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=433766",
-			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=433766",
-			"description":"[하정민 건국대학교 미래지식교육원 겸임교수] 송도, <b>청라<\/b> 중심으로 가격 회복세 인천 부동산, 전반적으로 괜찮은 분위기 [앵커] Q2. 인천의 경우 지난 2021년 한 해 전국 17개 시도 중 가장 높은 상승세를 보인 바 있는데요... ",
-			"pubDate":"Wed, 30 Aug 2023 17:32:00 +0900"
-		},
-		{
-			"title":"한화 건설부문 시공, '포레나 인천학익' 공급… 인천행정타운 인근",
-			"originallink":"https:\/\/www.itbiznews.com\/news\/articleView.html?idxno=109301",
-			"link":"https:\/\/www.itbiznews.com\/news\/articleView.html?idxno=109301",
-			"description":"먼저, 문학IC와 도화IC를 통해 인천대로, 제2경인고속도로 등으로 진입이 수월해 서울, 판교, 분당 등으로 광역 이동이 가능하고 미추홀대로를 통해 송도국제도시, <b>청라<\/b>국제도시로 접근이 용이하다. 게다가 수인분당선... ",
-			"pubDate":"Wed, 30 Aug 2023 17:30:00 +0900"
 		}
 	]
 }
