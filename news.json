@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 03 Sep 2023 15:10:02 +0900",
-	"total":208695,
+	"lastBuildDate":"Sun, 03 Sep 2023 15:20:02 +0900",
+	"total":208696,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 &quot;내년 국비지원 5조 4천억&quot;…올해보다 7.5%↑",
+			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1412570",
+			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1412570",
+			"description":"목표액 5조원을 웃돌고 올해 확보액인 5조651억원과 비교하면 3천794억원 7.5% 증가한 규모입니다. 주요 국비 지원 사업은 GTX-B노선, 서울지하철 7호선 <b>청라<\/b> 연장, 인천발 KTX 건설, 영종∼신도 도로 건설 등입니다.",
+			"pubDate":"Sun, 03 Sep 2023 15:16:00 +0900"
+		},
 		{
 			"title":"인천시, 내년도 정부예산 5조4445억 확보··· 올해보다 7.5% 증가",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287283968568",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.rank5.kr\/news\/articleView.html?idxno=11212",
 			"description":"(청주 팀버팔로) [65kg] 권선호(청주 팀버팔로) vs 베다트(광주 고짐) [60kg] 박종준(청주 팀버팔로) vs 추선홍(원투무에타이) [70kg] 박성하(<b>청라<\/b>짐) vs 양승현(대구 현풍설볼) [75kg] 이경화(황짐) vs 김한얼(코리안탑팀)",
 			"pubDate":"Sat, 02 Sep 2023 20:30:00 +0900"
-		},
-		{
-			"title":"[포토] KBA 킥복싱 대회 김형진 대회장 &quot;박진감 넘치는 대회 기대합니다&quot;",
-			"originallink":"http:\/\/www.rank5.kr\/news\/articleView.html?idxno=11209",
-			"link":"http:\/\/www.rank5.kr\/news\/articleView.html?idxno=11209",
-			"description":"(청주 팀버팔로) [65kg] 권선호(청주 팀버팔로) vs 베다트(광주 고짐) [60kg] 박종준(청주 팀버팔로) vs 추선홍(원투무에타이) [70kg] 박성하(<b>청라<\/b>짐) vs 양승현(대구 현풍설볼) [75kg] 이경화(황짐) vs 김한얼(코리안탑팀)",
-			"pubDate":"Sat, 02 Sep 2023 20:20:00 +0900"
 		}
 	]
 }
