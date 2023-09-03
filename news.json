@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 03 Sep 2023 09:50:02 +0900",
-	"total":208681,
+	"lastBuildDate":"Sun, 03 Sep 2023 10:00:03 +0900",
+	"total":208682,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 내년 정부예산안에 국비 5조4445억 반영…올해보다 7.5% ↑",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230903010000681",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20230903010000681",
+			"description":"정부예산안에 반영된 주요 사업을 살펴보면 인천시 교통망 확충을 위한 △GTX-B노선(3562억원) △서울지하철 7호선 <b>청라<\/b>연장(1145억원) △인천발 KTX 건설(746억원) △영종~신도 도로건설(250억원)과 △침수 재해위험... ",
+			"pubDate":"Sun, 03 Sep 2023 09:54:00 +0900"
+		},
 		{
 			"title":"인천시, 내년 정부예산 5조4,445억 확보…올해보다 7.5%↑",
 			"originallink":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=62421",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=141702",
 			"description":"2015년부터 2019년까지 약 7,000억원 상당의 인천북항 배후부지를, 올해 초에는 <b>청라<\/b>아이디씨피에프브이 주식회사에 770억원 규모 인천시 서구 일대 토지와 건물을 매각했다. HJ중공업 관계자는 &quot;원가율 상승으로 인한... ",
 			"pubDate":"Fri, 01 Sep 2023 17:32:00 +0900"
-		},
-		{
-			"title":"'초고령사회' 변실금 느는데…&quot;낮은 수가에 치료 걸림돌&quot;",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230901_0002435058&cID=10201&pID=10200",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012064819?sid=102",
-			"description":"공공시설의 경우 수서역의 다목적 화장실과 대구의 <b>청라<\/b>언덕역 화장실에만 설치돼 있다. 장루 전용 세척 시설이 설치돼 있는 장애 복지 시설은 경기도 남부 장애인 복지 종합지원센터 뿐이다. 김정하... ",
-			"pubDate":"Fri, 01 Sep 2023 17:24:00 +0900"
 		}
 	]
 }
