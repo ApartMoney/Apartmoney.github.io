@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 04 Sep 2023 17:10:02 +0900",
-	"total":208807,
+	"lastBuildDate":"Mon, 04 Sep 2023 17:20:02 +0900",
+	"total":208808,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"신세계프라퍼티, 부동산 '리츠' 설립 추진",
+			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2023090416454242637",
+			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2023090416454242637",
+			"description":"사진=스타필드 <b>청라<\/b> 조감도신세계그룹이 부동산 자산관리회사 '리츠' 설립을 추진한다. 이마트의 자회사이자 그룹의 부동산 개발 사업을 주도하고 있는 신세계프라퍼티는 '신세계프라퍼티 AMC' 설립을 위해 지난 7월... ",
+			"pubDate":"Mon, 04 Sep 2023 17:12:00 +0900"
+		},
 		{
 			"title":"신세계, 리츠 설립 추진…실탄 마련 나섰나",
 			"originallink":"https:\/\/dealsite.co.kr\/articles\/109604",
@@ -26,17 +33,17 @@
 			"pubDate":"Mon, 04 Sep 2023 17:02:00 +0900"
 		},
 		{
-			"title":"제일건설, ‘제일풍경채 계양 위너스카이’ 견본주택 7일 개관",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023090416541930202",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005309269?sid=101",
-			"description":"현재 서울지하철 2호선(<b>청라<\/b>연장선)과 GTX-B노선, 경인고속도로 지하화 사업도 추진 중으로 향후 대중교통과 차량을 이용한 서울 접근성은 더욱 좋아질 전망이다. 단지 주변으로 정비사업도 활발히 진행되고 있다. 인근... ",
-			"pubDate":"Mon, 04 Sep 2023 16:54:00 +0900"
-		},
-		{
 			"title":"송도~강남 M6405 노선, 출퇴근시간 운행 8회 증차",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=97228",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=97228",
 			"description":"아울러 송도·영종·<b>청라<\/b>국제도시에서 들어온 교통 불편 민원 26건을 분석한 뒤 대응책을 마련할 방침이다. 인천경제청 관계자는 &quot;M6405는 이용객이 많아 시민 불편이 컸던 노선&quot;이라며 &quot;앞으로도 주민들이 교통... ",
+			"pubDate":"Mon, 04 Sep 2023 16:54:00 +0900"
+		},
+		{
+			"title":"제일건설, ‘제일풍경채 계양 위너스카이’ 견본주택 7일 개관",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023090416541930202",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005309269?sid=101",
+			"description":"현재 서울지하철 2호선(<b>청라<\/b>연장선)과 GTX-B노선, 경인고속도로 지하화 사업도 추진 중으로 향후 대중교통과 차량을 이용한 서울 접근성은 더욱 좋아질 전망이다. 단지 주변으로 정비사업도 활발히 진행되고 있다. 인근... ",
 			"pubDate":"Mon, 04 Sep 2023 16:54:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.stoo.com\/article.php?aid=88951530646",
 			"description":"신한동해오픈은 2015년부터 7년 간 인천 베어즈베스트<b>청라<\/b>골프클럽에서 열린 후 지난 38회는 신한금융그룹 창업 40주년을 기념해 본 대회의 창설이 결정된 장소인 일본 코마 컨트리클럽에서 치러졌다. 국내 무대로... ",
 			"pubDate":"Mon, 04 Sep 2023 14:44:00 +0900"
-		},
-		{
-			"title":"인천경제자유구역청, 교통불편 민원해소 '착착'",
-			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20230904500467",
-			"link":"http:\/\/www.metroseoul.co.kr\/article\/20230904500467",
-			"description":"바 있다, 또한 6월부터 8월까지 송도, 영종, <b>청라<\/b>지역을 대상으로 총 26건의 교통불편 민원을 접수하여 관계부서에 전달했으며, 올 하반기 관련 대응책 마련을 위한 교통테스크포스 회의를 개최할 계획이라고 밝혔다.",
-			"pubDate":"Mon, 04 Sep 2023 14:40:00 +0900"
 		}
 	]
 }
