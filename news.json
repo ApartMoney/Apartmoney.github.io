@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 04 Sep 2023 19:10:02 +0900",
-	"total":208823,
+	"lastBuildDate":"Mon, 04 Sep 2023 19:20:02 +0900",
+	"total":208824,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[행사] 보령 9월5일",
+			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=719425",
+			"link":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=719425",
+			"description":"［동양일보 오광연 기자］보령시 전통시장 활성화 기본계획 및 타당성 조사 용역 최종보고회=오전9시 상황실 주요현안 사업 건의=오후2시 세종 정부청사 보령형 포용도시 '시민 온심통(溫心通)'=오후4시 <b>청라<\/b>면행정복지센터",
+			"pubDate":"Mon, 04 Sep 2023 19:10:00 +0900"
+		},
 		{
 			"title":"국비 7.5% 증액 손에 쥔 인천…신규사업 고삐 죈다",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1210070",
@@ -47,17 +54,17 @@
 			"pubDate":"Mon, 04 Sep 2023 18:25:00 +0900"
 		},
 		{
-			"title":"신세계프라퍼티, 리츠 설립 추진…국토부에 예비인가 신청",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20230904174247588",
-			"link":"https:\/\/www.ajunews.com\/view\/20230904174247588",
-			"description":"현재 신세계프라퍼티는 스타필드 운영 외에도 4조5000억원 규모의 화성국제테마파크 조성과 1조원이 투입되는 스타필드 <b>청라<\/b>와 스타필드 수원, 창원 등 신규 출점을 준비하고 있다. 신세계프라퍼티 관계자는... ",
-			"pubDate":"Mon, 04 Sep 2023 18:16:00 +0900"
-		},
-		{
 			"title":"내달 인천경제청 개청 20년··· 9~10월 문화축제",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289751443390",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289751443390",
 			"description":"송도·영종·<b>청라<\/b>서 즐길거리 다채  오는 10월 인천경제자유구역청 개청 20주년을 맞아 송도ㆍ영종ㆍ<b>청라<\/b>국제도시에서 잇따라 축제가 개최될 예정이어서 관심을 모으고 있다. 인천경제청은 ‘송도 바람의 연축제’... ",
+			"pubDate":"Mon, 04 Sep 2023 18:16:00 +0900"
+		},
+		{
+			"title":"신세계프라퍼티, 리츠 설립 추진…국토부에 예비인가 신청",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20230904174247588",
+			"link":"https:\/\/www.ajunews.com\/view\/20230904174247588",
+			"description":"현재 신세계프라퍼티는 스타필드 운영 외에도 4조5000억원 규모의 화성국제테마파크 조성과 1조원이 투입되는 스타필드 <b>청라<\/b>와 스타필드 수원, 창원 등 신규 출점을 준비하고 있다. 신세계프라퍼티 관계자는... ",
 			"pubDate":"Mon, 04 Sep 2023 18:16:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002192588?sid=102",
 			"description":"한편 인천경제청은 지난 5월 출범한 IFEZ 교통테스크포스(TF)”를 통해 IFEZ 내 교통환경개선을 위해 7억원(광역교통배차추가, 스마트신호)의 예산을 확보했다 또 지난 6월부터 8월까지 송도, 영종, <b>청라<\/b>지역을 대상으로... ",
 			"pubDate":"Mon, 04 Sep 2023 16:12:00 +0900"
-		},
-		{
-			"title":"인천경제청 “교통 불편 민원해소 착착”",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1754791",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1754791",
-			"description":"또한 6월부터 8월까지 송도, 영종, <b>청라<\/b>지역을 대상으로 총 26건의 교통불편 민원을 접수해 관계부서에 전달했으며, 올 하반기 관련 대응책 마련을 위한 교통TF 회의를 개최할 계획이다. [신아일보] 인천",
-			"pubDate":"Mon, 04 Sep 2023 16:02:00 +0900"
 		}
 	]
 }
