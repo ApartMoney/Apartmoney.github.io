@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 04 Sep 2023 18:00:03 +0900",
-	"total":208813,
+	"lastBuildDate":"Mon, 04 Sep 2023 18:10:02 +0900",
+	"total":208814,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 내년 국비 5조4천445억 확보 (B tv 인천뉴스)",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=161205",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=161205",
+			"description":"내년도 정부예산안에는 GTX-B 노선과 서울7호선 <b>청라<\/b>연장, 인천발 KTX 건설 사업 등이 반영됐습니다. 또 영종과 신도를 연결하는 도로 건설과 국립 인천해양박물관 건립 사업도 포함됐습니다. 인천시는 서해5도... ",
+			"pubDate":"Mon, 04 Sep 2023 18:04:00 +0900"
+		},
 		{
 			"title":"가을철 환절기 날씨로 인한 피부 노화 고민…개선 방법은?",
 			"originallink":"https:\/\/mdtoday.co.kr\/news\/view\/1065602741809934",
@@ -75,17 +82,17 @@
 			"pubDate":"Mon, 04 Sep 2023 17:02:00 +0900"
 		},
 		{
-			"title":"송도~강남 M6405 노선, 출퇴근시간 운행 8회 증차",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=97228",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=97228",
-			"description":"아울러 송도·영종·<b>청라<\/b>국제도시에서 들어온 교통 불편 민원 26건을 분석한 뒤 대응책을 마련할 방침이다. 인천경제청 관계자는 &quot;M6405는 이용객이 많아 시민 불편이 컸던 노선&quot;이라며 &quot;앞으로도 주민들이 교통... ",
-			"pubDate":"Mon, 04 Sep 2023 16:54:00 +0900"
-		},
-		{
 			"title":"제일건설, ‘제일풍경채 계양 위너스카이’ 견본주택 7일 개관",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023090416541930202",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005309269?sid=101",
 			"description":"현재 서울지하철 2호선(<b>청라<\/b>연장선)과 GTX-B노선, 경인고속도로 지하화 사업도 추진 중으로 향후 대중교통과 차량을 이용한 서울 접근성은 더욱 좋아질 전망이다. 단지 주변으로 정비사업도 활발히 진행되고 있다. 인근... ",
+			"pubDate":"Mon, 04 Sep 2023 16:54:00 +0900"
+		},
+		{
+			"title":"송도~강남 M6405 노선, 출퇴근시간 운행 8회 증차",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=97228",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=97228",
+			"description":"아울러 송도·영종·<b>청라<\/b>국제도시에서 들어온 교통 불편 민원 26건을 분석한 뒤 대응책을 마련할 방침이다. 인천경제청 관계자는 &quot;M6405는 이용객이 많아 시민 불편이 컸던 노선&quot;이라며 &quot;앞으로도 주민들이 교통... ",
 			"pubDate":"Mon, 04 Sep 2023 16:54:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230904010000800",
 			"description":"영종, <b>청라<\/b>지역을 대상으로 총 26건의 교통불편 민원을 접수해 관계부서에 전달했으며 올 하반기 관련 대응책 마련을 위한 교통테스크포스 회의를 개최할 계획이다. 인천=에너지경제신문 김진용 인천경제청장이 4일... ",
 			"pubDate":"Mon, 04 Sep 2023 15:14:00 +0900"
-		},
-		{
-			"title":"&quot;장루 장애인 위한 화장실 시급… 다목적 화장실 도입을&quot;",
-			"originallink":"https:\/\/health.chosun.com\/site\/data\/html_dir\/2023\/09\/04\/2023090401908.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/346\/0000064330?sid=103",
-			"description":"공공시설에는 수서역에 다목적 화장실을 설치했고, 올해 초 대구 지하철 <b>청라<\/b> 언덕역에 다목적 화장실을 만들었지만, 인천 공항, 서울역 등 사람들이 많이 다니는 공공 시설에는 전무한 상태다. 병원도 마찬가지로 장루... ",
-			"pubDate":"Mon, 04 Sep 2023 15:07:00 +0900"
 		}
 	]
 }
