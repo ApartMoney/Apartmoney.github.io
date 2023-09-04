@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 04 Sep 2023 15:50:02 +0900",
-	"total":208793,
+	"lastBuildDate":"Mon, 04 Sep 2023 16:00:02 +0900",
+	"total":208794,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천 주요 뉴스]오는 8일부터 '인천상륙작전 기념사진전' 개최",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6006046",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003808860?sid=102",
+			"description":"인천경제청 개청 20주년…송도·영종·<b>청라<\/b>서 축제 잇따라 인천경제자유구역청은 개청 20주년을 맞아 경제자유구역인 송도·영종·<b>청라<\/b>국제도시에서 다양한 축제를 연다고 밝혔습니다. 우선 오는 16일과 17일에는 송도... ",
+			"pubDate":"Mon, 04 Sep 2023 15:50:00 +0900"
+		},
 		{
 			"title":"신세계, 리츠 설립 추진…신사업 추진 실탄 마련 나선다",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02679766635736840",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014169472?sid=102",
 			"description":"송도·영종·<b>청라<\/b>국제도시에서 다양한 축제를 연다고 4일 밝혔다. 우선 오는 16∼17일 송도 달빛축제공원에서는 '바람의 연 축제'가 열려 연날리기, 드론 라이트 쇼 등이 마련된다. 다음 달 14∼15일 <b>청라<\/b>호수공원... ",
 			"pubDate":"Mon, 04 Sep 2023 13:30:00 +0900"
-		},
-		{
-			"title":"[동정] 보령시장",
-			"originallink":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=991044",
-			"link":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=991044",
-			"description":"▲ 김동일 보령시장 ▲김동일 보령시장은 5일 오후 4시, <b>청라<\/b>면행정복지센터에서 열리는 보령형 포용도시 시민 온심통(溫心通) 행사에 참석한다.",
-			"pubDate":"Mon, 04 Sep 2023 13:12:00 +0900"
 		}
 	]
 }
