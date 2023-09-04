@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 04 Sep 2023 20:50:03 +0900",
-	"total":208828,
+	"lastBuildDate":"Mon, 04 Sep 2023 21:00:02 +0900",
+	"total":208831,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 수소산업 선도도시 구상 '원점으로'",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230904010000446",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230904010000446",
+			"description":"인천시가 <b>청라<\/b>국제도시 일대에서 추진한 수소산업 선도도시 구상이 국비 지원 대상에서 제외되면서 원점으로 되돌아갔다.인천시는 최근 산업통상자원부를 통해 기획재정부에 '인천 수소생산클러스터 사업' 예비타당성... ",
+			"pubDate":"Mon, 04 Sep 2023 20:58:00 +0900"
+		},
+		{
+			"title":"인천경제자유구역청, 교통불편 민원해소 착착",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=414860",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=414860",
+			"description":"또한 6월부터 8월까지 송도, 영종, <b>청라<\/b>지역을 대상으로 총 26건의 교통불편 민원을 접수하여 관계부서에 전달했으며, 올 하반기 관련 대응책 마련을 위한 교통테스크포스 회의를 개최할 계획이라고 밝혔다.",
+			"pubDate":"Mon, 04 Sep 2023 20:56:00 +0900"
+		},
+		{
+			"title":"‘인천 경제자유구역 20년’ 송도·영종·<b>청라<\/b> 곳곳서 가을 축제",
+			"originallink":"https:\/\/www.khan.co.kr\/local\/Incheon\/article\/202309042053005",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003247031?sid=102",
+			"description":"‘세계전통음식축제’, <b>청라<\/b>에서 ‘뮤직&amp;와인 페스티벌’을 개최한다고 4일 밝혔다. 송도 ‘바람의... <b>청라<\/b> ‘뮤직&amp;와인 페스티벌’은 10월14~15일 <b>청라<\/b>호수공원 멀티프라자 일대에서 열린다. 축제에는 공연과 와인... ",
+			"pubDate":"Mon, 04 Sep 2023 20:54:00 +0900"
+		},
 		{
 			"title":"인천시 &quot;동력 잃은 수소클러스터 정책, 연구기관 유치로 전환&quot;",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230904010000475",
@@ -159,17 +180,17 @@
 			"pubDate":"Mon, 04 Sep 2023 17:12:00 +0900"
 		},
 		{
-			"title":"신세계, 리츠 설립 추진…실탄 마련 나섰나",
-			"originallink":"https:\/\/dealsite.co.kr\/articles\/109604",
-			"link":"https:\/\/dealsite.co.kr\/articles\/109604",
-			"description":"신세계는 현재 4조5000억원 규모의 화성국제테마파크와 1조원이 투입되는 스타필드 <b>청라<\/b>를 비롯해 스타필드 수원, 창원 등 신규 출점을 추진 중이다. 한편, 이마트는 올 들어 신세계라이브쇼핑과 SSG푸드마켓 등... ",
-			"pubDate":"Mon, 04 Sep 2023 17:06:00 +0900"
-		},
-		{
 			"title":"김진용 청장 M6405 광역버스 승객 교통불편 민원 청취",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20230904010000963",
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230904010000963",
 			"description":"영종, <b>청라<\/b>지역을 대상으로 총 26건의 교통불편 민원을 접수해 관계부서에 전달하해 올 하반기 관련 대응책 마련을 위한 교통테스크포스 회의를 개최할 계획이라고 밝혔다. 인천= 김 청장 출퇴근시간대 송도∼강남... ",
+			"pubDate":"Mon, 04 Sep 2023 17:06:00 +0900"
+		},
+		{
+			"title":"신세계, 리츠 설립 추진…실탄 마련 나섰나",
+			"originallink":"https:\/\/dealsite.co.kr\/articles\/109604",
+			"link":"https:\/\/dealsite.co.kr\/articles\/109604",
+			"description":"신세계는 현재 4조5000억원 규모의 화성국제테마파크와 1조원이 투입되는 스타필드 <b>청라<\/b>를 비롯해 스타필드 수원, 창원 등 신규 출점을 추진 중이다. 한편, 이마트는 올 들어 신세계라이브쇼핑과 SSG푸드마켓 등... ",
 			"pubDate":"Mon, 04 Sep 2023 17:06:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005309269?sid=101",
 			"description":"현재 서울지하철 2호선(<b>청라<\/b>연장선)과 GTX-B노선, 경인고속도로 지하화 사업도 추진 중으로 향후 대중교통과 차량을 이용한 서울 접근성은 더욱 좋아질 전망이다. 단지 주변으로 정비사업도 활발히 진행되고 있다. 인근... ",
 			"pubDate":"Mon, 04 Sep 2023 16:54:00 +0900"
-		},
-		{
-			"title":"인천경제청, M6405 광역버스 확대 운영",
-			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230904010000793",
-			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230904010000793",
-			"description":"영종, <b>청라<\/b>지역을 대상으로 총 26건의 교통불편 민원을 접수해 관계부서에 전달, 올 하반기 관련 대응책 마련을 위한 교통테스크포스 회의를 개최할 계획이다. 김진용 인천경제청장은 &quot;주민들이 교통불편 해소를... ",
-			"pubDate":"Mon, 04 Sep 2023 16:52:00 +0900"
-		},
-		{
-			"title":"인천경제청, 개청 20주년 성과 주민들과 나눈다",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1754829",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1754829",
-			"description":"오는 10월 인천경제자유구역청 개청 20주년을 맞아 송도·영종·<b>청라<\/b>국제도시에서 잇따라 축제가 개최될 예정이어서 관심을 모으고 있다. 인천경제청은 ‘송도 바람의 연축제’, ‘영종 세계전통음식축제’, ‘<b>청라<\/b> 뮤직... ",
-			"pubDate":"Mon, 04 Sep 2023 16:44:00 +0900"
-		},
-		{
-			"title":"&quot;취준생 모여라&quot;…은행권, 신입행원 채용 절차 본격화",
-			"originallink":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=303894",
-			"link":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=303894",
-			"description":"최종 선발된 인원은 2023년 하반기 내 <b>청라<\/b> 소재의 하나글로벌캠퍼스에서 신입행원 연수를 진행 할 예정이다. '보훈특별채용'도 동시에 진행할 예정이며 지역별로 구분해 채용한다. 우리은행도 9월 중 하반기 신입행원... ",
-			"pubDate":"Mon, 04 Sep 2023 16:32:00 +0900"
 		}
 	]
 }
