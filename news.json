@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 04 Sep 2023 09:10:02 +0900",
-	"total":208725,
+	"lastBuildDate":"Mon, 04 Sep 2023 09:20:02 +0900",
+	"total":208726,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"제일건설, 인천 '제일풍경채 계양 위너스카이' 7일 견본주택 개관",
+			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=138474",
+			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=138474",
+			"description":"여기에 서울지하철 2호선(<b>청라<\/b>연장선)과 GTX-B노선, 경인고속도로 지하화 사업도 추진 중으로 향후 대중교통과 차량을 이용한 서울 접근성은 개선될 전망이다. 분양 관계자는 &quot;제일풍경채 계양 위너스카이는 최고... ",
+			"pubDate":"Mon, 04 Sep 2023 09:16:00 +0900"
+		},
 		{
 			"title":"인천경제청, 개청 20주년…송도·영종·<b>청라<\/b>서 각종 축제 ‘풍성’",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230904010000581",
@@ -205,13 +212,6 @@
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1209847",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1209847",
 			"description":"내년 정부 예산안에 반영된 주요 국비 지원 사업은 ▲GTX-B노선 3562억 원 ▲서울지하철 7호선 <b>청라<\/b> 연장 1145억 원 ▲인천발 KTX 건설 746억 원 ▲영종∼신도 도로 건설 250억 원 ▲침수 재해위험 대비를 위한... ",
-			"pubDate":"Sun, 03 Sep 2023 15:22:00 +0900"
-		},
-		{
-			"title":"iH, '인천로봇랜드 정상화·재정건전성 확보' 두 마리 토끼 잡는다",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1209832",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1209832",
-			"description":"인천로봇랜드는 <b>청라<\/b>국제도시에 76만9279㎡ 규모의 로봇산업 클러스터를 조성하는 사업으로 로봇산업진흥시설과 테마파크, 부대시설 등이 들어설 예정이다. 토지매입과정에서 협의가 지연되며 무려 16년간 사업이... ",
 			"pubDate":"Sun, 03 Sep 2023 15:22:00 +0900"
 		}
 	]
