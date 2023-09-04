@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Mon, 04 Sep 2023 09:40:02 +0900",
-	"total":208729,
+	"lastBuildDate":"Mon, 04 Sep 2023 09:50:02 +0900",
+	"total":208735,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"제일건설, ‘제일풍경채 계양 위너스카이’ 견본주택 7일 개관",
+			"originallink":"https:\/\/biz.chosun.com\/real_estate\/real_estate_general\/2023\/09\/04\/D5FMFL46NFEGBESREGTS4PBAMM\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000929081?sid=101",
+			"description":"서울지하철 2호선(<b>청라<\/b>연장선)과 GTX-B노선, 경인고속도로 지하화 사업도 추진 중이다. 단지 인근 정비사업도 활발하다. 인근 ‘e편한세상 계양 더프리미어’가 이미 입주를 마쳤으며, ‘힐스테이트 자이 계양’이... ",
+			"pubDate":"Mon, 04 Sep 2023 09:48:00 +0900"
+		},
+		{
+			"title":"'계양에 없던 탁 트인 전망' 제일풍경채 계양 위너스카이, 견본주택 개관",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01715446635736840",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005566639?sid=101",
+			"description":"여기에 서울지하철 2호선(<b>청라<\/b>연장선)과 GTX-B노선, 경인고속도로 지하화 사업도 추진 중으로 향후 대중교통과 차량을 이용한 서울 접근성은 더욱 좋아질 전망이다. 제일건설㈜의 브랜드 파워도 기대된다. 제일건설... ",
+			"pubDate":"Mon, 04 Sep 2023 09:47:00 +0900"
+		},
+		{
+			"title":"제일건설, ‘제일풍경채 계양 위너스카이’ 7일 견본주택 개관",
+			"originallink":"http:\/\/www.sentv.co.kr\/news\/view\/667140",
+			"link":"http:\/\/www.sentv.co.kr\/news\/view\/667140",
+			"description":"여기에 서울지하철 2호선(<b>청라<\/b>연장선)과 GTX-B노선, 경인고속도로 지하화 사업도 추진 중으로 향후 대중교통과 차량을 이용한 서울 접근성은 더욱 좋아질 전망이다. 한편, 제일건설㈜은 2023년 시공능력평가... ",
+			"pubDate":"Mon, 04 Sep 2023 09:46:00 +0900"
+		},
+		{
+			"title":"제일건설, '제일풍경채 계양 위너스카이' 7일 모델하우스 개관",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2023090408296",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004887115?sid=101",
+			"description":"여기에 서울지하철 2호선(<b>청라<\/b>연장선)과 수도권광역급행철도(GTX)-B노선, 경인고속도로 지하화 사업도 추진 중이다. 일대 정비사업도 눈여겨볼 만하다. 인근 계양구 효성동 'e편한세상 계양 더프리미어'가 이미... ",
+			"pubDate":"Mon, 04 Sep 2023 09:45:00 +0900"
+		},
+		{
+			"title":"인천경제청 개청 20주년…축제 '풍성'",
+			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1412623",
+			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1412623",
+			"description":"인천경제자유구역청이 다음달 개청 20주년을 맞아 송도·영종·<b>청라<\/b>국제도시에서 잇따라 축제를 개최합니다. 송도에서는 오는 16일부터 바람을 활용한 '송도 바람의 연축제'가 열리고, 다음달 14일에는 <b>청라<\/b>호수공원... ",
+			"pubDate":"Mon, 04 Sep 2023 09:44:00 +0900"
+		},
+		{
+			"title":"인천 부동산 회복세…7일 오픈 예정인 ‘제일풍경채 계양 위너스카이’ 관심",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29UJWRTEZM",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004233701?sid=101",
+			"description":"추후 서울지하철 2호선(<b>청라<\/b>연장선)도 추진중이라 서울과의 접근성은 물론 서구 <b>청라<\/b>국제도시와의 접근성도 크게 개선될 전망이다. 단지 바로 옆으로는 효성문화공원과 효성수영장이 조성될 예정이며 5,500평... ",
+			"pubDate":"Mon, 04 Sep 2023 09:44:00 +0900"
+		},
 		{
 			"title":"인천시, 내년 정부예산안에 국비 5조4445억 반영 …올해보다 7.5%↑",
 			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=509758",
@@ -171,48 +213,6 @@
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20230903010000204",
 			"description":"14년째 지지부진한 인천 <b>청라<\/b>국제도시 인천로봇랜드 조성사업의 신규 시행자로 참여하게 된 iH(인천도시공사)가 내년 기반시설을 착공하는 등 관련사업에 속도를 내기로 했다.iH는 인천로봇랜드 조성사업이 빠른 시일... ",
 			"pubDate":"Sun, 03 Sep 2023 19:40:00 +0900"
-		},
-		{
-			"title":"충남 보령시, 하반기 민방위 교육 실시",
-			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=933611",
-			"link":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=933611",
-			"description":"집합교육은 보령문화예술회관 대공연장에서 11일에는 읍면지역(웅천, 주포, 주교, 천북, 남포, 미산, 성주) 및 대천3·5동을 대상으로, 25일에는 읍면지역(청소, <b>청라<\/b>, 주산) 및 대천1·2·4동 및 직장대를 대상으로... ",
-			"pubDate":"Sun, 03 Sep 2023 18:51:00 +0900"
-		},
-		{
-			"title":"'행정체제 개편' 인천 서구 발전 기회로...원도심 '희망의 땅'",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20230903580099",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000020387?sid=100",
-			"description":"시는 행정체제 개편으로 서구에서 검단지역이 떨어져나가는 만큼, <b>청라<\/b>국제도시라는 신도심과 가좌·석남 등... 박성순 시 행정체제개편과장은 “서구에서 검단신도시와 <b>청라<\/b>국제도시를 제외한 나머지 원도심의... ",
-			"pubDate":"Sun, 03 Sep 2023 18:26:00 +0900"
-		},
-		{
-			"title":"인천시, 2024년 국비지원 5조 4445억원 반영 …올해보다 7.5%↑",
-			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3059775",
-			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3059775",
-			"description":"내년도 정부예산안에 반영된 주요 국비 지원 사업에는 ▲GTX-B노선(3562억원) ▲서울지하철 7호선 <b>청라<\/b>연장(1145억원) ▲인천발 KTX 건설(746억원) ▲영종~신도 도로건설(250억원) ▲침수 재해위험 대비를 위한... ",
-			"pubDate":"Sun, 03 Sep 2023 17:18:00 +0900"
-		},
-		{
-			"title":"인천시, 내년 국비 '5조4천억원대' 확보…긴축재정 속 7.5% 증액 선전",
-			"originallink":"http:\/\/www.ifm.kr\/news\/368250",
-			"link":"http:\/\/www.ifm.kr\/news\/368250",
-			"description":"우선 GTX-B노선 건설사업에 3천562억원이 투입되고, 서울지하철 7호선 <b>청라<\/b>연장사업에도 1천145억원의 국비가 지원됩니다.또 인천발 KTX 건설에 746억원, 영종∼신도 도로 건설사업에 250억원, 국립해양박물관 건립에... ",
-			"pubDate":"Sun, 03 Sep 2023 17:04:00 +0900"
-		},
-		{
-			"title":"인천시 주간 전세가격 상승률, 21개월만에 1할대 기록",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363609157",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363609157",
-			"description":"이는 2위를 한 수원시 영통동 66건에 2배 가량 차이로, 이어 중구 중산동 58건, 서구 <b>청라<\/b>동이 45건으로 각각 3위, 4위를 차지했다. 한편, 인천 아파트 매매값은 지난주 0.06%에서 이번 주 0.08%로 0.02%p 상승했다.... ",
-			"pubDate":"Sun, 03 Sep 2023 17:02:00 +0900"
-		},
-		{
-			"title":"인천, 내년 정부예산안에 국비 5조4445억 반영",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1754218",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1754218",
-			"description":"정부예산안에 반영된 주요 사업을 살펴보면 인천시 교통망 확충을 위한 GTX-B노선(3562억원), 서울지하철 7호선 <b>청라<\/b>연장(1145억원), 인천발 KTX 건설(746억원), 영종 ~ 신도 도로건설(250억원)과 침수 재해위험 대비를 위한... ",
-			"pubDate":"Sun, 03 Sep 2023 15:36:00 +0900"
 		}
 	]
 }
