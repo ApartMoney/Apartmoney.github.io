@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 05 Sep 2023 14:00:03 +0900",
-	"total":208862,
+	"lastBuildDate":"Tue, 05 Sep 2023 14:10:02 +0900",
+	"total":208863,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"돈 필요한 정용진, 리츠 설립 '속도'",
+			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2023090511400402245",
+			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2023090511400402245",
+			"description":"신세계프라퍼티는 스타필드수원·스타필드창원·스타필드<b>청라<\/b> 등 신규 점포 출점을 위해 2조2000억원을 투자한다. 자산 개발을 위해서는 화성 테마파크 사업과 복합개발 사업을 중심으로 4조원을 쏟아붓기로 했다.... ",
+			"pubDate":"Tue, 05 Sep 2023 14:04:00 +0900"
+		},
 		{
 			"title":"인천 계양 35층 전망의 ‘제일풍경채’ 견본주택 7일 오픈",
 			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202309051225418488514e0091f6_1\/article.html",
@@ -26,16 +33,16 @@
 			"pubDate":"Tue, 05 Sep 2023 12:40:00 +0900"
 		},
 		{
-			"title":"대구는 폭염",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230905_0020022654",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012070136?sid=102",
+			"title":"지긋지긋한 더위",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230905_0020022652",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012070134?sid=102",
 			"description":"폭염주의보가 발효된 5일 대구 중구 동산동 <b>청라<\/b>언덕에 더위를 식혀주는 쿨링포그가 나오고 있다. 2023.09.05. lmy@newsis.com 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스 가치나 화제성이... ",
 			"pubDate":"Tue, 05 Sep 2023 12:04:00 +0900"
 		},
 		{
-			"title":"지긋지긋한 더위",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230905_0020022652",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012070134?sid=102",
+			"title":"더위 식히는 '쿨링포그'",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230905_0020022658",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012070138?sid=102",
 			"description":"폭염주의보가 발효된 5일 대구 중구 동산동 <b>청라<\/b>언덕에 더위를 식혀주는 쿨링포그가 나오고 있다. 2023.09.05. lmy@newsis.com 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스 가치나 화제성이... ",
 			"pubDate":"Tue, 05 Sep 2023 12:04:00 +0900"
 		},
@@ -47,9 +54,9 @@
 			"pubDate":"Tue, 05 Sep 2023 12:04:00 +0900"
 		},
 		{
-			"title":"더위 식히는 '쿨링포그'",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230905_0020022658",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012070138?sid=102",
+			"title":"대구는 폭염",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230905_0020022654",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012070136?sid=102",
 			"description":"폭염주의보가 발효된 5일 대구 중구 동산동 <b>청라<\/b>언덕에 더위를 식혀주는 쿨링포그가 나오고 있다. 2023.09.05. lmy@newsis.com 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스 가치나 화제성이... ",
 			"pubDate":"Tue, 05 Sep 2023 12:04:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=432659",
 			"description":"인천은 <b>청라<\/b>국제도시에 e스포츠 특화단지를 조성하겠다고 나섰다. 교육·연구 시설을 비롯해 각종 혁신지구와 엔터테인먼트지구가 들어설 전망이다. 서울시도 최근 한국e스포츠협회와 업무협약을 맺고 항저우... ",
 			"pubDate":"Mon, 04 Sep 2023 21:24:00 +0900"
-		},
-		{
-			"title":"인천경제청, 개청 20주년 송도·영종·<b>청라<\/b>서 각종 축제 풍성",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=414867",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=414867",
-			"description":"송도·영종·<b>청라<\/b>국제도시에서 잇따라 축제가 개최될 예정이어서 관심을 모으고 있다. 인천경제청은 '송도 바람의 연축제', '영종 세계전통음식축제', '<b>청라<\/b> 뮤직&amp;와인페스티벌'을 개최한다고 4일 밝혔다. 먼저 준비된... ",
-			"pubDate":"Mon, 04 Sep 2023 21:16:00 +0900"
 		}
 	]
 }
