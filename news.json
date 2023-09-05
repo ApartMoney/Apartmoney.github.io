@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 05 Sep 2023 14:40:02 +0900",
-	"total":208866,
+	"lastBuildDate":"Tue, 05 Sep 2023 14:50:02 +0900",
+	"total":208867,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"신한금융, ‘제39회 신한동해오픈’ 개최…7일 클럽72에서 개막",
+			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=496772&class=18&grp=",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002314890?sid=101",
+			"description":"신한동해오픈은 2015년부터 7년 간 인천 베어즈베스트<b>청라<\/b>골프클럽에서 열린 후 지난 38회는 신한금융그룹 창업 40주년을 기념해 본 대회의 창설이 결정된 장소인 일본 코마 컨트리클럽에서 치러졌다. 국내 무대로... ",
+			"pubDate":"Tue, 05 Sep 2023 14:47:00 +0900"
+		},
 		{
 			"title":"신한금융, 제39회 신한동해오픈, 7일 클럽72에서 개막",
 			"originallink":"http:\/\/www.rightknow.co.kr\/news\/articleView.html?idxno=27022",
@@ -54,13 +61,6 @@
 			"pubDate":"Tue, 05 Sep 2023 12:40:00 +0900"
 		},
 		{
-			"title":"지긋지긋한 더위",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230905_0020022652",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012070134?sid=102",
-			"description":"폭염주의보가 발효된 5일 대구 중구 동산동 <b>청라<\/b>언덕에 더위를 식혀주는 쿨링포그가 나오고 있다. 2023.09.05. lmy@newsis.com 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스 가치나 화제성이... ",
-			"pubDate":"Tue, 05 Sep 2023 12:04:00 +0900"
-		},
-		{
 			"title":"대구는 폭염",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230905_0020022654",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012070136?sid=102",
@@ -68,9 +68,9 @@
 			"pubDate":"Tue, 05 Sep 2023 12:04:00 +0900"
 		},
 		{
-			"title":"대구는 폭염",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230905_0020022653",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012070135?sid=102",
+			"title":"지긋지긋한 더위",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230905_0020022652",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012070134?sid=102",
 			"description":"폭염주의보가 발효된 5일 대구 중구 동산동 <b>청라<\/b>언덕에 더위를 식혀주는 쿨링포그가 나오고 있다. 2023.09.05. lmy@newsis.com 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스 가치나 화제성이... ",
 			"pubDate":"Tue, 05 Sep 2023 12:04:00 +0900"
 		},
@@ -92,6 +92,13 @@
 			"title":"지긋지긋한 더위",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230905_0020022655",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012070137?sid=102",
+			"description":"폭염주의보가 발효된 5일 대구 중구 동산동 <b>청라<\/b>언덕에 더위를 식혀주는 쿨링포그가 나오고 있다. 2023.09.05. lmy@newsis.com 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스 가치나 화제성이... ",
+			"pubDate":"Tue, 05 Sep 2023 12:04:00 +0900"
+		},
+		{
+			"title":"대구는 폭염",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20230905_0020022653",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012070135?sid=102",
 			"description":"폭염주의보가 발효된 5일 대구 중구 동산동 <b>청라<\/b>언덕에 더위를 식혀주는 쿨링포그가 나오고 있다. 2023.09.05. lmy@newsis.com 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스 가치나 화제성이... ",
 			"pubDate":"Tue, 05 Sep 2023 12:04:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007028672?sid=102",
 			"description":"행사(<b>청라<\/b>면행정복지센터) ◇아산시 -박경귀 시장 15:00 '2040 공원녹지기본계획 수립 주민공청회'(청소년교육문화센터) ◇부여군 -박정현 군수 10:00 제277회 부여군의회 임시회 ◇금산군 -박범인 군수 18:30 프로야구... ",
 			"pubDate":"Tue, 05 Sep 2023 05:00:00 +0900"
-		},
-		{
-			"title":"송도∼강남역 오가는… M6405 광역버스 확대",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20230905\/121018302\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003518744?sid=102",
-			"description":"이후 교통 민원사항을 청취해 올 6∼8월 송도 영종 <b>청라<\/b> 등을 대상으로 총 26건의 교통 불편 민원을 접수하고 개선책 마련에 나섰다. 김진용 인천경제청장은 “서울로 출퇴근하는 주민들이 체감할 때까지 대중교통... ",
-			"pubDate":"Tue, 05 Sep 2023 03:02:00 +0900"
 		}
 	]
 }
