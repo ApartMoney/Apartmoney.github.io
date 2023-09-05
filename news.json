@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 06 Sep 2023 07:10:02 +0900",
-	"total":208896,
+	"lastBuildDate":"Wed, 06 Sep 2023 07:20:02 +0900",
+	"total":208897,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"체감온도 33도… 곳곳 늦더위 계속",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20230906502219?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003852578?sid=103",
+			"description":"폭염주의보가 발효된 지난 5일 대구 중구 동산동 <b>청라<\/b>언덕에 더위를 식혀주는 쿨링포그가 나오고 있다. 뉴시스 낮 최고기온은 25∼32도로 예상된다. 특히 폭염특보가 발효된 지역에서는 습도가 높아 체감온도가... ",
+			"pubDate":"Wed, 06 Sep 2023 07:15:00 +0900"
+		},
 		{
 			"title":"&quot;우수인재 모십니다&quot;…은행권 올 하반기 1000명 채용",
 			"originallink":"http:\/\/www.ezyeconomy.com\/news\/articleView.html?idxno=125697",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2802746",
 			"description":"여기에 서울지하철 2호선(<b>청라<\/b>연장선)과 GTX-B노선, 경인고속도로 지하화 사업도 추진 중으로 향후... 또 제일건설은 인천시 내 검단, <b>청라<\/b>, 루원 등 여러 곳에서 아파트를 성공적으로 분양하며 인기를 입증한 바 있으며... ",
 			"pubDate":"Tue, 05 Sep 2023 14:50:00 +0900"
-		},
-		{
-			"title":"신한금융, ‘제39회 신한동해오픈’ 개최…7일 클럽72에서 개막",
-			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=496772&class=18&grp=",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002314890?sid=101",
-			"description":"신한동해오픈은 2015년부터 7년 간 인천 베어즈베스트<b>청라<\/b>골프클럽에서 열린 후 지난 38회는 신한금융그룹 창업 40주년을 기념해 본 대회의 창설이 결정된 장소인 일본 코마 컨트리클럽에서 치러졌다. 국내 무대로... ",
-			"pubDate":"Tue, 05 Sep 2023 14:47:00 +0900"
 		}
 	]
 }
