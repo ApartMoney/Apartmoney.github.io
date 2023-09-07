@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Thu, 07 Sep 2023 10:10:02 +0900",
-	"total":208971,
+	"lastBuildDate":"Thu, 07 Sep 2023 10:20:02 +0900",
+	"total":208974,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 추석연휴 대비 가스 안전점검",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1046926",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1046926",
+			"description":"이번 점검에서 인천경제청은 일정 규모 이상 도시가스를 사용하는 다중이용시설 30개소(송도 17, 영종 9, <b>청라<\/b> 4)를 대상으로 가스시설 적정 유지 관리 및 안전장치 정상 작동 여부 등을 점검한다. 또 도시가스 공급사 등... ",
+			"pubDate":"Thu, 07 Sep 2023 10:14:00 +0900"
+		},
+		{
+			"title":"보령시, 의료취약지역 주민 위해 찾아가는 '국가 암 무료 검진' 실시",
+			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2226713",
+			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2226713",
+			"description":"검진 일정은 △11일 웅천보건지소 △12일 미산보건지소 △13일 성주보건지소 △14일 주산보건지소 △15일 천북보건지소 △18일, 19일 남포면 주민자치센터 △20일 청소보건지소 △21일 <b>청라<\/b>보건지소 순이다. 검진을... ",
+			"pubDate":"Thu, 07 Sep 2023 10:14:00 +0900"
+		},
+		{
+			"title":"보령시, 29회 충남장애인체육대회 밝힐 성화 옥마산 활공장에서 채화",
+			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2226366",
+			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2226366",
+			"description":"옥마산에서 채화된 성화는 시민들의 환호와 응원 속에서 성화 봉송 주자를 통해 성주면을 시작으로 <b>청라<\/b>면까지 11개 읍면 지역을 돌고 시청광장에 안치된다. 시청광장에서 하룻밤을 머문 성화는 대회 첫날인 7일 5개 동... ",
+			"pubDate":"Thu, 07 Sep 2023 10:10:00 +0900"
+		},
 		{
 			"title":"[기고] 안전한 구조물 공사를 위한 방안",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202309070951305770240",
@@ -82,6 +103,13 @@
 			"pubDate":"Wed, 06 Sep 2023 21:10:00 +0900"
 		},
 		{
+			"title":"충남도장애인체육대회 성화 채화",
+			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=766821",
+			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=766821",
+			"description":"옥마산에서 채화된 성화는 시민들의 환호와 응원 속에서 성화 봉송 주자를 통해 성주면을 시작으로 <b>청라<\/b>면까지 11개 읍면 지역을 돌고 시청광장에 안치된다. 시청광장에서 하룻밤을 머문 성화는 대회 첫날인 7일 5개 동... ",
+			"pubDate":"Wed, 06 Sep 2023 19:36:00 +0900"
+		},
+		{
 			"title":"김동일 시장 현장 소통행정 `엄지척'",
 			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=766813",
 			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=766813",
@@ -93,13 +121,6 @@
 			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=934387",
 			"link":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=934387",
 			"description":"김동일 시장은 지난 5일 <b>청라<\/b>면행정복지센터에서 보령형 포용도시 조성을 위한 '시민 온심통(溫心通)' 행사를 열고 <b>청라<\/b>면 주민들과 대화를 나눴다. 이날 주민들은 김 시장과 대화를 통해 청년 농업인 육성 방안, 농번기... ",
-			"pubDate":"Wed, 06 Sep 2023 19:36:00 +0900"
-		},
-		{
-			"title":"충남도장애인체육대회 성화 채화",
-			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=766821",
-			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=766821",
-			"description":"옥마산에서 채화된 성화는 시민들의 환호와 응원 속에서 성화 봉송 주자를 통해 성주면을 시작으로 <b>청라<\/b>면까지 11개 읍면 지역을 돌고 시청광장에 안치된다. 시청광장에서 하룻밤을 머문 성화는 대회 첫날인 7일 5개 동... ",
 			"pubDate":"Wed, 06 Sep 2023 19:36:00 +0900"
 		},
 		{
@@ -145,17 +166,17 @@
 			"pubDate":"Wed, 06 Sep 2023 17:48:00 +0900"
 		},
 		{
-			"title":"인천시 서구, ‘정서진 피크닉 클래식’ 대성황",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288854667318",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288854667318",
-			"description":"최근 <b>청라<\/b> 호수공원 플라워뮤직아일랜드에서 성황리에 개최됐다. 그동안 인천 시민 뿐만 아니라 많은... 동시에 <b>청라<\/b> 호수공원에서 진행됐다. 축제 첫 날인 1일 오후 1시, 메인 행사장 가운데에 위치한 야외음악당에서... ",
-			"pubDate":"Wed, 06 Sep 2023 17:42:00 +0900"
-		},
-		{
 			"title":"[포토] 보령시 '제29회 충남장애인체육대회' 성화 옥마산 활공장서 채화",
 			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=612276",
 			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=612276",
 			"description":"김동일 보령시장은 6일 남포향교가 주관 옥마산에서 열린 성화 채화 행사에 참여해 시민들의 환호와 응원 속에서 첫번째 봉송 주자에게 전달했으며, 봉송주자는 성주면을 시작으로 <b>청라<\/b>면까지 11개 읍면 지역을 돌고... ",
+			"pubDate":"Wed, 06 Sep 2023 17:42:00 +0900"
+		},
+		{
+			"title":"인천시 서구, ‘정서진 피크닉 클래식’ 대성황",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288854667318",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288854667318",
+			"description":"최근 <b>청라<\/b> 호수공원 플라워뮤직아일랜드에서 성황리에 개최됐다. 그동안 인천 시민 뿐만 아니라 많은... 동시에 <b>청라<\/b> 호수공원에서 진행됐다. 축제 첫 날인 1일 오후 1시, 메인 행사장 가운데에 위치한 야외음악당에서... ",
 			"pubDate":"Wed, 06 Sep 2023 17:42:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=234237",
 			"description":"서구 <b>청라<\/b>국제도시를 중심으로 추진한 수소생산클러스터 조성사업의 국비 지원 신청을 철회했다. 시는 국비 지원을 받지는 못하게 됐지만, 다른 대안을 마련해 <b>청라<\/b>를 수소산업의 중심으로 유지하겠다는 의지를... ",
 			"pubDate":"Wed, 06 Sep 2023 16:30:00 +0900"
-		},
-		{
-			"title":"제일건설 ‘제일풍경채 계양 위너스카이’ 분양 돌입",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1756044",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1756044",
-			"description":"여기에 서울지하철 2호선(<b>청라<\/b>연장선)과 GTX-B노선, 경인고속도로 지하화 사업도 추진 중으로 향후... 또한 제일건설㈜은 인천시내 검단, <b>청라<\/b>, 루원 등 여러 곳에서 아파트를 성공적으로 분양하며 인기를 입증한 바... ",
-			"pubDate":"Wed, 06 Sep 2023 15:58:00 +0900"
-		},
-		{
-			"title":"충남장애인체전 성화, 보령 옥마산 활공장서 채화",
-			"originallink":"https:\/\/www.news1.kr\/articles\/5163058",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007033168?sid=102",
-			"description":"성화는 국가유공자 등 80명으로 선정된 봉송 주자를 통해 성주면을 시작으로 <b>청라<\/b>면까지 11개 읍·면 지역을 돌고 시청광장에 안치된다. 시청광장에 하루 머물 성화는 대회 첫날인 7일 5개 동 지역을 순회한 후... ",
-			"pubDate":"Wed, 06 Sep 2023 15:47:00 +0900"
-		},
-		{
-			"title":"충남 보령시, 제29회 충남 장애인체육대회 밝힐 성화 옥마산 활공장에서 채화",
-			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=510698",
-			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=510698",
-			"description":"옥마산에서 채화된 성화는 시민들의 환호와 응원 속에서 성화 봉송 주자를 통해 성주면을 시작으로 <b>청라<\/b>면까지 11개 읍면 지역을 돌고 시청광장에 안치된다. 시청광장에서 하룻밤을 머문 성화는 대회 첫날인 7일 5개 동... ",
-			"pubDate":"Wed, 06 Sep 2023 15:44:00 +0900"
 		}
 	]
 }
