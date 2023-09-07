@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Sep 2023 16:10:02 +0900",
-	"total":208998,
+	"lastBuildDate":"Thu, 07 Sep 2023 16:20:02 +0900",
+	"total":208999,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 추석 앞두고 가스시설 점검",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287443920705",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287443920705",
+			"description":"이번 점검에서 인천경제청은 일정 규모 이상 도시가스를 사용하는 다중이용시설 30곳(송도 17곳ㆍ영종 9곳ㆍ<b>청라<\/b> 4곳)를 대상으로 가스시설 적정 유지 관리 및 안전장치 정상 작동 여부 등을 점검한다. 또 도시가스 공급사... ",
+			"pubDate":"Thu, 07 Sep 2023 16:12:00 +0900"
+		},
 		{
 			"title":"운동하는 장애인 늘어나는데…체육관 찾기는 '하늘에 별 따기'",
 			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2023090515155749631",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2035986",
 			"description":"이번 점검에서 인천경제청은 일정 규모 이상 도시가스를 사용하는 다중이용시설 30개소(송도 17, 영종 9, <b>청라<\/b> 4)를 대상으로 가스시설 적정 유지 관리 및 안전장치 정상 작동 여부 등을 점검한다. 또 도시가스 공급사 등... ",
 			"pubDate":"Thu, 07 Sep 2023 09:40:00 +0900"
-		},
-		{
-			"title":"인천경제청, 추석연휴 대비 가스 안전점검 실시",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1756356",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1756356",
-			"description":"인천경제청은 이번 점검에서 일정 규모 이상 도시가스를 사용하는 다중이용시설 30개소(송도 17, 영종 9, <b>청라<\/b> 4)를 대상으로 가스시설 적정 유지 관리 및 안전장치 정상 작동 여부 등을 점검한다. 또한 도시가스 공급사 등... ",
-			"pubDate":"Thu, 07 Sep 2023 09:34:00 +0900"
 		}
 	]
 }
