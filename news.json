@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Sep 2023 19:50:02 +0900",
-	"total":209010,
+	"lastBuildDate":"Thu, 07 Sep 2023 20:00:03 +0900",
+	"total":209011,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'2023 대한민국 소비자만족지수1위' 시상식 성료",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2023090613362516329",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004935621?sid=101",
+			"description":"(대표 전영화) 카페<b>청라<\/b>도 ▲토브(대표 이정윤) ▲퍼스트초이스(대표 최연경) 온기디자인 ▲푸드컬쳐랩(대표 안태양) 서울시스터즈 ▲허그컴퍼니(대표 조상현) 허그매트 ▲Sous main(수망)(대표 최수민) 등이 선정됐다.",
+			"pubDate":"Thu, 07 Sep 2023 19:53:00 +0900"
+		},
 		{
 			"title":"충남 보령시, 의료취약지역 주민 위해 찾아가는'국가 암 무료 검진'실시",
 			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=934661",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=234253",
 			"description":"한편, 달빛어린이병원은 국내 병·의원 46개소가 지정·운영되고 있으며 인천에선 미추홀구 1개소(연세소아과의원), 서구 2개소(<b>청라<\/b>연세어린이병원, 검단위키즈병원)가 지정·운영 중이다.",
 			"pubDate":"Thu, 07 Sep 2023 11:26:00 +0900"
-		},
-		{
-			"title":"보령시, 의료취약지역 주민 찾아가는'국가 암 무료 검진'실시",
-			"originallink":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=733304",
-			"link":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=733304",
-			"description":"19일 남포면 주민자치센터, 20일 청소보건지소 21일 <b>청라<\/b>보건지소 순이다. 검진을 위해서는 검진 전날 오후 9시부터 금식을 유지하고 신분증을 지참하여 오전 8시~11시 30분까지 검진 장소를 방문하면 된다. 당일 검진을... ",
-			"pubDate":"Thu, 07 Sep 2023 11:20:00 +0900"
 		}
 	]
 }
