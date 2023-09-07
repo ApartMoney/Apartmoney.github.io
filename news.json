@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Sep 2023 17:40:02 +0900",
-	"total":209005,
+	"lastBuildDate":"Thu, 07 Sep 2023 17:50:02 +0900",
+	"total":209006,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"경제성 발목에 경인고속도로 지하화 '빨간불'…노선 축소",
+			"originallink":"http:\/\/www.ifm.kr\/news\/368586",
+			"link":"http:\/\/www.ifm.kr\/news\/368586",
+			"description":"이 사업은 신월IC에서 서인천IC를 거쳐 제3연륙교 입구인 남<b>청라<\/b>IC까지 19.3㎞를 지하화하는 것으로, 준공 시 <b>청라<\/b>지구에서 여의도 간 이동 시간이 40분에서 23분으로 단축되고, 인천공항에서 여의도까지도 30분 이내에... ",
+			"pubDate":"Thu, 07 Sep 2023 17:48:00 +0900"
+		},
 		{
 			"title":"경인고속도로 지하화, 남<b>청라<\/b>IC~신월IC→봉수지하차도~신월IC 변경",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230907010002230",
@@ -54,7 +61,7 @@
 			"pubDate":"Thu, 07 Sep 2023 16:12:00 +0900"
 		},
 		{
-			"title":"운동하는 장애인 늘어나는데…체육관 찾기는 '하늘에 별 따기'",
+			"title":"운동하는 장애인 늘어나는데…체육 인프라는 '태부족'",
 			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2023090515155749631",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000834674?sid=102",
 			"description":"중구청이 <b>청라<\/b>국민체육센터 옆에 장애인 운동시설을 갖춘 '복지누리 반다비 체육센터' 건립을 추진하고 있지만, 2025년 말에나 완공될 예정이다. 장애인스포츠강좌이용권 가맹시설도 '운동할 권리'를 충족시켜주기에는... ",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3061130",
 			"description":"이번 안전점검 대상은 송도 17곳·영종 9곳·<b>청라<\/b> 4곳 등 다중이용시설 30개소로 가스시설 적정 유지 관리 및... 시설 안전 점검에 적극 협조해 주시기 바란다&quot;고 당부했다. 인천경제청,가스안전점검,추석 연휴,<b>청라<\/b> 영종 송도",
 			"pubDate":"Thu, 07 Sep 2023 10:46:00 +0900"
-		},
-		{
-			"title":"인천경제청, 추석연휴 대비 가스 안전 점검",
-			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230907010001980",
-			"link":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230907010001980",
-			"description":"이번 점검은 일정 규모 이상 도시가스를 사용하는 다중이용시설 30개소(송도 17, 영종 9, <b>청라<\/b> 4)를 대상으로 가스시설 적정 유지 관리 및 안전장치 정상 작동 여부 등을 점검한다. 또한 도시가스 공급사 등 유관기관과... ",
-			"pubDate":"Thu, 07 Sep 2023 10:38:00 +0900"
 		}
 	]
 }
