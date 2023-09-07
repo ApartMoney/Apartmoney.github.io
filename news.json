@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Sep 2023 20:10:02 +0900",
-	"total":209011,
+	"lastBuildDate":"Thu, 07 Sep 2023 20:20:02 +0900",
+	"total":209012,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'경인전철 지하화' 특별법 제정 깜깜",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363610066",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363610066",
+			"description":"7일 더불어민주당 허종식(인천 동구미추홀구갑) 의원이 한국도로공사로부터 받은 자료에 따르면 경인고속도로 지하화 사업 구간이 수도권제2순환고속도로 남<b>청라<\/b> IC~ 신월 IC 19㎞에서 봉수지하차도(<b>청라<\/b> 1동) 입구... ",
+			"pubDate":"Thu, 07 Sep 2023 20:14:00 +0900"
+		},
 		{
 			"title":"'2023 대한민국 소비자만족지수1위' 시상식 성료",
 			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2023090613362516329",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1046971",
 			"description":"<b>청라<\/b>블루노바홀 공연장에서 열린 이 날 강연에는 지역 주민 500여 명이 참석해, AI 시대를 바라보는 김 작가의 참신한 관점과 해석을 경청했다. 지난해 인간과 휴머노이드(인간의 형태를 띤 로봇)의 공존을 그린 소설... ",
 			"pubDate":"Thu, 07 Sep 2023 11:30:00 +0900"
-		},
-		{
-			"title":"검단위키즈병원, 야간·휴일 진료 '달빛어린이병원' 운영",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=234253",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=234253",
-			"description":"한편, 달빛어린이병원은 국내 병·의원 46개소가 지정·운영되고 있으며 인천에선 미추홀구 1개소(연세소아과의원), 서구 2개소(<b>청라<\/b>연세어린이병원, 검단위키즈병원)가 지정·운영 중이다.",
-			"pubDate":"Thu, 07 Sep 2023 11:26:00 +0900"
 		}
 	]
 }
