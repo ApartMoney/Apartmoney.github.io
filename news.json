@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Sep 2023 19:00:02 +0900",
-	"total":209009,
+	"lastBuildDate":"Thu, 07 Sep 2023 19:10:03 +0900",
+	"total":209010,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"충남 보령시, 의료취약지역 주민 위해 찾아가는'국가 암 무료 검진'실시",
+			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=934661",
+			"link":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=934661",
+			"description":"검진 일정은 △11일 웅천보건지소 △12일 미산보건지소 △13일 성주보건지소 △14일 주산보건지소 △15일 천북보건지소 △18일, 19일 남포면 주민자치센터 △20일 청소보건지소 △21일 <b>청라<\/b>보건지소 순이다. 검진을... ",
+			"pubDate":"Thu, 07 Sep 2023 19:04:00 +0900"
+		},
 		{
 			"title":"9월 아파트 분양 '흐림'…인천 13.4p 하락",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1210628",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=733304",
 			"description":"19일 남포면 주민자치센터, 20일 청소보건지소 21일 <b>청라<\/b>보건지소 순이다. 검진을 위해서는 검진 전날 오후 9시부터 금식을 유지하고 신분증을 지참하여 오전 8시~11시 30분까지 검진 장소를 방문하면 된다. 당일 검진을... ",
 			"pubDate":"Thu, 07 Sep 2023 11:20:00 +0900"
-		},
-		{
-			"title":"인천경제청, 추석연휴 대비 가스 안전점검",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20230907110502652",
-			"link":"https:\/\/www.ajunews.com\/view\/20230907110502652",
-			"description":"이번 점검에서 인천경제청은 일정 규모 이상 도시가스를 사용하는 다중이용시설 30개소(송도 17, 영종 9, <b>청라<\/b> 4)를 대상으로 가스시설 적정 유지 관리 및 안전장치 정상 작동 여부 등을 점검한다. 또 도시가스 공급사 등... ",
-			"pubDate":"Thu, 07 Sep 2023 11:12:00 +0900"
 		}
 	]
 }
