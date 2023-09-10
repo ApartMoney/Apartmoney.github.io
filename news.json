@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 10 Sep 2023 21:00:02 +0900",
-	"total":209261,
+	"lastBuildDate":"Sun, 10 Sep 2023 21:10:02 +0900",
+	"total":209262,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[이코노 브리핑] 하나금융, 해외 현지직원 대상 워크숍",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20230910508146?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003853922?sid=101",
+			"description":"하나금융그룹은 지난 4일부터 6일간 인천 <b>청라<\/b>에 있는 하나글로벌캠퍼스에서 20개국 30명의 해외 현지직원을 대상으로 ‘2023 하반기 하나 글로벌 기업문화 워크숍’을 실시했다고 10일 밝혔다. 행사에서는 참석 그룹의... ",
+			"pubDate":"Sun, 10 Sep 2023 21:02:00 +0900"
+		},
 		{
 			"title":"정종혁 인천시의원 &quot;경제청 행정 송도에 편중…영종·<b>청라<\/b> 인력 늘려야&quot;",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363610440",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004236363?sid=101",
 			"description":"하나금융그룹은 4~9일 엿새간 인천 <b>청라<\/b> 소재 하나글로벌캠퍼스에서 글로벌 원팀 DNA 전파를 위한 ‘2023 하반기 하나 글로벌 기업문화 워크숍’을 실시했다고 10일 밝혔다. 이번 워크숍은 글로버 현지 직원의 다양한... ",
 			"pubDate":"Sun, 10 Sep 2023 13:46:00 +0900"
-		},
-		{
-			"title":"하나금융, 해외 현지직원 대상 기업문화 워크숍",
-			"originallink":"https:\/\/www.tfmedia.co.kr\/news\/article.html?no=150069",
-			"link":"https:\/\/www.tfmedia.co.kr\/news\/article.html?no=150069",
-			"description":"하나금융그룹은 지난 4일부터 9일까지 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 '2023 하반기 하나 글로벌 기업문화 워크숍'을 실시했다고 10일 밝혔다. 하나금융은 20개국 30명의 해외 현지직원에게 그룹의 글로벌 현황·전략... ",
-			"pubDate":"Sun, 10 Sep 2023 13:42:00 +0900"
 		}
 	]
 }
