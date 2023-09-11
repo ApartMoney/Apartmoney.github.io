@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 11 Sep 2023 12:30:02 +0900",
-	"total":209304,
+	"lastBuildDate":"Mon, 11 Sep 2023 12:40:02 +0900",
+	"total":209305,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 <b>청라<\/b>~서울 강서 BRT(7700번) 이용만족도 96%",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230911000533",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002195858?sid=102",
+			"description":"인천 <b>청라<\/b>~서울 강서 구간 BRT(7700번) 이용만족도가 최고치에 가까울 만큼 상당히 높은 것으로 나타났다.... 특히 <b>청라<\/b>~가양에서 <b>청라<\/b>~화곡으로 노선을 조정한 것과 좌석제를 실시한 부분에서 각각 95%와 96%의... ",
+			"pubDate":"Mon, 11 Sep 2023 12:29:00 +0900"
+		},
 		{
 			"title":"가을 이사철 앞두고 수도권 전셋값 상승전환… 작년 5월 이후 첫 반등",
 			"originallink":"https:\/\/biz.chosun.com\/real_estate\/real_estate_general\/2023\/09\/11\/QPC4JDKPCRGZ5NWKG7DRBAKVTI\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005572239?sid=101",
 			"description":"경기는 의왕, 용인, 안산시 등이 7월에 이어 두 달 연속 상승세를 이어갔고 인천은 서구 <b>청라<\/b>와 연수구 송도국제도시를 중심으로 가격이 올랐다. 부동산R114는 “경기·인천 또한 서울 전세가격에 동조해 움직일... ",
 			"pubDate":"Mon, 11 Sep 2023 09:46:00 +0900"
-		},
-		{
-			"title":"10월부터 영종·인천대교 통행료 인하…인천시 &quot;경제효과 16년간 5조5천억&quot;",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023091109410110156",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005312236?sid=102",
-			"description":"이는 제3연륙교(영종도~<b>청라<\/b>국제도시) 개통과 연계한 연구 결과로, 통행료 인하에 따른 장래교통량 분석 시뮬레이션 결과와 영종지역 내 신용카드 매출자료 등을 이용해 생산과 부가가치, 취업을 얼마나... ",
-			"pubDate":"Mon, 11 Sep 2023 09:41:00 +0900"
 		}
 	]
 }
