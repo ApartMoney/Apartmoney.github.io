@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 11 Sep 2023 15:50:03 +0900",
-	"total":209321,
+	"lastBuildDate":"Mon, 11 Sep 2023 16:00:02 +0900",
+	"total":209322,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"가을 이사철 앞두고 서울·수도권 아파트 전세가격 일제히 올라",
+			"originallink":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=34942",
+			"link":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=34942",
+			"description":"경기는 의왕·용인·안산시 등이 7월에 이어 두 달 연속 상승세를 이어갔고 인천은 서구 <b>청라<\/b>와 연수구 송도국제도시를 중심으로 가격이 올랐다. 올해 1~7월까지 수도권 전세거래 누계건수는 9만4413건으로 지난해... ",
+			"pubDate":"Mon, 11 Sep 2023 15:58:00 +0900"
+		},
 		{
 			"title":"수도권 아파트 전셋값, 작년 5월이후 처음으로 상승 전환",
 			"originallink":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=66103",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=66087",
 			"description":"경기는 의왕시, 용인시, 안산시 등이 7월에 이어 두 달 연속 상승세를 이어갔고, 인천은 서구 <b>청라<\/b>와 연수구 송도국제도시를 중심으로 가격이 올랐다. 올해 1∼7월 수도권 아파트 전세 거래 건수는 9만4413건으로... ",
 			"pubDate":"Mon, 11 Sep 2023 10:58:00 +0900"
-		},
-		{
-			"title":"8월 수도권 전셋값 반등…&quot;가을 이사 수요로 오름세 지속&quot;",
-			"originallink":"http:\/\/www.newspim.com\/news\/view\/20230911000376",
-			"link":"http:\/\/www.newspim.com\/news\/view\/20230911000376",
-			"description":"경기는 의왕, 용인, 안산시 등이 7월에 이어 두 달 연속 상승세를 이어갔고 인천은 서구 <b>청라<\/b>국제도시와 연수구 송도국제도시를 중심으로 가격이 올랐다. 올해 1~7월까지 수도권 전세거래 누계건수는 9만4413건으로... ",
-			"pubDate":"Mon, 11 Sep 2023 10:57:00 +0900"
 		}
 	]
 }
