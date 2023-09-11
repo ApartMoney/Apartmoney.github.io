@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 11 Sep 2023 14:20:02 +0900",
-	"total":209312,
+	"lastBuildDate":"Mon, 11 Sep 2023 14:30:02 +0900",
+	"total":209313,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구교통공사, 집중 서비스 제공 위해 고객만족주간 운영",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202309111414315267",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005070536?sid=102",
+			"description":"이벤트는 환승역(반월당역, 명덕역, <b>청라<\/b>언덕역) 3곳에서 동시에 개최됐다. 주사위던지기·룰렛 등의 간단한 게임을 통해 소정의 선물을 전달하는 등 도시철도 이용 고객들에게 감사의 마음을 전했다.",
+			"pubDate":"Mon, 11 Sep 2023 14:20:00 +0900"
+		},
 		{
 			"title":"서울 전세값, 5주 연속 오름세…이사철 앞두고 '들썩'",
 			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202309111349269119112616b072_1\/article.html",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.thekpm.com\/news\/articleView.html?idxno=172569",
 			"description":"인천 <b>청라<\/b>지구 옆  연희공원  '호반써밋 파크에디션'  아파트 단지 조감도. 호반건설 제공 호반건설은 인천 <b>청라<\/b>지구 옆 연희공원 내에서 공급하는 '호반써밋 파크에디션' 아파트의 잔여 가구 계약을 진행한다고 11일... ",
 			"pubDate":"Mon, 11 Sep 2023 10:34:00 +0900"
-		},
-		{
-			"title":"가을 이사철 앞두고 수도권 아파트 전셋값 반등…0.02%↑",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230911_0002445195&cID=10405&pID=10400",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012081570?sid=101",
-			"description":"경기는 의왕, 용인, 안산시 등이 7월에 이어 두 달 연속 상승세를 이어갔고 인천은 서구 <b>청라<\/b>와 연수구 송도국제도시를 중심으로 가격이 올랐다. 올해 1~7월까지 수도권 전세 거래 누계 건수는 9만4413건으로 지난해... ",
-			"pubDate":"Mon, 11 Sep 2023 10:30:00 +0900"
 		}
 	]
 }
