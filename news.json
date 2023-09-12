@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 13 Sep 2023 08:30:02 +0900",
-	"total":209427,
+	"lastBuildDate":"Wed, 13 Sep 2023 08:40:02 +0900",
+	"total":209428,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융그룹 챔피언십, 21일부터 나흘간 개최",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230913_0002448031&cID=10802&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012086204?sid=102",
+			"description":"인천시는 하나금융그룹 챔피언십이 9월 21~24일 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 열린다고 13일 밝혔다. 인천시와 인천관광공사가 후원하는 이번 대회는 KLPGA 정규투어 중 최상위 상금 규모의 국제 골프대회로... ",
+			"pubDate":"Wed, 13 Sep 2023 08:33:00 +0900"
+		},
 		{
 			"title":"인천경제청, 차병원과 글로벌 특화 병원 유치 위한 MOU 체결",
 			"originallink":"https:\/\/mdtoday.co.kr\/news\/view\/1065597163373666",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.breaknews.com\/986923",
 			"description":"또 IFEZ(인천경제자유구역)에 송도세브란스병원과 <b>청라<\/b>아산병원 등 각각 800병상 규모의 대형 종합병원이 유치돼 추진 중이다. 인천경제청은 이에따라 현재... ",
 			"pubDate":"Tue, 12 Sep 2023 15:38:00 +0900"
-		},
-		{
-			"title":"인천경제청, 송도국제도시에 글로벌 특화병원 유치 추진",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1758855",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1758855",
-			"description":"또한 인천경제자유구역(IFEZ)에 송도세브란스병원과 <b>청라<\/b>아산병원 등 각각 800병상 규모의 대형 종합병원이... 송도세브란스병원·<b>청라<\/b>아산병원 등이 추진중인 상황에서 세포치료, 안티 에이징, 난임 등 미래 의료... ",
-			"pubDate":"Tue, 12 Sep 2023 15:36:00 +0900"
 		}
 	]
 }
