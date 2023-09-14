@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 15 Sep 2023 06:00:02 +0900",
-	"total":209666,
+	"lastBuildDate":"Fri, 15 Sep 2023 06:10:02 +0900",
+	"total":209667,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'가을 여왕'의 계절…김수지, 2주 연속 타이틀 방어 도전",
+			"originallink":"http:\/\/www.golfdigest.co.kr\/news\/articleView.html?idxno=43234",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=435&aid=0000012899",
+			"description":"그는 다음 주에 인천 베어즈베스트<b>청라<\/b>에서 열릴 하나금융그룹챔피언십(총상금 15억원)에도 디펜딩 챔피언 자격으로 나선다. 그는 지난해 충청북도 청주시 세레니티컨트리클럽에서 열린... ",
+			"pubDate":"Fri, 15 Sep 2023 06:01:00 +0900"
+		},
 		{
 			"title":"[김능구의 정국인터뷰] 김교흥 더불어민주당 의원② &quot;정부 내년도 예산안, 민...",
 			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=619793",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.bigtanews.co.kr\/article\/view\/big202309140023",
 			"description":"특히, 이번 협력의 첫 행보로 비트고는 하나금융티아이가 운영 중인 하나금융그룹 <b>청라<\/b> 통합데이터센터를... 이어, 미래 인재 양성의 중심인 하나금융그룹의 <b>청라<\/b> 하나글로벌캠퍼스와 2025년 준공 예정인 그룹헤드쿼터... ",
 			"pubDate":"Thu, 14 Sep 2023 16:48:00 +0900"
-		},
-		{
-			"title":"하나금융티아이, 비트고와 웹3.0 기술 협력 추진",
-			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20230914125129",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002305181?sid=105",
-			"description":"하나금융티아이가 운영 중인 하나금융그룹 <b>청라<\/b> 통합데이터센터서 14일 박근영 하나금융티아이 대표이사(사진 왼쪽)와 마이크 벨시(Mike Belshe) 비트고(BitGo) 공동 창업자 겸 CEO(사진 오른쪽)가 악수하며 기념촬영을... ",
-			"pubDate":"Thu, 14 Sep 2023 16:44:00 +0900"
 		}
 	]
 }
