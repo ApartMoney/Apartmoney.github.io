@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 17 Sep 2023 13:30:02 +0900",
-	"total":209722,
+	"lastBuildDate":"Sun, 17 Sep 2023 13:40:02 +0900",
+	"total":209723,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[동정] 보령시장",
+			"originallink":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=993182",
+			"link":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=993182",
+			"description":"▲ 김동일 보령시장 ▲김동일 보령시장은 18일 오후 2시, <b>청라<\/b>면행정복지센터에서 열리는 3분기 읍면동장 토론회에 참석한다.",
+			"pubDate":"Sun, 17 Sep 2023 13:32:00 +0900"
+		},
 		{
 			"title":"[이것만은 꼭] 이형은 인천 연수구의원 “내‧외국인 교류 활발한 송도 만들 ...",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=763319",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2810740",
 			"description":"김동일 충남 보령시장. 국제뉴스DB =김동일 충남 보령시장은 15일 오후 2시 <b>청라<\/b>면행정복지센터에서 3분기 읍면동장 토론회에 참석한다.",
 			"pubDate":"Fri, 15 Sep 2023 14:54:00 +0900"
-		},
-		{
-			"title":"“지금도 많이 올랐는데, 더 오를까?”...주택시장 회복세에 전국 집값 ‘쑥’",
-			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1592654\/?sc=Naver",
-			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1592654\/?sc=Naver",
-			"description":"인천은 중구(중산·운남동 정주여건 양호지역 위주)와 서구(<b>청라<\/b>·가정동 주요단지), 남동구(논현·간석동 위주) 위주로 상승세를 보였다. 경기는 화성시(동탄신도시 위주), 수원 장안구(천천·정자·조원동 대단지... ",
-			"pubDate":"Fri, 15 Sep 2023 14:32:00 +0900"
 		}
 	]
 }
