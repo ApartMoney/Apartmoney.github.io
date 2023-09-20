@@ -1,21 +1,21 @@
 {
-	"lastBuildDate":"Thu, 21 Sep 2023 06:30:02 +0900",
+	"lastBuildDate":"Thu, 21 Sep 2023 06:40:02 +0900",
 	"total":210032,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"◇오늘의 경기(21일)",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230920036700007?input=1195m",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0014206828",
-			"description":"(베어즈베스트 <b>청라<\/b>) 제16회 KB금융그룹배 여자아마추어선수권대회(센추리21CC) △테니스= 제3차 한국실업연맹전(영월스포츠파크) ITF 안동국제주니어대회(안동시민운동장) △농구= 제53회... ",
-			"pubDate":"Thu, 21 Sep 2023 06:15:00 +0900"
-		},
-		{
 			"title":"◇내일의 경기(22일)",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230920037200007?input=1195m",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0014206829",
 			"description":"챔피언십(베어즈베스트 <b>청라<\/b>) 제16회 KB금융그룹배 여자아마추어선수권대회(센추리21CC) △테니스= 제3차 한국실업연맹전(영월스포츠파크) ITF 안동국제주니어대회(안동시민운동장) (서울=연합뉴스)",
+			"pubDate":"Thu, 21 Sep 2023 06:15:00 +0900"
+		},
+		{
+			"title":"◇오늘의 경기(21일)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230920036700007?input=1195m",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0014206828",
+			"description":"(베어즈베스트 <b>청라<\/b>) 제16회 KB금융그룹배 여자아마추어선수권대회(센추리21CC) △테니스= 제3차 한국실업연맹전(영월스포츠파크) ITF 안동국제주니어대회(안동시민운동장) △농구= 제53회... ",
 			"pubDate":"Thu, 21 Sep 2023 06:15:00 +0900"
 		},
 		{
