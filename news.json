@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 21 Sep 2023 12:30:03 +0900",
-	"total":210061,
+	"lastBuildDate":"Thu, 21 Sep 2023 12:40:02 +0900",
+	"total":210062,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[MD포토] 이민지, 김수지 '즐거운 대화'",
+			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2023092112310401162",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003772901",
+			"description":"이민지와 김수지가 21일 인천 베어즈베스트 <b>청라<\/b>에서 진행된 한국여자프로골프(KLPGA)투어 '하나금융그룹 챔피언십(총상금 15억원)' 1라운드에서 티샷을 때린 뒤 이야기를 나누고 있다.",
+			"pubDate":"Thu, 21 Sep 2023 12:32:00 +0900"
+		},
 		{
 			"title":"[MD포토] 이민지 '오랜만에 국내 팬들에게 인사'",
 			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2023092112280832440",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=208327",
 			"description":"(전동면 청람2리) 14:00 시민과의 대화(전동면)(전동면복컴) 19:00 시민과의 대화(보람동)(보람동복컴)... (베어즈베스트 <b>청라<\/b>) 제16회 KB금융그룹배 여자아마추어선수권대회(센추리21CC) ▲ 테니스= 제3차... ",
 			"pubDate":"Thu, 21 Sep 2023 07:06:00 +0900"
-		},
-		{
-			"title":"◇내일의 경기(22일)",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230920037200007?input=1195m",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=001&aid=0014206829",
-			"description":"챔피언십(베어즈베스트 <b>청라<\/b>) 제16회 KB금융그룹배 여자아마추어선수권대회(센추리21CC) △테니스= 제3차 한국실업연맹전(영월스포츠파크) ITF 안동국제주니어대회(안동시민운동장) (서울=연합뉴스)",
-			"pubDate":"Thu, 21 Sep 2023 06:15:00 +0900"
 		}
 	]
 }
