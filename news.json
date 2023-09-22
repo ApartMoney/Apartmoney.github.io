@@ -1,9 +1,149 @@
 {
-	"lastBuildDate":"Fri, 22 Sep 2023 17:00:02 +0900",
-	"total":211501,
+	"lastBuildDate":"Fri, 22 Sep 2023 17:10:02 +0900",
+	"total":211521,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[포토] 이가영, '알쏭달쏭, 알 수 없는 표정'",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202309220788H",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004895182",
+			"description":"KLPGA(한국여자프로골프)투어 '하나금융그룹 챔피언십'(총상금 15억 원) 2라운드 경기가 22일 인천 <b>청라<\/b>동 베어즈베스트 <b>청라<\/b>(파72·6712야드)에서 열렸다. 대회에 출전한 이가영이 9번 홀에서 티샷하고 있다.",
+			"pubDate":"Fri, 22 Sep 2023 17:08:00 +0900"
+		},
+		{
+			"title":"[포토]홍정민 '최대한 올라가자'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02181206635742744",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581812",
+			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 홍정민의 1번홀 경기 장면.",
+			"pubDate":"Fri, 22 Sep 2023 17:05:00 +0900"
+		},
+		{
+			"title":"[포토]백수빈,홍정민 '콤비 밝은 손인사'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02184486635742744",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581813",
+			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 백수빈,홍정민의 1번홀 경기... ",
+			"pubDate":"Fri, 22 Sep 2023 17:05:00 +0900"
+		},
+		{
+			"title":"[포토]백수빈 '감각적인 아이언샷'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02177926635742744",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581811",
+			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 백수빈의 1번홀 경기 장면.",
+			"pubDate":"Fri, 22 Sep 2023 17:05:00 +0900"
+		},
+		{
+			"title":"[포토]홍정민 '선두를 정조준한다'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02174646635742744",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581810",
+			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 홍정민의 1번홀 경기 장면.",
+			"pubDate":"Fri, 22 Sep 2023 17:05:00 +0900"
+		},
+		{
+			"title":"[포토]백수빈 '시즌 최고 성적을 노린다'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02171366635742744",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581809",
+			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 백수빈의 1번홀 경기 장면.",
+			"pubDate":"Fri, 22 Sep 2023 17:04:00 +0900"
+		},
+		{
+			"title":"[포토]백수빈 '바람 먼저 살핀다'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02168086635742744",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581808",
+			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 백수빈의 1번홀 경기 장면.",
+			"pubDate":"Fri, 22 Sep 2023 17:04:00 +0900"
+		},
+		{
+			"title":"[포토] 이가영, '입술 굳게 물고 힘찬 스윙'",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202309220784H",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004895179",
+			"description":"KLPGA(한국여자프로골프)투어 '하나금융그룹 챔피언십'(총상금 15억 원) 2라운드 경기가 22일 인천 <b>청라<\/b>동 베어즈베스트 <b>청라<\/b>(파72·6712야드)에서 열렸다. 대회에 출전한 이가영이 9번 홀에서 티샷하고 있다.",
+			"pubDate":"Fri, 22 Sep 2023 17:03:00 +0900"
+		},
+		{
+			"title":"[포토]김지현 '견고한 임팩트'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02158246635742744",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581804",
+			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김지현의 18번홀 경기 장면.... ",
+			"pubDate":"Fri, 22 Sep 2023 17:03:00 +0900"
+		},
+		{
+			"title":"[포토]김지현 '300경기 출전 대기록 달성했어요'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02164806635742744",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581806",
+			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김지현의 18번홀 경기 장면.... ",
+			"pubDate":"Fri, 22 Sep 2023 17:03:00 +0900"
+		},
+		{
+			"title":"[포토]김지현 '300경기 기념 티샷'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02161526635742744",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581805",
+			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김지현의 18번홀 경기 장면.... ",
+			"pubDate":"Fri, 22 Sep 2023 17:03:00 +0900"
+		},
+		{
+			"title":"[포토]김지현 '나이스 파세이브'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02154966635742744",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581803",
+			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김지현의 17번홀 경기 장면.... ",
+			"pubDate":"Fri, 22 Sep 2023 17:03:00 +0900"
+		},
+		{
+			"title":"[포토]김지현 '파세이브가 보인다'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02151686635742744",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581802",
+			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김지현의 17번홀 경기 장면.... ",
+			"pubDate":"Fri, 22 Sep 2023 17:02:00 +0900"
+		},
+		{
+			"title":"[포토] 이소미, '페어웨이로 가자'",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202309220776H",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004895178",
+			"description":"KLPGA(한국여자프로골프)투어 '하나금융그룹 챔피언십'(총상금 15억 원) 2라운드 경기가 22일 인천 <b>청라<\/b>동 베어즈베스트 <b>청라<\/b>(파72·6712야드)에서 열렸다. 대회에 출전한 이소미가 9번 홀에서 티샷하고 있다.",
+			"pubDate":"Fri, 22 Sep 2023 17:02:00 +0900"
+		},
+		{
+			"title":"[포토]김지현 '부드러운 퍼트'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02148406635742744",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581801",
+			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김지현의 17번홀 경기 장면.... ",
+			"pubDate":"Fri, 22 Sep 2023 17:02:00 +0900"
+		},
+		{
+			"title":"인천시의회 건교위, 추석맞이 특별교통대책 마련 및 장애인콜택시 이용 서비스...",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1764215",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1764215",
+			"description":"인천시의회건설교통위원회는 지난 21일부터 22일까지 인천종합버스터미널, <b>청라<\/b>BRT통합차고지, 강화... 이어 <b>청라<\/b>에 위치한 BRT 통합차고지를 찾아 차고지 운영 현황과 BRT 좌석제 시행에 따른 시민 불편 사항에 대해 점검과... ",
+			"pubDate":"Fri, 22 Sep 2023 17:02:00 +0900"
+		},
+		{
+			"title":"이예원, KLPGA투어 시즌 상금 10억원 돌파...역대 10번째-2년차 선수 4번째",
+			"originallink":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065595024309315",
+			"link":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065595024309315",
+			"description":"이예원은 22일 인천 베어즈베스트 <b>청라<\/b>(파72)코스에서 열린 KLPGA투어 하나금융그룹 챔피언십(총상금 15억원) 둘째 날 2라운드 경기에서 버디 3개 보기 2개를 묶어 3언더파 69타를 쳐 중간 합계 5언더파 139타를 기록... ",
+			"pubDate":"Fri, 22 Sep 2023 17:02:00 +0900"
+		},
+		{
+			"title":"[포토]김지현 '노련한 벙커샷'",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02145126635742744",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581800",
+			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김지현의 17번홀 경기 장면.... ",
+			"pubDate":"Fri, 22 Sep 2023 17:02:00 +0900"
+		},
+		{
+			"title":"[포토] 김연희, '더 높은 곳을 향해'",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202309220773H",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004895177",
+			"description":"KLPGA(한국여자프로골프)투어 '하나금융그룹 챔피언십'(총상금 15억 원) 2라운드 경기가 22일 인천 <b>청라<\/b>동 베어즈베스트 <b>청라<\/b>(파72·6712야드)에서 열렸다. 대회에 출전한 김연희가 9번 홀에서 티샷하고 있다.",
+			"pubDate":"Fri, 22 Sep 2023 17:01:00 +0900"
+		},
+		{
+			"title":"[포토] 최예림, '피니시까지 완벽하게'",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202309220769H",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004895175",
+			"description":"KLPGA(한국여자프로골프)투어 '하나금융그룹 챔피언십'(총상금 15억 원) 2라운드 경기가 22일 인천 <b>청라<\/b>동 베어즈베스트 <b>청라<\/b>(파72·6712야드)에서 열렸다. 대회에 출전한 최예림이 9번 홀에서 티샷하고 있다.",
+			"pubDate":"Fri, 22 Sep 2023 17:00:00 +0900"
+		},
 		{
 			"title":"[포토] 최예림, '힘찬 스윙'",
 			"originallink":"https:\/\/www.hankyung.com\/article\/202309220768H",
@@ -12,17 +152,17 @@
 			"pubDate":"Fri, 22 Sep 2023 16:59:00 +0900"
 		},
 		{
-			"title":"[포토] 최예림, '신중하게'",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202309220756H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004895173",
-			"description":"KLPGA(한국여자프로골프)투어 '하나금융그룹 챔피언십'(총상금 15억 원) 2라운드 경기가 22일 인천 <b>청라<\/b>동 베어즈베스트 <b>청라<\/b>(파72·6712야드)에서 열렸다. 대회에 출전한 최예림이 9번 홀에서 티샷하고 있다.",
-			"pubDate":"Fri, 22 Sep 2023 16:56:00 +0900"
-		},
-		{
 			"title":"인천시의회, 추석 특별교통대책 마련ㆍ장애인 콜택시 서비스 강화 촉구",
 			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2287118",
 			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2287118",
 			"description":"인천종합버스터미널, <b>청라<\/b>BRT통합차고지, 강화 장애인콜택시 차고지 등 인천시에서 운영 중인 주요... 이어 <b>청라<\/b>에 위치한 BRT 통합차고지를 방문, 차고지 운영 현황과 BRT 좌석제 시행에 따른 시민 불편 사항에 대해... ",
+			"pubDate":"Fri, 22 Sep 2023 16:56:00 +0900"
+		},
+		{
+			"title":"[포토] 최예림, '신중하게'",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202309220756H",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004895173",
+			"description":"KLPGA(한국여자프로골프)투어 '하나금융그룹 챔피언십'(총상금 15억 원) 2라운드 경기가 22일 인천 <b>청라<\/b>동 베어즈베스트 <b>청라<\/b>(파72·6712야드)에서 열렸다. 대회에 출전한 최예림이 9번 홀에서 티샷하고 있다.",
 			"pubDate":"Fri, 22 Sep 2023 16:56:00 +0900"
 		},
 		{
@@ -73,146 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004895165",
 			"description":"KLPGA(한국여자프로골프)투어 '하나금융그룹 챔피언십'(총상금 15억 원) 2라운드 경기가 22일 인천 <b>청라<\/b>동 베어즈베스트 <b>청라<\/b>(파72·6712야드)에서 열렸다. 대회에 출전한 봉승희가 10번 홀에서 티샷하고 있다.",
 			"pubDate":"Fri, 22 Sep 2023 16:50:00 +0900"
-		},
-		{
-			"title":"[포토] 최은우, '군더더기 없는 깔끔한 티샷'",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202309220736H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004895164",
-			"description":"KLPGA(한국여자프로골프)투어 '하나금융그룹 챔피언십'(총상금 15억 원) 2라운드 경기가 22일 인천 <b>청라<\/b>동 베어즈베스트 <b>청라<\/b>(파72·6712야드)에서 열렸다. 대회에 출전한 최은우가 10번 홀에서 티샷하고 있다.",
-			"pubDate":"Fri, 22 Sep 2023 16:50:00 +0900"
-		},
-		{
-			"title":"[포토] 봉승희, '파워 넘치는 티샷'",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202309220705H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004895163",
-			"description":"KLPGA(한국여자프로골프)투어 '하나금융그룹 챔피언십'(총상금 15억 원) 2라운드 경기가 22일 인천 <b>청라<\/b>동 베어즈베스트 <b>청라<\/b>(파72·6712야드)에서 열렸다. 대회에 출전한 봉승희가 10번 홀에서 티샷하고 있다.",
-			"pubDate":"Fri, 22 Sep 2023 16:49:00 +0900"
-		},
-		{
-			"title":"[포토] 최은우, '홀에 가까이 가자'",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202309220699H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004895160",
-			"description":"KLPGA(한국여자프로골프)투어 '하나금융그룹 챔피언십'(총상금 15억 원) 2라운드 경기가 22일 인천 <b>청라<\/b>동 베어즈베스트 <b>청라<\/b>(파72·6712야드)에서 열렸다. 대회에 출전한 최은우가 10번 홀에서 벙커샷을 하고 있다.",
-			"pubDate":"Fri, 22 Sep 2023 16:46:00 +0900"
-		},
-		{
-			"title":"인천시, 추석 연휴 생활 쓰레기 관리 대책 추진",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160271918571363",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160271918571363",
-			"description":"광역자원환경센터(송도·<b>청라<\/b>) 반입일 별도 지정해 운영...민원 대비 상황실 운영도 인천 <b>청라<\/b> 자원환경센터 인천시(시장 유정복)가 추석 연휴 생활 쓰레기 관리 대책을 추진한다. 시는 생활 쓰레기 배출의 어려움이 없도록... ",
-			"pubDate":"Fri, 22 Sep 2023 16:46:00 +0900"
-		},
-		{
-			"title":"[포토] 최은우, '가볍게 벙커 탈출'",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202309220692H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004895159",
-			"description":"KLPGA(한국여자프로골프)투어 '하나금융그룹 챔피언십'(총상금 15억 원) 2라운드 경기가 22일 인천 <b>청라<\/b>동 베어즈베스트 <b>청라<\/b>(파72·6712야드)에서 열렸다.대회에 출전한 최은우가 10번 홀에서 벙커샷을 하고 있다.",
-			"pubDate":"Fri, 22 Sep 2023 16:45:00 +0900"
-		},
-		{
-			"title":"[포토]김재희 '미소로 파이팅해요'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02128726635742744",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581785",
-			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김재희의 17번홀 경기 장면.",
-			"pubDate":"Fri, 22 Sep 2023 16:44:00 +0900"
-		},
-		{
-			"title":"[포토]김재희 '버디를 노린다'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02122166635742744",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581783",
-			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김재희의 17번홀 경기 장면.",
-			"pubDate":"Fri, 22 Sep 2023 16:44:00 +0900"
-		},
-		{
-			"title":"[포토]김재희 '회심의 버디 퍼트'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02125446635742744",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581784",
-			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김재희의 17번홀 경기 장면.",
-			"pubDate":"Fri, 22 Sep 2023 16:44:00 +0900"
-		},
-		{
-			"title":"[포토] 박지영, ' 환한 미소~'",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202309220650H",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=015&aid=0004895158",
-			"description":"KLPGA(한국여자프로골프)투어 '하나금융그룹 챔피언십'(총상금 15억 원) 2라운드 경기가 22일 인천 <b>청라<\/b>동 베어즈베스트 <b>청라<\/b>(파72·6712야드)에서 열렸다. 대회에 출전한 박지영이 10번 홀에서 앞조 선수들을... ",
-			"pubDate":"Fri, 22 Sep 2023 16:44:00 +0900"
-		},
-		{
-			"title":"[포토]김재희 '목표지점을 오차없이 조준한다'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02099206635742744",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581775",
-			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김재희의 17번홀 경기 장면.",
-			"pubDate":"Fri, 22 Sep 2023 16:43:00 +0900"
-		},
-		{
-			"title":"[포토]김재희 '그린을 파악한다'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02109046635742744",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581778",
-			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김재희의 17번홀 경기 장면.",
-			"pubDate":"Fri, 22 Sep 2023 16:43:00 +0900"
-		},
-		{
-			"title":"[포토]김재희 '페어웨이로 가라'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02095926635742744",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581774",
-			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김재희의 17번홀 경기 장면.",
-			"pubDate":"Fri, 22 Sep 2023 16:43:00 +0900"
-		},
-		{
-			"title":"[포토]김재희 '핀으로 가서 붙어라'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02112326635742744",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581779",
-			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김재희의 17번홀 경기 장면.",
-			"pubDate":"Fri, 22 Sep 2023 16:43:00 +0900"
-		},
-		{
-			"title":"[포토]김재희 '러프에서 정교한 임팩트'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02105766635742744",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581777",
-			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김재희의 17번홀 경기 장면.",
-			"pubDate":"Fri, 22 Sep 2023 16:43:00 +0900"
-		},
-		{
-			"title":"[포토]김재희 '약간 왼쪽방향이다'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02102486635742744",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581776",
-			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김재희의 17번홀 경기 장면.",
-			"pubDate":"Fri, 22 Sep 2023 16:43:00 +0900"
-		},
-		{
-			"title":"[포토]김재희 '캐치볼 받아주세요'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02115606635742744",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581781",
-			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김재희의 17번홀 경기 장면.",
-			"pubDate":"Fri, 22 Sep 2023 16:43:00 +0900"
-		},
-		{
-			"title":"[포토]김재희 '홀과 라인을 맞춘다'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02118886635742744",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581782",
-			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김재희의 17번홀 경기 장면.",
-			"pubDate":"Fri, 22 Sep 2023 16:43:00 +0900"
-		},
-		{
-			"title":"[포토]김재희 '미소로 인사해요'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02092646635742744",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581773",
-			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 김재희의 17번홀 경기 장면.",
-			"pubDate":"Fri, 22 Sep 2023 16:42:00 +0900"
-		},
-		{
-			"title":"인천시의회 건교위, 추석맞이 특별교통대책 마련 및 장애인 콜택시 이용 서비...",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=414353",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=414353",
-			"description":"인천시의회 건설교통위원회는 21일부터 22일까지 인천종합버스터미널, <b>청라<\/b>BRT통합차고지, 강화... 이어, <b>청라<\/b>에 위치한 BRT 통합차고지를 방문하여 차고지 운영 현황과 BRT 좌석제 시행에 따른 시민 불편 사항에 대해... ",
-			"pubDate":"Fri, 22 Sep 2023 16:42:00 +0900"
-		},
-		{
-			"title":"[포토]임희정 '방심없는 정조준'",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02086086635742744",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=018&aid=0005581771",
-			"description":"22일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)2라운드가 열렸다. 임희정의 10번홀 경기 장면.",
-			"pubDate":"Fri, 22 Sep 2023 16:41:00 +0900"
 		}
 	]
 }
