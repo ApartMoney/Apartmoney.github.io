@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 22 Sep 2023 19:30:03 +0900",
-	"total":211882,
+	"lastBuildDate":"Fri, 22 Sep 2023 19:40:02 +0900",
+	"total":211883,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"2R 선두 최혜진 포함 3타 차까지 모두 18명…하나금융 챔피언십 치열한 우승 ...",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20230922500230&wlog_tag3=naver",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=081&aid=0003395591",
+			"description":"1라운드 3언더파 공동 6위였던 최혜진은 22일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72·6712야드)에서 열린... 특히 정상에 선 롯데 오픈은 이번 하나금융그룹 챔피언십이 열리는 베어즈베스트 <b>청라<\/b> 골프클럽에서 열렸다.... ",
+			"pubDate":"Fri, 22 Sep 2023 19:33:00 +0900"
+		},
 		{
 			"title":"[포토] 볼 방향 확인하는 김지현",
 			"originallink":"https:\/\/www.etnews.com\/20230922000445",
@@ -96,9 +103,9 @@
 			"pubDate":"Fri, 22 Sep 2023 19:17:00 +0900"
 		},
 		{
-			"title":"[포토] 김리안, 기분좋게 홀아웃해요",
-			"originallink":"https:\/\/www.etnews.com\/20230922000435",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003139270",
+			"title":"[포토] 버디성공에 기뻐하는 김리안",
+			"originallink":"https:\/\/www.etnews.com\/20230922000432",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003139271",
 			"description":"2023 KLPGA투어 스물다섯 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열리고 있다. 22일 현재 2라운드 경기가... ",
 			"pubDate":"Fri, 22 Sep 2023 19:17:00 +0900"
 		},
@@ -138,13 +145,6 @@
 			"pubDate":"Fri, 22 Sep 2023 19:17:00 +0900"
 		},
 		{
-			"title":"[포토] 버디성공에 기뻐하는 김리안",
-			"originallink":"https:\/\/www.etnews.com\/20230922000432",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003139271",
-			"description":"2023 KLPGA투어 스물다섯 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열리고 있다. 22일 현재 2라운드 경기가... ",
-			"pubDate":"Fri, 22 Sep 2023 19:17:00 +0900"
-		},
-		{
 			"title":"[포토] 버디에 본인도 놀라는 김리안",
 			"originallink":"https:\/\/www.etnews.com\/20230922000431",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003139273",
@@ -155,6 +155,13 @@
 			"title":"[포토] 힘차게 티샷하는 패티 타바타나킷",
 			"originallink":"https:\/\/www.etnews.com\/20230922000428",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003139263",
+			"description":"2023 KLPGA투어 스물다섯 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열리고 있다. 22일 현재 2라운드 경기가... ",
+			"pubDate":"Fri, 22 Sep 2023 19:17:00 +0900"
+		},
+		{
+			"title":"[포토] 김리안, 기분좋게 홀아웃해요",
+			"originallink":"https:\/\/www.etnews.com\/20230922000435",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003139270",
 			"description":"2023 KLPGA투어 스물다섯 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열리고 있다. 22일 현재 2라운드 경기가... ",
 			"pubDate":"Fri, 22 Sep 2023 19:17:00 +0900"
 		},
@@ -180,9 +187,9 @@
 			"pubDate":"Fri, 22 Sep 2023 19:17:00 +0900"
 		},
 		{
-			"title":"[포토] 티샷후 이동하는 어슐리 라우",
-			"originallink":"https:\/\/www.etnews.com\/20230922000421",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003139258",
+			"title":"[포토] 이소영, 힘차게 보내는 티샷",
+			"originallink":"https:\/\/www.etnews.com\/20230922000422",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003139259",
 			"description":"2023 KLPGA투어 스물다섯 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열리고 있다. 22일 현재 2라운드 경기가... ",
 			"pubDate":"Fri, 22 Sep 2023 19:16:00 +0900"
 		},
@@ -194,9 +201,9 @@
 			"pubDate":"Fri, 22 Sep 2023 19:16:00 +0900"
 		},
 		{
-			"title":"[포토] 이소영, 힘차게 보내는 티샷",
-			"originallink":"https:\/\/www.etnews.com\/20230922000422",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003139259",
+			"title":"[포토] 티샷후 이동하는 어슐리 라우",
+			"originallink":"https:\/\/www.etnews.com\/20230922000421",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003139258",
 			"description":"2023 KLPGA투어 스물다섯 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열리고 있다. 22일 현재 2라운드 경기가... ",
 			"pubDate":"Fri, 22 Sep 2023 19:16:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.raonnews.com\/news\/article.html?no=22340",
 			"description":"많고 임상 경험이 풍부한 전문가와 정확한 진단을 통해 자신의 피부를 체크하고 가장 적합한 시술을 선택하는 것이 바람직하다. ※ 외부 필진의 칼럼은 본지의 편집 방향과 다를 수 있습니다. <b>청라<\/b> 더예쁨의원 소수미 원장",
 			"pubDate":"Fri, 22 Sep 2023 19:10:00 +0900"
-		},
-		{
-			"title":"[포토] 손인사로 홀아웃하는 조혜림-김수찬캐디",
-			"originallink":"https:\/\/www.etnews.com\/20230922000412",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=030&aid=0003139249",
-			"description":"2023 KLPGA투어 스물다섯 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열리고 있다. 22일 현재 2라운드 경기가... ",
-			"pubDate":"Fri, 22 Sep 2023 19:07:00 +0900"
 		}
 	]
 }
