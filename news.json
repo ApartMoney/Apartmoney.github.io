@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 24 Sep 2023 11:30:03 +0900",
-	"total":212787,
+	"lastBuildDate":"Sun, 24 Sep 2023 11:40:02 +0900",
+	"total":212788,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[포토]김수지, 우승을 향해",
+			"originallink":"http:\/\/www.inews24.com\/view\/1636213",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=031&aid=0000775229",
+			"description":"24일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열린 '하나금융그룹 챔피언십' (총상금 15억원, 우승상금 2억 7천만 원) 최종 라운드에서 김수지가 티샷을 하고 있다.",
+			"pubDate":"Sun, 24 Sep 2023 11:39:00 +0900"
+		},
 		{
 			"title":"인천시의회 건교위, 주요 교통시설 운영 현황 점검",
 			"originallink":"http:\/\/www.joongdo.co.kr\/web\/view.php?key=20230922010007210",
@@ -89,6 +96,13 @@
 			"pubDate":"Sun, 24 Sep 2023 08:18:00 +0900"
 		},
 		{
+			"title":"[MD포토] '디펜딩 챔피언' 김수지, 또 다시 챔피언 노린다",
+			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2023092400480030493",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003774055",
+			"description":"김수지가 23일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 진행된 '하나금융그룹?챔피언십' (총상금 15억원,우승삼금 2억 7천만 원) 3라운드에서 티샷을 한 뒤 타구를 바라보고 있다.",
+			"pubDate":"Sun, 24 Sep 2023 08:18:00 +0900"
+		},
+		{
 			"title":"[MD포토] 김수지 '부드럽지만 정확한 스윙'",
 			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2023092400492334485",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003774063",
@@ -103,31 +117,10 @@
 			"pubDate":"Sun, 24 Sep 2023 08:18:00 +0900"
 		},
 		{
-			"title":"[MD포토] '디펜딩 챔피언' 김수지, 또 다시 챔피언 노린다",
-			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2023092400480030493",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003774055",
-			"description":"김수지가 23일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 진행된 '하나금융그룹?챔피언십' (총상금 15억원,우승삼금 2억 7천만 원) 3라운드에서 티샷을 한 뒤 타구를 바라보고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 08:18:00 +0900"
-		},
-		{
 			"title":"[MD포토] 다부진 표정의 김수지 '2연패 노린다'",
 			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2023092400531258031",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003774061",
 			"description":"김수지가 23일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 진행된 '하나금융그룹?챔피언십' (총상금 15억원,우승삼금 2억 7천만 원) 3라운드에서 샷 준비를 하고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 08:18:00 +0900"
-		},
-		{
-			"title":"[MD포토] 2연패 도전 김수지 '해맑은 미소'",
-			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2023092400565960780",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003774059",
-			"description":"김수지가 23일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 진행된 '하나금융그룹?챔피언십' (총상금 15억원,우승삼금 2억 7천만 원) 3라운드에서 미소를 짓고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 08:18:00 +0900"
-		},
-		{
-			"title":"[MD포토] 이소미 '힘차게 출발한다'",
-			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2023092400451150059",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003774064",
-			"description":"ㅇ이소미가 23일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 진행된 '하나금융그룹?챔피언십' (총상금 15억원,우승삼금 2억 7천만 원) 3라운드에서 샷을 때리고 있다.",
 			"pubDate":"Sun, 24 Sep 2023 08:18:00 +0900"
 		},
 		{
@@ -138,10 +131,10 @@
 			"pubDate":"Sun, 24 Sep 2023 08:18:00 +0900"
 		},
 		{
-			"title":"[MD포토] 이다연 '부드럽게 때린다'",
-			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2023092401144995770",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003774057",
-			"description":"이다연이 23일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 진행된 '하나금융그룹?챔피언십' (총상금 15억원,우승삼금 2억 7천만 원) 3라운드에서 샷을 때리고 있다.",
+			"title":"[MD포토] 2연패 도전 김수지 '해맑은 미소'",
+			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2023092400565960780",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003774059",
+			"description":"김수지가 23일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 진행된 '하나금융그룹?챔피언십' (총상금 15억원,우승삼금 2억 7천만 원) 3라운드에서 미소를 짓고 있다.",
 			"pubDate":"Sun, 24 Sep 2023 08:18:00 +0900"
 		},
 		{
@@ -149,6 +142,20 @@
 			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2023092400463209422",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003774065",
 			"description":"이소미가 23일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 진행된 '하나금융그룹?챔피언십' (총상금 15억원,우승삼금 2억 7천만 원) 3라운드에서 샷을 때리고 있다.",
+			"pubDate":"Sun, 24 Sep 2023 08:18:00 +0900"
+		},
+		{
+			"title":"[MD포토] 이소미 '힘차게 출발한다'",
+			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2023092400451150059",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003774064",
+			"description":"ㅇ이소미가 23일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 진행된 '하나금융그룹?챔피언십' (총상금 15억원,우승삼금 2억 7천만 원) 3라운드에서 샷을 때리고 있다.",
+			"pubDate":"Sun, 24 Sep 2023 08:18:00 +0900"
+		},
+		{
+			"title":"[MD포토] 이다연 '부드럽게 때린다'",
+			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2023092401144995770",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003774057",
+			"description":"이다연이 23일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 진행된 '하나금융그룹?챔피언십' (총상금 15억원,우승삼금 2억 7천만 원) 3라운드에서 샷을 때리고 있다.",
 			"pubDate":"Sun, 24 Sep 2023 08:18:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=117&aid=0003774015",
 			"description":"마다솜이 23일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 진행된 '하나금융그룹 챔피언십' (총상금 15억원, 우승삼금 2억 7천만 원) 3라운드에서 1번 티에서 샷을 때리고 있다.",
 			"pubDate":"Sat, 23 Sep 2023 21:10:00 +0900"
-		},
-		{
-			"title":"[KLPGA] '가을 여왕' 김수지, '하나금융그룹 챔피언십' 무빙데이 단독 선두",
-			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=620631",
-			"link":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=620631",
-			"description":"김수지는 23일 인천 베어즈베스트 <b>청라<\/b>골프클럽(파72)에서 열린 대회 3라운드에서 버디 5개, 보기 1개를... 올해 지난 6월 베어즈베스트 <b>청라<\/b>골프클럽에서 열린 KLPGA투어 '롯데오픈'에서 우승했던 최혜진은 1타를 줄여... ",
-			"pubDate":"Sat, 23 Sep 2023 20:44:00 +0900"
 		}
 	]
 }
