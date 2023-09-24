@@ -1,14 +1,91 @@
 {
-	"lastBuildDate":"Sun, 24 Sep 2023 13:10:02 +0900",
-	"total":212886,
+	"lastBuildDate":"Sun, 24 Sep 2023 13:20:02 +0900",
+	"total":212897,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[포토]조혜림, 우승 도전",
+			"originallink":"http:\/\/www.inews24.com\/view\/1636260",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=031&aid=0000775278",
+			"description":"24일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열린 '하나금융그룹 챔피언십' (총상금 15억원, 우승상금 2억 7천만 원) 최종 라운드에서 조혜림이 티샷을 하고 있다.",
+			"pubDate":"Sun, 24 Sep 2023 13:19:00 +0900"
+		},
+		{
+			"title":"[포토]이다연, 역전 우승을 노린다",
+			"originallink":"http:\/\/www.inews24.com\/view\/1636258",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=031&aid=0000775277",
+			"description":"24일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열린 '하나금융그룹 챔피언십' (총상금 15억원, 우승상금 2억 7천만 원) 최종 라운드에서 이다연이 티샷을 하고 있다.",
+			"pubDate":"Sun, 24 Sep 2023 13:18:00 +0900"
+		},
+		{
+			"title":"[포토]이다연, 우승 도전",
+			"originallink":"http:\/\/www.inews24.com\/view\/1636257",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=031&aid=0000775276",
+			"description":"24일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열린 '하나금융그룹 챔피언십' (총상금 15억원, 우승상금 2억 7천만 원) 최종 라운드에서 이다연이 티샷을 하고 있다.",
+			"pubDate":"Sun, 24 Sep 2023 13:18:00 +0900"
+		},
+		{
+			"title":"[ST포토] 패티 타와타나킷 '홀컵을 노리는 어프로치샷'",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=89277172524",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=89277172524",
+			"description":"2023 KLPGA 투어 '하나금융그룹 챔피언십(총상금 15억 원, 우승상금 2억 7000만 원)'최종라운드 경기가 23일 인천광역시 서구 베어즈베스트 <b>청라<\/b>(파72 \/ 6712야드)에서 열렸다. 패티 타와타나킷이 3번홀... ",
+			"pubDate":"Sun, 24 Sep 2023 13:16:00 +0900"
+		},
+		{
+			"title":"[포토]인주연-이다연-조혜림, 오늘의 포즈는",
+			"originallink":"http:\/\/www.inews24.com\/view\/1636256",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=031&aid=0000775275",
+			"description":"24일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열린 '하나금융그룹 챔피언십' (총상금 15억원, 우승상금 2억 7천만 원) 최종 라운드에서 인주연, 이다연, 조혜림이 기념촬영을 하고 있다.",
+			"pubDate":"Sun, 24 Sep 2023 13:15:00 +0900"
+		},
+		{
+			"title":"[ST포토] 임진희 '여유 넘치는 표정'",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=89277052758",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=89277052758",
+			"description":"2023 KLPGA 투어 '하나금융그룹 챔피언십(총상금 15억 원, 우승상금 2억 7000만 원)'최종라운드 경기가 23일 인천광역시 서구 베어즈베스트 <b>청라<\/b>(파72 \/ 6712야드)에서 열렸다. 임진희가 3번홀 홀아웃 하고... ",
+			"pubDate":"Sun, 24 Sep 2023 13:14:00 +0900"
+		},
+		{
+			"title":"미소 짓는 '사막여우' 임희정 [TF사진관]",
+			"originallink":"http:\/\/news.tf.co.kr\/read\/photomovie\/2045617.htm",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=629&aid=0000240509",
+			"description":"프로골퍼 임희정이 24일 오후 인천 서구 베어즈베스트 <b>청라<\/b>에서 열린 KLPGA투어 하나금융그룹 챔피언십 마지막날 경기를 펼치고 있다. 사진영상기획부",
+			"pubDate":"Sun, 24 Sep 2023 13:13:00 +0900"
+		},
+		{
+			"title":"[ST포토] 이다연 '버디 찬스'",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=89276938098",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=89276938098",
+			"description":"2023 KLPGA 투어 '하나금융그룹 챔피언십(총상금 15억 원, 우승상금 2억 7000만 원)'최종라운드 경기가 23일 인천광역시 서구 베어즈베스트 <b>청라<\/b>(파72 \/ 6712야드)에서 열렸다. 이다연이 3번홀 퍼팅을... ",
+			"pubDate":"Sun, 24 Sep 2023 13:12:00 +0900"
+		},
+		{
+			"title":"[ST포토] 이다연 '버디로 마무리'",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=89276890065",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=89276890065",
+			"description":"2023 KLPGA 투어 '하나금융그룹 챔피언십(총상금 15억 원, 우승상금 2억 7000만 원)'최종라운드 경기가 23일 인천광역시 서구 베어즈베스트 <b>청라<\/b>(파72 \/ 6712야드)에서 열렸다. 이다연이 3번홀 홀아웃 하고... ",
+			"pubDate":"Sun, 24 Sep 2023 13:10:00 +0900"
+		},
+		{
+			"title":"[ST포토] 이다연 '버디 했어요'",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=89276746653",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=89276746653",
+			"description":"2023 KLPGA 투어 '하나금융그룹 챔피언십(총상금 15억 원, 우승상금 2억 7000만 원)'최종라운드 경기가 23일 인천광역시 서구 베어즈베스트 <b>청라<\/b>(파72 \/ 6712야드)에서 열렸다. 이다연이 3번홀 홀아웃 하고... ",
+			"pubDate":"Sun, 24 Sep 2023 13:10:00 +0900"
+		},
 		{
 			"title":"[포토]방신실, 선두 추격",
 			"originallink":"http:\/\/www.inews24.com\/view\/1636255",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=031&aid=0000775274",
 			"description":"24일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열린 '하나금융그룹 챔피언십' (총상금 15억원, 우승상금 2억 7천만 원) 최종 라운드에서 방신실이 티샷을 하고 있다.",
+			"pubDate":"Sun, 24 Sep 2023 13:09:00 +0900"
+		},
+		{
+			"title":"[포토]임진희, 강한 스윙",
+			"originallink":"http:\/\/www.inews24.com\/view\/1636254",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=031&aid=0000775273",
+			"description":"24일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열린 '하나금융그룹 챔피언십' (총상금 15억원, 우승상금 2억 7천만 원) 최종 라운드에서 임진희가 티샷을 하고 있다.",
 			"pubDate":"Sun, 24 Sep 2023 13:09:00 +0900"
 		},
 		{
@@ -33,17 +110,17 @@
 			"pubDate":"Sun, 24 Sep 2023 13:05:00 +0900"
 		},
 		{
-			"title":"[포토]배소현, 그림같은 티샷",
-			"originallink":"http:\/\/www.inews24.com\/view\/1636250",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=031&aid=0000775269",
-			"description":"24일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열린 '하나금융그룹 챔피언십' (총상금 15억원, 우승상금 2억 7천만 원) 최종 라운드에서 배소현이 티샷을 하고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 13:04:00 +0900"
-		},
-		{
 			"title":"[ST포토] 조혜림 '역전 갑니다'",
 			"originallink":"http:\/\/www.stoo.com\/article.php?aid=89276560034",
 			"link":"http:\/\/www.stoo.com\/article.php?aid=89276560034",
 			"description":"2023 KLPGA 투어 '하나금융그룹 챔피언십(총상금 15억 원, 우승상금 2억 7000만 원)'최종라운드 경기가 23일 인천광역시 서구 베어즈베스트 <b>청라<\/b>(파72 \/ 6712야드)에서 열렸다. 조혜림이 3번홀 홀아웃 하고... ",
+			"pubDate":"Sun, 24 Sep 2023 13:04:00 +0900"
+		},
+		{
+			"title":"[포토]배소현, 그림같은 티샷",
+			"originallink":"http:\/\/www.inews24.com\/view\/1636250",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=031&aid=0000775269",
+			"description":"24일 인천 베어즈베스트 <b>청라<\/b> (파72\/6,712야드)에서 열린 '하나금융그룹 챔피언십' (총상금 15억원, 우승상금 2억 7천만 원) 최종 라운드에서 배소현이 티샷을 하고 있다.",
 			"pubDate":"Sun, 24 Sep 2023 13:04:00 +0900"
 		},
 		{
@@ -82,24 +159,24 @@
 			"pubDate":"Sun, 24 Sep 2023 12:58:00 +0900"
 		},
 		{
-			"title":"[Ms포토] 최혜진 '시선이 남달라'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222410",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145236",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 최혜진이 4번홀 서드샷 지점으로 이동하고 있다.",
+			"title":"[Ms포토] 이민지 '타구 방향 아주 좋아요'",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222386",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145257",
+			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 이민지가 4번홀 티샷을 날리고 있다.",
 			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
 		},
 		{
-			"title":"[Ms포토] 최혜진 '드라이버 커버는 강아지 커버'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222406",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145238",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 최혜진이 4번홀 세컨드샷을 준비하고 있다.",
+			"title":"[Ms포토] 김수지-한준 '나이스 파'",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222397",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145246",
+			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 김수지가 3번홀 그린 파로 마무리하고 있다.",
 			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
 		},
 		{
-			"title":"[Ms포토] 최혜진 '최대한 멀리 날리는 샷'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222408",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145237",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 최혜진이 4번홀 세컨드샷을 날리고 있다.",
+			"title":"[Ms포토] 최혜진 '신중 플러스 신중'",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222402",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145241",
+			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 최혜진이 3번홀 그린 퍼트 라인을 살피고 있다.",
 			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
 		},
 		{
@@ -117,69 +194,6 @@
 			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
 		},
 		{
-			"title":"[Ms포토] 김수지 '들어가라 버디 퍼트'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222395",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145248",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 김수지가 3번홀 그린 퍼트 라인을 살피고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
-		},
-		{
-			"title":"[Ms포토] 김수지-한준 '나이스 파'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222397",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145246",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 김수지가 3번홀 그린 파로 마무리하고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
-		},
-		{
-			"title":"[Ms포토] 가을 전설 김수지 '언제나 같은 루틴'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222394",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145249",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 김수지가 3번홀 그린 퍼트 라인을 살피고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
-		},
-		{
-			"title":"[Ms포토] 가을 전설 김수지 '캐디 한준과 함께 우승 노린다'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222393",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145250",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 김수지가 3번홀 그린 퍼트 라인을 살피고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
-		},
-		{
-			"title":"[Ms포토] 이민지 '타구 방향 아주 좋아요'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222386",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145257",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 이민지가 4번홀 티샷을 날리고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
-		},
-		{
-			"title":"[Ms포토] 이민지 '버디 정조준'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222384",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145259",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 이민지가 4번홀 티샷을 준비하고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
-		},
-		{
-			"title":"[Ms포토] 이민지 '투 온 노리는 에이밍'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222387",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145256",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 이민지가 4번홀 세컨드샷을 준비하고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
-		},
-		{
-			"title":"[Ms포토] 가을 전설 김수지 '우승 기대해주세요'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222399",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145244",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 김수지가 4번홀 티샷을 날리고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
-		},
-		{
-			"title":"[Ms포토] 최혜진 '믿고 날리는 티샷'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222404",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145239",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 최혜진이 4번홀 티샷을 날리고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
-		},
-		{
 			"title":"[Ms포토] 이민지 '티는 견고하게'",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222383",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145260",
@@ -187,31 +201,17 @@
 			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
 		},
 		{
-			"title":"[Ms포토] 이민지 '정확하게 날린다'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222388",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145255",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 이민지가 4번홀 세컨드샷을 날리고 있다.",
+			"title":"[Ms포토] 최혜진 '드라이버 커버는 강아지 커버'",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222406",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145238",
+			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 최혜진이 4번홀 세컨드샷을 준비하고 있다.",
 			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
 		},
 		{
-			"title":"[Ms포토] 이민지 '공략 방향 바라보며 날린다'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222382",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145261",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 이민지가 4번홀 티샷을 준비하고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
-		},
-		{
-			"title":"[Ms포토] 김수지 '갤러리 환호에 가벼운 터치 인사'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222396",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145247",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 김수지가 3번홀 그린 파로 마무리하고 있다.",
-			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
-		},
-		{
-			"title":"[Ms포토] 이민지 '눈으로 확인하는 거리감'",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222381",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145262",
-			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 이민지가 3번홀 그린 퍼트 라인을 살피고 있다.",
+			"title":"[Ms포토] 가을 전설 김수지 '캐디 한준과 함께 우승 노린다'",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=222393",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=445&aid=0000145250",
+			"description":"24일 인천광역시 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원) 최종 4라운드가 열린가운데, 김수지가 3번홀 그린 퍼트 라인을 살피고 있다.",
 			"pubDate":"Sun, 24 Sep 2023 12:57:00 +0900"
 		}
 	]
