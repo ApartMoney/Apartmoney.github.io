@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 28 Sep 2023 18:10:02 +0900",
-	"total":213938,
+	"lastBuildDate":"Thu, 28 Sep 2023 18:20:02 +0900",
+	"total":213939,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"붐비는 기차역·터미널...&quot;연휴 길어 더 설레요&quot;",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202309281750537262",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001941477?sid=102",
+			"description":"[김민철 \/ 인천 <b>청라<\/b>동 : 부산 가고요. 여행가게 된 계기는 연휴가 기니까…. 기분은 되게 설레고 기대되고 가서 요트도 탈 것 같고….] 올해 추석은 연휴가 엿새로 길어 이동하는 사람도 지난해보다 많을 것으로 전망됩니다.... ",
+			"pubDate":"Thu, 28 Sep 2023 17:50:00 +0900"
+		},
 		{
 			"title":"아파트, 전주比 '매매 0.07%·전세 0.11%' 상승.. 상승폭은 축소",
 			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=498916&class=1&grp=",
@@ -180,17 +187,17 @@
 			"pubDate":"Wed, 27 Sep 2023 15:10:00 +0900"
 		},
 		{
-			"title":"&quot;인천서 2년 사이 달비계 작업 중 5명 추락사&quot;",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=234897",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=234897",
-			"description":"2021년 9월 3일 <b>청라<\/b> 아파트 외벽 도장 작업 중 40대 노동자가 떨어져 사망했고, 2021년 9월 27일 송도 아파트 외벽 유리창 청소 중 20대 노동자가 떨어져 사망했다. 2022년 5월 1일 이번 사고와 동일 유형의 달비계 작업 중 로프... ",
-			"pubDate":"Wed, 27 Sep 2023 15:02:00 +0900"
-		},
-		{
 			"title":"[인천 주요 뉴스]인천시·관계 기관, 10월 불법어업 합동단속",
 			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6020164",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003817706?sid=102",
 			"description":"상습 정체 인천공항고속도로 <b>청라<\/b>IC…진출입로 개선 추진 인천시는 출퇴근 시간대 상습정체 구간인 인천국제공항고속도로 <b>청라<\/b>IC 개선 공사를 2025년 말까지 마칠 계획이라고 밝혔습니다. 인천시는 <b>청라<\/b>IC 진입로를... ",
+			"pubDate":"Wed, 27 Sep 2023 15:02:00 +0900"
+		},
+		{
+			"title":"&quot;인천서 2년 사이 달비계 작업 중 5명 추락사&quot;",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=234897",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=234897",
+			"description":"2021년 9월 3일 <b>청라<\/b> 아파트 외벽 도장 작업 중 40대 노동자가 떨어져 사망했고, 2021년 9월 27일 송도 아파트 외벽 유리창 청소 중 20대 노동자가 떨어져 사망했다. 2022년 5월 1일 이번 사고와 동일 유형의 달비계 작업 중 로프... ",
 			"pubDate":"Wed, 27 Sep 2023 15:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000838227?sid=004",
 			"description":"<b>청라<\/b>어린이집(원장 박윤희)은 지난 22일 개최한 &quot;사랑나눔바자회 ＆ 樂사진전&quot; 수익금 전액 512,000원을 지역의 취약계층을 위해 사용해 달라며 이웃돕기 성금으로 27일 남산4동행정복지센터에 전달했다. <b>청라<\/b>어린이집... ",
 			"pubDate":"Wed, 27 Sep 2023 14:55:00 +0900"
-		},
-		{
-			"title":"대구교통공사, 가을 명소 방문 인증 이벤트",
-			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3126704",
-			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3126704",
-			"description":"이벤트 대상 역사는 가을 명소 인근에 위치한 1호선 대곡역, 송현역, 2호선 <b>청라<\/b>언덕역, 두류역, 3호선 공단역, 수성못역과 환승역인 반월당역, 명덕역 등 총 8곳입니다. 참여방법은 이벤트 대상 역사에 부착된 포스터의... ",
-			"pubDate":"Wed, 27 Sep 2023 14:30:00 +0900"
 		}
 	]
 }
