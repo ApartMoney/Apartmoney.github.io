@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 30 Sep 2023 17:40:02 +0900",
-	"total":213948,
+	"lastBuildDate":"Sat, 30 Sep 2023 17:50:02 +0900",
+	"total":213949,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"내일부터 영종대교 통행료 반값…섬 주민은 20년만에 무료",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20230930010200641\/?input=1825m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000621872?sid=102",
+			"description":"북인천 영업소는 3,200원에서 1,900원, <b>청라<\/b> 영업소는 2,500원에서 2,000원으로 각각 낮아집니다. 특히 영종도와 인근 섬 주민들에게는 통행료가 전면 면제됩니다. 영종대교와 인천대교 모두 매일 왕복 1번 무료 통행이... ",
+			"pubDate":"Sat, 30 Sep 2023 17:44:00 +0900"
+		},
 		{
 			"title":"영종대교 통행료 내일부터 대폭 인하…섬 주민은 무료",
 			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20230930008900641\/?input=1825m",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000838260?sid=004",
 			"description":"대구 중구 남산동 <b>청라<\/b>센트럴파크의 <b>청라<\/b>어린이집(원장 박윤희)은 27일 최근 개최한 바자회의 수익금 전액을 어려운 이웃을 위해 써달라며 남산4동행정복지센터에 전달했다. <b>청라<\/b>어린이집은 지난 22일 <b>청라<\/b>센트럴파크... ",
 			"pubDate":"Wed, 27 Sep 2023 15:52:00 +0900"
-		},
-		{
-			"title":"대구교통공사, 가을 명소 방문 인증 이벤트 마련",
-			"originallink":"http:\/\/www.sentv.co.kr\/news\/view\/669668",
-			"link":"http:\/\/www.sentv.co.kr\/news\/view\/669668",
-			"description":"이벤트 대상 역사는 가을 명소 인근에 위치한 1호선 대곡역(대구수목원), 송현역(달서별빛캠프), 2호선 <b>청라<\/b>언덕역(근대골목), 두류역(두류공원), 3호선 공단역(금호꽃섬), 수성못역(수성못)과 환승역인 반월당역, 명덕역... ",
-			"pubDate":"Wed, 27 Sep 2023 15:50:00 +0900"
 		}
 	]
 }
