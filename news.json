@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 01 Oct 2023 06:00:02 +0900",
-	"total":213953,
+	"lastBuildDate":"Sun, 01 Oct 2023 06:10:02 +0900",
+	"total":213954,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천공항 통행료 오늘부터 절반 이상 인하…6600원→3200원",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230928_0002467887&cID=10801&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012121775?sid=102",
+			"description":"<b>청라<\/b> 등 총 3개의 영업소가 운영되고 있다. 수도권 인천공항을 오갈 때 주로 이용하는 인천공항 영업소의 통행료는 6600원에서 3200원으로 51.5% 인하되고, 북인천 영업소는 3200원에서 1900원 요금을 40.6% 낮춘다. <b>청라<\/b>영업... ",
+			"pubDate":"Sun, 01 Oct 2023 06:01:00 +0900"
+		},
 		{
 			"title":"'억대 연봉' 은행 취업해볼까… 추석 연휴 끝나면 채용 본격화",
 			"originallink":"http:\/\/moneys.mt.co.kr\/news\/mwView.php?no=2023092709491396436",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=614339",
 			"description":"<b>청라<\/b>면 이기현 주무관은 올해 여름 명대계곡에 대한 안전관리, 환경정비 등을 추진해 피서객에 안전하고 쾌적한 환경을 제공했으며, 각종 재난 발생 시 응급 복구를 지원하고 피해조사에 나서는 등 재난 극복을 위해... ",
 			"pubDate":"Wed, 27 Sep 2023 18:00:00 +0900"
-		},
-		{
-			"title":"인천시의회 건설교통위, 인천 내 교통시설 점검",
-			"originallink":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1415514",
-			"link":"http:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1415514",
-			"description":"특별교통 대책 마련과 안전 문제에 예방적 조치를 취할 것을 당부했습니다. 이어 <b>청라<\/b> BRT 통합차고지와 교통약자 이동지원센터 강화차고지를 방문해 교통 편의를 높이기 위한 정책 추진 요구와 건의사항 등을 청취했습니다.",
-			"pubDate":"Wed, 27 Sep 2023 17:56:00 +0900"
 		}
 	]
 }
