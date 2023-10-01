@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 01 Oct 2023 10:50:02 +0900",
-	"total":213959,
+	"lastBuildDate":"Sun, 01 Oct 2023 11:00:02 +0900",
+	"total":213960,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천공항 통행료 오늘부터 '반값 이상 인하'…기존 6600원→3200원",
+			"originallink":"http:\/\/www.newsian.co.kr\/news\/articleView.html?idxno=64203",
+			"link":"http:\/\/www.newsian.co.kr\/news\/articleView.html?idxno=64203",
+			"description":"이에 따라 영종대교의 △인천공항 △북인천 △<b>청라<\/b> 영업소에서 걷는 통행료가 기존 대비 50% 이상... <b>청라<\/b>영업소도 2500원에서 20% 낮춘 2000원을 받는다. 인천시가 추진 중인 영종도 등 지역주민 할인 확대로 이날부터... ",
+			"pubDate":"Sun, 01 Oct 2023 10:52:00 +0900"
+		},
 		{
 			"title":"'황금 연휴' 후 금융권 공채 본격화… '억대 연봉'에 구직자 10명 중 8명은 취...",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3068047",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=627491",
 			"description":"이벤트 대상 역사는 가을 명소 인근에 위치한 1호선 대곡역(대구수목원), 송현역(달서별빛캠프), 2호선 <b>청라<\/b>언덕역(근대골목), 두류역(두류공원), 3호선 공단역(금호꽃섬), 수성못역(수성못)과 환승역인 반월당역, 명덕역... ",
 			"pubDate":"Thu, 28 Sep 2023 00:30:00 +0900"
-		},
-		{
-			"title":"보령시, 9월 중 열심히 일한 공무원 선정 표창",
-			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2230996",
-			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2230996",
-			"description":"<b>청라<\/b>면 이기현 주무관은 올해 여름 명대계곡에 대한 안전관리, 환경정비 등을 추진해 피서객에 안전하고 쾌적한 환경을 제공했으며, 각종 재난 발생 시 응급 복구를 지원하고 피해조사에 나서는 등 재난 극복을 위해... ",
-			"pubDate":"Thu, 28 Sep 2023 00:16:00 +0900"
 		}
 	]
 }
