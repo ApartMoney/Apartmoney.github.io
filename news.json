@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 01 Oct 2023 16:00:02 +0900",
-	"total":213967,
+	"lastBuildDate":"Sun, 01 Oct 2023 16:10:03 +0900",
+	"total":213968,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;버스비도 올랐는데…&quot; 영종대교 통행료는 내일부터 `반값`",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2023100102109963080003&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002828051?sid=101",
+			"description":"이는 <b>청라<\/b>국제도시에서 영종도를 잇는 제3연륙교(2025년 개통 예정) 개통과 연계한 분석 결과다. 미래 교통량 분석 모의실험과 영종지역 내 신용카드 매출자료 등을 활용해 도출한 것으로 △이용자 통행료 절감 효과... ",
+			"pubDate":"Sun, 01 Oct 2023 15:59:00 +0900"
+		},
 		{
 			"title":"긴 연휴 기간 해외로…인천공항 최대 인파 몰려",
 			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20231001008300641\/?input=1825m",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001941477?sid=102",
 			"description":"[김민철 \/ 인천 <b>청라<\/b>동 : 부산 가고요. 여행가게 된 계기는 연휴가 기니까…. 기분은 되게 설레고 기대되고 가서 요트도 탈 것 같고….] 올해 추석은 연휴가 엿새로 길어 이동하는 사람도 지난해보다 많을 것으로 전망됩니다.... ",
 			"pubDate":"Thu, 28 Sep 2023 17:50:00 +0900"
-		},
-		{
-			"title":"아파트, 전주比 '매매 0.07%·전세 0.11%' 상승.. 상승폭은 축소",
-			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=498916&class=1&grp=",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002316954?sid=101",
-			"description":"10%)는 <b>청라<\/b>·당하동 대단지 위주로 상승했다. 경기 역시 0.21%에서 0.14%로 상승폭이 줄었다. 용인 처인구(-0.05%)는 김량장·고림동 구도심 위주로, 구리시(-0.04%)는 수택·토평동 위주로 하락했으나, 과천시(0.40%)는... ",
-			"pubDate":"Thu, 28 Sep 2023 16:51:00 +0900"
 		}
 	]
 }
