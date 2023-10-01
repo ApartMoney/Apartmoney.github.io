@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 01 Oct 2023 09:40:02 +0900",
-	"total":213956,
+	"lastBuildDate":"Sun, 01 Oct 2023 09:50:03 +0900",
+	"total":213957,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"오늘부터 영종대교 통행료 반값…섬 주민은 20년만에 무료",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20231001001500641\/?input=1825m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000621908?sid=102",
+			"description":"북인천 영업소는 3,200원에서 1,900원, <b>청라<\/b> 영업소는 2,500원에서 2,000원으로 각각 낮아집니다. 특히 영종도와 인근 섬 주민들에게는 통행료가 전면 면제됩니다. 영종대교와 인천대교 모두 매일 왕복 1번 무료 통행이... ",
+			"pubDate":"Sun, 01 Oct 2023 09:45:00 +0900"
+		},
 		{
 			"title":"인천공항 가는길 반값에…영종대교 통행료 6600원→3200원",
 			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2023100108354088579",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=207289",
 			"description":"등 대규모 커뮤니티 시설이 조성돼 입주민의 다양한 라이프 스타일을 만족시킬 수 있다. e편한세상 검단 웰카운티의 주택전시관은 인천광역시 서구 <b>청라<\/b>동 93-4번지 일원에 있다.",
 			"pubDate":"Wed, 27 Sep 2023 18:42:00 +0900"
-		},
-		{
-			"title":"DL이앤씨, ‘e편한세상 검단 웰카운티‘ 전시 개관 3일만 1.5만 명 몰려",
-			"originallink":"http:\/\/www.thevaluenews.co.kr\/news\/view.php?idx=178648",
-			"link":"http:\/\/www.thevaluenews.co.kr\/news\/view.php?idx=178648",
-			"description":"주택전시관은 인천광역시 서구 <b>청라<\/b>동 93-4번지 일원에 위치해 있다. 운영시간 및 청약 방법은 e편한세상 공식 홈페이지에서 확인할 수 있다. 'e편한세상 검단 웹카운티' 주택전시관 방문객들이 지난 22일 내부를... ",
-			"pubDate":"Wed, 27 Sep 2023 18:26:00 +0900"
 		}
 	]
 }
