@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 01 Oct 2023 12:10:03 +0900",
-	"total":213960,
+	"lastBuildDate":"Sun, 01 Oct 2023 12:20:02 +0900",
+	"total":213961,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"국토교통부, 인천공항 영종대교 통행료 오늘부터 절반 이상 인하…6600원→32...",
+			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=305940",
+			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=305940",
+			"description":"<b>청라<\/b> 등 총 3개의 영업소가 운영되고 있다. 수도권 인천공항을 오갈 때 주로 이용하는 인천공항 영업소의 통행료는 6600원에서 3200원으로 51.5% 인하되고, 북인천 영업소는 3200원에서 1900원 요금을 40.6% 낮춘다. <b>청라<\/b>영업... ",
+			"pubDate":"Sun, 01 Oct 2023 12:12:00 +0900"
+		},
 		{
 			"title":"인천공항 통행료 오늘부터 '반값 이상 인하'…기존 6600원→3200원",
 			"originallink":"http:\/\/www.newsian.co.kr\/news\/articleView.html?idxno=64203",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2820624",
 			"description":"9월 휴무안내 2, 4째 일요일 휴무점포 (10일, 24일, 29일) • 서울 : 영등포, 금천, 합정, 서울남현, 가양, 월드컵, 동대문, 신내, 잠실, 강동, 월곡, 면목, 방학 • 인천 : 간석, 인천논현, 인천연수, 인천<b>청라<\/b>, 인천송도, 계산... ",
 			"pubDate":"Thu, 28 Sep 2023 01:18:00 +0900"
-		},
-		{
-			"title":"대구교통공사, 가을 명소 방문 인증 이벤트 마련",
-			"originallink":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=627491",
-			"link":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=627491",
-			"description":"이벤트 대상 역사는 가을 명소 인근에 위치한 1호선 대곡역(대구수목원), 송현역(달서별빛캠프), 2호선 <b>청라<\/b>언덕역(근대골목), 두류역(두류공원), 3호선 공단역(금호꽃섬), 수성못역(수성못)과 환승역인 반월당역, 명덕역... ",
-			"pubDate":"Thu, 28 Sep 2023 00:30:00 +0900"
 		}
 	]
 }
