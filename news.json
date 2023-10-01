@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 01 Oct 2023 14:20:02 +0900",
-	"total":213965,
+	"lastBuildDate":"Sun, 01 Oct 2023 14:30:02 +0900",
+	"total":213966,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"수도권 직주근접 단지 인기몰이",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310011400121570824",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310011400121570824",
+			"description":"국토교통부 실거래가 시스템 자료에 따르면 인천시 서구 일원의 ‘<b>청라<\/b>더샵레이크파크’ 전용면적 106㎡는 지난 8월 10억3500만원에 거래돼 지난 1월(8억1500만원)보다 2억2000만원 올랐다. 이 단지는 인천지하철 2호선... ",
+			"pubDate":"Sun, 01 Oct 2023 14:22:00 +0900"
+		},
 		{
 			"title":"긴 연휴 기간 해외로…인천공항 최대 인파 몰려",
 			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20231001007400641\/?input=1825m",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001941452?sid=102",
 			"description":"저희는 음식을 준비하거나 그러진 않기 때문에 가족들과 즐겁게 시간을 보낼 것 같습니다.] [김민철 \/ 인천 <b>청라<\/b>동 : 부산 가고요. 여행가게 된 계기는 연휴가 기니까…. 기분은 되게 설레고 가서 요트도 타고.] 올해는... ",
 			"pubDate":"Thu, 28 Sep 2023 15:56:00 +0900"
-		},
-		{
-			"title":"추석 연휴 본격 시작...&quot;고향 가는 발걸음 가벼워&quot;",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202309281413098985",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001941432?sid=102",
-			"description":"저희는 음식을 준비하거나 그러진 않기 때문에 가족들과 즐겁게 시간을 보낼 것 같습니다.] [김민철 \/ 인천 <b>청라<\/b>동 : 부산 가고요. 여행가게 된 계기는 연휴가 기니까…. 기분은 되게 설레고 가서 요트도 타고.] 올해는... ",
-			"pubDate":"Thu, 28 Sep 2023 14:13:00 +0900"
 		}
 	]
 }
