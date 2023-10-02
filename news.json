@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 02 Oct 2023 10:00:02 +0900",
-	"total":213974,
+	"lastBuildDate":"Mon, 02 Oct 2023 10:10:02 +0900",
+	"total":213975,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[들어보니] 공공 스포츠센터 민간 위탁 운영 실태는? | 빅벙커",
+			"originallink":"https:\/\/dgmbc.com\/article\/Xx2Fdaj8gC93VXV8srtnJ",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/657\/0000018998?sid=103",
+			"description":"대구의 경우 달서구 월배국민체육센터는 달서구체육회가, 남구국민체육센터는 대구 남구스포츠클럽이, 북구 대불스포츠센터는 대불스포츠클럽이, 중구 <b>청라<\/b>국민체육센터는 중구 <b>청라<\/b>스포츠클럽이, 달성국민체육센터는... ",
+			"pubDate":"Mon, 02 Oct 2023 10:02:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>생활권 누리는 인천 서구 연희동에 `호반써밋 파크에디션` 선착순 계약",
 			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2023092702109923065003&ref=naver",
@@ -12,17 +19,17 @@
 			"pubDate":"Mon, 02 Oct 2023 09:00:00 +0900"
 		},
 		{
-			"title":"[인천경제자유구역 20년] ②미래도시가 성큼…송도·영종·<b>청라<\/b>",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230927057700065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014232113?sid=102",
-			"description":"송도·영종·<b>청라<\/b> 중심의 인천경제자유구역은 글로벌 비즈니스와 첨단·서비스산업 허브 도약을 목표로... (인천=연합뉴스) 최은지 기자 = 인천 송도·영종·<b>청라<\/b>가 대한민국 1호 경제자유구역으로 지정된 지 어느덧... ",
-			"pubDate":"Mon, 02 Oct 2023 07:00:00 +0900"
-		},
-		{
 			"title":"[인천경제자유구역 20년] ①바다가 마천루 숲으로…세계가 주목",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230927052000065?input=1195m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014232109?sid=101",
 			"description":"송도·영종·<b>청라<\/b> 중심의 인천경제자유구역은 글로벌 비즈니스와 첨단·서비스산업 허브 도약을 목표로... 2001년 개항한 인천국제공항과 수도권 최대 무역항인 인천항을 갖춘 인천의 3개 지역(송도·영종·<b>청라<\/b>)을... ",
+			"pubDate":"Mon, 02 Oct 2023 07:00:00 +0900"
+		},
+		{
+			"title":"[인천경제자유구역 20년] ②미래도시가 성큼…송도·영종·<b>청라<\/b>",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230927057700065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014232113?sid=102",
+			"description":"송도·영종·<b>청라<\/b> 중심의 인천경제자유구역은 글로벌 비즈니스와 첨단·서비스산업 허브 도약을 목표로... (인천=연합뉴스) 최은지 기자 = 인천 송도·영종·<b>청라<\/b>가 대한민국 1호 경제자유구역으로 지정된 지 어느덧... ",
 			"pubDate":"Mon, 02 Oct 2023 07:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202309270958361220355",
 			"description":"단지는 스타필드 <b>청라<\/b>점(예정), 코스트코 <b>청라<\/b>점(예정), <b>청라<\/b> 의료복합타운(예정), 관공서 등 생활편의 시설을 이용할 수 있다. 여기에 LG전자 인천캠퍼스, 하나금융타운, 서구청 등이 인근에 있어 직주근접의 요소도... ",
 			"pubDate":"Sat, 30 Sep 2023 09:22:00 +0900"
-		},
-		{
-			"title":"맥도날드, 재활용 소재 적극 도입...글로벌 순환 경제 가속화",
-			"originallink":"https:\/\/www.theguru.co.kr\/news\/article.html?no=59603",
-			"link":"https:\/\/www.theguru.co.kr\/news\/article.html?no=59603",
-			"description":"한국맥도날드는 지난 4월 지속가능성에 중점을 두고 설계한 맥도날드 인천<b>청라<\/b>DT점을 오픈했다. 맥카페 커피 추출 후 버려지는 커피박을 20% 함유한 친환경 합성 목재로 외부 난간을 설치했다. 일반 목재보다... ",
-			"pubDate":"Sat, 30 Sep 2023 08:02:00 +0900"
 		}
 	]
 }
