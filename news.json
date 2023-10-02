@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 03 Oct 2023 08:00:02 +0900",
-	"total":213979,
+	"lastBuildDate":"Tue, 03 Oct 2023 08:10:02 +0900",
+	"total":213980,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"남부발전, 신인천복합화력 수명 연장 이사회도 승인",
+			"originallink":"https:\/\/www.theguru.co.kr\/news\/article.html?no=60690",
+			"link":"https:\/\/www.theguru.co.kr\/news\/article.html?no=60690",
+			"description":"신인천복합은 인천 서구 <b>청라<\/b>동에 위치한 발전소다. 1997년 7월 1800㎿ 규모로 준공됐다. 연간 1만2000GWh... 4월부터 2026년 8월까지다. 인천 서구 <b>청라<\/b>동 소재 한국남부발전의 신인천복합화력 전경. (사진=한국남부발전)",
+			"pubDate":"Tue, 03 Oct 2023 08:02:00 +0900"
+		},
 		{
 			"title":"가는 곳마다 콩나물시루... 인천 원도심 ‘생활SOC’ 태부족",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20230924580204",
@@ -47,17 +54,17 @@
 			"pubDate":"Mon, 02 Oct 2023 09:00:00 +0900"
 		},
 		{
-			"title":"[인천경제자유구역 20년] ①바다가 마천루 숲으로…세계가 주목",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230927052000065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014232109?sid=101",
-			"description":"송도·영종·<b>청라<\/b> 중심의 인천경제자유구역은 글로벌 비즈니스와 첨단·서비스산업 허브 도약을 목표로... 2001년 개항한 인천국제공항과 수도권 최대 무역항인 인천항을 갖춘 인천의 3개 지역(송도·영종·<b>청라<\/b>)을... ",
-			"pubDate":"Mon, 02 Oct 2023 07:00:00 +0900"
-		},
-		{
 			"title":"[인천경제자유구역 20년] ②미래도시가 성큼…송도·영종·<b>청라<\/b>",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230927057700065?input=1195m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014232113?sid=102",
 			"description":"송도·영종·<b>청라<\/b> 중심의 인천경제자유구역은 글로벌 비즈니스와 첨단·서비스산업 허브 도약을 목표로... (인천=연합뉴스) 최은지 기자 = 인천 송도·영종·<b>청라<\/b>가 대한민국 1호 경제자유구역으로 지정된 지 어느덧... ",
+			"pubDate":"Mon, 02 Oct 2023 07:00:00 +0900"
+		},
+		{
+			"title":"[인천경제자유구역 20년] ①바다가 마천루 숲으로…세계가 주목",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20230927052000065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014232109?sid=101",
+			"description":"송도·영종·<b>청라<\/b> 중심의 인천경제자유구역은 글로벌 비즈니스와 첨단·서비스산업 허브 도약을 목표로... 2001년 개항한 인천국제공항과 수도권 최대 무역항인 인천항을 갖춘 인천의 3개 지역(송도·영종·<b>청라<\/b>)을... ",
 			"pubDate":"Mon, 02 Oct 2023 07:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=728597",
 			"description":"영종대교에 있는 인천공항·북인천·<b>청라<\/b> 등 총 3개의 영업소가 있는데, 차량 등록만 하면 이들 영업소를... 또 북인천 영업소는 3200원에서 1900원(40.6%), <b>청라<\/b> 영업소는 2500원에서 2000원(20%)으로 각각 인하된다. 영종대교... ",
 			"pubDate":"Sun, 01 Oct 2023 00:06:00 +0900"
-		},
-		{
-			"title":"내일부터 영종대교 통행료 반값…섬 주민은 20년만에 무료",
-			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20230930010800641\/?input=1825m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000621880?sid=161",
-			"description":"북인천 영업소는 3,200원에서 1,900원, <b>청라<\/b> 영업소는 2,500원에서 2,000원으로 각각 낮아집니다. 특히 영종도와 인근 섬 주민들에게는 통행료가 전면 면제됩니다. 영종대교와 인천대교 모두 매일 왕복 1번 무료 통행이... ",
-			"pubDate":"Sat, 30 Sep 2023 18:15:00 +0900"
 		}
 	]
 }
