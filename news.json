@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 04 Oct 2023 00:00:02 +0900",
-	"total":214007,
+	"lastBuildDate":"Wed, 04 Oct 2023 00:10:03 +0900",
+	"total":214008,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, '내항 1·8부두 개방 기념' 시민의 날 축하 행사 열어",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=562375",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=562375",
+			"description":"2023 인천시 시민생활체육대회(10월6일), 2023 스트릿댄스 페스티벌(10월7일), <b>청라<\/b> 뮤직 &amp; 와인 페스티벌(10월14일~15일), 동인천 낭만축제(10월14일~15일), 인천 국화꽃 전시회(10월14일~31일) 등이 대표적이다. 또한... ",
+			"pubDate":"Wed, 04 Oct 2023 00:04:00 +0900"
+		},
 		{
 			"title":"대구 <b>청라<\/b>어린이집, 남산4동에 ‘이웃돕기 성금’ 기탁",
 			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=447178&part_idx=266",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000022548?sid=100",
 			"description":"원도심 중·동구를 품고 있는 중부지역의 생활권 공원은 87곳인 반면, 송도국제도시를 품은 서남지역은 118곳, <b>청라<\/b>국제도시를 품고 있는 서북지역은 220곳에 이른다. 또 인천의 공공문화시설 역시 1곳 당 7만명이... ",
 			"pubDate":"Tue, 03 Oct 2023 07:02:00 +0900"
-		},
-		{
-			"title":"인천시민의 날 행사 14일 내항 1·8부두에서",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1213890",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1213890",
-			"description":"시민행복 한마당 주간은 <b>청라<\/b> 뮤직&amp;와인 페스티벌, 인천 국화꽃 전시회, 인천 생활문화축제, 동인천 낭만축제, 온통 다문화 페스티벌 등이 준비됐다. 한편 인천항 1·8부두는 내항 재개발에 앞서 우선 열린다. 시는... ",
-			"pubDate":"Mon, 02 Oct 2023 11:16:00 +0900"
 		}
 	]
 }
