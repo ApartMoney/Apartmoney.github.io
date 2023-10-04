@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 04 Oct 2023 19:10:03 +0900",
-	"total":214090,
+	"lastBuildDate":"Wed, 04 Oct 2023 19:20:02 +0900",
+	"total":214091,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"현장 찾은 HDC현대산업개발 경영진, 추석 직후 안전관리 '고삐'",
+			"originallink":"http:\/\/www.00news.co.kr\/news\/articleView.html?idxno=80418",
+			"link":"http:\/\/www.00news.co.kr\/news\/articleView.html?idxno=80418",
+			"description":"이번 점검은 고용노동부의 추석 전후 산업 안전보건 집중관리 기간을 맞아 수원아이파크시티, 의왕초평지구지식산업센터, 보문센트럴아이파크, <b>청라<\/b>국제도시아이파크 등 현장에서 진행했다. 한편, HDC현대산업개발은... ",
+			"pubDate":"Wed, 04 Oct 2023 19:18:00 +0900"
+		},
 		{
 			"title":"이슈많은 인천, 10일부터 역대급 '국정감사' 돌입…피감기관 20여곳 긴장",
 			"originallink":"http:\/\/www.ifm.kr\/news\/370258",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=302826",
 			"description":"102역(가칭, 예정)이 있어 우수한 교통여건을 누릴 수 있으며, 단지 바로 앞으로는 유치원, 초교, 중교, 고교 부지(예정)가 있어 교육여건도 우수할 예정이다. 견본주택은 인천광역시 서구 <b>청라<\/b>동 일대에 오픈할 예정이다.",
 			"pubDate":"Wed, 04 Oct 2023 14:10:00 +0900"
-		},
-		{
-			"title":"HDC현대산업개발 최익훈·김회언 대표, 특별 안전점검 실시",
-			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2023100402109963075004&ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002828429?sid=102",
-			"description":"이번 점검은 고용노동부의 추석 전후 산업 안전보건 집중관리 기간을 맞이 해 수원아이파크시티, 의왕초평지구지식산업센터, 보문센트럴아이파크, <b>청라<\/b>국제도시아이파크 등의 현장에서 진행했다.",
-			"pubDate":"Wed, 04 Oct 2023 14:03:00 +0900"
 		}
 	]
 }
