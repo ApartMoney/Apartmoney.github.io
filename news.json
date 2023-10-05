@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Thu, 05 Oct 2023 15:00:02 +0900",
-	"total":214154,
+	"lastBuildDate":"Thu, 05 Oct 2023 15:10:02 +0900",
+	"total":214157,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘시내버스 늘리고 태그리스 도입’…인천시, 요금 인상 맞춰 버스 이용 서비...",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=765229",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=765229",
+			"description":"교통혼잡지역 2024년까지 시내버스 16개·노선 59대 확충 내년 1월부터 검단~강남, <b>청라<\/b>~양재꽃시장 M버스... 내년 1월부터는 서울 출·퇴근 불편 해소를 위해 검단~강남, <b>청라<\/b>~양재꽃시장 간 2개 광역 M버스 노선 운행을... ",
+			"pubDate":"Thu, 05 Oct 2023 15:06:00 +0900"
+		},
+		{
+			"title":"호반건설, “호반써밋 파크에디션 선착순 계약”",
+			"originallink":"https:\/\/www.hellot.net\/news\/article.html?no=82689",
+			"link":"https:\/\/www.hellot.net\/news\/article.html?no=82689",
+			"description":"이 단지는 인천 <b>청라<\/b>국제도시 옆에 위치해 스타필드 <b>청라<\/b>점(예정), 코스트코 <b>청라<\/b>점(예정), <b>청라<\/b> 의료복합타운(예정), 관공서 등 생활편의 시설을 이용할 수 있으며, LG전자 인천캠퍼스, 하나금융타운, 서구청 등이... ",
+			"pubDate":"Thu, 05 Oct 2023 15:04:00 +0900"
+		},
+		{
+			"title":"[인천 주요 뉴스]인천시, 버스 요금 인상 맞춰 시설·서비스 개선",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6023239",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003819759?sid=102",
+			"description":"또 내년 1월부터 검단을 출발해 강남에 도착하고, <b>청라<\/b>에서 출발해 양재꽃시장으로 향하는 광역 M버스 2개 노선을 신설하고, 교통약자 편의를 위해 기존 661대였던 저상버스를 2026년까지 1,345대로 늘릴 방침입니다.... ",
+			"pubDate":"Thu, 05 Oct 2023 15:02:00 +0900"
+		},
 		{
 			"title":"인천시, 시민 행복 체감 '버스 이용 서비스' 개선 추진",
 			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20231005500467",
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20231005010000825",
 			"description":"내년 1월부터는 서울 출·퇴근 불편 해소를 위해 검단~강남, <b>청라<\/b>~양재꽃시장 간 2개 광역 M버스 노선 운행이 개시되며, 올해 추가 신설 요청한 노선은 10월에 신설 여부가 결정 날 예정이다. 세 번째로, 어르신, 장애인... ",
 			"pubDate":"Thu, 05 Oct 2023 11:32:00 +0900"
-		},
-		{
-			"title":"인천시, 시민 행복 체감 버스 이용 서비스 개선 추진",
-			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202310050062",
-			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202310050062",
-			"description":"2024년 1월 서울 출·퇴근 불편 해소를 위해 검단~강남, <b>청라<\/b>~양재꽃시장 간 2개 광역 M버스 노선 운행이 개시된다. 어르신, 장애인, 임산부 등 교통약자 이동편의 증진을 위해 시내버스 교통약자 배려석에 그림문자... ",
-			"pubDate":"Thu, 05 Oct 2023 11:30:00 +0900"
-		},
-		{
-			"title":"'구도 인천'의 뜨거운 야구 열기…SSG, 창단 첫 100만 관중 달성",
-			"originallink":"http:\/\/www.stoo.com\/article.php?aid=89421653251",
-			"link":"http:\/\/www.stoo.com\/article.php?aid=89421653251",
-			"description":"올해 100만 관중이라는 첫 이정표를 세운 SSG는 '세상에 없던 프로야구단'의 실현과 <b>청라<\/b>돔 건설 등 인천의 새로운 '랜드마크'로서 프로야구산업에 새로운 비전을 제시하기 위한 노력을 꾸준히 이어갈 예정이다.... ",
-			"pubDate":"Thu, 05 Oct 2023 11:24:00 +0900"
-		},
-		{
-			"title":"인천시, 버스 요금 인상 맞춰 시설·서비스 개선",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20231005069500065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014239656?sid=102",
-			"description":"또 내년 1월부터 검단∼강남과 <b>청라<\/b>∼양재꽃시장 등 2개 노선의 광역 M버스 운행도 시작한다. 시는 교통약자 편의를 위해 661대에 불과한 저상버스를 2026년까지 1천345대로 늘리고, 카드를 직접 대지 않아도 되는... ",
-			"pubDate":"Thu, 05 Oct 2023 11:18:00 +0900"
 		}
 	]
 }
