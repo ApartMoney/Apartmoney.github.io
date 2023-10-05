@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 05 Oct 2023 22:40:02 +0900",
-	"total":214192,
+	"lastBuildDate":"Thu, 05 Oct 2023 22:50:02 +0900",
+	"total":214193,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"충전 USB·공기청정기… 인천 시민행복버스 ‘부릉’",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20231005523919?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003861918?sid=102",
+			"description":"내년 1월에 검단∼강남, <b>청라<\/b>∼양재꽃시장 2개 광역급행 M버스 노선 운행이 개시될 것으로 보인다. 인천시민들의 서울 출퇴근 불편 해소를 위한 목적이다. 이달 중 신설 여부가 결정난다. 어르신, 장애인, 임산부 등... ",
+			"pubDate":"Thu, 05 Oct 2023 22:47:00 +0900"
+		},
 		{
 			"title":"인천시 영종·송도·<b>청라<\/b>·검단 버스노선 증설",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1052164",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005589075?sid=102",
 			"description":"내년 1월부터는 서울 출·퇴근 불편 해소를 위해 검단~강남, <b>청라<\/b>~양재꽃시장 간 2개 광역 M버스 노선을 운행한다. 시는 올해 시내버스 교통약자 배려석에 그림문자(픽토그램) 활용 교통약자석 등받이 커버를 설치하고... ",
 			"pubDate":"Thu, 05 Oct 2023 16:28:00 +0900"
-		},
-		{
-			"title":"인천시, 시민 행복 체감 '버스 이용 서비스' 개선 추진",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=985156",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=985156",
-			"description":"내년 1월에는 서울 출·퇴근 불편 해소를 위해 검단~강남, <b>청라<\/b>~양재꽃시장 간 2개 광역 M버스 노선 운행이 개시되며 올해 추가 신설 요청한 노선은 10월 신설 여부가 결정날 예정이다. 어르신, 장애인, 임산부 등... ",
-			"pubDate":"Thu, 05 Oct 2023 16:14:00 +0900"
 		}
 	]
 }
