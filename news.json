@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 05 Oct 2023 20:40:02 +0900",
-	"total":214191,
+	"lastBuildDate":"Thu, 05 Oct 2023 20:50:02 +0900",
+	"total":214192,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 영종·송도·<b>청라<\/b>·검단 버스노선 증설",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1052164",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1052164",
+			"description":"택지개발, 산업단지 조성에 따른 인구 유입으로 교통편의성이 떨어진 교통 혼잡지역 영종·송도·<b>청라<\/b>에... 그리고 내년 1월에는 서울 출퇴근 불편을 해소하려고 검단~강남, <b>청라<\/b>~양재꽃시장 2개 광역 M버스 노선을... ",
+			"pubDate":"Thu, 05 Oct 2023 20:42:00 +0900"
+		},
 		{
 			"title":"[단독] 경찰, 1조5천억 규모 '<b>청라<\/b>단지 개발' 비리 의혹 수사 착수",
 			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12146820",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=985156",
 			"description":"내년 1월에는 서울 출·퇴근 불편 해소를 위해 검단~강남, <b>청라<\/b>~양재꽃시장 간 2개 광역 M버스 노선 운행이 개시되며 올해 추가 신설 요청한 노선은 10월 신설 여부가 결정날 예정이다. 어르신, 장애인, 임산부 등... ",
 			"pubDate":"Thu, 05 Oct 2023 16:14:00 +0900"
-		},
-		{
-			"title":"'창단 첫 100만 달성' SSG, '구도 인천' 야구 열기로 프로야구 흥행 몰이 견인",
-			"originallink":"https:\/\/www.starnewskorea.com\/stview.php?no=2023100109583419320",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=108&aid=0003185879",
-			"description":"올해 100만 관중이라는 첫 이정표를 세운 SSG는 '세상의 없던 프로야구단'의 실현과 <b>청라<\/b>돔 건설 등 인천의 새로운 '랜드마크'로서 프로야구산업에 새로운 비전을 제시하기 위한 노력을 꾸준히 이어갈 예정이다.",
-			"pubDate":"Thu, 05 Oct 2023 16:05:00 +0900"
 		}
 	]
 }
