@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 05 Oct 2023 12:10:02 +0900",
-	"total":214136,
+	"lastBuildDate":"Thu, 05 Oct 2023 12:20:02 +0900",
+	"total":214137,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 재개발·재건축 평당 평균 분양가 1793만원… 3년 새 35.4% 상승",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20231005000492",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002206123?sid=102",
+			"description":"허종식 의원은 “송도, <b>청라<\/b> 등 인천경제자유구역과 검단신도시 등 대규모 택지개발사업으로 원도심 공동화 현상이 빚어졌다”며 “인천 원도심 정비사업 활성화와 무주택 서민의 수요에 부응할 수 있는... ",
+			"pubDate":"Thu, 05 Oct 2023 12:17:00 +0900"
+		},
 		{
 			"title":"인천시, 시민 행복 체감 '버스 이용 서비스' 개선 방안 마련",
 			"originallink":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=67277",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012128252?sid=102",
 			"description":"또 2024년 1월에는 서울 출·퇴근 불편 해소를 위해 검단~강남, <b>청라<\/b>~양재꽃시장 간 2개 광역 M버스 노선 운행이 개시되며, 2023년도에 추가 신설 요청한 노선은 10월에 신설 여부가 결정 날 예정이다. 연내, 시내버스... ",
 			"pubDate":"Thu, 05 Oct 2023 10:34:00 +0900"
-		},
-		{
-			"title":"인천 재개발·재건축 3.3㎡당 평균 분양가 1793만원…3년 새 35.4%↑",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20231005_0002472129&cID=10802&pID=14000",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012128232?sid=102",
-			"description":"송도와 <b>청라<\/b> 등 인천경제자유구역에선 재개발·재건축이 추진되지 않고 있는 만큼, 이번 통계를 인천... 허종식 의원은 “송도·<b>청라<\/b> 등 인천경제자유구역과 검단신도시 등 대규모 택지개발사업으로 원도심 공동화... ",
-			"pubDate":"Thu, 05 Oct 2023 10:30:00 +0900"
 		}
 	]
 }
