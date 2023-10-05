@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 05 Oct 2023 17:40:02 +0900",
-	"total":214178,
+	"lastBuildDate":"Thu, 05 Oct 2023 17:50:02 +0900",
+	"total":214179,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 시내버스·M버스 노선 확대",
+			"originallink":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2023\/10\/05\/2023100500270.html",
+			"link":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2023\/10\/05\/2023100500270.html",
+			"description":"내년 1월부터는 서울 출·퇴근 불편 해소를 위해 검단~강남, <b>청라<\/b>~양재꽃시장 간 2개 광역 M버스 노선을 운행한다. 시는 올해 시내버스 교통약자 배려석에 그림문자(픽토그램) 활용 교통약자석 등받이 커버를 설치하고... ",
+			"pubDate":"Thu, 05 Oct 2023 17:42:00 +0900"
+		},
 		{
 			"title":"인하대병원, 인천시민과 함께 하는 '생명존중 콘서트' 성료",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363614205",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1054616",
 			"description":"또한, 2024년 1월에는 서울 출·퇴근 불편 해소를 위해 검단~강남, <b>청라<\/b>~양재꽃시장 간 2개 광역 M버스 노선 운행이 개시되며, 2023년도에 추가 신설 요청한 노선은 10월에 신설 여부가 결정 날 예정이다. 세 번째로, 어르신... ",
 			"pubDate":"Thu, 05 Oct 2023 14:20:00 +0900"
-		},
-		{
-			"title":"인천시, 버스 요금 인상 맞춰 시설·서비스 개선",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=7786914&ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011576885?sid=102",
-			"description":"또, 내년 1월부터 검단∼서울 강남과 <b>청라<\/b>∼서울 양재꽃시장 등 2개 노선의 광역 M버스 운행도 시작합니다. 인천시는 이와 함께, 장애인 등 교통약자들의 편의를 위해 661대에 불과한 저상버스를 2026년까지... ",
-			"pubDate":"Thu, 05 Oct 2023 14:16:00 +0900"
 		}
 	]
 }
