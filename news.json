@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Thu, 05 Oct 2023 10:40:02 +0900",
-	"total":214109,
+	"lastBuildDate":"Thu, 05 Oct 2023 10:50:03 +0900",
+	"total":214115,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"10월 7일부터 인천 대중교통 요금 인상... &quot;버스 서비스 개선&quot;",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=235072",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=235072",
+			"description":"2024년 1월부터 서울 출·퇴근 불편 해소를 위해 검단~강남, <b>청라<\/b>~양재꽃시장 등 광역M버스 노선 2개 운행을 개시하며, 올해 추가 신설 요청한 노선에 대해선 국토교통부 대도시권광역교통위원회와 협의하고 있다.... ",
+			"pubDate":"Thu, 05 Oct 2023 10:48:00 +0900"
+		},
+		{
+			"title":"인천시, 시민 행복 체감 ‘버스 이용 서비스’ 개선 추진",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1767797",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1767797",
+			"description":"또한 2024년 1월에는 서울 출·퇴근 불편 해소를 위해 검단~강남, <b>청라<\/b>~양재꽃시장 간 2개 광역 M버스 노선 운행이 개시되며, 2023년도에 추가 신설 요청한 노선은 10월에 신설 여부가 결정날 예정이다. 세 번째로 어르신... ",
+			"pubDate":"Thu, 05 Oct 2023 10:46:00 +0900"
+		},
+		{
+			"title":"인천 재개발·재건축 평균 분양가 3년 새 35% 상승",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20231005500055&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003398071?sid=101",
+			"description":"허 의원은 “송도 <b>청라<\/b> 등 경제자유구역과 검단신도시 등 대규모 택지개발사업으로 원도심 공동화 현상이 빚어졌다”며 “인천 원도심 정비사업 활성화와 무주택 서민의 수요에 부응할 수 있는 수립해 나가야... ",
+			"pubDate":"Thu, 05 Oct 2023 10:46:00 +0900"
+		},
+		{
+			"title":"인천시, 시민 행복 체감 ‘버스 이용 서비스’개선 추진",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310051033276130507",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310051033276130507",
+			"description":"또한, 2024년 1월에는 서울 출·퇴근 불편 해소를 위해 검단~강남, <b>청라<\/b>~양재꽃시장 간 2개 광역 M버스 노선 운행이 개시되며, 2023년도에 추가 신설 요청한 노선은 10월에 신설 여부가 결정 날 예정이다. 세 번째로, 어르신... ",
+			"pubDate":"Thu, 05 Oct 2023 10:42:00 +0900"
+		},
+		{
+			"title":"인천 재개발·재건축 분양가 35% 상승 &quot;서민수요 부응해야&quot;",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=235067",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=235067",
+			"description":"허종식 의원은 송도·<b>청라<\/b> 등 인천경제자유구역에서 재개발·재건축이 추진되고 있지 않아 이번 통계를... 허종식 의원은 &quot;송도·<b>청라<\/b> 등 인천경제자유구역과 검단신도시 등 대규모 택지개발로 원도심 공동화 현상이... ",
+			"pubDate":"Thu, 05 Oct 2023 10:40:00 +0900"
+		},
+		{
+			"title":"인천시, 대중교통 요금인상 관련 버스 이용 서비스 개선 추진",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/891888",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/891888",
+			"description":"또한, 2024년 1월에는 서울 출·퇴근 불편 해소를 위해 검단~강남, <b>청라<\/b>~양재꽃시장 간 2개 광역 M버스 노선 운행이 개시되며, 2023년도에 추가 신설 요청한 노선은 10월에 신설 여부가 결정 날 예정이다. 세 번째로, 어르신... ",
+			"pubDate":"Thu, 05 Oct 2023 10:40:00 +0900"
+		},
 		{
 			"title":"인천 재개발 ‧ 재건축 분양가 3 년간 35.4% … 서울 8.2% ‧ 경기도 26.3% 비...",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=414442",
@@ -171,48 +213,6 @@
 			"link":"http:\/\/theviewers.co.kr\/View.aspx?No=2963831",
 			"description":"이번 점검은 고용노동부의 추석 전후 산업 안전보건 집중관리 기간을 맞이해 수원아이파크시티, 의왕초평지구지식산업센터, 보문센트럴아이파크, <b>청라<\/b>국제도시아이파크 등의 현장에서 진행했다. 최익훈... ",
 			"pubDate":"Wed, 04 Oct 2023 17:18:00 +0900"
-		},
-		{
-			"title":"HDC현대산업개발, 추석 연휴 직후 현장 안전 만전..경영진 특별 안전점검 실시",
-			"originallink":"http:\/\/kpenews.com\/View.aspx?No=2963804",
-			"link":"http:\/\/kpenews.com\/View.aspx?No=2963804",
-			"description":"지난해 6월부터는 경영진이 직접 특별안전점검을 주관했다. 이번 점검은 ▲수원아이파크시티 ▲의왕초평지구지식산업센터 ▲보문센트럴아이파크 ▲<b>청라<\/b>국제도시아이파크 등의 현장에서 실시됐다.",
-			"pubDate":"Wed, 04 Oct 2023 17:04:00 +0900"
-		},
-		{
-			"title":"인천 내항 140년만에 개방…14일 '인천 하버 페스타 2023' 공연",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1279376\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002754809?sid=102",
-			"description":"6일 인천시 시민생활 체육대회를 시작으로 7일 스트리트댄스 페스티벌, 14일 <b>청라<\/b> 뮤직&amp;와인 페스티벌, 14∼15일 동인천 낭만 축제 등이 연이어 열린다. 인천시 관계자는 &quot;올해 시민의 날 기념행사는 140년 만에 시민... ",
-			"pubDate":"Wed, 04 Oct 2023 17:01:00 +0900"
-		},
-		{
-			"title":"HDC현대산업개발 경영진, 추석 연휴 직후 특별 안전점검",
-			"originallink":"https:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=101731",
-			"link":"https:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=101731",
-			"description":"이번 점검은 고용노동부의 추석 전후 산업 안전보건 집중관리 기간을 맞이해 수원아이파크시티, 의왕초평지구지식산업센터, 보문센트럴아이파크, <b>청라<\/b>국제도시아이파크 등의 현장에서 진행했다. 한편... ",
-			"pubDate":"Wed, 04 Oct 2023 16:56:00 +0900"
-		},
-		{
-			"title":"HDC현대산업개발 경영진, 추석연휴 직후 특별 안전점검",
-			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2048589",
-			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2048589",
-			"description":"이번 점검은 고용노동부의 추석 전후 산업 안전보건 집중관리 기간을 맞아 수원아이파크시티, 의왕초평지구지식산업센터, 보문센트럴아이파크, <b>청라<\/b>국제도시아이파크 등의 현장에서 진행했다. 김 대표는 &quot;최근... ",
-			"pubDate":"Wed, 04 Oct 2023 16:54:00 +0900"
-		},
-		{
-			"title":"HDC현대산업개발, 경영진 특별 안전점검 실시…고위험 공종 집중점검",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29VTVSM05A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004245099?sid=101",
-			"description":"이번 점검은 고용노동부의 추석 전후 산업 안전보건 집중관리 기간을 맞이해 수원아이파크시티, 의왕초평지구지식산업센터, 보문센트럴아이파크, <b>청라<\/b>국제도시아이파크 등의 현장에서 진행됐다.",
-			"pubDate":"Wed, 04 Oct 2023 16:47:00 +0900"
-		},
-		{
-			"title":"HDC현대산업개발, 추석연휴 직후 경영진 특별 안전점검 실시",
-			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=517038",
-			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=517038",
-			"description":"이번 점검은 고용노동부의 추석 전후 산업 안전보건 집중관리 기간을 맞이해 수원아이파크시티, 의왕초평지구지식산업센터, 보문센트럴아이파크, <b>청라<\/b>국제도시아이파크 등의 현장에서 진행했다.",
-			"pubDate":"Wed, 04 Oct 2023 16:34:00 +0900"
 		}
 	]
 }
