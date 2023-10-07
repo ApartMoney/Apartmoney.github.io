@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 07 Oct 2023 10:30:02 +0900",
-	"total":214246,
+	"lastBuildDate":"Sat, 07 Oct 2023 10:40:02 +0900",
+	"total":214247,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서구문화원, 12일부터 서곶옹기 전시회 열어",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=235111",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=235111",
+			"description":"인천투데이=장호영 기자｜인천 서구문화원(원장 정군섭)이 오는 12일부터 4일 간 서구 <b>청라<\/b>동 소재 '<b>청라<\/b>블루노바홀' 지하 1층 전시실에서 '서구의 구수한 큰 맛, 서곶옹기' 전시회를 연다고 8일 밝혔다. 이 전시회는... ",
+			"pubDate":"Sat, 07 Oct 2023 10:30:00 +0900"
+		},
 		{
 			"title":"[IPO] 반도체 공정부품 특수코팅 '그린리소스', 11월 상장 추진…공정수율 높...",
 			"originallink":"http:\/\/www.the-stock.kr\/news\/articleView.html?idxno=18992",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1768579",
 			"description":"SK인천석유화학은 지난해 서구지역 작은도서관 12곳에 2400권의 책을 기부한 데 이어 올해는 서구 석남동, <b>청라<\/b>동, 신현원창동, 가정동, 연희동, 검암경서동 등 14개 작은도서관에 환경부 선정 우수 환경도서 등 1400권을... ",
 			"pubDate":"Fri, 06 Oct 2023 16:28:00 +0900"
-		},
-		{
-			"title":"경찰, 특혜 의혹 불거진 <b>청라<\/b>영상단지 사업 곧 내사 착수",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1214507",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1214507",
-			"description":"▲ <b>청라<\/b> 영상·문화복합단지 조감도. \/인천일보DB 인천 <b>청라<\/b> 영상·문화복합단지 사업자 선정 과정에서 불거진 특혜 의혹(인천일보 9월13일자 7면 '특혜 잡음 <b>청라<\/b>영상단지, 경찰 수사 본격화 조짐')에 대해 경찰이 내사에... ",
-			"pubDate":"Fri, 06 Oct 2023 16:20:00 +0900"
 		}
 	]
 }
