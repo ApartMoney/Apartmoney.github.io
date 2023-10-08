@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 08 Oct 2023 16:20:02 +0900",
-	"total":214255,
+	"lastBuildDate":"Sun, 08 Oct 2023 16:30:02 +0900",
+	"total":214256,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'검단 디에트로 더에듀', 전용 59㎡에 30~40대 신혼부부 '엄지 척'",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=238961",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=238961",
+			"description":"인천 서구 <b>청라<\/b>동에 자리한 '검단신도시 디에트르 더에듀'에 임시 개관한 전용 59㎡ A형을 보기 위해... 7일 인천 광역시 서구 <b>청라<\/b>동 167-25번지 <b>청라<\/b>국제도서관 앞에 자리한 이 아파트 모델하우스에는 신혼부부와... ",
+			"pubDate":"Sun, 08 Oct 2023 16:28:00 +0900"
+		},
 		{
 			"title":"[영상] 인천철도 현안⑤ | GTX-D Y자, 국토부 확충기획 용역 '기대'",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=235029",
@@ -152,17 +159,17 @@
 			"pubDate":"Sat, 07 Oct 2023 06:32:00 +0900"
 		},
 		{
-			"title":"[포토] 최지선 '골밑으로 가자'",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89920",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071559",
-			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 최지선이 골밑 돌파를 시도하고 있다.",
-			"pubDate":"Sat, 07 Oct 2023 06:31:00 +0900"
-		},
-		{
 			"title":"[포토] 김도완 감독 '집중해야해'",
 			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89919",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071558",
 			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 김도완 감독이 작전을 지시하고 있다.",
+			"pubDate":"Sat, 07 Oct 2023 06:31:00 +0900"
+		},
+		{
+			"title":"[포토] 최지선 '골밑으로 가자'",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89920",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071559",
+			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 최지선이 골밑 돌파를 시도하고 있다.",
 			"pubDate":"Sat, 07 Oct 2023 06:31:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=477&aid=0000454448",
 			"description":"구본철은 이번 대회를 응원한 예비 신부와 결혼을 앞두고 있으며 인천 <b>청라<\/b>에 체육관 개관도 예정되어 있다. 구본철은 &quot;내년 6월에 결혼한다. 좋은 선물이 될 것 같다&quot;고 활짝 웃었다. 앞서 열린 여자 52kg급 동메달... ",
 			"pubDate":"Sat, 07 Oct 2023 06:11:00 +0900"
-		},
-		{
-			"title":"인천 교통요금 오늘부터 지하철 1,400원·버스 1,500원",
-			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202310070218&t=NN",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001128285?sid=102",
-			"description":"또 내년 1월부터 검단∼강남과 <b>청라<\/b>∼양재꽃시장 등 2개 노선의 광역 M버스 운행도 시작한다. 시는 2026년까지 저상버스를 기존 661대에서 1천345대로 늘리고 카드를 직접 대지 않아도 되는 '태그리스' 승차... ",
-			"pubDate":"Sat, 07 Oct 2023 05:59:00 +0900"
 		}
 	]
 }
