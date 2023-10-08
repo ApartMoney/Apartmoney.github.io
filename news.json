@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 08 Oct 2023 15:40:02 +0900",
-	"total":214254,
+	"lastBuildDate":"Sun, 08 Oct 2023 15:50:02 +0900",
+	"total":214255,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[영상] 인천철도 현안⑤ | GTX-D Y자, 국토부 확충기획 용역 '기대'",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=235029",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=235029",
+			"description":"GTX-D Y자 노선은 영종도(인천국제공항)에서 출발해 서구 <b>청라<\/b>·가정 지구를 거쳐, 김포·검단·계양에서 오는 노선과 부천종합운동장에서 만나 서울 구로구와 서초구, 강남구 등을 지나 삼성역에서 다시 Y자로 분기해... ",
+			"pubDate":"Sun, 08 Oct 2023 15:40:00 +0900"
+		},
 		{
 			"title":"인천 서구, 제27회 노인의날 기념식 성료",
 			"originallink":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=207812",
@@ -145,17 +152,17 @@
 			"pubDate":"Sat, 07 Oct 2023 06:32:00 +0900"
 		},
 		{
-			"title":"[포토] 최지선 '골밑으로 가자'",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89920",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071559",
-			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 최지선이 골밑 돌파를 시도하고 있다.",
-			"pubDate":"Sat, 07 Oct 2023 06:31:00 +0900"
-		},
-		{
 			"title":"[포토] 김도완 감독 '집중해야해'",
 			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89919",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071558",
 			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 김도완 감독이 작전을 지시하고 있다.",
+			"pubDate":"Sat, 07 Oct 2023 06:31:00 +0900"
+		},
+		{
+			"title":"[포토] 최지선 '골밑으로 가자'",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89920",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071559",
+			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 최지선이 골밑 돌파를 시도하고 있다.",
 			"pubDate":"Sat, 07 Oct 2023 06:31:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001128285?sid=102",
 			"description":"또 내년 1월부터 검단∼강남과 <b>청라<\/b>∼양재꽃시장 등 2개 노선의 광역 M버스 운행도 시작한다. 시는 2026년까지 저상버스를 기존 661대에서 1천345대로 늘리고 카드를 직접 대지 않아도 되는 '태그리스' 승차... ",
 			"pubDate":"Sat, 07 Oct 2023 05:59:00 +0900"
-		},
-		{
-			"title":"인천 교통요금 인상…지하철 1천400원·버스 1천500원",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=985317",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=985317",
-			"description":"또 내년 1월부터 검단∼강남과 <b>청라<\/b>∼양재꽃시장 등 2개 노선의 광역 M버스 운행도 시작한다. 시는 2026년까지 저상버스를 기존 661대에서 1345대로 늘리고 카드를 직접 대지 않아도 되는 '태그리스' 승차 시스템도... ",
-			"pubDate":"Sat, 07 Oct 2023 05:18:00 +0900"
 		}
 	]
 }
