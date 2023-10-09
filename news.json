@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 09 Oct 2023 15:10:02 +0900",
-	"total":214266,
+	"lastBuildDate":"Mon, 09 Oct 2023 15:20:02 +0900",
+	"total":214267,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&lt;현지 르포&gt;20-30세대의 해방구로 정착...“수도권, 인천시 영종도를 가다!”",
+			"originallink":"http:\/\/www.breaknews.com\/991302",
+			"link":"http:\/\/www.breaknews.com\/991302",
+			"description":"그래서, 그나마 낫다는 인천시의 <b>청라<\/b>-송도-영종으로 눈을 돌렸다. 운서역 1, 2번... 셋째, 영종-<b>청라<\/b> 국제도시-송도 신도시 학군과 병원 등의 접근성이 쉽다. 공항철도... ",
+			"pubDate":"Mon, 09 Oct 2023 15:10:00 +0900"
+		},
 		{
 			"title":"인천해양경찰서 <b>청라<\/b> 이전 차질 우려…청사 신축 지연",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20231006101100065?input=1195m",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071564",
 			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 고서연이 슛을 시도하고 있다.",
 			"pubDate":"Sat, 07 Oct 2023 06:37:00 +0900"
-		},
-		{
-			"title":"[포토] 고서연 '이 악물고 뛴다'",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89924",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071563",
-			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 고서연이 골밑 돌파를 시도하고 있다.",
-			"pubDate":"Sat, 07 Oct 2023 06:36:00 +0900"
 		}
 	]
 }
