@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 09 Oct 2023 10:10:02 +0900",
-	"total":214258,
+	"lastBuildDate":"Mon, 09 Oct 2023 10:20:02 +0900",
+	"total":214259,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"SK인천석유화학과 함께 그리는 친환경 미래",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1768837",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1768837",
+			"description":"SK인천석유화학은 지난해 서구지역 작은도서관 12곳에 2400권의 책을 기부한데 이어 올해는 서구 석남동, <b>청라<\/b>동, 신현원창동, 가정동, 연희동, 검암경서동 등 14개 작은도서관에 환경부 선정 우수 환경도서 등 1400권을... ",
+			"pubDate":"Mon, 09 Oct 2023 10:16:00 +0900"
+		},
 		{
 			"title":"유동성 스쳐간 자리엔 공실뿐…자영업자 쓰러지자 텅 빈 상권[벼랑 끝에 선 자...",
 			"originallink":"https:\/\/magazine.hankyung.com\/business\/article\/202309273107b",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071556",
 			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 김하나가 골밑 공격을 시도하고 있다.",
 			"pubDate":"Sat, 07 Oct 2023 06:29:00 +0900"
-		},
-		{
-			"title":"[포토] 고서연 '림만 보고 올라간다'",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89915",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071554",
-			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 고서연이 골밑 공격을 시도하고 있다.",
-			"pubDate":"Sat, 07 Oct 2023 06:28:00 +0900"
 		}
 	]
 }
