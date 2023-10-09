@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 10 Oct 2023 08:20:02 +0900",
-	"total":214278,
+	"lastBuildDate":"Tue, 10 Oct 2023 08:30:03 +0900",
+	"total":214279,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"건원엔지니어링, 부산롯데타워 건축 감리용역 수주",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310090951032760274",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310090951032760274",
+			"description":"서울 삼성동의 GBC(569m)를 비롯해 △<b>청라<\/b>시티타워(448m) △여의도 Parc,1(322m) △부산국제금융센터 BIFC(289m) △서울국제금융센터 SIFC(285m) △TP Tower(220m)에 이어 부산롯데타워(342m)까지 수주하며 초고층 프로젝트... ",
+			"pubDate":"Tue, 10 Oct 2023 08:22:00 +0900"
+		},
 		{
 			"title":"[개청 20주년]대한민국 경제성장 이끈 인천경제청, 새로운 대도약 시작",
 			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20231007000166",
@@ -68,17 +75,17 @@
 			"pubDate":"Mon, 09 Oct 2023 17:12:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b>1동 개성 가득 '마을 그림지도' 탄생",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1214680",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1214680",
-			"description":"&quot; 박철민(55·사진) 인천 서구 <b>청라<\/b>1동 주민자치회장은 최근 마을 주민, 작가들과 함께 마을 그림지도를 제작했다. 마을 내 아파트와 학교 등 동네 곳곳을 직접 그린 그림들이 모여 <b>청라<\/b>1동만의 개성 가득한 마을 지도로... ",
-			"pubDate":"Mon, 09 Oct 2023 16:48:00 +0900"
-		},
-		{
 			"title":"[신용석의 지구촌 in 인천⑥] <b>청라<\/b>달튼외국인학교",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1214647",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1214647",
 			"description":"▲이옥식(왼쪽) 봉덕학원 이사장과 신용석인천경제자유구역청 국제협력특보가 지난달 초 인천 서구 <b>청라<\/b>달튼외국인학교에서 대담을 나누고 있다. 국내 법인이 세운 최초 외국인학교로 인천 <b>청라<\/b>국제도시에 들어선... ",
+			"pubDate":"Mon, 09 Oct 2023 16:48:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>1동 개성 가득 '마을 그림지도' 탄생",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1214680",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1214680",
+			"description":"&quot; 박철민(55·사진) 인천 서구 <b>청라<\/b>1동 주민자치회장은 최근 마을 주민, 작가들과 함께 마을 그림지도를 제작했다. 마을 내 아파트와 학교 등 동네 곳곳을 직접 그린 그림들이 모여 <b>청라<\/b>1동만의 개성 가득한 마을 지도로... ",
 			"pubDate":"Mon, 09 Oct 2023 16:48:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0000953470?sid=101",
 			"description":"서울아산병원과 연세의료원도 인천 <b>청라<\/b>와 송도에 각각 800병상 이상 분원을 건립한다. 전문가들은 대학병원들의 수도권 분원으로 인해 지역, 나아가 중소병원들과의 의료격차가 심화할 것으로 예측한다. 특히... ",
 			"pubDate":"Sun, 08 Oct 2023 06:40:00 +0900"
-		},
-		{
-			"title":"[르포] &quot;급한 김에 고시원이라도&quot;… '병원 찾아 삼만리' 신촌 한달 숙박에만 ...",
-			"originallink":"http:\/\/moneys.mt.co.kr\/news\/mwView.php?no=2023100607442019010",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0000953468?sid=101",
-			"description":"서울아산병원도 2027년 인천경제자유구역 <b>청라<\/b>의료복합타운에 조성될 서울아산<b>청라<\/b>병원(가칭) 또는 서울 송파구 본원 중 한 곳에 중입자치료기를 도입하는 것을 검토 중이다. 세브란스병원 중입자치료센터는 현재... ",
-			"pubDate":"Sun, 08 Oct 2023 06:30:00 +0900"
 		}
 	]
 }
