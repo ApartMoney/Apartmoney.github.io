@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 09 Oct 2023 12:40:02 +0900",
-	"total":214259,
+	"lastBuildDate":"Mon, 09 Oct 2023 12:50:02 +0900",
+	"total":214260,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[기업탐방] &quot;오! 이건 왜 하는 거예요?&quot; 물으니 &quot;그냥 멋이죠&quot;",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1768906",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1768906",
+			"description":"1시간가량 달려 인천 <b>청라<\/b>를 지나 목적지에 다다르자 공장인지 창고인지 비슷한 건물들이 모여 있다. 내비게이션이 어련히 잘 알려주겠냐마는 마지막 집중력을 발휘해야 여기가 저기 같고 저기가 여기 같은 이곳에서... ",
+			"pubDate":"Mon, 09 Oct 2023 12:42:00 +0900"
+		},
 		{
 			"title":"인천 서곶그린공원서 21일 '친환경 독후감상화 그리기 축제'",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=235140",
@@ -138,17 +145,17 @@
 			"pubDate":"Sat, 07 Oct 2023 06:41:00 +0900"
 		},
 		{
-			"title":"[포토] 엄서이 '시즌 땐 코트에 있을거야'",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89927",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071566",
-			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 엄서이가 재활훈련을 하고 있다.",
-			"pubDate":"Sat, 07 Oct 2023 06:40:00 +0900"
-		},
-		{
 			"title":"[포토] 박소희 '복귀를 꿈꾼다'",
 			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89926",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071565",
 			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 박소희가 드리블을 하며 재활훈련하고 있다.",
+			"pubDate":"Sat, 07 Oct 2023 06:40:00 +0900"
+		},
+		{
+			"title":"[포토] 엄서이 '시즌 땐 코트에 있을거야'",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89927",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071566",
+			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 엄서이가 재활훈련을 하고 있다.",
 			"pubDate":"Sat, 07 Oct 2023 06:40:00 +0900"
 		},
 		{
@@ -187,17 +194,17 @@
 			"pubDate":"Sat, 07 Oct 2023 06:32:00 +0900"
 		},
 		{
-			"title":"[포토] 김도완 감독 '집중해야해'",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89919",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071558",
-			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 김도완 감독이 작전을 지시하고 있다.",
-			"pubDate":"Sat, 07 Oct 2023 06:31:00 +0900"
-		},
-		{
 			"title":"[포토] 최지선 '골밑으로 가자'",
 			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89920",
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071559",
 			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 최지선이 골밑 돌파를 시도하고 있다.",
+			"pubDate":"Sat, 07 Oct 2023 06:31:00 +0900"
+		},
+		{
+			"title":"[포토] 김도완 감독 '집중해야해'",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89919",
+			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071558",
+			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 김도완 감독이 작전을 지시하고 있다.",
 			"pubDate":"Sat, 07 Oct 2023 06:31:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071557",
 			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐",
 			"pubDate":"Sat, 07 Oct 2023 06:30:00 +0900"
-		},
-		{
-			"title":"[포토] 김애나 '완벽한 찬스야'",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89916",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071555",
-			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 김애나가 3점슛을 시도하고 있다.",
-			"pubDate":"Sat, 07 Oct 2023 06:29:00 +0900"
 		}
 	]
 }
