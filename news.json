@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 09 Oct 2023 14:50:02 +0900",
-	"total":214264,
+	"lastBuildDate":"Mon, 09 Oct 2023 15:00:02 +0900",
+	"total":214265,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구문화원, '서구의 구수한 큰 맛, 서곶옹기' 展 개최",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363614423",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363614423",
+			"description":"인천 서구문화원이 2023년 지역학 자료수집 사업의 일환으로 오는 12일부터 15일까지 <b>청라<\/b>블루노바홀 지하 1층 전시실에서 '서구의 구수한 큰 맛, 서곶옹기' 전시회를 개최한다. 서구문화원은 2019년 백석동 한들마을... ",
+			"pubDate":"Mon, 09 Oct 2023 14:54:00 +0900"
+		},
 		{
 			"title":"제2회 서구 친환경 독후감상화 그리기 축제 21일 개최",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1052323",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071562",
 			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 정예림이 공격을 시작하고 있다.",
 			"pubDate":"Sat, 07 Oct 2023 06:35:00 +0900"
-		},
-		{
-			"title":"[포토] 이다현 '패스할까 돌파할까'",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89922",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071561",
-			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 김시온이 드리블을 하고 있다.",
-			"pubDate":"Sat, 07 Oct 2023 06:33:00 +0900"
 		}
 	]
 }
