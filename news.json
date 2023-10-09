@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 09 Oct 2023 13:00:02 +0900",
-	"total":214260,
+	"lastBuildDate":"Mon, 09 Oct 2023 13:10:02 +0900",
+	"total":214261,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"아파트 전세가, 전주 대비 상승폭 확대",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20231009500156",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20231009500156",
+			"description":"중구(0.35%)는 운남·중산동 대단지 위주로, 연수구(0.30%)는 송도·연수동 주요단지 위주로, 남동구(0.20%)는 서창·논현동 중소형 규모 위주로, 서구(0.10%)는 정주여건 양호한 신현·검암·<b>청라<\/b>동 위주로 상승세를... ",
+			"pubDate":"Mon, 09 Oct 2023 13:04:00 +0900"
+		},
 		{
 			"title":"[기업탐방] &quot;오! 이건 왜 하는 거예요?&quot; 물으니 &quot;그냥 멋이죠&quot;",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1768906",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071559",
 			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐 최지선이 골밑 돌파를 시도하고 있다.",
 			"pubDate":"Sat, 07 Oct 2023 06:31:00 +0900"
-		},
-		{
-			"title":"[포토] 김하나 '막아도 쏜다'",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=89918",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=398&aid=0000071557",
-			"description":"6일 <b>청라<\/b>에 위치한 하나원큐 체육관에서 부천 하나원큐와 대구시청의 연습경기가 열렸다. 부천 하나원큐",
-			"pubDate":"Sat, 07 Oct 2023 06:30:00 +0900"
 		}
 	]
 }
