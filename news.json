@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 10 Oct 2023 11:40:02 +0900",
-	"total":214288,
+	"lastBuildDate":"Tue, 10 Oct 2023 11:50:02 +0900",
+	"total":214289,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"제2회 인천 서구 친환경 독후감상화 그리기 축제 21일 개최",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=985702",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=985702",
+			"description":"SK인천석유화학은 지난해 서구지역 작은도서관 12곳에 2천400권의 책을 기부한데 이어 올해는 서구 석남동, <b>청라<\/b>동, 신현원창동, 가정동, 연희동, 검암경서동 등 14개 작은도서관에 환경부 선정 우수 환경도서 등... ",
+			"pubDate":"Tue, 10 Oct 2023 11:48:00 +0900"
+		},
 		{
 			"title":"[10일 인천 서구] 제10회 녹청자 축제 개최 등",
 			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20231010500119",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1768906",
 			"description":"1시간가량 달려 인천 <b>청라<\/b>를 지나 목적지에 다다르자 공장인지 창고인지 비슷한 건물들이 모여 있다. 내비게이션이 어련히 잘 알려주겠냐마는 마지막 집중력을 발휘해야 여기가 저기 같고 저기가 여기 같은 이곳에서... ",
 			"pubDate":"Mon, 09 Oct 2023 12:42:00 +0900"
-		},
-		{
-			"title":"인천 서곶그린공원서 21일 '친환경 독후감상화 그리기 축제'",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=235140",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=235140",
-			"description":"SK인천석유화학은 지난해 서구지역 작은도서관 12곳에 책 2400권을 기부한데 이어 올해는 서구 석남동, <b>청라<\/b>동, 신현원창동, 가정동, 연희동, 검암경서동 등 작은도서관 14곳에 환경부 선정 우수 환경도서 등 1400권을... ",
-			"pubDate":"Mon, 09 Oct 2023 10:48:00 +0900"
 		}
 	]
 }
