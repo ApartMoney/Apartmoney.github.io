@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 12 Oct 2023 14:50:02 +0900",
-	"total":214372,
+	"lastBuildDate":"Thu, 12 Oct 2023 15:00:02 +0900",
+	"total":214373,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"다시 떨어지나… 전국·서울 아파트 매매가격 상승폭 '주춤'",
+			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=517939",
+			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=517939",
+			"description":"서구(0.12%)는 마천·<b>청라<\/b>동 위주, 연수구(0.04%)는 송도동 등 신도시 위주로 상승했다. 반면 미추홀구(-0.09%)는 용현·주안동 구축 위주로, 동구(-0.04%)는 입주물량 부담으로 송림·화수동 위주로 하락했다. 경기(0.11%)도... ",
+			"pubDate":"Thu, 12 Oct 2023 14:50:00 +0900"
+		},
 		{
 			"title":"두산건설 컨소시엄, ‘두산위브더제니스 센트럴 계양’ 분양",
 			"originallink":"http:\/\/www.segyebiz.com\/newsView\/20231012516256?OutUrl=naver",
@@ -12,7 +19,7 @@
 			"pubDate":"Thu, 12 Oct 2023 14:46:00 +0900"
 		},
 		{
-			"title":"[아유경제_부동산] 10월 2주 아파트 가격 동향… 매매가격 0.6% 상승ㆍ전세가...",
+			"title":"[아유경제_부동산] 10월 2주 아파트 가격 동향… 매매가격 0.06% 상승ㆍ전세가...",
 			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=79210",
 			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=79210",
 			"description":"12%)는 마전ㆍ<b>청라<\/b> 위주로, 연수구(0.04%)는 송도 등 신도시 위주로 상승한 것으로 나타났다. 지방(0.03%)은... 18%)는 정주여건 양호한 원당ㆍ<b>청라<\/b> 위주로, 남동구(0.17%)는 간석ㆍ논현 중ㆍ소형 규모 위주로, 연수구(0.15... ",
@@ -26,10 +33,10 @@
 			"pubDate":"Thu, 12 Oct 2023 14:03:00 +0900"
 		},
 		{
-			"title":"서울·경기·인천 아파트값 상승폭 나란히 축소…매수·매도자간 희망가격 평...",
-			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023101210545460255e6e69892f_18",
-			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023101210545460255e6e69892f_18",
-			"description":"12%)는 마전·<b>청라<\/b>동 위주로, 연수구(0.04%)는 송도동 등 신도시 위주로 상승했다. 경기 아파트 매매가격... 18%)는 정주여건 양호한 원당‧<b>청라<\/b>동 위주로, 남동구(0.17%)는 간석·논현동 중소형 규모 위주로, 연수구(0.... ",
+			"title":"서울 집값 상승세 '주춤'…경기·인천도 '지지부진'",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2023101232916",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004901394?sid=101",
+			"description":"운남동, 중산동 전셋값이 오르고 있는데 집값 상승과 연동돼 상승률이 높게 나왔다. 서구(0.18%)는 실수요자들의 선호도가 높은 원당동과 <b>청라<\/b>동에서, 남동구(0.17%)는 간석동과 논현동 중소형 단지 전셋값이 상승했다.",
 			"pubDate":"Thu, 12 Oct 2023 14:02:00 +0900"
 		},
 		{
@@ -40,10 +47,10 @@
 			"pubDate":"Thu, 12 Oct 2023 14:02:00 +0900"
 		},
 		{
-			"title":"서울 집값 상승세 '주춤'…경기·인천도 '지지부진'",
-			"originallink":"https:\/\/www.hankyung.com\/article\/2023101232916",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004901394?sid=101",
-			"description":"운남동, 중산동 전셋값이 오르고 있는데 집값 상승과 연동돼 상승률이 높게 나왔다. 서구(0.18%)는 실수요자들의 선호도가 높은 원당동과 <b>청라<\/b>동에서, 남동구(0.17%)는 간석동과 논현동 중소형 단지 전셋값이 상승했다.",
+			"title":"서울·경기·인천 아파트값 상승폭 나란히 축소…매수·매도자간 희망가격 평...",
+			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023101210545460255e6e69892f_18",
+			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023101210545460255e6e69892f_18",
+			"description":"12%)는 마전·<b>청라<\/b>동 위주로, 연수구(0.04%)는 송도동 등 신도시 위주로 상승했다. 경기 아파트 매매가격... 18%)는 정주여건 양호한 원당‧<b>청라<\/b>동 위주로, 남동구(0.17%)는 간석·논현동 중소형 규모 위주로, 연수구(0.... ",
 			"pubDate":"Thu, 12 Oct 2023 14:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363614996",
 			"description":"정거장 1곳 추가·사업기간 2년 연장 의결땐 11월 국토부 계획승인 신청 인천시가 서울7호선 <b>청라<\/b>연장선 신설역(<b>청라<\/b>돔구장역, 가칭) 건설을 위한 행정절차에 돌입했다. 11일 시에 따르면 최근 '서울도시철도 7호선... ",
 			"pubDate":"Wed, 11 Oct 2023 22:08:00 +0900"
-		},
-		{
-			"title":"행감 앞둔 인천시의회, 자료 1천653건 요구",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363615007",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363615007",
-			"description":"특히 인천발KTX를 비롯 서울2호선 <b>청라<\/b> 연장, 제2경인선, 수도권광역급행철도 등 인천지역에서 추진되는... 산업경제위원회는 인천경제자유구역청에 <b>청라<\/b>시티타워 건립사업, <b>청라<\/b> 영상·문화복합단지 조성사업... ",
-			"pubDate":"Wed, 11 Oct 2023 22:06:00 +0900"
 		}
 	]
 }
