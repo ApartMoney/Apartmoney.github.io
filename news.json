@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 17 Oct 2023 20:00:02 +0900",
-	"total":214592,
+	"lastBuildDate":"Tue, 17 Oct 2023 20:10:02 +0900",
+	"total":214593,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"경제자유구역 출범 20주년 기념 국제포럼…&quot;경자구역 출발지 인천, 글로벌인재...",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1216121",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1216121",
+			"description":"유정복 인천시장은 이날 개막식 축사에서 &quot;경제자유구역 20년 역사 출발지는 인천이었다&quot;며 &quot;송도와 영종·<b>청라<\/b>를 중심으로 미래 성장 산업을 주도해나가는 노력을 해나가고자 한다&quot;고 밝혔다.",
+			"pubDate":"Tue, 17 Oct 2023 20:02:00 +0900"
+		},
 		{
 			"title":"사령탑의 '아픈손가락' 김태훈 은퇴 &quot;아쉬움 없다, KS우승 자랑거리&quot;... 33세...",
 			"originallink":"https:\/\/www.starnewskorea.com\/stview.php?no=2023101716305132596",
@@ -131,17 +138,17 @@
 			"pubDate":"Tue, 17 Oct 2023 13:32:00 +0900"
 		},
 		{
-			"title":"대구 중구, 신규·전입공무원 지역 바로알기 현장학습",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310171126595580685",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310171126595580685",
-			"description":"<b>청라<\/b>국민체육센터, 봉산문화회관, 중구재활용센터 등 현장 방문 대구 중구는 16일 신규·전입 공무원들을 대상으로 ‘중구 바로 알기 현장학습’을 실시했다고 밝혔다. 참가자들은 지역의 문화·체육시설을 견학하고... ",
-			"pubDate":"Tue, 17 Oct 2023 11:42:00 +0900"
-		},
-		{
 			"title":"대구 중구, 신입 공무원 ‘중구 바로알기 현장학습’",
 			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202310170103",
 			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202310170103",
 			"description":"참가자들은 <b>청라<\/b>국민체육센터, 봉산문화회관을 견학하고 중구재활용센터에서는 친환경 ‘커피박 키링만들기’와 한국관광 100선에도 선정된 ‘근대골목투어’를 체험하며 구정 현안에 대한 이해를 높였다. 또... ",
+			"pubDate":"Tue, 17 Oct 2023 11:42:00 +0900"
+		},
+		{
+			"title":"대구 중구, 신규·전입공무원 지역 바로알기 현장학습",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310171126595580685",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310171126595580685",
+			"description":"<b>청라<\/b>국민체육센터, 봉산문화회관, 중구재활용센터 등 현장 방문 대구 중구는 16일 신규·전입 공무원들을 대상으로 ‘중구 바로 알기 현장학습’을 실시했다고 밝혔다. 참가자들은 지역의 문화·체육시설을 견학하고... ",
 			"pubDate":"Tue, 17 Oct 2023 11:42:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1057282",
 			"description":"영종, <b>청라<\/b>가 세계 최고 수준의 비즈니스 인프라를 갖춘 대한민국의 발전을 견인하고 있는 도시로... 성장했으며, <b>청라<\/b>는 미래차ㆍ로봇 등 첨단산업 분야와 금융과 유통 중심지로 자리를 잡아가고 있다.&quot;고 말하면서... ",
 			"pubDate":"Tue, 17 Oct 2023 08:52:00 +0900"
-		},
-		{
-			"title":"[단독] 국토부, 공항통행료 인하, 숨은 비밀은 '사채' 발행",
-			"originallink":"http:\/\/www.ilyoseoul.co.kr\/news\/articleView.html?idxno=479626",
-			"link":"http:\/\/www.ilyoseoul.co.kr\/news\/articleView.html?idxno=479626",
-			"description":"한편 기존 8100원이던 영종대교 통행료는 국토부의 <b>청라<\/b> IC 수익으로 일부 보전해주며 6600원으로 하락한 바 있다. 이후 <b>청라<\/b> IC 관리는 영종대교와 인천대교 등의 비용 보전에 나서는 도로공사 등이 맡게 될 예정이다.",
-			"pubDate":"Tue, 17 Oct 2023 08:14:00 +0900"
 		}
 	]
 }
