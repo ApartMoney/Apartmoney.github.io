@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 18 Oct 2023 13:40:03 +0900",
-	"total":214616,
+	"lastBuildDate":"Wed, 18 Oct 2023 13:50:02 +0900",
+	"total":214617,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 27일까지 가짜 석유 제조·판매등 주유소 불법 행위 지도점검",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281157147174",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281157147174",
+			"description":"인천경제청은 16일부터 특별 지도점검반을 편성, 오는 27일까지 인천경제자유구역(IFEZ)내 주유소 12곳(송도 3ㆍ영종 7ㆍ<b>청라<\/b> 2)을 대상으로 불법 석유제품 판매 행위, 가격 표시제 실시요령 준수 등을 점검한다. 또 주유소의... ",
+			"pubDate":"Wed, 18 Oct 2023 13:46:00 +0900"
+		},
 		{
 			"title":"포르쉐男의 모르쇠…대리운전비 6만원 먹튀 후 “나 아냐”",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20231018511827?OutUrl=naver",
@@ -40,17 +47,17 @@
 			"pubDate":"Wed, 18 Oct 2023 11:26:00 +0900"
 		},
 		{
-			"title":"인천경제청, 주유소 특별 지도점검 실시",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310181103482330095",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310181103482330095",
-			"description":"인천경제청은 16일부터 특별 지도점검반을 편성, 오는 27일까지 인천경제자유구역(IFEZ) 내 주유소 12곳(송도 3, 영종 7, <b>청라<\/b> 2)을 대상으로 불법 석유제품 판매 행위, 가격 표시제 실시요령 준수 등을 점검한다. 또 주유소의... ",
-			"pubDate":"Wed, 18 Oct 2023 11:22:00 +0900"
-		},
-		{
 			"title":"&quot;억대 포르쉐 타면서&quot;…대리비 6만원 먹튀한 차주",
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20231018_0002487114&cID=10201&pID=10200",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012153756?sid=102",
 			"description":"A씨는 대리비를 떼인 날 인천 <b>청라<\/b>에 있는 집까지 돌아가는데 2시간이 넘게 걸렸다고 토로했다. 그는 &quot;아침에 아기 분유가 떨어진 날이다. 잘됐다. 내 새끼 편하게 먹일 수 있는 돈이니까 그랬는데&quot;라며 억울함을... ",
+			"pubDate":"Wed, 18 Oct 2023 11:22:00 +0900"
+		},
+		{
+			"title":"인천경제청, 주유소 특별 지도점검 실시",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310181103482330095",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310181103482330095",
+			"description":"인천경제청은 16일부터 특별 지도점검반을 편성, 오는 27일까지 인천경제자유구역(IFEZ) 내 주유소 12곳(송도 3, 영종 7, <b>청라<\/b> 2)을 대상으로 불법 석유제품 판매 행위, 가격 표시제 실시요령 준수 등을 점검한다. 또 주유소의... ",
 			"pubDate":"Wed, 18 Oct 2023 11:22:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20231017010004144",
 			"description":"현재 단지에서는 <b>청라<\/b>국제도시, 서울 마곡지구, 디지털미디어시티 등에 자차 약 30분에 도달할 수 있어 우수한 직주근접 여건도 기대된다. 대방건설이 시공하며, 인천광역시 서구 불로동 일대에 지하3층~지상 최고... ",
 			"pubDate":"Tue, 17 Oct 2023 18:00:00 +0900"
-		},
-		{
-			"title":"루원시티 공동대책위 &quot;루원시티 도시개발사업 무효&quot; 주장",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=987403",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=987403",
-			"description":"이어 루원시티 도시개발사업은 <b>청라<\/b>, 가정 등 서북부도시의 균형발전과 기존 가정5거리 주변 개발을 통해 침체된 원도심 재생 활성화를 위한 꼭 필요한 사업이었다고 강조했다. 시 관계자는 &quot;초인류 도시건설을 위한... ",
-			"pubDate":"Tue, 17 Oct 2023 17:40:00 +0900"
 		}
 	]
 }
