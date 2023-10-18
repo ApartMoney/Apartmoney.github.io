@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 18 Oct 2023 09:50:03 +0900",
-	"total":214602,
+	"lastBuildDate":"Wed, 18 Oct 2023 10:00:02 +0900",
+	"total":214603,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 불법 석유 제품 판매 등 주유소 특별 지도점검",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1773260",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1773260",
+			"description":"인천경제청은 지난 16일부터 특별 지도점검반을 편성, 오는 27일까지 인천경제자유구역(IFEZ) 내 주유소 12곳(송도 3, 영종 7, <b>청라<\/b> 2)을 대상으로 불법 석유제품 판매 행위, 가격 표시제 실시요령 준수 등을 점검한다고 18일... ",
+			"pubDate":"Wed, 18 Oct 2023 09:52:00 +0900"
+		},
 		{
 			"title":"5년간 20조원 투자 계획 신세계그룹…리츠 AMC 운용 초읽기",
 			"originallink":"https:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4284354",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20231017010003958",
 			"description":"제5회 <b>청라<\/b> 人 행복 페스티벌, <b>청라<\/b> 대화합의 장 성료 인천서구 <b>청라<\/b>人 행복 페스티벌 축제 ‘제5회 <b>청라<\/b>인 행복 페스티벌’이 지난 13일 <b>청라<\/b>호수공원 야외음악당에서 화려하게 펼쳐졌다. ‘<b>청라<\/b>人 행복 페스티벌’은... ",
 			"pubDate":"Tue, 17 Oct 2023 13:32:00 +0900"
-		},
-		{
-			"title":"대구 중구, 신규·전입공무원 지역 바로알기 현장학습",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310171126595580685",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310171126595580685",
-			"description":"<b>청라<\/b>국민체육센터, 봉산문화회관, 중구재활용센터 등 현장 방문 대구 중구는 16일 신규·전입 공무원들을 대상으로 ‘중구 바로 알기 현장학습’을 실시했다고 밝혔다. 참가자들은 지역의 문화·체육시설을 견학하고... ",
-			"pubDate":"Tue, 17 Oct 2023 11:42:00 +0900"
 		}
 	]
 }
