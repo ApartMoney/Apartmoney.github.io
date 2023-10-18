@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 18 Oct 2023 16:00:02 +0900",
-	"total":214625,
+	"lastBuildDate":"Wed, 18 Oct 2023 16:10:02 +0900",
+	"total":214626,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 송도·영종·<b>청라<\/b> '가짜 석유' 특별 단속",
+			"originallink":"http:\/\/www.ifm.kr\/news\/371088",
+			"link":"http:\/\/www.ifm.kr\/news\/371088",
+			"description":"특별 지도점검반은 오는 27일까지 내 송도국제도시 3곳과 영종국제도시 7곳, <b>청라<\/b>국제도시 2곳 등 총 12곳의 주유소을 대상으로 불법 석유제품 판매 행위, 가격 표시제 실시요령 준수 등을 점검합니다. 이와함께 IFEZ 내... ",
+			"pubDate":"Wed, 18 Oct 2023 16:08:00 +0900"
+		},
 		{
 			"title":"[5人5色 금융지주 CEO②] 함영주, ‘저출산 극복’에 상생금융 방점",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1773466",
@@ -194,13 +201,6 @@
 			"pubDate":"Wed, 18 Oct 2023 08:32:00 +0900"
 		},
 		{
-			"title":"대구 중구, ‘미소친절 시민추진단’ 거리 캠페인",
-			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=449150&part_idx=266",
-			"link":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=449150&part_idx=266",
-			"description":"치매전문봉사단인 ‘<b>청라<\/b>지기’ 활동도 함께해 치매 예방 정보를 안내하고 치매에 대한 부정적 인식 개선을... 시민추진단이 <b>청라<\/b>지기 활동을 병행해 치매에 대한 부정적인 인식을 개선하고 치매 친화적인 사회 분위기... ",
-			"pubDate":"Tue, 17 Oct 2023 22:04:00 +0900"
-		},
-		{
 			"title":"대구 중구, 세대간 소통 위한 ‘바로알기 현장학습’",
 			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=449095&part_idx=7",
 			"link":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=449095&part_idx=7",
@@ -208,11 +208,11 @@
 			"pubDate":"Tue, 17 Oct 2023 22:04:00 +0900"
 		},
 		{
-			"title":"인천시 인력난 심각한데 정부 동결 방침에 발만 동동",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1053799",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1053799",
-			"description":"더구나 최근 신도시 개발로 인구가 증가한 송도와 영종, <b>청라<\/b>지역의 경우 늘어나는 행정수요에 맞게 인력을 제때 배치하지 못하는 실정이다. '영종<b>청라<\/b>사업본부 조직진단을 위한 기초자료'를 보면 인천경제자유구역청... ",
-			"pubDate":"Tue, 17 Oct 2023 21:38:00 +0900"
+			"title":"대구 중구, ‘미소친절 시민추진단’ 거리 캠페인",
+			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=449150&part_idx=266",
+			"link":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=449150&part_idx=266",
+			"description":"치매전문봉사단인 ‘<b>청라<\/b>지기’ 활동도 함께해 치매 예방 정보를 안내하고 치매에 대한 부정적 인식 개선을... 시민추진단이 <b>청라<\/b>지기 활동을 병행해 치매에 대한 부정적인 인식을 개선하고 치매 친화적인 사회 분위기... ",
+			"pubDate":"Tue, 17 Oct 2023 22:04:00 +0900"
 		}
 	]
 }
