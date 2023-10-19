@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 19 Oct 2023 17:50:02 +0900",
-	"total":214681,
+	"lastBuildDate":"Thu, 19 Oct 2023 18:00:02 +0900",
+	"total":214682,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 국감 '맹탕'… 송도테마파크·R2 별다른 언급 없이 넘어가",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=97966",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=97966",
+			"description":"송도·영종·<b>청라<\/b> 경제자유구역에 그동안 많은 재원이 투자된 만큼, 원도심에도 새 성장동력이 필요한데 이를 소화할 곳이 군부대가 이전한 땅이라는 주장이다. 이성만 무소속 의원(인천 부평갑)은 &quot;부평미군기지나... ",
+			"pubDate":"Thu, 19 Oct 2023 17:50:00 +0900"
+		},
 		{
 			"title":"전국 아파트 전셋값 일제히 상승…거래량 늘고 신고가 이어져",
 			"originallink":"http:\/\/www.whitepaper.co.kr\/news\/articleView.html?idxno=229161",
@@ -131,13 +138,6 @@
 			"pubDate":"Thu, 19 Oct 2023 14:18:00 +0900"
 		},
 		{
-			"title":"한 달 간 숨 고른 서울 아파트값, 다시 상승폭 키워",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6031130",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003824706?sid=101",
-			"description":"14%)는 <b>청라<\/b>동 주요 신축 위주로, 연수구(0.13%)는 송도신도시 중심으로 상승했다. 경기 역시 이번주 0.13... 37%)는 주거환경 양호한 양호한 <b>청라<\/b>동 위주로, 연수구(0.16%)는 송도·옥련동 위주로, 남동구(0.13%)는... ",
-			"pubDate":"Thu, 19 Oct 2023 14:02:00 +0900"
-		},
-		{
 			"title":"서울 강서·은평, 경기 화성·덕양 전셋값 급등…가을 이사철 수요 몰렸나",
 			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023101910504933875e6e69892f_18",
 			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023101910504933875e6e69892f_18",
@@ -149,6 +149,13 @@
 			"originallink":"https:\/\/www.hankyung.com\/article\/2023101901286",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004904018?sid=101",
 			"description":"서구가 0.37% 올랐는데 <b>청라<\/b>동을 중심으로 전셋값이 뛰었다. 한편 서울 집값은 등락을 거듭하고 있다. 이번 주 서울 집값은 0.09% 올라 전주(0.07%)보단 상승 폭이 커졌다. 동대문구(0.19%), 성동구(0.16%), 용산구(0.15... ",
+			"pubDate":"Thu, 19 Oct 2023 14:02:00 +0900"
+		},
+		{
+			"title":"한 달 간 숨 고른 서울 아파트값, 다시 상승폭 키워",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6031130",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003824706?sid=101",
+			"description":"14%)는 <b>청라<\/b>동 주요 신축 위주로, 연수구(0.13%)는 송도신도시 중심으로 상승했다. 경기 역시 이번주 0.13... 37%)는 주거환경 양호한 양호한 <b>청라<\/b>동 위주로, 연수구(0.16%)는 송도·옥련동 위주로, 남동구(0.13%)는... ",
 			"pubDate":"Thu, 19 Oct 2023 14:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001948965?sid=102",
 			"description":"공사비 분담 문제로 장기간 표류하다가 원점에서 재추진 중인 국내 최고층 전망타워 '인천 <b>청라<\/b>시티타워' 건립 사업이 시작부터 난항을 겪고 있습니다. <b>청라<\/b>시티타워 사업자인 한국토지주택공사, LH는 지난 7월부터... ",
 			"pubDate":"Thu, 19 Oct 2023 11:07:00 +0900"
-		},
-		{
-			"title":"‘국내 최고층’ <b>청라<\/b>시티타워 건립 재추진, 시작부터 난항",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310191031451810496",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310191031451810496",
-			"description":"공사비 산정용역 유찰 거듭…애초 민간사업자 소송 제기 국내 최고층 전망타워를 짓기 위한 ‘인천 <b>청라<\/b>... 19일 <b>청라<\/b>시티타워 사업자인 한국토지주택공사(LH)에 따르면, LH는 지난 17일 ‘<b>청라<\/b>시티타워 공사비 산정 및... ",
-			"pubDate":"Thu, 19 Oct 2023 11:02:00 +0900"
 		}
 	]
 }
