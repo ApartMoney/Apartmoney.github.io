@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 24 Oct 2023 03:00:02 +0900",
-	"total":214974,
+	"lastBuildDate":"Tue, 24 Oct 2023 03:10:03 +0900",
+	"total":214975,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천 外",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20231023\/121808959\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003527091?sid=102",
+			"description":"26일 오후 3시∼4시 반 <b>청라<\/b>호수도서관 세미나실1. □독후 활동=초등학교 1∼3학년생 대상 ‘책 읽고 달콤한 쿠키 만들기’ 참가자 15명. 11월 1일 오후 4시∼5시 반 영종하늘도서관 세미나실1. □인문학 강연... ",
+			"pubDate":"Tue, 24 Oct 2023 03:06:00 +0900"
+		},
 		{
 			"title":"인천시, '광역급행(M버스) 4개 노선' 신설 확정",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=564684",
@@ -159,17 +166,17 @@
 			"pubDate":"Mon, 23 Oct 2023 17:38:00 +0900"
 		},
 		{
-			"title":"[브리핑] KB금융그룹·우리금융그룹·하나은행·NH농협은행",
-			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2049822",
-			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2049822",
-			"description":"하나은행은 21일 인천 <b>청라<\/b>에 위치한 '하나글로벌캠퍼스'에서 '제 31회 자연사랑 어린이 미술대회' 본선... \/사진=하나은행 ◇ 하나은행, '자연사랑 어린이 미술대회' 본선·시상식 하나은행은 21일 인천 <b>청라<\/b>... ",
-			"pubDate":"Mon, 23 Oct 2023 17:36:00 +0900"
-		},
-		{
 			"title":"인천 M버스 4개 노선 신설된다",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217058",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217058",
 			"description":"또 &quot;2022년에 신설 확정 후 올해 개통 예정이었던 검단~강남역, <b>청라<\/b>~강남 양재꽃시장의 2개 노선은 차량 출고 지연으로 개통이 연기됐지만 오는 2024년 1월 개통을 앞두고 있어 검단과 <b>청라<\/b>지역의 교통편의도 더욱 높아질... ",
+			"pubDate":"Mon, 23 Oct 2023 17:36:00 +0900"
+		},
+		{
+			"title":"[브리핑] KB금융그룹·우리금융그룹·하나은행·NH농협은행",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2049822",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2049822",
+			"description":"하나은행은 21일 인천 <b>청라<\/b>에 위치한 '하나글로벌캠퍼스'에서 '제 31회 자연사랑 어린이 미술대회' 본선... \/사진=하나은행 ◇ 하나은행, '자연사랑 어린이 미술대회' 본선·시상식 하나은행은 21일 인천 <b>청라<\/b>... ",
 			"pubDate":"Mon, 23 Oct 2023 17:36:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=767577",
 			"description":"검단~강남역, <b>청라<\/b>~강남 양재꽃시장의 2개 노선은 올해 개통 예정이었지만 차량 출고 지연으로 연기됐다. 내년 1월 개통할 계획이다. 김포 3000번 노선(강화터미널~신촌역) 기점 이관 문제는 대광위, 강화군, 김포시와 재정... ",
 			"pubDate":"Mon, 23 Oct 2023 17:18:00 +0900"
-		},
-		{
-			"title":"인천시, 광역급행버스 4개 노선 '신설'",
-			"originallink":"http:\/\/www.inews24.com\/view\/1645221",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000781441?sid=102",
-			"description":"시 관계자는 &quot;지난해 신설 확정 돼 올해 개통 예정이던 검단~강남역, <b>청라<\/b>~강남 양재꽃시장 등 2개 노선이 차량 출고 지연 등 개통 연기됐지만 내년 1월 개통을 앞두고 있어 검단 및 <b>청라<\/b>지역 교통 편의도 더욱 높아질... ",
-			"pubDate":"Mon, 23 Oct 2023 17:15:00 +0900"
 		}
 	]
 }
