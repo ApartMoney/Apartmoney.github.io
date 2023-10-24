@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 25 Oct 2023 03:00:03 +0900",
-	"total":215020,
+	"lastBuildDate":"Wed, 25 Oct 2023 03:10:02 +0900",
+	"total":215021,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천∼서울 M버스 4개 노선 신설된다",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20231024\/121829475\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003527311?sid=102",
+			"description":"시는 또 올해 개통 예정이었다가 연기된 서구 검단∼강남역, 서구 <b>청라<\/b>∼강남 양재꽃시장 등 2개 노선도 내년 1월 개통할 예정이다. 시 관계자는 “시민들의 의견을 적극적으로 수렴해 대중교통 편의성을 높일 수 있도록... ",
+			"pubDate":"Wed, 25 Oct 2023 03:05:00 +0900"
+		},
 		{
 			"title":"[박노승 골프칼럼] (69) 윤이나를 구하는 길",
 			"originallink":"http:\/\/news.heraldcorp.com\/sports\/view.php?ud=202310241720208006110_1",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joynews24.com\/view\/1645475",
 			"description":"이 이색 기부 캠페인은 시범적으로 인생건어물맥주 직영점인 인천<b>청라<\/b>수변점에서 우선 진행 중이다. 가맹점주들에게 부담을 주지 않기 위해 직영점을 중심으로 먼저 진행한 후, 향후 가맹점의 자발적인 참여를 받을... ",
 			"pubDate":"Tue, 24 Oct 2023 11:12:00 +0900"
-		},
-		{
-			"title":"인천시, 광역급행(M버스) 4개 노선 신설 확정",
-			"originallink":"http:\/\/www.breaknews.com\/994138",
-			"link":"http:\/\/www.breaknews.com\/994138",
-			"description":"검단~강남역, <b>청라<\/b>~강남 양재꽃시장의 2개 노선은 차량 출고 지연으로 개통이 연기됐지만, 오는 2024년 1월 개통을 앞두고 있어 검단과 <b>청라<\/b>지역의 교통편의도 더욱... ",
-			"pubDate":"Tue, 24 Oct 2023 11:02:00 +0900"
 		}
 	]
 }
