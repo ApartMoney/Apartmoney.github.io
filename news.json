@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 24 Oct 2023 10:30:02 +0900",
-	"total":214985,
+	"lastBuildDate":"Tue, 24 Oct 2023 10:40:02 +0900",
+	"total":214986,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천~서울 광역급행버스 4개 노선 신설 확정…내년 하반기 개통",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20231024010012465",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20231024010012465",
+			"description":"또 지난해 신설 확정 후 올해 개통 예정이었던 검단~강남역, <b>청라<\/b>~강남 양재꽃시장의 2개 노선은 차량 출고 지연으로 개통이 연기됐지만, 내년 1월 개통을 앞두고 있어 검단과 <b>청라<\/b>지역의 교통편의도 더욱 높아질 것으로... ",
+			"pubDate":"Tue, 24 Oct 2023 10:30:00 +0900"
+		},
 		{
 			"title":"[트래블투데이] 보령시, “황금빛 은행마을에서 축제를 즐겨요”",
 			"originallink":"http:\/\/www.travelitoday.com\/read\/contentsView\/17804\/41",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=767579",
 			"description":"하나은행이 인천 <b>청라<\/b>에 위치한 하나글로벌캠퍼스에서 '제 31회 하나은행 자연사랑 어린이 미술대회' 본선 및 시상식을 개최했다. 23일 하나은행에 따르면 이번 대회는 지난 5월 3일부터 4개월간 ‘나는야 지구별을 지키는... ",
 			"pubDate":"Mon, 23 Oct 2023 17:58:00 +0900"
-		},
-		{
-			"title":"제4회 인천시협회장기 파크골프대회…<b>청라<\/b>구장서 500여 명 참여",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217072",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217072",
-			"description":"제 4회 인천시 파크골프협회장기 파크골프대회가 23일 인천 <b>청라<\/b>파크골프구장에서 각계 인사를 비롯 선수, 회원 등 500여 명이 참석한 가운데 인천시 파크골프협회(회장 황정오) 주최로 열렸다. 지난 대회 우승팀인... ",
-			"pubDate":"Mon, 23 Oct 2023 17:56:00 +0900"
 		}
 	]
 }
