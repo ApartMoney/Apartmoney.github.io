@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 24 Oct 2023 11:00:02 +0900",
-	"total":214989,
+	"lastBuildDate":"Tue, 24 Oct 2023 11:10:02 +0900",
+	"total":214990,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 광역급행(M버스) 4개 노선 신설 확정",
+			"originallink":"http:\/\/www.breaknews.com\/994138",
+			"link":"http:\/\/www.breaknews.com\/994138",
+			"description":"검단~강남역, <b>청라<\/b>~강남 양재꽃시장의 2개 노선은 차량 출고 지연으로 개통이 연기됐지만, 오는 2024년 1월 개통을 앞두고 있어 검단과 <b>청라<\/b>지역의 교통편의도 더욱... ",
+			"pubDate":"Tue, 24 Oct 2023 11:02:00 +0900"
+		},
 		{
 			"title":"10월 3주차 전국 부동산 시세, 아파트 매매·전세 가격",
 			"originallink":"https:\/\/www.bntnews.co.kr\/article\/view\/bnt202310240038",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20231023010011954",
 			"description":"전용면적 39~84㎡ 1370가구 조성…620가구 일반분양 서울 2호선 <b>청라<\/b> 연장·GTX-B 노선 개통 호재 품어 단지... <b>청라<\/b>~강서 BRT(간선급행버스체계) 정류장도 단지 바로 앞에 있다. 경인고속도로 부평 나들목(IC)... ",
 			"pubDate":"Mon, 23 Oct 2023 18:20:00 +0900"
-		},
-		{
-			"title":"부천 이마트 중동점 재개발 무산… PF 경색으로 돈줄 말랐다",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202310231815546566",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005089867?sid=101",
-			"description":"한편 RBDK는 자체 고급주택 브랜드 '라피아노'를 지난 2017년에 첫 선을 보인 이후 파주 운정과 고양 삼송, 인천 <b>청라<\/b>, 경기 의왕, 천안 아산 등 전국에서 사업을 진행해온 디벨로퍼다.",
-			"pubDate":"Mon, 23 Oct 2023 18:17:00 +0900"
 		}
 	]
 }
