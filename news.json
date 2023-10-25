@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 26 Oct 2023 08:40:02 +0900",
-	"total":215079,
+	"lastBuildDate":"Thu, 26 Oct 2023 08:50:02 +0900",
+	"total":215081,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"미추홀도서관, 기술과학 외국학술지 무료 원문 복사 서비스",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20231026_0002496820&cID=10802&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012169711?sid=102",
+			"description":"미추홀도서관 및 분관(<b>청라<\/b>호수·<b>청라<\/b>국제·영종하늘·마전·송도국제기구도서관) 회원이면 누구나 이화여대 외국학술지지원센터의 교육·사회·예체능 분야 외국학술지와 부산대 외국학술지지원센터의 기술과학분야... ",
+			"pubDate":"Thu, 26 Oct 2023 08:41:00 +0900"
+		},
+		{
+			"title":"&quot;너와 보령, 보령 and you&quot;이벤트 참여하고 선물받자!",
+			"originallink":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=63640",
+			"link":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=63640",
+			"description":"<b>청라<\/b>은행마을.[사진=보령시] 충남 보령시가 오는 28일부터 11월 5일까지 가을축제 인스타그램 인증 이벤트... 이벤트 참가자들은 미션 장소로 지정된 ▲제9회 <b>청라<\/b>은행마을 축제 ▲제20회 성주산 단풍축제 ▲2023년 보령... ",
+			"pubDate":"Thu, 26 Oct 2023 08:40:00 +0900"
+		},
 		{
 			"title":"성수대교와 함께 무너진 ‘재계 10위’…마지막 말은 “미안하다”",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/10858756",
@@ -82,13 +96,6 @@
 			"pubDate":"Wed, 25 Oct 2023 20:22:00 +0900"
 		},
 		{
-			"title":"'겹악재' <b>청라<\/b>시티타워, 준공시기 엇갈린 전망",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217602",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217602",
-			"description":"▲ <b>청라<\/b>시티타워 조감도. \/사진제공=인천경제청 건설 정상화 협약에도 사업이 좀처럼 속도를 내지 못하고 있는 <b>청라<\/b>시티타워가 용역 유찰에 맞소송까지 겹치면서 악재가 거듭되고 있다. 빨라야 내년 하반기에나... ",
-			"pubDate":"Wed, 25 Oct 2023 20:14:00 +0900"
-		},
-		{
 			"title":"[인천시의회 산업경제위, 경제청 개청 20주년 진단 토론회] &quot;원도심과 균형발...",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217579",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217579",
@@ -96,17 +103,24 @@
 			"pubDate":"Wed, 25 Oct 2023 20:14:00 +0900"
 		},
 		{
-			"title":"20살 인천경제자유구역청, 불균형 해소를",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217567",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217567",
-			"description":"정해권 위원장은 &quot;경제청이 현재 추진 중인 사업과 미래 청사진 이해되는 자리였다&quot;며 &quot;여러 의원이 지적했듯이 경자구역과 원도심 간의 발전 불균형 문제와 영종, <b>청라<\/b>와 비교해 송도에만 사업이 편중된 부분 등 아직... ",
-			"pubDate":"Wed, 25 Oct 2023 19:10:00 +0900"
+			"title":"'겹악재' <b>청라<\/b>시티타워, 준공시기 엇갈린 전망",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217602",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217602",
+			"description":"▲ <b>청라<\/b>시티타워 조감도. \/사진제공=인천경제청 건설 정상화 협약에도 사업이 좀처럼 속도를 내지 못하고 있는 <b>청라<\/b>시티타워가 용역 유찰에 맞소송까지 겹치면서 악재가 거듭되고 있다. 빨라야 내년 하반기에나... ",
+			"pubDate":"Wed, 25 Oct 2023 20:14:00 +0900"
 		},
 		{
 			"title":"인천 자원순환센터 설립 난관, 인센티브 승부수",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217565",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217565",
 			"description":"시는 수도권매립지에 생활폐기물 직매립이 금지되는 2026년까지 기존 자원순환센터 2곳(송도·<b>청라<\/b> 소각장)을 4곳(동·서·남·북 권역)으로 늘리는 안을 추진 중이다. 다만, 주민 수용성 확보에는 매번 실패했다. 시는 우선... ",
+			"pubDate":"Wed, 25 Oct 2023 19:10:00 +0900"
+		},
+		{
+			"title":"20살 인천경제자유구역청, 불균형 해소를",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217567",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217567",
+			"description":"정해권 위원장은 &quot;경제청이 현재 추진 중인 사업과 미래 청사진 이해되는 자리였다&quot;며 &quot;여러 의원이 지적했듯이 경자구역과 원도심 간의 발전 불균형 문제와 영종, <b>청라<\/b>와 비교해 송도에만 사업이 편중된 부분 등 아직... ",
 			"pubDate":"Wed, 25 Oct 2023 19:10:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=767869",
 			"description":"있는지 심도 있게 살펴보겠다”며 “경제적 이득은 물론 지역발전도 이끌 수 있도록 다양한 방법을 강구하겠다”고 말했다. [ 경기신문 \/ 인천 = 김샛별 기자 ] 인천 서구 <b>청라<\/b> 자원순환센터 모습. ( 사진 = 인천시 제공 )",
 			"pubDate":"Wed, 25 Oct 2023 15:46:00 +0900"
-		},
-		{
-			"title":"기업 입주 잇는 <b>청라<\/b>국제도시서 '<b>청라<\/b> SK V1' 분양 진행 중",
-			"originallink":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=242993",
-			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=242993",
-			"description":"인천 서구에 위치한 <b>청라<\/b>국제도시는 주택시장의 부동산 거래가 원활히 진행되고 있으며 가격도 상승 국면에 있는 가운데, 개발 호재가 넘쳐나며 송도에 버금가는 국제도시로 발돋움해 나가고 있다. <b>청라<\/b>는 2025년... ",
-			"pubDate":"Wed, 25 Oct 2023 15:28:00 +0900"
-		},
-		{
-			"title":"도시 경관을 바꾼 건축물들…2023 대구시 건축상 선정",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20231025112700053?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014287018?sid=102",
-			"description":"대구시는 이들 작품 외에 중구 대봉동 <b>청라<\/b>국민체육센터, 북구 구암동 카페 소소래, 수성구 황금2동 행정복지센터, 달서구 대천동 달서선사관·청소년문화의집 4개 건축물을 우수상으로 선정했다. 김병환 시 건축과장은... ",
-			"pubDate":"Wed, 25 Oct 2023 15:26:00 +0900"
 		}
 	]
 }
