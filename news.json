@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 25 Oct 2023 19:00:02 +0900",
-	"total":215063,
+	"lastBuildDate":"Wed, 25 Oct 2023 19:10:02 +0900",
+	"total":215064,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 소각장 설치지역에 파격 인센티브…주민 호응은 '글쎄'",
+			"originallink":"http:\/\/www.ifm.kr\/news\/371595",
+			"link":"http:\/\/www.ifm.kr\/news\/371595",
+			"description":"만으로 주민 반발을 잠재우긴 힘들 것이란 관측이 지배적입니다. <b>청라<\/b>소각장을 폐쇄·이전하기로 했던 북부권, 당초 부천시와 함께 쓸 소각장을 짓기로 했던 동부권은 아직 입지 후보지조차 정해지지 않은 상태입니다.",
+			"pubDate":"Wed, 25 Oct 2023 19:00:00 +0900"
+		},
 		{
 			"title":"인천1호선 작전역세권에 ‘39층 아파트’ 들어선다",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202310251831231984",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=414714",
 			"description":"- 법적 인센티브 외에도 주민의견 반영된 지역 랜드마크 발굴 할 것 ▲<b>청라<\/b> 자원환경 센터 인천시는 자원순환센터가 설치되는 지역에 주민 의견이 최우선으로 반영한 파격적인 인센티브를 제공한다고 밝혔다. 우선... ",
 			"pubDate":"Wed, 25 Oct 2023 11:34:00 +0900"
-		},
-		{
-			"title":"인천시, 자원순환센터 입지 지역에 파격 인센티브",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1060054",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1060054",
-			"description":"<b>청라<\/b> 자원환경 센터 사진 이에 더해 입지지역은 약 17∼43억 원의 주민지원기금과 최대 100여억 원의 반입협력금을 매해 받게 되는데, 이를 통해 지역 환경 개선과 더욱 다양한 주민 복리증진을 위한 활동이 가능해진다. 이... ",
-			"pubDate":"Wed, 25 Oct 2023 11:16:00 +0900"
 		}
 	]
 }
