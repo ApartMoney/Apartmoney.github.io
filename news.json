@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Thu, 26 Oct 2023 18:10:02 +0900",
-	"total":215218,
+	"lastBuildDate":"Thu, 26 Oct 2023 18:20:02 +0900",
+	"total":215221,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"포스코이앤씨, 용접 자동화기술로 사고 줄인다",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202310261813256358",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005091879?sid=101",
+			"description":"포스코이앤씨는 다층 용접 자동화 시공 기술을 지난 9월 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의 강주탑 제작 공정에 시범 적용했다. 화태-백야 도로 건설공사 등에서 구조물을 떠받치는 보와 강관말뚝 용접에도 적용할... ",
+			"pubDate":"Thu, 26 Oct 2023 18:14:00 +0900"
+		},
+		{
+			"title":"인천시 서구, 홍양표 교수 초청 ‘부모교육 아카데미’",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287490568371",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287490568371",
+			"description":"구는 오는 12월14일에도 <b>청라<\/b> 블루노바홀에서 '노규식 원장과 함께하는 슬기로운 부모생활'이라는 주제로 제2회 부모교육 아카데미를 개최할 예정이다. 참석 주민을 대상으로 하는 2회차의 설문조사를 실시해 2024년... ",
+			"pubDate":"Thu, 26 Oct 2023 18:12:00 +0900"
+		},
+		{
+			"title":"포스코이앤씨, 강교량 공사에 다층 용접 자동화 기술 적용",
+			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=206113",
+			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=206113",
+			"description":"포스코이앤씨는 올해 개발한 다층 용접 자동화 시공 기술을 지난 9월 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의 강주탑 제작 공정에 시범 적용 그 성능을 입증하였고, 화태-백야 도로 건설공사 등에서 구조물을... ",
+			"pubDate":"Thu, 26 Oct 2023 18:10:00 +0900"
+		},
 		{
 			"title":"서울 아파트값 23주째 올라, 매수-매도 희망가격 차이로 상승폭은 축소",
 			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=331143",
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.ferrotimes.com\/news\/articleView.html?idxno=30202",
 			"description":"포스코이앤씨는 올해 개발한 다층 용접 자동화 시공 기술을 지난 9월 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의 강주탑 제작 공정에 시범 적용해 성능을 입증했다. 화태-백야 도로 건설공사 등에서 구조물을 떠받치는... ",
 			"pubDate":"Thu, 26 Oct 2023 15:26:00 +0900"
-		},
-		{
-			"title":"인천시, 2023 K-UAM Confex 개최…도심항공교통 도심실증 수행·시범운용구역...",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1060616",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1060616",
-			"description":"사업구간은 <b>청라<\/b>(드론시험인증센터) - 아라뱃길 – 계양신도시를 잇는 14km 구간으로 도심에서의 UAM 상용화를 위한 실증이 수행된다. 또한, 지난 10월 6일에는 도심항공교통 활용 촉진 및 지원에 관한 법률(UAM법)이... ",
-			"pubDate":"Thu, 26 Oct 2023 15:24:00 +0900"
-		},
-		{
-			"title":"포스코이앤씨, 다층 용접 자동화 기술 개발",
-			"originallink":"http:\/\/www.smarttimes.co.kr\/news\/articleView.html?idxno=12697",
-			"link":"http:\/\/www.smarttimes.co.kr\/news\/articleView.html?idxno=12697",
-			"description":"포스코이앤씨는 올해 개발한 다층 용접 자동화 시공 기술을 지난 9월 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의 강주탑 제작 공정에 시범 적용해 그 성능을 입증했다. 또 화태-백야 도로 건설공사 등에서 구조물을... ",
-			"pubDate":"Thu, 26 Oct 2023 15:02:00 +0900"
-		},
-		{
-			"title":"포스코이앤씨, '다층 용접 자동화 시공 기술' 개발",
-			"originallink":"https:\/\/www.mediapen.com\/news\/view\/866091",
-			"link":"https:\/\/www.mediapen.com\/news\/view\/866091",
-			"description":"포스코이앤씨가 올해 개발한 다층 용접 자동화 시공 기술을 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사 강주탑... 포스코이앤씨는 올해 개발한 다층 용접 자동화 시공 기술을 지난달 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사... ",
-			"pubDate":"Thu, 26 Oct 2023 14:56:00 +0900"
 		}
 	]
 }
