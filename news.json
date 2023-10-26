@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 27 Oct 2023 07:50:02 +0900",
-	"total":215245,
+	"lastBuildDate":"Fri, 27 Oct 2023 08:00:03 +0900",
+	"total":215246,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"포스코이앤씨, 강교량 공사에 '다층 용접 자동화 기술' 적용",
+			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=295055",
+			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=295055",
+			"description":"포스코이앤씨는 올해 개발한 다층 용접 자동화 시공 기술을 지난 9월 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의 강주탑 제작 공정에 시범 적용하여 그 성능을 입증하였고, 화태-백야 도로 건설공사 등에서 구조물을... ",
+			"pubDate":"Fri, 27 Oct 2023 07:54:00 +0900"
+		},
 		{
 			"title":"[MZ취향저객 Travel In Daegu (하)] 근현대 문화유산 여행 &quot;원더풀&quot; 낮만큼 아...",
 			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20231017010002092",
@@ -89,17 +96,17 @@
 			"pubDate":"Thu, 26 Oct 2023 20:16:00 +0900"
 		},
 		{
-			"title":"포스코이앤씨 '다층 용접 자동화 시공' 제3연륙교 건설에 시범적용",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231026010005092",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231026010005092",
-			"description":"포스코이앤씨는 강교량(철제 다리) 공사에 사용할 수 있는 '다층 용접 자동화 시공 기술'을 개발해 인천 제3연륙교(영종~<b>청라<\/b>국제도시) 건설 현장 등에 시범적용했다고 26일 밝혔다.이 기술은 강판 종류와 두께, 용접 층에... ",
-			"pubDate":"Thu, 26 Oct 2023 20:12:00 +0900"
-		},
-		{
 			"title":"포스코이앤씨, 안전한 '다층 용접 자동화 기술' 개발",
 			"originallink":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=973084",
 			"link":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=973084",
 			"description":"포스코이앤씨가 올해 개발한 다층 용접 자동화 시공 기술을 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의... 포스코이앤씨는 올해 개발한 다층 용접 자동화 시공 기술을 지난 9월 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의... ",
+			"pubDate":"Thu, 26 Oct 2023 20:12:00 +0900"
+		},
+		{
+			"title":"포스코이앤씨 '다층 용접 자동화 시공' 제3연륙교 건설에 시범적용",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231026010005092",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231026010005092",
+			"description":"포스코이앤씨는 강교량(철제 다리) 공사에 사용할 수 있는 '다층 용접 자동화 시공 기술'을 개발해 인천 제3연륙교(영종~<b>청라<\/b>국제도시) 건설 현장 등에 시범적용했다고 26일 밝혔다.이 기술은 강판 종류와 두께, 용접 층에... ",
 			"pubDate":"Thu, 26 Oct 2023 20:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=331143",
 			"description":"서구(0.08%)는 신현·<b>청라<\/b>동 신도시에서 집값이 올랐다. 반면 부평구(-0.09%)는 입주물량 부담으로 부평·산곡동 구축 위주로 아파트값이 내렸다. 경기 아파트값은 0.09% 상승했다. 안양 동안구(0.30%)는 관양·호계동... ",
 			"pubDate":"Thu, 26 Oct 2023 17:38:00 +0900"
-		},
-		{
-			"title":"포스코이앤씨, 강교량 공사에 다층 용접 자동화 기술 적용",
-			"originallink":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065601540746665",
-			"link":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065601540746665",
-			"description":"포스코이앤씨는 올해 개발한 다층 용접 자동화 시공 기술을 지난 9월 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의 강주탑 제작 공정에 시범 적용하여 그 성능을 입증하였고, 화태-백야 도로 건설공사 등에서 구조물을... ",
-			"pubDate":"Thu, 26 Oct 2023 17:30:00 +0900"
 		}
 	]
 }
