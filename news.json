@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 26 Oct 2023 16:30:03 +0900",
-	"total":215207,
+	"lastBuildDate":"Thu, 26 Oct 2023 16:40:02 +0900",
+	"total":215208,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[아유경제_부동산] 포스코이앤씨, 다층 용접 자동화 기술 개발… 강교량 공사...",
+			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=79544",
+			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=79544",
+			"description":"포스코이앤씨는 올해 9월 개발한 기술을 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의 강주탑 제작 공정에 시범 적용해 그 성능을 입증했고, 화태-백야 도로 건설공사 등에서 구조물을 떠받치는 보와 강관말뚝 용접에도... ",
+			"pubDate":"Thu, 26 Oct 2023 16:32:00 +0900"
+		},
 		{
 			"title":"&quot;좌뇌·우뇌 균형있게 성장시켜야&quot;…'제1회 부모교육 아카데미' 성료",
 			"originallink":"http:\/\/www.ifm.kr\/news\/371663",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004953892?sid=101",
 			"description":"<b>청라<\/b>~강서 BRT(간선급행버스체계) 정류장이 단지 바로 앞에 있어 서울 출퇴근이 편리하다. 경인고속도로(부평IC), 수도권제1순환고속도로(서운JC) 등 광역 도로 교통망도 가깝다. 단지 내 어린이집을 비롯해 반경 150m... ",
 			"pubDate":"Thu, 26 Oct 2023 14:16:00 +0900"
-		},
-		{
-			"title":"[아유경제_부동산] 10월 4주 아파트 가격 동향… 매매가격 0.05% 상승ㆍ전세가...",
-			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=79503",
-			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=79503",
-			"description":"08%)는 신현ㆍ<b>청라<\/b> 신도시 위주로 상승한 것으로 나타났다. 지방(0.02%)은 시ㆍ도별로 부산(-0.04%), 대전(0.... 인천(0.1%)의 경우 중구(0.27%)는 운서ㆍ중산 주요 단지 위주로, 서구(0.25%)는 정주여건 양호한 원당ㆍ<b>청라<\/b>... ",
-			"pubDate":"Thu, 26 Oct 2023 14:14:00 +0900"
 		}
 	]
 }
