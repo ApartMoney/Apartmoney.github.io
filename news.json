@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 26 Oct 2023 20:20:02 +0900",
-	"total":215238,
+	"lastBuildDate":"Thu, 26 Oct 2023 20:30:03 +0900",
+	"total":215239,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"가을축제 즐기고 추억 남겨볼까",
+			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=772854",
+			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=772854",
+			"description":"이벤트 참가자들은 미션 장소로 지정된 ◆제9회 <b>청라<\/b>은행마을 축제 ◆제20회 성주산 단풍축제 ◆2023년 보령 김축제 등 3곳의 축제와 ◆충청수영성 ◆청소역 ◆석탄박물관 ◆성주사지 ◆무궁화수목원 등 8곳의 관광지... ",
+			"pubDate":"Thu, 26 Oct 2023 20:22:00 +0900"
+		},
 		{
 			"title":"인천시, 백령공항 운영권 확보 아직 미지수",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217821",
@@ -19,13 +26,6 @@
 			"pubDate":"Thu, 26 Oct 2023 20:16:00 +0900"
 		},
 		{
-			"title":"인천 민간아파트 분양가, 광역시 중 가장 저렴",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217815",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217815",
-			"description":"▲ 사진은 인천 서구 <b>청라<\/b>국제도시 전경. \/이재민 기자 leejm@incheonilbo.com 인천의 민간아파트 평균 분양가격이 수도권은 물론 6대 광역시 중에서도 가장 낮은 것으로 조사됐다. 26일 주택도시보증공사(HUG)가... ",
-			"pubDate":"Thu, 26 Oct 2023 20:16:00 +0900"
-		},
-		{
 			"title":"포스코이앤씨 '자동용접 기술' 건설업 패러다임 바꾼다",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217814",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217814",
@@ -33,17 +33,24 @@
 			"pubDate":"Thu, 26 Oct 2023 20:16:00 +0900"
 		},
 		{
-			"title":"포스코이앤씨, 안전한 '다층 용접 자동화 기술' 개발",
-			"originallink":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=973084",
-			"link":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=973084",
-			"description":"포스코이앤씨가 올해 개발한 다층 용접 자동화 시공 기술을 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의... 포스코이앤씨는 올해 개발한 다층 용접 자동화 시공 기술을 지난 9월 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의... ",
-			"pubDate":"Thu, 26 Oct 2023 20:12:00 +0900"
+			"title":"인천 민간아파트 분양가, 광역시 중 가장 저렴",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217815",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1217815",
+			"description":"▲ 사진은 인천 서구 <b>청라<\/b>국제도시 전경. \/이재민 기자 leejm@incheonilbo.com 인천의 민간아파트 평균 분양가격이 수도권은 물론 6대 광역시 중에서도 가장 낮은 것으로 조사됐다. 26일 주택도시보증공사(HUG)가... ",
+			"pubDate":"Thu, 26 Oct 2023 20:16:00 +0900"
 		},
 		{
 			"title":"포스코이앤씨 '다층 용접 자동화 시공' 제3연륙교 건설에 시범적용",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231026010005092",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231026010005092",
 			"description":"포스코이앤씨는 강교량(철제 다리) 공사에 사용할 수 있는 '다층 용접 자동화 시공 기술'을 개발해 인천 제3연륙교(영종~<b>청라<\/b>국제도시) 건설 현장 등에 시범적용했다고 26일 밝혔다.이 기술은 강판 종류와 두께, 용접 층에... ",
+			"pubDate":"Thu, 26 Oct 2023 20:12:00 +0900"
+		},
+		{
+			"title":"포스코이앤씨, 안전한 '다층 용접 자동화 기술' 개발",
+			"originallink":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=973084",
+			"link":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=973084",
+			"description":"포스코이앤씨가 올해 개발한 다층 용접 자동화 시공 기술을 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의... 포스코이앤씨는 올해 개발한 다층 용접 자동화 시공 기술을 지난 9월 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의... ",
 			"pubDate":"Thu, 26 Oct 2023 20:12:00 +0900"
 		},
 		{
@@ -54,17 +61,17 @@
 			"pubDate":"Thu, 26 Oct 2023 20:06:00 +0900"
 		},
 		{
-			"title":"인천시, 광역소각장 유치…인센티브 확대",
-			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1418666",
-			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1418666",
-			"description":"【기자】 현재 인천시에는 송도와 <b>청라<\/b> 2곳에서 광역소각장이 운영되고 있습니다. 이 중 <b>청라<\/b>소각장은 내구연안이 끝났고 송도소각장의 경우 2년 정도 더 사용할 수 있습니다. 이마저도 인천에서 발생하는 쓰레기를... ",
-			"pubDate":"Thu, 26 Oct 2023 20:06:00 +0900"
-		},
-		{
 			"title":"나누길 원하면 그냥 나누면 돼",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1055300",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1055300",
 			"description":"※ 적십자 사랑나눔 회비 모금캠페인 참여자 <b>청라<\/b>바다약국 3만 원, 최동순베이커리 4만 원, 남원추어탕 5만 원, 참이맛감자탕 7만 원, 문학동 행정복지센터 19만 원, 학익1동 행정복지센터 38만 원, 봉사회... ",
+			"pubDate":"Thu, 26 Oct 2023 20:06:00 +0900"
+		},
+		{
+			"title":"인천시, 광역소각장 유치 답보…인센티브 확대",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1418666",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1418666",
+			"description":"【기자】 현재 인천시에는 송도와 <b>청라<\/b> 2곳에서 광역소각장이 운영되고 있습니다. 이 중 <b>청라<\/b>소각장은 내구연안이 끝났고 송도소각장의 경우 2년 정도 더 사용할 수 있습니다. 이마저도 인천에서 발생하는 쓰레기를... ",
 			"pubDate":"Thu, 26 Oct 2023 20:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newstof.com\/news\/articleView.html?idxno=21879",
 			"description":"포스코이앤씨는 올해 개발한 다층 용접 자동화 시공 기술을 지난 9월 영종에서 <b>청라<\/b> 연결도로(제3연륙교) 건설공사의 강주탑 제작 공정에 시범적으로 적용해 그 성능을 입증했다고 밝혔다. 이에 따라 '화태-백야 도로... ",
 			"pubDate":"Thu, 26 Oct 2023 16:46:00 +0900"
-		},
-		{
-			"title":"인천시, 일자리 창출 유공자에 표창 수여",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20231026161146851",
-			"link":"https:\/\/www.ajunews.com\/view\/20231026161146851",
-			"description":"이번 모의훈련은 ‘서울도시철도7호선 <b>청라<\/b>연장선’을 대상으로 도시철도 건설공사 중 다수의 인명피해로 이어질 수 있는 가스유출, 토사붕괴 등 복합사고를 가정해 초기대응 및 긴급복구, 사고대책본부 구성, 유관기관... ",
-			"pubDate":"Thu, 26 Oct 2023 16:42:00 +0900"
 		}
 	]
 }
