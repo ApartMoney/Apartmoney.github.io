@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 27 Oct 2023 09:50:02 +0900",
-	"total":215251,
+	"lastBuildDate":"Fri, 27 Oct 2023 10:00:02 +0900",
+	"total":215252,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 홍양표 교수 초빙 '제1회 부모교육 아카데미' 개최",
+			"originallink":"https:\/\/www.lecturernews.com\/news\/articleView.html?idxno=138699",
+			"link":"https:\/\/www.lecturernews.com\/news\/articleView.html?idxno=138699",
+			"description":"서구는 오는 12월 14일에도 <b>청라<\/b> 블루노바홀에서 '노규식 원장과 함께하는 슬기로운 부모생활'이라는 주제로 제2회 부모교육 아카데미를 개최할 예정이다. 참석 주민을 대상으로 하는 2회차의 설문조사를 실시해, 2024년... ",
+			"pubDate":"Fri, 27 Oct 2023 09:52:00 +0900"
+		},
 		{
 			"title":"인천시, 안전사고 제로(Zero) 위해 재난대응 합동훈련 실시",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310270930275440146",
@@ -131,17 +138,17 @@
 			"pubDate":"Thu, 26 Oct 2023 20:16:00 +0900"
 		},
 		{
-			"title":"포스코이앤씨 '다층 용접 자동화 시공' 제3연륙교 건설에 시범적용",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231026010005092",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231026010005092",
-			"description":"포스코이앤씨는 강교량(철제 다리) 공사에 사용할 수 있는 '다층 용접 자동화 시공 기술'을 개발해 인천 제3연륙교(영종~<b>청라<\/b>국제도시) 건설 현장 등에 시범적용했다고 26일 밝혔다.이 기술은 강판 종류와 두께, 용접 층에... ",
-			"pubDate":"Thu, 26 Oct 2023 20:12:00 +0900"
-		},
-		{
 			"title":"포스코이앤씨, 안전한 '다층 용접 자동화 기술' 개발",
 			"originallink":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=973084",
 			"link":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=973084",
 			"description":"포스코이앤씨가 올해 개발한 다층 용접 자동화 시공 기술을 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의... 포스코이앤씨는 올해 개발한 다층 용접 자동화 시공 기술을 지난 9월 영종~<b>청라<\/b> 연결도로(제3연륙교) 건설공사의... ",
+			"pubDate":"Thu, 26 Oct 2023 20:12:00 +0900"
+		},
+		{
+			"title":"포스코이앤씨 '다층 용접 자동화 시공' 제3연륙교 건설에 시범적용",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231026010005092",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231026010005092",
+			"description":"포스코이앤씨는 강교량(철제 다리) 공사에 사용할 수 있는 '다층 용접 자동화 시공 기술'을 개발해 인천 제3연륙교(영종~<b>청라<\/b>국제도시) 건설 현장 등에 시범적용했다고 26일 밝혔다.이 기술은 강판 종류와 두께, 용접 층에... ",
 			"pubDate":"Thu, 26 Oct 2023 20:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000842776?sid=110",
 			"description":"째깍째깍. 지금 이 순간에도 시간은 흐르고 있다. 홍준표 대구시장이 정한 대구경북신공항 건설사업의 '컨틴전시 플랜(비상 계획)' 가동 시한은 11월 1일. 신공항 건설사업이 격랑에 휩싸이지 않으려면 남은 닷새 동안... ",
 			"pubDate":"Thu, 26 Oct 2023 18:40:00 +0900"
-		},
-		{
-			"title":"인천시, 백령공항 운영권 확보 원점 재검토",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20231026580237",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000024385?sid=100",
-			"description":"한편, 시는 내년 초 <b>청라<\/b>(드론시험인증센터)~아라뱃길~계양신도시를 잇는 총 14㎞ 구간에 대한 도심항공교통(UAM) 실증 비행을 추진한다. 앞서 시는 UAM 체계 도입을 위한 운항·이착륙장 등의 플랫폼 체계를 검토하는 등... ",
-			"pubDate":"Thu, 26 Oct 2023 18:33:00 +0900"
 		}
 	]
 }
