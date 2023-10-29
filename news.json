@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 30 Oct 2023 05:00:02 +0900",
-	"total":215316,
+	"lastBuildDate":"Mon, 30 Oct 2023 05:10:02 +0900",
+	"total":215317,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 주요일정]인천·김포·부천(10월30일 월요일)",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20231029_0002500708&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012175600?sid=102",
+			"description":"대회, <b>청라<\/b>파크골프장 ▲오후 2시 부천시 인구정책 토크콘서트, 판타스틱큐브 ▲오후 2시 제6회 인천시 장애인 직업 재활의날, 대회의실 ▲오후 2시 인천시 정책연구모임 해움 5기 최종강연, 대회의실 ▲오후 3시... ",
+			"pubDate":"Mon, 30 Oct 2023 05:01:00 +0900"
+		},
 		{
 			"title":"iH, 구월2 공공주택지구 지구지정으로 사업 본격 추진",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20231029010007719",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1013787",
 			"description":"28일부터 29일까지 보령시 <b>청라<\/b>면 장현1리 은행마을 신경섭 전통가옥 및 정촌유기농원 일원에서 '제9회 <b>청라<\/b>은행마을 축제'가 진행되고 있다. 은행마을의 매력 포인트는 신경섭 가옥으로 고택 주변에는 수령 500여 년 된... ",
 			"pubDate":"Sat, 28 Oct 2023 22:40:00 +0900"
-		},
-		{
-			"title":"[포토] 제9회 <b>청라<\/b>은행마을 축제 진행",
-			"originallink":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=314325",
-			"link":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=314325",
-			"description":"보령시는 지난 28일부터 29일까지 2일간 <b>청라<\/b>면 장현1리 은행마을 신경섭 전통가옥 및 정촌유기농원 일원에서 제9회 <b>청라<\/b>은행마을 축제가 진행되고 있다고 밝혔다. \/ 보령시청 제공보령시는 지난 28일부터 29일까지... ",
-			"pubDate":"Sat, 28 Oct 2023 20:46:00 +0900"
 		}
 	]
 }
