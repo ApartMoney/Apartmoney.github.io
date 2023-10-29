@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Sun, 29 Oct 2023 20:10:02 +0900",
-	"total":215304,
+	"lastBuildDate":"Sun, 29 Oct 2023 20:20:02 +0900",
+	"total":215307,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제자유구역 20년 성과와 미래",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1055476",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1055476",
+			"description":"송도, <b>청라<\/b> 그리고 영종으로 구성된 현재 인천경제자유구역은 각각 다른 목적으로 매립을 시작한 후... <b>청라<\/b>지구는 1980년 쌀 자립화를 위해 민간기업의 대규모 간척사업으로, 그리고 영종지구는 1990년 신공항입지... ",
+			"pubDate":"Sun, 29 Oct 2023 20:16:00 +0900"
+		},
+		{
+			"title":"'9년 휴업' 영종하늘도시 크린넷 빠르면 내년 말 가동",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1055546",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1055546",
+			"description":"송도·<b>청라<\/b>국제도시 자동집하시설은 2021년 7월 중앙분쟁조정위원회의 조정(안)에 따라 합의를 이뤄 올해 1월 연수구와 서구로 소유권이 이전 완료됐다. 김진용 인천경제청장은 &quot;오랜 기간 자동집하시설이 가동되지... ",
+			"pubDate":"Sun, 29 Oct 2023 20:16:00 +0900"
+		},
+		{
+			"title":"1만6000가구 공급 '구월2지구' 개발 속도",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1055545",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1055545",
+			"description":"조동암 사장은 &quot;인천은 송도, <b>청라<\/b>, 검단신도시 같은 도시 외곽에 개발이 집중돼 원도심 인구 유출이 있었는데, 구월2지구 개발로 원도심 인구 유출 방지는 물론 도시 균형발전에 기여하겠다&quot;고 말했다. 구월2... ",
+			"pubDate":"Sun, 29 Oct 2023 20:16:00 +0900"
+		},
 		{
 			"title":"[줌인 ifez] 11월 <b>청라<\/b>시티타워 공사비 용역… 물가인상분 등 고려 추가 재산...",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231027010004688",
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=188652",
 			"description":"한편 송도·<b>청라<\/b>국제도시의 자동집하시설은 지난 2021년7월 중앙분쟁조정위원회의 조정안에 따라 합의를 이뤄 올해 1월 연수구와 서구청으로 소유권이 이전 완료됐습니다. 김진용 청장은 &quot;오랜 기간동안... ",
 			"pubDate":"Fri, 27 Oct 2023 18:52:00 +0900"
-		},
-		{
-			"title":"인천경제청, 영종하늘도시 자동크린넷 내년 말 가동 전망",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20231027010007508",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20231027010007508",
-			"description":"한편 송도·<b>청라<\/b>국제도시의 자동집하시설은 2021년 7월 중앙분쟁조정위원회의 조정안에 따라 합의를 이뤄 올해 1월 연수구와 서구청으로 소유권이 이전 완료됐다. 김진용 인천경제청장은 &quot;오랜 기간동안 자동집하시설이... ",
-			"pubDate":"Fri, 27 Oct 2023 18:28:00 +0900"
-		},
-		{
-			"title":"인천 영종하늘도시 자동크린넷, 2024년부터 가동 본격화",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20231027580100",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000024468?sid=102",
-			"description":"27일 인천 중구청에서 열린 ‘영종하늘도시 자동크린넷 인계인수 협약식’에서 (왼쪽부터) 김연중 LH(한국토지주택공사) <b>청라<\/b>영종사업단장, 김정헌 인천 중구청장, 김진용 인천경제청장, 박형균 인천도시공사(iH)... ",
-			"pubDate":"Fri, 27 Oct 2023 18:20:00 +0900"
-		},
-		{
-			"title":"(보령) 보령시 &quot;황금빛 <b>청라<\/b> 은행마을에서 축제 즐겨요&quot;",
-			"originallink":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/65752",
-			"link":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/65752",
-			"description":"보령시는 내일(28일)부터 이틀간 <b>청라<\/b>면 은행마을 일원에서 제9회 <b>청라<\/b>은행마을 축제를 개최합니다. <b>청라<\/b> 은행마을은 은행나무 천여 그루가 식재된 우리나라 최대 군락지로, 마을 전체가 노란 단풍으로 황금빛 물결을... ",
-			"pubDate":"Fri, 27 Oct 2023 18:06:00 +0900"
 		}
 	]
 }
