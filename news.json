@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 30 Oct 2023 14:00:02 +0900",
-	"total":215349,
+	"lastBuildDate":"Mon, 30 Oct 2023 14:10:02 +0900",
+	"total":215350,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서구, 2023년 하반기 불법자동차 합동단속",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20231030010007708",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20231030010007708",
+			"description":"인천서구, 2023년 하반기 불법자동차 합동단속 불법 자동차와 화물자동차로 인한 자동차 안전사고가 지속 증가 추세를 보임에 따라 이를 예방하기 위해 최근 서구가 <b>청라<\/b> 톨게이트 에서 불법 자동차 합동단속에 돌입했다.... ",
+			"pubDate":"Mon, 30 Oct 2023 14:08:00 +0900"
+		},
 		{
 			"title":"인천도시공사, 수도권 미분양 물량 연초 대비 37% 감소",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1778832",
@@ -145,17 +152,17 @@
 			"pubDate":"Mon, 30 Oct 2023 10:25:00 +0900"
 		},
 		{
-			"title":"iH, 구월2 공공주택지구 지구지정 '2024년 용역 착수'",
-			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20231030010008255",
-			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20231030010008255",
-			"description":"iH 조동암 사장은 &quot;그동안 인천은 송도, <b>청라<\/b>, 검단신도시 등 도시 외곽에 개발이 집중되어 원도심 인구 유출이 있어 왔는데, 구월2지구 개발을 통해 원도심 인구 유출 방지 및 도시 균형발전에 기여할 것&quot;이며 &quot;향후... ",
-			"pubDate":"Mon, 30 Oct 2023 10:20:00 +0900"
-		},
-		{
 			"title":"iH, 구월2 공공주택지구 지구지정으로 사업 본격 추진",
 			"originallink":"http:\/\/kpenews.com\/View.aspx?No=2990995",
 			"link":"http:\/\/kpenews.com\/View.aspx?No=2990995",
 			"description":"iH 조동암 사장은 “그동안 인천은 송도, <b>청라<\/b>, 검단신도시 등 도시 외곽에 개발이 집중돼 원도심 인구 유출이 있어 왔는데, 구월2지구 개발을 통해 원도심 인구 유출 방지 및 도시 균형발전에 기여할 것”이라며“향후... ",
+			"pubDate":"Mon, 30 Oct 2023 10:20:00 +0900"
+		},
+		{
+			"title":"iH, 구월2 공공주택지구 지구지정 '2024년 용역 착수'",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20231030010008255",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20231030010008255",
+			"description":"iH 조동암 사장은 &quot;그동안 인천은 송도, <b>청라<\/b>, 검단신도시 등 도시 외곽에 개발이 집중되어 원도심 인구 유출이 있어 왔는데, 구월2지구 개발을 통해 원도심 인구 유출 방지 및 도시 균형발전에 기여할 것&quot;이며 &quot;향후... ",
 			"pubDate":"Mon, 30 Oct 2023 10:20:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2051493",
 			"description":"iH 조동암 사장은 &quot;그동안 인천은 송도, <b>청라<\/b>, 검단신도시 등 도시 외곽에 개발이 집중돼 원도심 인구 유출이 있어 왔는데, 구월2지구 개발을 통해 원도심 인구 유출 방지 및 도시 균형 발전에 기여할 것이다&quot;며 &quot;향후... ",
 			"pubDate":"Mon, 30 Oct 2023 08:30:00 +0900"
-		},
-		{
-			"title":"인천도시공사, 구월2 공공주택지구 지구지정으로 사업 본격 추진",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1778410",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1778410",
-			"description":"조동암 공사 사장은 “그동안 인천은 송도, <b>청라<\/b>, 검단신도시 등 도시 외곽에 개발이 집중돼 원도심 인구 유출이 있어 왔다”며, “구월2지구 개발을 통해 원도심 인구 유출 방지 및 도시 균형 발전에 기여할 것”이라고... ",
-			"pubDate":"Mon, 30 Oct 2023 08:02:00 +0900"
 		}
 	]
 }
