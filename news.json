@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 30 Oct 2023 19:00:03 +0900",
-	"total":215372,
+	"lastBuildDate":"Mon, 30 Oct 2023 19:10:02 +0900",
+	"total":215373,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천도시공사, 분양 아파트 경쟁률 고공행진",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1218306",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1218306",
+			"description":"인천도시공사 인천도시공사(iH)는 최근 무순위(사후)로 공급한 <b>청라<\/b>웰카운티 19단지의 경쟁률이 2173대 1을 기록했다고 30일 밝혔다. 이미 준공된 아파트이자 현 상태 그대로 계약하는 조건이다. 하지만 최초 분양 당시... ",
+			"pubDate":"Mon, 30 Oct 2023 19:04:00 +0900"
+		},
 		{
 			"title":"파리올림픽 빛낼 UAM, 인천 하늘 먼저 뜬다",
 			"originallink":"https:\/\/www.hankyung.com\/article\/2023103089721",
@@ -96,17 +103,17 @@
 			"pubDate":"Mon, 30 Oct 2023 15:38:00 +0900"
 		},
 		{
-			"title":"DL이앤씨 'e편한세상' 분양 흥행…'e편한세상 검단 웰카운티' 완판 기대감",
-			"originallink":"https:\/\/www.theguru.co.kr\/news\/article.html?no=61956",
-			"link":"https:\/\/www.theguru.co.kr\/news\/article.html?no=61956",
-			"description":"진행되며, 국민주택의 정당 계약은 11월 27일~12월 3일 7일간 진행된다. 주택전시관은 인천광역시 서구 <b>청라<\/b>동 일원에 위치해 있으며, 입주는 2026년 7월 예정이다. e편한세상 검단 웰카운티 단지 투시도 (사진=DL이앤씨)",
-			"pubDate":"Mon, 30 Oct 2023 15:16:00 +0900"
-		},
-		{
 			"title":"인생건어물맥주, '하이볼 1잔마다 100원씩 기부' 제도로 고객 호응 얻어",
 			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=331428",
 			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=331428",
 			"description":"인생건어물맥주는 현재 직영점인 인천<b>청라<\/b>수변점부터 유기견 보호 기부 제도를 시행하고 있다. 가맹점주들에게 부담을 주지 않기 위해 직영점 위주로 제도를 운영하고 있으며 앞으로 자원하는 매장에서만 선별적으로... ",
+			"pubDate":"Mon, 30 Oct 2023 15:16:00 +0900"
+		},
+		{
+			"title":"DL이앤씨 'e편한세상' 분양 흥행…'e편한세상 검단 웰카운티' 완판 기대감",
+			"originallink":"https:\/\/www.theguru.co.kr\/news\/article.html?no=61956",
+			"link":"https:\/\/www.theguru.co.kr\/news\/article.html?no=61956",
+			"description":"진행되며, 국민주택의 정당 계약은 11월 27일~12월 3일 7일간 진행된다. 주택전시관은 인천광역시 서구 <b>청라<\/b>동 일원에 위치해 있으며, 입주는 2026년 7월 예정이다. e편한세상 검단 웰카운티 단지 투시도 (사진=DL이앤씨)",
 			"pubDate":"Mon, 30 Oct 2023 15:16:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202310301130537180861",
 			"description":"실제로, 최근 iH(인천도시공사)가 10월 무순위(사후)로 공급한 <b>청라<\/b>웰카운티 19단지(2차)는 2173대 1의 경쟁률을 기록했다. 이미 준공된 아파트로 현 상태 그대로 계약하는 조건이지만, 최초 분양 당시의 분양가격 공급 및... ",
 			"pubDate":"Mon, 30 Oct 2023 11:42:00 +0900"
-		},
-		{
-			"title":"수도권 미분양 물량 연초 대비 37% 감소....공공 분양 아파트에 부동산 시장 ...",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=414771",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=414771",
-			"description":"실제로, 최근 iH(인천도시공사)가 10월 무순위(사후)로 공급한 <b>청라<\/b>웰카운티 19단지(2차)는 2,173대 1의 경쟁률을 기록했다. 이미 준공된 아파트로 현 상태 그대로 계약하는 조건이지만, 최초 분양 당시의 분양가격 공급 및... ",
-			"pubDate":"Mon, 30 Oct 2023 11:40:00 +0900"
 		}
 	]
 }
