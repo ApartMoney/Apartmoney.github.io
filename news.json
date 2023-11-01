@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 01 Nov 2023 17:10:02 +0900",
-	"total":215466,
+	"lastBuildDate":"Wed, 01 Nov 2023 17:20:02 +0900",
+	"total":215467,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[단독] 수도권 지자체 소각장들, 절반 이상이 대기오염물질 상습 초과배출",
+			"originallink":"http:\/\/www.sisajournal.com\/news\/articleView.html?idxno=275527",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000066939?sid=102",
+			"description":"인천은 <b>청라<\/b>자원환경센터가 64만3700원으로 가장 많았고, 송도자원환경센터(10만1760원)와... (45만7720원), <b>청라<\/b>자원환경센터(19만6530원), 군포환경관리소(19만1580원) 등은 10만원 이상의 염화수소 초과부과금이... ",
+			"pubDate":"Wed, 01 Nov 2023 17:10:00 +0900"
+		},
 		{
 			"title":"인천 미래산업 '바이오·반도체·친환경에너지' 등 집중 육성",
 			"originallink":"http:\/\/www.newspim.com\/news\/view\/20231101001319",
@@ -12,7 +19,7 @@
 			"pubDate":"Wed, 01 Nov 2023 17:01:00 +0900"
 		},
 		{
-			"title":"[포토] 리본카, '찾아가는 서비스' 시행해",
+			"title":"[포토] 리본카, '찾아가는 서비스' 시행",
 			"originallink":"https:\/\/www.hankyung.com\/article\/202311015567i",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004909175?sid=101",
 			"description":"직영중고차 브랜드 리본카의 '찾아가는 서비스' 요원이 1일 인천 <b>청라<\/b>에서 고객 차량 상태를 점검하고 있다. 직영중고차 브랜드 리본카의 '찾아가는 서비스' 요원이 1일 인천 <b>청라<\/b>에서 고객 차량의 엔진 오일 상태를... ",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20231101010000134",
 			"description":"벨트' ▲<b>청라<\/b>의 '로봇-모빌리티-첨단의료 벨트' ▲검단·영흥의'친환경-미래에너지 벨트' ▲주안·부평... 조성' ▲<b>청라<\/b>, 영종, 송도, 영흥, 남동, 계양, 주안부평 등 지역 간'혁신·상생·공유 균형발전'이다. 마지막으로... ",
 			"pubDate":"Wed, 01 Nov 2023 11:26:00 +0900"
-		},
-		{
-			"title":"인천시 세계 10대 도시 도약 이끌 미래 산업지도 그리다",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20231101010000173",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20231101010000173",
-			"description":"벨트와 <b>청라<\/b>의 로봇-모빌리티-첨단의료 벨트, 검단·영흥의’친환경-미래에너지 벨트, 주안·부평·계양의... 조성’ ▲<b>청라<\/b>, 영종, 송도, 영흥, 남동, 계양, 주안부평 등 지역 간‘혁신·상생·공유 균형발전’이라고... ",
-			"pubDate":"Wed, 01 Nov 2023 11:20:00 +0900"
 		}
 	]
 }
