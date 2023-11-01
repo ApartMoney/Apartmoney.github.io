@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 01 Nov 2023 10:10:02 +0900",
-	"total":215430,
+	"lastBuildDate":"Wed, 01 Nov 2023 10:20:02 +0900",
+	"total":215431,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 세계 10대 도시 도약 이끌 미래 산업지도 그린다",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1289962\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002764473?sid=102",
+			"description":"시는 우선 ‘세계 10대 도시 도약 이끌 첨단산업 벨트 구축’의 세부 과제로 송도·남동·영종에 ‘바이오-반도체-소부장 벨트’ <b>청라<\/b>의 ‘로봇-모빌리티-첨단의료 벨트’ 를, 검단·영흥에는 ‘친환경-미래에너지... ",
+			"pubDate":"Wed, 01 Nov 2023 10:18:00 +0900"
+		},
 		{
 			"title":"인천·부천·시흥 윈터스쿨 모집.. 수험생 니즈에 맞춘 `전과목 맞춤형 선택수...",
 			"originallink":"http:\/\/edu.donga.com\/?p=article&ps=view&at_no=20231031170128922882",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1218373",
 			"description":"서구 <b>청라<\/b>·검단, 계양 등 인천시민들이 피해를 입고 있는 만큼 '선직결-후정산'에 나서야 한다&quot;고 31일 밝혔다. 앞서 허 의원실은 국토부와 서울시에 각각 '인천시가 운영비를 부담해야 하는 법적 근거'에 대해... ",
 			"pubDate":"Tue, 31 Oct 2023 14:44:00 +0900"
-		},
-		{
-			"title":"“기다려 봐”라던 용진이 형 김원형 감독 경질로 현실화 SSG 창단 첫 우승 감...",
-			"originallink":"https:\/\/www.sportsseoul.com\/news\/read\/1364783?ref=naver",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=468&aid=0000996192",
-			"description":"야구와 유통을 결합하기 위해 인천 <b>청라<\/b> 국제도시에 대형 쇼핑몰과 돔구장을 동시에 건립할 만큼 열정적으로 지원하고 있다. 수시로 구장을 찾아 선수단을 격려하고, 작은 성의표시로 감동을 주는 등 ‘세상에 없던... ",
-			"pubDate":"Tue, 31 Oct 2023 13:53:00 +0900"
 		}
 	]
 }
