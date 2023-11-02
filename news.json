@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 02 Nov 2023 11:40:02 +0900",
-	"total":215495,
+	"lastBuildDate":"Thu, 02 Nov 2023 11:50:02 +0900",
+	"total":215496,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 2024년 예산 역대 최대인 15조원 규모로 편성",
+			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0002974515&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002411429?sid=102",
+			"description":"도로망 구축은 총 29개 사업 2062억 원을 투입하는 한편, 지하철은 인천 1호선 검단 연장과 7호선 <b>청라<\/b>... 바이오공정 인력양성센터 169억 원 등 신산업 육성으로 경쟁력을 강화하는 한편 영종~<b>청라<\/b> 제3연륙교 3107억 원... ",
+			"pubDate":"Thu, 02 Nov 2023 11:39:00 +0900"
+		},
 		{
 			"title":"인천시, 내년도 예산 15조 편성...역대 최대 규모",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20231102010000624",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1218710",
 			"description":"▲ 오는 25일 인천 <b>청라<\/b>국제도시 하나글로벌캠퍼스에서 열리는 '이재현과 함께하는 서구 ESG 토크 콘서트... '이재현과 함께하는 서구 ESG 토크 콘서트'가 오는 25일 오후 3시 인천시 서구 <b>청라<\/b>국제도시 하나글로벌캠퍼스... ",
 			"pubDate":"Wed, 01 Nov 2023 18:14:00 +0900"
-		},
-		{
-			"title":"[단독] 수도권 지자체 소각장들, 절반 이상이 대기오염물질 상습 초과배출",
-			"originallink":"http:\/\/www.sisajournal.com\/news\/articleView.html?idxno=275527",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000066939?sid=102",
-			"description":"인천은 <b>청라<\/b>자원환경센터가 64만3700원으로 가장 많았고, 송도자원환경센터(10만1760원)와... (45만7720원), <b>청라<\/b>자원환경센터(19만6530원), 군포환경관리소(19만1580원) 등은 10만원 이상의 염화수소 초과부과금이... ",
-			"pubDate":"Wed, 01 Nov 2023 17:10:00 +0900"
 		}
 	]
 }
