@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 03 Nov 2023 09:30:02 +0900",
-	"total":215557,
+	"lastBuildDate":"Fri, 03 Nov 2023 09:40:02 +0900",
+	"total":215558,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 내년도 예산 15조… 역대 최대 규모",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20231103000125",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002219494?sid=102",
+			"description":"인천 1호선 검단 연장과 7호선 <b>청라<\/b> 연장에 4234억원을 반영했다. 이밖에 경제자유구역의 고도화를 위해 1조4753억원을 반영한다. 바이오공정 인력양성센터 169억원, 영종~<b>청라<\/b> 제3연륙교에 3107억원을 편성했다.",
+			"pubDate":"Fri, 03 Nov 2023 09:37:00 +0900"
+		},
 		{
 			"title":"새 아파트 인테리어를 내 취향대로… 서한, VR기술 활용한 무료 인테리어 서비...",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20231101512578?OutUrl=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2845373",
 			"description":"지난 10월 30일에는 전국 동아리체전에 출전하는 인천<b>청라<\/b>중학교 탁구 동아리원을 상대로 탁구 강습을 시행했다. 유도단은 역시 오는 11월 4일부터 개최되는 '국가대표 1차 선발전'을 앞두고 훈련에 매진하며 구슬땀을... ",
 			"pubDate":"Thu, 02 Nov 2023 15:42:00 +0900"
-		},
-		{
-			"title":"인천시, 내년도 예산 15조원 규모 편성",
-			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=145983",
-			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=145983",
-			"description":"도로망 구축은 총 29개 사업 2,062억 원을 투입하는 한편, 지하철은 인천 1호선 검단 연장과 7호선 <b>청라<\/b>... 바이오공정 인력양성센터 169억 원 등 신산업 육성으로 경쟁력을 강화하는 한편 영종~<b>청라<\/b> 제3연륙교 3,107억 원... ",
-			"pubDate":"Thu, 02 Nov 2023 15:40:00 +0900"
 		}
 	]
 }
