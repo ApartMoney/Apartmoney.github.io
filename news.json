@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 06 Nov 2023 18:50:02 +0900",
-	"total":215628,
+	"lastBuildDate":"Mon, 06 Nov 2023 19:00:02 +0900",
+	"total":215629,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"스마트 물류 수주 '활기'에 현대무벡스, 올해 누적 수주 2700억원",
+			"originallink":"http:\/\/www.todaykorea.co.kr\/news\/articleView.html?idxno=312624",
+			"link":"http:\/\/www.todaykorea.co.kr\/news\/articleView.html?idxno=312624",
+			"description":"지난 2019년 대규모 <b>청라<\/b>R&amp;D센터를 연 현대무벡스는 하이테크 물류기술 개발에 주력하고 있으며, 첨단 물류 HW(설비\/장비)와 SW(운용시스템)를 겸비한 '토탈 스마트 물류 솔루션 사업자'라는 업계의 평가를 받고 있다.",
+			"pubDate":"Mon, 06 Nov 2023 18:50:00 +0900"
+		},
 		{
 			"title":"‘하천에 고립, 간판 떨어지고’…경인지역 비·강풍 피해 속출",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20231106580241",
@@ -12,17 +19,17 @@
 			"pubDate":"Mon, 06 Nov 2023 17:59:00 +0900"
 		},
 		{
-			"title":"인천시 미추홀도서관, '도서관에서 즐기는 음악회' 진행",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056846",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056846",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천시 미추홀도서관이 <b>청라<\/b>국제·영종하늘도서관에서 특별 공연... <b>청라<\/b>국제도서관은 오는 18일 오후 5시 2층 로비(원화전시코너)에서 공연팀 JINS가 연주하는 '도서관에 음악이... ",
-			"pubDate":"Mon, 06 Nov 2023 17:50:00 +0900"
-		},
-		{
 			"title":"인천시 강화군, 일상에서 실천 가능한 다양한 환경정책 추진",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056845",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056845",
 			"description":"강화지역 일반가정에서 배출하는 생활폐기물은 연간 약 6천t, 매월 약 500t이 발생하고 있으며, <b>청라<\/b>소각장과 수도권 매립지로 반출해 처리한다. 생활폐기물 외 음식물, 피서지·산자락 폐기물 같은 대형폐기물까지... ",
+			"pubDate":"Mon, 06 Nov 2023 17:50:00 +0900"
+		},
+		{
+			"title":"인천시 미추홀도서관, '도서관에서 즐기는 음악회' 진행",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056846",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056846",
+			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천시 미추홀도서관이 <b>청라<\/b>국제·영종하늘도서관에서 특별 공연... <b>청라<\/b>국제도서관은 오는 18일 오후 5시 2층 로비(원화전시코너)에서 공연팀 JINS가 연주하는 '도서관에 음악이... ",
 			"pubDate":"Mon, 06 Nov 2023 17:50:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=258498",
 			"description":"이날 함께 참여한 기관 총 50여명의 임직원들은 인천시 서구 <b>청라<\/b>동에 위치한 공촌천 주변(약 3㎞)에 버려진 비닐봉투, 일회용컵 등의 쓰레기를 줍고, 하천의 수질 정화에 효과가 있는 EM(Effective Micro-organism:유용한... ",
 			"pubDate":"Mon, 06 Nov 2023 12:16:00 +0900"
-		},
-		{
-			"title":"현대무벡스, 역대 최대 수주 기대... &quot;글로벌 기업 성장 총력&quot;",
-			"originallink":"http:\/\/www.newsdream.kr\/news\/articleView.html?idxno=49228",
-			"link":"http:\/\/www.newsdream.kr\/news\/articleView.html?idxno=49228",
-			"description":"2019년 대규모 <b>청라<\/b>R&amp;D센터를 열어 하이테크 물류기술 개발에 주력, 첨단 물류 HW(설비\/장비)와 SW(운용시스템)를 겸비한 '토탈 스마트 물류 솔루션 사업자'로 평가받고 있다. [뉴스드림]",
-			"pubDate":"Mon, 06 Nov 2023 11:48:00 +0900"
 		}
 	]
 }
