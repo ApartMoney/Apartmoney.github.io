@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 06 Nov 2023 20:00:02 +0900",
-	"total":215630,
+	"lastBuildDate":"Mon, 06 Nov 2023 20:10:02 +0900",
+	"total":215631,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"세입자 찾기 별따기… 전세값 깎는 집주인들",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231106010001173",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231106010001173",
+			"description":"신규 계약 당시 전세보증금이 5억5천만원이었던 연수구 송도국제도시 내 '송도SK뷰' 전용면적 84㎡ 유형은 지난달 3억5천만원으로 2억원을 낮춰 재계약됐고, 서구 <b>청라<\/b>국제도시의 '<b>청라<\/b>제일풍경채 2차' 전용면적 115... ",
+			"pubDate":"Mon, 06 Nov 2023 20:04:00 +0900"
+		},
 		{
 			"title":"신호등 넘어가고 전선 끊기고… 인천 강풍 피해 50건",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363619332",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001132839?sid=101",
 			"description":"또한 <b>청라<\/b>~강서 BRT(간선급행버스체계) 정류장이 단지 바로 앞에 위치해 있어 서울 출퇴근이 편리하다. 아울러 3기 신도시로 지정된 계양 테크노밸리가 인근에 위치해 있다. 인천시청에 따르면 계양 테크노밸리는... ",
 			"pubDate":"Mon, 06 Nov 2023 13:00:00 +0900"
-		},
-		{
-			"title":"현대무벡스, 2달간 스마트물류 3건 잇단 수주",
-			"originallink":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=244969",
-			"link":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=244969",
-			"description":"현대무벡스 <b>청라<\/b>R&amp;D센터 전경. (사진=현대무벡스) 현대그룹 물류자동화 계열사 현대무벡스는 최근 두 달간 스마트물류 3건을 수주했다고 6일 밝혔다. 지난 9월에는 글로벌 배터리 기업과 물류 자동화 공급 계약을... ",
-			"pubDate":"Mon, 06 Nov 2023 12:32:00 +0900"
 		}
 	]
 }
