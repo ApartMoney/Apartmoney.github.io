@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 07 Nov 2023 03:00:02 +0900",
-	"total":215634,
+	"lastBuildDate":"Tue, 07 Nov 2023 03:10:03 +0900",
+	"total":215635,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"“예술로 표현한 지구 이야기 구경해보세요”",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20231106\/122051053\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003529651?sid=102",
+			"description":"5일 인천 서구 <b>청라<\/b>동 <b>청라<\/b>블루노바홀을 찾은 시민들이 ‘아프로 지구별 아트로’ 전시회를 관람하고 있다. 이 전시회는 기후 위기 속 ‘앞으로(아프로)’ 지켜 나가야 할 ‘지구별’을 주제로 26일까지 열린다.",
+			"pubDate":"Tue, 07 Nov 2023 03:06:00 +0900"
+		},
 		{
 			"title":"인천 서구문화재단, 11일까지 '2023 서구가 아트페어' 개최",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056817",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=647778",
 			"description":"현대무벡스 <b>청라<\/b>R&amp;D센터.(사진=현대무벡스) 현대무벡스가 2차전지 신사업을 비롯해 식음료·제약 등 다양한 산업에서 고른 스마트 물류 수주를 이어가고 있다. 6일 현대무벡스에 따르면 회사는 지난 9월 글로벌... ",
 			"pubDate":"Mon, 06 Nov 2023 13:40:00 +0900"
-		},
-		{
-			"title":"인천서구문화재단, 2023 ‘서구가 아트페어’ 개최",
-			"originallink":"http:\/\/www.breaknews.com\/996521",
-			"link":"http:\/\/www.breaknews.com\/996521",
-			"description":"(재)인천서구문화재단이 오는 11일까지 <b>청라<\/b>블루노바홀 로비(2층) 공간에서 서구지역 작가들과 함께 ‘서구가 아트페어’를 개최한다고 밝혔다. 서구에 따르면... ",
-			"pubDate":"Mon, 06 Nov 2023 13:26:00 +0900"
 		}
 	]
 }
