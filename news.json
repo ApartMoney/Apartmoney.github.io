@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 06 Nov 2023 19:20:02 +0900",
-	"total":215629,
+	"lastBuildDate":"Mon, 06 Nov 2023 19:30:02 +0900",
+	"total":215630,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"신호등 넘어가고 전선 끊기고… 인천 강풍 피해 50건",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363619332",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363619332",
+			"description":"오후에도 강풍이 지속되며 강화군 양도면에서 전선이 끊어지고 서구 <b>청라<\/b>동에서 신호등이 쓰러지기도 했다. 이날 순간 최대 풍속 기준으로 옹진군 서수도는 초속 25.9ｍ, 중구 왕산 25.3ｍ, 연수구 송도동 21.1ｍ, 강화... ",
+			"pubDate":"Mon, 06 Nov 2023 19:22:00 +0900"
+		},
 		{
 			"title":"스마트 물류 수주 '활기'에 현대무벡스, 올해 누적 수주 2700억원",
 			"originallink":"http:\/\/www.todaykorea.co.kr\/news\/articleView.html?idxno=312624",
@@ -19,17 +26,17 @@
 			"pubDate":"Mon, 06 Nov 2023 17:59:00 +0900"
 		},
 		{
-			"title":"인천시 강화군, 일상에서 실천 가능한 다양한 환경정책 추진",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056845",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056845",
-			"description":"강화지역 일반가정에서 배출하는 생활폐기물은 연간 약 6천t, 매월 약 500t이 발생하고 있으며, <b>청라<\/b>소각장과 수도권 매립지로 반출해 처리한다. 생활폐기물 외 음식물, 피서지·산자락 폐기물 같은 대형폐기물까지... ",
-			"pubDate":"Mon, 06 Nov 2023 17:50:00 +0900"
-		},
-		{
 			"title":"인천시 미추홀도서관, '도서관에서 즐기는 음악회' 진행",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056846",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056846",
 			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천시 미추홀도서관이 <b>청라<\/b>국제·영종하늘도서관에서 특별 공연... <b>청라<\/b>국제도서관은 오는 18일 오후 5시 2층 로비(원화전시코너)에서 공연팀 JINS가 연주하는 '도서관에 음악이... ",
+			"pubDate":"Mon, 06 Nov 2023 17:50:00 +0900"
+		},
+		{
+			"title":"인천시 강화군, 일상에서 실천 가능한 다양한 환경정책 추진",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056845",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056845",
+			"description":"강화지역 일반가정에서 배출하는 생활폐기물은 연간 약 6천t, 매월 약 500t이 발생하고 있으며, <b>청라<\/b>소각장과 수도권 매립지로 반출해 처리한다. 생활폐기물 외 음식물, 피서지·산자락 폐기물 같은 대형폐기물까지... ",
 			"pubDate":"Mon, 06 Nov 2023 17:50:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=244969",
 			"description":"현대무벡스 <b>청라<\/b>R&amp;D센터 전경. (사진=현대무벡스) 현대그룹 물류자동화 계열사 현대무벡스는 최근 두 달간 스마트물류 3건을 수주했다고 6일 밝혔다. 지난 9월에는 글로벌 배터리 기업과 물류 자동화 공급 계약을... ",
 			"pubDate":"Mon, 06 Nov 2023 12:32:00 +0900"
-		},
-		{
-			"title":"'ESG 애쓰자' 녹색금융 캠페인",
-			"originallink":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=258498",
-			"link":"http:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=258498",
-			"description":"이날 함께 참여한 기관 총 50여명의 임직원들은 인천시 서구 <b>청라<\/b>동에 위치한 공촌천 주변(약 3㎞)에 버려진 비닐봉투, 일회용컵 등의 쓰레기를 줍고, 하천의 수질 정화에 효과가 있는 EM(Effective Micro-organism:유용한... ",
-			"pubDate":"Mon, 06 Nov 2023 12:16:00 +0900"
 		}
 	]
 }
