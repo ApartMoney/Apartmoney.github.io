@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 06 Nov 2023 11:20:02 +0900",
-	"total":215595,
+	"lastBuildDate":"Mon, 06 Nov 2023 11:30:03 +0900",
+	"total":215596,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 도서관, 11월 특별공연‘도서관에서 즐기는 음악회’",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202311061113171330912",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202311061113171330912",
+			"description":"<b>청라<\/b>국제·영종하늘도서관 실내에서 열리는 작은 음악회 인천시(시장 유정복) 미추홀도서관은 분관인 <b>청라<\/b>국제·영종하늘도서관에서 11월 특별 공연 ‘도서관에서 즐기는 음악회’를 진행한다고 6일 밝혔다. 이번... ",
+			"pubDate":"Mon, 06 Nov 2023 11:22:00 +0900"
+		},
 		{
 			"title":"현대무벡스, 올해 2700억 누적 수주 “최대 수주 경신 기대”",
 			"originallink":"https:\/\/www.hellot.net\/news\/article.html?no=83709",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2023\/11\/03\/2023110302344.html",
 			"description":"시세 상승을 견인하던 송도를 비롯해 <b>청라<\/b>, 영종도 등 신축 아파트도 예외가 아니다. 입주 물량이... 계양신도시 입주 예상 시점인 2026~2027년엔 송도, <b>청라<\/b>, 영종도 등 기존 인천 주요 지역 아파트는 신축에서... ",
 			"pubDate":"Sat, 04 Nov 2023 07:02:00 +0900"
-		},
-		{
-			"title":"정기환 한국마사회장, 항저우 아시안게임 출전 유도&amp;탁구 선수단 격려",
-			"originallink":"http:\/\/www.osen.co.kr\/article\/G1112215833",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=109&aid=0004959268",
-			"description":"지난 10월 30일에는 전국 동아리체전에 출전하는 인천<b>청라<\/b>중학교 탁구 동아리원을 상대로 탁구 강습을 시행했다. 유도단은 역시 오는 11월 4일부터 개최되는 ‘국가대표 1차 선발전’을 앞두고 훈련에 매진하며 구슬땀을... ",
-			"pubDate":"Fri, 03 Nov 2023 20:54:00 +0900"
 		}
 	]
 }
