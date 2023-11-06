@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 06 Nov 2023 13:10:02 +0900",
-	"total":215601,
+	"lastBuildDate":"Mon, 06 Nov 2023 13:20:02 +0900",
+	"total":215602,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서구문화재단,'서구가 아트페어' 개최",
+			"originallink":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=63874",
+			"link":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=63874",
+			"description":"인천서구문화재단, 이달 11일까지 2023 서구가 아트페어 개최 (재)인천서구문화재단이 이달 3일부터 11일까지 <b>청라<\/b>블루노바홀 로비(2층) 공간에서 서구지역 작가들과 함께 '서구가 아트페어'를 개최한다. '서구가... ",
+			"pubDate":"Mon, 06 Nov 2023 13:18:00 +0900"
+		},
 		{
 			"title":"서울 접근성 갖춘 직주근접 아파트 ‘두산위브더제니스 센트럴 계양’ 분양 예...",
 			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202311060142&t=NN",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1219225",
 			"description":"중구는 중산동 신축 대단지 위주로, 서구는 원당·<b>청라<\/b>동 신도시 내 신축 위주로 전세가격이 올랐다. 남동구는 만수·논현·서창동 위주로, 연수구는 교통환경 양호한 송도·연수·동춘동 위주로 상승한 것으로... ",
 			"pubDate":"Sun, 05 Nov 2023 19:10:00 +0900"
-		},
-		{
-			"title":"인천서구문화재단, 환경특별전시회… 26일까지 무료·시간당 30명 제한",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231103010000623",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231103010000623",
-			"description":"인천서구문화재단이 한국문화예술회관연합회 '방방곡곡문화공감' 기획제작사업의 일환으로 오는 26일까지 <b>청라<\/b>블루노바홀 전시장에서 환경특별전 '아프로 지구별 아트로'를 개최한다.'아프로 지구별 아트로'는... ",
-			"pubDate":"Sun, 05 Nov 2023 18:54:00 +0900"
 		}
 	]
 }
