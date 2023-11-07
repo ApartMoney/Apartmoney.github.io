@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 07 Nov 2023 10:10:02 +0900",
-	"total":215640,
+	"lastBuildDate":"Tue, 07 Nov 2023 10:20:02 +0900",
+	"total":215641,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"10월 5주차 전국 부동산 시세, 아파트 매매·전세 가격",
+			"originallink":"https:\/\/www.bntnews.co.kr\/article\/view\/bnt202311070020",
+			"link":"https:\/\/www.bntnews.co.kr\/article\/view\/bnt202311070020",
+			"description":"중구(0.32%)는 중산동 신축 대단지 위주로, 서구(0.24%)는 원당‧<b>청라<\/b>동 신도시 내 신축 위주로, 남동구(0.19%)는 만수‧논현‧서창동 위주로, 연수구(0.07%)는 교통환경 양호한 송도‧연수‧동춘동 위주로 상승했다. 경기... ",
+			"pubDate":"Tue, 07 Nov 2023 10:18:00 +0900"
+		},
 		{
 			"title":"직주근접 아파트 ‘두산위브더제니스 센트럴 계양’",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023110709385399720",
@@ -47,17 +54,17 @@
 			"pubDate":"Tue, 07 Nov 2023 03:06:00 +0900"
 		},
 		{
-			"title":"[4·10 총선 표밭 가는 사람들] 인천 서구갑",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056902",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056902",
-			"description":"현재 서구갑 선거구는 가정1·2·3동, 신현원창동, 석남1·2·3동, 가좌1·2·3·4동, <b>청라<\/b>1·2동인데, 선거구를 조정한다면 서구을에 속한 <b>청라<\/b>3동이 서구갑으로 옮길 가능성이 높다. 같은 생활권이기 때문이다. 서구갑은 역대... ",
-			"pubDate":"Mon, 06 Nov 2023 21:06:00 +0900"
-		},
-		{
 			"title":"인천 서구문화재단, 11일까지 '2023 서구가 아트페어' 개최",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056817",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056817",
 			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천 서구문화재단은 오는 11일까지 <b>청라<\/b>블루노바홀 로비에서 서구지역 작가들과 함께 '2023 서구가 아트페어'를 개최한다. 서구가 아트페어에는 인천 서구 일상공간 속 미술관... ",
+			"pubDate":"Mon, 06 Nov 2023 21:06:00 +0900"
+		},
+		{
+			"title":"[4·10 총선 표밭 가는 사람들] 인천 서구갑",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056902",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1056902",
+			"description":"현재 서구갑 선거구는 가정1·2·3동, 신현원창동, 석남1·2·3동, 가좌1·2·3·4동, <b>청라<\/b>1·2동인데, 선거구를 조정한다면 서구을에 속한 <b>청라<\/b>3동이 서구갑으로 옮길 가능성이 높다. 같은 생활권이기 때문이다. 서구갑은 역대... ",
 			"pubDate":"Mon, 06 Nov 2023 21:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003830577?sid=102",
 			"description":"인천시 도서관, 11월 특별공연 개최 인천시 미추홀도서관은 오는 18일과 23일 분관인 <b>청라<\/b>국제도서관과 영종하늘도서관에서 각각 '도서관에서 즐기는 음악회'를 연다고 밝혔습니다. <b>청라<\/b>국제도서관은 오는 18일 2층... ",
 			"pubDate":"Mon, 06 Nov 2023 15:02:00 +0900"
-		},
-		{
-			"title":"도서관이야, 공연장이야? 인천시의 '도서관 음악회'",
-			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0002975606&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002411768?sid=102",
-			"description":"<b>청라<\/b>국제·영종하늘도서관 11월 특별공연 인천시(시장 유정복) 미추홀도서관은 분관인 <b>청라<\/b>국제·영종하늘도서관에서 11월 특별 공연 '도서관에서 즐기는 음악회'를 진행한다. 이번 음악회는 도서관이 지역의 핵심... ",
-			"pubDate":"Mon, 06 Nov 2023 14:54:00 +0900"
 		}
 	]
 }
