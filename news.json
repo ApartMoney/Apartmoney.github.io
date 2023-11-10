@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 10 Nov 2023 09:00:02 +0900",
-	"total":215737,
+	"lastBuildDate":"Fri, 10 Nov 2023 09:10:02 +0900",
+	"total":215738,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'메가시티'로 도시 확장 통해 상전벽해된 '이곳'",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01777766635804408",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005616386?sid=101",
+			"description":"인천 <b>청라<\/b>·루원시티 도시확장으로 가치도 ‘쑥’ 10일 분양업계에 따르면 입주를 대부분 마친 루원시티가 <b>청라<\/b>국제도시와 인접해 있어 생활권을 공유하고 있다. 현재 <b>청라<\/b>국제도시와 루원시티를 아우르는 대규모의... ",
+			"pubDate":"Fri, 10 Nov 2023 09:07:00 +0900"
+		},
 		{
 			"title":"인천시 긴급차량 골든타임 확보, 적극행정 '대통령상'수상",
 			"originallink":"http:\/\/www.newsinside.kr\/news\/articleView.html?idxno=1384178",
@@ -131,10 +138,10 @@
 			"pubDate":"Thu, 09 Nov 2023 16:56:00 +0900"
 		},
 		{
-			"title":"박수치는 유정복 인천시장",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20231109_0020123479",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012200245?sid=102",
-			"description":"유정복 인천시장이 9일 오전 인천 서구 <b>청라<\/b>호수공원에서 열린 제61주년 소방의 날 기념식에서 박수치고 있다. 2023.11.09. amin2@newsis.com 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스 가치나... ",
+			"title":"소방의날 유공자 표창",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20231109_0020123483",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012200250?sid=102",
+			"description":"유정복 인천시장이 9일 오전 인천 서구 <b>청라<\/b>호수공원에서 열린 제61주년 소방의 날 기념식에서 중부소방서 정기수 소방정에게 대표령 표창을 수여 후 기념촬영을 하고 있다. 2023.11.09. amin2@newsis.com 공감언론... ",
 			"pubDate":"Thu, 09 Nov 2023 16:28:00 +0900"
 		},
 		{
@@ -145,17 +152,10 @@
 			"pubDate":"Thu, 09 Nov 2023 16:28:00 +0900"
 		},
 		{
-			"title":"소방의날 유공자 표창",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20231109_0020123483",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012200250?sid=102",
-			"description":"유정복 인천시장이 9일 오전 인천 서구 <b>청라<\/b>호수공원에서 열린 제61주년 소방의 날 기념식에서 중부소방서 정기수 소방정에게 대표령 표창을 수여 후 기념촬영을 하고 있다. 2023.11.09. amin2@newsis.com 공감언론... ",
-			"pubDate":"Thu, 09 Nov 2023 16:28:00 +0900"
-		},
-		{
-			"title":"제61주년 소방의날 기념식",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20231109_0020123478",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012200247?sid=102",
-			"description":"유정복 인천시장이 9일 오전 인천 서구 <b>청라<\/b>호수공원에서 열린 제61주년 소방의 날 기념식에서 국민의례를 하고 있다. 2023.11.09. amin2@newsis.com 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스... ",
+			"title":"소방의날 유공자 표창하는 유정복 시장",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20231109_0020123485",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012200253?sid=102",
+			"description":"유정복 인천시장이 9일 오전 인천 서구 <b>청라<\/b>호수공원에서 열린 제61주년 소방의 날 기념식에서 인천광역시 강화소방서 송재광 소방령에게 국무총리 표창을 수여하고 있다. 2023.11.09. amin2@newsis.com 공감언론... ",
 			"pubDate":"Thu, 09 Nov 2023 16:28:00 +0900"
 		},
 		{
@@ -163,6 +163,20 @@
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20231109_0020123481",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012200246?sid=102",
 			"description":"유정복 인천시장이 9일 오전 인천 서구 <b>청라<\/b>호수공원에서 열린 제61주년 소방의 날 기념식에서 축사를 하고 있다. 2023.11.09. amin2@newsis.com 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스... ",
+			"pubDate":"Thu, 09 Nov 2023 16:28:00 +0900"
+		},
+		{
+			"title":"박수치는 유정복 인천시장",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20231109_0020123479",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012200245?sid=102",
+			"description":"유정복 인천시장이 9일 오전 인천 서구 <b>청라<\/b>호수공원에서 열린 제61주년 소방의 날 기념식에서 박수치고 있다. 2023.11.09. amin2@newsis.com 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스 가치나... ",
+			"pubDate":"Thu, 09 Nov 2023 16:28:00 +0900"
+		},
+		{
+			"title":"제61주년 소방의날 기념식",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20231109_0020123478",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012200247?sid=102",
+			"description":"유정복 인천시장이 9일 오전 인천 서구 <b>청라<\/b>호수공원에서 열린 제61주년 소방의 날 기념식에서 국민의례를 하고 있다. 2023.11.09. amin2@newsis.com 공감언론 뉴시스가 독자 여러분의 소중한 제보를 기다립니다. 뉴스... ",
 			"pubDate":"Thu, 09 Nov 2023 16:28:00 +0900"
 		},
 		{
@@ -177,13 +191,6 @@
 			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20231109_0020123482",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012200249?sid=102",
 			"description":"유정복 인천시장이 9일 오전 인천 서구 <b>청라<\/b>호수공원에서 열린 제61주년 소방의 날 기념식에서 인천광역시 강화소방서 송재광 소방령에게 국무총리 표창을 수여 후 기념촬영을 하고 있다. 2023.11.09. amin2@newsis.com... ",
-			"pubDate":"Thu, 09 Nov 2023 16:28:00 +0900"
-		},
-		{
-			"title":"소방의날 유공자 표창하는 유정복 시장",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISI20231109_0020123485",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012200253?sid=102",
-			"description":"유정복 인천시장이 9일 오전 인천 서구 <b>청라<\/b>호수공원에서 열린 제61주년 소방의 날 기념식에서 인천광역시 강화소방서 송재광 소방령에게 국무총리 표창을 수여하고 있다. 2023.11.09. amin2@newsis.com 공감언론... ",
 			"pubDate":"Thu, 09 Nov 2023 16:28:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1784160",
 			"description":"인천 서구 <b>청라<\/b>2동 및 <b>청라<\/b>2동 주민자치회는 9일 포스코인터내셔널로부터 <b>청라<\/b>2동 북카페 ‘책나누미’에서 이용할 도서 302권을 기증받았다고 밝혔다. 포스코인터내셔널은 성인, 청소년, 아동 모든 연령층에게 책을 통한... ",
 			"pubDate":"Thu, 09 Nov 2023 15:42:00 +0900"
-		},
-		{
-			"title":"집값 조정국면 접어드나… 대부분 지역 상승폭 줄어",
-			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=521333",
-			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=521333",
-			"description":"정주여건이 양호한 신현·<b>청라<\/b>를 중심으로 오른 서구(0.05%)와 간석·만수 위주로 오른 남동구(0.04%)는 상승세가 지속됐다. 반면 미추홀구(-0.19%)는 용현·학익 구축 위주로, 부평구(-0.07%)는 신규 입주 예정 물량... ",
-			"pubDate":"Thu, 09 Nov 2023 15:18:00 +0900"
 		}
 	]
 }
