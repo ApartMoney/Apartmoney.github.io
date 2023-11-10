@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 10 Nov 2023 15:40:02 +0900",
-	"total":215762,
+	"lastBuildDate":"Fri, 10 Nov 2023 15:50:02 +0900",
+	"total":215763,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"그린리소스, 공모가 상단 초과 1만7000원 확정…24일 상장",
+			"originallink":"https:\/\/economist.co.kr\/article\/view\/ecn202311100020",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000052603?sid=101",
+			"description":"인천 <b>청라<\/b> IHP첨단산업단지 내 약 5,000평 규모의 신공장 및 신사옥을 올해 준공할 예정이다. 회사 측은 신공장 활용을 통해 생산능력과 효율성을 향상시킬 수 있을 것으로 기대하고 있다. 그린리소스의 일반청약은... ",
+			"pubDate":"Fri, 10 Nov 2023 15:39:00 +0900"
+		},
 		{
 			"title":"그린리소스, 수요예측 경쟁률 753:1…공모가 상단 초과 1만7000원 확정",
 			"originallink":"http:\/\/www.newspim.com\/news\/view\/20231110000831",
@@ -12,17 +19,17 @@
 			"pubDate":"Fri, 10 Nov 2023 15:27:00 +0900"
 		},
 		{
-			"title":"인천시 긴급차량 골든타임 확보, 적극행정 ‘대통령상’ 수상",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20231110500216",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20231110500216",
-			"description":"인천교통공사는, 그동안 <b>청라<\/b>지역 내 대단지 아파트 입주 및 재개발 등으로 광역버스 수용인원의 급격한 증가로 출퇴근시간 버스 혼잡도 과다, 안전사고 우려 및 극심한 교통정체를 노선 효율화 방안 시행 및 인근... ",
-			"pubDate":"Fri, 10 Nov 2023 15:26:00 +0900"
-		},
-		{
 			"title":"인천시, 2023 적극행정 우수사례 경진대회 '대통령상' 수상",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=424640",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=424640",
 			"description":"지방공사공단부문 우수상인 행안부장관상을 수상한 인천교통공사는, 그동안 <b>청라<\/b>지역 내 대단지 아파트 입주 및 재개발 등으로 광역버스 수용인원의 급격한 증가로 출퇴근시간 버스 혼잡도 과다, 안전사고 우려 및... ",
+			"pubDate":"Fri, 10 Nov 2023 15:26:00 +0900"
+		},
+		{
+			"title":"인천시 긴급차량 골든타임 확보, 적극행정 ‘대통령상’ 수상",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20231110500216",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20231110500216",
+			"description":"인천교통공사는, 그동안 <b>청라<\/b>지역 내 대단지 아파트 입주 및 재개발 등으로 광역버스 수용인원의 급격한 증가로 출퇴근시간 버스 혼잡도 과다, 안전사고 우려 및 극심한 교통정체를 노선 효율화 방안 시행 및 인근... ",
 			"pubDate":"Fri, 10 Nov 2023 15:26:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014321614?sid=102",
 			"description":"2호선 <b>청라<\/b> 연장 재시동 ▲ 신아일보 = 野, 노봉법 등 쟁점법안 단독처리 與, 尹 거부권 행사 건의 ▲ 인천일보 = 김포시 서울화 추진, 인천고법 꿈 뺏나 ▲ 일간경기 = &quot;이상민 장관, 경기북부자치도에 찬물&quot; ▲ 중부일보... ",
 			"pubDate":"Fri, 10 Nov 2023 08:00:00 +0900"
-		},
-		{
-			"title":"야구장 짓고 호수공원 재정비… <b>청라<\/b>·영종, 주민 친화 도시로",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20231109\/122111775\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003530369?sid=102",
-			"description":"인천경제자유구역청이 <b>청라<\/b>·영종국제도시 주민을 위한 다양한 편의시설 확충에 나선다고 9일 밝혔다. <b>청라<\/b>에 유소년 야구장이 들어서고 연간 100만 명이 넘게 이용하는 <b>청라<\/b>호수공원에는 다양한 편의시설 개선사업이... ",
-			"pubDate":"Fri, 10 Nov 2023 03:04:00 +0900"
 		}
 	]
 }
