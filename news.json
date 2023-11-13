@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 13 Nov 2023 10:20:02 +0900",
-	"total":215808,
+	"lastBuildDate":"Mon, 13 Nov 2023 10:30:02 +0900",
+	"total":215809,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"김포시 서울 편입론에 &quot;GTX-D 단독 노선 하자&quot; 갈등 고조",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=236307",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=236307",
+			"description":"GDY 연합은 GTX-D Y자 노선 예비타당성 조사 면제 추진을 위해 인천 주민들이 구성한 '영종·<b>청라<\/b>·루원... GTX-D Y자 노선은 영종도(인천국제공항)에서 출발해 서구 <b>청라<\/b>·가정 지구를 거쳐, 김포·검단·계양에서 오는... ",
+			"pubDate":"Mon, 13 Nov 2023 10:26:00 +0900"
+		},
 		{
 			"title":"이번 주 공모주 청약, 에코아이·그린리소스 등 총 4개 기업 나서",
 			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=502562&class=53&grp=",
@@ -103,17 +110,17 @@
 			"pubDate":"Sun, 12 Nov 2023 20:20:00 +0900"
 		},
 		{
-			"title":"포스코인터내셔널 책 302권 기증 인천 <b>청라<\/b>2동 주민 문화공간 활성",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1057846",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1057846",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO ㈜포스코인터내셔널은 인천시 서구 <b>청라<\/b>2동 북카페에 도서 302권(500만... 임성은 <b>청라<\/b>2동 주민자치회장은 &quot;주민들에게 다양한 종류의 도서를 기증해 준 포스코인터내셔널에... ",
-			"pubDate":"Sun, 12 Nov 2023 20:04:00 +0900"
-		},
-		{
 			"title":"제12회 미래도시그리기대회 수상자 명단",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1057757",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1057757",
 			"description":"기호일보 - 아침을 여는 신문, KIHOILBO ◇대상(교육부장관상) ▶인천<b>청라<\/b>고 조은혁 ◇대상... 김아린 ▶<b>청라<\/b>누리어린이집 허지혁 ▶리틀씨즈학원 최성욱 ▶궁전키즈스쿨어린이집 김동휘 ▶사랑유치원 김세희 ▶Rise유치원... ",
+			"pubDate":"Sun, 12 Nov 2023 20:04:00 +0900"
+		},
+		{
+			"title":"포스코인터내셔널 책 302권 기증 인천 <b>청라<\/b>2동 주민 문화공간 활성",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1057846",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1057846",
+			"description":"기호일보 - 아침을 여는 신문, KIHOILBO ㈜포스코인터내셔널은 인천시 서구 <b>청라<\/b>2동 북카페에 도서 302권(500만... 임성은 <b>청라<\/b>2동 주민자치회장은 &quot;주민들에게 다양한 종류의 도서를 기증해 준 포스코인터내셔널에... ",
 			"pubDate":"Sun, 12 Nov 2023 20:04:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004912924?sid=101",
 			"description":"<b>청라<\/b>동 등 정주 여건이 좋은 서구(0.05%)와 일부 지역은 상승했지만 미추홀구(-0.19%), 부평구(-0.07%) 등에서는 구축 아파트를 중심으로 가격이 내려 인천 전체 가격을 하락 전환하는 요인이 됐다. 5대 광역시(0.01%→-0.... ",
 			"pubDate":"Sat, 11 Nov 2023 07:02:00 +0900"
-		},
-		{
-			"title":"인사교체·김포 서울편입…내우외환 맞은 인천시",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6044315",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003832588?sid=102",
-			"description":"뉴홍콩시티 프로젝트 사업은 신도시인 송도-영종-인천 내항-<b>청라<\/b>-강화 지역을 연계 개발해 금융·신산업·항공·물류·관광 등 다양한 미래전략산업의 앵커기업을 유치해 인천시의 가치를 높이겠다는 인천 미래발전 사업... ",
-			"pubDate":"Sat, 11 Nov 2023 06:02:00 +0900"
 		}
 	]
 }
