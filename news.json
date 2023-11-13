@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 13 Nov 2023 18:20:02 +0900",
-	"total":215826,
+	"lastBuildDate":"Mon, 13 Nov 2023 18:30:02 +0900",
+	"total":215828,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[문화 인터뷰] 이종원 인천 서구문화재단 대표",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1220421",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1220421",
+			"description":"공연과 전시, 버스킹, 생활문화가 상시 종합적으로 펼쳐지는 지역이 되도록 문화의 거리를 조성하는데 한 발짝씩 나아가고 있는 것이지요.&quot; 올해 성공적으로 마친 <b>청라<\/b> 뮤직&amp;와인 페스티벌을 비롯해 서구예술가 지원사업... ",
+			"pubDate":"Mon, 13 Nov 2023 18:28:00 +0900"
+		},
+		{
+			"title":"&quot;우리가 미래 인공지능 개발자&quot;",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2023111332501",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004913600?sid=102",
+			"description":"이날 블록코딩 부문 대상에는 오도윤(분포초등학교·초등 1~2학년), 조현준(대전두리초등학교·초등 3~4학년), 이용건(<b>청라<\/b>달튼외국인학교·초등 5~6학년) 학생이, AI코딩 부문에서는 황승찬(해마루초등학교·초등부)... ",
+			"pubDate":"Mon, 13 Nov 2023 18:28:00 +0900"
+		},
 		{
 			"title":"인천 서구 주민, 포스코인터내셔널 LNG･수소 혼합발전 불신 왜?",
 			"originallink":"https:\/\/www.ekoreanews.co.kr\/news\/articleView.html?idxno=70185",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=424789",
 			"description":"다문화 인식개선과 문화 다양성에 대한 이해를 높이고, 지역 주민이 함께 어울리는 소통의 장 마련을 위한 '다문화 작은 나눔 대잔치'가 <b>청라<\/b>호수공원 내 멀티프라자 광장에서 지난 10일 개최됐다. '함께 나누는 이웃... ",
 			"pubDate":"Mon, 13 Nov 2023 00:12:00 +0900"
-		},
-		{
-			"title":"서문야시장·근대골목 밤마실",
-			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=439500",
-			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=439500",
-			"description":"근대골목 밤마실은 밤이 되면 색다른 풍경을 자랑하는 <b>청라<\/b>언덕, 근대골목 등 각종 문화유산을 따라 서문야시장으로 도착하는 프로그램이다. 투어를 하는 동안 근대인력거 체험과 시낭송, 달등 만들기와 공연 등... ",
-			"pubDate":"Sun, 12 Nov 2023 21:24:00 +0900"
-		},
-		{
-			"title":"서예가 류재학 '동양 미학의 진수' 전",
-			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=439460",
-			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=439460",
-			"description":"류재학 작 '난초처럼 향기롭게' 갤러리 <b>청라<\/b>(중구 서성로 26, 정무빌딩 B101호)가 서예가 류재학의 '시서화각으로 구현된 동양 미학의 진수'전을 13부터 12월3일까지 연다. 류재학은 글, 글씨, 그림, 전각 등 이른바... ",
-			"pubDate":"Sun, 12 Nov 2023 21:24:00 +0900"
 		}
 	]
 }
