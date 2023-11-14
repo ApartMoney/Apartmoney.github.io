@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 15 Nov 2023 06:30:02 +0900",
-	"total":215869,
+	"lastBuildDate":"Wed, 15 Nov 2023 06:40:02 +0900",
+	"total":215870,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 겨울철 도시가스 정압 시설 안전점검 실시",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=567753",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=567753",
+			"description":"인천경제청 컨슈머타임스=안우진 기자 | 인천경제청은 겨울철을 맞아 난방기기 등 가스 사용량이 증가함에 따라 송도·영종·<b>청라<\/b>국제도시의 도시가스 정압시설(정압기:도시가스의 압력을 조정하기 위한 시설)) 33곳에... ",
+			"pubDate":"Wed, 15 Nov 2023 06:30:00 +0900"
+		},
 		{
 			"title":"[시론] 3기신도시와 자족도시의 실현",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202311092132574050256",
@@ -89,17 +96,17 @@
 			"pubDate":"Tue, 14 Nov 2023 15:30:00 +0900"
 		},
 		{
-			"title":"11월 1주차 전국 부동산 시세, 아파트 매매·전세 가격",
-			"originallink":"https:\/\/www.bntnews.co.kr\/article\/view\/bnt202311140022",
-			"link":"https:\/\/www.bntnews.co.kr\/article\/view\/bnt202311140022",
-			"description":"서구(0.05%)는 정주여건 양호한 신현‧<b>청라<\/b>동 위주로, 남동구(0.04%)는 간석‧만수동 위주로 상승했으나... 미추홀구(-0.13%)는 도화·관교동 위주로 하락했으나, 서구(0.18%)는정주여건 양호한 <b>청라<\/b>·가정동 위주로... ",
-			"pubDate":"Tue, 14 Nov 2023 14:12:00 +0900"
-		},
-		{
 			"title":"대한민국 근대화 이끈 동인천 옛 명성되찾나? 市 공영개발 본격 추진",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20231114500124&wlog_tag3=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003408497?sid=100",
 			"description":"이 지역은 송도 및 <b>청라<\/b>국제도시 등이 생기기 전 까지만 해도 인천 경제활동의 중심지이며 원도심이었으나, 2000년대 들어 상권이 국제도시로 이동 후 인구가 감소하고 상권이 쇠퇴해 폐허가 됐다. 인천시가 2007년 부터... ",
+			"pubDate":"Tue, 14 Nov 2023 14:12:00 +0900"
+		},
+		{
+			"title":"11월 1주차 전국 부동산 시세, 아파트 매매·전세 가격",
+			"originallink":"https:\/\/www.bntnews.co.kr\/article\/view\/bnt202311140022",
+			"link":"https:\/\/www.bntnews.co.kr\/article\/view\/bnt202311140022",
+			"description":"서구(0.05%)는 정주여건 양호한 신현‧<b>청라<\/b>동 위주로, 남동구(0.04%)는 간석‧만수동 위주로 상승했으나... 미추홀구(-0.13%)는 도화·관교동 위주로 하락했으나, 서구(0.18%)는정주여건 양호한 <b>청라<\/b>·가정동 위주로... ",
 			"pubDate":"Tue, 14 Nov 2023 14:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1066040",
 			"description":"매일일보 = 이종민 기자  |  인천경제자유구역청은 겨울철을 맞아 난방기기 등 가스 사용량이 증가함에 따라 송도·영종·<b>청라<\/b>국제도시의 도시가스 정압시설(정압기:도시가스의 압력을 조정하기 위한 시설)) 33곳에 대한... ",
 			"pubDate":"Tue, 14 Nov 2023 09:50:00 +0900"
-		},
-		{
-			"title":"루메니스코리아, 울트라펄스 앙코르 스카프리(SCAAR Free) 심포지엄 성료",
-			"originallink":"http:\/\/www.monews.co.kr\/news\/articleView.html?idxno=327873",
-			"link":"http:\/\/www.monews.co.kr\/news\/articleView.html?idxno=327873",
-			"description":"연세스타피부과 이상주 원장이 좌장을 맡았으며, 순천향대 부천병원 성형외과 박은수 교수, 오라클피부과 구월점 이승규 원장, 휴먼피부과 <b>청라<\/b>점 홍원규 원장이 연자로 참석해 흉터치료의 최신 동향과... ",
-			"pubDate":"Tue, 14 Nov 2023 09:44:00 +0900"
 		}
 	]
 }
