@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 14 Nov 2023 16:20:02 +0900",
-	"total":215858,
+	"lastBuildDate":"Tue, 14 Nov 2023 16:30:02 +0900",
+	"total":215859,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 겨울철 도시가스 정압시설 안전점검",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288889053556",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288889053556",
+			"description":"인천경제자유구역청은 겨울철을 맞아 난방기기 등 가스 사용량이 증가함에 따라 송도ㆍ영종ㆍ<b>청라<\/b>국제도시의 도시가스 정압시설(정압기:도시가스의 압력을 조정하기 위한 시설) 33곳에 대한 안전점검을 오는 24일까지... ",
+			"pubDate":"Tue, 14 Nov 2023 16:26:00 +0900"
+		},
 		{
 			"title":"[보령 소식] 보령시, 겨울철 상수도시설 동파 예방 상황관리 및 비상대책반 운...",
 			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=618979",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363620579",
 			"description":"사진=인천시 인천 영종·<b>청라<\/b>·루원·계양의 시민단체가 연대한 GTX-D Y자 노선 예타면제 촉구 시민연합이... GTX-D Y자 노선은 인천국제공항에서 출발해 <b>청라<\/b>·가정·계양을 거쳐 부천종합운동장에서 김포·검단에서 오는... ",
 			"pubDate":"Mon, 13 Nov 2023 19:42:00 +0900"
-		},
-		{
-			"title":"인천환경지도자연대, 지역주민이 함께 어울리는 '다문화 작은 나눔 대잔치' 성...",
-			"originallink":"https:\/\/www.nbntv.kr\/news\/articleView.html?idxno=81506",
-			"link":"https:\/\/www.nbntv.kr\/news\/articleView.html?idxno=81506",
-			"description":"[사진 인천환경지도자연대] 지난 10일~12일 <b>청라<\/b>호수공원 내 멀티프라자 광장에서 다문화 인식개선과 문화 다양성에 대한 이해를 높이며 지역 주민이 함께 어울리는 소통의 장을 마련하기 위한 '다문화 작은 나눔 대잔치'가... ",
-			"pubDate":"Mon, 13 Nov 2023 19:34:00 +0900"
 		}
 	]
 }
