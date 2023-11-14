@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 14 Nov 2023 23:10:02 +0900",
-	"total":215867,
+	"lastBuildDate":"Tue, 14 Nov 2023 23:20:02 +0900",
+	"total":215868,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[IPO] 24일 코스닥 기술특례상장 '그린리소스'…일반청약에 2조원 '뭉칫돈'",
+			"originallink":"http:\/\/www.the-stock.kr\/news\/articleView.html?idxno=19202",
+			"link":"http:\/\/www.the-stock.kr\/news\/articleView.html?idxno=19202",
+			"description":"그린리소스는 인천 <b>청라<\/b> IHP첨단산업단지에 약 5000평 규모의 신공장 및 신사옥을 건립 중이다. 사진은 신사옥 전경. 회사 제공 수요예측에서 기관투자자들의 높은 관심을 받았던 그린리소스(대표이사 이종수)가... ",
+			"pubDate":"Tue, 14 Nov 2023 23:10:00 +0900"
+		},
 		{
 			"title":"인천시, 스타필드·구월2지구 감당 못할 '하수 대란' 오나",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231114010003054",
@@ -75,17 +82,17 @@
 			"pubDate":"Tue, 14 Nov 2023 15:30:00 +0900"
 		},
 		{
-			"title":"대한민국 근대화 이끈 동인천 옛 명성되찾나? 市 공영개발 본격 추진",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20231114500124&wlog_tag3=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003408497?sid=100",
-			"description":"이 지역은 송도 및 <b>청라<\/b>국제도시 등이 생기기 전 까지만 해도 인천 경제활동의 중심지이며 원도심이었으나, 2000년대 들어 상권이 국제도시로 이동 후 인구가 감소하고 상권이 쇠퇴해 폐허가 됐다. 인천시가 2007년 부터... ",
-			"pubDate":"Tue, 14 Nov 2023 14:12:00 +0900"
-		},
-		{
 			"title":"11월 1주차 전국 부동산 시세, 아파트 매매·전세 가격",
 			"originallink":"https:\/\/www.bntnews.co.kr\/article\/view\/bnt202311140022",
 			"link":"https:\/\/www.bntnews.co.kr\/article\/view\/bnt202311140022",
 			"description":"서구(0.05%)는 정주여건 양호한 신현‧<b>청라<\/b>동 위주로, 남동구(0.04%)는 간석‧만수동 위주로 상승했으나... 미추홀구(-0.13%)는 도화·관교동 위주로 하락했으나, 서구(0.18%)는정주여건 양호한 <b>청라<\/b>·가정동 위주로... ",
+			"pubDate":"Tue, 14 Nov 2023 14:12:00 +0900"
+		},
+		{
+			"title":"대한민국 근대화 이끈 동인천 옛 명성되찾나? 市 공영개발 본격 추진",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20231114500124&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003408497?sid=100",
+			"description":"이 지역은 송도 및 <b>청라<\/b>국제도시 등이 생기기 전 까지만 해도 인천 경제활동의 중심지이며 원도심이었으나, 2000년대 들어 상권이 국제도시로 이동 후 인구가 감소하고 상권이 쇠퇴해 폐허가 됐다. 인천시가 2007년 부터... ",
 			"pubDate":"Tue, 14 Nov 2023 14:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1785917",
 			"description":"인천경제자유구역청은 겨울철을 맞아 난방기기 등 가스 사용량이 증가함에 따라 송도·영종·<b>청라<\/b>국제도시의 도시가스 정압시설 33곳에 대한 안전점검을 오는 24일까지 실시한다고 14일 밝혔다. 정압시설이란 도시가스의... ",
 			"pubDate":"Tue, 14 Nov 2023 09:38:00 +0900"
-		},
-		{
-			"title":"인천경제청, 겨울철 도시가스 정압 시설 안전점검 실시",
-			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2056985",
-			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2056985",
-			"description":"인천경제자유구역청아 겨울철을 맞아 난방기기 등 가스 사용량이 증가함에 따라 송도·영종·<b>청라<\/b>국제도시의 도시가스 정압시설(정압기:도시가스의 압력을 조정하기 위한 시설)) 33곳에 대한 안전점검을 오는 24일까지... ",
-			"pubDate":"Tue, 14 Nov 2023 09:35:00 +0900"
 		}
 	]
 }
