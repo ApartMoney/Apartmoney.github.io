@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 15 Nov 2023 13:30:02 +0900",
-	"total":215897,
+	"lastBuildDate":"Wed, 15 Nov 2023 13:40:02 +0900",
+	"total":215898,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 숭의역~강남역 9100번 직좌버스 증차",
+			"originallink":"http:\/\/www.inews24.com\/view\/1654587",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000788347?sid=102",
+			"description":"김준성 교통국장은 &quot;검단·송도·<b>청라<\/b>·영종 등 신도시 뿐 아니라 미추홀구 등 구도심 교통 불편을 해소하기 위해 시민들 의견에 귀 기울이는 등 대중교통 편의 제공에 최선을 다하겠다&quot;고 말했다.",
+			"pubDate":"Wed, 15 Nov 2023 13:30:00 +0900"
+		},
 		{
 			"title":"[11월 13일~19일] 이번주 대구 전시 모아보기",
 			"originallink":"https:\/\/news.imaeil.com\/page\/view\/2023111512501679011",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newspim.com\/news\/view\/20231114001353",
 			"description":"경인아라뱃길 밑을 통과하는 중봉터널은 왕길동과 경서삼거리를 잇는 길이 3.5km의 왕복 4차로의 자동차 전용 대심도 터널로 이 터널이 개통되면 왕길동에서 <b>청라<\/b> 스타필드까지 8분대 이동이 가능하다. 또 2024년... ",
 			"pubDate":"Wed, 15 Nov 2023 08:00:00 +0900"
-		},
-		{
-			"title":"인천경제청, 겨울철 도시가스 정압 시설 안전점검 실시",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=567753",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=567753",
-			"description":"인천경제청 컨슈머타임스=안우진 기자 | 인천경제청은 겨울철을 맞아 난방기기 등 가스 사용량이 증가함에 따라 송도·영종·<b>청라<\/b>국제도시의 도시가스 정압시설(정압기:도시가스의 압력을 조정하기 위한 시설)) 33곳에... ",
-			"pubDate":"Wed, 15 Nov 2023 06:30:00 +0900"
 		}
 	]
 }
