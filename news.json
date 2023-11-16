@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 16 Nov 2023 16:50:02 +0900",
-	"total":215980,
+	"lastBuildDate":"Thu, 16 Nov 2023 17:00:02 +0900",
+	"total":215981,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천해원중 축구부, SK텔레콤 미들스타리그 첫 우승",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=236518",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=236518",
+			"description":"인천투데이=현동민 기자│인천시 해원중학교(서구 <b>청라<\/b>동)가 '2023년 SK텔레콤 미들스타리그(인천리그)'에서 첫 우승컵을 차지했다. 인천유나이티드는 지난 12일 인천축구전용경기장에서 열린 아마추어 중학생들의 축구... ",
+			"pubDate":"Thu, 16 Nov 2023 16:58:00 +0900"
+		},
 		{
 			"title":"맥도날드, 경북 경산에 첫 매장 ‘경산정평DT점’ 연다",
 			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2303167",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202311160934478310179",
 			"description":"총길이 625m, 왕복 4~6차로 … 교통편의, 북항 물류 기능 강화 기대 인천시 종합건설본부는 15일 인천 서구 <b>청라<\/b>지구와 북항배후단지를 연결하는 도로를 개통했다고 밝혔다. 지난 2020년 10월 착공한 <b>청라<\/b>~북항배후단지... ",
 			"pubDate":"Thu, 16 Nov 2023 09:42:00 +0900"
-		},
-		{
-			"title":"포스코인터내셔널 인천 서구 LNG 복합발전사업 두고 지역 시민사회 반발",
-			"originallink":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=212170",
-			"link":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=212170",
-			"description":"글로벌 에코넷 제공 포스코인터내셔널이 인천 서구 <b>청라<\/b>에서 LNG 복합발전소 신예화 사업이 지역... 명, <b>청라<\/b> 주민 10만 명 등의 많은 인구가 있는데 실증화 발전소를 운영해 안전성을 확인한 뒤 진행해야 한다”고... ",
-			"pubDate":"Thu, 16 Nov 2023 09:22:00 +0900"
 		}
 	]
 }
