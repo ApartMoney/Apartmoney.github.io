@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 18 Nov 2023 04:20:02 +0900",
-	"total":216087,
+	"lastBuildDate":"Sat, 18 Nov 2023 04:30:02 +0900",
+	"total":216088,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천공항서 강남, 환승 없이 한번에",
+			"originallink":"https:\/\/www.chosun.com\/national\/national_general\/2023\/11\/18\/776PGFSAONGRRM5PTTIPE4UOEI\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003799937?sid=102",
+			"description":"공항철도가 지나는 인천 <b>청라<\/b>, 영종 등에 사는 주민들도 쉽게 강남권으로 갈 수 있다. 직결 열차를 35분 간격으로 하루 33회(편도 기준) 운행하는 계획이 검토되고 있다. 그러면 서울 지하철 9호선 급행 열차의 혼잡도가 8... ",
+			"pubDate":"Sat, 18 Nov 2023 04:26:00 +0900"
+		},
 		{
 			"title":"인천시-서울시, 공항철도~서울도시철도 9호선 직결 24년만에 시민숙원 해결",
 			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=462541",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202311170108",
 			"description":"인천시청 제공 인천시는 17일 공항철도~서울9호선 직결사업에 대해 서울시와 전격적으로 합의하고 영종‧<b>청라<\/b>‧계양 등 인천 서북부 시민들의 교통불편을 해소해 나갈 계획이라고 밝혔다. 그동안 공항철도~서울9호선... ",
 			"pubDate":"Fri, 17 Nov 2023 14:10:00 +0900"
-		},
-		{
-			"title":"인천-서울시 '공항철도~서울 9호선 직결' 답보 24년만에 합의",
-			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20231117_0002525650&cID=10802&pID=14000",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012216313?sid=102",
-			"description":"유정복 인천시장은 17일 인천시민의 교통편의 증진을 위해 24년 간 답보상태에 있던 ‘공항철도~서울9호선 직결사업’에 대해 서울시와 전격 합의, 영종·<b>청라<\/b>·계양 등 인천 서북부 시민들의 교통불편 해소를 지속적으로... ",
-			"pubDate":"Fri, 17 Nov 2023 14:09:00 +0900"
 		}
 	]
 }
