@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 17 Nov 2023 18:20:03 +0900",
-	"total":216081,
+	"lastBuildDate":"Fri, 17 Nov 2023 18:30:02 +0900",
+	"total":216082,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 서울시와 수도권 교통 대책 합의",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160272142362987",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160272142362987",
+			"description":"인천시-서울시·공항철도~서울도시철도 9호선 직결 24년 만에 시민 숙원 해결 유정복 인천시장 인천시가 영종‧<b>청라<\/b>‧계양 등 인천 서북부 시민들의 교통 불편을 해소하고자 추진 중인 수도권 교통 대책 사업이 가시화될... ",
+			"pubDate":"Fri, 17 Nov 2023 18:22:00 +0900"
+		},
 		{
 			"title":"강남서 9호선 타고 환승 없이 인천공항 바로 간다",
 			"originallink":"https:\/\/www.hankyung.com\/article\/2023111760561",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20231117122630364",
 			"description":"[사진=인천시] 유정복 인천시장은 인천시민의 교통편의 증진을 위해 24년 간 답보상태에 있던 ‘공항철도~서울9호선 직결사업’에 대해 서울시와 전격적으로 합의, 영종‧<b>청라<\/b>‧계양 등 인천 서북부 시민들의 교통불편... ",
 			"pubDate":"Fri, 17 Nov 2023 13:46:00 +0900"
-		},
-		{
-			"title":"3040 첫 내집마련 몰린 상위 3곳 인천 서구·화성·평택",
-			"originallink":"http:\/\/www.1conomynews.co.kr\/news\/articleView.html?idxno=25890",
-			"link":"http:\/\/www.1conomynews.co.kr\/news\/articleView.html?idxno=25890",
-			"description":"하나금융그룹 통합데이터센터가 준공됐고 6개 관계사가 몰리는 '<b>청라<\/b> 그룹헤드쿼터'가 추가로 들어선다. LG마그나도 인천 서구에 들어섰고 BMW연구개발센터, 서울 아산병원 컨소시엄 의료복합타운, 스타필드 <b>청라<\/b>... ",
-			"pubDate":"Fri, 17 Nov 2023 13:38:00 +0900"
 		}
 	]
 }
