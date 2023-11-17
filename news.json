@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 18 Nov 2023 06:50:03 +0900",
-	"total":216090,
+	"lastBuildDate":"Sat, 18 Nov 2023 07:00:02 +0900",
+	"total":216091,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"생애 첫 아파트 매수 톱3 ‘인천 서구·화성·평택’",
+			"originallink":"https:\/\/www.munhwa.com\/news\/view.html?no=2023111801039910018001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002605811?sid=101",
+			"description":"인천 서구에는 하나금융그룹 통합데이터센터가 준공됐고, 6개 관계사가 몰리는 ‘<b>청라<\/b> 그룹 헤드쿼터’가 추가로 들어선다. LG마그나, BMW연구개발센터, 서울 아산병원 컨소시엄 의료복합타운, 스타필드 <b>청라<\/b>, 로봇... ",
+			"pubDate":"Sat, 18 Nov 2023 06:49:00 +0900"
+		},
 		{
 			"title":"루윈시티 들어서니 <b>청라<\/b>가, 덕은지구 들어서니 상암 DMC가 덩달아 뜨네",
 			"originallink":"https:\/\/www.munhwa.com\/news\/view.html?no=2023111801039910084001",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202311171307077864514e0091f6_1\/article.html",
 			"description":"유정복 인천시장은 인천시민의 교통편의 증진을 위해 24년간 답보상태에 있던 ‘공항철도~서울9호선 직결사업’에 대해 서울시와 전격 합의함으로 영종‧<b>청라<\/b>‧계양 등 인천 서북부 시민들의 교통 불편을 지속 해소해... ",
 			"pubDate":"Fri, 17 Nov 2023 14:36:00 +0900"
-		},
-		{
-			"title":"인천-서울시, '공항철도~서울 9호선 직결' 답보 24년 만에 합의",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2303450",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2303450",
-			"description":"영종·<b>청라<\/b>·계양 등 인천 서북부 시민들의 교통 불편 해소를 지속해서 해결해 나갈 계획이라고 밝혔다. 그동안 ‘공항철도~서울 9호선 직결사업’의 운영비, 시설비 부담에 대한 이견으로 시민 불편이 지속했으나... ",
-			"pubDate":"Fri, 17 Nov 2023 14:34:00 +0900"
 		}
 	]
 }
