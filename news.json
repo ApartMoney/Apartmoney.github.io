@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 20 Nov 2023 16:10:02 +0900",
-	"total":216180,
+	"lastBuildDate":"Mon, 20 Nov 2023 16:20:02 +0900",
+	"total":216181,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"연세대 메이커스페이스 i7, '제1회 SURF 2023' 체험 부스 운영",
+			"originallink":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=320645",
+			"link":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=320645",
+			"description":"메이커스페이스 ▲조은에듀테크 <b>청라<\/b> 드림 메이커스페이스와 함께 체험 및 전시 부스를 운영했다. 부스에서는 '꿈을 현실로 만드는 공간'을 테마로 초콜릿 3D프린터, 아두이노 로봇팔, 3D스캐너 및 염료승화... ",
+			"pubDate":"Mon, 20 Nov 2023 16:12:00 +0900"
+		},
 		{
 			"title":"&quot;인천 서구, 다중이용시설 불법촬영 예방 더 신경써야&quot;",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=236662",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/dhnews.co.kr\/news\/view\/1065573170447226",
 			"description":"메이커스페이스 ▲조은에듀테크 <b>청라<\/b> 드림 메이커스페이스와 함께 체험 및 전시 부스를 운영했다. 부스에서는 ‘꿈을 현실로 만드는 공간’을 테마로 초콜릿 3D프린터, 아두이노 로봇팔, 3D스캐너 및 염료승화... ",
 			"pubDate":"Mon, 20 Nov 2023 09:52:00 +0900"
-		},
-		{
-			"title":"연세대 메이커스페이스 i7 '제1회 SURF 2023' 체험 부스 운영",
-			"originallink":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=482117",
-			"link":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=482117",
-			"description":"메이커스페이스 ▲조은에듀테크 <b>청라<\/b> 드림 메이커스페이스와 함께 체험\/전시 부스를 운영했다. 부스에서는 '꿈을 현실로 만드는 공간'을 테마로 초콜릿 3D프린터, 아두이노 로봇팔, 3D스캐너 및 염료승화 전사프린터... ",
-			"pubDate":"Mon, 20 Nov 2023 09:50:00 +0900"
 		}
 	]
 }
