@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 21 Nov 2023 08:00:03 +0900",
-	"total":216197,
+	"lastBuildDate":"Tue, 21 Nov 2023 08:10:02 +0900",
+	"total":216198,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전국 주요 신문 톱뉴스](21일 조간)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20231121013600505?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014343661?sid=102",
+			"description":"김포·<b>청라<\/b> 연장-서부권 자원순환센터 궁금한데 열린 시장실 [닫힘] ▲ 신아일보 = 尹, 영국 국빈 방문…'세일즈외교' 시동 ▲ 인천일보 = 인천·김포 상생, 선택 아닌 필수 ▲ 일간경기 = &quot;지미연 위원장 독단&quot; 경기도의회... ",
+			"pubDate":"Tue, 21 Nov 2023 08:00:00 +0900"
+		},
 		{
 			"title":"[Invest]신세계프라퍼티, ‘이명희 신세계’ 핵심으로…센터필드 지분 매각 가...",
 			"originallink":"http:\/\/www.investchosun.com\/site\/data\/html_dir\/2023\/11\/20\/2023112080213.html",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2858711",
 			"description":"행사는 오후 1시 <b>청라<\/b>농악단과 한가람국악예술봉사단의 식전 공연을 시작으로 오후 1시30분부터 평생학습 유공자 표창 등 개회식이 진행된다. 오후 2시부터 오후 4시30분까지는 난타, 합창, 에어로빅, 댄스, 악기연주 등... ",
 			"pubDate":"Mon, 20 Nov 2023 13:02:00 +0900"
-		},
-		{
-			"title":"공항철도-9호선 직결 열차 2027년 개통…8대 증차 효과",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007430412&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001107344?sid=102",
-			"description":"&lt;기자&gt; 공항철도역이 있는 인천 서구 검암과 계양, <b>청라<\/b>역은 평일 출퇴근 시간이면 승객들로 북새통을 이룹니다. <b>청라<\/b>국제도시와 검단신도시 개발로 유입 인구가 계속 늘면서 서울로 출퇴근하는 승객이 크게 늘었기... ",
-			"pubDate":"Mon, 20 Nov 2023 12:51:00 +0900"
 		}
 	]
 }
