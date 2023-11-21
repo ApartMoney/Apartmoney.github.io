@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 21 Nov 2023 12:10:02 +0900",
-	"total":216210,
+	"lastBuildDate":"Tue, 21 Nov 2023 12:20:02 +0900",
+	"total":216211,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구 ‘검단구 행정체제‘ 개편으로 수도권 중심 부상",
+			"originallink":"https:\/\/wemakenews.co.kr\/news\/view.php?no=17568",
+			"link":"https:\/\/wemakenews.co.kr\/news\/view.php?no=17568",
+			"description":"이 기간 인천 서구 일대는 <b>청라<\/b>국제도시 막바지 입주를 비롯해 검단신도시 아파트 입주가 이어졌다. 또한... 현재 인천 서구는 경인아라뱃길을 기준으로 남쪽으로는 <b>청라<\/b>국제도시와 가정오거리 일대 루원시티가... ",
+			"pubDate":"Tue, 21 Nov 2023 12:16:00 +0900"
+		},
 		{
 			"title":"대구 중구, ‘미소친절 시민추진단’ 거리 캠페인 실시",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202311211142546550569",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20231120010012563",
 			"description":"행사는 오후 1시 <b>청라<\/b>농악단과 한가람국악예술봉사단의 식전 공연을 시작으로 오후 1시 30분부터 평생학습 유공자 표창 등 개회식이 진행된다. 오후 2시부터 오후 4시 30분까지는 난타, 합창, 에어로빅, 댄스, 악기연주 등... ",
 			"pubDate":"Mon, 20 Nov 2023 16:38:00 +0900"
-		},
-		{
-			"title":"연세대 메이커스페이스 i7, '제1회 SURF 2023' 체험 부스 운영",
-			"originallink":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=320645",
-			"link":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=320645",
-			"description":"메이커스페이스 ▲조은에듀테크 <b>청라<\/b> 드림 메이커스페이스와 함께 체험 및 전시 부스를 운영했다. 부스에서는 '꿈을 현실로 만드는 공간'을 테마로 초콜릿 3D프린터, 아두이노 로봇팔, 3D스캐너 및 염료승화... ",
-			"pubDate":"Mon, 20 Nov 2023 16:12:00 +0900"
 		}
 	]
 }
