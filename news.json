@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 21 Nov 2023 16:00:02 +0900",
-	"total":216230,
+	"lastBuildDate":"Tue, 21 Nov 2023 16:10:02 +0900",
+	"total":216231,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시의회 신성영 의원 '공항철도-9호선 직결 숙원사업' 타결",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=995374",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=995374",
+			"description":"먼저 9호선 직결 사업은 영종, <b>청라<\/b>, 검단, 검암, 계양 등 서북부 약 100만 인천시민들의 숙원 사업이었으며, 지난 2000년 초에 이미 직통 연결을 위한 터널 등의 인프라가 모두 준비돼 있음에도 불구, 해결하지 못하고 있던... ",
+			"pubDate":"Tue, 21 Nov 2023 16:06:00 +0900"
+		},
 		{
 			"title":"인천 서구 '검단구' 분리 속도…아파트 값 26주 연속 상승",
 			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=146212",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=82625",
 			"description":"현재 인천 서구는 경인아라뱃길을 기준으로 남쪽으로는 <b>청라<\/b>국제도시와 가정오거리 일대 루원시티가... 2025년 상반기 중으로 하나은행 본사 이전을 끝으로 하나금융그룹의 <b>청라<\/b>국제도시 이전이 완료되며 기타 관련... ",
 			"pubDate":"Tue, 21 Nov 2023 10:12:00 +0900"
-		},
-		{
-			"title":"CNP독학관리학원, 2025년도 변화된 대입 학습방향 공개",
-			"originallink":"https:\/\/www.mhns.co.kr\/news\/articleView.html?idxno=566863",
-			"link":"https:\/\/www.mhns.co.kr\/news\/articleView.html?idxno=566863",
-			"description":"인천 <b>청라<\/b>에 위치한 관리형 독서실 CNP독학관리학원(임승재, 정운상, 김광민 원장)이 한국대학교육협의회... <b>청라<\/b> CNP독학관리학원은 각 대학 홈페이지를 통해 입시제도가 대학별로 어떻게 변화됐는지를 면밀히 살핀... ",
-			"pubDate":"Tue, 21 Nov 2023 09:32:00 +0900"
 		}
 	]
 }
