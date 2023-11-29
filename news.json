@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 30 Nov 2023 03:00:02 +0900",
-	"total":216597,
+	"lastBuildDate":"Thu, 30 Nov 2023 03:10:02 +0900",
+	"total":216598,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천 外",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20231129\/122411649\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003534276?sid=102",
+			"description":"12월 9∼16일 매주 토요일 오전 10시∼낮 12시 <b>청라<\/b>국제도서관 제1다목적실. 부천 □미디어 강좌=‘김가람 PD 특강―걸어갑니다, 세계 속으로’ 참가자 50명. 12월 9일 오후 2∼4시 수주도서관 다목적실1. □코딩... ",
+			"pubDate":"Thu, 30 Nov 2023 03:06:00 +0900"
+		},
 		{
 			"title":"유정복, &quot;시민 행복의 다리를 놓겠다&quot;",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20231130010008879",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000951169?sid=101",
 			"description":"이번 캠프는 단순한 레슨과 공연 구성이 아닌 다양한 오디션 기회와 <b>청라<\/b>지구에 있는 엘림아트센터에서의 우수학생 초청공연, 우수 학생 대상 뮤지컬 제작사 오디션 참가 추천서 제공 등 다양한 기회를 제공한다. 이번... ",
 			"pubDate":"Wed, 29 Nov 2023 13:39:00 +0900"
-		},
-		{
-			"title":"인천서구문화재단, ‘이심전심 문화공감 배리어프리 공연 및 전시’ 개최",
-			"originallink":"http:\/\/www.breaknews.com\/1001255",
-			"link":"http:\/\/www.breaknews.com\/1001255",
-			"description":"인천서구문화재단이 오는 12월 1일 <b>청라<\/b>블루노바홀에서 장애인과 비장애인... <b>청라<\/b>블루노바홀 지하 전시실에서는 ‘이심전심 문화공감 배리어프리 전시’를 오는... ",
-			"pubDate":"Wed, 29 Nov 2023 13:04:00 +0900"
 		}
 	]
 }
