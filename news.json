@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 29 Nov 2023 17:30:02 +0900",
-	"total":216587,
+	"lastBuildDate":"Wed, 29 Nov 2023 17:40:02 +0900",
+	"total":216588,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'항공 택시' 2025년 상용화…&quot;내년 8월 실증 비행&quot;",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007443042&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001110173?sid=102",
+			"description":"정비에 있어서 시행착오를 최대한 줄일 수 있는 그런 장점들이 있는 것이죠.] 인천시는 디지털 트윈 기반의 UAM 실증 플랫폼 구축을 올해 안에 완료하고, 오는 2025년 조기 상용화를 목표로, 내년 8월부터 <b>청라<\/b>에서 아라뱃길... ",
+			"pubDate":"Wed, 29 Nov 2023 17:36:00 +0900"
+		},
 		{
 			"title":"인천서구문화재단, 배리어프리 공연·전시 개최",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363623422",
@@ -33,17 +40,17 @@
 			"pubDate":"Wed, 29 Nov 2023 16:48:00 +0900"
 		},
 		{
-			"title":"이용 의원, GTX-D 유치 등 하남시 광역교통망 구축 '잰걸음'",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20231129580206",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000027184?sid=102",
-			"description":"29일 이용 의원실에 따르면 하남시 교통망의 주요 현안으로 떠오르는 GTX-D노선은 <b>청라<\/b>·계양을 거쳐 삼성역에서 Y자로 분기, 하남·팔당 방면으로 운행하는 노선으로 수도권 전체의 공항 접근성이 향상되면서 통근... ",
-			"pubDate":"Wed, 29 Nov 2023 16:36:00 +0900"
-		},
-		{
 			"title":"인천 신흥 비즈니스 업무지구 <b>청라<\/b>국제도시 '<b>청라<\/b> SK V1' 분양",
 			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=504090&class=16&grp=",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002321948?sid=101",
 			"description":"인천 서구 <b>청라<\/b>국제도시가 기존 배드타운 역할에서 벗어나 금융, 산업, 유통, 의료 기능을 아우르는... 이와 함께 아산병원 <b>청라<\/b>분원이 2027년 개원 예정이며 글로벌 바이오 메디컬 클러스터인 <b>청라<\/b>의료복합타운(예정)... ",
+			"pubDate":"Wed, 29 Nov 2023 16:36:00 +0900"
+		},
+		{
+			"title":"이용 의원, GTX-D 유치 등 하남시 광역교통망 구축 '잰걸음'",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20231129580206",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000027184?sid=102",
+			"description":"29일 이용 의원실에 따르면 하남시 교통망의 주요 현안으로 떠오르는 GTX-D노선은 <b>청라<\/b>·계양을 거쳐 삼성역에서 Y자로 분기, 하남·팔당 방면으로 운행하는 노선으로 수도권 전체의 공항 접근성이 향상되면서 통근... ",
 			"pubDate":"Wed, 29 Nov 2023 16:36:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2242176",
 			"description":"사랑의 집 14호는 <b>청라<\/b>면 내현리에 건축비 7970만 원을 들여 조립식 주택 63㎡ 규모로 조성됐다. 사랑의 집 14호의 주인공은 지난 4월 <b>청라<\/b>면 대형 산불로 인해 집이 전소된 어르신 단독 가구로 보령시의 추천을 통해 (사)... ",
 			"pubDate":"Wed, 29 Nov 2023 09:30:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>국제도시서 오토바이, SUV와 충돌…30대 운전자 중상",
-			"originallink":"https:\/\/www.news1.kr\/articles\/5245408",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007204204?sid=102",
-			"description":"29일 인천 서부경찰서 등에 따르면 전날 오후 9시48분께 서구 <b>청라<\/b>국제도시 중봉대로 사거리에서 30대 남성 A씨가 몰던 오토바이와 30대 남성 B씨가 운전하던 SUV와 부딪혔다. 이 사고로 A씨가 중상을 입어 출동한 119에... ",
-			"pubDate":"Wed, 29 Nov 2023 07:42:00 +0900"
 		}
 	]
 }
