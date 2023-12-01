@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 01 Dec 2023 17:50:02 +0900",
-	"total":216762,
+	"lastBuildDate":"Fri, 01 Dec 2023 18:00:03 +0900",
+	"total":216763,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이마트에 등장한 G마켓...오프라인 힘 싣는 신세계",
+			"originallink":"https:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202312010149&t=NNv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001137151?sid=101",
+			"description":"이마트는 내년 최소 5개 이상 점포 부지를 확보해 신규 출점을 이어갈 계획이고, 스타필드도 올해 말 개장 예정인 수원점에 이어 창원, <b>청라<\/b>, 광주 등으로 점포망을 넓힐 예정입니다. 신세계백화점도 올해 5,800억 원 이상의... ",
+			"pubDate":"Fri, 01 Dec 2023 17:49:00 +0900"
+		},
 		{
 			"title":"신세계프라퍼티, '스타필드 창원' 경쟁입찰 도입한 까닭",
 			"originallink":"http:\/\/www.sisaweek.com\/news\/articleView.html?idxno=210126",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012242321?sid=101",
 			"description":"강 연구원은 &quot;특히 내년 4분기에는 기존 생산능력의 5배에 달하는 <b>청라<\/b> 신공장(2000억원 이상) 완공이 예정돼 있다&quot;며 &quot;이에 따라 내년 말부터 생산 효율화, 원재료 구매력 상승에 따른 이익률의 추가 개선을 기대할 수... ",
 			"pubDate":"Fri, 01 Dec 2023 08:08:00 +0900"
-		},
-		{
-			"title":"[클릭 e종목]&quot;유일로보틱스, 올해 적자 기조에도 내년엔 흑자 전환 기대&quot;",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023120107433195896",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005348680?sid=101",
-			"description":"강 연구원은 &quot;특히 내년 4분기에는 기존 생산능력의 5배에 달하는 <b>청라<\/b> 신공장 완공이 예정돼 있다&quot;라며 &quot;이에 따라 내년 말부터 생산 효율화 및 원재료 구매력 상승에 따른 이익률의 추가 개선을 기대할 수 있다&quot;라고... ",
-			"pubDate":"Fri, 01 Dec 2023 07:43:00 +0900"
 		}
 	]
 }
