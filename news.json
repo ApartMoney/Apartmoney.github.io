@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 01 Dec 2023 14:30:02 +0900",
-	"total":216753,
+	"lastBuildDate":"Fri, 01 Dec 2023 14:40:02 +0900",
+	"total":216754,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'인천 붉은 수돗물' 사태 때 수치 조작…공무원 유죄",
+			"originallink":"http:\/\/mbn.mk.co.kr\/pages\/news\/newsView.php?category=mbn00009&news_seq_no=4983401",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/057\/0001784338?sid=102",
+			"description":"한편, 앞서 지난 2월 인천시 서구 검단 주민 5200명과 <b>청라<\/b> 주민 1100명이 각각 인천시를 상대로 낸 2건의 손해배상 소송에서 모두 원고 패소 판결난 바 있습니다. 이에 대해 법원은 &quot;인천시가 생수를 지원하거나 수도... ",
+			"pubDate":"Fri, 01 Dec 2023 14:36:00 +0900"
+		},
 		{
 			"title":"북<b>청라<\/b> 체육시설 무료라더니…예약 시스템 '엉망' (B tv 인천뉴스)",
 			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=164323",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20231130010009244",
 			"description":"초청된 해외 청소년들은 인천 <b>청라<\/b>에 위치한 ‘하나글로벌캠퍼스’에 이달 27일부터 4박 5일간 머물며 다양한 한국 문화를 체험하고, 한국어로 교류할 수 있는 뜻깊은 시간을 갖는다. 먼저, 하나은행은 해외 청소년들의... ",
 			"pubDate":"Thu, 30 Nov 2023 17:44:00 +0900"
-		},
-		{
-			"title":"하나은행, 전 세계 34개국 청소년 초청 '글로벌 금융 체험 프로그램' 실시",
-			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=133132",
-			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=133132",
-			"description":"초청된 해외 청소년들은 인천 <b>청라<\/b>에 위치한 '하나글로벌캠퍼스'에 지난 27일부터 4박 5일간 머물며 다양한 한국 문화를 체험하고, 한국어로 교류할 수 있는 뜻깊은 시간을 갖는다. 먼저, 하나은행은 해외 청소년들의... ",
-			"pubDate":"Thu, 30 Nov 2023 17:30:00 +0900"
 		}
 	]
 }
