@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 03 Dec 2023 17:40:02 +0900",
-	"total":216803,
+	"lastBuildDate":"Sun, 03 Dec 2023 17:50:02 +0900",
+	"total":216804,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"10대가 음주 무면허로 킥보도 몰다 '쾅'",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01866326635834912",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005631205?sid=102",
+			"description":"3일 인천 서부경찰서에 따르면 전날 오후 8시 30분께 인천시 서구 <b>청라<\/b>동의 한 아파트 앞 교차로에서 A(17) 양이 몰던 전동킥보드와 B(27) 씨의 차량이 충돌했다. 이 사고로 A양이 다쳐 병원으로 옮겨져 치료를 받고 있다.... ",
+			"pubDate":"Sun, 03 Dec 2023 17:41:00 +0900"
+		},
 		{
 			"title":"겁없는 10대…'음주 무면허'로 전동킥보드 타다 사고로 중상",
 			"originallink":"http:\/\/www.sisajournal.com\/news\/articleView.html?idxno=277878",
@@ -82,17 +89,17 @@
 			"pubDate":"Sun, 03 Dec 2023 13:52:00 +0900"
 		},
 		{
-			"title":"음주 무면허로 전동킥보드 타다 사고…10대 중상",
-			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20231203006900641\/?input=1825m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000632513?sid=102",
-			"description":"인천 서부경찰서는 어제(2일) 오후 8시 30분쯤 인천 서구 <b>청라<\/b>동의 한 교차로에서 10대 A양이 전동킥보드를 몰다 승용차에 충돌했다고 밝혔습니다. 이 사고로 A양이 크게 다쳐 병원으로 옮겨져 치료를 받고 있지만... ",
-			"pubDate":"Sun, 03 Dec 2023 13:49:00 +0900"
-		},
-		{
 			"title":"술에 취해 전동킥보드 타던 10대 승용차와 충돌…“크게 다쳐”",
 			"originallink":"https:\/\/www.khan.co.kr\/economy\/auto\/article\/202312031348001",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003265006?sid=103",
 			"description":"인천 서부경찰서는 지난 2일 오후 10시 34분쯤 인천 서구 <b>청라<\/b>동의 한 아파트단지 앞 교차로에서 A양(17)이 탄 전동킥보드와 B씨(27)가 운전하는 승용차가 충돌했다고 3일 밝혔다. 이 사고로 A양이 크게 다쳐 병원으로... ",
+			"pubDate":"Sun, 03 Dec 2023 13:49:00 +0900"
+		},
+		{
+			"title":"음주 무면허로 전동킥보드 타다 사고…10대 중상",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20231203006900641\/?input=1825m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000632513?sid=102",
+			"description":"인천 서부경찰서는 어제(2일) 오후 8시 30분쯤 인천 서구 <b>청라<\/b>동의 한 교차로에서 10대 A양이 전동킥보드를 몰다 승용차에 충돌했다고 밝혔습니다. 이 사고로 A양이 크게 다쳐 병원으로 옮겨져 치료를 받고 있지만... ",
 			"pubDate":"Sun, 03 Dec 2023 13:49:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011614353?sid=102",
 			"description":"이 학생은 어제 저녁 8시 반쯤 인천시 서구 <b>청라<\/b>동의 한 아파트단지 앞 교차로에서 전동킥보드를 타다 20대 남성이 몰던 승용차와 충돌해 사고를 낸 혐의를 받습니다. 학생은 다쳐 병원으로 옮겨졌지만, 현재 생명에... ",
 			"pubDate":"Sun, 03 Dec 2023 09:24:00 +0900"
-		},
-		{
-			"title":"도로 지을 땅이 없다… 도로 지하화 사업은 어디까지 왔나[황재성의 황금알]",
-			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20231201\/122446809\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003534713?sid=101",
-			"description":"당초에는 인천 서구 남<b>청라<\/b> 나들목(IC)부터 서인천 IC를 거쳐 서울 양천구 신월 IC까지 19.3km 구간에 4~6차로... 한국도로공사가 민주당 허종식 의원(인천 동구미출홀구갑)에 제출한 자료에 따르면 사업 출발지점이 남<b>청라<\/b>IC... ",
-			"pubDate":"Sun, 03 Dec 2023 09:01:00 +0900"
 		}
 	]
 }
