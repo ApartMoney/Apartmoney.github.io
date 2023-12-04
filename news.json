@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 04 Dec 2023 16:10:02 +0900",
-	"total":216917,
+	"lastBuildDate":"Mon, 04 Dec 2023 16:20:02 +0900",
+	"total":216918,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&lt;오늘의 인사&gt;",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20231204153555665",
+			"link":"https:\/\/www.ajunews.com\/view\/20231204153555665",
+			"description":"황수연 ▷<b>청라<\/b>에너지 파견 손광준 ▷신평택발전 파견 손성기 ▷세남노이 수력 O&amp;M 파견 김대훈 ▷교육요원 송인성 김영수 이윤원 신정한 육근정 장승준 조세웅 신용식 ▷ 경영정책추진위원 이흥식 박진성 조병도 노광섭... ",
+			"pubDate":"Mon, 04 Dec 2023 16:14:00 +0900"
+		},
 		{
 			"title":"신세계프라퍼티 10주년…“스타필드 넘어 라이프 체인저로”",
 			"originallink":"https:\/\/economist.co.kr\/article\/view\/ecn202312040010",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=773125",
 			"description":"이 과정에서 미래 추진 사업인 스타필드 <b>청라<\/b>는 새로운 레저 스테이 콤플렉스(Stay Complex)로, 동서울터미널은 강북 최대 복합 랜드마크로, 화성국제테마파크는 더 나은 일상과 휴양을 설계하는 토탈 웰니스 도시로... ",
 			"pubDate":"Mon, 04 Dec 2023 14:34:00 +0900"
-		},
-		{
-			"title":"[인사] 한국서부발전",
-			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2064327",
-			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2064327",
-			"description":"황수연 ▲ <b>청라<\/b>에너지 파견 손광준 ▲ 신평택발전 파견 손성기 ▲ 세남노이 수력 O&amp;M 파견 김대훈 ▲ 교육요원 송인성 김영수 이윤원 신정한 육근정 장승준 조세웅 신용식 ▲ 경영정책추진위원 이흥식 박진성 조병도... ",
-			"pubDate":"Mon, 04 Dec 2023 14:31:00 +0900"
 		}
 	]
 }
