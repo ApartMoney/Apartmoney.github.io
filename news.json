@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 04 Dec 2023 18:50:02 +0900",
-	"total":216953,
+	"lastBuildDate":"Mon, 04 Dec 2023 19:00:02 +0900",
+	"total":216954,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사]한국서부발전",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03201286635835240",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005631914?sid=101",
+			"description":"황수연 △<b>청라<\/b>에너지(주) 파견 손광준 △신평택발전(주) 파견 손성기 △남양주SPC 파견 김병현 △세남노이 수력 O&amp;M 파견 김대훈 △교육요원 송인성, 김영수, 이윤원, 신정한, 육근정, 장승준, 조세웅, 신용식... ",
+			"pubDate":"Mon, 04 Dec 2023 18:51:00 +0900"
+		},
 		{
 			"title":"신세계 전략수장 임영록 대표, “라이프스타일 체인저 될 것”[줌人]",
 			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2308537",
@@ -145,17 +152,17 @@
 			"pubDate":"Mon, 04 Dec 2023 16:59:00 +0900"
 		},
 		{
-			"title":"인천 서구의회, 제264회 제2차 정례회 구정질문",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1796055",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1796055",
-			"description":"김원진 의원은 <b>청라<\/b>광역소각장 폐쇄 및 이전에 대한 청장의 의지에 대해 질의하며 2024년내에 입지선정과 소각시설 기본계획 및 타당성 조사가 완료되게끔 속도감 있는 행정을 요청했다. 또 심곡천의 수질문제와 관련 LH... ",
-			"pubDate":"Mon, 04 Dec 2023 16:56:00 +0900"
-		},
-		{
 			"title":"서구의회 김원진 의원, <b>청라<\/b>광역소각장 폐쇄·이전 및 심곡천 수질문제 관련 ...",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1796048",
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1796048",
 			"description":"본회의에서 <b>청라<\/b>광역소각장 폐쇄·이전 및 심곡천 수질문제와 관련해 구정질의를 펼쳤다고 밝혔다. 김 의원은 먼저 구청장의 공약사항 중 하나인 <b>청라<\/b> 광역소각장 폐쇄 및 이전에 대한 강범석 구청장의 의지에 대해... ",
+			"pubDate":"Mon, 04 Dec 2023 16:56:00 +0900"
+		},
+		{
+			"title":"인천 서구의회, 제264회 제2차 정례회 구정질문",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1796055",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1796055",
+			"description":"김원진 의원은 <b>청라<\/b>광역소각장 폐쇄 및 이전에 대한 청장의 의지에 대해 질의하며 2024년내에 입지선정과 소각시설 기본계획 및 타당성 조사가 완료되게끔 속도감 있는 행정을 요청했다. 또 심곡천의 수질문제와 관련 LH... ",
 			"pubDate":"Mon, 04 Dec 2023 16:56:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160284123954987",
 			"description":"인천서구문화재단(대표이사 이종원)은 오는 12월1일 <b>청라<\/b>블루노바홀에서 장애인과 비장애인 모두가 함께... <b>청라<\/b>블루노바홀 지하 전시실에서는「이심전심 문화공감 배리어프리 전시」를 오는 12월 1일부터 6일까지 별도... ",
 			"pubDate":"Mon, 04 Dec 2023 16:32:00 +0900"
-		},
-		{
-			"title":"서구의회, 제264회 제2차 정례회 현안 쏟아져",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=415271",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=415271",
-			"description":"▲김원진 의원 김원진의원(더불어민주당, 가 선거구)은 <b>청라<\/b>광역소각장 폐쇄 및 이전에 대한 청장의 의지에 대해 질의하며 2024년내에 입지선정과 소각시설 기본계획 및 타당성 조사가 완료되게끔 속도감 있는 행정을... ",
-			"pubDate":"Mon, 04 Dec 2023 16:30:00 +0900"
 		}
 	]
 }
