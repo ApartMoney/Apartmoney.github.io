@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 05 Dec 2023 11:50:02 +0900",
-	"total":217008,
+	"lastBuildDate":"Tue, 05 Dec 2023 12:00:03 +0900",
+	"total":217009,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 한국서부발전",
+			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20231205115626",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002313798?sid=102",
+			"description":"황수연 ▲<b>청라<\/b>에너지(주) 파견 손광준 ▲신평택발전(주) 파견 손성기 ▲남양주SPC 파견 김병현 ▲세남노이 수력 O&amp;M 파견 김대훈 ▲교육요원 송인성·김영수·이윤원·신정한·육근정·장승준·조세웅·신용식... ",
+			"pubDate":"Tue, 05 Dec 2023 11:57:00 +0900"
+		},
 		{
 			"title":"인천경제자유구역청, 교통대책 TF 제2차 회의 개최",
 			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=150452",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014371527?sid=100",
 			"description":"인천 송도·영종·<b>청라<\/b>국제도시의 교통 여건을 개선하기 위한 인천시 예산 투자가 대폭 늘어난다.... 내년 주요 사업은 광역버스·공항리무진 혼잡도 개선 지원, <b>청라<\/b> 신교통수단(GRT) 운영비 지원, 공항철도 운서역... ",
 			"pubDate":"Tue, 05 Dec 2023 09:31:00 +0900"
-		},
-		{
-			"title":"인천경제자유구역, 교통 불편 해소 1370억원 편성",
-			"originallink":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=207048",
-			"link":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=207048",
-			"description":"내년 예산은 신규로 편성하거나 증액한 것으로 △광역버스 및 공항 리무진의 혼잡도 개선 지원, △<b>청라<\/b>국제도시 신교통(GRT) 운영비 지원, △운서역 지하보도 에스컬레이터 설치, △송도·영종·<b>청라<\/b>국제도시... ",
-			"pubDate":"Tue, 05 Dec 2023 09:30:00 +0900"
 		}
 	]
 }
