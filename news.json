@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 06 Dec 2023 02:50:02 +0900",
-	"total":217044,
+	"lastBuildDate":"Wed, 06 Dec 2023 03:00:02 +0900",
+	"total":217045,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 내년 인천경제자유구역 교통 불편 해소에 '1370억원 편성'",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=570699",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=570699",
+			"description":"내년 예산은 신규로 편성하거나 증액한 것으로 △광역버스 및 공항 리무진의 혼잡도 개선 지원 △<b>청라<\/b>국제도시 신교통(GRT) 운영비 지원 △운서역 지하보도 에스컬레이터 설치 △송도·영종·<b>청라<\/b>국제도시... ",
+			"pubDate":"Wed, 06 Dec 2023 02:52:00 +0900"
+		},
 		{
 			"title":"[인사] 한국서부발전",
 			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=316112",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=237405",
 			"description":"구체적으로 보면 ▲서울2호선 <b>청라<\/b> 연장 ▲공항철도·서울9호선 직결 ▲인천1호선 검단 연장 ▲인천1호선 송도 연장 ▲제2경인선 신설 ▲인천2호선 고양 연장 ▲서울5호선 검단·김포 연장 ▲서울7호선 <b>청라<\/b> 연장... ",
 			"pubDate":"Tue, 05 Dec 2023 13:46:00 +0900"
-		},
-		{
-			"title":"인천경제청, 내년 인천경제자유구역 교통 불편 해소에 1370억원 편성",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20231205133614262",
-			"link":"https:\/\/www.ajunews.com\/view\/20231205133614262",
-			"description":"내년 예산은 신규로 편성하거나 증액한 것으로 △광역버스 및 공항 리무진의 혼잡도 개선 지원 △<b>청라<\/b>국제도시 신교통(GRT) 운영비 지원 △운서역 지하보도 에스컬레이터 설치 △송도·영종·<b>청라<\/b>국제도시... ",
-			"pubDate":"Tue, 05 Dec 2023 13:44:00 +0900"
 		}
 	]
 }
