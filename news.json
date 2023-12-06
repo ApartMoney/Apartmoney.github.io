@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 06 Dec 2023 09:20:02 +0900",
-	"total":217048,
+	"lastBuildDate":"Wed, 06 Dec 2023 09:30:02 +0900",
+	"total":217049,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, IFEZ 교통불편 해소 예산 1368억 편성··· 올해보다 563억 증액",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288033017288",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288033017288",
+			"description":"2024년 예산은 신규로 편성하거나 증액한 것으로 ▲광역버스 및 공항 리무진의 혼잡도 개선 지원 ▲<b>청라<\/b>국제도시 신교통(GRT) 운영비 지원 ▲운서역 지하보도 에스컬레이터 설치 ▲송도ㆍ영종ㆍ<b>청라<\/b>국제도시... ",
+			"pubDate":"Wed, 06 Dec 2023 09:26:00 +0900"
+		},
 		{
 			"title":"인천경제청, 내년 교통 불편 해소에 1370억원 편성",
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2064975",
@@ -47,17 +54,17 @@
 			"pubDate":"Tue, 05 Dec 2023 21:10:00 +0900"
 		},
 		{
-			"title":"IFEZ 교통 인프라 개선 내년 1368억 투입",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1061643",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1061643",
-			"description":"광역버스와 공항 리무진의 혼잡도 개선 지원, <b>청라<\/b>국제도시 신교통(GRT) 운영비 지원, 운서역 지하보도 에스컬레이터 설치, 송도·영종·<b>청라<\/b>국제도시 스마트횡단보도 설치에 예산을 사용한다. 인천경제청은 지난... ",
-			"pubDate":"Tue, 05 Dec 2023 21:06:00 +0900"
-		},
-		{
 			"title":"앙리 마티스 강렬함 음악으로 만난다",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1061611",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1061611",
 			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천서구문화재단은 7일 오후 2시 <b>청라<\/b>블루노바홀에서 '명화로 듣는 시에스타 콘서트' 3회 차 공연을 개최한다. 거장들의 명화를 공연에 접목시킨 '명화로 듣는 시에스타 콘서트'의... ",
+			"pubDate":"Tue, 05 Dec 2023 21:06:00 +0900"
+		},
+		{
+			"title":"IFEZ 교통 인프라 개선 내년 1368억 투입",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1061643",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1061643",
+			"description":"광역버스와 공항 리무진의 혼잡도 개선 지원, <b>청라<\/b>국제도시 신교통(GRT) 운영비 지원, 운서역 지하보도 에스컬레이터 설치, 송도·영종·<b>청라<\/b>국제도시 스마트횡단보도 설치에 예산을 사용한다. 인천경제청은 지난... ",
 			"pubDate":"Tue, 05 Dec 2023 21:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=773326",
 			"description":"내년 예산은 신규로 편성하거나 증액한 것으로 ▲광역버스 및 공항 리무진의 혼잡도 개선 지원 ▲<b>청라<\/b>국제도시 신교통(GRT) 운영비 지원 ▲운서역 지하보도 에스컬레이터 설치 ▲송도·영종·<b>청라<\/b>국제도시... ",
 			"pubDate":"Tue, 05 Dec 2023 14:44:00 +0900"
-		},
-		{
-			"title":"인천시의회 허식 의장, 파크골프장 설치를 통한 환경민원 해결",
-			"originallink":"https:\/\/www.cnbnews.com\/news\/article.html?no=632133",
-			"link":"https:\/\/www.cnbnews.com\/news\/article.html?no=632133",
-			"description":"현재 인천시에는 <b>청라<\/b>·영종국제도시, 남동구 장수배수지, 연수구 선학동 등 4곳에서 각각 9홀, 인천송도파크골프장 18호 등 규모의 파크골프장을 운영 중이다. 인천시의회 허식 의장은 “파크골프장을 이용하는... ",
-			"pubDate":"Tue, 05 Dec 2023 14:26:00 +0900"
 		}
 	]
 }
