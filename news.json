@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Dec 2023 04:00:02 +0900",
-	"total":217090,
+	"lastBuildDate":"Thu, 07 Dec 2023 04:10:02 +0900",
+	"total":217091,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘신용등급 강등’ 신세계건설, 경기 악화에 돌파구 난망",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1603489\/?sc=Naver",
+			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1603489\/?sc=Naver",
+			"description":"업계에 따르면 신세계프라퍼티는 2027년 준공 예정인 복합쇼핑몰 ‘스타필드 <b>청라<\/b>’의 시공사를 경쟁입찰을 통해 선정할 것으로 전해진다. 그간 스타필드와 같은 신세계그룹 내 주요시설은 신세계건설이 담당해 오면서... ",
+			"pubDate":"Thu, 07 Dec 2023 04:00:00 +0900"
+		},
 		{
 			"title":"인천경제청, 첫 'IFEZ 경관어워드 시상식' 개최…13개 건축 디자인 수상",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=570884",
@@ -47,17 +54,17 @@
 			"pubDate":"Wed, 06 Dec 2023 19:48:00 +0900"
 		},
 		{
-			"title":"신설 서구 병 '들썩'…지역정가 탐색전 '치열'",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1224406",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1224406",
-			"description":"구체적으로는 <b>청라<\/b>국제도시를 위주로 한 서구 중심부, 검단신도시를 중심으로 한 서구 북서부를 각각 갑·을... 하지만 국회의원선거구획정위원회는 서구 원도심과 함께 갑에 루원시티, 을에 <b>청라<\/b>국제도시, 병에... ",
-			"pubDate":"Wed, 06 Dec 2023 19:32:00 +0900"
-		},
-		{
 			"title":"인천시 예산 14조 5062억…살림살이 팍팍",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1224407",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1224407",
 			"description":"제물포르네상스 추진을 위해 내년에는 기본 및 실시설계 비용 10억원과 인천 1호선 검단 연장과 서울 7호선 <b>청라<\/b>연장 등을 감안해 지하철 노선 확장에만 4234억원을 투입한다. 하지만 국비 사업에서 중 청년일자리... ",
+			"pubDate":"Wed, 06 Dec 2023 19:32:00 +0900"
+		},
+		{
+			"title":"신설 서구 병 '들썩'…지역정가 탐색전 '치열'",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1224406",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1224406",
+			"description":"구체적으로는 <b>청라<\/b>국제도시를 위주로 한 서구 중심부, 검단신도시를 중심으로 한 서구 북서부를 각각 갑·을... 하지만 국회의원선거구획정위원회는 서구 원도심과 함께 갑에 루원시티, 을에 <b>청라<\/b>국제도시, 병에... ",
 			"pubDate":"Wed, 06 Dec 2023 19:32:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004922432?sid=102",
 			"description":"가작에는 △송도 롯데몰 △<b>청라<\/b> 생활문화센터 △송도 롯데바이오로직스 공장시설 △<b>청라<\/b>동 92-1번지 업무시설 △<b>청라<\/b>동 92-6번지 업무시설 △영종 한상드림아일랜드 시니어레지던스 △송도 Rm4~6 Rc10~11블록 주상복합... ",
 			"pubDate":"Wed, 06 Dec 2023 15:29:00 +0900"
-		},
-		{
-			"title":"&quot;무주공산 잡자&quot;…신설 인천 서구병, 자천타천 출마희망자들 벌써 들썩",
-			"originallink":"https:\/\/www.news1.kr\/articles\/5253367",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007219663?sid=102",
-			"description":"정가는 현재 <b>청라<\/b>국제도시를 위주로 한 서구 중심부, 검단신도시를 중심으로 한 서구 북서부를 각각 갑·을 선거구로 하고 가정오거리(루원시티)가 포함된 서구 남측을 새로운 선거구인 병선거구로 나눌 가능성이 크다고... ",
-			"pubDate":"Wed, 06 Dec 2023 15:20:00 +0900"
 		}
 	]
 }
