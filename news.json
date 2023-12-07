@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Dec 2023 19:50:02 +0900",
-	"total":217158,
+	"lastBuildDate":"Thu, 07 Dec 2023 20:00:03 +0900",
+	"total":217159,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[기고] 인천 e스포츠 포럼을 통해 바라 본 인천 e스포츠의 과제",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1224608",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1224608",
+			"description":"개소, <b>청라<\/b>G테크시티 e스포츠 클러스터 조성에 따른 디지펜 아시아캠퍼스와 e스포츠 전용 경기장 건립 협약... 지난 포럼에서는 e스포츠산업클러스터 조성과 미국 게임계의 하버드 '디지펜 공과대학'의 <b>청라<\/b>G테크시티... ",
+			"pubDate":"Thu, 07 Dec 2023 19:52:00 +0900"
+		},
 		{
 			"title":"인천 24년 숙원 해결 &quot;일 잘하네&quot;...유정복 시장, 시민 감사패 받아",
 			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=68186",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012253809?sid=102",
 			"description":"심야에 인천 <b>청라<\/b>국제도시에서 배달 오토바이가 무단횡단자를 들이받는 사고가 발생, 운전자와 보행자 모두 숨졌다. 7일 인천 서부경찰서에 따르면 전날 오후 11시25분께 인천 서구 <b>청라<\/b>동 한 사거리에서 A(20대)씨가... ",
 			"pubDate":"Thu, 07 Dec 2023 12:30:00 +0900"
-		},
-		{
-			"title":"20대 야간 배달 운전자와 60대 보행자 충돌...모두 사망",
-			"originallink":"http:\/\/www.ifm.kr\/news\/374517",
-			"link":"http:\/\/www.ifm.kr\/news\/374517",
-			"description":"오늘(7일) 인천 서부경찰서에 따르면, 어제 오후 11시 25분쯤 인천시 서구 <b>청라<\/b>동 사거리에서 20대 남성 A씨가 몰던 오토바이가 보행자인 60대 남성 B씨를 들이받았습니다.이 사고로 A씨와 B씨가 모두 크게 다쳐... ",
-			"pubDate":"Thu, 07 Dec 2023 12:00:00 +0900"
 		}
 	]
 }
