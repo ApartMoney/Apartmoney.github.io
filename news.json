@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Dec 2023 12:00:03 +0900",
-	"total":217128,
+	"lastBuildDate":"Thu, 07 Dec 2023 12:10:02 +0900",
+	"total":217129,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"20대 야간 배달 운전자와 60대 보행자 충돌...모두 사망",
+			"originallink":"http:\/\/www.ifm.kr\/news\/374517",
+			"link":"http:\/\/www.ifm.kr\/news\/374517",
+			"description":"오늘(7일) 인천 서부경찰서에 따르면, 어제 오후 11시 25분쯤 인천시 서구 <b>청라<\/b>동 사거리에서 20대 남성 A씨가 몰던 오토바이가 보행자인 60대 남성 B씨를 들이받았습니다.이 사고로 A씨와 B씨가 모두 크게 다쳐... ",
+			"pubDate":"Thu, 07 Dec 2023 12:00:00 +0900"
+		},
 		{
 			"title":"승객 2배 늘었지만 적자 늪 여전한 인천 BRT",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/10892841",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004271098?sid=102",
 			"description":"7일 인천 서부경찰서에 따르면 전날 오후 11시 25분께 인천시 서구 <b>청라<\/b>동 사거리에서 20대 남성 A씨가 몰던 오토바이가 보행자인 60대 남성 B씨를 들이받았다. 이 사고로 A씨와 B씨가 모두 크게 다쳐 119구급대에 의해... ",
 			"pubDate":"Thu, 07 Dec 2023 08:19:00 +0900"
-		},
-		{
-			"title":"배달 오토바이 보행자와 부딪혀…2명 사망",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007452723&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001112272?sid=102",
-			"description":"인천 서부경찰서에 따르면 어젯(6일)밤 11시 26분쯤 인천 서구 <b>청라<\/b>동 사거리에서 20대 남성 A 씨가 몰던 오토바이가 60대 남성 보행자 B 씨를 들이받았습니다. 이 사고로 두 사람 모두 크게 다쳐 119구급대가 병원으로... ",
-			"pubDate":"Thu, 07 Dec 2023 08:18:00 +0900"
 		}
 	]
 }
