@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Dec 2023 15:00:02 +0900",
-	"total":217138,
+	"lastBuildDate":"Thu, 07 Dec 2023 15:10:02 +0900",
+	"total":217139,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"수도권제2순환고속도로 3중 추돌",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6366658",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007222144?sid=102",
+			"description":"= 지난 6일 오후 1시56분께 인천시 서구 <b>청라<\/b>동 수도권제2순환고속도로 남<b>청라<\/b>IC 방면 2차로를 달리던 2.5톤 탑차가 앞서 달리던 2.5톤 활어차를 들이 받았다. 사진은 사고현장.(인천소방본부 제공).2023.12.7\/뉴스1",
+			"pubDate":"Thu, 07 Dec 2023 14:59:00 +0900"
+		},
 		{
 			"title":"인천 서구, 기후대응 도시숲 조성 준공",
 			"originallink":"http:\/\/www.breaknews.com\/1002974",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/082\/0001245442?sid=102",
 			"description":"7일 인천 서부경찰서에 따르면 전날 오후 11시 25분께 인천시 서구 <b>청라<\/b>동 사거리에서 20대 남성 A 씨가 몰던 오토바이가 보행자인 60대 남성 B 씨를 들이받았다. 이 사고로 A 씨와 B 씨가 모두 크게 다쳐 119구급대에 의해... ",
 			"pubDate":"Thu, 07 Dec 2023 09:46:00 +0900"
-		},
-		{
-			"title":"수도권제2순환고속도로서 탑차·승용차 3중 추돌…2명 중상",
-			"originallink":"https:\/\/www.news1.kr\/articles\/5254030",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007220646?sid=102",
-			"description":"7일 인천경찰청 고속도로순찰대에 따르면 전날 낮 1시56분께 인천시 서구 <b>청라<\/b>동 수도권제2순환고속도로 남<b>청라<\/b>IC 방면 2차로를 달리던 2.5톤 탑차가 앞서 가던 2.5톤 활어차를 들이받았다. 이어 활어차가 밀리면서... ",
-			"pubDate":"Thu, 07 Dec 2023 09:17:00 +0900"
 		}
 	]
 }
