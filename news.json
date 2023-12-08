@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 08 Dec 2023 15:00:02 +0900",
-	"total":217221,
+	"lastBuildDate":"Fri, 08 Dec 2023 15:10:02 +0900",
+	"total":217222,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천 주요 뉴스]수도권제2순환고속도 남<b>청라<\/b>IC~북항 연결도로 11일 개통",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6060487",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003841707?sid=102",
+			"description":"수도권제2순환고속도 남<b>청라<\/b>IC~북항 연결도로 11일 개통 인천시 종합건설본부는 오는 11일 수도권제2순환고속도로 남<b>청라<\/b> 나들목과 북항 배후단지를 연결하는 도로를 개통한다고 밝혔습니다. 남<b>청라<\/b> 나들목과 북항을... ",
+			"pubDate":"Fri, 08 Dec 2023 15:02:00 +0900"
+		},
 		{
 			"title":"현대무벡스, 한국타이어 美공장 1천억 원대 스마트 물류 수주",
 			"originallink":"http:\/\/www.irobotnews.com\/news\/articleView.html?idxno=33462",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005634439?sid=102",
 			"description":"인천시는 11일 서구 수도권제2순환고속도로 남<b>청라<\/b>IC와 북항배후단지를 잇는 <b>청라<\/b>지구~북항 구간(대1-17호선) 연결도로를 개통한다고 8일 밝혔다. 지난 2018년 8월 착공한 <b>청라<\/b>지구~북항 연결도로 건축사업은 1.5㎞, 폭... ",
 			"pubDate":"Fri, 08 Dec 2023 11:07:00 +0900"
-		},
-		{
-			"title":"인천시, 11일부터 <b>청라<\/b>-북항 간 연결도로 추가 개통",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=415339",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=415339",
-			"description":"▲<b>청라<\/b>·북항 연결도로 개통 사업 에정지 현장 인천시 종합건설본부는 오는 11일 인천 서구 수도권제2순환고속도로 남<b>청라<\/b>IC와 북항배후단지를 연결하는 <b>청라<\/b>지구~북항 간(대1-17호선) 연결도로를 개통한다고 밝혔다.... ",
-			"pubDate":"Fri, 08 Dec 2023 11:00:00 +0900"
 		}
 	]
 }
