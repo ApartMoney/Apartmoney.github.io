@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 08 Dec 2023 11:50:02 +0900",
-	"total":217202,
+	"lastBuildDate":"Fri, 08 Dec 2023 12:00:02 +0900",
+	"total":217203,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, <b>청라<\/b>~북항 연결로 추가 '개통'",
+			"originallink":"http:\/\/www.inews24.com\/view\/1663495",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000794988?sid=102",
+			"description":"인천 서구 수도권제2순환고속도로 남<b>청라<\/b>IC와 북항배후단지를 연결하는 <b>청라<\/b>지구~북항 연결도로가 오는 11일 개통한다. 8일 인천광역시 종합건설본부에 따르면 지난 2018년 8월 착공한 <b>청라<\/b>지구~북항 연결로는 총 길이... ",
+			"pubDate":"Fri, 08 Dec 2023 11:56:00 +0900"
+		},
 		{
 			"title":"인천시, <b>청라<\/b>-북항 간 연결도로 11일 추가 개통",
 			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2023120811151156654?utm_source=naver&utm_medium=search",
@@ -33,17 +40,17 @@
 			"pubDate":"Fri, 08 Dec 2023 11:34:00 +0900"
 		},
 		{
-			"title":"인천시, <b>청라<\/b>-북항 간 연결도로 추가 개통",
-			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=652238",
-			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=652238",
-			"description":"추가로 개통되는 <b>청라<\/b>지구~북항 간 연결도로 위치도(제공=인천시) 인천시 종합건설본부는 오는 11일 서구 수도권제2순환고속도로 남<b>청라<\/b>IC와 북항배후단지를 연결하는 <b>청라<\/b>지구~북항 간 연결도로를 개통한다고 8일... ",
-			"pubDate":"Fri, 08 Dec 2023 11:12:00 +0900"
-		},
-		{
 			"title":"인천시, 11일부터 <b>청라<\/b>-북항 간 연결도로 추가 개통",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1073847",
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1073847",
 			"description":"매일일보 = 이종민 기자  |  인천광역시 종합건설본부는 오는 11일 인천 서구 수도권제2순환고속도로 남<b>청라<\/b>IC와 북항배후단지를 연결하는 <b>청라<\/b>지구~북항 간(대1-17호선) 연결도로를 개통한다고 밝혔다. 지난 2018년 8월... ",
+			"pubDate":"Fri, 08 Dec 2023 11:12:00 +0900"
+		},
+		{
+			"title":"인천시, <b>청라<\/b>-북항 간 연결도로 추가 개통",
+			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=652238",
+			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=652238",
+			"description":"추가로 개통되는 <b>청라<\/b>지구~북항 간 연결도로 위치도(제공=인천시) 인천시 종합건설본부는 오는 11일 서구 수도권제2순환고속도로 남<b>청라<\/b>IC와 북항배후단지를 연결하는 <b>청라<\/b>지구~북항 간 연결도로를 개통한다고 8일... ",
 			"pubDate":"Fri, 08 Dec 2023 11:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014378982?sid=102",
 			"description":"인천시 종합건설본부는 오는 11일 수도권제2순환고속도로 남<b>청라<\/b> 나들목(IC)과 북항 배후단지를 연결하는 도로를 개통한다고 8일 밝혔다. 남<b>청라<\/b>IC∼북항 연결도로는 460억원을 들여 2018년 8월 착공했다. 총길이는 1.... ",
 			"pubDate":"Fri, 08 Dec 2023 09:18:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 로봇랜드~북항 배후단지 연결도로 11일 개통",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=98774",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=98774",
-			"description":"오는 11일 개통되는 <b>청라<\/b> 로봇랜드~북항 배후단지 연결도로 인천시는 오는 11일(월) <b>청라<\/b> 로봇랜드와 북항 배후단지를 연결하는 <b>청라<\/b>~북항 구간 도로를 개통한다고 8일 밝혔다. 이 도로는 길이 1.5km, 폭 35m의 왕복 4... ",
-			"pubDate":"Fri, 08 Dec 2023 09:16:00 +0900"
 		}
 	]
 }
