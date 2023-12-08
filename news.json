@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 08 Dec 2023 18:00:02 +0900",
-	"total":217235,
+	"lastBuildDate":"Fri, 08 Dec 2023 18:10:02 +0900",
+	"total":217236,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;엄마 전지현, SES유진도?&quot; 스타·명망가 자녀들, 이 곳 학교로 몰린다?",
+			"originallink":"https:\/\/radio.ytn.co.kr\/program\/?f=2&id=93012&s_mcd=0433&s_hcd=01",
+			"link":"https:\/\/radio.ytn.co.kr\/program\/?f=2&id=93012&s_mcd=0433&s_hcd=01",
+			"description":"◆ 이강구 : 네, 인천에서 어떻게 보면 이제 인천 경제자유구역으로 지정해서 송도와 영종, <b>청라<\/b>를 지정하고. 지금 이제 올해로 20주년이 되었는데요. 그 중에서도 송도는 인천을 견인하는 그런 도시이기도 하고, 또 인천... ",
+			"pubDate":"Fri, 08 Dec 2023 18:02:00 +0900"
+		},
 		{
 			"title":"아파트 매매 '내리고' 전세 '오르고'",
 			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=286000",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202312080039",
 			"description":"인천시 종합건설본부는 오는 11일 서구 수도권제2순환고속도로 남<b>청라<\/b>IC와 북항배후단지를 연결하는 <b>청라<\/b>지구~북항 간 연결도로를 개통한다고 8일 밝혔다. <b>청라<\/b>지구~북항 간 연결도로는 지난 2018년 8월 착공했으며... ",
 			"pubDate":"Fri, 08 Dec 2023 13:02:00 +0900"
-		},
-		{
-			"title":"남<b>청라<\/b>IC~북항 연결도로 11일 개통… 기존 대비 15분 단축",
-			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363624981",
-			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363624981",
-			"description":"<b>청라<\/b>지구~북항간(대1-17호선) 연결도로 인천시가 오는 11일 서구 수도권제2순환고속도로 남<b>청라<\/b>IC와 북항배후단지를 연결하는 <b>청라<\/b>지구~북항 간(대1-17호선) 연결도로가 개통된다고 8일 밝혔다. <b>청라<\/b>지구~북항간... ",
-			"pubDate":"Fri, 08 Dec 2023 12:48:00 +0900"
 		}
 	]
 }
