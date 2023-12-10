@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 10 Dec 2023 17:10:02 +0900",
-	"total":217255,
+	"lastBuildDate":"Sun, 10 Dec 2023 17:20:03 +0900",
+	"total":217256,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"안그래도 `좁은 문` 실버타운, 운영마저 엉망진창?",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2023121002109963080007&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002842303?sid=101",
+			"description":"수도권에서 현재 입주자모집 중인 더시그넘하우스<b>청라<\/b>와 KB골든라이프케어평창카운티를 포함해 4개의 실버타운 입주가 예정됐지만, 지방에서는 부산 기장군에서 2025년 2월 개원예정인 라티브(라우어)가 유일한... ",
+			"pubDate":"Sun, 10 Dec 2023 17:17:00 +0900"
+		},
 		{
 			"title":"인천 사업장서 폐수 무단 방류 건수 증가… 감독·관리 강화 필요",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20231210580215",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20231208500257",
 			"description":"위치도 인천광역시 종합건설본부는 오는 11일 인천 서구 수도권제2순환고속도로 남<b>청라<\/b>IC와 북항배후단지를 연결하는 <b>청라<\/b>지구~북항 간(대1-17호선) 연결도로를 개통한다고 밝혔다. 지난 2018년 8월 착공한 <b>청라<\/b>지구... ",
 			"pubDate":"Fri, 08 Dec 2023 15:26:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>~북항 연결도로 11일 개통",
-			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=447786",
-			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=447786",
-			"description":"수도권 제2순환 고속도로 남<b>청라<\/b> 나들목과 북항 배후 단지를 연결하는 도로가 11일 개통합니다. <b>청라<\/b>~북항 연결도로는 총 길이 1.5km, 왕복 4~6차로로 건설됐습니다. 이번에 개통하는 연결도로를 이용하면 북항 배후... ",
-			"pubDate":"Fri, 08 Dec 2023 15:18:00 +0900"
 		}
 	]
 }
