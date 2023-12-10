@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 11 Dec 2023 00:10:02 +0900",
-	"total":217264,
+	"lastBuildDate":"Mon, 11 Dec 2023 00:20:02 +0900",
+	"total":217265,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서양화가 조경희, 그릇 핵심 모티브 'Happy' 전…12~24일 갤러리 <b>청라<\/b>",
+			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2149524",
+			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2149524",
+			"description":"서양화가 조경희의 그릇을 핵심 모티브로 한 'Happy'전 갤러리 <b>청라<\/b>(대구 중구 서성로 26, 정무빌딩 B101)가 서양화가 조경희의 그릇을 핵심 모티브로 한 'Happy'전을 12일(화)부터 24(일)까지 연다. 조경희는 현재... ",
+			"pubDate":"Mon, 11 Dec 2023 00:12:00 +0900"
+		},
 		{
 			"title":"남<b>청라<\/b>IC~북항배후단지 도로 개통… 1.5㎞ 4~6차로 기존보다 15분 단축",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231211010001125",
@@ -68,17 +75,17 @@
 			"pubDate":"Sun, 10 Dec 2023 17:17:00 +0900"
 		},
 		{
-			"title":"인천 사업장서 폐수 '콸콸' 무단 방류 건수 증가… 감독·관리 강화 필요",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20231210580215",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000028080?sid=102",
-			"description":"A업체는 지난 5월 서구 <b>청라<\/b>동에서 서울지하철 7호선 <b>청라<\/b>연장선 공사를 진행하면서 기준치(10ppm)보다 많은 15ppm의 부유물질 SS(Suspended solid)을 방류해 환경 당국으로부터 적발됐다. 이 현장은 자체 폐수처리시설이 있어... ",
-			"pubDate":"Sun, 10 Dec 2023 16:50:00 +0900"
-		},
-		{
 			"title":"인천 서구, <b>청라<\/b>에 기후대응 도시 숲 준공",
 			"originallink":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=64768",
 			"link":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=64768",
 			"description":"<b>청라<\/b>지역에 조성한 기후대응 도시숲.[사진=서구청] 인천 서구(구청장 강범석)가 <b>청라<\/b>지역 기후대응 도시숲 조성사업을 마무리 짓고 지난 6일 준공식을 개최했다. 서구는 이로써 지난해 조성한 석남이음숲 미세먼지 차단... ",
+			"pubDate":"Sun, 10 Dec 2023 16:50:00 +0900"
+		},
+		{
+			"title":"인천 사업장서 폐수 '콸콸' 무단 방류 건수 증가… 감독·관리 강화 필요",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20231210580215",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000028080?sid=102",
+			"description":"A업체는 지난 5월 서구 <b>청라<\/b>동에서 서울지하철 7호선 <b>청라<\/b>연장선 공사를 진행하면서 기준치(10ppm)보다 많은 15ppm의 부유물질 SS(Suspended solid)을 방류해 환경 당국으로부터 적발됐다. 이 현장은 자체 폐수처리시설이 있어... ",
 			"pubDate":"Sun, 10 Dec 2023 16:50:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=286000",
 			"description":"중구(-0.14%)는 중산·운남동 위주로, 동구(-0.05%)는 송현·송림동 구축 위주로 하락했으나, 서구(0.08%)는 정주여건 양호한 <b>청라<\/b>·가정동 주요단지 위주로, 남동구(0.04%)는 논현·구월·간석동 위주로 상승했다.... ",
 			"pubDate":"Fri, 08 Dec 2023 17:50:00 +0900"
-		},
-		{
-			"title":"인천시, <b>청라<\/b>~북항 간 연결도로 11일 추가 개통",
-			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/2060628.htm",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000253752?sid=102",
-			"description":"총길이 1.5km 왕복 4~6차로…북항→남<b>청라<\/b>IC 진입까지 기존 대비 15분 단축 인천 서구 수도권제2순환고속도로 남<b>청라<\/b>IC와 북항배후단지를 연결하는 <b>청라<\/b>지구~북항 간(대1-17호선) 연결도로가 11일 개통한다. 8일... ",
-			"pubDate":"Fri, 08 Dec 2023 17:29:00 +0900"
 		}
 	]
 }
