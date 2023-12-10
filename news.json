@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 10 Dec 2023 19:20:02 +0900",
-	"total":217258,
+	"lastBuildDate":"Sun, 10 Dec 2023 19:30:03 +0900",
+	"total":217259,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 12월 첫주 '아파트값 하락폭' 소폭 감소",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1224888",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1224888",
+			"description":"▲ 사진은 인천 서구 <b>청라<\/b>국제도시 전경. \/인천일보DB 인천 아파트 매매가격 하락폭이 소폭 줄었다. 10일... 중구는 중산·운남동 위주로 하락했고, 서구는 정주여건 양호한 <b>청라<\/b>·가정동 주요단지 위주로 가격이... ",
+			"pubDate":"Sun, 10 Dec 2023 19:24:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>지구~북항 연결도로 개통",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202312101805319442",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2023\/12\/08\/2023120800184.html",
 			"description":"뉴데일리 송원영 기자 = 인천시 종합건설본부는 오는 11일 수도권제2순환고속도로 남<b>청라<\/b> 나들목(IC)과 북항 배후단지를 연결하는 도로를 개통한다고 8일 밝혔다. 남<b>청라<\/b>IC∼북항 연결도로는 460억원을 들여 2018년 8월... ",
 			"pubDate":"Fri, 08 Dec 2023 16:32:00 +0900"
-		},
-		{
-			"title":"스카이입시교육학원 대치동점, 2024 국제학교생 고졸검정고시·수능 고득점 강...",
-			"originallink":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=303800",
-			"link":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=303800",
-			"description":"특히 대치동 최고의 전문가들이 서울 판교 분당 인천 송도 <b>청라<\/b> 제주도 등의 국제학교생 대비 고졸 검정고시 만점 학원 학습 대비와 연세대 언더우드 국제형 전형 등 서울대 등 주요 명문대 수시 대비 비교과 활동 연계... ",
-			"pubDate":"Fri, 08 Dec 2023 16:04:00 +0900"
 		}
 	]
 }
