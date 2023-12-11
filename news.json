@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 11 Dec 2023 19:30:02 +0900",
-	"total":217313,
+	"lastBuildDate":"Mon, 11 Dec 2023 19:40:02 +0900",
+	"total":217314,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"가정역에 5번째 스마트도서관 개관… 인천 서구, 연중무휴 운영·연내 2곳 추...",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231212010001267",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231212010001267",
+			"description":"서구는 2018년 서구청역과 검단사거리역 스마트도서관 설치를 시작으로 2021년에는 검암역, 2023년 10월엔 <b>청라<\/b>3동에 스마트도서관을 마련했다. 이어 가정역에 5번째 스마트도서관을 설치했다.서구는 연내 도담공원... ",
+			"pubDate":"Mon, 11 Dec 2023 19:34:00 +0900"
+		},
 		{
 			"title":"순수함과 음악이 전하는 감동 메시지… 내년 3월 '시립소년소녀합창단' 창단",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231212010001269",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=164610",
 			"description":"수도권제2순환고속도로 남<b>청라<\/b>IC와 북항배후단지를 연결하는 도로가 개통했습니다. 연결도로는 총 길이 1.5㎞, 폭 35m의 왕복 6차선으로 준공됐습니다. 연결도로를 이용하면, 북항배후단지에서 <b>청라<\/b> 로봇랜드로를 거쳐... ",
 			"pubDate":"Mon, 11 Dec 2023 11:40:00 +0900"
-		},
-		{
-			"title":"가정역 스마트도서관 개관",
-			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2066769",
-			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2066769",
-			"description":"구는 2018년 서구청역과 검단사거리역의 스마트도서관 설치를 시작으로 2021년에는 검암역, 올 10월에는 <b>청라<\/b>3동에 설치했다. 이어 올해 가정역에 5번째 스마트 도서관을 설치했다. 이날 개관한 스마트도서관은 365일... ",
-			"pubDate":"Mon, 11 Dec 2023 11:30:00 +0900"
 		}
 	]
 }
