@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 11 Dec 2023 10:00:03 +0900",
-	"total":217269,
+	"lastBuildDate":"Mon, 11 Dec 2023 10:10:02 +0900",
+	"total":217270,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시 <b>청라<\/b>면, 연극공동체 연극 '니나노' 공연 개최",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20231211010002976",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20231211010002976",
+			"description":"= 보령시 <b>청라<\/b>면 향천1리 연극공동체'아싸,향연(대표 정은정)'의 연극 '니나노' 공연이 15일 오후 3시 보령문화예술회관 대공연장에서 열린다고 11일 밝혔다. 연극 '니나노'는 2021년 '아싸,향연'의 첫 번째 시리즈 '놀부의... ",
+			"pubDate":"Mon, 11 Dec 2023 10:00:00 +0900"
+		},
 		{
 			"title":"인천시 문화예술회관, 시립소년소녀합창단 창단 계획 발표",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=415361",
@@ -103,17 +110,17 @@
 			"pubDate":"Sun, 10 Dec 2023 17:17:00 +0900"
 		},
 		{
-			"title":"인천 사업장서 폐수 '콸콸' 무단 방류 건수 증가… 감독·관리 강화 필요",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20231210580215",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000028080?sid=102",
-			"description":"A업체는 지난 5월 서구 <b>청라<\/b>동에서 서울지하철 7호선 <b>청라<\/b>연장선 공사를 진행하면서 기준치(10ppm)보다 많은 15ppm의 부유물질 SS(Suspended solid)을 방류해 환경 당국으로부터 적발됐다. 이 현장은 자체 폐수처리시설이 있어... ",
-			"pubDate":"Sun, 10 Dec 2023 16:50:00 +0900"
-		},
-		{
 			"title":"인천 서구, <b>청라<\/b>에 기후대응 도시 숲 준공",
 			"originallink":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=64768",
 			"link":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=64768",
 			"description":"<b>청라<\/b>지역에 조성한 기후대응 도시숲.[사진=서구청] 인천 서구(구청장 강범석)가 <b>청라<\/b>지역 기후대응 도시숲 조성사업을 마무리 짓고 지난 6일 준공식을 개최했다. 서구는 이로써 지난해 조성한 석남이음숲 미세먼지 차단... ",
+			"pubDate":"Sun, 10 Dec 2023 16:50:00 +0900"
+		},
+		{
+			"title":"인천 사업장서 폐수 '콸콸' 무단 방류 건수 증가… 감독·관리 강화 필요",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20231210580215",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000028080?sid=102",
+			"description":"A업체는 지난 5월 서구 <b>청라<\/b>동에서 서울지하철 7호선 <b>청라<\/b>연장선 공사를 진행하면서 기준치(10ppm)보다 많은 15ppm의 부유물질 SS(Suspended solid)을 방류해 환경 당국으로부터 적발됐다. 이 현장은 자체 폐수처리시설이 있어... ",
 			"pubDate":"Sun, 10 Dec 2023 16:50:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1073992",
 			"description":"인천 서구 <b>청라<\/b>국제신도시 신축아파트인 '<b>청라<\/b> 국제업무단지 센텀 대광로제비앙'. 사진=독자 제공 매일일보 = 나광국 기자  |  # &quot;입주 후 2년여 만인 약 3년 전에 화장실에서 '펑'하는 소리와 함께 벽면 타일에 금이 갔어요.... ",
 			"pubDate":"Sat, 09 Dec 2023 00:14:00 +0900"
-		},
-		{
-			"title":"12\/9~10 이마트·홈플러스·롯데마트·노브랜드, 휴무일·영업하는 지점은?",
-			"originallink":"https:\/\/www.thekpm.com\/news\/articleView.html?idxno=183529",
-			"link":"https:\/\/www.thekpm.com\/news\/articleView.html?idxno=183529",
-			"description":"인천<b>청라<\/b>점, 인천청학점 등이다. 노브랜드 경기지역 12월 10일, 24일(둘째, 넷째 주 일요일) 휴무하는 지점은... 인천<b>청라<\/b>, 인천연수, 인천송도, 부천여월, 부천상동, 부천소사, 분당오리, 야탑, 시화, 의정부, 송탄... ",
-			"pubDate":"Sat, 09 Dec 2023 00:12:00 +0900"
 		}
 	]
 }
