@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 11 Dec 2023 20:40:03 +0900",
-	"total":217318,
+	"lastBuildDate":"Mon, 11 Dec 2023 20:50:02 +0900",
+	"total":217319,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서구, 다섯 번째 스마트도서관 가정역에 개장",
+			"originallink":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=64810",
+			"link":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=64810",
+			"description":"서구는 2018년 서구청역과 검단사거리역을 시작으로 2021년 검암역에 이어 올해 10월 <b>청라<\/b>3동, 그리고 이번에 다섯 번째 스마트 도서관을 가정역에 오픈했다. 스마트도서관은 365일 연중무휴로 기기 내에 소장돼 있는 350여... ",
+			"pubDate":"Mon, 11 Dec 2023 20:40:00 +0900"
+		},
 		{
 			"title":"보령시 <b>청라<\/b>면 향천1리 연극공동체 연극 '니나노' 공연 개최",
 			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=778809",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=326819",
 			"description":"연극공연 '니나노' 포스터 보령시 <b>청라<\/b>면 향천1리 연극공동체 '아싸,향연'의 연극 '니나노' 공연이 오는 15일 오후 3시 보령문화예술회관 대공연장에서 열린다. 연극 '니나노'는 2021년 '아싸,향연'의 첫 번째 시리즈 '놀부의... ",
 			"pubDate":"Mon, 11 Dec 2023 13:32:00 +0900"
-		},
-		{
-			"title":"서구 <b>청라<\/b>1동, 포스코인터로부터 도서 기증 받아",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1799156",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1799156",
-			"description":"인천 서구 <b>청라<\/b>1동은 포스코인터내셔널로부터 <b>청라<\/b>1동 청초랑 북카페 도서 303권을 기증받았다고 11일 밝혔다. 포스코인터내셔널은 모든 주민들이 독서로 다양한 경험과 건강한 문화적 체험을 영유할 수 있는 사회적... ",
-			"pubDate":"Mon, 11 Dec 2023 13:30:00 +0900"
 		}
 	]
 }
