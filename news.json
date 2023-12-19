@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 20 Dec 2023 05:00:02 +0900",
-	"total":217645,
+	"lastBuildDate":"Wed, 20 Dec 2023 05:10:03 +0900",
+	"total":217646,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 원도심·내항 문화관광 거점… ‘제물포 르네상스’ 연다",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/newsView.php?id=20231220011006&wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003417915?sid=102",
+			"description":"바이오·도심항공교통(UAM)·의료산업을 선도하는 송도·영종·<b>청라<\/b>국제도시와 연계해 첨단산업 지원 클러스터를 조성한다. 내항은 주변 지역 개발계획과 연계해 수변문화공간으로 개편된다. 1974년 개장한 인천내항은... ",
+			"pubDate":"Wed, 20 Dec 2023 05:04:00 +0900"
+		},
 		{
 			"title":"인천시, 인천 미래 비전 제시 '제물포르네상스 마스터플랜' 공개",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=572568",
@@ -26,17 +33,17 @@
 			"pubDate":"Tue, 19 Dec 2023 21:02:00 +0900"
 		},
 		{
-			"title":"원도심 정주여건 개선~내항 개발 제물포르네상스 마스터플랜 공개",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1064130",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1064130",
-			"description":"제물포 경제자유구역을 만들어 바이오·도심항공교통(UAM)·AI의료사업을 유치해 <b>청라<\/b>·송도와 연계를 강화한다는 방침이다. 원도심 개발의 가장 큰 문제 중 하나였던 규제는 과감히 완화한다. 시는 문화재 규제 심의를... ",
-			"pubDate":"Tue, 19 Dec 2023 21:00:00 +0900"
-		},
-		{
 			"title":"인천 원도심 개발 휘슬 불었지만 아슬아슬",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1064119",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1064119",
 			"description":"이미 인천은 송도·영종·<b>청라<\/b> 3개 인천경제자유구역을 운영 중이다. 여기에 수도권매립지 일대와 강화 남단까지 경제자유구역 지정을 추진해 '선택과 집중'을 고려하지 않는다는 지적이다. 더욱이 지방 균형발전을... ",
+			"pubDate":"Tue, 19 Dec 2023 21:00:00 +0900"
+		},
+		{
+			"title":"원도심 정주여건 개선~내항 개발 제물포르네상스 마스터플랜 공개",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1064130",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1064130",
+			"description":"제물포 경제자유구역을 만들어 바이오·도심항공교통(UAM)·AI의료사업을 유치해 <b>청라<\/b>·송도와 연계를 강화한다는 방침이다. 원도심 개발의 가장 큰 문제 중 하나였던 규제는 과감히 완화한다. 시는 문화재 규제 심의를... ",
 			"pubDate":"Tue, 19 Dec 2023 21:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20231219010005817",
 			"description":"또 △산업경제 분야에서는 지역 특화산업인 소재·부품·장비 등 뿌리 산업의 지속적인 성장을 위해 공업지역 정비 방안을 추진하고 바이오·도심항공교통(UAM)·의료 산업을 선도하고 있는 송도·영종·<b>청라<\/b>와 연계해... ",
 			"pubDate":"Tue, 19 Dec 2023 16:06:00 +0900"
-		},
-		{
-			"title":"인천시, '제물포 르네상스' 청사진 공개…&quot;내항·원도심 확 바뀐다&quot;",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007468541&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001115764?sid=102",
-			"description":"아울러 미래 성장 산업인 바이오와 도심항공교통(UAM), 의료산업을 선도하고 있는 송도와 영종, <b>청라<\/b>국제도시와 연계해 첨단산업 지원 클러스터를 조성할 계획입니다. 내항 개발 분야는 주변 지역 개발계획과 연계해... ",
-			"pubDate":"Tue, 19 Dec 2023 16:00:00 +0900"
 		}
 	]
 }
