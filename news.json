@@ -1,11 +1,18 @@
 {
-	"lastBuildDate":"Wed, 20 Dec 2023 18:20:02 +0900",
-	"total":217748,
+	"lastBuildDate":"Wed, 20 Dec 2023 18:30:02 +0900",
+	"total":217749,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"‘푸르지오’ 철근 누락, 오시공이면 문제없는 건가 [현장기자]",
+			"title":"인천시, '반도체·바이오·로봇 등 육성'으로 도시 경쟁력 확보",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=238194",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=238194",
+			"description":"시가 제시한 산업벨트는 ▲바이오(송도)-반도체(영종)-소부장(남동) 벨트 ▲로봇-모빌리티-첨단의료(<b>청라<\/b>) 벨트 ▲친환경(검단)-미래에너지(영흥) 벨트 ▲정보통신기술 벨트(ICT, 주안·부평·계양)이다. 시는 이 산업벨트를... ",
+			"pubDate":"Wed, 20 Dec 2023 18:24:00 +0900"
+		},
+		{
+			"title":"대우건설 철근 누락, 오시공이면 문제없는 건가 [현장기자]",
 			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0018992056&code=61141511&cp=nv",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001661084?sid=101",
 			"description":"대우건설이 10년 전 인천 <b>청라<\/b> 푸르지오를 지으면서 벨트월(외부벽) 층이라는 내진 구조물에 1t가량의 철근을 덜 넣었을 때도 법원은 구조 안전에 문제가 없다고 판단했다. 건물이 안전하다는 평가는 ‘설계와 다른 시공’... ",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000255807?sid=102",
 			"description":"이와 함께 시민이 살고 싶은 행복한 도시 건설을 위해 송도 워터프런트 조성, 아트센터인천 2단계 건립, <b>청라<\/b>시티타워 건설 등도 적극 추진한다. 김진용 인천경제청장은 &quot;어려운 경제 여건 속에서도 지난해 경제자유구역... ",
 			"pubDate":"Wed, 20 Dec 2023 16:18:00 +0900"
-		},
-		{
-			"title":"인천경제청, 4대 전략·20대 중점 과제 등 내년 주요업무계획 보고",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20231220155322414",
-			"link":"https:\/\/www.ajunews.com\/view\/20231220155322414",
-			"description":"이와함께 시민이 살고 싶은 행복한 도시 건설을 위해 송도 워터프런트 조성, 아트센터인천 2단계 건립, <b>청라<\/b>시티타워 건설 등도 적극 추진한다. 인천경제청은 “어려운 경제여건 속에서도 지난해 경제자유구역... ",
-			"pubDate":"Wed, 20 Dec 2023 16:04:00 +0900"
 		}
 	]
 }
