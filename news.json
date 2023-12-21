@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 21 Dec 2023 14:40:02 +0900",
-	"total":217819,
+	"lastBuildDate":"Thu, 21 Dec 2023 14:50:02 +0900",
+	"total":217820,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이순학 인천시의원 &quot;인천경제청, 의료단지 <b>청라<\/b> 주민과 약속 불이행&quot;",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=238191",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=238191",
+			"description":"&lt;기자말&gt; 이순학(더불어민주당, 오류왕길동·당하동·마전동·<b>청라<\/b>3동) 인천시의원은 검단에서 나고 자란... <b>청라<\/b>의료복합단지 조성을 위한 토지매매계약 체결이 지연되는 문제와 관련해선 &quot;인천경제청이 '12월 말까지... ",
+			"pubDate":"Thu, 21 Dec 2023 14:42:00 +0900"
+		},
 		{
 			"title":"맥도날드, '양주옥정DT점'오픈...'지오메트릭' 디자인 국내 첫선",
 			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=152982",
@@ -54,13 +61,6 @@
 			"pubDate":"Thu, 21 Dec 2023 14:10:00 +0900"
 		},
 		{
-			"title":"서울 아파트값, 3주 연속 낙폭 커져…전셋값은 31주 상승",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6067058",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003845731?sid=101",
-			"description":"서구(0.14%)는 정주 여건이 양호한 가정·<b>청라<\/b>동 위주로 상승하는 등 지역별 혼조세를 보이며 인천 전체가 상승전환했다. 경기는 이번주 0.11% 오르며 전주(0.12%)보다 상승폭이 다소 줄었다. 고양 일산서구(0.34%)는... ",
-			"pubDate":"Thu, 21 Dec 2023 14:02:00 +0900"
-		},
-		{
 			"title":"인천경제청 경제자유구역 내년 추가 지정 신청",
 			"originallink":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=215977",
 			"link":"http:\/\/www.skyedaily.com\/news\/news_view.html?ID=215977",
@@ -68,17 +68,24 @@
 			"pubDate":"Thu, 21 Dec 2023 14:02:00 +0900"
 		},
 		{
-			"title":"서울 전역 집값 보합 내지 하락세로…용산·양천·영등포·성동구 등 4개지역...",
-			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023122110171614405e6e69892f_18",
-			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023122110171614405e6e69892f_18",
-			"description":"중구(-0.10%)는 중산·운서동 위주로, 미추홀구(-0.04%)는 효성·작전동 구축 위주로 하락했으나, 부평구(0.00%)는 산곡·부개동 위주로 상승하며 하락에서 보합 전환, 서구(0.14%)는 정주여건 양호한 가정·<b>청라<\/b>동... ",
-			"pubDate":"Thu, 21 Dec 2023 14:02:00 +0900"
-		},
-		{
 			"title":"하나금융, '시립 안동하나어린이집' 개원",
 			"originallink":"http:\/\/www.newsbrite.net\/news\/articleView.html?idxno=179287",
 			"link":"http:\/\/www.newsbrite.net\/news\/articleView.html?idxno=179287",
 			"description":"한편, 하나금융그룹의 '100호 어린이집 건립 프로젝트' 는 전국의 보육 취약 지역에 총 70개의 국공립 어린이집 및 광주, 둔산, 부산, <b>청라<\/b> 등 10개의 직장어린이집 등 총 80개의 어린이집을 개원하였으며, 이외 20개... ",
+			"pubDate":"Thu, 21 Dec 2023 14:02:00 +0900"
+		},
+		{
+			"title":"서울 아파트값, 3주 연속 낙폭 커져…전셋값은 31주 상승",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6067058",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003845731?sid=101",
+			"description":"서구(0.14%)는 정주 여건이 양호한 가정·<b>청라<\/b>동 위주로 상승하는 등 지역별 혼조세를 보이며 인천 전체가 상승전환했다. 경기는 이번주 0.11% 오르며 전주(0.12%)보다 상승폭이 다소 줄었다. 고양 일산서구(0.34%)는... ",
+			"pubDate":"Thu, 21 Dec 2023 14:02:00 +0900"
+		},
+		{
+			"title":"서울 전역 집값 보합 내지 하락세로…용산·양천·영등포·성동구 등 4개지역...",
+			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023122110171614405e6e69892f_18",
+			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2023122110171614405e6e69892f_18",
+			"description":"중구(-0.10%)는 중산·운서동 위주로, 미추홀구(-0.04%)는 효성·작전동 구축 위주로 하락했으나, 부평구(0.00%)는 산곡·부개동 위주로 상승하며 하락에서 보합 전환, 서구(0.14%)는 정주여건 양호한 가정·<b>청라<\/b>동... ",
 			"pubDate":"Thu, 21 Dec 2023 14:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1037758",
 			"description":"하나금융그룹의 '100호 어린이집 건립 프로젝트'는 이번 시립 안동하나어린이집을 포함, 전국의 보육 취약 지역에 총 70개의 국공립 어린이집 및 광주, 둔산, 부산, <b>청라<\/b> 등 10개의 직장어린이집 등 총 80개의 어린이집을... ",
 			"pubDate":"Thu, 21 Dec 2023 12:06:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 안동시와 함께 공공보육 인프라 지원을 위한 '시립 안동하나어...",
-			"originallink":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=160530",
-			"link":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=160530",
-			"description":"한편, 하나금융그룹의 '100호 어린이집 건립 프로젝트' 는 이번 시립 안동하나어린이집을 포함, 전국의 보육 취약 지역에 총 70개의 국공립 어린이집 및 광주, 둔산, 부산, <b>청라<\/b> 등 10개의 직장어린이집 등 총 80개의... ",
-			"pubDate":"Thu, 21 Dec 2023 12:04:00 +0900"
 		}
 	]
 }
