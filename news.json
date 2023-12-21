@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 21 Dec 2023 10:30:02 +0900",
-	"total":217777,
+	"lastBuildDate":"Thu, 21 Dec 2023 10:40:02 +0900",
+	"total":217778,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"충남 서해안 여객선 7개 항로 중단..도로 4곳 통제",
+			"originallink":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/66660",
+			"link":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/66660",
+			"description":"또 보령시 <b>청라<\/b>면과 미산, 주산면, 서천군 판교면 등 도로 4곳의 출입을 통제하고 있습니다. 이어 지역 내 결빙 취약지역 만 160개소에 대한 제설작업과 농업용 비닐하우스에 대한 예찰활동을 진행 중이며 재난도우미 등을... ",
+			"pubDate":"Thu, 21 Dec 2023 10:36:00 +0900"
+		},
 		{
 			"title":"검단·<b>청라<\/b> 이름 없는 교차로만 87%…명칭 부여",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1424892",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=238194",
 			"description":"시가 제시한 산업벨트는 ▲바이오(송도)-반도체(영종)-소부장(남동) 벨트 ▲로봇-모빌리티-첨단의료(<b>청라<\/b>) 벨트 ▲친환경(검단)-미래에너지(영흥) 벨트 ▲정보통신기술 벨트(ICT, 주안·부평·계양)이다. 시는 이 산업벨트를... ",
 			"pubDate":"Wed, 20 Dec 2023 18:24:00 +0900"
-		},
-		{
-			"title":"아파트 철근 누락, 오시공이면 문제없는 건가 [현장기자]",
-			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0018992056&code=61141511&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001661084?sid=101",
-			"description":"대우건설이 10년 전 인천 <b>청라<\/b> 푸르지오를 지으면서 벨트월(외부벽) 층이라는 내진 구조물에 1t가량의 철근을 덜 넣었을 때도 법원은 구조 안전에 문제가 없다고 판단했다. 건물이 안전하다는 평가는 ‘설계와 다른 시공’... ",
-			"pubDate":"Wed, 20 Dec 2023 18:12:00 +0900"
 		}
 	]
 }
