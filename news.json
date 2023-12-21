@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Thu, 21 Dec 2023 12:00:02 +0900",
-	"total":217787,
+	"lastBuildDate":"Thu, 21 Dec 2023 12:10:02 +0900",
+	"total":217792,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융, 100호 어린이집 프로젝트 중 70번째 '시립 안동하나어린이집' 개원",
+			"originallink":"https:\/\/www.foodneconomy.com\/news\/articleView.html?idxno=354301",
+			"link":"https:\/\/www.foodneconomy.com\/news\/articleView.html?idxno=354301",
+			"description":"하나금융그룹의 '100호 어린이집 건립 프로젝트' 는 이번 시립 안동하나어린이집을 포함, 전국의 보육 취약 지역에 총 70개의 국공립 어린이집 및 광주, 둔산, 부산, <b>청라<\/b> 등 10개의 직장어린이집 등 총 80개의 어린이집을... ",
+			"pubDate":"Thu, 21 Dec 2023 12:06:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 안동시와 '시립 안동하나어린이집' 개원···70번째 하나어린...",
+			"originallink":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1037758",
+			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1037758",
+			"description":"하나금융그룹의 '100호 어린이집 건립 프로젝트'는 이번 시립 안동하나어린이집을 포함, 전국의 보육 취약 지역에 총 70개의 국공립 어린이집 및 광주, 둔산, 부산, <b>청라<\/b> 등 10개의 직장어린이집 등 총 80개의 어린이집을... ",
+			"pubDate":"Thu, 21 Dec 2023 12:06:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 안동시와 함께 공공보육 인프라 지원을 위한 '시립 안동하나어...",
+			"originallink":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=160530",
+			"link":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=160530",
+			"description":"한편, 하나금융그룹의 '100호 어린이집 건립 프로젝트' 는 이번 시립 안동하나어린이집을 포함, 전국의 보육 취약 지역에 총 70개의 국공립 어린이집 및 광주, 둔산, 부산, <b>청라<\/b> 등 10개의 직장어린이집 등 총 80개의... ",
+			"pubDate":"Thu, 21 Dec 2023 12:04:00 +0900"
+		},
+		{
+			"title":"하나금융, 안동에 70번째 어린이집 개원",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20231221_0002566640&cID=15001&pID=15000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012279354?sid=101",
+			"description":"전국의 보육 취약 지역에 총 70개의 국공립 어린이집과 광주, 둔산, 부산, <b>청라<\/b> 등 10개의 직장어린이집 등 총 80개의 어린이집을 개원했다. 남은 20개 어린이집은 내년까지 완공을 목표로 건립 중이다.",
+			"pubDate":"Thu, 21 Dec 2023 12:00:00 +0900"
+		},
 		{
 			"title":"하나금융, 공공보육 지원 위한 '시립 안동하나어린이집' 개원",
 			"originallink":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=40290",
@@ -17,6 +45,13 @@
 			"link":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=192399",
 			"description":"한편, 하나금융그룹의 '100호 어린이집 건립 프로젝트' 는 이번 시립 안동하나어린이집을 포함, 전국의 보육 취약 지역에 총 70개의 국공립 어린이집 및 광주, 둔산, 부산, <b>청라<\/b> 등 10개의 직장어린이집 등 총 80개의... ",
 			"pubDate":"Thu, 21 Dec 2023 11:50:00 +0900"
+		},
+		{
+			"title":"[특보] 서해안 39cm 폭설…이 시각 충남",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=7847639&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011627076?sid=102",
+			"description":"폭설로 인해 서천 판교면과 비인면을 오가는 지방도로와 보령 <b>청라<\/b>, 추산, 마산면을 오가는 도로 등 모두 4곳이 통제된 상태입니다. 또 강풍에 충남 섬 지역을 오가는 여객선 항로 7곳도 운항이 전면 중단됐습니다 . 40cm에... ",
+			"pubDate":"Thu, 21 Dec 2023 11:43:00 +0900"
 		},
 		{
 			"title":"인천서구, ‘2023 새마을지도자대회’ 우수지도자 포상",
@@ -178,41 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003538341?sid=102",
 			"description":"산업경제 분야에서는 ‘제물포 경제자유구역’ 지정으로 기업 투자를 유도하고 바이오, 도심항공교통(UAM), 의료산업 등에 강점을 지닌 인천 송도, 영종, <b>청라<\/b>국제도시와 연계한 첨단산업 지원 클러스터도 조성할... ",
 			"pubDate":"Thu, 21 Dec 2023 03:05:00 +0900"
-		},
-		{
-			"title":"“힐링건강트랙에서 백만불짜리 다리 만들어요”",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20231220\/122718552\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003538343?sid=102",
-			"description":"17일 오후 인천 서구 <b>청라<\/b>호수공원 ‘힐링건강트랙’에서 시민들이 달리기와 산책을 하고 있다. <b>청라<\/b>호수공원 외곽 4.3km 구간에 조성된 힐링건강트랙은 최근 정비 사업이 완료돼 새 모습으로 탈바꿈했다.",
-			"pubDate":"Thu, 21 Dec 2023 03:05:00 +0900"
-		},
-		{
-			"title":"인천경제청, 경제자유구역 추가 지정 신청 통해 초일류 도시로 도약",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20231220010006361",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20231220010006361",
-			"description":"아울러 시민이 살고 싶은 행복한 도시 건설을 위해 송도 워터프런트 조성, 아트센터인천 2단계 건립, <b>청라<\/b>시티타워 건설 등도 적극 추진한다. 김진용 인천경제청은 &quot;어려운 경제여건 속에서도 지난해 경제자유구역... ",
-			"pubDate":"Wed, 20 Dec 2023 23:40:00 +0900"
-		},
-		{
-			"title":"인천시의회 의장의 기막힌 지역비하…“미추홀구 애들 욕 달고 다녀”",
-			"originallink":"https:\/\/www.munhwa.com\/news\/view.html?no=2023122001039910021009",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002611949?sid=102",
-			"description":"자기는 <b>청라<\/b> 살다가 미추홀구로 이사 왔는데 두 가지 면에서 다시 <b>청라<\/b>나 송도로 가야되겠다고 했다”며 “첫째는 애들이 초등학생인데 욕을 입에 달고 다닌다. <b>청라<\/b>에선 그런 걸 못 봤다고 한다”라고 말했다. 그는 이어... ",
-			"pubDate":"Wed, 20 Dec 2023 22:01:00 +0900"
-		},
-		{
-			"title":"광주 ‘유통 지도’ 대격변…복합쇼핑몰 시대 ‘성큼’",
-			"originallink":"http:\/\/www.kjdaily.com\/article.php?aid=1703072095618518004",
-			"link":"http:\/\/www.kjdaily.com\/article.php?aid=1703072095618518004",
-			"description":"그랜드 스타필드 광주가 당초 계획대로 완공될 경우 하남·고양·코엑스몰·안성·수원·<b>청라<\/b>·창원에 이어 8번째, 체류형 휴양시설과 쇼핑몰을 결합해 ‘그랜드’라는 수식어를 붙인 스타필드로는 전국 1호점이 될... ",
-			"pubDate":"Wed, 20 Dec 2023 20:56:00 +0900"
-		},
-		{
-			"title":"경제자유구역, 추가 지정 신청 통해 초일류 도시 도약",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=431641",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=431641",
-			"description":"이와함께 시민이 살고 싶은 행복한 도시 건설을 위해 송도 워터프런트 조성, 아트센터인천 2단계 건립, <b>청라<\/b>시티타워 건설 등도 적극 추진한다. 인천경제청은 &quot;어려운 경제여건 속에서도 지난해 경제자유구역... ",
-			"pubDate":"Wed, 20 Dec 2023 20:52:00 +0900"
 		}
 	]
 }
