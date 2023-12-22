@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 22 Dec 2023 22:30:02 +0900",
-	"total":217954,
+	"lastBuildDate":"Fri, 22 Dec 2023 22:40:02 +0900",
+	"total":217956,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"(인사)우리금융지주·우리은행",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1213624&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1213624&inflow=N",
+			"description":"신진희 △<b>청라<\/b> 이정현 △김포 백민 △동수원 허일성 △병점 전상훈 △부천내동 이명호 △상동역 정말순 △성남공단 이동민 △신갈 김태섭 △안산 김태헌 △안양 김태우 △양주 고만석 △일산중앙 권태준 △정왕동... ",
+			"pubDate":"Fri, 22 Dec 2023 22:38:00 +0900"
+		},
+		{
+			"title":"우리금융그룹 인사",
+			"originallink":"http:\/\/www.ngonews.kr\/news\/articleView.html?idxno=146384",
+			"link":"http:\/\/www.ngonews.kr\/news\/articleView.html?idxno=146384",
+			"description":"신진희 ▲<b>청라<\/b> 이정현 ▲김포 백민 ▲동수원 허일성 ▲병점 전상훈 ▲부천내동 이명호 ▲상동역 정말순 ▲성남공단 이동민 ▲신갈 김태섭 ▲안산 김태헌 ▲안양 김태우 ▲양주 고만석 ▲일산중앙 권태준 ▲정왕동... ",
+			"pubDate":"Fri, 22 Dec 2023 22:30:00 +0900"
+		},
 		{
 			"title":"[인사] 우리금융지주·우리은행",
 			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1606024\/?sc=Naver",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2023122220025594853",
 			"description":"신진희 ▲<b>청라<\/b> 이정현 ▲김포 백민 ▲동수원 허일성 ▲병점 전상훈 ▲부천내동 이명호 ▲상동역 정말순 ▲성남공단 이동민 ▲신갈 김태섭 ▲안산 김태헌 ▲안양 김태우 ▲양주 고만석 ▲일산중앙 권태준 ▲정왕동... ",
 			"pubDate":"Fri, 22 Dec 2023 20:06:00 +0900"
-		},
-		{
-			"title":"[인사]우리금융그룹",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02991366635841144",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005642954?sid=101",
-			"description":"신진희 △<b>청라<\/b> 이정현 △김포 백민 △동수원 허일성 △병점 전상훈 △부천내동 이명호 △상동역 정말순 △성남공단 이동민 △신갈 김태섭 △안산 김태헌 △안양 김태우 △양주 고만석 △일산중앙 권태준 △정왕동... ",
-			"pubDate":"Fri, 22 Dec 2023 20:05:00 +0900"
-		},
-		{
-			"title":"[인사] 우리금융그룹",
-			"originallink":"https:\/\/economist.co.kr\/article\/view\/ecn202312220036",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000054321?sid=101",
-			"description":"신진희 ▲<b>청라<\/b> 이정현 ▲김포 백민 ▲동수원 허일성 ▲병점 전상훈 ▲부천내동 이명호 ▲상동역 정말순 ▲성남공단 이동민 ▲신갈 김태섭 ▲안산 김태헌 ▲안양 김태우 ▲양주 고만석 ▲일산중앙 권태준 ▲정왕동... ",
-			"pubDate":"Fri, 22 Dec 2023 20:03:00 +0900"
 		}
 	]
 }
