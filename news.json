@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sat, 23 Dec 2023 10:00:02 +0900",
-	"total":217973,
+	"lastBuildDate":"Sat, 23 Dec 2023 10:10:02 +0900",
+	"total":217975,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 우리금융지주·우리은행",
+			"originallink":"http:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=175332",
+			"link":"http:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=175332",
+			"description":"신진희 △<b>청라<\/b> 이정현 △김포 백민 △동수원 허일성 △병점 전상훈 △부천내동 이명호 △상동역 정말순 △성남공단 이동민 △신갈 김태섭 △안산 김태헌 △안양 김태우 △양주 고만석 △일산중앙 권태준 △정왕동... ",
+			"pubDate":"Sat, 23 Dec 2023 10:08:00 +0900"
+		},
+		{
+			"title":"[인사] 우리금융그룹",
+			"originallink":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=225934",
+			"link":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=225934",
+			"description":"신진희 <b>청라<\/b> 이정현 김포 백민 동수원 허일성 병점 전상훈 부천내동 이명호 상동역 정말순 성남공단 이동민 신갈 김태섭 안산 김태헌 안양 김태우 양주 고만석 일산중앙 권태준 정왕동 박기운 파주 서성은... ",
+			"pubDate":"Sat, 23 Dec 2023 10:00:00 +0900"
+		},
 		{
 			"title":"정종혁 인천시의원, 2023 지방의원 매니페스토 약속대상 좋은 조례 부문 최우...",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=432117",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002316006?sid=102",
 			"description":"신진희 ▲<b>청라<\/b> 이정현 ▲김포 백민 ▲동수원 허일성 ▲병점 전상훈 ▲부천내동 이명호 ▲상동역 정말순 ▲성남공단 이동민 ▲신갈 김태섭 ▲안산 김태헌 ▲안양 김태우 ▲양주 고만석 ▲일산중앙 권태준 ▲정왕동... ",
 			"pubDate":"Fri, 22 Dec 2023 21:16:00 +0900"
-		},
-		{
-			"title":"[인사]우리금융지주·우리은행",
-			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20231222500365",
-			"link":"http:\/\/www.metroseoul.co.kr\/article\/20231222500365",
-			"description":"신진희 △<b>청라<\/b> 이정현 △김포 백민 △동수원 허일성 △병점 전상훈 △부천내동 이명호 △상동역 정말순 △성남공단 이동민 △신갈 김태섭 △안산 김태헌 △안양 김태우 △양주 고만석 △일산중앙 권태준 △정왕동... ",
-			"pubDate":"Fri, 22 Dec 2023 21:06:00 +0900"
-		},
-		{
-			"title":"[인사] 우리금융지주·우리은행",
-			"originallink":"https:\/\/biz.chosun.com\/notice\/appointment\/2023\/12\/22\/U7JDM6J3PJHG3EYYQMK6VKGJ5I\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000957177?sid=102",
-			"description":"신진희 ▲<b>청라<\/b> 이정현 ▲김포 백민 ▲동수원 허일성 ▲병점 전상훈 ▲부천내동 이명호 ▲상동역 정말순 ▲성남공단 이동민 ▲신갈 김태섭 ▲안산 김태헌 ▲안양 김태우 ▲양주 고만석 ▲일산중앙 권태준 ▲정왕동... ",
-			"pubDate":"Fri, 22 Dec 2023 21:03:00 +0900"
 		}
 	]
 }
