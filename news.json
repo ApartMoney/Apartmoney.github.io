@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 26 Dec 2023 05:50:03 +0900",
-	"total":218014,
+	"lastBuildDate":"Tue, 26 Dec 2023 06:00:02 +0900",
+	"total":218015,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'이국편민'에 담긴 오세훈의 진심[우보세]",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2023122421455817305",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004978140?sid=110",
+			"description":"영종·<b>청라<\/b>·계양 등 인천 서북부 시민들도 공항철도를 이용해 서울 강남권으로 환승 없이 이동할 수 있도록 하는 것이다. 여기에 5호선 강동하남남양주선, 3호선 송파하남선, 8호선 별내선, 서부선 고양은평선 등의 서울... ",
+			"pubDate":"Tue, 26 Dec 2023 05:50:00 +0900"
+		},
 		{
 			"title":"그린리소스, 주가 급등…초전도선재 관련 장비 시장 진입 눈길",
 			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202312260524114218cd1e7f0bdf_23",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=622823",
 			"description":"신진희 △<b>청라<\/b> 이정현 △김포 백민 △동수원 허일성 △병점 전상훈 △부천내동 이명호 △상동역 정말순 △성남공단 이동민 △신갈 김태섭 △안산 김태헌 △안양 김태우 △양주 고만석 △일산중앙 권태준 △정왕동... ",
 			"pubDate":"Sun, 24 Dec 2023 11:22:00 +0900"
-		},
-		{
-			"title":"[인사] 우리은행",
-			"originallink":"http:\/\/www.todaykorea.co.kr\/news\/articleView.html?idxno=313836",
-			"link":"http:\/\/www.todaykorea.co.kr\/news\/articleView.html?idxno=313836",
-			"description":"신진희 ▲<b>청라<\/b> 이정현 ▲김포 백민 ▲동수원 허일성 ▲병점 전상훈 ▲부천내동 이명호 ▲상동역 정말순 ▲성남공단 이동민 ▲신갈 김태섭 ▲안산 김태헌 ▲안양 김태우 ▲양주 고만석 ▲일산중앙 권태준 ▲정왕동... ",
-			"pubDate":"Sun, 24 Dec 2023 10:28:00 +0900"
 		}
 	]
 }
