@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 26 Dec 2023 17:20:02 +0900",
-	"total":218047,
+	"lastBuildDate":"Tue, 26 Dec 2023 17:30:03 +0900",
+	"total":218048,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 학교, 원도심은 ‘소규모’· 신도시는 ‘과밀학급’",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=775902",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=775902",
+			"description":"인천 신도시 지역별 과밀학급 비율은 ▲검단(45.1%) ▲<b>청라<\/b>(36.5%) ▲송도(35.9%) ▲영종(26.7%) 순으로 나타났다. 과밀학급은 한 학급당 학생 수가 28명 이상인 학급을 말한다. [ 경기신문 \/ 인천 = 김민지 기자 ] 인천시교육청... ",
+			"pubDate":"Tue, 26 Dec 2023 17:28:00 +0900"
+		},
 		{
 			"title":"두산건설·쌍용건설, ‘두산위브더제니스 센트럴 계양’ 분양 진행",
 			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202312261653068278514e0091f6_1\/article.html",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2042489",
 			"description":"신진희 ▲<b>청라<\/b> 이정현 ▲김포 백민 ▲동수원 허일성 ▲병점 전상훈 ▲부천내동 이명호 ▲상동역 정말순 ▲성남공단 이동민 ▲신갈 김태섭 ▲안산 김태헌 ▲안양 김태우 ▲양주 고만석 ▲일산중앙 권태준 ▲정왕동... ",
 			"pubDate":"Tue, 26 Dec 2023 09:12:00 +0900"
-		},
-		{
-			"title":"[인사] 우리금융지주·우리은행",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=573089",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=573089",
-			"description":"신진희 ▲ <b>청라<\/b> 이정현 ▲ 김포 백민 ▲ 동수원 허일성 ▲ 병점 전상훈 ▲ 부천내동 이명호 ▲ 상동역 정말순 ▲ 성남공단 이동민 ▲ 신갈 김태섭 ▲ 안산 김태헌 ▲ 안양 김태우 ▲ 양주 고만석 ▲ 일산중앙 권태준... ",
-			"pubDate":"Tue, 26 Dec 2023 08:16:00 +0900"
 		}
 	]
 }
