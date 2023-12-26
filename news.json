@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 26 Dec 2023 17:30:03 +0900",
-	"total":218048,
+	"lastBuildDate":"Tue, 26 Dec 2023 17:40:02 +0900",
+	"total":218049,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 공항경제권 구축 위한 ‘인천형 항공정비산업’ 육성",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20231226580263",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000029478?sid=100",
+			"description":"시는 내년 초 <b>청라<\/b>(드론시험인증센터)~아라뱃길~계양신도시를 잇는 총 14㎞ 구간에 대한 도심항공교통(UAM) 실증 비행을 추진할 방침이다. 시는 또 인천 옹진군 서해3도(백령·대청·소청도) 주민의 접근성 개선을 위한... ",
+			"pubDate":"Tue, 26 Dec 2023 17:38:00 +0900"
+		},
 		{
 			"title":"인천 학교, 원도심은 ‘소규모’· 신도시는 ‘과밀학급’",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=775902",
@@ -40,17 +47,17 @@
 			"pubDate":"Tue, 26 Dec 2023 16:52:00 +0900"
 		},
 		{
-			"title":"인천 작전역 초역세권…'두산위브더제니스 센트럴 계양' 내달 분양",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20231226010015347",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20231226010015347",
-			"description":"<b>청라<\/b>~강서 BRT(간선급행버스체계) 정류장도 단지 바로 앞에 있다.교육 여건도 좋은 편이다. 단지 내 어린이집을 비롯해 성지초·명현중·효성고·안남고·작전여고·작전고 등이 인근에 있다.두산위브더제니스 센트럴... ",
-			"pubDate":"Tue, 26 Dec 2023 16:50:00 +0900"
-		},
-		{
 			"title":"계명대 동산의료원 전재규 명예교수 사상 담은 책 출간",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1806160",
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1806160",
 			"description":"대구 계명대학교 동산의료원 전재규 명예교수(마취통증의학과)의 생애와 <b>청라<\/b>정신을 담은 신간 '백암 전재규... 부제목인 ‘<b>청라<\/b>정신으로 가는 길’은 백암 전재규 박사의 삶이 <b>청라<\/b>언덕의 역사적, 종교적 의미와... ",
+			"pubDate":"Tue, 26 Dec 2023 16:50:00 +0900"
+		},
+		{
+			"title":"인천 작전역 초역세권…'두산위브더제니스 센트럴 계양' 내달 분양",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20231226010015347",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20231226010015347",
+			"description":"<b>청라<\/b>~강서 BRT(간선급행버스체계) 정류장도 단지 바로 앞에 있다.교육 여건도 좋은 편이다. 단지 내 어린이집을 비롯해 성지초·명현중·효성고·안남고·작전여고·작전고 등이 인근에 있다.두산위브더제니스 센트럴... ",
 			"pubDate":"Tue, 26 Dec 2023 16:50:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=74105",
 			"description":"신진희 ▲<b>청라<\/b> 이정현 ▲김포 백민 ▲동수원 허일성 ▲병점 전상훈 ▲부천내동 이명호 ▲상동역 정말순 ▲성남공단 이동민 ▲신갈 김태섭 ▲안산 김태헌 ▲안양 김태우 ▲양주 고만석 ▲일산중앙 권태준 ▲정왕동... ",
 			"pubDate":"Tue, 26 Dec 2023 09:46:00 +0900"
-		},
-		{
-			"title":"[인사] 우리금융지주, 우리은행 인사이동",
-			"originallink":"https:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2042489",
-			"link":"https:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2042489",
-			"description":"신진희 ▲<b>청라<\/b> 이정현 ▲김포 백민 ▲동수원 허일성 ▲병점 전상훈 ▲부천내동 이명호 ▲상동역 정말순 ▲성남공단 이동민 ▲신갈 김태섭 ▲안산 김태헌 ▲안양 김태우 ▲양주 고만석 ▲일산중앙 권태준 ▲정왕동... ",
-			"pubDate":"Tue, 26 Dec 2023 09:12:00 +0900"
 		}
 	]
 }
