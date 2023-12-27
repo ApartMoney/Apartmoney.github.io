@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 27 Dec 2023 20:40:02 +0900",
-	"total":218117,
+	"lastBuildDate":"Wed, 27 Dec 2023 20:50:03 +0900",
+	"total":218118,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 수협은행",
+			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=300392",
+			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=300392",
+			"description":"김복희 ▲<b>청라<\/b>지점장 강대규 ▲디지털독도지점장 박원희 □ 기업금융지점장·종합금융지점장 ▲강남기업금융본부 기업금융지점장 강수민 \/ 유현종 \/ 황성우 ▲중부기업금융본부 기업금융지점장 김규상 \/ 신경민... ",
+			"pubDate":"Wed, 27 Dec 2023 20:46:00 +0900"
+		},
 		{
 			"title":"[인사] Sh수협은행",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=776110",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20231227010008569",
 			"description":"인천경제청은 내년 '세계 초일류도시 구현을 선도하는 인천경제자유구역(IFEZ)'를 목표로, 또 핵심전략산업 투자유치를 통한 성장동력 확보를 전략으로 ▲핵심전략산업 육성 ▲<b>청라<\/b>국제도시 신세계스타필드 등 서비스... ",
 			"pubDate":"Wed, 27 Dec 2023 17:10:00 +0900"
-		},
-		{
-			"title":"인천경제청 올해 4억2800만달러 투자유치 초과달성",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20231227010008370",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20231227010008370",
-			"description":"인천경제청은 내년 ‘세계 초일류도시 구현을 선도하는 인천경제자유구역(IFEZ)’를 목표로, 또 핵심전략산업 투자유치를 통한 성장동력 확보 전략으로 △핵심전략산업 육성, △<b>청라<\/b>국제도시 신세계스타필드 등... ",
-			"pubDate":"Wed, 27 Dec 2023 17:06:00 +0900"
 		}
 	]
 }
