@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 28 Dec 2023 00:30:02 +0900",
-	"total":218123,
+	"lastBuildDate":"Thu, 28 Dec 2023 00:40:02 +0900",
+	"total":218125,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] Sh수협은행",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20231228010008372",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20231228010008372",
+			"description":"김복희 △<b>청라<\/b>지점장 강대규 △디지털독도지점장 박원희 ◇ 기업금융지점장·종합금융지점장 △강남기업금융본부 기업금융지점장 강수민·유현종·황성우 △중부기업금융본부 기업금융지점장 김규상·신경민·장지훈... ",
+			"pubDate":"Thu, 28 Dec 2023 00:38:00 +0900"
+		},
+		{
+			"title":"인천경제청, 올해 투자유치 목표 초과 달성",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20231228000003",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002244501?sid=102",
+			"description":"전략 사항은 ▷핵심전략산업 육성 ▷<b>청라<\/b>국제도시 신세계스타필드 등 서비스 산업 허브 조성 ▷바이오 헬스케어, 신재생에너지 등 신산업 분야 기업·연구기관 투자유치 ▷해외 유수 외국교육기관·국내대학 유치 지원... ",
+			"pubDate":"Thu, 28 Dec 2023 00:34:00 +0900"
+		},
 		{
 			"title":"[인사] Sh수협은행",
 			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=193078",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002324076?sid=004",
 			"description":"김복희 ▲<b>청라<\/b>지점장 강대규 ▲디지털독도지점장 박원희 □ 기업금융지점장·종합금융지점장 ▲강남기업금융본부 기업금융지점장 강수민 \/ 유현종 \/ 황성우 ▲중부기업금융본부 기업금융지점장 김규상 \/ 신경민... ",
 			"pubDate":"Wed, 27 Dec 2023 18:49:00 +0900"
-		},
-		{
-			"title":"[인사]Sh수협은행",
-			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20231227500538",
-			"link":"http:\/\/www.metroseoul.co.kr\/article\/20231227500538",
-			"description":"김복희 △<b>청라<\/b>지점장 강대규 △디지털독도지점장 박원희 ◇기업금융지점장·종합금융지점장 전보 △강남기업금융본부 기업금융지점장 강수민·유현종·황성우 △중부기업금융본부 기업금융지점장 김규상·신경민... ",
-			"pubDate":"Wed, 27 Dec 2023 18:40:00 +0900"
-		},
-		{
-			"title":"[인사]충남 보령시, 1월1일자",
-			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=537835",
-			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=537835",
-			"description":"강은주 ▲<b>청라<\/b>면 김혜경 ▲남포면 임종혁 ▲남포면 김은영 ▲주산면 김진희 ▲주산면 유혜영 ▲미산면... (복직) ▲<b>청라<\/b>면 안찬숙(복직) ▲대천5동 정은숙(복직) ▲자치행정과 한은정(휴직) ▲자치행정과 나선희(휴직)... ",
-			"pubDate":"Wed, 27 Dec 2023 18:32:00 +0900"
 		}
 	]
 }
