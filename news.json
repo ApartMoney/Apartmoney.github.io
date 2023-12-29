@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 29 Dec 2023 18:30:02 +0900",
-	"total":218351,
+	"lastBuildDate":"Fri, 29 Dec 2023 18:40:03 +0900",
+	"total":218352,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사]한국토지주택공사",
+			"originallink":"https:\/\/www.donga.com\/news\/People\/article\/all\/20231229\/122830717\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003539905?sid=102",
+			"description":"하정수 ∆<b>청라<\/b>영종〃 오상호 ∆검단〃 강성민 ▽경기남부지역본부 ∆본부장 강오순 ∆사업관리처장 유건석 ∆단지사업〃 이상우 ∆주택사업〃 강재철 ∆주거복지사업〃 오동근 ∆광명시흥사업본부장 최용택 ∆평택... ",
+			"pubDate":"Fri, 29 Dec 2023 18:35:00 +0900"
+		},
 		{
 			"title":"[인사] 한국토지주택공사",
 			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=640595",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=99124",
 			"description":"인천 <b>청라<\/b>국제도시 전경. 사진=인천경제자유구역청 올해 마지막 주까지 인천 아파트값 하락세가... 서구 <b>청라<\/b>동 '<b>청라<\/b>국제금융단지한양수자인레이크불루' 전용 84.3971㎡는 이달 7억5000만 원(13층)에 매매 계약을... ",
 			"pubDate":"Fri, 29 Dec 2023 15:40:00 +0900"
-		},
-		{
-			"title":"[인사] 한국토지주택공사(LH)",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20231229010009145",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20231229010009145",
-			"description":"하정수 △인천지역본부 <b>청라<\/b>영종사업본부장 오상호 △인천지역본부 검단사업본부장 강성민 △경기남부지역본부장 강오순 △경기남부지역본부 사업관리처장 유건석 △경기남부지역본부 단지사업처장 이상우... ",
-			"pubDate":"Fri, 29 Dec 2023 15:36:00 +0900"
 		}
 	]
 }
