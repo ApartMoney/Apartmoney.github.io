@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Fri, 29 Dec 2023 15:40:03 +0900",
-	"total":218324,
+	"lastBuildDate":"Fri, 29 Dec 2023 15:50:02 +0900",
+	"total":218327,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 헌법재판소 외",
+			"originallink":"http:\/\/www.readersnews.com\/news\/articleView.html?idxno=110915",
+			"link":"http:\/\/www.readersnews.com\/news\/articleView.html?idxno=110915",
+			"description":"인천지역본부 <b>청라<\/b>영종사업본부장 오상호 ▲ 인천지역본부 검단사업본부장 강성민 ▲ 경기남부지역본부장 강오순 ▲ 경기남부지역본부 사업관리처장 유건석 ▲ 경기남부지역본부 단지사업처장 이상우... ",
+			"pubDate":"Fri, 29 Dec 2023 15:46:00 +0900"
+		},
+		{
+			"title":"[인사] LH(한국토지주택공사)",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1807736",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1807736",
+			"description":"하정수 ▲인천지역본부 <b>청라<\/b>영종사업본부장 오상호 ▲인천지역본부 검단사업본부장 강성민 ▲경기남부지역본부장 강오순 ▲경기남부지역본부 사업관리처장 유건석 ▲경기남부지역본부 단지사업처장 이상우... ",
+			"pubDate":"Fri, 29 Dec 2023 15:40:00 +0900"
+		},
+		{
+			"title":"인천 아파트값 올 마지막 주 하락으로 마감... 내년 전망도 암울",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=99124",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=99124",
+			"description":"인천 <b>청라<\/b>국제도시 전경. 사진=인천경제자유구역청 올해 마지막 주까지 인천 아파트값 하락세가... 서구 <b>청라<\/b>동 '<b>청라<\/b>국제금융단지한양수자인레이크불루' 전용 84.3971㎡는 이달 7억5000만 원(13층)에 매매 계약을... ",
+			"pubDate":"Fri, 29 Dec 2023 15:40:00 +0900"
+		},
 		{
 			"title":"[인사] 주택도시보증공사, 성균관대학교, 한국토지주택공사",
 			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=337756",
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.mediapen.com\/news\/view\/884799",
 			"description":"인천지역본부 <b>청라<\/b>영종사업본부장 오상호 ▲ 인천지역본부 검단사업본부장 강성민 ▲ 경기남부지역본부장 강오순 ▲ 경기남부지역본부 사업관리처장 유건석 ▲ 경기남부지역본부 단지사업처장 이상우... ",
 			"pubDate":"Fri, 29 Dec 2023 14:44:00 +0900"
-		},
-		{
-			"title":"[인사] 한국토지주택공사(LH)",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=776336",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=776336",
-			"description":"하정수 ▲인천지역본부 <b>청라<\/b>영종사업본부장 오상호 ▲인천지역본부 검단사업본부장 강성민 ▲경기남부지역본부장 강오순 ▲경기남부지역본부 사업관리처장 유건석 ▲경기남부지역본부 단지사업처장 이상우... ",
-			"pubDate":"Fri, 29 Dec 2023 14:44:00 +0900"
-		},
-		{
-			"title":"[인사] 한국토지주택공사(LH)",
-			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2023122914394179912",
-			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2023122914394179912",
-			"description":"하정수 ▲인천지역본부 <b>청라<\/b>영종사업본부장 오상호 ▲인천지역본부 검단사업본부장 강성민 ▲경기남부지역본부장 강오순 ▲경기남부지역본부 사업관리처장 유건석 ▲경기남부지역본부 단지사업처장 이상우... ",
-			"pubDate":"Fri, 29 Dec 2023 14:42:00 +0900"
-		},
-		{
-			"title":"[인사]한국토지주택공사",
-			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3138429",
-			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3138429",
-			"description":"하정수 ∆인천지역본부 <b>청라<\/b>영종사업본부장 오상호 ∆인천지역본부 검단사업본부장 강성민 ∆경기남부지역본부장 강오순 ∆경기남부지역본부 사업관리처장 유건석 ∆경기남부지역본부 단지사업처장 이상우... ",
-			"pubDate":"Fri, 29 Dec 2023 14:38:00 +0900"
 		}
 	]
 }
