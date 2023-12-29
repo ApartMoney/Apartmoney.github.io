@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 29 Dec 2023 09:30:02 +0900",
-	"total":218268,
+	"lastBuildDate":"Fri, 29 Dec 2023 09:40:03 +0900",
+	"total":218269,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울 강북 꿈의숲롯데캐슬 33평, 최고가 대비 4.7억원 하락 [이 주의 하락아파...",
+			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=202312290927416023b372994c95_18",
+			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=202312290927416023b372994c95_18",
+			"description":"인천에서도 가파른 하락폭이 나왔다. 서구 <b>청라<\/b>동에 위치한 ‘<b>청라<\/b>호반베르디움’ 84.95㎡(33평)형은 종전 최고가 8억9500만원에서 2억6000만원 내린 6억3500만원에 손바뀜했다.",
+			"pubDate":"Fri, 29 Dec 2023 09:30:00 +0900"
+		},
 		{
 			"title":"인천경제청, 올해 인천경제자유구역 투자유치 목표 초과달성…목표 대비 107%",
 			"originallink":"https:\/\/www.etnews.com\/20231229000009",
@@ -194,13 +201,6 @@
 			"pubDate":"Thu, 28 Dec 2023 17:01:00 +0900"
 		},
 		{
-			"title":"유정복 인천시장, <b>청라<\/b>의료복합타운 조성 부지 매매계약체결",
-			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=68714",
-			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=68714",
-			"description":"유정복 인천시장이 28일 '<b>청라<\/b>의료타운 토지매매계약 체결식'에서 박승일 서울아산병원장, 김진용 인천경제자유구역청장, 우상준 <b>청라<\/b>메디폴리스피에프브이(주) 대표이사 등 참석자들과 함께 하고 있다. (사진=유정복... ",
-			"pubDate":"Thu, 28 Dec 2023 16:56:00 +0900"
-		},
-		{
 			"title":"인천 <b>청라<\/b>국제도시에 들어서는 서울아산병원 내년 착공",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231228024490208",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20231228024490208",
@@ -208,11 +208,11 @@
 			"pubDate":"Thu, 28 Dec 2023 16:56:00 +0900"
 		},
 		{
-			"title":"인천경제청, <b>청라<\/b>의료복합타운 토지매매계약 체결",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1004076",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1004076",
-			"description":"유정복 인천시장이 28일 시청 대접견실에서 열린 '<b>청라<\/b>의료타운 토지매매계약 체결식'에서 박승일 서울아산병원장, 김진용 인천경제자유구역청장, 우상준 <b>청라<\/b>메디폴리스피에프브이(주) 대표이사 등과 기념촬영을... ",
-			"pubDate":"Thu, 28 Dec 2023 16:46:00 +0900"
+			"title":"유정복 인천시장, <b>청라<\/b>의료복합타운 조성 부지 매매계약체결",
+			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=68714",
+			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=68714",
+			"description":"유정복 인천시장이 28일 '<b>청라<\/b>의료타운 토지매매계약 체결식'에서 박승일 서울아산병원장, 김진용 인천경제자유구역청장, 우상준 <b>청라<\/b>메디폴리스피에프브이(주) 대표이사 등 참석자들과 함께 하고 있다. (사진=유정복... ",
+			"pubDate":"Thu, 28 Dec 2023 16:56:00 +0900"
 		}
 	]
 }
