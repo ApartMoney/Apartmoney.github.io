@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 30 Dec 2023 19:10:03 +0900",
-	"total":218364,
+	"lastBuildDate":"Sat, 30 Dec 2023 19:20:02 +0900",
+	"total":218365,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] LH 본부장 및 부서장",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3095543",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3095543",
+			"description":"하정수 ▲인천지역본부 <b>청라<\/b>영종사업본부장: 오상호 ▲인천지역본부 검단사업본부장: 강성민 ▲경기남부지역본부장: 강오순 ▲경기남부지역본부 사업관리처장: 유건석 ▲경기남부지역본부 단지사업처장: 이상우... ",
+			"pubDate":"Sat, 30 Dec 2023 19:16:00 +0900"
+		},
 		{
 			"title":"[인사] 한국토지주택공사(LH)",
 			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=235380",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newsinside.kr\/news\/articleView.html?idxno=1385709",
 			"description":"인천지역본부 <b>청라<\/b>영종사업본부장 오상호 ▲ 인천지역본부 검단사업본부장 강성민 ▲ 경기남부지역본부장 강오순 ▲ 경기남부지역본부 사업관리처장 유건석 ▲ 경기남부지역본부 단지사업처장 이상우... ",
 			"pubDate":"Fri, 29 Dec 2023 18:20:00 +0900"
-		},
-		{
-			"title":"[인사] 민주평화통일자문회의 외",
-			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2023122915070001696?did=NA",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000777816?sid=102",
-			"description":"하정수 △<b>청라<\/b>영종사업 오상호 △검단사업 강성민 ◇경기남부지역본부 본부장 △강오순 △광명시흥사업 최용택 △평택사업 정상훈 △화성사업 곽환건 △성남사업 류창수 △의왕과천사업 천병삼 △동탄사업 송영석... ",
-			"pubDate":"Fri, 29 Dec 2023 18:15:00 +0900"
 		}
 	]
 }
