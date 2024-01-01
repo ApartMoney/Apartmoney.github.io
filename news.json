@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 01 Jan 2024 16:40:02 +0900",
-	"total":218405,
+	"lastBuildDate":"Mon, 01 Jan 2024 16:50:02 +0900",
+	"total":218407,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"사진으로 본 '인천경제자유구역 일상'",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1227716",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1227716",
+			"description":"공모전에는 인천경제자유구역을 이루는 송도·<b>청라<\/b>·영종국제도시의 다양한 풍경을 담은 사진 351점이 출품됐다. 전문가들의 심사와 온라인 투표 등을 거쳐 대상 1작, 최우수상 2작, 기업 특별상 2작, 우수상 15작, 입선... ",
+			"pubDate":"Mon, 01 Jan 2024 16:46:00 +0900"
+		},
+		{
+			"title":"유정복, &quot;인천은 또 '인천'하겠다...대한민국의 미래를 만들겠다&quot;",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20240101160427644",
+			"link":"https:\/\/www.ajunews.com\/view\/20240101160427644",
+			"description":"유 시장은 &quot;본격적으로 추진되는 제물포 르네상스 등 지역균형 발전사업에 박차를 가하고 인천발 KTX, GTX-B, D노선, 서울7호선 <b>청라<\/b> 연장, 공항철도-9호선 직결, 5호선 검단연장, 제2공항철도 등 시민이 원하는 교통망을... ",
+			"pubDate":"Mon, 01 Jan 2024 16:42:00 +0900"
+		},
 		{
 			"title":"[2024 신년사] 강범석 인천 서구청장 &quot;실속과 내실을 다지는 구정 운영&quot;",
 			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20231231010009320",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20231230010009290",
 			"description":"또한 <b>청라<\/b>의료복합타운 조성을 위한 토지매매계약 체결로 아산병원과 KAIST, 하버드 연구소 등 시민의 건강과 의료 활성화를 앞당겼습니다. 무엇보다 큰 성과는 재외동포청 유치입니다. 120년 전 이 땅의 첫 이민자들이... ",
 			"pubDate":"Mon, 01 Jan 2024 00:32:00 +0900"
-		},
-		{
-			"title":"[신년사]강범석 인천 서구청장",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=432774",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=432774",
-			"description":"또한, 검단신도시 SOC 복합청사, 오류지구 도서관, <b>청라<\/b>생활 문화센터, 가좌 국민 체육센터 건립과 같은 62만... ㅠ<b>청라<\/b>권역 주요 앵커시설 유치[하나금융타운, 스타필드 <b>청라<\/b>&amp;돔구장, <b>청라<\/b>의료복합타운, 코스트코 <b>청라<\/b>점... ",
-			"pubDate":"Mon, 01 Jan 2024 00:12:00 +0900"
-		},
-		{
-			"title":"[신년사] 유정복 인천광역시장",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=432976",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=432976",
-			"description":"또한, 토지매매계약 체결로 <b>청라<\/b>의료복합타운이 본격적으로 추진되어 양질의 의료서비스 제공과 시민의 건강권 보장이 더욱 확대됩니다. 무엇보다 큰 성과는 재외동포청 유치입니다. 120년 전 이 땅의 첫 이민자들이... ",
-			"pubDate":"Mon, 01 Jan 2024 00:06:00 +0900"
 		}
 	]
 }
