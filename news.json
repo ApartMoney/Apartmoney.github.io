@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 03 Jan 2024 03:00:02 +0900",
-	"total":218447,
+	"lastBuildDate":"Wed, 03 Jan 2024 03:10:02 +0900",
+	"total":218448,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천시론] ‘의료취약’ 인천의 불명예",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240102580350",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000030061?sid=110",
+			"description":"인구 300만의 대도시이자 인천국제공항에 송도·<b>청라<\/b> 경제자유구역을 보유한 인천이 그 불명예의 주인공이다. 보건복지부의 ‘치료 가능 사망률 현황’에 따르면 2021년 기준 인천은 인구 10만명당 치료 가능 사망자가... ",
+			"pubDate":"Wed, 03 Jan 2024 03:02:00 +0900"
+		},
 		{
 			"title":"한국토지주택공사 인사",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1065865",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.breaknews.com\/1007282",
 			"description":"또한, 토지매매계약 체결로 <b>청라<\/b>의료복합타운이 본격적으로 추진되어 양질의 의료서비스 제공과 시민의 건강권 보장이 더욱 확대됩니다. 무엇보다 큰 성과는... ",
 			"pubDate":"Tue, 02 Jan 2024 13:14:00 +0900"
-		},
-		{
-			"title":"행운·번영 '청룡의 해' 맞은 대학병원들 &quot;한 치 앞도 안보인다&quot;",
-			"originallink":"http:\/\/www.docdocdoc.co.kr\/news\/articleView.html?idxno=3012813",
-			"link":"http:\/\/www.docdocdoc.co.kr\/news\/articleView.html?idxno=3012813",
-			"description":"의료계의 사회적 책임에 대한 요구는 더욱 높아지고 있다&quot;고 진단했다. 그리고 &quot;지속 가능한 경쟁력&quot;을 갖추기 위해 오는 2029년 개원 예정인 서울아산<b>청라<\/b>병원 건립, 중입자치료기 도입 등을 차질 없이 진행하겠다고 했다.",
-			"pubDate":"Tue, 02 Jan 2024 12:42:00 +0900"
 		}
 	]
 }
