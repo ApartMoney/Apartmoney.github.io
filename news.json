@@ -1,9 +1,44 @@
 {
-	"lastBuildDate":"Thu, 04 Jan 2024 09:10:02 +0900",
-	"total":218497,
+	"lastBuildDate":"Thu, 04 Jan 2024 09:20:02 +0900",
+	"total":218502,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"공장·창고 거래 폭증…물류업 햇볕 드나",
+			"originallink":"http:\/\/www.inews24.com\/view\/1672598",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000801896?sid=101",
+			"description":"<b>청라<\/b>동 공장(351억원)과 송도동 공장(238억원), 청천동 공장(184억원) 등이 거래됐다. 부산은 114억원에 매매된 공장을 포함해 700억원의 거래액을 기록해 전달보다 30.3% 늘었다. 광주(411억원)와 대구(460억원)... ",
+			"pubDate":"Thu, 04 Jan 2024 09:19:00 +0900"
+		},
+		{
+			"title":"지난해 11월 전국 공장·창고 거래액 전월比 41% 늘어",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20240104_0002580529&cID=10401&pID=10400",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012300736?sid=101",
+			"description":"<b>청라<\/b>동 공장(351억원)과 송도동 공장(238억원), 청천동 공장(184억원) 등이 거래됐다. 부산은 114억원에 매매된 공장을 포함해 700억원의 거래액을 기록해 전달보다 30.3% 늘었다. 광주(411억원)와 대구(460억원)... ",
+			"pubDate":"Thu, 04 Jan 2024 09:16:00 +0900"
+		},
+		{
+			"title":"전국 공장·창고 거래액 1조3000억 돌파…전달보다 41% 늘어",
+			"originallink":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2024\/01\/04\/2024010400807.html",
+			"link":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2024\/01\/04\/2024010400807.html",
+			"description":"인천 <b>청라<\/b>동 공장(351억원)과 송도동 공장(238억원), 청천동 공장(184억원) 등 거래가 눈에 띈다. 부산에선 114억원에 매매된 공장을 포함해 700억원의 거래액을 기록했다. 전달과 비교하면 30.3% 늘어난 금액이다.... ",
+			"pubDate":"Thu, 04 Jan 2024 09:14:00 +0900"
+		},
+		{
+			"title":"지난해 11월 전국 공장∙창고 거래액 1조3713억…전월 대비 41% 증가",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2317917",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2317917",
+			"description":"<b>청라<\/b>동 공장(351억 원)과 송도동 공장(238억 원), 청천동 공장(184억 원) 등이 거래됐다. 부산은 114억 원에 매매된 공장을 포함해 700억 원의 거래액을 기록해 전월 대비 30.3% 늘었다. 그 외 지역에선 광주(411억... ",
+			"pubDate":"Thu, 04 Jan 2024 09:12:00 +0900"
+		},
+		{
+			"title":"노후 비율 80% 넘는 계양구, 새 아파트 ‘두산위브더제니스 센트럴 계양’ 주...",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024010314221092924",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005362747?sid=101",
+			"description":"또한 <b>청라<\/b>~강서 BRT(간선급행버스체계) 정류장이 단지 바로 앞에 위치해 있어 서울 출퇴근이 편리하다. 아울러 단지 내 어린이집을 비롯해 반경 150m 내에 성지초교가 위치해 있어 도보 통학이 가능하며 명현중, 효성고... ",
+			"pubDate":"Thu, 04 Jan 2024 09:10:00 +0900"
+		},
 		{
 			"title":"작년 11월 전국 공장·창고 거래액, 전달보다 41% 증가",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01525206638754440",
@@ -178,41 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005362490?sid=102",
 			"description":"이를 위해 인천경제청은 올해 바이오·헬스케어 등 핵심 전략산업을 육성하고 <b>청라<\/b>국제도시... 지구별로는 송도 86조 7966억원, 영종 15조9850억원, <b>청라<\/b> 3조1545억원으로 집계됐으며 업종별로는 도·소매업이... ",
 			"pubDate":"Wed, 03 Jan 2024 15:38:00 +0900"
-		},
-		{
-			"title":"자연친화 단지 인기 고공행진… '공세권' 관심 급증",
-			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=527178",
-			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=527178",
-			"description":"<b>청라<\/b>호수공원과 가까운 '<b>청라<\/b>한양수자인 레이크블루' 전용 84㎡도 지난해 1월 6억원에 거래되던 것이 같은해 11월 7억4300만원에 손바뀜됐다. 분양시장에서도 숲과 공원, 호수 등으로 대표되는 친환경 아파트가 우수한... ",
-			"pubDate":"Wed, 03 Jan 2024 15:36:00 +0900"
-		},
-		{
-			"title":"계양구에 들어서는 새 아파트 ‘두산위브더제니스 센트럴 계양‘ 특별공급 청...",
-			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202401030176&t=NN",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001141996?sid=101",
-			"description":"또한 <b>청라<\/b>~강서 BRT(간선급행버스체계) 정류장이 단지 바로 앞에 위치해 있어 서울 출퇴근이 편리하다. 아울러 단지 내 어린이집을 비롯해 반경 150m 내에 성지초교가 위치해 있어 도보 통학이 가능하며 명현중... ",
-			"pubDate":"Wed, 03 Jan 2024 15:21:00 +0900"
-		},
-		{
-			"title":"대구오페라하우스, '2024년 시즌오페라' 프로그램 공개",
-			"originallink":"http:\/\/www.kbsm.net\/news\/view.php?idx=417972",
-			"link":"http:\/\/www.kbsm.net\/news\/view.php?idx=417972",
-			"description":"이 작품은 2012년 대구국제오페라축제 개막작이자 그 해 오페라대상을 수상한 '<b>청라<\/b>언덕'의 작곡가 김성재와 2019년 대한민국오페라축제 대상을 수상한 '윤심덕, 사의 찬미'의 대본가 김하나의 작품이다. 대표적인... ",
-			"pubDate":"Wed, 03 Jan 2024 14:46:00 +0900"
-		},
-		{
-			"title":"20주년을 넘어 새로운 10년을 시작하다 '다시, 새롭게!' 도약하는 대구오페라...",
-			"originallink":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=641724",
-			"link":"http:\/\/www.bzeronews.com\/news\/articleView.html?idxno=641724",
-			"description":"대구지역의 문화 콘텐츠를 소재로 세계적인 작품을 만들자는 대구오페라하우스의 의지가 담겨있는 수작(秀作) &lt;264, 그 한 개의 별&gt;은 2012년 대구국제오페라축제 개막작이자 그 해 오페라대상을 수상한 &lt;<b>청라<\/b>언덕&gt;의... ",
-			"pubDate":"Wed, 03 Jan 2024 14:10:00 +0900"
-		},
-		{
-			"title":"보령시, 2024년 새해농업인 실용교육 실시",
-			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2249002",
-			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2249002",
-			"description":"일정은 오전 10시부터 오후 2시까지이며 3일 농업기술센터의 농촌리더반을 시작으로 △4일 웅천읍 △5일 주포면 △8일 주교면 △9일 오천면 △10일 천북면, 웅천읍 △11일 청소면 △15일 <b>청라<\/b>면 △16일 남포면 △17일... ",
-			"pubDate":"Wed, 03 Jan 2024 13:46:00 +0900"
 		}
 	]
 }
