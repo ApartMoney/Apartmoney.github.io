@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 05 Jan 2024 07:40:02 +0900",
-	"total":218565,
+	"lastBuildDate":"Fri, 05 Jan 2024 07:50:02 +0900",
+	"total":218566,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"쓰레기 직매립 금지 눈앞인데…인천 광역소각장 확충 난항",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240104071400065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014426902?sid=102",
+			"description":"인천에서는 현재 송도소각장, <b>청라<\/b>소각장 등 광역소각장 2곳과 민간 소각장 6곳에서 일평균 1천100t의 쓰레기를 소각 처리하고 있으나 300t가량은 수도권매립지에서 직매립 방식으로 처리하고 있다. 유정복 인천시장은 이들... ",
+			"pubDate":"Fri, 05 Jan 2024 07:40:00 +0900"
+		},
 		{
 			"title":"작년에도 매일 2명 이상 퇴근하지 못했습니다 [이달의 기업살인]",
 			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0002990424&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
@@ -26,17 +33,17 @@
 			"pubDate":"Fri, 05 Jan 2024 00:26:00 +0900"
 		},
 		{
-			"title":"김교흥 국회의원, 인천 서구서 2024년 의정보고회 개최",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=433577",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=433577",
-			"description":"김 의원은 대표적인 성과로▲인천대로 지하화(서인천IC~공단고가교) 사업이 사전행정절차를 모두 통과하고 국비 30억원 확보▲서울지하철 7호선 <b>청라<\/b>연장 2027년 정상 개통 및 2024년도 국비 1,145억원 확보▲<b>청라<\/b>시티타... ",
-			"pubDate":"Thu, 04 Jan 2024 23:16:00 +0900"
-		},
-		{
 			"title":"유동수 의원, 2024년 의정보고회 개최",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=433575",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=433575",
 			"description":"계양구 주요 현안인 ▲서울 지하철 2호선 <b>청라<\/b> 연장사업 ▲경인고속도로 지화하 작업 ▲서부간선수로 친수공간 조성사업 등 계양구 지역 숙원사업을 적극 추진했다. 또한 유 의원은 계양구 발전을 위한 예산 확보에도... ",
+			"pubDate":"Thu, 04 Jan 2024 23:16:00 +0900"
+		},
+		{
+			"title":"김교흥 국회의원, 인천 서구서 2024년 의정보고회 개최",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=433577",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=433577",
+			"description":"김 의원은 대표적인 성과로▲인천대로 지하화(서인천IC~공단고가교) 사업이 사전행정절차를 모두 통과하고 국비 30억원 확보▲서울지하철 7호선 <b>청라<\/b>연장 2027년 정상 개통 및 2024년도 국비 1,145억원 확보▲<b>청라<\/b>시티타... ",
 			"pubDate":"Thu, 04 Jan 2024 23:16:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005123702?sid=102",
 			"description":"이에 시는 정부 예산안에 인천발 KTX(746억원), 서울도시철도 7호선 <b>청라<\/b>연장(1145억원) 등 5조4445억원이 반영됐으며, 국회 예산 심사에서 서해5도 정주생활 지원금(61억원→66.8억원 △5.8억원) 3년 연속 증액... ",
 			"pubDate":"Thu, 04 Jan 2024 15:31:00 +0900"
-		},
-		{
-			"title":"인천시, 국가 세수 감소에도 역대 최대 국비 6.4조 원 달성",
-			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20240104500366",
-			"link":"http:\/\/www.metroseoul.co.kr\/article\/20240104500366",
-			"description":"인천발 KTX 이에, 인천시는 정부 예산안에 인천발 KTX(746억 원), 서울도시철도 7호선 <b>청라<\/b>연장(1,145억 원) 등 5조 4,445억 원이 반영됐으며, 국회 예산 심사에서 서해5도 정주생활 지원금(61억 원→66.8억 원, 5.8억 원 증) 3년... ",
-			"pubDate":"Thu, 04 Jan 2024 15:26:00 +0900"
 		}
 	]
 }
