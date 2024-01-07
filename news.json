@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 07 Jan 2024 16:30:02 +0900",
-	"total":218630,
+	"lastBuildDate":"Sun, 07 Jan 2024 16:40:02 +0900",
+	"total":218631,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서구문화재단, 12일 <b>청라<\/b>블루노바홀서 신년음악회 개최",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20240107_0002583702&cID=14001&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012305513?sid=102",
+			"description":"인천 서구민과 함께하는 신년음악회 '모두에게 희망을'이 12일 <b>청라<\/b>블루노바홀에서 열린다. 7일 인천서구문화재단에 따르면 가수 변진섭을 비롯해 서구에서 활동하는 예술동아리 노을 오케스트라, 퓨전국악밴드 경지... ",
+			"pubDate":"Sun, 07 Jan 2024 16:34:00 +0900"
+		},
 		{
 			"title":"인천시, 광역소각장 확충 사업 난항",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1005933",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002248366?sid=101",
 			"description":"<b>청라<\/b>동 공장(351억원)과 송도동 공장(238억원), 청천동 공장(184억원) 등이 거래됐다. 부산은 114억원에 매매된 공장을 포함해 700억원의 거래액을 기록해 같은 기간 30.3% 늘었다. 광주(411억원)와 대구(460억원)... ",
 			"pubDate":"Fri, 05 Jan 2024 15:46:00 +0900"
-		},
-		{
-			"title":"인천 집값 9주째 뒷걸음질... 부평·동구 등 원도심 낙폭 두드러져",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=99216",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=99216",
-			"description":"<b>청라<\/b>국제도시·검단신도시·루원시티 등 신도시가 밀집한 서구 아파트 거래량은 270건을 기록했다. 인천 전체 아파트 거래량은 지난달 1,036건을 기록해 지난해 1월(1,303건) 이후 최저 수준을 보였다. 전세 시장은... ",
-			"pubDate":"Fri, 05 Jan 2024 15:22:00 +0900"
 		}
 	]
 }
