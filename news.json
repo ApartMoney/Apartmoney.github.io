@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 07 Jan 2024 09:20:02 +0900",
-	"total":218617,
+	"lastBuildDate":"Sun, 07 Jan 2024 09:30:02 +0900",
+	"total":218618,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"임윤찬 협연·바렌보임 등 봄·여름 환상의 클래식 무대들",
+			"originallink":"https:\/\/www.newsverse.kr\/news\/articleView.html?idxno=4679",
+			"link":"https:\/\/www.newsverse.kr\/news\/articleView.html?idxno=4679",
+			"description":"<b>청라<\/b>언덕에 교향악이 울려퍼질 봄(1~4월) 새해 클래식 내한공연의 대장정은 완벽주의자 피아니스트 크리스티안 짐머만의 리사이틀로 시작된다. 연간 50회 정도로 연주를 제한하는 그는 1월 3일에 이어 10일 서울... ",
+			"pubDate":"Sun, 07 Jan 2024 09:22:00 +0900"
+		},
 		{
 			"title":"’두산위브 더제니스 센트럴 계양’ 8일(월) 1순위 청약 진행",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202401041506296761",
@@ -187,17 +194,17 @@
 			"pubDate":"Fri, 05 Jan 2024 11:53:00 +0900"
 		},
 		{
-			"title":"두산위브더제니스 센트럴 계양 견본주택서 골프단 팬사인회 개최",
-			"originallink":"http:\/\/www.iminju.net\/news\/articleView.html?idxno=96101",
-			"link":"http:\/\/www.iminju.net\/news\/articleView.html?idxno=96101",
-			"description":"인천지하철 1호선 작전역을 도보로 이용할 수 있는 초역세권 단지로 서울 접근성이 우수하고 <b>청라<\/b>~강서 BRT(간선급행버스체계) 정류장이 단지 바로 앞에 위치해 있어 서울 출퇴근이 편리하다.",
-			"pubDate":"Fri, 05 Jan 2024 11:50:00 +0900"
-		},
-		{
 			"title":"'두산위브더제니스 센트럴 계양' 견본주택서 골프단 팬사인회 개최",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240105010001600",
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240105010001600",
 			"description":"또 <b>청라<\/b>~강서 BRT(간선급행버스체계) 정류장이 단지 바로 앞에 위치해 있어 서울 출퇴근이 편리하다. 계양구에서 첫 번째 ‘두산위브더제니스’ 브랜드 단지로 공급된다. 견본주택은 인천광역시 계양구 작전동... ",
+			"pubDate":"Fri, 05 Jan 2024 11:50:00 +0900"
+		},
+		{
+			"title":"두산위브더제니스 센트럴 계양 견본주택서 골프단 팬사인회 개최",
+			"originallink":"http:\/\/www.iminju.net\/news\/articleView.html?idxno=96101",
+			"link":"http:\/\/www.iminju.net\/news\/articleView.html?idxno=96101",
+			"description":"인천지하철 1호선 작전역을 도보로 이용할 수 있는 초역세권 단지로 서울 접근성이 우수하고 <b>청라<\/b>~강서 BRT(간선급행버스체계) 정류장이 단지 바로 앞에 위치해 있어 서울 출퇴근이 편리하다.",
 			"pubDate":"Fri, 05 Jan 2024 11:50:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=749021",
 			"description":"김복희 ▲<b>청라<\/b>지점장 강대규 ▲디지털독도지점장 박원희 ■ ​​​​​​​기업금융지점장·종합금융지점장 ▲강남기업금융본부 기업금융지점장 강수민·유현종·황성우 ▲중부기업금융본부 기업금융지점장 김규상... ",
 			"pubDate":"Fri, 05 Jan 2024 11:38:00 +0900"
-		},
-		{
-			"title":"쓰레기 직매립 금지 눈앞인데…인천 광역소각장 확충 난항",
-			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202401050030",
-			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202401050030",
-			"description":"인천에서는 현재 송도소각장, <b>청라<\/b>소각장 등 광역소각장 2곳과 민간 소각장 6곳에서 일평균 1100톤의 쓰레기를 소각 처리하고 있으나 300t가량은 수도권매립지에서 직매립 방식으로 처리하고 있다. 유정복 인천시장은 이들... ",
-			"pubDate":"Fri, 05 Jan 2024 11:36:00 +0900"
 		}
 	]
 }
