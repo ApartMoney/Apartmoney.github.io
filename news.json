@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 07 Jan 2024 15:50:02 +0900",
-	"total":218624,
+	"lastBuildDate":"Sun, 07 Jan 2024 16:00:02 +0900",
+	"total":218625,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천, 국가 세수 감소에도 역대 최대 국비 6.4조원 달성",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1810743",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1810743",
+			"description":"이에, 시는 정부 예산안에 인천발 KTX(746억원), 서울도시철도 7호선 <b>청라<\/b>연장(1145억원) 등 5조4445억원이 반영됐으며, 국회 예산 심사에서 서해5도 정주생활 지원금(61억 원→66.8억원, 5.8억원 증) 3년 연속 증액... ",
+			"pubDate":"Sun, 07 Jan 2024 15:58:00 +0900"
+		},
 		{
 			"title":"민주당 김교흥 “인천 의원 중 가장 뛰어난 입법 성과” 의정보고회",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240107025142103",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2024010512200178334",
 			"description":"이 노선을 통해 서울지하철 7호선 환승역인 부평구청역까지 두 정거장, 서울지하철 1호선 환승역인 부평역까지 4정거장 만에 이동할 수 있다.또 <b>청라<\/b>~강서 BRT(간선급행버스체계) 정류장이 단지 바로 앞에 자리... ",
 			"pubDate":"Fri, 05 Jan 2024 13:50:00 +0900"
-		},
-		{
-			"title":"[단독] 박선원 전 국정원 차장, 인천 서구 '전략 공천' 거론",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=415691",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=415691",
-			"description":"민주당의 전략 공천이 예상되는 지역은  전통적 민주당 우세지역인 <b>청라<\/b>국제도시나 검단신도시가 될 것으로 관측된다. 조만간 선거구획정위원회 안이 여야의 합의로 결정되면 서구 의석수도 최종 결정된다. 박 전 차장의... ",
-			"pubDate":"Fri, 05 Jan 2024 13:18:00 +0900"
 		}
 	]
 }
