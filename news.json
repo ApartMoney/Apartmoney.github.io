@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 08 Jan 2024 20:00:02 +0900",
-	"total":218838,
+	"lastBuildDate":"Mon, 08 Jan 2024 20:10:02 +0900",
+	"total":218839,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"학생성공버스, 규제 샌드박스 적용된다",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1228775",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1228775",
+			"description":"학교를 관할하는 만큼 버스 탑승 대상에 학생까지 포함돼야 한다는 논리를 폈다. 시교육청은 지난해 7월부터 원거리 통학으로 불편을 겪는 중고생을 위해 송도와 <b>청라<\/b> 등 6개 권역에서 학생성공버스를 시범 운행하고 있다.",
+			"pubDate":"Mon, 08 Jan 2024 20:08:00 +0900"
+		},
 		{
 			"title":"5년째 첫발 못 뗀 <b>청라<\/b>청소년센터",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1228670",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005241218?sid=101",
 			"description":"인천가정2 지구는 <b>청라<\/b>와 루원시티 중간에 위치해 입지가 탁월하다. 현재 인천 2호선 가정역, 서구청역과... 주변 인프라 또한 편리한데, <b>청라<\/b>지구와 루원시티 내에 탄탄하게 자리 잡은 상업시설과 인프라 시설까지... ",
 			"pubDate":"Mon, 08 Jan 2024 10:57:00 +0900"
-		},
-		{
-			"title":"[분양현장] 인천 1호선 작전역 바로 앞 1370가구 '두산위브더제니스'",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1810811",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1810811",
-			"description":"인천 <b>청라<\/b>와 서울 강서구를 잇는 BRT 정류장도 가까워 편리한 교통 환경을 내세울 수 있는 단지다. 도보권... <b>청라<\/b>-강서 간 BRT(간선급행버스체계) 정류장도 단지 바로 앞에 있다. 자가용을 이용하면 인근 부평... ",
-			"pubDate":"Mon, 08 Jan 2024 09:20:00 +0900"
 		}
 	]
 }
