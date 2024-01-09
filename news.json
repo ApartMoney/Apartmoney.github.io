@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 10 Jan 2024 08:00:02 +0900",
-	"total":218953,
+	"lastBuildDate":"Wed, 10 Jan 2024 08:10:03 +0900",
+	"total":218954,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] KB국민은행",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=777570",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=777570",
+			"description":"신광철 ▲<b>청라<\/b>지점 신백상 ▲상인역지점 신옥필 ▲천호역지점 신재섭 ▲자양동지점 신혜원 ▲중계북지점 안민희 ▲덕소지점 안정아 ▲대천지점 양덕모 ▲이태원지점 양동규 ▲상계역지점 양찬식 ▲중부지점 오안국... ",
+			"pubDate":"Wed, 10 Jan 2024 08:06:00 +0900"
+		},
 		{
 			"title":"[인사]KB금융지주·KB국민은행",
 			"originallink":"https:\/\/www.nbntv.kr\/news\/articleView.html?idxno=85281",
@@ -204,13 +211,6 @@
 			"title":"[인사] KB금융지주‧KB국민은행",
 			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=237465",
 			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=237465",
-			"description":"신광철 ▲<b>청라<\/b>지점 신백상 ▲상인역지점 신옥필 ▲천호역지점 신재섭 ▲자양동지점 신혜원 ▲중계북지점 안민희 ▲덕소지점 안정아 ▲대천지점 양덕모 ▲이태원지점 양동규 ▲상계역지점 양찬식 ▲중부지점 오안국... ",
-			"pubDate":"Tue, 09 Jan 2024 20:46:00 +0900"
-		},
-		{
-			"title":"[인사] KB국민은행",
-			"originallink":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=59507",
-			"link":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=59507",
 			"description":"신광철 ▲<b>청라<\/b>지점 신백상 ▲상인역지점 신옥필 ▲천호역지점 신재섭 ▲자양동지점 신혜원 ▲중계북지점 안민희 ▲덕소지점 안정아 ▲대천지점 양덕모 ▲이태원지점 양동규 ▲상계역지점 양찬식 ▲중부지점 오안국... ",
 			"pubDate":"Tue, 09 Jan 2024 20:46:00 +0900"
 		}
