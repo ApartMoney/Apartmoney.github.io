@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 11 Jan 2024 09:20:02 +0900",
-	"total":219154,
+	"lastBuildDate":"Thu, 11 Jan 2024 09:30:03 +0900",
+	"total":219155,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천신보 검단지점 3월 신설",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20240111000121",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002250691?sid=102",
+			"description":"이에 따라 기존 서인천지점이 위치한 심곡동, <b>청라<\/b>동 소재 고객들에 비해 먼 거리로 재단 이용에 어려움을 겪던 서북부 지역 고객들의 불편 해소에 큰 도움이 될 것으로 기대하고 있다.",
+			"pubDate":"Thu, 11 Jan 2024 09:25:00 +0900"
+		},
 		{
 			"title":"하나은행, 3557억원 규모 민생 금융지원방안 시행",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=239203",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000070918?sid=102",
 			"description":"이에 원거리 통학으로 불편을 겪는 중‧고등학생을 위한 송도와 <b>청라<\/b>, 영종, 검단 등 개발지역과 경서, 서창, 부평의 일부지역에서 인천학생성공버스를 안정적으로 운영할 수 있게 됐다. 인천시교육청은 지속적인... ",
 			"pubDate":"Wed, 10 Jan 2024 18:05:00 +0900"
-		},
-		{
-			"title":"인천시교육청, '인천학생성공버스' 규제샌드박스 승인",
-			"originallink":"https:\/\/www.cnbnews.com\/news\/article.html?no=637878",
-			"link":"https:\/\/www.cnbnews.com\/news\/article.html?no=637878",
-			"description":"이번 승인으로 인천시교육청은 향후 2년간 원거리 통학으로 불편을 겪는 중고등학생을 위한 송도와 <b>청라<\/b>, 영종, 검단 신도시 등 개발 지역과 경서, 서창, 부평 일부 지역에 학생성공버스를 안정적으로 운영할 수 있게 됐다.... ",
-			"pubDate":"Wed, 10 Jan 2024 17:50:00 +0900"
 		}
 	]
 }
