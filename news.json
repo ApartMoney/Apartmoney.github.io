@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 16 Jan 2024 06:00:02 +0900",
-	"total":219271,
+	"lastBuildDate":"Tue, 16 Jan 2024 06:10:02 +0900",
+	"total":219272,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[신동근의 집콕뉴스] 지난해 외국인 부동산 거래비중 역대 최대…100명 중 1명...",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20240115144724798",
+			"link":"https:\/\/www.ajunews.com\/view\/20240115144724798",
+			"description":"미국인들은 시군구별로는 미군 부대가 있는 평택시(120명)에서 가장 거래가 많았으며, 이어 △서울시 강남구(45명), △송도신도시가 있는 인천시 연수구(38명) △서울시 영등포구?중구(35명) △<b>청라<\/b> 신도시가 있는... ",
+			"pubDate":"Tue, 16 Jan 2024 06:02:00 +0900"
+		},
 		{
 			"title":"[인천판\/게시판]인천 外",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240115\/123063834\/1",
@@ -159,17 +166,17 @@
 			"pubDate":"Sun, 14 Jan 2024 18:48:00 +0900"
 		},
 		{
-			"title":"[행사]보령15일",
-			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=736121",
-			"link":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=736121",
-			"description":"［동양일보 오광연 기자］보령시 주간현안보고=오전8시20분 중회의실 새해농업인실용교육(<b>청라<\/b>면)=오전10시 삼다향실버복지센터",
-			"pubDate":"Sun, 14 Jan 2024 18:46:00 +0900"
-		},
-		{
 			"title":"청년맞춤 임대형 스마트팜 조성 `시동'",
 			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=782759",
 			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=782759",
 			"description":"지난해 공모 선정된 청년 맞춤 임대형 스마트팜 단지 조성사업은 총사업비 100억원(도비 66억원, 시비 34억원)을 투입해 <b>청라<\/b>면 의평리 일원 2.5ha에 임대형 스마트팜 온실을 신축하게 된다. 지자체에서 부지를 제공해 첨단... ",
+			"pubDate":"Sun, 14 Jan 2024 18:46:00 +0900"
+		},
+		{
+			"title":"[행사]보령15일",
+			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=736121",
+			"link":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=736121",
+			"description":"［동양일보 오광연 기자］보령시 주간현안보고=오전8시20분 중회의실 새해농업인실용교육(<b>청라<\/b>면)=오전10시 삼다향실버복지센터",
 			"pubDate":"Sun, 14 Jan 2024 18:46:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1229557",
 			"description":"강 구청장은 &quot;수도권광역급행철도(GTX)-D노선 조기 착공을 포함해 GTX-E노선 신설, 서울지하철 2호선 <b>청라<\/b> 연장, 서울지하철 5호선 검단 연장 등 서구와 수도권을 오가는 광역교통망이 빨리 구축될 수 있도록 정부와 인천시... ",
 			"pubDate":"Sun, 14 Jan 2024 15:40:00 +0900"
-		},
-		{
-			"title":"인천 아파트 매매 기피 현상에 전세수요 상승…규제완화 기다린다",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=778036",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=778036",
-			"description":"이 가운데 서구는 정주여건이 양호한 가정·<b>청라<\/b>·검암동 신도심 위주로 0.12% 올라 인천의 전체적인 전세값 상승세를 견인했다. 부평구(0.01%)도 십정·청천동 위주로 상승했으나 미추홀구(-0.06%)가 용현관교동 위주로, 동구... ",
-			"pubDate":"Sun, 14 Jan 2024 14:32:00 +0900"
 		}
 	]
 }
