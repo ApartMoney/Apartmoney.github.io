@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Tue, 16 Jan 2024 15:10:03 +0900",
-	"total":219431,
+	"lastBuildDate":"Tue, 16 Jan 2024 15:20:03 +0900",
+	"total":219434,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"내년 말 인천대교 통행료 '5500원→2000원' 인하 추진",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1815006",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1815006",
+			"description":"3개월간 3개 영업소(인천공항·북인천·<b>청라<\/b>) 교통량을 분석한 결과 약 256억원의 통행료 부담 감소 효과를 확인했다. 국토부는 인천대교 사업시행자의 통행료 인하 계획서(사업 시행 조건 조정계획서) 제출을 시작으로... ",
+			"pubDate":"Tue, 16 Jan 2024 15:16:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 인천 지역 위기 임산부를 위한 기부금 전달",
+			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=631216",
+			"link":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=631216",
+			"description":"이번 기부금은 지난해 9월 인천 <b>청라<\/b>에 위치한 '베어즈베스트 <b>청라<\/b> 골프클럽'에서 진행된 KLPGA 정규투어「하나금융그룹 챔피언십」에 참가한 선수들과 하나금융그룹이 함께 참여한 행복 나눔활동으로 조성됐다. 대회... ",
+			"pubDate":"Tue, 16 Jan 2024 15:13:00 +0900"
+		},
+		{
+			"title":"지반 침하로 공사 중단 7호선 <b>청라<\/b> 연장, 오는 4월 재개 예정",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=239472",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=239472",
+			"description":"인천투데이=장호영 기자｜서울도시철도 7호선 인천 <b>청라<\/b> 연장선 구간의 일부가 지반 침하로 4개월 간 공사... 7호선 <b>청라<\/b> 연장선 일부 구간이 오는 4월에 공사를 재개할 예정이라고 16일 밝혔다. 서울도시철도 7호선... ",
+			"pubDate":"Tue, 16 Jan 2024 15:12:00 +0900"
+		},
 		{
 			"title":"하나금융, 인천 지역 위기 임산부에 7000만원 기부",
 			"originallink":"https:\/\/isplus.com\/article\/view\/isp202401160163",
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.issuenbiz.com\/news\/articleView.html?idxno=36412",
 			"description":"기부금은 지난해 9월 인천 <b>청라<\/b> '베어즈베스트 <b>청라<\/b> 골프클럽'에서 열린 KLPGA 정규투어 '하나금융그룹 챔피언십' 대회에 참가한 선수들과 하나금융그룹이 함께 마련했다. 인천 자모원과 사단법인 여성인권동감에 전달된... ",
 			"pubDate":"Tue, 16 Jan 2024 12:50:00 +0900"
-		},
-		{
-			"title":"대구 중구, 2023년 하반기 적극행정 우수공무원 3명 선발",
-			"originallink":"http:\/\/www.sentv.co.kr\/news\/view\/677225",
-			"link":"http:\/\/www.sentv.co.kr\/news\/view\/677225",
-			"description":"건립사업이 <b>청라<\/b>국민체육센터와 연계해 원활하게 추진될 수 있는 토대를 마련했다.   적극행정 우수공무원(우수 김동주 주무관)우수로 선정된 도시디자인과 김동주 주무관(동성로 일원 옥외광고물 자유표시구역 지정... ",
-			"pubDate":"Tue, 16 Jan 2024 12:46:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 인천 지역 위기 임산부를 위한 기부금 전달",
-			"originallink":"http:\/\/www.lkp.news\/news\/articleView.html?idxno=42440",
-			"link":"http:\/\/www.lkp.news\/news\/articleView.html?idxno=42440",
-			"description":"이번 기부금은 지난해 9월 인천 <b>청라<\/b>에 위치한 '베어즈베스트 <b>청라<\/b> 골프클럽'에서 진행된 KLPGA 정규투어「하나금융그룹 챔피언십」에 참가한 선수들과 하나금융그룹이 함께 참여한 행복 나눔활동으로 조성됐다. 대회... ",
-			"pubDate":"Tue, 16 Jan 2024 12:36:00 +0900"
-		},
-		{
-			"title":"인천대교 통행료 인하 절차 상반기 착수…2025년말부터 5500원→2000원",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20240116508750?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003895227?sid=101",
-			"description":"지난해 10월부터 영종대교의 인천공항 요금소 통행료는 6600원에서 3200원으로 51.5% 인하했고, 북인천은 3200원에서 1900원, <b>청라<\/b>는 2500원에서 2000원으로 낮아졌다. 국토부가 영종대교 요금 인하 시행 이후 지난해 12월... ",
-			"pubDate":"Tue, 16 Jan 2024 12:28:00 +0900"
 		}
 	]
 }
