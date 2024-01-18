@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 19 Jan 2024 03:00:02 +0900",
-	"total":219528,
+	"lastBuildDate":"Fri, 19 Jan 2024 03:10:02 +0900",
+	"total":219530,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천문예회관, 관객과 더 가까이서 만난다",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240118\/123124831\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003543621?sid=102",
+			"description":"6월에 열리는 ‘클래식 시리즈’는 서구 <b>청라<\/b>블루노바홀에서 뮌헨소년합창단이 공연하고, 중구문화회관에 피아니스트 백건우가 찾아간다. 무용 장르로 구성된 ‘스테이지149’는 5, 10월 연수구 송도트라이볼에서... ",
+			"pubDate":"Fri, 19 Jan 2024 03:04:00 +0900"
+		},
+		{
+			"title":"관광객 폭증 '무의도' 교통체증 심각···'회주도로' 건설 시급",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3101352",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3101352",
+			"description":"또 영종대교의 일반 통행료는 상부도로 6600원에서 3200원으로 인하했고, 하부도로는 3200원에서 1900원, <b>청라<\/b>는 2500원에서 2000원으로 낮아졌다. 국토교통부는 인천대교의 통행료를 오는 2025년 말부터 5500원에서 2000원으로... ",
+			"pubDate":"Fri, 19 Jan 2024 03:00:00 +0900"
+		},
 		{
 			"title":"하나금융그룹, 인천시 위기 임산부 후원금 7000만 원 전달",
 			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=542338",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.raonnews.com\/news\/article.html?no=31212",
 			"description":"치료는 초기라면 보존 치료를 우선 진행한 후, 경과에 따라 알맞은 치료를 진행하게 된다. ※ 외부 필진의 칼럼은 본지의 편집 방향과 다를 수 있습니다. 류성화 인천 <b>청라<\/b>국제병원 원장",
 			"pubDate":"Thu, 18 Jan 2024 15:04:00 +0900"
-		},
-		{
-			"title":"&quot;보령시, 올해 글로벌 해양레저 관광도시로 발돋움할 터&quot;",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1008737",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1008737",
-			"description":"또한 보령형 포용 도시 완성을 위해 ▲장항선 개량 2단계 건설 및 장항선 복선전철화 사업의 조기 완료 등 사통팔달 광역 교통망 확충 ▲웅천산업 및 <b>청라<\/b> 농공단지, LNG 냉열활용 특화산업단지 등 기업유치와 일자리... ",
-			"pubDate":"Thu, 18 Jan 2024 14:56:00 +0900"
-		},
-		{
-			"title":"[아유경제_부동산] 1월 3주 아파트 가격 동향… 매매가격 -0.04% 하락ㆍ전세가...",
-			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=81823",
-			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=81823",
-			"description":"인천(0.01%)의 경우 서구(0.05%)는 정주여건 양호한 <b>청라<\/b>ㆍ가정 등 신도시 위주로, 연수구(0.03%)는 동춘ㆍ송도 주요 단지 위주로, 동구(0.01%)는 송현 위주로 상승했으나, 중구(-0.19%)는 중산ㆍ신흥 위주로, 남동구(-0.01... ",
-			"pubDate":"Thu, 18 Jan 2024 14:12:00 +0900"
 		}
 	]
 }
