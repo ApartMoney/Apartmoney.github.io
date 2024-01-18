@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 18 Jan 2024 14:10:03 +0900",
-	"total":219500,
+	"lastBuildDate":"Thu, 18 Jan 2024 14:20:02 +0900",
+	"total":219501,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[아유경제_부동산] 1월 3주 아파트 가격 동향… 매매가격 -0.04% 하락ㆍ전세가...",
+			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=81823",
+			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=81823",
+			"description":"인천(0.01%)의 경우 서구(0.05%)는 정주여건 양호한 <b>청라<\/b>ㆍ가정동 등 신도시 위주로, 연수구(0.03%)는 동춘ㆍ송도동 주요단지 위주로, 동구(0.01%)는 송현동 위주로 상승했으나, 중구(-0.19%)는 중산ㆍ신흥동 위주로... ",
+			"pubDate":"Thu, 18 Jan 2024 14:12:00 +0900"
+		},
 		{
 			"title":"지방 아파트 전세 하락 전환…수도권은 상승 계속",
 			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6081125",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=74519",
 			"description":"이번 기부금은 지난해 9월 인천 <b>청라<\/b>에 위치한 '베어즈베스트 <b>청라<\/b> 골프클럽'에서 진행된 KLPGA 정규투어 '하나금융그룹 챔피언십'에 참가한 선수들과 하나금융그룹이 함께 참여한 행복 나눔활동으로 조성됐다. 대회... ",
 			"pubDate":"Wed, 17 Jan 2024 09:52:00 +0900"
-		},
-		{
-			"title":"'하나금융그룹 챔피언십'에서 조성된 기부금, 위기 임산부를 위한 7000만원 전...",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=211226",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=450&aid=0000097568",
-			"description":"이번 기부금은 지난해 9월 인천 <b>청라<\/b>에 위치한 '베어즈베스트 <b>청라<\/b> 골프클럽'에서 진행된 KLPGA 정규투어「하나금융그룹 챔피언십」에 참가한 선수들과 하나금융그룹이 함께 참여한 행복 나눔 활동으로 조성됐다. 대회... ",
-			"pubDate":"Wed, 17 Jan 2024 09:48:00 +0900"
 		}
 	]
 }
