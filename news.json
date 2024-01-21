@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 22 Jan 2024 01:00:02 +0900",
-	"total":219565,
+	"lastBuildDate":"Mon, 22 Jan 2024 01:10:02 +0900",
+	"total":219566,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서 교통섬 들이받은 차량 넘어져‥ 운전자 경상",
+			"originallink":"https:\/\/imnews.imbc.com\/news\/2024\/society\/article\/6564498_36438.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001325972?sid=102",
+			"description":"어젯밤 10시 반쯤 인천 서구 <b>청라<\/b>동의 한 도로에서 20대 여성 운전자가 몰던 승용차가 옆으로 넘어지는 사고가 났습니다. 이 사고로 운전자가 경상을 입고 인근 병원으로 옮겨졌습니다. 경찰은 운전자가 우회전을 하다... ",
+			"pubDate":"Mon, 22 Jan 2024 00:59:00 +0900"
+		},
 		{
 			"title":"&quot;우회전하다가&quot;...인도 난간에 들이받은 승용차 1대 전복",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202401220026201681",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2251790",
 			"description":"또한 보령형 포용도시 완성을 위해 △장항선 개량2단계 건설 및 장항선 복선전철화 사업의 조기 완료 등 사통팔달 광역 교통망 확충 △웅천산업 및 <b>청라<\/b>농공단지, LNG냉열활용 특화산업단지 등 기업유치와 일자리 창출을... ",
 			"pubDate":"Fri, 19 Jan 2024 10:18:00 +0900"
-		},
-		{
-			"title":"펜타시스템, 'IFEZ 스마트시티 기반 서비스 1단계 구축사업' 참여",
-			"originallink":"http:\/\/www.it-b.co.kr\/news\/articleView.html?idxno=73277",
-			"link":"http:\/\/www.it-b.co.kr\/news\/articleView.html?idxno=73277",
-			"description":"'버스우선신호(버스 신호제어) 관제 서비스'는 <b>청라<\/b>국제도시에서 운행되는 유도고속차량(GRT; Guide Rapid Transit) 2개 노선, 33개 교차로에 시스템이 적용되어, 대중교통의 편의성을 향상시키고, 일반 시민의 차량은... ",
-			"pubDate":"Fri, 19 Jan 2024 10:16:00 +0900"
 		}
 	]
 }
