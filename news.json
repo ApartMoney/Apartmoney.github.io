@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 22 Jan 2024 06:30:03 +0900",
-	"total":219571,
+	"lastBuildDate":"Mon, 22 Jan 2024 06:40:02 +0900",
+	"total":219572,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"주택화재로 노부부 사망...역주행에 3명 사상",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202401220626219956",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001988201?sid=102",
+			"description":"어젯(21일)밤 10시 40분쯤 인천 서구 <b>청라<\/b>동에서 음주운전 차량이 인도 난간을 들이받아 전복되는 사고가 났습니다. [경찰 관계자 : 단독 사고고요. 여자분 혼자 운전했는데 병원으로 후송됐고 의식은 있고요.... ",
+			"pubDate":"Mon, 22 Jan 2024 06:26:00 +0900"
+		},
 		{
 			"title":"인도 난간에 들이받고 전복된 음주운전 차량...운전자 부상",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202401220542420217",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dailysecu.com\/news\/articleView.html?idxno=152967",
 			"description":"'버스우선신호(버스 신호제어) 관제 서비스'는 <b>청라<\/b>국제도시에서 운행되는 GRT(유도고속차량) 2개노선, 33개 교차로에 시스템이 적용되어, 대중교통의 편의성을 향상시키고, 일반 시민의 차량은 새로운 차세대... ",
 			"pubDate":"Fri, 19 Jan 2024 14:48:00 +0900"
-		},
-		{
-			"title":"2024학년도 대입 수시 합격생 인터뷰- 서울대 통계학과 안서영(한가람고) 학생",
-			"originallink":"http:\/\/www.naeil.com\/news_view\/?id_art=486676",
-			"link":"http:\/\/www.naeil.com\/news_view\/?id_art=486676",
-			"description":"한가람고의 ULC 프로그램을 통해 <b>청라<\/b>달튼 국제학교 학생들과 만나 경제, 정치 강연을 듣고 주제를 정해 영어로 토론하고 발표했다. 1학년 때는 과학토론회를 통해 유전자 편집기술에 대해 보고서를 작성하고 영상도... ",
-			"pubDate":"Fri, 19 Jan 2024 14:22:00 +0900"
 		}
 	]
 }
