@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 25 Jan 2024 17:00:02 +0900",
-	"total":219861,
+	"lastBuildDate":"Thu, 25 Jan 2024 17:10:02 +0900",
+	"total":219863,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천·김포, GTX노선 신설·골드라인 최우선 '환영'",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20240125015700641\/?input=1825m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000641459?sid=102",
+			"description":"인천시는 GTX-D노선이 개통되면 검단·<b>청라<\/b>에서 서울 강남까지 30분, 영종에서 강남까지 40분이면 출퇴근이 가능할 것으로 내다봤습니다. 이는 기존에 2시간가량이 걸리던 것과 비교해 1시간 이상 단축되는 셈입니다.... ",
+			"pubDate":"Thu, 25 Jan 2024 16:59:00 +0900"
+		},
 		{
 			"title":"인천 서구의회, 제3차 회의 개최",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240125010008430",
@@ -52,6 +59,13 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=99535",
 			"description":"구체적으로 인천공항~영종~<b>청라<\/b>~가정~작전 노선과 장기~검단~계양 노선이 각각 분기점인 부천 대장에서... D노선이 개통하면 인천 검단·<b>청라<\/b>에서 서울 강남까지 30분, 영종에서 강남까지 40분이면 출퇴근이 가능할... ",
 			"pubDate":"Thu, 25 Jan 2024 16:42:00 +0900"
+		},
+		{
+			"title":"GTX-A·B·C 연장, D·E·F 신설...&quot;전국에 GTX 시대 열 것&quot;",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0102_202401251640134863",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0001990108?sid=101",
+			"description":"인천공항에서 출발해 영종, <b>청라<\/b>, 가정, 작전을 통과하는 한 축과 김포 장기에서 출발해 검단, 계양을... GTX-E는 인천공항에서 출발해 영종, <b>청라<\/b>, 가정, 작전, 대장, 등촌, DMC, 연신내, 평창, 신정릉, 광운대, 신내, 구리... ",
+			"pubDate":"Thu, 25 Jan 2024 16:40:00 +0900"
 		},
 		{
 			"title":"인천에서 강남까지 30분···GTX-D(Y)·E 모두 인천에서 출발",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=99498",
 			"description":"특히 인천녹색연합은 한국서부발전(주)·<b>청라<\/b>에너지(주)·GS에너지(주) 컨소시엄이 현재 경기 김포에 진행하고 있는 김포열병합발전소에 문제의식을 갖고 있다. 이 발전소는 신도시와 산업단지 계획과 맞물려 진행되고... ",
 			"pubDate":"Thu, 25 Jan 2024 15:06:00 +0900"
-		},
-		{
-			"title":"인천서 강남·남양주 잇는 GTX-D·E 노선 신설 확정…인천 GTX 3개",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240125000815",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20240125000815",
-			"description":"인천 영종· <b>청라<\/b>· 검단신도시를 거쳐 각각 서울과 남양주를 잇는 수도권 광역급행철도(GTX) 2개 노선이... 영종 ·<b>청라<\/b> 신도시를 거쳐 대장에서 합쳐져 서울 강남(삼성)까지 잇는 'Y자' 노선으로 건설될 예정이다. GTX... ",
-			"pubDate":"Thu, 25 Jan 2024 15:06:00 +0900"
-		},
-		{
-			"title":"[인천 주요 뉴스]검단서 강남까지 30분…인천시 &quot;GTX-D·E 노선 환영&quot;",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6085035",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003856956?sid=102",
-			"description":"국토교통부가 발표한 GTX-D 'Y자' 노선은 인천 검단과 인천공항에서 각각 출발해 계양, <b>청라<\/b>, 가정을 지나 서울 삼성까지 40분 안에 도착할 수 있으며, GTX-E노선은 인천공항과 <b>청라<\/b>, 부천 대장, 남양주를 연결합니다. 인천... ",
-			"pubDate":"Thu, 25 Jan 2024 15:02:00 +0900"
 		}
 	]
 }
