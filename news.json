@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 25 Jan 2024 15:00:02 +0900",
-	"total":219831,
+	"lastBuildDate":"Thu, 25 Jan 2024 15:10:02 +0900",
+	"total":219833,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"탈석탄 시대, '정의로운 투쟁'을 시작하다",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=99498",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=99498",
+			"description":"특히 인천녹색연합은 한국서부발전(주)·<b>청라<\/b>에너지(주)·GS에너지(주) 컨소시엄이 현재 경기 김포에 진행하고 있는 김포열병합발전소에 문제의식을 갖고 있다. 이 발전소는 신도시와 산업단지 계획과 맞물려 진행되고... ",
+			"pubDate":"Thu, 25 Jan 2024 15:06:00 +0900"
+		},
+		{
+			"title":"[인천 주요 뉴스]검단서 강남까지 30분…인천시 &quot;GTX-D·E 노선 환영&quot;",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6085035",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003856956?sid=102",
+			"description":"국토교통부가 발표한 GTX-D 'Y자' 노선은 인천 검단과 인천공항에서 각각 출발해 계양, <b>청라<\/b>, 가정을 지나 서울 삼성까지 40분 안에 도착할 수 있으며, GTX-E노선은 인천공항과 <b>청라<\/b>, 부천 대장, 남양주를 연결합니다. 인천... ",
+			"pubDate":"Thu, 25 Jan 2024 15:02:00 +0900"
+		},
 		{
 			"title":"“우리집도 따블 가나”…GTX 2기 뚫리는 평택·춘천·아산·원주 ‘들썩’ [...",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/10929075",
@@ -19,7 +33,7 @@
 			"pubDate":"Thu, 25 Jan 2024 14:56:00 +0900"
 		},
 		{
-			"title":"서울지하철 5호선 ‘갈등’ 인천·김포 GTX 노선엔 ‘환영’",
+			"title":"서울지하철 5호선 연장선 ‘갈등’ 인천·김포 GTX 노선엔 ‘환영’",
 			"originallink":"https:\/\/www.khan.co.kr\/politics\/politics-general\/article\/202401251453001",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003275488?sid=100",
 			"description":"GTX-D 노선은 ‘인천공항을 출발해 <b>청라<\/b>~가정’과 ‘김포 장기에서 검단~계양’을 거쳐 부천 대장~삼성 을 지나 하남시와 여주시 두 갈래로 운행하는 Y자 노선이다. GTX-E 노선은 GTX-D 노선과 같이 ‘인천공항~<b>청라<\/b>~가정... ",
@@ -82,17 +96,17 @@
 			"pubDate":"Thu, 25 Jan 2024 14:16:00 +0900"
 		},
 		{
-			"title":"국토부 GTX-D(Y)·E 노선 확정 발표....유정복 시장, “인천 철도망 획기적 개...",
-			"originallink":"http:\/\/www.breaknews.com\/1011997",
-			"link":"http:\/\/www.breaknews.com\/1011997",
-			"description":"인천시에 따르면, 국토교통부는 1월 25일 인천 검단~계양과 인천공항~<b>청라<\/b>~가정을 지나 서울 강남(삼성)을 잇는 GTX-D Y자 노선과 인천공항~<b>청라<\/b>~대장~남양주를 지나는... ",
-			"pubDate":"Thu, 25 Jan 2024 14:16:00 +0900"
-		},
-		{
 			"title":"드디어 베일 벗은 '2기 GTX' 노선… '이곳' 지나간다",
 			"originallink":"https:\/\/www.ltn.kr\/news\/articleView.html?idxno=41394",
 			"link":"https:\/\/www.ltn.kr\/news\/articleView.html?idxno=41394",
 			"description":"인천공항에서 출발해 영종, <b>청라<\/b>, 가정, 작전을 통과하는 한 축과 김포 장기에서 출발해 검단, 계양을... ◆왕숙~교산, GTX-F 깔린다 GTX-E는 인천공항에서 출발해 영종, <b>청라<\/b>, 가정, 작전, 대장, 등촌, DMC, 연신내, 평창... ",
+			"pubDate":"Thu, 25 Jan 2024 14:16:00 +0900"
+		},
+		{
+			"title":"국토부 GTX-D(Y)·E 노선 확정 발표....유정복 시장, “인천 철도망 획기적 개...",
+			"originallink":"http:\/\/www.breaknews.com\/1011997",
+			"link":"http:\/\/www.breaknews.com\/1011997",
+			"description":"인천시에 따르면, 국토교통부는 1월 25일 인천 검단~계양과 인천공항~<b>청라<\/b>~가정을 지나 서울 강남(삼성)을 잇는 GTX-D Y자 노선과 인천공항~<b>청라<\/b>~대장~남양주를 지나는... ",
 			"pubDate":"Thu, 25 Jan 2024 14:16:00 +0900"
 		},
 		{
@@ -152,17 +166,17 @@
 			"pubDate":"Thu, 25 Jan 2024 13:55:00 +0900"
 		},
 		{
-			"title":"인천 계양 등 동부권 집값 올라가나…GTX D·E 인천서 출발·강남까지 단 30분...",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20240125510303?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003898381?sid=101",
-			"description":"국토교통부가 발표한 GTX-D 'Y자' 노선은 인천 검단∼계양과 인천공항∼<b>청라<\/b>∼가정을 지나 서울 강남(삼성)을 잇는 구간에 건설된다. 또 GTX-E는 인천공항∼<b>청라<\/b>∼대장∼남양주를 연결한다. 인천시는 GTX-D가 개통되면... ",
-			"pubDate":"Thu, 25 Jan 2024 13:48:00 +0900"
-		},
-		{
 			"title":"인천에서 강남까지 30분…GTX-D(Y)·E 인천 출발",
 			"originallink":"http:\/\/www.newsinside.kr\/news\/articleView.html?idxno=1477751",
 			"link":"http:\/\/www.newsinside.kr\/news\/articleView.html?idxno=1477751",
 			"description":"국토교통부는 25일, 인천 검단~계양과 인천공항~<b>청라<\/b>~가정을 지나 서울 강남(삼성)을 잇는 GTX-D Y자 노선과 인천공항~<b>청라<\/b>~대장~남양주를 지나는 GTX-E 노선을 확정해 발표했다. 유정복 인천시장은 이날 GTX 확충을 포함한... ",
+			"pubDate":"Thu, 25 Jan 2024 13:48:00 +0900"
+		},
+		{
+			"title":"인천 계양 등 동부권 집값 올라가나…GTX D·E 인천서 출발·강남까지 단 30분...",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240125510303?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003898381?sid=101",
+			"description":"국토교통부가 발표한 GTX-D 'Y자' 노선은 인천 검단∼계양과 인천공항∼<b>청라<\/b>∼가정을 지나 서울 강남(삼성)을 잇는 구간에 건설된다. 또 GTX-E는 인천공항∼<b>청라<\/b>∼대장∼남양주를 연결한다. 인천시는 GTX-D가 개통되면... ",
 			"pubDate":"Thu, 25 Jan 2024 13:48:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005133300?sid=102",
 			"description":"광역화 추진을 원하다면 광역화를, 자체적인 설치를 원하면 자체적으로 건립할 수 있도록 맞춤형 지원을 하겠다”고 말했다. #<b>청라<\/b>국제도시 #환경부 #인천시 #송도국제도시 #수도권매립지 #직매립금지 #자원순환센터(소각장)",
 			"pubDate":"Thu, 25 Jan 2024 13:24:00 +0900"
-		},
-		{
-			"title":"인천서 강남까지 30분…GTX-D·E 인천 출발",
-			"originallink":"https:\/\/www.etnews.com\/20240125000176",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003176193?sid=102",
-			"description":"국토교통부는 25일 인천 검단~계양과 인천공항~<b>청라<\/b>~가정을 지나 서울 강남(삼성)을 잇는 GTX-D Y자 노선과 인천공항~<b>청라<\/b>~대장~남양주를 지나는 GTX-E 노선을 확정해 발표했다. 유정복 인천시장은 이날 GTX 확충을 포함한... ",
-			"pubDate":"Thu, 25 Jan 2024 13:18:00 +0900"
-		},
-		{
-			"title":"'수도권 출퇴근 30분' GTX A·B·C·D·E·F 노선도 알아보기",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2907962",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2907962",
-			"description":"25일 국토교통부는 인천 검단~계양과 인천공항~<b>청라<\/b>~가정을 지나 서울 강남(삼성)을 잇는 GTX-D Y자 노선과 인천공항~<b>청라<\/b>~대장~남양주를 지나는 GTX-E 노선을 발표했다. 우선 GTX-A노선은 79분 걸리던 수서-동탄 구간... ",
-			"pubDate":"Thu, 25 Jan 2024 13:18:00 +0900"
 		}
 	]
 }
