@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Thu, 25 Jan 2024 11:30:02 +0900",
-	"total":219782,
+	"lastBuildDate":"Thu, 25 Jan 2024 11:40:02 +0900",
+	"total":219788,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"수도권광역급행철도 GTX-D·E, 인천 기점으로 서울 통과",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240125029236529",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240125029236529",
+			"description":"국토교통부는 25일 각각 인천 검단~계양, 인천공항~<b>청라<\/b>~가정을 지나 서울 강남을 잇는 GTX-D Y자 노선과 인천공항~<b>청라<\/b>~대장~남양주를 지나는 GTX-E 노선을 발표했다.GTX-D 노선이 개통되면 검단·<b>청라<\/b>~삼성까지 약... ",
+			"pubDate":"Thu, 25 Jan 2024 11:38:00 +0900"
+		},
+		{
+			"title":"인천 서북부권 날개 달았다...정부, GTX-D Y자 노선 발표",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363632637",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363632637",
+			"description":"25일 정부는 인천 검단~계양과 인천공항~<b>청라<\/b>~가정을 지나 서울 강남(삼성)을 잇는 GTX-D Y자 노선과 인천공항~<b>청라<\/b>~대장~남양주를 지나는 GTX-E 노선을 확정해 발표했다. 이는 정부가 이날 발표한 '교통 분야 3대 혁신... ",
+			"pubDate":"Thu, 25 Jan 2024 11:38:00 +0900"
+		},
+		{
+			"title":"수도권광역급행철도-D(Y)·E 모두 인천 출발… 인천→강남까지 30분",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20240125000477",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002257514?sid=102",
+			"description":"국토교통부는 25일 인천 검단~계양과 인천공항~<b>청라<\/b>~가정을 지나 서울 강남(삼성)을 잇는 GTX-D Y자 노선과 인천공항~<b>청라<\/b>~대장~남양주를 지나는 GTX-E 노선을 확정해 발표했다. 유정복 인천시장은 이날 GTX 확충을 포함한... ",
+			"pubDate":"Thu, 25 Jan 2024 11:32:00 +0900"
+		},
+		{
+			"title":"GTX-D·E 노선 ‘인천 출발’…인천 서북부∼강남 30분",
+			"originallink":"https:\/\/news.kmib.co.kr\/article\/view.asp?arcid=0019100179&code=61121111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001669542?sid=102",
+			"description":"국토교통부 25일 인천 검단∼계양과 인천국제공항∼<b>청라<\/b>∼가정을 지나 서울 강남을 잇는 GTX-D Y자 노선과 인천공항∼<b>청라<\/b>∼대장∼남양주를 지나는 GTX-E 노선을 확정해 발표했다. 유정복 인천시장은 이날 GTX 확충을... ",
+			"pubDate":"Thu, 25 Jan 2024 11:32:00 +0900"
+		},
+		{
+			"title":"‘인천에서 강남까지 30분’ GTX D Y자노선·E 확정…인천 '환영'",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240125580053",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000031940?sid=100",
+			"description":"국토부는 인천 검단~계양과 인천공항~<b>청라<\/b>~가정을 지나 서울 강남의 삼성역을 잇는 GTX-D Y자노선과 인천공항~<b>청라<\/b>~대장~남양주를 지나는 GTX-E 노선을 잠정 확정했다. 유정복 인천시장은 이날 GTX 확충을 포함한 국토부... ",
+			"pubDate":"Thu, 25 Jan 2024 11:32:00 +0900"
+		},
+		{
+			"title":"인천공항서 출발 GTX-D·E 노선 확정…인천시 “환영”",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02164806638761328",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005661290?sid=102",
+			"description":"국토교통부는 25일 인천공항에서 출발해 <b>청라<\/b>·가정을 거치는 것과 김포에서 출발해 검단·계양을 지나는 것을 각각 서울 강남과 잇는 GTX-D Y자 노선과 인천공항~<b>청라<\/b>~대장~남양주 구간의 GTX-E 노선을 확정해 발표했다.... ",
+			"pubDate":"Thu, 25 Jan 2024 11:31:00 +0900"
+		},
 		{
 			"title":"국토부, GTX-D Y자 등 2기 GTX 임기 내 예타 통과 추진",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=240013",
@@ -110,17 +152,17 @@
 			"pubDate":"Thu, 25 Jan 2024 06:28:00 +0900"
 		},
 		{
-			"title":"&quot;한파 속 인천 불로동은 끓는다&quot; 5호선 연장노선에 '격노' [르포]",
-			"originallink":"http:\/\/www.inews24.com\/view\/1680046",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000807433?sid=101",
-			"description":"영종·<b>청라<\/b>·루원·계양·검단 등 지역 주민단체가 모여 만든 인천시민연합도 22일 입장문에서 &quot;원당사거리역과 검단 불로역은 김포골드라인 같은 경전철조차 다니지 않는 교통의 불모지&quot;라며 &quot;구도심과 신도시가 상생할... ",
-			"pubDate":"Thu, 25 Jan 2024 05:01:00 +0900"
-		},
-		{
 			"title":"미분양에 사업취소, 한쪽은 연타석 흥행…'인천'에 무슨 일이",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01187366638761328",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005660982?sid=101",
 			"description":"해당 아파트는 민간 사전청약 아파트로 <b>청라<\/b>국제도시 우측에 위치했다. 이 아파트는 분양가 상한제를 적용받아 통상 시세보다 20% 이상 저렴한 가격으로 공급해 큰 인기를 끌었음에도 사업을 취소한 첫 사례로... ",
+			"pubDate":"Thu, 25 Jan 2024 05:01:00 +0900"
+		},
+		{
+			"title":"&quot;한파 속 인천 불로동은 끓는다&quot; 5호선 연장노선에 '격노' [르포]",
+			"originallink":"http:\/\/www.inews24.com\/view\/1680046",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000807433?sid=101",
+			"description":"영종·<b>청라<\/b>·루원·계양·검단 등 지역 주민단체가 모여 만든 인천시민연합도 22일 입장문에서 &quot;원당사거리역과 검단 불로역은 김포골드라인 같은 경전철조차 다니지 않는 교통의 불모지&quot;라며 &quot;구도심과 신도시가 상생할... ",
 			"pubDate":"Thu, 25 Jan 2024 05:01:00 +0900"
 		},
 		{
@@ -171,48 +213,6 @@
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363632547",
 			"description":"원, <b>청라<\/b>TG 진출연결로 확장공사 195억원 ,용역부분 구월2 공공주택지구 조사설계 용역 121억 원 등 이다. iH는 인천 지역경제 활성화 및 지역업체 참여율을 높이기 위해 발주금액의 98%를 상반기에 조기 발주한다.... ",
 			"pubDate":"Wed, 24 Jan 2024 18:54:00 +0900"
-		},
-		{
-			"title":"iH, 올해 6조3990억 사업 발주 '역대 최대'",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1231307",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1231307",
-			"description":"345억원, <b>청라<\/b>TG 진출연결로 확장공사 195억원 ▲용역부분 구월2 공공주택지구 조사설계 용역 121억원 등이 있다. 이는 지난해 발표한 발주계획 5조원보다 1조원 더 큰 역대 최대 규모다. iH는 인천지역 경제 활성화와... ",
-			"pubDate":"Wed, 24 Jan 2024 18:32:00 +0900"
-		},
-		{
-			"title":"인천시설공단 &quot;안전한 시설 운영으로 시민 행복 이룰 것&quot;",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1087251",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1087251",
-			"description":"인천시설공단 주요 계획에는 ▲가족공원 소풍 나들이 축제로 장사시설 인식개선 및 주민화합 기여 ▲<b>청라<\/b>호수공원 시민 휴식공간 확대 및 힐링 명소 조성 ▲지하도상가 마케팅 비용 지원 및 쇼핑환경 개선으로 활성화... ",
-			"pubDate":"Wed, 24 Jan 2024 17:54:00 +0900"
-		},
-		{
-			"title":"인천시, 인천시설공단 2024년도 주요업무계획과 현안사항 공유",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1069428",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1069428",
-			"description":"인천시설공단 주요 계획은 ▶가족공원 소풍 나들이 축제로 장사시설 인식개선과 주민화합 기여 ▶<b>청라<\/b>호수공원 시민 휴식공간 확대와 힐링 명소 조성 ▶지하도상가 마케팅 비용 지원과 쇼핑환경 개선으로 활성화 도모... ",
-			"pubDate":"Wed, 24 Jan 2024 17:54:00 +0900"
-		},
-		{
-			"title":"iH, 역대 최대 6조 3천억원 규모 발주",
-			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=466220",
-			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=466220",
-			"description":"345억원, <b>청라<\/b>TG 진출연결로 확장공사 195억원 △용역부분 구월2 공공주택지구 조사설계 용역 121억원 등이 있다. iH는 인천 지역경제 활성화 및 지역업체 참여율을 높이기 위해 발주금액의 98%를 상반기에 조기... ",
-			"pubDate":"Wed, 24 Jan 2024 17:48:00 +0900"
-		},
-		{
-			"title":"인천교통공사·인천경제청·인천TP, 스타트업 지원 MOU",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=415919",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=415919",
-			"description":"이번 협약은 송도, <b>청라<\/b>, 영종국제도시의 경제자유구역을 관할하는 인천경제청 및 국내 1호 스타트업파크인 인천테크노파크와 함께 스마트시티 분야 혁신 스타트업을 발굴·육성하고자 마련됐다. 인천테크노파크와... ",
-			"pubDate":"Wed, 24 Jan 2024 17:42:00 +0900"
-		},
-		{
-			"title":"[웜업터뷰] ‘돌아온 여농 귀요미’ 하나원큐 박소희, 3년 차가 느끼는 분위기...",
-			"originallink":"",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=065&aid=0000257290",
-			"description":"지난 15일 함영주 하나금융그룹 회장은 선수단을 격려하기 위해 하나원큐 <b>청라<\/b> 연습체육관을 찾았고, 코칭스태프 포함 선수단에게 다이슨 에어랩(헤어 스타일링 기기)을 선물했다. 짧은 머리의 김도완 감독은 “어떻게... ",
-			"pubDate":"Wed, 24 Jan 2024 17:38:00 +0900"
 		}
 	]
 }
