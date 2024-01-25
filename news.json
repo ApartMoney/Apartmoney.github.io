@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 25 Jan 2024 19:10:03 +0900",
-	"total":219880,
+	"lastBuildDate":"Thu, 25 Jan 2024 19:20:02 +0900",
+	"total":219881,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"늘봄학교 전면 확대... &quot;도서지역은 인력이 없고 신도시는 공간이 없다&quot; 비판",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363632784",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363632784",
+			"description":"인천교사노동조합은 &quot;인천은 신도시를 중심으로 학생이 늘고 있어 과밀학교가 집중돼 교실, 수업활동을 위한 특별실, 학년별 연구실 등도 부족한 상황&quot;이라며 검단·<b>청라<\/b> 등 신도시 초등학교의 공간부족 문제도 지적했다.... ",
+			"pubDate":"Thu, 25 Jan 2024 19:12:00 +0900"
+		},
 		{
 			"title":"&quot;인천~강남 30분, Y자 GTX 환영&quot;… 철도·도로 지하화는 아쉬워",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363632823",
@@ -33,10 +40,10 @@
 			"pubDate":"Thu, 25 Jan 2024 18:43:00 +0900"
 		},
 		{
-			"title":"인천 기점 GTX-D·E 노선 확정...서울 30분 출퇴근 시대 열린다",
+			"title":"GTX-D·E 노선 발표… 인천~서울 ‘출퇴근 30분’ 시대 맞이하나",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240125027066675",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240125027066675",
-			"description":"국토교통부는 25일 ‘교통 분야 3대 혁신 전략’을 발표하면서 인천 검단~계양, 인천공항~<b>청라<\/b>~가정을 지나 서울 강남을 잇는 GTX D노선과 인천공항~<b>청라<\/b>~대장~연신내~남양주를 지나는 GTX E노선을 발표했다. GTX는... ",
+			"description":"검단·<b>청라<\/b>-강남, 인천공항-상암 30분 소요국토부, D 노선-서부권 급행철도 직결 고려2030년 준공 목표 GTX-B... 국토교통부는 25일 ‘교통 분야 3대 혁신 전략’을 발표하면서 인천 검단~계양, 인천공항~<b>청라<\/b>~가정을... ",
 			"pubDate":"Thu, 25 Jan 2024 18:38:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20240125154218836",
 			"description":"국토교통부는 1월 25일 인천 검단~계양과 인천공항~<b>청라<\/b>~가정을 지나 서울 강남(삼성)을 잇는 GTX-D Y자 노선과 인천공항~<b>청라<\/b>~대장~남양주를 지나는 GTX-E 노선을 확정해 발표했다. GTX-D 노선은 ‘인천공항~<b>청라<\/b>~가정’... ",
 			"pubDate":"Thu, 25 Jan 2024 16:24:00 +0900"
-		},
-		{
-			"title":"GTX-D, E 모두 인천서 출발…인천에서 강남까지 30분 시대 개막",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2D47ZXGI8S",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004291586?sid=102",
-			"description":"GTX-D 노선은 ‘인천공항~<b>청라<\/b>~가정’과 ‘김포~검단~계양노선’이 대장~삼성으로 만나 하남시와 여주시 두 갈래로 운행하는 Y자 노선이다. 또 GTX-E 노선은 GTX-D 노선과 같이 ‘인천공항~<b>청라<\/b>~가정~대장’을 거쳐... ",
-			"pubDate":"Thu, 25 Jan 2024 16:19:00 +0900"
 		}
 	]
 }
