@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 25 Jan 2024 23:40:02 +0900",
-	"total":219892,
+	"lastBuildDate":"Thu, 25 Jan 2024 23:50:02 +0900",
+	"total":219893,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[Travel] 인천 ‘찐’ 토박이와 신포동을 걷다",
+			"originallink":"http:\/\/mbn.mk.co.kr\/pages\/news\/newsView.php?category=mbn00007&news_seq_no=4997986",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/057\/0001795528?sid=103",
+			"description":"1980년대 젊음의 해방구였던 노포 탐방 77년째 가업 잇는 평냉 효시 ‘경인면옥’ 스지탕과 두부전으로 유명한 ‘대전집’ 돼지찌개와 박대구이 ‘신포주점’ 송도와 <b>청라<\/b>가 생겨났지만 여전히 인천의 중심은 중구이고... ",
+			"pubDate":"Thu, 25 Jan 2024 23:43:00 +0900"
+		},
 		{
 			"title":"디카시란 공통분모에 스며든 수상자들, 이야기꽃 피우다",
 			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=447681",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=779603",
 			"description":"GTX-D Y자 노선은 인천공항~<b>청라<\/b>~가정과 김포~검단~계양으로 나뉜 갈래가 대장~서울 삼성 구간에서 만나도록 계획됐다. GTX-E는 인천공항~<b>청라<\/b>~가정~대장~남양주를 지나는 노선이다. 시는 GTX-D가 개통되면 인천 검단... ",
 			"pubDate":"Thu, 25 Jan 2024 17:18:00 +0900"
-		},
-		{
-			"title":"인천시 &quot;소각장 확충 군 · 구 주도로 전환&quot;…일부 지자체 반발",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007513386&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001125745?sid=102",
-			"description":"인천에서는 현재 송도소각장과 <b>청라<\/b>소각장 등 광역소각장 2곳과 민간 소각장 6곳에서 하루 평균 1천100t의 쓰레기를 소각 처리하고 있지만 300t가량은 수도권매립지에서 직접 매립 방식으로 처리하고 있습니다. 그동안... ",
-			"pubDate":"Thu, 25 Jan 2024 17:14:00 +0900"
 		}
 	]
 }
