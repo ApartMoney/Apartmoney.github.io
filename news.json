@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 26 Jan 2024 09:40:03 +0900",
-	"total":219903,
+	"lastBuildDate":"Fri, 26 Jan 2024 09:50:02 +0900",
+	"total":219904,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"30년 아파트의 재개발이 미래세대에 미치는 영향",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=99541",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=99541",
+			"description":"빌딩풍이 요란한 송도신도시와 <b>청라<\/b>신도시가 그럴 텐데, 시멘트 사용량으로 인천이 지구온난화에 미치는 영향은 클 수밖에 없다. 인천은 바닷모래도 상당히 잃었다. 쌓인 순환골재를 방치하는 만큼 그 모래는 수도권... ",
+			"pubDate":"Fri, 26 Jan 2024 09:46:00 +0900"
+		},
 		{
 			"title":"PF리스크 속 민간임대주택, 분양시장 돌파구 될까",
 			"originallink":"http:\/\/kpenews.com\/View.aspx?No=3106584",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001669675?sid=101",
 			"description":"서울 인근으로는 <b>청라<\/b>·검단 신도시를 비롯한 인천 지역부터 멀리는 강원도 원주까지 망 내에 포함됐다. 북으로 의정부 인근, 남으로 수원 인근 지역을 아우르는 순환형 노선도 눈에 띈다. 비수도권에서도... ",
 			"pubDate":"Thu, 25 Jan 2024 18:43:00 +0900"
-		},
-		{
-			"title":"GTX-D·E 노선 발표… 인천~서울 ‘출퇴근 30분’ 시대 맞이하나",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240125027066675",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240125027066675",
-			"description":"검단·<b>청라<\/b>-강남, 인천공항-상암 30분 소요국토부, D 노선-서부권 급행철도 직결 고려2030년 준공 목표 GTX-B... 국토교통부는 25일 ‘교통 분야 3대 혁신 전략’을 발표하면서 인천 검단~계양, 인천공항~<b>청라<\/b>~가정을... ",
-			"pubDate":"Thu, 25 Jan 2024 18:38:00 +0900"
 		}
 	]
 }
