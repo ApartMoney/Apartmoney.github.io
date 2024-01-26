@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 26 Jan 2024 10:10:02 +0900",
-	"total":219905,
+	"lastBuildDate":"Fri, 26 Jan 2024 10:20:03 +0900",
+	"total":219906,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[비바 2080] 한국 '시니어 타운'이 일본에서 배워야 할 것들",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240126010008522",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240126010008522",
+			"description":"우리나라에서는 서울시니어스타워가 전국에 6개의 시설을 운영 중이고, 최근 더시그넘하우스가 강남 수서에 이어서 <b>청라<\/b>에 2호점 오픈을 앞두고 있다. 이 교수는 “우리나라에서도 다양한 시설들이 전국에 많이 생겨서... ",
+			"pubDate":"Fri, 26 Jan 2024 10:16:00 +0900"
+		},
 		{
 			"title":"서구의회 '폐기물처리시설 현안 해결·서구 주권 확보 특별위원회' 3차 회의 ...",
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2083436",
@@ -110,17 +117,17 @@
 			"pubDate":"Thu, 25 Jan 2024 21:08:00 +0900"
 		},
 		{
-			"title":"GTX-D 'Y자 노선' 확정 인천 서부권 서울 접근성 업그레이드",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1069785",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1069785",
-			"description":"GTX-D노선은 '장기∼검단∼계양'과 '인천공항∼<b>청라<\/b>∼가정∼작전'이 대장역∼삼성역에서 만나 하남시와 여주시 두 갈래로 운행하는 Y자 노선이다. E노선은 '인천공항∼<b>청라<\/b>∼가정∼대장'을 거쳐 남양주까지... ",
-			"pubDate":"Thu, 25 Jan 2024 21:00:00 +0900"
-		},
-		{
 			"title":"GTX 서울 접근 편의 수단될라 인천 놀러 오고 싶게 만들어야",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1069789",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1069789",
 			"description":"검단·<b>청라<\/b>에서 삼성역까지 약 30분, 영종에서 삼성역까지 약 40분이면 오갈 수 있어서다. 결국 인천 자원들이 서울로 유입돼 인천이 서울의 위성도시로 전락하는 베드타운화 가능성이 커진다. 수도권 이동이... ",
+			"pubDate":"Thu, 25 Jan 2024 21:00:00 +0900"
+		},
+		{
+			"title":"GTX-D 'Y자 노선' 확정 인천 서부권 서울 접근성 업그레이드",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1069785",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1069785",
+			"description":"GTX-D노선은 '장기∼검단∼계양'과 '인천공항∼<b>청라<\/b>∼가정∼작전'이 대장역∼삼성역에서 만나 하남시와 여주시 두 갈래로 운행하는 Y자 노선이다. E노선은 '인천공항∼<b>청라<\/b>∼가정∼대장'을 거쳐 남양주까지... ",
 			"pubDate":"Thu, 25 Jan 2024 21:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000807790?sid=102",
 			"description":"김정헌 중구청장은 이날 성명을 통해 &quot;이번 노선들은 영종·<b>청라<\/b>·검단·김포 등 수도권 서부 교통 편의 증진을 위해 꼭 필요했다&quot;며 &quot;실제로 수도권 서부는 도시 성장으로 인구가 급격히 늘었고 이로 인해 출퇴근 시... ",
 			"pubDate":"Thu, 25 Jan 2024 18:56:00 +0900"
-		},
-		{
-			"title":"인천 '쓰레기 소각장' 확충 군·구 주도 전환…일부 구 '비상'",
-			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20240125018800641\/?input=1825m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000641486?sid=102",
-			"description":"&quot; 인천에서는 현재 송도와 <b>청라<\/b> 광역소각장 2곳과 민간 소각장 6곳에서 하루 평균 1,100톤의 쓰레기를 소각하고, 300톤가량은 수도권매립지에서 직매립 방식으로 처리하고 있습니다. 연합뉴스TV 한웅희입니다. (hlight@yna.co.kr)... ",
-			"pubDate":"Thu, 25 Jan 2024 18:49:00 +0900"
 		}
 	]
 }
