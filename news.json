@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 29 Jan 2024 14:30:02 +0900",
-	"total":219991,
+	"lastBuildDate":"Mon, 29 Jan 2024 14:40:02 +0900",
+	"total":219992,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시민단체들 &quot;인천고법 설치법, 이번 회기에 국회 본회의 상정해야…안될 ...",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1231909",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1231909",
+			"description":"특히 인천은 송도·<b>청라<\/b>·영종 등 경제자유구역 개발사업이 활발하고, 인구증가로 인한 형사, 행정 사건의 수가 대폭 늘어나 인천지역만을 관할하는 고등법원에서 재판을 받을 필요성도 더욱 늘어나고 있는 상태다.... ",
+			"pubDate":"Mon, 29 Jan 2024 14:38:00 +0900"
+		},
 		{
 			"title":"[신년 인터뷰] 서환식 LH인천본부장 &quot;인천 현안 빠른 안정화에 주력&quot;",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1231901",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240129010003313",
 			"description":"이번 발표로 인천역~부천 소사역~서울 구로역 27㎞를 잇는 경인전철, 경인고속도로 남<b>청라<\/b>IC~서인천IC~서울... 경인고속도로(전체 남<b>청라<\/b>IC~신월IC) 지하화는 2022년 1월 국토부 '제2차 고속도로건설계획'에 반영돼... ",
 			"pubDate":"Sun, 28 Jan 2024 19:50:00 +0900"
-		},
-		{
-			"title":"송도 '학생성공버스' 언제 시동걸리나",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1070019",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1070019",
-			"description":"노선은 송도, <b>청라<\/b>, 영종국제도시를 비롯한 검단신도시와 서창·남촌, 부평까지 6개 권역에서 총 27대 버스를 투입해 운영해왔다. 하지만 버스는 해당 지역 안에서만 운영해 송도의 경우 과밀학급 문제로 멀리 떨어진... ",
-			"pubDate":"Sun, 28 Jan 2024 19:44:00 +0900"
 		}
 	]
 }
