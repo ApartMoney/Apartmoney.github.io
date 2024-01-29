@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 30 Jan 2024 03:00:02 +0900",
-	"total":220017,
+	"lastBuildDate":"Tue, 30 Jan 2024 03:10:03 +0900",
+	"total":220018,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[사설] GTX-D, E 노선 확정... ‘올 웨이즈 인천’이 달려온다",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240129580352",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000032307?sid=110",
+			"description":"인천공항~인천 <b>청라<\/b>, 서울 강북으로 이어지는 GTX-E 노선까지 보태졌다. GTX는 2006년 지방선거 때 김문수... 인천공항~<b>청라<\/b>~가정~부천 대장, 김포~검단~계양~부천 대장의 Y자다. 인천에서 서울까지 이동시간이 크게... ",
+			"pubDate":"Tue, 30 Jan 2024 03:02:00 +0900"
+		},
 		{
 			"title":"외국인들도 궁금해하는 K-콘텐츠 속 여행지 3곳 추천",
 			"originallink":"https:\/\/www.traveltimes.co.kr\/news\/articleView.html?idxno=407555",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202401291319135630653",
 			"description":"특히 중소기업이 겪는 애로사항을 적극적으로 발굴하고 이를 상시 지원하기 위해 송도국제도시 미추홀타워에 ‘경영지원센터’를 연내 조성하고, <b>청라<\/b> 로봇랜드 부지 내 조성된 로봇산업진흥시설에 로봇기업을 유치해... ",
 			"pubDate":"Mon, 29 Jan 2024 13:42:00 +0900"
-		},
-		{
-			"title":"GTX-D 더블Y노선 수혜 지역 ‘검단신도시 넥스티엘 복합문화상업시설’",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202401298238O",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004942295?sid=101",
-			"description":"GTX-D Y자 노선은 인천공항~<b>청라<\/b>~가정과 김포~검단~계양으로 나뉜 갈래가 대장~서울 삼성 구간에서 만나도록 계획됐다. GTX-D가 개통되면 인천 검단·<b>청라<\/b>에서 서울 삼성까지 30분, 인천 영종에서 서울 삼성까지 40분이면... ",
-			"pubDate":"Mon, 29 Jan 2024 13:37:00 +0900"
 		}
 	]
 }
