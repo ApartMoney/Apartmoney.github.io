@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 29 Jan 2024 14:20:03 +0900",
-	"total":219990,
+	"lastBuildDate":"Mon, 29 Jan 2024 14:30:02 +0900",
+	"total":219991,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[신년 인터뷰] 서환식 LH인천본부장 &quot;인천 현안 빠른 안정화에 주력&quot;",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1231901",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1231901",
+			"description":"수년간 표류하던 <b>청라<\/b>시티타워는 올해 안 착공을 목표로 하고 있고, 남동도시첨단산업단지도 1분기 안으로 산업시설용지 등을 최초 공급한다. 더불어 옹진군 섬 주민 의료지원을 위한 주택 지원, 학대 피해 아동·노인... ",
+			"pubDate":"Mon, 29 Jan 2024 14:28:00 +0900"
+		},
 		{
 			"title":"&quot;강남 관통 GTX-D, 제 2의 9호선 될 것&quot; 신규 수혜지는 '이곳'",
 			"originallink":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2024\/01\/29\/2024012901511.html",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1070019",
 			"description":"노선은 송도, <b>청라<\/b>, 영종국제도시를 비롯한 검단신도시와 서창·남촌, 부평까지 6개 권역에서 총 27대 버스를 투입해 운영해왔다. 하지만 버스는 해당 지역 안에서만 운영해 송도의 경우 과밀학급 문제로 멀리 떨어진... ",
 			"pubDate":"Sun, 28 Jan 2024 19:44:00 +0900"
-		},
-		{
-			"title":"충남 보령소방서 2024년 상반기 의용소방대장 합동 이·취임식 개최",
-			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=957418",
-			"link":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=957418",
-			"description":"이날 송학석(<b>청라<\/b>남성), 김종숙(<b>청라<\/b>여성), 김기성(성주전담), 이순향(성주여성), 최완순(남포전담), 서인순(남포여성), 이성경(주산여성), 박종호(주교전담), 이종관(신흑남성), 김숙진(신흑여성), 강동환(삽시도)... ",
-			"pubDate":"Sun, 28 Jan 2024 18:37:00 +0900"
 		}
 	]
 }
