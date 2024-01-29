@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 29 Jan 2024 15:50:02 +0900",
-	"total":219997,
+	"lastBuildDate":"Mon, 29 Jan 2024 16:00:02 +0900",
+	"total":219998,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"분양가 상승에 소형 아파트 인기 급증… 소형 평형대 갖춘 'e편한세상 제물포...",
+			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=288585",
+			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=288585",
+			"description":"게다가 지난 1월 25일 국토부가 인천 검단~계양과 인천공항~<b>청라<\/b>~가정을 지나 서울 강남(삼성)을 잇는 GTX-D Y자 노선과 인천공항~<b>청라<\/b>~대장~남양주를 지나는 GTX-E 노선을 확정 발표하여 서울과의 접근성은 더욱 향상될... ",
+			"pubDate":"Mon, 29 Jan 2024 15:58:00 +0900"
+		},
 		{
 			"title":"김종득 예비후보, 서구갑 출마선언… &quot;18년 행정 경험, 주민에게 환원&quot;",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1821212",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240129020147105",
 			"description":"국토부에 따르면 GTX-D는 수도권 서부와 동부를 ‘X’자로 연결하는 노선으로 추진된다.서부권의 한 축은 김포 장기동에서 출발해 검단~계양~대장, 또 한 축은 인천국제공항에서 출발해 영종~<b>청라<\/b>~가정~작전~대장으로... ",
 			"pubDate":"Mon, 29 Jan 2024 00:32:00 +0900"
-		},
-		{
-			"title":"[김인만의 부동산 경제 이야기] GTX타고 춘천가서 닭갈비 먹는 날이 온다",
-			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=749995",
-			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=749995",
-			"description":"신설노선인 GTX-D는 인천공항에서 <b>청라<\/b>를 지나 부천 대장으로, 김포 장기에서 검단을 지나 부천대장에서 만나 합쳐진 후 부천종합운동장, 광명시흥, 가산, 사당, 삼성까지 연결이 되며 삼성에서 다시 갈라져 한... ",
-			"pubDate":"Sun, 28 Jan 2024 23:50:00 +0900"
 		}
 	]
 }
