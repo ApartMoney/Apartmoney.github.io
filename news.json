@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Feb 2024 07:10:02 +0900",
-	"total":220136,
+	"lastBuildDate":"Thu, 01 Feb 2024 07:20:02 +0900",
+	"total":220137,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"농협유통, 갑진년 설 명절 제수용품 물가 확 낮췄습니다!",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240201502666?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003900490?sid=101",
+			"description":"[농협하나로유통 소속 25개 매장] 고양·성남·수원·울산·광주·삼송·동탄·김해·목포·양주·달성·성서·창원·양산·봉담·신촌·포항·옥동·남악·남양·반림·서대문·군위·사파·<b>청라<\/b>",
+			"pubDate":"Thu, 01 Feb 2024 07:10:00 +0900"
+		},
 		{
 			"title":"[인천판\/게시판]인천 外",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240131\/123327434\/1",
@@ -131,17 +138,17 @@
 			"pubDate":"Wed, 31 Jan 2024 15:03:00 +0900"
 		},
 		{
-			"title":"[세상읽기] 은혜 정원(Garden of Grace)",
-			"originallink":"http:\/\/www.idaegu.com\/newsView\/idg202401310031",
-			"link":"http:\/\/www.idaegu.com\/newsView\/idg202401310031",
-			"description":"2호선의 <b>청라<\/b>언덕역은 처음에 서문시장역으로 명명되었다가, 대구 지하철 3호선이 개통되면서 서문시장과 대구동산병원 사이의 역을 서문시장역으로 이름 붙이게 되면서, 신남역으로 불렸다가 마침내 <b>청라<\/b>언덕역... ",
-			"pubDate":"Wed, 31 Jan 2024 14:40:00 +0900"
-		},
-		{
 			"title":"[재무리뷰] 신세계건설, 스타필드 등 일감 몰아주기 규제받나",
 			"originallink":"http:\/\/www.financialreview.co.kr\/news\/articleView.html?idxno=27250",
 			"link":"http:\/\/www.financialreview.co.kr\/news\/articleView.html?idxno=27250",
 			"description":"스타필드<b>청라<\/b>, 이마트, 신세계백화점, 신세계사이먼 등 복합쇼핑몰, 대형마트, 아웃렛 등 그룹 내 대규모... 2026년 창원부터, <b>청라<\/b>, 동서울, 광주에 차례대로 스타필드를 오픈할 예정이다. 여기에 예상 도급금액 3조원에... ",
+			"pubDate":"Wed, 31 Jan 2024 14:40:00 +0900"
+		},
+		{
+			"title":"[세상읽기] 은혜 정원(Garden of Grace)",
+			"originallink":"http:\/\/www.idaegu.com\/newsView\/idg202401310031",
+			"link":"http:\/\/www.idaegu.com\/newsView\/idg202401310031",
+			"description":"2호선의 <b>청라<\/b>언덕역은 처음에 서문시장역으로 명명되었다가, 대구 지하철 3호선이 개통되면서 서문시장과 대구동산병원 사이의 역을 서문시장역으로 이름 붙이게 되면서, 신남역으로 불렸다가 마침내 <b>청라<\/b>언덕역... ",
 			"pubDate":"Wed, 31 Jan 2024 14:40:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012349061?sid=102",
 			"description":"대구시 중구는 <b>청라<\/b>언덕센터에 '동산동, 약령시 일원 도시재생뉴딜사업'과 연계한 관광시설을 조성한다고... 관광시설은 근대 골목의 중요지점인 <b>청라<\/b>언덕 인근에 관광 안내 거점을 조성해 골목을 찾는 방문객들에게... ",
 			"pubDate":"Wed, 31 Jan 2024 11:29:00 +0900"
-		},
-		{
-			"title":"[31일 인천 서구] 민주평통 서구협의회, 어르신 건강기원 점심 나눔 등",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20240131500101",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20240131500101",
-			"description":"<b>청라<\/b>2동 주민자치회 2기 발대식 및 취임식 개최 인천 서구 <b>청라<\/b>2동 주민자치회는 지난 29일 <b>청라<\/b>2동 행정복지센터에서 강범석 서구청장, 국회의원, 시·구의원, 각 동 주민자치회장을 비롯한 내·외빈 60여명이 참석한... ",
-			"pubDate":"Wed, 31 Jan 2024 11:10:00 +0900"
 		}
 	]
 }
