@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 01 Feb 2024 09:10:03 +0900",
-	"total":220142,
+	"lastBuildDate":"Thu, 01 Feb 2024 09:20:02 +0900",
+	"total":220144,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 인천KTX·GTX-D Y자·제2공항철도 등 철도에 '총력'",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=240385",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=240385",
+			"description":"수도권 서남부와 서울을 잇는 제2경인선은 민간투자사업 방식으로 추진될 예정이며 ▲인천2호선 고양 연장 ▲서울5호선 검단·김포 연장 ▲서울2호선 <b>청라<\/b> 연장 사업을 추진한다. 아울러 시는 제2공항철도가 제5차... ",
+			"pubDate":"Thu, 01 Feb 2024 09:18:00 +0900"
+		},
+		{
+			"title":"인천 전국 반나절 생활권 구축…수도권 30분대 출퇴근 실현",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240201010000008",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240201010000008",
+			"description":"인천국제공항까지 연결되는 GTX-DY자 노선은‘인천국제공항~<b>청라<\/b>~작전’과 ‘장기~검단~계양’노선이 대장에서 만나 강남을 거쳐 삼성에서 분기해 이천과 원주 두 갈래로 운행이 확정됐다. 이에 따라 수도권 서부... ",
+			"pubDate":"Thu, 01 Feb 2024 09:16:00 +0900"
+		},
 		{
 			"title":"'홈플러스 메가푸드마켓' 2주년, 식품 매출 30% 성장",
 			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024020108403037540",
@@ -173,17 +187,17 @@
 			"pubDate":"Wed, 31 Jan 2024 15:03:00 +0900"
 		},
 		{
-			"title":"[세상읽기] 은혜 정원(Garden of Grace)",
-			"originallink":"http:\/\/www.idaegu.com\/newsView\/idg202401310031",
-			"link":"http:\/\/www.idaegu.com\/newsView\/idg202401310031",
-			"description":"2호선의 <b>청라<\/b>언덕역은 처음에 서문시장역으로 명명되었다가, 대구 지하철 3호선이 개통되면서 서문시장과 대구동산병원 사이의 역을 서문시장역으로 이름 붙이게 되면서, 신남역으로 불렸다가 마침내 <b>청라<\/b>언덕역... ",
-			"pubDate":"Wed, 31 Jan 2024 14:40:00 +0900"
-		},
-		{
 			"title":"[재무리뷰] 신세계건설, 스타필드 등 일감 몰아주기 규제받나",
 			"originallink":"http:\/\/www.financialreview.co.kr\/news\/articleView.html?idxno=27250",
 			"link":"http:\/\/www.financialreview.co.kr\/news\/articleView.html?idxno=27250",
 			"description":"스타필드<b>청라<\/b>, 이마트, 신세계백화점, 신세계사이먼 등 복합쇼핑몰, 대형마트, 아웃렛 등 그룹 내 대규모... 2026년 창원부터, <b>청라<\/b>, 동서울, 광주에 차례대로 스타필드를 오픈할 예정이다. 여기에 예상 도급금액 3조원에... ",
+			"pubDate":"Wed, 31 Jan 2024 14:40:00 +0900"
+		},
+		{
+			"title":"[세상읽기] 은혜 정원(Garden of Grace)",
+			"originallink":"http:\/\/www.idaegu.com\/newsView\/idg202401310031",
+			"link":"http:\/\/www.idaegu.com\/newsView\/idg202401310031",
+			"description":"2호선의 <b>청라<\/b>언덕역은 처음에 서문시장역으로 명명되었다가, 대구 지하철 3호선이 개통되면서 서문시장과 대구동산병원 사이의 역을 서문시장역으로 이름 붙이게 되면서, 신남역으로 불렸다가 마침내 <b>청라<\/b>언덕역... ",
 			"pubDate":"Wed, 31 Jan 2024 14:40:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004943266?sid=101",
 			"description":"GTX-D 노선은 인천공항~<b>청라<\/b>~가정과 김포~검단~계양으로 나뉜 갈래가 대장~서울 삼성 구간에서 만나도록 계획됐다. GTX-D가 개통되면 인천 검단·<b>청라<\/b>에서 서울 삼성까지 30분, 인천 영종에서 서울 삼성까지 40분이면... ",
 			"pubDate":"Wed, 31 Jan 2024 14:26:00 +0900"
-		},
-		{
-			"title":"인천공항발 GTX-D자 노선 예타 면제 건의",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1822458",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1822458",
-			"description":"이어서 김 의원은 “서울9호선-공항철도 직결합의 이후 구체적인 후속조치가 없다.” 며 “서울7호선 <b>청라<\/b> 연장선과 연계해 2027년 개통이 가능하도록 사업주체 간 개통 로드맵 마련 필요하다”고 요구했다. 이에 백... ",
-			"pubDate":"Wed, 31 Jan 2024 14:06:00 +0900"
-		},
-		{
-			"title":"유정복 인천시장, 2024년 서구 연두방문 성료",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202401311315511140400",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202401311315511140400",
-			"description":"이어서 <b>청라<\/b>블루노바홀에서 열린 생생톡톡 애인(愛人) 소통 행사에서는 500여 명의 구민이 참석했다. 노을 오케스트라와 더 뮤즈 오페라단의 공연을 시작으로, 유정복 인천시장의 주요 시정 운영 방향을 듣고 구민들의... ",
-			"pubDate":"Wed, 31 Jan 2024 13:22:00 +0900"
 		}
 	]
 }
