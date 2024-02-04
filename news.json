@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 04 Feb 2024 15:10:02 +0900",
-	"total":220281,
+	"lastBuildDate":"Sun, 04 Feb 2024 15:20:03 +0900",
+	"total":220282,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 한국지방자치경쟁력지수 경영자원부문 전국 1위 선정",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1071177",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1071177",
+			"description":"그동안 서구는 <b>청라<\/b>국제도시, 루원시티, 검단신도시 등 대형 프로젝트 추진으로 급격한 인구증가가 있었다. 또 앞으로도 서울지하철 7호선의 연계, 스타필드 돔구장 건립 등 대형 국·시책 사업들로 서구의 성장은... ",
+			"pubDate":"Sun, 04 Feb 2024 15:14:00 +0900"
+		},
 		{
 			"title":"고선희 인천 서구의장 &quot;기본에 충실하고 구민 목소리 담은 의정활동 펼칠 터&quot;",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1012499",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240202010000759",
 			"description":"그동안 구는 <b>청라<\/b>국제도시, 루원시티, 검단신도시 등 대형 프로젝트 추진으로 급격한 인구증가가 있었으며, 앞으로도 서울지하철 7호선의 연계, 스타필드 돔구장 건립 등 대형 국. 시책 사업들로 서구의 성장은... ",
 			"pubDate":"Fri, 02 Feb 2024 16:50:00 +0900"
-		},
-		{
-			"title":"롯데건설, 랜드마크 라이프시티 '검단신도시 롯데캐슬 넥스티엘 Ⅰ·Ⅱ·Ⅲ' ...",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=288901",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=288901",
-			"description":"GTX-D Y자 노선은 김포~검단~계양과 인천공항~<b>청라<\/b>~가정으로 나뉜 갈래가 대장~서울 삼성 구간에서 만나도록 계획됐다. 이에 따라 GTX-D가 개통되면 인천 검단·<b>청라<\/b>에서 서울 삼성까지 30분, 인천 영종에서 서울 삼성까지... ",
-			"pubDate":"Fri, 02 Feb 2024 16:38:00 +0900"
 		}
 	]
 }
