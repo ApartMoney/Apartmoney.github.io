@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 06 Feb 2024 05:00:03 +0900",
-	"total":220328,
+	"lastBuildDate":"Tue, 06 Feb 2024 05:10:02 +0900",
+	"total":220329,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"수도권서 분양가 가장 싸다…저출산에도 인구 300만 넘긴 이곳",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25227153",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003339906?sid=102",
+			"description":"<b>청라<\/b>국제도시와 검단신도시, 루원시티 등 각종 개발 사업이 이뤄진 서구는 2022년 말 60만1180여명이던 인구가 올해 1월 63만9820여명으로 1년 만에 3만8640여명이 늘면서 인천시 최다 인구 자치구가 됐다. 서구... ",
+			"pubDate":"Tue, 06 Feb 2024 05:00:00 +0900"
+		},
 		{
 			"title":"'메가푸드마켓' 성장 견인 조주연 홈플러스 사장…턴 어라운드 이뤄낼까",
 			"originallink":"http:\/\/news.tf.co.kr\/read\/economy\/2073877.htm",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004296010?sid=101",
 			"description":"또한 <b>청라<\/b>~강서 BRT(간선급행버스체계) 정류장이 단지 바로 앞에 위치해 있어 서울 출퇴근이 편리하다. 이처럼 지하철 초역세권 입지에 향후 개통될 교통망이 더해지면서 단지의 합리적인 분양가에도 관심이 쏠리고... ",
 			"pubDate":"Mon, 05 Feb 2024 11:46:00 +0900"
-		},
-		{
-			"title":"꽁꽁 얼어붙은 부동산 시장… GTX 호재에 수혜지역 집값 상승세",
-			"originallink":"https:\/\/www.cwn.kr\/news\/articleView.html?idxno=25665",
-			"link":"https:\/\/www.cwn.kr\/news\/articleView.html?idxno=25665",
-			"description":"검단신도시와 <b>청라<\/b>국제도시가 있는 인천시 서구 역시 가격이 0.02% 올랐고 이미 한 주 앞서 상승으로... 또 GTX-D 노선의 경우 김포 장기에서 검단으로 이어지는 노선과 인천공항에서 <b>청라<\/b>와 가정을 거치는 노선이... ",
-			"pubDate":"Mon, 05 Feb 2024 11:22:00 +0900"
 		}
 	]
 }
