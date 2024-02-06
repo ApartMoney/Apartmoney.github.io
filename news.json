@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 06 Feb 2024 15:30:02 +0900",
-	"total":220355,
+	"lastBuildDate":"Tue, 06 Feb 2024 15:40:03 +0900",
+	"total":220356,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"민주당 김교흥 의원, 발의 법안 54.2% 국회 통과…인천 국회의원 1위",
+			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/2074176.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000265741?sid=102",
+			"description":"또 현장 소풍대란 해결하는 ‘노란버스법’, <b>청라<\/b>·검단 신도시 등 신도시 교통환경 개선 위한 ‘AI버스법’, 1주택 실소유자 재산세 감면 확대하는 ‘지방세법’ 등 굵직한 민생 법안들을 치열하게 고민하고 발의해... ",
+			"pubDate":"Tue, 06 Feb 2024 15:38:00 +0900"
+		},
 		{
 			"title":"김교흥 의원, 법안 통과 실적 54.2%로 인천지역 의원 중 전체 1위",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1233314",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ksmnews.co.kr\/news\/view.php?idx=466999",
 			"description":"또 ‘약령시 관광안내소 앞(약령시한의약박물관)’에는 포토존으로 이동형 홍보차량인 <b>청라<\/b>버스를 배치해 관광객에게 특별한 추억을 제공할 계획이다. 특히, 설 당일(2.10.)에는 <b>청라<\/b>버스가 동성로(구 대구백화점 앞, 14시... ",
 			"pubDate":"Mon, 05 Feb 2024 20:54:00 +0900"
-		},
-		{
-			"title":"송도·<b>청라<\/b> 자원환경센터 설날 휴장",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1071531",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1071531",
-			"description":"광역자원환경센터(송도, <b>청라<\/b>)는 설날 당일(2월 10일)과 일요일(2월 11일)을 제외하고 내내 운영한다. 수도권매립지도 12일에는 생활쓰레기 반입을 허용한다. 다만, 군·구별, 민간 수거업체 여건에 따라 수거 일정이 달라... ",
-			"pubDate":"Mon, 05 Feb 2024 20:52:00 +0900"
 		}
 	]
 }
