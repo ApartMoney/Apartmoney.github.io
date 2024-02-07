@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Feb 2024 19:50:02 +0900",
-	"total":220425,
+	"lastBuildDate":"Wed, 07 Feb 2024 20:00:02 +0900",
+	"total":220426,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시 폐광지역 건강교실 운영",
+			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=786091",
+			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=786091",
+			"description":"보령시 보건소가 오는 3월20일까지 폐광지역 <b>청라<\/b>·성주면 경로당 10개소를 대상으로 주 2회씩 건강교실을 운영한다. \/보령",
+			"pubDate":"Wed, 07 Feb 2024 19:52:00 +0900"
+		},
 		{
 			"title":"인천 서구, 자원순환센터 입지 후보지 평가기준 마련...2026년 준공 목표",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=379970",
@@ -89,6 +96,13 @@
 			"pubDate":"Wed, 07 Feb 2024 17:04:00 +0900"
 		},
 		{
+			"title":"GTX-A·C 종점역 효과 '평택', D노선 환승역 많은 '검단' 최대 수혜",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2024020702251",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004946356?sid=101",
+			"description":"경기 하남, 인천 검단·<b>청라<\/b>·계양 등 신도시와 서울 강남·삼성역을 연결하는 GTX-D도 장기간 필요성이 제기돼 온 만큼 실현 가능성이 높다는 평가다. 하지만 GTX-A도 경기도가 처음 안을 내놓은 지 14년 만에 개통하는... ",
+			"pubDate":"Wed, 07 Feb 2024 16:36:00 +0900"
+		},
+		{
 			"title":"[4‧10 총선 인천은]“니가 왜 거기서 나와”…타지역에 사는 출마자들",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=781324",
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=781324",
@@ -100,13 +114,6 @@
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=379925",
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=379925",
 			"description":"그리고 현재 인천의 미래 방향을 보면 이 경제자유구역 송도, <b>청라<\/b>, 영종으로 해서 그쪽 성장 모델을 가고... 그러니까 서부 쪽, 송도, <b>청라<\/b>, 영종은 나름 발전 모델을 잘 가지고 있어서 이 한 축으로만 가게 되면 인천 내부의... ",
-			"pubDate":"Wed, 07 Feb 2024 16:36:00 +0900"
-		},
-		{
-			"title":"GTX-A·C 종점역 효과 '평택', D노선 환승역 많은 '검단' 최대 수혜",
-			"originallink":"https:\/\/www.hankyung.com\/article\/2024020702251",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004946356?sid=101",
-			"description":"경기 하남, 인천 검단·<b>청라<\/b>·계양 등 신도시와 서울 강남·삼성역을 연결하는 GTX-D도 장기간 필요성이 제기돼 온 만큼 실현 가능성이 높다는 평가다. 하지만 GTX-A도 경기도가 처음 안을 내놓은 지 14년 만에 개통하는... ",
 			"pubDate":"Wed, 07 Feb 2024 16:36:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202402071405240860688",
 			"description":"한편, 서한은 서대구역 서한이다음 더퍼스트, 대봉 서한포레스트 등 재건축재개발사업의 성공 분양과 입주는 물론 고성동 오페라센텀파크 서한이다음, <b>청라<\/b>언덕역 서한포레스트, 반월당역 서한포레스트, 대전... ",
 			"pubDate":"Wed, 07 Feb 2024 14:22:00 +0900"
-		},
-		{
-			"title":"인천서구, 자원순환센터 입지 후보지 평가기준 마련",
-			"originallink":"http:\/\/www.breaknews.com\/1014645",
-			"link":"http:\/\/www.breaknews.com\/1014645",
-			"description":"인천 서구가 7일, 내구연한 초과로 노후화된 <b>청라<\/b> 광역폐기물처리시설을 대체하고 발생지 처리원칙에 따라 생활폐기물 처리 기반을 마련하기 위해 건립을 추진... ",
-			"pubDate":"Wed, 07 Feb 2024 14:20:00 +0900"
 		}
 	]
 }
