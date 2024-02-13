@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 13 Feb 2024 23:30:02 +0900",
-	"total":220607,
+	"lastBuildDate":"Tue, 13 Feb 2024 23:40:02 +0900",
+	"total":220608,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구 도시철도 4호선 기본계획 최종 승인",
+			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0003001907&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002422079?sid=102",
+			"description":"도시철도 4호선이 개통되면 환승역은 기존 3곳(명덕역·<b>청라<\/b>언덕역·반월당역)에서 3곳(수성구민운동장역·범어역·동대구역)이 더해져 6곳으로 늘어나면서 대중교통 이용 활성화에 기여할 것으로 전망된다. 도시철도... ",
+			"pubDate":"Tue, 13 Feb 2024 23:37:00 +0900"
+		},
 		{
 			"title":"대구 도시철 4호선 건설 '본궤도'",
 			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=449775",
@@ -205,13 +212,6 @@
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240213020307179",
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240213020307179",
 			"description":"인천경제청(IFEZ)에 따르면 인천시 중구 중산동(시점)~서구 <b>청라<\/b>동(종점)을 연결하며 총연장 4.68㎞에 폭 30m... 서구(<b>청라<\/b>호수공원~아라뱃길~정서진)을 연결하는 총연장 120km 규모의 자전거 이음길은 현재 실시설계 중으로... ",
-			"pubDate":"Tue, 13 Feb 2024 17:02:00 +0900"
-		},
-		{
-			"title":"대구시, 도시철도 4호선(엑스코선) 기본계획 국토부 승인",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202402131656147660806",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202402131656147660806",
-			"description":"도시철도 4호선이 개통되면 환승역 수가 기존 3개(명덕역·<b>청라<\/b>언덕역·반월당역)에서 6개(추가 환승역, 수성구민운동장역·범어역·동대구역)로 2배 늘어난다. 김대영 대구시 교통국장은 “이번 도시철도 4호선... ",
 			"pubDate":"Tue, 13 Feb 2024 17:02:00 +0900"
 		}
 	]
