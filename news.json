@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 13 Feb 2024 15:00:02 +0900",
-	"total":220555,
+	"lastBuildDate":"Tue, 13 Feb 2024 15:10:02 +0900",
+	"total":220556,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천 주요 뉴스]인천시, 난임부부들 한방 치료 지원",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6094512",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003863005?sid=102",
+			"description":"제3연륙교는 중구 중산동과 서구 <b>청라<\/b>동을 잇는 총연장 4.6킬로미터, 폭 30미터 왕복 6차로 규모로 2021년... 서구는 <b>청라<\/b>국제도시에 유치가 가능하다고 판단한 것으로 알려졌습니다. 앞서 대한체육회는 2009년 조선 왕릉이... ",
+			"pubDate":"Tue, 13 Feb 2024 15:02:00 +0900"
+		},
 		{
 			"title":"보람그룹, 인천광역시에 '5성급 호텔·실버케어' 사업 추진",
 			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=159118",
@@ -26,13 +33,6 @@
 			"pubDate":"Tue, 13 Feb 2024 14:44:00 +0900"
 		},
 		{
-			"title":"인천 영종~<b>청라<\/b> 제3연륙교 '2025년 개통'... 세계 최고 180m 해상 전망대 볼거...",
-			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=660914",
-			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=660914",
-			"description":"인천 <b>청라<\/b>와 영종을 연결하는 제3연륙교 조감도. (사진=인천시) 인천 영종도와 <b>청라<\/b>국제도시를 연결하는 제3연륙교가 내년 말 개통될 전망이다. 현재 공정률은 45% 진행됐다. 13일 인천경제청에 따르면 인천시 중구... ",
-			"pubDate":"Tue, 13 Feb 2024 14:40:00 +0900"
-		},
-		{
 			"title":"보람그룹, 인천 서구에 5성급 호텔·시니어 레지던스 사업 추진",
 			"originallink":"http:\/\/www.1conomynews.co.kr\/news\/articleView.html?idxno=27105",
 			"link":"http:\/\/www.1conomynews.co.kr\/news\/articleView.html?idxno=27105",
@@ -44,6 +44,13 @@
 			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=660910",
 			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=660910",
 			"description":"인천아시아드 주경기장이 위치한 인천 서구는 <b>청라<\/b>국제도시 내 예정 부지를 정하고 본격 유치 경쟁에... 인천지하철 2호선이 이미 운영 중이며 서울7호선 <b>청라<\/b>연장선이 2027년 개통 예정이다. GTX-D노선과 E노선 확정과... ",
+			"pubDate":"Tue, 13 Feb 2024 14:40:00 +0900"
+		},
+		{
+			"title":"인천 영종~<b>청라<\/b> 제3연륙교 '2025년 개통'... 세계 최고 180m 해상 전망대 볼거...",
+			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=660914",
+			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=660914",
+			"description":"인천 <b>청라<\/b>와 영종을 연결하는 제3연륙교 조감도. (사진=인천시) 인천 영종도와 <b>청라<\/b>국제도시를 연결하는 제3연륙교가 내년 말 개통될 전망이다. 현재 공정률은 45% 진행됐다. 13일 인천경제청에 따르면 인천시 중구... ",
 			"pubDate":"Tue, 13 Feb 2024 14:40:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.breaknews.com\/1015332",
 			"description":"인천아시아드 주경기장이 위치한 인천 서구는 <b>청라<\/b>국제도시 내 예정 부지를... 인천지하철 2호선이 이미 운영 중이며, 서울7호선 <b>청라<\/b>연장선이 2027년 개통... ",
 			"pubDate":"Tue, 13 Feb 2024 12:16:00 +0900"
-		},
-		{
-			"title":"[인천 소식] 인천자원순환가게 99개소로 확대 등",
-			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2024021311074683051?utm_source=naver&utm_medium=search",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002319208?sid=102",
-			"description":"13일 인천경제자유구역청에 따르면 인천시 중구 중산동(시점)~서구 <b>청라<\/b>동(종점)을 연결하며 총연장 4.68... (미단시티~제3연륙교)~서구(<b>청라<\/b>호수공원~아라뱃길~정서진)을 연결하는 총연장 120km 규모의 자전거 이음길은... ",
-			"pubDate":"Tue, 13 Feb 2024 12:01:00 +0900"
 		}
 	]
 }
