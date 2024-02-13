@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 13 Feb 2024 20:20:03 +0900",
-	"total":220603,
+	"lastBuildDate":"Tue, 13 Feb 2024 20:30:02 +0900",
+	"total":220604,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구도시철도 4호선 기본계획 국토부 승인",
+			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=4001014",
+			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=4001014",
+			"description":"도시철도 4호선이 개통되면 환승역 수가 기존 3개(명덕역 1-3호선), <b>청라<\/b>언덕역 2-3호선), 반월당역 1-2호선)에서 3개 역(수성구민운동장역, 3-4호선), 범어역 2-4호선), 동대구역 1-4호선)을 추가해 모두 6개로 2배 늘어났다.... ",
+			"pubDate":"Tue, 13 Feb 2024 20:20:00 +0900"
+		},
 		{
 			"title":"내년 공사 개시… 2029년 대구도시철 4호선 시대 열린다",
 			"originallink":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=984490",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1014103",
 			"description":"구는 노후화된 <b>청라<\/b> 광역폐기물처리시설을 대체하고 생활폐기물 처리 기반을 마련하고자 오는 2026년 준공을 목표로 자원 순환센터 건립을 추진 중이다. 구 관계자는 &quot;입지 후보지 타당성 조사 과정과 결과 등을... ",
 			"pubDate":"Tue, 13 Feb 2024 16:52:00 +0900"
-		},
-		{
-			"title":"영종~<b>청라<\/b> 잇는 제3연륙교 공종률 45%… 내년 말 개통",
-			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20240213050576",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002265966?sid=102",
-			"description":"영종~<b>청라<\/b>를 잇는 제3연륙교 건설 공사가 45%의 공정률을 보이고 있다. 이와 함께 ‘300리 자전거 이음길 조성’ 사업도 올해 착공될 예정이다. 인천경제자유구역청은 인천시 중구 중산동(시점)~서구 <b>청라<\/b>동(종점)을... ",
-			"pubDate":"Tue, 13 Feb 2024 16:47:00 +0900"
 		}
 	]
 }
