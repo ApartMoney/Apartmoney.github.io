@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 16 Feb 2024 04:30:02 +0900",
-	"total":220797,
+	"lastBuildDate":"Fri, 16 Feb 2024 04:40:02 +0900",
+	"total":220798,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘적토마 주니어’ 이승민 “매일 한계치 쏟아붓는 정후 형 보고 배워”",
+			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024021515310003731?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000785730?sid=102",
+			"description":"SSG 구단 내부에서는 이승민을 2028년 개장 예정인 <b>청라<\/b>돔 시대의 주축이 될 자원으로 평가한다. 이승민은 “항상 목표를 크게 잡는 편이라 신인왕이 목표”라며 “나이가 어리다고 기회를 받는 게 아니라 능력으로... ",
+			"pubDate":"Fri, 16 Feb 2024 04:31:00 +0900"
+		},
 		{
 			"title":"현대무벡스, <b>청라<\/b>R&amp;D센터 'RE100' 착수…ESG로 해외사업 확장",
 			"originallink":"https:\/\/www.apnews.kr\/news\/articleView.html?idxno=3016193",
@@ -12,17 +19,17 @@
 			"pubDate":"Fri, 16 Feb 2024 04:12:00 +0900"
 		},
 		{
-			"title":"인천 제3연륙교 개통 맞춰 자전거길 만든다",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240215\/123542328\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003548315?sid=102",
-			"description":"인천 <b>청라<\/b>국제도시와 영종국제도시를 잇는 제3연륙교가 내년 말 개통을 앞둔 가운데 관광 활성화를 위한... 신도∼시도∼모도∼미단시티∼제3연륙교∼<b>청라<\/b>호수공원을 거쳐 다시 아라뱃길과 정서진을 연결하는... ",
-			"pubDate":"Fri, 16 Feb 2024 03:04:00 +0900"
-		},
-		{
 			"title":"인천 서구, 국제 스케이트장 유치 도전",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240215\/123542343\/1",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003548313?sid=102",
 			"description":"서구는 새 국제 스케이트장 예정 용지로 <b>청라<\/b>국제도시 내 <b>청라<\/b>동 1-1002번지 일대 약 5만5000㎡ 부지를 선정했다. 서구는 예정 용지가 인천국제공항, 김포공항과 약 15∼17km밖에 떨어져 있지 않고, 도로와 상하수도 등... ",
+			"pubDate":"Fri, 16 Feb 2024 03:04:00 +0900"
+		},
+		{
+			"title":"인천 제3연륙교 개통 맞춰 자전거길 만든다",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240215\/123542328\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003548315?sid=102",
+			"description":"인천 <b>청라<\/b>국제도시와 영종국제도시를 잇는 제3연륙교가 내년 말 개통을 앞둔 가운데 관광 활성화를 위한... 신도∼시도∼모도∼미단시티∼제3연륙교∼<b>청라<\/b>호수공원을 거쳐 다시 아라뱃길과 정서진을 연결하는... ",
 			"pubDate":"Fri, 16 Feb 2024 03:04:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=628339",
 			"description":"현대무벡스(319400)가 <b>청라<\/b>R&amp;D센터에 태양광발전설비를 도입한다고 15일 밝혔다. RE100(사업장 전력량 100%를... 현대무벡스는 지난 8일 임시이사회에서 <b>청라<\/b>R&amp;D센터 내 2563㎡ 규모 태양광발전설비 구축을 결정하고... ",
 			"pubDate":"Thu, 15 Feb 2024 16:20:00 +0900"
-		},
-		{
-			"title":"홈플러스, 18개월 연속 매출 성장세...&quot;리뉴얼 매장 첫해 평균 20% 이상 성장...",
-			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=304554",
-			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=304554",
-			"description":"서울 강서·방학, 인천 간석·<b>청라<\/b>, 대구 성서점은 지역 랜드마크 역할을 톡톡히 하며 2년 연속 매출 신장률 상위 점포에 이름을 올렸다. 물류센터 기반 '새벽배송' 대신 점포 기반 배송을 선택한 홈플러스의 온라인... ",
-			"pubDate":"Thu, 15 Feb 2024 16:06:00 +0900"
 		}
 	]
 }
