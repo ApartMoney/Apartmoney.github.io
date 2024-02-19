@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 19 Feb 2024 14:10:02 +0900",
-	"total":220872,
+	"lastBuildDate":"Mon, 19 Feb 2024 14:20:02 +0900",
+	"total":220873,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"1월 전국 집값 0.14%↓… 전월 대비 하락폭 확대",
+			"originallink":"https:\/\/www.skyedaily.com\/news\/news_view.html?ID=221834",
+			"link":"https:\/\/www.skyedaily.com\/news\/news_view.html?ID=221834",
+			"description":"인천(0.07%)은 서구 <b>청라<\/b>·검단 신도시 및 중구 위주로 상승했다. 서울 한강 이북 14개구의 경우 성동구(0.25%)는 지속적으로 거래량이 증가하면서 금호1가 및 하왕십리동 주요단지 위주로 올랐다. 용산구(0.17%)는... ",
+			"pubDate":"Mon, 19 Feb 2024 14:16:00 +0900"
+		},
 		{
 			"title":"'검단신도시 롯데캐슬 넥스티엘 Ⅰ·Ⅱ·Ⅲ' 20일 청약접수 시작",
 			"originallink":"https:\/\/www.raonnews.com\/news\/article.html?no=34337",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1830285",
 			"description":"구 관계자는 “3월에는 <b>청라<\/b>지역에서 권역별 동장회의를 개최할 계획이며 향후에도 매월 개최하는 동장회의를 통해 각 지역별 현안을 직접 듣고 고민하여 구정에 반영하는 노력을 지속해 나가겠다”고 말했다. [신아일보]... ",
 			"pubDate":"Sun, 18 Feb 2024 15:42:00 +0900"
-		},
-		{
-			"title":"인천 아파트 값 3달째 하락중…관망세 유지 기조에 급매물 거래 탓",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=782246",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=782246",
-			"description":"특히 신도시 위주의 전세 값 상승세를 확인할 수 있었는데 연수구가 송도·청학·연수동 위주로, 서구가 원당·<b>청라<\/b>·왕길동 위주로 각각 0.11% 오르면서 상승세를 이끌었다. 남동구는(0.07%) 논현·만수·간석동 위주로... ",
-			"pubDate":"Sun, 18 Feb 2024 15:28:00 +0900"
 		}
 	]
 }
