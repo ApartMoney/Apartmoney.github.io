@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 19 Feb 2024 21:20:02 +0900",
-	"total":220890,
+	"lastBuildDate":"Mon, 19 Feb 2024 21:30:02 +0900",
+	"total":220891,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"응급실 축소하면 한밤 아픈 아이 어쩌나",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1073586",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1073586",
+			"description":"인천지역은 검단위키즈병원과 연세소아과의원, 영종이엠365의원, <b>청라<\/b>연세어린이병원 4곳을 달빛어린이병원으로 지정해 평일 오후 9~11시 운영하지만 24시간 소아전문 응급의료센터는 길병원과 인하대병원뿐이다. 19일... ",
+			"pubDate":"Mon, 19 Feb 2024 21:20:00 +0900"
+		},
 		{
 			"title":"인천 선거구 획정 지연…유권자·예비후보 혼란",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1431697",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007358933?sid=101",
 			"description":"GTX-D 노선은 김포~검단~계양과 인천공항~<b>청라<\/b>~가정으로 나뉜 갈래가 대장~서울 삼성 구간에서 만나도록 계획됐다. GTX-D가 개통되면 인천 검단·<b>청라<\/b>에서 서울 삼성까지 30분대, 인천 영종에서 서울 삼성까지 40분대... ",
 			"pubDate":"Mon, 19 Feb 2024 10:13:00 +0900"
-		},
-		{
-			"title":"호반건설, <b>청라<\/b>생활권 누리는 ‘호반써밋 파크에디션’ GTX 호재 수혜",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2D5F55R8CQ",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004301406?sid=101",
-			"description":"업계에서는 <b>청라<\/b>국제도시와 검단신도시가 위치한 인천 서부권을 GTX 수혜지로 주목하고 있다. 인천... GTX-D·E를 이용하면 인천공항에서 강남까지도 진입이 가능해 영종, <b>청라<\/b>, 계양 등 인천 서부권의 서울 접근성이... ",
-			"pubDate":"Mon, 19 Feb 2024 10:12:00 +0900"
 		}
 	]
 }
