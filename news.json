@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 22 Feb 2024 03:00:02 +0900",
-	"total":221020,
+	"lastBuildDate":"Thu, 22 Feb 2024 03:10:02 +0900",
+	"total":221022,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천 外",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240221\/123631355\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003549363?sid=102",
+			"description":"3월 14일∼5월 9일 매주 목요일 오후 3∼4시 <b>청라<\/b>호수도서관 회의실1. □랩 강연=‘정상수가 들려주는 랩 음악 이야기’ 참가자 15명. 3월 26일 오후 7∼9시 석남도서관 어울림터. 부천 □문해력 교실=초등학교 3... ",
+			"pubDate":"Thu, 22 Feb 2024 03:05:00 +0900"
+		},
+		{
+			"title":"[사설] ‘먼저 기업 유치해 놓아야’... 앞뒤 바뀐 기회특구 지침",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240221580380",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000034283?sid=110",
+			"description":"각종 세제 혜택 등을 받을 수 있는 송도·<b>청라<\/b>국제도시였다. 이뿐만 아니다. 수도권은 기회발전특구의 규모에 있어서도 차별을 둔다. 이번 지침에 따르면 비수도권은 광역지자체의 경우 최소 495만~660만㎡(150만~200만평)까지... ",
+			"pubDate":"Thu, 22 Feb 2024 03:02:00 +0900"
+		},
 		{
 			"title":"(사건 종합)관용 차량에 불 지른 50대 영장",
 			"originallink":"https:\/\/tjmbc.co.kr\/article\/ddzSptUYgqZ_70",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1832095",
 			"description":"김종득 인천 서구 <b>청라<\/b>·검암경서·연희 지역구 국회의원 예비후보가 지역 주민들의 금융투자 등을 지원하기 위한 ‘<b>청라<\/b> 존리 부자학교 개설’을 공약해 관심을 끌고 있다. 21일 김 예비후보와 존리대표가 서울 강남구... ",
 			"pubDate":"Wed, 21 Feb 2024 14:46:00 +0900"
-		},
-		{
-			"title":"KBS 전국노래자랑, 3월 9일 인천 서구 본선 녹화",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=241653",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=241653",
-			"description":"예선 심사는 3월 7일 오후 1시부터이며 <b>청라<\/b>복합문화센터 <b>청라<\/b>블루노바홀에서 열린다. 전국노래자랑 인천 서구편은 3월 24일 12시 10분에 KBS1 채널에서 방영예정이다. 진성, 김성환, 김혜연, 박군, 김유라가 초대가수로... ",
-			"pubDate":"Wed, 21 Feb 2024 14:44:00 +0900"
-		},
-		{
-			"title":"인천 서구, ‘KBS 전국노래자랑’ 본선 녹화 진행",
-			"originallink":"http:\/\/www.breaknews.com\/1017072",
-			"link":"http:\/\/www.breaknews.com\/1017072",
-			"description":"예선심사는 3월 7일 오후 1시부터 <b>청라<\/b>블루노바홀에서 열린다. 본선 녹화는 3월 9일 인천시 인재개발원에서 진행되며 초대가수로는 진성, 김성환, 김혜연, 박군... ",
-			"pubDate":"Wed, 21 Feb 2024 14:44:00 +0900"
 		}
 	]
 }
