@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 23 Feb 2024 17:50:02 +0900",
-	"total":221146,
+	"lastBuildDate":"Fri, 23 Feb 2024 18:00:02 +0900",
+	"total":221147,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 서울7호선 <b>청라<\/b>연장선 추가역 신설 승인",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240223023263381",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240223023263381",
+			"description":"인천=에너지경제신문 송인호기자 인천시 도시철도건설본부는 23일 현재 시공 중인'서울도시철도 7호선(이하 서울7호선) <b>청라<\/b>국제도시 연장 건설사업'에 추가역(005-1, 스타필드 <b>청라<\/b> 부근)을 신설하는... ",
+			"pubDate":"Fri, 23 Feb 2024 17:50:00 +0900"
+		},
 		{
 			"title":"국토부, 7호선 <b>청라<\/b>연장선 추가역 신설 승인…정거장 7개→8개",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=381348",
@@ -124,13 +131,6 @@
 			"pubDate":"Fri, 23 Feb 2024 15:06:00 +0900"
 		},
 		{
-			"title":"‘스타필드 <b>청라<\/b>’에 서울7호선 <b>청라<\/b>연장 추가역 생긴다",
-			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0019825778&code=61121111&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001676256?sid=102",
-			"description":"인천시 도시철도건설본부는 현재 시공 중인 ‘서울도시철도7호선 <b>청라<\/b>국제도시 연장 건설사업’에 추가역(005-1·스타필드 <b>청라<\/b> 인근)을 신설하는 도시철도기본계획 변경을 국토교통부로부터 승인받았다고 23일... ",
-			"pubDate":"Fri, 23 Feb 2024 15:01:00 +0900"
-		},
-		{
 			"title":"서울도시철도7호선 <b>청라<\/b> 연장구간에 역사 1곳 추가...스타필드 <b>청라<\/b> 부근",
 			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024022314530003038?did=NA",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000787037?sid=102",
@@ -138,17 +138,24 @@
 			"pubDate":"Fri, 23 Feb 2024 15:01:00 +0900"
 		},
 		{
-			"title":"지하철 7호선 인천 <b>청라<\/b>연장 정거장 7개에서 8개로…스타필드 근처에",
-			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024022302109919607002&ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002857133?sid=102",
-			"description":"서울 지하철 7호선의 <b>청라<\/b>국제도시 연장선에 정거장이 추가로 신설된다. 인천시는 현재 건설 중인 서울도시철도 7호선 <b>청라<\/b>국제도시 연장선에 추가 정거장을 신설하는 방안이 국토교통부 승인을 받았다고 23일 밝혔다.... ",
-			"pubDate":"Fri, 23 Feb 2024 14:58:00 +0900"
+			"title":"‘스타필드 <b>청라<\/b>’에 서울7호선 <b>청라<\/b>연장 추가역 생긴다",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0019825778&code=61121111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001676256?sid=102",
+			"description":"인천시 도시철도건설본부는 현재 시공 중인 ‘서울도시철도7호선 <b>청라<\/b>국제도시 연장 건설사업’에 추가역(005-1·스타필드 <b>청라<\/b> 인근)을 신설하는 도시철도기본계획 변경을 국토교통부로부터 승인받았다고 23일... ",
+			"pubDate":"Fri, 23 Feb 2024 15:01:00 +0900"
 		},
 		{
 			"title":"서울7호선 추가역(<b>청라<\/b>스타필드) 신설 기본계획 변경 '승인'",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=241907",
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=241907",
 			"description":"7호선 <b>청라<\/b>연장 추가역 신설을 위해 인천시가 신청한 도시철도기본계획 변경안을 국토교통부가 승인했다. 인천시 도시철도건설본부는 지난 22일 국토교통부가 현재 시공 중인 '서울7호선 <b>청라<\/b>국제도시 연장 건설사업... ",
+			"pubDate":"Fri, 23 Feb 2024 14:58:00 +0900"
+		},
+		{
+			"title":"지하철 7호선 인천 <b>청라<\/b>연장 정거장 7개에서 8개로…스타필드 근처에",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024022302109919607002&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002857133?sid=102",
+			"description":"서울 지하철 7호선의 <b>청라<\/b>국제도시 연장선에 정거장이 추가로 신설된다. 인천시는 현재 건설 중인 서울도시철도 7호선 <b>청라<\/b>국제도시 연장선에 추가 정거장을 신설하는 방안이 국토교통부 승인을 받았다고 23일 밝혔다.... ",
 			"pubDate":"Fri, 23 Feb 2024 14:58:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=532457",
 			"description":"현재 인천 국제<b>청라<\/b>도시에 거주중이다. 이씨는 2016년 문화체육관광부 지원 중단으로 존폐 갈림길에 선 제주여고 축구부를 격려차 방문했을 당시 원 전 장관과 만난 적 있다고 한다. 둘 사이 특별한 친분은 없는 것으로... ",
 			"pubDate":"Fri, 23 Feb 2024 14:24:00 +0900"
-		},
-		{
-			"title":"인천 서구의회 &quot;서구는 국제스케이트장 최적지&quot; 유치 촉구",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=241905",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=241905",
-			"description":"인천투데이=김도윤 기자│인천 서구(구청장 강범석)가 국제스케이트장 <b>청라<\/b> 유치에 나선 가운데 서구의회... (사진 서구의회) 이날 서구의원들은 &quot;서구는 인천국제공항과 가깝고 서울도시철도7호선 <b>청라<\/b>연장선 개통을... ",
-			"pubDate":"Fri, 23 Feb 2024 14:22:00 +0900"
 		}
 	]
 }
