@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 24 Feb 2024 09:40:02 +0900",
-	"total":221161,
+	"lastBuildDate":"Sat, 24 Feb 2024 09:50:02 +0900",
+	"total":221162,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[철도투데이] 국토부, 서울9호선·공항철도 종착역 '신논현역' 검토",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=241919",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=241919",
+			"description":"이 노선은 인천국제공항 제2여객터미널에서 시작해 <b>청라<\/b>국제도시~계양~김포공항역을 거쳐 신논현역까지 이어지는 서울9호선 노선입니다. 당초 종착역으로 설계된 중앙보훈병원역까지 노선은 축소될 전망입니다.... ",
+			"pubDate":"Sat, 24 Feb 2024 09:40:00 +0900"
+		},
 		{
 			"title":"서울7호선 <b>청라<\/b>연장 스타필드 추가역 신설 '국토부 승인' 2029년 개통...&quot;올 ...",
 			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=662465",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/tbs.seoul.kr\/news\/newsView.do?typ_800=3&idx_800=3516748&seq_800=20509489",
 			"description":"인천시는 현재 건설 중인 서울도시철도 7호선 <b>청라<\/b>국제도시 연장선에 추가 정거장을 신설하는 방안이 국토교통부 승인을 받았다고 23일 밝혔습니다. 이번 승인에 따라 7호선 <b>청라<\/b> 연장선의 정거장 수는 기존 7곳에서... ",
 			"pubDate":"Fri, 23 Feb 2024 15:23:00 +0900"
-		},
-		{
-			"title":"닥터에버스의원 <b>청라<\/b>점 강희성 원장, 제3회 카데바 워크숍 참석",
-			"originallink":"https:\/\/www.healthinnews.co.kr\/news\/articleView.html?idxno=44776",
-			"link":"https:\/\/www.healthinnews.co.kr\/news\/articleView.html?idxno=44776",
-			"description":"닥터에버스의원 <b>청라<\/b>점 제공 닥터에버스의원 <b>청라<\/b>점 강희성 원장이 제3회 카데바 워크숍에 참석했다고 밝혔다. 최근 개최된 카데바 워크숍은 해부실습을 의미하며, 실제적인 해부학적 구조를 확인하고 다양한 시술 부위 및... ",
-			"pubDate":"Fri, 23 Feb 2024 15:12:00 +0900"
 		}
 	]
 }
