@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 25 Feb 2024 16:00:02 +0900",
-	"total":221173,
+	"lastBuildDate":"Sun, 25 Feb 2024 16:10:03 +0900",
+	"total":221174,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 서구의회, 국제스케이트장 서구 유치 촉구",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1074562",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1074562",
+			"description":"서구가 계획하고 있는 부지는 <b>청라<\/b>국제도시 내 용지로서 현재 도로, 상하수도, 가스, 통신 등을 이미 갖춰 경제적인 건설이 가능하다. 또한 스타필드 돔구장이 오는 2027년 준공될 예정에 따라 스포츠 메카로서의 완벽한... ",
+			"pubDate":"Sun, 25 Feb 2024 16:04:00 +0900"
+		},
 		{
 			"title":"서울 7호선 <b>청라<\/b>국제도시 정거장 7→8개··· 인천시 &quot;스타필드 일대 추가&quot;",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289607157842",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=381348",
 			"description":"오는 2027년 개통을 앞둔 '서울도시철도 7호선 <b>청라<\/b>국제도시 연장선'의 정거장 수가 7개에서 8개로 늘어납니다. 오늘(23일) 인천시에 따르면, 최근 국토교통부는 서울7호선 <b>청라<\/b>연장선에 추가역을 신설하는... ",
 			"pubDate":"Fri, 23 Feb 2024 17:46:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>·송도 대장주도 힘없이 억대 추락... 인천 집값 16주 연속 하락세",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100027",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100027",
-			"description":"상대적으로 고가 아파트가 많은 <b>청라<\/b>·송도국제도시를 중심으로 수억 원대 하락거래가 잇따르면서 인천 전체 아파트값도 16주 연속 하락세를 지속했다. 23일 국토교통부 실거래가에 따르면 서구 <b>청라<\/b>동... ",
-			"pubDate":"Fri, 23 Feb 2024 17:04:00 +0900"
 		}
 	]
 }
