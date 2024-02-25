@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 26 Feb 2024 08:10:02 +0900",
-	"total":221201,
+	"lastBuildDate":"Mon, 26 Feb 2024 08:20:03 +0900",
+	"total":221203,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 ‘글로벌 한인문화타운·종합병원’ 조성 후보지에 관심 모아져",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20240226050031",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002271630?sid=102",
+			"description":"인천경제자유구역 내 후보지를 압축하고 있다는 점은 감안한다면, 지난해 송도국제도시에는 재외동포청이 출범했고 이 곳에는 연세세브란스 병원, 차병원 등이 들어설 예정이고 <b>청라<\/b>국제도시에는 서울아산병원이... ",
+			"pubDate":"Mon, 26 Feb 2024 08:13:00 +0900"
+		},
+		{
+			"title":"정부, GTX·철도지하화 등 교통분야 3대 전략 '속도전'",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202402260809481186",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005147182?sid=101",
+			"description":"현재 지하화 대상 고속도로는 경부선 기흥~양재 구간, 경인선 <b>청라<\/b>~신월 구간이다. 이에 대한 예타가 진행 중이다. 백원국 국토부 2차관은 &quot;광역급행철도, 신도시 광역교통 및 철도 지하화 등 인프라 사업은 국민의... ",
+			"pubDate":"Mon, 26 Feb 2024 08:11:00 +0900"
+		},
 		{
 			"title":"‘3대 교통 혁신전략’ 후속조치 속도…상반기 단기계획 논의",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1332278\/?sc=Naver",
@@ -26,13 +40,6 @@
 			"pubDate":"Mon, 26 Feb 2024 08:02:00 +0900"
 		},
 		{
-			"title":"'속도감있는 GTX·철도 지하화' 국토부, 교통 분야 3대 혁신 이행점검",
-			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/02\/26\/2024022600005.html",
-			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/02\/26\/2024022600005.html",
-			"description":"지하고속도로는 경부선 기흥~양재 구간, 경인선 <b>청라<\/b>~신월 구간의 경우 예타가 진행 중이다. 예타 통과를 최우선으로 지자체 등과 구축한 협의체 운영을 활성화할 계획이다. 백원국 국토부 제2차관은 &quot;정부가 약속한... ",
-			"pubDate":"Mon, 26 Feb 2024 08:02:00 +0900"
-		},
-		{
 			"title":"[임장기록부]서울 뺨치는 집값, 송도의 미래는",
 			"originallink":"https:\/\/magazine.hankyung.com\/money\/article\/202402192608c",
 			"link":"https:\/\/magazine.hankyung.com\/money\/article\/202402192608c",
@@ -40,10 +47,17 @@
 			"pubDate":"Mon, 26 Feb 2024 08:02:00 +0900"
 		},
 		{
-			"title":"GTX-B 다음달 착공…철도지하화 선도사업 연내 선정",
+			"title":"출퇴근 30분 'GTX 시대' 본격 개막…GTX-B 다음달 착공",
 			"originallink":"https:\/\/www.hankyung.com\/article\/202402258371i",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004952667?sid=101",
 			"description":"지하 고속도로의 경우 경부선 기흥~양재 구간과 경인선 <b>청라<\/b>~신월 구간의 예타가 진행 중이다. 정부는 예타 통과를 최우선으로 하여 지자체 등과 구축한 협의체 운영을 활성화할 계획이다. 백원국 2차관은 “국민들의... ",
+			"pubDate":"Mon, 26 Feb 2024 08:02:00 +0900"
+		},
+		{
+			"title":"'속도감있는 GTX·철도 지하화' 국토부, 교통 분야 3대 혁신 이행점검",
+			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/02\/26\/2024022600005.html",
+			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/02\/26\/2024022600005.html",
+			"description":"지하고속도로는 경부선 기흥~양재 구간, 경인선 <b>청라<\/b>~신월 구간의 경우 예타가 진행 중이다. 예타 통과를 최우선으로 지자체 등과 구축한 협의체 운영을 활성화할 계획이다. 백원국 국토부 제2차관은 &quot;정부가 약속한... ",
 			"pubDate":"Mon, 26 Feb 2024 08:02:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1074562",
 			"description":"서구가 계획하고 있는 부지는 <b>청라<\/b>국제도시 내 용지로서 현재 도로, 상하수도, 가스, 통신 등을 이미 갖춰 경제적인 건설이 가능하다. 또한 스타필드 돔구장이 오는 2027년 준공될 예정에 따라 스포츠 메카로서의 완벽한... ",
 			"pubDate":"Sun, 25 Feb 2024 16:04:00 +0900"
-		},
-		{
-			"title":"서울 7호선 <b>청라<\/b>국제도시 정거장 7→8개··· 인천시 &quot;스타필드 일대 추가&quot;",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289607157842",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289607157842",
-			"description":"국토부, 기본계획 변경 승인 인천시 도시철도건설본부는 현재 시공 중인‘서울도시철도 7호선(이하 서울7호선) <b>청라<\/b>국제도시 연장 건설사업’에 추가역(005-1ㆍ스타필드 <b>청라<\/b> 부근)을 신설하는 도시철도기본계획... ",
-			"pubDate":"Sun, 25 Feb 2024 15:42:00 +0900"
-		},
-		{
-			"title":"7호선 <b>청라<\/b> 연장선 역 1곳 추가...7개서 8개로",
-			"originallink":"https:\/\/www.chosun.com\/national\/regional\/2024\/02\/25\/ATFF7H5HABBR3DWY3LIA4XEJFU\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003818634?sid=102",
-			"description":"7호선 <b>청라<\/b>국제도시 연장선의 역을 1개 추가하는 기본계획 변경안이 국토교통부 승인을 받았다. 25일 인천시에 따르면 국토부는 최근 이 같은 내용을 담은 도시철도기본계획 변경안을 승인했다. 서울 7호선 <b>청라<\/b>... ",
-			"pubDate":"Sun, 25 Feb 2024 14:17:00 +0900"
 		}
 	]
 }
