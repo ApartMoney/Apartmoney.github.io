@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 28 Feb 2024 03:00:02 +0900",
-	"total":221323,
+	"lastBuildDate":"Wed, 28 Feb 2024 03:10:03 +0900",
+	"total":221324,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천 外",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240227\/123725961\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003550381?sid=102",
+			"description":"3월 12일 오후 2시 반∼4시 반 <b>청라<\/b>호수도서관 세미나실2. □원서 읽기=초등학교 4∼6학년생 대상 ‘영어 원서 읽기―영어로 읽는 헴록산의 곰’ 참가자 12명. 3월 14일∼5월 16일 매주 목요일 오후 4시 반∼6시... ",
+			"pubDate":"Wed, 28 Feb 2024 03:03:00 +0900"
+		},
 		{
 			"title":"인천시, 3년 연속 '국비 6조 달성' 목표…&quot;미래 성장 동력 확보 노력&quot;",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=581217",
@@ -33,17 +40,17 @@
 			"pubDate":"Tue, 27 Feb 2024 21:54:00 +0900"
 		},
 		{
-			"title":"심재돈 인천 동·미추홀갑 예비후보 '해변도시 구축' 목청",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1075095",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1075095",
-			"description":"심 예비후보는 &quot;현재 세계적 규모로 성장하는 인천공항을 인천 발전에 직접 연계시키기 위해 여객 중심이 아닌 환승객을 타깃으로 하는 전략 수정과 보완이 필요하며, 송도와 <b>청라<\/b> 등 신도시 위주로 편성된 접근 인프라를... ",
-			"pubDate":"Tue, 27 Feb 2024 21:06:00 +0900"
-		},
-		{
 			"title":"인천3호선 경서역 설치·상권 확보 시급",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1075100",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1075100",
 			"description":"그는 &quot;외지인들이 <b>청라<\/b>와 검암은 잘 알지만 경서동에 대한 인식은 다소 부족하다&quot;며 &quot;약 1만3천 명의 인구가 거주함에도 이러한 현상이 나타나는 건 경서동이 도시개발이나 생활편의 부분에서 소외됐기 때문&quot;이라고... ",
+			"pubDate":"Tue, 27 Feb 2024 21:06:00 +0900"
+		},
+		{
+			"title":"심재돈 인천 동·미추홀갑 예비후보 '해변도시 구축' 목청",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1075095",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1075095",
+			"description":"심 예비후보는 &quot;현재 세계적 규모로 성장하는 인천공항을 인천 발전에 직접 연계시키기 위해 여객 중심이 아닌 환승객을 타깃으로 하는 전략 수정과 보완이 필요하며, 송도와 <b>청라<\/b> 등 신도시 위주로 편성된 접근 인프라를... ",
 			"pubDate":"Tue, 27 Feb 2024 21:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1096928",
 			"description":"원), ▲서울도시철도7호선 <b>청라<\/b>국제도시 연장(1,570억 원), ▲K-바이오 랩허브 구축(258억 원) 등 13개 신규 사업과 50개 주요 계속 사업 추진으로 2025년도에 국비 8,895억 원 이상을 확보한다는 계획이다. 시는 주요사업의... ",
 			"pubDate":"Tue, 27 Feb 2024 17:24:00 +0900"
-		},
-		{
-			"title":"인천시 &quot;3년 연속 국비 6조 달성해 미래 성장 동력 확보&quot;",
-			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/2079024.htm",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000270067?sid=102",
-			"description":"7호선 <b>청라<\/b>국제도시 연장(1570억 원) △K-바이오 랩허브 구축(258억 원) 등 13개 신규 사업과 50개 주요 계속 사업 추진으로 2025년도에 국비 8895억 원 이상을 확보한다는 방침이다. 시는 주요 사업의 국가중기계획 반영과... ",
-			"pubDate":"Tue, 27 Feb 2024 17:18:00 +0900"
 		}
 	]
 }
