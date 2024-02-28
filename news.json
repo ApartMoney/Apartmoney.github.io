@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 28 Feb 2024 19:20:02 +0900",
-	"total":221378,
+	"lastBuildDate":"Wed, 28 Feb 2024 19:30:02 +0900",
+	"total":221379,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[르포] 굴뚝없는 소각장 파리 소각장 '이세안'을 가다",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1236539",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1236539",
+			"description":"&lt;인천일보&gt;와 인터뷰에서 유정복 시장은 &quot;압착을 통해 냄새를 제거하는 등 본질적으로 우리 송도, <b>청라<\/b> 소각장과 비슷하다&quot;라며 &quot;굴뚝에서 나오는 연기를 거의 없게 한 것이 차이점인데, 이로 인해 혐오시설이라는... ",
+			"pubDate":"Wed, 28 Feb 2024 19:24:00 +0900"
+		},
 		{
 			"title":"박세훈 후보 &quot;검암역KTX 재개 추진해 검암동을 교통거점 자족복합도시로 만들...",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363638484",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/382\/0001109383?sid=102",
 			"description":"이밖에 인천 신항 진입도로 지하차도 건설(28억 원), 백령공항 건설(61억 원), 인천발 KTX 건설(180억 원), GTX-B(1,100억 원), 서울도시철도 7호선 <b>청라<\/b>국제도시 연장(1,570억 원), K-바이오 랩허브 구축(258억 원) 등의 사업도... ",
 			"pubDate":"Wed, 28 Feb 2024 10:55:00 +0900"
-		},
-		{
-			"title":"더이앤엠, 글로벌 투자사 OWI로부터 ‘스튜디오 시티’ 프로젝트 1조 3,300억...",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240228022295932",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240228022295932",
-			"description":"스튜디오 시티 프로젝트는 더이앤엠과 OWI가 함께 '<b>청라<\/b> 영상·문화 복합단지 조성사업'을 포함하는... 더이앤엠 관계자는 “<b>청라<\/b> 영상·문화 복합단지 사업자 공모에 지난해 3월 우협 선정된 후 OWI와... ",
-			"pubDate":"Wed, 28 Feb 2024 10:54:00 +0900"
 		}
 	]
 }
