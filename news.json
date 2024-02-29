@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Feb 2024 17:10:02 +0900",
-	"total":221439,
+	"lastBuildDate":"Thu, 29 Feb 2024 17:20:02 +0900",
+	"total":221440,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[총선릴레이인터뷰] 유제홍 &quot;18년간 주민접촉 통해 삶의 질 개선한 것이 경쟁...",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=381854",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=381854",
+			"description":"누가 봐도 인천 송도, 누가 봐도 <b>청라<\/b>하면 세계적인 국제도시다, 이렇게 자부할 정도로 많이 키웠는데 이제 더 이상 개발하거나 투자할 수 있는 부지들이 없어요. 그래서 시장님이, 유정복 시장님이 들어오면서 제물포... ",
+			"pubDate":"Thu, 29 Feb 2024 17:18:00 +0900"
+		},
 		{
 			"title":"인천시, 7월부터 계양·송내·검암·<b>청라<\/b>국제도시역 심야버스 운영",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=381875",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011671933?sid=102",
 			"description":"운행 노선은 송내역∼소래포구역, 계양역∼검단신도시, 검암역∼원창동, <b>청라<\/b>국제도시역∼<b>청라<\/b>BRT차고지 등으로 각 노선별로 2대씩 투입해 총 8대를 운행합니다. 아울러 인천시는 교통카드를 개찰구에 인식하지 않아도... ",
 			"pubDate":"Thu, 29 Feb 2024 13:04:00 +0900"
-		},
-		{
-			"title":"인천시,'틈새 대중교통 서비스 개선 대책'발표",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1836036",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1836036",
-			"description":"서울 출퇴근 수요가 많은 송내역, 계양역, 검암역, <b>청라<\/b>국제도시역 등 4개 지하철역을 거점으로 수송 수요를 고려해 심야노선을 신설할 예정이며, 오는 7월 시범운영에 들어갈 계획이다. 또한 시민 행복 체감지수 향상을... ",
-			"pubDate":"Thu, 29 Feb 2024 12:40:00 +0900"
 		}
 	]
 }
