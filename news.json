@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Feb 2024 12:10:02 +0900",
-	"total":221408,
+	"lastBuildDate":"Thu, 29 Feb 2024 12:20:02 +0900",
+	"total":221409,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"지나가기만 하면 요금 결제... 인천 지하철 전 역사에 태그리스 도입",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100117",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100117",
+			"description":"별밤버스는 인천~서울 간 지하철 마지막 배차 시간을 고려해 출퇴근 수요가 많은 송내역~소래포구역, 계양역~검단로제비앙라포레, 검암역~원창동, <b>청라<\/b>국제도시역~<b>청라<\/b>BRT차고지 등 4개 노선에서 8대를 투입한다. 시는... ",
+			"pubDate":"Thu, 29 Feb 2024 12:18:00 +0900"
+		},
 		{
 			"title":"인천시, 교통사각지대 해소 위한 대책마련 나선다",
 			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20240229500154",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1236563",
 			"description":"28일 <b>청라<\/b>국제도시 발전과 시티타워 정상 추진 등의 공약을 발표했다. \/사진제공=김종인 예비후보 더불어민주당 김종인 서구 을 국회의원 예비후보가 28일 상권 활성화와 문화·관광 등 <b>청라<\/b>국제도시를 변화시키겠다고... ",
 			"pubDate":"Wed, 28 Feb 2024 20:00:00 +0900"
-		},
-		{
-			"title":"국민의힘 심재돈, 인천공항 환승객 1천만명 찾아오는 원도심 활성화 비전 제시",
-			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=663109",
-			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=663109",
-			"description":"심재돈 예비후보는 &quot;여객중심이 아닌 환승객을 타겟으로 하는 전략의 수정과 보완이 필요하고, 상대적으로 송도와 <b>청라<\/b> 등 신도시 위주로 편성된 접근 인프라를 구도심 접근과 연계를 높이는 방향으로 교통인프라 투자가... ",
-			"pubDate":"Wed, 28 Feb 2024 19:44:00 +0900"
 		}
 	]
 }
