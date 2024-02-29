@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Feb 2024 12:40:02 +0900",
-	"total":221409,
+	"lastBuildDate":"Thu, 29 Feb 2024 12:50:02 +0900",
+	"total":221410,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시,'틈새 대중교통 서비스 개선 대책'발표",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1836036",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1836036",
+			"description":"서울 출퇴근 수요가 많은 송내역, 계양역, 검암역, <b>청라<\/b>국제도시역 등 4개 지하철역을 거점으로 수송 수요를 고려해 심야노선을 신설할 예정이며, 오는 7월 시범운영에 들어갈 계획이다. 또한 시민 행복 체감지수 향상을... ",
+			"pubDate":"Thu, 29 Feb 2024 12:40:00 +0900"
+		},
 		{
 			"title":"지나가기만 하면 요금 결제... 인천지하철 전 역사에 '태그리스' 도입",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100117",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1236548",
 			"description":"만약 여야가 합의에 실패해 획정위안으로 처리될 경우, 서구 루원시티 등을 중심으로 한 '서구 갑'과 <b>청라<\/b>국제도시의 '서구 을', 검단신도시로 대표되는 '서구 병'으로 서구 선거구가 정리된다. 인구하한선에 위태롭게 걸린... ",
 			"pubDate":"Wed, 28 Feb 2024 20:02:00 +0900"
-		},
-		{
-			"title":"[4·10 총선현장] 김종인 민주당 서구 을 예비후보, <b>청라<\/b> 관련 공약 발표",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1236563",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1236563",
-			"description":"28일 <b>청라<\/b>국제도시 발전과 시티타워 정상 추진 등의 공약을 발표했다. \/사진제공=김종인 예비후보 더불어민주당 김종인 서구 을 국회의원 예비후보가 28일 상권 활성화와 문화·관광 등 <b>청라<\/b>국제도시를 변화시키겠다고... ",
-			"pubDate":"Wed, 28 Feb 2024 20:00:00 +0900"
 		}
 	]
 }
