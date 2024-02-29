@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Feb 2024 11:30:02 +0900",
-	"total":221403,
+	"lastBuildDate":"Thu, 29 Feb 2024 11:40:02 +0900",
+	"total":221404,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 전국 최초 지하철 전 역사에 태그리스 도입",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363638612",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363638612",
+			"description":"심야노선은 인천~서울간 지하철 마지막 배차 시간(밤 11시 20분~다음날 오전 1시 40분)의 버스 이용 불편을 해소하기 위해 서울 출퇴근 수요가 많은 서울1호선 송내역, 공항철도 계양역과 검암역, <b>청라<\/b>국제도시역 등 4개... ",
+			"pubDate":"Thu, 29 Feb 2024 11:38:00 +0900"
+		},
 		{
 			"title":"인천시, ‘교통을 시민곁애(愛)’ 틈새 없는 교통대책으로 시민체감 UP",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240229025266896",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=962708",
 			"description":"검진일정은 △6일 미산보건지소 △7일, 8일 웅천보건지소 △11일 주산보건지소 △12일 청소보건지소 △13일 성주보건지소 △14일 천북보건지소 △15일, 18일 남포면 주민자치센터 △19일 <b>청라<\/b>보건지소 순으로 오전 8시부터... ",
 			"pubDate":"Wed, 28 Feb 2024 19:12:00 +0900"
-		},
-		{
-			"title":"[총선] 박세훈 예비후보, '움파룸파 챌린지' 등 이색 선거운동 눈길",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=381784",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=381784",
-			"description":"박 예비후보는 주요 공약으로는  '검암역KTX 재개와 증차 신속 추진', '검암플라시아 복합환승센터 등 검암역세권 개발 조속 추진', '<b>청라<\/b>나들목 진입로 확대와 진출로 확보 추진', '경인아라뱃길 생태문화관광벨트 조성... ",
-			"pubDate":"Wed, 28 Feb 2024 18:18:00 +0900"
 		}
 	]
 }
