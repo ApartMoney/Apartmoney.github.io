@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 29 Feb 2024 13:50:02 +0900",
-	"total":221413,
+	"lastBuildDate":"Thu, 29 Feb 2024 14:00:03 +0900",
+	"total":221415,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천도 7월부터 심야시간 ‘별밤버스’ 운영",
+			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1130372.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002678925?sid=102",
+			"description":"인천시는 서울 출퇴근 수요가 많은 송내역, 계양역, 검암역, <b>청라<\/b>국제도시역 등을 중심으로 인근 외곽을... 계양역과 검암역, <b>청라<\/b>국제도시역도 지하철보다 버스 마지막 차 시간이 약 35분에서 1시간 20분 빨랐다. 버스... ",
+			"pubDate":"Thu, 29 Feb 2024 13:55:00 +0900"
+		},
+		{
+			"title":"인천시, 심야버스 4개 노선 7월부터 시범 운행",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=457648",
+			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=457648",
+			"description":"노선은 송내역 남부에서 소래포구역과 계양역에서 검단신도시, 검암역에서 원창동, <b>청라<\/b>국제도시역에서 <b>청라<\/b>BRT차고지입니다. 각 노선에 심야버스를 2대씩 투입하며 오후 11시 20분부터 이튿날 오전 1시 40분까지 운행할... ",
+			"pubDate":"Thu, 29 Feb 2024 13:50:00 +0900"
+		},
 		{
 			"title":"인천시, 서울 출퇴근 심야시간 지하철 연계 '별밤버스' 운영",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3113520",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=348510",
 			"description":"오경순 ▲<b>청라<\/b>중학교 교사 우종원 ▲가사초등학교 교장 유영옥 ▲서령중학교 교장 유재현 ▲천안월봉중학교 교장 윤대구 ▲천안월봉고등학교 교사 윤문희 ▲논산여자중학교 교장 윤원식 ▲충남과학고등학교 교사 윤인수... ",
 			"pubDate":"Wed, 28 Feb 2024 21:02:00 +0900"
-		},
-		{
-			"title":"김종인 인천 서구(을) 국회의원 예비후보, 전진하는 국제도시 <b>청라<\/b> 상권 활성...",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=441669",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=441669",
-			"description":"사진제공=김종인 더불어민주당 인천서구을 국회의원 예비후보 선거시무소 28일 김종인 더불어민주당 인천 서구(을) 국회의원 예비후보는 상권 활성화로 국제도시 <b>청라<\/b>로 나아가는 모습, '문화관광 1번지 <b>청라<\/b>'를... ",
-			"pubDate":"Wed, 28 Feb 2024 20:32:00 +0900"
-		},
-		{
-			"title":"&quot;3·1절, 그날의 함성 함께 외쳐요&quot;",
-			"originallink":"https:\/\/www.kidshankook.kr\/news\/articleView.html?idxno=9678",
-			"link":"https:\/\/www.kidshankook.kr\/news\/articleView.html?idxno=9678",
-			"description":"대구 중구는 <b>청라<\/b>언덕과 3ㆍ1만세운동 길, 이상화 고택 일원에서 만세운동 재현행사를 마련한다. 부산 동래구는 오전 10시 내성초등학교에서 동래 3ㆍ1독립만세운동을 재현한다. 서울 용산구도 내달 3일까지 효창공원... ",
-			"pubDate":"Wed, 28 Feb 2024 20:22:00 +0900"
 		}
 	]
 }
