@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Feb 2024 18:50:02 +0900",
-	"total":221451,
+	"lastBuildDate":"Thu, 29 Feb 2024 19:00:02 +0900",
+	"total":221452,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"선거구획정 최종안은?",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240229026205420",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240229026205420",
+			"description":"- 서구갑선거구 : 가정1동, 가정2동, 가정3동, 신현원창동, 석남1동, 석남2동, 석남3동, 가좌1동, 가좌2동, 가좌3동, 가좌4동- 서구을선거구 : 검암경서동, 연희동, <b>청라<\/b>1동, <b>청라<\/b>2동, <b>청라<\/b>3동- 서구병선거구 : 검단동... ",
+			"pubDate":"Thu, 29 Feb 2024 18:50:00 +0900"
+		},
 		{
 			"title":"인천 '서구 병' 신설 확정…공천 작업 본격화",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=381910",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.slist.kr\/news\/articleView.html?idxno=529618",
 			"description":"인천 <b>청라<\/b>에서 펼쳐진 첫 번째 버스킹 대결에서는 '싱어게인3'의 지독한 라이벌이었던 홍이삭과 소수빈의 라이벌 매치가 다시 한번 성사됐다. 매번 우열을 가리기 힘든 무대를 선보이며 심사위원단을 괴롭게 했던 두... ",
 			"pubDate":"Thu, 29 Feb 2024 14:44:00 +0900"
-		},
-		{
-			"title":"‘싱어게인3’ 홍이삭vs소수빈 또 라이벌 매치, 레전드 버스킹 대결",
-			"originallink":"https:\/\/www.newsen.com\/news_view.php?uid=202402291436480410",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/609\/0000828716?sid=106",
-			"description":"인천 <b>청라<\/b>에서 펼쳐진 첫 번째 버스킹 대결에서는 ‘싱어게인3’의 지독한 라이벌이었던 홍이삭과 소수빈의 라이벌 매치가 다시 한번 성사됐다. 매번 우열을 가리기 힘든 무대를 선보이며 심사위원단을 괴롭게 했던 두... ",
-			"pubDate":"Thu, 29 Feb 2024 14:40:00 +0900"
 		}
 	]
 }
