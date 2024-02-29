@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 01 Mar 2024 00:00:02 +0900",
-	"total":221457,
+	"lastBuildDate":"Fri, 01 Mar 2024 00:10:02 +0900",
+	"total":221458,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전국 집값 14주 연속 하락…전세값은 상승세 지속",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20240229500126",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20240229500126",
+			"description":"인천은 서구(0.02%) <b>청라<\/b>‧가정동, 연수구(0.01%)는 송도‧청학동 위주로 상승했으나 미추홀구(-0.11%) 학익‧주안동, 중구(-0.11%) 중산‧운서동, 계양구(-0.05%) 계산‧작전동 위주로 하락했다. 5대 광역시 중 세종이... ",
+			"pubDate":"Fri, 01 Mar 2024 00:02:00 +0900"
+		},
 		{
 			"title":"[이슈] 4·10 총선 선거구 획정…비례 1석줄고 지역구 1석늘어…소수정당 '강...",
 			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=637219",
@@ -40,7 +47,7 @@
 			"pubDate":"Thu, 29 Feb 2024 19:44:00 +0900"
 		},
 		{
-			"title":"여야, 선거구 획정안 합의… 부천·안산 3개 선거구로 합구",
+			"title":"D-41 선거구획정 마무리…부천·안산 3개 선거구로 합구",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240229026205420",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240229026205420",
 			"description":"- 서구갑선거구 : 가정1동, 가정2동, 가정3동, 신현원창동, 석남1동, 석남2동, 석남3동, 가좌1동, 가좌2동, 가좌3동, 가좌4동- 서구을선거구 : 검암경서동, 연희동, <b>청라<\/b>1동, <b>청라<\/b>2동, <b>청라<\/b>3동- 서구병선거구 : 검단동... ",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=242380",
 			"description":"먼저, 별밤버스는 인천~서울 간 도시철도 막차 시간대 버스 이용불편을 해소하기 위해 오후 11시 20분부터 익일 오전 1시40분까지 송내역, 계양역, 검암역, <b>청라<\/b>국제도시역 4곳을 거점으로 심야노선을 신설하며 7월에... ",
 			"pubDate":"Thu, 29 Feb 2024 15:40:00 +0900"
-		},
-		{
-			"title":"인천시, 7월부터 심야시간 별밤버스 4개 노선 운행",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03073366638795440",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005683441?sid=102",
-			"description":"(자료 = 인천시 제공) 운행 노선은 △소래포구역~송내역 남부 △검단로제비앙라포레~계양역 △원창동~검암역 △<b>청라<\/b> BRT 차고지~<b>청라<\/b>국제도시역 등 4개이다. 노선마다 버스 2대가 심야시간에 1차례씩 운행한다. 운행... ",
-			"pubDate":"Thu, 29 Feb 2024 15:35:00 +0900"
 		}
 	]
 }
