@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 29 Feb 2024 17:00:02 +0900",
-	"total":221437,
+	"lastBuildDate":"Thu, 29 Feb 2024 17:10:02 +0900",
+	"total":221439,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 7월부터 계양·송내·검암·<b>청라<\/b>국제도시역 심야버스 운영",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=381875",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=381875",
+			"description":"심야시간(23:20~01:40)에 송내역과 계양역, 검암역, <b>청라<\/b>국제도시역 등 4개 지하철역을 거점으로 심야노선을 신설할 예정으로 오는 7월부터 시범운영에 들어갑니다. 시는 이번 시범운영 결과를 토대로 사업의 지속 여부를... ",
+			"pubDate":"Thu, 29 Feb 2024 17:06:00 +0900"
+		},
+		{
+			"title":"올해부터 인천 ‘심야버스’ 달린다…송내·계양·검암·<b>청라<\/b> 시범운영",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=783755",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=783755",
+			"description":"인천-서울 출퇴근 수요가 많은 ▲송내역 ▲계양역 ▲검암역 ▲<b>청라<\/b>국제도시역 등을 주요 거점으로 삼았다. 지하철역에서 외곽지역으로 연결한다는 구상이다. 심야버스 세부 노선은 수송 수요를 고려해 추후 결정할... ",
+			"pubDate":"Thu, 29 Feb 2024 17:02:00 +0900"
+		},
 		{
 			"title":"[기획] 인천시, '틈새 대중교통 서비스 개선 대책' 발표",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2933392",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1836036",
 			"description":"서울 출퇴근 수요가 많은 송내역, 계양역, 검암역, <b>청라<\/b>국제도시역 등 4개 지하철역을 거점으로 수송 수요를 고려해 심야노선을 신설할 예정이며, 오는 7월 시범운영에 들어갈 계획이다. 또한 시민 행복 체감지수 향상을... ",
 			"pubDate":"Thu, 29 Feb 2024 12:40:00 +0900"
-		},
-		{
-			"title":"지나가기만 하면 요금 결제... 인천지하철 전 역사에 '태그리스' 도입",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100117",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100117",
-			"description":"별밤버스는 인천~서울 간 지하철 마지막 배차 시간을 고려해 출퇴근 수요가 많은 송내역~소래포구역, 계양역~검단로제비앙라포레, 검암역~원창동, <b>청라<\/b>국제도시역~<b>청라<\/b>BRT차고지 등 4개 노선에서 8대를 투입한다. 시는... ",
-			"pubDate":"Thu, 29 Feb 2024 12:18:00 +0900"
-		},
-		{
-			"title":"인천시, 교통사각지대 해소 위한 대책마련 나선다",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20240229500154",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20240229500154",
-			"description":"서울 출퇴근 수요가 많은 송내역, 계양역, 검암역, <b>청라<\/b>국제도시역 등 4개 지하철역을 거점으로 수송 수요를 고려해 심야노선을 신설할 예정이며, 오는 7월 시범운영에 들어갈 계획이다. 지하철 이용객이 심야시간 대... ",
-			"pubDate":"Thu, 29 Feb 2024 12:08:00 +0900"
 		}
 	]
 }
