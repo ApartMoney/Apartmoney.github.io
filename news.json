@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Feb 2024 13:00:02 +0900",
-	"total":221410,
+	"lastBuildDate":"Thu, 29 Feb 2024 13:10:02 +0900",
+	"total":221411,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천, 지하철 막차 연계 ‘심야버스’ 운행…지하철 ‘태그리스’ 역사 전체 ...",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=7902309&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011671933?sid=102",
+			"description":"운행 노선은 송내역∼소래포구역, 계양역∼검단신도시, 검암역∼원창동, <b>청라<\/b>국제도시역∼<b>청라<\/b>BRT차고지 등으로 각 노선별로 2대씩 투입해 총 8대를 운행합니다. 아울러 인천시는 교통카드를 개찰구에 인식하지 않아도... ",
+			"pubDate":"Thu, 29 Feb 2024 13:04:00 +0900"
+		},
 		{
 			"title":"인천시,'틈새 대중교통 서비스 개선 대책'발표",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1836036",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2932561",
 			"description":"오경순 ▲<b>청라<\/b>중학교 교사 우종원 ▲가사초등학교 교장 유영옥 ▲서령중학교 교장 유재현 ▲천안월봉중학교 교장 윤대구 ▲천안월봉고등학교 교사 윤문희 ▲논산여자중학교 교장 윤원식 ▲충남과학고등학교 교사 윤인수... ",
 			"pubDate":"Wed, 28 Feb 2024 20:04:00 +0900"
-		},
-		{
-			"title":"[4·10 총선] 서구는 눈치 작전, 부평은 폭발 직전",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1236548",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1236548",
-			"description":"만약 여야가 합의에 실패해 획정위안으로 처리될 경우, 서구 루원시티 등을 중심으로 한 '서구 갑'과 <b>청라<\/b>국제도시의 '서구 을', 검단신도시로 대표되는 '서구 병'으로 서구 선거구가 정리된다. 인구하한선에 위태롭게 걸린... ",
-			"pubDate":"Wed, 28 Feb 2024 20:02:00 +0900"
 		}
 	]
 }
