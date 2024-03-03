@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 04 Mar 2024 03:00:02 +0900",
-	"total":221533,
+	"lastBuildDate":"Mon, 04 Mar 2024 03:10:02 +0900",
+	"total":221534,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 지하철 연계 심야버스 7월부터 4개 노선 시범운행",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240304\/123792559\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003551106?sid=102",
+			"description":"심야버스는 인천시민이 서울로 출퇴근하는 수요가 많은 송내역(남부)∼소래포구역, 계양역∼검단신도시, 검암역∼원창동, <b>청라<\/b>국제도시역∼<b>청라<\/b> BRT 차고지 등 4개 노선에서 시범 운행한다. 시는 이들 노선에 심야버스를... ",
+			"pubDate":"Mon, 04 Mar 2024 03:02:00 +0900"
+		},
 		{
 			"title":"화성시 철강 공장에서 큰불...전국 곳곳 차량 화재",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202403032155092422",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000647699?sid=102",
 			"description":"재작년 말 기준 송도와 <b>청라<\/b> 등 인천경제자유구역 내 사업체 수는 3,821개. 전년 대비 9.8% 증가한 수치인데, 종사자 수 역시 11만 557명으로 14%가량 늘었습니다. 회사 창립 25년 만에 서울에서 송도로 본사를 이전한 한... ",
 			"pubDate":"Sat, 02 Mar 2024 12:59:00 +0900"
-		},
-		{
-			"title":"민주당 인천 서구갑·을·병 대진표 마무리…계양을 이재명 공천",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240302580018",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000035055?sid=165",
-			"description":"김 의원은 당초 선거구 재획정에 따라 <b>청라<\/b>국제도시가 있는 서구을 선거구의 출마를 희망했으나 당 내부적인 결정에 따라 서구갑 지역을 그대로 유지하게 됐다. 또 인천 남동구을은 이병래·배태준 후보 간의 경선에서... ",
-			"pubDate":"Sat, 02 Mar 2024 12:03:00 +0900"
 		}
 	]
 }
