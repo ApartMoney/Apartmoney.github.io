@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 03 Mar 2024 22:10:03 +0900",
-	"total":221532,
+	"lastBuildDate":"Sun, 03 Mar 2024 22:20:02 +0900",
+	"total":221533,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"화성시 철강 공장에서 큰불...전국 곳곳 차량 화재",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202403032155092422",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002005239?sid=102",
+			"description":"[소방 관계자 : 일단은 (공장) 미가동으로 확인은 되는데 상세한 건 관계인 확보돼서 인터뷰가 좀 돼봐야 알 거 같아요.] 오전 10시 반쯤에는 인천 <b>청라<\/b>동 도로에 주차돼 있던 차에서 불이 났습니다. 다친 사람은 없었지만... ",
+			"pubDate":"Sun, 03 Mar 2024 21:55:00 +0900"
+		},
 		{
 			"title":"도시 소음보다 조용한 ‘하늘 나는 차’ 하반기 수도권서 난다",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240303509067?OutUrl=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000035055?sid=165",
 			"description":"김 의원은 당초 선거구 재획정에 따라 <b>청라<\/b>국제도시가 있는 서구을 선거구의 출마를 희망했으나 당 내부적인 결정에 따라 서구갑 지역을 그대로 유지하게 됐다. 또 인천 남동구을은 이병래·배태준 후보 간의 경선에서... ",
 			"pubDate":"Sat, 02 Mar 2024 12:03:00 +0900"
-		},
-		{
-			"title":"[인천 서구] 민주당 갑 김교흥, 을 이용우, 병 3인 경선 확정",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=242461",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=242461",
-			"description":"<b>청라<\/b>1·2·3동, 검암경서동, 연희동이 속한 서구을은 이용우(49) 직장갑질119 법률스태프 변호사를 단수공천했다. 이 변호사는 23호 영입인재로 인하대 로스쿨 출신이다. 검단동, 원당동, 당하동, 마전동, 불로대곡동... ",
-			"pubDate":"Sat, 02 Mar 2024 09:38:00 +0900"
 		}
 	]
 }
