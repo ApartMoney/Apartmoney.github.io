@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 04 Mar 2024 10:20:02 +0900",
-	"total":221542,
+	"lastBuildDate":"Mon, 04 Mar 2024 10:30:02 +0900",
+	"total":221543,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"쾌적한 주거환경 자랑하는 인천 '영종 진아 레히' 3월 분양",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240304000202",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20240304000202",
+			"description":"먼저 제3연륙교가 내년 개통을 앞둔 가운데, 개통이 완료되면 <b>청라<\/b>국제도시까지 15분이면 이동이 가능하다. 또 인천대교를 이용하여 송도국제도시 접근이 수월하며 인천공항, 제2경인고속도로, 제2공항철도(개발예정)... ",
+			"pubDate":"Mon, 04 Mar 2024 10:20:00 +0900"
+		},
 		{
 			"title":"김교흥, 인천 서갑 출마선언 “GTX예타면제로 강남-강북 연결하겠다”",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02007366638820040",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002805220?sid=103",
 			"description":"국토부는 오는 8월부터 준도심인 아라뱃길에서 <b>청라<\/b>부터 계양까지 최초 비행에 나선단 계획이다. 이후 내년 4월부터는 한강과 탄천에서 본격 도심 진출을 위한 실증에 나선다. 한국형 첫 UAM ‘오파브’로 경쟁력... ",
 			"pubDate":"Sun, 03 Mar 2024 11:02:00 +0900"
-		},
-		{
-			"title":"UAM·eVTOL·버티포트…일상이 될 '미래항공 대중교통' 용어는",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240301001200003?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014538858?sid=102",
-			"description":"올해 8월에는 인천 아라뱃길(<b>청라<\/b>∼계양) 상공에서, 내년에는 서울 한강과 탄천에서도 실증을 거쳐 내년 말 'UAM 상용화'와 2026년 '전국 UAM 서비스 확대'를 달성한다는 계획이다.",
-			"pubDate":"Sun, 03 Mar 2024 11:00:00 +0900"
 		}
 	]
 }
