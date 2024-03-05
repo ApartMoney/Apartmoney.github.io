@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 05 Mar 2024 20:30:02 +0900",
-	"total":221743,
+	"lastBuildDate":"Tue, 05 Mar 2024 20:40:02 +0900",
+	"total":221744,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천형 늘봄모델학교 문 열었지만… 학교별 편차",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363639365",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363639365",
+			"description":"지난 4일 오후 3시께 찾은 인천 서구 <b>청라<\/b>초등학교. <b>청라<\/b>초는 이날 1학년 맞춤형 프로그램만 진행했을 뿐 인천형 늘봄 모델학교에 따른 돌봄과 방과 후 학교 프로그램은 운영하지 않았다. <b>청라<\/b>초 관계자는 늘봄학교... ",
+			"pubDate":"Tue, 05 Mar 2024 20:30:00 +0900"
+		},
 		{
 			"title":"박형덕 서부발전 사장, 출자회사에 안전·재무건전성 강조",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3115026",
@@ -75,17 +82,17 @@
 			"pubDate":"Tue, 05 Mar 2024 18:26:00 +0900"
 		},
 		{
-			"title":"하나금융그룹, 의류 기부 캠페인 『해봄옷장』실시",
-			"originallink":"http:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=315410",
-			"link":"http:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=315410",
-			"description":"이번 『해봄옷장』은 을지로, 명동, <b>청라<\/b>, 여의도, 강남 사옥 등 하나금융그룹의 모든 사옥에 설치된 의류 기부함을 통해 임직원 및 손님 누구나 참여 가능하며, 하나은행 대표 모바일 앱 '하나원큐'에 로그인 하면 이벤트... ",
-			"pubDate":"Tue, 05 Mar 2024 18:10:00 +0900"
-		},
-		{
 			"title":"하나금융그룹, 의류 기부 캠페인 ‘해봄옷장’ 실시",
 			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2024030518063870958cba63abf8_30",
 			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2024030518063870958cba63abf8_30",
 			"description":"이번 ‘해봄옷장’은 을지로, 명동, <b>청라<\/b>, 여의도, 강남 사옥 등 하나금융그룹의 모든 사옥에 설치된 의류 기부함을 통해 임직원 및 손님 누구나 참여 가능하며, 하나은행 대표 모바일 앱 ‘하나원큐’에 로그인 하면... ",
+			"pubDate":"Tue, 05 Mar 2024 18:10:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 의류 기부 캠페인 『해봄옷장』실시",
+			"originallink":"http:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=315410",
+			"link":"http:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=315410",
+			"description":"이번 『해봄옷장』은 을지로, 명동, <b>청라<\/b>, 여의도, 강남 사옥 등 하나금융그룹의 모든 사옥에 설치된 의류 기부함을 통해 임직원 및 손님 누구나 참여 가능하며, 하나은행 대표 모바일 앱 '하나원큐'에 로그인 하면 이벤트... ",
 			"pubDate":"Tue, 05 Mar 2024 18:10:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160279094076979",
 			"description":"서울 7호선 <b>청라<\/b>연장사업 구간, 수도권매립지 및 검단 아파트 건설 현장 등을 방문해 주요 현안 들을 깊이... 대규모 도시개발사업만 놓고 보더라도 검단·<b>청라<\/b>·루원·가정2지구·검암역세권 사업이 진행 중입니다. 또한... ",
 			"pubDate":"Tue, 05 Mar 2024 16:52:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 의류 기부캠페인 '해봄옷장' 실시",
-			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=306117",
-			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=306117",
-			"description":"이번 '해봄옷장'은 을지로, 명동, <b>청라<\/b>, 여의도, 강남 사옥 등 하나금융그룹의 모든 사옥에 설치된 의류 기부함을 통해 임직원 및 손님 누구나 참여 가능하며, 하나은행 대표 모바일 앱 '하나원큐'에 로그인 하면 이벤트... ",
-			"pubDate":"Tue, 05 Mar 2024 16:50:00 +0900"
 		}
 	]
 }
