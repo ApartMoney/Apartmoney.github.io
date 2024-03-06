@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 06 Mar 2024 20:10:02 +0900",
-	"total":221781,
+	"lastBuildDate":"Wed, 06 Mar 2024 20:20:02 +0900",
+	"total":221782,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 에너지 '가뭄'…관련시설 신·증설 '타는 목마름'",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1237635",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1237635",
+			"description":"인천은 송도와 영종, <b>청라<\/b> 등 신도심을 중심으로 산업시설이 늘고 있고, 인구 또한 증가하고 있는 만큼... 특히 <b>청라<\/b>·영종국제도시 또한 개발계획에 따른 인구 집중화 시설이 속속 입주하며, 그에 따른 인구 증가 또한... ",
+			"pubDate":"Wed, 06 Mar 2024 20:18:00 +0900"
+		},
 		{
 			"title":"국민의힘 인천 서구을 박종진 후보, '다함께 이번 총선을 승리로 이끌자'",
 			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=192844",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=333633",
 			"description":"서부발전이 출자한 신평택발전, 동두천드림파워, <b>청라<\/b>에너지 등 3사는 경영 현안과 2023년 주요실적, 2024년... 집단에너지 사업을 수행하는 <b>청라<\/b>에너지는 안전·품질·예방 중심의 수송망 관리로 열공급 안정성을 확보하고... ",
 			"pubDate":"Wed, 06 Mar 2024 09:32:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 의류 기부 캠페인 ‘해봄옷장’ 실시",
-			"originallink":"http:\/\/www.newscammp.co.kr\/article\/view\/ncp202403060005",
-			"link":"http:\/\/www.newscammp.co.kr\/article\/view\/ncp202403060005",
-			"description":"이번 ‘해봄옷장’은 을지로, 명동, <b>청라<\/b>, 여의도, 강남 사옥 등 하나금융그룹의 모든 사옥에 설치된 의류 기부함을 통해 임직원 및 손님 누구나 참여 가능하며, 하나은행 대표 모바일 앱 ‘하나원큐’에 로그인 하면... ",
-			"pubDate":"Wed, 06 Mar 2024 09:22:00 +0900"
 		}
 	]
 }
