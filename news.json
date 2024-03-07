@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 08 Mar 2024 03:00:03 +0900",
-	"total":222002,
+	"lastBuildDate":"Fri, 08 Mar 2024 03:10:02 +0900",
+	"total":222003,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[사설] 대통령의 경인 철도·도로 지하화 확약, 환영한다",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240307580459",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000035617?sid=110",
+			"description":"2029년까지 인천 서구 <b>청라<\/b>국제도시 일대에서 경인고속도로 서인천나들목·신월IC까지 약 17㎞를 4~6차로의 지하도로로 만드는 사업이다. 현재 국토교통부가 한국개발연구원(KDI)을 통해 예비타당성 조사를 하고 있다. 윤... ",
+			"pubDate":"Fri, 08 Mar 2024 03:02:00 +0900"
+		},
 		{
 			"title":"“다들 이천수한테만^^;;” 멋쩍게 홀로 서있는 사진 올린 원희룡",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240308500196?OutUrl=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001679365?sid=101",
 			"description":"국토교통부는 인천 서구 <b>청라<\/b>동~서울 양천구 신월동의 경인고속도로 15.3㎞ 구간의 지하화를 추진 중이다. 고질적인 차량 정체를 해소하기 위해서다. 지상의 차로를 줄여 일반도로로 전환하고 지하고속도로 11.2㎞를... ",
 			"pubDate":"Thu, 07 Mar 2024 18:41:00 +0900"
-		},
-		{
-			"title":"[尹 민생토론] 박상우 국토장관 “인천 항공·해운산업 대 혁신 추진”",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1336641\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002807092?sid=101",
-			"description":"특히 교통여건 개선을 위해서는 “인천과 서울을 30분내로 이어주는 GTX 사업을 속도감 있게 추진해 나가고, 영종, <b>청라<\/b> 등 인천 신도시의 광역교통 여건 개선과 지역 간 연결을 위한 고속철도 네트워크 확충도 적극... ",
-			"pubDate":"Thu, 07 Mar 2024 18:37:00 +0900"
 		}
 	]
 }
