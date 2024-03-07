@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Thu, 07 Mar 2024 11:00:02 +0900",
-	"total":221809,
+	"lastBuildDate":"Thu, 07 Mar 2024 11:10:02 +0900",
+	"total":221815,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"윤 대통령 &quot;인천공항 배후에 2026년까지 첨단복합항공단지 조성&quot;",
+			"originallink":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=745787",
+			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=745787",
+			"description":"또 윤 대통령은 영종, <b>청라<\/b>, 검단, 계양 등 인천지역 신도시 광역교통 개선을 위한 도시철도 연장 및 광역철도 확충 사업을 적극 추진하겠다고 강조했다. 임기 내 수인선과 경부고속철도를 연결해 인천과 부산·목포를... ",
+			"pubDate":"Thu, 07 Mar 2024 11:08:00 +0900"
+		},
+		{
+			"title":"[속보] 尹 대통령 &quot;GTX-B·D·E에 인천발 KTX 연계”…서울까지 30분 약속",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240307580052",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000035514?sid=100",
+			"description":"이와 함께 대통령은 인천의 영종·<b>청라<\/b>·검단·계양 신도시 등의 연결하는 도시철도 사업의 지원도 약속했다. 윤 대통령은 “영종·<b>청라<\/b>·검단·계양등 인천지역 신도시 광역교통 개선을 위한 도시철도 연장 및 광역철도... ",
+			"pubDate":"Thu, 07 Mar 2024 11:06:00 +0900"
+		},
+		{
+			"title":"인천 서구체육회, '국제스케이트장 유치 성공 기원 궐기대회' 성료",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1237673",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1237673",
+			"description":"구체육회는 뛰어난 교통 접근성과 경제성, 인프라 연계성 등 <b>청라<\/b>국제도시 내 국제스케이트장 후보지의 강점을 강조했다. 예정 부지 10㎞ 이내 인천체육고등학교를 포함한 68개 초·중·고가 위치해 동계스포츠 유망주... ",
+			"pubDate":"Thu, 07 Mar 2024 11:06:00 +0900"
+		},
+		{
+			"title":"尹 &quot;2030년엔 인천 출발해 노래 한두 곡 들으면 바로 서울&quot;",
+			"originallink":"https:\/\/www.news1.kr\/articles\/5342827",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007395924?sid=100",
+			"description":"윤 대통령은 &quot;지하철 5호선과 7호선의 <b>청라<\/b> 연장, 9호선의 공항철도 직결 등 도시 철도 연장과 광역 철도 확충 사업을 적극 추진해 인천 시민의 출퇴근 교통을 확실하게 해결하겠다&quot;고 강조했다. 윤 대통령은 &quot;인천에서... ",
+			"pubDate":"Thu, 07 Mar 2024 11:06:00 +0900"
+		},
+		{
+			"title":"윤 “경인고속도 지하화 임기 내 착공”",
+			"originallink":"https:\/\/www.naeil.com\/news\/read\/503593?ref=naver",
+			"link":"https:\/\/www.naeil.com\/news\/read\/503593?ref=naver",
+			"description":"“D선과 E선은 내년 국가철도망계획에 반영하고 임기내에 예타통과를 비롯한 착공기반을 확실하게 만들겠다”며 “지하철 5·7호선 <b>청라<\/b>연장, 그리고 9호선 공항철도직결과 같은 도시철도연장과 광역철도 확충사업을... ",
+			"pubDate":"Thu, 07 Mar 2024 11:06:00 +0900"
+		},
+		{
+			"title":"갑자기 이명이 들릴 때… 당장 병원에 가야 하는 이유는?",
+			"originallink":"http:\/\/www.segyebiz.com\/newsView\/20240307507709?OutUrl=naver",
+			"link":"http:\/\/www.segyebiz.com\/newsView\/20240307507709?OutUrl=naver",
+			"description":"이에 대해 <b>청라<\/b> 진이비인후과 장일환 원장은 “이명은 원인이 되는 질환이 다양한 만큼 의사의 진찰 및... 장일환 <b>청라<\/b> 진이비인후과 원장은 “이명은 청각 기관의 일부분의 기능이 떨어져서 오는 것으로 조기 치료를 통해... ",
+			"pubDate":"Thu, 07 Mar 2024 11:04:00 +0900"
+		},
 		{
 			"title":"尹 &quot;GTX-B, 2030년 개통..인천서 노래 한두곡 들으면 서울&quot;",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202403071050561796",
@@ -54,17 +96,17 @@
 			"pubDate":"Thu, 07 Mar 2024 10:33:00 +0900"
 		},
 		{
-			"title":"尹 &quot;GTX b 노선, 2030년 개통…노래 한 두 곡 들으면 바로 서울&quot;",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240307010003308",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240307010003308",
-			"description":"이어 &quot;d선과 2선은 내년 국가 철도망 계획에 반영하고 임기 내 예타 통과를 비롯한 착공 기반을 확실하게 다질 것&quot;이라며 &quot;`울러 영종, <b>청라<\/b>, 엄단 해양 등 인천 곳곳에 만들어지는 신도시의 광역 교통 여건도... ",
-			"pubDate":"Thu, 07 Mar 2024 10:22:00 +0900"
-		},
-		{
 			"title":"[현장영상+] &quot;인천국제공항 중심으로 항공산업 크게 키울 것&quot;",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0101_202403071022339597",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002006933?sid=100",
 			"description":"아울러 영종, <b>청라<\/b>, 검단, 계양 등 인천 곳곳에 만들어지는 신도시에 광역교통여건도 획기적으로 개선할 것입니다. 지하철 5호선과 7호선의 <b>청라<\/b> 연장, 그리고 9호선 공항철도 직결과 같은 도시철도 연장과 광역철도 확충... ",
+			"pubDate":"Thu, 07 Mar 2024 10:22:00 +0900"
+		},
+		{
+			"title":"尹 &quot;GTX b 노선, 2030년 개통…인천서 노래 한 두 곡 들으면 바로 서울&quot;",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240307010003308",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240307010003308",
+			"description":"이어 &quot;d선과 2선은 내년 국가 철도망 계획에 반영하고 임기 내 예타 통과를 비롯한 착공 기반을 확실하게 다질 것&quot;이라며 &quot;`울러 영종, <b>청라<\/b>, 엄단 해양 등 인천 곳곳에 만들어지는 신도시의 광역 교통 여건도... ",
 			"pubDate":"Thu, 07 Mar 2024 10:22:00 +0900"
 		},
 		{
@@ -171,48 +213,6 @@
 			"link":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=637645",
 			"description":"인천 <b>청라<\/b>에서 펼쳐진 첫 번째 버스킹 대결에서는 '싱어게인3'의 지독한 라이벌이었던 홍이삭과 소수빈의 라이벌 매치가 다시 한번 성사됐다. 매번 우열을 가리기 힘든 무대를 선보이며 심사위원단을 괴롭게 했던 두... ",
 			"pubDate":"Wed, 06 Mar 2024 22:05:00 +0900"
-		},
-		{
-			"title":"'국민의힘 지원' 이천수, 원희룡 전 장관과 계양체육관 방문",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6107004",
-			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=079&aid=0003871012",
-			"description":"현재 거주지도 인천 <b>청라<\/b>국제도시인 것으로 알려졌다. 원 전 장관과 인연은 약 8년 전으로 거슬러 올라간다. 이천수는 2016년 문화체육관광부 지원 중단으로 존폐 위기에 몰린 제주여고 축구부를 격려하기 위해... ",
-			"pubDate":"Wed, 06 Mar 2024 20:55:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 의류 기부 캠페인 '해봄옷장' 실시",
-			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=552471",
-			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=552471",
-			"description":"올해는 하나금융그룹 을지로, 명동, <b>청라<\/b>, 여의도, 강남 사옥에 의류 기부함을 설치, 임직원과 손님 모두 참여할 수 있도록 조성했다. 하나은행 모바일 앱 '하나원큐'는 모바일 신청 및 무료 택배서비스를 제공하며, 전국... ",
-			"pubDate":"Wed, 06 Mar 2024 20:50:00 +0900"
-		},
-		{
-			"title":"인천시의회 허식 의원 &quot;신도시 안부러울 친수공간, 원도심에도 조성을&quot;",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240307010000695",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240307010000695",
-			"description":"허 의원은 &quot;<b>청라<\/b>국제도시와 송도국제도시는 친수공간이 많이 있다. 그래서 남들이 다 부러워하는 도시가 됐다&quot;면서 &quot;하지만 원도심에 그럴만한 친수공간이 없어 안타깝다&quot;면서 인천시가 의지를 갖고 추진해줄 것을... ",
-			"pubDate":"Wed, 06 Mar 2024 20:22:00 +0900"
-		},
-		{
-			"title":"인천 에너지 '가뭄'…관련시설 신·증설 '타는 목마름'",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1237635",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1237635",
-			"description":"인천은 송도와 영종, <b>청라<\/b> 등 신도심을 중심으로 산업시설이 늘고 있고, 인구 또한 증가하고 있는 만큼... 특히 <b>청라<\/b>·영종국제도시 또한 개발계획에 따른 인구 집중화 시설이 속속 입주하며, 그에 따른 인구 증가 또한... ",
-			"pubDate":"Wed, 06 Mar 2024 20:18:00 +0900"
-		},
-		{
-			"title":"국민의힘 인천 서구을 박종진 후보, '다함께 이번 총선을 승리로 이끌자'",
-			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=192844",
-			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=192844",
-			"description":"박종진 후보는 공천 발표 이후 지난 5일 인천 서구 <b>청라<\/b>에 있는 선거사무소에서 개소식을 열었다. 이날 개소식은 주민들을 위한 '열린 개소식'으로 진행됐으며 개소식을 찾은 주민들은 박 후보와 1:1로 이야기 하고 사진을... ",
-			"pubDate":"Wed, 06 Mar 2024 19:56:00 +0900"
-		},
-		{
-			"title":"[기고] 윤원석 신임 인천경제청장에 바란다",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240307010000556",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240307010000556",
-			"description":"송도·영종·<b>청라<\/b> 일대가 경제자유구역으로 지정된 20년 동안 7명의 수장이 바뀌었다.그동안 행정공무원, 경제전문가, 장관 출신이 두루 거쳐갔고 이번 공모에도 많은 전문가가 응모했다. 수장이 많은 능력 중 어떤 능력을... ",
-			"pubDate":"Wed, 06 Mar 2024 19:40:00 +0900"
 		}
 	]
 }
