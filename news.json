@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Mar 2024 19:30:02 +0900",
-	"total":221982,
+	"lastBuildDate":"Thu, 07 Mar 2024 19:40:02 +0900",
+	"total":221983,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"윤 대통령 “경인고속도로·경인선 철도 지하화”",
+			"originallink":"https:\/\/www.ichannela.com\/news\/main\/news_detailPage.do?publishId=000000397518",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/449\/0000269634?sid=100",
+			"description":"인천 서구 <b>청라<\/b>동부터 서울 양천구 신월동을 연결하는 경인고속도로 역시 전체 15km 구간의 70% 이상인 11km를 지하화할 계획입니다. 경인선 철도는 지하화 전략을 위한 용역을 진행하고 있고 경인고속도로는 예비타당성... ",
+			"pubDate":"Thu, 07 Mar 2024 19:31:00 +0900"
+		},
 		{
 			"title":"남양주 GTX-B 착공, 화성 어천역·인천KTX 연결…광역철도 접근성 대폭 개선",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240307580443",
@@ -145,17 +152,17 @@
 			"pubDate":"Thu, 07 Mar 2024 18:02:00 +0900"
 		},
 		{
-			"title":"윤석열 &quot;GTX D·E 임기 내 예타 통과&quot;…인천~서울 30분대 연결 (B tv 인천뉴스...",
-			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=167484",
-			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=167484",
-			"description":"GTX-D 노선은 '더블 Y자'로 인천공항에서 <b>청라<\/b>와 작전동을 거쳐 강남으로 이어집니다. GTX-E 노선도... 노래 한두 곡 들으시면 바로 서울입니다.&quot; 영종과 <b>청라<\/b>, 검단 등 신도시 광역 교통 여건도 획기적으로... ",
-			"pubDate":"Thu, 07 Mar 2024 18:00:00 +0900"
-		},
-		{
 			"title":"윤석열 대통령 &quot;2030년 GTX-B 개통되면 송도∼여의도 23분&quot;",
 			"originallink":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=761672",
 			"link":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=761672",
 			"description":"윤 대통령은 인천공항∼강원도 원주로 이어지는 GTX-D 노선, 인천 <b>청라<\/b>∼경기 구리·남양주로 연결되는 GTX-E 노선에 대해선 &quot;임기 내에 법적 절차를 마무리해 착공 기반을 확실하게 다져놓겠다&quot;고 약속했다. 이어 &quot;더... ",
+			"pubDate":"Thu, 07 Mar 2024 18:00:00 +0900"
+		},
+		{
+			"title":"윤석열 &quot;GTX D·E 임기 내 예타 통과&quot;…인천~서울 30분대 연결 (B tv 인천뉴스...",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=167484",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=167484",
+			"description":"GTX-D 노선은 '더블 Y자'로 인천공항에서 <b>청라<\/b>와 작전동을 거쳐 강남으로 이어집니다. GTX-E 노선도... 노래 한두 곡 들으시면 바로 서울입니다.&quot; 영종과 <b>청라<\/b>, 검단 등 신도시 광역 교통 여건도 획기적으로... ",
 			"pubDate":"Thu, 07 Mar 2024 18:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/tbs.seoul.kr\/news\/newsView.do?typ_800=9&idx_800=3517514&seq_800=20510275",
 			"description":"또 인천공항∼강원도 원주로 이어지는 GTX-D 노선, 인천 <b>청라<\/b>∼경기 구리·남양주로 연결되는 GTX-E 노선에 대해서는 &quot;임기 내에 법적 절차를 마무리해 착공 기반을 확실하게 다져놓겠다&quot;고 강조했습니다.",
 			"pubDate":"Thu, 07 Mar 2024 17:36:00 +0900"
-		},
-		{
-			"title":"윤 대통령 &quot;인천 항공·해운·물류 대혁신... GTX-B 2030년 개통&quot;",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100237",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100237",
-			"description":"사진=국토교통부 이어 영종·<b>청라<\/b>·검단·계양 등 인천 신도시 광역교통 개선을 위해 도시철도 연장과 광역철도 확충 사업도 적극 추진하겠다고 했다. 윤 대통령은 인천국제공항과 서해안의 거점 항만인 인천항을... ",
-			"pubDate":"Thu, 07 Mar 2024 17:30:00 +0900"
 		}
 	]
 }
