@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Mar 2024 17:40:03 +0900",
-	"total":221954,
+	"lastBuildDate":"Thu, 07 Mar 2024 17:50:02 +0900",
+	"total":221955,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"尹 18회차 민생토론회서 `글로벌 해운강국·인천교통개선` 구체화",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024030702109958080010&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002859723?sid=101",
+			"description":"경인고속도로 지하화는 인천 서구 <b>청라<\/b>동에서 서울 양천구 신월동까지 총 15.3㎞ 구간에서 추진된다. 현재 기획재정부와 한국개발연구원(KDI)이 예비타당성 조사를 진행 중이다. 윤석열 대통령은 이날 민생토론회에서... ",
+			"pubDate":"Thu, 07 Mar 2024 17:40:00 +0900"
+		},
 		{
 			"title":"윤석열 &quot;2030년 GTX-B 개통되면 송도∼여의도 23분…향후 춘천까지 연결&quot;",
 			"originallink":"http:\/\/tbs.seoul.kr\/news\/newsView.do?typ_800=9&idx_800=3517514&seq_800=20510275",
@@ -180,13 +187,6 @@
 			"pubDate":"Thu, 07 Mar 2024 16:38:00 +0900"
 		},
 		{
-			"title":"尹 &quot;인천 항공·해운·물류 인프라 확충&quot;",
-			"originallink":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=283725",
-			"link":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=283725",
-			"description":"서울 여의도까지 18분, 서울역까지 24분 만에 갈 수 있다&quot;고 기대했다. 영종, <b>청라<\/b>, 검단, 계양 등 신도시의 광역 교통 여건도 획기적으로 개선하겠다며 임기 내 수인선과 경부고속철도를 연결하겠다고 약속했다.",
-			"pubDate":"Thu, 07 Mar 2024 16:30:00 +0900"
-		},
-		{
 			"title":"이강인 소속팀 PSG '국내 팬에 한 걸음 더' 공식 플래그십 오픈",
 			"originallink":"http:\/\/www.joynews24.com\/view\/1694867",
 			"link":"http:\/\/www.joynews24.com\/view\/1694867",
@@ -201,18 +201,18 @@
 			"pubDate":"Thu, 07 Mar 2024 16:30:00 +0900"
 		},
 		{
+			"title":"尹 &quot;인천 항공·해운·물류 인프라 확충&quot;",
+			"originallink":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=283725",
+			"link":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=283725",
+			"description":"서울 여의도까지 18분, 서울역까지 24분 만에 갈 수 있다&quot;고 기대했다. 영종, <b>청라<\/b>, 검단, 계양 등 신도시의 광역 교통 여건도 획기적으로 개선하겠다며 임기 내 수인선과 경부고속철도를 연결하겠다고 약속했다.",
+			"pubDate":"Thu, 07 Mar 2024 16:30:00 +0900"
+		},
+		{
 			"title":"아파트 매매거래 급증한 인천…분양시장 영향 있을까",
 			"originallink":"http:\/\/www.inews24.com\/view\/1694795",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000818530?sid=101",
 			"description":"업계 관계자들은 인천 아파트 매매 거래 활성화에는 수도권광역급행철도(GTX) 추가 노선과 서울 지하철 2호선 <b>청라<\/b> 연장선 등 교통망 확충이 영향을 미쳤다는 의견이다. 이에 건설업계도 인천에서 잇따라 분양... ",
 			"pubDate":"Thu, 07 Mar 2024 16:18:00 +0900"
-		},
-		{
-			"title":"[Realty &amp; Now] 인천 아파트 매매거래량 2배 껑충…신규 단지도 빠르게 완판 ...",
-			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1615229\/?sc=Naver",
-			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1615229\/?sc=Naver",
-			"description":"수도권광역급행철도 GTX 노선 추가 호재와 서울 지하철 2호선 <b>청라<\/b> 연장선 등의 교통망 확충과 3기 신도시 조성 등이 예고돼 있다. 부동산 전문가는 “지난해 말부터 다양한 호재가 쏟아지며 매매 시장이 살아나고... ",
-			"pubDate":"Thu, 07 Mar 2024 16:12:00 +0900"
 		}
 	]
 }
