@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 07 Mar 2024 21:50:02 +0900",
-	"total":221994,
+	"lastBuildDate":"Thu, 07 Mar 2024 22:00:02 +0900",
+	"total":221996,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"尹 &quot;내년 철도 지하화 계획 마무리...내후년 계획 수립&quot;",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0102_202403072142491275",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002007282?sid=101",
+			"description":"입체수직공간으로 재탄생시켜 인천 발전의 모티브로 삼을 것이라고 말했습니다. 아울러 영종과 <b>청라<\/b>, 검단과 계양 등 신도시의 광역 교통 여건도 개선하겠다며 임기 내 수인선과 경부고속철도를 연결하겠다고 약속했습니다.",
+			"pubDate":"Thu, 07 Mar 2024 21:42:00 +0900"
+		},
 		{
 			"title":"GTX-B노선 2030년 개통 올해 상반기 전 구간 착공",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1076813",
@@ -110,6 +117,13 @@
 			"pubDate":"Thu, 07 Mar 2024 19:17:00 +0900"
 		},
 		{
+			"title":"尹 “노래 한두 곡 들으면 서울…GTX-B 2030년 개통”",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240307517136?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003911575?sid=100",
+			"description":"경인고속도로 지하화는 인천 서구 <b>청라<\/b>동에서 서울 양천구 신월동까지 총 15.3㎞ 구간에서 추진된다. 지상에 남는 도로는 차로를 줄여 일반 도로로 만든다. 또 “GTX-B노선은 인천 시민들의 삶을 완전히 바꿔 놓을 것”... ",
+			"pubDate":"Thu, 07 Mar 2024 19:07:00 +0900"
+		},
+		{
 			"title":"LCC에 유럽·서남亞 노선 개방…인천 '항공산업 빅뱅' 이끈다",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2D6JN7BYGQ",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004310004?sid=101",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/sateconomy.co.kr\/news\/view\/1065601710554097",
 			"description":"또한 윤 대통령은 인천공항∼강원도 원주로 이어지는 GTX-D 노선, 인천 <b>청라<\/b>∼경기 구리·남양주로 연결되는 GTX-E 노선도 착공 기반을 임기 내에 확실히 마련해 인천을 출발점으로 하는 초고속 광역교통망을... ",
 			"pubDate":"Thu, 07 Mar 2024 18:06:00 +0900"
-		},
-		{
-			"title":"&quot;인천-서울 출퇴근 30분 시대&quot;…인천서 GTX-B 노선 '첫 삽' 뜬다",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=382464",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=382464",
-			"description":"또, 인천공항∼강원도 원주로 이어지는 GTX-D 노선과 인천 <b>청라<\/b>∼경기 구리·남양주로 연결되는 GTX-E 노선도 &quot;임기 내에 법적 절차를 마무리해 착공 기반을 확실하게 다져놓겠다&quot;고 약속했습니다. 이어 &quot;(GTX가) 더 멀리... ",
-			"pubDate":"Thu, 07 Mar 2024 18:06:00 +0900"
-		},
-		{
-			"title":"정부, 경인선·경인고속도로 지하화 속도…인천 GTX-B 착공",
-			"originallink":"http:\/\/mbn.mk.co.kr\/pages\/news\/newsView.php?category=mbn00003&news_seq_no=5009036",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/057\/0001804118?sid=101",
-			"description":"경인고속도로 지하화는 인천 서구 <b>청라<\/b>동에서 서울 양천구 신월동까지 총 15.3㎞ 구간에서 추진됩니다. 지상에 남는 도로는 차로를 줄여 일반 도로로 만듭니다. 이 사업은 2022년 5월부터 기획재정부와 한국개발연구원... ",
-			"pubDate":"Thu, 07 Mar 2024 18:02:00 +0900"
 		}
 	]
 }
