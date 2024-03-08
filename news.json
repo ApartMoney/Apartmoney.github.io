@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 08 Mar 2024 17:40:02 +0900",
-	"total":222065,
+	"lastBuildDate":"Fri, 08 Mar 2024 17:50:02 +0900",
+	"total":222067,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구 도심에 울려퍼지는 만세삼창",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6524553",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007399831?sid=102",
+			"description":"8일 오후 대구 중구 계성중학교에서 열린 '대구 3·8만세운동 문화제'에 참여한 시민들이 기념식을 마친 뒤 중구 <b>청라<\/b>언덕 아래 3·1만세운동길을 따라 행진하며 만세삼창을 외치고 있다. 이날 행사는 1919년 3월 1일... ",
+			"pubDate":"Fri, 08 Mar 2024 17:48:00 +0900"
+		},
 		{
 			"title":"대구교통공사, 도시철도 2호선 역사 내 고객 편의 서비스 확충",
 			"originallink":"http:\/\/www.inews24.com\/view\/1695304",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=290556",
 			"description":"수도권광역급행철도 GTX D‧E 신설 노선 발표와 서울 지하철 2호선 <b>청라<\/b>연장선 추진 등 교통호재가 몰려... 서울 도심을 순환하는 서울 지하철 2호선 지하철과 연결되는 <b>청라<\/b>연장선도 추진 중이다. 서울 지하철 2호선... ",
 			"pubDate":"Fri, 08 Mar 2024 11:18:00 +0900"
-		},
-		{
-			"title":"GDY시민연합 &quot;원희룡, GTX-D 작전서운역 공약 철회해야&quot;",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100245",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100245",
-			"description":"사진=국토교통부 영종·<b>청라<\/b>·루원·계양 주민단체가 모인 'GTX-D Y자 예타면제 촉구 시민연합(GDY시민연합)은 8일 성명서를 내고 &quot;국민의힘 원희룡 계양을 국회의원 후보가 발표한 수도권광역급행철도(GTX)-D노선... ",
-			"pubDate":"Fri, 08 Mar 2024 11:14:00 +0900"
 		}
 	]
 }
