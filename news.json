@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 12 Mar 2024 09:50:02 +0900",
-	"total":222177,
+	"lastBuildDate":"Tue, 12 Mar 2024 10:00:02 +0900",
+	"total":222178,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"LH인천지역본부, 2조9000억원 투입 지역경제 활성화 견인",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1841284",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1841284",
+			"description":"투자계획의 세부내역은 인천계양, 부천대장, 인천검단 및 인천<b>청라<\/b>지구 등 관내 사업지구 보상금 등으로 2920억원, 지구 조성사업 비용 7342억원, 주택건설사업 비용 7408억원으로 토지 및 주택사업 총 1조8000여억원... ",
+			"pubDate":"Tue, 12 Mar 2024 09:58:00 +0900"
+		},
 		{
 			"title":"‘영종 유승한내들 스카이 2차’… 10년간 안심거주 가능한 ‘공공지원 민간임...",
 			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20240312050101",
@@ -180,17 +187,17 @@
 			"pubDate":"Mon, 11 Mar 2024 18:04:00 +0900"
 		},
 		{
-			"title":"[4·10 총선 특집-인천 계양구 을] 대규모 개발·교통 '무게'",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1238399",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1238399",
-			"description":"현역인 이재명 민주당 의원은 보궐선거에서 계양 테크노밸리 조성, GTX-D 노선 Y자 원안 추진, 계양역 서울지하철 9호선 직결, 서울지하철 2호선 <b>청라<\/b> 연장 추진, 경인고속도로 지하화, 경인아라뱃길 주변 지역 개발 제한... ",
-			"pubDate":"Mon, 11 Mar 2024 18:02:00 +0900"
-		},
-		{
 			"title":"[4·10 총선 특집-인천 계양구 갑] '서울 접근성' 성장 동력",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1238400",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1238400",
 			"description":"미뤄뒀던 재개발·재건축이 일시에 몰리면서 도심 곳곳이 어수선하고, <b>청라<\/b> 및 검단 등 서구지역과... 서울 2호선 연장은 계양과 서구지역에서 사실상 공통적으로 제시된 공약이었는데, 원종~홍대, <b>청라<\/b>~가정~효성~작전... ",
+			"pubDate":"Mon, 11 Mar 2024 18:02:00 +0900"
+		},
+		{
+			"title":"[4·10 총선 특집-인천 계양구 을] 대규모 개발·교통 '무게'",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1238399",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1238399",
+			"description":"현역인 이재명 민주당 의원은 보궐선거에서 계양 테크노밸리 조성, GTX-D 노선 Y자 원안 추진, 계양역 서울지하철 9호선 직결, 서울지하철 2호선 <b>청라<\/b> 연장 추진, 경인고속도로 지하화, 경인아라뱃길 주변 지역 개발 제한... ",
 			"pubDate":"Mon, 11 Mar 2024 18:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=785045",
 			"description":"검단과 <b>청라<\/b>지역의 교통편의가 더욱 높아질 것으로 기대한 만큼 인천시도 답답할 뿐이다. 검단~강남역·<b>청라<\/b>~양재꽃시장 등 두 노선은 2022년 신설 확정 후, 지난해 10월부터 달릴 계획이었다. 당초 계획과 달리 차량 출고... ",
 			"pubDate":"Mon, 11 Mar 2024 17:38:00 +0900"
-		},
-		{
-			"title":"인천 작전역 일대 1만 가구 아파트촌 탈바꿈",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1100522",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1100522",
-			"description":"11일 업계에 따르면 작전역에서 서쪽 <b>청라<\/b>국제도시로 연결되는 봉오대로를 따라 대규모 재개발에 이어 중소형 단지 재건축 및 소규모 정비사업을 통해 1만여 가구의 새 아파트가 단계적으로 들어설 전망이다. 작전역... ",
-			"pubDate":"Mon, 11 Mar 2024 17:34:00 +0900"
 		}
 	]
 }
