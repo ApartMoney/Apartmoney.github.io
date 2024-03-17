@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 17 Mar 2024 15:20:03 +0900",
-	"total":222463,
+	"lastBuildDate":"Sun, 17 Mar 2024 15:30:02 +0900",
+	"total":222464,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 자원순환센터 건립 주민 여론조사",
+			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363641569",
+			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363641569",
+			"description":"이는 노후화된 <b>청라<\/b> 광역폐기물처리시설을 대체하고 발생지 처리원칙에 따른 처리 기반 마련을 위해 결정한 사안이다. 구는 설문조사를 통해 자원순환센터 건립 목적에 대해 알리고, 다양한 주민 의견을 수렴해 수용성... ",
+			"pubDate":"Sun, 17 Mar 2024 15:26:00 +0900"
+		},
 		{
 			"title":"인천1호선·서울7호선 연장선 신규 전동차 목업 품평회",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1021605",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=245996",
 			"description":"인천시 공동 개발 사업인 주상복합, Street Mall 및 상가, 오피스텔, 호텔 등에 참여하며 그동안 부산국제금융단지 개발 및 미군기지 이전 사업, UAE 아부다비 스마트팜 프로젝트, 인천 <b>청라<\/b> 데이터센터 개발사업에... ",
 			"pubDate":"Fri, 15 Mar 2024 16:16:00 +0900"
-		},
-		{
-			"title":"서울대병원 '1천억 마통' 만들었다…병원마다 '비상경영' 돌입(종합2보)",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240315048152530?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014566532?sid=102",
-			"description":"세브란스병원(인천 송도), 고려대병원(경기 남양주·과천), 아주대병원(경기 파주·평택), 인하대병원(경기 김포), 서울아산병원(인천 <b>청라<\/b>), 서울대병원(경기 시흥), 경희대병원(경기 하남), 가천대길병원(서울 송파)... ",
-			"pubDate":"Fri, 15 Mar 2024 16:14:00 +0900"
 		}
 	]
 }
