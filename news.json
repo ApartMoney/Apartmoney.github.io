@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 18 Mar 2024 02:50:03 +0900",
-	"total":222478,
+	"lastBuildDate":"Mon, 18 Mar 2024 03:00:03 +0900",
+	"total":222479,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천지역 교통망 기대감에 '주택·전세가격지수' 개선",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1239512",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1239512",
+			"description":"양호한 지역별로 상승세 지속되는 것으로 확인됐다. 서·연수 등을 위주로 전세가격이 올랐는데 서구(0.47%)는 신도심 위치한 <b>청라<\/b>·당하동 위주로, 연수구(0.42%)는 학원가 밀집한 송도·동춘동 위주로 가격이 올랐다.",
+			"pubDate":"Mon, 18 Mar 2024 02:52:00 +0900"
+		},
 		{
 			"title":"인천시, '인천1호선·서울7호선 연장선' 신규 전동차 목업 품평회 열려",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=583679",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.redaily.co.kr\/news\/articleView.html?idxno=7546",
 			"description":"다원시스 김천공장에서 13일부터 이틀 간 인천 1호선 검단연장선과 서울 7호선 <b>청라<\/b>연장선에 투입할 신형 전동차 목업 품평회가 열렸다. \/ 사진=인천시 인천 1호선 검단 연장선과 서울 7호선 <b>청라<\/b>국제도시 연장선에... ",
 			"pubDate":"Fri, 15 Mar 2024 20:34:00 +0900"
-		},
-		{
-			"title":"인천1호선-서울7호선 연장선, 신규 전동차 목업 품평회 열려",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=444324",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=444324",
-			"description":"서울7호선 <b>청라<\/b>국제도시연장 전동차 목업 품평회를 차량 제작사인 ㈜다원시스 경북 김천 공장에서... 또 서울7호선 <b>청라<\/b>연장사업은 석남동에서 공항철도 <b>청라<\/b>국제도시역까지 총연장 10.767㎞, 7개의 정거장을 건설하는... ",
-			"pubDate":"Fri, 15 Mar 2024 20:26:00 +0900"
 		}
 	]
 }
