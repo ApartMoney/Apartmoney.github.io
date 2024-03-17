@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 17 Mar 2024 16:50:02 +0900",
-	"total":222468,
+	"lastBuildDate":"Sun, 17 Mar 2024 17:00:02 +0900",
+	"total":222469,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"황사 위기 경보 발령... 미세먼지 휩싸인 경기·인천",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240317580259",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000036395?sid=103",
+			"description":"오후 2시 기준 인천 <b>청라<\/b> 일대의 미세먼지 농도는 441㎍\/㎥에 달했다. 환경부와 경기도, 인천시 등 지자체는 황사 위기경보 발령과 관련, 재난문자 공지를 통해 ▲보건용 마스크 착용 ▲실외활동 자제 ▲손씻기 등... ",
+			"pubDate":"Sun, 17 Mar 2024 16:54:00 +0900"
+		},
 		{
 			"title":"서구을 박종진, 오세훈 시장 만나 &quot;2호선 <b>청라<\/b> 연결, 9호선 공항철도 직결 조...",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=416997",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100377",
 			"description":"인천 서구 <b>청라<\/b>국제도시 전경. 사진=인천경제자유구역청 수도권광역급행철도(GTX)를 비롯한 교통... 15일 국토교통부 실거래가에 따르면 서구 <b>청라<\/b>동 '<b>청라<\/b>지구중흥S클래스1단지' 전용면적 119.5876㎡ 9층 매물은... ",
 			"pubDate":"Fri, 15 Mar 2024 17:16:00 +0900"
-		},
-		{
-			"title":"[인천24시] 인천시, 청년 신규 고용기업 근로환경개선 지원",
-			"originallink":"http:\/\/www.sisajournal.com\/news\/articleView.html?idxno=285700",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000074647?sid=102",
-			"description":"7호선 <b>청라<\/b>국제도시연장선에 투입될 전동차 목업(Mock-up) 품평회를 개최했다고 15일 밝혔다. 목업 품평회는... 서울지하철 7호선 <b>청라<\/b>연장선은 석남동에서 공항철도 <b>청라<\/b>국제도시역까지 10.767㎞에 7개의 정거장이... ",
-			"pubDate":"Fri, 15 Mar 2024 16:52:00 +0900"
 		}
 	]
 }
