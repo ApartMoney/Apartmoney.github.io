@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Mon, 18 Mar 2024 09:00:03 +0900",
-	"total":222485,
+	"lastBuildDate":"Mon, 18 Mar 2024 09:10:03 +0900",
+	"total":222491,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"IFEZ, <b>청라<\/b>호수공원 시티타워 일부 단절 산책로 개방",
+			"originallink":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=213149",
+			"link":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=213149",
+			"description":"인천경제자유구역청은 <b>청라<\/b>시티타워 건설에 따라 임시로 개설된 차량 진입로 및 가설 휀스 철거 공사를 시행, 이날 산책로를 개방했다고 밝혔다. <b>청라<\/b>호수공원 외곽을 두르는 4.3km의 산책로는 지난 2014년 조성돼 시민들의... ",
+			"pubDate":"Mon, 18 Mar 2024 09:08:00 +0900"
+		},
+		{
+			"title":"현대건설, 구미시 바이오가스화 시설 우선협상대상자 선정",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2024031866266",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004961001?sid=101",
+			"description":"2008년 인천 <b>청라<\/b>에 파일럿 설비를 건설하며 유기성 폐기물 바이오가스화 에너지 기술 개발에 착수했다. 이후 관련 환경신기술 및 녹색인증을 취득하고 국내외 18건의 특허를 등록하는 등 원천기술을 확보했다. 특히... ",
+			"pubDate":"Mon, 18 Mar 2024 09:08:00 +0900"
+		},
+		{
+			"title":"현대건설, 자원순환형 바이오가스 사업 확장..친환경 산업 생태계 선",
+			"originallink":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=45803",
+			"link":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=45803",
+			"description":"2008년 인천 <b>청라<\/b>에 파일럿 설비를 건설하며 유기성 폐기물 바이오가스화 에너지 기술 개발에 착수한 이후, 관련 환경신기술 및 녹색인증을 취득하고 국내외 18건의 특허를 등록했다. 또한 실증 프로젝트를 통해 기술의... ",
+			"pubDate":"Mon, 18 Mar 2024 09:06:00 +0900"
+		},
+		{
+			"title":"현대건설, 구미 광역 통합 바이오가스화 시설 협상 절차 돌입",
+			"originallink":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3028735",
+			"link":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3028735",
+			"description":"2008년 인천 <b>청라<\/b>에 파일럿 설비를 건설하며 유기성 폐기물 바이오가스화 에너지 기술 개발에 착수한 이후 관련 환경신기술 및 녹색인증을 취득하고 국내외 18건의 특허를 등록하는 등 원천기술을 확보하는 한편 실증... ",
+			"pubDate":"Mon, 18 Mar 2024 09:04:00 +0900"
+		},
+		{
+			"title":"현대건설, 구미 광역 통합 바이오가스화 시설 민간투자사업 우선협상대상자 선...",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024031808592697145",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005012996?sid=101",
+			"description":"2008년 인천 <b>청라<\/b>에 파일럿 설비를 건설하며 유기성 폐기물 바이오가스화 에너지 기술 개발에 착수한 이후, 관련 환경신기술 및 녹색인증을 취득하고 국내외 18건의 특허를 등록하는 등 원천기술을 확보하는 한편 실증... ",
+			"pubDate":"Mon, 18 Mar 2024 09:03:00 +0900"
+		},
+		{
+			"title":"현대건설, 유기성 폐기물 바이오가스화 사업 선도 입지 강화",
+			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=202279",
+			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=202279",
+			"description":"2008년 인천 <b>청라<\/b>에 파일럿 설비를 건설하며 유기성 폐기물 바이오가스화 에너지 기술 개발에 착수한 이후, 관련 환경신기술과 녹색 인증을 취득하고 국내외 18건의 특허를 등록하는 등 원천기술을 확보해 왔다. 또한... ",
+			"pubDate":"Mon, 18 Mar 2024 09:02:00 +0900"
+		},
 		{
 			"title":"현대건설, 구미 광역 통합 바이오가스화 시설 사업 우선협상대상자 선정",
 			"originallink":"https:\/\/www.news1.kr\/articles\/5353362",
@@ -171,48 +213,6 @@
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240316010004913",
 			"description":"인천시 도시철도건설본부는 지난 13~14일 양일간 인천1호선 검단연장 및 서울7호선 <b>청라<\/b>국제도시연장... 또 서울7호선 <b>청라<\/b>연장사업은 석남동에서 공항철도 <b>청라<\/b>국제도시역까지 총연장 10.767㎞, 7개의 정거장을... ",
 			"pubDate":"Sun, 17 Mar 2024 11:24:00 +0900"
-		},
-		{
-			"title":"주말에도 쉴 수 없다…총선 25일 앞두고 선거사무소 개소식 이어져",
-			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=751665",
-			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=751665",
-			"description":"경기도 하남시을 선거구(더불어민주당, 미사 1·2·3동, 덕풍 3동) 김용만 국회의원 예비후보와 인천 서구을에 출사표를 던진 이용우 예비후보(더불어민주당, <b>청라<\/b> 1ㆍ2ㆍ3동, 검암경서동, 연희동)는 오는 17일 개소식을... ",
-			"pubDate":"Sat, 16 Mar 2024 22:08:00 +0900"
-		},
-		{
-			"title":"박종진 인천 서구을 예비후보, 오세훈 서울시장 만나…“인천 서구 교통문제 ...",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=785667",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=785667",
-			"description":"지역주민들의 지역 최대 현안…‘교통 문제’ 꼽아 박종진 예비후보 “서울2호선 <b>청라<\/b> 연결, 9호선-공항철도... 박종진 예비후보는 15일 서울시청에서 오 시장과 만나 서울지하철 2호선 <b>청라<\/b> 연결, 서울지하철 9호선... ",
-			"pubDate":"Sat, 16 Mar 2024 20:02:00 +0900"
-		},
-		{
-			"title":"오세훈 서울시장 만난 박종진 “인천서구 교통 문제 적극 도와달라”",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240316010004953",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240316010004953",
-			"description":"박 후보는 지난 1월 총선 출마 선언 이후 <b>청라<\/b>·검암경서·연희동 주민들을 만나며 지역 현안에 대한 민원을 청취해 왔다. 그를 만난 주민들은 지역 최대 현안으로 교통 문제를 꼽았고 그중에서 △서울지하철 2호선 <b>청라<\/b>... ",
-			"pubDate":"Sat, 16 Mar 2024 17:12:00 +0900"
-		},
-		{
-			"title":"[인천 서구을] 국힘 박종진, 오세훈 만나 &quot;교통문제 적극 도움 요청&quot;",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=243405",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=243405",
-			"description":"이후 <b>청라<\/b>·검암경서·연희동 주민들을 만나며 지역 현안에 대한 민원을 청취해 왔고 주민들이 최대 현안으로 교통 문제를 꼽았다고 했다. 이어 주민들이 ▲서울도시철도 2호선 <b>청라<\/b> 연결 ▲서울도시철도 9호선 공항철도... ",
-			"pubDate":"Sat, 16 Mar 2024 14:36:00 +0900"
-		},
-		{
-			"title":"與 박종진, 오세훈 서울시장 만나 '인천-서울 지하철 연결 사업' 조속 추진 요...",
-			"originallink":"http:\/\/www.pennmike.com\/news\/articleView.html?idxno=78021",
-			"link":"http:\/\/www.pennmike.com\/news\/articleView.html?idxno=78021",
-			"description":"바로 인천 주민들의 숙원 사업 중 하나로 알려진 '서울지하철 2호선 <b>청라<\/b> 연결사업'과 '서울지하철 9호선... 이에 박종진 후보는 이날, 오세훈 서울시장을 만난 자리에서 '서울지하철 2호선 <b>청라<\/b> 연결' 및 '서울지하철 9호선... ",
-			"pubDate":"Sat, 16 Mar 2024 14:12:00 +0900"
-		},
-		{
-			"title":"[총선 나도 뛴다] 3월 16일 인천 현장은 지금①",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240316580025",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000036306?sid=165",
-			"description":"16일 박 예비후보에 따르면 지난 15일 오 서울시장을 만나 서울지하철 2호선 <b>청라<\/b> 연결과 서울지하철 8호선 공항철도 직결 운행 등을 논의했다. 앞서 박 예비후보는 서울 지하철 문제를 서울시와 직접 해결해야 하는 만큼... ",
-			"pubDate":"Sat, 16 Mar 2024 13:49:00 +0900"
 		}
 	]
 }
