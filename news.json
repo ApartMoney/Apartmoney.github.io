@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 22 Mar 2024 20:20:03 +0900",
-	"total":222984,
+	"lastBuildDate":"Fri, 22 Mar 2024 20:30:02 +0900",
+	"total":222985,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 강풍주의보... 건물 외벽 뜯기고, 옥상 구조물 '위태'",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240322580236",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000037002?sid=102",
+			"description":"오후 3시8분과 3시47분께는 미추홀구 용현동과 서구 <b>청라<\/b>동의 빌라 옥상 구조물이 떨어질 것 같다는 신고를 접수해 소방당국이 안전조치를 했다. 이 밖에도 오후 3시58분과 오후 4시5분께는 계양구 작전동 이마트24... ",
+			"pubDate":"Fri, 22 Mar 2024 20:22:00 +0900"
+		},
 		{
 			"title":"'인천 서구을' 쾌도난마 vs 인권 변호사",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1435598",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/sports.news.naver.com\/news.nhn?oid=468&aid=0001042233",
 			"description":"2028년부터 개장하는 <b>청라<\/b>돔과 샌프란시스코 이정후다. 고척돔보다 5000석 이상이 많은 <b>청라<\/b>돔에 한국에서 가장 인지도가 높은 야구 선수인 이정후가 온다면 승부를 걸어볼 만하다. 2028년 <b>청라<\/b>돔 개장과 동시에... ",
 			"pubDate":"Fri, 22 Mar 2024 07:08:00 +0900"
-		},
-		{
-			"title":"정부, '빅5' 병원 무분별한 외형 확대에 제동 건다",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007582239&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001140760?sid=102",
-			"description":"세브란스병원(인천 송도), 고려대병원(경기 남양주·과천), 아주대병원(경기 파주·평택), 인하대병원(경기 김포), 서울아산병원(인천 <b>청라<\/b>), 서울대병원(경기 시흥), 경희대병원(경기 하남), 가천대길병원(서울 송파)... ",
-			"pubDate":"Fri, 22 Mar 2024 05:29:00 +0900"
 		}
 	]
 }
