@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 24 Mar 2024 18:00:03 +0900",
-	"total":223020,
+	"lastBuildDate":"Sun, 24 Mar 2024 18:10:03 +0900",
+	"total":223021,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"현대건설 &quot;음식물쓰레기가 수소로&quot;",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2024032424091",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004963803?sid=101",
+			"description":"현대건설은 2008년부터 인천 <b>청라<\/b>에 바이오가스 에너지화 시설을 갖추고 독자 기술 개발에 나섰다. 김영오 현대건설 기술연구원 에코연구팀장은 “2016년 준공한 충주 음식물 바이오센터는 연구개발(R&amp;D) 성과가 집약된... ",
+			"pubDate":"Sun, 24 Mar 2024 18:09:00 +0900"
+		},
 		{
 			"title":"[단독] 의사파업 힘들다더니… ‘빅5’ 병원 해마다 매출 급증",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0019925595&code=61141111&cp=nv",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2951259",
 			"description":"운서동은 <b>청라<\/b>·영종을 잇는 해상교량인 제3연륙교(2025년 개통예정), 지하철 9호선 직결사업, 수도권광역급행철도(GTX) D·E노선 등이 계획된 곳이다. 단지 인근에는 인천운서중, 영종고, 인천과학고, 인천국제고 등이... ",
 			"pubDate":"Sat, 23 Mar 2024 14:56:00 +0900"
-		},
-		{
-			"title":"[분양캘린더] 청약홈 개편 22일 마무리…1개 단지·243가구만",
-			"originallink":"https:\/\/www.news1.kr\/articles\/5359625",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007431111?sid=101",
-			"description":"<b>청라<\/b>·영종을 잇는 해상교량인 제3연륙교(2025년 개통예정)를 비롯해 지하철 9호선 직결사업, GTX D·E노선 등이 계획중으로 향후 수도권 접근성을 높일 교통 호재가 풍부하다. 인천운서중, 영종고, 인천과학고... ",
-			"pubDate":"Sat, 23 Mar 2024 08:00:00 +0900"
 		}
 	]
 }
