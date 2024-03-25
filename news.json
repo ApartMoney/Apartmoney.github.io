@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 25 Mar 2024 19:50:02 +0900",
-	"total":223096,
+	"lastBuildDate":"Mon, 25 Mar 2024 20:00:02 +0900",
+	"total":223097,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 지역간 격차 심각…해결책 시급",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1241200",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1241200",
+			"description":"연수구는 송도국제도시로 조성돼 각종 기업과 인구 39만명이 거주 중이며 서구는 <b>청라<\/b>국제도시와 검단 등 대규모 택지 개발로 인구가 가장 많은 자치구로 성장했다. 중구 역시 인천국제공항과 경제자유구역, 외국인... ",
+			"pubDate":"Mon, 25 Mar 2024 19:58:00 +0900"
+		},
 		{
 			"title":"&quot;서구를 수도권 서북부 중심도시로&quot;… 이용우, <b>청라<\/b>IC 병목현상 해결 등 공약...",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363643384",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202403251323328070023",
 			"description":"서구는 국제스케이트장 예정 부지로 <b>청라<\/b>국제도시 내 투자유치용지(6BL?5만5000㎡)를 선정해 대한체육회에 ‘태릉국제스케이트장 대체시설 건립 부지 공모신청서’를 제출한 상태로, 도시기반시설을 이미 갖추고 있을... ",
 			"pubDate":"Mon, 25 Mar 2024 13:42:00 +0900"
-		},
-		{
-			"title":"인천광역시 군·구의회, 국제스케이트장 서구 유치 기원",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240325010008003",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240325010008003",
-			"description":"서구는 국제스케이트장 예정 부지로 <b>청라<\/b>국제도시내 투자 유치 용지(6 BL 5만 5000㎡)를 선정해 대한체육회에 ‘태릉국제스케이트장 대체시설 건립 부지 공모신청서’를 제출한 상태로 도시기반시설은 이미 갖췄으며... ",
-			"pubDate":"Mon, 25 Mar 2024 13:04:00 +0900"
 		}
 	]
 }
