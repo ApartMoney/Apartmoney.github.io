@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 27 Mar 2024 18:00:02 +0900",
-	"total":223210,
+	"lastBuildDate":"Wed, 27 Mar 2024 18:10:02 +0900",
+	"total":223211,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[4·10 총선 인천 선거구별 정책 분석] 동구미추홀구 을",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1241665",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1241665",
+			"description":"대규모 매립을 통해 만들어진 <b>청라<\/b>·송도·영종국제도시는 물론 인천 곳곳에서 이뤄지는 대규모 도시개발 사업으로 조성된 지역의 교통 편의를 기존 교통망이 다 품지 못하기 때문이다. 특히 교통 인프라 중 가장 빠르고... ",
+			"pubDate":"Wed, 27 Mar 2024 18:04:00 +0900"
+		},
 		{
 			"title":"[사설] 인천경제자유구역 2040 비전에 대한 기대",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1241647",
@@ -103,17 +110,17 @@
 			"pubDate":"Wed, 27 Mar 2024 14:40:00 +0900"
 		},
 		{
-			"title":"[4.10 총선 여론조사] 인천 서구갑, 민주당 3선 도전 김교흥 51.4%, 국힘 한동...",
-			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=640744",
-			"link":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=640744",
-			"description":"현재는 서구갑은 인천 서구 원도심과 <b>청라<\/b>1동, <b>청라<\/b>2동을 포함하는 지역구이다. 서구을 선거구에 비하면 보수세가 조금 강하다. <b>청라<\/b>국제도시는 3040의 비율이 높아 민주당의 지지율이 높고, 18대 대선 때 문재인의... ",
-			"pubDate":"Wed, 27 Mar 2024 14:38:00 +0900"
-		},
-		{
 			"title":"인천 서구문화재단, 시에스타 콘서트 개최",
 			"originallink":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363643762",
 			"link":"http:\/\/www.joongboo.com\/news\/articleView.html?idxno=363643762",
 			"description":"인천 서구문화재단이 <b>청라<\/b>블루노바홀에서 미술과 음악이 결합한 '시에스타 콘서트'를 개최한다고 27일... 최기주기자 미술과 음악이 결합한 시에스타 콘서트가 오는 4월 17일부터 3차례 <b>청라<\/b>블루노바홀에서 개최될... ",
+			"pubDate":"Wed, 27 Mar 2024 14:38:00 +0900"
+		},
+		{
+			"title":"[4.10 총선 여론조사] 인천 서구갑, 민주당 3선 도전 김교흥 51.4%, 국힘 한동...",
+			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=640744",
+			"link":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=640744",
+			"description":"현재는 서구갑은 인천 서구 원도심과 <b>청라<\/b>1동, <b>청라<\/b>2동을 포함하는 지역구이다. 서구을 선거구에 비하면 보수세가 조금 강하다. <b>청라<\/b>국제도시는 3040의 비율이 높아 민주당의 지지율이 높고, 18대 대선 때 문재인의... ",
 			"pubDate":"Wed, 27 Mar 2024 14:38:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=307903",
 			"description":"인천지하철 1호선 작전역이 수도권광역급행철도(GTX) D·E 노선(예정)에 포함됐으며 서울 도심을 순환하는 서울 지하철 2호선 지하철과 연결되는 <b>청라<\/b>연장선(예정)도 추진 중이다. 서희건설은 경기 파주시 동패동... ",
 			"pubDate":"Wed, 27 Mar 2024 12:18:00 +0900"
-		},
-		{
-			"title":"인천 중고생 통학버스 27일부터 공식운행 시작",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100573",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100573",
-			"description":"인천시교육청은 27일 송도·<b>청라<\/b>·영종·검단신도시 등 개발지역과 경서·서창·부평 등 통학 여건이 어려운 일부 지역에서 학생성공버스 정식 운행을 시작했다고 밝혔다. 시교육청은 전국 최초로 전차량 친환경버스를... ",
-			"pubDate":"Wed, 27 Mar 2024 11:58:00 +0900"
 		}
 	]
 }
