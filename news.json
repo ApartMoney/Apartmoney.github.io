@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 28 Mar 2024 09:40:02 +0900",
-	"total":223234,
+	"lastBuildDate":"Thu, 28 Mar 2024 09:50:02 +0900",
+	"total":223235,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"중부발전, 제6·7호 그린스마트 스쿨 개소식 개최",
+			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=291535",
+			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=291535",
+			"description":"중부발전 김민수 재무개선처장(왼쪽 두번째)과 박은숙 <b>청라<\/b>초등학교장 등 참석자들이 그린스마트 스쿨 개소식에서 기념촬영을 하고 있다. 한국중부발전이 27일 충청남도 보령시 <b>청라<\/b>면에 위치한 <b>청라<\/b>초등학교에서 제6... ",
+			"pubDate":"Thu, 28 Mar 2024 09:44:00 +0900"
+		},
 		{
 			"title":"[재산공개] 이학재 인국공 사장 56억 신고…국토부·산하기관 중 1위",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240328010016509",
@@ -89,17 +96,17 @@
 			"pubDate":"Thu, 28 Mar 2024 00:00:00 +0900"
 		},
 		{
-			"title":"인천 서갑 유권자는 원도심 단절시키는 '인천대로'가 눈엣가시",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1080545",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1080545",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천 서갑 지역구는 선거구획정으로 민주당세가 강한 <b>청라<\/b>국제도시를 서을에 넘겨주고 가정동과 가좌동, 석남동 등 원도심 위주의 지역구로 개편됐다. 더불어민주당 김교흥... ",
-			"pubDate":"Wed, 27 Mar 2024 22:02:00 +0900"
-		},
-		{
 			"title":"인천 서갑 김교흥 과반 훌쩍 57% 지지율로 선두",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1080568",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1080568",
 			"description":"서갑은 선거구 획정으로 <b>청라<\/b>지역이 서을로 이동해 가좌동과 석남동 등 원도심 위주 지역구로 개편됐다. 이에 따라 보수세가 강할 것이라는 예측도 나왔지만, 여론조사 결과 나머지 후보를 모두 합쳐도 현역인 김... ",
+			"pubDate":"Wed, 27 Mar 2024 22:02:00 +0900"
+		},
+		{
+			"title":"인천 서갑 유권자는 원도심 단절시키는 '인천대로'가 눈엣가시",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1080545",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1080545",
+			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천 서갑 지역구는 선거구획정으로 민주당세가 강한 <b>청라<\/b>국제도시를 서을에 넘겨주고 가정동과 가좌동, 석남동 등 원도심 위주의 지역구로 개편됐다. 더불어민주당 김교흥... ",
 			"pubDate":"Wed, 27 Mar 2024 22:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1241615",
 			"description":"<b>청라<\/b>국제도시에 있는 로봇타워에서 전문 강사로부터 대면 수업을 받는다. 수강료는 무료다. 12주 과정의 교육을 이수하면 수료증이 발급된다. 노트북과 교구재는 개별 지참해야 한다. 수강 신청은 내달 1일부터... ",
 			"pubDate":"Wed, 27 Mar 2024 17:12:00 +0900"
-		},
-		{
-			"title":"인천환경공단, 공촌천 유수지 환경 정화 활동 펼쳐",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160267265433581",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160267265433581",
-			"description":"공촌사업소는 <b>청라<\/b>국제도시 지역과 검암 및 경서지역에서 배출하는 생활오수 등을 일일 65,000톤까지 정화해 처리하고 깨끗이 처리된 물을 공촌천과 심곡천에 하천유지 용수로 재이용해 하천 생태계 보전에도 기여하는... ",
-			"pubDate":"Wed, 27 Mar 2024 17:02:00 +0900"
 		}
 	]
 }
