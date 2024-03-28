@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 29 Mar 2024 05:00:02 +0900",
-	"total":223297,
+	"lastBuildDate":"Fri, 29 Mar 2024 05:10:02 +0900",
+	"total":223298,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 주요 일정] 대전·충남(29일, 금)",
+			"originallink":"https:\/\/www.news1.kr\/articles\/5366751",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007444232?sid=102",
+			"description":"행사(<b>청라<\/b>면 의평리 일원) ◇서천군 -김기웅 군수 9:30 월남 이상재 선생 추모제(이상재 선생 생가) ◇청양군 -김돈곤 군수 10:30 제79회 식목일 나무심기 행사(남양면) ◇예산군 -최재구 군수 09:20 노인회 신암면분회... ",
+			"pubDate":"Fri, 29 Mar 2024 05:00:00 +0900"
+		},
 		{
 			"title":"한국중부발전, '제6·7호 그린스마트 스쿨 개소식' 개최",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=585540",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.slist.kr\/news\/articleView.html?idxno=536973",
 			"description":"공개된 사진은 미국 프로야구 메이저리그(MLB) 출신 데릭 지터, 미국 톱모델 지지 하디드 등과 찍은 사진, 지난해 6월 스타필드 <b>청라<\/b> 비전 선포식 때 찍힌 본인 사진 등이다. 정 회장 인스타그램 게시물은 전날 오후 모두... ",
 			"pubDate":"Thu, 28 Mar 2024 15:26:00 +0900"
-		},
-		{
-			"title":"중부발전, 제6·7호 그린스마트 스쿨 개소식 개최",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240328022484535",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240328022484535",
-			"description":"중부발전은 최근 충청남도 보령시 <b>청라<\/b>면에 위치한 <b>청라<\/b>초등학교에서 제6·7호 그린스마트 스쿨 개소식을 개최했다. 중부발전은 ESG경영 실천 및 지역사회 상생협력의 일환으로 교육여건이 열악한 농어촌지역... ",
-			"pubDate":"Thu, 28 Mar 2024 14:56:00 +0900"
 		}
 	]
 }
