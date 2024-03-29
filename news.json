@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 29 Mar 2024 18:30:02 +0900",
-	"total":223333,
+	"lastBuildDate":"Fri, 29 Mar 2024 18:40:02 +0900",
+	"total":223334,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 총선후보자 정책토론...서구갑 '신경전', 서구을 '설전'",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=384617",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=384617",
+			"description":"또, 기업 유치 방안과 <b>청라<\/b>시티타워 건립사업에 국가가 참여하는 방안을 놓고서도 대립각을 세운 두 후보. 마무리 인사에서도 이 후보는 '책임감'을, 박 후보는 '능력'을 각각 강조하며 유권자들의 선택을 호소했습니다.... ",
+			"pubDate":"Fri, 29 Mar 2024 18:34:00 +0900"
+		},
 		{
 			"title":"전국 뒤덮은 최악 황사… 주말 내내 대기질 나쁨",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240329512721?OutUrl=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003440707?sid=102",
 			"description":"인천 <b>청라<\/b>는 오전 6시 기준 미세먼지 1시간 평균 농도가 698㎍\/㎥을 기록했다. 미세먼지 농도가 150㎍\/㎥를 초과하면 ‘매우 나쁨’ 수준으로 분류된다. 이날 오전 8시 기준 미세먼지 1시간 평균 농도는 서울 440... ",
 			"pubDate":"Fri, 29 Mar 2024 09:06:00 +0900"
-		},
-		{
-			"title":"&quot;가급적 외출 삼가하세요&quot;…'황사' 덮친 한반도, 대기질 '매우나쁨'",
-			"originallink":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=148777",
-			"link":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=148777",
-			"description":"인천 <b>청라<\/b>는 오전 6시 기준 미세먼지 1시간 평균 농도가 698㎍\/㎥까지 치솟기도 했다. 기상청에 따르면 수도권과 강원, 충청 곳곳에는 미세먼지 경보·주의보가 내려졌다. 또, 수도권과 강원은 초미세먼지(PM2.5) 농도도... ",
-			"pubDate":"Fri, 29 Mar 2024 09:00:00 +0900"
 		}
 	]
 }
