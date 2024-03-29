@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 29 Mar 2024 18:20:02 +0900",
-	"total":223332,
+	"lastBuildDate":"Fri, 29 Mar 2024 18:30:02 +0900",
+	"total":223333,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전국 뒤덮은 최악 황사… 주말 내내 대기질 나쁨",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240329512721?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003919400?sid=102",
+			"description":"인천 <b>청라<\/b>는 오전 6시 기준 미세먼지 농도가 698㎍\/㎥까지 치솟기도 했다. 환경부는 이날 세종을 제외한 중부지방에 주의 단계 황사위기경보를 발령했다. 경북에는 앞서 관심 단계 황사위기경보를 내렸다. 중국... ",
+			"pubDate":"Fri, 29 Mar 2024 18:23:00 +0900"
+		},
 		{
 			"title":"인천 영종도 ‘인스파이어’ 등장… ‘영종 진아 레히’ 주목",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1345213\/?sc=Naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=148777",
 			"description":"인천 <b>청라<\/b>는 오전 6시 기준 미세먼지 1시간 평균 농도가 698㎍\/㎥까지 치솟기도 했다. 기상청에 따르면 수도권과 강원, 충청 곳곳에는 미세먼지 경보·주의보가 내려졌다. 또, 수도권과 강원은 초미세먼지(PM2.5) 농도도... ",
 			"pubDate":"Fri, 29 Mar 2024 09:00:00 +0900"
-		},
-		{
-			"title":"올봄 최악 황사 덮쳤다…주말까지 마스크 필수",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024032908483307890",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005398948?sid=102",
-			"description":"인천 <b>청라<\/b>는 오전 6시 기준 미세먼지 1시간 평균 농도가 698㎍\/㎥까지 치솟기도 했다. 대기질은 토요일인 30일에도 나쁠 것으로 예상된다. 현재 수도권과 강원, 충청 곳곳에는 미세먼지 경보·주의보가 내려졌다.... ",
-			"pubDate":"Fri, 29 Mar 2024 08:48:00 +0900"
 		}
 	]
 }
