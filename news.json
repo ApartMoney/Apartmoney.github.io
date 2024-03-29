@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 29 Mar 2024 09:50:02 +0900",
-	"total":223309,
+	"lastBuildDate":"Fri, 29 Mar 2024 10:00:02 +0900",
+	"total":223310,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울 미세먼지 `매우 나쁨`…주말까지 이어진다",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024032902109963075002&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002864270?sid=102",
+			"description":"인천 <b>청라<\/b>는 오전 6시 기준 미세먼지 1시간 평균 농도가 698㎍\/㎥을 기록했다. 미세먼지 농도가 150㎍\/㎥를 초과하면 '매우 나쁨' 수준으로 분류된다. 인천 <b>청라<\/b>의 미세먼지 수치는 매우 나쁨을 크게 웃돈 것이다. 이날... ",
+			"pubDate":"Fri, 29 Mar 2024 09:51:00 +0900"
+		},
 		{
 			"title":"오늘 전국 미세먼지 수준 '나쁨'에서 '매우 나쁨'",
 			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3150325",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1080730",
 			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 더불어민주당 이용우 인천 서을 후보는 28일 <b>청라<\/b>1·2·3동 대표 공약을 발표하며 '국제도시 <b>청라<\/b>를 완성하겠다'고 했다. <b>청라<\/b> 대표 공약은 ▶<b>청라<\/b> 시티타워 정상 추진 ▶<b>청라<\/b>광역소각장... ",
 			"pubDate":"Thu, 28 Mar 2024 17:28:00 +0900"
-		},
-		{
-			"title":"[인천 서구을] 이용우 &quot;정권심판·서구발전&quot; VS 박종진 &quot;인맥왕 현안 해결&quot;",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=244151",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=244151",
-			"description":"인천투데이=장호영 기자｜제22대 국회의원 총선거 공식 선거운동일인 28일 오전 인천 서구을출마 후보들이 <b>청라<\/b>국제도시에서 첫 일정을 시작했다. 서구을 더불어민주당 이용우(49) 후보는 오전 6시 30분 <b>청라<\/b> 롯데마트 앞... ",
-			"pubDate":"Thu, 28 Mar 2024 16:56:00 +0900"
 		}
 	]
 }
