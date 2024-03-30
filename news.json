@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 30 Mar 2024 09:00:02 +0900",
-	"total":223338,
+	"lastBuildDate":"Sat, 30 Mar 2024 09:10:02 +0900",
+	"total":223339,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"공공지원 민간임대 ‘영종 유승한내들 스카이 2차’ 높은 관심 주목",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202403291314206377",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005164158?sid=101",
+			"description":"제2경인고속도로, 영종대교, 인천대교 등 광역도로망도 인접해 차량 이동 시 서울까지 약 20분대, <b>청라<\/b>와 송도는 10분대면 진입할 수 있다. ‘영종 유승한내들 스카이 2차’ 홍보관은 인천광역시 중구 운서동에 마련돼... ",
+			"pubDate":"Sat, 30 Mar 2024 09:01:00 +0900"
+		},
 		{
 			"title":"[4·10 총선현장] 원팀으로 총선 승리 다짐...더불어민주당 인천 서구 갑·을...",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1242129",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002864270?sid=102",
 			"description":"인천 <b>청라<\/b>는 오전 6시 기준 미세먼지 1시간 평균 농도가 698㎍\/㎥을 기록했다. 미세먼지 농도가 150㎍\/㎥를 초과하면 '매우 나쁨' 수준으로 분류된다. 인천 <b>청라<\/b>의 미세먼지 수치는 매우 나쁨을 크게 웃돈 것이다. 이날... ",
 			"pubDate":"Fri, 29 Mar 2024 09:51:00 +0900"
-		},
-		{
-			"title":"오늘 전국 미세먼지 수준 '나쁨'에서 '매우 나쁨'",
-			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3150325",
-			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=3150325",
-			"description":"인천 <b>청라<\/b>는 오전 6시 기준 미세먼지 1시간 평균 농도가 698㎍\/㎥까지 치솟기도 했습니다. 현재 수도권과 강원, 충청 곳곳에는 미세먼지 경보·주의보가 내려졌습니다. 수도권과 강원은 초미세먼지(PM2.5) 농도도... ",
-			"pubDate":"Fri, 29 Mar 2024 09:24:00 +0900"
 		}
 	]
 }
