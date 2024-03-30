@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 30 Mar 2024 20:20:02 +0900",
-	"total":223343,
+	"lastBuildDate":"Sat, 30 Mar 2024 20:30:02 +0900",
+	"total":223344,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천 서구을] 민주 정청래, 이용우 후보 지지 방문",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=244216",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=244216",
+			"description":"정청래 의원은 30일 오후 7시 인천 서구을 선거구인 <b>청라<\/b>국제도시를 찾아 이용우 후보와 함께 <b>청라<\/b>커낼웨이 상가 방문을 했다. 30일 더불어민주당 정청래 수석최고위원인 인천 서구을을 방문해 이용후 후보 지지 유세를... ",
+			"pubDate":"Sat, 30 Mar 2024 20:22:00 +0900"
+		},
 		{
 			"title":"인천 서구갑, 신·원도심 섞여 접전 예상 [총선 현장 이슈]",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240328580383",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2956348",
 			"description":"사진=보령교육지원청 충남 보령 <b>청라<\/b>초등학교가 27일 제6호 '그린스마트스쿨'을 열고 개소식을 개최했다.... 이날 개소식은 한국중부발전, 보령교육지원청, 지속가능발전협의회, 사랑의 열매, <b>청라<\/b>초등학교 교직원과 학생회... ",
 			"pubDate":"Fri, 29 Mar 2024 11:06:00 +0900"
-		},
-		{
-			"title":"전국 뒤덮은 올봄 최악 황사… 오후까지 ‘황사비’",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20240329505391?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003919250?sid=102",
-			"description":"인천 <b>청라<\/b>는 오전 6시 기준 미세먼지 1시간 평균 농도가 698㎍\/㎥까지 치솟기도 했다. 황사는 북서풍을 타고 남동진하면서 전국을 뒤덮겠다. 토요일인 30일에도 황사가 빠져나가지 않고 남아 대기질이 나쁠 전망이다.... ",
-			"pubDate":"Fri, 29 Mar 2024 11:04:00 +0900"
 		}
 	]
 }
