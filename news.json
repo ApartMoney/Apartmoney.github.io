@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 31 Mar 2024 18:20:02 +0900",
-	"total":223362,
+	"lastBuildDate":"Sun, 31 Mar 2024 18:30:02 +0900",
+	"total":223363,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"제21회 태화강 국제마라톤대회 우승자 인터뷰",
+			"originallink":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1037181",
+			"link":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1037181",
+			"description":"#하프코스 여자 1위 강다언 &quot;서울에서도 못 해본 우승, 친정에서 하게 돼 너무 기뻐요.&quot; 하프코스 여자부 우승은 인천 <b>청라<\/b>에서 온 강다언(33)씨의 몫이었다. 그는 처음 참가한 태화강 국제마라톤에서 '깜짝' 우승을... ",
+			"pubDate":"Sun, 31 Mar 2024 18:22:00 +0900"
+		},
 		{
 			"title":"오를 곳은 올랐다…대구 2023~2024년 입주 단지 10곳 중 3곳은 프리미엄 붙어",
 			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20240331010004283",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=384617",
 			"description":"또, 기업 유치 방안과 <b>청라<\/b>시티타워 건립사업에 국가가 참여하는 방안을 놓고서도 대립각을 세운 두 후보. 마무리 인사에서도 이 후보는 '책임감'을, 박 후보는 '능력'을 각각 강조하며 유권자들의 선택을 호소했습니다.... ",
 			"pubDate":"Fri, 29 Mar 2024 18:34:00 +0900"
-		},
-		{
-			"title":"전국 뒤덮은 최악 황사… 주말 내내 대기질 나쁨",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20240329512721?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003919400?sid=102",
-			"description":"인천 <b>청라<\/b>는 오전 6시 기준 미세먼지 농도가 698㎍\/㎥까지 치솟기도 했다. 환경부는 이날 세종을 제외한 중부지방에 주의 단계 황사위기경보를 발령했다. 경북에는 앞서 관심 단계 황사위기경보를 내렸다. 중국... ",
-			"pubDate":"Fri, 29 Mar 2024 18:23:00 +0900"
 		}
 	]
 }
