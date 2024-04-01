@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 02 Apr 2024 03:00:02 +0900",
-	"total":223371,
+	"lastBuildDate":"Tue, 02 Apr 2024 03:10:02 +0900",
+	"total":223373,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"가족들과 도서관으로 봄나들이 가볼까",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240401\/124268482\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003556726?sid=102",
+			"description":"<b>청라<\/b>국제도서관에서는 12일 ‘디즈니 샌드아트’가 열리고, 13일 윤지선 작가가 ‘초등 문해력 공부 혁명’을 주제로 강의한다. 영종하늘도서관은 14일 김성우 작가가 ‘누구나 할 수 있는 해 본 적 없는 달리기’를... ",
+			"pubDate":"Tue, 02 Apr 2024 03:05:00 +0900"
+		},
+		{
+			"title":"도심에 ‘죄수복 이재명’ 허위사진 유포 수사",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240402\/124269613\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003556647?sid=102",
+			"description":"지난달 28일엔 충남 보령시 <b>청라<\/b>면의 한 마을회관 앞에서 차량 열쇠로 특정 후보의 선거 벽보를 훼손한 60대 남성이 경찰에 붙잡혔다. 공직선거법에 따르면 정당한 사유 없이 선거 벽보나 현수막 등을 훼손하거나... ",
+			"pubDate":"Tue, 02 Apr 2024 03:01:00 +0900"
+		},
 		{
 			"title":"민생·실행계획 뒷전 '속 빈 정책공보물'",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240402010000134",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1106981",
 			"description":"매일일보 = 이종민 기자  |  인천광역시 미추홀도서관 및 분관(<b>청라<\/b>호수·<b>청라<\/b>국제·영종하늘·마전·송도국제기구도서관)에서는 제60회 도서관주간을 맞이해 전시, 작가와의 만남, 특강 등 다양한 문화행사를... ",
 			"pubDate":"Mon, 01 Apr 2024 11:36:00 +0900"
-		},
-		{
-			"title":"BS산업, 신임 대표이사에 김만겸 전 한화건설 개발사업본부 부사장 선임",
-			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024040110461623804",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005019719?sid=101",
-			"description":"BS산업은 다양한 개발사업에 대한 전문성과 폭넓은 인적·물적 네트워크를 갖추고 있어 BS산업이 역점을 두고 추진중인 친환경 미래도시 솔라시도,세종·부산 스마트시티 개발사업, 새만금 신시야미, <b>청라<\/b>국제금융단지 등... ",
-			"pubDate":"Mon, 01 Apr 2024 11:04:00 +0900"
-		},
-		{
-			"title":"인천경제청, 경제자유구역 민간주택 신제생에너지 설치비 지원",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=244231",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=244231",
-			"description":"인천경제청은 오는 8일부터 신재생에너지 보급 확대와 친환경 국제도시 조성을 위해 송도·영종·<b>청라<\/b> 등 경제자유구역 내 민간주택에 태양광, 태양열, 지열, 연료전지 등 신재생에너지 설치비를 지원하다고 1일... ",
-			"pubDate":"Mon, 01 Apr 2024 10:54:00 +0900"
 		}
 	]
 }
