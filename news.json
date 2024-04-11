@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 11 Apr 2024 15:20:02 +0900",
-	"total":223745,
+	"lastBuildDate":"Thu, 11 Apr 2024 15:30:03 +0900",
+	"total":223746,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서구문화재단, '찾아가는' 신규 문화사업 확대",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363646884",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363646884",
+			"description":"혁신을 꾀하고 있는 사업은 서구의 대표적 지역축제인 ▶정서진 피크닉 클래식 ▶<b>청라<\/b> 뮤직&amp;와인 페스티벌 ▶인천서구생활문화축제 ▶서곶문화예술제 ▶인천어린이공연예술축제 등이다. 신규사업은 원도심과 검단 등... ",
+			"pubDate":"Thu, 11 Apr 2024 15:20:00 +0900"
+		},
 		{
 			"title":"전국 아파트값 20주 연속 하락…수도권만 상승 전환",
 			"originallink":"http:\/\/www.sisajournal.com\/news\/articleView.html?idxno=288032",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100830",
 			"description":"이 후보는 주요 공약으로 <b>청라<\/b>시티타워 정상 추진, GTX-D·E 예타조사 면제 및 당내 협의체 구성, <b>청라<\/b>광역소각장 폐쇄 및 이전, 수도권매립지 종료 후 문화체육시설 설치, 연희동 복합체육문화시설 건립 등을... ",
 			"pubDate":"Thu, 11 Apr 2024 00:12:00 +0900"
-		},
-		{
-			"title":"인천 계양구갑 민주당 유동수 당선 확실",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100828",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=100828",
-			"description":"유 후보는 주요 공약으로 GTX-D·E노선 제5차 국가철도망 구축계획 반영 및 신속 예타 추진, 서울2호선 <b>청라<\/b>연장 조기착공 추진, 계산동 일원 도시재생사업 추진, 경인교대구역 도시관리계획 재정비, 계산3동... ",
-			"pubDate":"Thu, 11 Apr 2024 00:10:00 +0900"
 		}
 	]
 }
