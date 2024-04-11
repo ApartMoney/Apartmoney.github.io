@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 11 Apr 2024 14:50:02 +0900",
-	"total":223740,
+	"lastBuildDate":"Thu, 11 Apr 2024 15:00:03 +0900",
+	"total":223741,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울 아파트값 3주 연속 상승, 용산·마포·양천·서초 오르고 노도강 약세",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=348770",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=348770",
+			"description":"서구(-0.03%)는 <b>청라<\/b>·가좌동 아파트 단지 위주로 값이 하락했다. 4월 둘째 주 전국 아파트값은 지난주와 견줘 0.01% 내렸다. 시도별로는 제주(-0.06%), 부산(-0.06%), 경남(-0.05%), 대전(-0.04%), 대구(-0.04%), 전북(-0.03%) 등에서... ",
+			"pubDate":"Thu, 11 Apr 2024 14:54:00 +0900"
+		},
 		{
 			"title":"수도권 아파트 가격 20주 만에 오름 전환…서울은 3주째 상승",
 			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=669349",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1244345",
 			"description":"인천은 루원시티를 중심으로 한 원도심 재개발, <b>청라<\/b>국제도시, 송도국제도시, 영종국제도시 등 경제자유구역, 그리고 검단신도시, 서창동 등 도심 외곽의 신도시와 택지 개발로 인해 인구가 꾸준히 증가하고 있다. 이러한... ",
 			"pubDate":"Wed, 10 Apr 2024 19:42:00 +0900"
-		},
-		{
-			"title":"충남 보령시, 지역경제 활성화 위한 생활인구 증가에 총력",
-			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=969831",
-			"link":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=969831",
-			"description":"아울러 인프라 조성 분야는 △웅천산단·<b>청라<\/b>농공 내 우량기업 유치 △신산업 육성을 통한 지속 가능한 도시 육성 △보령시 청년센터 신축 △농촌주택단지 조성 △보령스포츠 파크 에어돔 등 5개 과제이다. 이 밖에... ",
-			"pubDate":"Wed, 10 Apr 2024 19:26:00 +0900"
 		}
 	]
 }
