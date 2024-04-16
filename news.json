@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 17 Apr 2024 05:00:02 +0900",
-	"total":223901,
+	"lastBuildDate":"Wed, 17 Apr 2024 05:10:02 +0900",
+	"total":223902,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 ‘영종 진아 레히’ 547가구 공급",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/publicnews\/local_govern\/news_local\/2024\/04\/17\/20240417009010?wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003444665?sid=102",
+			"description":"송도·<b>청라<\/b>와 함께 인천지역 3대 국제도시로 개발 잠재력이 아직 많이 남아 있는 지역이다. 지난 2월 기준 영종도 인구는 11만 8602명으로 12만 돌파를 눈앞에 두고 있다. 이는 <b>청라<\/b>국제도시 인구 11만 3617명을 넘어선... ",
+			"pubDate":"Wed, 17 Apr 2024 05:04:00 +0900"
+		},
 		{
 			"title":"인천 도시철 노선 추가 경제성 낮아 아직은 '빨간불'",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1083919",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002023581?sid=102",
 			"description":"박덕수 행정부시장은 회의에서, 인천발 KTX 건설과 수도권 광역급행철도(GTX)-B 노선 건설, 서울 7호선 <b>청라<\/b> 연장선 건설, 경인고속도로 지하화, 공단고가교∼서인천IC 혼잡도로 개선 등에 대한 국비 지원과 정부 계획... ",
 			"pubDate":"Tue, 16 Apr 2024 15:15:00 +0900"
-		},
-		{
-			"title":"인천시, 국토부에 인천발 KTX 등 교통 현안 국비 요청",
-			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020003433&code=61121111&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001689057?sid=102",
-			"description":"7호선 <b>청라<\/b>국제도시연장 건설(1조5828억원), 수도권 광역급행철도(GTX-B) 건설(6조4005억원), 경인고속도로 지하화(1조7352억원), 계양권역 버스차고지(218억원), 저상버스 도입 지원(704억원), 원도심 지능형 교통체계 확대... ",
-			"pubDate":"Tue, 16 Apr 2024 15:10:00 +0900"
 		}
 	]
 }
