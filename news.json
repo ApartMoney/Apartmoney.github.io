@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 16 Apr 2024 11:20:02 +0900",
-	"total":223859,
+	"lastBuildDate":"Tue, 16 Apr 2024 11:30:03 +0900",
+	"total":223861,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"4월 2주차 전국 부동산 시세, 아파트 매매·전세 가격",
+			"originallink":"https:\/\/www.bntnews.co.kr\/article\/view\/bnt202404160029",
+			"link":"https:\/\/www.bntnews.co.kr\/article\/view\/bnt202404160029",
+			"description":"서구(-0.03%)는 <b>청라<\/b>·가좌동 위주로 하락했으나, 중구(0.07%)는 중산·신흥동 중소형 규모 위주로, 미추홀구(0.07%)는 주안·도화동주요단지 위주로, 연수구(0.04%)는 동춘·송도동 위주로, 부평구(0.04%)는삼산·부평동 위주로... ",
+			"pubDate":"Tue, 16 Apr 2024 11:28:00 +0900"
+		},
+		{
+			"title":"[철도투데이] 인천시, 5월에 서울2호선 <b>청라<\/b>연장 국가철도망 반영 건의",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=245080",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=245080",
+			"description":"인천투데이=홍지은 PDㅣ 인천시가 오는 5월 서울도시철도2호선 <b>청라<\/b> 연장 노선을 국가철도망에... 서울2호선 <b>청라<\/b>·계양 연장 사업은 서울2호선 홍대입구역부터~경기도 고양시~서울시 강서·양천구~경기도 부천... ",
+			"pubDate":"Tue, 16 Apr 2024 11:24:00 +0900"
+		},
 		{
 			"title":"ONT CANADA, 2024년 여름 방학 맞이 ‘<b>청라<\/b> 캠퍼스 영어캠프’ 진행",
 			"originallink":"https:\/\/www.gosiweek.com\/article\/1065579142528971",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=221365",
 			"description":"코스트코는 현재 인천 <b>청라<\/b>점에 개점을 추진 중이며, 오는 2026년엔 제주도에 신규 개점할 예정이다. 이 때문에 포항시민은 코스트코에서 물품을 사거나 체험하기 위해 종종 대구나 부산을 찾는 것으로 알려졌다.... ",
 			"pubDate":"Mon, 15 Apr 2024 18:52:00 +0900"
-		},
-		{
-			"title":"“경인선·경인고속道 지하화”… 천문학적 국비 관건 [4·10 총선 그 이후]",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240415580345",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000039251?sid=100",
-			"description":"경인고속도로 지하화 사업은 경인고속도로의 지속적인 침체 문제를 해결하기 위해 인천 서구 <b>청라<\/b>동부터 서울 양천구 신월동까지 15.3㎞로 이 중 11.2㎞를 지하화하는 사업이다. 현재 기획재정부와 한국개발연구원(KDI)의... ",
-			"pubDate":"Mon, 15 Apr 2024 18:36:00 +0900"
-		},
-		{
-			"title":"美 창고형 유통시설 코스트코 포항 상륙 가시화",
-			"originallink":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=545579",
-			"link":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=545579",
-			"description":"코스트코는 인천 <b>청라<\/b>점 개점을 추진하고 있으며, 제주도에도 2026년 신규 개점할 예정이다. 코스트코는 국내 연매출액 약 6조 원 정도(점포당 3000억)의 유통기업으로, 지역 내 입점할 경우 일자리 창출 및 인근지역 소비... ",
-			"pubDate":"Mon, 15 Apr 2024 18:32:00 +0900"
 		}
 	]
 }
