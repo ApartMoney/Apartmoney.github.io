@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Tue, 16 Apr 2024 21:10:02 +0900",
-	"total":223899,
+	"lastBuildDate":"Tue, 16 Apr 2024 21:20:02 +0900",
+	"total":223902,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 도시철 노선 추가 경제성 낮아 아직은 '빨간불'",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1083919",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1083919",
+			"description":"연장 ▶서울7호선 <b>청라<\/b> 연장선 인천2호선 환승에 필요한 '<b>청라<\/b>~수도권매립지~강화 연결 등 노선의 경제성과 수요예측, 자금 조달 방안 등을 연구한다. 유정복 시장의 시책인 순환 3호선은 인천대공원을 출발해 논현동... ",
+			"pubDate":"Tue, 16 Apr 2024 21:10:00 +0900"
+		},
+		{
+			"title":"인천시 교통현안 10건 국비 반영 요청",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1083935",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1083935",
+			"description":"7호선 <b>청라<\/b>국제도시연장 건설(1조5천828억 원) ▶수도권 광역급행철도(GTX-B)건설(6조4천5억 원) ▶경인고속도로 지하화(1조7천352억 원) ▶계양권역 버스차고지(218억 원) ▶저상버스 도입 지원(704억 원) ▶원도심... ",
+			"pubDate":"Tue, 16 Apr 2024 21:10:00 +0900"
+		},
+		{
+			"title":"서구 주민들 몸도 환경도 건강하게 '한 발 한 발'",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1083875",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1083875",
+			"description":"지역주민 대상 비대면으로 조깅 또는 걷기를 하며 쓰레기를 줍는 활동으로, 서로이음길 2코스(원적산), 3코스(천마산), 8코스(가현산), 11코스(<b>청라<\/b>노을길)에서 쓰레기를 줍는 활동사진을 서구자원봉사센터 카카오채널에... ",
+			"pubDate":"Tue, 16 Apr 2024 21:10:00 +0900"
+		},
 		{
 			"title":"인천환경공단, 시민환경해설사 1기 40명 위촉",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=449424",
@@ -192,27 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001689057?sid=102",
 			"description":"7호선 <b>청라<\/b>국제도시연장 건설(1조5828억원), 수도권 광역급행철도(GTX-B) 건설(6조4005억원), 경인고속도로 지하화(1조7352억원), 계양권역 버스차고지(218억원), 저상버스 도입 지원(704억원), 원도심 지능형 교통체계 확대... ",
 			"pubDate":"Tue, 16 Apr 2024 15:10:00 +0900"
-		},
-		{
-			"title":"인천시, 국토부 찾아 교통 현안 해결위해 국비 지원 요청",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=790080",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=790080",
-			"description":"세부적으로는 ▲인천발 KTX 건설(5108억 원) ▲공단고가교~서인천IC 혼잡도로 개선(6123억 원) ▲도시철도 법정 무임승차 손실지원(310억 원) ▲인천1,2호선 철도통합무선망 구축(372억 원) ▲서울도시철도 7호선 <b>청라<\/b>국... ",
-			"pubDate":"Tue, 16 Apr 2024 15:04:00 +0900"
-		},
-		{
-			"title":"우리 함께 산책할까요...김재경의 ‘산책-strolling’전",
-			"originallink":"http:\/\/www.kbsm.net\/news\/view.php?idx=430084",
-			"link":"http:\/\/www.kbsm.net\/news\/view.php?idx=430084",
-			"description":"갤러리 <b>청라<\/b>가 서양화가 김재경의 ‘산책-strolling’ 전을 22일부터 28일까지 연다. 화가 김재경은... 깊이 잠들어 있는 동심을 일깨우는 따뜻한 제안으로 다가올 것이다. 전시 문의는 갤러리 <b>청라<\/b> 010-2503-5100으로 하면 된다.",
-			"pubDate":"Tue, 16 Apr 2024 15:04:00 +0900"
-		},
-		{
-			"title":"인천시 &quot;국토교통 현안 사업비 정부 예산안에 반영해 달라&quot;",
-			"originallink":"https:\/\/www.news1.kr\/articles\/5386504",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007484936?sid=102",
-			"description":"인천시가 예산안에 반영해 달라고 요청한 사업은 △인천발KTX 건설(5108억 원) △공단고가교~서인천IC 혼잡도로 개선(6123억 원) △서울도시철도 7호선 <b>청라<\/b>국제도시연장 건설(1조 5828억 원) △수도권 광역급행철도(GTX)... ",
-			"pubDate":"Tue, 16 Apr 2024 15:02:00 +0900"
 		}
 	]
 }
