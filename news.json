@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 19 Apr 2024 06:30:02 +0900",
-	"total":223999,
+	"lastBuildDate":"Fri, 19 Apr 2024 06:40:02 +0900",
+	"total":224000,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시설공단, 산림교육전문가 양성 지원",
+			"originallink":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=193064",
+			"link":"http:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=193064",
+			"description":"오늘경제 인천녹색연합과 교육실습기관 업무협약식 인천시설공단(이사장 김종필)은 지난 17일 <b>청라<\/b> 노을공원... 공단은 <b>청라<\/b>공원에서 운영하고 있는 숲해설 프로그램에 인천녹색연합의 숲해설가 전문과정 교육생들이... ",
+			"pubDate":"Fri, 19 Apr 2024 06:30:00 +0900"
+		},
 		{
 			"title":"인천시, 국가산업대상서 '도심항공교통 선도 도시 부문' 수상",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=588601",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=245244",
 			"description":"서구는 도시철도, 도로, 공항 높은 접근성 등을 근거로 국제스케이트장을 <b>청라<\/b>동 1-1002 일원 <b>청라<\/b>국제도시 6블록 유치를 위해 노력하고 있다. 황순형 서구체육회장은 &quot;국제스케이트장 입지 최상의 조건이 있는 최적의... ",
 			"pubDate":"Thu, 18 Apr 2024 12:06:00 +0900"
-		},
-		{
-			"title":"인천시, 국가산업대상 '도심항공교통 선도도시' 부문 수상",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=245254",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=245254",
-			"description":"이를 활용해 국토교통부의 'K-UAM 그랜드챌린지' 2단계 도심실증(<b>청라<\/b>국제도시~아라뱃길~계양테크노밸리 14km 구간)에서 민원과 비상상황 대응체계를 강화했다. 또한, UAM 실내 테스트실을 구축하고 기업과 대학의... ",
-			"pubDate":"Thu, 18 Apr 2024 12:04:00 +0900"
 		}
 	]
 }
