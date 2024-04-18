@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 19 Apr 2024 02:00:03 +0900",
-	"total":223998,
+	"lastBuildDate":"Fri, 19 Apr 2024 02:10:02 +0900",
+	"total":223999,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 국가산업대상서 '도심항공교통 선도 도시 부문' 수상",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=588601",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=588601",
+			"description":"환경과 인프라를 분석하여 디지털트윈 기반 '실시간 안전관리 모니터링 체계'를 구축했으며 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상상황 대응체계를... ",
+			"pubDate":"Fri, 19 Apr 2024 02:00:00 +0900"
+		},
 		{
 			"title":"인천시 <b>청라<\/b>호수도서관·인천대, '지역인재 양성·정보교류' 맞손",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=588606",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=245254",
 			"description":"이를 활용해 국토교통부의 'K-UAM 그랜드챌린지' 2단계 도심실증(<b>청라<\/b>국제도시~아라뱃길~계양테크노밸리 14km 구간)에서 민원과 비상상황 대응체계를 강화했다. 또한, UAM 실내 테스트실을 구축하고 기업과 대학의... ",
 			"pubDate":"Thu, 18 Apr 2024 12:04:00 +0900"
-		},
-		{
-			"title":"인천 서구, &quot;관내 발전소와 소통 창구 마련하겠다&quot; 확답",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=245259",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=245259",
-			"description":"이에 지난해 행정사무감사에서 해당 사항을 건의한 김원진(더불어민주당, <b>청라<\/b>1·2동) 의원은 &quot;2년 마다... 지난해 10월 &lt;인천투데이&gt;는 서구 <b>청라<\/b>동에 소재한 복합화력발전소인 한국서부발전(주) 운영 서인천복합발전소와... ",
-			"pubDate":"Thu, 18 Apr 2024 11:48:00 +0900"
 		}
 	]
 }
