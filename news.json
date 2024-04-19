@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 19 Apr 2024 11:10:02 +0900",
-	"total":224005,
+	"lastBuildDate":"Fri, 19 Apr 2024 11:20:03 +0900",
+	"total":224006,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 내 공원에 ‘맨발 길’ 32개까지 늘린다",
+			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1137317.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002686096?sid=102",
+			"description":"인천시는 올해 이미 남동구 인천대공원과 부평구 시냇물 공원, 서구 <b>청라<\/b>47호 경관녹지, <b>청라<\/b> 3호 완충녹지에 맨발 길을 조성했다. 특히 남동구 인천대공원에 만든 황톳길에는 그늘막과 세족 시설, 안전 펜스, 신발장... ",
+			"pubDate":"Fri, 19 Apr 2024 11:13:00 +0900"
+		},
 		{
 			"title":"미래 준비하는 보람그룹…'실버케어' 키우고 AI‧호텔 밀고",
 			"originallink":"http:\/\/www.financialreview.co.kr\/news\/articleView.html?idxno=28349",
@@ -26,7 +33,7 @@
 			"pubDate":"Fri, 19 Apr 2024 10:36:00 +0900"
 		},
 		{
-			"title":"하나손보, '고전 중'인데도 '안정적' 평가...하나금융지주 덕?",
+			"title":"하나손해보험, '고전 중'인데도 '안정적' 평가",
 			"originallink":"http:\/\/www.newsfc.co.kr\/news\/articleView.html?idxno=63985",
 			"link":"http:\/\/www.newsfc.co.kr\/news\/articleView.html?idxno=63985",
 			"description":"▲2025년 완공 예정인, 인천 <b>청라<\/b> 하나드림타운(사진=하나금융그룹 홈페이지)  최근 손보업계의 주력상품인 자동차보험 부문에서 중소형사는 고전을 면치 못하고, 향후에도 수익성 확보가 어려워 실적 개선 전망이... ",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.breaknews.com\/1027424",
 			"description":"환경과 인프라를 분석하여 디지털트윈 기반 ‘실시간 안전관리 모니터링 체계’를 구축했으며 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>... ",
 			"pubDate":"Thu, 18 Apr 2024 13:50:00 +0900"
-		},
-		{
-			"title":"인천시, '2024년 국가산업대상' 도심항공교통산업 선도 도시 부문 수상",
-			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=670367",
-			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=670367",
-			"description":"또 환경과 인프라를 분석해 디지털트윈 기반 '실시간 안전관리 모니터링 체계'를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14㎞ 구간)의 민원과 비상상황 대응체계를... ",
-			"pubDate":"Thu, 18 Apr 2024 13:48:00 +0900"
 		}
 	]
 }
