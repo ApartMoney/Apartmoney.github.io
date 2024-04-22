@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 23 Apr 2024 05:00:02 +0900",
-	"total":224333,
+	"lastBuildDate":"Tue, 23 Apr 2024 05:10:02 +0900",
+	"total":224334,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 주요일정]인천·김포·부천(4월23일 화요일)",
+			"originallink":"https:\/\/www.newsis.com\/view\/?id=NISX20240422_0002708854&cID=10802&pID=14000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012506480?sid=102",
+			"description":"2시, 김포시 제9회 조례규칙심의회, 소회의실 ▲오후 2시, 원팀부천 정책발표회, 어울마당 ▲오후 2시, 인천시 현장소통간담회, <b>청라<\/b>호수도서관·마전도서관 ▲오후 6시, 청년기업인협의회 회장 이·취임식, 성공회의소",
+			"pubDate":"Tue, 23 Apr 2024 05:00:00 +0900"
+		},
 		{
 			"title":"[인천판\/게시판]인천 外",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240422\/124603489\/1",
@@ -54,17 +61,17 @@
 			"pubDate":"Mon, 22 Apr 2024 20:22:00 +0900"
 		},
 		{
-			"title":"'BMW R&amp;D센터' 스타트",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1246125",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1246125",
-			"description":"▲ 22일 인천 <b>청라<\/b>국제도시에서 열린 BMW 그룹 R&amp;D 센터 코리아 개소식에서 요헨 골러 BMW 그룹 고객·브랜드... (LH) <b>청라<\/b>영종사업본부 본부장, 이용우 인천 서구을 국회의원 당선인, 요헨 골러 BMW그룹 고객·브랜드... ",
-			"pubDate":"Mon, 22 Apr 2024 19:58:00 +0900"
-		},
-		{
 			"title":"[포토] <b>청라<\/b> BMW R&amp;D센터 시동",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1246115",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1246115",
 			"description":"▲ 22일 오전 인천 서구 <b>청라<\/b> BMW 그룹 R&amp;D 센터 코리아에서 열린 개관식에서 다니엘 보트거 BMW 그룹 완성차 연구개발 총괄 시니어 부사장이 인증실험실, 고전압 충전 시험동, 차량 시험실 등 다양한 연구... ",
+			"pubDate":"Mon, 22 Apr 2024 19:58:00 +0900"
+		},
+		{
+			"title":"'BMW R&amp;D센터' 스타트",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1246125",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1246125",
+			"description":"▲ 22일 인천 <b>청라<\/b>국제도시에서 열린 BMW 그룹 R&amp;D 센터 코리아 개소식에서 요헨 골러 BMW 그룹 고객·브랜드... (LH) <b>청라<\/b>영종사업본부 본부장, 이용우 인천 서구을 국회의원 당선인, 요헨 골러 BMW그룹 고객·브랜드... ",
 			"pubDate":"Mon, 22 Apr 2024 19:58:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2024\/04\/22\/2024042200311.html",
 			"description":"뉴데일리 송원영 기자 = 인천경제자유구역인 <b>청라<\/b>국제도시에 BMW 그룹의 연구개발(R&amp;D) 센터가 확장 이전해 문을 열었다. 인천경제자유구역청은 22일 BMW 코리아 주관으로 <b>청라<\/b> IHP(Incheon Hi-Tech Park)... ",
 			"pubDate":"Mon, 22 Apr 2024 17:02:00 +0900"
-		},
-		{
-			"title":"인천 주택 매매가 중구, 부평구, 서구 상승세 전환",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240422029239168",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240422029239168",
-			"description":"서구(0.04%)는 <b>청라<\/b>국제도시와 검단신도시 위주로 상승폭을 유지했으며, 연수구(0%)는 수도권광역급행철도(GTX)-B 노선 착공 등 교통망 개선 기대심리로 하락에서 보합 전환했다. 반면 동구(-0.07%), 계양구(-0.11... ",
-			"pubDate":"Mon, 22 Apr 2024 17:00:00 +0900"
 		}
 	]
 }
