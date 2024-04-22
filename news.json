@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 23 Apr 2024 06:00:02 +0900",
-	"total":224335,
+	"lastBuildDate":"Tue, 23 Apr 2024 06:10:02 +0900",
+	"total":224336,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"메트로신문 - 4월 23일자 한줄뉴스",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20240422500683",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20240422500683",
+			"description":"▲BMW그룹이 전 세계에서 5번째로 구축한 국내 연구개발(R&amp;D) 센터를 인천 <b>청라<\/b>국제도시로 확장 이전하면서 국내 소비자들의 편의성 향상에 집중한다. &lt;금융·부동산&gt; ▲지난해 고금리 기조가 꺾이지 않자 은행 대출과... ",
+			"pubDate":"Tue, 23 Apr 2024 06:02:00 +0900"
+		},
 		{
 			"title":"BMW, 인천에 R&amp;D센터 확장 이전…&quot;한국 시장은 기술 인큐베이터&quot;",
 			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024042212231315922",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=245413",
 			"description":"인천 <b>청라<\/b> 연장은 서울2호선 홍대입구역부터~경기도 고양시~서울시 강서·양천구~경기도 부천 대장신도시를 연결하는 대장홍대선을 다시 부천 대장신도시부터 인천시 계양 작전역(인천1호선)을 지난 서구 <b>청라<\/b>역... ",
 			"pubDate":"Mon, 22 Apr 2024 17:14:00 +0900"
-		},
-		{
-			"title":"인천에 R&amp;D센터 조성한 BMW &quot;한국은 혁신 선두 국가&quot;",
-			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024042202109932091011&ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002869161?sid=103",
-			"description":"요헨 골러 BMW 그룹 고객·브랜드·세일즈 부회장은 22일 인천광역시 <b>청라<\/b>국제도시에서 열린 'BMW 그룹 R&amp;D 센터 코리아' 개관식에서 &quot;한국은 최첨단 혁신에 있어 세계적 선두에 자리한 국가&quot;라며 &quot;새로운 기술을... ",
-			"pubDate":"Mon, 22 Apr 2024 17:03:00 +0900"
 		}
 	]
 }
