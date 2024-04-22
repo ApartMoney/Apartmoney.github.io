@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 22 Apr 2024 17:00:03 +0900",
-	"total":224304,
+	"lastBuildDate":"Mon, 22 Apr 2024 17:10:02 +0900",
+	"total":224306,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천에 R&amp;D센터 조성한 BMW &quot;한국은 혁신 선두 국가&quot;",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024042202109932091011&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002869161?sid=103",
+			"description":"요헨 골러 BMW 그룹 고객·브랜드·세일즈 부회장은 22일 인천광역시 <b>청라<\/b>국제도시에서 열린 'BMW 그룹 R&amp;D 센터 코리아' 개관식에서 &quot;한국은 최첨단 혁신에 있어 세계적 선두에 자리한 국가&quot;라며 &quot;새로운 기술을... ",
+			"pubDate":"Mon, 22 Apr 2024 17:03:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b>국제도시에 ‘BMW 연구개발(R&amp;D) 센터’ 개소",
+			"originallink":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2024\/04\/22\/2024042200311.html",
+			"link":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2024\/04\/22\/2024042200311.html",
+			"description":"뉴데일리 송원영 기자 = 인천경제자유구역인 <b>청라<\/b>국제도시에 BMW 그룹의 연구개발(R&amp;D) 센터가 확장 이전해 문을 열었다. 인천경제자유구역청은 22일 BMW 코리아 주관으로 <b>청라<\/b> IHP(Incheon Hi-Tech Park)... ",
+			"pubDate":"Mon, 22 Apr 2024 17:02:00 +0900"
+		},
+		{
+			"title":"인천 주택 매매가 중구, 부평구, 서구 상승세 전환",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240422029239168",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240422029239168",
+			"description":"서구(0.04%)는 <b>청라<\/b>국제도시와 검단신도시 위주로 상승폭을 유지했으며, 연수구(0%)는 수도권광역급행철도(GTX)-B 노선 착공 등 교통망 개선 기대심리로 하락에서 보합 전환했다. 반면 동구(-0.07%), 계양구(-0.11... ",
+			"pubDate":"Mon, 22 Apr 2024 17:00:00 +0900"
+		},
 		{
 			"title":"BMW그룹, &quot;한국, 신기술 테스트 최적의 장소&quot;",
 			"originallink":"http:\/\/autotimes.hankyung.com\/apps\/news.sub_view?popup=0&nid=03&c1=03&c2=03&c3=00&nkey=202404221608551",
@@ -54,7 +75,7 @@
 			"pubDate":"Mon, 22 Apr 2024 16:42:00 +0900"
 		},
 		{
-			"title":"BMW, <b>청라<\/b>에 전용 연구 거점 마련… “세계 5위 시장 한국 적극 지원”",
+			"title":"BMW, <b>청라<\/b>에 전용 연구 거점 마련… “세계 5위 한국 시장 적극 지원”",
 			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20240422\/124597626\/2",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003560483?sid=103",
 			"description":"BMW 그룹 코리아, 인천 <b>청라<\/b>국제도시에 ‘BMW 그룹 R&amp;D 센터 코리아’ 개관 BMW가 한국 맞춤형 상품 개발과... BMW그룹코리아는 인천광역시 <b>청라<\/b>국제도시에 ‘BMW 그룹 R&amp;D 센터 코리아’를 새롭게 건립해 개관했다고 22일... ",
@@ -159,17 +180,17 @@
 			"pubDate":"Mon, 22 Apr 2024 15:44:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b>국제도시에 BMW 그룹 R&amp;D 센터 코리아 개소",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202404221523530313",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005174765?sid=101",
-			"description":"인천경제자유구역(IFEZ) <b>청라<\/b>국제도시에 BMW 그룹 연구개발(R&amp;D) 센터가 확장 이전해 새롭게 문을 열었다.... 인천경제자유구역청은 BMW 코리아㈜ 주관으로 <b>청라<\/b> IHP(Incheon Hi-Tech Park) 도시첨단산업단지에서 R&amp;D 센터... ",
-			"pubDate":"Mon, 22 Apr 2024 15:40:00 +0900"
-		},
-		{
 			"title":"“한국 5번째 큰 시장” BMW <b>청라<\/b> R&amp;D센터 개소",
 			"originallink":"https:\/\/economist.co.kr\/article\/view\/ecn202404220039",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000058786?sid=101",
 			"description":"BMW그룹코리아는 22일 인천광역시 <b>청라<\/b>국제도시에 ‘BMW그룹 연구개발(R&amp;D)센터코리아’를 새롭게... 지난 2023년 4월 인천광역시 <b>청라<\/b> IHP(Incheon Hi-Tech Park) 도시첨단산업단지 내에 착공한 후 약 11개월 만인 올해... ",
+			"pubDate":"Mon, 22 Apr 2024 15:40:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b>국제도시에 BMW 그룹 R&amp;D 센터 코리아 개소",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202404221523530313",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005174765?sid=101",
+			"description":"인천경제자유구역(IFEZ) <b>청라<\/b>국제도시에 BMW 그룹 연구개발(R&amp;D) 센터가 확장 이전해 새롭게 문을 열었다.... 인천경제자유구역청은 BMW 코리아㈜ 주관으로 <b>청라<\/b> IHP(Incheon Hi-Tech Park) 도시첨단산업단지에서 R&amp;D 센터... ",
 			"pubDate":"Mon, 22 Apr 2024 15:40:00 +0900"
 		},
 		{
@@ -180,7 +201,7 @@
 			"pubDate":"Mon, 22 Apr 2024 15:38:00 +0900"
 		},
 		{
-			"title":"BMW그룹코리아, <b>청라<\/b> R&amp;D센터 개관 “韓 고객 위한 모빌리티 개발 박차”",
+			"title":"BMW <b>청라<\/b> R&amp;D센터 개관 “韓 고객 위한 모빌리티 개발 박차”",
 			"originallink":"https:\/\/www.etnews.com\/20240422000333",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003200192?sid=103",
 			"description":"BMW그룹코리아는 22일 인천시 <b>청라<\/b> 국제도시에 'BMW그룹 연구개발(R&amp;D) 센터 코리아'를 개관했다. 미국·중국·일본·브라질에 이어 BMW그룹의 세계 5번째 R&amp;D센터다. 2015년 인천 BMW 드라이빙 센터에 처음 개소한 BMW그룹 R&amp;D... ",
@@ -192,27 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012505632?sid=102",
 			"description":"인천경제자유구역청은 <b>청라<\/b>국제도시에 BMW 그룹 연구개발(R&amp;D) 센터가 확장 이전해 새롭게 문을 열었다고 22일 밝혔다. 이는 지난 2015년 인천 BMW 드라이빙 센터 내에 처음 개소한 BMW 그룹 R&amp;D 센터 코리아는 BMW 그룹... ",
 			"pubDate":"Mon, 22 Apr 2024 15:34:00 +0900"
-		},
-		{
-			"title":"인천 서구의회 김원진 의원, 관내 발전소와 소통 채널 구축",
-			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=168380",
-			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=168380",
-			"description":"김원진 의원 [사진=인천 서구의회]  인천 서구의회 김원진 의원(더불어민주당, <b>청라<\/b>1동·<b>청라<\/b>2동)은 지난 18일 실시된 서구청 기업지원과 행정사무 감사 결과 조치 보고에서 '<b>청라<\/b>에 있는 발전소와의 소통 채널 등 협력체계... ",
-			"pubDate":"Mon, 22 Apr 2024 15:28:00 +0900"
-		},
-		{
-			"title":"'BMW 그룹 R&amp;D 센터 코리아’ 개관",
-			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20240422050602",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002298336?sid=004",
-			"description":"BMW 그룹 코리아(대표 한상윤)가 22일 인천 <b>청라<\/b>국제도시에 ‘BMW 그룹 R&amp;D 센터 코리아’를 개관했다. 이번에 확장 이전한 BMW 그룹 R&amp;D 센터 코리아는 BMW 그룹이 지난 2015년 인천 BMW 드라이빙 센터 내에 처음 개소한... ",
-			"pubDate":"Mon, 22 Apr 2024 15:23:00 +0900"
-		},
-		{
-			"title":"BMW 코리아, 'BMW 그룹 R&amp;D 센터 코리아' 개관",
-			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20240422050601",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002298335?sid=004",
-			"description":"BMW 그룹 코리아(대표 한상윤)가 22일 인천 <b>청라<\/b>국제도시에 ‘BMW 그룹 R&amp;D 센터 코리아’를 개관했다. 이번에 확장 이전한 BMW 그룹 R&amp;D 센터 코리아는 BMW 그룹이 지난 2015년 인천 BMW 드라이빙 센터 내에 처음 개소한... ",
-			"pubDate":"Mon, 22 Apr 2024 15:22:00 +0900"
 		}
 	]
 }
