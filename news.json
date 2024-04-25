@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 25 Apr 2024 11:10:03 +0900",
-	"total":224531,
+	"lastBuildDate":"Thu, 25 Apr 2024 11:20:02 +0900",
+	"total":224532,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;인천경제청은 국제학교 유치 약속 지켜라&quot;…영종총연, 성명서 발표",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=386877",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=386877",
+			"description":"인천 송도국제도시와 <b>청라<\/b>에는 모두 국제학교가 있죠. 그런데 같은 인천경제자유구역인 영종에는 아직도... 2곳, <b>청라<\/b>국제도시에는 1곳이 있지만, 영종도에는 아직도 국제학교가 없는데 따른 비판입니다. 지난 2021년 영국... ",
+			"pubDate":"Thu, 25 Apr 2024 11:12:00 +0900"
+		},
 		{
 			"title":"롯데건설, GTX C·D 호재 누린다...‘계양 롯데캐슬 파크시티’ 26일 견본주택...",
 			"originallink":"http:\/\/www.betanews.net:8080\/article\/1465183.html",
@@ -19,17 +26,17 @@
 			"pubDate":"Thu, 25 Apr 2024 11:00:00 +0900"
 		},
 		{
-			"title":"롯데건설, 인천 ‘계양 롯데캐슬 파크시티’ 26일 견본주택 오픈",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240425010014089",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240425010014089",
-			"description":"D노선은 서울 강남권역으로, E노선은 서울 상암동권역으로 연결될 예정이다.서울지하철 2호선 <b>청라<\/b>연장노선 추진에 대한 기대감도 있다. 2호선 <b>청라<\/b>연장 사업은 서울2호선 홍대입구역부터~경기도 고양시~서울시... ",
-			"pubDate":"Thu, 25 Apr 2024 10:58:00 +0900"
-		},
-		{
 			"title":"인천시,'송도·<b>청라<\/b> 자원환경센터' 폐기물 처리시설 개선",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240425010014116",
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240425010014116",
 			"description":"2곳에 100억 투입해 노후 시설 개·보수 인천시는 송도와 <b>청라<\/b>의 자원환경센터 2곳에 약 100억원을 투입해 주민... 김철수 시 환경국장은 &quot;송도와 <b>청라<\/b>의 자원환경센터에 대한 시설개선 투자를 통해 인식개선 및 환경개선에... ",
+			"pubDate":"Thu, 25 Apr 2024 10:58:00 +0900"
+		},
+		{
+			"title":"롯데건설, 인천 ‘계양 롯데캐슬 파크시티’ 26일 견본주택 오픈",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240425010014089",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240425010014089",
+			"description":"D노선은 서울 강남권역으로, E노선은 서울 상암동권역으로 연결될 예정이다.서울지하철 2호선 <b>청라<\/b>연장노선 추진에 대한 기대감도 있다. 2호선 <b>청라<\/b>연장 사업은 서울2호선 홍대입구역부터~경기도 고양시~서울시... ",
 			"pubDate":"Thu, 25 Apr 2024 10:58:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005176347?sid=102",
 			"description":"인천시는 송도·<b>청라<\/b>의 자원환경센터에 각각 오는 5월과 6월까지 주민 편익시설 개선 및 폐기물 처리시설 개·보수를 추진한다. 시는 송도·<b>청라<\/b>의 자원환경센터에 100억원을 투입해 주민 편익시설 개선 및 폐기물 처리시설... ",
 			"pubDate":"Thu, 25 Apr 2024 08:39:00 +0900"
-		},
-		{
-			"title":"인천 송도·<b>청라<\/b> 자원환경센터 주민편익시설 개선에 100억 원 투입",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240425010008172",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240425010008172",
-			"description":"인천 송도·<b>청라<\/b> 자원환경센터 주민편익시설 개선에 100억 원 투입 인천시가 다음달부터 6월까지 송도·<b>청라<\/b> 자원환경센터의 주민편익시설 개선에 나선다. 이에 송도·<b>청라<\/b>국제도시의 자원환경센터 2곳에 대한 노후설비... ",
-			"pubDate":"Thu, 25 Apr 2024 08:14:00 +0900"
 		}
 	]
 }
