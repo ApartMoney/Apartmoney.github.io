@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sat, 27 Apr 2024 10:00:03 +0900",
-	"total":224655,
+	"lastBuildDate":"Sat, 27 Apr 2024 10:10:02 +0900",
+	"total":224657,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[철도투데이] 인구 70만명 전망 인천 서구, 추진 예정 철도교통만 8개",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=245611",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=245611",
+			"description":"<b>청라<\/b> 연장선입니다. 인천1호선 검단연장선은 계양역에서 검단신도시까지 6.82km 구간에 정거장 3개를 건설 중입니다. 2020년 10월 착공해 내년 상반기 개통 목표이며, 4월 17일 기준 공정률 93%입니다. 서울7호선 <b>청라<\/b>연장... ",
+			"pubDate":"Sat, 27 Apr 2024 10:06:00 +0900"
+		},
+		{
+			"title":"인천시 서구, 가로수 미국흰불나방 등 선제적 병해충 방제 실시",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281973496642",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281973496642",
+			"description":"올해 역시 기후변화로 인해 미국흰불나방 출현 시기가 빨라질 것이라는 예측에 따라 서구는 선제적 방제를 위하여 ▲아라뱃길 남부지역 ▲<b>청라<\/b>지역 ▲아라뱃길 북부지역 ▲검단신도시 4개 권역으로 나눠 작업을... ",
+			"pubDate":"Sat, 27 Apr 2024 10:02:00 +0900"
+		},
 		{
 			"title":"인천 도심이 레이싱 무대로… 국내 최초 스트릿 서킷 기대감 [위크&amp;인천]",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240427020160406",
@@ -19,16 +33,16 @@
 			"pubDate":"Sat, 27 Apr 2024 08:00:00 +0900"
 		},
 		{
-			"title":"[분양캘린더] '개봉루브루' 등 전국 5992가구 분양",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240426000692",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20240426000692",
+			"title":"'계양롯데캐슬파크시티' 등 5992가구 분양예정[분양캘린더]",
+			"originallink":"https:\/\/www.newsis.com\/view\/?id=NISX20240426_0002715105&cID=10401&pID=10400",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012515854?sid=101",
 			"description":"서울지하철 2호선 <b>청라<\/b>연장선(검토중), GTX-D·E노선(예정) 등이 개통되면 교통여건이 개선될 전망이다. 경인고속도로 부평IC를 통해 인천 도심 및 서울 진출입도 편리하다. 효성서초, 명현초, 효성초, 효성고 등... ",
 			"pubDate":"Sat, 27 Apr 2024 06:00:00 +0900"
 		},
 		{
-			"title":"'계양롯데캐슬파크시티' 등 5992가구 분양예정[분양캘린더]",
-			"originallink":"https:\/\/www.newsis.com\/view\/?id=NISX20240426_0002715105&cID=10401&pID=10400",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012515854?sid=101",
+			"title":"[분양캘린더] '개봉루브루' 등 전국 5992가구 분양",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240426000692",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20240426000692",
 			"description":"서울지하철 2호선 <b>청라<\/b>연장선(검토중), GTX-D·E노선(예정) 등이 개통되면 교통여건이 개선될 전망이다. 경인고속도로 부평IC를 통해 인천 도심 및 서울 진출입도 편리하다. 효성서초, 명현초, 효성초, 효성고 등... ",
 			"pubDate":"Sat, 27 Apr 2024 06:00:00 +0900"
 		},
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=245582",
 			"description":"보건복지부 '달빛어린이병원'으로 '<b>청라<\/b>연세어린이병원'과 '검단위키즈병원'이 지정된 바 있다. 이어 오는 5월 1일부터 운영되는 '<b>청라<\/b>좋은병원'과 '검단조은아이365병원' 두 곳이 달빛어린이병원으로 추가 지정됐다고... ",
 			"pubDate":"Fri, 26 Apr 2024 11:48:00 +0900"
-		},
-		{
-			"title":"[26일 인천 서구] 치매전담형 주야간보호센터 문화공연 성료 등",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20240426500111",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20240426500111",
-			"description":"<b>청라<\/b>2동 통장자율회, 국제스케이트장 서구 유치 기원 인천 서구 <b>청라<\/b>2동 통장자율회는 지난 25일 월례회의를 개최하며 소속 통장 40여명과 함께 “국제스케이트장 인천 서구 유치”라고 외치며, 한마음 한뜻으로 기원했다.... ",
-			"pubDate":"Fri, 26 Apr 2024 11:42:00 +0900"
-		},
-		{
-			"title":"GTX 2개 노선 품은 계양 롯데캐슬 파크시티 서울 강남·상암동 직통…접근성 ...",
-			"originallink":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=288797",
-			"link":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=288797",
-			"description":"이외에도 서울지하철 2호선 <b>청라<\/b>연장노선 추진도 새로운 호재로 떠오르고 있다. 2호선 <b>청라<\/b>연장 사업은 서울2호선 홍대입구역부터~경기도 고양시~서울시 강서·양천구~경기도 부천 대장신도시를 연결하는 대장... ",
-			"pubDate":"Fri, 26 Apr 2024 11:04:00 +0900"
 		}
 	]
 }
