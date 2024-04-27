@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 28 Apr 2024 07:00:02 +0900",
-	"total":224660,
+	"lastBuildDate":"Sun, 28 Apr 2024 07:10:02 +0900",
+	"total":224661,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[분양캘린더]5월 첫째주 ‘개봉 루브루’ 등 6000여가구 분양",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024042723045952341",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005411440?sid=101",
+			"description":"인천 지하철 1호선이 지나는 작전역을 이용할 수 있고 서울 지하철 2호선 <b>청라<\/b>연장선(검토 중), 수도권광역급행철도(GTX)-D·E노선(예정) 등이 개통되면 교통 여건이 개선될 전망이다. 경인고속도로 부평IC를 통해... ",
+			"pubDate":"Sun, 28 Apr 2024 07:00:00 +0900"
+		},
 		{
 			"title":"[분양캘린더] 5월 첫째 주, 전국서 5992가구 공급",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=791446",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=169081",
 			"description":"지정 '달빛어린이병원'으로 '<b>청라<\/b> 연세 어린이병원'과 '검단위키즈병원'이 지정된 바 있다. 다음달 1일부터 운영되는 '<b>청라<\/b>좋은병원'과 '검단 조은아의 365 병원' 두 곳도 달빛어린이병원으로 추가 지정됐다. <b>청라<\/b>나... ",
 			"pubDate":"Fri, 26 Apr 2024 13:20:00 +0900"
-		},
-		{
-			"title":"인천 서구, '달빛어린이병원' 2곳 추가 지정...모두 4곳 운영",
-			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=671685",
-			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=671685",
-			"description":"26일 인천 서구에 따르면 어린이들의 야간·휴일 진료 공백을 해소하기 위해 노력을 기울인 결과 지난해 '<b>청라<\/b>연세어린이병원'과 '검단위키즈병원'이 지정된 데 이어 다음달부터 운영되는 '<b>청라<\/b>좋은병원'과... ",
-			"pubDate":"Fri, 26 Apr 2024 13:04:00 +0900"
 		}
 	]
 }
