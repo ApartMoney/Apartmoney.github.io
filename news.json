@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 29 Apr 2024 17:30:02 +0900",
-	"total":224751,
+	"lastBuildDate":"Mon, 29 Apr 2024 17:40:02 +0900",
+	"total":224752,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"GM, 인천지역 초등학교서 어린이 교통 안전 캠페인 실시",
+			"originallink":"http:\/\/sports.chosun.com\/news\/ntype.htm?id=202404290100226990030376&servicedate=20240429",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/076\/0004139623?sid=101",
+			"description":"보드게임 등 체험학습 과정을 제공함으로써 참석자들로부터 큰 호응을 얻어 왔다. 이번 안전 교육 프로그램은 현재까지 동수 초등학교, <b>청라<\/b> 초등학교, 서곶 초등학교 등 인천 지역 초등 저학년생 1000명에게 제공됐다.",
+			"pubDate":"Mon, 29 Apr 2024 17:34:00 +0900"
+		},
 		{
 			"title":"인천 서구의회 '다자녀가정 우대·지원에 관한 조례안' 통과",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1034382",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=245654",
 			"description":"&quot;서울7호선 <b>청라<\/b>선 2027년 개통 등 교통 현안 먼저 해결&quot; 이 당선인은 서울7호선 <b>청라<\/b> 연장 2027년 적기 개통 등 서구을 지역 교통 현안을 가장 먼저 해결하겠다고 밝혔다. 이 당선인은 &quot;서구을 지역 교통 문제를 가장 먼저... ",
 			"pubDate":"Mon, 29 Apr 2024 13:18:00 +0900"
-		},
-		{
-			"title":"GM, 초등학생 대상 체험형 교통안전 캠페인 '안전하게 건너요' 진행",
-			"originallink":"http:\/\/www.efnews.co.kr\/news\/articleView.html?idxno=111584",
-			"link":"http:\/\/www.efnews.co.kr\/news\/articleView.html?idxno=111584",
-			"description":"이번 안전 교육 프로그램은 현재까지 동수 초등학교, <b>청라<\/b> 초등학교, 서곶 초등학교 등 인천 지역 초등 저학년생 1천명에게 제공됐다. 한편, GM은 트리플 제로 비전(교통사고 제로, 탄소배출 제로, 교통체증 제로)을... ",
-			"pubDate":"Mon, 29 Apr 2024 13:14:00 +0900"
 		}
 	]
 }
