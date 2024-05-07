@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 07 May 2024 20:20:02 +0900",
-	"total":225103,
+	"lastBuildDate":"Tue, 07 May 2024 20:30:02 +0900",
+	"total":225104,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"유정복 인천시장 &quot;글로벌 톱 10 인천 만들 것&quot;",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363651194",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363651194",
+			"description":"유 시장은 영종을 중심으로 송도·<b>청라<\/b>, 강화와 옹진을 전략적 거점으로 삼고, 현재 진행중인 핵심 사업 및 기존 인프라 등과 연계해 글로벌 기업들을 유치하겠다는 구상을 내놨다. 또한 유 시장은 이미 오스테드... ",
+			"pubDate":"Tue, 07 May 2024 20:26:00 +0900"
+		},
 		{
 			"title":"'이름 바뀐' 글로벌 톱텐 시티…인천 투자유치 총력",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1440645",
@@ -54,17 +61,17 @@
 			"pubDate":"Tue, 07 May 2024 19:44:00 +0900"
 		},
 		{
-			"title":"[인천시 '글로벌톱텐시티' 마스터플랜] 강화남단, 그린바이오 헬스케어 거점 ...",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1248125",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1248125",
-			"description":"영종국제도시를 중심으로 송도와 <b>청라<\/b>, 그리고 강화를 전략적 거점으로 삼아 이 곳에 글로벌 기업들을 유치하겠다는 내용이 뼈대다. 경제자유구역인 영종·송도·<b>청라<\/b>의 투자와 기업유치는 이미 진행 중인 만큼... ",
-			"pubDate":"Tue, 07 May 2024 19:44:00 +0900"
-		},
-		{
 			"title":"인천시 지키지 못할 공약 태반?",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1248129",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1248129",
 			"description":"GTX-D, 월판선, 인천도시철도 순환3호선, 서울5호선 검단 연장, 서울2호선 <b>청라<\/b> 연장과 같은 광역 교통망 관련 내용이 주를 이룬다. 예상 목표를 달성하지 못한 '일부추진' 사업 경우도 전국 104개에서 인천은 12개나... ",
+			"pubDate":"Tue, 07 May 2024 19:44:00 +0900"
+		},
+		{
+			"title":"[인천시 '글로벌톱텐시티' 마스터플랜] 강화남단, 그린바이오 헬스케어 거점 ...",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1248125",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1248125",
+			"description":"영종국제도시를 중심으로 송도와 <b>청라<\/b>, 그리고 강화를 전략적 거점으로 삼아 이 곳에 글로벌 기업들을 유치하겠다는 내용이 뼈대다. 경제자유구역인 영종·송도·<b>청라<\/b>의 투자와 기업유치는 이미 진행 중인 만큼... ",
 			"pubDate":"Tue, 07 May 2024 19:44:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=387799",
 			"description":"또 어떻게 보면 김교흥 위원장님 당선된 지역이 원래 본인이 주력하고 있는 <b>청라<\/b>지역이 아니라 서구의... 쉽지 않은 원도심이라서 그럴 줄 알았는데 오히려 <b>청라<\/b>, 검단보다 더 빨리 서구-갑에서 당선 확정을 하는 능력을... ",
 			"pubDate":"Tue, 07 May 2024 17:38:00 +0900"
-		},
-		{
-			"title":"유정복 시장, '글로벌 톱텐 시티 인천' 선포",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=101276",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=101276",
-			"description":"영종국제도시를 중심으로 송도·<b>청라<\/b>국제도시 등 경제자유구역 3곳과 강화·옹진을 전략 거점으로 삼아... <b>청라<\/b>국제도시는 환경복합연구단지와 금융복합단지로 특화하고 송도국제도시는 바이오 거점 확대 및 신항... ",
-			"pubDate":"Tue, 07 May 2024 17:28:00 +0900"
 		}
 	]
 }
