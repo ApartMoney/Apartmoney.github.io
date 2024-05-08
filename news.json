@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 08 May 2024 13:40:02 +0900",
-	"total":225152,
+	"lastBuildDate":"Wed, 08 May 2024 13:50:02 +0900",
+	"total":225153,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[대구행복진흥원 소식] 대구행복진흥원, 여성탐방로 '반지길' 탐방객 모집",
+			"originallink":"http:\/\/www.ilyoseoul.co.kr\/news\/articleView.html?idxno=487655",
+			"link":"http:\/\/www.ilyoseoul.co.kr\/news\/articleView.html?idxno=487655",
+			"description":"이 길은 <b>청라<\/b>언덕에서 시작하여 3.1만세운동길, 이상정고택, 계산성당, 종로, 진골목으로 이어진다. 이 탐방로는 단순한 역사 탐방을 넘어서, 대구를 배경으로 한 여성들의 눈부신 업적과 진취적인 삶의 흔적을 따라가며... ",
+			"pubDate":"Wed, 08 May 2024 13:40:00 +0900"
+		},
 		{
 			"title":"오토플러스, ‘친환경 정비 부문’ 2년연속 인증",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020077151&code=61211211&cp=nv",
@@ -61,16 +68,16 @@
 			"pubDate":"Wed, 08 May 2024 11:31:00 +0900"
 		},
 		{
-			"title":"오토플러스, EV·PHEV 정비 부문 인증 기념 시연 설명회",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6637862",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007526967?sid=101",
+			"title":"오토플러스, ‘EV·PHEV 정비 부문’ 연속 인증 기념 시연 설명회",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6637863",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007526968?sid=101",
 			"description":"= 오토플러스는 지난 7일 인천 <b>청라<\/b>지구 직영 리컨디셔닝센터 ‘ATC’에서 2년 연속 티유브이슈드 '전기차∙하이브리드(EV∙PHEV) 정비 부문'에 대한 인증을 기념해 시연 설명회를 진행했다고 8일 밝혔다. 관계자가... ",
 			"pubDate":"Wed, 08 May 2024 11:31:00 +0900"
 		},
 		{
-			"title":"오토플러스, ‘EV·PHEV 정비 부문’ 연속 인증 기념 시연 설명회",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6637863",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007526968?sid=101",
+			"title":"오토플러스, EV·PHEV 정비 부문 인증 기념 시연 설명회",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6637862",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007526967?sid=101",
 			"description":"= 오토플러스는 지난 7일 인천 <b>청라<\/b>지구 직영 리컨디셔닝센터 ‘ATC’에서 2년 연속 티유브이슈드 '전기차∙하이브리드(EV∙PHEV) 정비 부문'에 대한 인증을 기념해 시연 설명회를 진행했다고 8일 밝혔다. 관계자가... ",
 			"pubDate":"Wed, 08 May 2024 11:31:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240507010001937",
 			"description":"리본카 <b>청라<\/b>지점에서 지난 7일 ATC 미디어 투어를 열어 그간의 소회를 이같이 밝혔다.ATC(AUTOPLUS Trust Center)는 ‘자동차의 본고장’으로 불리는 독일의 품질인증기관인 ‘티유브이슈드’ 인증을 국내 유일 5년 연속 획득한... ",
 			"pubDate":"Wed, 08 May 2024 08:54:00 +0900"
-		},
-		{
-			"title":"[르포]&quot;갈고리가 왜 여기에?&quot;…전기차 정비 어떻게 하나 봤더니",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024050722571951283",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005415187?sid=103",
-			"description":"7일 인천 <b>청라<\/b>지구에 위치한 오토플러스 인천 중고차 상품화 공장. 차량 리프트가 빨간 EV6 전기차 한 대를 들어 올리고 있다. 차량 아래에는 각종 보호장구로 중무장한 작업자가 본격적인 작업에 앞서 전기차에 전류가... ",
-			"pubDate":"Wed, 08 May 2024 07:00:00 +0900"
 		}
 	]
 }
