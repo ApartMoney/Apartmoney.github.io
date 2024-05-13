@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 13 May 2024 09:00:02 +0900",
-	"total":225561,
+	"lastBuildDate":"Mon, 13 May 2024 09:10:03 +0900",
+	"total":225564,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"한밤 광역버스 방음터널 연석과 충돌… 승객 등 11명 중‧경상",
+			"originallink":"https:\/\/www.chosun.com\/national\/incident\/2024\/05\/13\/DGVVC27UPFCDXLI2FC33XYYG2M\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003833866?sid=102",
+			"description":"서울 강남을 출발해 인천 <b>청라<\/b>국제도시로 향하던 광역버스가 도로 방음터널 연석과 충돌해 운전기사와 승객 등 11명이 다쳤다. 13일 오전 1시 45분쯤 인천시 서구 가정동의 한 도로에서 <b>청라<\/b> 방면으로 운행하던... ",
+			"pubDate":"Mon, 13 May 2024 09:05:00 +0900"
+		},
+		{
+			"title":"인천에서 강남역 가던 광역버스, 추돌 사고로 11명 다쳐",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2024051345477",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0004983873?sid=102",
+			"description":"해당 버스는 인천 <b>청라<\/b>지구와 서울 강남역을 오가는 광역버스다. 부상자 대부분은 경상이지만, 30대 여성과 60대 남성 승객이 머리 등을 다쳐 중상자로 분류된 것으로 알려졌다. 경찰은 A씨가 단독으로 사고를 낸... ",
+			"pubDate":"Mon, 13 May 2024 09:04:00 +0900"
+		},
+		{
+			"title":"기반시설 완비한 ‘주거 명작’ 베일 벗다 DK아시아 ‘왕길역 로열파크씨티’...",
+			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20240513050050",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002307709?sid=101",
+			"description":"대표적인 곳이 <b>청라<\/b>에 둥지를 트는 하나금융그룹이다. <b>청라<\/b> 그룹헤드쿼터로 불리며, 하나금융그룹의 6개 관계사가 자리잡게 되는데 완공은 2025년 말 예정이다. 로봇 관련 기업도 시선을 끈다. 자동화 전문기업인... ",
+			"pubDate":"Mon, 13 May 2024 09:01:00 +0900"
+		},
 		{
 			"title":"계양 롯데캐슬 이달 21일부터 사흘간 당첨자 계약",
 			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024051308520271667",
@@ -47,7 +68,7 @@
 			"pubDate":"Mon, 13 May 2024 07:57:00 +0900"
 		},
 		{
-			"title":"건설사 8곳 지난해 공사미수금, 1년 새 40% 늘어난 7.8조",
+			"title":"건설사 8곳, 공사미수금 1년 새 40% 늘어난 7.8조",
 			"originallink":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=236598",
 			"link":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=236598",
 			"description":"공사미수금 발생 사업장은 '개포1단지' 재건축(3368억원), '시티오씨엘 3단지' 신축공사(223억원), <b>청라<\/b>지구 오피스텔 신축공사(119억원) 등이다. 한 건설업계 관계자는 &quot;공사미수금이 늘었지만 회수에도 기간이... ",
@@ -89,17 +110,17 @@
 			"pubDate":"Sun, 12 May 2024 21:04:00 +0900"
 		},
 		{
-			"title":"'부평 르네상스' 도화선 될 부평동~장고개 도로 첫삽 떴다",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1087841",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1087841",
-			"description":"전 구간 공사가 완료되면 서구 <b>청라<\/b>~부평구~부천시를 연결하는 중심도로가 완성된다. 캠프마켓을 지나는 3차 구간(주안장로교회~제3보급단, 1천280m)은 미군기지 반환과 토양정화 문제로 1공구와 2공구로 나눠... ",
-			"pubDate":"Sun, 12 May 2024 20:06:00 +0900"
-		},
-		{
 			"title":"하늘 높이 점프",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1087911",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1087911",
 			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 12일 인천시 서구 <b>청라<\/b>호수공원에서 열린 '제1회 인천 피트니스 패밀리 페스티벌'에서 인천점핑운동전문센터 어린이들이 시범공연을 앞두고 리허설을 하고 있다.",
+			"pubDate":"Sun, 12 May 2024 20:06:00 +0900"
+		},
+		{
+			"title":"'부평 르네상스' 도화선 될 부평동~장고개 도로 첫삽 떴다",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1087841",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1087841",
+			"description":"전 구간 공사가 완료되면 서구 <b>청라<\/b>~부평구~부천시를 연결하는 중심도로가 완성된다. 캠프마켓을 지나는 3차 구간(주안장로교회~제3보급단, 1천280m)은 미군기지 반환과 토양정화 문제로 1공구와 2공구로 나눠... ",
 			"pubDate":"Sun, 12 May 2024 20:06:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=568128",
 			"description":"12일 인천시 서구 <b>청라<\/b>동 <b>청라<\/b>호수공원 야외음악당에서 '2024 제1회 인천 피트니스 패밀리 페스티벌(INCHEON FITNESS FAMILY FESTIVAL)'이 열렸다. 필라테스 종목에 출전한 정다운이 멋진 동작을 선보이고 있다. 사단법인... ",
 			"pubDate":"Sun, 12 May 2024 18:54:00 +0900"
-		},
-		{
-			"title":"[NF포토] 이서윤, '사랑스럽게~'(인천피트니스패밀리페스티벌)",
-			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=568127",
-			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=568127",
-			"description":"12일 인천시 서구 <b>청라<\/b>동 <b>청라<\/b>호수공원 야외음악당에서 '2024 제1회 인천 피트니스 패밀리 페스티벌(INCHEON FITNESS FAMILY FESTIVAL)'이 열렸다. 필라테스 종목에 출전한 이서윤이 멋진 동작을 선보이고 있다. 사단법인... ",
-			"pubDate":"Sun, 12 May 2024 18:48:00 +0900"
-		},
-		{
-			"title":"[NF포토] 박예나, '유연함의 끝판왕'(인천피트니스패밀리페스티벌)",
-			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=568126",
-			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=568126",
-			"description":"12일 인천시 서구 <b>청라<\/b>동 <b>청라<\/b>호수공원 야외음악당에서 '2024 제1회 인천 피트니스 패밀리 페스티벌(INCHEON FITNESS FAMILY FESTIVAL)'이 열렸다. 필라테스 종목에 출전한 박예나가 멋진 동작을 선보이고 있다. 사단법인... ",
-			"pubDate":"Sun, 12 May 2024 18:42:00 +0900"
-		},
-		{
-			"title":"[NF포토] 이나윤, '눈 뗄수 없는 존재감'(인천피트니스패밀리페스티벌)",
-			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=568125",
-			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=568125",
-			"description":"12일 인천시 서구 <b>청라<\/b>동 <b>청라<\/b>호수공원 야외음악당에서 '2024 제1회 인천 피트니스 패밀리 페스티벌(INCHEON FITNESS FAMILY FESTIVAL)'이 열렸다. 필라테스 종목에 출전한 이나윤이 멋진 동작을 선보이고 있다. 사단법인... ",
-			"pubDate":"Sun, 12 May 2024 18:38:00 +0900"
 		}
 	]
 }
