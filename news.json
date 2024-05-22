@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Wed, 22 May 2024 15:50:02 +0900",
-	"total":226008,
+	"lastBuildDate":"Wed, 22 May 2024 16:00:03 +0900",
+	"total":226011,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구 학정역 '두산위브더제니스 센트럴시티' 24일 견본주택 공개",
+			"originallink":"https:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=300164",
+			"link":"https:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=300164",
+			"description":"단지는 대구 지하철 3호선 학정역 도보 역세권으로, 수성못까지 한 번에 다다를 수 있으며 환승역인 <b>청라<\/b>언덕역과 명덕역까지 20분대로 이동이 가능하다. 더불어 안심~서변~읍내~달서를 잇는 4차순환도로 완전 개통... ",
+			"pubDate":"Wed, 22 May 2024 15:58:00 +0900"
+		},
+		{
+			"title":"두산위브더제니스 센트럴시티, 24일 견본주택 오픈···지하 2층~지상 29층,...",
+			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=443526",
+			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=443526",
+			"description":"이 단지는 대구 도시철도 3호선 학정역을 도보로 이용할 수 있는 역세권으로 학정역에서 수성구 범물동까지 한 번에 누릴 수 있으며 환승역인 <b>청라<\/b>언덕역과 명덕역까지 20분대로 이동이 가능하다. 또한 최근 이슈가 되고... ",
+			"pubDate":"Wed, 22 May 2024 15:56:00 +0900"
+		},
+		{
+			"title":"감인의료재단, 종합 의료센터 ‘아인요양병원’ 개원",
+			"originallink":"https:\/\/mdtoday.co.kr\/news\/view\/1065595343764580",
+			"link":"https:\/\/mdtoday.co.kr\/news\/view\/1065595343764580",
+			"description":"암환자 뿐만 아니라 노인성 질환을 다년간 다루어 온 경험을 토대로 당진시에 아인요양병원을 오픈한 것 이외에도, 재단 산하에 160병상 규모의 재활치료 및 암환자를 중점적으로 다루는 <b>청라<\/b>백세요양병원도 운영 중에 있다.",
+			"pubDate":"Wed, 22 May 2024 15:56:00 +0900"
+		},
 		{
 			"title":"인천광역시, 본예산 대비 5,717억 원 늘어난 1회 추경예산 편성",
 			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20240522500198",
@@ -192,27 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012559457?sid=101",
 			"description":"그러면서 &quot;광운대 역세권 사업을 시작으로 용산철도병원 부지, 잠실 스포츠·전시복합(MICE), <b>청라<\/b> 의료복합타운 등 4조2000억원 이상의 또 다른 서울·수도권 복합개발 사업들이 내년, 내후년 착공을 위해 준비 중&quot;이라고... ",
 			"pubDate":"Wed, 22 May 2024 08:27:00 +0900"
-		},
-		{
-			"title":"&quot;HDC현대산업개발, 광운대 역세권 착공 코앞…매수의 시간&quot;",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2362157",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2362157",
-			"description":"스포츠·MICE, <b>청라<\/b> 의료복합타운 등 또 다른 서울·수도권 복합개발 사업들이 내년부터 내후년까지 착공 준비 중&quot;이라고 설명했다. 그는 &quot;레버리지 효과를 바탕으로 단기 매각차익에 집중하는 현재 한국 부동산 개발... ",
-			"pubDate":"Wed, 22 May 2024 08:26:00 +0900"
-		},
-		{
-			"title":"HDC현대산업개발, 광운대 역세권 사업 착공 눈앞…매수 시점-KB",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01394006638891544",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005745140?sid=101",
-			"description":"아울러 광운대 역세권 사업을 시작으로 용산철도병원 부지, 잠실 스포츠 및 마이스, <b>청라<\/b> 의료복합타운 등 4조2000억원 규모 이상의 또다른 서울 및 수도권 복합개발 사업들이 오는 2025년과 2026년 착공을 위해 준비... ",
-			"pubDate":"Wed, 22 May 2024 07:48:00 +0900"
-		},
-		{
-			"title":"[더벨]신세계그룹, '스타필드광주'까지 임영록 사장에게",
-			"originallink":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202405171054021120106848",
-			"link":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202405171054021120106848",
-			"description":"2023년 말 기준 임 사장이 맡고 있는 직책은 신세계프라퍼티·스타필드하남·스타필드고양·스타필드<b>청라<\/b>·스타필드안성·스타필드수원·스타필드창원·신세계화성·에스엠피엠씨 대표와 사내이사였다. 여기에... ",
-			"pubDate":"Wed, 22 May 2024 07:28:00 +0900"
 		}
 	]
 }
