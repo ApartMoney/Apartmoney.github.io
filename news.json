@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 02 Jun 2024 10:10:03 +0900",
-	"total":226450,
+	"lastBuildDate":"Sun, 02 Jun 2024 10:20:02 +0900",
+	"total":226451,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"북한이 살포한 대남 오물 풍선, 인천지역 곳곳서 발견돼",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1091410",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1091410",
+			"description":"이어 이날 오전 8시53분까지 서구 <b>청라<\/b>동을 비롯해 중구, 미추홀구, 계양구, 부평구 등지에서 오물 풍선이 발견됐다는 신고가 들어왔다. 현장 출동한 소방은 오물 풍선을 육군 폭발물처리반(EOD)과 경찰 등 관계기관에... ",
+			"pubDate":"Sun, 02 Jun 2024 10:16:00 +0900"
+		},
 		{
 			"title":"인천에서 대남 오물 풍선 신고 잇따라…인명피해 없어",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240602020348504",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=247548",
 			"description":"인천국제공항을 둘러싼 영종도와 <b>청라<\/b>국제도시 일대에 항공엔진 MRO 기업 및 부품 기업들을 집적화하자는 것입니다. 여기에 항공 부품 조달을 원활히 하기 위한 자유무역지대 지정 확대도 필요하다는 제안이... ",
 			"pubDate":"Fri, 31 May 2024 18:20:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>LH, 안전보건경영시스템 인증 취득",
-			"originallink":"http:\/\/www.aptn.co.kr\/news\/articleView.html?idxno=106468",
-			"link":"http:\/\/www.aptn.co.kr\/news\/articleView.html?idxno=106468",
-			"description":"인천 서구 <b>청라<\/b>LH아파트가 29일 중대재해처벌법에 대비해 단지 자체적으로 안전보건경영시스템 인증(ISO45001)... 이러한 상황에 선제적으로 대응해 <b>청라<\/b>LH 입주자대표회의가 앞장서 이번 인증을 취득했다. 김은수 입대의... ",
-			"pubDate":"Fri, 31 May 2024 17:58:00 +0900"
 		}
 	]
 }
