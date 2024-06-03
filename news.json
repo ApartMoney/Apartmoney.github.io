@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 03 Jun 2024 13:10:02 +0900",
-	"total":226501,
+	"lastBuildDate":"Mon, 03 Jun 2024 13:20:02 +0900",
+	"total":226502,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘대중교통비 지원’ 인천 I-패스, 시행 한달만에 가입자 13만명 상회",
+			"originallink":"http:\/\/www.breaknews.com\/1035837",
+			"link":"http:\/\/www.breaknews.com\/1035837",
+			"description":"인천 광역 I-패스는 인천에서 서울로 출발하는 광역좌석형버스, 광역급행형버스(M버스), 광역간선급행체계버스(<b>청라<\/b>~강서간 BRT 7700번)에 한해 환승 없이 광역버스만... ",
+			"pubDate":"Mon, 03 Jun 2024 13:12:00 +0900"
+		},
 		{
 			"title":"인천시, 인천 천사지원금 10일부터 접수",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20240603123047160",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240603010000369",
 			"description":"인천 광역 I-패스는 인천에서 서울로 출발하는 광역좌석형버스, 광역급행형버스(M버스), 광역간선급행체계버스(<b>청라<\/b>~강서간 BRT 7700번)에 한해 환승 없이 광역버스만 이용해 출ㆍ퇴근하는 시민 대상으로 8만 원으로 30일... ",
 			"pubDate":"Mon, 03 Jun 2024 09:24:00 +0900"
-		},
-		{
-			"title":"인천 대중교통비 지원 서비스 ‘인천 I-패스’ 사업, 가입자 13만 명 상회......",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240603023019068",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240603023019068",
-			"description":"인천 광역 I-패스는 인천에서 서울로 출발하는 광역좌석형버스, 광역급행형버스(M버스), 광역간선급행체계버스(<b>청라<\/b>~강서간 BRT 7700번)에 한해 환승 없이 광역버스만 이용해 출ㆍ퇴근하는 시민 대상으로 8만원으로 30일... ",
-			"pubDate":"Mon, 03 Jun 2024 09:18:00 +0900"
 		}
 	]
 }
