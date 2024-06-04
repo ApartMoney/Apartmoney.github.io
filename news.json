@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 04 Jun 2024 21:00:02 +0900",
-	"total":226641,
+	"lastBuildDate":"Tue, 04 Jun 2024 21:10:01 +0900",
+	"total":226642,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"우연히 식당 갔던 소방관, 초기 진화로 큰 피해 막아",
+			"originallink":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/69119",
+			"link":"http:\/\/www.tjb.co.kr\/news05\/bodo\/view\/id\/69119",
+			"description":"보령소방서 소속 윤웅기 소방사는 지난달 29일 오후 2시 15분쯤 보령시 <b>청라<\/b>면의 한 상가 1층에서 식사를 하던 중 검은 연기를 발견, 상가 주택 뒤편에 난 불을 보고 주변에 있던 소화기 등으로 초기 진화에 나섰습니다.... ",
+			"pubDate":"Tue, 04 Jun 2024 21:06:00 +0900"
+		},
 		{
 			"title":"[35층짜리 아파트의 그늘] (중) 우후죽순 초고층 아파트…밀려오는 재건축 열...",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1251956",
@@ -187,17 +194,17 @@
 			"pubDate":"Tue, 04 Jun 2024 16:06:00 +0900"
 		},
 		{
-			"title":"신세계건설, '드론 완전자동화 기술' 건설업계 첫 적용",
-			"originallink":"https:\/\/www.mediapen.com\/news\/view\/925358",
-			"link":"https:\/\/www.mediapen.com\/news\/view\/925358",
-			"description":"드론 전문업체 들과의 꾸준한 협력을 통해 도킹스테이션 기능을 최적화했으며 '스타필드<b>청라<\/b> 1단계' 현장에서 테스트를 완료하였다. DJI Dock2는 도킹 스테이션을 사용하는 최신 자동화 드론 시스템이다. 이번 도입은... ",
-			"pubDate":"Tue, 04 Jun 2024 16:04:00 +0900"
-		},
-		{
 			"title":"인천 서구문화재단, 2023년 생활문화축제 '쪼개기' 수의계약 의혹",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=247742",
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=247742",
 			"description":"이영철(더불어민주당, <b>청라<\/b>3·당하·오류왕길·마전동) 의원은 &quot;같은 건물에 있고 담당자 이름이 들어가 있으면 사실상 가족이나 친인척 관계의 있는 업체가 아닌가 의심이 될 수 밖에 없다&quot;며 &quot;쪼개기로 수의계약을 하기... ",
+			"pubDate":"Tue, 04 Jun 2024 16:04:00 +0900"
+		},
+		{
+			"title":"신세계건설, '드론 완전자동화 기술' 건설업계 첫 적용",
+			"originallink":"https:\/\/www.mediapen.com\/news\/view\/925358",
+			"link":"https:\/\/www.mediapen.com\/news\/view\/925358",
+			"description":"드론 전문업체 들과의 꾸준한 협력을 통해 도킹스테이션 기능을 최적화했으며 '스타필드<b>청라<\/b> 1단계' 현장에서 테스트를 완료하였다. DJI Dock2는 도킹 스테이션을 사용하는 최신 자동화 드론 시스템이다. 이번 도입은... ",
 			"pubDate":"Tue, 04 Jun 2024 16:04:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202406041540074682bf11c0d58c_1\/article.html",
 			"description":"드론 전문업체와 협력으로 도킹스테이션 기능을 최적화 했고 '스타필드<b>청라<\/b> 1단계' 현장에서 테스트를 완료했다. ‘DJI Dock2’는 도킹 스테이션을 사용하는 최신 자동화 드론 시스템으로 건설 현장의 측량, 부지 조사... ",
 			"pubDate":"Tue, 04 Jun 2024 15:58:00 +0900"
-		},
-		{
-			"title":"신세계건설, '완전자동화 드론' 현장 투입…업계 처음",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024060414453259031",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005427704?sid=101",
-			"description":"스타필드 <b>청라<\/b> 1단계 공사 현장에서 테스트도 완료했다. 이 기술은 드론 비행과 충전, 데이터 업로드 등 모든 과정을 자동화해 업무 효율성을 높일 수 있다. 기존 모델에 비해 소형화되고 비용도 합리적이어서 건설 현장에... ",
-			"pubDate":"Tue, 04 Jun 2024 15:54:00 +0900"
 		}
 	]
 }
