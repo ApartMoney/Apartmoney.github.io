@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 05 Jun 2024 07:00:02 +0900",
-	"total":226644,
+	"lastBuildDate":"Wed, 05 Jun 2024 07:10:02 +0900",
+	"total":226646,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[파워인터뷰] 백원국 국토교통부 제2차관",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202406021106222400153",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202406021106222400153",
+			"description":"올해 하반기에는 ‘인천 <b>청라<\/b>∼계양 아라뱃길’ 구간을 시작으로, 한강ㆍ탄천까지 수도권 실증 범위를 순차 확대할 예정이다. 현재 버티포트, 통신장비 등 인프라를 차질 없이 구축 중이며, 실증구역 지정, 특례 부여... ",
+			"pubDate":"Wed, 05 Jun 2024 07:02:00 +0900"
+		},
+		{
+			"title":"[비바100] 편안한 출퇴근, 탄탄한 인프라… 역시 역세권!",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240604010009407",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240604010009407",
+			"description":"환승역인 <b>청라<\/b>언덕역과 명덕역까지는 20분대로 이동이 가능하다.칠곡 지역의 풍부한 생활인프라 시설도... 대우건설은 인천광역시 서구 <b>청라<\/b>국제도시 C18블록에서 ‘푸르지오 스타셀라49’를 오는 6월 분양할 예정이다.... ",
+			"pubDate":"Wed, 05 Jun 2024 07:00:00 +0900"
+		},
 		{
 			"title":"임상의약품 글로벌 물류 강자, '마켄' 물류센터를 가다",
 			"originallink":"https:\/\/www.medipana.com\/article\/view.php?news_idx=327308&sch_cate=I",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=354473",
 			"description":"신세계건설은 드론 전문기업들과 꾸준한 협력을 통해 접안설비 기능을 최적화하는 데 성공했고 '스타필드<b>청라<\/b> 1단계' 현장에서 시험가동을 마쳤다. 신세계건설은 이 체계가 기존 모델보다 소형화한 드론을 사용하는... ",
 			"pubDate":"Tue, 04 Jun 2024 16:06:00 +0900"
-		},
-		{
-			"title":"인천 서구문화재단, 2023년 생활문화축제 '쪼개기' 수의계약 의혹",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=247742",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=247742",
-			"description":"이영철(더불어민주당, <b>청라<\/b>3·당하·오류왕길·마전동) 의원은 &quot;같은 건물에 있고 담당자 이름이 들어가 있으면 사실상 가족이나 친인척 관계의 있는 업체가 아닌가 의심이 될 수 밖에 없다&quot;며 &quot;쪼개기로 수의계약을 하기... ",
-			"pubDate":"Tue, 04 Jun 2024 16:04:00 +0900"
-		},
-		{
-			"title":"신세계건설, '드론 완전자동화 기술' 건설업계 첫 적용",
-			"originallink":"https:\/\/www.mediapen.com\/news\/view\/925358",
-			"link":"https:\/\/www.mediapen.com\/news\/view\/925358",
-			"description":"드론 전문업체 들과의 꾸준한 협력을 통해 도킹스테이션 기능을 최적화했으며 '스타필드<b>청라<\/b> 1단계' 현장에서 테스트를 완료하였다. DJI Dock2는 도킹 스테이션을 사용하는 최신 자동화 드론 시스템이다. 이번 도입은... ",
-			"pubDate":"Tue, 04 Jun 2024 16:04:00 +0900"
 		}
 	]
 }
