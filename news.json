@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 05 Jun 2024 08:40:02 +0900",
-	"total":226646,
+	"lastBuildDate":"Wed, 05 Jun 2024 08:50:03 +0900",
+	"total":226647,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"업계 처음으로 자동화 드론 투입하는 신세계건설, 국내 건설자동화는 어디까지...",
+			"originallink":"http:\/\/www.betanews.net:8080\/article\/1468010.html",
+			"link":"http:\/\/www.betanews.net:8080\/article\/1468010.html",
+			"description":"4일 신세계건설은 자율주행 드론 ‘DJI Dock2’를 인천시 서구 <b>청라<\/b>동 스타필드<b>청라<\/b> 1단계 공사 현장에서 시험 완료했다고 밝혔다. 기업에 따르면 이전까지 건설 현장서 드론이 종종 사용되긴 했지만 이번에... ",
+			"pubDate":"Wed, 05 Jun 2024 08:44:00 +0900"
+		},
 		{
 			"title":"[파워인터뷰] 백원국 국토교통부 제2차관",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202406021106222400153",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240604022049160",
 			"description":"<b>청라<\/b>에너지가 한국서부발전 서인천·김포발전본부와 발전설비·열 공급시설 비상대응을 위한 긴급복구 지원 상생협약을 4일 체결했다. 백창균(앞줄 왼쪽 3번째) 서인천발전본부장, 최태희(왼쪽 4번째) <b>청라<\/b>에너지 사장... ",
 			"pubDate":"Tue, 04 Jun 2024 16:08:00 +0900"
-		},
-		{
-			"title":"신세계건설 국내 건설사 최초 완전자동화 드론체계 도입, “안전·효율 향상”",
-			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=354473",
-			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=354473",
-			"description":"신세계건설은 드론 전문기업들과 꾸준한 협력을 통해 접안설비 기능을 최적화하는 데 성공했고 '스타필드<b>청라<\/b> 1단계' 현장에서 시험가동을 마쳤다. 신세계건설은 이 체계가 기존 모델보다 소형화한 드론을 사용하는... ",
-			"pubDate":"Tue, 04 Jun 2024 16:06:00 +0900"
 		}
 	]
 }
