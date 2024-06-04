@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Tue, 04 Jun 2024 09:20:02 +0900",
-	"total":226558,
+	"lastBuildDate":"Tue, 04 Jun 2024 09:30:02 +0900",
+	"total":226562,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구시, 대구꽃박람회 개최",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20240604500020",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20240604500020",
+			"description":"이번 박람회는 '꽃, 365'를 상징하는 '주제관'(제목: '쉼, 休 Flower 4Sesons') 대형 작품과 치열한 경쟁 속에서 엄선된 12개 작품이 조성된 '<b>청라<\/b>상관', 경상북도와 고양시, 농업기술센터 등 전국의 화훼 문화를 알리는... ",
+			"pubDate":"Tue, 04 Jun 2024 09:28:00 +0900"
+		},
+		{
+			"title":"인천 I-패스 가입자 13만5천명 넘어…광역 I-패스는 하반기 시행 예정",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024060409245268750",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005427399?sid=102",
+			"description":"광역 I-패스는 인천에서 서울로 출발하는 광역좌석형버스, 광역급행형버스(M버스), 광역간선급행체계버스(<b>청라<\/b>~강서 간 BRT 7700번)에 한해 환승 없이 광역버스만 이용해 출·퇴근하는 시민이 8만원으로 30일간 무제한... ",
+			"pubDate":"Tue, 04 Jun 2024 09:24:00 +0900"
+		},
+		{
+			"title":"리본카, ‘여름준비’ 타임딜…인기차종 최대 300만원 할인",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202406040910132380778",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202406040910132380778",
+			"description":"특히 리본카는 <b>청라<\/b>지점과 부산지점에 중고차 라이브 전용 스튜디오를 구축하고, 전문 촬영팀을 운영해 차별화된 콘텐츠 제작 역량을 갖췄다. 업계 최초로 라이브방송을 통한 중고차 판매에 도전한 리본카는... ",
+			"pubDate":"Tue, 04 Jun 2024 09:22:00 +0900"
+		},
+		{
+			"title":"리본카, '여름준비' 타임딜 프로모션 시행",
+			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=204490",
+			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=204490",
+			"description":"특히, 리본카는 <b>청라<\/b>지점과 부산지점에 중고차 라이브 전용 스튜디오를 구축하고, 전문 촬영팀을 운영해 차별화된 콘텐츠 제작 역량을 갖췄다. 업계 최초로 라이브방송을 통한 중고차 판매에 도전한 리본카는... ",
+			"pubDate":"Tue, 04 Jun 2024 09:20:00 +0900"
+		},
 		{
 			"title":"인천 일부지역 부동산 폭락…<b>청라<\/b>동 아파트 가격 5천5백만원 ↓",
 			"originallink":"https:\/\/www.idaegu.com\/news\/articleView.html?idxno=605261",
@@ -185,34 +213,6 @@
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=418795",
 			"description":"구는 2021년부터 기존 <b>청라<\/b>광역소각장을 대신할 신규 소각장을 찾고 있다. 총 사업비 2천710억원으로 2026년... 관련해 이영철 서구의원(마전·당하·오류왕길·<b>청라<\/b>3동)은 &quot;지역 주민이나 국회의원, 시·구의원들과 사전 협의... ",
 			"pubDate":"Mon, 03 Jun 2024 17:42:00 +0900"
-		},
-		{
-			"title":"'제15회 대구꽃박람회' 오는 5일 엑스코서 개막",
-			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20240603050659",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002317298?sid=102",
-			"description":"이번 박람회는 '꽃, 365'를 상징하는 주제관, 대형 작품과 치열한 경쟁 속에서 엄선된 12개 작품이 조성된 <b>청라<\/b>상관, 경북도와 고양시, 농업기술센터 등 전국의 화훼 문화를 알리는 지자체관, 원예작품전시관, 원예치료관... ",
-			"pubDate":"Mon, 03 Jun 2024 17:34:00 +0900"
-		},
-		{
-			"title":"'인천 청사진' 6월 결정…대형 유치전 서막",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=390019",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=390019",
-			"description":"후보지로 내건 <b>청라<\/b>국제도시. 접근성과 배후 수요를 갖췄지만 땅값이 비싸다는 단점이 있어 결과는 아직 예단할 수 없습니다. 이 밖에 김포시와의 이견차로 지지부진한 '서울5호선 검단 연장사업(노선안)'과 벌써 세 차례... ",
-			"pubDate":"Mon, 03 Jun 2024 17:30:00 +0900"
-		},
-		{
-			"title":"서구 소각장 검단으로?… &quot;검토조차 안해&quot; vs &quot;검토 문건 확보&quot;",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=101893",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=101893",
-			"description":"이영철 서구의원(민주, <b>청라<\/b>3·당하·오류왕길·마전동)이 확보한 구 내부 자료에는 당하동 산165번지 일원... 인천 서구 소각장 건립사업은 내구연한이 다 한 <b>청라<\/b>소각장을 폐쇄하기로 결정한 2021년 2월 추진이 결정됐다.... ",
-			"pubDate":"Mon, 03 Jun 2024 17:20:00 +0900"
-		},
-		{
-			"title":"수요자 사로잡는 합리적 공급가 '영종 진아 레히' 선착순 분양 중",
-			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=677072",
-			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=677072",
-			"description":"인천 경제자유구역으로 영종국제도시, 송도국제도시, <b>청라<\/b>국제도시의 삼각벨트가 형성되어, 최근 영종국제도시의 인구 증가세가 <b>청라<\/b>국제도시에 비해 월등히 높은 것으로 나타나 미래가치 또한 높게 평가되고 있다.... ",
-			"pubDate":"Mon, 03 Jun 2024 17:08:00 +0900"
 		}
 	]
 }
