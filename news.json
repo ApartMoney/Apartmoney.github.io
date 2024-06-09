@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 09 Jun 2024 17:00:02 +0900",
-	"total":226843,
+	"lastBuildDate":"Sun, 09 Jun 2024 17:10:02 +0900",
+	"total":226844,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"국제대회 휩쓴 미래의 로봇 박사들",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1252381",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1252381",
+			"description":"▲ 태국 방콕에서 '메이커 로보틱스 챌린지 2024' 대회가 열린 가운데 9명의 <b>청라<\/b>지역 대표단 소속 학생들이 성과를 거뒀다. \/사진제공=아이콘로봇코딩과학교육학원 인천 <b>청라<\/b>국제도시 초·중·고등학교 학생들로 구성된... ",
+			"pubDate":"Sun, 09 Jun 2024 17:02:00 +0900"
+		},
 		{
 			"title":"사상 첫 단일대회 4연패 박민지...&quot;상금 전액 기부&quot;",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240609010003975",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.apnews.kr\/news\/articleView.html?idxno=3020274",
 			"description":"서구 <b>청라<\/b>국제도시 C18블록에 신축될 '푸르지오 스타셀라49'는 지하 5층~지상 49층, 2개동, 총 522실 규모로 구성된다. 타입별 분양 세대는 ▲114㎡ 174실 ▲118㎡ 174실 ▲119㎡ 174실로 구성됐다. '푸르지오 스타셀라49'는 <b>청라<\/b>... ",
 			"pubDate":"Sat, 08 Jun 2024 03:04:00 +0900"
-		},
-		{
-			"title":"신세계건설 주가 으랏차차... MGIT와 협력 'DJI Dock 2' 도입",
-			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=270239",
-			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=270239",
-			"description":"신세계건설은 드론 전문업체들과 꾸준한 협력을 통해 도킹스테이션 기능을 최적화했으며, '스타필드 <b>청라<\/b> 1단계' 현장에서 테스트를 완료했다. 한편 전 거래일 건설 관련주인 플래스크 삼부토건  까뮤이앤씨... ",
-			"pubDate":"Sat, 08 Jun 2024 00:16:00 +0900"
 		}
 	]
 }
