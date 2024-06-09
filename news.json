@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 10 Jun 2024 08:30:02 +0900",
-	"total":226863,
+	"lastBuildDate":"Mon, 10 Jun 2024 08:40:02 +0900",
+	"total":226864,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;시가지 서킷 최적화&quot;…인천시, F1 그랑프리 유치 '총력전'",
+			"originallink":"https:\/\/news.tvchosun.com\/site\/data\/html_dir\/2024\/06\/10\/2024061090033.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000461781?sid=160",
+			"description":"지난 2010년부터 4년간 F1 경기를 치른 전남 영암이 전용 서킷을 만든 것과는 달리, 모나코나 미국 라스베이거스처럼 송도와 <b>청라<\/b> 등에서 도심 레이스를 구상하고 있습니다. 이를 위해 모나코 F1 대회를 찾은 인천시는 F1... ",
+			"pubDate":"Mon, 10 Jun 2024 08:33:00 +0900"
+		},
 		{
 			"title":"경인고속도로 일반도로화 사업, 3년 늦어진다 … &quot;지하도로 건설 추가&quot;",
 			"originallink":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2024\/06\/09\/2024060900075.html",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240607010001862",
 			"description":"서구는 인천에서 가장 넓은 내륙면적과 인구를 갖고 있으며, 녹지와 하천이 많고 최근 <b>청라<\/b>·검단 신도시 개발로 인구가 늘어나, 방역의 중요성이 높은 지역이다. 또한 휴전선에 인접해 파주·김포에 이어 말라리아... ",
 			"pubDate":"Sun, 09 Jun 2024 13:34:00 +0900"
-		},
-		{
-			"title":"[KLPGA] 이제영, 20개월 만에 통산 2호 홀인원 '시즌 11호'",
-			"originallink":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065581648647973",
-			"link":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065581648647973",
-			"description":"지난 2022년 9월 30일 인천 베어즈베스트 <b>청라<\/b>에서 열린 하나금융그룹 챔피언십 2라운드 16번 홀에서 데뷔 첫 홀인원을 잡아낸 이후 약 1년8개월(20개월) 만에 나온 이제영의 투어 통산 두 번째 홀인원이다. 아울러 전날... ",
-			"pubDate":"Sun, 09 Jun 2024 12:04:00 +0900"
 		}
 	]
 }
