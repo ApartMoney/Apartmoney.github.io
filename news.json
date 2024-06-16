@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 17 Jun 2024 05:00:03 +0900",
-	"total":227122,
+	"lastBuildDate":"Mon, 17 Jun 2024 05:10:02 +0900",
+	"total":227123,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 주요일정]인천·김포·부천(6월17일 월요일)",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240616_0002774437",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012609289?sid=102",
+			"description":"▲오전 7시20분 인천시 학생성공버스 교육감-학생 등교 동행, <b>청라<\/b> 일대 ▲오전 9시 인천시교육청 주간공감회의, 영상회의실 ▲오전 9시10분 부천시 간부소통회의, 시장 집무실 ▲오전 10시10분 부천시 조명사업 발전을... ",
+			"pubDate":"Mon, 17 Jun 2024 05:00:00 +0900"
+		},
 		{
 			"title":"선교사가 지은 영남 첫 근대식 병원 ‘제중원’ 원형 복원",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1718519720&code=11131100&cp=nv",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.apnews.kr\/news\/articleView.html?idxno=3020568",
 			"description":"해단 단지는 대구 지하철 3호선 학정역을 도보로 이용할 수 있는 역세권 단지로, 학정역에서 수성구 범물동까지 한 번에 누릴 수 있으며 환승역인 <b>청라<\/b>언덕역과 명덕역까지 20분대로 이동이 가능하다. 또한 안심~서변... ",
 			"pubDate":"Sun, 16 Jun 2024 09:20:00 +0900"
-		},
-		{
-			"title":"노후 주택 비율 높은 대구에 신축 아파트 공급 '두산위브더제니스 센트럴시티...",
-			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=679069",
-			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=679069",
-			"description":"학정역에서 수성구 범물동까지 한 번에 누릴 수 있으며 환승역인 <b>청라<\/b>언덕역과 명덕역까지 20분대로 이동이 가능하다. 안심~서변~읍내~달서를 잇는 4차순환도로 완전 개통으로 동구 혁신도시 20분, 달서구 성서공단... ",
-			"pubDate":"Sun, 16 Jun 2024 08:06:00 +0900"
 		}
 	]
 }
