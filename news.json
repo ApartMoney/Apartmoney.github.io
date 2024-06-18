@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 19 Jun 2024 03:00:03 +0900",
-	"total":227227,
+	"lastBuildDate":"Wed, 19 Jun 2024 03:10:02 +0900",
+	"total":227228,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천 外",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240618\/125497137\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003571377?sid=102",
+			"description":"20일 오후 3시 반∼5시 반 <b>청라<\/b>국제도서관 제1다목적실. □저자 강좌=‘그림으로 보는 돈의 역사’... 27일 오후 4∼5시 <b>청라<\/b>호수도서관 다목적강당. □친환경 교실=초등학교 3∼6학년생 대상 ‘친환경 탐험대’... ",
+			"pubDate":"Wed, 19 Jun 2024 03:05:00 +0900"
+		},
 		{
 			"title":"인천시교육청, '교육감배 학교스포츠클럽 초·중등 풋살대회' 개최",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=597711",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1890147",
 			"description":"남초부 1위는 인천단봉초등학교, 남중부 1위는 인천<b>청라<\/b>중학교가 차지했으며, 향후 교육부가 주최하는 제17회 전국학교스포츠클럽축전에 인천 대표로 참가한다. 전경규 인천대학교 교수는 “학생들이 운동장에서 땀... ",
 			"pubDate":"Tue, 18 Jun 2024 12:30:00 +0900"
-		},
-		{
-			"title":"인천시, 7월부터 도시철도 막차 맞춰 심야 버스 시범 운행",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=248314",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=248314",
-			"description":"인천시는 서울 출퇴근 수요가 많은 ▲송내역(수도권전철1호선) ▲계양역(공항철도, 인천1호선) ▲검암역(공항철도, 인천2호선) ▲<b>청라<\/b>국제도시역(공항철도) 등 4개 노선에 막차 시간 버스 8대를 투입할 예정이다. 다만... ",
-			"pubDate":"Tue, 18 Jun 2024 11:54:00 +0900"
 		}
 	]
 }
