@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 19 Jun 2024 16:10:03 +0900",
-	"total":227316,
+	"lastBuildDate":"Wed, 19 Jun 2024 16:20:02 +0900",
+	"total":227318,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 서울7호선 <b>청라<\/b>연장선 추가정거장 연말 착공",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240619010006223",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240619010006223",
+			"description":"인천시 서울7호선 <b>청라<\/b>연장선 추가정거장 연말 착공 인천시가 서울지하철 7호선 <b>청라<\/b> 연장선의 추가 정거장(가칭 스타필드역)의 연말 착공을 위한 설명회를 열었다. 19일 시에 따르면 서울지하철 7호선 <b>청라<\/b>연장선은... ",
+			"pubDate":"Wed, 19 Jun 2024 16:14:00 +0900"
+		},
 		{
 			"title":"인천시, 해양경찰청-송도컨벤시아서 '국제 해양·안전대전' 열어",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3023260",
@@ -17,6 +24,13 @@
 			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=152602",
 			"description":"인천시가 서울 지하철 7호선 <b>청라<\/b> 연장선의 추가 정거장(가칭 스타필드역)의 조기 착공을 위해 박차를... 서울도시철도 7호선 <b>청라<\/b>연장선은 석남역에서 <b>청라<\/b>국제도시를 거쳐 공항철도(<b>청라<\/b>국제도시역)까지 연결하는... ",
 			"pubDate":"Wed, 19 Jun 2024 16:00:00 +0900"
+		},
+		{
+			"title":"[건설·부동산 이모저모] 반도건설, 국내 첫 미국 뉴욕 맨해튼 최중심 주택 리...",
+			"originallink":"https:\/\/www.greened.kr\/news\/articleView.html?idxno=315474",
+			"link":"https:\/\/www.greened.kr\/news\/articleView.html?idxno=315474",
+			"description":"인천광역시 서구 <b>청라<\/b>국제도시 C18블록에 신축될 '푸르지오 스타셀라49'는 주거형 오피스텔로, 지하 5층~지상... '푸르지오 스타셀라49'는 <b>청라<\/b>국제도시 내에서 돋보이는 입지를 가지고 있다. 단지 바로 가까이에는... ",
+			"pubDate":"Wed, 19 Jun 2024 15:59:00 +0900"
 		},
 		{
 			"title":"대우건설, '푸르지오 스타셀라49' 24일 청약·견본주택 오픈",
@@ -110,13 +124,6 @@
 			"pubDate":"Wed, 19 Jun 2024 15:12:00 +0900"
 		},
 		{
-			"title":"오션뷰 갖춘 '영종 진아 레히' 선착순 분양 진행",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20240619150700375",
-			"link":"https:\/\/www.ajunews.com\/view\/20240619150700375",
-			"description":"또한 제3연륙교가 내년 개통을 앞둔 가운데, 개통이 완료되면 <b>청라<\/b>국제도시까지 15분이면 닿을 수 있다. 또 인천대교를 통해 송도국제도시로 빠르게 이동 가능하며, 인천공항, 제2경인고속도로, 제2공항철도(예정)등... ",
-			"pubDate":"Wed, 19 Jun 2024 15:10:00 +0900"
-		},
-		{
 			"title":"포스코인터, 인천LNG발전소 신예화로 효율 높이고 탄소 배출 낮춘다...주민설...",
 			"originallink":"https:\/\/www.nbntv.kr\/news\/articleView.html?idxno=330195",
 			"link":"https:\/\/www.nbntv.kr\/news\/articleView.html?idxno=330195",
@@ -124,17 +131,24 @@
 			"pubDate":"Wed, 19 Jun 2024 15:10:00 +0900"
 		},
 		{
-			"title":"인천시, 서울7호선 <b>청라<\/b>연장 스타필드 추가역 '연말 착공'",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=419181",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=419181",
-			"description":"서울7호선 <b>청라<\/b>연장선 노선도. 도시철도본부 포토 인천시 도시철도본부는 지난 18일 서울도시철도 7호선 <b>청라<\/b>연장선 추가정거장(005-1)에 대한 설계서 열람 및 입찰안내서 배부 등 공사입찰 현장설명회를 개최했다고... ",
-			"pubDate":"Wed, 19 Jun 2024 15:08:00 +0900"
+			"title":"오션뷰 갖춘 '영종 진아 레히' 선착순 분양 진행",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20240619150700375",
+			"link":"https:\/\/www.ajunews.com\/view\/20240619150700375",
+			"description":"또한 제3연륙교가 내년 개통을 앞둔 가운데, 개통이 완료되면 <b>청라<\/b>국제도시까지 15분이면 닿을 수 있다. 또 인천대교를 통해 송도국제도시로 빠르게 이동 가능하며, 인천공항, 제2경인고속도로, 제2공항철도(예정)등... ",
+			"pubDate":"Wed, 19 Jun 2024 15:10:00 +0900"
 		},
 		{
 			"title":"[이슈앤피플]김준성교통국장&quot;광역버스 준공영제, 심야안심별밤버스 운영&quot;",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=391313",
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=391313",
 			"description":"우리 <b>청라<\/b>를 거쳐서, 작전을 거쳐서 강남으로 가는 노선을 저희가 이번에 정부에서 발표를 했고요. 거기에... 그래서 대표적으로 민원이 있는 한 4개 지역을 송도 그쪽도 포함해가지고 <b>청라<\/b> 몇 군데를 저희가 교통량을 다... ",
+			"pubDate":"Wed, 19 Jun 2024 15:08:00 +0900"
+		},
+		{
+			"title":"인천시, 서울7호선 <b>청라<\/b>연장 스타필드 추가역 '연말 착공'",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=419181",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=419181",
+			"description":"서울7호선 <b>청라<\/b>연장선 노선도. 도시철도본부 포토 인천시 도시철도본부는 지난 18일 서울도시철도 7호선 <b>청라<\/b>연장선 추가정거장(005-1)에 대한 설계서 열람 및 입찰안내서 배부 등 공사입찰 현장설명회를 개최했다고... ",
 			"pubDate":"Wed, 19 Jun 2024 15:08:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=576562",
 			"description":"인천광역시 도시철도본부는 지난 18일 서울도시철도 7호선 <b>청라<\/b>연장선 추가정거장(005-1)에 대한 설계서 열람 및 입찰안내서 배부 등 공사입찰 현장설명회를 개최했다고 밝혔다. 서울도시철도 7호선 <b>청라<\/b>연장선은... ",
 			"pubDate":"Wed, 19 Jun 2024 14:30:00 +0900"
-		},
-		{
-			"title":"대우건설, 인천 <b>청라<\/b> '푸르지오 스타셀라49' 21일 분양",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1373559\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002841350?sid=101",
-			"description":"대우건설은 인천광역시 서구 <b>청라<\/b>국제도시 C18블록에 신축될 '푸르지오 스타셀라49'를 오는 21일 오픈하고... 단지는 <b>청라<\/b>국제도시 내에서 돋보이는 입지를 가지고 있다. 단지 바로 가까이에는 스타필드 <b>청라<\/b>가 2027년에... ",
-			"pubDate":"Wed, 19 Jun 2024 14:23:00 +0900"
-		},
-		{
-			"title":"대우건설, '푸르지오 스타셀라49' 분양",
-			"originallink":"http:\/\/www.opinionnews.co.kr\/news\/articleView.html?idxno=100432",
-			"link":"http:\/\/www.opinionnews.co.kr\/news\/articleView.html?idxno=100432",
-			"description":"인천광역시 서구 <b>청라<\/b>국제도시 C18블록에 신축될 '푸르지오 스타셀라49'는 주거형 오피스텔로 지하 5층... '푸르지오 스타셀라49'는 단지 바로 가까이에 2024년 하반기에 코스트코 <b>청라<\/b>점과 2027년 스타필드 <b>청라<\/b>가 입점을... ",
-			"pubDate":"Wed, 19 Jun 2024 14:04:00 +0900"
 		}
 	]
 }
