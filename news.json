@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 26 Jun 2024 02:10:02 +0900",
-	"total":227709,
+	"lastBuildDate":"Wed, 26 Jun 2024 02:20:02 +0900",
+	"total":227711,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천환경공단, 61명 규모 '상반기 정기인사' 단행",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=598781",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=598781",
+			"description":"인천환경공단 승진사항(3급 이상) ◇ 1급 승진(2급→1급) (2명) △운북사업소 소장 안대웅 △<b>청라<\/b>사업소 소장 김기형 ◇ 2급 승진(3급→2급) (5명) △안전감사실 실장 박경춘, <b>청라<\/b>사업소 장홍미 팀장 △환경연구소 소장... ",
+			"pubDate":"Wed, 26 Jun 2024 02:16:00 +0900"
+		},
+		{
+			"title":"인천시, '지명위원회' 열어…178건 교차로·공원·마을 명칭 심의",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=598809",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=598809",
+			"description":"<b>청라<\/b>·검단신도시 건설에 따라 신규 교차로가 대거 조성된 서구의 경우 교차로 명칭 165건이 상정됐으며 심의 결과 최근 역명이 변경된 사항을 반영한'신검단중앙역사거리'등 30건은 수정 가결, 나머지 135건은 원안... ",
+			"pubDate":"Wed, 26 Jun 2024 02:14:00 +0900"
+		},
 		{
 			"title":"7호선 공사현장에서 노동자 머리에 부품 맞아 사망",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202406260200528423",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1095720",
 			"description":"<b>청라<\/b>·검단신도시 건설에 따라 신규 교차로가 대거 조성된 서구의 경우 교차로 명칭 165건이 상정됐으며 심의 결과 최근 역명이 변경된 사항을 반영한 '신검단 중앙역 사거리' 등 30건은 수정 가결, 나머지 135건은 원안... ",
 			"pubDate":"Tue, 25 Jun 2024 17:36:00 +0900"
-		},
-		{
-			"title":"인천시, 지명위원회 열고 178건 교차로·공원·마을 명칭 심의",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363659136",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363659136",
-			"description":"<b>청라<\/b>·검단신도시 건설에 따라 신규 교차로가 대거 조성된 서구의 경우, 교차로 명칭 165건이 상정됐으며, 심의 결과 최근 역명이 변경된 사항을 반영한 '신검단중앙역사거리'등 30건은 수정 가결, 나머지 135건은 원안... ",
-			"pubDate":"Tue, 25 Jun 2024 17:34:00 +0900"
-		},
-		{
-			"title":"두산건설, 시공 현장서 노동자 사망…&quot;중대재해 0건&quot; 자신감 물거품",
-			"originallink":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=323952",
-			"link":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=323952",
-			"description":"두산건설이 시공 중인 서울도시철도 7호선 <b>청라<\/b>국제도시 연장 4공구 건설 현장에서 노동자 1명이 사망하는... 25일 업계에 따르면, 이날 오전 6시경 두산건설이 시공하는 인천<b>청라<\/b>연장4공구 현장에서 작업 중이던 노동자... ",
-			"pubDate":"Tue, 25 Jun 2024 17:18:00 +0900"
 		}
 	]
 }
