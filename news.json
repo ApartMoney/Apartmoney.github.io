@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 03 Jul 2024 18:30:02 +0900",
-	"total":228368,
+	"lastBuildDate":"Wed, 03 Jul 2024 18:40:02 +0900",
+	"total":228370,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"사고 내고 음주측정 거부한 현직 경찰...운전자 교체 의혹도",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202407031835553331",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002056265?sid=102",
+			"description":"A 경위가 탔던 차량은 지난달 29일 밤 8시 50분쯤 인천 <b>청라<\/b>동에서 교통섬을 들이받았는데, 40대 동승자는 처음에는 경찰에 자신이 운전자라고 했다가 진술을 번복했습니다. 이에 경찰은 A 경위를 상대로도 음주 측정을... ",
+			"pubDate":"Wed, 03 Jul 2024 18:35:00 +0900"
+		},
+		{
+			"title":"현대건설, 시흥클린에너지센터 준공… 바이오가스 생산 돌입",
+			"originallink":"https:\/\/biz.chosun.com\/real_estate\/real_estate_general\/2024\/07\/03\/IREOTOKD2RGGROT6QXWQZ4QZPU\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0001001991?sid=101",
+			"description":"2008년 인천 <b>청라<\/b>에 파일럿 설비를 구축해 기술 개발을 시작한 이후 유기성 폐자원 바이오가스화 관련 환경신기술 및 녹색인증을 취득했다. 국내외 다수의 특허를 등록하는 등 원천기술 확보에도 매진하고 있다.... ",
+			"pubDate":"Wed, 03 Jul 2024 18:32:00 +0900"
+		},
 		{
 			"title":"현대건설, 자원순환형 바이오가스 생산 본격화",
 			"originallink":"http:\/\/www.100ssd.co.kr\/news\/articleView.html?idxno=111527",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=357725",
 			"description":"2008년 인천 <b>청라<\/b>에 파일럿 설비를 구축해 기술개발을 시작한 뒤 유기성 폐자원 바이오가스화 관련 환경신기술 및 녹색인증을 받았고 국내외 다수의 특허를 등록하는 등 원천기술 확보에 힘써왔다. 현대건설이 건설해... ",
 			"pubDate":"Wed, 03 Jul 2024 17:06:00 +0900"
-		},
-		{
-			"title":"패밀리 레스토랑 네온몬스터즈, 수비드 기법 스테이크 선보여",
-			"originallink":"http:\/\/www.handmk.com\/news\/articleView.html?idxno=23549",
-			"link":"http:\/\/www.handmk.com\/news\/articleView.html?idxno=23549",
-			"description":"받고 있으며, 이를 통해 우리의 브랜드를 더욱 강화할 수 있을 것&quot;이라고 전했다. 직영 중심인 네온몬스터즈는 인천 <b>청라<\/b>를 시작으로 영종도 직영 2호점을 오픈했으며, 이번 달 시흥 거북섬에도 직영 매장을 오픈할 예정이다.",
-			"pubDate":"Wed, 03 Jul 2024 17:06:00 +0900"
-		},
-		{
-			"title":"현대건설, '시흥클린에너지센터' 준공…바이오가스 생산 돌입",
-			"originallink":"https:\/\/www.mediapen.com\/news\/view\/933643",
-			"link":"https:\/\/www.mediapen.com\/news\/view\/933643",
-			"description":"2008년 인천 <b>청라<\/b>에 파일럿 설비를 구축해 기술 개발을 시작한 이후 유기성 폐자원 바이오가스화 관련 환경신기술 및 녹색인증을 취득하고 국내외 다수의 특허를 등록하는 등 원천기술 확보에 매진해왔다. 현대건설이... ",
-			"pubDate":"Wed, 03 Jul 2024 17:04:00 +0900"
 		}
 	]
 }
