@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 03 Jul 2024 09:30:02 +0900",
-	"total":228195,
+	"lastBuildDate":"Wed, 03 Jul 2024 09:40:03 +0900",
+	"total":228196,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, '제1회 추경' 501억원 증액…본예산 比 3.4% ↑",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240703010001846",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240703010001846",
+			"description":"추경예산 재원은 송도 11-2공구 전기공급설비용지 매각 수입 209억원, <b>청라<\/b>국제도시 초과이익 재투자 210억... <b>청라<\/b>에는 정서진공원 커낼웨이 경관조명 개선사업(3단계) 6억 원을 반영해 <b>청라<\/b>국제도시 야간경관 명소화... ",
+			"pubDate":"Wed, 03 Jul 2024 09:30:00 +0900"
+		},
 		{
 			"title":"부동산 디자인 시장에 부는 AX, 진화하는 상업시설",
 			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=296643",
@@ -166,17 +173,17 @@
 			"pubDate":"Tue, 02 Jul 2024 20:05:00 +0900"
 		},
 		{
-			"title":"장대비에 인천 피해 속출… 침수, 하수구 역류",
-			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1447028",
-			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1447028",
-			"description":"청천동 아파트 인도와 중구 운서동 공원에서 강한 바람에 나무가 각각 쓰러졌습니다. 서구 <b>청라<\/b>동 도로에서는 하수구가 역류했고, 미추홀구 학익동 주택 등지에서는 배수구 막힘 신고가 잇따라 소방 당국에 들어왔습니다.",
-			"pubDate":"Tue, 02 Jul 2024 20:04:00 +0900"
-		},
-		{
 			"title":"강풍·폭우에 항공편 무더기 결항하고 전국 곳곳 침수 피해(종합)",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240702097953056?input=1195m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014783797?sid=103",
 			"description":"또 인천 부평구 청천동 아파트 인도와 중구 운서동 공원에서 강한 바람에 나무가 각각 쓰러졌고 남동구 남촌동 빌라와 서구 <b>청라<\/b>동 도로에서는 하수구가 역류하는 등 크고 작은 사고가 잇따랐다. 대전·세종... ",
+			"pubDate":"Tue, 02 Jul 2024 20:04:00 +0900"
+		},
+		{
+			"title":"장대비에 인천 피해 속출… 침수, 하수구 역류",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1447028",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1447028",
+			"description":"청천동 아파트 인도와 중구 운서동 공원에서 강한 바람에 나무가 각각 쓰러졌습니다. 서구 <b>청라<\/b>동 도로에서는 하수구가 역류했고, 미추홀구 학익동 주택 등지에서는 배수구 막힘 신고가 잇따라 소방 당국에 들어왔습니다.",
 			"pubDate":"Tue, 02 Jul 2024 20:04:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/449\/0000278930?sid=102",
 			"description":"인천 서구 <b>청라<\/b>는 도로 일부가 물에 잠겼고 미추홀구에선 저지대 주택이 침수되는 피해가 있었습니다. 내일 새벽까지 경기 북부와 강원 내륙은 시간당 최대 60mm에 달하는 집중호우가 예상됩니다. 밤사이 비구름이... ",
 			"pubDate":"Tue, 02 Jul 2024 19:46:00 +0900"
-		},
-		{
-			"title":"인천경제청, 501억 증액 추경안 편성",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1256038",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1256038",
-			"description":"추경예산 재원은 송도 11-2공구 전기공급설비용지 매각 수입 209억원, <b>청라<\/b>국제도시 초과 이익 재투자... <b>청라<\/b>국제도시에는 정서진공원 커낼웨이 경관조명 개선사업 6억원을 반영해 야간경관 명소화 조성에 나선다.... ",
-			"pubDate":"Tue, 02 Jul 2024 19:30:00 +0900"
 		}
 	]
 }
