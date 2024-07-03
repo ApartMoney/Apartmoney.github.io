@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 03 Jul 2024 10:30:02 +0900",
-	"total":228199,
+	"lastBuildDate":"Wed, 03 Jul 2024 10:40:02 +0900",
+	"total":228200,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"최혜진·김효주, 국내 시즌 첫 출전…롯데오픈서 격돌",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3155110",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3155110",
+			"description":"둘은 4일부터 나흘간 인천시 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄아시아 코스(파72·6655야드)에서 총상금 12억원, 우승 상금 2억1600만원을 걸고 열리는 롯데 오픈에 나선다. 최혜진은 아마추어 신분으로 두차례... ",
+			"pubDate":"Wed, 03 Jul 2024 10:34:00 +0900"
+		},
 		{
 			"title":"알스퀘어, ‘2024년 하반기 상업용 부동산 공간 키워드’ 발표",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202407031010236560703",
@@ -194,13 +201,6 @@
 			"pubDate":"Tue, 02 Jul 2024 20:05:00 +0900"
 		},
 		{
-			"title":"장대비에 인천 피해 속출… 침수, 하수구 역류",
-			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1447028",
-			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1447028",
-			"description":"청천동 아파트 인도와 중구 운서동 공원에서 강한 바람에 나무가 각각 쓰러졌습니다. 서구 <b>청라<\/b>동 도로에서는 하수구가 역류했고, 미추홀구 학익동 주택 등지에서는 배수구 막힘 신고가 잇따라 소방 당국에 들어왔습니다.",
-			"pubDate":"Tue, 02 Jul 2024 20:04:00 +0900"
-		},
-		{
 			"title":"강풍·폭우에 항공편 무더기 결항하고 전국 곳곳 침수 피해(종합)",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240702097953056?input=1195m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014783797?sid=103",
@@ -208,11 +208,11 @@
 			"pubDate":"Tue, 02 Jul 2024 20:04:00 +0900"
 		},
 		{
-			"title":"인천경제자유구역청, 제1회 추경예산 501억 원 편성",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=461634",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=461634",
-			"description":"추경예산 재원은 송도 11-2공구 전기공급설비용지 매각 수입 209억원, <b>청라<\/b>국제도시 초과이익 재투자 210억... <b>청라<\/b>에는 정서진공원 커낼웨이 경관조명 개선사업(3단계) 6억 원을 반영하여 <b>청라<\/b>국제도시 야간경관 명소화... ",
-			"pubDate":"Tue, 02 Jul 2024 20:02:00 +0900"
+			"title":"장대비에 인천 피해 속출… 침수, 하수구 역류",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1447028",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1447028",
+			"description":"청천동 아파트 인도와 중구 운서동 공원에서 강한 바람에 나무가 각각 쓰러졌습니다. 서구 <b>청라<\/b>동 도로에서는 하수구가 역류했고, 미추홀구 학익동 주택 등지에서는 배수구 막힘 신고가 잇따라 소방 당국에 들어왔습니다.",
+			"pubDate":"Tue, 02 Jul 2024 20:04:00 +0900"
 		}
 	]
 }
