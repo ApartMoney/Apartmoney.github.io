@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 04 Jul 2024 07:00:02 +0900",
-	"total":228386,
+	"lastBuildDate":"Thu, 04 Jul 2024 07:10:02 +0900",
+	"total":228387,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 주요 일정] 스토킹처벌법 위반 최재영 목사 피고발인 조사",
+			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=216254",
+			"link":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=216254",
+			"description":"(베어즈베스트 <b>청라<\/b>) 제5회 드림파크배 아마추어선수권대회(드림파크CC) ▲ 여자축구= 인천현대제철-화천KSPO(19시·인천남동아시아드주경기장) ▲ 씨름= 제10회 춘천소양강배전국장사대회(11시·강원 춘천 한림대... ",
+			"pubDate":"Thu, 04 Jul 2024 07:02:00 +0900"
+		},
 		{
 			"title":"캐논코리아, ‘KLPGA 2024 롯데오픈’ 공식 후원 나선다",
 			"originallink":"https:\/\/sports.khan.co.kr\/news\/sk_index.html?art_id=202407040643003&sec_id=530201&pt=nv",
@@ -12,17 +19,17 @@
 			"pubDate":"Thu, 04 Jul 2024 06:44:00 +0900"
 		},
 		{
-			"title":"◇내일의 경기(5일)",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240703103700007?input=1195m",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0014786483",
-			"description":"◆5일(금) △프로축구= 인천-김천(인천축구전용경기장) 수원FC-울산(수원종합운동장·이상 19시30분) △프로야구= 퓨처스 올스타전(18시·인천) △골프= KLPGA 투어 롯데 오픈(베어즈베스트 <b>청라<\/b>) 제5회 드림파크배... ",
-			"pubDate":"Thu, 04 Jul 2024 06:15:00 +0900"
-		},
-		{
 			"title":"◇오늘의 경기(4일)",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240703103400007?input=1195m",
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0014786482",
 			"description":"◆4일(목) △프로야구= KIA-삼성(대구) kt-한화(대전) LG-키움(고척) 롯데-두산(잠실) SSG-NC(창원·이상 18시30분) △골프= KLPGA 투어 롯데 오픈(베어즈베스트 <b>청라<\/b>) 제5회 드림파크배 아마추어선수권대회(드림파크CC)... ",
+			"pubDate":"Thu, 04 Jul 2024 06:15:00 +0900"
+		},
+		{
+			"title":"◇내일의 경기(5일)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240703103700007?input=1195m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0014786483",
+			"description":"◆5일(금) △프로축구= 인천-김천(인천축구전용경기장) 수원FC-울산(수원종합운동장·이상 19시30분) △프로야구= 퓨처스 올스타전(18시·인천) △골프= KLPGA 투어 롯데 오픈(베어즈베스트 <b>청라<\/b>) 제5회 드림파크배... ",
 			"pubDate":"Thu, 04 Jul 2024 06:15:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/cwn.kr\/article\/1065602218314394",
 			"description":"지난 2008년 인천 <b>청라<\/b>에 파일럿 설비를 구축해 기술 개발을 시작한 이후 유기성 폐자원 바이오가스화 관련 환경신기술 및 녹색인증을 취득하고, 국내외 다수의 특허를 등록하는 등 원천기술 확보에 매진해왔다. 이뿐... ",
 			"pubDate":"Wed, 03 Jul 2024 17:40:00 +0900"
-		},
-		{
-			"title":"&quot;쓰레기가 이렇게 많아...근데 냄새가 안 나네&quot;",
-			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=153240",
-			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=153240",
-			"description":"지난 2일 인천 서구 <b>청라<\/b> 자원순환센터(생활폐기물 소각장). 이른 아침부터 쏟아지는 장맛비를 뚫고 30여명의... 인천환경공단은 송도·<b>청라<\/b>자원순환센터의 안전성과 올바른 시설에 대한 이해를 높이기 위한 시민... ",
-			"pubDate":"Wed, 03 Jul 2024 17:34:00 +0900"
 		}
 	]
 }
