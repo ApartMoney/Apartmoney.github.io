@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 04 Jul 2024 00:30:02 +0900",
-	"total":228377,
+	"lastBuildDate":"Thu, 04 Jul 2024 00:40:02 +0900",
+	"total":228378,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 경기] 2024년 7월 4일",
+			"originallink":"https:\/\/www.chosun.com\/sports\/sports_general\/2024\/07\/04\/24MDVZXG3RHJLIWSXZ6U6UGDPY\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/023\/0003844062",
+			"description":"LG(임찬규)-키움(허영민·고척·SPOTV2) 롯데(윌커슨)-두산(곽빈·잠실·KBS N) SSG(김광현)-NC(하트·창원·SBS스포츠·이상 18시30분) 골프 KLPGA 투어 롯데 오픈(베어즈베스트 <b>청라<\/b>·SBS골프·11시)",
+			"pubDate":"Thu, 04 Jul 2024 00:36:00 +0900"
+		},
 		{
 			"title":"[KLPGA] '션'한 영향력과 함께한 롯데오픈 공식 포토콜",
 			"originallink":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065619763610279",
@@ -166,17 +173,17 @@
 			"pubDate":"Wed, 03 Jul 2024 17:30:00 +0900"
 		},
 		{
-			"title":"현대건설, 유기성 폐자원 바이오가스화 시설 본격 가동",
-			"originallink":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=203900",
-			"link":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=203900",
-			"description":"2008년 인천 <b>청라<\/b>에 파일럿 설비를 구축해 기술 개발을 시작한 이후 유기성 폐자원 바이오가스화 관련 환경신기술 및 녹색인증을 취득하고, 국내외 다수의 특허를 등록하는 등 원천기술 확보에 매진해왔다. 현대건설이... ",
-			"pubDate":"Wed, 03 Jul 2024 17:28:00 +0900"
-		},
-		{
 			"title":"“좋은 기운 얻을 것” 최혜진, 김효주 4일 롯데오픈 출격…시즌 첫 KLPGA 나...",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/sport\/golf\/2024\/07\/03\/20240703500174?wlog_tag3=naver",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/081\/0003462243",
 			"description":"4일부터 나흘간 인천 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄아시아 코스(파72·6655야드)에서 열리는 롯데오픈(총상금 12억원)을 통해서다. 롯데는 최혜진과 김효주의 후원사이기도 하다. 최혜진이 KLPGA 투어에... ",
+			"pubDate":"Wed, 03 Jul 2024 17:28:00 +0900"
+		},
+		{
+			"title":"현대건설, 유기성 폐자원 바이오가스화 시설 본격 가동",
+			"originallink":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=203900",
+			"link":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=203900",
+			"description":"2008년 인천 <b>청라<\/b>에 파일럿 설비를 구축해 기술 개발을 시작한 이후 유기성 폐자원 바이오가스화 관련 환경신기술 및 녹색인증을 취득하고, 국내외 다수의 특허를 등록하는 등 원천기술 확보에 매진해왔다. 현대건설이... ",
 			"pubDate":"Wed, 03 Jul 2024 17:28:00 +0900"
 		},
 		{
@@ -199,13 +206,6 @@
 			"link":"http:\/\/www.techholic.co.kr\/news\/articleView.html?idxno=213101",
 			"description":"2008년 인천 <b>청라<\/b>에 파일럿 설비를 구축해 기술 개발을 시작한 이후 유기성 폐자원 바이오가스화 관련 환경신기술 및 녹색인증을 취득하고, 국내외 다수의 특허를 등록하는 등 원천기술 확보에 매진해왔다. 현대건설이... ",
 			"pubDate":"Wed, 03 Jul 2024 17:18:00 +0900"
-		},
-		{
-			"title":"하루 8283가구 쓰는 도시가스 생산시설 구축한 건설업체",
-			"originallink":"https:\/\/www.moneys.co.kr\/article\/2024070317104829560",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0001012262?sid=101",
-			"description":"2008년 인천 <b>청라<\/b>에 파일럿 설비를 구축해 기술 개발을 시작한 이후 유기성 폐자원 바이오가스화 관련 환경신기술 및 녹색인증을 취득하고 국내외 다수의 특허를 등록하는 등 원천기술 확보에 매진했다. 현대건설이... ",
-			"pubDate":"Wed, 03 Jul 2024 17:14:00 +0900"
 		},
 		{
 			"title":"인천 'F1 그랑프리' 유치 놓고 민민갈등 심화… &quot;재정 악화 vs 도시 발전&quot;",
