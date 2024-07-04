@@ -1,13 +1,41 @@
 {
-	"lastBuildDate":"Thu, 04 Jul 2024 18:40:03 +0900",
-	"total":229038,
+	"lastBuildDate":"Thu, 04 Jul 2024 18:50:02 +0900",
+	"total":229042,
 	"start":1,
 	"display":30,
 	"items":[
 		{
+			"title":"윤이나, 롯데오픈 첫날 공동 선두…'3연승 도전' 박현경 공동 13위(종합)",
+			"originallink":"https:\/\/www.news1.kr\/articles\/5469483",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0007644667",
+			"description":"윤이나는 4일 인천 서구 베어즈베스트 <b>청라<\/b>(파72)에서 열린 대회 1라운드에서 보기 없이 버디만 8개 잡아 8언더파 64타를 적어냈다. 최민경(31·지벤트)과 동타를 이룬 윤이나는 공동 선두로 리더보드 최상단을... ",
+			"pubDate":"Thu, 04 Jul 2024 18:45:00 +0900"
+		},
+		{
+			"title":"귀에 스마일 건 최혜진, 타이틀 방어 시작",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20240704183248170",
+			"link":"https:\/\/www.ajunews.com\/view\/20240704183248170",
+			"description":"베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 환하게 웃고 있다. [사진=이동훈 기자] 귀에 스마일을 건 최혜진이 지난해 자신감을 얻은 대회 방어전에 올랐다. 최혜진은 4일 인천 서구 베어즈베스트 <b>청라<\/b> 골프클럽 미국... ",
+			"pubDate":"Thu, 04 Jul 2024 18:42:00 +0900"
+		},
+		{
+			"title":"박현경에게 밀렸던 윤이나·최민경, 롯데오픈 첫날 8언더파 선두(종합)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240704128451007?input=1195m",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014788869",
+			"description":"윤이나와 최민경은 4일 인천 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄아시아 코스(파72)에서 열린 대회 1라운드에서 보기 없이 버디 8개를 쳐 8언더파 64타를 쳤다. 이들은 단독 3위 방신실(7언더파 65타)에게 한 타... ",
+			"pubDate":"Thu, 04 Jul 2024 18:40:00 +0900"
+		},
+		{
+			"title":"최민경·윤이나, KLPGA 투어 롯데 오픈 첫날 8언더파 공동 1위",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240704010001624",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240704010001624",
+			"description":"이들 두 선수는 4일 인천 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄아시아 코스(파 72·6655야드)에서 열린 대회 1라운드에서 보기 없이 버디만 8개를 잡아내 8언더파 64타를 쳤다. 지난 주 맥콜·모나 용평 오픈을 2타... ",
+			"pubDate":"Thu, 04 Jul 2024 18:40:00 +0900"
+		},
+		{
 			"title":"&quot;4연속 버디 몰랐어요&quot; 윤이나, 롯데오픈 최민경과 1R 공동 선두···방신실...",
 			"originallink":"https:\/\/isplus.com\/article\/view\/isp202407040182",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/241\/0003362698",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/241\/0003362698",
 			"description":"윤이나는 4일 인천 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄아시아 코스(파72·6655야드)에서 열린 한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 12억원) 1라운드 첫날 보기 없이 버디만 8개를 기록, 8언더파 64타를... ",
 			"pubDate":"Thu, 04 Jul 2024 18:36:00 +0900"
 		},
@@ -75,13 +103,6 @@
 			"pubDate":"Thu, 04 Jul 2024 18:09:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 이로운-이율린, 엄지 척",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297433",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213092",
-			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 이율린(나이키)이 10번홀 경기를  펼치고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
-		},
-		{
 			"title":"[mhn포토] 서어진, 들어가라 이글",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297436",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213090",
@@ -96,9 +117,23 @@
 			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
 		},
 		{
+			"title":"[mhn포토] 서어진, 칩 인 이글을 노린다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297435",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213091",
+			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 서어진(DB손해보험)이 10번홀 경기를  펼치고 있다.",
+			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
+		},
+		{
 			"title":"[mhn포토] 서어진, 들어가라 버디 퍼트",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297439",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213087",
+			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 서어진(DB손해보험)이 10번홀 경기를  펼치고 있다.",
+			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 서어진, 기분 좋은 마무리",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297440",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213086",
 			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 서어진(DB손해보험)이 10번홀 경기를  펼치고 있다.",
 			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
 		},
@@ -110,23 +145,9 @@
 			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 서어진, 기분 좋은 마무리",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297440",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213086",
-			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 서어진(DB손해보험)이 10번홀 경기를  펼치고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
-		},
-		{
 			"title":"[mhn포토] 서어진, 집중해서 살핀다",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297438",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213088",
-			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 서어진(DB손해보험)이 10번홀 경기를  펼치고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 서어진, 칩 인 이글을 노린다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297435",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213091",
 			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 서어진(DB손해보험)이 10번홀 경기를  펼치고 있다.",
 			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
 		},
@@ -138,10 +159,10 @@
 			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 한지원, 최대한 멀리 멀리 날려요",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297430",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213095",
-			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 한지원(노랑통닭)이 10번홀 경기를 펼치고 있다.",
+			"title":"[mhn포토] 이로운-이율린, 엄지 척",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297433",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213092",
+			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 이율린(나이키)이 10번홀 경기를  펼치고 있다.",
 			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
 		},
 		{
@@ -149,6 +170,13 @@
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297437",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213089",
 			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 서어진(DB손해보험)이 10번홀 경기를  펼치고 있다.",
+			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 한지원, 최대한 멀리 멀리 날려요",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297430",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213095",
+			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 한지원(노랑통닭)이 10번홀 경기를 펼치고 있다.",
 			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
 		},
 		{
@@ -166,51 +194,23 @@
 			"pubDate":"Thu, 04 Jul 2024 18:01:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 이동은, 핀에 가까이 붙인다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297460",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213070",
-			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 이동은(SBI)이 10번홀 경기를  펼치고 있다.",
+			"title":"[mhn포토] 서어진, 손 인사로 시작해요",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297444",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213082",
+			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 서어진(DB손해보험)이 11번홀 경기를  펼치고 있다.",
 			"pubDate":"Thu, 04 Jul 2024 18:00:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 김수지-이시우, 쉽지 않다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297451",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213078",
-			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 김수지(동부건설)가 11번홀 경기를  펼치고 있다.",
+			"title":"[mhn포토] 루키 이동은, 칩 인 이글을 노린다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297459",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213071",
+			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 이동은(SBI)이 10번홀 경기를  펼치고 있다.",
 			"pubDate":"Thu, 04 Jul 2024 18:00:00 +0900"
 		},
 		{
 			"title":"[mhn포토] 루키 이동은, 첫 홀 버디 잡으며 브이",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297464",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213066",
-			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 이동은(SBI)이 10번홀 경기를  펼치고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 18:00:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 깜짝 놀라는 이동은, 벌레는 무서워요",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297468",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213062",
-			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 이동은(SBI)이 11번홀 경기를  펼치고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 18:00:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 이동은, 한참을 바라보는 목표 방향",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297467",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213063",
-			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 이동은(SBI)이 11번홀 경기를  펼치고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 18:00:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 서어진, 집중해서 날리는 티샷",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297441",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213085",
-			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 서어진(DB손해보험)이 11번홀 경기를  펼치고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 18:00:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 이동은-박주성, 나이스 버디",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297463",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213067",
 			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 이동은(SBI)이 10번홀 경기를  펼치고 있다.",
 			"pubDate":"Thu, 04 Jul 2024 18:00:00 +0900"
 		}
