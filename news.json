@@ -1,29 +1,29 @@
 {
-	"lastBuildDate":"Thu, 04 Jul 2024 12:00:02 +0900",
-	"total":228577,
+	"lastBuildDate":"Thu, 04 Jul 2024 12:10:02 +0900",
+	"total":228579,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 심야전용 시내버스 '별밤버스' 2개 노선 운행 개시",
+			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=177426",
+			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=177426",
+			"description":"이번에 시범운행에 들어가는 노선은 송내역(남부)∼논현동(N50), <b>청라<\/b>국제도시역∼<b>청라<\/b>5단지(N81)이다. 경인선 전철 1호선 송내역(남부)에서 출발하는 N50번은 밤 11시 50분, 12시 30분 출발, 공항철도 <b>청라<\/b>국제도시역에서... ",
+			"pubDate":"Thu, 04 Jul 2024 12:04:00 +0900"
+		},
+		{
+			"title":"WKBL, 8~10일 2024 FIBA 농구 심판 강습회 개최",
+			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2024070410485747158",
+			"link":"https:\/\/m.sports.naver.com\/basketball\/article\/117\/0003847408",
+			"description":"1~3일 차 오전에는 WKBL 사옥 1층에서 이론 교육을 실시하며, 8일 오후에는 하나원큐<b>청라<\/b>체육관에서, 9일 오후에는 홍대부고 체육관에서 이론 교육에서 학습한 내용을 바탕으로 연습경기에 참가한다.",
+			"pubDate":"Thu, 04 Jul 2024 12:01:00 +0900"
+		},
 		{
 			"title":"티샷 선보이는 박지영",
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6741819",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0007643097",
 			"description":"= 박지영이 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 '롯데 오픈' 1라운드 10번 홀에서 티샷을 하고 있다. (KLPGT 제공) 2024.7.4\/뉴스1",
 			"pubDate":"Thu, 04 Jul 2024 11:47:00 +0900"
-		},
-		{
-			"title":"이주미의 티샷",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6741822",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0007643094",
-			"description":"= 이주미가 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 '롯데 오픈' 1라운드 18번 홀에서 티샷을 하고 있다. (KLPGT 제공) 2024.7.4\/뉴스1",
-			"pubDate":"Thu, 04 Jul 2024 11:46:00 +0900"
-		},
-		{
-			"title":"박민지 '힘찬 아이언 샷'",
-			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6741817",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0007643093",
-			"description":"= 박민지가 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 '롯데 오픈' 1라운드 10번 홀에서 아이언 샷을 하고 있다. (KLPGT 제공) 2024.7.4\/뉴스1",
-			"pubDate":"Thu, 04 Jul 2024 11:46:00 +0900"
 		},
 		{
 			"title":"스타필드 이어 타임빌라스·커넥트현대도 출격…복합쇼핑몰 경쟁",
@@ -37,6 +37,20 @@
 			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6741814",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0007643092",
 			"description":"= 김효주가 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 '롯데 오픈' 1라운드 10번 홀에서 아이언 샷을 하고 있다. (KLPGT 제공) 2024.7.4\/뉴스1",
+			"pubDate":"Thu, 04 Jul 2024 11:46:00 +0900"
+		},
+		{
+			"title":"박민지 '힘찬 아이언 샷'",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6741817",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0007643093",
+			"description":"= 박민지가 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 '롯데 오픈' 1라운드 10번 홀에서 아이언 샷을 하고 있다. (KLPGT 제공) 2024.7.4\/뉴스1",
+			"pubDate":"Thu, 04 Jul 2024 11:46:00 +0900"
+		},
+		{
+			"title":"이주미의 티샷",
+			"originallink":"https:\/\/www.news1.kr\/photos\/view\/?6741822",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0007643094",
+			"description":"= 이주미가 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 '롯데 오픈' 1라운드 18번 홀에서 티샷을 하고 있다. (KLPGT 제공) 2024.7.4\/뉴스1",
 			"pubDate":"Thu, 04 Jul 2024 11:46:00 +0900"
 		},
 		{
@@ -68,10 +82,10 @@
 			"pubDate":"Thu, 04 Jul 2024 11:38:00 +0900"
 		},
 		{
-			"title":"티샷하는 최민경",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240704079500013?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014787351",
-			"description":"최민경이 4일 인천 서구 베어즈베스트<b>청라<\/b>GC에서 열린 '롯데 오픈' 1라운드 10번 홀에서 티샷하고 있다. 2024.7.4 [KLPGT 제공. 재판매 및 DB 금지]",
+			"title":"김희지, 2번 홀 티샷",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240704076500013?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014787346",
+			"description":"김희지가 4일 인천 서구 베어즈베스트<b>청라<\/b>GC에서 열린 '롯데 오픈' 1라운드 2번 홀에서 티샷하고 있다. 2024.7.4 [KLPGT 제공. 재판매 및 DB 금지]",
 			"pubDate":"Thu, 04 Jul 2024 11:38:00 +0900"
 		},
 		{
@@ -96,17 +110,17 @@
 			"pubDate":"Thu, 04 Jul 2024 11:38:00 +0900"
 		},
 		{
-			"title":"김희지, 2번 홀 티샷",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240704076500013?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014787346",
-			"description":"김희지가 4일 인천 서구 베어즈베스트<b>청라<\/b>GC에서 열린 '롯데 오픈' 1라운드 2번 홀에서 티샷하고 있다. 2024.7.4 [KLPGT 제공. 재판매 및 DB 금지]",
-			"pubDate":"Thu, 04 Jul 2024 11:38:00 +0900"
-		},
-		{
 			"title":"이주미, 18번 홀 티샷",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240704077100013?input=1196m",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014787350",
 			"description":"이주미가 4일 인천 서구 베어즈베스트<b>청라<\/b>GC에서 열린 '롯데 오픈' 1라운드 18번 홀에서 티샷하고 있다. 2024.7.4 [KLPGT 제공. 재판매 및 DB 금지]",
+			"pubDate":"Thu, 04 Jul 2024 11:38:00 +0900"
+		},
+		{
+			"title":"티샷하는 최민경",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240704079500013?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014787351",
+			"description":"최민경이 4일 인천 서구 베어즈베스트<b>청라<\/b>GC에서 열린 '롯데 오픈' 1라운드 10번 홀에서 티샷하고 있다. 2024.7.4 [KLPGT 제공. 재판매 및 DB 금지]",
 			"pubDate":"Thu, 04 Jul 2024 11:38:00 +0900"
 		},
 		{
@@ -197,20 +211,6 @@
 			"title":"[mhn포토] 전예성, 휘파람 불며 출발",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297163",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000212806",
-			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 전예성(안강건설)이 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 11:27:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 전예성, 이 악물고 날리는 티샷",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297160",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000212809",
-			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 전예성(안강건설)이 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 11:27:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 전예성, 부스럭 소리에 바라보다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297157",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000212812",
 			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 전예성(안강건설)이 11번홀 경기를 펼치고 있다.",
 			"pubDate":"Thu, 04 Jul 2024 11:27:00 +0900"
 		}
