@@ -1,9 +1,114 @@
 {
-	"lastBuildDate":"Thu, 04 Jul 2024 13:30:03 +0900",
-	"total":228607,
+	"lastBuildDate":"Thu, 04 Jul 2024 13:40:02 +0900",
+	"total":228622,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[포토] 김연희, '힘차게 날아라~'",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202407042053H",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/015\/0005005602",
+			"description":"한국여자프로골프(KLPGA)투어 ‘롯데오픈’ 1라운드 경기가 4일 인천 서구 베어즈베스트 <b>청라<\/b>(파72, 6655야드)에서 열렸다. 대회에 출전한 김연희가 10번 홀에서 티샷하고 있다.",
+			"pubDate":"Thu, 04 Jul 2024 13:38:00 +0900"
+		},
+		{
+			"title":"[ST포토] 박도영, 반가운 손인사",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=94540169609",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=94540169609",
+			"description":"2024 KLPGA 투어 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원)1라운드 경기가 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC(파72 \/ 6655야드)에서 열렸다. 박도영이 10번홀 티샷 후 이동을 하고 있다. 2024.07.04.",
+			"pubDate":"Thu, 04 Jul 2024 13:38:00 +0900"
+		},
+		{
+			"title":"[포토] 강지선-홍예은-박채윤, '환한 미소~'",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202407042051H",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/015\/0005005601",
+			"description":"한국여자프로골프(KLPGA)투어 ‘롯데오픈’ 1라운드 경기가 4일 인천 서구 베어즈베스트 <b>청라<\/b>(파72, 6655야드)에서 열렸다. 대회에 출전한 강지선, 홍예은, 박채윤이 10번 홀에서 티샷한 후 포즈를 취하고 있다.",
+			"pubDate":"Thu, 04 Jul 2024 13:38:00 +0900"
+		},
+		{
+			"title":"[ST포토] 배소현, 정확한 임팩트",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=94539884236",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=94539884236",
+			"description":"2024 KLPGA 투어 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원)1라운드 경기가 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC(파72 \/ 6655야드)에서 열렸다. 배소현이 10번홀 티샷을 하고 있다. 2024.07.04.",
+			"pubDate":"Thu, 04 Jul 2024 13:36:00 +0900"
+		},
+		{
+			"title":"티샷하는 김희지",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240704_0020403857",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0012647404",
+			"description":"4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 롯데 오픈 1라운드 2번홀에서 김희지가 티샷을 하고 있다. (사진=KLPGT 제공) 2024.07.04. photo@newsis.com *재판매 및 DB 금지",
+			"pubDate":"Thu, 04 Jul 2024 13:34:00 +0900"
+		},
+		{
+			"title":"티샷하는 박결",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240704_0020403856",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0012647407",
+			"description":"4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 롯데 오픈 1라운드 10번홀에서 박결이 티샷을 하고 있다. (사진=KLPGT 제공) 2024.07.04. photo@newsis.com *재판매 및 DB 금지",
+			"pubDate":"Thu, 04 Jul 2024 13:34:00 +0900"
+		},
+		{
+			"title":"아이언샷 하는 김효주",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240704_0020403858",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0012647405",
+			"description":"4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 롯데 오픈 1라운드 10번홀에서 김효주가 아이언샷을 하고 있다. (사진=KLPGT 제공) 2024.07.04. photo@newsis.com *재판매 및 DB 금지",
+			"pubDate":"Thu, 04 Jul 2024 13:34:00 +0900"
+		},
+		{
+			"title":"티샷하는 윤이나",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240704_0020403854",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0012647406",
+			"description":"4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 롯데 오픈 1라운드 10번홀에서 윤이나가 티샷을 하고 있다. (사진=KLPGT 제공) 2024.07.04. photo@newsis.com *재판매 및 DB 금지",
+			"pubDate":"Thu, 04 Jul 2024 13:34:00 +0900"
+		},
+		{
+			"title":"인천시, 심야전용 시내버스 2개 노선 신설 시범운행",
+			"originallink":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1046563",
+			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1046563",
+			"description":"이번에 시범운행에 들어가는 노선은 송내역(남부) ∼ 논현동(N50), <b>청라<\/b>국제도시역 ∼ <b>청라<\/b>5단지(N81)이다. 경인선 전철 1호선 송내역(남부)에서 출발하는 N50번은 밤 11시 50분, 12시 30분 출발, 공항철도... ",
+			"pubDate":"Thu, 04 Jul 2024 13:34:00 +0900"
+		},
+		{
+			"title":"티샷하는 최민경",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240704_0020403853",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0012647402",
+			"description":"4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 롯데 오픈 1라운드 10번홀에서 최민경이 티샷을 하고 있다. (사진=KLPGT 제공) 2024.07.04. photo@newsis.com *재판매 및 DB 금지",
+			"pubDate":"Thu, 04 Jul 2024 13:34:00 +0900"
+		},
+		{
+			"title":"그린 보는 김효주",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240704_0020403859",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0012647403",
+			"description":"4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 롯데 오픈 1라운드 10번홀에서 김효주가 그린을 보고 있다. (사진=KLPGT 제공) 2024.07.04. photo@newsis.com *재판매 및 DB 금지",
+			"pubDate":"Thu, 04 Jul 2024 13:34:00 +0900"
+		},
+		{
+			"title":"아이언샷 하는 박민지",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240704_0020403855",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0012647409",
+			"description":"4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 롯데 오픈 1라운드 10번홀에서 박민지가 아이언샷을 하고 있다. (사진=KLPGT 제공) 2024.07.04. photo@newsis.com *재판매 및 DB 금지",
+			"pubDate":"Thu, 04 Jul 2024 13:34:00 +0900"
+		},
+		{
+			"title":"[포토] 한지원, '페어웨이로 가라'",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202407042030H",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/015\/0005005599",
+			"description":"한국여자프로골프(KLPGA)투어 ‘롯데오픈’ 1라운드 경기가 4일 인천 서구 베어즈베스트 <b>청라<\/b>(파72, 6655야드)에서 열렸다. 대회에 출전한 한지원이 10번 홀에서 티샷하고 있다.",
+			"pubDate":"Thu, 04 Jul 2024 13:32:00 +0900"
+		},
+		{
+			"title":"[포토] 홍예은, '수줍게 브이~'",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202407042026H",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/015\/0005005598",
+			"description":"한국여자프로골프(KLPGA)투어 ‘롯데오픈’ 1라운드 경기가 4일 인천 서구 베어즈베스트 <b>청라<\/b>(파72, 6655야드)에서 열렸다. 대회에 출전한 홍예은이 10번 홀에서 티샷한 후 이동하고 있다.",
+			"pubDate":"Thu, 04 Jul 2024 13:30:00 +0900"
+		},
+		{
+			"title":"[포토] 홍예은, '페어웨이 중앙으로 가라'",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202407042017H",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/015\/0005005597",
+			"description":"한국여자프로골프(KLPGA)투어 ‘롯데오픈’ 1라운드 경기가 4일 인천 서구 베어즈베스트 <b>청라<\/b>(파72, 6655야드)에서 열렸다. 대회에 출전한 홍예은이 10번 홀에서 티샷하고 있다.",
+			"pubDate":"Thu, 04 Jul 2024 13:29:00 +0900"
+		},
 		{
 			"title":"[포토] 강지선, '시원시원한 스윙~'",
 			"originallink":"https:\/\/www.hankyung.com\/article\/202407042015H",
@@ -33,10 +138,10 @@
 			"pubDate":"Thu, 04 Jul 2024 13:24:00 +0900"
 		},
 		{
-			"title":"인천도시공사, 미단시티 '운북예단포빌' 공가세대 매각... 미계약분 15개호",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=419528",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=419528",
-			"description":"대상 물건은 영종-<b>청라<\/b> 제3연륙교가 내년 말 개통되면 교통 편의성이 개선될 것으로 보이는 동시에 바다 경관을 품은 자연친화적이고 조용한 주거공간을 누릴 수 있는 것이 특징이다. 매각에 있어 매수 의향자의 주요... ",
+			"title":"iH, 미단시티 운북예단포빌 공가세대 매각",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240704029039871",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240704029039871",
+			"description":"대상 물건은 영종-<b>청라<\/b> 제3연륙교가 내년 말 개통되면 교통 편의성이 개선될 것으로 보이는 동시에 바다 경관을 품은 자연친화적이고 조용한 주거공간을 누릴 수 있는 것이 특징이다. 매각에 있어 매수 의향자의... ",
 			"pubDate":"Thu, 04 Jul 2024 13:22:00 +0900"
 		},
 		{
@@ -47,25 +152,11 @@
 			"pubDate":"Thu, 04 Jul 2024 13:22:00 +0900"
 		},
 		{
-			"title":"iH, 미단시티 운북예단포빌 공가세대 매각",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240704029039871",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240704029039871",
-			"description":"대상 물건은 영종-<b>청라<\/b> 제3연륙교가 내년 말 개통되면 교통 편의성이 개선될 것으로 보이는 동시에 바다 경관을 품은 자연친화적이고 조용한 주거공간을 누릴 수 있는 것이 특징이다. 매각에 있어 매수 의향자의... ",
+			"title":"인천도시공사, 미단시티 '운북예단포빌' 공가세대 매각... 미계약분 15개호",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=419528",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=419528",
+			"description":"대상 물건은 영종-<b>청라<\/b> 제3연륙교가 내년 말 개통되면 교통 편의성이 개선될 것으로 보이는 동시에 바다 경관을 품은 자연친화적이고 조용한 주거공간을 누릴 수 있는 것이 특징이다. 매각에 있어 매수 의향자의 주요... ",
 			"pubDate":"Thu, 04 Jul 2024 13:22:00 +0900"
-		},
-		{
-			"title":"현대무벡스, 첫 개발자 회의 개최...&quot;AI·로봇 물류가 미래&quot;",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1379794\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002847108?sid=101",
-			"description":"현대무벡스는 2019년 대규모 ‘<b>청라<\/b> R&amp;D 센터’를 구축하면서 단기간에 AI, 로봇 기반 스마트 물류 설루션 고도화에 성공했다. 이를 기반으로 다양한 신성장 산업에 진출할 수 있었고, 지난해부터 굵직한 수주 성과를... ",
-			"pubDate":"Thu, 04 Jul 2024 13:20:00 +0900"
-		},
-		{
-			"title":"인천, 심야전용 시내버스 '별밤' 20일부터 운행",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1898301",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1898301",
-			"description":"이번에 시범운행에 들어가는 노선은 송내역(남부)∼논현동(N50), <b>청라<\/b>국제도시역∼<b>청라<\/b>5단지(N81)이다. 경인선 전철 1호선 송내역(남부)에서 출발하는 N50번은 밤 11시50분, 12시30분 출발, 공항철도 <b>청라<\/b>국제도시역에서... ",
-			"pubDate":"Thu, 04 Jul 2024 13:20:00 +0900"
 		},
 		{
 			"title":"[포토] 이주미, '집중의 눈빛'",
@@ -75,10 +166,24 @@
 			"pubDate":"Thu, 04 Jul 2024 13:20:00 +0900"
 		},
 		{
+			"title":"현대무벡스, 첫 개발자 회의 개최...&quot;AI·로봇 물류가 미래&quot;",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1379794\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002847108?sid=101",
+			"description":"현대무벡스는 2019년 대규모 ‘<b>청라<\/b> R&amp;D 센터’를 구축하면서 단기간에 AI, 로봇 기반 스마트 물류 설루션 고도화에 성공했다. 이를 기반으로 다양한 신성장 산업에 진출할 수 있었고, 지난해부터 굵직한 수주 성과를... ",
+			"pubDate":"Thu, 04 Jul 2024 13:20:00 +0900"
+		},
+		{
 			"title":"[ST포토] 최민경, 목표 지점까지 정확하게",
 			"originallink":"http:\/\/www.stoo.com\/article.php?aid=94539528252",
 			"link":"http:\/\/www.stoo.com\/article.php?aid=94539528252",
 			"description":"2024 KLPGA 투어 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원)1라운드 경기가 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC(파72 \/ 6655야드)에서 열렸다. 최민경이 10번홀 티샷을 하고 있다. 2024.07.04.",
+			"pubDate":"Thu, 04 Jul 2024 13:20:00 +0900"
+		},
+		{
+			"title":"인천, 심야전용 시내버스 '별밤' 20일부터 운행",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1898301",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1898301",
+			"description":"이번에 시범운행에 들어가는 노선은 송내역(남부)∼논현동(N50), <b>청라<\/b>국제도시역∼<b>청라<\/b>5단지(N81)이다. 경인선 전철 1호선 송내역(남부)에서 출발하는 N50번은 밤 11시50분, 12시30분 출발, 공항철도 <b>청라<\/b>국제도시역에서... ",
 			"pubDate":"Thu, 04 Jul 2024 13:20:00 +0900"
 		},
 		{
@@ -108,111 +213,6 @@
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/015\/0005005587",
 			"description":"한국여자프로골프(KLPGA)투어 ‘롯데오픈’ 1라운드 경기가 4일 인천 서구 베어즈베스트 <b>청라<\/b>(파72, 6655야드)에서 열렸다. 대회에 출전한 유현조가 10번 홀에서 티샷하고 있다.",
 			"pubDate":"Thu, 04 Jul 2024 13:17:00 +0900"
-		},
-		{
-			"title":"[포토] 유현조, '힘차게 날아라'",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202407041983H",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/015\/0005005586",
-			"description":"한국여자프로골프(KLPGA)투어 ‘롯데오픈’ 1라운드 경기가 4일 인천 서구 베어즈베스트 <b>청라<\/b>(파72, 6655야드)에서 열렸다. 대회에 출전한 유현조가 10번 홀에서 티샷하고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 13:16:00 +0900"
-		},
-		{
-			"title":"&quot;아파트 몸값 올리는 10cm의 비밀&quot;… 분양시장 화두는 '천정고'",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=296743",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=296743",
-			"description":"국토교통부 실거래가 공개시스템에 따르면, 인천시 서구 소재의 <b>청라<\/b>호수공원 한신더휴(2020년 입주)의 전용 84㎡는 올해 4월 8억4,000만원에 거래돼 신고가를 기록했다. 올해초 거래인 2월 7억 대비 1억4,000만원 상승한... ",
-			"pubDate":"Thu, 04 Jul 2024 13:12:00 +0900"
-		},
-		{
-			"title":"[포토]전우리, 강하게 때린다",
-			"originallink":"http:\/\/www.inews24.com\/view\/1738226",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/031\/0000850410",
-			"description":"전우리가 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 '롯데 오픈'(총상금 12억원, 우승 상금 2억1600만원) 1라운드에서 티샷을 하고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 13:07:00 +0900"
-		},
-		{
-			"title":"[포토]김연희-한지원-박지원3, 귀여운 하트",
-			"originallink":"http:\/\/www.inews24.com\/view\/1738225",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/031\/0000850409",
-			"description":"김연희, 한지원, 박지원3가 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 '롯데 오픈'(총상금 12억원, 우승 상금 2억1600만원) 1라운드에서 기념촬영을 하고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 13:06:00 +0900"
-		},
-		{
-			"title":"현대건설, 바이오가스 생산 본격화",
-			"originallink":"https:\/\/www.naeil.com\/news\/read\/515639?ref=naver",
-			"link":"https:\/\/www.naeil.com\/news\/read\/515639?ref=naver",
-			"description":"앞선 2008년 인천 <b>청라<\/b>에 파일럿 설비를 구축해 기술개발을 시작했다. 유기성 폐자원 바이오가스화 관련 환경신기술·녹색인증을 취득했고 국내외 다수의 특허를 등록하는 등 원천기술 확보했다. 현재 현대건설이 건설... ",
-			"pubDate":"Thu, 04 Jul 2024 13:06:00 +0900"
-		},
-		{
-			"title":"[포토]티샷하는 김연희",
-			"originallink":"http:\/\/www.inews24.com\/view\/1738224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/031\/0000850403",
-			"description":"김연희가 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 '롯데 오픈'(총상금 12억원, 우승 상금 2억1600만원) 1라운드에서 티샷을 하고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 13:04:00 +0900"
-		},
-		{
-			"title":"[포토]박지원3, 힘이 느껴지는 티샷",
-			"originallink":"http:\/\/www.inews24.com\/view\/1738223",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/031\/0000850400",
-			"description":"박지원3가 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 '롯데 오픈'(총상금 12억원, 우승 상금 2억1600만원) 1라운드에서 티샷을 하고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 13:03:00 +0900"
-		},
-		{
-			"title":"[포토]한지원, 페어웨이에 정확하게",
-			"originallink":"http:\/\/www.inews24.com\/view\/1738222",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/031\/0000850399",
-			"description":"한지원이 4일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 '롯데 오픈'(총상금 12억원, 우승 상금 2억1600만원) 1라운드에서 티샷을 하고 있다.",
-			"pubDate":"Thu, 04 Jul 2024 13:01:00 +0900"
-		},
-		{
-			"title":"인천시, 심야전용 시내버스'별밤버스'운행",
-			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2148262",
-			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2148262",
-			"description":"이번에 시범운행에 들어가는 노선은 송내역(남부)∼논현동(N50), <b>청라<\/b>국제도시역 ∼ <b>청라<\/b>5단지(N81)이다. N50은 인천논현중학교(기점)~소래포구역~청능로4~도림주공1·2단지~남동초등학교~송내역남부(종점)를, N81은... ",
-			"pubDate":"Thu, 04 Jul 2024 12:50:00 +0900"
-		},
-		{
-			"title":"인천 서구, 포스코인터 <b>청라<\/b> 발전소 3·4호기 신예화 반대 대책위 발촉",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1136670",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1136670",
-			"description":"매일일보 = 이종민 기자  |  인천 서구청 본관 앞에서 지난 2일 포스코인터내셔널 3, 4호기 신예화 사업을 반대하는 대책위원회 발대식 기자회견을 개최했다고 밝혔다. 포스코 3, 4호기 건설반대 대책위원회(이하 포스코... ",
-			"pubDate":"Thu, 04 Jul 2024 12:46:00 +0900"
-		},
-		{
-			"title":"HDC현대산업개발, 신용등급ㆍ수주 상승 평가로 10위권 재 진입 목표",
-			"originallink":"http:\/\/www.lkp.news\/news\/articleView.html?idxno=51723",
-			"link":"http:\/\/www.lkp.news\/news\/articleView.html?idxno=51723",
-			"description":"뿐만이 아니라 용산 철도병원 부지·잠실 스포츠·MICE 복합단지·<b>청라<\/b> 의료복합 타운·공릉역세권 개발사업 등 서울과 수도권에서의 복합개발 사업들이 대기 중인 것으로 전해졌다. 이 같은 대규모 자체 개발사업은... ",
-			"pubDate":"Thu, 04 Jul 2024 12:36:00 +0900"
-		},
-		{
-			"title":"[KLPGA] '5홀 연속 버디' 이주미, 롯데-베어즈베스트 징크스 탈출하나",
-			"originallink":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065582194186476",
-			"link":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065582194186476",
-			"description":"이주미는 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,655야드)에서 열린 대회 1라운드에서 버디 6개와... 이주미는 현재 대회가 열리고 있는 베어즈베스트 <b>청라<\/b> 코스에서 열린 대회에 5차례 출전해 단 한 차례를... ",
-			"pubDate":"Thu, 04 Jul 2024 12:32:00 +0900"
-		},
-		{
-			"title":"인천 심야전용 시내버스 '별밤버스'…오는 20일 2개 노선 운행개시",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=419512",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=419512",
-			"description":"시에 따르면 이번에 시범운행에 들어가는 노선은 송내역(남부) ∼ 논현동(N50), <b>청라<\/b>국제도시역 ∼ <b>청라<\/b>5단지(N81)이다. N50 노선은 인천논현중학교(기점)~소래포구역~청능로4~도림주공1·2단지~남동초등학교~송내역남부... ",
-			"pubDate":"Thu, 04 Jul 2024 12:20:00 +0900"
-		},
-		{
-			"title":"인천시, 심야전용 시내버스 '별밤버스' 2개 노선 운행 개시",
-			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=177426",
-			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=177426",
-			"description":"이번에 시범운행에 들어가는 노선은 송내역(남부)∼논현동(N50), <b>청라<\/b>국제도시역∼<b>청라<\/b>5단지(N81)이다. 경인선 전철 1호선 송내역(남부)에서 출발하는 N50번은 밤 11시 50분, 12시 30분 출발, 공항철도 <b>청라<\/b>국제도시역에서... ",
-			"pubDate":"Thu, 04 Jul 2024 12:04:00 +0900"
-		},
-		{
-			"title":"WKBL, 8~10일 2024 FIBA 농구 심판 강습회 개최",
-			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2024070410485747158",
-			"link":"https:\/\/m.sports.naver.com\/basketball\/article\/117\/0003847408",
-			"description":"1~3일 차 오전에는 WKBL 사옥 1층에서 이론 교육을 실시하며, 8일 오후에는 하나원큐<b>청라<\/b>체육관에서, 9일 오후에는 홍대부고 체육관에서 이론 교육에서 학습한 내용을 바탕으로 연습경기에 참가한다.",
-			"pubDate":"Thu, 04 Jul 2024 12:01:00 +0900"
 		}
 	]
 }
