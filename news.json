@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 05 Jul 2024 09:20:02 +0900",
-	"total":229905,
+	"lastBuildDate":"Fri, 05 Jul 2024 09:30:02 +0900",
+	"total":229906,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"리본카, 서울지점 리뉴얼 오픈…실내 공간 개선",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01669526638951568",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005781797?sid=103",
+			"description":"한편, 리본카는 서울지점을 비롯해 인천 <b>청라<\/b>·서구, 일산, 부산, 대구, 광주, 제주 등 총 8개 지역별 거점에 오프라인 직영점을 운영하고 있다. 특히, <b>청라<\/b>지점과 부산지점은 비대면 특화된 거점으로 라이브 방송... ",
+			"pubDate":"Fri, 05 Jul 2024 09:27:00 +0900"
+		},
 		{
 			"title":"분양 대세 '품세권', 인프라 품은 신규 단지는?",
 			"originallink":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=324630",
@@ -103,17 +110,17 @@
 			"pubDate":"Fri, 05 Jul 2024 08:06:00 +0900"
 		},
 		{
-			"title":"[걷고 싶은 길] 근대와 현대, 자연과 산업이 약동하는 월미도 둘레길",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240607031400542?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014789289?sid=103",
-			"description":"월미산에 서면 <b>청라<\/b>국제도시, 영종국제도시, 인천국제공항, 송도국제도시가 반원을 그리며 북쪽에서 서쪽, 남쪽으로 이어져 있다. 그 사이 사이에 공항고속도로와 철도가 지나가는 영종대교, 길이 21.38㎞의 인천대교가... ",
-			"pubDate":"Fri, 05 Jul 2024 08:00:00 +0900"
-		},
-		{
 			"title":"'3주 연승 기대' 박현경, 롯데오픈 첫날 13위 순항…이예원 32위, 최혜진 44위...",
 			"originallink":"https:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20012016",
 			"link":"https:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20012016",
 			"description":"박현경은 4일 인천의 베어즈베스트 <b>청라<\/b> 미국-오스트랄아시아 코스(파72·6,655야드)에서 열린 대회 1라운드에서 버디 5개를 잡아내고 보기 1개를 곁들여 4언더파 68타를 적었다. 공교롭게도 최근 2개 대회에서... ",
+			"pubDate":"Fri, 05 Jul 2024 08:00:00 +0900"
+		},
+		{
+			"title":"[걷고 싶은 길] 근대와 현대, 자연과 산업이 약동하는 월미도 둘레길",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240607031400542?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014789289?sid=103",
+			"description":"월미산에 서면 <b>청라<\/b>국제도시, 영종국제도시, 인천국제공항, 송도국제도시가 반원을 그리며 북쪽에서 서쪽, 남쪽으로 이어져 있다. 그 사이 사이에 공항고속도로와 철도가 지나가는 영종대교, 길이 21.38㎞의 인천대교가... ",
 			"pubDate":"Fri, 05 Jul 2024 08:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.apnews.kr\/news\/articleView.html?idxno=3021422",
 			"description":"현대무벡스는 2019년 대규모 <b>청라<\/b>R&amp;D센터를 구축해 단기간 내 AI·로봇 기반 스마트 물류 설루션 고도화에 성공한 바 있다. 또 국내외 신기술 특허 107건을 출원, 126건을 등록했으며, 2022년에는 특허청으로부터... ",
 			"pubDate":"Fri, 05 Jul 2024 01:32:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 이세희, 어 내 볼",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=297802",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000213437",
-			"description":"4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,655)에서  '롯데 오픈'(총상금 12억 원, 우승상금 2억1천6백만 원) 1라운드가 열린가운데, 이세희(코즈볼)이 18번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 05 Jul 2024 01:31:00 +0900"
 		}
 	]
 }
