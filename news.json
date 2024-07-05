@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 05 Jul 2024 09:40:02 +0900",
-	"total":229908,
+	"lastBuildDate":"Fri, 05 Jul 2024 09:50:02 +0900",
+	"total":229909,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[KLPGA] '디펜딩 챔피언' 최혜진, &quot;꾸준히 감각을 유지할 수 있는 게 중요&quot;",
+			"originallink":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065573282924188",
+			"link":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065573282924188",
+			"description":"최혜진은 4일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,655야드)에서 열린 한국여자프로골프(KLPGA)투어 ‘롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원) 첫 날 1라운드 경기에서 버디 4개를 잡았지만... ",
+			"pubDate":"Fri, 05 Jul 2024 09:44:00 +0900"
+		},
 		{
 			"title":"지하철 막차승객 위한 인천 ‘별밤버스’",
 			"originallink":"https:\/\/www.naeil.com\/news\/read\/515728?ref=naver",
@@ -166,17 +173,17 @@
 			"pubDate":"Fri, 05 Jul 2024 07:00:00 +0900"
 		},
 		{
-			"title":"◇오늘의 경기(5일)",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240704074600007?input=1195m",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0014789229",
-			"description":"◆5일(금) △프로축구= 인천-김천(인천축구전용경기장) 수원FC-울산(수원종합운동장·이상 19시30분) △프로야구= 퓨처스 올스타전(18시·인천) △골프= KLPGA 투어 롯데 오픈(베어즈베스트 <b>청라<\/b>) 제5회 드림파크배... ",
-			"pubDate":"Fri, 05 Jul 2024 06:15:00 +0900"
-		},
-		{
 			"title":"◇내일의 경기(6·7일)",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240704074700007?input=1195m",
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0014789230",
 			"description":"(베어즈베스트 <b>청라<\/b>) △프로축구2부= 김포-충남아산(19시·김포솔터축구장) 부산-부천(19시30분... (베어즈베스트 <b>청라<\/b>) △프로축구2부= 안산-전남(안산와스타디움) 충북청주-서울 이랜드(청주종합운종장·이상... ",
+			"pubDate":"Fri, 05 Jul 2024 06:15:00 +0900"
+		},
+		{
+			"title":"◇오늘의 경기(5일)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240704074600007?input=1195m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0014789229",
+			"description":"◆5일(금) △프로축구= 인천-김천(인천축구전용경기장) 수원FC-울산(수원종합운동장·이상 19시30분) △프로야구= 퓨처스 올스타전(18시·인천) △골프= KLPGA 투어 롯데 오픈(베어즈베스트 <b>청라<\/b>) 제5회 드림파크배... ",
 			"pubDate":"Fri, 05 Jul 2024 06:15:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/011\/0004362345",
 			"description":"일단 4일 인천시 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄아시아 코스(파72)에서 열린 대회 첫날 윤이나가 버디만 8개를 잡고 8언더파 64타를 쳤다. 역시 버디만 8개를 잡은 최민경과 공동 선두에 나란히... ",
 			"pubDate":"Fri, 05 Jul 2024 05:01:00 +0900"
-		},
-		{
-			"title":"'노보기·버디 8개 맹타' 윤이나·최민경, 롯데오픈 첫날 8언더파 공동선두",
-			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=2024070416370290816cf2d78c68_19",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000151214",
-			"description":"윤이나와 최민경은 4일 인천 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄아시아 코스(파72)에서 열린 대회 1라운드에서 보기 없이 버디 8개를 쳐 8언더파 64타를 쳤다. 이들은 단독 3위 방신실(7언더파 65타)에게 한 타... ",
-			"pubDate":"Fri, 05 Jul 2024 02:20:00 +0900"
 		}
 	]
 }
