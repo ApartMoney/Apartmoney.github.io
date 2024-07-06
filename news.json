@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 06 Jul 2024 09:40:02 +0900",
-	"total":230986,
+	"lastBuildDate":"Sat, 06 Jul 2024 09:50:02 +0900",
+	"total":230987,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"박현경, 롯데오픈 3R서 방신실·전예성과 정면승부 [KLPGA]",
+			"originallink":"https:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20012037",
+			"link":"https:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20012037",
+			"description":"박현경은 4일과 5일 인천의 베어즈베스트 <b>청라<\/b> 미국-오스트랄아시아 코스(파72·6,655야드)에서 진행된 1·2라운드에서 합계 7언더파를 쳐 공동 11위에 올랐다. 2라운드에서 4타를 줄인 전예성은 11계단 상승하면서... ",
+			"pubDate":"Sat, 06 Jul 2024 09:44:00 +0900"
+		},
 		{
 			"title":"정신적으로 위축됐던 임희정 &quot;골프가 재미있어지는 경기가 됐으면&quot; [KLPGA 롯...",
 			"originallink":"https:\/\/golfhankook.hankooki.com\/news\/articleView.html?idxno=20012022",
@@ -152,6 +159,13 @@
 			"pubDate":"Fri, 05 Jul 2024 23:56:00 +0900"
 		},
 		{
+			"title":"[STN포토]화이팅 외치며 홀아웃하는 배소현",
+			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=222689",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000107155",
+			"description":"2024시즌 열여섯 번째 대회인 '롯데 오픈'(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,655야드)에서 열리고 있다. 5일 현재 2라운드 경기가 펼쳐지고 있다. 배소현이... ",
+			"pubDate":"Fri, 05 Jul 2024 23:55:00 +0900"
+		},
+		{
 			"title":"[STN포토]손인사로 출발하는 정지민2",
 			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=222683",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000107149",
@@ -166,17 +180,24 @@
 			"pubDate":"Fri, 05 Jul 2024 23:55:00 +0900"
 		},
 		{
-			"title":"[STN포토]선두권으로 올라가는 임희정",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=222687",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000107153",
-			"description":"2024시즌 열여섯 번째 대회인 '롯데 오픈'(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,655야드)에서 열리고 있다. 5일 현재 2라운드 경기가 펼쳐지고 있다. 임희정이... ",
-			"pubDate":"Fri, 05 Jul 2024 23:55:00 +0900"
-		},
-		{
 			"title":"[STN포토]김새로미-이수진3-임희정, 브이로 출발하는 날",
 			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=222684",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000107150",
 			"description":"2024시즌 열여섯 번째 대회인 '롯데 오픈'(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,655야드)에서 열리고 있다. 5일 현재 2라운드 경기가 펼쳐지고 있다.... ",
+			"pubDate":"Fri, 05 Jul 2024 23:55:00 +0900"
+		},
+		{
+			"title":"[STN포토]지한솔-오수민-한빛나, 즐겁게 출발해요",
+			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=222686",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000107152",
+			"description":"2024시즌 열여섯 번째 대회인 '롯데 오픈'(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,655야드)에서 열리고 있다. 5일 현재 2라운드 경기가 펼쳐지고 있다. 지한솔이... ",
+			"pubDate":"Fri, 05 Jul 2024 23:55:00 +0900"
+		},
+		{
+			"title":"[STN포토]세컨드샷 날리는 박결",
+			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=222697",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000107162",
+			"description":"2024시즌 열여섯 번째 대회인 '롯데 오픈'(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,655야드)에서 열리고 있다. 5일 현재 2라운드 경기가 펼쳐지고 있다. 박결이... ",
 			"pubDate":"Fri, 05 Jul 2024 23:55:00 +0900"
 		},
 		{
@@ -190,27 +211,6 @@
 			"title":"[STN포토]그린으로 이동하는 리슈잉",
 			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=222694",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000107160",
-			"description":"2024시즌 열여섯 번째 대회인 '롯데 오픈'(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,655야드)에서 열리고 있다. 5일 현재 2라운드 경기가 펼쳐지고 있다.... ",
-			"pubDate":"Fri, 05 Jul 2024 23:55:00 +0900"
-		},
-		{
-			"title":"[STN포토]서드샷 날리는 최예림",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=222688",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000107154",
-			"description":"2024시즌 열여섯 번째 대회인 '롯데 오픈'(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,655야드)에서 열리고 있다. 5일 현재 2라운드 경기가 펼쳐지고 있다. 최예림이... ",
-			"pubDate":"Fri, 05 Jul 2024 23:55:00 +0900"
-		},
-		{
-			"title":"[STN포토]화이팅 외치며 홀아웃하는 배소현",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=222689",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000107155",
-			"description":"2024시즌 열여섯 번째 대회인 '롯데 오픈'(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,655야드)에서 열리고 있다. 5일 현재 2라운드 경기가 펼쳐지고 있다. 배소현이... ",
-			"pubDate":"Fri, 05 Jul 2024 23:55:00 +0900"
-		},
-		{
-			"title":"[STN포토]파로 홀아웃하는 박혜준",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=222696",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000107161",
 			"description":"2024시즌 열여섯 번째 대회인 '롯데 오픈'(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,655야드)에서 열리고 있다. 5일 현재 2라운드 경기가 펼쳐지고 있다.... ",
 			"pubDate":"Fri, 05 Jul 2024 23:55:00 +0900"
 		}
