@@ -1,20 +1,111 @@
 {
-	"lastBuildDate":"Sun, 07 Jul 2024 14:20:02 +0900",
-	"total":232199,
+	"lastBuildDate":"Sun, 07 Jul 2024 14:30:02 +0900",
+	"total":232216,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"[포토]이세희,신중히 맞춘다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01361206638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783441",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:19:00 +0900"
+			"title":"[ST포토] 박도영, '화사한 필드룩'",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=94604263090",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=94604263090",
+			"description":"7일 인천 베어즈베스트 <b>청라<\/b>에서 열린 2024 KLPGA '롯데 오픈' 최종라운드, 박도영이 1번홀을 출발하며 포즈를 취하고 있다. 2024.07.07.",
+			"pubDate":"Sun, 07 Jul 2024 14:28:00 +0900"
 		},
 		{
-			"title":"[포토]이세희,첫 홀 핀에 집중",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01351366638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783438",
+			"title":"[ST포토] 김보미3-박아름2-박도영, '예쁜 하트'",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=94604092569",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=94604092569",
+			"description":"7일 인천 베어즈베스트 <b>청라<\/b>에서 열린 2024 KLPGA '롯데 오픈' 최종라운드, 김보민3 박아름2 박도영가 1번홀을 출발하며 포즈를 취하고 있다. 2024.07.07.",
+			"pubDate":"Sun, 07 Jul 2024 14:28:00 +0900"
+		},
+		{
+			"title":"[ST포토] 박도영, '세련된 필드룩'",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=94603822311",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=94603822311",
+			"description":"7일 인천 베어즈베스트 <b>청라<\/b>에서 열린 2024 KLPGA '롯데 오픈' 최종라운드, 박도영이 1번홀 티샷하고 있다. 2024.07.07.",
+			"pubDate":"Sun, 07 Jul 2024 14:26:00 +0900"
+		},
+		{
+			"title":"[ST포토] 김보미3, '마지막까지 달린다'",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=94603927537",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=94603927537",
+			"description":"7일 인천 베어즈베스트 <b>청라<\/b>에서 열린 2024 KLPGA '롯데 오픈' 최종라운드, 김보미3가 1번홀 티샷하고 있다. 2024.07.07.",
+			"pubDate":"Sun, 07 Jul 2024 14:26:00 +0900"
+		},
+		{
+			"title":"[ST포토] 박아름2, '부드럽게'",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=94603680398",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=94603680398",
+			"description":"7일 인천 베어즈베스트 <b>청라<\/b>에서 열린 2024 KLPGA '롯데 오픈' 최종라운드, 박아름2이 1번홀 티샷하고 있다. 2024.07.07.",
+			"pubDate":"Sun, 07 Jul 2024 14:26:00 +0900"
+		},
+		{
+			"title":"[KLPGA] 이가영, 티샷 후 밝은 표정으로 출발",
+			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=657101",
+			"link":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=657101",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,655야드)에서는 2024시즌 열여섯 번째 대회인 '롯데 오픈'(총상금 12억 원, 우승상금 2억 1천6백만 원)최종 라운드가 열렸다. 이가영(24.NH투자증권)이 1번 홀에서... ",
+			"pubDate":"Sun, 07 Jul 2024 14:26:00 +0900"
+		},
+		{
+			"title":"[포토] 윤이나. '신중하게 파 퍼트'",
+			"originallink":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=286573",
+			"link":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=286573",
+			"description":"인천=지이코노미 김영식 기자 | 2024시즌 열여섯 번째 대회인 ‘롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원)이 오는 7월 4일(목)부터 7일(일)까지 나흘간 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6... ",
+			"pubDate":"Sun, 07 Jul 2024 14:24:00 +0900"
+		},
+		{
+			"title":"[포토] 윤이나, '놓칠 수 없는 파 퍼트'",
+			"originallink":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=286572",
+			"link":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=286572",
+			"description":"인천=지이코노미 김영식 기자 | 2024시즌 열여섯 번째 대회인 ‘롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원)이 오는 7월 4일(목)부터 7일(일)까지 나흘간 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6... ",
+			"pubDate":"Sun, 07 Jul 2024 14:22:00 +0900"
+		},
+		{
+			"title":"[포토]이세희,첫 홀 버디 도전",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01367766638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783443",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
+			"pubDate":"Sun, 07 Jul 2024 14:20:00 +0900"
+		},
+		{
+			"title":"[포토]방신실,핀 옆에 떨어져라",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01374326638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783445",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 방신실의 1번홀 경기 장면.",
+			"pubDate":"Sun, 07 Jul 2024 14:20:00 +0900"
+		},
+		{
+			"title":"[포토]방신실,감각적인 임팩트",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01371046638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783444",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 방신실의 1번홀 경기 장면.",
+			"pubDate":"Sun, 07 Jul 2024 14:20:00 +0900"
+		},
+		{
+			"title":"[포토]이세희,파세이브 마무리",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01364486638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783442",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
+			"pubDate":"Sun, 07 Jul 2024 14:20:00 +0900"
+		},
+		{
+			"title":"[포토]방신실,볼 확인하며 기다려요",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01377606638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783446",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 방신실의 1번홀 경기 장면.",
+			"pubDate":"Sun, 07 Jul 2024 14:20:00 +0900"
+		},
+		{
+			"title":"[포토]방신실,버디위해 차분히",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01380886638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783447",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 방신실의 1번홀 경기 장면.",
+			"pubDate":"Sun, 07 Jul 2024 14:20:00 +0900"
+		},
+		{
+			"title":"[포토]이세희,타깃을 보고 시작한다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01338246638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783434",
 			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
 			"pubDate":"Sun, 07 Jul 2024 14:19:00 +0900"
 		},
@@ -26,9 +117,23 @@
 			"pubDate":"Sun, 07 Jul 2024 14:19:00 +0900"
 		},
 		{
+			"title":"[포토]이세희,신중히 맞춘다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01361206638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783441",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
+			"pubDate":"Sun, 07 Jul 2024 14:19:00 +0900"
+		},
+		{
 			"title":"[포토]이세희,미소로 출발하는 최종일",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01344806638952224",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783436",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
+			"pubDate":"Sun, 07 Jul 2024 14:19:00 +0900"
+		},
+		{
+			"title":"[포토]이세희,퍼트 라인을 살핀다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01354646638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783439",
 			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
 			"pubDate":"Sun, 07 Jul 2024 14:19:00 +0900"
 		},
@@ -40,30 +145,23 @@
 			"pubDate":"Sun, 07 Jul 2024 14:19:00 +0900"
 		},
 		{
+			"title":"[포토]이세희,즐거운 출발",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01341526638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783435",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
+			"pubDate":"Sun, 07 Jul 2024 14:19:00 +0900"
+		},
+		{
+			"title":"[포토]이세희,첫 홀 핀에 집중",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01351366638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783438",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
+			"pubDate":"Sun, 07 Jul 2024 14:19:00 +0900"
+		},
+		{
 			"title":"[포토]이세희,타구 방향 확인",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01334966638952224",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783433",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:18:00 +0900"
-		},
-		{
-			"title":"[포토]김지현,표정으로 말하는 타구 방향",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01315286638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783426",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 김지현의 1번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:18:00 +0900"
-		},
-		{
-			"title":"[포토]이세희,인사하며 준비한다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01325126638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783429",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:18:00 +0900"
-		},
-		{
-			"title":"[포토]이세희,선두권을 정조준하다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01331686638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783431",
 			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
 			"pubDate":"Sun, 07 Jul 2024 14:18:00 +0900"
 		},
@@ -75,10 +173,17 @@
 			"pubDate":"Sun, 07 Jul 2024 14:18:00 +0900"
 		},
 		{
-			"title":"[포토] 유현조, '홀을 향해 조준'",
-			"originallink":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=286571",
-			"link":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=286571",
-			"description":"인천=지이코노미 김영식 기자 | 2024시즌 열여섯 번째 대회인 ‘롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원)이 오는 7월 4일(목)부터 7일(일)까지 나흘간 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6... ",
+			"title":"[포토]김지현,오차없는 임팩트",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01318566638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783427",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 김지현의 1번홀 경기 장면.",
+			"pubDate":"Sun, 07 Jul 2024 14:18:00 +0900"
+		},
+		{
+			"title":"[포토]이세희,선두권을 정조준하다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01331686638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783431",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
 			"pubDate":"Sun, 07 Jul 2024 14:18:00 +0900"
 		},
 		{
@@ -89,130 +194,25 @@
 			"pubDate":"Sun, 07 Jul 2024 14:18:00 +0900"
 		},
 		{
-			"title":"[포토]김지현,오차없는 임팩트",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01318566638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783427",
+			"title":"[포토]이세희,인사하며 준비한다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01325126638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783429",
+			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 이세희의 1번홀 경기 장면.",
+			"pubDate":"Sun, 07 Jul 2024 14:18:00 +0900"
+		},
+		{
+			"title":"[포토]김지현,표정으로 말하는 타구 방향",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01315286638952224",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783426",
 			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 김지현의 1번홀 경기 장면.",
 			"pubDate":"Sun, 07 Jul 2024 14:18:00 +0900"
 		},
 		{
-			"title":"[포토]박도영,정교한 첫 임팩트",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01302166638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783422",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 박도영의 1번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:17:00 +0900"
-		},
-		{
-			"title":"[포토]김지현,중앙으로 날린다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01312006638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783425",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 김지현의 1번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:17:00 +0900"
-		},
-		{
-			"title":"[포토]김지현,노련하게 바라본다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01308726638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783424",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 김지현의 1번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:17:00 +0900"
-		},
-		{
-			"title":"[포토]박도영,최대한 올라간다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01298886638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783421",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 박도영의 1번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:17:00 +0900"
-		},
-		{
-			"title":"[포토]박도영,최종일 신중하게",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01295606638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783420",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 박도영의 1번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:17:00 +0900"
-		},
-		{
-			"title":"[포토]박도영,상큼 브이 인사",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01305446638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783423",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 박도영의 1번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:17:00 +0900"
-		},
-		{
-			"title":"[포토]박결,볼 위치를 확인해요",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01292326638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783419",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 박결의 18번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:17:00 +0900"
-		},
-		{
-			"title":"[KLPGA] 홍정민-이가영-김수지, '출발하는 챔피언 조'",
-			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=657102",
-			"link":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=657102",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,655야드)에서는 2024시즌 열여섯 번째 대회인 '롯데 오픈'(총상금 12억 원, 우승상금 2억 1천6백만 원)최종 라운드가 열렸다. 챔피언 조 홍정민-이가영-김수지(사진... ",
-			"pubDate":"Sun, 07 Jul 2024 14:17:00 +0900"
-		},
-		{
-			"title":"[포토]박결,간결한 티샷",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01272646638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783413",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 박결의 18번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:16:00 +0900"
-		},
-		{
-			"title":"[포토]박결,집중력 높은 정조준",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01275926638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783414",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 박결의 18번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:16:00 +0900"
-		},
-		{
-			"title":"[포토]박결,버디위해 핀을 조준한다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01285766638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783417",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 박결의 18번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:16:00 +0900"
-		},
-		{
-			"title":"[포토]박결,타구는 중앙이다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01279206638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783415",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 박결의 18번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:16:00 +0900"
-		},
-		{
-			"title":"[포토]박결,신중하게 라인을 본다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01269366638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783412",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 박결의 17번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:16:00 +0900"
-		},
-		{
-			"title":"[포토]박결,핀에 부어라",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01289046638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783418",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 박결의 18번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:16:00 +0900"
-		},
-		{
-			"title":"[포토]한진선,갤러리들에게 버디 선물",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01266086638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783411",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 한진선의 18번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:16:00 +0900"
-		},
-		{
-			"title":"[포토]박결,다시보는 핀위치",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01282486638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783416",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 박결의 18번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:16:00 +0900"
-		},
-		{
-			"title":"[포토]한진선,핀 앞에 붙어라",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01243126638952224",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005783404",
-			"description":"7일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/ 6,655야드)에서 '롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천 6백만 원)'최종라운드가 열렸다. 한진선의 18번홀 경기 장면.",
-			"pubDate":"Sun, 07 Jul 2024 14:15:00 +0900"
+			"title":"[포토] 유현조, '홀을 향해 조준'",
+			"originallink":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=286571",
+			"link":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=286571",
+			"description":"인천=지이코노미 김영식 기자 | 2024시즌 열여섯 번째 대회인 ‘롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원)이 오는 7월 4일(목)부터 7일(일)까지 나흘간 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6... ",
+			"pubDate":"Sun, 07 Jul 2024 14:18:00 +0900"
 		}
 	]
 }
