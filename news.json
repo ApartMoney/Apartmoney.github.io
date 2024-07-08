@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 08 Jul 2024 18:30:03 +0900",
-	"total":233246,
+	"lastBuildDate":"Mon, 08 Jul 2024 18:40:02 +0900",
+	"total":233247,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[폭우시대] 주택·차량 침수, 산사태… 충남선 200여 주민 대피령도",
+			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1038193",
+			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1038193",
+			"description":"주택가 인근 옹벽 붕괴 사고가 난 천안시 목천읍 주민 3명과 산사태 우려가 있는 보령 <b>청라<\/b>면 주민 3명도 대피한 상태다. 농경지 침수 피해도 발생해 홍성과 보령에서 농경지 13.3㏊의 침수 피해가 잠정 집계됐다.... ",
+			"pubDate":"Mon, 08 Jul 2024 18:30:00 +0900"
+		},
 		{
 			"title":"낮엔 폭염 밤엔 폭우… '도깨비 장마' 최대 120㎜ 쏟아진다",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240708515084?OutUrl=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=800435",
 			"description":"충남 지역에서는 산사태와 옹벽 붕괴 위험으로 인해 주민 78명이 긴급 대피했으며, 논산시와 천안시, 보령 <b>청라<\/b>면 등에서 대피 명령이 내려졌다. 대전에서도 침수 피해 신고가 접수되었다. 중구 중촌동과 서구 가수원동에서... ",
 			"pubDate":"Mon, 08 Jul 2024 14:58:00 +0900"
-		},
-		{
-			"title":"롯데 오픈 '우승'… 이가영, 위믹스 포인트 순위 '17계단' 껑충",
-			"originallink":"https:\/\/www.moneys.co.kr\/article\/2024070814503636699",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/417\/0001013087",
-			"description":"이가영은 지난 7일 인천광역시 베어즈베스트 <b>청라<\/b> 골프클럽에서 끝난 KLPGA 투어 롯데 오픈 최종 라운드에서 버디 2개와 보기 1개를 묶어 1언더파 71타를 쳤다. 최종합계 18언더파 270타를 기록한 이가영은 윤이나... ",
-			"pubDate":"Mon, 08 Jul 2024 14:52:00 +0900"
 		}
 	]
 }
