@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 08 Jul 2024 18:20:02 +0900",
-	"total":233244,
+	"lastBuildDate":"Mon, 08 Jul 2024 18:30:03 +0900",
+	"total":233246,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"낮엔 폭염 밤엔 폭우… '도깨비 장마' 최대 120㎜ 쏟아진다",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240708515084?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003948763?sid=102",
+			"description":"옹벽이 붕괴된 충남 천안시 목천읍 주민 3명과 산사태 우려가 있는 충남 보령시 <b>청라<\/b>면, 충남 논산시 연산면 등 133세대 251명이 마을회관 등으로 대피했다. 경북 안동시에선 하천이 범람하면서 마을주민 19명이... ",
+			"pubDate":"Mon, 08 Jul 2024 18:27:00 +0900"
+		},
+		{
+			"title":"[현장칼럼] &quot;삼성·현대차 고맙다&quot;며 규제엔 딴소리",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024070902102269064001&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002886060?sid=110",
+			"description":"인천 송도·영종도·<b>청라<\/b>도 경제자유구역으로 지정되면서 빠른 발전을 보였다. 인천시는 현재 제물포와 강화도 지역을 새로운 지역 허브로 키우기 위한 다양한 정책을 추진 중이다. 강화의 경우 강화마리나복합단지를... ",
+			"pubDate":"Mon, 08 Jul 2024 18:20:00 +0900"
+		},
 		{
 			"title":"충청·경북권 폭우에 침수·고립 속출…옥천서는 실종자도 발생",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1381168\/?sc=Naver",
@@ -75,7 +89,7 @@
 			"pubDate":"Mon, 08 Jul 2024 16:44:00 +0900"
 		},
 		{
-			"title":"‘180.2㎜’ 많은 비에 충남서 130여명 긴급대피…주택 붕괴되고 웅벽 무너지...",
+			"title":"‘180.2㎜’ 많은 비에 충남서 130여명 긴급대피…주택 붕괴되고 옹벽 무너지...",
 			"originallink":"https:\/\/www.khan.co.kr\/national\/incident\/article\/202407081641001",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003307145?sid=102",
 			"description":"지난 7일 오전 11시쯤 옹벽 붕괴 사고가 난 천안시 목천읍 동평리 주택가 인근 주민 3명과 산사태 우려가 있는 보령 <b>청라<\/b>면 옥계리 주민 4명도 대피를 했다. 이날까지 내린 비로 충남 지역에서는 13.3㏊ 규모의 농경지가... ",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/417\/0001013087",
 			"description":"이가영은 지난 7일 인천광역시 베어즈베스트 <b>청라<\/b> 골프클럽에서 끝난 KLPGA 투어 롯데 오픈 최종 라운드에서 버디 2개와 보기 1개를 묶어 1언더파 71타를 쳤다. 최종합계 18언더파 270타를 기록한 이가영은 윤이나... ",
 			"pubDate":"Mon, 08 Jul 2024 14:52:00 +0900"
-		},
-		{
-			"title":"[포토-롯데오픈] 김효주와 최혜진의 2번홀 티샷",
-			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=61008",
-			"link":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=61008",
-			"description":"7일 베어즈베스트 <b>청라<\/b>(인천 서구) 미국-오스트랄아시아 코스파72, 6,725야드)에서 열린 2024시즌 KLPGA(한국여자프로골프) 투어 롯데오픈(총상금 12억원, 우승상금 2억1천6백만원) 최종라운드 김효주와 최혜진이... ",
-			"pubDate":"Mon, 08 Jul 2024 14:50:00 +0900"
-		},
-		{
-			"title":"[KLPGA] 롯데오픈 역대 우승자 '14회 이가영 우승'",
-			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=61007",
-			"link":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=61007",
-			"description":"7일 베어즈베스트 <b>청라<\/b>(인천 서구) 미국-오스트랄아시아 코스파72, 6,725야드)에서 열린 2024시즌 KLPGA(한국여자프로골프) 투어 롯데오픈(총상금 12억원, 우승상금 2억1천6백만원) 최종라운드 이가영... ",
-			"pubDate":"Mon, 08 Jul 2024 14:48:00 +0900"
 		}
 	]
 }
