@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 08 Jul 2024 14:40:02 +0900",
-	"total":233213,
+	"lastBuildDate":"Mon, 08 Jul 2024 14:50:02 +0900",
+	"total":233215,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[KLPGA] 롯데오픈 역대 우승자 '14회 이가영 우승'",
+			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=61007",
+			"link":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=61007",
+			"description":"7일 베어즈베스트 <b>청라<\/b>(인천 서구) 미국-오스트랄아시아 코스파72, 6,725야드)에서 열린 2024시즌 KLPGA(한국여자프로골프) 투어 롯데오픈(총상금 12억원, 우승상금 2억1천6백만원) 최종라운드 이가영... ",
+			"pubDate":"Mon, 08 Jul 2024 14:48:00 +0900"
+		},
+		{
+			"title":"[의령군 소식] 홍보대사 이가영 KLPGA 우승-의령읍 농악단 국악대전 금상",
+			"originallink":"https:\/\/www.kpinews.kr\/newsView\/1065580605860722",
+			"link":"https:\/\/www.kpinews.kr\/newsView\/1065580605860722",
+			"description":"▲ 이가영 선수가 지난해 4월 의령군 홍보대사로 임명되면서 오태완 군수와 기념촬영을 하고 있는 모습 [의령군 제공] 이가영 선수는 7일 인천시 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄 아시아 코스에서 열린... ",
+			"pubDate":"Mon, 08 Jul 2024 14:43:00 +0900"
+		},
 		{
 			"title":"롯데오픈 거머쥔 이가영, 위믹스 포인트 순위 17계단 껑충",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1381013\/?sc=Naver",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/feedapi.cloud.sbs.co.kr\/feed-api\/article_hub\/G20000001691",
 			"description":"이가영은 7일 인천시 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 롯데 오픈(총상금 12억원)에서 최종합계 18언더파 270타를 기록해 동타인 윤이나, 최예림과 연장 승부를 벌였다. 18번 홀(파4)에서 진행된 연장... ",
 			"pubDate":"Mon, 08 Jul 2024 11:00:00 +0900"
-		},
-		{
-			"title":"한 대회 2차례 코스레코드…재능 만은 확실한 윤이나, 첫 우승은 언제쯤",
-			"originallink":"https:\/\/www.news1.kr\/sports\/golf\/5471919",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0007649085",
-			"description":"윤이나는 지난 7일 인천 서구 베어즈베스트 <b>청라<\/b>(파72)에서 열린 한국여자프로골프(KLPGA)투어 롯데 오픈에서 최종합계 18언더파 270타로 이가영(25·NH투자증권), 최예림(25·대보건설)과 동타를 이뤄 돌입한 연장에서 패해... ",
-			"pubDate":"Mon, 08 Jul 2024 11:00:00 +0900"
-		},
-		{
-			"title":"'통산 2승' 이가영, 위믹스 포인트 랭킹 32→15위 도약",
-			"originallink":"http:\/\/www.stoo.com\/article.php?aid=94614087572",
-			"link":"http:\/\/www.stoo.com\/article.php?aid=94614087572",
-			"description":"이가영은 7일 인천시 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 KLPGA 투어 롯데 오픈(총상금 12억 원)에서 최종합계 18언더파 270타를 기록해 동타인 윤이나, 최예림과 연장 승부를 벌였다. 18번 홀(파4)에서 진행된... ",
-			"pubDate":"Mon, 08 Jul 2024 10:58:00 +0900"
 		}
 	]
 }
