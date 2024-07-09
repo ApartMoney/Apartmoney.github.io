@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 09 Jul 2024 10:50:03 +0900",
-	"total":233279,
+	"lastBuildDate":"Tue, 09 Jul 2024 11:00:02 +0900",
+	"total":233280,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 서곶문화예술제 '작품 공모' 공개 모집",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1138012",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1138012",
+			"description":"작품 모집은 지난 5일부터 21일 자정까지이며 이메일을 통해 접수 가능하다. 한편, 서곶문화예술제는 오는 9월 27일부터 10월 4일까지 <b>청라<\/b>블루노바홀과 지역 커뮤니티 공간에서 개최된다.",
+			"pubDate":"Tue, 09 Jul 2024 10:56:00 +0900"
+		},
 		{
 			"title":"[인사] 보령시",
 			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1038227",
@@ -19,6 +26,13 @@
 			"pubDate":"Tue, 09 Jul 2024 10:32:00 +0900"
 		},
 		{
+			"title":"이가영, 롯데오픈 우승으로 위믹스 포인트 랭킹 17계단 상승! [KLPGA]",
+			"originallink":"https:\/\/feedapi.cloud.sbs.co.kr\/feed-api\/article_hub\/G20000001693",
+			"link":"https:\/\/feedapi.cloud.sbs.co.kr\/feed-api\/article_hub\/G20000001693",
+			"description":"7일 인천시 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄 아시아 코스(파72·6천655야드)에서 최종 합계 18언더파 270타를 기록, 같은 타수를 기록한 윤이나·최예림과 연장 승부를 벌였다. 18번 홀(파4)에서... ",
+			"pubDate":"Tue, 09 Jul 2024 10:24:00 +0900"
+		},
+		{
 			"title":"<b>청라<\/b> '푸르지오 스타셀라49' 공급 소식에 수요자 이목 집중",
 			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240709000277",
 			"link":"https:\/\/www.newspim.com\/news\/view\/20240709000277",
@@ -30,13 +44,6 @@
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240709027182352",
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240709027182352",
 			"description":"대우건설은 인천시 서구 <b>청라<\/b>국제도시 C18블록에서 '푸르지오 스타셀라49'를 분양 중이다. 지하 5층~지상 49층, 2개동, 전용면적 114~119㎡, 총 522실 규모다. <b>청라<\/b>국제도시역이 단지와 인접하며, 29년 개통 예정인 석남... ",
-			"pubDate":"Tue, 09 Jul 2024 10:24:00 +0900"
-		},
-		{
-			"title":"이가영, 롯데오픈 우승으로 위믹스 포인트 랭킹 17계단 상승! [KLPGA]",
-			"originallink":"https:\/\/feedapi.cloud.sbs.co.kr\/feed-api\/article_hub\/G20000001693",
-			"link":"https:\/\/feedapi.cloud.sbs.co.kr\/feed-api\/article_hub\/G20000001693",
-			"description":"7일 인천시 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄 아시아 코스(파72·6천655야드)에서 최종 합계 18언더파 270타를 기록, 같은 타수를 기록한 윤이나·최예림과 연장 승부를 벌였다. 18번 홀(파4)에서... ",
 			"pubDate":"Tue, 09 Jul 2024 10:24:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.gnnews.co.kr\/news\/articleView.html?idxno=557263",
 			"description":"이가영은 지난 7일 인천시 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄 아시아 코스(파72·6655야드)에서 열린 대회 마지막 날 4라운드에서 3타차 리드를 지키지 못하고 합계 18언더파 270타로 윤이나, 최예림과 동타를... ",
 			"pubDate":"Mon, 08 Jul 2024 21:26:00 +0900"
-		},
-		{
-			"title":"랜더스 난자리 어쩌나~ 문학경기장 활용법 고심",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1098306",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1098306",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천 문학경기장 \/사진 = 연합뉴스 인천시가 <b>청라<\/b>돔구장 건설에 따라 문학야구경기장 활용 방안을 모색한다. 8일 시에 따르면 2027년 하반기 서구 <b>청라<\/b>국제도시 일대에 면적 16만5천... ",
-			"pubDate":"Mon, 08 Jul 2024 20:32:00 +0900"
 		}
 	]
 }
