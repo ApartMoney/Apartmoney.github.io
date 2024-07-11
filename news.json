@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 11 Jul 2024 17:00:02 +0900",
-	"total":233445,
+	"lastBuildDate":"Thu, 11 Jul 2024 17:10:03 +0900",
+	"total":233446,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"적극 행정 공직자 깜짝 승진… 일하는 인천시 만든다",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240711580239",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000046577?sid=100",
+			"description":"11일 시에 따르면 오는 15일자 인사에서 안광호 항공과장(4급)은 경제자유구역청 영종<b>청라<\/b>사업본부장(3급)으로 승진한다. 김영신 교통정책과 교통정책팀장(5급)은 안 과장의 빈자리인 항공과장(4급)으로 자리를 옮긴다.... ",
+			"pubDate":"Thu, 11 Jul 2024 17:08:00 +0900"
+		},
 		{
 			"title":"“성장한다면 성적도 따라올 것” 높은 곳 바라보는 하나원큐, 새 시즌이 기대...",
 			"originallink":"",
@@ -124,17 +131,17 @@
 			"pubDate":"Thu, 11 Jul 2024 15:16:00 +0900"
 		},
 		{
-			"title":"인천해경 신청사 준공식",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240711169300065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014801598?sid=102",
-			"description":"11일 오후 인천 서구 <b>청라<\/b>동 인천해양경찰서에서 열린 신청사 준공식에서 김종욱 해양경찰청장, 김용진 중부지방해양경찰청장, 이천식 인천해양경찰서장 등 참석자들이 기념 촬영하고 있다. 2024.7.11",
-			"pubDate":"Thu, 11 Jul 2024 15:16:00 +0900"
-		},
-		{
 			"title":"치사하는 김종욱 해양경찰청장",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240711169100065?input=1196m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014801596?sid=102",
 			"description":"김종욱 해양경찰청장이 11일 오후 인천 서구 <b>청라<\/b>동 인천해양경찰서에서 열린 신청사 준공식에서 치사하고 있다. 2024.7.11",
+			"pubDate":"Thu, 11 Jul 2024 15:16:00 +0900"
+		},
+		{
+			"title":"인천해경 신청사 준공식",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240711169300065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014801598?sid=102",
+			"description":"11일 오후 인천 서구 <b>청라<\/b>동 인천해양경찰서에서 열린 신청사 준공식에서 김종욱 해양경찰청장, 김용진 중부지방해양경찰청장, 이천식 인천해양경찰서장 등 참석자들이 기념 촬영하고 있다. 2024.7.11",
 			"pubDate":"Thu, 11 Jul 2024 15:16:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.breaknews.com\/1043489",
 			"description":"인천해양경찰서가 11일 서구 <b>청라<\/b>동에 위치한 새로운 청사에서 준공식을 가졌다고 밝혔다. 인천해경에 따르면, 이날 준공식에는 김종욱 해양경찰청장, 김용진... ",
 			"pubDate":"Thu, 11 Jul 2024 14:28:00 +0900"
-		},
-		{
-			"title":"보령시, 호우피해 접수 우려···비상 1단계 유지",
-			"originallink":"http:\/\/www.jbnews.com\/news\/articleView.html?idxno=1443701",
-			"link":"http:\/\/www.jbnews.com\/news\/articleView.html?idxno=1443701",
-			"description":"그 결과 원산도, <b>청라<\/b>면, 미산면 등 일부 지역에 토사유출이 발생했고, 산사태 및 주택 침수 위험에 따라 8세대 14명의 이재민이 발생했지만, 단 1건의 인명피해 없이 무사히 호우를 극복할 수 있었다. 김동일 시장은 &quot;이번... ",
-			"pubDate":"Thu, 11 Jul 2024 14:12:00 +0900"
 		}
 	]
 }
