@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 11 Jul 2024 18:40:02 +0900",
-	"total":233458,
+	"lastBuildDate":"Thu, 11 Jul 2024 18:50:02 +0900",
+	"total":233459,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시 공무원, 폭우 속 시민안전 위해 구슬땀",
+			"originallink":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=760045",
+			"link":"http:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=760045",
+			"description":"그 결과 원산도, <b>청라<\/b>면, 미산면 등 일부 지역에 토사유출이 발생했고, 산사태 및 주택 침수 위험에 따라 8세대 14명의 이재민이 발생했지만, 단 1건의 인명피해 없이 무사히 호우를 극복할 수 있었다. 김동일 시장은&quot;이번... ",
+			"pubDate":"Thu, 11 Jul 2024 18:47:00 +0900"
+		},
 		{
 			"title":"[<b>청라<\/b>언덕] 차이와 차등이 존재하는 세상 속, 최저임금이라는 '일괄 적용'",
 			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2024071015143095859",
@@ -173,13 +180,6 @@
 			"pubDate":"Thu, 11 Jul 2024 15:20:00 +0900"
 		},
 		{
-			"title":"인천해경 신청사 준공식",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240711169800065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014801604?sid=102",
-			"description":"11일 오후 인천 서구 <b>청라<\/b>동 인천해양경찰서에서 열린 신청사 준공식에서 김종욱 해양경찰청장(왼쪽 여덟 번째), 김용진 중부지방해양경찰청장, 이천식 인천해양경찰서장 등 참석자들이 준공 테이프 커팅식을 하고... ",
-			"pubDate":"Thu, 11 Jul 2024 15:19:00 +0900"
-		},
-		{
 			"title":"인사말 하는 이천식 인천해양경찰서장",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240711169500065?input=1196m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014801602?sid=102",
@@ -201,18 +201,18 @@
 			"pubDate":"Thu, 11 Jul 2024 15:19:00 +0900"
 		},
 		{
+			"title":"인천해경 신청사 준공식",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240711169800065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014801604?sid=102",
+			"description":"11일 오후 인천 서구 <b>청라<\/b>동 인천해양경찰서에서 열린 신청사 준공식에서 김종욱 해양경찰청장(왼쪽 여덟 번째), 김용진 중부지방해양경찰청장, 이천식 인천해양경찰서장 등 참석자들이 준공 테이프 커팅식을 하고... ",
+			"pubDate":"Thu, 11 Jul 2024 15:19:00 +0900"
+		},
+		{
 			"title":"임산부 1000명에 충남 수산물 구매 쿠폰 쏜다 [힘쎈충남 브리핑]",
 			"originallink":"http:\/\/www.kukinews.com\/newsView\/kuk202407110108",
 			"link":"http:\/\/www.kukinews.com\/newsView\/kuk202407110108",
 			"description":"또 보령시 <b>청라<\/b>면에 있는 그린몬스터즈 스마트팜 농장 견학과 함께 영농 프로그램을 체험했으며, 내항동 일원 농촌 봉사활동으로 일정을 마무리했다. 도 농업기술원 관계자는 “이번 워크숍을 계기로 고교생... ",
 			"pubDate":"Thu, 11 Jul 2024 15:18:00 +0900"
-		},
-		{
-			"title":"치사하는 김종욱 해양경찰청장",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240711169200065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014801597?sid=102",
-			"description":"김종욱 해양경찰청장이 11일 오후 인천 서구 <b>청라<\/b>동 인천해양경찰서에서 열린 신청사 준공식에서 치사하고 있다. 2024.7.11",
-			"pubDate":"Thu, 11 Jul 2024 15:16:00 +0900"
 		}
 	]
 }
