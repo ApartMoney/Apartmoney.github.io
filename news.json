@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 12 Jul 2024 17:10:02 +0900",
-	"total":233489,
+	"lastBuildDate":"Fri, 12 Jul 2024 17:20:02 +0900",
+	"total":233490,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오현웅의 우주와 예술] SAR 위성영상이 만들어 낼 새로운 가치",
+			"originallink":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7091534",
+			"link":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7091534",
+			"description":"인천 <b>청라<\/b> 톨게이트 촬영 영상(왼쪽 : 광학, 오른쪽 : 영상레이더). 사진=LIG넥스원 첨단영상활용센터 &quot;언제... 인천<b>청라<\/b>톨게이트 인근의 동일한 지역을 광학과 SAR로부터 촬영한 영상을 보더라도 전혀 상이한 느낌의... ",
+			"pubDate":"Fri, 12 Jul 2024 17:12:00 +0900"
+		},
 		{
 			"title":"[유정복 2년] 인천 교통 GTX는 '신호탄', 철도는 '글쎄', 도로는 '착착'",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=250027",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363662077",
 			"description":"인천 내 연수구와 남동구를 제외한 8개 군·구가 병상 공급 제한 지역으로 분류돼 인천 서구 <b>청라<\/b>의료복합단지의 핵심 시설인 서울아산병원 <b>청라<\/b> 개원이 정부의 수도권 분원 제동 정책에 영향을 받을 것으로 보인다.... ",
 			"pubDate":"Thu, 11 Jul 2024 20:02:00 +0900"
-		},
-		{
-			"title":"미추홀구 집값 이끄는 시티오씨엘… 하반기 분양 앞둔 6단지 관심",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363662026",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363662026",
-			"description":"송도~<b>청라<\/b>로 이어지는 주거축으로 자리매김할 가능성이 크다&quot;고 설명했다. 실제 부동산빅데이터 업체 아실 자료를 보면 올 상반기 미추홀구에서 거래된 전용 84㎡ 기준 가격 상위 5개 단지 안에 시티오씨엘 3개 단지가... ",
-			"pubDate":"Thu, 11 Jul 2024 20:00:00 +0900"
 		}
 	]
 }
