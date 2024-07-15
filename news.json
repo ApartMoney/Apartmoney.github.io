@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 15 Jul 2024 15:00:02 +0900",
-	"total":233581,
+	"lastBuildDate":"Mon, 15 Jul 2024 15:10:02 +0900",
+	"total":233582,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천 주요 뉴스]인천뮤지엄파크 내년 상반기 착공…2028년 개관 목표",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6177887?utm_source=naver&utm_medium=article&utm_campaign=20240715030014",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003916154?sid=102",
+			"description":"인천 <b>청라<\/b>시티타워 사업 재추진 시동…내달 시공사 입찰 초고층 전망 타워인 인천 <b>청라<\/b>시티타워가 건설사 입찰 공고 등 사업 재추진을 위한 본격 절차에 착수합니다. 한국토지주택공사에 따르면 LH는 이달 안으로... ",
+			"pubDate":"Mon, 15 Jul 2024 15:01:00 +0900"
+		},
 		{
 			"title":"규모가 좌우하는 가치… 지방 부동산 시장 '거거익선' 트렌드 뚜렷",
 			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=297317",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363662327",
 			"description":"최근 정부가 수도권 병상 수를 제한하려는 방침(중부일보 7월 12일 자 1면 보도) 을 세우자 인천 영종·<b>청라<\/b>... 이렇다 보니 종합병원 건립 관련 이슈가 있었던 영종과 <b>청라<\/b> 지역에서 주민들의 우려 섞인 목소리가 커지는... ",
 			"pubDate":"Sun, 14 Jul 2024 21:06:00 +0900"
-		},
-		{
-			"title":"이용우 의원, 맹성규 국토위원장에 정책제안서 전달",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363662309",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363662309",
-			"description":"전달한 정책제안서에는 <b>청라<\/b>시티타워-항공로 연구용역 조기 완료, <b>청라<\/b>IC-정서진로 연결로 신설, 서부권 GTX-D,E 신설, <b>청라<\/b>국제도시 투자 유치 촉구, 서울 7호선 <b>청라<\/b> 연장 건설 공사 조속 재개, 경서3구역 도로 개설승인... ",
-			"pubDate":"Sun, 14 Jul 2024 21:00:00 +0900"
 		}
 	]
 }
