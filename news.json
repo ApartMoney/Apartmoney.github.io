@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 25 Jul 2024 08:50:02 +0900",
-	"total":234021,
+	"lastBuildDate":"Thu, 25 Jul 2024 09:00:02 +0900",
+	"total":234022,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 쓰레기 소각장 확충 곳곳서 표류…시 &quot;군·구 책임&quot;",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103004",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103004",
+			"description":"인천에서는 현재 송도·<b>청라<\/b>소각장 등 광역소각장 2곳과 민간소각장 6곳에서 일평균 1천100t의 쓰레기를 소각 처리하고 있으나 300t가량은 수도권매립지에서 직매립 방식으로 처리하고 있다. 유정복 인천시장은 시가... ",
+			"pubDate":"Thu, 25 Jul 2024 08:58:00 +0900"
+		},
 		{
 			"title":"'우리 아파트 마실 음악회' 예술로 소통하다",
 			"originallink":"http:\/\/www.hapt.co.kr\/news\/articleView.html?idxno=162715",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1101446",
 			"description":"참여 방법은 먼저 인천 자원순환센터(송도·<b>청라<\/b>)에서 환경교육을 받고 시설과 본인 모습이 들어간 인증사진을 개인 인스타그램에 올리고, 필수 해시태그(#) '#인천환경공단', '#인천자원순환센터', '#<b>청라<\/b>사업소'나... ",
 			"pubDate":"Wed, 24 Jul 2024 16:28:00 +0900"
-		},
-		{
-			"title":"인천시설공단, ESG 경영 성과를 담은 '지속가능경영보고서' 발간",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1101443",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1101443",
-			"description":"이번 보고서에는 ▶특·광역시 시설공단 최초 규범준수경영시스템(ISO37301) 국제 인증 획득 ▶<b>청라<\/b>호수공원 환경경영시스템(ISO14001) 신규 인증 ▶지역 사회공헌 인정기관 선정 ▶블라인드 공정 채용 우수기관... ",
-			"pubDate":"Wed, 24 Jul 2024 16:26:00 +0900"
 		}
 	]
 }
