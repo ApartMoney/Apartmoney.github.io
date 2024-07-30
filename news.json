@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 30 Jul 2024 16:40:02 +0900",
-	"total":234402,
+	"lastBuildDate":"Tue, 30 Jul 2024 16:50:02 +0900",
+	"total":234403,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천 시정 특집] 시, 5대 하천 자연생태 '생명의 강' 복원",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1260072",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1260072",
+			"description":"공촌천은 검암동 주택단지와 인천아시아드 주경기장, <b>청라<\/b> 국제도시를 잇는 하천변 보행 네트워크 구축, <b>청라<\/b> 국제도시 내 보행환경개선을 주요 내용으로 현재 서구청과 경제청에서 사업 추진중이다. 나진포천은... ",
+			"pubDate":"Tue, 30 Jul 2024 16:42:00 +0900"
+		},
 		{
 			"title":"한양, 1000억원 규모 '부산 삼보 가로주택정비사업' 수주",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1390089\/?sc=Naver",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.insidevina.com\/news\/articleView.html?idxno=28273",
 			"description":"한편, 하나금융그룹은 지난해 9월에도 인천 <b>청라<\/b>에서 개최한 한국여자프로골프협회(KLPGA) 정규투어 '하나금융그룹 챔피언십'에 참가한 선수들과 함께 조성한 기부금을 지난 1월 인천 지역 위기 임산부를 위해 전달한... ",
 			"pubDate":"Tue, 30 Jul 2024 13:02:00 +0900"
-		},
-		{
-			"title":"SK인천석유화학, 인천적십자와 함께 '사랑의 제빵 봉사활동'",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420024",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420024",
-			"description":"올해 3월부터 개소한 인천적십자사 서북봉사관은 서구 <b>청라<\/b>동에 위치하고 있으며, 지역사회 취약계층 지원을 위해 시민, 기업, 학교 등과 함께 사랑의 제빵 봉사활동을 적극적으로 전개하고 있다.",
-			"pubDate":"Tue, 30 Jul 2024 12:48:00 +0900"
 		}
 	]
 }
