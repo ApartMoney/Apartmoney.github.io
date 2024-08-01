@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Aug 2024 21:00:02 +0900",
-	"total":234672,
+	"lastBuildDate":"Thu, 01 Aug 2024 21:10:02 +0900",
+	"total":234673,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"사람도 가축도 못견디는 폭염",
+			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=454489",
+			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=454489",
+			"description":"연합뉴스1일 오전 인천 서구 <b>청라<\/b> 한 아파트 지하 주차장 전기차에서 발화한 것으로 추정되는 화재가 발생한 가운데 화재진화에 투입됐던 한 소방관이 힘들어하고 있다. 연합뉴스 8월 첫 날 전국 대부분 지역의 낮... ",
+			"pubDate":"Thu, 01 Aug 2024 21:06:00 +0900"
+		},
 		{
 			"title":"인천 아파트 지하주차장서 전기차 화재…진화에만 8시간 걸려",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1391183\/?sc=Naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002068980?sid=102",
 			"description":"오늘(1일) 오전 11시 50분쯤 인천 <b>청라<\/b>동에 있는 수도권제2순환고속도로 북<b>청라<\/b> 나들목 근처를 달리던 승용차에 불이 났습니다. 이 불로 다친 사람은 없었지만 승용차가 모두 탔습니다. 30분 만에 불을 끈 소방은 자세한... ",
 			"pubDate":"Thu, 01 Aug 2024 17:09:00 +0900"
-		},
-		{
-			"title":"지하주차장 전기차 화재, ‘물 퍼붓기’ 말고는 답도 없다",
-			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1151797.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002700803?sid=102",
-			"description":"1일 오전 6시15분께 인천시 서구 <b>청라<\/b>동 한 아파트 지하주차장에 세워진 전기차가 연기에 휩싸인 뒤 폭발하면서 불이 났다. 이 불로 어린이 7명 등 주민 20여명이 연기를 흡입해 병원 치료를 받았다. 또 검은 연기가... ",
-			"pubDate":"Thu, 01 Aug 2024 17:08:00 +0900"
 		}
 	]
 }
