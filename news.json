@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Aug 2024 18:40:02 +0900",
-	"total":234664,
+	"lastBuildDate":"Thu, 01 Aug 2024 18:50:02 +0900",
+	"total":234665,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[항동에서] 철도 르네상스, 인천에서 시작되다",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1260542",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1260542",
+			"description":"GTX-D는 인천국제공항과 장기에서 출발해 삼성을 거쳐 팔당, 원주까지 운행하는 더블 Y자 노선이며, GTX-E 노선은 인천국제공항에서 <b>청라<\/b>를 지나 대장, 덕소, 남양주로 연결된다. 이에 따라 수도권 서부 시민의... ",
+			"pubDate":"Thu, 01 Aug 2024 18:46:00 +0900"
+		},
 		{
 			"title":"롯데건설, '계양 롯데캐슬 파크시티 1단지' 견본주택 2일 오픈",
 			"originallink":"https:\/\/www.mediapen.com\/news\/view\/942278",
@@ -92,7 +99,7 @@
 			"title":"공포가 현실로, 결국 터졌다…벤츠 전기차, 아파트 지하주차장서 폭발·화재",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/11082730",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005344003?sid=103",
-			"description":"인천소방본부에 따르면 이날 오전 6시15분께 서구 <b>청라<\/b>동 아파트 지하 1층 주차장에서 화재가 발생했다. 이 아파트에는 총 14대 동에 1581세대가 거주한다. 화재 직후 검은 연기가 지하주차장은 물론 아파트 단지를... ",
+			"description":"인천소방본부에 따르면 이날 오전 6시15분께 서구 <b>청라<\/b>동 아파트 지하 1층 주차장에서 화재가 발생했다. 이 아파트에는 총 14개동에 1581세대가 거주한다. 화재 직후 검은 연기가 지하주차장은 물론 아파트 단지를... ",
 			"pubDate":"Thu, 01 Aug 2024 17:30:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ilyosisa.co.kr\/news\/article.html?no=244521",
 			"description":"피해보험사 구상금 청구소송 패소 판례 주목 1일, 인천 서구 소재의 한 아파트 지하주차장 전기차 화재로 유독가스 및 연기를 들이마신 입주민 21명이 인근 병원으로 이송되고, 일대에 매캐한 매연이 자욱히 피어오르는 등... ",
 			"pubDate":"Thu, 01 Aug 2024 16:52:00 +0900"
-		},
-		{
-			"title":"롯데건설, '계양 롯데캐슬 파크시티 1단지' 분양",
-			"originallink":"https:\/\/news.dealsitetv.com\/news\/articleView.html?idxno=120679",
-			"link":"https:\/\/news.dealsitetv.com\/news\/articleView.html?idxno=120679",
-			"description":"단지는 봉오대로를 통해 <b>청라<\/b>국제도시, 부평구, 미추홀구 등 인천 시내 이동이 가능하며, 서인천IC, 부평IC를 통해 경인고속도로 이용도 가능하다. 단지 앞에는 BRT(간선급행버스)정류장이 위치해 있어 서울... ",
-			"pubDate":"Thu, 01 Aug 2024 16:48:00 +0900"
 		}
 	]
 }
