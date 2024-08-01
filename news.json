@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Aug 2024 12:10:02 +0900",
-	"total":234542,
+	"lastBuildDate":"Thu, 01 Aug 2024 12:20:02 +0900",
+	"total":234543,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[영상]연기 뭉게뭉게 나더니 순식간에 '펑'…<b>청라<\/b> 아파트서 전기차 추정차량 ...",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DCUJOTO47",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004374582?sid=102",
+			"description":"인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 벤츠 전기차로 추정되는 차량이 폭발하며 화재가 발생, 주민 13명이 연기를 흡입하는 등 피해를 입었다. 1일 인천소방본부 등에 따르면 이날 오전 6시15분 인천 서구 <b>청라<\/b>... ",
+			"pubDate":"Thu, 01 Aug 2024 12:15:00 +0900"
+		},
 		{
 			"title":"지하주차장 전기차 화재...주민 100여 명 대피",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408011205140970",
@@ -181,22 +188,15 @@
 		},
 		{
 			"title":"지하 주차장으로 진입하는 소방관들",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240801097100065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014846212?sid=102",
-			"description":"1일 오전 인천 서구 <b>청라<\/b> 한 아파트 지하 주차장 전기차에서 발화한 것으로 추정되는 화재가 발생해 소방관들이 지하 주차장으로 진입하고 있다. 2024.8.1",
-			"pubDate":"Thu, 01 Aug 2024 10:30:00 +0900"
-		},
-		{
-			"title":"지하 주차장으로 진입하는 소방관들",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240801096600065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014846208?sid=102",
-			"description":"1일 오전 인천 서구 <b>청라<\/b> 한 아파트 지하 주차장 전기차에서 발화한 것으로 추정되는 화재가 발생해 소방관들이 지하 주차장으로 진입하고 있다. 2024.8.1",
-			"pubDate":"Thu, 01 Aug 2024 10:30:00 +0900"
-		},
-		{
-			"title":"지하 주차장으로 진입하는 소방관들",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240801096700065?input=1196m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014846209?sid=102",
+			"description":"1일 오전 인천 서구 <b>청라<\/b> 한 아파트 지하 주차장 전기차에서 발화한 것으로 추정되는 화재가 발생해 소방관들이 지하 주차장으로 진입하고 있다. 2024.8.1",
+			"pubDate":"Thu, 01 Aug 2024 10:30:00 +0900"
+		},
+		{
+			"title":"지하 주차장으로 진입하는 소방관들",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240801097100065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014846212?sid=102",
 			"description":"1일 오전 인천 서구 <b>청라<\/b> 한 아파트 지하 주차장 전기차에서 발화한 것으로 추정되는 화재가 발생해 소방관들이 지하 주차장으로 진입하고 있다. 2024.8.1",
 			"pubDate":"Thu, 01 Aug 2024 10:30:00 +0900"
 		},
@@ -209,8 +209,8 @@
 		},
 		{
 			"title":"지하 주차장으로 진입하는 소방관들",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240801096400065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014846202?sid=102",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240801096600065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014846208?sid=102",
 			"description":"1일 오전 인천 서구 <b>청라<\/b> 한 아파트 지하 주차장 전기차에서 발화한 것으로 추정되는 화재가 발생해 소방관들이 지하 주차장으로 진입하고 있다. 2024.8.1",
 			"pubDate":"Thu, 01 Aug 2024 10:30:00 +0900"
 		}
