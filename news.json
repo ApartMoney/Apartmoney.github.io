@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Thu, 01 Aug 2024 16:00:02 +0900",
-	"total":234623,
+	"lastBuildDate":"Thu, 01 Aug 2024 16:10:02 +0900",
+	"total":234627,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"벤츠 전기차서 발화 … 인천 아파트 지하주차장 화재",
+			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=217584",
+			"link":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=217584",
+			"description":"인천 서구 <b>청라<\/b>동의 제일풍경채 2차 아파트 지하주차장에서 전기차 화재가 발생해 6시간여 만에 진화됐다. 인천시 소방본부는 1일 오전 6시 15분쯤 서구 <b>청라<\/b>국제도시 제일풍경채 2차 아파트 지하 1층 주차장에 있던... ",
+			"pubDate":"Thu, 01 Aug 2024 16:08:00 +0900"
+		},
+		{
+			"title":"인천 아파트 지하주차장에서 벤츠 전기차 폭발… 5시간 만에 진화",
+			"originallink":"https:\/\/biz.chosun.com\/topics\/topics_social\/2024\/08\/01\/YA4RUNKEDRB67MTNO6BI2X5N4E\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0001009312?sid=102",
+			"description":"인천소방본부에 따르면 1일 오전 6시15분쯤 서구 <b>청라<\/b>동 아파트 지하 1층 주차장에서 흰색 벤츠 전기차에서 연기가 뿜어져 나오다가 폭발과 함께 불길이 치솟았다. 불이 난 차량 주변으로 확대돼 주차장에 있던 차량... ",
+			"pubDate":"Thu, 01 Aug 2024 16:06:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> 아파트 주차장 화재 8시간 만에 완진…&quot;70여대 피해&quot;",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240801_0002834983",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012703855?sid=102",
+			"description":"인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 벤츠 전기차로 추정되는 차량이 폭발하며 발생한 화재가... 1일 인천소방본부 등에 따르면 이날 오전 6시15분 인천 서구 <b>청라<\/b>동 한 아파트 지하주차장에서 불이 났다.... ",
+			"pubDate":"Thu, 01 Aug 2024 16:02:00 +0900"
+		},
+		{
+			"title":"벤츠 전기차 폭발 후 화재…21명 병원 이송 106명 구조",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/society\/2024\/08\/01\/20240801500156?wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003469352?sid=102",
+			"description":"인천 <b>청라<\/b>국제도시 한 아파트 지하주차장에서 1일 아침 전기차 화재로 추정되는 불이 나 입주민 21명이 연기를 흡입해 병원으로 이송되고, 106명이 소방관들에 의해 구조되는 등 큰 혼란이 발생했다. 불은 이날 오전... ",
+			"pubDate":"Thu, 01 Aug 2024 16:00:00 +0900"
+		},
 		{
 			"title":"‘쁘띠성형’ 필러·보톡스, 과한 시술하지 않도록 주의해야",
 			"originallink":"https:\/\/mdtoday.co.kr\/news\/view\/1065595772985870",
@@ -22,7 +50,7 @@
 			"title":"아파트 지하주차장 전기차 화재…부상 21명 내고 진화",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020374379&code=61122012&cp=nv",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001715046?sid=102",
-			"description":"인천 <b>청라<\/b>국제도시 한 아파트 지하주차장에 전기차 화재로 추정되는 불이 나 21명의 인명피해를 내고 8시간여 만에 진화됐다. 1일 인천소방본부에 따르면 이날 오전 6시15분쯤 이날 오전 6시15분쯤 인천시 서구 <b>청라<\/b>동... ",
+			"description":"인천 <b>청라<\/b>국제도시 한 아파트 지하주차장에서 전기차 화재로 추정되는 불이 나 21명의 인명피해를 내고 8시간여 만에 진화됐다. 1일 인천소방본부에 따르면 이날 오전 6시15분쯤 인천시 서구 <b>청라<\/b>동에 있는 1581세대... ",
 			"pubDate":"Thu, 01 Aug 2024 15:57:00 +0900"
 		},
 		{
@@ -103,17 +131,17 @@
 			"pubDate":"Thu, 01 Aug 2024 15:26:00 +0900"
 		},
 		{
-			"title":"롯데건설 '계약 롯데캐슬 파크시티 1단지' 견본주택 2일 개관",
-			"originallink":"http:\/\/www.arunews.com\/news\/articleView.html?idxno=45028",
-			"link":"http:\/\/www.arunews.com\/news\/articleView.html?idxno=45028",
-			"description":"인천시가 추진하는 '서울지하철 2호선 <b>청라<\/b>연장선'사업과 GTX개발계획이 있다. 이 개발 계획은 인근에 위치한 인천지하철 1호선 작전역이 GTX D∙E노선에 포함됐으며, D노선은 서울 강남권역으로, E노선은 서울... ",
-			"pubDate":"Thu, 01 Aug 2024 15:24:00 +0900"
-		},
-		{
 			"title":"롯데건설, '계양 롯데캐슬 파크시티 1단지' 2일 견본주택 개관",
 			"originallink":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=228612",
 			"link":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=228612",
 			"description":"단지가 위치한 계양구는 '서울지하철 2호선 <b>청라<\/b>연장선'에 대한 기대감도 있다. 이 사업은 대장∙홍대선을 다시 부천 대장부터 인천시 계양 작전∙서구 <b>청라<\/b>까지 연결하는 사업이다. 이와 함께 지난 6월 국토부가... ",
+			"pubDate":"Thu, 01 Aug 2024 15:24:00 +0900"
+		},
+		{
+			"title":"롯데건설 '계약 롯데캐슬 파크시티 1단지' 견본주택 2일 개관",
+			"originallink":"http:\/\/www.arunews.com\/news\/articleView.html?idxno=45028",
+			"link":"http:\/\/www.arunews.com\/news\/articleView.html?idxno=45028",
+			"description":"인천시가 추진하는 '서울지하철 2호선 <b>청라<\/b>연장선'사업과 GTX개발계획이 있다. 이 개발 계획은 인근에 위치한 인천지하철 1호선 작전역이 GTX D∙E노선에 포함됐으며, D노선은 서울 강남권역으로, E노선은 서울... ",
 			"pubDate":"Thu, 01 Aug 2024 15:24:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002892138?sid=102",
 			"description":"인천소방본부에 따르면 이날 오전 6시 15분쯤 서구 <b>청라<\/b>동 아파트 지하 1층 주차장에서 전기차 화재로 추정되는 화재가 발생했다. 화재 현장의 CCTV 영상에는 지하주차장에 있던 흰색 벤츠 차량에서 연기가 뿜어져... ",
 			"pubDate":"Thu, 01 Aug 2024 14:33:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 아파트 전기차 화재…8시간 넘게 진화 중(상보)",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02991366638983056",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005802432?sid=102",
-			"description":"1일 오전 6시15분께 인천 서구 <b>청라<\/b>동 한 아파트 지하 1층 주차장에 있는 벤츠 승용차에서 연기가 나면서 폭발하는 모습. (자료 = 독자 제공) 1일 오전 6시15분께 인천 서구 <b>청라<\/b>동 한 아파트 지하 1층 주차장에 있던 벤츠... ",
-			"pubDate":"Thu, 01 Aug 2024 14:33:00 +0900"
-		},
-		{
-			"title":"[모멘트] 폭염 속 화재 진압에 최선 다한 소방관들",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240801164100013?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014847012?sid=102",
-			"description":"1일 오전 인천 서구 <b>청라<\/b> 한 아파트 지하 주차장 전기차에서 발화한 것으로 추정되는 화재가 발생한 가운데 화재진화에 투입됐던 한 소방관이 힘들어하고 있다. 2024.8.1 [THE MOMENT OF YONHAPNEWS]",
-			"pubDate":"Thu, 01 Aug 2024 14:30:00 +0900"
-		},
-		{
-			"title":"[연합뉴스 이 시각 헤드라인] - 14:30",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240801115300011?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014847015?sid=102",
-			"description":"1일 인천소방본부에 따르면 이날 오전 6시 15분께 서구 <b>청라<\/b>동 아파트 지하 1층 주차장에서 전기차 화재로 추정되는 불이 났다. 현장 폐쇄회로(CC)TV 영상에는 지하주차장에 있던 흰색 벤츠 차량에서 연기가... ",
-			"pubDate":"Thu, 01 Aug 2024 14:30:00 +0900"
-		},
-		{
-			"title":"롯데건설, '계양 롯데캐슬 파크시티 1단지' 2일 견본주택 개관",
-			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=208896",
-			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=208896",
-			"description":"인천시가 추진하는 '서울지하철 2호선 <b>청라<\/b>연장선'에 대한 기대감도 있습니다. 이 사업은 대장·홍대선을 부천 대장부터 인천시 계양 작전·서구 <b>청라<\/b>까지 연결하는 사업입니다. GTX 개발계획도 있습니다. 인근에... ",
-			"pubDate":"Thu, 01 Aug 2024 14:28:00 +0900"
 		}
 	]
 }
