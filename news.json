@@ -1,9 +1,44 @@
 {
-	"lastBuildDate":"Fri, 02 Aug 2024 12:20:02 +0900",
-	"total":234789,
+	"lastBuildDate":"Fri, 02 Aug 2024 12:30:02 +0900",
+	"total":234794,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 아파트 전기차 화재 ‘후폭풍’… 폭염 속, 수백 가구 단전·다수",
+			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1151929.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002700966?sid=102",
+			"description":"인천소방본부는 “지난 1일 오전 6시15분께 인천 서구 <b>청라<\/b>동 아파트 지하 1층 전기차에서 난 불로 아파트 14개동 1581가구 가운데 5개동 480여가구의 전기 공급이 끊겼다”고 2일 밝혔다. 또 4개동 일부 가구에서는 수돗물... ",
+			"pubDate":"Fri, 02 Aug 2024 12:26:00 +0900"
+		},
+		{
+			"title":"모네 &amp; 르누아르, 레플리카 전시회 인천 서구서",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420109",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420109",
+			"description":"서구문화재단 포토 인천서구문화재단은 이달 2일(금)부터 내달 8일(일)까지 여름방학을 맞이하여 인상주의를 대표하는 &lt;모네&amp;르누아르&gt; 레플리카 전시를 <b>청라<\/b>블루노바홀 전시장(B1)에서 개최한다고 밝혔다. 이번 전시는... ",
+			"pubDate":"Fri, 02 Aug 2024 12:24:00 +0900"
+		},
+		{
+			"title":"[포토]<b>청라<\/b> 아파트 주차장 화재 정확한 화재원인은?",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1260630",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1260630",
+			"description":"",
+			"pubDate":"Fri, 02 Aug 2024 12:22:00 +0900"
+		},
+		{
+			"title":"[포토 STORY] 인천 서구 <b>청라<\/b> 아파트 지하 주차장 화재 현장",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1260631",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1260631",
+			"description":"인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 화재로 40여 대가 소실되고 100여 대가 그을림 등 피해를 입었다. 주민 100여 명이 임시 주거시설로 대피했다. 화재 발생 1일 후인 2일 오전, 인천소방본부와 경찰은 합동... ",
+			"pubDate":"Fri, 02 Aug 2024 12:22:00 +0900"
+		},
+		{
+			"title":"지하주차장 벤츠 전기차 화재 때문에... 지금 인천 아파트서 벌어지는 사태",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/972485",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/972485",
+			"description":"인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 벤츠 전기차 화재로 인해 피난민 수백명이 발생했다. 2일 인천소방본부에 따르면 전날 오전 6시 15분쯤 서구 <b>청라<\/b>동 아파트 지하 1층 주차장에 주처된 벤츠 EQE... ",
+			"pubDate":"Fri, 02 Aug 2024 12:22:00 +0900"
+		},
 		{
 			"title":"인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재현장 합동감식",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240802021141322",
@@ -12,17 +47,17 @@
 			"pubDate":"Fri, 02 Aug 2024 12:12:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b> 전기차 화재, 폭염 특보 속 전력 복구 중",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=395228",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=395228",
-			"description":"어제(1일) 오전 인천 서구 <b>청라<\/b>동의 아파트 지하주차장에서 난 불은 모두 잡혔지만, 정전 피해 복구가 지연되면서 주민 불편은 계속되고 있습니다. 오늘(2일) 인천소방본부에 따르면, 3개 동 전 세대와 2개 동 일부 세대 등... ",
-			"pubDate":"Fri, 02 Aug 2024 12:12:00 +0900"
-		},
-		{
 			"title":"인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재현장 합동감식",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240802021151323",
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240802021151323",
 			"description":"2일 오후 인천 <b>청라<\/b>국제도시 전기차 화재 사고 현장에서 경찰과 소방등 관계자들이 합동감식을 하고 있다. 2024.8.2 \/조재현기자 jhc@kyeongin.com",
+			"pubDate":"Fri, 02 Aug 2024 12:12:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> 전기차 화재, 폭염 특보 속 전력 복구 중",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=395228",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=395228",
+			"description":"어제(1일) 오전 인천 서구 <b>청라<\/b>동의 아파트 지하주차장에서 난 불은 모두 잡혔지만, 정전 피해 복구가 지연되면서 주민 불편은 계속되고 있습니다. 오늘(2일) 인천소방본부에 따르면, 3개 동 전 세대와 2개 동 일부 세대 등... ",
 			"pubDate":"Fri, 02 Aug 2024 12:12:00 +0900"
 		},
 		{
@@ -62,8 +97,8 @@
 		},
 		{
 			"title":"불에 타버린 차량",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240802080600065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014849205?sid=102",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240802080100065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014849204?sid=102",
 			"description":"2일 오전 인천 서구 <b>청라<\/b> 아파트 지하 주차장에 차량 들이 전소돼 있다. 전날 오전 6시 15분께 아파트 지하 1층에서 벤츠 전기차에 화재가 발생해 8시간 20분 만에 진화됐다. 이 화재로 지하 주차장에 있던 차량... ",
 			"pubDate":"Fri, 02 Aug 2024 11:53:00 +0900"
 		},
@@ -71,6 +106,13 @@
 			"title":"<b>청라<\/b> 아파트 지하 주차장 화재 전소된 차량",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240802081000065?input=1196m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014849208?sid=102",
+			"description":"2일 오전 인천 서구 <b>청라<\/b> 아파트 지하 주차장에 차량 들이 전소돼 있다. 전날 오전 6시 15분께 아파트 지하 1층에서 벤츠 전기차에 화재가 발생해 8시간 20분 만에 진화됐다. 이 화재로 지하 주차장에 있던 차량... ",
+			"pubDate":"Fri, 02 Aug 2024 11:53:00 +0900"
+		},
+		{
+			"title":"불에 타버린 차량",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240802080800065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014849206?sid=102",
 			"description":"2일 오전 인천 서구 <b>청라<\/b> 아파트 지하 주차장에 차량 들이 전소돼 있다. 전날 오전 6시 15분께 아파트 지하 1층에서 벤츠 전기차에 화재가 발생해 8시간 20분 만에 진화됐다. 이 화재로 지하 주차장에 있던 차량... ",
 			"pubDate":"Fri, 02 Aug 2024 11:53:00 +0900"
 		},
@@ -83,15 +125,15 @@
 		},
 		{
 			"title":"불에 타버린 차량",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240802080800065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014849206?sid=102",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240802079900065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014849201?sid=102",
 			"description":"2일 오전 인천 서구 <b>청라<\/b> 아파트 지하 주차장에 차량 들이 전소돼 있다. 전날 오전 6시 15분께 아파트 지하 1층에서 벤츠 전기차에 화재가 발생해 8시간 20분 만에 진화됐다. 이 화재로 지하 주차장에 있던 차량... ",
 			"pubDate":"Fri, 02 Aug 2024 11:53:00 +0900"
 		},
 		{
 			"title":"불에 타버린 차량",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240802080100065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014849204?sid=102",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240802080600065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014849205?sid=102",
 			"description":"2일 오전 인천 서구 <b>청라<\/b> 아파트 지하 주차장에 차량 들이 전소돼 있다. 전날 오전 6시 15분께 아파트 지하 1층에서 벤츠 전기차에 화재가 발생해 8시간 20분 만에 진화됐다. 이 화재로 지하 주차장에 있던 차량... ",
 			"pubDate":"Fri, 02 Aug 2024 11:53:00 +0900"
 		},
@@ -99,13 +141,6 @@
 			"title":"불에 타버린 차량",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240802080000065?input=1196m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014849203?sid=102",
-			"description":"2일 오전 인천 서구 <b>청라<\/b> 아파트 지하 주차장에 차량 들이 전소돼 있다. 전날 오전 6시 15분께 아파트 지하 1층에서 벤츠 전기차에 화재가 발생해 8시간 20분 만에 진화됐다. 이 화재로 지하 주차장에 있던 차량... ",
-			"pubDate":"Fri, 02 Aug 2024 11:53:00 +0900"
-		},
-		{
-			"title":"불에 타버린 차량",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240802079900065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014849201?sid=102",
 			"description":"2일 오전 인천 서구 <b>청라<\/b> 아파트 지하 주차장에 차량 들이 전소돼 있다. 전날 오전 6시 15분께 아파트 지하 1층에서 벤츠 전기차에 화재가 발생해 8시간 20분 만에 진화됐다. 이 화재로 지하 주차장에 있던 차량... ",
 			"pubDate":"Fri, 02 Aug 2024 11:53:00 +0900"
 		},
@@ -138,10 +173,10 @@
 			"pubDate":"Fri, 02 Aug 2024 11:45:00 +0900"
 		},
 		{
-			"title":"불에 타버린 차량",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240802_0001619091",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012705510?sid=102",
-			"description":"2일 오전 인천 서구 <b>청라<\/b>동 아파트 지하주차장에 차량들이 전소돼 있다. 전날 오전 6시 15분께 해당 아파트 지하 1층에서 벤츠 전기차에 불이 나 8시간 20분 만에 진화됐다. 이 화재로 지하주차장에 있던... ",
+			"title":"합동감식 나선 경찰과 소방당국",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240802_0001619098",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012705499?sid=102",
+			"description":"경찰과 소방 등 유관기관 관계자들이 2일 오전 인천 서구 <b>청라<\/b>동 아파트 지하주차장 화재 현장에서 화재 원인을 찾기 위한 합동 감식을 하고 있다. 전날 오전 6시15분께 해당 아파트 지하 1층에서 벤츠... ",
 			"pubDate":"Fri, 02 Aug 2024 11:45:00 +0900"
 		},
 		{
@@ -159,10 +194,10 @@
 			"pubDate":"Fri, 02 Aug 2024 11:45:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b> 아파트 지하 주차장 화재 합동 감식",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240802077000065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014849169?sid=102",
-			"description":"2일 오전 인천 서구 <b>청라<\/b> 아파트 지하 주차장 화재 현장에서 경찰과 소방 등 관계자들이 합동 감식을 하고 있다. 전날 오전 6시 15분께 아파트 지하 1층에서 벤츠 전기차에 화재가 발생해 8시간 20분 만에 진화됐다.... ",
+			"title":"화재 원인 찾기 위한 합동감식",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240802_0001619087",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012705513?sid=102",
+			"description":"2일 오전 인천 서구 <b>청라<\/b>동 아파트 지하주차장 화재 현장에서 경찰과 소방 등 유관기관 관계자들이 화재 원인을 찾기 위한 합동 감식을 위해 이동하고 있다. 전날 오전 6시 15분께 해당 아파트 지하 1층에서... ",
 			"pubDate":"Fri, 02 Aug 2024 11:45:00 +0900"
 		},
 		{
@@ -174,43 +209,8 @@
 		},
 		{
 			"title":"합동감식 나선 경찰과 소방당국",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240802_0001619093",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012705505?sid=102",
-			"description":"2일 오전 인천 서구 <b>청라<\/b>동 아파트 지하주차장 화재 현장에서 경찰과 소방 등 유관기관 관계자들이 화재 원인을 찾기 위한 합동 감식을 하고 있다. 전날 오전 6시15분께 해당 아파트 지하 1층에서 벤츠... ",
-			"pubDate":"Fri, 02 Aug 2024 11:45:00 +0900"
-		},
-		{
-			"title":"화재 원인 찾기 위한 합동감식",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240802_0001619082",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012705508?sid=102",
-			"description":"2일 오전 인천 서구 <b>청라<\/b>동 아파트 지하주차장 화재 현장에서 경찰과 소방 등 유관기관 관계자들이 화재 원인을 찾기 위한 합동 감식을 위해 이동하고 있다. 전날 오전 6시 15분께 해당 아파트 지하 1층에서... ",
-			"pubDate":"Fri, 02 Aug 2024 11:45:00 +0900"
-		},
-		{
-			"title":"화재 원인 찾기 위한 합동감식",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240802_0001619099",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012705498?sid=102",
-			"description":"경찰과 소방 등 유관기관 관계자들이 2일 오전 인천 서구 <b>청라<\/b>동 아파트 지하주차장에서 불이 난 차량을 감식 하고 있다. 전날 오전 6시15분께 해당 아파트 지하 1층에서 벤츠 전기차에 불이 나 8시간 20분 만에... ",
-			"pubDate":"Fri, 02 Aug 2024 11:45:00 +0900"
-		},
-		{
-			"title":"화재 원인 찾기 위한 합동감식",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240802_0001619088",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012705514?sid=102",
-			"description":"2일 오전 인천 서구 <b>청라<\/b>동 아파트 지하주차장 화재 현장에서 경찰과 소방 등 유관기관 관계자들이 화재 원인을 찾기 위한 합동 감식을 위해 이동하고 있다. 전날 오전 6시 15분께 해당 아파트 지하 1층에서... ",
-			"pubDate":"Fri, 02 Aug 2024 11:45:00 +0900"
-		},
-		{
-			"title":"화재 원인 찾기 위한 합동감식",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240802_0001619085",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012705516?sid=102",
-			"description":"2일 오전 인천 서구 <b>청라<\/b>동 아파트 지하주차장 화재 현장에서 경찰과 소방 등 유관기관 관계자들이 화재 원인을 찾기 위한 합동 감식을 위해 이동하고 있다. 전날 오전 6시 15분께 해당 아파트 지하 1층에서... ",
-			"pubDate":"Fri, 02 Aug 2024 11:45:00 +0900"
-		},
-		{
-			"title":"화재 원인 찾기 위한 합동감식",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240802_0001619096",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012705500?sid=102",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240802_0001619092",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012705503?sid=102",
 			"description":"경찰과 소방 등 유관기관 관계자들이 2일 오전 인천 서구 <b>청라<\/b>동 아파트 지하주차장에서 불이 난 차량을 감식 하고 있다. 전날 오전 6시15분께 해당 아파트 지하 1층에서 벤츠 전기차에 불이 나 8시간 20분 만에... ",
 			"pubDate":"Fri, 02 Aug 2024 11:45:00 +0900"
 		}
