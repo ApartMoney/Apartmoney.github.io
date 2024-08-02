@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 02 Aug 2024 18:00:02 +0900",
-	"total":234857,
+	"lastBuildDate":"Fri, 02 Aug 2024 18:10:02 +0900",
+	"total":234858,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;어떻게 살라고&quot;...전기차 화재 아파트 정전·단수 복구에 2, 3일 소요",
+			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024080216270002364?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000815798?sid=102",
+			"description":"2일 오후 인천 서구 <b>청라<\/b>동 아파트 단지 밖에 마련된 전기차 화재 재난안전대책본부. 그늘막 아래 탁자와... 인천 서구와 대한적십자사가 <b>청라<\/b>1·2동 행정복지센터와 대한적십자사 인천지사 서북봉사관 등 3곳에 마련한... ",
+			"pubDate":"Fri, 02 Aug 2024 18:06:00 +0900"
+		},
 		{
 			"title":"인천 전기차 화재 아파트 480가구 단전…주민 불편",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1450707",
@@ -33,17 +40,17 @@
 			"pubDate":"Fri, 02 Aug 2024 17:38:00 +0900"
 		},
 		{
-			"title":"유정복, &quot;화재로 인한 주민 일상 회복에 최선 다하겠다&quot;",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20240802171238654",
-			"link":"https:\/\/www.ajunews.com\/view\/20240802171238654",
-			"description":"아주경제=인천=강대웅 기자 dwkang@ajunews.com 유정복 인천시장이 <b>청라<\/b>국제도시 화재 현장에서 소방공무원과 재난 관련 부서 직원들과 대책을 논의하고 있다. [사진=유정복 시장 SNS 캡처] 유정복 인천시장이 <b>청라<\/b>국제도시... ",
-			"pubDate":"Fri, 02 Aug 2024 17:32:00 +0900"
-		},
-		{
 			"title":"벤츠 전기차 '역대급' 화재...피해 차주 보상 핵심 관건은",
 			"originallink":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2024\/08\/02\/2024080201808.html",
 			"link":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2024\/08\/02\/2024080201808.html",
 			"description":"지난 1일 인천 서구 <b>청라<\/b>동 아파트 지하주차장에 주차한 전기차에서 대규모 화재가 발생한 가운데, 화재로... 2일 인천소방본부에 따르면 전날 오전 6시15분쯤 인천시 서구 <b>청라<\/b>동의 한 아파트 지하 1층에서 벤츠 전기차에... ",
+			"pubDate":"Fri, 02 Aug 2024 17:32:00 +0900"
+		},
+		{
+			"title":"유정복, &quot;화재로 인한 주민 일상 회복에 최선 다하겠다&quot;",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20240802171238654",
+			"link":"https:\/\/www.ajunews.com\/view\/20240802171238654",
+			"description":"아주경제=인천=강대웅 기자 dwkang@ajunews.com 유정복 인천시장이 <b>청라<\/b>국제도시 화재 현장에서 소방공무원과 재난 관련 부서 직원들과 대책을 논의하고 있다. [사진=유정복 시장 SNS 캡처] 유정복 인천시장이 <b>청라<\/b>국제도시... ",
 			"pubDate":"Fri, 02 Aug 2024 17:32:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2386930",
 			"description":"2일 인천소방본부와 연합뉴스에 따르면 전날 오전 6시 15분께 인천시 서구 <b>청라<\/b>동 아파트 지하 1층에 주차돼 있던 벤츠 전기차에서 발생한 불은 8시간 20분이 지나서야 진화됐다. 이로 인해 정전이 발생해 아파트 14개 동... ",
 			"pubDate":"Fri, 02 Aug 2024 15:02:00 +0900"
-		},
-		{
-			"title":"8시간동안 '활활'…<b>청라<\/b> 아파트 전기차 화재로 480세대 피난",
-			"originallink":"https:\/\/www.hankyung.com\/article\/2024080279197",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005017421?sid=102",
-			"description":"지난 1일 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 발생한 전기차 화재로 480여세대의 전기가 끊겨 주민들이 큰 불편을 겪고 있다. 2일 인천소방본부에 따르면 전날 오전 6시15분쯤 인천시 서구 <b>청라<\/b>동의 한... ",
-			"pubDate":"Fri, 02 Aug 2024 15:01:00 +0900"
 		}
 	]
 }
