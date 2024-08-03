@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sat, 03 Aug 2024 10:40:02 +0900",
-	"total":234896,
+	"lastBuildDate":"Sat, 03 Aug 2024 10:50:02 +0900",
+	"total":234898,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"주차장서 불 나면 속수무책 ‘활활’… 전기차 사도 되나요?",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020380973&code=61121211&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001715398?sid=102",
+			"description":"인천 서구 <b>청라<\/b>동의 한 아파트 지하 주차장에서 전기차에 불이 나 주변 차량 140여대가 타고 5개동... 3일 소방 당국과 경찰에 따르면 지난 1일 오전 6시15분쯤 <b>청라<\/b>동 아파트 지하 1층 주차장에 주차된 메르세데스 벤츠... ",
+			"pubDate":"Sat, 03 Aug 2024 10:47:00 +0900"
+		},
+		{
+			"title":"대구 주상복합건물 지하주차장서 승용차 화재… 6500여만원 피해",
+			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=454579",
+			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=454579",
+			"description":"지난 1일에는 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 차량으로 인한 화재가 발생해 주차장에 있던 140여대의 차량이이 피해를 본 가운데 2일 대구에서도 지하주차장에서 차량에서 불이나 경각심을 불러... ",
+			"pubDate":"Sat, 03 Aug 2024 10:46:00 +0900"
+		},
 		{
 			"title":"중국산 배터리 벤츠 전기차 화재...&quot;단전에 피난살이까지&quot;",
 			"originallink":"https:\/\/www.smartfn.co.kr\/article\/view\/sfn202408020067",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=395280",
 			"description":"어제(1일) 오전 전기차 폭발로 화재가 발생한 <b>청라<\/b> 아파트에서 전기가 끊기고 단수가 되는 등 수백여 명의 주민들이 여전히 큰 불편을 겪고 있습니다. 이혜원 기자가 보도합니다. (기자) 인천시 서구 <b>청라<\/b>동 아파트... ",
 			"pubDate":"Fri, 02 Aug 2024 19:16:00 +0900"
-		},
-		{
-			"title":"유정복 시장 ‘서구 <b>청라<\/b>동 아파트 화재’ 현장 방문해 지원 주문",
-			"originallink":"https:\/\/www.skyedaily.com\/news\/news_view.html?ID=241769",
-			"link":"https:\/\/www.skyedaily.com\/news\/news_view.html?ID=241769",
-			"description":"스카이데일리 김양훈기자 = ▲ 유정복 인천광역시장이 1일 서구 <b>청라<\/b>동 아파트 화재 현장을 찾았다.인천시 유정복 인천광역시장은 1일 오후 8시10분 같은 날 오전 발생한 서구 <b>청라<\/b>동 아파트 화재 현장을 찾았다. 화재... ",
-			"pubDate":"Fri, 02 Aug 2024 19:00:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b> ‘전기차 화재’ 속 고마움 전한 주민 글 감동",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/society\/accident\/2024\/08\/02\/20240802500182?wlog_tag3=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003469659?sid=102",
-			"description":"인천 아파트 지하주차장 내 전기차 화재가 발생해 단전까지 겪은 주민이 감사함을 표하는 글을 올려 감동을 주고 있다. 작가이자 네이버에서 ‘전선인간’이라는 닉네임으로 블로그를 운영하는 최우원 작가는 2일... ",
-			"pubDate":"Fri, 02 Aug 2024 18:47:00 +0900"
 		}
 	]
 }
