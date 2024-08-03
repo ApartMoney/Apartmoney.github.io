@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 03 Aug 2024 11:20:02 +0900",
-	"total":234900,
+	"lastBuildDate":"Sat, 03 Aug 2024 11:30:02 +0900",
+	"total":234901,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 계양산 인근 '롯데캐슬 파크시티 1단지' 1964가구 분양",
+			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=280147",
+			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=280147",
+			"description":"또 서울지하철 2호선 <b>청라<\/b>연장선도 호재다. 지하철 2호선 홍대입구역부터 고양시, 서울시 강서∙양천구, 부천 대장신도시를 연결하는 대장홍대선을 다시 부천 대장부터 인천시 계양 작전∙서구 <b>청라<\/b>까지 연결하는... ",
+			"pubDate":"Sat, 03 Aug 2024 11:20:00 +0900"
+		},
 		{
 			"title":"대구서도 지하주차장 벤츠 화재…6천500만 원 재산피해",
 			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20240803010000280",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001178110?sid=102",
 			"description":"&lt;기자&gt; 어제 새벽 전기차 화재가 발생했던 인천 <b>청라<\/b>동의 한 아파트 지하주차장. 전기차와 주변 차량들은 형태를 알아볼 수 없이 녹아내렸고, 주차장 천장 배관은 엿가락처럼 늘어졌습니다. 안팎이 온통 연기에 휩싸였던... ",
 			"pubDate":"Fri, 02 Aug 2024 19:43:00 +0900"
-		},
-		{
-			"title":"차량 뼈대만 남은 지하주차장‥전기차용 '소화 수조'도 사용 못 해",
-			"originallink":"https:\/\/imnews.imbc.com\/replay\/2024\/nwdesk\/article\/6623453_36515.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001365356?sid=102",
-			"description":"◀ 앵커 ▶ 어제 인천 <b>청라<\/b>의 한 아파트 주차장에서 전기차가 폭발해 큰불이 났죠. 수백여 세대에 물과 전기가 끊기는 등 주민 피해가 심각합니다. 이렇게 지하에서 전기차 화재가 발생하면, 진압이 어려워 피해가 커질... ",
-			"pubDate":"Fri, 02 Aug 2024 19:40:00 +0900"
 		}
 	]
 }
