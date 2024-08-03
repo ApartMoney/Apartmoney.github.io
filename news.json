@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 03 Aug 2024 20:10:02 +0900",
-	"total":234907,
+	"lastBuildDate":"Sat, 03 Aug 2024 20:20:02 +0900",
+	"total":234908,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"화마 지나간 인천 '전기차 화재' 아파트에 온정의 손길",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240803045600065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014851730?sid=101",
+			"description":"3일 인천 <b>청라<\/b> 주민들이 이용하는 온라인 커뮤니티에는 지난 1일 새벽 발생한 서구 <b>청라<\/b>동 모 아파트 이재민들을 돕고 싶다는 게시글과 이들의 도움에 감사하는 글들이 종일 이어졌다. 해당 아파트는 이번 불로 14개 동... ",
+			"pubDate":"Sat, 03 Aug 2024 20:14:00 +0900"
+		},
 		{
 			"title":"&quot;문에 빠루 자국을…&quot; 전기차 화재 피해주민이 남긴 글",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1391833\/?sc=Naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/082\/0001282360?sid=101",
 			"description":"인천 <b>청라<\/b>동의 한 아파트 지하주차장에서 전기차 화재가 발생하면서 수많은 차량이 함께 불타고 단전... 화재가 진압된 2일 <b>청라<\/b>동 아파트 지하주차장에는 화재가 발생한 벤츠 전기차를 중심으로 차량 40여대가 앙상한... ",
 			"pubDate":"Fri, 02 Aug 2024 21:58:00 +0900"
-		},
-		{
-			"title":"또? 전기차 화재... 인천서 벤츠 폭발로 피해 발생",
-			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1042758",
-			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1042758",
-			"description":"지난 1일 인천소방본부에 따르면 이날 오전 6시 15분께 서구 <b>청라<\/b>동 아파트 지하 1층 주차장에서 전기차 화재로 추정되는 불이 났다. 현장 폐쇄회로(CC)TV 영상에는 지하주차장에 있던 흰색 벤츠 차량에서 연기가... ",
-			"pubDate":"Fri, 02 Aug 2024 21:50:00 +0900"
 		}
 	]
 }
