@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 03 Aug 2024 11:00:02 +0900",
-	"total":234899,
+	"lastBuildDate":"Sat, 03 Aug 2024 11:10:02 +0900",
+	"total":234900,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구서도 지하주차장 벤츠 화재…6천500만 원 재산피해",
+			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20240803010000280",
+			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20240803010000280",
+			"description":"소방당국과 경찰은 화재 원인 등을 조사 중이다.한편, 지난 1일에는 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에 있던 벤츠 차량에서 불이 나 차량 140여 대가 불에 타고, 480세대가 단전되는 등 주민들이 큰 불편을... ",
+			"pubDate":"Sat, 03 Aug 2024 11:08:00 +0900"
+		},
 		{
 			"title":"지하주차장 전기차 화재에 '불안'…&quot;충전량 제한으로 전기차 과충전 방지해야...",
 			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=522697&class=33&grp=",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001365356?sid=102",
 			"description":"◀ 앵커 ▶ 어제 인천 <b>청라<\/b>의 한 아파트 주차장에서 전기차가 폭발해 큰불이 났죠. 수백여 세대에 물과 전기가 끊기는 등 주민 피해가 심각합니다. 이렇게 지하에서 전기차 화재가 발생하면, 진압이 어려워 피해가 커질... ",
 			"pubDate":"Fri, 02 Aug 2024 19:40:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b> 아파트 주차장 화재...차량 보상 '하세월' 우려",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1260703",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1260703",
-			"description":"보상받을 수 있을지 막막합니다.&quot; 2일 오후 2시쯤 인천 서구 <b>청라<\/b>동 제일풍경채 2차 아파트. 아파트 한쪽에... <b>청라<\/b>국제도시 아파트 지하 주차장 화재로 차량 40여대가 불에 타는 대규모 재산 피해가 발생했지만 보상을... ",
-			"pubDate":"Fri, 02 Aug 2024 19:38:00 +0900"
 		}
 	]
 }
