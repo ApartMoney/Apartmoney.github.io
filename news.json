@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 05 Aug 2024 00:50:02 +0900",
-	"total":235001,
+	"lastBuildDate":"Mon, 05 Aug 2024 01:00:02 +0900",
+	"total":235002,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"지하 3층까지는 충전기 괜찮다?",
+			"originallink":"https:\/\/www.chosun.com\/economy\/auto\/2024\/08\/05\/C7EMTLWWX5EX7DLCPXWU4KRTV4\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003850543?sid=101",
+			"description":"‘지하 4층 이하 금지’ 규정 논란 인천 <b>청라<\/b> 아파트 전기차 화재로 지하 주차장이 초토화되면서 전기차... 이번 <b>청라<\/b> 화재에서 보듯이 지하 1층에서 발생한 화재에도 속수무책이었다. 깊은 지하에서의 화재가 더 치명적일... ",
+			"pubDate":"Mon, 05 Aug 2024 00:56:00 +0900"
+		},
 		{
 			"title":"마포구 문화센터 지하 주차장 BMW서 연기…시민 100여명 대피",
 			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2387239",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003312803?sid=110",
 			"description":"지난 1일 인천 서구 <b>청라<\/b>동의 한 아파트 지하주차장에서 발생한 전기자동차 화재로 차량 수십대가 전소됐고, 주민 22명은 연기를 마셔 병원으로 이송됐다. 480여가구의 전기와 물 공급이 나흘째 끊기면서 주민들이 무더위... ",
 			"pubDate":"Sun, 04 Aug 2024 18:17:00 +0900"
-		},
-		{
-			"title":"여주 40도 등 전국 폭염 '몸살'…열사병·물놀이 사망 잇따라(종합)",
-			"originallink":"https:\/\/www.news1.kr\/local\/gyeonggi\/5500837",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007709115?sid=102",
-			"description":"지난 1일 아파트 지하 주차장에서 발생한 전기차 화재로 전기와 물 공급이 끊긴 인천 서구 <b>청라<\/b>동의 한 아파트 주민들은 4일째 임시 쉼터에서 무더위와 싸우고 있다. 서구는 인근 행정복지센터와 학교 체육관 등... ",
-			"pubDate":"Sun, 04 Aug 2024 18:11:00 +0900"
 		}
 	]
 }
