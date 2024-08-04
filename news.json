@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 04 Aug 2024 18:40:02 +0900",
-	"total":234975,
+	"lastBuildDate":"Sun, 04 Aug 2024 18:50:02 +0900",
+	"total":234976,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"찜통더위 속 '전기차 화재' 아파트 나흘째 단전·단수로 고통",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=395358",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=395358",
+			"description":"인천시 서구에 따르면 지난 1일 전기차 화재가 발생한 1천581세대 규모 <b>청라<\/b>동 아파트의 전체 세대에는 나흘째 수돗물이 제대로 공급되지 않고 있습니다. 또한 아파트 5개 동 480여세대는 전기 공급까지 끊기면서 4일째... ",
+			"pubDate":"Sun, 04 Aug 2024 18:46:00 +0900"
+		},
 		{
 			"title":"송언석, 전기차 충전기 '소방시설 설치' 의무화",
 			"originallink":"https:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=4016064",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002345098?sid=103",
 			"description":"인천 서구 <b>청라<\/b>동 아파트 1581세대는 지난 1일 발생한 전기차 화재 여파로 이날까지 4일째 수돗물이 제대로 공급되지 않고 있다. 또 아파트 5개 동 480여세대에는 이날까지 4일째 전기 공급까지 끊기면서 폭염에도 승강기나... ",
 			"pubDate":"Sun, 04 Aug 2024 15:37:00 +0900"
-		},
-		{
-			"title":"'전기차 화재' 아파트 4일째 단전·단수…찜통더위 속 고통",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007749763&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001178505?sid=102",
-			"description":"▲ 인천 서구 <b>청라<\/b>동 아파트 지하주차장 화재 현장에서 합동 감식을 위해 이동하고 있는 경찰과 소방 등... 인천 서구청은 지난 1일 전기차 화재가 발생한 1천581세대 규모 <b>청라<\/b>동 아파트의 전체 세대에 오늘(4일)까지 4일째... ",
-			"pubDate":"Sun, 04 Aug 2024 15:28:00 +0900"
 		}
 	]
 }
