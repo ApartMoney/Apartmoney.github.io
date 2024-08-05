@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 06 Aug 2024 01:40:02 +0900",
-	"total":235533,
+	"lastBuildDate":"Tue, 06 Aug 2024 01:50:02 +0900",
+	"total":235534,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 지하주차장 ‘벤츠 전기차’ 화재 배터리는 中 ‘파라시스’ 제품...리콜...",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240805522823?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003957429?sid=102",
+			"description":"2일 오전 인천 서구 <b>청라<\/b> 아파트 지하 주차장에 차량 들이 전소돼 있다. 인천=연합뉴스 5일 국토교통부와 배터리업계에 따르면 지난 1일 오전 인천 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 불이 붙은... ",
+			"pubDate":"Tue, 06 Aug 2024 01:39:00 +0900"
+		},
 		{
 			"title":"인천공항요금소 인근 5중 추돌...2명 병원 이송",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408060122414597",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.jeonmin.co.kr\/news\/articleView.html?idxno=402581",
 			"description":"지난 1일 인천 <b>청라<\/b>에서 발생한 전기차 화재로 인해 전국이 화재 공포에 휩싸인 가운데, 중앙정부 차원의... 인천 <b>청라<\/b> 지역에 위치한 한 아파트에서 일반 구역에 세워져 있던 벤츠 전기차에서 갑자기 폭발이 일어나면서... ",
 			"pubDate":"Mon, 05 Aug 2024 21:28:00 +0900"
-		},
-		{
-			"title":"인천 전기차 화재 배터리는 리콜 사례 있는 中 파라시스 제품",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2387682",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2387682",
-			"description":"5일 연합뉴스에 따르면 지난 1일 오전 인천 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 불이 붙은 메르세데스-벤츠 EQE 세단 배터리 셀은 중국 파라시스 제품이다. 벤츠 EQE에는 중구 CATL 제품도 탑재됐지만, 이번... ",
-			"pubDate":"Mon, 05 Aug 2024 21:18:00 +0900"
 		}
 	]
 }
