@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Tue, 06 Aug 2024 19:00:02 +0900",
-	"total":235888,
+	"lastBuildDate":"Tue, 06 Aug 2024 19:10:02 +0900",
+	"total":235891,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"1년째 잠든 '전기차 화재 지원 조례안' 9월 임시회 오르나",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363665825",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363665825",
+			"description":"전기차와 충전시설이 꾸준히 많아지는 가운데, 지난 1일 인천 <b>청라<\/b>아파트 지하주차장에 주차돼 있던 전기차에서 화재가 일어났다. 주민 103명이 대피했고, 106명은 계단과 베란다를 통해 구조됐다. 특히 전기차 주변에... ",
+			"pubDate":"Tue, 06 Aug 2024 19:06:00 +0900"
+		},
+		{
+			"title":"&quot;전기차 화재, 특별재난지역 선포&quot; 목소리 높은데…",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261177",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261177",
+			"description":"인천시와 지역 정치권에서 <b>청라<\/b> 아파트 지하주차장 전기차 화재 피해지역을 '특별재난지역'으로... 인천시는 지난 1일 서구 <b>청라<\/b>동의 한 아파트에서 발생한 지하 주차장 전기차 화재와 관련해 행안부에 특별재난지역... ",
+			"pubDate":"Tue, 06 Aug 2024 19:06:00 +0900"
+		},
+		{
+			"title":"‘인천 전기차 화재’ 스프링클러 작동안해… 피해 더 커졌다",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240806521741?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003957696?sid=102",
+			"description":"인천 <b>청라<\/b>동 지하주차장 전기차 화재와 관련해 당시 현장 스프링클러가 제대로 작동하지 않은 것으로... 5일 오후 인천 서구 <b>청라<\/b>동 한 아파트 지하주차장에서 화재가 발생해 전소된 벤츠 전기차가 지게차로 옮겨지고... ",
+			"pubDate":"Tue, 06 Aug 2024 19:02:00 +0900"
+		},
 		{
 			"title":"&quot;배터리 충전 어떻게?&quot;…전기차 잇딴 화재에 차주들 불안 고조",
 			"originallink":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=437338",
@@ -75,13 +96,6 @@
 			"pubDate":"Tue, 06 Aug 2024 18:16:00 +0900"
 		},
 		{
-			"title":"인천 연수구, 서구 아파트 지하주차장 화재피해 복구 지원",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1103569",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1103569",
-			"description":"지난 1일 서구 <b>청라<\/b>동에서 발생한 화재로 인한 단전·단수로 이 아파트 300여 명이 6곳의 임시주거시설을 이용 중이다. 일부는 친척 집이나 호텔 등으로 이동해 생활하고 있는 것으로 알려졌다. 이에 연수구는 6일 오전 8시... ",
-			"pubDate":"Tue, 06 Aug 2024 18:16:00 +0900"
-		},
-		{
 			"title":"[동정] 대구 중구청장",
 			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=455071",
 			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=455071",
@@ -89,17 +103,24 @@
 			"pubDate":"Tue, 06 Aug 2024 18:16:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b> 화재 이후 또...EV6 전기차 활활 '배터리 원인 추정'",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3061010",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3061010",
-			"description":"전기차 화재 (사진=충남 금산소방서 제공) 충남 금산에서도 주차 중이던 전기차에서 화재가 발생해 배터리 안전성에 대한 우려가 커지고 있다. 6일 경찰과 소방당국에 따르면 이날 오전 5시쯤 금산군 금산읍의 한 주차타워... ",
-			"pubDate":"Tue, 06 Aug 2024 18:14:00 +0900"
+			"title":"인천 연수구, 서구 아파트 지하주차장 화재피해 복구 지원",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1103569",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1103569",
+			"description":"지난 1일 서구 <b>청라<\/b>동에서 발생한 화재로 인한 단전·단수로 이 아파트 300여 명이 6곳의 임시주거시설을 이용 중이다. 일부는 친척 집이나 호텔 등으로 이동해 생활하고 있는 것으로 알려졌다. 이에 연수구는 6일 오전 8시... ",
+			"pubDate":"Tue, 06 Aug 2024 18:16:00 +0900"
 		},
 		{
 			"title":"정부, ‘지하주차장 화재’ 인천 서구에 2000만원 긴급 지원",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240806520751?OutUrl=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003957674?sid=102",
 			"description":"행정안전부는 지난 1일 발생한 인천 <b>청라<\/b>동 아파트 지하주차장 화재사고와 관련해 인천 서구에 재난구호지원 사업비 2000만원을 긴급 지원한다고 6일 밝혔다. 지난 5일 인천 서구 <b>청라<\/b>동 전기차 화재 아파트 주민들이... ",
+			"pubDate":"Tue, 06 Aug 2024 18:14:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> 화재 이후 또...EV6 전기차 활활 '배터리 원인 추정'",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3061010",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3061010",
+			"description":"전기차 화재 (사진=충남 금산소방서 제공) 충남 금산에서도 주차 중이던 전기차에서 화재가 발생해 배터리 안전성에 대한 우려가 커지고 있다. 6일 경찰과 소방당국에 따르면 이날 오전 5시쯤 금산군 금산읍의 한 주차타워... ",
 			"pubDate":"Tue, 06 Aug 2024 18:14:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240806022029285",
 			"description":"인천=에너지경제신문 송인호기자 인천시는 최근 발생한 인천 <b>청라<\/b> 아파트 지하주차장 화재와 관련해 행정안전부에 특별재난지역 선포를 공식 건의했다고 6일 밝혔다. 유정복 시장은 지난 5일 인천시 재난안전대책본부... ",
 			"pubDate":"Tue, 06 Aug 2024 17:56:00 +0900"
-		},
-		{
-			"title":"인천 구월2지구 지구계획 10월 신청…2027년 착공 목표",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240806143700065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014858669?sid=101",
-			"description":"iH는 송도·영종·<b>청라<\/b>·검단에 이어 구월2지구를 인천을 대표하는 신시가지로 조성한다는 구상이다. 이를 위해 지역 정체성을 살리고 신산업 중심의 자족 기능과 주변 지역 연계성을 강화하는 방향으로 지구계획을... ",
-			"pubDate":"Tue, 06 Aug 2024 17:53:00 +0900"
-		},
-		{
-			"title":"인천 서구의회, 아파트 화재 이재민에 지원금 전달",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160270842428984",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160270842428984",
-			"description":"서구의회 외부 전경 인천시 서구의회가 6일 <b>청라<\/b> 아파트 화재 이재민을 위한 지원금 150만 원을 사회복지공동모금회를 통해 전달했다. 서구의회는 1일 발생한 전기차 화재 여파로 며칠째 단전·단수가 이어지면서 무더위... ",
-			"pubDate":"Tue, 06 Aug 2024 17:52:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b> 화재 피해 이재민 800여명, 이달 말 귀가 예상",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261158",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261158",
-			"description":"인천 <b>청라<\/b>국제도시 아파트 지하 주차장 전기차 화재로 발생한 이재민이 400명대에서 800명대로 배 가까이 급증했다. 6일 서구에 따르면 행정복지센터와 학교 체육관 등 임시 주거시설 10곳에서 수용 중인 이재민은 총... ",
-			"pubDate":"Tue, 06 Aug 2024 17:52:00 +0900"
 		}
 	]
 }
