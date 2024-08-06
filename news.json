@@ -1,22 +1,29 @@
 {
-	"lastBuildDate":"Tue, 06 Aug 2024 18:20:02 +0900",
-	"total":235879,
+	"lastBuildDate":"Tue, 06 Aug 2024 18:30:03 +0900",
+	"total":235882,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'인천 서구 전기차 화재' 이재민 800여명으로 늘어…구조안전진단 착수",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240806580311",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000048892?sid=102",
+			"description":"지난 5일 오후 인천 서구 <b>청라<\/b>국제도시 한 아파트 지하주차장에서 불이 나 전소된 전기차가 지게차로... 6일 서구에 따르면 <b>청라<\/b>국제도시 화재 피해 아파트 1천581가구 중 이날 기준 264가구 822명이 임시주거시설에서... ",
+			"pubDate":"Tue, 06 Aug 2024 18:26:00 +0900"
+		},
+		{
+			"title":"&quot;전기차 옆에 대지마 불난대&quot;...연이은 화재에 전기차 차주들 '죄인 신세'",
+			"originallink":"http:\/\/www.jeollailbo.com\/news\/articleView.html?idxno=740725",
+			"link":"http:\/\/www.jeollailbo.com\/news\/articleView.html?idxno=740725",
+			"description":"지난 1일 인천 <b>청라<\/b>국제도시 한 아파트 지하주차장에서 전기차 화재가 발생해 주차된 차량 70여 대가 전소되고 주민 20여 명이 연기를 흡입해 병원으로 옮겨지는 등 큰 피해가 발생했다. 해당 차량의 화재는 전기 충전이나... ",
+			"pubDate":"Tue, 06 Aug 2024 18:20:00 +0900"
+		},
 		{
 			"title":"1억 벤츠 전기차에 점유율 2% 中 배터리…화재 미스터리",
 			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000185694?division=NAVER",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000396354?sid=101",
 			"description":"[기자] 지난 1일 오전 인천 <b>청라<\/b>동 아파트 지하 1층 주차장에서 전기차 화재로 추정되는 불이 나 차량 40여 대가 불에 탔는데요. 원인이 된 차량은 메르세데스-벤츠 EQE 세단이었는데, 차량에 장착된 배터리 셀이... ",
 			"pubDate":"Tue, 06 Aug 2024 18:19:00 +0900"
-		},
-		{
-			"title":"인천 연수구, 서구 아파트 지하주차장 화재피해 복구 지원",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1103569",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1103569",
-			"description":"지난 1일 서구 <b>청라<\/b>동에서 발생한 화재로 인한 단전·단수로 이 아파트 300여 명이 6곳의 임시주거시설을 이용 중이다. 일부는 친척 집이나 호텔 등으로 이동해 생활하고 있는 것으로 알려졌다. 이에 연수구는 6일 오전 8시... ",
-			"pubDate":"Tue, 06 Aug 2024 18:16:00 +0900"
 		},
 		{
 			"title":"<b>청라<\/b> 전기차 화재 당시 스프링클러 작동 안해…피해 커져",
@@ -26,11 +33,25 @@
 			"pubDate":"Tue, 06 Aug 2024 18:16:00 +0900"
 		},
 		{
+			"title":"인천 연수구, 서구 아파트 지하주차장 화재피해 복구 지원",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1103569",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1103569",
+			"description":"지난 1일 서구 <b>청라<\/b>동에서 발생한 화재로 인한 단전·단수로 이 아파트 300여 명이 6곳의 임시주거시설을 이용 중이다. 일부는 친척 집이나 호텔 등으로 이동해 생활하고 있는 것으로 알려졌다. 이에 연수구는 6일 오전 8시... ",
+			"pubDate":"Tue, 06 Aug 2024 18:16:00 +0900"
+		},
+		{
 			"title":"[동정] 대구 중구청장",
 			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=455071",
 			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=455071",
 			"description":"▲ 류규하 중구청장. 류규하 대구 중구청장은 7일 오후 1시30분 <b>청라<\/b>국민체육센터에서 열리는 지역아동센터 합동 독서골든벨에 참석한다.",
 			"pubDate":"Tue, 06 Aug 2024 18:16:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> 화재 이후 또...EV6 전기차 활활 '배터리 원인 추정'",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3061010",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3061010",
+			"description":"전기차 화재 (사진=충남 금산소방서 제공) 충남 금산에서도 주차 중이던 전기차에서 화재가 발생해 배터리 안전성에 대한 우려가 커지고 있다. 6일 경찰과 소방당국에 따르면 이날 오전 5시쯤 금산군 금산읍의 한 주차타워... ",
+			"pubDate":"Tue, 06 Aug 2024 18:14:00 +0900"
 		},
 		{
 			"title":"정부, ‘지하주차장 화재’ 인천 서구에 2000만원 긴급 지원",
@@ -145,17 +166,17 @@
 			"pubDate":"Tue, 06 Aug 2024 17:52:00 +0900"
 		},
 		{
-			"title":"인천시 서구, “‘<b>청라<\/b> 화재’ 특별재난지역 선포 절실”",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287932557098",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287932557098",
-			"description":"최근 <b>청라<\/b>국제도시에서 발생한 아파트 지하주차장 전기차 화재사고 피해지역을 특별재난지역으로 선포해줄... 강범석 구청장은 “이번 <b>청라<\/b> 아파트 전기차 화재로 인한 사고는 언제·어디서나 발생할 수 있는 도시형... ",
-			"pubDate":"Tue, 06 Aug 2024 17:52:00 +0900"
-		},
-		{
 			"title":"인천 <b>청라<\/b> 화재 피해 이재민 800여명, 이달 말 귀가 예상",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261158",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261158",
 			"description":"인천 <b>청라<\/b>국제도시 아파트 지하 주차장 전기차 화재로 발생한 이재민이 400명대에서 800명대로 배 가까이 급증했다. 6일 서구에 따르면 행정복지센터와 학교 체육관 등 임시 주거시설 10곳에서 수용 중인 이재민은 총... ",
+			"pubDate":"Tue, 06 Aug 2024 17:52:00 +0900"
+		},
+		{
+			"title":"인천시 서구, “‘<b>청라<\/b> 화재’ 특별재난지역 선포 절실”",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287932557098",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287932557098",
+			"description":"최근 <b>청라<\/b>국제도시에서 발생한 아파트 지하주차장 전기차 화재사고 피해지역을 특별재난지역으로 선포해줄... 강범석 구청장은 “이번 <b>청라<\/b> 아파트 전기차 화재로 인한 사고는 언제·어디서나 발생할 수 있는 도시형... ",
 			"pubDate":"Tue, 06 Aug 2024 17:52:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005455848?sid=102",
 			"description":"6일 인천시 서구에 따르면 <b>청라<\/b>국제도시 화재 피해 아파트 1581세대 가운데 이날 10시 기준 264세대 822명이 임시주거시설에서 지내고 있다. 이는 5일 421명의 두 배 수준으로 늘어난 규모다. 이재민들은 <b>청라<\/b> 1동... ",
 			"pubDate":"Tue, 06 Aug 2024 17:45:00 +0900"
-		},
-		{
-			"title":"[전지적인천시점]&quot;전기차화재 방지와 수습대책 시급&quot;",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=395507",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=395507",
-			"description":"또 하나가 서구 <b>청라<\/b>동의 한 아파트 지하주차장에서 전기차 화재가 발생했습니다. 8시간이나 계속된 화재로... 그런데 정종혁 의원님, 이거 의원님 또 공교롭게 지역구 <b>청라<\/b>에서 이와 같은 큰 재난이 발생했네요.... ",
-			"pubDate":"Tue, 06 Aug 2024 17:40:00 +0900"
-		},
-		{
-			"title":"김교흥 국회의원, 서울7호선 가정·<b>청라<\/b>연장선 발파 피해현장 합동점검",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363665818",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363665818",
-			"description":"가정·<b>청라<\/b>연장선 발파 현장에서 주민들의 피해 상황을 시공사 관계자에게 이야기하고 있다. 사진=김교흥 의원실 김교흥 국회의원(더불어민주당·인천서구갑)이 인천 서구 석남동과 가정동 일대 서울7호선 가정·<b>청라<\/b>연장... ",
-			"pubDate":"Tue, 06 Aug 2024 17:34:00 +0900"
-		},
-		{
-			"title":"이재민 822명 발생, <b>청라<\/b> 전기차 화재 아파트 '특별재난지역' 선포 시급",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420181",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420181",
-			"description":"인천 <b>청라<\/b> 아파트 지하주차장 화재현장을 살펴보는 유정복 인천시장. 인천뉴스DB 인천뉴스 김종국 기자 ❚ 전례 없는 초대형 전기차 화재 피해를 입은 인천 <b>청라<\/b>국제도시 아파트 단지에 대한 '특별재난지역' 선포가... ",
-			"pubDate":"Tue, 06 Aug 2024 17:34:00 +0900"
 		}
 	]
 }
