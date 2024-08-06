@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 07 Aug 2024 08:00:02 +0900",
-	"total":235980,
+	"lastBuildDate":"Wed, 07 Aug 2024 08:10:02 +0900",
+	"total":235982,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 화재에 주목받는 '전고체 배터리'…양산 언제쯤",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240806_0002840282",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012714111?sid=101",
+			"description":"7일 국토교통부와 배터리 업계에 따르면 지난 1일 서구 <b>청라<\/b>국제도시 아파트 지하 주차장에서 화재가 발생한 메르세데스-벤츠 EQE 세단에는 중국 전기차 배터리 제조사인 '파라시스 에너지'(Farasis Enegy·이하 파라시스)의... ",
+			"pubDate":"Wed, 07 Aug 2024 08:00:00 +0900"
+		},
+		{
+			"title":"몸 사리는 전기차에 하이브리드차 '씽씽'...대세 자리잡나",
+			"originallink":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=706490",
+			"link":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=706490",
+			"description":"지난 1일 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 벤츠 전기차가 폭발, 140여대의 차량이 피해를 입은 것은 물론 전기가 끊겨 주민들이 대피하는 사고가 발생한 것도 하나의 이유로 지목됐다. 전기차를 둘러싼... ",
+			"pubDate":"Wed, 07 Aug 2024 08:00:00 +0900"
+		},
 		{
 			"title":"&quot;명당의 기운을 품은 곳&quot;…인천 구월2 지구 본격 개발",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DCXA6IY73",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.seoulfn.com\/news\/articleView.html?idxno=528709",
 			"description":"인천 서구는 <b>청라<\/b> 한울로 96 아파트 지하 주차장에서 발생한 전기차 폭발 화재 피해 관련 지원안을 발표했다.... 강범석 서구청장은 &quot;이번 <b>청라<\/b> 아파트 전기차 폭발 화재는, 국가 행정력이 시나 구 단위에서 어디까지... ",
 			"pubDate":"Wed, 07 Aug 2024 00:49:00 +0900"
-		},
-		{
-			"title":"인천시 &quot;'전기차 화재 피해' 지원…정부에 특별재난지역 선포 건의&quot;",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=605023",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=605023",
-			"description":"컨슈머타임스=안우진 기자 | 인천시는 최근 발생한 인천 <b>청라<\/b> 아파트 지하주차장 화재와 관련해 행정안전부에 특별재난지역 선포를 공식 건의했다. 유정복 시장은 8월 5일 인천시 재난안전대책본부 회의를 주재하고 화재... ",
-			"pubDate":"Wed, 07 Aug 2024 00:36:00 +0900"
-		},
-		{
-			"title":"인천시, 폭염 재난안전대책본부 가동 등 '폭염 대응 총력'",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=605024",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=605024",
-			"description":"이외에도 최근 서구 <b>청라<\/b>에서 발생한 전기차 화재 사고 대응 현장에 냉방 버스 2대와 이동식 샤워 차량 2대를 설치해 폭염 피해 예방에 힘쓰고 있다. 김성훈 인천시 시민안전본부장은 &quot;폭염 피해를 최소화하기 위해서는... ",
-			"pubDate":"Wed, 07 Aug 2024 00:32:00 +0900"
 		}
 	]
 }
