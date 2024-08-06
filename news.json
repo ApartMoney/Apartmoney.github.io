@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Aug 2024 06:30:02 +0900",
-	"total":235973,
+	"lastBuildDate":"Wed, 07 Aug 2024 06:40:02 +0900",
+	"total":235974,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"벤츠도 '30% 싼' 중국산 쓰는 시대…K-배터리 '수성'과 '공격'",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024080615013819983",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005073902?sid=101",
+			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 불이 난 벤츠 'EQE' 차량에 중국 파라시스의 NCM 배터리가 탑재된 것 역시 이같은 이유 때문으로 분석된다. 당초 'EQE'에는 CATL 배터리가 들어가는 것으로 알려졌었으나, 이번 화재를... ",
+			"pubDate":"Wed, 07 Aug 2024 06:30:00 +0900"
+		},
 		{
 			"title":"&quot;전기차, 지하 주차장서 빼세요&quot;…'화재 공포'에 쫓겨나는 전기차",
 			"originallink":"https:\/\/www.news1.kr\/local\/gwangju-jeonnam\/5503085",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/117\/0003858968",
 			"description":"이날만큼은 쾌적한 환경에서 경기를 준비했고 치렀기 때문이다. 마침 SSG도 <b>청라<\/b>에 돔구장을 짓는다. <b>청라<\/b>돔 시대가 열리면 SSG 선수들도 한결 컨디션 관리가 수월해질 전망이다.",
 			"pubDate":"Tue, 06 Aug 2024 23:00:00 +0900"
-		},
-		{
-			"title":"전기차 화재 피해 차량 자차보험으로 보상",
-			"originallink":"http:\/\/www.fins.co.kr\/news\/articleView.html?idxno=101555",
-			"link":"http:\/\/www.fins.co.kr\/news\/articleView.html?idxno=101555",
-			"description":"최근 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재로 입주민들의 피해가 막대하지만, 보상 문제로 어려움을 겪고 있다. 6일 보험업계 따르면 140여대의 차량이 불에 타거나 그을린 피해는 자차 보험으로... ",
-			"pubDate":"Tue, 06 Aug 2024 22:42:00 +0900"
 		}
 	]
 }
