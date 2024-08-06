@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Aug 2024 08:30:02 +0900",
-	"total":235987,
+	"lastBuildDate":"Wed, 07 Aug 2024 08:40:03 +0900",
+	"total":235988,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;작다고 얕보지마&quot;…캐스퍼 일렉트릭에 '총망라'된 신기술",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240806_0002839522",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012714146?sid=103",
+			"description":"최근 인천 <b>청라<\/b>에서 전기차 화재가 발생하며 전기차 차주와 잠재 고객 사이에서 안전을 우려하는 목소리가 높아지고 있다. 정헌구 현대차 MSV프로젝트 연구원은 &quot;현대차그룹이 최근 내놓는 전기차는 숱한 가혹 조건... ",
+			"pubDate":"Wed, 07 Aug 2024 08:30:00 +0900"
+		},
 		{
 			"title":"전기차 화재에 '화들짝'…인천 전체 아파트에 소화 덮개 보급",
 			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007753387&plink=ORI&cooper=NAVER",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003957776?sid=102",
 			"description":"지난 1일 오전 인천 서구 <b>청라<\/b> 아파트 지하 주차장 화재 현장으로 소방대원들이 진입하는 모습. 연합뉴스 이... 국민일보에 따르면 파라시스 에너지는 지난 1일 오전 6시쯤 인천 서구 <b>청라<\/b>국제도시 아파트 지하 1층... ",
 			"pubDate":"Wed, 07 Aug 2024 04:02:00 +0900"
-		},
-		{
-			"title":"전기차 공포증 번질라…배터리 안전성 ‘도마위’",
-			"originallink":"https:\/\/www.nongmin.com\/article\/20240806500334",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/662\/0000049204?sid=102",
-			"description":"인천 서구 <b>청라<\/b>동 아파트 주차장에서 발생한 전기차 화재 사고 이후 ‘전기차 포비아’(공포증)가 확산하고 있다. 화재의 원인으로 추정되는 배터리의 안전성 논란이 끊이지 않는 가운데, 정부는 내년부터 ‘배터리... ",
-			"pubDate":"Wed, 07 Aug 2024 04:01:00 +0900"
 		}
 	]
 }
