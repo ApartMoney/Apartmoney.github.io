@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Aug 2024 00:10:02 +0900",
-	"total":235949,
+	"lastBuildDate":"Wed, 07 Aug 2024 00:20:02 +0900",
+	"total":235950,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"잇단 전기차 화재에 K-배터리 안정성 불똥튀나",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20240806500367",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20240806500367",
+			"description":"충남 금산군 금산읍의 한 주차타워 1층에 주차 중이던 전기차 밑에서 불이나 소방대원들이 불을 끄고 있다.(사진=연합뉴스) 7일 관련업계에 따르면 지난 1일 인천 <b>청라<\/b>동의 한 아파트 지하주차장에서 벤츠의 전기차 'EQE... ",
+			"pubDate":"Wed, 07 Aug 2024 00:12:00 +0900"
+		},
 		{
 			"title":"LG에너지솔루션, 전고체 배터리 부상 상용화 가속도에 주가 '탄력'",
 			"originallink":"https:\/\/cwn.kr\/article\/1065594952060475",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=808260",
 			"description":"경찰과 소방 등 유관기관 관계자들이 2일 오전 인천 서구 <b>청라<\/b>동 아파트 지하주차장에서 불이 난 차량을... 시민 이모씨(60)는 &quot;인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재를 보고 남의 일이 아니라는 생각이 들었다&quot;며... ",
 			"pubDate":"Tue, 06 Aug 2024 20:36:00 +0900"
-		},
-		{
-			"title":"&quot;산업단지에 빈 부지가 없다니&quot;… 신규분양 급한 인천 제조업체",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240807010000609",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240807010000609",
-			"description":"이 가운데 IT와 자동차, 로봇 등 연구개발 용도로 지식산업센터가 대거 들어선 <b>청라<\/b>국제도시 내 인천하이테크파크(IHP) 도시첨단산업단지의 미분양률(35%)을 제외하면, 제조업 관련 공장이 주를 이루는 나머지 15개... ",
-			"pubDate":"Tue, 06 Aug 2024 20:20:00 +0900"
 		}
 	]
 }
