@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Tue, 06 Aug 2024 17:10:02 +0900",
-	"total":235826,
+	"lastBuildDate":"Tue, 06 Aug 2024 17:20:02 +0900",
+	"total":235832,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 전기차 화재 피해 지원 위해 정부에 특별재난지역 선포 건의",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=466942",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=466942",
+			"description":"유정복 인천광역 시장 인천광역시는 최근 발생한 인천 <b>청라<\/b> 아파트 지하주차장 화재와 관련해 행정안전부에 특별재난지역 선포를 공식 건의했다고 6일 밝혔다. 유정복 시장은 지난 5일 인천광역시 재난안전대책본부... ",
+			"pubDate":"Tue, 06 Aug 2024 17:16:00 +0900"
+		},
+		{
+			"title":"인천 서구, <b>청라<\/b> 화재지역 특별재난지역 선포 건의",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=466941",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=466941",
+			"description":"인천 서구는 지난 1일 <b>청라<\/b>국제도시에서 발생한 아파트 지하주차장 전기차 화재사고 피해지역을 특별재난지역으로 선포해 줄 것을 정부와 인천시에 공식 건의했다. 사진제공=인천서구청 인천 서구는 지난 1일 <b>청라<\/b>국제도... ",
+			"pubDate":"Tue, 06 Aug 2024 17:16:00 +0900"
+		},
+		{
+			"title":"'전기차 화재' 아파트 이재민 820명…텐트·기숙사 생활",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240806134300065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014858573?sid=102",
+			"description":"6일 인천시 서구에 따르면 <b>청라<\/b>국제도시 화재 피해 아파트 1천581세대 가운데 이날 10시 기준으로 264세대 822명이 임시주거시설에서 생활하고 있다. 이는 지난 5일 421명의 배 수준으로 늘어난 규모다. 이재민들은 <b>청라<\/b> 1동... ",
+			"pubDate":"Tue, 06 Aug 2024 17:15:00 +0900"
+		},
+		{
+			"title":"행안부, '전기차 화재' 인천 서구에 재난 구호비 2천만원 지원",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240806_0002840264",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012713429?sid=102",
+			"description":"행정안전부는 인천 <b>청라<\/b>동 아파트 지하 주차장 화재 사고로 대피한 주민 구호를 위해 인천 서구에 재난구호지원 사업비 2000만원을 긴급 지원한다고 6일 밝혔다. 이번 지원은 화재로 인해 단수·단전 등 불편을 겪고 있는... ",
+			"pubDate":"Tue, 06 Aug 2024 17:15:00 +0900"
+		},
+		{
+			"title":"인천도시공사, 구월2 공공주택지구 개발 본격화",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240806010001528",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240806010001528",
+			"description":"iH는 송도, 검단, 영종, <b>청라<\/b>에 이어 구월2지구를 또 하나의 인천 대표 도시로 조성하기 위해 총 7회의 MP(master planner)자문회의를 개최했다. 회의 결과 ▲구월의 정체성을 살린도시 ▲신산업 중심의 지속 가능한... ",
+			"pubDate":"Tue, 06 Aug 2024 17:10:00 +0900"
+		},
+		{
+			"title":"인천 서구의회, <b>청라<\/b> 아파트 화재 이재민 지원금 전달",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1063111",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1063111",
+			"description":"[인천 서구 제공] 인천 서구의회는 6일 <b>청라<\/b> 아파트 화재 이재민을 위한 지원금 150만 원을 사회복지공동모금회를 통해 전달했다고 밝혔다. 서구의회에 따르면 지난 1일 발생한 전기차 화재 여파로 며칠째 단전・단수가... ",
+			"pubDate":"Tue, 06 Aug 2024 17:10:00 +0900"
+		},
 		{
 			"title":"인천 서구, 지역사회통합건강증진사업 포상금 기부",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=466938",
@@ -82,17 +124,17 @@
 			"pubDate":"Tue, 06 Aug 2024 16:54:00 +0900"
 		},
 		{
-			"title":"인천시, 전기차 화재 피해 지원 '정부에 특별재난지역 선포' 건의",
-			"originallink":"http:\/\/www.energydaily.co.kr\/news\/articleView.html?idxno=148560",
-			"link":"http:\/\/www.energydaily.co.kr\/news\/articleView.html?idxno=148560",
-			"description":"인천광역시는 최근 발생한 인천 <b>청라<\/b> 아파트 지하주차장 화재와 관련해 행정안전부에 특별재난지역 선포를 공식 건의했다. 유정복 시장은 8월 5일 인천광역시 재난안전대책본부 회의를 주재하고, 화재 피해 복구, 주민... ",
-			"pubDate":"Tue, 06 Aug 2024 16:52:00 +0900"
-		},
-		{
 			"title":"'3기 신도시' 인천 구월2지구 2027년 착공... 27일 보상설명회",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251330",
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251330",
 			"description":"iH공사는 송도·검단·영종·<b>청라<\/b>에 이어 구월2지구를 또 하나의 인천 대표도시로 조성하기 위해 마스터플랜 자문회의를 총 7회 개최했다. 회의 결과 iH는 ▲구월의 정체성을 살린 도시 ▲신산업 중심의 지속 가능한... ",
+			"pubDate":"Tue, 06 Aug 2024 16:52:00 +0900"
+		},
+		{
+			"title":"인천시, 전기차 화재 피해 지원 '정부에 특별재난지역 선포' 건의",
+			"originallink":"http:\/\/www.energydaily.co.kr\/news\/articleView.html?idxno=148560",
+			"link":"http:\/\/www.energydaily.co.kr\/news\/articleView.html?idxno=148560",
+			"description":"인천광역시는 최근 발생한 인천 <b>청라<\/b> 아파트 지하주차장 화재와 관련해 행정안전부에 특별재난지역 선포를 공식 건의했다. 유정복 시장은 8월 5일 인천광역시 재난안전대책본부 회의를 주재하고, 화재 피해 복구, 주민... ",
 			"pubDate":"Tue, 06 Aug 2024 16:52:00 +0900"
 		},
 		{
@@ -103,17 +145,17 @@
 			"pubDate":"Tue, 06 Aug 2024 16:52:00 +0900"
 		},
 		{
-			"title":"인천도시공사, 구월2 공공주택지구 개발 본격 진행",
-			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=154655",
-			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=154655",
-			"description":"iH는 송도, 검단, 영종, <b>청라<\/b>에 이어 구월2지구를 또 하나의 인천 대표 도시로 조성하기 위해 총 7회의 MP(master planner) 자문회의를 개최했으며 세부적인 지구계획을 수립하고 있다. 구월2지구가 위치한 남동구·연수구... ",
-			"pubDate":"Tue, 06 Aug 2024 16:50:00 +0900"
-		},
-		{
 			"title":"인천 서구, 지역사회통합건강증진사업 포상금 기부",
 			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240806010001468",
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240806010001468",
 			"description":"이번 기부금은 <b>청라<\/b>화재현장의 구호활동에 사용될 예정으로 이번 수상에 의미를 한층 더 높였다. 서구보건소 관계자는 &quot;수상의 기쁨과 함께 지역사회 나눔에 동참할 수 있게 되어 기쁨이 배가 됐다&quot;며 &quot;앞으로도... ",
+			"pubDate":"Tue, 06 Aug 2024 16:50:00 +0900"
+		},
+		{
+			"title":"인천도시공사, 구월2 공공주택지구 개발 본격 진행",
+			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=154655",
+			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=154655",
+			"description":"iH는 송도, 검단, 영종, <b>청라<\/b>에 이어 구월2지구를 또 하나의 인천 대표 도시로 조성하기 위해 총 7회의 MP(master planner) 자문회의를 개최했으며 세부적인 지구계획을 수립하고 있다. 구월2지구가 위치한 남동구·연수구... ",
 			"pubDate":"Tue, 06 Aug 2024 16:50:00 +0900"
 		},
 		{
@@ -124,17 +166,17 @@
 			"pubDate":"Tue, 06 Aug 2024 16:47:00 +0900"
 		},
 		{
-			"title":"[궁금;이슈] 전기차 화재로 불탄 '내 차'…어떻게 보상받나?",
-			"originallink":"https:\/\/www.newstree.kr\/newsView\/ntr202408060013",
-			"link":"https:\/\/www.newstree.kr\/newsView\/ntr202408060013",
-			"description":"지난 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 벤츠 EQE 전기차의 화재로 주변에 주차돼 있던 차량 40대가 전소됐고 100여대가 열손과 그을림 피해를 당했다. 뿐만 아니라 이 화재로 아파트 지하 설비와... ",
-			"pubDate":"Tue, 06 Aug 2024 16:46:00 +0900"
-		},
-		{
 			"title":"김교흥 국회의원, 7호선 가정·<b>청라<\/b>연장선 발파 피해현장 방문",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1063098",
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1063098",
 			"description":"[의원실 제공] 더불어민주당 김교흥 국회의원(인천 서구갑)은 6일 서울7호선 가정·<b>청라<\/b>연장선 발파 피해현장... 서울7호선 가정·<b>청라<\/b> 연장선은 서구 석남동부터 <b>청라<\/b>국제도시까지 10.767㎞를 잇는 사업이다. 석남동·가정동... ",
+			"pubDate":"Tue, 06 Aug 2024 16:46:00 +0900"
+		},
+		{
+			"title":"[궁금;이슈] 전기차 화재로 불탄 '내 차'…어떻게 보상받나?",
+			"originallink":"https:\/\/www.newstree.kr\/newsView\/ntr202408060013",
+			"link":"https:\/\/www.newstree.kr\/newsView\/ntr202408060013",
+			"description":"지난 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 벤츠 EQE 전기차의 화재로 주변에 주차돼 있던 차량 40대가 전소됐고 100여대가 열손과 그을림 피해를 당했다. 뿐만 아니라 이 화재로 아파트 지하 설비와... ",
 			"pubDate":"Tue, 06 Aug 2024 16:46:00 +0900"
 		},
 		{
@@ -152,17 +194,17 @@
 			"pubDate":"Tue, 06 Aug 2024 16:43:00 +0900"
 		},
 		{
-			"title":"인천시, '전기차 화재 피해' 지원 위해 정부에 특별재난지역 선포 건의",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240806580212",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000048869?sid=100",
-			"description":"경기일보DB 인천시는 최근 발생한 인천 서구 <b>청라<\/b> 아파트 지하주차장 화재 관련, 행정안전부에 특별재난지역 선포를 공식 건의했다고 6일 밝혔다. 유정복 시장은 지난 5일 인천시 재난안전대책본부 회의를 주재하면서 화재... ",
-			"pubDate":"Tue, 06 Aug 2024 16:43:00 +0900"
-		},
-		{
 			"title":"행안부, 지하주차장 화재사고 인천 서구에 2천만원 긴급 지원",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240806132500530?input=1195m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014858437?sid=100",
 			"description":"행정안전부는 이달 1일 발생한 인천 <b>청라<\/b> 아파트 지하주차장 화재사고로 대피한 주민 구호를 위해 인천... 앞선 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 벤츠 전기차 화재로 주민 등 23명이 연기를 마셔... ",
+			"pubDate":"Tue, 06 Aug 2024 16:43:00 +0900"
+		},
+		{
+			"title":"인천시, '전기차 화재 피해' 지원 위해 정부에 특별재난지역 선포 건의",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240806580212",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000048869?sid=100",
+			"description":"경기일보DB 인천시는 최근 발생한 인천 서구 <b>청라<\/b> 아파트 지하주차장 화재 관련, 행정안전부에 특별재난지역 선포를 공식 건의했다고 6일 밝혔다. 유정복 시장은 지난 5일 인천시 재난안전대책본부 회의를 주재하면서 화재... ",
 			"pubDate":"Tue, 06 Aug 2024 16:43:00 +0900"
 		},
 		{
@@ -171,48 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20240806161451891",
 			"description":"iH는 송도, 검단, 영종, <b>청라<\/b>에 이어 구월2지구를 또 하나의 인천 대표 도시로 조성하기 위해 총 7회의 MP master planner, 총괄계획가 자문회의를 개최했다. 회의 결과 △구월의 정체성을 살린도시 △신산업 중심의 지속... ",
 			"pubDate":"Tue, 06 Aug 2024 16:40:00 +0900"
-		},
-		{
-			"title":"“주민들 불안·피해 호소”…김교흥 의원, 서울7호선 가정·<b>청라<\/b>연장선 발파...",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=804537",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=804537",
-			"description":"가정·<b>청라<\/b>연장선 발파 피해 현장(석남동·가정동)을 방문해 인천도시철도건설본부·금호건설·서구와 관계기관 합동점검을 했다고 밝혔다. 서울7호선 가정·<b>청라<\/b> 연장선은 서구 석남동부터 <b>청라<\/b>국제도시까지 10.767㎞를... ",
-			"pubDate":"Tue, 06 Aug 2024 16:36:00 +0900"
-		},
-		{
-			"title":"'전기차 화재' <b>청라<\/b> 아파트 주민 구호에 2000만 원 긴급 지원",
-			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/5503153",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007714214?sid=102",
-			"description":"이달 1일 전기차 화재가 발생한 인천 <b>청라<\/b>동 아파트 주민 구호를 위해, 행정안전부가 재난구호지원 사업비... 전날 오후 6시 기준 임시주거시설은 <b>청라<\/b>1동 행정복지센터, <b>청라<\/b>2동 행정복지센터, 경명초 체육관, 청람중 강당... ",
-			"pubDate":"Tue, 06 Aug 2024 16:35:00 +0900"
-		},
-		{
-			"title":"인천도시공사, 구월2 공공주택지구 개발 진행",
-			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=181705",
-			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=181705",
-			"description":"iH는 송도, 검단, 영종, <b>청라<\/b>에 이어 구월2지구를 또 하나의 인천 대표 도시로 조성하기 위해 총 7회의 MP자문회의를 개최했다. 회의 결과 △구월의 정체성을 살린도시 △신산업 중심의 지속 가능한 자족도시 △지구... ",
-			"pubDate":"Tue, 06 Aug 2024 16:34:00 +0900"
-		},
-		{
-			"title":"인천시 폭염 재난안전대책본부 가동 등 폭염 대응 총력",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240806010001649",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240806010001649",
-			"description":"이외 에도 최근 서구 <b>청라<\/b>에서 발생한 전기차 화재 사고 대응 현장에 냉방 버스 2대와 이동식 샤워 차량 2대를 설치해 폭염 피해 예방에 힘쓰고 있다. 김성훈 시 시민안전본부장은“폭염 피해를 최소화하기 위해서는... ",
-			"pubDate":"Tue, 06 Aug 2024 16:34:00 +0900"
-		},
-		{
-			"title":"'전기차 화재' 나흘이상 단수ㆍ정전··· 피해 보상은 막막",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160292739531037",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160292739531037",
-			"description":"피해차량 화재보험 가입 안돼 '구상권 청구' 법적 공방 예고 최근 인천 서구 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 ‘벤츠 전기차’의 화재 피해를 받은 입주민들의 피해가 점점 커지고 있다. 6일 인천소방본부... ",
-			"pubDate":"Tue, 06 Aug 2024 16:34:00 +0900"
-		},
-		{
-			"title":"[단독] “배터리 불 확률 0.025%” 홍보 2달 만에 <b>청라<\/b> 화재",
-			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020392139&code=61121111&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001716064?sid=102",
-			"description":"파라시스 에너지는 지난 1일 오전 6시쯤 인천 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 연쇄 폭발로 대형 화재를 일으킨 벤츠 전기차 EQE350 세단에 탑재된 배터리를 제조한 회사다. 당시 폭발로 주변 차량 140여대가... ",
-			"pubDate":"Tue, 06 Aug 2024 16:34:00 +0900"
 		}
 	]
 }
