@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Aug 2024 05:40:02 +0900",
-	"total":235967,
+	"lastBuildDate":"Wed, 07 Aug 2024 05:50:02 +0900",
+	"total":235968,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'전기차 화재' 아파트 이재민 820명…텐트 · 기숙사 생활",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007753240&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001179304?sid=102",
+			"description":"▲ 찜통더위 속 생수 받아 가는 <b>청라<\/b>동 아파트 주민들 인천 전기차 화재로 임시 대피소에서 지내는 이재민이 800여 명으로 늘었습니다. 어제(6일) 인천시 서구에 따르면 <b>청라<\/b>국제도시 화재 피해 아파트 1천581세대 가운데... ",
+			"pubDate":"Wed, 07 Aug 2024 05:42:00 +0900"
+		},
 		{
 			"title":"순식간에 '열폭주' 전기차…연소 증거물 속 '흔적' 찾아내는 사람들",
 			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024080616241952433",
@@ -166,17 +173,17 @@
 			"pubDate":"Tue, 06 Aug 2024 23:00:00 +0900"
 		},
 		{
-			"title":"전기차 화재 피해 차량 자차보험으로 보상",
-			"originallink":"http:\/\/www.fins.co.kr\/news\/articleView.html?idxno=101555",
-			"link":"http:\/\/www.fins.co.kr\/news\/articleView.html?idxno=101555",
-			"description":"최근 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재로 입주민들의 피해가 막대하지만, 보상 문제로 어려움을 겪고 있다. 6일 보험업계 따르면 140여대의 차량이 불에 타거나 그을린 피해는 자차 보험으로... ",
-			"pubDate":"Tue, 06 Aug 2024 22:42:00 +0900"
-		},
-		{
 			"title":"정부, '<b>청라<\/b> 아파트 화재' 주민 구호금 2천만 원 지원",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0115_202408062242364575",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002071010?sid=102",
 			"description":"인천 아파트 지하주차장 전기차 화재와 관련해 정부가 대피 주민을 위한 구호금 2천만 원을 긴급 지원합니다. 행정안전부는 단수와 단전 등으로 불편을 겪고 있는 주민들을 위한 임시 주거시설 운영, 간이 화장실 설치... ",
+			"pubDate":"Tue, 06 Aug 2024 22:42:00 +0900"
+		},
+		{
+			"title":"전기차 화재 피해 차량 자차보험으로 보상",
+			"originallink":"http:\/\/www.fins.co.kr\/news\/articleView.html?idxno=101555",
+			"link":"http:\/\/www.fins.co.kr\/news\/articleView.html?idxno=101555",
+			"description":"최근 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재로 입주민들의 피해가 막대하지만, 보상 문제로 어려움을 겪고 있다. 6일 보험업계 따르면 140여대의 차량이 불에 타거나 그을린 피해는 자차 보험으로... ",
 			"pubDate":"Tue, 06 Aug 2024 22:42:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=476849",
 			"description":"iH는 송도, 검단, 영종, <b>청라<\/b>에 이어 구월2지구를 또 하나의 인천 대표 도시로 조성하기 위해 총 7회의 총괄계획가 자문회의를 개최했다. 회의 결과 ▲구월의 정체성을 살린도시 ▲신산업 중심의 지속 가능한 자족도시... ",
 			"pubDate":"Tue, 06 Aug 2024 22:16:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b> 전기차 화재, ‘특별재난지역’ 선포 가능할까?…“어렵다”",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20240806519581?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003957750?sid=102",
-			"description":"행정안전부는 인천 <b>청라<\/b>동 아파트 지하 주차장 화재 사고로 대피한 주민 구호를 위해 인천 서구에 재난구호지원 사업비 2000만원을 긴급 지원한다고 6일 밝혔다. 1일 인천 <b>청라<\/b>지구 아파트 지하주차장에서 발생한 벤츠... ",
-			"pubDate":"Tue, 06 Aug 2024 22:02:00 +0900"
 		}
 	]
 }
