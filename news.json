@@ -1,9 +1,44 @@
 {
-	"lastBuildDate":"Tue, 06 Aug 2024 19:40:02 +0900",
-	"total":235905,
+	"lastBuildDate":"Tue, 06 Aug 2024 19:50:03 +0900",
+	"total":235912,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"피해 금액만 100억원?‥보상 책임은 누가?",
+			"originallink":"https:\/\/imnews.imbc.com\/replay\/2024\/nwdesk\/article\/6624558_36515.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001366220?sid=101",
+			"description":"◀ 앵커 ▶ 이번 인천 <b>청라<\/b> 전기차 화재로 지하주차장에 있던 다른 차들 손해를 비롯해 막대한 피해가 발생했는데요. 과연 누가, 얼마나 보상을 해야 할까요. 박철현 기자가 취재했습니다. ◀ 리포트 ▶ 소방 당국이 확인한... ",
+			"pubDate":"Tue, 06 Aug 2024 19:44:00 +0900"
+		},
+		{
+			"title":"인천 전기차 화재 당시 스프링클러 작동 안해",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/society\/2024\/08\/06\/20240806500229?wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003470456?sid=102",
+			"description":"최근 인천 <b>청라<\/b>국제도시 내 아파트 지하주차장에서 발생한 전기차 화재 당시 스프링클러가 제대로... 인천소방본부는 지난 1일 오전 6시 15분쯤 서구 <b>청라<\/b>국제도시 내 아파트 지하주차장에서 벤츠 전기차에 불이 났으나... ",
+			"pubDate":"Tue, 06 Aug 2024 19:43:00 +0900"
+		},
+		{
+			"title":"&quot;철근 구조물 악영향 우려&quot;…피해 아파트 구조안전진단",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261196",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261196",
+			"description":"인천 <b>청라<\/b>국제도시 아파트 지하 주차장 전기차 화재로 아파트 구조물인 철근 강도가 약화됐을 것이란 우려가 제기되자 지자체와 시공사가 긴급 구조안전진단에 나섰다. 6일 서구에 따르면 이날 <b>청라<\/b>동 제일풍경채 2차... ",
+			"pubDate":"Tue, 06 Aug 2024 19:40:00 +0900"
+		},
+		{
+			"title":"인천시 &quot;전기차 화재 지역 특별재난지역 지정해야&quot; vs 정부 &quot;대상 아냐&quot; 의견...",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363665830",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363665830",
+			"description":"시는 최근 발생한 인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재와 관련해 행정안전부에 특별재난지역 선포를 공식 건의했다고 6일 밝혔다. 서구지역이 특별재난지역으로 선포되면 중앙정부 차원의 행정적, 재정적 지원이... ",
+			"pubDate":"Tue, 06 Aug 2024 19:40:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> 전기차 화재 수사, 배터리 결함 여부 '초점'",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261197",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261197",
+			"description":"'배터리 결함 여부', '스프링클러 미작동' 경찰이 인천 <b>청라<\/b>국제도시 아파트 지하 주차장 전기차 화재에 대한... 한편 지난 1일 오전 6시15분쯤 서구 <b>청라<\/b>동 제일풍경채 2차 아파트 지하 주차장에 세워진 벤츠 전기차에서... ",
+			"pubDate":"Tue, 06 Aug 2024 19:40:00 +0900"
+		},
 		{
 			"title":"‘인천 전기차 화재’ 피해가 커진 이유?…“스프링클러 작동 안 했다”",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DCWUW4XYM",
@@ -12,11 +47,25 @@
 			"pubDate":"Tue, 06 Aug 2024 19:38:00 +0900"
 		},
 		{
+			"title":"스프링클러 작동 안 해 피해 확산‥&quot;스프링클러 전기차 화재 초기 진화 효과&quot;",
+			"originallink":"https:\/\/imnews.imbc.com\/replay\/2024\/nwdesk\/article\/6624557_36515.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001366219?sid=102",
+			"description":"◀ 앵커 ▶ 인천 <b>청라<\/b> 전기차 화재 당시 지하주차장의 스프링클러가 작동하지 않았던 것으로 확인됐습니다. 이 때문에 초기 진화가 더 어려웠다는 지적도 나오면서 소방당국이 관련 규정을 강화하기로 했는데요. 실제로... ",
+			"pubDate":"Tue, 06 Aug 2024 19:38:00 +0900"
+		},
+		{
 			"title":"잇딴 화재에 전기차 포비아 현상까지… '지하주차장 금지' 공방 나왔다",
 			"originallink":"https:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2148039",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000100383?sid=102",
 			"description":"지난 1일 인천 <b>청라<\/b>국제도시 한 아파트 지하주차장에서 발생한 전기차 화재로 차량 140여 대가 불에 타거나 파손됐다. 아파트 5개 동 480여 가구의 전기와 수도까지 끊겼다. 닷새 만인 6일 충남 금산에서도 주차 중이던... ",
 			"pubDate":"Tue, 06 Aug 2024 19:37:00 +0900"
+		},
+		{
+			"title":"11시간 충전 중이던 전기차에서 불‥경찰 &quot;과충전 여부 조사&quot;",
+			"originallink":"https:\/\/imnews.imbc.com\/replay\/2024\/nwdesk\/article\/6624556_36515.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001366218?sid=102",
+			"description":"◀ 앵커 ▶ 막대한 피해를 일으킨 인천<b>청라<\/b> 아파트 단지 지하주차장 화재에 이어 오늘은 다른 지역 주차타워에 있던 전기차에서 불이 났습니다. 그런데 이번엔 국산 배터리를 쓴 국산차입니다. 충전 중이던 차량이었는데... ",
+			"pubDate":"Tue, 06 Aug 2024 19:36:00 +0900"
 		},
 		{
 			"title":"인천 '전기차 화재' 아파트 이재민 800여명…임시대피소서 생활",
@@ -124,17 +173,17 @@
 			"pubDate":"Tue, 06 Aug 2024 19:02:00 +0900"
 		},
 		{
-			"title":"인천시, 폭염 재난안전대책본부 가동 등 폭염 대응 총력",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3061027",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3061027",
-			"description":"이외에도 최근 서구 <b>청라<\/b>에서 발생한 전기차 화재 사고 대응 현장에 냉방 버스 2대와 이동식 샤워 차량 2대를 설치해 폭염 피해 예방에 힘쓰고 있다. 김성훈 시 시민안전본부장은 &quot;폭염 피해를 최소화하기 위해서는 시와 군... ",
-			"pubDate":"Tue, 06 Aug 2024 18:52:00 +0900"
-		},
-		{
 			"title":"&quot;배터리 충전 어떻게?&quot;…전기차 잇딴 화재에 차주들 불안 고조",
 			"originallink":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=437338",
 			"link":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=437338",
 			"description":"인천 <b>청라<\/b> 아파트 지하 주차장 화재 합동 감식 이에 따라 전문가들은 100%까지 완충하지 않고, 80∼90% 정도로 충전하는 것이 화재 예방을 위한 가장 좋은 방법이라고 조언했다. 또 급속 충전기보다는 완속 충전기를... ",
+			"pubDate":"Tue, 06 Aug 2024 18:52:00 +0900"
+		},
+		{
+			"title":"인천시, 폭염 재난안전대책본부 가동 등 폭염 대응 총력",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3061027",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3061027",
+			"description":"이외에도 최근 서구 <b>청라<\/b>에서 발생한 전기차 화재 사고 대응 현장에 냉방 버스 2대와 이동식 샤워 차량 2대를 설치해 폭염 피해 예방에 힘쓰고 있다. 김성훈 시 시민안전본부장은 &quot;폭염 피해를 최소화하기 위해서는 시와 군... ",
 			"pubDate":"Tue, 06 Aug 2024 18:52:00 +0900"
 		},
 		{
@@ -164,55 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000470682?sid=102",
 			"description":"행정안전부가 지난 1일 발생한 인천 <b>청라<\/b>동 아파트 지하주차장 화재사고로 대피한 주민들의 구호를 위해 인천 서구에 재난 구호지원 사업비 2천만 원을 긴급 지원한다. 이번 지원은 단수·단전 등으로 불편을 겪고 있는... ",
 			"pubDate":"Tue, 06 Aug 2024 18:31:00 +0900"
-		},
-		{
-			"title":"'인천 서구 전기차 화재' 이재민 800여명으로 늘어…구조안전진단 착수",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240806580311",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000048892?sid=102",
-			"description":"지난 5일 오후 인천 서구 <b>청라<\/b>국제도시 한 아파트 지하주차장에서 불이 나 전소된 전기차가 지게차로... 6일 서구에 따르면 <b>청라<\/b>국제도시 화재 피해 아파트 1천581가구 중 이날 기준 264가구 822명이 임시주거시설에서... ",
-			"pubDate":"Tue, 06 Aug 2024 18:26:00 +0900"
-		},
-		{
-			"title":"&quot;전기차 옆에 대지마 불난대&quot;...연이은 화재에 전기차 차주들 '죄인 신세'",
-			"originallink":"http:\/\/www.jeollailbo.com\/news\/articleView.html?idxno=740725",
-			"link":"http:\/\/www.jeollailbo.com\/news\/articleView.html?idxno=740725",
-			"description":"지난 1일 인천 <b>청라<\/b>국제도시 한 아파트 지하주차장에서 전기차 화재가 발생해 주차된 차량 70여 대가 전소되고 주민 20여 명이 연기를 흡입해 병원으로 옮겨지는 등 큰 피해가 발생했다. 해당 차량의 화재는 전기 충전이나... ",
-			"pubDate":"Tue, 06 Aug 2024 18:20:00 +0900"
-		},
-		{
-			"title":"1억 벤츠 전기차에 점유율 2% 中 배터리…화재 미스터리",
-			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000185694?division=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000396354?sid=101",
-			"description":"[기자] 지난 1일 오전 인천 <b>청라<\/b>동 아파트 지하 1층 주차장에서 전기차 화재로 추정되는 불이 나 차량 40여 대가 불에 탔는데요. 원인이 된 차량은 메르세데스-벤츠 EQE 세단이었는데, 차량에 장착된 배터리 셀이... ",
-			"pubDate":"Tue, 06 Aug 2024 18:19:00 +0900"
-		},
-		{
-			"title":"인천 연수구, 서구 아파트 지하주차장 화재피해 복구 지원",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1103569",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1103569",
-			"description":"지난 1일 서구 <b>청라<\/b>동에서 발생한 화재로 인한 단전·단수로 이 아파트 300여 명이 6곳의 임시주거시설을 이용 중이다. 일부는 친척 집이나 호텔 등으로 이동해 생활하고 있는 것으로 알려졌다. 이에 연수구는 6일 오전 8시... ",
-			"pubDate":"Tue, 06 Aug 2024 18:16:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 전기차 화재 당시 스프링클러 작동 안해…피해 커져",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103240",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103240",
-			"description":"2일 인천 서구 <b>청라<\/b> 아파트 지하 주차장 화재 현장에서 경찰과 소방 등 관계자들이 합동 감식을 하고 있다. (사진=연합뉴스) 최근 인천 대단지 아파트 지하주차장에서 발생한 전기차 화재 당시 스프링클러가 제대로... ",
-			"pubDate":"Tue, 06 Aug 2024 18:16:00 +0900"
-		},
-		{
-			"title":"[동정] 대구 중구청장",
-			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=455071",
-			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=455071",
-			"description":"▲ 류규하 중구청장. 류규하 대구 중구청장은 7일 오후 1시30분 <b>청라<\/b>국민체육센터에서 열리는 지역아동센터 합동 독서골든벨에 참석한다.",
-			"pubDate":"Tue, 06 Aug 2024 18:16:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 화재 이후 또...EV6 전기차 활활 '배터리 원인 추정'",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3061010",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3061010",
-			"description":"전기차 화재 (사진=충남 금산소방서 제공) 충남 금산에서도 주차 중이던 전기차에서 화재가 발생해 배터리 안전성에 대한 우려가 커지고 있다. 6일 경찰과 소방당국에 따르면 이날 오전 5시쯤 금산군 금산읍의 한 주차타워... ",
-			"pubDate":"Tue, 06 Aug 2024 18:14:00 +0900"
 		}
 	]
 }
