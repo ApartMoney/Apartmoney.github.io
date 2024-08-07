@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 07 Aug 2024 21:20:02 +0900",
-	"total":236330,
+	"lastBuildDate":"Wed, 07 Aug 2024 21:30:02 +0900",
+	"total":236332,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[차알못의 운전상식] 전기차 충전 도중 화재 발생했다면?",
+			"originallink":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=59568",
+			"link":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=59568",
+			"description":"[사진=픽사베이] 지난 1일 인천 <b>청라<\/b>국제지구의 한 아파트 지하 주차장에서 발생한 전기차 화재로 큰 피해가 발생한 가운데 6일 충남 금산군에서도 유사한 전기차 화재 사고가 발생했다. 이처럼 주차 중이거나 충전 중이던... ",
+			"pubDate":"Wed, 07 Aug 2024 21:26:00 +0900"
+		},
+		{
+			"title":"&quot;내 전기차 배터리 제조사는?&quot;…화재 공포에 계약 취소 잇따라",
+			"originallink":"https:\/\/news.tvchosun.com\/site\/data\/html_dir\/2024\/08\/07\/2024080790188.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000470879?sid=004",
+			"description":"<b>청라<\/b> 지하주차장 화재를 일으킨 벤츠 EQE 신형 모델의 안내책자입니다. 배터리 용량만 기재돼 있을 뿐, 어떤 제조사의 배터리를 탑재했는지는 나와있지 않습니다. 판매사나 본사에 문의해도 마찬가지. 전기차 운전자... ",
+			"pubDate":"Wed, 07 Aug 2024 21:20:00 +0900"
+		},
 		{
 			"title":"인천 오래된 아파트 스프링클러 설치 시급",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1103842",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.jemin.com\/news\/articleView.html?idxno=776585",
 			"description":"인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재로 막대한 피해가 발생한 가운데 제주지역 아파트도 전기차 화재에 취약하다는 지적이다. 7일 제주시 노형동의 한 아파트 지하주차장에는 전기차 5대를 충전할 수 있는... ",
 			"pubDate":"Wed, 07 Aug 2024 18:48:00 +0900"
-		},
-		{
-			"title":"인천도시공사, '구월2 공공주택지구' 개발 본격 진행",
-			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=214357",
-			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=214357",
-			"description":"iH는 송도, 검단, 영종, <b>청라<\/b>에 이어 구월2지구를 또 하나의 인천 대표 도시로 조성하기 위해 총 7회의 MP master planner, 총괄계획가 자문회의를 개최했다. 회의 결과 ▲구월의 정체성을 살린도시 ▲신산업 중심의 지속... ",
-			"pubDate":"Wed, 07 Aug 2024 18:36:00 +0900"
-		},
-		{
-			"title":"고양소방서, 전기차 화재예방을 위한 고층 아파트 '원스톱 서비스' 실시",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363665991",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363665991",
-			"description":"이번 '원스톱 서비스'의 주요 내용으로는 ▶최근 발생한 인천 <b>청라<\/b>국제도시 공동주택 지하 주차장 전기차 화재사례 전달 및 화재예방 대책 협의로 전기차 화재용 하부 주수 관창 배치, ▶전기차 충전 구역 인근에 질식... ",
-			"pubDate":"Wed, 07 Aug 2024 18:36:00 +0900"
 		}
 	]
 }
