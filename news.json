@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 08 Aug 2024 07:50:02 +0900",
-	"total":236376,
+	"lastBuildDate":"Thu, 08 Aug 2024 08:00:02 +0900",
+	"total":236377,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;충전 중에 펑!&quot; 지하 주차장 전기차 화재, 이렇게 하면 막을 수 있다",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024080807123293515",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005074472?sid=102",
+			"description":"앞서 지난 1일 인천 서구 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재도 주차돼 있던 차량에서 발생했다. 해당 차주는 &quot;지난달 29일 주차하고 차량을 운행하지 않았다&quot;는 취지로 진술한 것으로 전해졌다.... ",
+			"pubDate":"Thu, 08 Aug 2024 07:51:00 +0900"
+		},
 		{
 			"title":"유럽·미국, 전기차 배터리 제조사 공개 의무화 추진…“한국만 깜깜이”",
 			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20240808050038",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003378591?sid=101",
 			"description":"지난 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 벤츠EQE 화재 사고가 발생한 이후 네이버 ‘메르세데스-벤츠 EQ... 교통안전공단 관계자는 “<b>청라<\/b> 벤츠 사고는 조사 결과가 아직 확정되진 않았지만, 스프링클러만 제때 충분히... ",
 			"pubDate":"Thu, 08 Aug 2024 05:00:00 +0900"
-		},
-		{
-			"title":"‘통속소설 열풍’의 김말봉이 국립극단에 온다",
-			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020397324&code=61171211&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001716507?sid=103",
-			"description":"3일밖에 되지 않아 관람을 놓쳤던 관객에겐 희소식이다. 또한, 이 작품은 서울 외에 10일 인천 <b>청라<\/b>복합문화센터, 31일 의정부예술의전당, 9월 4일 광주빛고을시민문화관까지 투어를 돌며 지역 관객과도 만날 예정이다.",
-			"pubDate":"Thu, 08 Aug 2024 04:31:00 +0900"
 		}
 	]
 }
