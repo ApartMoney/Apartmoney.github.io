@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Aug 2024 18:50:02 +0900",
-	"total":236303,
+	"lastBuildDate":"Wed, 07 Aug 2024 19:00:02 +0900",
+	"total":236304,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 아파트 주차장서 흉기 휘두른 40대…경찰 추적 중",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261358",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261358",
+			"description":"A씨는 이날 오전 8시20분쯤 서구 <b>청라<\/b>동 한 아파트 지하 주차장에서 40대 여성 B씨에게 흉기를 휘둘러 다치게 한 혐의를 받고 있다. B씨는 얼굴과 팔을 다쳐 병원으로 옮겨졌으나 다행히 생명에는 지장이 없다. 경찰이 B씨... ",
+			"pubDate":"Wed, 07 Aug 2024 18:56:00 +0900"
+		},
 		{
 			"title":"전기차 화재 공포 확산…제주 지하주차장은 '무방비'",
 			"originallink":"http:\/\/www.jemin.com\/news\/articleView.html?idxno=776585",
@@ -145,17 +152,17 @@
 			"pubDate":"Wed, 07 Aug 2024 18:00:00 +0900"
 		},
 		{
-			"title":"[비바100] 다소 뻔한? 그래서 재밌는! 음악극 ‘통속소설이 머 어때서?!’",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240807010001762",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240807010001762",
-			"description":"음악극 ‘통속소설이 머 어때서?!’ 1930년대 통속 여류소설가 김말봉의 생애와 작품을 담은 음악극 ‘통속소설이 머 어때서?’(8월 10일 인천서구 <b>청라<\/b>복합문화센터 <b>청라<\/b>블루노바홀, 8월 18~25일 명동예술극장, 8월 31일... ",
-			"pubDate":"Wed, 07 Aug 2024 18:00:00 +0900"
-		},
-		{
 			"title":"전기차 열폭주 '활활'...대책은 '유명무실'",
 			"originallink":"http:\/\/www.jibs.co.kr\/news\/articles\/articlesDetail\/40495?feed=na",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/661\/0000043264?sid=102",
 			"description":"지난 1일 인천 <b>청라<\/b>의 한 아파트 지하 주차장에서 전기차 화재가 발생해 차량 40여 대가 불에 타고 단전·단수 사태까지 빚어진 가운데, 제주에도 충전 시설이 상당하지만 관련 대책은 부족하다는 지적이 나오고 있습니다.... ",
+			"pubDate":"Wed, 07 Aug 2024 18:00:00 +0900"
+		},
+		{
+			"title":"[비바100] 다소 뻔한? 그래서 재밌는! 음악극 ‘통속소설이 머 어때서?!’",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240807010001762",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240807010001762",
+			"description":"음악극 ‘통속소설이 머 어때서?!’ 1930년대 통속 여류소설가 김말봉의 생애와 작품을 담은 음악극 ‘통속소설이 머 어때서?’(8월 10일 인천서구 <b>청라<\/b>복합문화센터 <b>청라<\/b>블루노바홀, 8월 18~25일 명동예술극장, 8월 31일... ",
 			"pubDate":"Wed, 07 Aug 2024 18:00:00 +0900"
 		},
 		{
@@ -190,7 +197,7 @@
 			"title":"잇단 전기차 화재… 충북서도 &quot;전기차 충전시설 지상으로 올리자&quot;",
 			"originallink":"https:\/\/www.inews365.com\/news\/article.html?no=826368",
 			"link":"https:\/\/www.inews365.com\/news\/article.html?no=826368",
-			"description":"해당 아파트에 거주하는 전기차 차주 이 모씨는 &quot;인천 <b>청라<\/b>국제도시 전기차 화재는 불이 난 차량이 중국 저가 배터리를 사용했단 점과 내부 스프링클러 미동작으로 화재가 커졌던 원인이 컸다&quot;며 &quot;환경을 생각해 전기차를... ",
+			"description":"해당 아파트에 거주하는 전기차 차주 이 모씨는 &quot;인천 <b>청라<\/b>국제도시 전기차 화재는 불이 난 차량이 중국 저가 배터리를 사용했단 점과 내부 스프링클러 미동작으로 인한 원인이 컸다&quot;며 &quot;환경을 생각해 전기차를... ",
 			"pubDate":"Wed, 07 Aug 2024 17:50:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251407",
 			"description":"인천투데이=인투아이(INTO-AI)·박규호 기자 | 인천 서구 <b>청라<\/b>동 제일풍경채2차 아파트 화재 발생 일주일째... 지난 1일 전기차 화재가 발생한 <b>청라<\/b> 소재 아파트에 피해 지원 등을 위한 부스가 설치돼 있다. (사진... ",
 			"pubDate":"Wed, 07 Aug 2024 17:46:00 +0900"
-		},
-		{
-			"title":"전기차 배터리 불안감 고조..BMW는 삼성SDI, 벤츠는 CATL?",
-			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2024080716415984973",
-			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2024080716415984973",
-			"description":"최근에 <b>청라<\/b>에서 발생했던 것도 예측하지 못한 부분이 있는 거 같고. ]이러한 상황에도 완성차 업체는 부품사와의 계약 조건을 이유로 모델별 배터리를 공개하지 않고 있습니다. 다른 차량에도 이번 파라시스사의... ",
-			"pubDate":"Wed, 07 Aug 2024 17:44:00 +0900"
 		}
 	]
 }
