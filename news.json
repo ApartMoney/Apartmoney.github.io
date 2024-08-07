@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 08 Aug 2024 07:40:02 +0900",
+	"lastBuildDate":"Thu, 08 Aug 2024 07:50:02 +0900",
 	"total":236376,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"유럽·미국, 전기차 배터리 제조사 공개 의무화 추진…“한국만 깜깜이”",
+			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20240808050038",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002346937?sid=101",
+			"description":"인천 <b>청라<\/b> 한 아파트의 전기차 화재 사고로 중국산 ‘전기차 배터리’에 대한 공포가 확산되는 가운데, 해외에서는 소비자에게 배터리 제조사 정보를 의무적으로 제공하도록 하는 방침을 이미 정했거나 추진 중인... ",
+			"pubDate":"Thu, 08 Aug 2024 07:44:00 +0900"
+		},
 		{
 			"title":"전기차 배터리 제조사 어디?…해외는 공개 의무화 추진",
 			"originallink":"http:\/\/tbs.seoul.kr\/news\/newsView.do?typ_800=1&idx_800=3526981&seq_800=20519798",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001716507?sid=103",
 			"description":"3일밖에 되지 않아 관람을 놓쳤던 관객에겐 희소식이다. 또한, 이 작품은 서울 외에 10일 인천 <b>청라<\/b>복합문화센터, 31일 의정부예술의전당, 9월 4일 광주빛고을시민문화관까지 투어를 돌며 지역 관객과도 만날 예정이다.",
 			"pubDate":"Thu, 08 Aug 2024 04:31:00 +0900"
-		},
-		{
-			"title":"[사설] 아파트 전기차 충전시설 의무 설치법 시행 더 유예해야",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408071233216140507",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408071233216140507",
-			"description":"인천 <b>청라<\/b> 아파트 전기차 화재로 전기차 안전에 대한 우려가 확산되고 있다. 이번 인천 화재는 지하주차장 같은 밀폐된 공간에서 전기차에 불이 나면 얼마나 위험한 지를 극명히 보여 준다. 층고가 낮아 소방차가 진입할... ",
-			"pubDate":"Thu, 08 Aug 2024 04:20:00 +0900"
 		}
 	]
 }
