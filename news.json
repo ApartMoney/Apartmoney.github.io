@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Aug 2024 20:20:02 +0900",
-	"total":236320,
+	"lastBuildDate":"Wed, 07 Aug 2024 20:30:02 +0900",
+	"total":236321,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"상승세 못 타고 전기차는 불타고…K배터리, 속이 타네",
+			"originallink":"https:\/\/www.khan.co.kr\/economy\/industry-trade\/article\/202408072021035",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003313604?sid=101",
+			"description":"인천 서구 <b>청라<\/b> 아파트의 벤츠 EQE350 전기차에선 중국 업체 ‘파라시스’의 삼원계(NCM) 배터리가 탑재된 것으로 드러났고, 충전 중에 불이 난 충남 금산 지역의 기아 EV6 전기차에선 국내 업체 SK온의 NCM 배터리가... ",
+			"pubDate":"Wed, 07 Aug 2024 20:25:00 +0900"
+		},
 		{
 			"title":"인천시의회 정해권 의장, <b>청라<\/b> 화재 현장 방문",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=467144",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000048982?sid=102",
 			"description":"경찰에 따르면 A씨는 이날 오전 8시20분께 서구 <b>청라<\/b>동 한 아파트 지하주차장에서 옛 연인인 40대 여성 B씨를 흉기로 다치게 한 뒤 달아난 혐의다. B씨는 얼굴과 팔 등을 다쳐 병원에서 치료를 받고 있으며 생명에는... ",
 			"pubDate":"Wed, 07 Aug 2024 18:09:00 +0900"
-		},
-		{
-			"title":"피해금액만 100억원…<b>청라<\/b> 벤츠 화재 보상책임은 누가?",
-			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000185899?division=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000396542?sid=103",
-			"description":"지난주 인천 <b>청라<\/b> 지하 주차장에서 전기차가 폭발하는 사고가 있었죠. 차량 100여 대가 불에 타는 피해를... 지난 1일 인천 <b>청라<\/b>에서 발생한 전기차 폭발 사고로 약 100여 대가 이 같은 피해를 입었습니다. 피해를 본 차주들은... ",
-			"pubDate":"Wed, 07 Aug 2024 18:08:00 +0900"
 		}
 	]
 }
