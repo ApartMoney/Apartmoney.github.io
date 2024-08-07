@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 08 Aug 2024 05:20:02 +0900",
-	"total":236351,
+	"lastBuildDate":"Thu, 08 Aug 2024 05:30:03 +0900",
+	"total":236352,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"급속 충전, 화재 원인이라는데도…서울시, 전기차 충전 사업 계속 추진 방침",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1393408\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002859930?sid=102",
+			"description":"지난 1일 인천 <b>청라<\/b>국제도시의 한 아파트 지하 주차장에서 벤츠 전기차로 추정되는 차량이 폭발하며 발생한... 심지어 <b>청라<\/b>에서 일어난 화재는 자동차가 충전중이 아니었던 것으로 밝혀지며 안전성에 심각한 의문을 품게... ",
+			"pubDate":"Thu, 08 Aug 2024 05:19:00 +0900"
+		},
 		{
 			"title":"전기차 충전기 의무화 앞두고아파트 단지마다 설치 신경전",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/society\/2024\/08\/08\/20240808012005?wlog_tag3=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/kizmom.hankyung.com\/news\/view.html?aid=202408079221o",
 			"description":"이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 벤츠 전기차에서 발생했다. 이 불로 주민 등 23명이 연기를 마셔 병원으로 이송됐고, 차량 140여대가 피해를 입었다.",
 			"pubDate":"Wed, 07 Aug 2024 20:34:00 +0900"
-		},
-		{
-			"title":"연이은 전기차 화재에 불안 확산...피해 막을 대책 없나?",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408072027400350",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002071487?sid=102",
-			"description":"인천 <b>청라<\/b>동에서 있었던 벤츠 전기차 화재라고 볼 수 있겠죠? [기자] 지난 1일이었고요. 40대 차주가 인천 <b>청라<\/b>동 아파트 지하 1층 주차장에 벤츠 EQE 승용차를 세운 건 지난달 29일 저녁 7시쯤이었습니다. 불이 난 건... ",
-			"pubDate":"Wed, 07 Aug 2024 20:27:00 +0900"
 		}
 	]
 }
