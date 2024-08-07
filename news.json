@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Thu, 08 Aug 2024 05:00:02 +0900",
-	"total":236348,
+	"lastBuildDate":"Thu, 08 Aug 2024 05:10:02 +0900",
+	"total":236351,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 충전기 의무화 앞두고아파트 단지마다 설치 신경전",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/society\/2024\/08\/08\/20240808012005?wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003470791?sid=102",
+			"description":"지난 1일 인천 <b>청라<\/b>국제도시에 있는 아파트 단지 전기차 화재 사고 이후 동마다 입장이 극명히 갈리고 있다. 최근 주민투표에선 ‘특정 동 인근에만 충전시설을 설치’하는 안에 70% 가까이 표가 몰렸지만 해당 동... ",
+			"pubDate":"Thu, 08 Aug 2024 05:03:00 +0900"
+		},
+		{
+			"title":"지하 불타오른 <b>청라<\/b>…'배터리 정체'도 모르는 전기차 50만대",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25269260",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003378591?sid=101",
+			"description":"지난 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 벤츠EQE 화재 사고가 발생한 이후 네이버 ‘메르세데스-벤츠 EQ... 교통안전공단 관계자는 “<b>청라<\/b> 벤츠 사고는 조사 결과가 아직 확정되진 않았지만, 스프링클러만 제때 충분히... ",
+			"pubDate":"Thu, 08 Aug 2024 05:00:00 +0900"
+		},
+		{
+			"title":"커지는 전기차 포비아…화재 보상 사각지대 해소는 '깜깜이'",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2388432",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2388432",
+			"description":"일례로 이달 1일 인천 <b>청라<\/b>지구 아파트 지하주차장에서 폭발한 벤츠 전기차의 차주가 가입한 자동차보험은 대물배상 보상한도가 5억 원으로 알려졌다. 주변에 있던 차량 40여 대가 불타고 100여 대가 연기에 그을리는 등... ",
+			"pubDate":"Thu, 08 Aug 2024 05:00:00 +0900"
+		},
 		{
 			"title":"‘통속소설 열풍’의 김말봉이 국립극단에 온다",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020397324&code=61171211&cp=nv",
@@ -192,27 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002071487?sid=102",
 			"description":"인천 <b>청라<\/b>동에서 있었던 벤츠 전기차 화재라고 볼 수 있겠죠? [기자] 지난 1일이었고요. 40대 차주가 인천 <b>청라<\/b>동 아파트 지하 1층 주차장에 벤츠 EQE 승용차를 세운 건 지난달 29일 저녁 7시쯤이었습니다. 불이 난 건... ",
 			"pubDate":"Wed, 07 Aug 2024 20:27:00 +0900"
-		},
-		{
-			"title":"상승세 못 타고 전기차는 불타고…K배터리, 속이 타네",
-			"originallink":"https:\/\/www.khan.co.kr\/economy\/industry-trade\/article\/202408072021035",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003313604?sid=101",
-			"description":"인천 서구 <b>청라<\/b> 아파트의 벤츠 EQE350 전기차에선 중국 업체 ‘파라시스’의 삼원계(NCM) 배터리가 탑재된 것으로 드러났고, 충전 중에 불이 난 충남 금산 지역의 기아 EV6 전기차에선 국내 업체 SK온의 NCM 배터리가... ",
-			"pubDate":"Wed, 07 Aug 2024 20:25:00 +0900"
-		},
-		{
-			"title":"인천시의회 정해권 의장, <b>청라<\/b> 화재 현장 방문",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=467144",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=467144",
-			"description":"서구 <b>청라<\/b>지역 한 아파트 지하 주차장에서 발생한 전기차 화재 사고 현장을 찾아 피해복구에 의회 차원에서 적극 지원을 약속했다. 인천시의회는 최근 정해권 의장과 김상섭 의회 사무처장이 서구 <b>청라<\/b>동 아파트 지하... ",
-			"pubDate":"Wed, 07 Aug 2024 20:16:00 +0900"
-		},
-		{
-			"title":"인천공항고속도로 화물차 화재...퇴근길 한때 정체",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408071950227455",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002071476?sid=102",
-			"description":"오늘(7일) 오후 5시 반쯤 인천공항고속도로 <b>청라<\/b>나들목 근처를 달리던 2.5톤 화물차에서 불이 났습니다. 운전자가 갓길에 차를 세우고 대피해 다친 사람은 없었지만, 불을 끄고 현장을 수습하는 과정에서 주변 1개 차로가... ",
-			"pubDate":"Wed, 07 Aug 2024 19:50:00 +0900"
 		}
 	]
 }
