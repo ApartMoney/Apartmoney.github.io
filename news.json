@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Wed, 07 Aug 2024 16:50:02 +0900",
-	"total":236239,
+	"lastBuildDate":"Wed, 07 Aug 2024 17:00:02 +0900",
+	"total":236243,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 폭발 때 스프링클러 왜 먹통?…조사 본격화(종합)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240807057251065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014861168?sid=102",
+			"description":"인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해... 이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 벤츠 전기차에서 발생했다.... ",
+			"pubDate":"Wed, 07 Aug 2024 16:58:00 +0900"
+		},
+		{
+			"title":"[위클리오늘] 인천 전기차 화재 때 스프링클러 왜 작동 안 했나…원인 조사",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=643634",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=643634",
+			"description":"▲인천 서구 <b>청라<\/b>동 아파트 지하주차장에 불이 난 벤츠 차량이 전소돼 있다. 뉴시스  지난 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재 당시 스프링클러 미작동 원인 파악을 위해 소방당국이 디지털포렌식... ",
+			"pubDate":"Wed, 07 Aug 2024 16:58:00 +0900"
+		},
+		{
+			"title":"인천 전기차 화재현장 스프링클러 미작동…원인 조사 중",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02955286638985024",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005807049?sid=102",
+			"description":"인천 서구 <b>청라<\/b>동 아파트 전기차 화재와 관련해 소방당국이 스프링클러 미작동 원인 조사에 나섰다. 인천소방본부는 전기차 화재가 발생한 <b>청라<\/b>동 A아파트 방재실에서 화재수신기를 확보해 해당 수신기 관리 업체가... ",
+			"pubDate":"Wed, 07 Aug 2024 16:56:00 +0900"
+		},
+		{
+			"title":"인천 향토기업 린나이, <b>청라<\/b>국제도시 임시대피소에 전자레인지 기부",
+			"originallink":"http:\/\/www.jemin.com\/news\/articleView.html?idxno=776568",
+			"link":"http:\/\/www.jemin.com\/news\/articleView.html?idxno=776568",
+			"description":"인천 <b>청라<\/b>국제도시 임시대피소에 인덕션 및 전자레인지 등 자사 전기제품을 기부하며 온정의 손길을 전했다. 지난 1일 오전 6시 15분쯤 인천 <b>청라<\/b>에 위치한 한 아파트 지하 주차장에서 전기차 화재가 발생해 23여 명이... ",
+			"pubDate":"Wed, 07 Aug 2024 16:52:00 +0900"
+		},
 		{
 			"title":"'<b>청라<\/b> 전기차 화재', 대응책 마련이 시급하다",
 			"originallink":"https:\/\/www.newsgn.com\/news\/articleView.html?idxno=432232",
@@ -19,13 +47,6 @@
 			"pubDate":"Wed, 07 Aug 2024 16:48:00 +0900"
 		},
 		{
-			"title":"인천시, 내년까지 모든 아파트단지에 차량용 질식소화 덮개 지급",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240807001008",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20240807001008",
-			"description":"인천시는 <b>청라<\/b>국제도시 아파트 지하주차장에서 전기차 화재가 발생, 큰 피해가 발생한 것을 계기로 질식소화 덮개 지원 시기를 앞당겼다고 설명했다. 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시의 아파트 지하주차장에 있던... ",
-			"pubDate":"Wed, 07 Aug 2024 16:44:00 +0900"
-		},
-		{
 			"title":"[단독]옛 연인에 흉기 휘두르고 도주한 40대…경찰 추적 중",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240807_0002841929",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012715663?sid=102",
@@ -33,7 +54,14 @@
 			"pubDate":"Wed, 07 Aug 2024 16:44:00 +0900"
 		},
 		{
-			"title":"캐즘보다 무서운 전기차 포비아에 주목받는 배터리 실명제",
+			"title":"인천시, 내년까지 모든 아파트단지에 차량용 질식소화 덮개 지급",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240807001008",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20240807001008",
+			"description":"인천시는 <b>청라<\/b>국제도시 아파트 지하주차장에서 전기차 화재가 발생, 큰 피해가 발생한 것을 계기로 질식소화 덮개 지원 시기를 앞당겼다고 설명했다. 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시의 아파트 지하주차장에 있던... ",
+			"pubDate":"Wed, 07 Aug 2024 16:44:00 +0900"
+		},
+		{
+			"title":"&quot;80%이하 충전만 지켜도 화재 막는다&quot;…'배터리 실명제'도 주목",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024080716264009883",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005456357?sid=101",
 			"description":"지난 1일 발생한 인천 <b>청라<\/b> 아파트 지하 주차장의 벤츠 전기차 화재 사고 이후 전기차에 대한 국민들의 불안이 커지고 있다. 일부에서는 '전기차 포비아(공포)' 현상으로까지 번지고 있다. 자동차 및 배터리 제조사들은... ",
@@ -61,10 +89,10 @@
 			"pubDate":"Wed, 07 Aug 2024 16:29:00 +0900"
 		},
 		{
-			"title":"인천시설공단, 전기차 화재 이재민 위한 임시대피소 운영",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240807029215795",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240807029215795",
-			"description":"인천시설공단이 전기차 화재 이재민 임시 대피소로 제공한 <b>청라<\/b>해변공원캠핑장 카라반 텐트. \/인천시설공단 제공인천시설공단은 지하주차장 전기차 화재 피해를 입은 이재민들을 돕기 위한 임시 대피소를 <b>청라<\/b>해변공... ",
+			"title":"정해권 인천시의회의장, <b>청라<\/b> 화재 적극 지원 약속",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1063513",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1063513",
+			"description":"인천시의회 정해권 의장이 최근 서구 <b>청라<\/b>지역 한 아파트 지하주차장에서 발생한 전기차 화재 사고 현장을 찾아 피해복구에 의회 차원에서 적극 지원을 약속했다. 정 의장과 김상섭 의회 사무처장은 서구 <b>청라<\/b>동 아파트... ",
 			"pubDate":"Wed, 07 Aug 2024 16:28:00 +0900"
 		},
 		{
@@ -75,10 +103,10 @@
 			"pubDate":"Wed, 07 Aug 2024 16:28:00 +0900"
 		},
 		{
-			"title":"정해권 인천시의회의장, <b>청라<\/b> 화재 적극 지원 약속",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1063513",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1063513",
-			"description":"인천시의회 정해권 의장이 최근 서구 <b>청라<\/b>지역 한 아파트 지하주차장에서 발생한 전기차 화재 사고 현장을 찾아 피해복구에 의회 차원에서 적극 지원을 약속했다. 정 의장과 김상섭 의회 사무처장은 서구 <b>청라<\/b>동 아파트... ",
+			"title":"인천시설공단, 전기차 화재 이재민 위한 임시대피소 운영",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240807029215795",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240807029215795",
+			"description":"인천시설공단이 전기차 화재 이재민 임시 대피소로 제공한 <b>청라<\/b>해변공원캠핑장 카라반 텐트. \/인천시설공단 제공인천시설공단은 지하주차장 전기차 화재 피해를 입은 이재민들을 돕기 위한 임시 대피소를 <b>청라<\/b>해변공... ",
 			"pubDate":"Wed, 07 Aug 2024 16:28:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=477096",
 			"description":"지난 1일 인천 서구 <b>청라<\/b>동의 아파트 지하 주차장에서 발생한 화재와 관련해 현재 <b>청라<\/b>1동 행정복지센터 등 임시거주시설 11곳에 주민 6백86명이 거주하고 있습니다. 한 개 동 139세대를 제외하고는 전 세대의 수도 복구... ",
 			"pubDate":"Wed, 07 Aug 2024 16:08:00 +0900"
-		},
-		{
-			"title":"포기할 수 없는 전기차, 배터리는 '시한폭탄'이 아니다",
-			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024080713465859809",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005074253?sid=101",
-			"description":"지난 1일 발생한 인천 <b>청라<\/b> 아파트 화재 사고와 판박이 사례다. 광양에서는 내연기관 차량이, 인천에서는... <b>청라<\/b> 전기차 화재나 광양 내연기관 화재의 경우 스프링클러가 작동하지 않으며 초동 대응이 사실상 이뤄지지... ",
-			"pubDate":"Wed, 07 Aug 2024 16:05:00 +0900"
-		},
-		{
-			"title":"“1000만 원이면 전기차 화재 걱정 뚝”…건설업계 전기차 화재 진압 시스템 ...",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2388384",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2388384",
-			"description":"이들 제품은 적지 않은 비용이지만 최근 인천 <b>청라<\/b> 아파트 내 전기차 화재로 대규모 피해가 발생한 것을 고려하면 합리적인 수준으로 평가된다. DL이앤씨의 전기차 화재 진압 시스템은 앞으로 e편한세상 단지에 시범... ",
-			"pubDate":"Wed, 07 Aug 2024 16:02:00 +0900"
-		},
-		{
-			"title":"농협하나로유통, 쌀 소비촉진 프로모션 실시",
-			"originallink":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=56170",
-			"link":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=56170",
-			"description":"사파점, <b>청라<\/b>점 등 25개 매장이다. 이번 행사에서는 소비자들이 다양한 쌀과 쌀 가공식품을 접할 수 있는 우리 쌀 전용 특설 매대를 운영하고, 행사카드 결제 고객에게는 백미(10kg · 20kg)와 쌀 가공식품 등 560여개 상품을... ",
-			"pubDate":"Wed, 07 Aug 2024 16:02:00 +0900"
-		},
-		{
-			"title":"린나이, <b>청라<\/b>국제도시 이재민 위해 인덕션 및 전자레인지 기부",
-			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=151487",
-			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=151487",
-			"description":"인천 <b>청라<\/b>국제도시 임시대피소에 인덕션 및 전자레인지 등 자사 전기제품을 기부하며 온정의 손길을 전했다. 지난 1일 오전 6시 15분쯤 인천 <b>청라<\/b>에 위치한 한 아파트 지하 주차장에서 전기차 화재가 발생해 23여 명이... ",
-			"pubDate":"Wed, 07 Aug 2024 16:00:00 +0900"
 		}
 	]
 }
