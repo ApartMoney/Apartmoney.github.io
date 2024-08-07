@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Thu, 08 Aug 2024 07:30:02 +0900",
-	"total":236372,
+	"lastBuildDate":"Thu, 08 Aug 2024 07:40:02 +0900",
+	"total":236376,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 배터리 제조사 어디?…해외는 공개 의무화 추진",
+			"originallink":"http:\/\/tbs.seoul.kr\/news\/newsView.do?typ_800=1&idx_800=3526981&seq_800=20519798",
+			"link":"http:\/\/tbs.seoul.kr\/news\/newsView.do?typ_800=1&idx_800=3526981&seq_800=20519798",
+			"description":"인천 <b>청라<\/b> 전기차 화재 사고로 전기차에 대한 공포가 확산하는 가운데 해외에서는 소비자에게 배터리 제조사 정보를 의무적으로 제공하도록 하거나 이미 추진 중인 것으로 확인됐습니다. 유럽에서는 오는 2026년부터... ",
+			"pubDate":"Thu, 08 Aug 2024 07:35:00 +0900"
+		},
+		{
+			"title":"정부, 배터리 제조사 공개 추진…‘배터리 인증’ 제도 도입도",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240808505527?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003958172?sid=102",
+			"description":"지난 5일 오후 인천 서구 <b>청라<\/b>동 아파트 지하 주차장 화재 현장에서 합동 감식을 마친 경찰이 화재가 발생한 전기차를 옮기고 있다. 사진=연합뉴스 정부가 전기차에 들어가는 배터리의 제조사를 공개해 소비자가 알 수... ",
+			"pubDate":"Thu, 08 Aug 2024 07:34:00 +0900"
+		},
+		{
+			"title":"[스타트경제]&quot;1억 벤츠 배터리는 중국산...분통&quot;...<b>청라<\/b> 전기차 화재 오늘 2차...",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0102_202408080733056024",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002071609?sid=101",
+			"description":"인천 <b>청라<\/b>에서 있었던 전기차 화재와 관련해서 여파가 계속되고 있습니다. 당시에 화재가 났던 상황을 정리해 보면 충전 중이 아니고 주차 중인 벤츠 차량에서 화재가 시작됐는데 피해가 주변 140여 대가 불에 탔습니다.... ",
+			"pubDate":"Thu, 08 Aug 2024 07:33:00 +0900"
+		},
+		{
+			"title":"스프링클러 왜 먹통이었나…전기차 폭발 조사 속도",
+			"originallink":"http:\/\/www.mbn.co.kr\/pages\/news\/newsView.php?news_seq_no=5048069",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/057\/0001834495?sid=102",
+			"description":"벤츠 전기차에서 불이 난 인천 <b>청라<\/b> 아파트 지하주차장에서 스크링클러가 작동하지 않았다고 알려졌는데요. 소방당국이 자동차 블랙박스와 같은 아파트 화재 수신기를 확보해 분석에 들어갔습니다. 스프링클러가 고장이... ",
+			"pubDate":"Thu, 08 Aug 2024 07:32:00 +0900"
+		},
 		{
 			"title":"유럽선 전기차 배터리 제조사 공개 의무화…한국은 '확인불능'",
 			"originallink":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=437398",
@@ -159,17 +187,17 @@
 			"pubDate":"Thu, 08 Aug 2024 05:03:00 +0900"
 		},
 		{
-			"title":"지하 불타오른 <b>청라<\/b>…'배터리 정체'도 모르는 전기차 50만대",
-			"originallink":"https:\/\/www.joongang.co.kr\/article\/25269260",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003378591?sid=101",
-			"description":"지난 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 벤츠EQE 화재 사고가 발생한 이후 네이버 ‘메르세데스-벤츠 EQ... 교통안전공단 관계자는 “<b>청라<\/b> 벤츠 사고는 조사 결과가 아직 확정되진 않았지만, 스프링클러만 제때 충분히... ",
-			"pubDate":"Thu, 08 Aug 2024 05:00:00 +0900"
-		},
-		{
 			"title":"커지는 전기차 포비아…화재 보상 사각지대 해소는 '깜깜이'",
 			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2388432",
 			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2388432",
 			"description":"일례로 이달 1일 인천 <b>청라<\/b>지구 아파트 지하주차장에서 폭발한 벤츠 전기차의 차주가 가입한 자동차보험은 대물배상 보상한도가 5억 원으로 알려졌다. 주변에 있던 차량 40여 대가 불타고 100여 대가 연기에 그을리는 등... ",
+			"pubDate":"Thu, 08 Aug 2024 05:00:00 +0900"
+		},
+		{
+			"title":"지하 불타오른 <b>청라<\/b>…'배터리 정체'도 모르는 전기차 50만대",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25269260",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003378591?sid=101",
+			"description":"지난 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 벤츠EQE 화재 사고가 발생한 이후 네이버 ‘메르세데스-벤츠 EQ... 교통안전공단 관계자는 “<b>청라<\/b> 벤츠 사고는 조사 결과가 아직 확정되진 않았지만, 스프링클러만 제때 충분히... ",
 			"pubDate":"Thu, 08 Aug 2024 05:00:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408071233216140507",
 			"description":"인천 <b>청라<\/b> 아파트 전기차 화재로 전기차 안전에 대한 우려가 확산되고 있다. 이번 인천 화재는 지하주차장 같은 밀폐된 공간에서 전기차에 불이 나면 얼마나 위험한 지를 극명히 보여 준다. 층고가 낮아 소방차가 진입할... ",
 			"pubDate":"Thu, 08 Aug 2024 04:20:00 +0900"
-		},
-		{
-			"title":"[사설] 아파트 전기차 충전시설 의무 설치법 시행 더 유예해야",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408071555368770652",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408071555368770652",
-			"description":"인천 <b>청라<\/b> 아파트 전기차 화재로 전기차 안전에 대한 우려가 확산되고 있다. 이번 인천 화재는 지하주차장 같은 밀폐된 공간에서 전기차에 불이 나면 얼마나 위험한지를 극명히 보여준다. 층고가 낮아 소방차가 진입할 수... ",
-			"pubDate":"Thu, 08 Aug 2024 04:20:00 +0900"
-		},
-		{
-			"title":"전기차 화재에 놀란 인천시…모든 아파트에 ‘이 장비’ 보급한다",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DCXPO5ITP",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004377427?sid=102",
-			"description":"그러나 조례 시행 한 달 만인인 지난 1일 <b>청라<\/b>국제도시 아파트 지하 주차장에서 벤츠 전기차 화재로 큰... 한편 이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 벤츠 전기차에서... ",
-			"pubDate":"Thu, 08 Aug 2024 03:16:00 +0900"
-		},
-		{
-			"title":"인천공항고속도로 화물차 화재...퇴근길 한때 정체",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408080307390158",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002071567?sid=102",
-			"description":"어제(7일) 오후 5시 반쯤 인천공항고속도로 <b>청라<\/b>나들목 근처를 달리던 2.5톤 화물차에서 불이 났습니다. 운전자가 갓길에 차를 세우고 대피해 다친 사람은 없었지만, 불을 끄고 현장을 수습하는 과정에서 주변 1개 차로가... ",
-			"pubDate":"Thu, 08 Aug 2024 03:07:00 +0900"
-		},
-		{
-			"title":"전기차 화재 진압 ‘질식소화포’… 인천 모든 아파트에 내년 보급",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240808\/126401485\/2",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003580842?sid=102",
-			"description":"하지만 최근 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차 화재를 계기로 시기를 앞당겨 내년에 모두 보급하기로 했다. 국토교통부는 이번 발화 차량에 대한 국립과학수사연구원의 정밀감식에서 명확한... ",
-			"pubDate":"Thu, 08 Aug 2024 03:03:00 +0900"
 		}
 	]
 }
