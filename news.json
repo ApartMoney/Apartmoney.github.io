@@ -1,9 +1,44 @@
 {
-	"lastBuildDate":"Thu, 08 Aug 2024 09:40:02 +0900",
-	"total":236428,
+	"lastBuildDate":"Thu, 08 Aug 2024 09:50:02 +0900",
+	"total":236433,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 화재 사건, 배터리 정보 공개 필요성 재조명",
+			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=802266",
+			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=802266",
+			"description":"인천 <b>청라<\/b>에서 발생한 전기차 화재 사건으로 전기차 배터리에 대한 소비자의 알 권리가 다시금 주목받고 있다. 해외 여러 국가에서는 이미 배터리 제조사 정보를 의무적으로 공개하는 제도를 도입했거나 도입을 추진... ",
+			"pubDate":"Thu, 08 Aug 2024 09:48:00 +0900"
+		},
+		{
+			"title":"오비맥주, 인천 전기차 화재 이재민과 폭염 취약계층에 생수 긴급지원",
+			"originallink":"https:\/\/weekly.cnbnews.com\/news\/article.html?no=162678",
+			"link":"https:\/\/weekly.cnbnews.com\/news\/article.html?no=162678",
+			"description":"사진=오비맥주 오비맥주가 서울 폭염 취약계층과 인천 <b>청라<\/b> 전기차 화재 이재민의 안전한 여름 나기를 위해... 인천 <b>청라<\/b> 아파트 지하주차장 화재로 현재 임시 대피소에서 지내는 이재민에 지급된다. 오비맥주는 적시에... ",
+			"pubDate":"Thu, 08 Aug 2024 09:48:00 +0900"
+		},
+		{
+			"title":"국토부, 전기차 배터리 정보 공개 의무화 추진",
+			"originallink":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=104544",
+			"link":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=104544",
+			"description":"(사진=연합뉴스)  최근 인천 <b>청라<\/b> 지하주차장 화재 사건으로 전기차에 대한 불안감이 커지면서 배터리 정보 공개에 대한 논의가 활발해지고 있다. 8일 관련업계에 따르면 국토교통부는 전기차 제조사들이 차량 제원에... ",
+			"pubDate":"Thu, 08 Aug 2024 09:42:00 +0900"
+		},
+		{
+			"title":"쪽방촌 지원‧근로환경 점검…유통업계, 건강한 여름나기에 ‘구슬땀’",
+			"originallink":"https:\/\/www.news2day.co.kr\/article\/20240808500033",
+			"link":"https:\/\/www.news2day.co.kr\/article\/20240808500033",
+			"description":"[사진=오비맥주] 오비맥주가 서울 지역 폭염 취약계층과 인천 <b>청라<\/b> 아파트 전기차 화재로 인한 이재민의... 인천 <b>청라<\/b>동 아파트 지하 주차장 화재로 인해 임시 대피소에서 지내고 있는 이재민들에게 전달된다. 오비맥주는... ",
+			"pubDate":"Thu, 08 Aug 2024 09:40:00 +0900"
+		},
+		{
+			"title":"오비맥주, 폭염 취약계층에 생수 긴급 지원",
+			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=663152",
+			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=663152",
+			"description":"오비맥주는 서울 지역 폭염 취약계층과 인천 <b>청라<\/b> 아파트 전기차 화재로 인한 이재민의 안전한 여름 나기를... 인천 <b>청라<\/b>동 아파트 지하 주차장 화재로 인해 임시 대피소에서 지내고 있는 이재민들에게 지급된다.... ",
+			"pubDate":"Thu, 08 Aug 2024 09:40:00 +0900"
+		},
 		{
 			"title":"옛 연인 흉기로 찌르고 달아난 40대 남성, 14시간 만에 숨진 채 발견",
 			"originallink":"http:\/\/www.inews24.com\/view\/1750882",
@@ -89,13 +124,6 @@
 			"pubDate":"Thu, 08 Aug 2024 09:23:00 +0900"
 		},
 		{
-			"title":"오비맥주, 폭염 취약계층에 생수 3만8080병 긴급 지원",
-			"originallink":"https:\/\/www.widedaily.com\/news\/articleView.html?idxno=241871",
-			"link":"https:\/\/www.widedaily.com\/news\/articleView.html?idxno=241871",
-			"description":"오비맥주가 서울 지역 폭염 취약계층과 인천 <b>청라<\/b> 아파트 전기차 화재로 인한 이재민의 안전한 여름 나기를... 인천 <b>청라<\/b>동 아파트 지하 주차장 화재로 인해 임시 대피소에서 지내고 있는 이재민들에게 지급된다.... ",
-			"pubDate":"Thu, 08 Aug 2024 09:20:00 +0900"
-		},
-		{
 			"title":"지하주차장 차량 화재…절반 이상 전기요인",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240808507315?OutUrl=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003958186?sid=102",
@@ -107,6 +135,13 @@
 			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/973858",
 			"link":"https:\/\/www.wikitree.co.kr\/articles\/973858",
 			"description":"인천 서구 <b>청라<\/b>동 아파트 지하주차장에서 불이 난 벤츠 전기차 EQE에 리콜 전력이 있는 중국산 배터리가... <b>청라<\/b>동 아파트 지하주차장을 불바다로 만든 벤츠 EQE에는 중국 파라시스의 니켈·코발트·망간(NCM) 배터리가... ",
+			"pubDate":"Thu, 08 Aug 2024 09:20:00 +0900"
+		},
+		{
+			"title":"오비맥주, 폭염 취약계층에 생수 3만8080병 긴급 지원",
+			"originallink":"https:\/\/www.widedaily.com\/news\/articleView.html?idxno=241871",
+			"link":"https:\/\/www.widedaily.com\/news\/articleView.html?idxno=241871",
+			"description":"오비맥주가 서울 지역 폭염 취약계층과 인천 <b>청라<\/b> 아파트 전기차 화재로 인한 이재민의 안전한 여름 나기를... 인천 <b>청라<\/b>동 아파트 지하 주차장 화재로 인해 임시 대피소에서 지내고 있는 이재민들에게 지급된다.... ",
 			"pubDate":"Thu, 08 Aug 2024 09:20:00 +0900"
 		},
 		{
@@ -178,41 +213,6 @@
 			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=605246",
 			"description":"컨슈머타임스=안솔지 기자 | 오비맥주(대표 배하준)가 서울 지역 폭염 취약계층과 인천 <b>청라<\/b> 아파트 전기차... 이번 지원은 연일 지속되는 폭염과 열대야로 어려움을 겪고 있는 서울 쪽방촌 홀로 어르신과 인천 <b>청라<\/b>동... ",
 			"pubDate":"Thu, 08 Aug 2024 09:06:00 +0900"
-		},
-		{
-			"title":"오비맥주, 폭염 취약계층 생수 3만8080병 긴급 지원",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1914492",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1914492",
-			"description":"<b>청라<\/b>아파트 전기차 화재 이재민에게 생수 총 3만8080병(500㎖ 기준)을 긴급 지원한다고 8일 밝혔다. 이번 지원은 연일 지속되는 폭염과 열대야로 어려움을 겪고 있는 서울 쪽방촌에서 홀로 지내시는 어르신과 인천 <b>청라<\/b>동... ",
-			"pubDate":"Thu, 08 Aug 2024 09:06:00 +0900"
-		},
-		{
-			"title":"오비맥주, 폭염 취약계층 등에 생수 3만8080병 긴급 지원",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408080854091810765",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408080854091810765",
-			"description":"서울 쪽방촌 홀몸 어르신, 인천 <b>청라<\/b> 아파트 화재 이재민 등에 전달 오비맥주가 서울 지역 폭염 취약계층과 인천 <b>청라<\/b> 아파트 전기차 화재로 인한 이재민의 안전한 여름 나기를 위해 사단법인 희망브리지... ",
-			"pubDate":"Thu, 08 Aug 2024 09:02:00 +0900"
-		},
-		{
-			"title":"오비맥주, 폭염 취약계층 등에 생수 3만8080병 긴급 지원",
-			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=210709",
-			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=210709",
-			"description":"오비맥주(대표 배하준)가 서울 지역 폭염 취약계층과 인천 <b>청라<\/b> 아파트 전기차 화재로 인한 이재민의 안전한... 인천 <b>청라<\/b>동 아파트 지하 주차장 화재로 인해 임시 대피소에서 지내고 있는 이재민들에게 지급된다.... ",
-			"pubDate":"Thu, 08 Aug 2024 09:02:00 +0900"
-		},
-		{
-			"title":"[르포] 인천 <b>청라<\/b> 전기차 화재 일주일… 건설업계 “대책 마련 중”",
-			"originallink":"https:\/\/biz.chosun.com\/real_estate\/real_estate_general\/2024\/08\/08\/74653FIOJ5C7XPU2NJV5JYSYHI\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0001010561?sid=101",
-			"description":"서구 <b>청라<\/b>동 전기 승용차 화재가 발생했던 한 아파트 단지 지하 주차장. 화재로 주민들이 대피한 지... DL이앤씨 관계자는 “시스템 개발 이후 문의가 종종 들어왔는데 <b>청라<\/b> 아파트 주차장 화재 이후 문의가 크게 늘었다”... ",
-			"pubDate":"Thu, 08 Aug 2024 09:01:00 +0900"
-		},
-		{
-			"title":"오비맥주, 폭염 취약계층에 생수 3만8080병 긴급 지원",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240808_0002842413",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012716666?sid=101",
-			"description":"오비맥주가 서울 지역 폭염 취약계층과 인천 <b>청라<\/b> 아파트 전기차 화재로 인한 이재민의 안전한 여름 나기를... 인천 <b>청라<\/b>동 아파트 지하 주차장 화재로 인해 임시 대피소에서 지내고 있는 이재민들에게 지급된다.... ",
-			"pubDate":"Thu, 08 Aug 2024 09:01:00 +0900"
 		}
 	]
 }
