@@ -1,9 +1,44 @@
 {
-	"lastBuildDate":"Thu, 08 Aug 2024 19:00:03 +0900",
-	"total":236896,
+	"lastBuildDate":"Thu, 08 Aug 2024 19:10:02 +0900",
+	"total":236901,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"김종훈 충남대 교수, &quot;전기차 완충 습관 버려야&quot;…예방 못한 BMS 기술에 아쉬...",
+			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=341273",
+			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=341273",
+			"description":"김 교수는 6일 전기신문과 통화에서 최근 인천 <b>청라<\/b>에서 발화한 메르세데스-벤츠 EQE 350이 완충 상태였을 가능성을 제기했다. 이번 화재가 빠르고 강력하게 일어났다는 이유에서다. NCM(니켈･코발트･망간) 배터리는... ",
+			"pubDate":"Thu, 08 Aug 2024 19:08:00 +0900"
+		},
+		{
+			"title":"&quot;벤츠가 벤츠 했네&quot; 다 불탄 그 아파트서 '추가할인' 판촉한 벤츠 딜러",
+			"originallink":"https:\/\/www.news1.kr\/industry\/auto-industry\/5505870",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007719707?sid=103",
+			"description":"8일 업계에 따르면 벤츠 딜러사 한 직원은 '<b>청라<\/b> A아파트 2차 전손차량 지원'이란 이름의 전단지를 제작해 배포했다. 전단지에는 '벤츠 공식딜러'라는 직함과 함께 직원의 이름과 전화번호가 적혀 있다. 전단지에는 &quot;전기차... ",
+			"pubDate":"Thu, 08 Aug 2024 19:05:00 +0900"
+		},
+		{
+			"title":"인천 전기차 화재 아파트, 수돗물 재개 후 수질검사 실시",
+			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=281255",
+			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=281255",
+			"description":"지난 1일 발생한 전기차 화재로 수돗물 공급이 중단됐던 인천 서구 <b>청라<\/b>국제도시 아파트에 대한 수질검사가 실시된다. 인천시는 주민들의 먹는 물 안전을 위해 무료 수질검사를 실시한다고 8일 밝혔다. 해당 아파트는... ",
+			"pubDate":"Thu, 08 Aug 2024 19:02:00 +0900"
+		},
+		{
+			"title":"정부, 전기차 '배터리 정보공개' 논의…13일 제조사·수입사 만나",
+			"originallink":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=437414",
+			"link":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=437414",
+			"description":"인천 <b>청라<\/b> 지하주차장 전기차 화재로 '전기차 포비아(공포증)'가 확산하며 소비자의 전기차 배터리에 대한 알 권리 보장의 필요성이 부상한 가운데 정부가 전기차 배터리 정보를 공개하도록 하는 방안을 검토하고 있다.... ",
+			"pubDate":"Thu, 08 Aug 2024 19:02:00 +0900"
+		},
+		{
+			"title":"벤츠 전기차 피해 단지에 '벤츠 판매 프로모션' 전단...주민들 '분개'",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408081900286013",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002071926?sid=102",
+			"description":"주차돼 있던 벤츠 전기차에 불이 나면서 차량 140여 대가 피해를 본 인천 <b>청라<\/b>동 아파트 단지에 벤츠 대리점에서 차량 프로모션을 진행한다는 전단지가 붙어 원성을 사고 있습니다. '전손 차량 지원'과 '전기차 화재 지원... ",
+			"pubDate":"Thu, 08 Aug 2024 19:00:00 +0900"
+		},
 		{
 			"title":"전기차 불나면 '속수무책'…기존 소화 장비+2차 지원이 최선책",
 			"originallink":"https:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=4016527",
@@ -178,41 +213,6 @@
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1063978",
 			"description":"'전기차 배터리' 정보 공개 의무화 검토 인천 <b>청라<\/b> 지하주차장 전기차 화재로 '전기차 포비아(공포증)'가 확산하며 소비자의 전기차 배터리에 대한 알 권리 보장의 필요성이 부상한 가운데 정부가 전기차 배터리 정보를... ",
 			"pubDate":"Thu, 08 Aug 2024 17:58:00 +0900"
-		},
-		{
-			"title":"벤츠 전기차 화재 2차 합동감식…배터리 관리 장치 확보",
-			"originallink":"https:\/\/news.tvchosun.com\/site\/data\/html_dir\/2024\/08\/08\/2024080890148.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000471020?sid=102",
-			"description":"인천경찰청은 <b>청라<\/b> 아파트 지하 주차장에서 불이 난 전기차를 대상으로 2차 합동 감식을 했다고 8일 밝혔다. 합동 감식에는 경찰 과학수사대, 국과수, 소방 등 합동감식팀 20여명이 투입됐고, 차량 제조사인 메르세데스... ",
-			"pubDate":"Thu, 08 Aug 2024 17:58:00 +0900"
-		},
-		{
-			"title":"[ESG] 오비맥주, 폭염 속 취약계층에 생수 3만8080병 긴급 지원",
-			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2024080817571680693",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/117\/0003859648?sid=103",
-			"description":"이번 지원은 연일 계속되는 폭염과 열대야로 어려움을 겪고 있는 서울 쪽방촌의 홀로 지내는 어르신과 인천 <b>청라<\/b>동 아파트 지하 주차장 화재로 임시 대피소에서 생활하는 이재민에게 전달된다. 오비맥주는 희망브리지... ",
-			"pubDate":"Thu, 08 Aug 2024 17:58:00 +0900"
-		},
-		{
-			"title":"[단독] 2억 마이바흐에 中배터리…수입차 '꼼수'에 고객 분노",
-			"originallink":"https:\/\/www.hankyung.com\/article\/2024080819651",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005019764?sid=101",
-			"description":"최근 인천 <b>청라<\/b>동에서 전소된 메르세데스벤츠 EQE가 업계 10위권 밖인 중국 파라시스 배터리를 탑재한... 인천 <b>청라<\/b>에서 불이 난 벤츠 EQE에 중국 CATL과 10위권 밖인 파라시스의 삼원계 배터리가 함께 쓰인 것과... ",
-			"pubDate":"Thu, 08 Aug 2024 17:56:00 +0900"
-		},
-		{
-			"title":"경기도, 아파트 단지 전기차 충전시설 잇따른 화재에 안전점검 진행",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240808580341",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000049091?sid=100",
-			"description":"8일 오전 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다. 연합뉴스 경기도내... ",
-			"pubDate":"Thu, 08 Aug 2024 17:54:00 +0900"
-		},
-		{
-			"title":"옛 연인에 흉기 휘두른 뒤 도주했던 40대 숨진 채 발견",
-			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2024080817514695339?utm_source=naver&utm_medium=search",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002345124?sid=102",
-			"description":"A씨는 전날 오전 8시 20분께 인천시 서구 <b>청라<\/b>국제도시 아파트 지하주차장에서 과거 연인관계였던 B(40대)씨에게 흉기를 휘두른 뒤 자신의 차량을 타고 달아났다. B씨 가족의 신고를 받고 현장에 출동한 경찰은 주변... ",
-			"pubDate":"Thu, 08 Aug 2024 17:53:00 +0900"
 		}
 	]
 }
