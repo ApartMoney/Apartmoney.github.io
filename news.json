@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 08 Aug 2024 22:10:02 +0900",
-	"total":236942,
+	"lastBuildDate":"Thu, 08 Aug 2024 22:20:02 +0900",
+	"total":236943,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘전기차 포비아’ 확산에…산업부, 전기차 화재 관련 긴급간담회",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03781846638985352",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005808004?sid=101",
+			"description":"지난 2일 오전 인천 서구 <b>청라<\/b> 아파트 지하 주차장 화재 현장에서 경찰과 소방 등 관계자들이 합동 감식을... 이날 간담회에서는 인천 <b>청라<\/b>아파트의 메르세데스-벤츠 전기차 화재 사고 수습보다는 화재사고 재발... ",
+			"pubDate":"Thu, 08 Aug 2024 22:13:00 +0900"
+		},
 		{
 			"title":"‘벤츠 전기차’ 불로 화재 <b>청라<\/b> 아파트에…판촉 홍보물 ‘논란’",
 			"originallink":"https:\/\/economist.co.kr\/article\/view\/ecn202408080085",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261565",
 			"description":"인천 <b>청라<\/b>국제도시 아파트 전기차 화재 원인을 조사 중인 경찰이 발화점인 전기차에서 '배터리 팩'을... 인천경찰청은 서부경찰서에서 맡았던 <b>청라<\/b> 아파트 전기차 화재 사건을 인천경찰청 형사기동대로 이관했다고 8일... ",
 			"pubDate":"Thu, 08 Aug 2024 19:46:00 +0900"
-		},
-		{
-			"title":"고소전 번진 아파트 내 전기차 충전소 갈등",
-			"originallink":"https:\/\/www.ichannela.com\/news\/main\/news_detailPage.do?publishId=000000425972",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/449\/0000282227?sid=115",
-			"description":"사실 오늘 여전히 시민들이 불편을 겪고 있는 인천 <b>청라<\/b>의 한 아파트 지하주차장 화재 사고. 제가 장윤미 변호사께 이 질문을 드릴 것이에요. 왜냐하면 오늘 2차 감식이 진행이 되었고 배터리 분리 작업도 진행이... ",
-			"pubDate":"Thu, 08 Aug 2024 19:42:00 +0900"
 		}
 	]
 }
