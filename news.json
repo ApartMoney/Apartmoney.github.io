@@ -1,11 +1,25 @@
 {
-	"lastBuildDate":"Thu, 08 Aug 2024 20:50:02 +0900",
-	"total":236934,
+	"lastBuildDate":"Thu, 08 Aug 2024 21:00:02 +0900",
+	"total":236936,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"벤츠 전기차 화재 피해 아파트에 벤츠 홍보 전단지",
+			"title":"&quot;전기차 화재 불안감 줄여라&quot; 정부, 대책 분주",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240809010000924",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240809010000924",
+			"description":"서구 <b>청라<\/b>국제도시 아파트 전기차 화재 등으로 시민 불안감이 커지면서 정부 관계부처가 모여 종합대책을... 한편 인천소방본부는 <b>청라<\/b>국제도시 전기차 화재 발생 당시 스프링클러가 작동하지 않은 것을 확인, 원인... ",
+			"pubDate":"Thu, 08 Aug 2024 20:58:00 +0900"
+		},
+		{
+			"title":"'헐값 임대료' 수도권매립지캠핑장 내년 정상화",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240809010000957",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240809010000957",
+			"description":"매립지 캠핑장보다 규모가 작은 <b>청라<\/b>해변공원캠핑장(2억5천만원), 영종씨사이드캠핑장(3억7천만원), 송도국제캠핑장(6억8천만원) 등은 민간 사업자가 경쟁입찰을 통해 3억~7억원에 이르는 사용료를 내고 운영 중이다.... ",
+			"pubDate":"Thu, 08 Aug 2024 20:50:00 +0900"
+		},
+		{
+			"title":"'벤츠 전기차 화재' 아파트에 붙은 벤츠 홍보물… 주민들 분노",
 			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024080820120004982?did=NA",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000816834?sid=102",
 			"description":"메르세데스-벤츠 전기자동차 폭발 화재로 큰 피해를 입은 인천 서구 <b>청라<\/b>국제도시 아파트에 벤츠 공식 딜러 이름의 할인 판매 홍보 전단지가 붙어 논란이 일고 있다. 8일 주민들에 따르면 이날 <b>청라<\/b> 아파트 승강기... ",
@@ -19,17 +33,17 @@
 			"pubDate":"Thu, 08 Aug 2024 20:38:00 +0900"
 		},
 		{
-			"title":"전기차 화재 진압 장비 '파이어 커버'를 아시나요…[현장+]",
-			"originallink":"https:\/\/www.hankyung.com\/article\/2024080818617",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005019848?sid=102",
-			"description":"차량 140여대, 정전과 단수, 주민 23명 연기 흡입 등 막대한 피해를 낳은 1일 인천 서구 <b>청라<\/b>동 아파트 지하 주차장 화재가 연일 논란의 도마 위에 오르고 있다. 주차돼있던 전기차가 발화점으로 지목되면서다. 전기차... ",
-			"pubDate":"Thu, 08 Aug 2024 20:31:00 +0900"
-		},
-		{
 			"title":"서울발 집값 상승세 인천으로 번져간다",
 			"originallink":"http:\/\/www.inews24.com\/view\/1751001",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000860603?sid=101",
 			"description":"서울 화곡~<b>청라<\/b>국제도시로 연결되는 서울 지하철 2호선 연장 노선도 최근 대장홍대선의 연내 조기 착공이... 분양업계 관계자는 &quot;계양구는 송도나 <b>청라<\/b>지역보다 서울 서부권역 접근성이 좋은 입지적 특성으로 인해... ",
+			"pubDate":"Thu, 08 Aug 2024 20:31:00 +0900"
+		},
+		{
+			"title":"전기차 화재 진압 장비 '파이어 커버'를 아시나요…[현장+]",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2024080818617",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005019848?sid=102",
+			"description":"차량 140여대, 정전과 단수, 주민 23명 연기 흡입 등 막대한 피해를 낳은 1일 인천 서구 <b>청라<\/b>동 아파트 지하 주차장 화재가 연일 논란의 도마 위에 오르고 있다. 주차돼있던 전기차가 발화점으로 지목되면서다. 전기차... ",
 			"pubDate":"Thu, 08 Aug 2024 20:31:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.newspim.com\/news\/view\/20240808001180",
 			"description":"지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 전기차에서 불이 나 주민 등 23명이 연기를 마셔 병원에서 치료를 받고 차량 140여대가 불에 타거나 그을렸다. 또 지하 설비와 배관 등이 녹아 대규모... ",
 			"pubDate":"Thu, 08 Aug 2024 19:21:00 +0900"
-		},
-		{
-			"title":"전기차 화재 아파트에 벤츠 판촉 홍보물…주민 격분",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240808159900065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014864520?sid=102",
-			"description":"한편, 이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 벤츠 메르세데스-벤츠 EQE 세단 전기차에서 발생했다. 이 불로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌고, 차량 140여대가... ",
-			"pubDate":"Thu, 08 Aug 2024 19:20:00 +0900"
-		},
-		{
-			"title":"연이은 화재에 번진 '전기차 주차금지' 논쟁",
-			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1043894",
-			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1043894",
-			"description":"지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 화재가 발생한 이후 전기차 지하 주차장 출입 금지와 관련한 잡음이 빠르게 확산하고 있다. 특히 발화점이 된 전기차가 충전 중이 아닌 상태에서 화재가 발생했다는... ",
-			"pubDate":"Thu, 08 Aug 2024 19:18:00 +0900"
 		}
 	]
 }
