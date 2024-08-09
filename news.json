@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 09 Aug 2024 16:30:02 +0900",
-	"total":237196,
+	"lastBuildDate":"Fri, 09 Aug 2024 16:40:02 +0900",
+	"total":237198,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이승열 하나은행장 '연임'호, 내유외강 리더십에 '순항'",
+			"originallink":"https:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=326527",
+			"link":"https:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=326527",
+			"description":"하나은행은 지난 5일 인천광역시 서구 <b>청라<\/b>동 아파트 지하주차장 전기차 화재 피해 이재민을 위해 하나금융지주 연수원 하나글로벌캠퍼스에 임시 대피소 100호실을 운영하기로 했다. 관련 지역구, 이용구 국회의원은 4일... ",
+			"pubDate":"Fri, 09 Aug 2024 16:32:00 +0900"
+		},
+		{
+			"title":"서울시 전기차 제재조치 발표, 인천은 아직",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261658",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261658",
+			"description":"<b>청라<\/b>국제도시 공동주택 지하주차장 전기차 화재 발생 9일만에 나온 첫 전기차 규제로, 완충된 전기차에서 발생 가능성이 있는 화재를 예방하기 위해서다. 서울시는 &quot;전기차 화재는 외부 충격, 배터리 결함, 과충전 등... ",
+			"pubDate":"Fri, 09 Aug 2024 16:30:00 +0900"
+		},
 		{
 			"title":"'전기차 화재' 아파트 477세대, 1주일 만에 전기 공급 재개",
 			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007757341&plink=ORI&cooper=NAVER",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003581094?sid=102",
 			"description":"최근 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 발생한 전기차 화재로 시민들의 우려가 커지는 가운데, 전기차 화재의 주요 원인 중 하나인 과도한 충전을 방지하자는 취지다. 9일 서울시는 ‘공동주택 관리규약... ",
 			"pubDate":"Fri, 09 Aug 2024 15:43:00 +0900"
-		},
-		{
-			"title":"“23층에 아기랑 셋, 연기 가득”…인천 전기차 화재, 긴박했던 ‘119 통화’",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/11089154",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005347974?sid=102",
-			"description":"서구 <b>청라<\/b>국제도시 아파트에서 첫 신고가 접수됐다. 최초 신고자는 “지하 1층 주차장에서 불이 너무 크게... 아파트 주민들은 물론 온 국민들을 불안에 떨게 만든 이번 전기차 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국... ",
-			"pubDate":"Fri, 09 Aug 2024 15:42:00 +0900"
-		},
-		{
-			"title":"인천 '전기차 화재'스프링클러 미작동 원인은…핵심 밸브 임의 조작",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20240809152124377",
-			"link":"https:\/\/www.ajunews.com\/view\/20240809152124377",
-			"description":"아주경제=인천=강대웅 기자 dwkang@ajunews.com 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 일어난 전기차 화재 당시 스프링클러가 작동하지 않은 이유는 핵심 밸브가 임의로 조작됐기 때문인 것으로 소방당국... ",
-			"pubDate":"Fri, 09 Aug 2024 15:42:00 +0900"
 		}
 	]
 }
