@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Fri, 09 Aug 2024 10:20:02 +0900",
-	"total":237035,
+	"lastBuildDate":"Fri, 09 Aug 2024 10:30:02 +0900",
+	"total":237041,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 화재 ‘논란’···中 배터리 탑재 의존도 '더 높아졌다'",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1632906\/?sc=Naver",
+			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1632906\/?sc=Naver",
+			"description":"최근 인천 <b>청라<\/b>동에서 전소된 메르세데스벤츠 EQE가 업계 10위권 밖인 중국 파라시스 배터리를 탑재한... 이번 회의는 지난 1일 인천 <b>청라<\/b> 소재 아파트 지하 주차장에서 발생한 벤츠 전기차 ‘EQE’ 화재가 발생한데 따른... ",
+			"pubDate":"Fri, 09 Aug 2024 10:28:00 +0900"
+		},
+		{
+			"title":"중국산 ‘파라시스 배터리’ 탑재차량 3000대 넘어…정부 “제조사 공개 추진...",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240809508886?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003958560?sid=102",
+			"description":"지난 5일 오후 인천 서구 <b>청라<\/b>동 아파트 지하 주차장 화재 현장에서 합동 감식을 마친 경찰이 화재가 발생한 전기차를 옮기고 있다. 사진=연합뉴스 인천 <b>청라<\/b> 전기차 화재 사고와 관련 국토교통부가 메르세데스 벤츠... ",
+			"pubDate":"Fri, 09 Aug 2024 10:26:00 +0900"
+		},
+		{
+			"title":"'전기차 화재' 스프링클러 미작동 이유는…핵심 밸브 '임의 조작'",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007756801&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001180132?sid=102",
+			"description":"인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해 디지털포렌식을 실시한 결과 아파트 관계자에 의해 특정 밸브 작동이 중단된 점이 확인됐다고 밝혔습니다. 조사 결과... ",
+			"pubDate":"Fri, 09 Aug 2024 10:24:00 +0900"
+		},
+		{
+			"title":"인천 전기차 화재 현장, 핵심밸브 조작돼 스프링클러 작동 안해",
+			"originallink":"https:\/\/www.sportsseoul.com\/news\/read\/1453020?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/468\/0001084345?sid=102",
+			"description":"지난 5일 오후 인천 서구 <b>청라<\/b>동 아파트 지하 주차장 화재 현장에서 합동 감식을 마친 경찰이 화재가 발생한... 인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해... ",
+			"pubDate":"Fri, 09 Aug 2024 10:23:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> ‘전기차 화재’ 스프링클러 미작동… “밸브 정지 누른 탓”",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020404371&code=61121111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001716841?sid=102",
+			"description":"인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 건물 방재실에서 화재 수신기를 확보해... 이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 벤츠 전기차에서... ",
+			"pubDate":"Fri, 09 Aug 2024 10:22:00 +0900"
+		},
+		{
+			"title":"벤츠전기차 화재 아파트에 벤츠 판촉 전단지? …주민 격분",
+			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=318502",
+			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=318502",
+			"description":"8일 오전 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b>... 한편, 이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 벤츠 메르세데스... ",
+			"pubDate":"Fri, 09 Aug 2024 10:20:00 +0900"
+		},
 		{
 			"title":"상상도 못했다…'전기차 화재' <b>청라<\/b> 아파트서 스프링클러가 작동 안한 이유",
 			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/974199",
@@ -50,7 +92,7 @@
 			"title":"<b>청라<\/b> 전기차 화재서 “임의 조작에 스프링클러 미작동”",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020404280&code=61122012&cp=nv",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001716836?sid=102",
-			"description":"인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 사고에서 아파트 관계자의 임의 조작을 통해... 앞서 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 1581세대 아파트 지하 1층 주차장에서 전기차 화재로 불이 나 23명이... ",
+			"description":"인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 사고에서 아파트 관계자의 임의 조작을 통해... 앞서 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 1581세대 아파트 지하 1층 주차장에서 전기차 화재로 불이 나 23명이 다치고... ",
 			"pubDate":"Fri, 09 Aug 2024 10:05:00 +0900"
 		},
 		{
@@ -171,48 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/658\/0000080780?sid=101",
 			"description":"앞서 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서는 전기차 화재로 큰 피해가 발생하면서 불안감이 확산했다. 지난 6일에도 충남 금산에서 주차 중이던 전기차에서 불이 나는 사고가 발생했다. 현재 전기차 관련... ",
 			"pubDate":"Fri, 09 Aug 2024 09:32:00 +0900"
-		},
-		{
-			"title":"전기차 화재 <b>청라<\/b> 아파트, 스프링클러 미작동 원인 밝혀졌다",
-			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1115358",
-			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1115358",
-			"description":"유정복 인천광역시장이 5일 서구 <b>청라<\/b>동 아파트 지하주차장 화재현장을 찾아 피해 및 복구상황을 점검하고 있다. 사진=인천시 제공.  인천 <b>청라<\/b> 아파트 지하주차장 내 전기차 화재 당시 스프링클러가 작동하지 않은 이유가... ",
-			"pubDate":"Fri, 09 Aug 2024 09:28:00 +0900"
-		},
-		{
-			"title":"'전기차 화재' 인천 <b>청라<\/b> 아파트, 스프링클러 '미작동'",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251453",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251453",
-			"description":"서구 <b>청라<\/b>동 소재 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재 사건과 관련해 아파트 지하주차장 천정에 설치된 스프링클러가 미작동한 것으로 조사됐다. 인천소방본부는 9일 지난 1일 발생한 <b>청라<\/b> 아파트... ",
-			"pubDate":"Fri, 09 Aug 2024 09:28:00 +0900"
-		},
-		{
-			"title":"불난 집에 부채질?…벤츠코리아, 전기차 화재 발생 아파트에 '전손 차량 지원...",
-			"originallink":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=137388",
-			"link":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=137388",
-			"description":"인천 <b>청라<\/b>동 아파트에 '벤츠 전손 차량 지원 프로모션' 광고지를 부착했다. 해당 전단지에는 &quot;전기차 화재... 이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 벤츠 메르세데스-벤츠 EQE... ",
-			"pubDate":"Fri, 09 Aug 2024 09:28:00 +0900"
-		},
-		{
-			"title":"'전기차화재' 스프링클러 미작동 원인 '밸브 임의조작' 확인",
-			"originallink":"http:\/\/tbs.seoul.kr\/news\/newsView.do?typ_800=6&idx_800=3527048&seq_800=20519869",
-			"link":"http:\/\/tbs.seoul.kr\/news\/newsView.do?typ_800=6&idx_800=3527048&seq_800=20519869",
-			"description":"인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해... 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 전기차에서 불이 나 주민 등 23명이 연기를... ",
-			"pubDate":"Fri, 09 Aug 2024 09:27:00 +0900"
-		},
-		{
-			"title":"인천시 도성훈 교육감, <b>청라<\/b> 아파트 화재 사고 '관내 학교 임시주거시설' 위문",
-			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20240808500597",
-			"link":"http:\/\/www.metroseoul.co.kr\/article\/20240808500597",
-			"description":"도성훈 인천광역시교육감이 7일 <b>청라<\/b> 아파트 화재 사고 '관내 학교 임시주거시설'을 위문방문하고 있다. (인천시교육청 제공) 도성훈 인천광역시교육감은 지난 1일 발생한 <b>청라<\/b>지역 아파트 화재 사고 피해 주민들이 임시로... ",
-			"pubDate":"Fri, 09 Aug 2024 09:26:00 +0900"
-		},
-		{
-			"title":"벤츠코리아, &quot;<b>청라<\/b> 할인 전단 수거…영업사원 개인 행동&quot;",
-			"originallink":"https:\/\/isplus.com\/article\/view\/isp202408090035",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/241\/0003371863?sid=103",
-			"description":"메르세데스 벤츠코리아가 인천 <b>청라<\/b>동 아파트에 붙은 할인 홍보 전단을 모두 수거 조치했다고 9일 밝혔다.... 앞서 8일 각종 커뮤니티엔 '<b>청라<\/b> A아파트 2차 전손차량 지원'이라는 제목의 전단이 공유됐다. '전손 차량 지원... ",
-			"pubDate":"Fri, 09 Aug 2024 09:25:00 +0900"
 		}
 	]
 }
