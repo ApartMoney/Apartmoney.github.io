@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 09 Aug 2024 18:40:02 +0900",
-	"total":237246,
+	"lastBuildDate":"Fri, 09 Aug 2024 18:50:02 +0900",
+	"total":237248,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[동향] 역대급 폭염에 지원‧점검 나서는 기업들",
+			"originallink":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=322432",
+			"link":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=322432",
+			"description":"인천 <b>청라<\/b> 아파트 전기차 화재로 인한 이재민의 안전한 여름나기를 위해 생수 3만8080 병(500㎖ 기준)을 긴급 지원했다. ⓒ오비맥주 지난 8일 오비맥주가 서울지역 폭염 취약계층과 인천 <b>청라<\/b> 아파트 전기차 화재로 인한... ",
+			"pubDate":"Fri, 09 Aug 2024 18:42:00 +0900"
+		},
 		{
 			"title":"[파발마] 제169호. 경전철의 확장",
 			"originallink":"https:\/\/www.redaily.co.kr\/news\/articleView.html?idxno=8614",
@@ -38,6 +45,13 @@
 			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=61&p_no=172526",
 			"description":"인천 <b>청라<\/b>에서 발생한 아파트 전기차 화재로 아파트에 거주하는 시민들의 불안이 빠르게 확산하고 있습니다. 일단 전기차 주차장을 지상으로 옮겨야 한다는 목소리가 커지고 있는데요. 일부 아파트는 이미 지상... ",
 			"pubDate":"Fri, 09 Aug 2024 18:18:00 +0900"
+		},
+		{
+			"title":"[이슈플러스] &quot;스프링클러 밸브 임의조작&quot;...배상 책임은 누구에게",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408091817426278",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002072329?sid=102",
+			"description":"인천 <b>청라<\/b> 아파트 전기차 화재 당시누군가 정지 버튼을 눌러 스프링클러가 작동하지 않은 게 확인되면서 책임... <b>청라<\/b> 아파트 화재 주민들이 보는 공간에 벤츠 차량을 할인해 줄 테니 사세요라는 홍보물이 붙어서 많은... ",
+			"pubDate":"Fri, 09 Aug 2024 18:17:00 +0900"
 		},
 		{
 			"title":"지하주차장 충전율 제한 추진에…현대차·기아 &quot;화재 예방 적극 협력&quot;",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002072302?sid=101",
 			"description":"[기자] 네, 인천 <b>청라<\/b>와 충남 금산에서 발생한 전기차 화재로, 시민들의 불안이 커지자 정부도 팔을 걷어붙였습니다. 먼저 문제가 된 메스세데스 벤츠 차량의 경우, 중국 파라시스 배터리를 사용한 것으로 뒤늦게 드러났죠.... ",
 			"pubDate":"Fri, 09 Aug 2024 17:19:00 +0900"
-		},
-		{
-			"title":"전기차 배터리 정보 투명화...국내 완성차 업체 동참",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20240809500366",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20240809500366",
-			"description":"현대차그룹·KGM 내년부터 배터리 정보 공개 최근 인천 <b>청라<\/b> 전기차 사건을 중심으로 전기차 화재에 대한... 8일 오전 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트... ",
-			"pubDate":"Fri, 09 Aug 2024 17:18:00 +0900"
-		},
-		{
-			"title":"안전한 전기차로 화재사고 막기 위해... 현대차 &quot;베터리 제조사·안전정보 다...",
-			"originallink":"https:\/\/www.insight.co.kr\/news\/476078",
-			"link":"https:\/\/www.insight.co.kr\/news\/476078",
-			"description":"이같은 내용은 지난달 26일 발표됐으나 별다른 주목을 받지 못하다가 지난 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 발생한 전기차 화재로 인해 재조명됐다.환경부가 꼽은 주요 배터리 안전정보는... ",
-			"pubDate":"Fri, 09 Aug 2024 17:16:00 +0900"
 		}
 	]
 }
