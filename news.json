@@ -1,9 +1,58 @@
 {
-	"lastBuildDate":"Fri, 09 Aug 2024 16:20:02 +0900",
-	"total":237189,
+	"lastBuildDate":"Fri, 09 Aug 2024 16:30:02 +0900",
+	"total":237196,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'전기차 화재' 아파트 477세대, 1주일 만에 전기 공급 재개",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007757341&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001180234?sid=102",
+			"description":"▲ 지난 5일 오후 생수를 받아 가는 인천 서구 <b>청라<\/b>동 전기차 화재 아파트 주민들 최근 지하 주차장 전기차 화재로 전기 공급이 끊긴 인천 <b>청라<\/b> 아파트 단지 470여 세대에 1주일 만에 전기 공급이 재개됐습니다. 인천시... ",
+			"pubDate":"Fri, 09 Aug 2024 16:28:00 +0900"
+		},
+		{
+			"title":"&quot;자연과 함께 짓는다&quot;…특화 조경설계 갖춘 아파트, 지역 랜드마크로 '주목'",
+			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=687662",
+			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=687662",
+			"description":"단독 브랜드로는 보기 드문 매머드급 대단지로, 인근 '남산자이 하늘채'와 '<b>청라<\/b>힐스자이'에 이어 달구벌대로 일대를 대표하는 또 하나의 랜드마크 '자이' 아파트로 거듭날 전망이다. 단지는 2023가구 매머드급 규모를... ",
+			"pubDate":"Fri, 09 Aug 2024 16:26:00 +0900"
+		},
+		{
+			"title":"인천시의회 건설교통위원회, 서구 전기차 화재현장 확인",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20240809162015440",
+			"link":"https:\/\/www.ajunews.com\/view\/20240809162015440",
+			"description":"시민의 지원요구 사항 인천시가 적극적으로 개진해줄 것 당부 아주경제=인천=강대웅 기자 dwkang@ajunews.com 인천광역시의회 건설교통위원회 김대중 위원장과 석정규 부위원장이 <b>청라<\/b> 서구 전기차 화재 현장을 방문해 화재... ",
+			"pubDate":"Fri, 09 Aug 2024 16:24:00 +0900"
+		},
+		{
+			"title":"인천시의회 건설교통위원회 서구 전기차 화재현장 확인",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240809010002743",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240809010002743",
+			"description":"인천시의회 건설교통위원회 서구 전기차 화재현장 확인 인천시의회 건설교통위원회 김대중 위원장과 석정규 부위원장이 <b>청라<\/b> 서구 전기차 화재 현장을 방문해 화재 피해와 복구 지원활동 상황 등을 확인했다. 9일... ",
+			"pubDate":"Fri, 09 Aug 2024 16:22:00 +0900"
+		},
+		{
+			"title":"중국산 전기차 배터리 안전성 의심에도…올 상반기 글로벌 점유율↑",
+			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20240809010001195",
+			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20240809010001195",
+			"description":"최근 인천 <b>청라<\/b>지역 한 아파트 지하주차장에서 발생한 중국산 배터리 화재로 안전성 문제가 불거진 상황에서 앞으로도 중국산 배터리 판매량이 계속 증가지 추이가 주목된다.9일 에너지 전문 시장조사업체... ",
+			"pubDate":"Fri, 09 Aug 2024 16:22:00 +0900"
+		},
+		{
+			"title":"전기차 50%는 '중국산 배터리' … 제조사 공개 의무화 할까",
+			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=218013",
+			"link":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=218013",
+			"description":"최근 인천 <b>청라<\/b>에서 폭발한 벤츠EQE350의 배터리가 중국 파라시스 제품으로 알려진 가운데 국내 운행 전기차 58종 가운데 23개 모델이 중국산을 사용중인 것으로 나타났다. 중국산 비중을 수입 전기차로 한정하면 50%에... ",
+			"pubDate":"Fri, 09 Aug 2024 16:22:00 +0900"
+		},
+		{
+			"title":"환경공단, 인천 전기차 화재 피해 복구 성금 1000만원 기탁",
+			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=341473",
+			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=341473",
+			"description":"환경공단이 인천 <b>청라<\/b>신도시의 전기차 화재로 인해 큰 어려움을 겪고 있는 아파트 주민들을 돕기 위해 복구 지원에 나섰다. 한국환경공단(이사장 안병옥)은 1일 인천 서구에서 발생한 전기차 화재로 피해를 입은 주민들을... ",
+			"pubDate":"Fri, 09 Aug 2024 16:22:00 +0900"
+		},
 		{
 			"title":"환경공단, <b>청라<\/b> 아파트 전기차 화재 이재민 구호성금 전달",
 			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=298593",
@@ -19,7 +68,7 @@
 			"pubDate":"Fri, 09 Aug 2024 16:16:00 +0900"
 		},
 		{
-			"title":"‘인천 전기차 화재 아파트’ 일주일 만에 전기 공급 재개",
+			"title":"인천 전기차 화재 아파트, 일주일 만에 전기 공급 재개",
 			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1153036.html",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002702106?sid=102",
 			"description":"인천 서구는 전기차 화재가 발생한 인천 서구 <b>청라<\/b>국제도시의 대규모 아파트 단지(14개 동 1581가구) 내 모든 가구에 전기를 공급하는 작업이 마무리됐다고 9일 밝혔다. 다만 3개 동에는 소화수가 남아있어 승강기 등 공용... ",
@@ -138,7 +187,7 @@
 			"pubDate":"Fri, 09 Aug 2024 15:44:00 +0900"
 		},
 		{
-			"title":"'시끄럽네' 인천 전기차 화재경보에 아파트직원 스프링클러 '정지'(종합)",
+			"title":"인천 전기차 화재경보에 아파트직원 스프링클러 '정지버튼' 눌렀다(종합)",
 			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/5506624",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007721323?sid=102",
 			"description":"인천소방본부는 서구 <b>청라<\/b>동 아파트에 설비된 스프링클러 작동 여부에 대한 합동화재 안전조사(포렌식)를 실시한 결과, 아파트 관리사무소 직원의 임의작동으로 화재 당시 '솔레노이드 밸브'가 작동하지 않은 것으로... ",
@@ -164,55 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20240809152124377",
 			"description":"아주경제=인천=강대웅 기자 dwkang@ajunews.com 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 일어난 전기차 화재 당시 스프링클러가 작동하지 않은 이유는 핵심 밸브가 임의로 조작됐기 때문인 것으로 소방당국... ",
 			"pubDate":"Fri, 09 Aug 2024 15:42:00 +0900"
-		},
-		{
-			"title":"'90% 이상' 충전 전기차 지하주차장 출입 금지된다",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20240809153108389",
-			"link":"https:\/\/www.ajunews.com\/view\/20240809153108389",
-			"description":"com 지난 5일 인천 서구 <b>청라<\/b>동 아파트 지하 주차장 화재 현장에서 합동 감식을 마친 경찰이 화재가 발생한... 지난 1일 인천 <b>청라<\/b>국제도시의 한 아파트 지하 주차장에서 전기차 화재가 발생해 차량 140여대가 전소되는 등... ",
-			"pubDate":"Fri, 09 Aug 2024 15:42:00 +0900"
-		},
-		{
-			"title":"[기자수첩]배터리 브랜드가 전기차를 좌우한다",
-			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024080914005731746",
-			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024080914005731746",
-			"description":"지난 1일 인천시 서구 <b>청라<\/b> 아파트에서 발생한 벤츠 화재 사고로 피해 차량은 모두 140여 대, 전소된 차량만 72대로 확인됐다. 아파트 14개동, 1581가구에는 수돗물 공급이 끊겼다. 주민 822명은 이재민이 됐다. 화재 5일... ",
-			"pubDate":"Fri, 09 Aug 2024 15:40:00 +0900"
-		},
-		{
-			"title":"내년부터 전기차 배터리 정보 공개한 차 제조업체에 보조금 지급",
-			"originallink":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=84536",
-			"link":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=84536",
-			"description":"8일 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트... 그러다 지난 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 발생한 화재로 환경부의 이같은... ",
-			"pubDate":"Fri, 09 Aug 2024 15:38:00 +0900"
-		},
-		{
-			"title":"인천 전기차 화재 아파트 8일만에 전기 공급…소방서 “차량 87대 불에 타”",
-			"originallink":"https:\/\/www.khan.co.kr\/economy\/market-trend\/article\/202408091534001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003314033?sid=101",
-			"description":"지난 1일 인천 서구 <b>청라<\/b>국제도시 아파트 지하주차장 벤츠 전기차 화재로 끊겼던 전기 공급이 8일 만에 재개됐다. 인천 서구는 화재로 전기가 끊겼던 <b>청라<\/b>국제도시 제일풍경채 2차 아파트 5개동 480가구에 지난 8일... ",
-			"pubDate":"Fri, 09 Aug 2024 15:35:00 +0900"
-		},
-		{
-			"title":"[인천 주요 뉴스]'전기차화재' 스프링클러 미작동 원인은…&quot;밸브 임의조작&quot;",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6193594?utm_source=naver&utm_medium=article&utm_campaign=20240809033223",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003926551?sid=102",
-			"description":"인천소방본부는 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해... 앞서 지난 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서는 전기차에서 불이나 주민 23명이 병원 치료를 받고... ",
-			"pubDate":"Fri, 09 Aug 2024 15:33:00 +0900"
-		},
-		{
-			"title":"스프링클러 미작용 이유는?...누군가 '정지' 버튼 눌렀다.",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=804998",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=804998",
-			"description":"인천소방본부는 화재가 발생한 지난 1일 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해 디지털포렌식을 실시한 결과 '솔레노이드 밸브'가 작동하지 않은 사실을 확인했다고 9일 밝혔다. 조사 결과에 따르면 불이 난... ",
-			"pubDate":"Fri, 09 Aug 2024 15:32:00 +0900"
-		},
-		{
-			"title":"“배터리 잔량 90% 이상 전기차 서울 아파트 지하 출입 금지” [오늘, 특별시...",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20240809514187?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003958643?sid=102",
-			"description":"잇단 화재에 불안감 커지자 ‘충전 제한’ 등 대책 최근 인천 <b>청라<\/b>국제도시와 충남 금산군 등에서 전기차... 국립과학수사연구원과 인천경찰청 과학수사대 조사관들이 지난 8일 인천 서구의 한 정비소에서 지난 1일 <b>청라<\/b>... ",
-			"pubDate":"Fri, 09 Aug 2024 15:27:00 +0900"
 		}
 	]
 }
