@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 10 Aug 2024 07:00:01 +0900",
-	"total":237332,
+	"lastBuildDate":"Sat, 10 Aug 2024 07:10:02 +0900",
+	"total":237333,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"매경이 전하는 세상의 지식 (매-세-지, 8월 10일)",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/11089258",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005348234?sid=102",
+			"description":"최근 인천 <b>청라<\/b>를 비롯한 곳곳에서 지하주차장 내 전기차 화재가 발생해 시민들 불안감이 커지자 지자체 차원에서 예방대책을 내놓은 것입니다. 4. 8일 일본 규슈 미야자키현 앞바다에서 규모 7.1 지진이 발생한 가운데... ",
+			"pubDate":"Sat, 10 Aug 2024 07:02:00 +0900"
+		},
 		{
 			"title":"캐즘 엎친 데 화재 덮쳐…전기차 냉대에 업계 속도 까맣게 탄다",
 			"originallink":"https:\/\/www.news1.kr\/industry\/auto-industry\/5506758",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261665",
 			"description":"벤츠 코리아가 인천 <b>청라<\/b>국제도시 아파트 전기차 화재 피해 복구를 위해 45억원을 긴급 지원하기로 했다. 9일... 지난 1일 오전 6시15분쯤 서구 <b>청라<\/b>동 제일풍경채 2차 아파트 지하 주차장에 세워진 벤츠 전기차에서 불이 나... ",
 			"pubDate":"Fri, 09 Aug 2024 21:54:00 +0900"
-		},
-		{
-			"title":"벤츠, 전기차 피해에 45억 기부…&quot;인도적 차원의 지원 결정&quot;",
-			"originallink":"http:\/\/mbn.mk.co.kr\/pages\/news\/newsView.php?category=mbn00009&news_seq_no=5048605",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/057\/0001834902?sid=102",
-			"description":"앞서 지난 1일 인천 서구 <b>청라<\/b>동의 한 아파트 지하주차장에 있던 벤츠 전기차에서 불이 났으며, 이 불로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌고 차량 140여 대가 불에 타거나 그을렸습니다.",
-			"pubDate":"Fri, 09 Aug 2024 21:51:00 +0900"
 		}
 	]
 }
