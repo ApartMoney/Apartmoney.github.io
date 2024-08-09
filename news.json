@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 10 Aug 2024 02:00:03 +0900",
-	"total":237322,
+	"lastBuildDate":"Sat, 10 Aug 2024 02:10:02 +0900",
+	"total":237323,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"벤츠, 전기차 화재에 45억 지원… &quot;주민 생활 정상화 돕겠다&quot;",
+			"originallink":"https:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2148704",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000100820?sid=101",
+			"description":"메르세데스-벤츠 코리아가 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 자사 전기차 화재로 피해를 본... 앞서 지난 1일 인천 <b>청라<\/b>국제도시 한 아파트 지하 1층 주차장에 주차돼 있던 메르세데스-벤츠 EQE350 전기차에서 불이... ",
+			"pubDate":"Sat, 10 Aug 2024 02:03:00 +0900"
+		},
 		{
 			"title":"인천 전기차화재, 직원이 스프링클러 껐다… “화재신호 오작동 확인하려 정지...",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240809\/126444637\/2",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251478",
 			"description":"인천투데이=장호영 기자｜인천 서구 <b>청라<\/b>동에 소재한 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재... 한편, 지난 1일 오전 6시 15분경 인천 서구 <b>청라<\/b>동 한 아파트 지하주차장에 주차된 전기차에서 화재가... ",
 			"pubDate":"Fri, 09 Aug 2024 21:02:00 +0900"
-		},
-		{
-			"title":"벤츠, ‘인천 전기차 화재’ 피해 주민에 45억원 지원",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1394532\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002860773?sid=101",
-			"description":"메르세데스-벤츠 코리아가 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 자사 전기차 화재로 피해를 입은... 앞서 지난 1일 인천 서구 <b>청라<\/b>국제도시 한 아파트 지하 1층 주차장에 주차돼 있던 메르세데스-벤츠 EQE350... ",
-			"pubDate":"Fri, 09 Aug 2024 20:58:00 +0900"
 		}
 	]
 }
