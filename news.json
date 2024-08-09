@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 09 Aug 2024 20:50:02 +0900",
-	"total":237292,
+	"lastBuildDate":"Fri, 09 Aug 2024 21:00:02 +0900",
+	"total":237293,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"벤츠, ‘인천 전기차 화재’ 피해 주민에 45억원 지원",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1394532\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002860773?sid=101",
+			"description":"메르세데스-벤츠 코리아가 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 자사 전기차 화재로 피해를 입은... 앞서 지난 1일 인천 서구 <b>청라<\/b>국제도시 한 아파트 지하 1층 주차장에 주차돼 있던 메르세데스-벤츠 EQE350... ",
+			"pubDate":"Fri, 09 Aug 2024 20:58:00 +0900"
+		},
 		{
 			"title":"벤츠, 인천 전기차 화재 피해 주민에 45억원 지원",
 			"originallink":"https:\/\/biz.chosun.com\/industry\/car\/2024\/08\/09\/Q7GAAO4FPJGADJPPBUFM3RSOEY\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -194,13 +201,6 @@
 			"pubDate":"Fri, 09 Aug 2024 19:44:00 +0900"
 		},
 		{
-			"title":"[속보] 벤츠, 인천 전기차 화재 피해 주민에 45억원 기부",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20240809518485?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003958697?sid=102",
-			"description":"8일 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다. 사진=연합뉴스 인천 <b>청라<\/b> 아파트... ",
-			"pubDate":"Fri, 09 Aug 2024 19:38:00 +0900"
-		},
-		{
 			"title":"벤츠, 전기차 화재 피해주민에 45억원 지원",
 			"originallink":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=437477",
 			"link":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=437477",
@@ -208,11 +208,11 @@
 			"pubDate":"Fri, 09 Aug 2024 19:38:00 +0900"
 		},
 		{
-			"title":"[속보] 벤츠, <b>청라<\/b> 전기차 화재 피해주민에 45억 지원한다",
-			"originallink":"http:\/\/www.inews24.com\/view\/1751674",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000860912?sid=102",
-			"description":"메르세데스-벤츠 코리아가 9일 인천 <b>청라<\/b>의 아파트 지하주차장에서 발생한 자사 전기차 화재로 피해를 본 주민들에게 45억원을 기부하겠다고 밝혔다. 오노레 츄크노 벤츠 코리아 최고재무책임자(CFO) 부사장과 킬리안... ",
-			"pubDate":"Fri, 09 Aug 2024 19:36:00 +0900"
+			"title":"[속보] 벤츠, 인천 전기차 화재 피해 주민에 45억원 기부",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240809518485?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003958697?sid=102",
+			"description":"8일 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다. 사진=연합뉴스 인천 <b>청라<\/b> 아파트... ",
+			"pubDate":"Fri, 09 Aug 2024 19:38:00 +0900"
 		}
 	]
 }
