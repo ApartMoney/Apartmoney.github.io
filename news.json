@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 09 Aug 2024 19:00:02 +0900",
-	"total":237249,
+	"lastBuildDate":"Fri, 09 Aug 2024 19:10:02 +0900",
+	"total":237251,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"불난 집에 부채질[어텐션 뉴스]",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6193676?utm_source=naver&utm_medium=article&utm_campaign=20240809070526",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003926645?sid=102",
+			"description":"[기자]지난 1일 인천 <b>청라<\/b>지구 한 아파트 단지에서 전기차 화재로 차량 수십대가 불탔죠. 그런데 전기차 화재로 차량이 전소된 피해주민에게 '차량용 소화기'를 증정하겠다며 차량 판매에 나선 벤츠 딜러가 논란이 되고... ",
+			"pubDate":"Fri, 09 Aug 2024 19:04:00 +0900"
+		},
+		{
+			"title":"서울시, '완충' 전기차 아파트 지하주차장 출입제한",
+			"originallink":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=437469",
+			"link":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=437469",
+			"description":"<b>청라<\/b> 아파트 화재 전기차 2차 합동 감식 최근 아파트 등에서 전기차 화재가 잇따르는 가운데 서울시가 전기차의 배터리 잔량이 90%를 넘어서면 공동주택 지하주차장 출입을 막는 등 과충전을 방지하는 대책을 추진한다고... ",
+			"pubDate":"Fri, 09 Aug 2024 19:00:00 +0900"
+		},
 		{
 			"title":"한국환경공단, 인천'전기차 화재'피해 복구 성금 기탁",
 			"originallink":"http:\/\/www.kdpress.co.kr\/news\/articleView.html?idxno=130980",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005020094?sid=101",
 			"description":"인천 <b>청라<\/b> 전기차 화재 여파로 2거래일 연속 떨어진 주가는 이날 이 전 회장의 8·15 광복절 사면설이 나오면서 반등했다. 장중 한때 9.74%(18만2600원)까지 오르기도 했다. 지주사인 에코프로도 이날 6.97%(5900원) 상승한... ",
 			"pubDate":"Fri, 09 Aug 2024 17:21:00 +0900"
-		},
-		{
-			"title":"잇따른 전기차 배터리 화재 사고…대응방안 목소리 확산",
-			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=160838",
-			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=160838",
-			"description":"지난 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 EQE에서 화재가 발생해 주변 차량 120여대가 연기에 그을리는 등 100억원대에 달하는 피해가 생겼다. 또 지난 6일에는 충남 금산 주차타워에 있던 기아 EV6 차량에서... ",
-			"pubDate":"Fri, 09 Aug 2024 17:20:00 +0900"
-		},
-		{
-			"title":"배드민턴협회, 축구협회보다 임원 많은데, 회장 기부금은 '0원' 外",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0107_202408091720244172",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002072301?sid=104",
-			"description":"인천 <b>청라<\/b> 아파트 전기차 화재 사고를 조사하고 있는 소방이 조사 결과를 발표했다고요? ◆ 최휘 : 네, 지난 1일 인천 서구 <b>청라<\/b>의 한 아파트 지하주차장에서 벤츠 전기차가 폭발하면서 화재 사고가 났죠. 소방당국이 지난... ",
-			"pubDate":"Fri, 09 Aug 2024 17:20:00 +0900"
 		}
 	]
 }
