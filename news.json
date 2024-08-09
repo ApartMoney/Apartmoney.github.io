@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Fri, 09 Aug 2024 15:30:02 +0900",
-	"total":237159,
+	"lastBuildDate":"Fri, 09 Aug 2024 15:40:02 +0900",
+	"total":237164,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"내년부터 전기차 배터리 정보 공개한 차 제조업체에 보조금 지급",
+			"originallink":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=84536",
+			"link":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=84536",
+			"description":"8일 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트... 그러다 지난 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 발생한 화재로 환경부의 이같은... ",
+			"pubDate":"Fri, 09 Aug 2024 15:38:00 +0900"
+		},
+		{
+			"title":"인천 전기차 화재 아파트 8일만에 전기 공급…소방서 “차량 87대 불에 타”",
+			"originallink":"https:\/\/www.khan.co.kr\/economy\/market-trend\/article\/202408091534001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003314033?sid=101",
+			"description":"지난 1일 인천 서구 <b>청라<\/b>국제도시 아파트 지하주차장 벤츠 전기차 화재로 끊겼던 전기 공급이 8일 만에 재개됐다. 인천 서구는 화재로 전기가 끊겼던 <b>청라<\/b>국제도시 제일풍경채 2차 아파트 5개동 480가구에 지난 8일... ",
+			"pubDate":"Fri, 09 Aug 2024 15:35:00 +0900"
+		},
+		{
+			"title":"[인천 주요 뉴스]'전기차화재' 스프링클러 미작동 원인은…&quot;밸브 임의조작&quot;",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6193594?utm_source=naver&utm_medium=article&utm_campaign=20240809033223",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003926551?sid=102",
+			"description":"인천소방본부는 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해... 앞서 지난 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서는 전기차에서 불이나 주민 23명이 병원 치료를 받고... ",
+			"pubDate":"Fri, 09 Aug 2024 15:33:00 +0900"
+		},
+		{
+			"title":"스프링클러 미작용 이유는?...누군가 '정지' 버튼 눌렀다.",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=804998",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=804998",
+			"description":"인천소방본부는 화재가 발생한 지난 1일 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해 디지털포렌식을 실시한 결과 '솔레노이드 밸브'가 작동하지 않은 사실을 확인했다고 9일 밝혔다. 조사 결과에 따르면 불이 난... ",
+			"pubDate":"Fri, 09 Aug 2024 15:32:00 +0900"
+		},
 		{
 			"title":"“배터리 잔량 90% 이상 전기차 서울 아파트 지하 출입 금지” [오늘, 특별시...",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240809514187?OutUrl=naver",
@@ -19,6 +47,13 @@
 			"pubDate":"Fri, 09 Aug 2024 15:23:00 +0900"
 		},
 		{
+			"title":"[포커스] 전기차 화재 공포‥&quot;지하 주차장 대책 시급&quot;",
+			"originallink":"https:\/\/imnews.imbc.com\/replay\/2024\/nw1400\/article\/6625527_36493.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001366909?sid=102",
+			"description":"지난주 인천 <b>청라<\/b> 아파트에 이어 충남 금산에서도 주차 중이던 전기차에서 화재가 발생했습니다. 인천 <b>청라<\/b> 아파트 전기차 화재, 주차된 차량 140여 대를 태울 만큼 피해가 컸죠. 주행 중도 아니고, 사흘 동안 가만히... ",
+			"pubDate":"Fri, 09 Aug 2024 15:20:00 +0900"
+		},
+		{
 			"title":"‘전기차 화재’ <b>청라<\/b> 아파트 477가구, 정전 1주일 만에 전기 공급 재개",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DCY7KMB6N",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004378250?sid=102",
@@ -26,17 +61,17 @@
 			"pubDate":"Fri, 09 Aug 2024 15:18:00 +0900"
 		},
 		{
-			"title":"&quot;누군가 밸브 조작했다&quot; 인천 전기차 화재 스프링클러 미작동 원인 드러나",
-			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=477023",
-			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=477023",
-			"description":"인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>국제도시 A 아파트 방재실에서 화재 수신기를... 이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 전기차에서 발생했다. 이... ",
-			"pubDate":"Fri, 09 Aug 2024 15:18:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b> 벤츠 전기차 화재 9일째, 이재민 647명 10개소서 거주",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251470",
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251470",
 			"description":"인천투데이=장호영 기자｜인천 서구 <b>청라<\/b>동에 소재한 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재... 인천 서구(구청장 강범석)는 9일 오전 11시 기준 <b>청라<\/b> 소재 한 아파트 전기차 화재로 주민 647명이 임시... ",
+			"pubDate":"Fri, 09 Aug 2024 15:18:00 +0900"
+		},
+		{
+			"title":"&quot;누군가 밸브 조작했다&quot; 인천 전기차 화재 스프링클러 미작동 원인 드러나",
+			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=477023",
+			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=477023",
+			"description":"인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>국제도시 A 아파트 방재실에서 화재 수신기를... 이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 전기차에서 발생했다. 이... ",
 			"pubDate":"Fri, 09 Aug 2024 15:18:00 +0900"
 		},
 		{
@@ -103,10 +138,10 @@
 			"pubDate":"Fri, 09 Aug 2024 15:02:00 +0900"
 		},
 		{
-			"title":"'전기차 화재' 관리사무소 야간근무자가 스프링클러 껐다",
-			"originallink":"https:\/\/www.ltn.kr\/news\/articleView.html?idxno=44524",
-			"link":"https:\/\/www.ltn.kr\/news\/articleView.html?idxno=44524",
-			"description":"인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해... 이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 전기차에서 발생했습니다. 이... ",
+			"title":"'전기차 화재' 관리사무소 야근근무자 '스프링쿨러' 정지버튼 눌러",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1064135",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1064135",
+			"description":"지난 2일 오전 인천 서구 <b>청라<\/b> 아파트 지하 주차장 화재 현장에서 경찰과 소방 등 관계자들이 합동 감식을... 인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해... ",
 			"pubDate":"Fri, 09 Aug 2024 15:00:00 +0900"
 		},
 		{
@@ -117,10 +152,10 @@
 			"pubDate":"Fri, 09 Aug 2024 15:00:00 +0900"
 		},
 		{
-			"title":"'전기차 화재' 관리사무소 야근근무자 '스프링쿨러' 정지버튼 눌러",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1064135",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1064135",
-			"description":"지난 2일 오전 인천 서구 <b>청라<\/b> 아파트 지하 주차장 화재 현장에서 경찰과 소방 등 관계자들이 합동 감식을... 인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해... ",
+			"title":"'전기차 화재' 관리사무소 야간근무자가 스프링클러 껐다",
+			"originallink":"https:\/\/www.ltn.kr\/news\/articleView.html?idxno=44524",
+			"link":"https:\/\/www.ltn.kr\/news\/articleView.html?idxno=44524",
+			"description":"인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해... 이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 전기차에서 발생했습니다. 이... ",
 			"pubDate":"Fri, 09 Aug 2024 15:00:00 +0900"
 		},
 		{
@@ -178,41 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012719978?sid=102",
 			"description":"지난 1일 인천 <b>청라<\/b>동의 한 아파트 지하주차장에서 전기차 화재가 발생했을 당시 상황이 담긴 119신고... 인천 <b>청라<\/b> 아파트 지하주차장 화재 관련 신고가 총 220건 접수됐다. 최초 신고자는 &quot;지하 1층에서 불이 났다... ",
 			"pubDate":"Fri, 09 Aug 2024 14:48:00 +0900"
-		},
-		{
-			"title":"&quot;불난 집에 부채질?&quot; <b>청라<\/b> 아파트에 붙은 '황당 전단' [앵커리포트]",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408091446387134",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002072226?sid=102",
-			"description":"지난주 지하주차장에서 전기차 화재 발생으로 140여 대의 차량이 불에 타는 피해를 본 인천 <b>청라<\/b> 아파트 출입구에 붙은 전단입니다. 좀 더 자세히 볼까요? '벤츠를 사면 추가 할인을 해주겠다', '불에 탄 차량을 처분해주고... ",
-			"pubDate":"Fri, 09 Aug 2024 14:46:00 +0900"
-		},
-		{
-			"title":"'인천 전기차 화재' 관리사무소 근무자가 스프링클러 껐다",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007757177&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001180197?sid=102",
-			"description":"▲ <b>청라<\/b> 아파트 지하 주차장 화재로 전소된 차량들 인천 대단지 아파트 지하 주차장에서 발생한 전기차 화재... 인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해... ",
-			"pubDate":"Fri, 09 Aug 2024 14:46:00 +0900"
-		},
-		{
-			"title":"전기차 배터리 잔량 90% 넘으면 공동주택 지하주차장 출입 막는다",
-			"originallink":"https:\/\/www.kwnews.co.kr\/page\/view\/2024080914433770004",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/087\/0001060969?sid=102",
-			"description":"앞서 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 전기차에서 발생했다. 이 불로... 인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해... ",
-			"pubDate":"Fri, 09 Aug 2024 14:45:00 +0900"
-		},
-		{
-			"title":"&quot;충전율 90% 넘은 전기차 아파트 지하주차장 출입금지&quot;",
-			"originallink":"http:\/\/www.seouleconews.com\/news\/articleView.html?idxno=78920",
-			"link":"http:\/\/www.seouleconews.com\/news\/articleView.html?idxno=78920",
-			"description":"지난 5일 인천 서구 <b>청라<\/b>동 아파트 지하 주차장 화재 현장에서 합동 감식을 마친 경찰이 화재 발생 전기차를 옮기고 있다.\/연합뉴스 서울시는 9일 전기차의 배터리 잔량이 90%를 넘어서면 공동주택 지하주차장 출입을 막는... ",
-			"pubDate":"Fri, 09 Aug 2024 14:42:00 +0900"
-		},
-		{
-			"title":"인천 전기차 화재 아파트, 스프링클러 꺼 있었다",
-			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1632961\/?sc=Naver",
-			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1632961\/?sc=Naver",
-			"description":"9일 연합뉴스에 따르면 인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>동 아파트 방재실에서 화재 수신기를 확보해 디지털포렌식을 한 결과 '솔레노이드 밸브'가 작동하지 않은 사실을 확인했다고 발표했다.... ",
-			"pubDate":"Fri, 09 Aug 2024 14:42:00 +0900"
 		}
 	]
 }
