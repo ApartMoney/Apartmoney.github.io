@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 10 Aug 2024 06:20:02 +0900",
-	"total":237330,
+	"lastBuildDate":"Sat, 10 Aug 2024 06:30:01 +0900",
+	"total":237331,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;울퉁불퉁 도로 달리는데&quot;…중국산 배터리 킥보드 '주의보' [이슈+]",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2024080936827",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005020235?sid=101",
+			"description":"여기에 인천 서구 <b>청라<\/b>동에서 폭발한 전기차의 배터리가 중국산인 것으로 밝혀진 가운데, 거리 곳곳에 있는 공유킥보드 또한 중국산인 경우가 대부분이라 시민들의 불신이 가중되는 상황이다. 소방청이 공개한 화재... ",
+			"pubDate":"Sat, 10 Aug 2024 06:19:00 +0900"
+		},
 		{
 			"title":"‘전기차 화재’ 세금 지원에 <b>청라<\/b> 주민 ‘부글’ 왜… 시 입장은",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020405732&code=61121211&cp=nv",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.huffingtonpost.kr\/news\/articleView.html?idxno=227278",
 			"description":"8일 오전 인천 서구의 한 정비소에서 지난 1일 <b>청라<\/b> 아파트 지하주차장에서 발생한 화재로 전소된... 2024.8.8(좌), 마르세데스 벤츠 로고(우)ⓒ뉴스1 벤츠 전기차 화재로 피해를 본 인천 <b>청라<\/b> 아파트 주민들에게 45억 원을... ",
 			"pubDate":"Fri, 09 Aug 2024 21:50:00 +0900"
-		},
-		{
-			"title":"벤츠, 전기차 피해주민에 45억 기부… &quot;인도적 차원&quot;",
-			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/08\/09\/2024080900345.html",
-			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/08\/09\/2024080900345.html",
-			"description":"뉴데일리 김병욱 기자 = 벤츠코리아가 9일 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재로 피해를 본 주민들에게 45억원을 기부하겠다는 뜻을 밝혔다. 다만 기부금은 사고 원인과 무관하다고 선을 그었다.... ",
-			"pubDate":"Fri, 09 Aug 2024 21:40:00 +0900"
 		}
 	]
 }
