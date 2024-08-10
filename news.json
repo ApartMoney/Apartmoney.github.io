@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 10 Aug 2024 18:40:02 +0900",
-	"total":237383,
+	"lastBuildDate":"Sat, 10 Aug 2024 18:50:01 +0900",
+	"total":237384,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[르포] &quot;이제야 안심이 돼요&quot;…전기차 화재 세대별 청소 본격화",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261702",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1261702",
+			"description":"얼른 일상이 돌아왔으면 좋겠습니다.&quot; 10일 오전 9시40분쯤 인천 서구 <b>청라<\/b>동 제일풍경채 2차 아파트. 이른... <b>청라<\/b>국제도시 아파트 전기차 화재가 발생한 지 열흘째를 맞은 가운데 이날부터 세대별 청소 작업이... ",
+			"pubDate":"Sat, 10 Aug 2024 18:44:00 +0900"
+		},
 		{
 			"title":"'인천 전기차 화재'가 남긴 상처…주민들 고통은 계속",
 			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20240810010900641\/?input=1825m",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002348040?sid=102",
 			"description":"9일 인천소방본부는 지난 1일 발생한 인천 서구 <b>청라<\/b>동의 아파트 지하 1층 주차장에 설비된 스프링클러 작동 여부에 대한 합동화재 안전조사(포렌식) 실시 결과 화재 당시 ‘솔레노이드 밸브’가 작동하지 않은 것으로... ",
 			"pubDate":"Sat, 10 Aug 2024 09:59:00 +0900"
-		},
-		{
-			"title":"“미국이었으면 45억달러 소송감”…벤츠, <b>청라<\/b> 전기차 화재 45억 인도적 기부...",
-			"originallink":"https:\/\/magazine.hankyung.com\/business\/article\/202408105123b",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/050\/0000078538?sid=101",
-			"description":"메르세데스-벤츠 코리아가 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 자사 전기차 화재로 피해를 본 주민들에게 45억원을 기부하겠다는 뜻을 밝혔다. 사고 원인이 규명되지 않았지만, 인도적 차원에서의 지원이란... ",
-			"pubDate":"Sat, 10 Aug 2024 09:45:00 +0900"
 		}
 	]
 }
