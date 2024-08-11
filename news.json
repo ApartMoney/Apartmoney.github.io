@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 11 Aug 2024 12:20:03 +0900",
-	"total":237467,
+	"lastBuildDate":"Sun, 11 Aug 2024 12:30:02 +0900",
+	"total":237468,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;내 전기차도 불 날까 겁나&quot;… 중고차 시장 '매물 급증, 가격 폭락'",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024081112223943642",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005457641?sid=102",
+			"description":"인천 <b>청라<\/b> 전기차 화재 이후 운전자 사이에 전기차 포비아(공포증)가 퍼지고 있다. 국내 중고차 시장에서... 11일 직영 중고차 플랫폼 케이카(K Car)에 따르면 인천 <b>청라<\/b>에서 지하주차장 전기차 화재 사고가 발생한 지난... ",
+			"pubDate":"Sun, 11 Aug 2024 12:28:00 +0900"
+		},
 		{
 			"title":"아파트 전기차 충전기 대부분, ‘과충전’ 방지 못하는 완속충전기",
 			"originallink":"https:\/\/biz.chosun.com\/policy\/policy_sub\/2024\/08\/11\/JCQQBBD47FBTLECA3YNQFLI43Y\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -12,17 +19,17 @@
 			"pubDate":"Sun, 11 Aug 2024 12:11:00 +0900"
 		},
 		{
-			"title":"“화재 차량엔 ‘파라시스 배터리’” 국토부 발표에도 벤츠 ‘묵묵부답’ 이...",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240811025551367",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240811025551367",
-			"description":"최근 국토교통부는 인천 <b>청라<\/b> 아파트 지하주차장 화재사고를 일으킨 메르세데스-벤츠 전기차 EQE에 중국산 '파라시스' 배터리가 탑재됐다고 밝혔다. 반면 정부의 발표에도 당사자인 벤츠코리아는 “제조사를 밝힐 수... ",
-			"pubDate":"Sun, 11 Aug 2024 12:10:00 +0900"
-		},
-		{
 			"title":"‘전기차 화재’ 자차 신청 600대…보험사 선지급 후 구상권 청구",
 			"originallink":"https:\/\/www.khan.co.kr\/economy\/finance\/article\/202408111209001",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003314179?sid=101",
 			"description":"인천 <b>청라<\/b> 아파트 지하주차장에 발생한 전기차 화재로 약 600대에 가까운 피해차량이 자기차량손해담보... 11일 손해보험업계에 따르면 지난 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차... ",
+			"pubDate":"Sun, 11 Aug 2024 12:10:00 +0900"
+		},
+		{
+			"title":"“화재 차량엔 ‘파라시스 배터리’” 국토부 발표에도 벤츠 ‘묵묵부답’ 이...",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240811025551367",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240811025551367",
+			"description":"최근 국토교통부는 인천 <b>청라<\/b> 아파트 지하주차장 화재사고를 일으킨 메르세데스-벤츠 전기차 EQE에 중국산 '파라시스' 배터리가 탑재됐다고 밝혔다. 반면 정부의 발표에도 당사자인 벤츠코리아는 “제조사를 밝힐 수... ",
 			"pubDate":"Sun, 11 Aug 2024 12:10:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002894236?sid=101",
 			"description":"11일 손해보험업계에 따르면 지난 1일 인천 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 발생한 전기차 화재로 차량이 불에 타거나 그을리는 등의 피해와 관련한 자차보험 처리 신청은 화재가 난 벤츠 전기차 차주를... ",
 			"pubDate":"Sun, 11 Aug 2024 10:34:00 +0900"
-		},
-		{
-			"title":"벤츠 45억 보상 놓고 생색내기 논란",
-			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/08\/11\/2024081100022.html",
-			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/08\/11\/2024081100022.html",
-			"description":"11일 업계에 따르면 벤츠코리아는 지난 9일 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재로 피해를... 앞서 지난 1일 오전 6시 15분께 인천 <b>청라<\/b> 아파트 지하 1층에서 벤츠 ‘EQE’ 차량이 불에 났다. 이후 화재가... ",
-			"pubDate":"Sun, 11 Aug 2024 10:32:00 +0900"
 		}
 	]
 }
