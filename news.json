@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 11 Aug 2024 14:40:02 +0900",
-	"total":237495,
+	"lastBuildDate":"Sun, 11 Aug 2024 14:50:02 +0900",
+	"total":237496,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"HS화성 '차량용 질식소화포 배치'…전기차 화재 꼼짝마",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240811_0002845745",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012722004?sid=102",
+			"description":"이번 결정은 최근 인천 <b>청라<\/b>아파트 지하주차장과 충북 금산에서 발생한 전기 차량 화재사고로 인해 아파트 입주민은 물론 시민들의 불안감이 고조되고 있는 상황에서 전기차 차량 화재초기에 가장 효과적으로 화재를... ",
+			"pubDate":"Sun, 11 Aug 2024 14:40:00 +0900"
+		},
 		{
 			"title":"세종청사 ‘전기차 충전기’ 계획 급히 바꾼 정부 [관가 포커스]",
 			"originallink":"https:\/\/www.hankyung.com\/article\/202408116055i",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0001011105?sid=101",
 			"description":"① ‘PLC 모뎀+BMS 데이터’ 활용 ‘통합관리체계’ 구축 정부는 최근 인천 <b>청라<\/b>국제도시 아파트 지하 주차장 전기차 화재를 계기로 다양한 대책을 강구 중이다. 우선 PLC 모뎀 활용 방안이다. PLC 모뎀이 과충전으로 인한... ",
 			"pubDate":"Sun, 11 Aug 2024 12:11:00 +0900"
-		},
-		{
-			"title":"“화재 차량엔 ‘파라시스 배터리’” 국토부 발표에도 벤츠 ‘묵묵부답’ 이...",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240811025551367",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240811025551367",
-			"description":"최근 국토교통부가 인천 <b>청라<\/b> 아파트 지하주차장 화재사고를 일으킨 메르세데스-벤츠 전기차 EQE에 중국산 '파라시스' 배터리가 탑재됐다고 밝혔다. 반면 정부의 발표에도 당사자인 벤츠코리아는 “제조사를 밝힐 수... ",
-			"pubDate":"Sun, 11 Aug 2024 12:10:00 +0900"
 		}
 	]
 }
