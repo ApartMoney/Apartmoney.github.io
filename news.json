@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 11 Aug 2024 15:10:02 +0900",
-	"total":237501,
+	"lastBuildDate":"Sun, 11 Aug 2024 15:20:02 +0900",
+	"total":237502,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[연합시론] '전기차 포비아' 불식시킬 근본대책 시급하다",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240811024200022?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014868868?sid=102",
+			"description":"인천 <b>청라<\/b> 아파트 전기차 화재만 하더라도 진화가 조속히 되지 않으면서 피해가 막심했다. 화재로 피해를 본 차주들의 자기차량손해담보(자차보험) 처리 신청만 600대에 육박하고 있다. 불안감을 해소하기 위한 정부 및 각... ",
+			"pubDate":"Sun, 11 Aug 2024 15:15:00 +0900"
+		},
 		{
 			"title":"'인천 전기차 화재' 자차보험 신청 600대…보험사 선처리 후 구상권",
 			"originallink":"https:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2148952",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20240811500113",
 			"description":"2일 오전 인천 서구 <b>청라<\/b>동 아파트 지하주차장에 불이 난 벤츠 차량이 전소돼 있다. 전날 오전 6시15분께 해당 아파트 지하 1층에서 벤츠 전기차에 불이 나 8시간 20분 만에 진화됐다. 이 화재로 지하주차장에 있던 차량... ",
 			"pubDate":"Sun, 11 Aug 2024 13:04:00 +0900"
-		},
-		{
-			"title":"'인천 <b>청라<\/b> 전기차 화재' 자차보험 신청 600대 육박",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2389479",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2389479",
-			"description":"이투데이=김재은 기자 | 보험사 선처리 후 구상권 청구 인천 <b>청라<\/b> 아파트 주차장에서 발생한 전기차 화재로... 11일 손해보험업계에 따르면 이달 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 발생한... ",
-			"pubDate":"Sun, 11 Aug 2024 12:42:00 +0900"
 		}
 	]
 }
