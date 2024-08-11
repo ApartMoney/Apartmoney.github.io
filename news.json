@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 11 Aug 2024 14:10:02 +0900",
-	"total":237489,
+	"lastBuildDate":"Sun, 11 Aug 2024 14:20:02 +0900",
+	"total":237490,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 충전기 화재 못 막는 장비 설치해도 '돈 주는' 정부 [추적+]",
+			"originallink":"https:\/\/www.thescoop.co.kr\/news\/articleView.html?idxno=302886",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/665\/0000003494?sid=101",
+			"description":"일례로 지난 1일 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 발생한 전기차 화재사고는 큰 충격을 안겼다. 이 사고로 지하주차장에 있던 140여대가 불에 탔고, 전기 설비와 수도 배관까지 파손돼 5개동 480여가구의... ",
+			"pubDate":"Sun, 11 Aug 2024 14:12:00 +0900"
+		},
 		{
 			"title":"&quot;완충 전기차 지하주차장 출입 제한&quot;…서울시・충남도, 권고대책 추진 [종합]",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1064348",
@@ -96,17 +103,17 @@
 			"pubDate":"Sun, 11 Aug 2024 13:18:00 +0900"
 		},
 		{
-			"title":"“무서워서 못 타겠네”…중고 전기차 매물 늘고 가격도 하락",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20240811507989?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003958915?sid=101",
-			"description":"지난 8일 인천 서구 <b>청라<\/b>동의 한 아파트 단지 지하주차장에 주차된 차량들이 1일 발생한 전기차 화재 사고로 인해 불에 타 검게 그을려 있다. 뉴스1 국내 중고차 시장에서 전기차 매물이 늘어난 반면 수요는 줄면서... ",
-			"pubDate":"Sun, 11 Aug 2024 13:16:00 +0900"
-		},
-		{
 			"title":"전기차 화재 우려에…K-배터리, 안전성 확보 주력",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1148863",
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1148863",
 			"description":"지난 8일 오전 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다. 사진=연합뉴스 제공... ",
+			"pubDate":"Sun, 11 Aug 2024 13:16:00 +0900"
+		},
+		{
+			"title":"“무서워서 못 타겠네”…중고 전기차 매물 늘고 가격도 하락",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240811507989?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003958915?sid=101",
+			"description":"지난 8일 인천 서구 <b>청라<\/b>동의 한 아파트 단지 지하주차장에 주차된 차량들이 1일 발생한 전기차 화재 사고로 인해 불에 타 검게 그을려 있다. 뉴스1 국내 중고차 시장에서 전기차 매물이 늘어난 반면 수요는 줄면서... ",
 			"pubDate":"Sun, 11 Aug 2024 13:16:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001717055?sid=102",
 			"description":"인천 <b>청라<\/b> 지하주차장 전기차 화재로 전기차 공포가 확산하자 현대차가 13종 전기차의 배터리 제조사를 공개했다. 다만 이 같은 정보 공개에도 전기차 공포는 잦아들지 않는 모양새다. 배터리 제조사와 무관하게 화재가... ",
 			"pubDate":"Sun, 11 Aug 2024 11:53:00 +0900"
-		},
-		{
-			"title":"폭염췽약계층 아리수 43만병 지원…탑골공원엔 아리수 냉장고",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20240811114336896",
-			"link":"https:\/\/www.ajunews.com\/view\/20240811114336896",
-			"description":"지난 1일 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 전기차 화재로 수도 공급 시설이 파손되자 인천시 요청에 따라 병물 아리수(2ℓ) 2만3040병을 긴급 지원했다. 앞서 4월엔 경기도 이천시 정수장 유충 발견으로... ",
-			"pubDate":"Sun, 11 Aug 2024 11:50:00 +0900"
 		}
 	]
 }
