@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 12 Aug 2024 07:10:02 +0900",
-	"total":237588,
+	"lastBuildDate":"Mon, 12 Aug 2024 07:20:02 +0900",
+	"total":237589,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[이슈분석]'프리미엄' 강조하던 벤츠, 中 배터리 탑재 차량 화재에 브랜드 이...",
+			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=232123",
+			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=232123",
+			"description":"이달 1일 인천 <b>청라<\/b> 전기차 화재 사고 차량인 벤츠 EQE에 중국 배터리 업체 파라시스의 NCM(니켈·코발트... 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 화재가 발생한 벤츠 EQE 세단에 탑재된 배터리셀은 중국... ",
+			"pubDate":"Mon, 12 Aug 2024 07:16:00 +0900"
+		},
 		{
 			"title":"[천지일보 이슈종합] 박혜정 역도 은메달·성승민 근대5종 동메달·심우정 검...",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3168446",
@@ -82,17 +89,17 @@
 			"pubDate":"Mon, 12 Aug 2024 05:04:00 +0900"
 		},
 		{
-			"title":"[단독] 정부, ‘지하 충전시설 위험’ 보고서 써놓고도 대처는 안일했다",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/society\/2024\/08\/12\/20240812006006?wlog_tag3=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003471561?sid=102",
-			"description":"최근 인천 <b>청라<\/b>, 충남 금산 등에서 전기차 화재가 잇따르자 정부가 부랴부랴 대책 마련에 나선 가운데 리튬전지 공장 화재 참사나 유해물질 범벅 해외직구의 사례처럼 산업 진흥이라는 목표만 보고 안전을 도외시한 채... ",
-			"pubDate":"Mon, 12 Aug 2024 05:02:00 +0900"
-		},
-		{
 			"title":"열흘 넘게 점검 기준도 안 밝힌 벤츠… “전기차 소비자만 마녀사냥”",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/economy\/2024\/08\/12\/20240812006005?wlog_tag3=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003471560?sid=101",
 			"description":"“전기차 차주만 마녀사냥을 당하는 게 말이 되느냐.” 지난 1일 인천 <b>청라<\/b>국제도시 아파트에서 전기차 화재... 한편 이날 손해보험 업계에 따르면 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차... ",
+			"pubDate":"Mon, 12 Aug 2024 05:02:00 +0900"
+		},
+		{
+			"title":"[단독] 정부, ‘지하 충전시설 위험’ 보고서 써놓고도 대처는 안일했다",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/society\/2024\/08\/12\/20240812006006?wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003471561?sid=102",
+			"description":"최근 인천 <b>청라<\/b>, 충남 금산 등에서 전기차 화재가 잇따르자 정부가 부랴부랴 대책 마련에 나선 가운데 리튬전지 공장 화재 참사나 유해물질 범벅 해외직구의 사례처럼 산업 진흥이라는 목표만 보고 안전을 도외시한 채... ",
 			"pubDate":"Mon, 12 Aug 2024 05:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251492",
 			"description":"인천투데이｜지난 1일 인천 서구 <b>청라<\/b>동에 소재한 한 아파트 지하주차장에서 벤츠 전기차 화재 발생에 따라... 이와 함께 <b>청라<\/b>에서 발생한 화재의 정확한 원인 파악과 이에 대한 대비책도 마련돼야 한다. 인천소방본부의... ",
 			"pubDate":"Sun, 11 Aug 2024 22:42:00 +0900"
-		},
-		{
-			"title":"소방청 “리튬 배터리 전용 소화기 과신 우려”",
-			"originallink":"https:\/\/www.khan.co.kr\/national\/national-general\/article\/202408112147015",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003314309?sid=102",
-			"description":"지난 6월 경기 화성시 아리셀 공장 화재에 이어 최근 인천 <b>청라<\/b> 아파트 지하주차장 전기차 폭발 사고가 나면서 리튬 배터리 화재에 대한 불안이 커진 상황이다. 이에 인터넷 쇼핑몰에는 ‘전기차 화재 소화기’ ‘리튬... ",
-			"pubDate":"Sun, 11 Aug 2024 21:52:00 +0900"
 		}
 	]
 }
