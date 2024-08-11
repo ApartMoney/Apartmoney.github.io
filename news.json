@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 11 Aug 2024 18:10:02 +0900",
-	"total":237530,
+	"lastBuildDate":"Sun, 11 Aug 2024 18:20:02 +0900",
+	"total":237532,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;주차 중에 불 난 건데…무슨 근거로&quot; 전기차 오너들 뿔났다",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2024081163911",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005020451?sid=101",
+			"description":"인천 <b>청라<\/b> 아파트 전기차 화재도 주차 중에 불이 난 건데, 충전율을 제한하는 건 번지수가 틀린 것 아닌가요?”(완성차업계 관계자) “저를 포함한 대다수 전기차주는 자기 차의 ‘자동차 설정’에서 충전율을 80~90%로... ",
+			"pubDate":"Sun, 11 Aug 2024 18:17:00 +0900"
+		},
+		{
+			"title":"아파트 전기차 충전기, 과충전 화재 방지에 '먹통'",
+			"originallink":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=556517",
+			"link":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=556517",
+			"description":"지난 8일 인천 서구 <b>청라<\/b>동의 한 아파트 단지 지하주차장이 이달 초 발생한 전기차 화재 사고로 인해 새까맣게 그을려 있다. 이번 화재는 이달 1일 오전 6시15분쯤 인천 서구 <b>청라<\/b>동 아파트 지하 1층 주차장에 주차된... ",
+			"pubDate":"Sun, 11 Aug 2024 18:12:00 +0900"
+		},
 		{
 			"title":"&quot;제조사는 알아야지&quot;… 전기차 배터리 공개 의무화 '급물살'",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240812010005956",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=650290",
 			"description":"11일 손보업계에 따르면 인천시 서구 <b>청라<\/b>국제도시의 한 아파트 지하 주차장에서 발생한 전기차 폭발 관련 화재 피해 자차보험 처리 신청은 총 600대에 이르는 것으로 알려졌다. 피해 차주들은 본인이 가입한 자동차보험의... ",
 			"pubDate":"Sun, 11 Aug 2024 15:44:00 +0900"
-		},
-		{
-			"title":"‘인천 전기차 화재’ 시, 아파트 전체에 질식소화 덮개 보급한다",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20240811511243?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003958953?sid=102",
-			"description":"애초 앞으로 5년 동안 지원할 방침이었지만 지난 1일 <b>청라<\/b>국제도시 아파트 지하 주차장에서 난 불로 큰 피해가 발생하자 기간을 단축해 내년 초 한꺼번에 보급하기로 했다. 인천소방본부도 1개 보유 중인 이동식... ",
-			"pubDate":"Sun, 11 Aug 2024 15:36:00 +0900"
-		},
-		{
-			"title":"현대차·제네시스, 전기차 13종 배터리 제조사 공개",
-			"originallink":"https:\/\/www.fetv.co.kr\/news\/article.html?no=172245",
-			"link":"https:\/\/www.fetv.co.kr\/news\/article.html?no=172245",
-			"description":"인천 <b>청라<\/b> 지하주차장 전기자동차 화재로 소비자들의 전기차 배터리에 대한 공포증이 확산되는 가운데 현대자동차가 국내 자동차업체 중 처음으로 전기차 배터리 제조사를 공개했다. 현대차는 지난 10일 홈페이지를... ",
-			"pubDate":"Sun, 11 Aug 2024 15:24:00 +0900"
 		}
 	]
 }
