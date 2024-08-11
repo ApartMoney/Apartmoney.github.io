@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 12 Aug 2024 07:00:02 +0900",
-	"total":237586,
+	"lastBuildDate":"Mon, 12 Aug 2024 07:10:02 +0900",
+	"total":237588,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[천지일보 이슈종합] 박혜정 역도 은메달·성승민 근대5종 동메달·심우정 검...",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3168446",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3168446",
+			"description":"◆'인천 전기차 화재' 자차신청 600여대… 보험금 선지급 후 구상권☞ 인천 <b>청라<\/b> 아파트 지하주차장에 발생한... 손해보험업계에 따르면 지난 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 발생한 전기차... ",
+			"pubDate":"Mon, 12 Aug 2024 07:02:00 +0900"
+		},
+		{
+			"title":"[CEO투데이] 한상윤 BMW코리아 사장, 수입차 리더십 굳힌다",
+			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=618060",
+			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=618060",
+			"description":"올해 완공 예정인 새로운 BMW R&amp;D 센터 코리아는 <b>청라<\/b> IHP 도시첨단산업단지 내 5295㎡ 부지에 건설돼 독일 본사와 함께 미래 모빌리티 분야의 연구를 수행하게 된다. 한 사장은 국내 전기차 인프라 확장도 적극 추진한다.... ",
+			"pubDate":"Mon, 12 Aug 2024 07:00:00 +0900"
+		},
 		{
 			"title":"불나고 가속 안되고 오일소모 결함 발생한 벤츠...왜 이러나?",
 			"originallink":"https:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=81757",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003314309?sid=102",
 			"description":"지난 6월 경기 화성시 아리셀 공장 화재에 이어 최근 인천 <b>청라<\/b> 아파트 지하주차장 전기차 폭발 사고가 나면서 리튬 배터리 화재에 대한 불안이 커진 상황이다. 이에 인터넷 쇼핑몰에는 ‘전기차 화재 소화기’ ‘리튬... ",
 			"pubDate":"Sun, 11 Aug 2024 21:52:00 +0900"
-		},
-		{
-			"title":"'인천 전기차 화재' 자차보험 신청만 600대 육박…보험사 지급 계획은?",
-			"originallink":"http:\/\/woman.chosun.com\/news\/articleView.html?idxno=117254",
-			"link":"http:\/\/woman.chosun.com\/news\/articleView.html?idxno=117254",
-			"description":"8월 11일 손해보험업계에 따르면, 지난 8월 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 발생한 전기차 화재로 차량이 불에 타거나 그을리는 등의 피해를 입어 자차보험을 신청한 차량은 화재가 난 벤츠... ",
-			"pubDate":"Sun, 11 Aug 2024 21:24:00 +0900"
-		},
-		{
-			"title":"“지금 고객들이 난리가 났습니다” [편집장 레터]",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/11089032",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/024\/0000090914?sid=110",
-			"description":"<b>청라<\/b> 아파트 지하 주차장 벤츠 EQE 차량 화재 사태로 불거진 배터리 파장이 어마어마합니다. 무엇보다 전기차의 거의 전부라 해도 과언이 아닌 배터리를 어떤 제품을 썼는지 왜 공개하지 않는가가 제일선에 올라 있는... ",
-			"pubDate":"Sun, 11 Aug 2024 21:01:00 +0900"
 		}
 	]
 }
