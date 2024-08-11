@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Sun, 11 Aug 2024 09:40:02 +0900",
-	"total":237426,
+	"lastBuildDate":"Sun, 11 Aug 2024 09:50:02 +0900",
+	"total":237429,
 	"start":1,
-	"display":29,
+	"display":30,
 	"items":[
+		{
+			"title":"현대차·제네시스, 전기차 13종 배터리 제조사 공개",
+			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202408110856349701112616b072_1\/article.html",
+			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202408110856349701112616b072_1\/article.html",
+			"description":"인천 <b>청라<\/b> 벤츠 EQE 전기차 화재로 소비자의 전기차 배터리에 대한 알 권리가 부각되는 가운데 현대자동차가 국내 자동차업체 중 처음으로 전기차 배터리 제조사를 공개했다. 11일 관련업계에 따르면 현대차는 9일... ",
+			"pubDate":"Sun, 11 Aug 2024 09:48:00 +0900"
+		},
+		{
+			"title":"'배터리 실명제' 도입하나…전기차 대책 논의 속도",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20240811001400641\/?input=1825m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000675834?sid=101",
+			"description":"인천 <b>청라<\/b> 아파트 화재를 비롯해 전기차 화재가 잇따르자 정부가 긴급회의를 열고 대책을 논의할... [기자] 인천 <b>청라<\/b> 아파트 지하주차장 화재원인으로 지목된 것은 벤츠 차량에 탑재된 중국 파라시스 사의 배터리입니다.... ",
+			"pubDate":"Sun, 11 Aug 2024 09:39:00 +0900"
+		},
+		{
+			"title":"'전기차 화재' 자차신청 600대 육박…보험사 선 처리 후 구상권",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007758527&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001180573?sid=101",
+			"description":"▲ <b>청라<\/b> 아파트 지하 주차장 화재로 전소된 차량들 인천 대단지 아파트 지하 주차장에서 발생한 전기차... 손해보험업계에 따르면 지난 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 발생한 전기차 화재로... ",
+			"pubDate":"Sun, 11 Aug 2024 09:38:00 +0900"
+		},
 		{
 			"title":"전기차 지상 충전시설 설치 지원·배터리 정보 공개되나...정부, 내일 긴급회...",
 			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1115759",
@@ -192,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014868176?sid=102",
 			"description":"인천 <b>청라<\/b>동 아파트 사례를 참고할 수 있다. 주민 대피 기간이 길어지자 정부와 지자체에서 주민 구호에 나서지 않았느냐&quot;며 &quot;<b>청라<\/b>동 사례와 마찬가지로 정전이 장기화한다면 행안부 구호과나 지자체에서 지원할 수 있다... ",
 			"pubDate":"Sun, 11 Aug 2024 06:00:00 +0900"
-		},
-		{
-			"title":"'시한폭탄' 된 전기차…&quot;풀충전 절대 안돼&quot; 경고 쏟아낸 이유 [최수진의 나우...",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202408093561g",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005020329?sid=101",
-			"description":"지난 1일 발생한 인천 서구 <b>청라<\/b> 아파트 지하 주차장에서 발생한 벤츠 전기차 화재 사건으로 전기차 대중화를 노리던 완성차 업계가 뒤숭숭하다. 알 수 없는 이유로 전기차 화재가 계속해서 발생하면서 모든 전기차가... ",
-			"pubDate":"Sun, 11 Aug 2024 05:55:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b> 전기차 화재, 스프링클러 임의로 꺼버린 것이 피해 키웠다",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1394590\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002860889?sid=102",
-			"description":"인천 서구 <b>청라<\/b>동 아파트 지하주차장에서 발생한 전기차 화재 당시 스프링클러가 작동하지 않은 이유는 핵심 밸브가 임의로 조작됐기 때문인 것으로 확인됐다. 인천소방본부는 지난 1일 전기차 화재가 발생한 서구 <b>청라<\/b>동... ",
-			"pubDate":"Sun, 11 Aug 2024 02:06:00 +0900"
 		}
 	]
 }
