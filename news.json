@@ -1,11 +1,25 @@
 {
-	"lastBuildDate":"Sun, 11 Aug 2024 12:30:02 +0900",
-	"total":237468,
+	"lastBuildDate":"Sun, 11 Aug 2024 12:40:02 +0900",
+	"total":237470,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"&quot;내 전기차도 불 날까 겁나&quot;… 중고차 시장 '매물 급증, 가격 폭락'",
+			"title":"인천 '전기차 화재' 자차신청 600대 육박…보험사 선처리 후 구상권",
+			"originallink":"https:\/\/www.socialvalue.kr\/news\/view\/1065583514736863",
+			"link":"https:\/\/www.socialvalue.kr\/news\/view\/1065583514736863",
+			"description":"11일 손해보험업계에 따르면 지난 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 발생한 전기차 화재로 자차보험 처리 신청은 600대 이다. 자차보험은 상대 운전자 없이 자동차를 소유·사용·관리하는... ",
+			"pubDate":"Sun, 11 Aug 2024 12:36:00 +0900"
+		},
+		{
+			"title":"&quot;전기차 화재용 소화기는 없습니다&quot;… 소방청 미인가 소화기 단속",
+			"originallink":"http:\/\/www.public25.com\/news\/articleView.html?idxno=16605",
+			"link":"http:\/\/www.public25.com\/news\/articleView.html?idxno=16605",
+			"description":"사진은 지난 8일 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동감식을 하는 모습. 연합뉴스 &quot;전기차 화재를 진압할 수... ",
+			"pubDate":"Sun, 11 Aug 2024 12:32:00 +0900"
+		},
+		{
+			"title":"&quot;내 전기차도 불 날까 겁나&quot;…중고 매물 급증에 가격 폭락까지",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024081112223943642",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005457641?sid=102",
 			"description":"인천 <b>청라<\/b> 전기차 화재 이후 운전자 사이에 전기차 포비아(공포증)가 퍼지고 있다. 국내 중고차 시장에서... 11일 직영 중고차 플랫폼 케이카(K Car)에 따르면 인천 <b>청라<\/b>에서 지하주차장 전기차 화재 사고가 발생한 지난... ",
@@ -40,13 +54,6 @@
 			"pubDate":"Sun, 11 Aug 2024 12:04:00 +0900"
 		},
 		{
-			"title":"소방청 “시판 소화기 리튬배터리 화재 진압 불가능”…미인증·과장광고 제품...",
-			"originallink":"https:\/\/www.khan.co.kr\/national\/national-general\/article\/202408111200001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003314178?sid=102",
-			"description":"지난 6월 경기 화성시 아리셀 공장 화재에 이어 최근 인천 <b>청라<\/b> 아파트 지하 주차장 전기차 폭발 사고가 이어지면서 리튬 배터리 화재에 대한 불안이 커진 상황이다. 이에 인터넷 쇼핑몰에는 ‘전기차 화재 소화기’ ‘리튬... ",
-			"pubDate":"Sun, 11 Aug 2024 12:00:00 +0900"
-		},
-		{
 			"title":"아파트 전기차 충전기 70%는 '과충전' 못 막는다",
 			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000186444?division=NAVER",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000397032?sid=101",
@@ -54,7 +61,14 @@
 			"pubDate":"Sun, 11 Aug 2024 12:00:00 +0900"
 		},
 		{
-			"title":"“국산 배터리는 안전?” 현대차, 배터리 제조사 공개에도 ‘반응 싸늘’",
+			"title":"소방청 “시판 소화기 리튬배터리 화재 진압 불가능”…미인증·과장광고 제품...",
+			"originallink":"https:\/\/www.khan.co.kr\/national\/national-general\/article\/202408111200001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003314178?sid=102",
+			"description":"지난 6월 경기 화성시 아리셀 공장 화재에 이어 최근 인천 <b>청라<\/b> 아파트 지하 주차장 전기차 폭발 사고가 이어지면서 리튬 배터리 화재에 대한 불안이 커진 상황이다. 이에 인터넷 쇼핑몰에는 ‘전기차 화재 소화기’ ‘리튬... ",
+			"pubDate":"Sun, 11 Aug 2024 12:00:00 +0900"
+		},
+		{
+			"title":"“국산은 안전?” 현대차, 배터리 제조사 공개에도 ‘반응 싸늘’",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020410004&code=61121111&cp=nv",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001717055?sid=102",
 			"description":"인천 <b>청라<\/b> 지하주차장 전기차 화재로 전기차 공포가 확산하자 현대차가 13종 전기차의 배터리 제조사를 공개했다. 다만 이같은 정보 공개에도 전기차 공포는 잦아들지 않는 모양새다. 배터리 제조사와 무관하게 화재가... ",
@@ -103,17 +117,17 @@
 			"pubDate":"Sun, 11 Aug 2024 11:28:00 +0900"
 		},
 		{
-			"title":"서울시, 노숙인·무더위 쉼터·쪽방촌에 아리수 43만병 지원",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240809_0002845017",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012721776?sid=102",
-			"description":"지난 1일 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 전기차 화재로 수도 공급 시설이 파손돼 인천시 요청에 따라 병물 아리수 2리터 2만3040병을 긴급 지원했다. 4월에는 경기도 이천시 정수장 유충 발견으로 정상적인 물... ",
-			"pubDate":"Sun, 11 Aug 2024 11:15:00 +0900"
-		},
-		{
 			"title":"21일째 열대야 서울…탑골공원·쪽방촌 등에 병물 아리수 43만병 공급",
 			"originallink":"https:\/\/www.khan.co.kr\/local\/Seoul\/article\/202408111115001",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003314170?sid=102",
 			"description":"지난달 지하 주차장 전기차 화재로 수도 공급이 끊긴 인천 <b>청라<\/b>아파트에는 인천시 요청에 따라 병물 아리수 2ℓ짜리 2만3040병을 긴급 지원했다. 앞서 4월에는 정수장에서 유충이 발견돼 물 공급이 어려워진 경기도... ",
+			"pubDate":"Sun, 11 Aug 2024 11:15:00 +0900"
+		},
+		{
+			"title":"서울시, 노숙인·무더위 쉼터·쪽방촌에 아리수 43만병 지원",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240809_0002845017",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012721776?sid=102",
+			"description":"지난 1일 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 전기차 화재로 수도 공급 시설이 파손돼 인천시 요청에 따라 병물 아리수 2리터 2만3040병을 긴급 지원했다. 4월에는 경기도 이천시 정수장 유충 발견으로 정상적인 물... ",
 			"pubDate":"Sun, 11 Aug 2024 11:15:00 +0900"
 		},
 		{
@@ -173,17 +187,17 @@
 			"pubDate":"Sun, 11 Aug 2024 10:52:00 +0900"
 		},
 		{
-			"title":"인천시의회 건교위, 주요 사업장 11곳 현장 방문 실시",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20240811104608847",
-			"link":"https:\/\/www.ajunews.com\/view\/20240811104608847",
-			"description":"이어 오는 19일에는 부평지역 군부대 현안 사업(제3보급단·캠프마켓·제1113공변단), 루원 복합청사 건설공사, 서울도시철도 7호선 <b>청라<\/b> 연장 건설사업 등을, 21일에는 항공우주산학융합원(UAM), 항운연안아파트 이주 사업... ",
-			"pubDate":"Sun, 11 Aug 2024 10:48:00 +0900"
-		},
-		{
 			"title":"'전기차 화재' 자차보험 신청 600대…보험사 선지급 후 구상권 청구",
 			"originallink":"https:\/\/it.chosun.com\/news\/articleView.html?idxno=2023092121294",
 			"link":"https:\/\/it.chosun.com\/news\/articleView.html?idxno=2023092121294",
 			"description":"인천 서구 <b>청라<\/b>의 한 아파트 단지 지하 주차장에서 발생한 전기차 화재로 피해를 본 차주들이 신청한 자기차량손해담보(자차보험)가 600대에 육박한 것으로 알려졌다. 보험사들은 일단 보험금을 지급한 후... ",
+			"pubDate":"Sun, 11 Aug 2024 10:48:00 +0900"
+		},
+		{
+			"title":"인천시의회 건교위, 주요 사업장 11곳 현장 방문 실시",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20240811104608847",
+			"link":"https:\/\/www.ajunews.com\/view\/20240811104608847",
+			"description":"이어 오는 19일에는 부평지역 군부대 현안 사업(제3보급단·캠프마켓·제1113공변단), 루원 복합청사 건설공사, 서울도시철도 7호선 <b>청라<\/b> 연장 건설사업 등을, 21일에는 항공우주산학융합원(UAM), 항운연안아파트 이주 사업... ",
 			"pubDate":"Sun, 11 Aug 2024 10:48:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408111017205030554",
 			"description":"11일 보험업계에 따르면 지난 1일 발생한 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 주차장 화재와 관련해 접수된 자차보험 처리 신청은 화재가 난 벤츠 전기차 차주를 비롯해 모두 600대에 육박하는 것으로 알려졌다.... ",
 			"pubDate":"Sun, 11 Aug 2024 10:40:00 +0900"
-		},
-		{
-			"title":"충남도, 공동주택 전기차 배터리 충전율 '90% 이하' 제한 추진",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1064260",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1064260",
-			"description":"지난 8일 오전 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다. [연합뉴스] 충남도가 최근... ",
-			"pubDate":"Sun, 11 Aug 2024 10:36:00 +0900"
-		},
-		{
-			"title":"`<b>청라<\/b> 전기차 화재` 자차 신청 600대…보험사 구상권 청구",
-			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024081102109963084001&ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002894236?sid=101",
-			"description":"11일 손해보험업계에 따르면 지난 1일 인천 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 발생한 전기차 화재로 차량이 불에 타거나 그을리는 등의 피해와 관련한 자차보험 처리 신청은 화재가 난 벤츠 전기차 차주를... ",
-			"pubDate":"Sun, 11 Aug 2024 10:34:00 +0900"
 		}
 	]
 }
