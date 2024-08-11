@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 11 Aug 2024 10:20:02 +0900",
-	"total":237434,
+	"lastBuildDate":"Sun, 11 Aug 2024 10:30:02 +0900",
+	"total":237436,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"벤츠 화재로 중고 매물 수두룩…가격은 하락세",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20240811101101808",
+			"link":"https:\/\/www.ajunews.com\/view\/20240811101101808",
+			"description":"인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다. [사진=연합뉴스]",
+			"pubDate":"Sun, 11 Aug 2024 10:26:00 +0900"
+		},
+		{
+			"title":"인천 아파트 전기차 화재 피해 '자차보험청구' 600대..더 늘어날 듯",
+			"originallink":"https:\/\/www.ikbc.co.kr\/article\/view\/kbc202408110008",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/660\/0000066584?sid=102",
+			"description":"11일 손해보험업계에 따르면 지난 1일 인천 <b>청라<\/b> 아파트 지하 1층 주차장에서 발생한 전기차 화재로 불에 타거나 그을림 피해를 본 차주들의 자차보험 처리 신청은 모두 600대에 육박하는 것으로 알려졌습니다.... ",
+			"pubDate":"Sun, 11 Aug 2024 10:23:00 +0900"
+		},
 		{
 			"title":"‘<b>청라<\/b> 전기차 화재’ 자차신청 600대…보험사 선처리 후 구상권",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01325126638986336",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007723101?sid=101",
 			"description":"지난 1일 인천 <b>청라<\/b>의 한 아파트에서 발생한 메르세데스-벤츠 EQE 화재로 '전기차 공포증'이 번지자 대책 마련에 나선 것이다. 정부는 업계 의견 수렴을 거쳐 내달 초 종합 대책을 내놓을 예정이다. 핵심은 '배터리 실명제... ",
 			"pubDate":"Sun, 11 Aug 2024 06:50:00 +0900"
-		},
-		{
-			"title":"'지상' 충전시설 설치 지원하고, 전기차 '배터리 정보' 공개",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240809102600530?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014868264?sid=102",
-			"description":"그러나 이런 조치가 무색하게 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에 있던 벤츠 EQE 차량에서 불이 나 주변으로 옮겨붙는 사고가 발생하면서 전기차에 대한 공포와 우려가 급격히 커졌다. 정부는 이날 회의에서... ",
-			"pubDate":"Sun, 11 Aug 2024 06:15:00 +0900"
-		},
-		{
-			"title":"아파트 전기차 충전기 대부분 '과충전' 자체 방지 못해",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240809088900530?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014868265?sid=101",
-			"description":"최근 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 화재가 발생한 벤츠 EQE 차량엔 세계 10위권 배터리 제조사인 중국 파라시스의 배터리가 탑재된 것으로 조사됐다. 애초 중국 1위 배터리업체 CATL의 배터리가... ",
-			"pubDate":"Sun, 11 Aug 2024 06:15:00 +0900"
 		}
 	]
 }
