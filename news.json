@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 11 Aug 2024 18:00:02 +0900",
-	"total":237528,
+	"lastBuildDate":"Sun, 11 Aug 2024 18:10:02 +0900",
+	"total":237530,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;제조사는 알아야지&quot;… 전기차 배터리 공개 의무화 '급물살'",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240812010005956",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240812010005956",
+			"description":"정부, 13일 車 제조사·수입차와 회의 영업비밀 침해 우려 속 '알권리' 우선 현대차, 차종별 배터리 제조사 공개 지난 인천 <b>청라<\/b> 전기차 화재가 유독 '포비아' 수준의 사회적 이슈가 된 배경은 아파트 전체를 쑥대밭으로... ",
+			"pubDate":"Sun, 11 Aug 2024 18:04:00 +0900"
+		},
+		{
+			"title":"정부, 전기차 '배터리 정보' 공개지상 충전소 확대 추진",
+			"originallink":"https:\/\/www.mediapen.com\/news\/view\/944658",
+			"link":"https:\/\/www.mediapen.com\/news\/view\/944658",
+			"description":"8일 오전 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다.\/사진=연합뉴스 11일 정부에... ",
+			"pubDate":"Sun, 11 Aug 2024 18:02:00 +0900"
+		},
 		{
 			"title":"대구안실련 &quot;기존 소화장비 전기차 화재진압 역부족…대책 마련 촉구&quot;",
 			"originallink":"https:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=4016677",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.fetv.co.kr\/news\/article.html?no=172245",
 			"description":"인천 <b>청라<\/b> 지하주차장 전기자동차 화재로 소비자들의 전기차 배터리에 대한 공포증이 확산되는 가운데 현대자동차가 국내 자동차업체 중 처음으로 전기차 배터리 제조사를 공개했다. 현대차는 지난 10일 홈페이지를... ",
 			"pubDate":"Sun, 11 Aug 2024 15:24:00 +0900"
-		},
-		{
-			"title":"[연합시론] '전기차 포비아' 불식시킬 근본대책 시급하다",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240811024200022?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014868868?sid=102",
-			"description":"인천 <b>청라<\/b> 아파트 전기차 화재만 하더라도 진화가 조속히 되지 않으면서 피해가 막심했다. 화재로 피해를 본 차주들의 자기차량손해담보(자차보험) 처리 신청만 600대에 육박하고 있다. 불안감을 해소하기 위한 정부 및 각... ",
-			"pubDate":"Sun, 11 Aug 2024 15:15:00 +0900"
-		},
-		{
-			"title":"'인천 전기차 화재' 자차보험 신청 600대…보험사 선처리 후 구상권",
-			"originallink":"https:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2148952",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000100938?sid=102",
-			"description":"11일 손해보험업계에 따르면 지난 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 발생한 전기차 화재로 차량이 불에 타거나 그을리는 등 자차보험 처리 신청은 화재가 난 벤츠 전기차 차주를 비롯해 모두... ",
-			"pubDate":"Sun, 11 Aug 2024 15:05:00 +0900"
 		}
 	]
 }
