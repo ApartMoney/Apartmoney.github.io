@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 12 Aug 2024 20:40:02 +0900",
-	"total":238011,
+	"lastBuildDate":"Mon, 12 Aug 2024 20:50:02 +0900",
+	"total":238012,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 화재 ‘쑥대밭’ 인천 아파트, 복구 비용 누가 내나?",
+			"originallink":"https:\/\/www.munhwa.com\/news\/view.html?no=2024081201039910126009",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002653956?sid=102",
+			"description":"12일 인천소방본부 등에 따르면 지난 1일 서구 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 벤츠 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며 차량 87대가 불에 타고 783대가 그을렸다. 차량뿐만 아니라... ",
+			"pubDate":"Mon, 12 Aug 2024 20:45:00 +0900"
+		},
+		{
+			"title":"BMW코리아도 전기차 배터리 제조사 공개",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DCZMIMYTA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004379376?sid=101",
+			"description":"BMW코리아는 소비자 문의 시 전기차 배터리 제조사를 공개해왔으나, 최근 인천 <b>청라<\/b>국제도시의 한 아파트에서 발생한 메르세데스-벤츠 전기차 화재로 배터리 제조사 공개를 요청하는 고객 문의가 많아지자... ",
+			"pubDate":"Mon, 12 Aug 2024 20:45:00 +0900"
+		},
 		{
 			"title":"인천 <b>청라<\/b> 아파트 화재 피해 주민 지원 강화… 의료·방역·심리 상담 제공",
 			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=281794",
@@ -152,13 +166,6 @@
 			"pubDate":"Mon, 12 Aug 2024 19:08:00 +0900"
 		},
 		{
-			"title":"현대 이어 기아도 배터리 정보 先 공개… CES 혁신상 2관왕 제품 포함",
-			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20240812\/126498313\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003581459?sid=101",
-			"description":"인천 <b>청라<\/b>에서 발생한 벤츠 전기차 화재에 이어 지난 6일에는 충남 금산에서 충전 중인 기아 EV6에서 화재가 발생한 바 있다. 기아 EV6 화재의 경우 주민 신고로 출동한 소방관들이 조기에 화재 진압에 나서 인천 <b>청라<\/b>만... ",
-			"pubDate":"Mon, 12 Aug 2024 19:06:00 +0900"
-		},
-		{
 			"title":"[전기차 포비아] 서울시 &quot;90% 이상 충전땐 지하 진입 금지&quot;",
 			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=218082",
 			"link":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=218082",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=209677",
 			"description":"한양 관계자는 &quot;한양은 서울 청량리의 랜드마크인 최고 59층 높이의 청량리역 한양수자인 그라시엘을 비롯해 최고 47층 높이의 오피스텔 <b>청라<\/b> 한양수자인 디에스틴 등을 성공적으로 공급하며 우수한 시공 역량을... ",
 			"pubDate":"Mon, 12 Aug 2024 18:46:00 +0900"
-		},
-		{
-			"title":"인천소방본부, 지하주차장 전기차 화재 안전대책 추진",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240812_0002847412",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012724839?sid=102",
-			"description":"인천소방본부는 최근 발생한 서구 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재와 관련 안전대책을... 앞서 지난 1일 오전 인천 서구 <b>청라<\/b>동 한 아파트 지하주차장에 주차된 흰색 벤츠 전기차에서 연기가 뿜어져 나오다... ",
-			"pubDate":"Mon, 12 Aug 2024 18:42:00 +0900"
 		}
 	]
 }
