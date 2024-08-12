@@ -1,9 +1,65 @@
 {
-	"lastBuildDate":"Mon, 12 Aug 2024 17:40:02 +0900",
-	"total":237948,
+	"lastBuildDate":"Mon, 12 Aug 2024 17:50:02 +0900",
+	"total":237956,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"현대차그룹, 배터리 제조사 공개…폴스타 수입차 중 유일",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20240812500531",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20240812500531",
+			"description":"최근 인천 <b>청라<\/b>에서 발생한 메르세데스-벤츠 EV 화재로 소비자 알 권리가 부각되면서 기아도 배터리 제조사 공개로 소비자 신뢰 확보에 나선것이다. 완성차와 수입차를 통틀어 국내 자동차업체가 배터리 제조사를... ",
+			"pubDate":"Mon, 12 Aug 2024 17:48:00 +0900"
+		},
+		{
+			"title":"EQE 중고차가 6000만원까지…&quot;신차 구매에도 악영향&quot;",
+			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2024081216401882829",
+			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2024081216401882829",
+			"description":"또 <b>청라<\/b> 아파트 화재 이후 중고차 거래 플랫폼에 등록된 전기차 접수량은 200% 가까이 급증한 것으로 나타났습니다. 매물 증가와 가격 하락이 동시에 나타나면 신차 구매 수요도 위축될 가능성이 높습니다. [이호근... ",
+			"pubDate":"Mon, 12 Aug 2024 17:48:00 +0900"
+		},
+		{
+			"title":"[심층분석] 화재 난 벤츠 전기차의 2가지 '불편한 사실'...한국 소비자는 '봉...",
+			"originallink":"https:\/\/www.pennmike.com\/news\/articleView.html?idxno=85988",
+			"link":"https:\/\/www.pennmike.com\/news\/articleView.html?idxno=85988",
+			"description":"벤츠코리아 측은 전기차 (EQE350) 화재로 피해를 입은 인천 <b>청라<\/b> 아파트 주민들에게 45억원을 기부하겠다는... 그런데 지난 1일 인천 <b>청라<\/b> 아파트에서 화재가 발생한 뒤 EQE350에 장착된 배터리를 두고 논란이 발생했다.... ",
+			"pubDate":"Mon, 12 Aug 2024 17:48:00 +0900"
+		},
+		{
+			"title":"아이오닉5·EV6 판매 부진…현대차·기아, 전기차 ‘역성장’",
+			"originallink":"https:\/\/www.ceoscoredaily.com\/page\/view\/2024081211355795906",
+			"link":"https:\/\/www.ceoscoredaily.com\/page\/view\/2024081211355795906",
+			"description":"실제로 지난 1일 인천 <b>청라<\/b>에서 대형 화재로 번진 벤츠의 EQE 차량에는 중국 파라시스의 배터리가 탑재된 것으로 밝혀졌다. 당초 EQE에는 세계 1위 배터리 업체인 중국 CATL의 배터리가 탑재된 것으로 알려졌지만... ",
+			"pubDate":"Mon, 12 Aug 2024 17:46:00 +0900"
+		},
+		{
+			"title":"전기차 화재에 데였나…수입차 '폭탄 세일'",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2024081288381",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005020894?sid=101",
+			"description":"인천 <b>청라<\/b> 아파트 지하주차장에서 불거진 화재로 전기차에 대한 불안감이 커지자 자동차 회사들이 전기차 할인을 확대하거나 예정에 없던 프로모션에 나섰다. 한 달 전에 월별 할인율을 결정하는 수입차 브랜드들은... ",
+			"pubDate":"Mon, 12 Aug 2024 17:45:00 +0900"
+		},
+		{
+			"title":"시사저널 보도에 후속조치 나선 소방청 &quot;리튬 배터리 소화기 실태 일제 조사 ...",
+			"originallink":"https:\/\/www.sisajournal.com\/news\/articleView.html?idxno=305604",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000084674?sid=102",
+			"description":"(시사저널 4월8일자 '행안부‧소방청, 리튬 배터리 전용 소화기 해석 제각각' 기사 참조) 지난 6월, 23명의 목숨을 앗아간 경기 화성시 아리셀 공장 화재 사고의 충격이 채 가시기도 전에 최근 인천 서구 <b>청라<\/b>동의 한 아파트... ",
+			"pubDate":"Mon, 12 Aug 2024 17:42:00 +0900"
+		},
+		{
+			"title":"기아도 전기차 배터리 공개…12종 중 2종만 ‘중국산’",
+			"originallink":"https:\/\/www.ichannela.com\/news\/main\/news_detailPage.do?publishId=000000426659",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/449\/0000282528?sid=101",
+			"description":"최근 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 메르세데스-벤츠 전기차 화재 이후 배터리 제조사 관련 문의가 쇄도했습니다. 현대차와 기아차가 배터리 제조사를 연이어 공개하면서 수입차 업계에서도 제조사를... ",
+			"pubDate":"Mon, 12 Aug 2024 17:41:00 +0900"
+		},
+		{
+			"title":"김상욱 의원, 전기차 화재 방지 입법 작업 착수",
+			"originallink":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1044688",
+			"link":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1044688",
+			"description":"최근 <b>청라<\/b> 대단지 아파트 지하주차장에서 대규모 전기차 화재가 발생한 가운데 국회에서 이를 방지하기 위한 입법 작업이 본격적으로 시작됐다. 지난 1일 화재에 이어 6일에도 충남 금산군 한 주차타워에 주차한... ",
+			"pubDate":"Mon, 12 Aug 2024 17:40:00 +0900"
+		},
 		{
 			"title":"[전기차 화재 포비아] ② 배터리 제조사 공개...K-배터리 3사 &quot;위기이자 기회...",
 			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=318669",
@@ -103,17 +159,17 @@
 			"pubDate":"Mon, 12 Aug 2024 17:20:00 +0900"
 		},
 		{
-			"title":"정부, ‘전기차 화재’ 회의…종합대책 수립 착수",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8033301&ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011779200?sid=102",
-			"description":"참석자들은 전기차 화재에 대한 종합적인 대책 마련의 필요성에 공감하고, 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 화재 이후 언론이나 전문가들이 제시한 대응 방안 등을 논의한 것으로 알려졌습니다. 정부는 이번... ",
-			"pubDate":"Mon, 12 Aug 2024 17:18:00 +0900"
-		},
-		{
 			"title":"아파트 청약 대박 '전주 한양수자인 디에스틴', 오피스텔 분양 예정",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1149342",
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1149342",
 			"description":"한양 관계자는 &quot;한양은 최고 59층 높이의 청량리역 한양수자인 그라시엘을 비롯해 최고 47층 높이의 오피스텔 <b>청라<\/b> 한양수자인 디에스틴 등을 성공적으로 공급하며 우수한 시공 역량을 입증하고 있다&quot;면서 &quot;전주... ",
+			"pubDate":"Mon, 12 Aug 2024 17:18:00 +0900"
+		},
+		{
+			"title":"정부, ‘전기차 화재’ 회의…종합대책 수립 착수",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8033301&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011779200?sid=102",
+			"description":"참석자들은 전기차 화재에 대한 종합적인 대책 마련의 필요성에 공감하고, 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 화재 이후 언론이나 전문가들이 제시한 대응 방안 등을 논의한 것으로 알려졌습니다. 정부는 이번... ",
 			"pubDate":"Mon, 12 Aug 2024 17:18:00 +0900"
 		},
 		{
@@ -138,7 +194,7 @@
 			"pubDate":"Mon, 12 Aug 2024 17:16:00 +0900"
 		},
 		{
-			"title":"[경제PICK] 배터리 제조사 공개한 현대차...정부는 긴급회의",
+			"title":"[경제PICK] 배터리 제조사 공개한 현대·기아차...정부는 긴급회의",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0102_202408121716035398",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002073252?sid=101",
 			"description":"이 가운데 얼마 전 <b>청라<\/b>국제도시 아파트 지하주차장에서 불이 난 벤츠 EQ 시리즈 모델이 10%를 차지했습니다. 당시 화재가 난 차량의 배터리는 뒤늦게 중국 파라시스 제품으로 확인됐습니다. 소비자들에겐 낯선 업체다... ",
@@ -157,62 +213,6 @@
 			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/08\/12\/2024081200302.html",
 			"description":"뉴데일리 선다혜 기자 = 인천 서구 <b>청라<\/b>의 한 아파트에서 발생한 전기차 화재로 관련업계내 공포감이... 12일 관련업계에 따르면 지난 1일 <b>청라<\/b> 아파트 지하주차장에 주차된 전기차 화재로 막대한 재산상 피해가 발생했다.... ",
 			"pubDate":"Mon, 12 Aug 2024 17:08:00 +0900"
-		},
-		{
-			"title":"'전기차 공포증' 확산에 정부 종합 대책 수립 착수",
-			"originallink":"https:\/\/www.kwnews.co.kr\/page\/view\/2024081215395144064",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/087\/0001061366?sid=100",
-			"description":"최근 발생한 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 이후 '전기차 공포증'이 확산하고 있는데 따른 대응이다. 우선 논의되는 방안은 전기차 배터리 제조사 공개이다. 국토교통부는 전기차 제원 안내에 배터리... ",
-			"pubDate":"Mon, 12 Aug 2024 17:07:00 +0900"
-		},
-		{
-			"title":"쏘카, <b>청라<\/b> 전기차 화재 사고 피해 가정에 차량 지원",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1149338",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1149338",
-			"description":"사진=쏘카 제공 매일일보 = 김명현 기자  |  쏘카가 <b>청라<\/b> 전기차 화재사고로 피해를 입은 가정에 차량을 무상 지원한다. 쏘카는 최근 인천 서구 <b>청라<\/b>동 한 아파트 지하 주차장에서 발생한 전기차 화재사고로 이동에... ",
-			"pubDate":"Mon, 12 Aug 2024 17:06:00 +0900"
-		},
-		{
-			"title":"한양, 전주 '에코시티 한양수자인 디에스틴' 오피스텔 이달 분양",
-			"originallink":"https:\/\/www.news1.kr\/realestate\/general\/5508729",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007726371?sid=101",
-			"description":"한양 관계자는 &quot;한양은 서울 청량리의 랜드마크인 최고 59층 높이의 청량리역 한양수자인 그라시엘을 비롯해 최고 47층 높이의 오피스텔 <b>청라<\/b> 한양수자인 디에스틴 등을 성공적으로 공급하며 우수한 시공 역량을... ",
-			"pubDate":"Mon, 12 Aug 2024 17:05:00 +0900"
-		},
-		{
-			"title":"전기차 공포 확산에 배터리 실명제 부상···&quot;본질적 해법은 아냐&quot;",
-			"originallink":"https:\/\/www.sisajournal-e.com\/news\/articleView.html?idxno=404949",
-			"link":"https:\/\/www.sisajournal-e.com\/news\/articleView.html?idxno=404949",
-			"description":"특히, 최근 이달 1일 인천 서구 <b>청라<\/b>동의 한 아파트 단지 지하주차장에서 발생한 화재로 차량 140여대가 전소되거나 열손, 그을음 피해를 입으면서 전기차에 대한 공포가 확산하고 있다. 온라인을 중심으로 전기차 포비아... ",
-			"pubDate":"Mon, 12 Aug 2024 17:02:00 +0900"
-		},
-		{
-			"title":"[시간외 단일가] 신진에스엠, 정부 열폭주 배터리 대책 수립 수혜주 부각",
-			"originallink":"https:\/\/www.widedaily.com\/news\/articleView.html?idxno=242253",
-			"link":"https:\/\/www.widedaily.com\/news\/articleView.html?idxno=242253",
-			"description":"지난 1일 인천 <b>청라<\/b>에서 발생한 전기차 배터리에 의한 지하주차장 전소 사건으로 전기차 기피 조짐이 나타나자 정부가 대책 마련에 나섰다. 전기차에 장착된 리튬 배터리는 불이 붙으면 더 많은 열을 만드는 '열 폭주'가... ",
-			"pubDate":"Mon, 12 Aug 2024 17:00:00 +0900"
-		},
-		{
-			"title":"기아도 EV 배터리 제조사 전격 공개…중국산 배터리는?",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240812_0002847246",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012724618?sid=103",
-			"description":"최근 인천 <b>청라<\/b>에서 발생한 메르세데스-벤츠 EV 화재로 기아 배터리 제조사에 대한 고객 문의가 빗발치고 있어서다. 현대차와 제네시스에 이어 기아도 배터리 제조사를 공개하며, 국산차 점유율이 90%를 넘는... ",
-			"pubDate":"Mon, 12 Aug 2024 16:58:00 +0900"
-		},
-		{
-			"title":"현대차 이어 기아도 배터리 제조사 공개...국산 외에는 CATL만 사용(종합)",
-			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024081216485771630",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005076047?sid=101",
-			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 메르세데스-벤츠 'EQE' 차량에 화재가 나 주변 차량 수십대를 전소시키는 사건이 발생했다. 해당 차량에는 중국 파라시스의 NCM 배터리가 탑재된 것으로 밝혀지면서 배터리 제조사를... ",
-			"pubDate":"Mon, 12 Aug 2024 16:57:00 +0900"
-		},
-		{
-			"title":"전기차 화재 대책...배터리 제조사 공개, 100% 충전 금지",
-			"originallink":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=6232",
-			"link":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=6232",
-			"description":"이날 회의에선 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 이후 제시한 대응 방안이 대부분... 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 불탄 차에 애초 알려진 것과 다른 제조사 배터리가 탑재된 것이... ",
-			"pubDate":"Mon, 12 Aug 2024 16:56:00 +0900"
 		}
 	]
 }
