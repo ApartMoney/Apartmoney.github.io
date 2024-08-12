@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Tue, 13 Aug 2024 06:30:02 +0900",
-	"total":238079,
+	"lastBuildDate":"Tue, 13 Aug 2024 06:40:02 +0900",
+	"total":238083,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천서 회식 후 실종된 20대 남성…사흘 만에 숨진 채 발견",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202408130633364776",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005226808?sid=102",
+			"description":"앞서 A씨는 지난 9일 직장 회식을 마치고 귀가하던 중 서구 <b>청라<\/b>동 일대에서 실종돼 경찰에 신고가 접수된 상태였다. 그의 지인 B씨는 한 온라인 커뮤니티를 통해 '실종된 친구를 찾습니다(제발 한 번씩 봐주세요)'라는... ",
+			"pubDate":"Tue, 13 Aug 2024 06:37:00 +0900"
+		},
+		{
+			"title":"직장 회식 후 실종된 20대…골프장 내 물웅덩이서 숨진 채 발견",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024081302109919607002&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002894776?sid=102",
+			"description":"앞서 A씨는 지난 9일 직장 회식을 마치고 귀가하던 중 서구 <b>청라<\/b>동 일대에서 실종됐다. 그의 지인은 온라인 커뮤니티를 통해 &quot;절대 이유 없이 사라질 친구가 아니다&quot;라며 &quot;가족과 친구들이 애타게 찾고 있다&quot;고... ",
+			"pubDate":"Tue, 13 Aug 2024 06:36:00 +0900"
+		},
+		{
+			"title":"배터리 정보 온라인 등록, 이달 들어 급증…전기차 화재 영향",
+			"originallink":"https:\/\/www.khan.co.kr\/economy\/industry-trade\/article\/202408130631001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003314578?sid=101",
+			"description":"지난 1일 인천 <b>청라<\/b>에서 메르세데스-벤츠 EQE 전기차 화재가 발생한 뒤 전기차 배터리에 대한 소비자의 알 권리가 부각되며 자신의 차량 배터리 정보에 대한 관심이 높아진 데 따른 현상으로 풀이된다. 전날 오후까지... ",
+			"pubDate":"Tue, 13 Aug 2024 06:32:00 +0900"
+		},
+		{
+			"title":"인천시, 전기차 화재 피해 주민 '의료방역대책반' 총력 가동",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=605819",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=605819",
+			"description":"컨슈머타임스=안우진 기자 | 인천시가 서구 <b>청라<\/b>에서 발생한 전기차 화재와 관련해 피해 확산 방지를 위한... 마음안심버스는 6일부터 <b>청라<\/b>2동 행정복지센터에서 오전 10시부터 오후 5시까지 지원되며 필요에 따라 서구... ",
+			"pubDate":"Tue, 13 Aug 2024 06:32:00 +0900"
+		},
 		{
 			"title":"인천서 회식 후 실종됐던 20대…사흘 만에 숨진 채 발견",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/11091344",
@@ -180,39 +208,11 @@
 			"pubDate":"Tue, 13 Aug 2024 05:24:00 +0900"
 		},
 		{
-			"title":"단종차 배터리 정보까지 多 풀었다…소비자 불안감 완화 안간힘",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408121459518220916",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408121459518220916",
-			"description":"인천 <b>청라<\/b>에서 대형화재로 번진 메르세데스-벤츠의 전기차 EQE엔 당초 알려진 것과 달리 낮은 인지도의 중국 파라시스 배터리가 탑재된 것으로 확인됐고, 소비자 불신이 커지며 알 권리를 요구하는 목소리가 확산되는... ",
-			"pubDate":"Tue, 13 Aug 2024 05:20:00 +0900"
-		},
-		{
 			"title":"배터리 정보 잇따라 공개…전기차 화재 공포 막는다",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408121654192520012",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408121654192520012",
 			"description":"최근 인천 <b>청라<\/b>에서 불이 난 전기차에 애초 알려진 것과 다른 제조사 배터리가 탑재된 것이 확인된 후... 이날 회의에선 <b>청라<\/b> 화재사고 등과 관련한 대응현황과 관계부처별 역할분담 등이 논의된 것으로 알려졌다.... ",
 			"pubDate":"Tue, 13 Aug 2024 05:20:00 +0900"
-		},
-		{
-			"title":"전기차 불안 해소될까… 배터리 제조사 공개·과충전 방지 논의",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/economy\/car\/2024\/08\/13\/20240813002004?wlog_tag3=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003471843?sid=101",
-			"description":"앞서 지난 1일 인천 <b>청라<\/b>신도시의 아파트 지하주차장에서 발생한 메르세데스벤츠 EQE 전기차 화재 사고의 경우 해당 차량에 중국 파라시스의 배터리가 탑재된 것이 뒤늦게 확인되면서 논란이 됐다. 배터리 및 자동차... ",
-			"pubDate":"Tue, 13 Aug 2024 05:02:00 +0900"
-		},
-		{
-			"title":"中 꽉 잡은 'LFP 배터리' 시대 열리나…한국 이 배터리도 주목",
-			"originallink":"https:\/\/www.joongang.co.kr\/article\/25270254",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003379478?sid=101",
-			"description":"지난 1일 인천 <b>청라<\/b>의 전기차 화재로 국내 배터리 업계의 기술개발 방향에 변화가 생길지 주목된다. 1회... 이번에 <b>청라<\/b> 한 아파트 지하주차장에서 불이 난 벤츠 차량에는 중국 업체 ‘파라시스’의 NCM 배터리가 탑재된... ",
-			"pubDate":"Tue, 13 Aug 2024 05:00:00 +0900"
-		},
-		{
-			"title":"인천서 실종됐던 20대, 사흘 만에 숨진 채 발견",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408130457231077",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002073454?sid=102",
-			"description":"지난 9일 실종됐던 20대 남성 A 씨는 어제저녁(12일) 인천 <b>청라<\/b>동에 있는 골프장 부근에서 발견된 것으로 알려졌습니다. 앞서 경찰은 CCTV 영상 등을 토대로 A 씨 동선을 확인하며 수색작업을 벌여왔습니다. A 씨의 지인도... ",
-			"pubDate":"Tue, 13 Aug 2024 04:57:00 +0900"
 		}
 	]
 }
