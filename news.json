@@ -1,22 +1,29 @@
 {
-	"lastBuildDate":"Tue, 13 Aug 2024 06:10:02 +0900",
-	"total":238072,
+	"lastBuildDate":"Tue, 13 Aug 2024 06:20:02 +0900",
+	"total":238074,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'마이배터리' 등록, 이달들어 급증..왜?",
+			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202408130003&t=NN",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001175007?sid=103",
+			"description":"지난 1일 인천 <b>청라<\/b>에서 메르세데스-벤츠 EQE 전기차 화재가 발생한 뒤 전기차 배터리에 대한 소비자의 알 권리가 부각되며 자신의 차량 배터리 정보에 대한 관심이 높아진 데 따른 것으로 해석된다. 전날 오후까지... ",
+			"pubDate":"Tue, 13 Aug 2024 06:17:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b>서 회식 후 실종된 20대 남성…사흘 만에 숨진 채 발견",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240813502732?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003959482?sid=102",
+			"description":"앞서 A씨는 지난 9일 직장 회식을 마치고 귀가하던 중 서구 <b>청라<\/b>동 일대에서 실종돼 경찰에 신고가 접수된 상태였다. 그의 지인이라고 주장한 B씨는 한 온라인 커뮤니티를 통해 '실종된 친구를 찾습니다(제발 한 번씩... ",
+			"pubDate":"Tue, 13 Aug 2024 06:11:00 +0900"
+		},
 		{
 			"title":"트윔, 주가 급등…EV 화재대책 마련에 '배터리 검사장비' 주목",
 			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408130606321457cd1e7f0bdf_23",
 			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408130606321457cd1e7f0bdf_23",
 			"description":"연합뉴스에 따르면 이날 회의에선 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 이후... 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 불탄 차에 애초 알려진 것과 다른 제조사 배터리가 탑재된 것이 확인돼... ",
 			"pubDate":"Tue, 13 Aug 2024 06:08:00 +0900"
-		},
-		{
-			"title":"[사설] ‘전기차 포비아’ 확산…화재 대책 재설계 시급",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=805311",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=805311",
-			"description":"지난 1일 인천 <b>청라<\/b> 지역 한 아파트 지하 주차장에서 발생한 화재를 계기로 전기차 주차 기피 풍조가 퍼지고, 경기교육청은 전기차 충전소 교내 설치 중단을 선언했다. 전기차 화재 안전대책을 종합적으로 재설계해야... ",
-			"pubDate":"Tue, 13 Aug 2024 06:02:00 +0900"
 		},
 		{
 			"title":"'전기차 포비아'에서 '샤이 차이나'로…K-배터리 '인증' 행렬",
@@ -30,6 +37,13 @@
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240812521215?OutUrl=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003959458?sid=101",
 			"description":"총 7종… 2종 제외 K배터리 탑재 수입차 업체선 BMW 최초 공개 인천 <b>청라<\/b> 아파트 단지 전기차 화재로 각 전기차에 탑재된 배터리 제조사 공개 요구 여론이 높아지자 주요 완성차 업체가 속속 이를 공개하고... ",
+			"pubDate":"Tue, 13 Aug 2024 06:02:00 +0900"
+		},
+		{
+			"title":"[사설] ‘전기차 포비아’ 확산…화재 대책 재설계 시급",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=805311",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=805311",
+			"description":"지난 1일 인천 <b>청라<\/b> 지역 한 아파트 지하 주차장에서 발생한 화재를 계기로 전기차 주차 기피 풍조가 퍼지고, 경기교육청은 전기차 충전소 교내 설치 중단을 선언했다. 전기차 화재 안전대책을 종합적으로 재설계해야... ",
 			"pubDate":"Tue, 13 Aug 2024 06:02:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408130324379872cd1e7f0bdf_23",
 			"description":"연합뉴스에 따르면 이날 회의에선 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 이후... 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 불탄 차에 애초 알려진 것과 다른 제조사 배터리가 탑재된 것이... ",
 			"pubDate":"Tue, 13 Aug 2024 03:26:00 +0900"
-		},
-		{
-			"title":"신진에스엠, 주가 급등…전기차 종합대책 수립 본격화 '열폭주' 방지 부각",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=20240813032301903cd1e7f0bdf_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=20240813032301903cd1e7f0bdf_23",
-			"description":"연합뉴스에 따르면 이날 회의에선 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 이후... 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 불탄 차에 애초 알려진 것과 다른 제조사 배터리가 탑재된 것이... ",
-			"pubDate":"Tue, 13 Aug 2024 03:24:00 +0900"
-		},
-		{
-			"title":"한컴라이프케어, 주가 급등…EV 화재대책에 '무인 전기차 화재 진압' 주목",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408130321232892cd1e7f0bdf_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408130321232892cd1e7f0bdf_23",
-			"description":"연합뉴스에 따르면 이날 회의에선 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 이후... 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 불탄 차에 애초 알려진 것과 다른 제조사 배터리가 탑재된 것이... ",
-			"pubDate":"Tue, 13 Aug 2024 03:22:00 +0900"
 		}
 	]
 }
