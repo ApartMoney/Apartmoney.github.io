@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 12 Aug 2024 22:20:02 +0900",
-	"total":238027,
+	"lastBuildDate":"Mon, 12 Aug 2024 22:30:02 +0900",
+	"total":238028,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"BMW, 수입차업계 첫 전기차 배터리 제조사 자발적 공개 결정",
+			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=210983",
+			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=210983",
+			"description":"업계의 이같은 움직임은 <b>청라<\/b> 벤츠 전기차 화재가 단초가 됐다. 당시 사고 차량으로 국내 판매가가 1억원이 넘는 벤츠 EQE에는 당초 국내 소비자들에게 중국의 1위 배터리 업체 CATL의 제품의 탑재된 것으로 알려진... ",
+			"pubDate":"Mon, 12 Aug 2024 22:22:00 +0900"
+		},
 		{
 			"title":"[천지일보 사설] 전기자동차, 안전이 가장 중요하다",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3168835",
@@ -26,7 +33,7 @@
 			"pubDate":"Mon, 12 Aug 2024 21:52:00 +0900"
 		},
 		{
-			"title":"전기차 포비아 확산…BMW, 수입차 첫 '배터리 제조사' 공개",
+			"title":"BMW, 수입차 처음 '전기차 배터리 제조사' 공개…벤츠는?",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25270167",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003379392?sid=101",
 			"description":"완성차, 전기차 출시 일정 재검토 한편, 인천 <b>청라<\/b> 벤츠 화재 이후 ‘전기차 포비아’가 확산되며 전기차 신차 일정을 재검토 하는 등 신차 시장에도 영향이 미치고 있다. 한국GM은 올 하반기 출시예정이던 중형 SUV... ",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014871646?sid=101",
 			"description":"인천시는 최근 전기차 화재로 큰 피해를 본 <b>청라<\/b>국제도시 아파트를 지원하기 위해 의료 방역 대책반을... 이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 전기차에서 발생했다. 이... ",
 			"pubDate":"Mon, 12 Aug 2024 19:43:00 +0900"
-		},
-		{
-			"title":"전기차 '뽑기' 논란에 현대차 이어 기아도 '배터리 제조사 자체 공개'",
-			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=663590",
-			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=663590",
-			"description":"최근 인천 <b>청라<\/b> 아파트 전기차 화재 사고로 인한 소비자 불안감을 해소하기 위한 대처다. 현대차는 지난 10일 홈페이지를 통해 소형 SUV 코나 일렉트릭 2세대에 중국 CATL 배터리를 쓴 것 외에는 모두 SK온과... ",
-			"pubDate":"Mon, 12 Aug 2024 19:40:00 +0900"
 		}
 	]
 }
