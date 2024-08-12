@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 13 Aug 2024 00:20:02 +0900",
-	"total":238038,
+	"lastBuildDate":"Tue, 13 Aug 2024 00:30:02 +0900",
+	"total":238039,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 전기차 화재 의료방역대책반 가동",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1723449693&code=11131411&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001717478?sid=102",
+			"description":"인천시는 서구 <b>청라<\/b>국제도시의 아파트 지하주차장 전기차 화재와 관련해 피해 확산 방지를 위한... <b>청라<\/b>2동 행정복지센터에서 오전 10시부터 오후 5시까지 스트레스 검사, 트라우마 상담, 심리 프로그램 및 전문 상담기관... ",
+			"pubDate":"Tue, 13 Aug 2024 00:21:00 +0900"
+		},
 		{
 			"title":"배터리 하나에 우왕좌왕, 관계부처 중구난방 처방… 컨트롤 타워 부재",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1723453931&code=11151100&cp=nv",
@@ -19,7 +26,7 @@
 			"pubDate":"Tue, 13 Aug 2024 00:12:00 +0900"
 		},
 		{
-			"title":"회식 마치고 귀가하던 20대 남성 나흘째 실종…수사 돌입",
+			"title":"회식 마치고 귀가하던 20대 남성, 나흘째 실종…수사 돌입",
 			"originallink":"https:\/\/www.hankyung.com\/article\/2024081292127",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005021007?sid=102",
 			"description":"12일 인천 서부경찰서에 따르면 지난 9일 새벽 서구 <b>청라<\/b>동에서 20대 남성 A씨가 실종됐다는 신고가... A씨 친구라고 주장하는 한 네티즌은 온라인 커뮤니티에 &quot;지난 9일 인천 <b>청라<\/b>에서 회식이 끝난 친구가 연락이 끊겼다.... ",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=281794",
 			"description":"인천시는 최근 전기차 화재로 큰 피해를 본 <b>청라<\/b>국제도시 아파트 입주민들을 지원하기 위해 다각적인... 이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 전기차에서 발생했다. 이... ",
 			"pubDate":"Mon, 12 Aug 2024 20:28:00 +0900"
-		},
-		{
-			"title":"BMW, 수입차 중 처음으로 배터리 정보 게재…10개 중 8개 한국산",
-			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20240812202536",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002341840?sid=103",
-			"description":"자동차 제조사가 배터리 정보를 공개하기 시작한 것은 지난 1일 발생한 <b>청라<\/b> 벤츠 전기차 화재 사건 이후 소비자들이 배터리 문의가 빗발치면서다. BMW 배터리 제조사 현황 (사진=BMW코리아) 국내 완성차는 현대자동차... ",
-			"pubDate":"Mon, 12 Aug 2024 20:26:00 +0900"
 		}
 	]
 }
