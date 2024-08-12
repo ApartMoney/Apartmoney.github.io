@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Tue, 13 Aug 2024 05:20:02 +0900",
-	"total":238052,
+	"lastBuildDate":"Tue, 13 Aug 2024 05:30:02 +0900",
+	"total":238055,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"아파트 입주민들과 ‘나홀로’ 싸우는 전기차주…“‘예비 살인’ 다름없어”...",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024081302109963079001&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002894760?sid=101",
+			"description":"무슨 생각인지 모르겠어”, “자기들 돈 좀 아끼겠다고 남들 목숨 담보로 잡아” ‘예비 살인마나 다름없어’ 극단 주장도 터져나와…전기차주 겨냥해선 “이기적인 인간들” 지난 1일 발생한 인천 <b>청라<\/b> 지하주차장... ",
+			"pubDate":"Tue, 13 Aug 2024 05:24:00 +0900"
+		},
+		{
+			"title":"배터리 정보 잇따라 공개…전기차 화재 공포 막는다",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408121654192520012",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408121654192520012",
+			"description":"최근 인천 <b>청라<\/b>에서 불이 난 전기차에 애초 알려진 것과 다른 제조사 배터리가 탑재된 것이 확인된 후... 이날 회의에선 <b>청라<\/b> 화재사고 등과 관련한 대응현황과 관계부처별 역할분담 등이 논의된 것으로 알려졌다.... ",
+			"pubDate":"Tue, 13 Aug 2024 05:20:00 +0900"
+		},
+		{
+			"title":"단종차 배터리 정보까지 多 풀었다…소비자 불안감 완화 안간힘",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408121459518220916",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408121459518220916",
+			"description":"인천 <b>청라<\/b>에서 대형화재로 번진 메르세데스-벤츠의 전기차 EQE엔 당초 알려진 것과 달리 낮은 인지도의 중국 파라시스 배터리가 탑재된 것으로 확인됐고, 소비자 불신이 커지며 알 권리를 요구하는 목소리가 확산되는... ",
+			"pubDate":"Tue, 13 Aug 2024 05:20:00 +0900"
+		},
 		{
 			"title":"전기차 불안 해소될까… 배터리 제조사 공개·과충전 방지 논의",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/economy\/car\/2024\/08\/13\/20240813002004?wlog_tag3=naver",
@@ -192,27 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000312615?sid=103",
 			"description":"한편, 인천 <b>청라<\/b> 아파트 단지 지하 주차장에서 대규모 화재의 원인으로 지목되는 메르세데스-벤츠는 아직 배터리 제조사 공개를 검토 중이라고 밝혔다. 벤츠 관계자는 &quot;정책이 변경될 경우 자동차 업체... ",
 			"pubDate":"Mon, 12 Aug 2024 22:04:00 +0900"
-		},
-		{
-			"title":"BMW코리아, 수입 브랜드 중 처음으로 배터리 제조사 공개",
-			"originallink":"https:\/\/www.mediapen.com\/news\/view\/944988",
-			"link":"https:\/\/www.mediapen.com\/news\/view\/944988",
-			"description":"하지만 최근 인천 <b>청라<\/b>에서 발생한 전기차 화재로 인해 전기차 배터리 제조사 공개 의무화 분위기가 짙어지자 수입차 브랜드 중에서는 최초로 자발적 공개에 나섰다. 정부도 전기차 화재에 대한 대응책을... ",
-			"pubDate":"Mon, 12 Aug 2024 21:52:00 +0900"
-		},
-		{
-			"title":"BMW, 수입차 처음 '전기차 배터리 제조사' 공개…벤츠는?",
-			"originallink":"https:\/\/www.joongang.co.kr\/article\/25270167",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003379392?sid=101",
-			"description":"완성차, 전기차 출시 일정 재검토 한편, 인천 <b>청라<\/b> 벤츠 화재 이후 ‘전기차 포비아’가 확산되며 전기차 신차 일정을 재검토 하는 등 신차 시장에도 영향이 미치고 있다. 한국GM은 올 하반기 출시예정이던 중형 SUV... ",
-			"pubDate":"Mon, 12 Aug 2024 21:46:00 +0900"
-		},
-		{
-			"title":"BMW도 배터리 제조사 공개…현대·기아차 이어 수입차로는 '최초'",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DCZN1IMOX",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004379385?sid=101",
-			"description":"이달 초 인천 <b>청라<\/b>국제도시 아파트 지하주차장 화재 사고를 계기로 전기차에 대한 불안이 커진 가운데 현대차그룹에 이어 BMW코리아가 수입차업체 중 처음으로 전기차 배터리 정보를 공개했다. 12일... ",
-			"pubDate":"Mon, 12 Aug 2024 21:43:00 +0900"
 		}
 	]
 }
