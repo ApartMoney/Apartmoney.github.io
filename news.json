@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 12 Aug 2024 22:10:02 +0900",
-	"total":238026,
+	"lastBuildDate":"Mon, 12 Aug 2024 22:20:02 +0900",
+	"total":238027,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[천지일보 사설] 전기자동차, 안전이 가장 중요하다",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3168835",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3168835",
+			"description":"인천 <b>청라<\/b>지구에서 발생한 벤츠자동차 화재로 전기자동차에 대한 두려움이 커지고 있다. 많은 국민들은... <b>청라<\/b>지구 화재로 피해를 본 자동차는 600여대가 넘는다. 많은 주민이 임시대피소에서 큰 고생을 하고 있다.... ",
+			"pubDate":"Mon, 12 Aug 2024 22:18:00 +0900"
+		},
 		{
 			"title":"BMW코리아, 수입차 첫 배터리 제조사 공개…삼성 SDI·CATL",
 			"originallink":"http:\/\/news.tf.co.kr\/read\/economy\/2124326.htm",
@@ -19,7 +26,7 @@
 			"pubDate":"Mon, 12 Aug 2024 21:52:00 +0900"
 		},
 		{
-			"title":"전기차 포비아…현대차∙기아 이어 BMW도 '배터리 제조사' 공개",
+			"title":"전기차 포비아 확산…BMW, 수입차 첫 '배터리 제조사' 공개",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25270167",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003379392?sid=101",
 			"description":"완성차, 전기차 출시 일정 재검토 한편, 인천 <b>청라<\/b> 벤츠 화재 이후 ‘전기차 포비아’가 확산되며 전기차 신차 일정을 재검토 하는 등 신차 시장에도 영향이 미치고 있다. 한국GM은 올 하반기 출시예정이던 중형 SUV... ",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=663590",
 			"description":"최근 인천 <b>청라<\/b> 아파트 전기차 화재 사고로 인한 소비자 불안감을 해소하기 위한 대처다. 현대차는 지난 10일 홈페이지를 통해 소형 SUV 코나 일렉트릭 2세대에 중국 CATL 배터리를 쓴 것 외에는 모두 SK온과... ",
 			"pubDate":"Mon, 12 Aug 2024 19:40:00 +0900"
-		},
-		{
-			"title":"“절대 사라질 친구 아닌데”…회식 후 집에 가던 20대 직장인 실종",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/11091256",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005349282?sid=102",
-			"description":"12일 인천 서부경찰서에 따르면 지난 9일 새벽 서구 <b>청라<\/b>동에서 20대 남성 A씨가 실종됐다는 신고가 112에 접수됐다. A씨는 당일 검은색 티셔츠와 청바지를 입고 있었으며 직장 회식을 마치고 귀가하는 길에 사라진... ",
-			"pubDate":"Mon, 12 Aug 2024 19:33:00 +0900"
 		}
 	]
 }
