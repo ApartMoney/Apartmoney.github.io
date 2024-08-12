@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 13 Aug 2024 05:00:02 +0900",
-	"total":238050,
+	"lastBuildDate":"Tue, 13 Aug 2024 05:10:02 +0900",
+	"total":238052,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 불안 해소될까… 배터리 제조사 공개·과충전 방지 논의",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/economy\/car\/2024\/08\/13\/20240813002004?wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003471843?sid=101",
+			"description":"앞서 지난 1일 인천 <b>청라<\/b>신도시의 아파트 지하주차장에서 발생한 메르세데스벤츠 EQE 전기차 화재 사고의 경우 해당 차량에 중국 파라시스의 배터리가 탑재된 것이 뒤늦게 확인되면서 논란이 됐다. 배터리 및 자동차... ",
+			"pubDate":"Tue, 13 Aug 2024 05:02:00 +0900"
+		},
+		{
+			"title":"中 꽉 잡은 'LFP 배터리' 시대 열리나…한국 이 배터리도 주목",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25270254",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003379478?sid=101",
+			"description":"지난 1일 인천 <b>청라<\/b>의 전기차 화재로 국내 배터리 업계의 기술개발 방향에 변화가 생길지 주목된다. 1회... 이번에 <b>청라<\/b> 한 아파트 지하주차장에서 불이 난 벤츠 차량에는 중국 업체 ‘파라시스’의 NCM 배터리가 탑재된... ",
+			"pubDate":"Tue, 13 Aug 2024 05:00:00 +0900"
+		},
 		{
 			"title":"인천서 실종됐던 20대, 사흘 만에 숨진 채 발견",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408130457231077",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004379385?sid=101",
 			"description":"이달 초 인천 <b>청라<\/b>국제도시 아파트 지하주차장 화재 사고를 계기로 전기차에 대한 불안이 커진 가운데 현대차그룹에 이어 BMW코리아가 수입차업체 중 처음으로 전기차 배터리 정보를 공개했다. 12일... ",
 			"pubDate":"Mon, 12 Aug 2024 21:43:00 +0900"
-		},
-		{
-			"title":"인천시, 전기차 화재 피해 주민 위해 의료방역대책반 총력 가동",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=467741",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=467741",
-			"description":"사진제공=인천시청 인천광역시가 서구 <b>청라<\/b>에서 발생한 전기차 화재와 관련해 피해 확산 방지를 위한... 마음안심버스는 6일부터 <b>청라<\/b>2동 행정복지센터에서 오전 10시부터 오후 5시까지 지원되며, 필요에 따라 서구... ",
-			"pubDate":"Mon, 12 Aug 2024 21:42:00 +0900"
-		},
-		{
-			"title":"“10개 중 8개 삼성SDI 것”…BMW, 수입차 중 처음 전기차 배터리 제조사 알렸...",
-			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024081221010001887?did=NA",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000817428?sid=101",
-			"description":"앞서 1일 인천시 <b>청라<\/b>에서 처음 화재가 발생한 메르세데스-벤츠 전기차에 중국 10위권 배터리 업체 파라시스의 배터리가 쓰인 것으로 알려지자 전기차 운전자와 전기차 구매를 고려하는 소비자들은 전기차... ",
-			"pubDate":"Mon, 12 Aug 2024 21:40:00 +0900"
 		}
 	]
 }
