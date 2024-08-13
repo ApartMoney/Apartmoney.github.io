@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 13 Aug 2024 12:40:02 +0900",
-	"total":238265,
+	"lastBuildDate":"Tue, 13 Aug 2024 12:50:02 +0900",
+	"total":238267,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[속보] 불난 벤츠, 4개 중 3개 모델에 중국 `파라시스` 배터리 쓰였다",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024081302109919002006&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002894920?sid=101",
+			"description":"EQE·EQS·EQE SUV 일부 모델에 탑재 벤츠 &quot;전기차 화재 조사에 협력&quot; 국토부 'EQE 전수점검' 권고도 수용 인천 <b>청라<\/b> 아파트 지하주차장에서 화재가 발생한 전기차의 수입사인 메르세데스-벤츠코리아가 13일 자사... ",
+			"pubDate":"Tue, 13 Aug 2024 12:45:00 +0900"
+		},
+		{
+			"title":"배터리 제조사 공개한 벤츠…&quot;내일부터 무상점검&quot;",
+			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202408130123&t=NN",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001175084?sid=103",
+			"description":"인천 <b>청라<\/b> 아파트 지하주차장에서 화재 사고가 난 전기차의 수입사인 메르세데스-벤츠코리아가 1자사 전기차에 탑재된 배터리 제조사를 13일 공개했다. 이날 오전 공식 홈페이지를 통해 배터리 제조사가 공개된... ",
+			"pubDate":"Tue, 13 Aug 2024 12:41:00 +0900"
+		},
 		{
 			"title":"‘전기차 공포’ 확산에 벤츠도 결국 배터리 제조사 공개",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240813511123?OutUrl=naver",
@@ -96,10 +110,10 @@
 			"pubDate":"Tue, 13 Aug 2024 12:10:00 +0900"
 		},
 		{
-			"title":"벤츠코리아 &quot;전기차 화재조사 협력…내일부터 전기차 무상점검&quot;",
+			"title":"벤츠, 전기차 8종 배터리 제조사 공개…내일부터 무상점검 시행",
 			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007761089&plink=ORI&cooper=NAVER",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001181149?sid=101",
-			"description":"▲ 지난 8일 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다. 메르세데스-벤츠코리아는 최근 인천 아파트 전기차... ",
+			"description":"▲ 지난 8일 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다. 인천 <b>청라<\/b> 아파트 지하주차장에서 화재가... ",
 			"pubDate":"Tue, 13 Aug 2024 12:10:00 +0900"
 		},
 		{
@@ -159,17 +173,17 @@
 			"pubDate":"Tue, 13 Aug 2024 12:02:00 +0900"
 		},
 		{
-			"title":"전기차, 내연기관차보다 화재 사고 많을까? [모빌리티]",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2389852",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2389852",
-			"description":"인천 <b>청라<\/b>에서 발생한 전기차 화재 사고로 전기차 자체에 대해 공포감을 느끼는 ‘전기차 포비아(공포증)... 아파트 지하주차장의 소방 시설이 제대로 작동하지 않아 사고 여파가 커진 인천 <b>청라<\/b>국제도시 메르세데스... ",
-			"pubDate":"Tue, 13 Aug 2024 12:02:00 +0900"
-		},
-		{
 			"title":"신흥에스이씨 주가, 급등... 이유는?",
 			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1044517",
 			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1044517",
 			"description":"이날 회의에선 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 이후 언론이나 전문가들이 제시한 대응 방안이 대부분 논의됐다고 한다. 정부 대책은 '전기차 자체'와 '충전기를 비롯한 전기차 관련... ",
+			"pubDate":"Tue, 13 Aug 2024 12:02:00 +0900"
+		},
+		{
+			"title":"전기차, 내연기관차보다 화재 사고 많을까? [모빌리티]",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2389852",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2389852",
+			"description":"인천 <b>청라<\/b>에서 발생한 전기차 화재 사고로 전기차 자체에 대해 공포감을 느끼는 ‘전기차 포비아(공포증)... 아파트 지하주차장의 소방 시설이 제대로 작동하지 않아 사고 여파가 커진 인천 <b>청라<\/b>국제도시 메르세데스... ",
 			"pubDate":"Tue, 13 Aug 2024 12:02:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=805407",
 			"description":"앞서 A씨는 지난 9일 직장 회식을 마치고 귀가하던 중 서구 <b>청라<\/b>동 일대에서 실종돼 경찰에 신고가 접수된 상태로, 경찰은 CCTV 영상과 드론을 투입해 A씨 동선을 확인하며 수색 작업을 벌였다. 경찰은... ",
 			"pubDate":"Tue, 13 Aug 2024 11:54:00 +0900"
-		},
-		{
-			"title":"전기차 화재 우려 속 '폴스타4' 출시…정면승부 '주목'",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240813_0002848119",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012725928?sid=101",
-			"description":"최근 인천 <b>청라<\/b>동 전기차 화재 사고 이후 폴스타 4가 전기차 화재 우려를 넘어 흥행 질주를 할 수 있을지 주목된다. 폴스타코리아는 13일 서울 용산구 폴스타 서울에서 폴스타 4를 국내 최초로 공개했다. 폴스타 모델... ",
-			"pubDate":"Tue, 13 Aug 2024 11:53:00 +0900"
-		},
-		{
-			"title":"[현장] &quot;전기차에서 불나면 이렇게&quot;…주민 관심 끈 소방교육",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240813074400065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014872478?sid=102",
-			"description":"이날 교육은 지난 1일 <b>청라<\/b> 아파트 화재 사건 이후 전기차 화재에 대한 불안감이 커지자 화재 대응법을 알리기 위해 마련됐다. 소방 당국은 <b>청라<\/b> 아파트 전기차 화재 당시 관리사무소 근무자가 스프링클러와 연결된 밸브를... ",
-			"pubDate":"Tue, 13 Aug 2024 11:50:00 +0900"
 		}
 	]
 }
