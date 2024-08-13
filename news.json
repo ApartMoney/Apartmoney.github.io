@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 13 Aug 2024 21:40:03 +0900",
-	"total":238612,
+	"lastBuildDate":"Tue, 13 Aug 2024 21:50:02 +0900",
+	"total":238614,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전기차 화재] ‘타는 공포’에 속탄다",
+			"originallink":"http:\/\/www.knnews.co.kr\/news\/articleView.php?idxno=1439491",
+			"link":"http:\/\/www.knnews.co.kr\/news\/articleView.php?idxno=1439491",
+			"description":"이날 회의에선 지난 1일 인천시 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 발생한 전기차 화재 이후 제기된 대책 등이 주로 논의된 것으로 알려졌다. 해당 화재로 인해 피해액은 100억원대에 이를 것으로 추정된다.",
+			"pubDate":"Tue, 13 Aug 2024 21:48:00 +0900"
+		},
+		{
+			"title":"완성차 배터리 제조사 공개…K배터리엔 '호재'",
+			"originallink":"http:\/\/www.inews24.com\/view\/1752636",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000861774?sid=101",
+			"description":"최근 인천 <b>청라<\/b> 전기차 화재를 계기로 완성차업체들이 배터리 제조사를 공개하고 있다. 이로써 중국산... 이같은 상황은 지난 1일 인천 <b>청라<\/b>의 한 아파트에서 발생한 메르세데스-벤츠 EQE 화재로 '전기차 포비아(공포)'가... ",
+			"pubDate":"Tue, 13 Aug 2024 21:41:00 +0900"
+		},
 		{
 			"title":"대구교통공사-대구시약사회, 폐의약품 분리배출 캠페인",
 			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=471577",
@@ -124,17 +138,17 @@
 			"pubDate":"Tue, 13 Aug 2024 20:15:00 +0900"
 		},
 		{
-			"title":"정부, 전기차 '배터리 정보 공개' 권고…미봉책 지적",
-			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452005",
-			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452005",
-			"description":"【기자】 지난 1일 인천 <b>청라<\/b>동 한 아파트에서 발생한 전기차 화재. 이 불로 아파트 주민 등 23명이 연기를 마셔 병원으로 옮겨졌습니다. 차량 87대가 불에 타고 783대가 그을리는 등 재산 피해도 났습니다. 전기차 공포증... ",
-			"pubDate":"Tue, 13 Aug 2024 20:10:00 +0900"
-		},
-		{
 			"title":"감소하는 '전기차'…인천시, 보조금 예산도 감액",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452013",
 			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452013",
 			"description":"충전 불편이라든가 또 전기요금 인상 이런 복합적인 문제 때문에 계속 감소되고 있는데…] 최근 인천 <b>청라<\/b>에서 발생한 전기차 화재도 전기차 감소에 영향을 미칠 것으로 예상했습니다. 다만 탄소중립 국가로 나아가기... ",
+			"pubDate":"Tue, 13 Aug 2024 20:10:00 +0900"
+		},
+		{
+			"title":"정부, 전기차 '배터리 정보 공개' 권고…미봉책 지적",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452005",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452005",
+			"description":"【기자】 지난 1일 인천 <b>청라<\/b>동 한 아파트에서 발생한 전기차 화재. 이 불로 아파트 주민 등 23명이 연기를 마셔 병원으로 옮겨졌습니다. 차량 87대가 불에 타고 783대가 그을리는 등 재산 피해도 났습니다. 전기차 공포증... ",
 			"pubDate":"Tue, 13 Aug 2024 20:10:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002895108?sid=103",
 			"description":"정부의 이번 결정은 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차 화재 사고에 따른... 그러나 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 불탄 전기차에 애초 알려진 것과 다른 제조사의 배터리가... ",
 			"pubDate":"Tue, 13 Aug 2024 19:44:00 +0900"
-		},
-		{
-			"title":"불은 껐는데 이번에 '물난리'… 인천 <b>청라<\/b> 아파트 7일째 누수",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363666954",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363666954",
-			"description":"최기주 기자 인천 서구 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재 사고와 관련해 일부 동에 누수가 확인됐지만 복구는커녕 원인 파악도 안돼 주민 불안이 커지고 있다. 13일 오전 10시께 찾은 <b>청라<\/b> 제일풍경채 2차... ",
-			"pubDate":"Tue, 13 Aug 2024 19:40:00 +0900"
-		},
-		{
-			"title":"인천시, 유관기관과 협력해 전기차 화재 피해 예방",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363666966",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363666966",
-			"description":"이번 회의는 1일 발생한 <b>청라<\/b> 아파트 지하주차장 전기차 화재 사건과 관련해 전기차 화재 예방 및 대응을... 유정복 시장은 &quot;<b>청라<\/b> 아파트 지하주차장 전기차 화재로 인하여 전기차 안전 전반에 대한 시민들의 우려가 크게... ",
-			"pubDate":"Tue, 13 Aug 2024 19:32:00 +0900"
 		}
 	]
 }
