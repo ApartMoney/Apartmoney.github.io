@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 13 Aug 2024 22:40:02 +0900",
-	"total":238621,
+	"lastBuildDate":"Tue, 13 Aug 2024 22:50:02 +0900",
+	"total":238623,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[이슈추적] 확산되는 전기차 공포, 차량 배터리 정보공개 권고",
+			"originallink":"http:\/\/www.womentimes.co.kr\/news\/articleView.html?idxno=78216",
+			"link":"http:\/\/www.womentimes.co.kr\/news\/articleView.html?idxno=78216",
+			"description":"지난  8월 1일 오전 인천 <b>청라<\/b>국제도시의 아파트 지하주차장에서 벤츠 전기차에서 화재가 발생했다. 이... 인천 <b>청라<\/b>국제도시 아파트 전기차 화재 사고에 따른 후속 조치이다. 전기차 핵심 부품인 배터리 관련 정보는... ",
+			"pubDate":"Tue, 13 Aug 2024 22:46:00 +0900"
+		},
+		{
+			"title":"인천시 &quot;전기차 지하 충전기, 교체하거나 지상 이전 유도&quot;",
+			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=218129",
+			"link":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=218129",
+			"description":"유정복 시장은 &quot;<b>청라<\/b> 아파트 지하주차장 전기차 화재로 인해 시민들의 전기차 안전에 대한 우려가 커졌다&quot;며 &quot;정부와 유관기관과 협력해 전기차 화재로 인한 대형 사고를 예방하는 데 최선을 다하겠다&quot;고 말했다.",
+			"pubDate":"Tue, 13 Aug 2024 22:46:00 +0900"
+		},
 		{
 			"title":"내달까지 범정부 전기차 화재 종합대책 마련 발표",
 			"originallink":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=311537",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452013",
 			"description":"충전 불편이라든가 또 전기요금 인상 이런 복합적인 문제 때문에 계속 감소되고 있는데…] 최근 인천 <b>청라<\/b>에서 발생한 전기차 화재도 전기차 감소에 영향을 미칠 것으로 예상했습니다. 다만 탄소중립 국가로 나아가기... ",
 			"pubDate":"Tue, 13 Aug 2024 20:10:00 +0900"
-		},
-		{
-			"title":"인천시, 유관기관과 협력으로 전기차 화재 피해 예방에 나선다",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=467881",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=467881",
-			"description":"이번 회의는 지난 8월 1일 발생한 <b>청라<\/b> 아파트 지하주차장 전기차 화재 사건과 관련하여 전기차 화재 예방 및... 유정복 시장은 &quot;<b>청라<\/b> 아파트 지하주차장 전기차 화재로 인하여 전기차 안전 전반에 대한 시민들의 우려가... ",
-			"pubDate":"Tue, 13 Aug 2024 20:06:00 +0900"
-		},
-		{
-			"title":"중국산 배터리 사용 벤츠 화재에 국산 배터리 주가 '훨훨'",
-			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024081316380000068?did=NA",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000817611?sid=101",
-			"description":"벤츠 &quot;화재 차량, 중국산 파라시스 배터리&quot; 실토 이날 벤츠코리아는 지난 1일 인천 <b>청라<\/b>동의 아파트 지하주차장에서 화재를 일으켰던 차종 EQE 350에 중국산 파라시스의 배터리가 적용됐다고 밝혔다. 벤츠의 공식 발표... ",
-			"pubDate":"Tue, 13 Aug 2024 20:01:00 +0900"
 		}
 	]
 }
