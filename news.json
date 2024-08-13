@@ -1,21 +1,35 @@
 {
-	"lastBuildDate":"Wed, 14 Aug 2024 04:30:02 +0900",
-	"total":238639,
+	"lastBuildDate":"Wed, 14 Aug 2024 04:40:02 +0900",
+	"total":238641,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"“전기차 근처에는 일부러 주차 안해”",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240814\/126516441\/2",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003581732?sid=102",
-			"description":"이날 동아일보 취재진은 인천 <b>청라<\/b> 전기차 화재 사건을 계기로 서울 일대 아파트 10곳을 둘러봤다. 그 결과 9곳은 전기차 화재에 대비한 소화 시설이 없었다. 기자가 찾아간 서대문구의 다른 아파트엔 전기차 충전기 바로... ",
-			"pubDate":"Wed, 14 Aug 2024 03:01:00 +0900"
+			"title":"이랜텍, 주가 급등…'전기차 화재방지 대책'에 'UL9540A' 인증 부각",
+			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408140435103382cd1e7f0bdf_23",
+			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408140435103382cd1e7f0bdf_23",
+			"description":"연합뉴스에 따르면 이날 회의에선 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 이후... 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 불탄 차에 애초 알려진 것과 다른 제조사 배터리가 탑재된 것이 확인돼... ",
+			"pubDate":"Wed, 14 Aug 2024 04:36:00 +0900"
+		},
+		{
+			"title":"버티던 벤츠까지 “중국산 배터리” 고백…전기차 회사들 얼마나 급했으면",
+			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024081315210004804?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000817642?sid=101",
+			"description":"인천시 <b>청라<\/b> 아파트 지하주차장에서 불이 난 전기차의 수입사인 메르세데스-벤츠코리아가 13일 자사 전기차에 쓰인 배터리 제조사를 공개했다. 앞서 현대차·기아와 BMW코리아도 소비자들 요구에 따라 선제적으로... ",
+			"pubDate":"Wed, 14 Aug 2024 04:31:00 +0900"
 		},
 		{
 			"title":"광역지자체 5곳 “청사내 전기차 지하충전시설 폐쇄”",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240814\/126516323\/2",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003581738?sid=102",
 			"description":"하지만 이달 초 인천 <b>청라<\/b> 아파트 전기차 화재 사건으로 분위기는 보름도 안 돼 확 바뀌었다. 주민들은... 이영주 경일대 소방방재학부 교수는 “<b>청라<\/b> 지하 주차장 화재의 원인은 스프링클러가 제때 작동하지 않았던... ",
+			"pubDate":"Wed, 14 Aug 2024 03:01:00 +0900"
+		},
+		{
+			"title":"“전기차 근처에는 일부러 주차 안해”",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240814\/126516441\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003581732?sid=102",
+			"description":"이날 동아일보 취재진은 인천 <b>청라<\/b> 전기차 화재 사건을 계기로 서울 일대 아파트 10곳을 둘러봤다. 그 결과 9곳은 전기차 화재에 대비한 소화 시설이 없었다. 기자가 찾아간 서대문구의 다른 아파트엔 전기차 충전기 바로... ",
 			"pubDate":"Wed, 14 Aug 2024 03:01:00 +0900"
 		},
 		{
@@ -187,13 +201,6 @@
 			"pubDate":"Tue, 13 Aug 2024 21:41:00 +0900"
 		},
 		{
-			"title":"벤츠, 배터리 제조사 뒤늦게 공개…80%가 중국산",
-			"originallink":"https:\/\/news.tvchosun.com\/site\/data\/html_dir\/2024\/08\/13\/2024081390193.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000471755?sid=101",
-			"description":"공개된 전기차 8종 중 6종 14개 모델에 중국산 배터리가 사용됐고 <b>청라<\/b> 아파트 화재 차종인 EQE350+ 모델은 연식과 관계없이 모두 파라시스 배터리를 쓴 것으로 확인됐습니다. 19개 차종 중 1개에만 중국 업체 배터리를 쓰는... ",
-			"pubDate":"Tue, 13 Aug 2024 21:24:00 +0900"
-		},
-		{
 			"title":"대구교통공사-대구시약사회, 폐의약품 분리배출 캠페인",
 			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=471577",
 			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=471577",
@@ -201,18 +208,11 @@
 			"pubDate":"Tue, 13 Aug 2024 21:24:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b>서 20대 남성 실종, 골프장서 숨진 채 발견",
-			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2024081321085384046",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000898065?sid=102",
-			"description":"인천 <b>청라<\/b>국제도시에서 귀가 도중 실종된 20대 남성이 신고 접수 나흘 만에 사망한 채로 발견됐다. 13일 경찰에 따르면 전날 오후 4시 25분쯤 서구 <b>청라<\/b>동 한 골프장 내 워터해저드(인공연못)에서 20대 남성 A씨가 숨진... ",
-			"pubDate":"Tue, 13 Aug 2024 21:10:00 +0900"
-		},
-		{
-			"title":"2차전지주 ‘딜레마’…이젠 개별 종목 보라",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/11089011",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/024\/0000090963?sid=101",
-			"description":"여기에 최근 인천 <b>청라<\/b> 아파트 단지 지하 주차장에서 벤츠 전기차 화재가 발생하는 악재까지 겹치며 투심은... 실적 추정치 지속 하락 <b>청라<\/b> 화재로 투심 최악 올 들어 국내 주식 시장에서 2차전지주는 내리막을 걷고... ",
-			"pubDate":"Tue, 13 Aug 2024 21:01:00 +0900"
+			"title":"벤츠, 배터리 제조사 뒤늦게 공개…80%가 중국산",
+			"originallink":"https:\/\/news.tvchosun.com\/site\/data\/html_dir\/2024\/08\/13\/2024081390193.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000471755?sid=101",
+			"description":"공개된 전기차 8종 중 6종 14개 모델에 중국산 배터리가 사용됐고 <b>청라<\/b> 아파트 화재 차종인 EQE350+ 모델은 연식과 관계없이 모두 파라시스 배터리를 쓴 것으로 확인됐습니다. 19개 차종 중 1개에만 중국 업체 배터리를 쓰는... ",
+			"pubDate":"Tue, 13 Aug 2024 21:24:00 +0900"
 		}
 	]
 }
