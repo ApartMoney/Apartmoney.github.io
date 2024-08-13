@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 13 Aug 2024 13:00:02 +0900",
-	"total":238273,
+	"lastBuildDate":"Tue, 13 Aug 2024 13:10:02 +0900",
+	"total":238274,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 화재에 ‘마이배터리’ 등록 급증",
+			"originallink":"https:\/\/www.naeil.com\/news\/read\/519895?ref=naver",
+			"link":"https:\/\/www.naeil.com\/news\/read\/519895?ref=naver",
+			"description":"최근 인천 <b>청라<\/b>동에서 전소된 수입 전기차에 업계 10위권 밖인 중국 파라시스 배터리를 탑재한 것으로... 인천 <b>청라<\/b>에서 메르세데스-벤츠 EQE 전기차 화재가 발생한 뒤 전기차 배터리에 대한 알 권리가 부각되며 차량... ",
+			"pubDate":"Tue, 13 Aug 2024 13:08:00 +0900"
+		},
 		{
 			"title":"'인천 화재' 벤츠, 전기차 배터리 제조사 공개… 내일부터 무상점검 시행(종합...",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3168955",
@@ -19,17 +26,17 @@
 			"pubDate":"Tue, 13 Aug 2024 12:53:00 +0900"
 		},
 		{
-			"title":"[핫클릭] 올림픽 기간 1,120만명 파리 방문…85%는 프랑스인 外",
-			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20240813009600641\/?input=1825m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000676225?sid=102",
-			"description":"벤츠코리아는 지난 1일 인천 <b>청라<\/b>에서 자사 전기차에 화재가 발생한 이후 배터리 제조사 정보를 공개하지 않는다는 입장이었지만, 소비자 문의가 잇따르자 입장을 선회한 것으로 보입니다. 벤츠코리아에 따르면 16개... ",
-			"pubDate":"Tue, 13 Aug 2024 12:52:00 +0900"
-		},
-		{
 			"title":"벤츠 전기차 8종 배터리사 공개... 내일부터 무상점검",
 			"originallink":"https:\/\/www.m-economynews.com\/news\/article.html?no=45266",
 			"link":"https:\/\/www.m-economynews.com\/news\/article.html?no=45266",
 			"description":"인천 <b>청라<\/b> 아파트 지하주차장에서 화재가 발생한 전기차의 수입사인 메르세데스-벤츠코리아가 13일... 8일 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트... ",
+			"pubDate":"Tue, 13 Aug 2024 12:52:00 +0900"
+		},
+		{
+			"title":"[핫클릭] 올림픽 기간 1,120만명 파리 방문…85%는 프랑스인 外",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20240813009600641\/?input=1825m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000676225?sid=102",
+			"description":"벤츠코리아는 지난 1일 인천 <b>청라<\/b>에서 자사 전기차에 화재가 발생한 이후 배터리 제조사 정보를 공개하지 않는다는 입장이었지만, 소비자 문의가 잇따르자 입장을 선회한 것으로 보입니다. 벤츠코리아에 따르면 16개... ",
 			"pubDate":"Tue, 13 Aug 2024 12:52:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005810381?sid=103",
 			"description":"지난 8일 오전 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다. (사진=연합뉴스)... ",
 			"pubDate":"Tue, 13 Aug 2024 12:03:00 +0900"
-		},
-		{
-			"title":"전기차 화재로 등록 건수 '쑥' 무엇?",
-			"originallink":"https:\/\/kizmom.hankyung.com\/news\/view.html?aid=202408130194o",
-			"link":"https:\/\/kizmom.hankyung.com\/news\/view.html?aid=202408130194o",
-			"description":"지난 1일 인천 <b>청라<\/b>에서 메르세데스-벤츠 EQE 전기차 화재가 발생한 뒤 전기차 배터리에 대한 소비자의 알 권리가 부각되며 자신의 차량 배터리 정보에 대한 관심이 높아진 데 따른 것으로 해석된다. 전날 오후까지... ",
-			"pubDate":"Tue, 13 Aug 2024 12:02:00 +0900"
 		}
 	]
 }
