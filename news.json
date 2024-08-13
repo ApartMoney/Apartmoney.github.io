@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Tue, 13 Aug 2024 12:10:02 +0900",
-	"total":238250,
+	"lastBuildDate":"Tue, 13 Aug 2024 12:20:02 +0900",
+	"total":238256,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[단독]'中 파라시스' 벤츠 5582대 국내 운행 중…내일부터 무상점검",
+			"originallink":"https:\/\/www.news1.kr\/industry\/general-industry\/5509473",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007727625?sid=101",
+			"description":"파라시스 배터리는 지난 1일 인천 <b>청라<\/b> 아파트에서 발생한 화재 전기차에 사용된 배터리로 과거... 제조사 현황을 보면 <b>청라<\/b> 아파트 화재 차량에 탑재된 중국 파라시스 배터리를 쓰는 전기차는 △EQE 350+ △AMG... ",
+			"pubDate":"Tue, 13 Aug 2024 12:17:00 +0900"
+		},
+		{
+			"title":"벤츠, 배터리 제조사 공개… 16종 중 14개 중국산 장착, '벤츠 포비아' 확산",
+			"originallink":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=137618",
+			"link":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=137618",
+			"description":"인천 <b>청라<\/b> 아파트 지하주차장에서 화재가 발생한 전기차의 수입사인 메르세데스-벤츠코리아가 자사... <b>청라<\/b> 아파트 화재를 일으킨 전기 세단 EQE 300 트림에 중국 업체 CATL 배터리가 탑재된 것을 확인했다. 또 350... ",
+			"pubDate":"Tue, 13 Aug 2024 12:12:00 +0900"
+		},
+		{
+			"title":"메르세데스-벤츠 코리아, 배터리셀 제조사 공개...전기차 무상점검도",
+			"originallink":"http:\/\/www.osen.co.kr\/article\/G1112396049",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/109\/0005135804?sid=103",
+			"description":"메르세데스-벤츠 코리아가 인천 <b>청라<\/b>지구 지하 주차장에서 발생한 EQE 세단 화재 사건 이후 제기된 배터리 정보 공개 요구에 응했다. MBK는 13일, 순수전기차의 배터리 셀 공급사 정보를 메르세데스-벤츠 코리아 공식... ",
+			"pubDate":"Tue, 13 Aug 2024 12:11:00 +0900"
+		},
+		{
+			"title":"벤츠, 배터리 제조사 공개…中 파라시스 EQE·EQS·EQE SUV 일부 모델에 탑재",
+			"originallink":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=66125",
+			"link":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=66125",
+			"description":"인천 <b>청라<\/b> 아파트 지하주차장 화재 전기차의 수입사인 메르세데스-벤츠 코리아는 순수전기차의 배터리 셀 공급사에 대한 정보를 13일 공개했다. 벤츠 코리아에 따르면, 소비자 및 시장의 요구에 따라 국내에서... ",
+			"pubDate":"Tue, 13 Aug 2024 12:10:00 +0900"
+		},
+		{
+			"title":"벤츠코리아 &quot;전기차 화재조사 협력…내일부터 전기차 무상점검&quot;",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007761089&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001181149?sid=101",
+			"description":"▲ 지난 8일 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다. 메르세데스-벤츠코리아는 최근 인천 아파트 전기차... ",
+			"pubDate":"Tue, 13 Aug 2024 12:10:00 +0900"
+		},
+		{
+			"title":"벤츠, 배터리 제조사 공개…불난 모델 포함 대부분 中 배터리",
+			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2024081312073138170",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000897893?sid=101",
+			"description":"지난 1일 인천 <b>청라<\/b> 아파트 전기차 화재 이후 12일 만이다. 13일 벤츠코리아는 홈페이지를 통해 전기차 8개 차종의 배터리 제조사를 밝혔다. 벤츠가 공개한 자료에 따르면 전기세단 EOE는 300트림에만 중국 CATL... ",
+			"pubDate":"Tue, 13 Aug 2024 12:10:00 +0900"
+		},
 		{
 			"title":"BMW코리아, 수입차 최초로 배터리 제조사 공개…대부분 삼성SDI 사용",
 			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=232349",
@@ -47,17 +89,17 @@
 			"pubDate":"Tue, 13 Aug 2024 12:03:00 +0900"
 		},
 		{
-			"title":"전기차 화재로 등록 건수 '쑥' 무엇?",
-			"originallink":"https:\/\/kizmom.hankyung.com\/news\/view.html?aid=202408130194o",
-			"link":"https:\/\/kizmom.hankyung.com\/news\/view.html?aid=202408130194o",
-			"description":"지난 1일 인천 <b>청라<\/b>에서 메르세데스-벤츠 EQE 전기차 화재가 발생한 뒤 전기차 배터리에 대한 소비자의 알 권리가 부각되며 자신의 차량 배터리 정보에 대한 관심이 높아진 데 따른 것으로 해석된다. 전날 오후까지... ",
-			"pubDate":"Tue, 13 Aug 2024 12:02:00 +0900"
-		},
-		{
 			"title":"신흥에스이씨 주가, 급등... 이유는?",
 			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1044517",
 			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1044517",
 			"description":"이날 회의에선 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 이후 언론이나 전문가들이 제시한 대응 방안이 대부분 논의됐다고 한다. 정부 대책은 '전기차 자체'와 '충전기를 비롯한 전기차 관련... ",
+			"pubDate":"Tue, 13 Aug 2024 12:02:00 +0900"
+		},
+		{
+			"title":"전기차 화재로 등록 건수 '쑥' 무엇?",
+			"originallink":"https:\/\/kizmom.hankyung.com\/news\/view.html?aid=202408130194o",
+			"link":"https:\/\/kizmom.hankyung.com\/news\/view.html?aid=202408130194o",
+			"description":"지난 1일 인천 <b>청라<\/b>에서 메르세데스-벤츠 EQE 전기차 화재가 발생한 뒤 전기차 배터리에 대한 소비자의 알 권리가 부각되며 자신의 차량 배터리 정보에 대한 관심이 높아진 데 따른 것으로 해석된다. 전날 오후까지... ",
 			"pubDate":"Tue, 13 Aug 2024 12:02:00 +0900"
 		},
 		{
@@ -75,17 +117,17 @@
 			"pubDate":"Tue, 13 Aug 2024 11:58:00 +0900"
 		},
 		{
-			"title":"'전기차 포비아'… 충청권 보조금 소진율 저조",
-			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2290995",
-			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2290995",
-			"description":"특히 최근 발생한 인천 <b>청라<\/b> 아파트 지하주차장 화재를 비롯한 잇따른 전기차 화재와 급발진 등 안전 문제가 제기되면서 전기차 구입을 꺼리는 것으로 분석된다. 여기에 보조금 삭감까지 이어지면서 전기차 수요는... ",
-			"pubDate":"Tue, 13 Aug 2024 11:56:00 +0900"
-		},
-		{
 			"title":"회식 마치고 귀가 중 사라진 20대, 사흘 만에 숨진 채 발견",
 			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065581398408297",
 			"link":"https:\/\/idsn.co.kr\/news\/view\/1065581398408297",
 			"description":"A씨는 지난 9일 직장 회식을 마친 뒤 귀가하던 중 서구 <b>청라<\/b>동 인근에서 실종돼 신고가 접수된 상태였다. 경찰은 A씨의 실종 직후 폐쇄회로(CC)TV와 드론을 활용해 수색 작업을 벌였고, A씨의 마지막 동선을 추적했다. A씨... ",
+			"pubDate":"Tue, 13 Aug 2024 11:56:00 +0900"
+		},
+		{
+			"title":"'전기차 포비아'… 충청권 보조금 소진율 저조",
+			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2290995",
+			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2290995",
+			"description":"특히 최근 발생한 인천 <b>청라<\/b> 아파트 지하주차장 화재를 비롯한 잇따른 전기차 화재와 급발진 등 안전 문제가 제기되면서 전기차 구입을 꺼리는 것으로 분석된다. 여기에 보조금 삭감까지 이어지면서 전기차 수요는... ",
 			"pubDate":"Tue, 13 Aug 2024 11:56:00 +0900"
 		},
 		{
@@ -152,7 +194,7 @@
 			"pubDate":"Tue, 13 Aug 2024 11:45:00 +0900"
 		},
 		{
-			"title":"벤츠 전기차 5종에 中패러시스 탑재...홈페이지에 공개",
+			"title":"'백기 든' 벤츠, 전기차 5종에 中파라시스 탑재...홈페이지에 공개",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202408131121214653",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005227027?sid=103",
 			"description":"한편, 메르세데스-벤츠 코리아는 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 전기차 화재 사고에 대한 보상 문제와는 별도로, 지난 9일 인도적 차원에서 약 45억원을 사회복지법인 아이들과미래재단을 통해... ",
@@ -171,48 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002349282?sid=101",
 			"description":"지난 1일 인천 <b>청라<\/b> 전기차 화재로 논란의 중심에 선 메르세데스-벤츠코리아가 자사의 전기차에... 우선 지난 1일 인천 <b>청라<\/b>에서 화재가 발생한 EQE 모델의 경우 CATL과 파라시스 배터리가 함께 탑재됐다. EQE... ",
 			"pubDate":"Tue, 13 Aug 2024 11:43:00 +0900"
-		},
-		{
-			"title":"野 한정애 `전기차 배터리 재원 공개 의무화` 法 발의[e법안프리즘]",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02391126638986992",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005810344?sid=100",
-			"description":"인처 <b>청라<\/b> 아파트 지하 주차장 화재 현장. (사진=연합뉴스) 현행 자동차관리법은 차량을 출시할 때 차량의 크기, 무게, 출력, 연비 등 다양한 제원을 공개하도록 규정하고 있지만 배터리 정보는 포함하고 있지 않다. 전기차... ",
-			"pubDate":"Tue, 13 Aug 2024 11:42:00 +0900"
-		},
-		{
-			"title":"인천시, 북부문예회관 건립 타당성 용역 결과 조만간 발표",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251564",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251564",
-			"description":"북부문화예술회관 유치를 위한 계양구와 서구의 경쟁이 과열되고 중구 영종도와 서구 <b>청라<\/b>를 잇는 제3연륙교 명칭을 두고 중구와 서구의 경쟁이 과열되자, 시는 이달 초 군·구 10개에 경쟁 자제를 요청하는 공문을... ",
-			"pubDate":"Tue, 13 Aug 2024 11:42:00 +0900"
-		},
-		{
-			"title":"'화재 공포' 덮친 전기차 시장…자동차 업계, 전기차 배터리 제조사 속속 밝힌...",
-			"originallink":"https:\/\/mydaily.co.kr\/page\/view\/2024081311323197354",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/117\/0003860884?sid=103",
-			"description":"인천 <b>청라<\/b> 아파트 단지 전기차 화재로 전기차에 탑재된 배터리 제조사 공개 여론이 높아지자 주요... 앞서 1일 인천 <b>청라<\/b>에서 화재가 발생한 EQE 모델의 경우 중국 '파라시스'의 배터리가 장착된 것으로... ",
-			"pubDate":"Tue, 13 Aug 2024 11:41:00 +0900"
-		},
-		{
-			"title":"[13일 오늘의 사건사고①] 실종된 20대 숨진 채 발견...한전 양주변전소 가스...",
-			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065580492667909",
-			"link":"https:\/\/idsn.co.kr\/news\/view\/1065580492667909",
-			"description":"앞서 A씨는 지난 9일 직장 회식을 마치고 귀가하던 중 서구 <b>청라<\/b>동 일대에서 실종돼 경찰에 신고가 접수된 상태였다. 경찰은 CCTV 영상과 드론으르 투입해 A씨의 동선을 확인해 수색작업을 벌었다. 이후 경찰 드론이... ",
-			"pubDate":"Tue, 13 Aug 2024 11:40:00 +0900"
-		},
-		{
-			"title":"벤츠코리아, 전기차 배터리 정보 꺼렸던 진짜 이유는... &quot;87%가 중국산! EQE ...",
-			"originallink":"https:\/\/kr.aving.net\/news\/articleView.html?idxno=1792906",
-			"link":"https:\/\/kr.aving.net\/news\/articleView.html?idxno=1792906",
-			"description":"지난 1일 인천 <b>청라<\/b>국제도시 내 모 아파트에서 발생한 사고와 관련해 국과수와 소방 당국 등의 조사가 진행되던 가운데, 당국은 사고의 발단이었던 벤츠 EQE 350 모델에서 중국 '파라시스 에너지'의 NCM 배터리를... ",
-			"pubDate":"Tue, 13 Aug 2024 11:38:00 +0900"
-		},
-		{
-			"title":"벤츠, 전기차 배터리 제조사 공개 이어 내일부터 전기차 무상 점검",
-			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000186777?division=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000397306?sid=101",
-			"description":"최근 일어난 인천 <b>청라<\/b> 전기차 화재 여파에 벤츠가 전기차 무상 점검에 나섭니다. 벤츠코리아는 '메르세데스-벤츠 전기차 무상 점검'을 내일(14일)부터 전국 75개 공식 서비스 센터를 통해 진행한다고... ",
-			"pubDate":"Tue, 13 Aug 2024 11:38:00 +0900"
 		}
 	]
 }
