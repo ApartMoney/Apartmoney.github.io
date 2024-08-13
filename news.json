@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 14 Aug 2024 01:00:02 +0900",
-	"total":238632,
+	"lastBuildDate":"Wed, 14 Aug 2024 01:10:03 +0900",
+	"total":238633,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"결국 배터리 제조사 밝힌 벤츠...5개 차종에 中 파라시스",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0102_202408140100370040",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002073917?sid=101",
+			"description":"인천 <b>청라<\/b> 지하주차장 화재 발생 12일 만에 벤츠가 배터리 제조사 정보를 공개했습니다. 불이 난 EQE 차량에... 앞서 지난 1일 발생한 인천 <b>청라<\/b> 아파트 지하주차장 화재로 차주들의 불안감이 커지자 내린 조치입니다.... ",
+			"pubDate":"Wed, 14 Aug 2024 01:00:00 +0900"
+		},
 		{
 			"title":"버티던 벤츠도… 배터리 제조사 정보 뒤늦게 공개했다",
 			"originallink":"https:\/\/www.chosun.com\/economy\/auto\/2024\/08\/14\/OR7BOAOSAZHM7LOVNUNSVDEHSM\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012727191?sid=102",
 			"description":"인천 <b>청라<\/b>국제도시에서 귀가 중 실종된 20대 남성이 신고 접수 나흘 만에 숨진 채 발견됐다. 13일 경찰에 따르면 전날 오후 4시25분께 서구 <b>청라<\/b>동 한 골프장 내 워터해저드(인공연못)에서 A(20대)씨가 숨진 상태로... ",
 			"pubDate":"Tue, 13 Aug 2024 20:48:00 +0900"
-		},
-		{
-			"title":"&quot;아파트지하 말곤 車충전할 곳 없어요&quot;…인천 화재에도 충전 고작 2% 줄어",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DD02TVN6S",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004379912?sid=101",
-			"description":"이달 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 전기차 화재 사건이 발생한 이후에도 지하주차장 내 전기차 충전 빈도가 거의 줄어들지 않은 것으로 확인됐다. 지하주차장 내 충전에 대한 사회적 우려가 커졌지만 다른... ",
-			"pubDate":"Tue, 13 Aug 2024 20:43:00 +0900"
 		}
 	]
 }
