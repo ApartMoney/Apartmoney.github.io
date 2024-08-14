@@ -1,15 +1,36 @@
 {
-	"lastBuildDate":"Wed, 14 Aug 2024 12:30:02 +0900",
-	"total":238848,
+	"lastBuildDate":"Wed, 14 Aug 2024 12:40:02 +0900",
+	"total":238850,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이상민 장관, 전기차 화재 아파트 찾아…&quot;안전대책 꼼꼼히 마련&quot;",
+			"originallink":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=322641",
+			"link":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=322641",
+			"description":"이상민 행정안전부장관이 14일 오전 인천 서구 <b>청라<\/b>국제도시의 한 아파트 지하주차장 전기차 화재 피해 현장을 찾아 안전점검을 하고 있다 \/ ⓒ뉴시스 이상민 행안부 장관이 전기차 폭발 화재가 난 아파트를 찾아 주민들을... ",
+			"pubDate":"Wed, 14 Aug 2024 12:38:00 +0900"
+		},
+		{
+			"title":"결국 배터리 제조사 밝힌 벤츠...5개 차종에 中 파라시스",
+			"originallink":"https:\/\/science.ytn.co.kr\/program\/view.php?mcd=0082&hcd=&key=202408141146320358",
+			"link":"https:\/\/science.ytn.co.kr\/program\/view.php?mcd=0082&hcd=&key=202408141146320358",
+			"description":"인천 <b>청라<\/b> 지하주차장 화재 발생 12일 만에 벤츠가 배터리 제조사 정보를 공개했습니다. 불이 난 EQE 차량에... 앞서 지난 1일 발생한 인천 <b>청라<\/b> 아파트 지하주차장 화재로 차주들의 불안감이 커지자 내린 조치입니다.... ",
+			"pubDate":"Wed, 14 Aug 2024 12:32:00 +0900"
+		},
 		{
 			"title":"'린치' 당하는 차주들…&quot;전기차 탄다고 예비 살인마라네요&quot;",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240814_0002849798",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012728299?sid=102",
 			"description":"이달 초 발생한 인천 <b>청라<\/b>동 '벤츠 전기차 화재' 이후 지하나 타워주차장에 전기차 출입을 제한하는 아파트나 건물이 속속 나타나는 가운데, 전기차를 탄다는 이유만으로 차주들이 비난을 받고 있다는 황당한 사연이... ",
 			"pubDate":"Wed, 14 Aug 2024 12:18:00 +0900"
+		},
+		{
+			"title":"화재로 녹아내린 전기차 충전기",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814077900065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874701?sid=102",
+			"description":"14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트 지하 주차장 전기차 충전 구역에 녹아내린 전기차 충전기가 보이고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로... ",
+			"pubDate":"Wed, 14 Aug 2024 12:17:00 +0900"
 		},
 		{
 			"title":"피해 차량 옮겨진 전기차 화재 지하 주차장",
@@ -20,10 +41,10 @@
 		},
 		{
 			"title":"화재로 녹아내린 전기차 충전기",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814077900065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874701?sid=102",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814077500065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874697?sid=102",
 			"description":"14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트 지하 주차장 전기차 충전 구역에 녹아내린 전기차 충전기가 보이고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로... ",
-			"pubDate":"Wed, 14 Aug 2024 12:17:00 +0900"
+			"pubDate":"Wed, 14 Aug 2024 12:16:00 +0900"
 		},
 		{
 			"title":"화재로 녹아내린 전기차 충전기",
@@ -33,16 +54,16 @@
 			"pubDate":"Wed, 14 Aug 2024 12:16:00 +0900"
 		},
 		{
-			"title":"화재로 녹아내린 전기차 충전기",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814077500065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874697?sid=102",
-			"description":"14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트 지하 주차장 전기차 충전 구역에 녹아내린 전기차 충전기가 보이고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로... ",
+			"title":"피해 차량 옮겨진 전기차 화재 지하 주차장",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814077000065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874692?sid=102",
+			"description":"14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트 지하 주차장이 화재로 피해를 본 차량이 옮겨진 채 검게 그을려 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며... ",
 			"pubDate":"Wed, 14 Aug 2024 12:16:00 +0900"
 		},
 		{
 			"title":"피해 차량 옮겨진 전기차 화재 지하 주차장",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814077000065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874692?sid=102",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814077400065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874696?sid=102",
 			"description":"14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트 지하 주차장이 화재로 피해를 본 차량이 옮겨진 채 검게 그을려 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며... ",
 			"pubDate":"Wed, 14 Aug 2024 12:16:00 +0900"
 		},
@@ -58,13 +79,6 @@
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814076900065?input=1196m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874691?sid=102",
 			"description":"14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트 지하 주차장 전기차 충전 구역에 녹아내린 전기차 충전기가 보이고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로... ",
-			"pubDate":"Wed, 14 Aug 2024 12:16:00 +0900"
-		},
-		{
-			"title":"피해 차량 옮겨진 전기차 화재 지하 주차장",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814077400065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874696?sid=102",
-			"description":"14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트 지하 주차장이 화재로 피해를 본 차량이 옮겨진 채 검게 그을려 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며... ",
 			"pubDate":"Wed, 14 Aug 2024 12:16:00 +0900"
 		},
 		{
@@ -125,15 +139,15 @@
 		},
 		{
 			"title":"입주자 대표와 간담회 하는 이상민 장관",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814070600065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874620?sid=102",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814071000065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874623?sid=102",
 			"description":"이상민 행정안전부 장관이 14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트를 방문 입주자 대표와 간담회를 하고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며... ",
 			"pubDate":"Wed, 14 Aug 2024 11:55:00 +0900"
 		},
 		{
 			"title":"인천 <b>청라<\/b> 전기차 화재 현장 둘러보는 이상민 장관",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814071200065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874628?sid=102",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814071400065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874627?sid=102",
 			"description":"이상민 행정안전부 장관이 14일 오전 인천 서구 <b>청라<\/b> 아파트 지하주차장 전기차 화재 현장을 둘러보고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며 차량 87대가 불에... ",
 			"pubDate":"Wed, 14 Aug 2024 11:55:00 +0900"
 		},
@@ -153,23 +167,9 @@
 		},
 		{
 			"title":"입주자 대표와 간담회 하는 이상민 장관",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814070900065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874622?sid=102",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814070600065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874620?sid=102",
 			"description":"이상민 행정안전부 장관이 14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트를 방문 입주자 대표와 간담회를 하고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며... ",
-			"pubDate":"Wed, 14 Aug 2024 11:55:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b> 전기차 화재 현장 둘러보는 이상민 장관",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814071400065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874627?sid=102",
-			"description":"이상민 행정안전부 장관이 14일 오전 인천 서구 <b>청라<\/b> 아파트 지하주차장 전기차 화재 현장을 둘러보고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며 차량 87대가 불에... ",
-			"pubDate":"Wed, 14 Aug 2024 11:55:00 +0900"
-		},
-		{
-			"title":"전기차 화재 아파트 주민과 대화하는 이상민 장관",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814071600065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874630?sid=102",
-			"description":"이상민 행정안전부 장관이 14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트를 방문 피해 주민과 대화하고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며 차량... ",
 			"pubDate":"Wed, 14 Aug 2024 11:55:00 +0900"
 		},
 		{
@@ -180,24 +180,24 @@
 			"pubDate":"Wed, 14 Aug 2024 11:55:00 +0900"
 		},
 		{
-			"title":"입주자 대표와 간담회 하는 이상민 장관",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814070700065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874621?sid=102",
-			"description":"이상민 행정안전부 장관이 14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트를 방문 입주자 대표와 간담회를 하고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며... ",
-			"pubDate":"Wed, 14 Aug 2024 11:55:00 +0900"
-		},
-		{
-			"title":"벤츠 무상점검 개시했지만 센터는 한산…&quot;빨리 원인 나왔으면&quot;",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240814077900003?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874625?sid=101",
-			"description":"인천 <b>청라<\/b> 아파트 지하주차장 벤츠 EQE 화재 이후 전기차에 대한 불안감이 확산하면서 벤츠는 이날부터 자사 모든 전기차에 대한 무상점검을 개시했다. 센터 앞에 전기차들이 줄줄이 서 있을 것이라는 예상과 달리 센터로... ",
+			"title":"인천 <b>청라<\/b> 전기차 화재 현장 둘러보는 이상민 장관",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814071200065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874628?sid=102",
+			"description":"이상민 행정안전부 장관이 14일 오전 인천 서구 <b>청라<\/b> 아파트 지하주차장 전기차 화재 현장을 둘러보고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며 차량 87대가 불에... ",
 			"pubDate":"Wed, 14 Aug 2024 11:55:00 +0900"
 		},
 		{
 			"title":"입주자 대표와 간담회 하는 이상민 장관",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814071000065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874623?sid=102",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814070900065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874622?sid=102",
 			"description":"이상민 행정안전부 장관이 14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트를 방문 입주자 대표와 간담회를 하고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며... ",
+			"pubDate":"Wed, 14 Aug 2024 11:55:00 +0900"
+		},
+		{
+			"title":"전기차 화재 아파트 주민과 대화하는 이상민 장관",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814071600065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874630?sid=102",
+			"description":"이상민 행정안전부 장관이 14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트를 방문 피해 주민과 대화하고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며 차량... ",
 			"pubDate":"Wed, 14 Aug 2024 11:55:00 +0900"
 		},
 		{
@@ -208,11 +208,11 @@
 			"pubDate":"Wed, 14 Aug 2024 11:55:00 +0900"
 		},
 		{
-			"title":"전기차 화재 대비 지자체별 선제적 대응 방안 찾는다",
-			"originallink":"https:\/\/www.energy-news.co.kr\/news\/articleView.html?idxno=205008",
-			"link":"https:\/\/www.energy-news.co.kr\/news\/articleView.html?idxno=205008",
-			"description":"최근 인천광역시 서구 <b>청라<\/b>동의 한 아파트 지하주차장에서 발생한 전기차 화재 사고를 계기로, 각... 이날 지난 8월 1일 발생한 <b>청라<\/b> 아파트 지하주차장 전기차 화재 사건과 관련, 전기차 화재 예방 및 대응을 위한 시 차원의... ",
-			"pubDate":"Wed, 14 Aug 2024 11:48:00 +0900"
+			"title":"입주자 대표와 간담회 하는 이상민 장관",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814070700065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014874621?sid=102",
+			"description":"이상민 행정안전부 장관이 14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트를 방문 입주자 대표와 간담회를 하고 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며... ",
+			"pubDate":"Wed, 14 Aug 2024 11:55:00 +0900"
 		}
 	]
 }
