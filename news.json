@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 15 Aug 2024 07:40:02 +0900",
-	"total":239083,
+	"lastBuildDate":"Thu, 15 Aug 2024 07:50:02 +0900",
+	"total":239085,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"포항시, 시민 안전 위해 전기차 화재 종합 대책 마련",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20240815035451664",
+			"link":"https:\/\/www.ajunews.com\/view\/20240815035451664",
+			"description":"앞서 인천 <b>청라<\/b> 공동 주택 지하 주차장에서 일어난 전기차 화재로 막대한 재산 피해가 발생했고, 금산 공영주차타워에서도 화재가 발생하면서 주민들의 불안감이 높아지고 전기차 보급에 대한 우려가 커지고 있다. 전기차... ",
+			"pubDate":"Thu, 15 Aug 2024 07:46:00 +0900"
+		},
+		{
+			"title":"주민들 만난 벤츠코리아 사장 &quot;45억 불충분시 추가 지원하겠다&quot;",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12210489",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000406262?sid=101",
+			"description":"지난 1일 <b>청라<\/b>국제도시에 있는 아파트에서 전기차 화재가 발생한 지 13일 만입니다. 앞서 45억 원을 지원한다고 했다가 주민들이 냉담한 반응을 보이자 추가 지원을 할 수 있다는 의사를 내비쳤습니다. 다만 전기차... ",
+			"pubDate":"Thu, 15 Aug 2024 07:45:00 +0900"
+		},
 		{
 			"title":"‘전기차 포비아’ 확산에…차주 ‘배터리 등록’, 지자체 ‘충전시설 폐쇄’",
 			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20240814050746",
@@ -12,7 +26,7 @@
 			"pubDate":"Thu, 15 Aug 2024 07:38:00 +0900"
 		},
 		{
-			"title":"13일 만에 화재 피해 주민 찾은 벤츠 사장…&quot;45억에 다 해결?&quot; 부글부글",
+			"title":"전기차 화재 2주 만에 온 벤츠 사장…&quot;45억에 다 해결?&quot; 주민들 부글",
 			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024081507213947683",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005077386?sid=102",
 			"description":"메르세데스-벤츠 코리아가 벤츠 전기차 화재로 피해를 본 인천 <b>청라<\/b> 아파트 입주민을 찾아 보상안을... 인천 <b>청라<\/b> 아파트 입주민 150여 명과 만났다. 바이틀 사장이 직접 입주민을 만난 것은 화재 사건 이후 13일 만이다.... ",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014876013?sid=101",
 			"description":"더불어민주당 이용우 의원이 14일 오후 인천시 서구 <b>청라<\/b>동 한 교회에서 열린 벤츠 임원진과 피해 주민간 간담회에 참석해 발언하고 있다.2024.8.14 [이용우 의원실 제공. 재판매 및 DB 금지]",
 			"pubDate":"Wed, 14 Aug 2024 23:29:00 +0900"
-		},
-		{
-			"title":"전기차 화재 피해주민과 간담회하는 벤츠코리아 사장",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814182300065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014876011?sid=101",
-			"description":"마티아스 바이틀 메르세데스-벤츠코리아 사장이 14일 오후 인천시 서구 <b>청라<\/b>동 한 교회에서 전기차 화재 피해 주민들과 간담회를 하고 있다.[이용우 의원실 제공. 재판매 및 DB 금지] 2024.8.14 hong@yna.co.kr",
-			"pubDate":"Wed, 14 Aug 2024 23:25:00 +0900"
-		},
-		{
-			"title":"전기차 화재 피해주민과 간담회하는 벤츠코리아 사장",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240814182400065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014876012?sid=101",
-			"description":"마티아스 바이틀 메르세데스-벤츠코리아 사장이 14일 오후 인천시 서구 <b>청라<\/b>동 한 교회에서 전기차 화재 피해 주민들과 간담회를 하고 있다.[이용우 의원실 제공. 재판매 및 DB 금지] 2024.8.14",
-			"pubDate":"Wed, 14 Aug 2024 23:25:00 +0900"
 		}
 	]
 }
