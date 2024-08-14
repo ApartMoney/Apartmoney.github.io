@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 14 Aug 2024 14:20:02 +0900",
-	"total":238879,
+	"lastBuildDate":"Wed, 14 Aug 2024 14:30:02 +0900",
+	"total":238881,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"행안장관, 전기차 화재현장 점검…&quot;특별교부세 지원 검토&quot;",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007762753&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001181538?sid=102",
+			"description":"▲ 인천 <b>청라<\/b> 전기차 화재 현장 둘러보는 이상민 행정안전부 장관 이상민 행정안전부 장관은 이달 1일... <b>청라<\/b>2동 행정복지센터 등 임시주거시설 6곳에서 지내는 이주민은 전날 오전 9시 기준 163세대 531명입니다. (사진... ",
+			"pubDate":"Wed, 14 Aug 2024 14:23:00 +0900"
+		},
+		{
+			"title":"[위클리오늘] 포항시, 전기차 화재 예방 ... 선제적 대응에 총력",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=645026",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=645026",
+			"description":"앞서 인천 <b>청라<\/b> 공동주택 지하주차장에서 일어난 전기차 화재로 막대한 재산피해가 발생했고, 금산 공영주차타워에서도 화재가 발생하면서 주민들의 불안감이 높아지고 전기차 보급에 대한 우려가 커지고 있다. 전기차... ",
+			"pubDate":"Wed, 14 Aug 2024 14:22:00 +0900"
+		},
 		{
 			"title":"인천 서구, 2024년 서구의회 의장단과의 간담회 개최",
 			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=688397",
@@ -26,13 +40,6 @@
 			"pubDate":"Wed, 14 Aug 2024 14:09:00 +0900"
 		},
 		{
-			"title":"인천 서구, 서구의회 의장단과 <b>청라<\/b> 아파트 화재 피해 복구 협력방안 모색",
-			"originallink":"http:\/\/www.breaknews.com\/1050211",
-			"link":"http:\/\/www.breaknews.com\/1050211",
-			"description":"지난 1일 발생한 <b>청라<\/b> 아파트 지하주차장 화재 피해와 관련하여 의회와의 긴밀한 연대와 협업이 그 어느때보다 중요해짐에 따라 조속한 피해 복구와 피해 주민들의... ",
-			"pubDate":"Wed, 14 Aug 2024 14:08:00 +0900"
-		},
-		{
 			"title":"부산시, 전기차 안전 현안점검 회의 개최…선제적 예방·대응 총력 \/사진 별송",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1065518",
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1065518",
@@ -40,17 +47,24 @@
 			"pubDate":"Wed, 14 Aug 2024 14:08:00 +0900"
 		},
 		{
-			"title":"이브이첨단소재, 지분 투자한 프롤로지움-벤츠 협업에 부각",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20240814135802273",
-			"link":"https:\/\/www.ajunews.com\/view\/20240814135802273",
-			"description":"전고체 배터리 안전성 부각 아주경제=장수영 기자 swimming@ajunews.com 인천 <b>청라<\/b> 아파트에서 발생한 전기차 화재로 전고체 배터리관련 업체가 주식 시장에서 주목받고 있다. 코스닥 상장사 이브이(EV)첨단소재도 주가가... ",
-			"pubDate":"Wed, 14 Aug 2024 14:06:00 +0900"
+			"title":"인천 서구, 서구의회 의장단과 <b>청라<\/b> 아파트 화재 피해 복구 협력방안 모색",
+			"originallink":"http:\/\/www.breaknews.com\/1050211",
+			"link":"http:\/\/www.breaknews.com\/1050211",
+			"description":"지난 1일 발생한 <b>청라<\/b> 아파트 지하주차장 화재 피해와 관련하여 의회와의 긴밀한 연대와 협업이 그 어느때보다 중요해짐에 따라 조속한 피해 복구와 피해 주민들의... ",
+			"pubDate":"Wed, 14 Aug 2024 14:08:00 +0900"
 		},
 		{
 			"title":"[전기차 화재 비상] 배터리 정보공개 의무화해야",
 			"originallink":"https:\/\/www.ekoreanews.co.kr\/news\/articleView.html?idxno=74952",
 			"link":"https:\/\/www.ekoreanews.co.kr\/news\/articleView.html?idxno=74952",
 			"description":"정부의 이번 결정은 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차 화재 사고에 따른 후속 조치다. 또 이번 지하주차장 전기차 화재 사고로 전기차에 대한 공포가 확산하면서 일정 규모 이상의... ",
+			"pubDate":"Wed, 14 Aug 2024 14:06:00 +0900"
+		},
+		{
+			"title":"이브이첨단소재, 지분 투자한 프롤로지움-벤츠 협업에 부각",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20240814135802273",
+			"link":"https:\/\/www.ajunews.com\/view\/20240814135802273",
+			"description":"전고체 배터리 안전성 부각 아주경제=장수영 기자 swimming@ajunews.com 인천 <b>청라<\/b> 아파트에서 발생한 전기차 화재로 전고체 배터리관련 업체가 주식 시장에서 주목받고 있다. 코스닥 상장사 이브이(EV)첨단소재도 주가가... ",
 			"pubDate":"Wed, 14 Aug 2024 14:06:00 +0900"
 		},
 		{
@@ -75,7 +89,7 @@
 			"pubDate":"Wed, 14 Aug 2024 14:02:00 +0900"
 		},
 		{
-			"title":"&quot;우리 차 배터리 안전해요&quot;…'확 달라진' 전기차 출시 현장 [최수진의 나우앤...",
+			"title":"&quot;16만대 팔렸는데 화재 0건…우리 차는 안전해요&quot; [최수진의 나우앤카]",
 			"originallink":"https:\/\/www.hankyung.com\/article\/202408142500g",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005021637?sid=103",
 			"description":"이달 1일 인천 서구 <b>청라<\/b> 아파트 지하 주차장에서 발생한 메르세데스-벤츠 EQE 화재를 계기로 전기차 화재에 대한 경각심이 커지자 신차를 발표하는 기자간담회장도 이처럼 분위기가 확 바뀌었다. 제조사가 먼저 전기차의... ",
@@ -152,17 +166,17 @@
 			"pubDate":"Wed, 14 Aug 2024 13:33:00 +0900"
 		},
 		{
-			"title":"인천시설공단 <b>청라<\/b>호수공원, ‘냉온정수기’ 부스 설치",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408141313283030708",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408141313283030708",
-			"description":"공단, 市와 함께 ‘민선 8기 공약 이행’에 발맞춰 인천시설공단(이사장 김종필)은 <b>청라<\/b>호수공원을... 하였고 <b>청라<\/b>호수공원 제1주차장과 제3주차장에 각 1개소를 배치하여 방문객들의 접근성을 높였다. 공공 냉온정수기... ",
-			"pubDate":"Wed, 14 Aug 2024 13:20:00 +0900"
-		},
-		{
 			"title":"'영업 비밀이라더니' 벤츠, 전기차 배터리 제조사 공개.. 화재 발생 EQE 350 ...",
 			"originallink":"https:\/\/kbench.com\/?q=node\/259115",
 			"link":"https:\/\/kbench.com\/?q=node\/259115",
 			"description":"특히, 지난 1일 인천 <b>청라<\/b> 아파트 지하 주차장 화재의 원인이 됐던 전기차 'EQE 350' 모델에는 연식과 관계없이 모두 중국 '파라시스' 배터리가 장착된 것으로 확인됐다. 'EQS 350', 'AMG EQE 53 4MATIC+', 'EQE 350 4MATIC', 'EQE... ",
+			"pubDate":"Wed, 14 Aug 2024 13:20:00 +0900"
+		},
+		{
+			"title":"인천시설공단 <b>청라<\/b>호수공원, ‘냉온정수기’ 부스 설치",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408141313283030708",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408141313283030708",
+			"description":"공단, 市와 함께 ‘민선 8기 공약 이행’에 발맞춰 인천시설공단(이사장 김종필)은 <b>청라<\/b>호수공원을... 하였고 <b>청라<\/b>호수공원 제1주차장과 제3주차장에 각 1개소를 배치하여 방문객들의 접근성을 높였다. 공공 냉온정수기... ",
 			"pubDate":"Wed, 14 Aug 2024 13:20:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004380188?sid=102",
 			"description":"이번 회의는 지난 1일 인천 서구 <b>청라<\/b>동 한 아파트 지하 주차장에서 발생한 전기차 화재 사고를 계기로 기관별 대책을 점검하는 자리다. 시민안전실·환경물정책실·주택건축국·교통혁신국·첨단산업국·대변인 등 관련... ",
 			"pubDate":"Wed, 14 Aug 2024 12:59:00 +0900"
-		},
-		{
-			"title":"인천 북부권 문화예술회관 타당성 확보 실패",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240814580035",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000049495?sid=100",
-			"description":"이미 서구와 계양구에는 서구 문화예술회관(951석), <b>청라<\/b>블루노바홀(486석), 계양문화회관(795석) 등이 있는데 여기에 문화예술회관 3곳이 추가하기 때문이다. 김충진 시 문화체육관광국장은 “이번 문화예술회관 추진... ",
-			"pubDate":"Wed, 14 Aug 2024 12:59:00 +0900"
-		},
-		{
-			"title":"이상민 장관, 전기차 화재 아파트 찾아…&quot;안전대책 꼼꼼히 마련&quot;",
-			"originallink":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=322641",
-			"link":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=322641",
-			"description":"이상민 행정안전부장관이 14일 오전 인천 서구 <b>청라<\/b>국제도시의 한 아파트 지하주차장 전기차 화재 피해 현장을 찾아 안전점검을 하고 있다 \/ ⓒ뉴시스 이상민 행안부 장관이 전기차 폭발 화재가 난 아파트를 찾아 주민들을... ",
-			"pubDate":"Wed, 14 Aug 2024 12:38:00 +0900"
 		}
 	]
 }
