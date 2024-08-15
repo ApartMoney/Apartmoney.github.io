@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 15 Aug 2024 13:40:02 +0900",
-	"total":239127,
+	"lastBuildDate":"Thu, 15 Aug 2024 13:50:02 +0900",
+	"total":239128,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;과충전 화재원인 아냐&quot;…현대차·기아, 배터리 안전기술 BMS 공개",
+			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20240815134709",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002342228?sid=103",
+			"description":"현대자동차가 최근 <b>청라<\/b> 벤츠 전기차 화재 사건 등 소비자들이 전기차에 대해 필요 이상의 불안감을 느끼고 있는 상황을 극복하기 위한 차원으로 배터리 핵심 기술을 공개했다. 현대차∙기아는 전기차 안전을 책임지는... ",
+			"pubDate":"Thu, 15 Aug 2024 13:48:00 +0900"
+		},
 		{
 			"title":"“중국산만 문제?”... 전기차 ‘배터리 실명제’ 향한 우려도 있다",
 			"originallink":"http:\/\/www.segyebiz.com\/newsView\/20240815509590?OutUrl=naver",
@@ -82,17 +89,17 @@
 			"pubDate":"Thu, 15 Aug 2024 11:18:00 +0900"
 		},
 		{
-			"title":"불 나기도 전인데 벤츠 판매량 19% '급감'...전기차 수요 확 꺾일까",
-			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2024081511083210050",
-			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2024081511083210050",
-			"description":"<b>청라<\/b> 전기차 화재가 일어난 8월 이후 판매량 추이가 주목된다. 산업통상자원부는 7월 벤츠 자동차가... 다만 지난 1일 인천 서구 <b>청라<\/b>동 한 아파트 지하주차장에 세워져 있던 벤츠 EQE 350에서 발생한 화재... ",
-			"pubDate":"Thu, 15 Aug 2024 11:12:00 +0900"
-		},
-		{
 			"title":"인천 생활개선회, <b>청라<\/b> 아파트 화재 피해 주민에 떡과 쌀국수 나눠",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150235",
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150235",
 			"description":"이번 쌀의 날 기념 쌀 나눔 행사는 <b>청라<\/b> 아파트 주차장 내 전기차 화재로 피해를 본 이웃들을 위해 간편하게 이용할 수 있는 쌀 가공식품인 쌀국수 100상자(1,200개)와 서구 여성농업인 회원이 직접 생산한 쌀로 빚은 떡... ",
+			"pubDate":"Thu, 15 Aug 2024 11:12:00 +0900"
+		},
+		{
+			"title":"불 나기도 전인데 벤츠 판매량 19% '급감'...전기차 수요 확 꺾일까",
+			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2024081511083210050",
+			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2024081511083210050",
+			"description":"<b>청라<\/b> 전기차 화재가 일어난 8월 이후 판매량 추이가 주목된다. 산업통상자원부는 7월 벤츠 자동차가... 다만 지난 1일 인천 서구 <b>청라<\/b>동 한 아파트 지하주차장에 세워져 있던 벤츠 EQE 350에서 발생한 화재... ",
 			"pubDate":"Thu, 15 Aug 2024 11:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002350104?sid=101",
 			"description":"전날 오후 7시 20분 마티아스 바이틀 메르세데스-벤츠 코리아 사장은 전기차 화재가 발생한 인천 <b>청라<\/b> 아파트를 직접 찾아 입주민 150여 명과 면담을 가졌다. 바이틀 사장은 아파트 입주민들과 사태 수습과 보상 대책 등에... ",
 			"pubDate":"Thu, 15 Aug 2024 10:01:00 +0900"
-		},
-		{
-			"title":"전기차 배터리 정보 공개...국내 배터리 3사, '반사이익' 기대",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240814000771",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20240814000771",
-			"description":"앞서 지난 1일 인천 서구 <b>청라<\/b>국제도시 아파트 지하 주차장에서 메르세데스-벤츠 EQE 세단에 불이 난 바 있다. 정부가 배터리 실명제를 추진하고 있는 만큼 국내외 완성차 업체들은 향후 선보이는 전기차들 역시 배터리... ",
-			"pubDate":"Thu, 15 Aug 2024 10:00:00 +0900"
 		}
 	]
 }
