@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 15 Aug 2024 18:30:02 +0900",
-	"total":239178,
+	"lastBuildDate":"Thu, 15 Aug 2024 18:40:02 +0900",
+	"total":239180,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;전기차 화재? 우리는 없다&quot;…획기적 '신기술' 공개한 현대차",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2024081554101",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005022135?sid=103",
+			"description":"인천 <b>청라<\/b> 아파트에서 발생한 벤츠 화재는 외부 충격에 의한 미세 단락이 장시간 방치됐기 때문이라는 데... ‘전기차 포비아’ 차단 위한 결단 현대차·기아는 이달 1일 ‘<b>청라<\/b> 벤츠 전기차 화재’ 발생 이후 고위 임원이... ",
+			"pubDate":"Thu, 15 Aug 2024 18:34:00 +0900"
+		},
+		{
+			"title":"[<b>청라<\/b>언덕] 상앙의 길, 조고의 길",
+			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2024081213514271853",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000898481?sid=110",
+			"description":"상앙(商鞅)은 한비자와 함께 법가 사상가를 대표하는 인물이다. 그는 중국 최초의 통일제국 진(秦)의 아버지라고도 불린다. 상앙은 진나라 군주 효공 때 남문 앞 저자에 3장(丈) 크기 나무를 세워 놓고 북문으로 옮기는... ",
+			"pubDate":"Thu, 15 Aug 2024 18:30:00 +0900"
+		},
 		{
 			"title":"&quot;배터리 손상 미리 감지해 문자 보낸다&quot;…업계, 전기차 공포 달래기",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25270868",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004380540?sid=101",
 			"description":"인천 <b>청라<\/b>의 전기차 화재 사고로 배터리 안전성이 소비자 선택의 핵심 기준으로 떠오르면서 국내 배터리 회사들의 화재 예방 기술이 다시 주목받고 있다. 국내 업체들이 주력으로 삼고 있는 니켈·코발트·망간(NCM)... ",
 			"pubDate":"Thu, 15 Aug 2024 15:51:00 +0900"
-		},
-		{
-			"title":"테슬라 '배터리 제조사 공개' 권고에도 침묵… 자화자찬 이메일만 발송",
-			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=618602",
-			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=618602",
-			"description":"앞서 지난 1일 인천 <b>청라<\/b>동 한 아파트에서 발생한 전기차 화재사건으로 배터리 제조사를 공개해야 한다는 분위기가 일었다. 정부는 지난 13일 국내 보급 전기차에 탑재된 배터리 정보를 모든 제작사가 자발적으로... ",
-			"pubDate":"Thu, 15 Aug 2024 15:40:00 +0900"
-		},
-		{
-			"title":"현대차∙기아, 배터리 안전 핵심기술 공개..&quot;전기차 내연기관 이상으로 안심하...",
-			"originallink":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=57466",
-			"link":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=57466",
-			"description":"인천 <b>청라<\/b>아파트 벤츠 전기차 화재로 소비자들이 전기차에 대해 필요 이상의 불안감을 느끼고 있는 상황을 극복하기 위한 차원에서다. 현대차∙기아는 &quot;안전성, 주행거리, 충전 시간 등 소비자가 중시하는 전기차의... ",
-			"pubDate":"Thu, 15 Aug 2024 15:34:00 +0900"
 		}
 	]
 }
