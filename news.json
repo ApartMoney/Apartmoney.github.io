@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 16 Aug 2024 05:30:02 +0900",
-	"total":239205,
+	"lastBuildDate":"Fri, 16 Aug 2024 05:40:02 +0900",
+	"total":239206,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"배짱 테슬라…완성車 배터리 공개할 때 '나홀로 미공개' 왜?",
+			"originallink":"https:\/\/www.news1.kr\/industry\/auto-industry\/5511813",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007732646?sid=103",
+			"description":"인천 <b>청라<\/b> 전기차 화재 사고 이후 국산·수입 완성차 업계가 전기차 배터리 제조사 공개에 자발적으로... 지난 1일 인천 <b>청라<\/b>에서 발생한 아파트 지하 주차장 화재 사건에 따른 여파다. 화재 차량(EQE 350+) 제조사인... ",
+			"pubDate":"Fri, 16 Aug 2024 05:30:00 +0900"
+		},
 		{
 			"title":"활주로 같은 드라이브 길 따라… ‘5성급 아트캉스’ 뜬다, 드넓은 마시안 해...",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/plan\/travel-story-jhs\/2024\/08\/16\/20240816012001?wlog_tag3=naver",
@@ -33,17 +40,17 @@
 			"pubDate":"Fri, 16 Aug 2024 00:33:00 +0900"
 		},
 		{
-			"title":"[부산시] 전기차 안전 현안점검 회의 개최…선제적 예방·대응 총력 外",
-			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=477279",
-			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=477279",
-			"description":"이번 회의는 지난 8월 1일 인천광역시 서구 <b>청라<\/b>동의 한 아파트 지하주차장에서 발생한 전기차 화재 사고를 계기로, 유사한 사고가 부산에서도 일어날 수 있다는 판단에 따라 기관별 대책을 점검하고자 마련됐다. 이날... ",
-			"pubDate":"Fri, 16 Aug 2024 00:02:00 +0900"
-		},
-		{
 			"title":"경쟁사는 배터리 제조사 공개…테슬라는 &quot;걱정하지말라&quot; 고객 독려",
 			"originallink":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=784905",
 			"link":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=784905",
 			"description":"테슬라의 이같은 메시지는 앞서 <b>청라<\/b>에서 발생한 전기차 화재, 14일 용인에서 발생한 '전기차 카페돌진' 사건을 의식한 결과로 풀이된다. 전기차 전반에 대한 소비자들 여론이 부정적으로 형성되는 상황에서 여기에... ",
+			"pubDate":"Fri, 16 Aug 2024 00:02:00 +0900"
+		},
+		{
+			"title":"[부산시] 전기차 안전 현안점검 회의 개최…선제적 예방·대응 총력 外",
+			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=477279",
+			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=477279",
+			"description":"이번 회의는 지난 8월 1일 인천광역시 서구 <b>청라<\/b>동의 한 아파트 지하주차장에서 발생한 전기차 화재 사고를 계기로, 유사한 사고가 부산에서도 일어날 수 있다는 판단에 따라 기관별 대책을 점검하고자 마련됐다. 이날... ",
 			"pubDate":"Fri, 16 Aug 2024 00:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005228248?sid=102",
 			"description":"지난 1일 인천 <b>청라<\/b>동의 한 아파트 지하주차장에 세워둔 벤츠 전기차가 폭발하면서 주변 차량 140여대가 불에 타고 주민 120여명이 대피하는 사고가 난 것을 계기로 전기차 화재에 대한 불안감이 확산되고 있다. 교육계는... ",
 			"pubDate":"Thu, 15 Aug 2024 18:11:00 +0900"
-		},
-		{
-			"title":"부산시, 전기차 화재 선제적 예방.대응 총력",
-			"originallink":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1044787",
-			"link":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1044787",
-			"description":"이날 회의는 지난 8월 1일 인천시 서구 <b>청라<\/b>동의 한 아파트 지하주차장에서 발생한 전기차 화재 사고를 계기로, 유사한 사고가 부산에서도 일어날 수 있다는 판단에 따라 기관별 대책을 점검하고자 마련됐다. 이날... ",
-			"pubDate":"Thu, 15 Aug 2024 18:02:00 +0900"
 		}
 	]
 }
