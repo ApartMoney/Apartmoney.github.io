@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 15 Aug 2024 18:10:03 +0900",
-	"total":239175,
+	"lastBuildDate":"Thu, 15 Aug 2024 18:20:02 +0900",
+	"total":239176,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"지하서 쫓겨나는 전기차... 전문가는 &quot;소방시설 확충이 먼저&quot;",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202408151810250228",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005228248?sid=102",
+			"description":"지난 1일 인천 <b>청라<\/b>동의 한 아파트 지하주차장에 세워둔 벤츠 전기차가 폭발하면서 주변 차량 140여대가 불에 타고 주민 120여명이 대피하는 사고가 난 것을 계기로 전기차 화재에 대한 불안감이 확산되고 있다. 교육계는... ",
+			"pubDate":"Thu, 15 Aug 2024 18:11:00 +0900"
+		},
 		{
 			"title":"부산시, 전기차 화재 선제적 예방.대응 총력",
 			"originallink":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1044787",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1104943",
 			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 한국지엠 노사는 지난 1일 발생한 인천 <b>청라<\/b> 아파트 지하 주차장 전기차 폭발 화재 관련해 해당 아파트에 거주하는 직원 피해 차량 10여 대에 대한 지원 대책을 마련했다고 15일 전했다.... ",
 			"pubDate":"Thu, 15 Aug 2024 15:28:00 +0900"
-		},
-		{
-			"title":"포항시, 시민 안전 위해 전기차 화재 종합 대책 마련",
-			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=456323",
-			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=456323",
-			"description":"앞서 인천 <b>청라<\/b> 공동주택 지하주차장에서 일어난 전기차 화재로 막대한 재산피해가 발생했고, 금산 공영주차타워에서도 화재가 발생하면서 주민들의 불안감이 높아지고 전기차 보급에 대한 우려가 커지고 있다. 전기차... ",
-			"pubDate":"Thu, 15 Aug 2024 15:26:00 +0900"
 		}
 	]
 }
