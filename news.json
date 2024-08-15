@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 16 Aug 2024 06:00:02 +0900",
-	"total":239207,
+	"lastBuildDate":"Fri, 16 Aug 2024 06:10:02 +0900",
+	"total":239209,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"딩동! 주말엔 e세계",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240815513016?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003960455?sid=103",
+			"description":"미드나잇 이슈, 전기차 충전 놓고 주민간 갈등 확산 인천 서구 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재로 전기차 화재에 대한 공포감이 확산하면서 정부와 지자체가 대책을 쏟아내고 있다. 하지만 안전대책 대부분... ",
+			"pubDate":"Fri, 16 Aug 2024 06:02:00 +0900"
+		},
+		{
+			"title":"벤츠 전기차 화재 공포 일파만파...가득 충전 시 문전박대",
+			"originallink":"https:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=82002",
+			"link":"https:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=82002",
+			"description":"화재 발생한 벤츠 [사진=연합뉴스 제공] 라이센스뉴스 = 김진우 기자 | 최근 인천 <b>청라<\/b>신도시에서 발생한 벤츠 EQE 화재 사고로 인해 전국에서 전기차에 대한 공포가 일파만파 커지고 있다. 일부 아파트단지... ",
+			"pubDate":"Fri, 16 Aug 2024 06:00:00 +0900"
+		},
 		{
 			"title":"중국만 믿던 벤츠, 전기차 '원가절감+시장' 모두 놓쳤다",
 			"originallink":"https:\/\/www.moneys.co.kr\/article\/2024081416492488471",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000898481?sid=110",
 			"description":"상앙(商鞅)은 한비자와 함께 법가 사상가를 대표하는 인물이다. 그는 중국 최초의 통일 제국 진(秦)의 아버지라고도 불린다. 상앙은 진나라 군주 효공 때 남문 앞 저자에 3장(丈) 크기 나무를 세워 놓고 북문으로 옮기는... ",
 			"pubDate":"Thu, 15 Aug 2024 18:30:00 +0900"
-		},
-		{
-			"title":"&quot;배터리 손상 미리 감지해 문자 보낸다&quot;…업계, 전기차 공포 달래기",
-			"originallink":"https:\/\/www.joongang.co.kr\/article\/25270868",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003380061?sid=101",
-			"description":"인천 <b>청라<\/b> 지역 주민들에게 추가 지원 의사를 밝혔다. 마티아스 바이틀 메르세데스-벤츠코리아 사장은 지난 14일 오후 <b>청라<\/b>를 방문해 주민 간담회를 가졌다. 780여대의 차량이 전소될 만큼 컸던 피해 규모 뿐 아니라... ",
-			"pubDate":"Thu, 15 Aug 2024 18:28:00 +0900"
-		},
-		{
-			"title":"전기차 화재에 中 배터리 '포비아'…2차전지 수혜일까, 악재일까",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02023766638987648",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005811941?sid=101",
-			"description":"이 같은 상황에서 지난 1일 인천 <b>청라<\/b>의 한 아파트 지하 주차장에서 발생한 전기차 화재가 이들 배터리... ‘안전한’ 배터리 충전기에 검사까지…新수혜주도 속속 등장 이번 인천 <b>청라<\/b> 전기차 화재 사건이 일파만파... ",
-			"pubDate":"Thu, 15 Aug 2024 18:23:00 +0900"
 		}
 	]
 }
