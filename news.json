@@ -1,11 +1,32 @@
 {
-	"lastBuildDate":"Thu, 15 Aug 2024 16:40:02 +0900",
-	"total":239157,
+	"lastBuildDate":"Thu, 15 Aug 2024 16:50:02 +0900",
+	"total":239160,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"'전기차 포비아' 확산··· 충전율 제한 등 당국 대책, 과학적 타당성은 있나",
+			"title":"[D리포트] 배터리 공개 안 한 테슬라…'카페 돌진' 사고 나자 &quot;안전 최우선&quot;",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007763943&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001181799?sid=101",
+			"description":"최근 인천 <b>청라<\/b> 아파트에서 발생한 전기차 화재로 국민 불안감이 확산하면서 정부가 지난 13일 배터리 제조사 관련 정보를 공개하도록 권고했지만, 테슬라는 이를 공개하지 않고 있습니다. 현대차, 기아를 포함한 국내... ",
+			"pubDate":"Thu, 15 Aug 2024 16:41:00 +0900"
+		},
+		{
+			"title":"인천 서구 &quot;<b>청라<\/b> 전기차 화재 피해 지원금, 구상권 청구 검토할 것&quot;",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363667188",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363667188",
+			"description":"서구는 <b>청라<\/b> 제일풍경채 2차 아파트 지하주차장에서 발생한 전기차 화재로 다수 주민들이 임시거처 생활을 하고 재산상 피해를 입자 지난 8일 '화재 피해 지원금' 지급을 결정했다. 화재 피해 지원금은 재해구호법 등... ",
+			"pubDate":"Thu, 15 Aug 2024 16:40:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>소각장 주민의견 수렴위원회 출범… 일부 시민단체 반발",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363667192",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363667192",
+			"description":"인천환경공단이 '<b>청라<\/b>소각장 주민의견 수렴위원회'(가칭, 이하 주민위원회)를 구성한 가운데 일부... 주민위원회는 <b>청라<\/b>소각장 인근 <b>청라<\/b>3동 주민들이 상생을 위한 기구를 요청함에 따라 추진된 것으로 알려졌다. 하지만... ",
+			"pubDate":"Thu, 15 Aug 2024 16:40:00 +0900"
+		},
+		{
+			"title":"'전기차 포비아' 확산··· 충전율 제한 등 당국 대책, 과학적 타당성 있나",
 			"originallink":"http:\/\/www.hellodd.com\/news\/articleView.html?idxno=105085",
 			"link":"http:\/\/www.hellodd.com\/news\/articleView.html?idxno=105085",
 			"description":"지난 1일 인천 <b>청라<\/b>국제도시의 아파트 지하 1층 주차장에 있던 전기차에서 불이 났다. 지난 6일에는 충남 금산군 금산읍의 한 주차타워 1층에서 충전 중이던 전기차에서 화재가 발생했다. 이번 사고로 정부와 지자체는... ",
@@ -159,17 +180,17 @@
 			"pubDate":"Thu, 15 Aug 2024 14:09:00 +0900"
 		},
 		{
-			"title":"바다 위도 예외 없는 전기차 화재, 해수부 안전대책에 선적 기준 제한 잇따라",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240812010003248",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240812010003248",
-			"description":"전기차는 주차, 충전 중에도 화재가 일어나고 지속시간도 일반차보다 길어 지난 1일 발생한 인천 <b>청라<\/b>동... 세종= 지난 1일 인천 <b>청라<\/b>동 한 아파트 지하주차장에서 발생한 전기차 화재 현장 모습(연합)해양수산부가 전기차... ",
-			"pubDate":"Thu, 15 Aug 2024 14:06:00 +0900"
-		},
-		{
 			"title":"서울·수도권 아파트 가격 상승폭 확대",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150276",
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150276",
 			"description":"인천 상승폭은 0.16%로 서구(0.36%)는 <b>청라<\/b>와 가정동 등 정주여건이 양호한 단지, 미추홀구(0.22%)는 용현과 도화동 역세권, 부평구(0.21%)는 부개와 삼산동 대단지, 동구(0.15%)는 화수와 송현동, 중구(0.1%)는 운남과... ",
+			"pubDate":"Thu, 15 Aug 2024 14:06:00 +0900"
+		},
+		{
+			"title":"바다 위도 예외 없는 전기차 화재, 해수부 안전대책에 선적 기준 제한 잇따라",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240812010003248",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240812010003248",
+			"description":"전기차는 주차, 충전 중에도 화재가 일어나고 지속시간도 일반차보다 길어 지난 1일 발생한 인천 <b>청라<\/b>동... 세종= 지난 1일 인천 <b>청라<\/b>동 한 아파트 지하주차장에서 발생한 전기차 화재 현장 모습(연합)해양수산부가 전기차... ",
 			"pubDate":"Thu, 15 Aug 2024 14:06:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2024081511440951475e6e69892f_18",
 			"description":"서구(0.36%)는 <b>청라<\/b>·가정동 정주여건 양호한 단지 위주로, 미추홀구(0.22%)는 용현·도화동 역세권 위주로, 부평구(0.21%)는 부개·삼산동 대단지 위주로, 동구(0.15%)는 화수·송현동 위주로, 중구(0.10%)는 운남... ",
 			"pubDate":"Thu, 15 Aug 2024 14:02:00 +0900"
-		},
-		{
-			"title":"서울 아파트 매맷값 상승률, 6년여 만에 최대↑",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01731846638987648",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005811834?sid=101",
-			"description":"인천(0.10% → 0.16%)은 <b>청라<\/b>·가정동 정주여건 양호한 단지 위주가 몰려 있는 서구(0.36%) 중심으로 올랐다. 경기(0.11% → 0.10%)는 용인 처인구(-0.18%)는 남사·이동읍 위주로, 이천시(-0.07%)는 송정·창전동 위주로... ",
-			"pubDate":"Thu, 15 Aug 2024 14:00:00 +0900"
-		},
-		{
-			"title":"포항시, 시민 안전 위해 전기차 화재 종합 대책 마련 나섰다",
-			"originallink":"http:\/\/www.kbsm.net\/news\/view.php?idx=443593",
-			"link":"http:\/\/www.kbsm.net\/news\/view.php?idx=443593",
-			"description":"앞서 인천 <b>청라<\/b> 공동주택 지하주차장에서 일어난 전기차 화재로 막대한 재산피해가 발생했고, 금산 공영주차타워에서도 화재가 발생하면서 주민들의 불안감이 높아지고 전기차 보급에 대한 우려가 커지고 있다. 전기차... ",
-			"pubDate":"Thu, 15 Aug 2024 13:58:00 +0900"
-		},
-		{
-			"title":"&quot;과충전 화재원인 아냐&quot;…현대차·기아, 배터리 안전기술 BMS 공개",
-			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20240815134709",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002342228?sid=103",
-			"description":"현대자동차가 최근 <b>청라<\/b> 벤츠 전기차 화재 사건 등 소비자들이 전기차에 대해 필요 이상의 불안감을 느끼고 있는 상황을 극복하기 위한 차원으로 배터리 핵심 기술을 공개했다. 현대차∙기아는 전기차 안전을 책임지는... ",
-			"pubDate":"Thu, 15 Aug 2024 13:48:00 +0900"
 		}
 	]
 }
