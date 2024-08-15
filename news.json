@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 15 Aug 2024 20:50:02 +0900",
-	"total":239192,
+	"lastBuildDate":"Thu, 15 Aug 2024 21:00:03 +0900",
+	"total":239193,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"포항시, 전기차 화재 예방 위한 선제적 대응 만전",
+			"originallink":"http:\/\/www.ksmnews.co.kr\/news\/view.php?idx=496877",
+			"link":"http:\/\/www.ksmnews.co.kr\/news\/view.php?idx=496877",
+			"description":"앞서 인천 <b>청라<\/b> 공동주택 지하주차장에서 일어난 전기차 화재로 막대한 재산피해가 발생했고, 금산 공영주차타워에서도 화재가 발생하면서 주민들의 불안감이 높아지고 전기차 보급에 대한 우려가 커지고 있다. 전기차... ",
+			"pubDate":"Thu, 15 Aug 2024 20:50:00 +0900"
+		},
 		{
 			"title":"'전기차 NO' 학교 충전시설 제외 움직임 본격화",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452291",
@@ -40,17 +47,17 @@
 			"pubDate":"Thu, 15 Aug 2024 19:34:00 +0900"
 		},
 		{
-			"title":"국내외 대학 캠퍼스 송도 쏠림현상 '심각'",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1105084",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1105084",
-			"description":"\/사진=인천경제청 제공 송도국제도시와 달리 같은 인천경제자유구역에 속한 <b>청라<\/b>국제도시와... 반면 같은 인천경제자유구역인 <b>청라<\/b>국제도시와 영종국제도시는 대학 캠퍼스가 전무하다. 교육불균형 문제가 대두되는... ",
-			"pubDate":"Thu, 15 Aug 2024 19:34:00 +0900"
-		},
-		{
 			"title":"안전보건공단 인천광역본부 &quot;물·그늘·휴식 제공 온열질환 예방&quot;",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1105070",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1105070",
 			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 안전보건공단 인천광역본부가 14일 인천 <b>청라<\/b> 스타필드 신축공사 현장에서 온열질환 예방 기본수칙을 홍보했다. 안전보건공단 인천광역본부는 지난 14일 신세계건설㈜ 인천 <b>청라<\/b>... ",
+			"pubDate":"Thu, 15 Aug 2024 19:34:00 +0900"
+		},
+		{
+			"title":"국내외 대학 캠퍼스 송도 쏠림현상 '심각'",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1105084",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1105084",
+			"description":"\/사진=인천경제청 제공 송도국제도시와 달리 같은 인천경제자유구역에 속한 <b>청라<\/b>국제도시와... 반면 같은 인천경제자유구역인 <b>청라<\/b>국제도시와 영종국제도시는 대학 캠퍼스가 전무하다. 교육불균형 문제가 대두되는... ",
 			"pubDate":"Thu, 15 Aug 2024 19:34:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363667214",
 			"description":"이번 쌀의 날 기념 쌀 나눔 행사는 <b>청라<\/b> 아파트 주차장 내 전기차 화재로 피해를 본 이웃들을 위해 간편하게 이용할 수 있는 쌀 가공식품인 쌀국수 100상자(1천200개)와 서구 여성농업인 회원이 직접 생산한 쌀로 빚은 떡... ",
 			"pubDate":"Thu, 15 Aug 2024 17:16:00 +0900"
-		},
-		{
-			"title":"배짱 영업인가 자신감인가…배터리 정보 공개 안하는 테슬라",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DD0ZV4WMH",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004380564?sid=101",
-			"description":"최근 인천 <b>청라<\/b>의 지하주차장 화재로 전기차에 대한 소비자의 불안이 커진 상황에서 테슬라의 독불장군식 대응이 빈축을 사고 있다. 현대차(005380)·기아(000270) 등 국내 완성차를 비롯해 수입차까지 배터리 제조사를... ",
-			"pubDate":"Thu, 15 Aug 2024 17:14:00 +0900"
 		}
 	]
 }
