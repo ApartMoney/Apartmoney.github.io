@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 15 Aug 2024 10:10:02 +0900",
-	"total":239104,
+	"lastBuildDate":"Thu, 15 Aug 2024 10:20:02 +0900",
+	"total":239106,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'전기차 화재' <b>청라<\/b> 아파트 앞단지에서도 차량 화재...주민들 '깜짝'",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12210513",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000406285?sid=102",
+			"description":"인천 <b>청라<\/b>의 한 아파트 지하주차장에 세워진 벤츠 차량에서 화재가 발생했습니다. 인천소방본부 등에 따르면 어제(14일) 저녁 7시 49분쯤 인천시 서구 <b>청라<\/b>동 한 아파트 지하 1층 주차장에 세워진 벤츠 차량에서 불이... ",
+			"pubDate":"Thu, 15 Aug 2024 10:15:00 +0900"
+		},
+		{
+			"title":"현대차·기아, 배터리 총관리자 BMS 핵심기술 공개..“과충전 화재 0건”",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01371046638987648",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005811713?sid=103",
+			"description":"인천 <b>청라<\/b> 아파트 지하주차장 화재 이후 전기차 안전의 핵심기술로 배터리관리시스템(BMS·Battery Management System)이 부각된 가운데 현대차·기아가 15년 노하우가 쌓인 BMS 기술을 공개했다. BMS는 배터리 상태를 실시간으로... ",
+			"pubDate":"Thu, 15 Aug 2024 10:13:00 +0900"
+		},
 		{
 			"title":"전기차 화재 대책 이미 시행 중인 ESS산업 '안전 이상무'",
 			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=341670",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007731480?sid=103",
 			"description":"박기범 배지윤 기자 = 인천 <b>청라<\/b>의 한 아파트에서 발생한 전기차 화재로 소비자들 사이에서 '전기차... 중고차 플랫폼 케이카(K Car)에 따르면 인천 <b>청라<\/b> 전기차 화재 사고가 발생한 지난 1일 이후 7일간 중고 전기차... ",
 			"pubDate":"Thu, 15 Aug 2024 06:08:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> '전기차 화재' 옆 단지서 불‥폭주족 집중 단속",
-			"originallink":"https:\/\/imnews.imbc.com\/replay\/2024\/nwtoday\/article\/6627148_36523.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001368037?sid=102",
-			"description":"어제저녁 8시쯤 인천 서구 <b>청라<\/b>동의 한 아파트 단지 지하주차장에 주차돼 있던 벤츠 차량에서 불이 났습니다. [소방 관계자 (음성변조)] &quot;'(119 신고는) 지하에 불 난 것 같다‥흰 연기 난다' 그런 내용‥&quot; 차 안에 있던... ",
-			"pubDate":"Thu, 15 Aug 2024 06:07:00 +0900"
-		},
-		{
-			"title":"1부 오늘의 주요뉴스",
-			"originallink":"https:\/\/imnews.imbc.com\/replay\/2024\/nwtoday\/article\/6627143_36523.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001368034?sid=102",
-			"description":"◀ 앵커 ▶ 최근 전기차 화재가 발생한 인천 <b>청라<\/b> 아파트 바로 옆 단지 지하주차장에서 차량 화재가 발생해 주민들이 불안에 떨었습니다. 광복절을 맞아 서울을 비롯한 전국 곳곳에선 경찰이 밤새 폭주족 집중 단속에... ",
-			"pubDate":"Thu, 15 Aug 2024 06:01:00 +0900"
 		}
 	]
 }
