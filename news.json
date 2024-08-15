@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 15 Aug 2024 13:50:02 +0900",
-	"total":239128,
+	"lastBuildDate":"Thu, 15 Aug 2024 14:00:03 +0900",
+	"total":239129,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"포항시, 시민 안전 위해 전기차 화재 종합 대책 마련 나섰다",
+			"originallink":"http:\/\/www.kbsm.net\/news\/view.php?idx=443593",
+			"link":"http:\/\/www.kbsm.net\/news\/view.php?idx=443593",
+			"description":"앞서 인천 <b>청라<\/b> 공동주택 지하주차장에서 일어난 전기차 화재로 막대한 재산피해가 발생했고, 금산 공영주차타워에서도 화재가 발생하면서 주민들의 불안감이 높아지고 전기차 보급에 대한 우려가 커지고 있다. 전기차... ",
+			"pubDate":"Thu, 15 Aug 2024 13:58:00 +0900"
+		},
 		{
 			"title":"&quot;과충전 화재원인 아냐&quot;…현대차·기아, 배터리 안전기술 BMS 공개",
 			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20240815134709",
@@ -89,17 +96,17 @@
 			"pubDate":"Thu, 15 Aug 2024 11:18:00 +0900"
 		},
 		{
-			"title":"인천 생활개선회, <b>청라<\/b> 아파트 화재 피해 주민에 떡과 쌀국수 나눠",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150235",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150235",
-			"description":"이번 쌀의 날 기념 쌀 나눔 행사는 <b>청라<\/b> 아파트 주차장 내 전기차 화재로 피해를 본 이웃들을 위해 간편하게 이용할 수 있는 쌀 가공식품인 쌀국수 100상자(1,200개)와 서구 여성농업인 회원이 직접 생산한 쌀로 빚은 떡... ",
-			"pubDate":"Thu, 15 Aug 2024 11:12:00 +0900"
-		},
-		{
 			"title":"불 나기도 전인데 벤츠 판매량 19% '급감'...전기차 수요 확 꺾일까",
 			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2024081511083210050",
 			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2024081511083210050",
 			"description":"<b>청라<\/b> 전기차 화재가 일어난 8월 이후 판매량 추이가 주목된다. 산업통상자원부는 7월 벤츠 자동차가... 다만 지난 1일 인천 서구 <b>청라<\/b>동 한 아파트 지하주차장에 세워져 있던 벤츠 EQE 350에서 발생한 화재... ",
+			"pubDate":"Thu, 15 Aug 2024 11:12:00 +0900"
+		},
+		{
+			"title":"인천 생활개선회, <b>청라<\/b> 아파트 화재 피해 주민에 떡과 쌀국수 나눠",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150235",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150235",
+			"description":"이번 쌀의 날 기념 쌀 나눔 행사는 <b>청라<\/b> 아파트 주차장 내 전기차 화재로 피해를 본 이웃들을 위해 간편하게 이용할 수 있는 쌀 가공식품인 쌀국수 100상자(1,200개)와 서구 여성농업인 회원이 직접 생산한 쌀로 빚은 떡... ",
 			"pubDate":"Thu, 15 Aug 2024 11:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004380482?sid=101",
 			"description":"최근 인천 <b>청라<\/b> 아파트 지하주차장 화재로 전기차에 대한 소비자들의 불안감이 커지고 있는 상황을 극복하기 위한 조치로 해석된다. 현대차·기아는 BMS 기술에 대해 &quot;15년 이상의 자체 개발 노하우를 축적·고도화해... ",
 			"pubDate":"Thu, 15 Aug 2024 10:05:00 +0900"
-		},
-		{
-			"title":"벤츠, 전기차 1만9219대 점검 시작…차주들 “믿어도 돼?” [여車저車]",
-			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20240815050029",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002350104?sid=101",
-			"description":"전날 오후 7시 20분 마티아스 바이틀 메르세데스-벤츠 코리아 사장은 전기차 화재가 발생한 인천 <b>청라<\/b> 아파트를 직접 찾아 입주민 150여 명과 면담을 가졌다. 바이틀 사장은 아파트 입주민들과 사태 수습과 보상 대책 등에... ",
-			"pubDate":"Thu, 15 Aug 2024 10:01:00 +0900"
 		}
 	]
 }
