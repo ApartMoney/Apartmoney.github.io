@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 15 Aug 2024 15:40:02 +0900",
-	"total":239149,
+	"lastBuildDate":"Thu, 15 Aug 2024 15:50:03 +0900",
+	"total":239150,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"테슬라 '배터리 제조사 공개' 권고에도 침묵… 자화자찬 이메일만 발송",
+			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=618602",
+			"link":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=618602",
+			"description":"앞서 지난 1일 인천 <b>청라<\/b>동 한 아파트에서 발생한 전기차 화재사건으로 배터리 제조사를 공개해야 한다는 분위기가 일었다. 정부는 지난 13일 국내 보급 전기차에 탑재된 배터리 정보를 모든 제작사가 자발적으로... ",
+			"pubDate":"Thu, 15 Aug 2024 15:40:00 +0900"
+		},
 		{
 			"title":"현대차∙기아, 배터리 안전 핵심기술 공개..&quot;전기차 내연기관 이상으로 안심하...",
 			"originallink":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=57466",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002350137?sid=101",
 			"description":"업계에서는 이번 인천 <b>청라<\/b> 메르세데스-벤츠 화재 사건으로 향후 LFP 전기차 시장이 더욱 확대될 것으로 보고 있다. 이번 화재 사고 차량에 중국 배터리 업체 파라시스의 NCM 제품이 탑재된 것으로 알려지면서다.... ",
 			"pubDate":"Thu, 15 Aug 2024 12:01:00 +0900"
-		},
-		{
-			"title":"박형준 시장, 전기차 화재 대응방안 긴급 점검회의…'전기차 지원 조례' 개정",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3066566",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3066566",
-			"description":"이날 회의는 지난 1일 인천 서구 <b>청라<\/b>동의 한 아파트 지하주차장에서 발생한 전기차 화재사고를 계기로, 기관별 대책을 점검하고자 마련됐다. 박 시장을 비롯해 시민안전실, 환경물정책실, 주택건축국, 교통혁신국... ",
-			"pubDate":"Thu, 15 Aug 2024 12:00:00 +0900"
 		}
 	]
 }
