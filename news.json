@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 17 Aug 2024 04:40:02 +0900",
-	"total":239383,
+	"lastBuildDate":"Sat, 17 Aug 2024 04:50:02 +0900",
+	"total":239384,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"배터리 정보 공개 꺼리던 테슬라, '결국 터졌다'. 도로 주차된 차량서 화재",
+			"originallink":"https:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=522296",
+			"link":"https:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=522296",
+			"description":"테슬라는 인천 <b>청라<\/b> 아파트 전기차 화재 사고 이후 당국의 배터리 제조사에 대한 자발적 정보 공개 요청에도 이를 받아들이지 않았다. 이에 국토교통부는 이날 교통안전공단 자동차안전연구원이 운영하는... ",
+			"pubDate":"Sat, 17 Aug 2024 04:48:00 +0900"
+		},
 		{
 			"title":"[단독]전기차社 절반, 화재예방 핵심정보 미공개…‘안전 인증’ 반쪽 우려",
 			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20240816\/126557583\/2",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014878590?sid=101",
 			"description":"인천 <b>청라<\/b> 아파트 지하주차장에서 화재가 발생한 메르세데스-벤츠 EQE를 비롯해 중국 파라시스의 배터리를 탑재한 전기차는 EQE, EQS, EQE SUV 3종으로, 모두 벤츠 전기차다. 이들 차종에는 CATL의 배터리도 쓰였다.... ",
 			"pubDate":"Fri, 16 Aug 2024 17:44:00 +0900"
-		},
-		{
-			"title":"인천시, 심야 전용 시내버스 2개→4개 확대 운행",
-			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0003054949&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002443162?sid=102",
-			"description":"버스는 <b>청라<\/b>국제도시역~호수공원(서측)~<b>청라<\/b> 5단지~<b>청라<\/b>푸르지오라피아노(공항철도 <b>청라<\/b>국제도시역 밤 12시 00분, 12시 30분 출발) 노선을 운행 중이다. 24일부터 신설되는 노선 중 N80번 버스는 공항철도 검암역... ",
-			"pubDate":"Fri, 16 Aug 2024 17:36:00 +0900"
 		}
 	]
 }
