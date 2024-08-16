@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 16 Aug 2024 17:50:02 +0900",
-	"total":239355,
+	"lastBuildDate":"Fri, 16 Aug 2024 18:00:02 +0900",
+	"total":239357,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"연이은 전기차 화재 사고에 &quot;배상책임보험 의무화&quot; 목소리",
+			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2024081616455442539",
+			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2024081616455442539",
+			"description":"박세아 기자입니다.[기사내용]최근 인천 <b>청라<\/b>와 충남 금산에서 잇따라 발생한 전기차 화재 사고.많게는 100억원대 피해가 발생한 만큼 사후 배상 문제에 관심이 쏠립니다.주차나 충전 중 불이 난 만큼 보험업계에서는 충전... ",
+			"pubDate":"Fri, 16 Aug 2024 17:58:00 +0900"
+		},
+		{
+			"title":"전기차 선호도 13.2% 급락에…김건 '배터리 실명법' 대표발의",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1396594\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002862737?sid=100",
+			"description":"앞서 지난 1일 <b>청라<\/b>에서 발생한 전기자동차 화재 사고 이후 전기차 배터리의 안전성이 논란이 되면서... 이는 과거 60%대를 넘나들던 선호도와는 크게 차이가 나는 것으로, <b>청라<\/b> 전기자동차 화재 사고에 따른 전기차 배터리... ",
+			"pubDate":"Fri, 16 Aug 2024 17:55:00 +0900"
+		},
 		{
 			"title":"국내 판매 전기차 브랜드 21곳 69종 배터리 제조사 공개(종합2보)",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240816040002003?input=1195m",
@@ -12,17 +26,17 @@
 			"pubDate":"Fri, 16 Aug 2024 17:44:00 +0900"
 		},
 		{
-			"title":"인천시, 심야 전용 시내버스 2개→4개 확대 운행",
-			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0003054949&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002443162?sid=102",
-			"description":"버스는 <b>청라<\/b>국제도시역~호수공원(서측)~<b>청라<\/b> 5단지~<b>청라<\/b>푸르지오라피아노(공항철도 <b>청라<\/b>국제도시역 밤 12시 00분, 12시 30분 출발) 노선을 운행 중이다. 24일부터 신설되는 노선 중 N80번 버스는 공항철도 검암역... ",
-			"pubDate":"Fri, 16 Aug 2024 17:36:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>1동 새마을협의회, 제79주년 광복절 기념 행사 추진",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=468239",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=468239",
 			"description":"사진제공=인천서구청 인천 서구 <b>청라<\/b>1동 새마을협의회는 지난 15일 오전 제79주년 광복절을 기념하여 관내 아파트 2곳에 '아파트 태극기 거치대 설치 시범사업'을 추진했다. 이날 <b>청라<\/b>1동 행정복지센터(동장 강미애)... ",
+			"pubDate":"Fri, 16 Aug 2024 17:36:00 +0900"
+		},
+		{
+			"title":"인천시, 심야 전용 시내버스 2개→4개 확대 운행",
+			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0003054949&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002443162?sid=102",
+			"description":"버스는 <b>청라<\/b>국제도시역~호수공원(서측)~<b>청라<\/b> 5단지~<b>청라<\/b>푸르지오라피아노(공항철도 <b>청라<\/b>국제도시역 밤 12시 00분, 12시 30분 출발) 노선을 운행 중이다. 24일부터 신설되는 노선 중 N80번 버스는 공항철도 검암역... ",
 			"pubDate":"Fri, 16 Aug 2024 17:36:00 +0900"
 		},
 		{
@@ -194,25 +208,11 @@
 			"pubDate":"Fri, 16 Aug 2024 15:50:00 +0900"
 		},
 		{
-			"title":"전기차 브랜드 17곳, 배터리 제조사 공개…테슬라도 합류",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150483",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150483",
-			"description":"14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트 지하 주차장 전기차 충전 구역에 녹아내린 전기차 충전기가 보이고 있다. 사진=연합뉴스 매일일보 = 이미현 기자  |  국내에서 전기차를 제조·판매하는... ",
-			"pubDate":"Fri, 16 Aug 2024 15:46:00 +0900"
-		},
-		{
 			"title":"테슬라도 참여… 전기차 브랜드 17곳, 배터리 제조사 공개",
 			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=688692",
 			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=688692",
 			"description":"최근 인천 <b>청라<\/b> 전기차 화재 사고를 계기로 소비자의 전기차 배터리에 대한 알 권리가 부각되면서다. 16일 국토교통부 자동차 리콜센터 누리집의 '전기차 배터리 제조사 현황'과 각 완성차 브랜드 홈페이지에... ",
 			"pubDate":"Fri, 16 Aug 2024 15:46:00 +0900"
-		},
-		{
-			"title":"인천 지하 주차장서 차량에 불지른 30대 경찰에 검거",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1105111",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1105111",
-			"description":"지난 14일 오후 7시49분께 인천시 서구 <b>청라<\/b>동 소재 아파트 지하주차장에서 차량에 화재가 발생해... A씨는 지난 14일 오후 7시 49분께 서구 <b>청라<\/b>동 소재 A 아파트 지하 주차장에 주차된 벤츠 차량 안에서 불을 지른... ",
-			"pubDate":"Fri, 16 Aug 2024 15:42:00 +0900"
 		}
 	]
 }
