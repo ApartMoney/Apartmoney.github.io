@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 16 Aug 2024 20:20:03 +0900",
-	"total":239376,
+	"lastBuildDate":"Fri, 16 Aug 2024 20:30:02 +0900",
+	"total":239377,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"與 김건, 전기차 배터리 실명법 대표 발의…'품명·제조사 공개' 의무화",
+			"originallink":"https:\/\/www.news1.kr\/politics\/assembly\/5513004",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007734352?sid=100",
+			"description":"김 의원은 &quot;최근 인천 <b>청라<\/b>에서 일어난 사고로 배터리 제조사가 전기자동차 선택에 있어 중요한 요소 중 하나가 됐다&quot;며 &quot;전기자동차 안전에 대한 신뢰성이 더욱 높아지기를 기대한다&quot;고 말했다.",
+			"pubDate":"Fri, 16 Aug 2024 20:21:00 +0900"
+		},
 		{
 			"title":"국내 전기차 중 17종 중국 배터리 사용... 21개사 69종 제조사 공개",
 			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=456490",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newspim.com\/news\/view\/20240816000948",
 			"description":"구는 지난 1일 인천 서구 <b>청라<\/b>동의 한 아파트 지하 주차장에서 발생한 전기차 화재 사고를 계기로, 관악구 내 유사 사고 발생을 예방하기 위한 TF팀을 구성하여 부서별 현황을 점검하고 대응 방안을 마련하고자 긴급... ",
 			"pubDate":"Fri, 16 Aug 2024 17:21:00 +0900"
-		},
-		{
-			"title":"'한동훈 체제' 18일 첫 고위당정…취약층 폭염 지원책 논의",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240816114400001?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014878569?sid=100",
-			"description":"아울러 인천 <b>청라<\/b> 아파트 화재로 촉발된 전기차 배터리 안전관리 문제, 순직 군인 유족에게 사후 진급 추서된 계급에 맞춰 연금을 지급하는 군인사법 개정안 등 유공자 예우 강화 문제도 폭넓게 논의될 전망이다.",
-			"pubDate":"Fri, 16 Aug 2024 17:17:00 +0900"
 		}
 	]
 }
