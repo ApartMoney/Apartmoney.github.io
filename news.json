@@ -1,9 +1,65 @@
 {
-	"lastBuildDate":"Fri, 16 Aug 2024 10:30:02 +0900",
-	"total":239248,
+	"lastBuildDate":"Fri, 16 Aug 2024 10:40:02 +0900",
+	"total":239256,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이번엔 배터리 안전기술 공개…車업계, 전기차 포비아 진압 나섰다",
+			"originallink":"http:\/\/news.bizwatch.co.kr\/article\/industry\/2024\/08\/16\/0004",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/648\/0000028240?sid=101",
+			"description":"올해 전기차 시장 성장세가 크게 위축되고 있는 가운데 지난 1일 인천 <b>청라<\/b>지구에서 발생한 대규모 전기차 화재 이후 분위기가 더욱 악화하고 있다. 중고차 시장에 전기차 매물이 급격히 늘어났고, 일부 아파트... ",
+			"pubDate":"Fri, 16 Aug 2024 10:39:00 +0900"
+		},
+		{
+			"title":"&quot;전기차 탄다고 '예비 살인마' 모욕당했습니다&quot;... 전국서 전기차 포비아 확산",
+			"originallink":"https:\/\/www.insight.co.kr\/news\/476547",
+			"link":"https:\/\/www.insight.co.kr\/news\/476547",
+			"description":"인천 <b>청라<\/b>동 한 아파트에서 발생한 전기차 화재 이후 '전기차 포비아'(공포증)가 확산하고 있다. 일부 아파트에서는 전기차의 지하주차장 이용을 제한하는가 하면, 여객선이 전기차를 선적하지 못하게 하는 사례도 나왔다.... ",
+			"pubDate":"Fri, 16 Aug 2024 10:38:00 +0900"
+		},
+		{
+			"title":"전기차 화재 불안 확산에…관악구, 충전시설 전수조사",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240816_0002851783",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012731369?sid=102",
+			"description":"구는 지난 1일 인천 서구 <b>청라<\/b>동의 한 아파트 지하 주차장에서 발생한 전기차 화재 사고를 계기로, 관악구 내 유사 사고 발생을 예방하기 위한 TF팀을 구성해 부서별 현황을 점검하고 대응 방안을 마련하고자 긴급 회의를... ",
+			"pubDate":"Fri, 16 Aug 2024 10:38:00 +0900"
+		},
+		{
+			"title":"인천 별밤버스 노선 2개서 4개 확대, 늦은밤 귀가 편의 높인다",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1262487",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1262487",
+			"description":"현재 운행 중인 N50번(송내남부역∼논현동)과 N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)은 심야시간대 각각 2회씩 운행 중이다. 24일 신설되는 노선은 ▲N80번(검암역∼가정역) ▲N90번(계양역∼검단신도시)이며 마찬가지로... ",
+			"pubDate":"Fri, 16 Aug 2024 10:36:00 +0900"
+		},
+		{
+			"title":"인천 심야버스, 24일부터 공항철도 연계 2개 노선 추가",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007764567&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001181981?sid=102",
+			"description":"앞서 인천시는 지난달 20일부터 송내역 남부에 논현동을 잇는 심야버스 N50과 공항철도 <b>청라<\/b>국제도시역에서 <b>청라<\/b> 5단지까지 N81 노선을 운영하고 있습니다. (사진=인천시 제공, 연합뉴스)",
+			"pubDate":"Fri, 16 Aug 2024 10:31:00 +0900"
+		},
+		{
+			"title":"관악구, 전기차 충전시설 전수조사…화재 예방 긴급 대책 실시",
+			"originallink":"https:\/\/www.news1.kr\/local\/seoul\/5512273",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007733191?sid=102",
+			"description":"구는 지난 1일 인천 서구 <b>청라<\/b>동의 한 아파트 지하 주차장에서 발생한 전기차 화재 사고를 계기로, 관악구 내 유사 사고 발생을 예방하기 위한 TF팀을 구성해 부서별 현황을 점검하고 대응 방안을 마련하고자 긴급 회의를... ",
+			"pubDate":"Fri, 16 Aug 2024 10:31:00 +0900"
+		},
+		{
+			"title":"인천 심야버스 4개 노선으로 확대…공항철도 연계 노선 추가",
+			"originallink":"https:\/\/news.tvchosun.com\/site\/data\/html_dir\/2024\/08\/16\/2024081690057.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000472136?sid=102",
+			"description":"인천시는 오는 24일부터 N80(공항철도 검암역∼경서지구 입구∼<b>청라<\/b>1동 행정복지센터∼가정역)과 N90... 인천 별밤버스는 지난달 20일부터 운행을 시작했으며, N50(경인선 송내역 남부∼논현동)과 N81(공항철도 <b>청라<\/b>... ",
+			"pubDate":"Fri, 16 Aug 2024 10:30:00 +0900"
+		},
+		{
+			"title":"인천시, 심야 전용 별밤버스 N80 · N90번 2개 노선 추가",
+			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=210013",
+			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=210013",
+			"description":"현재 2개 노선은 N50번(송내남부역∼논현동), N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)이고, 심야시간대 각각 2회씩 운행 중입니다. 이들 노선은 24일부터 N50번 심야버스 운행 시간과 N81번 심야버스 이용객 패턴을 고려해... ",
+			"pubDate":"Fri, 16 Aug 2024 10:30:00 +0900"
+		},
 		{
 			"title":"인천 심야전용 '별밤버스' 4개 노선으로 확대 운행",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363667277",
@@ -19,7 +75,7 @@
 			"pubDate":"Fri, 16 Aug 2024 10:16:00 +0900"
 		},
 		{
-			"title":"인천시, 심야 운행 ‘별밤버스’ 24일부터 4개로 늘린다",
+			"title":"인천시, 심야 전용 ‘별밤버스’ 24일부터 4개로 늘린다",
 			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1153955.html",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002703016?sid=102",
 			"description":"신설 노선은 N80(공항철도 검암역∼경서지구 입구∼<b>청라<\/b>1동 행정복지센터∼가정역)과 N90(공항철도... 인천시는 지난달 20일부터 심야버스 N50(경인선 송내역 남부∼논현동)과 N81(공항철도 <b>청라<\/b>국제도시역... ",
@@ -157,62 +213,6 @@
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240816028434189",
 			"description":"현재 2개 노선은 △N50번(송내남부역∼논현동) △N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)이고, 심야시간대 각각 2회씩 운행 중이다. 이들 노선은 8월 24일부터 N50번 심야버스 운행 시간과 N81번 심야버스 이용객 패턴을... ",
 			"pubDate":"Fri, 16 Aug 2024 09:12:00 +0900"
-		},
-		{
-			"title":"관악구, 전기차 화재예방 긴급 TF 회의 개최…구민 불안감 해소",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1065643",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1065643",
-			"description":"구에 따르면 지난 1일 인천 서구 <b>청라<\/b>동의 한 아파트 지하 주차장에서 발생한 전기차 화재 사고를 계기로, 유사 사고 발생을 예방하기 위한 TF팀을 구성해 부서별 현황을 점검하고 대응 방안을 마련을 위해 긴급 회의를... ",
-			"pubDate":"Fri, 16 Aug 2024 09:10:00 +0900"
-		},
-		{
-			"title":"인천시, 심야 별밤버스 '검암~가정·계양~검단' 노선 확대",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251674",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251674",
-			"description":"현재 운행 중인 노선은 ▲N50번(수도권전철 1호선 송내역 남부∼인천 남동구 논현동) ▲N81번(공항철도 <b>청라<\/b>국제도시역∼<b>청라<\/b>푸르지오라피아노 아파트)이다. 24일부터는 일부 출발 시간(송내역과... ",
-			"pubDate":"Fri, 16 Aug 2024 09:04:00 +0900"
-		},
-		{
-			"title":"GTX-D노선 연장 수혜 단지 '원주 푸르지오 더 센트럴' 선착순 계약",
-			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=663892",
-			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=663892",
-			"description":"1월 국토교통부의 '교통분야 3대 혁신 전략'에 따르면 GTX-D노선 사업은 인천공항에서 출발하여 영종, <b>청라<\/b>, 가정, 작전 등을 통과하는 축과 김포 장기에서 출발해 검단, 계양을 거치는 축이 부천 대장에서 만난다.... ",
-			"pubDate":"Fri, 16 Aug 2024 09:00:00 +0900"
-		},
-		{
-			"title":"건설업계도 전기차 화재 확산 차단 시공방법 찾기 비상",
-			"originallink":"https:\/\/www.koscaj.com\/news\/articleView.html?idxno=310199",
-			"link":"https:\/\/www.koscaj.com\/news\/articleView.html?idxno=310199",
-			"description":"최근 인천 <b>청라<\/b>국제도시의 한 아파트에서 발생한 지하주차장 전기차 화재사고로 전기차에 대한 국민적 우려가 높아지면서 건설업계가 서둘러 화재를 예방하거나 진압하는 시설 마련에 속도를 내고 있다. 건설업계의... ",
-			"pubDate":"Fri, 16 Aug 2024 09:00:00 +0900"
-		},
-		{
-			"title":"입주민·위탁사·관리소장 공동주택 제도 개선 촉구 한목소리",
-			"originallink":"http:\/\/www.aptn.co.kr\/news\/articleView.html?idxno=107050",
-			"link":"http:\/\/www.aptn.co.kr\/news\/articleView.html?idxno=107050",
-			"description":"최근 인천 <b>청라<\/b>지역 아파트의 전기차 화재로 아파트 지하주차장에 전기차 출입을 원천적으로 막는 단지가 점점 늘어나고 있는 만큼 이 주제 역시 학술대회에 참석한 업계 관계자들이 많은 관심을 보였다. 이 박사는 우선... ",
-			"pubDate":"Fri, 16 Aug 2024 08:50:00 +0900"
-		},
-		{
-			"title":"인천시, 심야전용 '별밤버스' 4개 노선으로 확대 운영",
-			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=155092",
-			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=155092",
-			"description":"현재 운행 중인 2개 노선은 ▷N50번(송내남부역∼논현동) ▷N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)이고, 심야시간대 각각 2회씩 운행 중이다. 이들 노선은 8월 24일부터 N50번 심야버스 운행 시간과 N81번 심야버스 이용객... ",
-			"pubDate":"Fri, 16 Aug 2024 08:50:00 +0900"
-		},
-		{
-			"title":"벤츠코리아 사장, 인천 전기차 화재 피해 주민들과 간담회 … &quot;추가 지원 검토...",
-			"originallink":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2024\/08\/15\/2024081500098.html",
-			"link":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2024\/08\/15\/2024081500098.html",
-			"description":"뉴데일리 송원영 기자 = 메르세데스-벤츠 코리아 사장이 벤츠 전기차 화재로 피해를 본 인천 서구 <b>청라<\/b> 아파트 입주민을 찾아 사고 13일만에 보상안을 논의했으나 주민들의 반응은 냉담했다. 15일 피해자인 인천 서구 <b>청라<\/b>... ",
-			"pubDate":"Fri, 16 Aug 2024 08:44:00 +0900"
-		},
-		{
-			"title":"인천시, 심야전용'별밤버스'24일 4개 노선으로 확대",
-			"originallink":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=76421",
-			"link":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=76421",
-			"description":"현재 2개 노선은 ▴N50번(송내남부역∼논현동) ▴N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)이고, 심야시간대 각각 2회씩 운행 중이다. 이들 노선은 오는 24일부터 N50번 심야버스 운행 시간과 N81번 심야버스 이용객 패턴을... ",
-			"pubDate":"Fri, 16 Aug 2024 08:44:00 +0900"
 		}
 	]
 }
