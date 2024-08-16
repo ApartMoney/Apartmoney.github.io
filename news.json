@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Fri, 16 Aug 2024 16:30:02 +0900",
-	"total":239334,
+	"lastBuildDate":"Fri, 16 Aug 2024 16:40:02 +0900",
+	"total":239337,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"박상우 장관 &quot;전기차 국민 불안 해소에 총력 대응&quot; 강조",
+			"originallink":"https:\/\/www.energy-news.co.kr\/news\/articleView.html?idxno=205048",
+			"link":"https:\/\/www.energy-news.co.kr\/news\/articleView.html?idxno=205048",
+			"description":"국토교통부는 지난 1일 인천 <b>청라<\/b>지역 전기차 화재사고 이후 전기차 안전에 대한 국민 불안감이 높아지고, 전기차 화재 우려가 지속 제기되는 상황에서 국내 제작사 및 수입사에 신속히 전기차 특별 안전점검을 시행할... ",
+			"pubDate":"Fri, 16 Aug 2024 16:38:00 +0900"
+		},
+		{
+			"title":"與김건 '배터리 실명법' 대표 발의… &quot;전기차 안정성 제고 기대&quot;",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3170054",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3170054",
+			"description":"김 의원은 &quot;인천 <b>청라<\/b>에서 일어난 전기자동차 배터리 사고로 인해 국민 불안이 가중된 상태에서 배터리 제조사가 전기자동차 선택에 있어 중요한 요소 중 하나가 됐다&quot;며 &quot;이번 법안이 통과돼 전기자동차 안전에 대한... ",
+			"pubDate":"Fri, 16 Aug 2024 16:32:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b> 지하주차장서 방화… 30대 남성 입건",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363667322",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363667322",
+			"description":"인천 <b>청라<\/b> 전기차 화재가 발생한 곳 인근 아파트 지하주차장에서 불을 지른 30대 남성이 경찰에 붙잡혔다.... 그는 지난 14일 오후 7시 49분께 서구 <b>청라<\/b>동 모 아파트 지하 주차장에 주차된 벤츠 차량 안에서 불을 지른... ",
+			"pubDate":"Fri, 16 Aug 2024 16:30:00 +0900"
+		},
 		{
 			"title":"인천시, 심야전용 별밤버스… 오는 8월 24일 4개 노선으로 확대 운행",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=468203",
@@ -47,17 +68,17 @@
 			"pubDate":"Fri, 16 Aug 2024 15:50:00 +0900"
 		},
 		{
-			"title":"전기차 브랜드 17곳, 배터리 제조사 공개…테슬라도 합류",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150483",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150483",
-			"description":"14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트 지하 주차장 전기차 충전 구역에 녹아내린 전기차 충전기가 보이고 있다. 사진=연합뉴스 매일일보 = 이미현 기자  |  국내에서 전기차를 제조·판매하는... ",
-			"pubDate":"Fri, 16 Aug 2024 15:46:00 +0900"
-		},
-		{
 			"title":"테슬라도 참여… 전기차 브랜드 17곳, 배터리 제조사 공개",
 			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=688692",
 			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=688692",
 			"description":"최근 인천 <b>청라<\/b> 전기차 화재 사고를 계기로 소비자의 전기차 배터리에 대한 알 권리가 부각되면서다. 16일 국토교통부 자동차 리콜센터 누리집의 '전기차 배터리 제조사 현황'과 각 완성차 브랜드 홈페이지에... ",
+			"pubDate":"Fri, 16 Aug 2024 15:46:00 +0900"
+		},
+		{
+			"title":"전기차 브랜드 17곳, 배터리 제조사 공개…테슬라도 합류",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150483",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150483",
+			"description":"14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트 지하 주차장 전기차 충전 구역에 녹아내린 전기차 충전기가 보이고 있다. 사진=연합뉴스 매일일보 = 이미현 기자  |  국내에서 전기차를 제조·판매하는... ",
 			"pubDate":"Fri, 16 Aug 2024 15:46:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002346160?sid=102",
 			"description":"현재 2개 노선은 △N50번(송내남부역∼논현동) △N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b>5단지)이고, 심야시간대 각각 2회씩 운행 중이다. 이들 노선은 24일부터 N50번 심야버스 운행시간과 N81번 심야버스 이용객 패턴을 고려해... ",
 			"pubDate":"Fri, 16 Aug 2024 14:24:00 +0900"
-		},
-		{
-			"title":"모경종 &quot;인천시, 북부문예회관 규모 축소...빵점짜리 추진방안&quot;",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251717",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251717",
-			"description":"의장 ▲이영철(<b>청라<\/b>3·당하·오류왕길·마전동)·심우창(검단·불로대곡·원당·아라)·김남원(<b>청라<\/b>3·당하·오류왕길·마전동) 서구의원이 참석했다. 앞서 인천시는 지난 14일 오전 '인천 북부지역 문화예술회관 건립 기본... ",
-			"pubDate":"Fri, 16 Aug 2024 14:24:00 +0900"
-		},
-		{
-			"title":"‘테슬라, 배터리社 공개 합류’…국내 전기차 13개 판매사 모두 공개",
-			"originallink":"https:\/\/weekly.cnbnews.com\/news\/article.html?no=162860",
-			"link":"https:\/\/weekly.cnbnews.com\/news\/article.html?no=162860",
-			"description":"사진=연합뉴스 지난 1일 인천 <b>청라<\/b>에서 일어난 메르세데스-벤츠 전기차 화재 사고 이후 정부가 완성차 업계에 배터리 제조사를 공개하도록 권고한 가운데 테슬라코리아도 뒤늦게 배터리 제조사 공개 대열에... ",
-			"pubDate":"Fri, 16 Aug 2024 14:18:00 +0900"
-		},
-		{
-			"title":"인천 심야전용 버스 4개 노선으로 확대 운행...'별밤버스'오는 24일부터",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420338",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420338",
-			"description":"현재 2개 노선은 ▲N50번(송내남부역∼논현동) ▲N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)이고 심야시간대 각각 2회씩 운행 중이다. 이들 노선은 8월 24일부터 N50번 심야버스 운행 시간과 N81번 심야버스 이용객 패턴을... ",
-			"pubDate":"Fri, 16 Aug 2024 14:16:00 +0900"
 		}
 	]
 }
