@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 16 Aug 2024 12:00:02 +0900",
-	"total":239281,
+	"lastBuildDate":"Fri, 16 Aug 2024 12:10:02 +0900",
+	"total":239282,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 화재의 마지막 대안, ‘꿈의 배터리’ 전도체",
+			"originallink":"https:\/\/www.m-economynews.com\/news\/article.html?no=45337",
+			"link":"https:\/\/www.m-economynews.com\/news\/article.html?no=45337",
+			"description":"배터리 원료 ‘황화리튬’ 비싼 가격이 문제 전도체 관련주 주가상승 속 기술개선 숙제 인천 <b>청라<\/b>, 충남 금산 등에서 전기차 화재가 잇따라 발생하고 배터리에 대한 불안감도 확산하면서 높은 에너지 밀도와 안정성으로... ",
+			"pubDate":"Fri, 16 Aug 2024 12:04:00 +0900"
+		},
 		{
 			"title":"전기차 배터리만 위기일까... 위험한 윤 정부의 자화자찬",
 			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0003054245&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
@@ -187,17 +194,17 @@
 			"pubDate":"Fri, 16 Aug 2024 10:39:00 +0900"
 		},
 		{
-			"title":"전기차 화재 불안 확산에…관악구, 충전시설 전수조사",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240816_0002851783",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012731369?sid=102",
-			"description":"구는 지난 1일 인천 서구 <b>청라<\/b>동의 한 아파트 지하 주차장에서 발생한 전기차 화재 사고를 계기로, 관악구 내 유사 사고 발생을 예방하기 위한 TF팀을 구성해 부서별 현황을 점검하고 대응 방안을 마련하고자 긴급 회의를... ",
-			"pubDate":"Fri, 16 Aug 2024 10:38:00 +0900"
-		},
-		{
 			"title":"&quot;전기차 탄다고 '예비 살인마' 모욕당했습니다&quot;... 전국서 전기차 포비아 확산",
 			"originallink":"https:\/\/www.insight.co.kr\/news\/476547",
 			"link":"https:\/\/www.insight.co.kr\/news\/476547",
 			"description":"인천 <b>청라<\/b>동 한 아파트에서 발생한 전기차 화재 이후 '전기차 포비아'(공포증)가 확산하고 있다. 일부 아파트에서는 전기차의 지하주차장 이용을 제한하는가 하면, 여객선이 전기차를 선적하지 못하게 하는 사례도 나왔다.... ",
+			"pubDate":"Fri, 16 Aug 2024 10:38:00 +0900"
+		},
+		{
+			"title":"전기차 화재 불안 확산에…관악구, 충전시설 전수조사",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240816_0002851783",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012731369?sid=102",
+			"description":"구는 지난 1일 인천 서구 <b>청라<\/b>동의 한 아파트 지하 주차장에서 발생한 전기차 화재 사고를 계기로, 관악구 내 유사 사고 발생을 예방하기 위한 TF팀을 구성해 부서별 현황을 점검하고 대응 방안을 마련하고자 긴급 회의를... ",
 			"pubDate":"Fri, 16 Aug 2024 10:38:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1262487",
 			"description":"현재 운행 중인 N50번(송내남부역∼논현동)과 N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)은 심야시간대 각각 2회씩 운행 중이다. 24일 신설되는 노선은 ▲N80번(검암역∼가정역) ▲N90번(계양역∼검단신도시)이며 마찬가지로... ",
 			"pubDate":"Fri, 16 Aug 2024 10:36:00 +0900"
-		},
-		{
-			"title":"관악구, 전기차 충전시설 전수조사…화재 예방 긴급 대책 실시",
-			"originallink":"https:\/\/www.news1.kr\/local\/seoul\/5512273",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007733191?sid=102",
-			"description":"구는 지난 1일 인천 서구 <b>청라<\/b>동의 한 아파트 지하 주차장에서 발생한 전기차 화재 사고를 계기로, 관악구 내 유사 사고 발생을 예방하기 위한 TF팀을 구성해 부서별 현황을 점검하고 대응 방안을 마련하고자 긴급 회의를... ",
-			"pubDate":"Fri, 16 Aug 2024 10:31:00 +0900"
 		}
 	]
 }
