@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 16 Aug 2024 19:50:02 +0900",
-	"total":239373,
+	"lastBuildDate":"Fri, 16 Aug 2024 20:00:02 +0900",
+	"total":239374,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"화재 위험 파라시스 배터리, 벤츠 전기차에만 들어가",
+			"originallink":"https:\/\/www.globale.co.kr\/news\/articleView.html?idxno=30294",
+			"link":"https:\/\/www.globale.co.kr\/news\/articleView.html?idxno=30294",
+			"description":"인천 <b>청라<\/b> 아파트 화재로 논란이 된 파라시스 배터리는 벤츠 EQE 5개 차량에만 탑재됐다. 파라시스는 벤츠 EQE350+, EQE53 4매틱, EQE350 4매틱, EQE500 4매틱, EQS350에 사용된 것으로 확인됐다. 6,000~1억 원대... ",
+			"pubDate":"Fri, 16 Aug 2024 19:56:00 +0900"
+		},
 		{
 			"title":"전기차 대체재로 떠오른 '플러그인 하이브리드'…현대차·기아 '드라이브'",
 			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=664096",
@@ -173,7 +180,7 @@
 			"pubDate":"Fri, 16 Aug 2024 17:31:00 +0900"
 		},
 		{
-			"title":"&quot;3억대 들어온 아파트, 지금 7억 됐다&quot;…교통 호재에 '들썩'",
+			"title":"&quot;3억대에 들어왔는데 지금 7억&quot; 환호…집값 들썩이는 동네",
 			"originallink":"https:\/\/www.hankyung.com\/article\/2024081675641",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005022451?sid=101",
 			"description":"윤수민 농협은행 부동산전문위원은 “인천과 김포는 입주 단지가 많아 교통 여건이 개선돼야 한다”며 “인천 <b>청라<\/b> 7호선과 인천지하철 연장선까지 포함해 다양한 노선이 생기고 나면 주거 여건이 대폭 개선될 것”... ",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251742",
 			"description":"인천투데이=박규호 기자│신한은행이 지난 1일 발생한 인천시 서구 <b>청라<\/b>동 아파트 화재 피해 복구를 위해... 신한은행이 16일 인천 서구 <b>청라<\/b>동 전기차 화재 아파트 피해 복구 기금 3000만원을 기부했다.(사진제공... ",
 			"pubDate":"Fri, 16 Aug 2024 17:10:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 전기차 화재 계기 17개 브랜드 배터리 제조사 공개",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251734",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251734",
-			"description":"인천투데이=김현철 기자│인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재 사고를 계기로, 국내에서 전기차를... 지난 1일 인천 서구 <b>청라<\/b>동 소재 한 아파트 지하주차장에서 벤츠 전기차 화재가 발생해 주변 차량이... ",
-			"pubDate":"Fri, 16 Aug 2024 17:08:00 +0900"
 		}
 	]
 }
