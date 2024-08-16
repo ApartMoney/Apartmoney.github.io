@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 17 Aug 2024 05:00:02 +0900",
-	"total":239384,
+	"lastBuildDate":"Sat, 17 Aug 2024 05:10:02 +0900",
+	"total":239385,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;배터리 제조사 공개 무의미&quot;...실시간 상태 공유가 '정답'",
+			"originallink":"http:\/\/www.inews24.com\/view\/1753661",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000862566?sid=103",
+			"description":"최근 '<b>청라<\/b> 전기차 화재'로 인해 전기차 포비아(공포증)가 번지면서 완성차 업체들이 배터리 제조사 공개에 나섰다. 이런 사태를 두고 전문가들은 단순히 배터리 제조사 정보만 공개할 것이 아닌 실질적으로 화재 사고를... ",
+			"pubDate":"Sat, 17 Aug 2024 05:01:00 +0900"
+		},
 		{
 			"title":"배터리 정보 공개 꺼리던 테슬라, '결국 터졌다'. 도로 주차된 차량서 화재",
 			"originallink":"https:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=522296",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002862737?sid=100",
 			"description":"앞서 지난 1일 <b>청라<\/b>에서 발생한 전기자동차 화재 사고 이후 전기차 배터리의 안전성이 논란이 되면서... 이는 과거 60%대를 넘나들던 선호도와는 크게 차이가 나는 것으로, <b>청라<\/b> 전기자동차 화재 사고에 따른 전기차 배터리... ",
 			"pubDate":"Fri, 16 Aug 2024 17:55:00 +0900"
-		},
-		{
-			"title":"국내 판매 전기차 브랜드 21곳 69종 배터리 제조사 공개(종합2보)",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240816040002003?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014878590?sid=101",
-			"description":"인천 <b>청라<\/b> 아파트 지하주차장에서 화재가 발생한 메르세데스-벤츠 EQE를 비롯해 중국 파라시스의 배터리를 탑재한 전기차는 EQE, EQS, EQE SUV 3종으로, 모두 벤츠 전기차다. 이들 차종에는 CATL의 배터리도 쓰였다.... ",
-			"pubDate":"Fri, 16 Aug 2024 17:44:00 +0900"
 		}
 	]
 }
