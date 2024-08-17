@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 17 Aug 2024 16:30:02 +0900",
-	"total":239405,
+	"lastBuildDate":"Sat, 17 Aug 2024 16:40:02 +0900",
+	"total":239406,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 이어 용인서도 전기차 화재...테슬라 완전히 불타",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3068361",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3068361",
+			"description":"테슬라 전기차 화재 \/ 경기도소방본부 제공 인천 <b>청라<\/b> 아파트 지하주차장에서 전기차 화재로 불안감이 커진 가운데 경기 용인에서도 전기차에서 불이 나는 사고가 났다. 17일 경기도 소방재난본부에 따르면 지난 16일... ",
+			"pubDate":"Sat, 17 Aug 2024 16:38:00 +0900"
+		},
 		{
 			"title":"“주차 뒤 불 났다”… 길가 주차된 테슬라 전기차 화재",
 			"originallink":"https:\/\/www.busan.com\/view\/busan\/view.php?code=2024081714360950483",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007734352?sid=100",
 			"description":"김 의원은 &quot;최근 인천 <b>청라<\/b>에서 일어난 사고로 배터리 제조사가 전기자동차 선택에 있어 중요한 요소 중 하나가 됐다&quot;며 &quot;전기자동차 안전에 대한 신뢰성이 더욱 높아지기를 기대한다&quot;고 말했다.",
 			"pubDate":"Fri, 16 Aug 2024 20:21:00 +0900"
-		},
-		{
-			"title":"국내 전기차 중 17종 중국 배터리 사용... 21개사 69종 제조사 공개",
-			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=456490",
-			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=456490",
-			"description":"최근 인천 <b>청라<\/b>에서 발생한 전기차 대형 화재 사건 이후 소비자의 전기차 배터리에 대한 관심이 커진... 인천 <b>청라<\/b> 아파트 지하주차장에서 화재가 발생한 중국산 '파라시스' 배터리를 탑재한 모델은 △벤츠 EQE... ",
-			"pubDate":"Fri, 16 Aug 2024 20:06:00 +0900"
 		}
 	]
 }
