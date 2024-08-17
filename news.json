@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 08:20:02 +0900",
-	"total":239432,
+	"lastBuildDate":"Sun, 18 Aug 2024 08:30:02 +0900",
+	"total":239433,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울시의 전기차 화재 대응 방법, 정부도 배워야",
+			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=802955",
+			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=802955",
+			"description":"인천시 <b>청라<\/b>아파트 지하주차장에서 발생된 전기차 화재로 '전기차 포비아'가 전국적으로 번지고 있다. 이미 작년 후반부터 시작된 '전기차 캐즘'으로 전기차 판매가 줄어든 가운데 '전기차 포비아'까지 겹치면서 전기차... ",
+			"pubDate":"Sun, 18 Aug 2024 08:20:00 +0900"
+		},
 		{
 			"title":"인천환경공단, <b>청라<\/b> 전기차 화재 주민에 마스크 전달",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020430843&code=61122012&cp=nv",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004381099?sid=101",
 			"description":"인천 <b>청라<\/b> 아파트 지하주차장에서 화재가 발생한 차종(을 비롯해 중국 파라시스의 배터리를 탑재한 전기차는 △Benz EQE 350 4MATIC(연식 2023~2024) △Benz EQE 350+(2022~2024) △Benz EQE 500 4MATIC SUV(2023) △Benz EQS 350(2022)... ",
 			"pubDate":"Sat, 17 Aug 2024 13:23:00 +0900"
-		},
-		{
-			"title":"이번엔 테슬라 전기차 화재…“주차했는데 앞쪽서 불 났다”",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240817\/126561920\/2",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003582328?sid=102",
-			"description":"최근 인천 <b>청라<\/b>의 한 지하아파트에서 발생한 전기차 화재로 중국산 배터리 논란이 일자 지난 13일 정부는... <b>청라<\/b> 지하주차장에서 화재가 발생한 벤츠 전기 세단 EQE는 300 트림에만 중국 업체인 CATL의 배터리가... ",
-			"pubDate":"Sat, 17 Aug 2024 12:17:00 +0900"
 		}
 	]
 }
