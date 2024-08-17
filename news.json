@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 17 Aug 2024 13:20:02 +0900",
-	"total":239403,
+	"lastBuildDate":"Sat, 17 Aug 2024 13:30:02 +0900",
+	"total":239404,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;혹시 내 차도?&quot;…국내 판매 전기차 17종에 中 배터리 썼다",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DD1WM5X2H",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004381099?sid=101",
+			"description":"인천 <b>청라<\/b> 아파트 지하주차장에서 화재가 발생한 차종(을 비롯해 중국 파라시스의 배터리를 탑재한 전기차는 △Benz EQE 350 4MATIC(연식 2023~2024) △Benz EQE 350+(2022~2024) △Benz EQE 500 4MATIC SUV(2023) △Benz EQS 350(2022)... ",
+			"pubDate":"Sat, 17 Aug 2024 13:23:00 +0900"
+		},
 		{
 			"title":"“주차했는데 앞쪽서 불 났다”…벤츠 이어 테슬라 전기차도 화재",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240817\/126561920\/2",
@@ -82,13 +89,6 @@
 			"pubDate":"Sat, 17 Aug 2024 09:00:00 +0900"
 		},
 		{
-			"title":"[금주 산업계 주요기사] 효성 차남 조현문 &quot;공익재단 설립에 형제들 동의&quot;…L...",
-			"originallink":"http:\/\/www.youthdaily.co.kr\/news\/article.html?no=162544",
-			"link":"http:\/\/www.youthdaily.co.kr\/news\/article.html?no=162544",
-			"description":"◆ &quot;전기차 화재 불안감 확산에&quot;…현대차·기아, 배터리 제조사 공개 인천 <b>청라<\/b> 지하주차장 전기차 화재... 이들은 최근 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 사고 후 배터리 제조사 관련 문의가 쇄도하자... ",
-			"pubDate":"Sat, 17 Aug 2024 08:02:00 +0900"
-		},
-		{
 			"title":"[증시 핫피플]돌아온 이동채, 위기의 에코프로 살릴 ‘묘책’은",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01223446638988304",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005813111?sid=101",
@@ -100,6 +100,13 @@
 			"originallink":"https:\/\/www.kwnews.co.kr\/page\/view\/2024081708012287315",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/087\/0001062090?sid=102",
 			"description":"속보=지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장 화재를 비롯해 최근 전국에서 전기차 화재가 잇따라 발생해 '전기차 포비아'(phobia·공포)가 확산되고 있는가운데, 16일 오후 7시 40분께 경기 용인시 기흥구 구갈동... ",
+			"pubDate":"Sat, 17 Aug 2024 08:02:00 +0900"
+		},
+		{
+			"title":"[금주 산업계 주요기사] 효성 차남 조현문 &quot;공익재단 설립에 형제들 동의&quot;…L...",
+			"originallink":"http:\/\/www.youthdaily.co.kr\/news\/article.html?no=162544",
+			"link":"http:\/\/www.youthdaily.co.kr\/news\/article.html?no=162544",
+			"description":"◆ &quot;전기차 화재 불안감 확산에&quot;…현대차·기아, 배터리 제조사 공개 인천 <b>청라<\/b> 지하주차장 전기차 화재... 이들은 최근 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 사고 후 배터리 제조사 관련 문의가 쇄도하자... ",
 			"pubDate":"Sat, 17 Aug 2024 08:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/mbnmoney.mbn.co.kr\/news\/view?news_no=MM1005316239",
 			"description":"인천 <b>청라<\/b> 아파트 지하주차장에서 화재가 발생한 메르세데스-벤츠 EQE를 비롯해 중국 파라시스의 배터리를 탑재한 전기차는 EQE, EQS, EQE SUV 3종으로, 모두 벤츠 전기차로, 이들 차종에는 CATL의 배터리도 쓰였습니다.... ",
 			"pubDate":"Fri, 16 Aug 2024 20:06:00 +0900"
-		},
-		{
-			"title":"화재 위험 파라시스 배터리, 벤츠 전기차에만 들어가",
-			"originallink":"https:\/\/www.globale.co.kr\/news\/articleView.html?idxno=30294",
-			"link":"https:\/\/www.globale.co.kr\/news\/articleView.html?idxno=30294",
-			"description":"인천 <b>청라<\/b> 아파트 화재로 논란이 된 파라시스 배터리는 벤츠 EQE 5개 차량에만 탑재됐다. 파라시스는 벤츠 EQE350+, EQE53 4매틱, EQE350 4매틱, EQE500 4매틱, EQS350에 사용된 것으로 확인됐다. 6,000~1억 원대... ",
-			"pubDate":"Fri, 16 Aug 2024 19:56:00 +0900"
 		}
 	]
 }
