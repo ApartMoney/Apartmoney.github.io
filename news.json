@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 17 Aug 2024 16:40:02 +0900",
-	"total":239406,
+	"lastBuildDate":"Sat, 17 Aug 2024 16:50:02 +0900",
+	"total":239407,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"벤츠 이어 테슬라 전기차서 화재…&quot;충전 중 아니었다&quot;",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01439926638988304",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005813215?sid=102",
+			"description":"경찰은 곧 자세한 화재 원인 등을 조사할 예정이다. 앞서 지난 1일 오전 인천 서구 <b>청라<\/b>동 한 아파트 지하 1층 주차장 내 벤츠 전기차에서 불이 났다. 이 화재로 차량 140여대가 불에 타거나 그을리는 피해를 입었다.",
+			"pubDate":"Sat, 17 Aug 2024 16:47:00 +0900"
+		},
 		{
 			"title":"인천 이어 용인서도 전기차 화재...테슬라 완전히 불타",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3068361",
@@ -103,17 +110,17 @@
 			"pubDate":"Sat, 17 Aug 2024 09:00:00 +0900"
 		},
 		{
-			"title":"&quot;차량에 불이 났다&quot; 도로변 주차 전기차 테슬라에 불…3시간만에 큰 불 잡아",
-			"originallink":"https:\/\/www.kwnews.co.kr\/page\/view\/2024081708012287315",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/087\/0001062090?sid=102",
-			"description":"속보=지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장 화재를 비롯해 최근 전국에서 전기차 화재가 잇따라 발생해 '전기차 포비아'(phobia·공포)가 확산되고 있는가운데, 16일 오후 7시 40분께 경기 용인시 기흥구 구갈동... ",
-			"pubDate":"Sat, 17 Aug 2024 08:02:00 +0900"
-		},
-		{
 			"title":"[증시 핫피플]돌아온 이동채, 위기의 에코프로 살릴 ‘묘책’은",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01223446638988304",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005813111?sid=101",
 			"description":"최근 <b>청라<\/b>에서 발생한 벤츠 전기차 화재사건도 악재다. 장정훈 삼성증권 연구원은 “8월 들어 2차전지 업체의 주가는 업황 부진을 실감한 투자자의 매도세에 큰 낙폭을 경험했으며 부정적인 대외 변수 발생으로... ",
+			"pubDate":"Sat, 17 Aug 2024 08:02:00 +0900"
+		},
+		{
+			"title":"&quot;차량에 불이 났다&quot; 도로변 주차 전기차 테슬라에 불…3시간만에 큰 불 잡아",
+			"originallink":"https:\/\/www.kwnews.co.kr\/page\/view\/2024081708012287315",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/087\/0001062090?sid=102",
+			"description":"속보=지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장 화재를 비롯해 최근 전국에서 전기차 화재가 잇따라 발생해 '전기차 포비아'(phobia·공포)가 확산되고 있는가운데, 16일 오후 7시 40분께 경기 용인시 기흥구 구갈동... ",
 			"pubDate":"Sat, 17 Aug 2024 08:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.tjb.co.kr\/sub0301\/bodo\/view\/id\/70225",
 			"description":"인천 <b>청라<\/b>와 금산에서 전기차 화재가 잇따르면서 우려의 목소리도 커지고 있는 데요. 대전 동구가 전국... &quot; 최근 인천 <b>청라<\/b>와 금산군에서 잇따라 전기차 화재가 발생하면서 시민들의 불안감도 커진 가운데, 대전 동구청이... ",
 			"pubDate":"Fri, 16 Aug 2024 21:06:00 +0900"
-		},
-		{
-			"title":"與 김건, 전기차 배터리 실명법 대표 발의…'품명·제조사 공개' 의무화",
-			"originallink":"https:\/\/www.news1.kr\/politics\/assembly\/5513004",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007734352?sid=100",
-			"description":"김 의원은 &quot;최근 인천 <b>청라<\/b>에서 일어난 사고로 배터리 제조사가 전기자동차 선택에 있어 중요한 요소 중 하나가 됐다&quot;며 &quot;전기자동차 안전에 대한 신뢰성이 더욱 높아지기를 기대한다&quot;고 말했다.",
-			"pubDate":"Fri, 16 Aug 2024 20:21:00 +0900"
 		}
 	]
 }
