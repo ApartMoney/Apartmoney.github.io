@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 17 Aug 2024 21:00:02 +0900",
-	"total":239418,
+	"lastBuildDate":"Sat, 17 Aug 2024 21:10:02 +0900",
+	"total":239419,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘또 터질라’ 전기차 불안… 주민 간 갈등 확산 [미드나잇 이슈]",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240816509794?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003960767?sid=102",
+			"description":"이제원 선임기자 지난 1일 인천 서구 <b>청라<\/b>국제도시의 지하 주차장에서 일어난 벤츠 EQE 세단 화재로 14개동... 인천 서구 <b>청라<\/b>동의 한 아파트 단지 지하주차장에 주차된 차량들이 지난 1일 발생한 전기차 화재 사고로 인해... ",
+			"pubDate":"Sat, 17 Aug 2024 21:02:00 +0900"
+		},
 		{
 			"title":"&quot;이게 얼마 만이냐&quot;…'전기차 화재' 인천 아파트, 지하주차장 개방",
 			"originallink":"https:\/\/www.hankyung.com\/article\/2024081785477",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.youthdaily.co.kr\/news\/article.html?no=162544",
 			"description":"◆ &quot;전기차 화재 불안감 확산에&quot;…현대차·기아, 배터리 제조사 공개 인천 <b>청라<\/b> 지하주차장 전기차 화재... 이들은 최근 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 사고 후 배터리 제조사 관련 문의가 쇄도하자... ",
 			"pubDate":"Sat, 17 Aug 2024 08:02:00 +0900"
-		},
-		{
-			"title":"전기차 포비아 확산? 이번엔 주차된 테슬라 화재",
-			"originallink":"http:\/\/weekly.chosun.com\/news\/articleView.html?idxno=36571",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/053\/0000045310?sid=102",
-			"description":"인천 <b>청라<\/b> 지하주차장에서 벤츠 전기차에 갑작스럽게 화재가 발생해 큰 파장이 일고 있는 가운데 이반에는 노상에 주차되어 있는 테슬라에서 불이 나는 사고가 일어났다. 16일 소방 당국 등에 따르면 오후 7시 40분쯤 경기... ",
-			"pubDate":"Sat, 17 Aug 2024 07:23:00 +0900"
 		}
 	]
 }
