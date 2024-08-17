@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sat, 17 Aug 2024 20:30:02 +0900",
-	"total":239416,
+	"lastBuildDate":"Sat, 17 Aug 2024 20:40:02 +0900",
+	"total":239418,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'전기차 화재' 인천 아파트, 지하주차장 개방…사고 16일 만",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2024081785477",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005022627?sid=102",
+			"description":"최근 전기차 화재로 큰 피해를 본 인천 <b>청라<\/b> 아파트 단지의 지하주차장이 16일 만에 다시 개방됐다. 인천시 서구는 전기차 화재가 발생한 <b>청라<\/b>동 아파트 지하주차장 정비를 끝내고 주민들에게 개방했다고 17일 밝혔다.... ",
+			"pubDate":"Sat, 17 Aug 2024 20:33:00 +0900"
+		},
+		{
+			"title":"‘전기차 포비아’ 지속…‘중국산’ 집중보다 근본 대책 필요",
+			"originallink":"https:\/\/www.kukinews.com\/article\/view\/kuk202408170021",
+			"link":"https:\/\/www.kukinews.com\/article\/view\/kuk202408170021",
+			"description":"인천 <b>청라<\/b> 전기차 화재 이후 전기차 포비아가 확산하며 ‘중국산 배터리’에 대한 우려가 커지는 가운데 제조사는 중요하지 않다는 지적이 나온다. 지난 1일 인천 <b>청라<\/b>국제도시 한 아파트에서 지하 1층에 주차된 전기차... ",
+			"pubDate":"Sat, 17 Aug 2024 20:30:00 +0900"
+		},
 		{
 			"title":"인천 <b>청라<\/b> 전기차 화재…아파트 단지 지하주차장 재개방",
 			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2391436",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/053\/0000045310?sid=102",
 			"description":"인천 <b>청라<\/b> 지하주차장에서 벤츠 전기차에 갑작스럽게 화재가 발생해 큰 파장이 일고 있는 가운데 이반에는 노상에 주차되어 있는 테슬라에서 불이 나는 사고가 일어났다. 16일 소방 당국 등에 따르면 오후 7시 40분쯤 경기... ",
 			"pubDate":"Sat, 17 Aug 2024 07:23:00 +0900"
-		},
-		{
-			"title":"&quot;비싼 차가 정말 이래도 되는 거예요?&quot;…벤츠 차주들 '분통'",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202408166658g",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005022580?sid=103",
-			"description":"17일 관련업계에 따르면 최근 인천 <b>청라<\/b> 아파트 지하주차장에서 화재가 발생한 전기차의 수입사인 벤츠코리아는 자사 전기차에 탑재된 배터리 제조사를 공개했다. 현재 벤츠코리아가 국내에서 판매 중인 전기차... ",
-			"pubDate":"Sat, 17 Aug 2024 07:05:00 +0900"
-		},
-		{
-			"title":"용인 도로변에 주차 테슬라에서 불, 3시간만에 진화",
-			"originallink":"https:\/\/www.womennews.co.kr\/news\/articleView.html?idxno=251025",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/310\/0000118257?sid=102",
-			"description":"지난 1일 인천시 서구 <b>청라<\/b>동 아파트 지하 1층 주차장에서 메르세데스-벤츠 전기차에서 불이나 옆에 주차돼 있던 차량 87대가 불에 타고 783대가 그을리는 등의 사고로 전기차 안전에 대한 우려가 높아지고 있다.",
-			"pubDate":"Sat, 17 Aug 2024 06:38:00 +0900"
 		}
 	]
 }
