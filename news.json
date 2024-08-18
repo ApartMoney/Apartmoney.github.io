@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 20:00:02 +0900",
-	"total":239541,
+	"lastBuildDate":"Sun, 18 Aug 2024 20:10:02 +0900",
+	"total":239543,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"“화재 우려 지상 이전” vs “대책 없이 철거하나”",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240818512081?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003960934?sid=102",
+			"description":"최근 인천 <b>청라<\/b>아파트 지하주차장에서 발생한 전기차 화재로 전국의 아파트단지마다 지하의 전기차... 지난 2일 인천 서구 <b>청라<\/b> 아파트 지하 주차장 화재 현장에서 경찰과 소방 등 관계자들이 합동 감식을 하고 있다.... ",
+			"pubDate":"Sun, 18 Aug 2024 20:02:00 +0900"
+		},
+		{
+			"title":"인천 '전기차 화재'…경찰, 본격 수사 착수",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452542",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452542",
+			"description":"지난 1일 전기차 화재가 일어난 인천 서구 <b>청라<\/b>동의 한 아파트 지하주차장. 주민 23명이 연기를 마셔 병원으로 옮겨졌고, 차량 87대가 불에 타고 783대가 그을렸습니다. 지하 설비와 배관 등도 녹아 아파트 내 대규모 정전과... ",
+			"pubDate":"Sun, 18 Aug 2024 20:02:00 +0900"
+		},
 		{
 			"title":"포르투갈서도 주차장 테슬라 화재…&quot;차량 200대 이상 전소&quot;",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024081819541558185",
@@ -131,10 +145,10 @@
 			"pubDate":"Sun, 18 Aug 2024 18:10:00 +0900"
 		},
 		{
-			"title":"근거없는 규제로 `전기차 마녀사냥`",
+			"title":"근거없고 어이없는 전기차 마녀사냥",
 			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024081802109932049007&ref=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002895823?sid=101",
-			"description":"지자체, 지하주차장 금지 확산 이미 과충전 방지 기술 탑재중 전문가, 공무원 실상 무지 비판 인천 <b>청라<\/b>... 인천 <b>청라<\/b> 전기차 화재사고가 발생한 지 3주 가까이 지났지만, 지금도 전기차 커뮤니티에서는 &quot;사유재산 침해... ",
+			"description":"지자체, 지하주차 금지 확산 충전율 100% 애초에 불가능 전문가 &quot;사실상 공무원 태만&quot; 인천 <b>청라<\/b> 아파트 단지... 인천 <b>청라<\/b> 전기차 화재사고가 발생한 지 3주 가까이 지났지만, 지금도 전기차 커뮤니티에서는 &quot;사유재산 침해... ",
 			"pubDate":"Sun, 18 Aug 2024 18:05:00 +0900"
 		},
 		{
@@ -159,10 +173,10 @@
 			"pubDate":"Sun, 18 Aug 2024 17:40:00 +0900"
 		},
 		{
-			"title":"&quot;과충전과 배터리 발화 무관 셀 내부결함 가능성이 문제&quot;",
+			"title":"&quot;과충전 화재 위험 부풀려져 셀 내부결함 가능성이 문제&quot;",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/11095275",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005351671?sid=103",
-			"description":"최근 인천 <b>청라<\/b> 전기차 화재와 관련해 과충전과 발화 간 연관성을 우려하는 시각을 바로잡을 필요가 있다는... <b>청라<\/b> 사고와 관련해선 배터리셀 결함 가능성에 힘을 실었다. 그는 최근 완성차 기업들이 배터리 제조사... ",
+			"description":"최근 인천 <b>청라<\/b> 전기차 화재와 관련해 과충전과 발화 간 연관성을 우려하는 시각을 바로잡을 필요가... <b>청라<\/b> 사고와 관련해선 배터리셀 결함 가능성에 힘을 실었다. 그는 최근 완성차 기업들이 배터리 제조사 정보를... ",
 			"pubDate":"Sun, 18 Aug 2024 17:39:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=319027",
 			"description":"지난 8일 오전 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다.ㅣ연합뉴스 동 기간... ",
 			"pubDate":"Sun, 18 Aug 2024 17:08:00 +0900"
-		},
-		{
-			"title":"“전기차 배터리 정보 공개, 제조사 넘어 세부적 내용 포함돼야”",
-			"originallink":"https:\/\/economist.co.kr\/article\/view\/ecn202408180012",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000063413?sid=103",
-			"description":"또 최근 인천 <b>청라<\/b> 지하주차장에서 발생한 전기차 화재에 대해선 과충전이 전기차 배터리 화재의 결정적... 최근 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 메르세데스-벤츠 전기차 화재 원인에 대해서는 ‘배터리 셀... ",
-			"pubDate":"Sun, 18 Aug 2024 17:06:00 +0900"
-		},
-		{
-			"title":"&quot;전기차 배터리 BMS 강화 필요…화재 위험 모니터링·제어 강화해야&quot;",
-			"originallink":"http:\/\/news.tf.co.kr\/read\/economy\/2125673.htm",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000313892?sid=103",
-			"description":"윤원섭 교수는 <b>청라<\/b> 아파트단지 화재 원인에 대해 배터리 셀의 내부 결함일 것이라고 추측했다. 윤 교수는 &quot;차량이 전소됐기 때문에 원인을 알기 어렵지만 충전중인 상황이 아니었기에 셀의 내부 결함이 가장 합리적으로... ",
-			"pubDate":"Sun, 18 Aug 2024 17:01:00 +0900"
 		}
 	]
 }
