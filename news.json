@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 16:00:03 +0900",
-	"total":239503,
+	"lastBuildDate":"Sun, 18 Aug 2024 16:10:02 +0900",
+	"total":239504,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[뉴스초점] 인천 전기차 화재 수사 본격화…과실치상죄 적용될까",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20240818009300641\/?input=1825m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000677082?sid=102",
+			"description":"&lt;질문 1&gt; 인천 <b>청라<\/b>에서 발생한 벤츠 전기차 화재에 이어 이번엔 테슬라 차량에도 불이 났습니다. 다친 사람은 없었지만 진화에 난관을 겪었다고 합니다. 아직 화재 원인은 밝혀지지 않은 거죠? &lt;질문 1-1&gt; 지하주차장 화재를... ",
+			"pubDate":"Sun, 18 Aug 2024 15:59:00 +0900"
+		},
 		{
 			"title":"급증하는 전기차에 화재도 '활활'… 비전기차보다 높아",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3170424",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=785152",
 			"description":"<b>청라<\/b> 아파트 화재 전기차 2차 합동 감식 모습.\/연합뉴스 최근 5년간 전기차 1만대당 화재·폭발에 의한 사고 건수가 0.93대로 비전기차보다 많았다는 집계가 나왔다. 18일 보험개발원에 따르면 2019년부터 지난해까지... ",
 			"pubDate":"Sun, 18 Aug 2024 13:46:00 +0900"
-		},
-		{
-			"title":"인천 전기차 화재 수사 본격화…내일 3차 합동감식",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007766204&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001182360?sid=102",
-			"description":"▲ 14일 인천 서구 <b>청라<\/b> 아파트 지하 주차장. 전기차 화재로 피해를 본 차량이 옮겨진 채 검게 그을려 있다. 경찰이 '인천 전기차 화재' 사고의 원인을 밝히기 위해 최초 목격자와 벤츠 차량 소유주를 조사하는 등 본격적인... ",
-			"pubDate":"Sun, 18 Aug 2024 13:41:00 +0900"
 		}
 	]
 }
