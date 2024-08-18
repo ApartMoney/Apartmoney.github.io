@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 19:10:02 +0900",
-	"total":239531,
+	"lastBuildDate":"Sun, 18 Aug 2024 19:20:02 +0900",
+	"total":239532,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"<b>청라<\/b> 전기차 화재 본격 수사...&quot;차주·목격자 소환&quot;",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408181905051136",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002075454?sid=102",
+			"description":"[기자] 차량 80여 대가 불에 타고, 700여 대가 그을리며 아파트 전체가 쑥대밭이 됐던 인천 <b>청라<\/b> 아파트 지하주차장 화재. 새벽 6시 10분쯤부터 시작한 불은 진화까지 무려 8시간 20분이 걸리면서 20여 명이 병원에서 치료를... ",
+			"pubDate":"Sun, 18 Aug 2024 19:05:00 +0900"
+		},
 		{
 			"title":"벤츠 이어 테슬라까지…포르투갈 주차장서 전기차 화재로 200대 불탔다",
 			"originallink":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=785275",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3170424",
 			"description":"최근 인천 <b>청라<\/b> 아파트 등에서 전기차 화재가 잇따라 발생하면서 전기차의 안전성 우려가 커지는 가운데 전기차의 화재·폭발에 의한 사고 건수가 비전기차보다 많은 것으로 조사됐다. 전기차의 보급이... ",
 			"pubDate":"Sun, 18 Aug 2024 15:52:00 +0900"
-		},
-		{
-			"title":"전기차 100% 충전하면 화재 난다?…&quot;검증 안된 주장&quot;",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240817_0002852921",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012733813?sid=101",
-			"description":"&quot;벤츠 화재 원인은 셀 내부 결함 추정&quot; 윤 교수는 지난 1일 인천 <b>청라<\/b>동 아파트 지하주차장에서 불이 난 메르세데스-벤츠(이하 벤츠) 전기차 화재 원인은 셀 내부 결함으로 추정된다고 밝혔다. 윤 교수는 &quot;(차량이)... ",
-			"pubDate":"Sun, 18 Aug 2024 15:50:00 +0900"
 		}
 	]
 }
