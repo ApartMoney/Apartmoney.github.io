@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 10:20:02 +0900",
-	"total":239449,
+	"lastBuildDate":"Sun, 18 Aug 2024 10:30:02 +0900",
+	"total":239450,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[편집국에서] 미래의 자동차",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240818010004211",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240818010004211",
+			"description":"그러던 중 이달 초 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 메르세데스-벤츠 차량에서 대형화재가 발생했다. 전기차가 배터리 100% 초과 충전 시 열폭주 문제가 있다는 것은 익히 알고 있었지만, 사흘가량 주차된... ",
+			"pubDate":"Sun, 18 Aug 2024 10:28:00 +0900"
+		},
 		{
 			"title":"전기차 1만대당 화재·폭발 0.93대…&quot;비전기차보다 많아&quot;",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20240818100245734",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012733153?sid=102",
 			"description":"인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 벤츠 전기차 폭발 화재가 발생한 지 17일째를 맞은 가운데 대부분의 피해 복구가 완료됐다. 17일 서구에 따르면 이날 <b>청라<\/b>동 화재 피해 아파트 관리사무소 측은 지하주차장의... ",
 			"pubDate":"Sat, 17 Aug 2024 22:24:00 +0900"
-		},
-		{
-			"title":"‘중국산’은 무조건 위험?…“전기차 배터리 화재 국내산 무려 89%”",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20240817509705?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003960769?sid=101",
-			"description":"17일 연합뉴스TV에 따르면 지난 1일 차량 140여대를 태운 인천 <b>청라<\/b> 전기차에는 중국 파라시스사의 배터리가... 인천 <b>청라<\/b> 화재 이후 유독 중국산 배터리는 위험하다는 식의 우려가 퍼졌다. 전문가들은 &quot;어디가 좋고... ",
-			"pubDate":"Sat, 17 Aug 2024 22:02:00 +0900"
 		}
 	]
 }
