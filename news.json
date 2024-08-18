@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 16:20:02 +0900",
-	"total":239505,
+	"lastBuildDate":"Sun, 18 Aug 2024 16:30:02 +0900",
+	"total":239506,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 심야전용 '별밤버스' 24일 4개 노선으로 확대 운행",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1066005",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1066005",
+			"description":"[인천시 제공] 현재 2개 노선은 ▲N50번(송내남부역∼논현동) ▲N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)이고, 심야시간대 각각 2회씩 운행 중이다. 이들 노선은 오는 24일부터 N50번 심야버스 운행 시간과 N81번 심야버스... ",
+			"pubDate":"Sun, 18 Aug 2024 16:26:00 +0900"
+		},
 		{
 			"title":"인천 심야 전용 ‘별밤버스’ 4개 노선 확대 운행…검암-가정, 계양-검단 신설",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240818580168",
@@ -68,17 +75,17 @@
 			"pubDate":"Sun, 18 Aug 2024 15:26:00 +0900"
 		},
 		{
-			"title":"심야 전용 '별밤버스' 2→4개 노선 확대",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288546540621",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288546540621",
-			"description":"현재 2개 노선은 ▲N50번(송내남부역∼논현동) ▲N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)이고, 심야시간대 각각 2회씩 운행 중이다. 이들 노선은 오는 24일부터 N50번 심야버스 운행 시간과 N81번 심야버스 이용객 패턴을... ",
-			"pubDate":"Sun, 18 Aug 2024 15:24:00 +0900"
-		},
-		{
 			"title":"5년간 전기차 화재, 비전기차 보다 많아…&quot;긴 주행거리·급가속&quot;",
 			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2024081815142452275",
 			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2024081815142452275",
 			"description":"8일 오전 인천 서구의 한 정비소에서 지난 1일 <b>청라<\/b> 아파트 지하주차장에서 발생한 화재로 전소된 전기차가 2차 합동감식을 받기 위해 지게차에 실려 정비소 내부로 향하고 있다\/ 사진=뉴스1최근 5년간 전기차... ",
+			"pubDate":"Sun, 18 Aug 2024 15:24:00 +0900"
+		},
+		{
+			"title":"심야 전용 '별밤버스' 2→4개 노선 확대",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288546540621",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288546540621",
+			"description":"현재 2개 노선은 ▲N50번(송내남부역∼논현동) ▲N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)이고, 심야시간대 각각 2회씩 운행 중이다. 이들 노선은 오는 24일부터 N50번 심야버스 운행 시간과 N81번 심야버스 이용객 패턴을... ",
 			"pubDate":"Sun, 18 Aug 2024 15:24:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003960850?sid=102",
 			"description":"지난 2일 인천 서구 <b>청라<\/b> 아파트 지하 주차장 화재 현장에서 경찰과 소방 등 관계자들이 합동 감식을 하고 있다. 연합뉴스 경찰은 벤츠 전기차 소유주도 불러 참고인 조사를 했다. 소유주는 경찰 조사에서 &quot;지난해 전기차... ",
 			"pubDate":"Sun, 18 Aug 2024 13:56:00 +0900"
-		},
-		{
-			"title":"인천 지하주차장 전기차 화재 수사 본격화…소방시설도 확인",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240818000064",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20240818000064",
-			"description":"인천경찰청 형사기동대는 지난 1일 인천 서구 <b>청라<\/b>동 아파트 지하주차장에서 발생한 벤츠 전기차 화재의 최초 목격자와 차량 소유주를 참고인 신분으로 불러 조사했다고 18일 밝혔다. 인천 <b>청라<\/b> 아파트 지하주차장 전기차... ",
-			"pubDate":"Sun, 18 Aug 2024 13:48:00 +0900"
 		}
 	]
 }
