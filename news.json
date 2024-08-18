@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 14:10:02 +0900",
-	"total":239479,
+	"lastBuildDate":"Sun, 18 Aug 2024 14:20:02 +0900",
+	"total":239480,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"더 쪼그라든 전기차 시장",
+			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1045022",
+			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1045022",
+			"description":"앞서 지난 1일에는 인천 서구 <b>청라<\/b>동의 한 아파트 지하 주차장에서 화재가 발생한 바 있다. 인명피해는... 이외에도 인천 <b>청라<\/b> 화재에 이어 지난 16일에 경기 용인에서도 전기차 화재가 재차 발생한 데에 따라 전기차... ",
+			"pubDate":"Sun, 18 Aug 2024 14:14:00 +0900"
+		},
 		{
 			"title":"전기차 화재 잇따라…안정성 강화된 'LFP 배터리' 선호도 증가",
 			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20240818500227",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240818020103424",
 			"description":"지난 1일 인천 <b>청라<\/b> 지역 아파트서 전기차 화재 발생으로 국민 불안이 점점 커지면서 나온 조치다. 환경부는 이번 대응조직의 주관 부처이자, 전기차 및 충전시설 보급을 맡고 있는 부처로서 전기차 포비아 확산 방지에... ",
 			"pubDate":"Sun, 18 Aug 2024 10:30:00 +0900"
-		},
-		{
-			"title":"[편집국에서] 미래의 자동차",
-			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240818010004211",
-			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240818010004211",
-			"description":"그러던 중 이달 초 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 메르세데스-벤츠 차량에서 대형화재가 발생했다. 전기차가 배터리 100% 초과 충전 시 열폭주 문제가 있다는 것은 익히 알고 있었지만, 사흘가량 주차된... ",
-			"pubDate":"Sun, 18 Aug 2024 10:28:00 +0900"
 		}
 	]
 }
