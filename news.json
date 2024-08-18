@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 19 Aug 2024 00:00:02 +0900",
-	"total":239551,
+	"lastBuildDate":"Mon, 19 Aug 2024 00:10:02 +0900",
+	"total":239554,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"올해 친환경차 고전…내수도 수출도 하이브리드만 웃었다",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25271378",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003380489?sid=101",
+			"description":"전기차 캐즘 반사이익 인천 <b>청라<\/b>의 벤츠 전기차 화재에 이어 경기 용인에서도 테슬라 전기차에 불이 나면서 ‘전기차 포비아’ 움직임이 확산하고 있다. 캐즘(대중화 직전 일시적 수요 둔화)으로 어려움을 겪는... ",
+			"pubDate":"Mon, 19 Aug 2024 00:02:00 +0900"
+		},
+		{
+			"title":"&lt;사진으로 본 세상&gt; 전기차 포비아",
+			"originallink":"http:\/\/www.ilyosisa.co.kr\/news\/article.html?no=244675",
+			"link":"http:\/\/www.ilyosisa.co.kr\/news\/article.html?no=244675",
+			"description":"최근 인천 <b>청라<\/b> 소재의 한 아파트 지하주차장서 발생한 전기차 화재로 안전에 대한 경각심이 높아지고 있다. 전기차의 지하주차장 진입이 제한되고, 시민들 사이 전기차에 대한 부정적 시각이 확산되고 있다.... ",
+			"pubDate":"Mon, 19 Aug 2024 00:02:00 +0900"
+		},
+		{
+			"title":"인천 벤츠 이어 용인서 테슬라 화재…포르투갈선 전기차 불나 200대 전소",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25271357",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003380472?sid=101",
+			"description":"지난 1일 인천시 <b>청라<\/b> 벤츠 전기차 화재에 이어, 16일엔 경기도 용인에서 주차 중이던 테슬라 차량에 불이 나는 등 전기차 화재사고가 이어지고 있다. 포르투갈에서도 16일(현지시간) 리스본 움베르투 델가두 국제공항 인근... ",
+			"pubDate":"Mon, 19 Aug 2024 00:01:00 +0900"
+		},
 		{
 			"title":"[더 보다] 지하가 불안하다, 전기차 화재",
 			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8037726&ref=A",
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240819010009262",
 			"description":"윤원섭 성균관대 에너지과학과 교수 배터리 용량 100%, 실제 총량 못미쳐 소프트웨어 제어로 과충전 자동 차단 현대차 3단계 걸쳐 다중안전 체계 적용 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 배터리 화재로... ",
 			"pubDate":"Sun, 18 Aug 2024 18:22:00 +0900"
-		},
-		{
-			"title":"&quot;전기차 화재, 과충전보다 배터리셀 결함이 주 원인&quot; [인터뷰]",
-			"originallink":"http:\/\/www.inews24.com\/view\/1753995",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000862690?sid=103",
-			"description":"&quot; 최근 인천 <b>청라<\/b>에서 발생한 벤츠 전기차 화재 이후 '전기차 포비아(공포)'가 빠르게 확산하고 있는 가운데... 인천 <b>청라<\/b> 전기차 화재에 관해 과충전은 전기차 배터리 화재의 결정적 원인은 아니라고 진단하며 이렇게... ",
-			"pubDate":"Sun, 18 Aug 2024 18:10:00 +0900"
-		},
-		{
-			"title":"근거없고 어이없는 전기차 마녀사냥",
-			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024081802109932049007&ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002895823?sid=101",
-			"description":"지자체, 지하주차 금지 확산 충전율 100% 애초에 불가능 전문가 &quot;사실상 공무원 태만&quot; 인천 <b>청라<\/b> 아파트 단지... 인천 <b>청라<\/b> 전기차 화재사고가 발생한 지 3주 가까이 지났지만, 지금도 전기차 커뮤니티에서는 &quot;사유재산 침해... ",
-			"pubDate":"Sun, 18 Aug 2024 18:05:00 +0900"
-		},
-		{
-			"title":"전기차 1만대당 화재·폭발 0.93대",
-			"originallink":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=785245",
-			"link":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=785245",
-			"description":"전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트 지하 주차장 모습. \/연합뉴스 최근 5년 동안 전기차 1만대당 화재·폭발에 의한 사고 건수는 0.93대·비전기차(내연기관 등)는 0.9대로 집계됐다. 18일 보험개발원에... ",
-			"pubDate":"Sun, 18 Aug 2024 17:52:00 +0900"
 		}
 	]
 }
