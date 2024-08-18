@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 19 Aug 2024 07:40:02 +0900",
-	"total":239568,
+	"lastBuildDate":"Mon, 19 Aug 2024 07:50:02 +0900",
+	"total":239570,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[AM-PM] '을지 자유의 방패' 연습 실시…오늘부터 11일간 外",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20240819002600641\/?input=1825m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000677139?sid=102",
+			"description":"지난 1일 인천 <b>청라<\/b>의 한 아파트 지하 주차장에서 벤츠 전기차에 불이 났고, 주변 차량 수백대가 피해를 입었습니다. 오늘의 주요 일정은 여기까지입니다. 지금까지 보도국 AM-PM이었습니다.",
+			"pubDate":"Mon, 19 Aug 2024 07:43:00 +0900"
+		},
+		{
+			"title":"[위기의 배터리]②속 타는 K-배터리, '실명제' 반사이익?",
+			"originallink":"http:\/\/news.bizwatch.co.kr\/article\/industry\/2024\/08\/17\/0001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/648\/0000028280?sid=101",
+			"description":"인천 <b>청라<\/b> 전기차 화재사고 차량에 중국산 배터리가 탑재된 것으로 확인되면서 향후 국산 배터리에 대한 선호도가 높아질 것이란 기대다. 하지만 업계 및 전문가들의 시각은 그리 낙관적이지 않다. 물론 단기적... ",
+			"pubDate":"Mon, 19 Aug 2024 07:40:00 +0900"
+		},
 		{
 			"title":"주차된 전기차 택시에서 연기 뿜어져 나와…전용수조에 담가 2시간여만에 안전...",
 			"originallink":"https:\/\/www.kwnews.co.kr\/page\/view\/2024081907332979319",
@@ -180,17 +194,17 @@
 			"pubDate":"Sun, 18 Aug 2024 20:19:00 +0900"
 		},
 		{
-			"title":"“화재 우려 지상 이전” vs “대책 없이 철거하나”",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20240818512081?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003960934?sid=102",
-			"description":"최근 인천 <b>청라<\/b>아파트 지하주차장과 경기 용인시 기흥구 노상에서 잇따라 발생한 전기차 화재로 전국의 아파트단지마다 지하 전기차 충전시설 폐쇄 및 지상 이전을 놓고 주민 간 갈등이 확산하고 있다. 대구 달서구... ",
-			"pubDate":"Sun, 18 Aug 2024 20:02:00 +0900"
-		},
-		{
 			"title":"인천 '전기차 화재'…경찰, 본격 수사 착수",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452542",
 			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452542",
 			"description":"지난 1일 전기차 화재가 일어난 인천 서구 <b>청라<\/b>동의 한 아파트 지하주차장. 주민 23명이 연기를 마셔 병원으로 옮겨졌고, 차량 87대가 불에 타고 783대가 그을렸습니다. 지하 설비와 배관 등도 녹아 아파트 내 대규모 정전과... ",
+			"pubDate":"Sun, 18 Aug 2024 20:02:00 +0900"
+		},
+		{
+			"title":"“화재 우려 지상 이전” vs “대책 없이 철거하나”",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240818512081?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003960934?sid=102",
+			"description":"최근 인천 <b>청라<\/b>아파트 지하주차장과 경기 용인시 기흥구 노상에서 잇따라 발생한 전기차 화재로 전국의 아파트단지마다 지하 전기차 충전시설 폐쇄 및 지상 이전을 놓고 주민 간 갈등이 확산하고 있다. 대구 달서구... ",
 			"pubDate":"Sun, 18 Aug 2024 20:02:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005460301?sid=104",
 			"description":"지난 1일 오전에도 인천 서구 <b>청라<\/b>국제도시 A 아파트 지하 주차장에서도 주차된 벤츠 전기차에서 불이 났다. 이 불로 연기를 마신 주민 22명과 온열질환 증상을 보인 소방관 1명이 병원에서 치료받았다. 아울러 번진... ",
 			"pubDate":"Sun, 18 Aug 2024 19:57:00 +0900"
-		},
-		{
-			"title":"열대야를 잠시 잊고…",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1105286",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1105286",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 전국 곳곳에 기록적인 폭염과 열대야 현상이 이어진 지난 17일 인천시 서구 <b>청라<\/b>호수공원 음악분수를 찾은 시민들이 야간 분수쇼를 보며 더위를 식히고 있다.",
-			"pubDate":"Sun, 18 Aug 2024 19:44:00 +0900"
-		},
-		{
-			"title":"인천 지자체 &quot;문예회관 떠넘기기 못참아&quot;",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1105287",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1105287",
-			"description":"실제 서구와 계양구에는 서구 문화예술회관(951석)과 <b>청라<\/b>블루노바홀(486석), 계양문화회관(756석)이 운영 중이다. 이은희 인하대학교 소비자학과 교수는 &quot;주민들 상당수가 공연 관람을 위해 서울 등으로 빠져나가는... ",
-			"pubDate":"Sun, 18 Aug 2024 19:44:00 +0900"
 		}
 	]
 }
