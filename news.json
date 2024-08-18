@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 22:30:02 +0900",
-	"total":239547,
+	"lastBuildDate":"Sun, 18 Aug 2024 22:40:02 +0900",
+	"total":239548,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;전기차 화재 원인, 과충전 아닌 배터리 내부 결함 탓&quot;",
+			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024081822345947370",
+			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024081822345947370",
+			"description":"윤 교수는 최근 인천 <b>청라<\/b>동에서 발생한 메르세데스-벤츠 전기차 EQE 350+의 화재 원인을 배터리셀 내부의 결함 때문이라고 꼽았다. 그는 &quot;가장 합리적으로 추정할 수 있는 부분이 바로 배터리셀 내부의 결함&quot;이라며 &quot;적어도... ",
+			"pubDate":"Sun, 18 Aug 2024 22:36:00 +0900"
+		},
 		{
 			"title":"‘전기차 충전’ 곳곳서 충돌… 차주들은 “권익 침해” 반발 [미드나잇 이슈...",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240816507626?OutUrl=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005351671?sid=103",
 			"description":"최근 인천 <b>청라<\/b> 전기차 화재와 관련해 과충전과 발화 간 연관성을 우려하는 시각을 바로잡을 필요가... <b>청라<\/b> 사고와 관련해선 배터리셀 결함 가능성에 힘을 실었다. 그는 최근 완성차 기업들이 배터리 제조사 정보를... ",
 			"pubDate":"Sun, 18 Aug 2024 17:39:00 +0900"
-		},
-		{
-			"title":"[ROOKIE BCO] 루키브코 챌린지 2회 챔피언은 더 모스트, 정은후 MVP",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=100257",
-			"link":"https:\/\/m.sports.naver.com\/basketball\/article\/398\/0000080678",
-			"description":"농구전문 매거진 루키가 개최하는 '제2회 ROOKIE BCO Challenge(이하 루키브코 챌린지)'가 18일 인천광역시 서구 <b>청라<\/b>동에 위치한 하나은행 글로벌 캠퍼스 체육관에서 열렸다. 최종 우승의 영예는 더 모스트가 차지했다. 더... ",
-			"pubDate":"Sun, 18 Aug 2024 17:38:00 +0900"
 		}
 	]
 }
