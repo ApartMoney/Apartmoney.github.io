@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 21:00:02 +0900",
-	"total":239544,
+	"lastBuildDate":"Sun, 18 Aug 2024 21:10:02 +0900",
+	"total":239545,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[사설]&quot;안전이 최우선&quot; 전기차 정책 전환 필요",
+			"originallink":"http:\/\/www.gnnews.co.kr\/news\/articleView.html?idxno=560108",
+			"link":"http:\/\/www.gnnews.co.kr\/news\/articleView.html?idxno=560108",
+			"description":"최근 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재는 충격을 넘어 포비아(공포)였다. 주민 23명이... 이런 탓에 아파트 주민들사이에는 <b>청라<\/b>아파트와 같은 대형 참사가 우리 아파트에도 발생할 수 있다는 불안감이... ",
+			"pubDate":"Sun, 18 Aug 2024 21:00:00 +0900"
+		},
 		{
 			"title":"[ROOKIE BCO] 농구 열정으로 더위 녹였다! 제2회 루키브코 챌린지 성황리에 종...",
 			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=100258",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.asiatime.co.kr\/article\/20240818500045",
 			"description":"<b>청라<\/b> 화재 원인은 배터리 셀 내부 결함 가능성 높아 최근 인천 <b>청라<\/b> 지하주차장에서 발생한 전기차 화재 사건으로 배터리의 발화 원인을 두고 여러 의견이 제시되고 있다. 그 중 '배터리 과충전'이 화재의 주요 원인이라는... ",
 			"pubDate":"Sun, 18 Aug 2024 17:32:00 +0900"
-		},
-		{
-			"title":"&quot;전기차 화재 원인은 배터리 셀 결함…과충전 오해 멈춰야&quot;",
-			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=664173",
-			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=664173",
-			"description":"윤원섭 교수는 지난 16일 국내 언론사들과의 인터뷰에서 최근 인천 <b>청라<\/b> 전기차 화재 원인을 과충전에서 찾고 있는 분위기를 우려했다. 앞서 서울시는 전기차 배터리 충전량이 90% 이하일 경우에만 지하 주차장에 들어갈... ",
-			"pubDate":"Sun, 18 Aug 2024 17:20:00 +0900"
 		}
 	]
 }
