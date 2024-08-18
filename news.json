@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 23:10:02 +0900",
-	"total":239550,
+	"lastBuildDate":"Sun, 18 Aug 2024 23:20:02 +0900",
+	"total":239551,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[더 보다] 지하가 불안하다, 전기차 화재",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8037726&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011782901?sid=102",
+			"description":"<b>청라<\/b> 화재 당시 소방 관계자(음성변조) 연기랑 열기랑 폭발음이 너무 많이 들려서 지휘팀장이 대원들의 안전이 좀 우려돼서 일단 나오라고 했고, 우회해서 정문 쪽에 있는 주차장 쪽으로 다시 진입을 (했습니다.) 아파트... ",
+			"pubDate":"Sun, 18 Aug 2024 23:13:00 +0900"
+		},
 		{
 			"title":"박상우 국토교통부 장관, '전기차 특별 안전 점검' 현장 방문",
 			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=350814",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=785245",
 			"description":"전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트 지하 주차장 모습. \/연합뉴스 최근 5년 동안 전기차 1만대당 화재·폭발에 의한 사고 건수는 0.93대·비전기차(내연기관 등)는 0.9대로 집계됐다. 18일 보험개발원에... ",
 			"pubDate":"Sun, 18 Aug 2024 17:52:00 +0900"
-		},
-		{
-			"title":"신한은행, 인천 서구 <b>청라<\/b>동 아파트 화재 피해 복구기금 3천만 원 전달",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363667470",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363667470",
-			"description":"신한은행이 지난 16일 인천시청에서 서구 <b>청라<\/b>동 아파트 화재 피해 복구 지원을 위한 성금 3천만 원을... 사진=신한은행 신한은행은 지난 1일 발생한 인천시 서구 <b>청라<\/b>동 아파트 화재 피해 복구 지원을 위해 성금 3천만 원을... ",
-			"pubDate":"Sun, 18 Aug 2024 17:50:00 +0900"
 		}
 	]
 }
