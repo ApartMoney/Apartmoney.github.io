@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 15:40:02 +0900",
-	"total":239497,
+	"lastBuildDate":"Sun, 18 Aug 2024 15:50:02 +0900",
+	"total":239500,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 화재·폭발 사고 1만대당 0.93대꼴…건당 손해액 1314만원",
+			"originallink":"https:\/\/www.kfenews.co.kr\/news\/articleView.html?idxno=624637",
+			"link":"https:\/\/www.kfenews.co.kr\/news\/articleView.html?idxno=624637",
+			"description":"지난 1일 인천시 서구 <b>청라<\/b>동의 대단지 아파트 지하 주차장에서 발생한 벤츠 전기차량 폭발 사고로 주차된... 한편, 지난 1일 인천시 서구 <b>청라<\/b>동의 대단지 아파트 지하 주차장에서 발생한 벤츠 전기차량 폭발 사고로... ",
+			"pubDate":"Sun, 18 Aug 2024 15:46:00 +0900"
+		},
+		{
+			"title":"인천 전기차 화재 아파트 정상화 수순…지하주차장 개방",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452530",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1452530",
+			"description":"인천시 서구는 전기차 화재가 발생한 <b>청라<\/b>동 아파트 지하주차장 정비를 끝내고 주민들에게 개방했다고 밝혔습니다. 다만 지하주차장 내 화재 구간과 임시 지지대 설치 구역은 피해 복구가 마무리될 때까지 당분간 이용이... ",
+			"pubDate":"Sun, 18 Aug 2024 15:44:00 +0900"
+		},
+		{
+			"title":"인천 전기차 화재 수사 본격화…과실치상죄 적용하나",
+			"originallink":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=785200",
+			"link":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=785200",
+			"description":"14일 인천 서구 <b>청라<\/b> 아파트 지하 주차장. 전기차 화재로 피해를 본 차량이 옮겨진 채 검게 그을려 있다. \/연합뉴스 경찰이 '인천 전기차 화재' 사고의 원인을 밝히기 위해 최초 목격자와 벤츠 차량 소유주를 조사하는 등... ",
+			"pubDate":"Sun, 18 Aug 2024 15:40:00 +0900"
+		},
 		{
 			"title":"인천 심야전용 '별밤버스'…24일부터 4개 노선으로 확대 운행",
 			"originallink":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=87326",
@@ -12,17 +33,17 @@
 			"pubDate":"Sun, 18 Aug 2024 15:26:00 +0900"
 		},
 		{
-			"title":"심야 전용 '별밤버스' 2→4개 노선 확대",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288546540621",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288546540621",
-			"description":"현재 2개 노선은 ▲N50번(송내남부역∼논현동) ▲N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)이고, 심야시간대 각각 2회씩 운행 중이다. 이들 노선은 오는 24일부터 N50번 심야버스 운행 시간과 N81번 심야버스 이용객 패턴을... ",
-			"pubDate":"Sun, 18 Aug 2024 15:24:00 +0900"
-		},
-		{
 			"title":"5년간 전기차 화재, 비전기차 보다 많아…&quot;긴 주행거리·급가속&quot;",
 			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2024081815142452275",
 			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2024081815142452275",
 			"description":"8일 오전 인천 서구의 한 정비소에서 지난 1일 <b>청라<\/b> 아파트 지하주차장에서 발생한 화재로 전소된 전기차가 2차 합동감식을 받기 위해 지게차에 실려 정비소 내부로 향하고 있다\/ 사진=뉴스1최근 5년간 전기차... ",
+			"pubDate":"Sun, 18 Aug 2024 15:24:00 +0900"
+		},
+		{
+			"title":"심야 전용 '별밤버스' 2→4개 노선 확대",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288546540621",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288546540621",
+			"description":"현재 2개 노선은 ▲N50번(송내남부역∼논현동) ▲N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)이고, 심야시간대 각각 2회씩 운행 중이다. 이들 노선은 오는 24일부터 N50번 심야버스 운행 시간과 N81번 심야버스 이용객 패턴을... ",
 			"pubDate":"Sun, 18 Aug 2024 15:24:00 +0900"
 		},
 		{
@@ -138,7 +159,7 @@
 			"pubDate":"Sun, 18 Aug 2024 14:04:00 +0900"
 		},
 		{
-			"title":"어떻게 '783대' 차 그을렸나…경찰, '인천 전기차 화재' 수사 본격화",
+			"title":"어떻게 '793대' 차 그을렸나…경찰, '인천 전기차 화재' 수사 본격화",
 			"originallink":"https:\/\/www.moneys.co.kr\/article\/2024081813565584369",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0001021485?sid=102",
 			"description":"18일 뉴스1에 따르면 인천경찰청 형사기동대는 최근 인천 서구 <b>청라<\/b>동 벤츠 전기차 화재를 신고한 최초... 지난 1일 인천 <b>청라<\/b>의 한 아파트 지하 1층 주차구역에 세워졌던 벤츠 전기차 화재 사고로 입주민 등 23명이 단순... ",
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240816010004141",
 			"description":"현재 2개 노선은 ▲N50번(송내남부역∼논현동) ▲N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)이고, 심야시간대 각각 2회씩 운행 중이다. 이들 노선은 8월 24일부터 N50번 심야버스 운행 시간과 N81번 심야버스 이용객 패턴을... ",
 			"pubDate":"Sun, 18 Aug 2024 13:14:00 +0900"
-		},
-		{
-			"title":"이번엔 테슬라까지… ‘전기차 포비아’에 하이브리드카 상승세",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240818027574700",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240818027574700",
-			"description":"중고차 플랫폼 케이카에 따르면 인천 <b>청라<\/b> 전기차 화재 사고가 발생한 지난 1일 이후 7일간 중고 전기차 접수량은 지난달 마지막주 대비 무려 184% 증가했다. 특히 사고차량인 벤츠 EQE의 경우 지난 14일 엔카닷컴 검색 기준... ",
-			"pubDate":"Sun, 18 Aug 2024 13:12:00 +0900"
-		},
-		{
-			"title":"[기자수첩]'전기차 포비아'가 울리는 경종",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150620",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150620",
-			"description":"김명현 산업부 기자 매일일보 = 김명현 기자  |  최근 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재 사고 이후 전기차 포비아(공포) 현상이 급속히 확산하고 있다. 이에 전기차 제조사는 대외비로 통했던 배터리... ",
-			"pubDate":"Sun, 18 Aug 2024 13:10:00 +0900"
-		},
-		{
-			"title":"[ROOKIE BCO] 르브론을 좋아하는 13세 소년의 꿈 &quot;MVP 받고 싶어요&quot;",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=100250",
-			"link":"https:\/\/m.sports.naver.com\/basketball\/article\/398\/0000080673",
-			"description":"서구 <b>청라<\/b>동에 위치한 하나은행 글로벌 캠퍼스 체육관에서 '제2회 ROOKIE BCO Challenge(이하 루키브코 챌린지)'를 개최했다. 이번 루키브코 챌린지에는 처음 참가한 팀들이 몇몇 있다. 서구 <b>청라<\/b>에 위치한 농구교실인 M&amp;M... ",
-			"pubDate":"Sun, 18 Aug 2024 13:10:00 +0900"
 		}
 	]
 }
