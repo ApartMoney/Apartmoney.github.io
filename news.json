@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 23:00:02 +0900",
-	"total":239548,
+	"lastBuildDate":"Sun, 18 Aug 2024 23:10:02 +0900",
+	"total":239550,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"박상우 국토교통부 장관, '전기차 특별 안전 점검' 현장 방문",
+			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=350814",
+			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=350814",
+			"description":"앞서 지난 1일 인천 서구 <b>청라<\/b>동 아파트 지하주차장 전기차 화재로 이재민 822명이 발생했다. 현대차, 기아, 벤츠는 지난 13일부터 전기차 특별점검을 실시 중이며, 그 외 제작사들도 특별점검을 준비하고 있다. 국토부는... ",
+			"pubDate":"Sun, 18 Aug 2024 23:06:00 +0900"
+		},
+		{
+			"title":"전기차 화재 10번 중 3번은 주차장에서...'자동차 화재 최다'는 경유",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408182253028561",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002075535?sid=102",
+			"description":"[기자] 인천 <b>청라<\/b>동 아파트 주차장에 세워진 자동차들. 까만 재를 뒤집어쓴 채 철골만 가까스로 남았습니다. 지난 1일 주차돼 있던 전기차에서 불이 나면서 자동차 800여 대가 피해를 입고 아파트 전기와 물까지 끊기는... ",
+			"pubDate":"Sun, 18 Aug 2024 22:53:00 +0900"
+		},
 		{
 			"title":"&quot;전기차 화재 원인, 과충전 아닌 배터리 내부 결함 탓&quot;",
 			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024081822345947370",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363667470",
 			"description":"신한은행이 지난 16일 인천시청에서 서구 <b>청라<\/b>동 아파트 화재 피해 복구 지원을 위한 성금 3천만 원을... 사진=신한은행 신한은행은 지난 1일 발생한 인천시 서구 <b>청라<\/b>동 아파트 화재 피해 복구 지원을 위해 성금 3천만 원을... ",
 			"pubDate":"Sun, 18 Aug 2024 17:50:00 +0900"
-		},
-		{
-			"title":"[전기차 포비아] (중) 배터리 제조사 속속 공개…소비자 불안 해소 '글쎄'",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1262640",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1262640",
-			"description":"지난 1일 서구 <b>청라<\/b>동 아파트 지하 주차장에서 화재를 일으킨 '벤츠 전기차(EQE 350+)'에 탑재된 배터리는 파라시스 제품이다. 이달 8일 해당 전기차에서 '배터리 팩'을 분리하는 데 성공한 경찰과 국립과학수사연구원은... ",
-			"pubDate":"Sun, 18 Aug 2024 17:40:00 +0900"
-		},
-		{
-			"title":"&quot;과충전 화재 위험 부풀려져 셀 내부결함 가능성이 문제&quot;",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/11095275",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005351671?sid=103",
-			"description":"최근 인천 <b>청라<\/b> 전기차 화재와 관련해 과충전과 발화 간 연관성을 우려하는 시각을 바로잡을 필요가... <b>청라<\/b> 사고와 관련해선 배터리셀 결함 가능성에 힘을 실었다. 그는 최근 완성차 기업들이 배터리 제조사 정보를... ",
-			"pubDate":"Sun, 18 Aug 2024 17:39:00 +0900"
 		}
 	]
 }
