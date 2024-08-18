@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 14:00:02 +0900",
-	"total":239477,
+	"lastBuildDate":"Sun, 18 Aug 2024 14:10:02 +0900",
+	"total":239479,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 화재 잇따라…안정성 강화된 'LFP 배터리' 선호도 증가",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20240818500227",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20240818500227",
+			"description":"지난 5일 오후 인천 서구 <b>청라<\/b>동 한 아파트 지하주차장에서 화재가 발생해 전소된 벤츠 전기차가... 18일 국토부 등에 따르면 지난 1일 인천 서구 <b>청라<\/b>국제도시 아파트 지하 주차장에서 불이 붙은 벤츠 EQE의 배터리... ",
+			"pubDate":"Sun, 18 Aug 2024 14:04:00 +0900"
+		},
+		{
+			"title":"어떻게 '783대' 차 그을렸나…경찰, '인천 전기차 화재' 수사 본격화",
+			"originallink":"https:\/\/www.moneys.co.kr\/article\/2024081813565584369",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0001021485?sid=102",
+			"description":"18일 뉴스1에 따르면 인천경찰청 형사기동대는 최근 인천 서구 <b>청라<\/b>동 벤츠 전기차 화재를 신고한 최초... 지난 1일 인천 <b>청라<\/b>의 한 아파트 지하 1층 주차구역에 세워졌던 벤츠 전기차 화재 사고로 입주민 등 23명이 단순... ",
+			"pubDate":"Sun, 18 Aug 2024 13:58:00 +0900"
+		},
 		{
 			"title":"‘전기차 화재’ 스프링클러 끈 아파트 직원에 ‘과실치상’ 적용 가능할까",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240818508383?OutUrl=naver",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240818010004211",
 			"description":"그러던 중 이달 초 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 메르세데스-벤츠 차량에서 대형화재가 발생했다. 전기차가 배터리 100% 초과 충전 시 열폭주 문제가 있다는 것은 익히 알고 있었지만, 사흘가량 주차된... ",
 			"pubDate":"Sun, 18 Aug 2024 10:28:00 +0900"
-		},
-		{
-			"title":"전기차 1만대당 화재·폭발 0.93대…&quot;비전기차보다 많아&quot;",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20240818100245734",
-			"link":"https:\/\/www.ajunews.com\/view\/20240818100245734",
-			"description":"&quot;전기차 주행거리 길어 사고위험 더 많이 노출&quot; 아주경제=김정훈 기자 sjsj1633@ajunews.com 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동... ",
-			"pubDate":"Sun, 18 Aug 2024 10:12:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b> 전기차화재 수사 본격화…'과실치상죄' 적용이 핵심",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1396821\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002862906?sid=102",
-			"description":"인천 서구 <b>청라<\/b>동 아파트 지하주차장에서 발생한 전기차 화재 사고와 관련해 경찰이 원인규명을 위해 최초 목격자 및 최초 화재가 일어난 벤츠 차량 소유주를 조사하는 등 본격적인 수사에 착수했다. 화재 당시 지하... ",
-			"pubDate":"Sun, 18 Aug 2024 10:10:00 +0900"
 		}
 	]
 }
