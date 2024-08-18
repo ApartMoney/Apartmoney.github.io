@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 13:30:02 +0900",
-	"total":239472,
+	"lastBuildDate":"Sun, 18 Aug 2024 13:40:02 +0900",
+	"total":239473,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 <b>청라<\/b> 전기차 화재 수사 본격화...차주 등 소환",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408181330429237",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002075384?sid=102",
+			"description":"경찰이 인천 <b>청라<\/b>동 아파트 지하 주차장에서 났던 전기차 화재 사고의 원인 규명을 위해 차주를 소환하는 등... 지난 1일 인천 <b>청라<\/b>동의 아파트 지하주차장에 있는 벤츠 전기차에서 불이 나면서 입주민 등 23명이 병원에서... ",
+			"pubDate":"Sun, 18 Aug 2024 13:30:00 +0900"
+		},
 		{
 			"title":"인천환경공단, <b>청라<\/b> 화재 피해 복구 지원 위한 방진 마스크 1,200매 지원",
 			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20240818500197",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240818010008998",
 			"description":"이달 24일부터는 추가로 2개 노선(N80, N90번)을 신설해 순차적으로 확대 운영할 예정이다.현재 2개 노선은 △N50번(송내남부역∼논현동) △N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)이고, 심야시간대 각각 2회씩 운행 중이다.... ",
 			"pubDate":"Sun, 18 Aug 2024 09:38:00 +0900"
-		},
-		{
-			"title":"인천 전기차 화재 수사 본격화…과실치상죄 적용하나",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007766046&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001182321?sid=102",
-			"description":"▲ 14일 인천 서구 <b>청라<\/b> 아파트 지하 주차장. 전기차 화재로 피해를 본 차량이 옮겨진 채 검게 그을려 있다. 경찰이 '인천 전기차 화재' 사고의 원인을 밝히기 위해 최초 목격자와 벤츠 차량 소유주를 조사하는 등 본격적인... ",
-			"pubDate":"Sun, 18 Aug 2024 09:21:00 +0900"
 		}
 	]
 }
