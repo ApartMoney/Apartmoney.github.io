@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 19 Aug 2024 08:20:02 +0900",
-	"total":239576,
+	"lastBuildDate":"Mon, 19 Aug 2024 08:30:02 +0900",
+	"total":239577,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"태성, 주가 급락…투자경고에 '거래 정지' 우려↑",
+			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408190821278937cd1e7f0bdf_23",
+			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408190821278937cd1e7f0bdf_23",
+			"description":"연합뉴스에 따르면 이날 회의에선 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 이후... 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 불탄 차에 애초 알려진 것과 다른 제조사 배터리가 탑재된 것이 확인돼... ",
+			"pubDate":"Mon, 19 Aug 2024 08:22:00 +0900"
+		},
 		{
 			"title":"전기차 포비아 확산…벤츠 화재 사고 후 '전기차' 호감도 급락",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=606494",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024081822345947370",
 			"description":"윤 교수는 최근 인천 <b>청라<\/b>동에서 발생한 메르세데스-벤츠 전기차 EQE 350+의 화재 원인을 배터리셀 내부의 결함 때문이라고 꼽았다. 그는 &quot;가장 합리적으로 추정할 수 있는 부분이 바로 배터리셀 내부의 결함&quot;이라며 &quot;적어도... ",
 			"pubDate":"Sun, 18 Aug 2024 22:36:00 +0900"
-		},
-		{
-			"title":"‘전기차 충전’ 곳곳서 충돌… 차주들은 “권익 침해” 반발 [미드나잇 이슈...",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20240816507626?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003960966?sid=102",
-			"description":"충전율 제한·지하출입 차단 등 대책 쏟아져 소방시설 확충 나선다지만 근본 해법 없어 인천 서구 <b>청라<\/b> 아파트에서 발생한 벤츠 화재로 전기차 화재에 대한 공포감이 확산하면서 정부와 지자체가 대책을 쏟아내고 있다.... ",
-			"pubDate":"Sun, 18 Aug 2024 22:02:00 +0900"
 		}
 	]
 }
