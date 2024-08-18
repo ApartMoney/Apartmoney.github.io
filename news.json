@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 16:40:01 +0900",
-	"total":239508,
+	"lastBuildDate":"Sun, 18 Aug 2024 16:50:01 +0900",
+	"total":239511,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 전기차 화재 '구상권 청구 검토'",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1066050",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1066050",
+			"description":"인천 서구는 지난 1일 <b>청라<\/b>동 아파트에서 발생한 화재 원인과 책임 주체가 밝혀지면 원인 제공자를 상대로... 한편, 이번 화재는 지난 1일 오전 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 벤츠 전기차에서... ",
+			"pubDate":"Sun, 18 Aug 2024 16:46:00 +0900"
+		},
+		{
+			"title":"인천시, 심야전용 '별밤버스' 24일부터 4개 노선으로 확대 운행",
+			"originallink":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=3023371",
+			"link":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=3023371",
+			"description":"현재 운행 중인 '별밤버스'는 N50번(송내남부역∼논현동)과 N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)으로, 각각 심야시간대에 2회씩 운행되고 있다. 8월 24일부터는 N80번(검암역∼가정역)과 N90번(계양역∼검단신도시)이라는 두... ",
+			"pubDate":"Sun, 18 Aug 2024 16:44:00 +0900"
+		},
+		{
+			"title":"‘전기차 공포’가 ‘전기차 테러’로까지 번지는 사회···대안은 없나",
+			"originallink":"https:\/\/www.khan.co.kr\/national\/national-general\/article\/202408181641001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003315504?sid=102",
+			"description":"지난 1일 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재를 시작으로 전기차... 2년 전 테슬라 전기차를 구매한 박모씨(39)는 “<b>청라<\/b> 전기차 화재 사고는 전기차만의 문제가 아니라 주차장 내... ",
+			"pubDate":"Sun, 18 Aug 2024 16:42:00 +0900"
+		},
 		{
 			"title":"'불안한 전기차' 非전기차보다 화재·폭발 사고 많고 손해액은 1.9배",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DD2DRIBVF",
@@ -47,17 +68,17 @@
 			"pubDate":"Sun, 18 Aug 2024 15:52:00 +0900"
 		},
 		{
-			"title":"[전기차 포비아] 보험업계도 골머리…&quot;내연기관차보다 '화재·폭발' 많아&quot;",
-			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/20240818154723726bbed569d68_1\/article.html",
-			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/20240818154723726bbed569d68_1\/article.html",
-			"description":"인천 <b>청라<\/b> 화재 사고로 '전기차 포비아(공포증)'이 확산되는 가운데 실제 전기차의 화재 사고가 내연기관차보다 많은 것으로 조사됐다. 18일 보험개발원에 따르면 2019년부터 지난해까지 5년간 화재, 폭발에 의한... ",
-			"pubDate":"Sun, 18 Aug 2024 15:50:00 +0900"
-		},
-		{
 			"title":"전기차 100% 충전하면 화재 난다?…&quot;검증 안된 주장&quot;",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240817_0002852921",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012733813?sid=101",
 			"description":"&quot;벤츠 화재 원인은 셀 내부 결함 추정&quot; 윤 교수는 지난 1일 인천 <b>청라<\/b>동 아파트 지하주차장에서 불이 난 메르세데스-벤츠(이하 벤츠) 전기차 화재 원인은 셀 내부 결함으로 추정된다고 밝혔다. 윤 교수는 &quot;(차량이)... ",
+			"pubDate":"Sun, 18 Aug 2024 15:50:00 +0900"
+		},
+		{
+			"title":"[전기차 포비아] 보험업계도 골머리…&quot;내연기관차보다 '화재·폭발' 많아&quot;",
+			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/20240818154723726bbed569d68_1\/article.html",
+			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/20240818154723726bbed569d68_1\/article.html",
+			"description":"인천 <b>청라<\/b> 화재 사고로 '전기차 포비아(공포증)'이 확산되는 가운데 실제 전기차의 화재 사고가 내연기관차보다 많은 것으로 조사됐다. 18일 보험개발원에 따르면 2019년부터 지난해까지 5년간 화재, 폭발에 의한... ",
 			"pubDate":"Sun, 18 Aug 2024 15:50:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=606464",
 			"description":"현재 2개 노선은 △N50번(송내남부역∼논현동) △N81번(<b>청라<\/b>국제도시역∼<b>청라<\/b> 5단지)이고 심야시간대 각각 2회씩 운행 중이다. 이들 노선은 8월 24일부터 N50번 심야버스 운행 시간과 N81번 심야버스 이용객 패턴을 고려해... ",
 			"pubDate":"Sun, 18 Aug 2024 14:22:00 +0900"
-		},
-		{
-			"title":"인천환경공단, '<b>청라<\/b> 화재 피해 복구 지원' 방진 마스크 1200매 전달",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=606445",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=606445",
-			"description":"인천환경공단 직원이 <b>청라<\/b>동 아파트 화재 현장을 방문하여 방진 마스크를 전달하고 있다. 컨슈머타임스=안우진 기자 | 인천환경공단(이사장 최계운)은 최근 인천 <b>청라<\/b>동 아파트 화재 현장을 찾아 피해 복구 지원을 위한... ",
-			"pubDate":"Sun, 18 Aug 2024 14:20:00 +0900"
-		},
-		{
-			"title":"더 쪼그라든 전기차 시장",
-			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1045022",
-			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1045022",
-			"description":"앞서 지난 1일에는 인천 서구 <b>청라<\/b>동의 한 아파트 지하 주차장에서 화재가 발생한 바 있다. 인명피해는... 이외에도 인천 <b>청라<\/b> 화재에 이어 지난 16일에 경기 용인에서도 전기차 화재가 재차 발생한 데에 따라 전기차... ",
-			"pubDate":"Sun, 18 Aug 2024 14:14:00 +0900"
-		},
-		{
-			"title":"전기차 화재 잇따라…안정성 강화된 'LFP 배터리' 선호도 증가",
-			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20240818500227",
-			"link":"http:\/\/www.metroseoul.co.kr\/article\/20240818500227",
-			"description":"지난 5일 오후 인천 서구 <b>청라<\/b>동 한 아파트 지하주차장에서 화재가 발생해 전소된 벤츠 전기차가... 18일 국토부 등에 따르면 지난 1일 인천 서구 <b>청라<\/b>국제도시 아파트 지하 주차장에서 불이 붙은 벤츠 EQE의 배터리... ",
-			"pubDate":"Sun, 18 Aug 2024 14:04:00 +0900"
 		}
 	]
 }
