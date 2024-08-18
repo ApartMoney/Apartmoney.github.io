@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 19 Aug 2024 02:30:02 +0900",
-	"total":239556,
+	"lastBuildDate":"Mon, 19 Aug 2024 02:40:02 +0900",
+	"total":239557,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 전기차 화재 복구 마무리 수순… 수사도 본격화",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1723963410&code=11131411&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001718762?sid=102",
+			"description":"서구 <b>청라<\/b>국제도시 A아파트의 복구 작업이 마무리되고 있다. 화재 원인 및 책임 소재를 파악하기 위한 경찰 수사도 본격화하고 있다. 인천 서구는 화재 발생 이후 단수·단전됐던 <b>청라<\/b> A아파트 전체 1581세대에 정상적으로... ",
+			"pubDate":"Mon, 19 Aug 2024 02:30:00 +0900"
+		},
 		{
 			"title":"“배터리 과충전이 화재 절대적 원인 아냐”",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1723969429&code=11151400&cp=nv",
@@ -19,17 +26,17 @@
 			"pubDate":"Mon, 19 Aug 2024 00:38:00 +0900"
 		},
 		{
-			"title":"&lt;사진으로 본 세상&gt; 전기차 포비아",
-			"originallink":"http:\/\/www.ilyosisa.co.kr\/news\/article.html?no=244675",
-			"link":"http:\/\/www.ilyosisa.co.kr\/news\/article.html?no=244675",
-			"description":"최근 인천 <b>청라<\/b> 소재의 한 아파트 지하주차장서 발생한 전기차 화재로 안전에 대한 경각심이 높아지고 있다. 전기차의 지하주차장 진입이 제한되고, 시민들 사이 전기차에 대한 부정적 시각이 확산되고 있다.... ",
-			"pubDate":"Mon, 19 Aug 2024 00:02:00 +0900"
-		},
-		{
 			"title":"올해 친환경차 고전…내수도 수출도 하이브리드만 웃었다",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25271378",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003380489?sid=101",
 			"description":"전기차 캐즘 반사이익 인천 <b>청라<\/b>의 벤츠 전기차 화재에 이어 경기 용인에서도 테슬라 전기차에 불이 나면서 ‘전기차 포비아’ 움직임이 확산하고 있다. 캐즘(대중화 직전 일시적 수요 둔화)으로 어려움을 겪는... ",
+			"pubDate":"Mon, 19 Aug 2024 00:02:00 +0900"
+		},
+		{
+			"title":"&lt;사진으로 본 세상&gt; 전기차 포비아",
+			"originallink":"http:\/\/www.ilyosisa.co.kr\/news\/article.html?no=244675",
+			"link":"http:\/\/www.ilyosisa.co.kr\/news\/article.html?no=244675",
+			"description":"최근 인천 <b>청라<\/b> 소재의 한 아파트 지하주차장서 발생한 전기차 화재로 안전에 대한 경각심이 높아지고 있다. 전기차의 지하주차장 진입이 제한되고, 시민들 사이 전기차에 대한 부정적 시각이 확산되고 있다.... ",
 			"pubDate":"Mon, 19 Aug 2024 00:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005022814?sid=103",
 			"description":"인천 <b>청라<\/b> 아파트의 벤츠 전기자동차 화재가 발생한 지 보름이 지났지만 메르세데스벤츠코리아는 아직 리콜(자발적 시정 조치) 계획을 밝히지 않고 있다. 18일 업계에 따르면 벤츠코리아는 전기차 화재의 정확한 원인... ",
 			"pubDate":"Sun, 18 Aug 2024 18:37:00 +0900"
-		},
-		{
-			"title":"&quot;전기차 지하주차장 출입 금지로 해결될 문제 아냐&quot;",
-			"originallink":"https:\/\/www.hankyung.com\/article\/2024081893371",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005022809?sid=103",
-			"description":"이달 초 인천 <b>청라<\/b> 아파트에서 벤츠 전기차 화재가 발생한 이후 서울시는 전기차 충전율을 제한하는 대책을 발표했다. 하지만 전기차 과충전이나 온도 습도 등 외부 요인을 제어하는 건 해결책이 될 수 없다는 게 윤... ",
-			"pubDate":"Sun, 18 Aug 2024 18:29:00 +0900"
 		}
 	]
 }
