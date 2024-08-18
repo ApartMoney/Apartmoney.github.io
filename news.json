@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 22:00:02 +0900",
-	"total":239545,
+	"lastBuildDate":"Sun, 18 Aug 2024 22:10:02 +0900",
+	"total":239546,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘전기차 충전’ 곳곳서 충돌… 차주들은 “권익 침해” 반발 [미드나잇 이슈...",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240816507626?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003960966?sid=102",
+			"description":"충전율 제한·지하출입 차단 등 대책 쏟아져 소방시설 확충 나선다지만 근본 해법 없어 인천 서구 <b>청라<\/b> 아파트에서 발생한 벤츠 화재로 전기차 화재에 대한 공포감이 확산하면서 정부와 지자체가 대책을 쏟아내고 있다.... ",
+			"pubDate":"Sun, 18 Aug 2024 22:02:00 +0900"
+		},
 		{
 			"title":"[사설]&quot;안전이 최우선&quot; 전기차 정책 전환 필요",
 			"originallink":"http:\/\/www.gnnews.co.kr\/news\/articleView.html?idxno=560108",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003380427?sid=101",
 			"description":"인천 <b>청라<\/b>의 아파트 지하주차장에서 벤츠 전기차 화재가 발생한 데 이어 용인에서도 테슬라 전기차에 불이 나면서 ‘전기차 포비아’ 움직임이 확산하고 있다. 캐즘(대중화 직전 일시적 수요 둔화)으로 어려움을 겪는... ",
 			"pubDate":"Sun, 18 Aug 2024 17:34:00 +0900"
-		},
-		{
-			"title":"윤원섭 교수 &quot;전기차 100% 충전이 화재의 지배적 요인이라 보긴 어려워&quot;",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20240818500045",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20240818500045",
-			"description":"<b>청라<\/b> 화재 원인은 배터리 셀 내부 결함 가능성 높아 최근 인천 <b>청라<\/b> 지하주차장에서 발생한 전기차 화재 사건으로 배터리의 발화 원인을 두고 여러 의견이 제시되고 있다. 그 중 '배터리 과충전'이 화재의 주요 원인이라는... ",
-			"pubDate":"Sun, 18 Aug 2024 17:32:00 +0900"
 		}
 	]
 }
