@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 14:40:02 +0900",
-	"total":239489,
+	"lastBuildDate":"Sun, 18 Aug 2024 14:50:03 +0900",
+	"total":239490,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"배터리 전문가 윤원섭 교수 “100% 충전 위험하단 건 오해”",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/11095137",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005351564?sid=101",
+			"description":"최근 인천 <b>청라<\/b> 전기차 화재와 관련해 과충전과 발화 간 연관성을 우려하는 시각을 바로 잡을 필요가... <b>청라<\/b> 사고와 관련해선 배터리셀 결함 가능성에 힘을 실었다. 윤 교수는 “제조사가 수억 개 셀을 만들면 그중 몇... ",
+			"pubDate":"Sun, 18 Aug 2024 14:47:00 +0900"
+		},
 		{
 			"title":"신한은행, <b>청라<\/b>동 아파트 화재 피해 복구 지원 성금 3천만 원 대한적십자사에...",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1105206",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/293\/0000057575?sid=101",
 			"description":"한화건설 토목환경사업본부장 재직 당시 도봉산~옥정 광역철도 2공구 수주부터 동탄~인덕원 복선전철 9공구, 영종~신도 평화도로, 춘천~속초 철도건설 제7공구, 영종~<b>청라<\/b> 연결도로(제3연륙교) 제1공구 사업까지... ",
 			"pubDate":"Sun, 18 Aug 2024 12:00:00 +0900"
-		},
-		{
-			"title":"전기차서 불 나면 손해액 1300만원… 내연차의 ‘2배’",
-			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020431267&code=61141311&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001718609?sid=101",
-			"description":"한편 이달 1일 인천 서구 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 발생한 독일 메르세데스 벤츠 전기차 화재 사건으로 피해를 본 차주의 자차보험 처리 신청은 700대를 넘어섰다. 삼성화재의 경우 해당 사고로... ",
-			"pubDate":"Sun, 18 Aug 2024 11:56:00 +0900"
 		}
 	]
 }
