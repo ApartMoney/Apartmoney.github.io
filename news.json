@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 18 Aug 2024 16:30:02 +0900",
-	"total":239506,
+	"lastBuildDate":"Sun, 18 Aug 2024 16:40:01 +0900",
+	"total":239508,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'불안한 전기차' 非전기차보다 화재·폭발 사고 많고 손해액은 1.9배",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DD2DRIBVF",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004381249?sid=101",
+			"description":"한편 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재 사고로 피해를 본 차주들의 자동차 보험사를 상대로 한 자차담보 처리 신청은 700대를 넘어선 것으로 집계됐다. 자동차보험 시장 점유율이 28%로... ",
+			"pubDate":"Sun, 18 Aug 2024 16:38:00 +0900"
+		},
+		{
+			"title":"포비아 확산에 전문가 “과충전, 화재 이유 아냐… 배터리 밝히고 모니터링해...",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240818010009186",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240818010009186",
+			"description":"윤원섭 성균관대 에너지과학과 교수 인터뷰 &quot;배터리 과충전, 화재 지배적 원인 아니야&quot; &quot;정보 공개 확대돼야…전기차 포비아 우려&quot; 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 배터리 화재로 '포비아'가 확산한... ",
+			"pubDate":"Sun, 18 Aug 2024 16:34:00 +0900"
+		},
 		{
 			"title":"인천시, 심야전용 '별밤버스' 24일 4개 노선으로 확대 운행",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1066005",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20240818500227",
 			"description":"지난 5일 오후 인천 서구 <b>청라<\/b>동 한 아파트 지하주차장에서 화재가 발생해 전소된 벤츠 전기차가... 18일 국토부 등에 따르면 지난 1일 인천 서구 <b>청라<\/b>국제도시 아파트 지하 주차장에서 불이 붙은 벤츠 EQE의 배터리... ",
 			"pubDate":"Sun, 18 Aug 2024 14:04:00 +0900"
-		},
-		{
-			"title":"어떻게 '793대' 차 그을렸나…경찰, '인천 전기차 화재' 수사 본격화",
-			"originallink":"https:\/\/www.moneys.co.kr\/article\/2024081813565584369",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0001021485?sid=102",
-			"description":"18일 뉴스1에 따르면 인천경찰청 형사기동대는 최근 인천 서구 <b>청라<\/b>동 벤츠 전기차 화재를 신고한 최초... 지난 1일 인천 <b>청라<\/b>의 한 아파트 지하 1층 주차구역에 세워졌던 벤츠 전기차 화재 사고로 입주민 등 23명이 단순... ",
-			"pubDate":"Sun, 18 Aug 2024 13:58:00 +0900"
-		},
-		{
-			"title":"‘전기차 화재’ 스프링클러 끈 아파트 직원에 ‘과실치상’ 적용 가능할까",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20240818508383?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003960850?sid=102",
-			"description":"지난 2일 인천 서구 <b>청라<\/b> 아파트 지하 주차장 화재 현장에서 경찰과 소방 등 관계자들이 합동 감식을 하고 있다. 연합뉴스 경찰은 벤츠 전기차 소유주도 불러 참고인 조사를 했다. 소유주는 경찰 조사에서 &quot;지난해 전기차... ",
-			"pubDate":"Sun, 18 Aug 2024 13:56:00 +0900"
 		}
 	]
 }
