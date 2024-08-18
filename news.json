@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 19 Aug 2024 08:30:02 +0900",
-	"total":239577,
+	"lastBuildDate":"Mon, 19 Aug 2024 08:40:03 +0900",
+	"total":239580,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;시내버스 이용 편리&quot;…영종역 정류소, 방향별 분리 운영",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240819_0002853555",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012734264?sid=102",
+			"description":"또 영종역 경유 전체 시내버스 노선을 분석해 하늘도시·전소·공항 방향과 운북차고지·<b>청라<\/b>·예단포 방향으로 정류소를 분리하는 방안을 수립해 중구 등 유관기관의 의견수렴 절차를 거쳐 24일 첫차부터 시행할... ",
+			"pubDate":"Mon, 19 Aug 2024 08:36:00 +0900"
+		},
+		{
+			"title":"인천시, 영종역 시내버스 정류소 주요 방향별 분리 시행…“버스방향 혼동 방...",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1396953\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002863059?sid=102",
+			"description":"승객이 <b>청라<\/b> 방향 버스로 잘못 타는 일이 자주 발생하고 있다. 또 승차전용 정류소 대기공간이 협소해 출... 이와 함께 영종역 경유 전체 시내버스 노선을 분석, 하늘도시·전소·공항 방향과 운북차고지·<b>청라<\/b>·예단포... ",
+			"pubDate":"Mon, 19 Aug 2024 08:34:00 +0900"
+		},
+		{
+			"title":"영종역 정류소 버스 방향 혼동 방지 개선",
+			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20240819050049",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002351050?sid=102",
+			"description":"승객이 <b>청라<\/b> 방향 버스로 잘못 타는 일이 발생하고 있다. 또 승차전용 정류소 대기공간이 협소해 출·퇴근... 영종역 경유 전체 시내버스 노선을 분석해 하늘도시·전소·공항 방향과 운북차고지·<b>청라<\/b>·예단포 방향으로... ",
+			"pubDate":"Mon, 19 Aug 2024 08:32:00 +0900"
+		},
 		{
 			"title":"태성, 주가 급락…투자경고에 '거래 정지' 우려↑",
 			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408190821278937cd1e7f0bdf_23",
@@ -40,17 +61,17 @@
 			"pubDate":"Mon, 19 Aug 2024 08:02:00 +0900"
 		},
 		{
-			"title":"&quot;전기차만 위험(?)&quot;…에어컨 실외기 화재 '주의보'",
-			"originallink":"http:\/\/www.youthdaily.co.kr\/news\/article.html?no=162647",
-			"link":"http:\/\/www.youthdaily.co.kr\/news\/article.html?no=162647",
-			"description":"지난 3년간 '에어컨·실외기'로 인한 화재 총 842건 부산시 '실외기 조례' 재정…철저한 기기관리 당부  최근 인천 <b>청라<\/b>에서 발생한 전기차 화재에 이어 여름철 사용량이 급증하고 있는 에어컨 및 실외기로 인한 화재도... ",
-			"pubDate":"Mon, 19 Aug 2024 08:00:00 +0900"
-		},
-		{
 			"title":"CATL과 파라시스로 유명세 치룬 중국산 배터리의 명과 암",
 			"originallink":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=305328",
 			"link":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=305328",
 			"description":"인천시 <b>청라<\/b>동을 비롯해 전국에서 잇따라 발생하고 있는 전기차 화재 때문이다. 현 시점에서 전기차 화재... 8월 초 인천시 <b>청라<\/b>동에서 발생한 메르세데스-벤츠의 전기차 화재로 인해 현재 국내에서 판매 중인... ",
+			"pubDate":"Mon, 19 Aug 2024 08:00:00 +0900"
+		},
+		{
+			"title":"&quot;전기차만 위험(?)&quot;…에어컨 실외기 화재 '주의보'",
+			"originallink":"http:\/\/www.youthdaily.co.kr\/news\/article.html?no=162647",
+			"link":"http:\/\/www.youthdaily.co.kr\/news\/article.html?no=162647",
+			"description":"지난 3년간 '에어컨·실외기'로 인한 화재 총 842건 부산시 '실외기 조례' 재정…철저한 기기관리 당부  최근 인천 <b>청라<\/b>에서 발생한 전기차 화재에 이어 여름철 사용량이 급증하고 있는 에어컨 및 실외기로 인한 화재도... ",
 			"pubDate":"Mon, 19 Aug 2024 08:00:00 +0900"
 		},
 		{
@@ -103,7 +124,7 @@
 			"pubDate":"Mon, 19 Aug 2024 06:16:00 +0900"
 		},
 		{
-			"title":"지하서 쫓겨나는 전기차…&quot;지하화 전제로 대책 세워야&quot;",
+			"title":"쫓겨나는 전기차…&quot;과충전 예방 등 지하화 전제 대책 세워야&quot;",
 			"originallink":"https:\/\/www.news1.kr\/society\/general-society\/5513050",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007736501?sid=102",
 			"description":"인천 <b>청라<\/b>국제도시 지하주차장에서 발생한 전기차 화재로 전국에서 전기차의 지하 주차장 이용이 제한되는 모습이다. 전문가들은 일률적으로 전기차 시설의 지상화를 추진하기에는 무리가 따르는 만큼 지하 공간... ",
@@ -192,27 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011782901?sid=102",
 			"description":"<b>청라<\/b> 화재 당시 소방 관계자(음성변조) 연기랑 열기랑 폭발음이 너무 많이 들려서 지휘팀장이 대원들의 안전이 좀 우려돼서 일단 나오라고 했고, 우회해서 정문 쪽에 있는 주차장 쪽으로 다시 진입을 (했습니다.) 아파트... ",
 			"pubDate":"Sun, 18 Aug 2024 23:13:00 +0900"
-		},
-		{
-			"title":"박상우 국토교통부 장관, '전기차 특별 안전 점검' 현장 방문",
-			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=350814",
-			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=350814",
-			"description":"앞서 지난 1일 인천 서구 <b>청라<\/b>동 아파트 지하주차장 전기차 화재로 이재민 822명이 발생했다. 현대차, 기아, 벤츠는 지난 13일부터 전기차 특별점검을 실시 중이며, 그 외 제작사들도 특별점검을 준비하고 있다. 국토부는... ",
-			"pubDate":"Sun, 18 Aug 2024 23:06:00 +0900"
-		},
-		{
-			"title":"전기차 화재 10번 중 3번은 주차장에서...'자동차 화재 최다'는 경유",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408182253028561",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002075535?sid=102",
-			"description":"[기자] 인천 <b>청라<\/b>동 아파트 주차장에 세워진 자동차들. 까만 재를 뒤집어쓴 채 철골만 가까스로 남았습니다. 지난 1일 주차돼 있던 전기차에서 불이 나면서 자동차 800여 대가 피해를 입고 아파트 전기와 물까지 끊기는... ",
-			"pubDate":"Sun, 18 Aug 2024 22:53:00 +0900"
-		},
-		{
-			"title":"&quot;전기차 화재 원인, 과충전 아닌 배터리 내부 결함 탓&quot;",
-			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024081822345947370",
-			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024081822345947370",
-			"description":"윤 교수는 최근 인천 <b>청라<\/b>동에서 발생한 메르세데스-벤츠 전기차 EQE 350+의 화재 원인을 배터리셀 내부의 결함 때문이라고 꼽았다. 그는 &quot;가장 합리적으로 추정할 수 있는 부분이 바로 배터리셀 내부의 결함&quot;이라며 &quot;적어도... ",
-			"pubDate":"Sun, 18 Aug 2024 22:36:00 +0900"
 		}
 	]
 }
