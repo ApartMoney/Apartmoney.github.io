@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Mon, 19 Aug 2024 10:10:02 +0900",
-	"total":239605,
+	"lastBuildDate":"Mon, 19 Aug 2024 10:20:02 +0900",
+	"total":239609,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;전기차 배터리 과충전, 화재 결정적 원인 아니야…오해 멈춰야&quot;",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202408190187g",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005022940?sid=103",
+			"description":"지난 1일 발생한 인천 서구 <b>청라<\/b> 아파트 지하 주차장에서 발생한 벤츠 전기차 화재 이후 지하 주차장 진입 금지나, 충전율 제한 조치 등의 대책이 오히려 대중의 불안을 부추기는 측면이 있다는 지적이다. 일례로... ",
+			"pubDate":"Mon, 19 Aug 2024 10:13:00 +0900"
+		},
+		{
+			"title":"전기차 전략 세우는 보험사들…충전소 보험 의무화 논의도",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024081909594042996",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005460512?sid=101",
+			"description":"최근 인천 <b>청라<\/b> 아파트 전기차 화재에 이어 경기도 용인에서도 주차 중이던 테슬라 차량에 불이 나는 등... 삼성화재는 지난 14일 진행된 실적 발표 컨퍼런스콜에서 <b>청라<\/b>지구 전기차 화재와 관련해 360건의 화재 접수가... ",
+			"pubDate":"Mon, 19 Aug 2024 10:11:00 +0900"
+		},
+		{
+			"title":"현대차, '전기차 공포증' 잠재우나…캐스퍼 일렉트릭 출고 앞두고 배터리 품질...",
+			"originallink":"http:\/\/www.wikileaks-kr.org\/news\/articleView.html?idxno=157026",
+			"link":"http:\/\/www.wikileaks-kr.org\/news\/articleView.html?idxno=157026",
+			"description":"19일 자동차업계에 따르면 현대자동차그룹은 인천 <b>청라<\/b> 아파트 전기차 배터리 화재로 촉발된 '전기차 공포증'을 잠재우기 위해 탑재 배터리 전수검사를 진행했다. 캐스퍼 일렉트릭은 지난달에 양산이 시작됐고 이르면... ",
+			"pubDate":"Mon, 19 Aug 2024 10:10:00 +0900"
+		},
+		{
+			"title":"영종역 버스정류소 이용체계 개선... 24일부터 시행",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103490",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103490",
+			"description":"방향과 '운북차고지·<b>청라<\/b>·예단포' 방향으로 정류소를 분리 운영하는 방안을 수립했다. 하차전용이던 영종역사 앞 정류소는 '운북차고지·<b>청라<\/b>·예단포' 방향 승차, 승차전용이던 영종역사 건너편 정류소는 '하늘도시... ",
+			"pubDate":"Mon, 19 Aug 2024 10:10:00 +0900"
+		},
 		{
 			"title":"인천 영종역, 24일부터 노선별 버스정류소 분리 운영",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01731846638988960",
@@ -185,34 +213,6 @@
 			"link":"https:\/\/www.safetynews.co.kr\/news\/articleView.html?idxno=231721",
 			"description":"인천 <b>청라<\/b>지역 대단지 아파트 지하주차장에서 지난 1일 발생한 전기차 화재는 주차돼 있던 차량 40대가 불에 타고 100여대가 피해를 당하는 등 상상을 초월하면서 사회적 공포심리가 확산되고 있다. 현장 폐쇄회로(CC)TV... ",
 			"pubDate":"Mon, 19 Aug 2024 08:52:00 +0900"
-		},
-		{
-			"title":"&quot;시내버스 이용 편리&quot;…영종역 정류소, 방향별 분리 운영",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240819_0002853555",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012734264?sid=102",
-			"description":"또 영종역 경유 전체 시내버스 노선을 분석해 하늘도시·전소·공항 방향과 운북차고지·<b>청라<\/b>·예단포 방향으로 정류소를 분리하는 방안을 수립해 중구 등 유관기관의 의견수렴 절차를 거쳐 24일 첫차부터 시행할... ",
-			"pubDate":"Mon, 19 Aug 2024 08:36:00 +0900"
-		},
-		{
-			"title":"인천시, 영종역 시내버스 정류소 주요 방향별 분리 시행…“버스방향 혼동 방...",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1396953\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002863059?sid=102",
-			"description":"승객이 <b>청라<\/b> 방향 버스로 잘못 타는 일이 자주 발생하고 있다. 또 승차전용 정류소 대기공간이 협소해 출... 이와 함께 영종역 경유 전체 시내버스 노선을 분석, 하늘도시·전소·공항 방향과 운북차고지·<b>청라<\/b>·예단포... ",
-			"pubDate":"Mon, 19 Aug 2024 08:34:00 +0900"
-		},
-		{
-			"title":"영종역 정류소 버스 방향 혼동 방지 개선",
-			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20240819050049",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002351050?sid=102",
-			"description":"승객이 <b>청라<\/b> 방향 버스로 잘못 타는 일이 발생하고 있다. 또 승차전용 정류소 대기공간이 협소해 출·퇴근... 영종역 경유 전체 시내버스 노선을 분석해 하늘도시·전소·공항 방향과 운북차고지·<b>청라<\/b>·예단포 방향으로... ",
-			"pubDate":"Mon, 19 Aug 2024 08:32:00 +0900"
-		},
-		{
-			"title":"태성, 주가 급락…투자경고에 '거래 정지' 우려↑",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408190821278937cd1e7f0bdf_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408190821278937cd1e7f0bdf_23",
-			"description":"연합뉴스에 따르면 이날 회의에선 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 이후... 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 불탄 차에 애초 알려진 것과 다른 제조사 배터리가 탑재된 것이 확인돼... ",
-			"pubDate":"Mon, 19 Aug 2024 08:22:00 +0900"
 		}
 	]
 }
