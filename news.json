@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 19 Aug 2024 08:50:01 +0900",
-	"total":239580,
+	"lastBuildDate":"Mon, 19 Aug 2024 09:00:02 +0900",
+	"total":239583,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 독서대전 사전행사 '우리동네 미리대전' 운영",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251768",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251768",
+			"description":"'2024 인천 독서대전' 본 행사는 9월 28일부터 29일까지 서구 <b>청라<\/b>호수공원 야외음악당 일대와 <b>청라<\/b>호수도서관에서 '책, 인간다움을 읽다'라는 주제로 열린다. 강연, 포럼, 토론, 공연, 체험행사 등 다양한 프로그램이... ",
+			"pubDate":"Mon, 19 Aug 2024 08:54:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> 벤츠 화재 후 전기차 호감도 35% 떨어져",
+			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=664186",
+			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=664186",
+			"description":"지난 1일 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 메르세데스-벤츠 EQE 350+ 전기차 화재 사건 이후, 전기차에 대한 소비자들의 호감도가 크게 하락한 것으로 나타났다. 여론조사기관 데이터앤리서치의 빅데이터... ",
+			"pubDate":"Mon, 19 Aug 2024 08:54:00 +0900"
+		},
+		{
+			"title":"전기차 화재 '공포' 확산, 주차·충전시설 안전대책 절실",
+			"originallink":"https:\/\/www.safetynews.co.kr\/news\/articleView.html?idxno=231721",
+			"link":"https:\/\/www.safetynews.co.kr\/news\/articleView.html?idxno=231721",
+			"description":"인천 <b>청라<\/b>지역 대단지 아파트 지하주차장에서 지난 1일 발생한 전기차 화재는 주차돼 있던 차량 40대가 불에 타고 100여대가 피해를 당하는 등 상상을 초월하면서 사회적 공포심리가 확산되고 있다. 현장 폐쇄회로(CC)TV... ",
+			"pubDate":"Mon, 19 Aug 2024 08:52:00 +0900"
+		},
 		{
 			"title":"&quot;시내버스 이용 편리&quot;…영종역 정류소, 방향별 분리 운영",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240819_0002853555",
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.ilyosisa.co.kr\/news\/article.html?no=244675",
 			"description":"최근 인천 <b>청라<\/b> 소재의 한 아파트 지하주차장서 발생한 전기차 화재로 안전에 대한 경각심이 높아지고 있다. 전기차의 지하주차장 진입이 제한되고, 시민들 사이 전기차에 대한 부정적 시각이 확산되고 있다.... ",
 			"pubDate":"Mon, 19 Aug 2024 00:02:00 +0900"
-		},
-		{
-			"title":"올해 친환경차 고전…내수도 수출도 하이브리드만 웃었다",
-			"originallink":"https:\/\/www.joongang.co.kr\/article\/25271378",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003380489?sid=101",
-			"description":"전기차 캐즘 반사이익 인천 <b>청라<\/b>의 벤츠 전기차 화재에 이어 경기 용인에서도 테슬라 전기차에 불이 나면서 ‘전기차 포비아’ 움직임이 확산하고 있다. 캐즘(대중화 직전 일시적 수요 둔화)으로 어려움을 겪는... ",
-			"pubDate":"Mon, 19 Aug 2024 00:02:00 +0900"
-		},
-		{
-			"title":"인천 벤츠 이어 용인서 테슬라 화재…포르투갈선 전기차 불나 200대 전소",
-			"originallink":"https:\/\/www.joongang.co.kr\/article\/25271357",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003380472?sid=101",
-			"description":"지난 1일 인천시 <b>청라<\/b> 벤츠 전기차 화재에 이어, 16일엔 경기도 용인에서 주차 중이던 테슬라 차량에 불이 나는 등 전기차 화재사고가 이어지고 있다. 포르투갈에서도 16일(현지시간) 리스본 움베르투 델가두 국제공항 인근... ",
-			"pubDate":"Mon, 19 Aug 2024 00:01:00 +0900"
-		},
-		{
-			"title":"[더 보다] 지하가 불안하다, 전기차 화재",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8037726&ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011782901?sid=102",
-			"description":"<b>청라<\/b> 화재 당시 소방 관계자(음성변조) 연기랑 열기랑 폭발음이 너무 많이 들려서 지휘팀장이 대원들의 안전이 좀 우려돼서 일단 나오라고 했고, 우회해서 정문 쪽에 있는 주차장 쪽으로 다시 진입을 (했습니다.) 아파트... ",
-			"pubDate":"Sun, 18 Aug 2024 23:13:00 +0900"
 		}
 	]
 }
