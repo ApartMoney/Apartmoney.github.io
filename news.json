@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Mon, 19 Aug 2024 19:00:02 +0900",
-	"total":239856,
+	"lastBuildDate":"Mon, 19 Aug 2024 19:10:02 +0900",
+	"total":239860,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울시, 충전 끝난 전기차 안 빼면 ‘1분에 500원’ 추진",
+			"originallink":"https:\/\/biz.chosun.com\/topics\/topics_social\/2024\/08\/19\/ADJAK7S4TFAA3FKLTNWMATL5HI\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0001012622?sid=102",
+			"description":"앞서 서울시는 인천 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 주차돼 있던 전기차에서 화재가 발생한 것을 계기로 지난 9일 화재 방지 대책을 발표했다. 공동주택 지하주차장에 90% 이하로 충전을 제한한 전기차만... ",
+			"pubDate":"Mon, 19 Aug 2024 19:07:00 +0900"
+		},
+		{
+			"title":"전기차·충전시설 화재, '방화구획'으로 잡는다",
+			"originallink":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=557138",
+			"link":"http:\/\/www.hidomin.com\/news\/articleView.html?idxno=557138",
+			"description":"이는 인천 <b>청라<\/b>국제도시에서 발생한 피해가 포함되지 않은 것으로, 올해 총 피해액은 예년보다 훨씬 클 것으로 전망된다. 김위상 의원은 &quot;건물 내 전기차 충전시설과 주차장이 방화구획 체계에 편입되면, 인천 <b>청라<\/b>... ",
+			"pubDate":"Mon, 19 Aug 2024 19:04:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b> 화재, 피해가구 살림살이 보상 어렵다",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363667648",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363667648",
+			"description":"지난 1일 전기차 화재 피해가 발생한 인천 서구 <b>청라<\/b>국제도시 제일풍경채 2차 아파트 지하주차장의 12일 모습. 장수빈 인턴기자 인천 서구 <b>청라<\/b> 제일풍경채 2차 아파트에서 발생한 전기차 화재로 많은 세대가 피해를... ",
+			"pubDate":"Mon, 19 Aug 2024 19:00:00 +0900"
+		},
+		{
+			"title":"하나금융, 의류 기부 캠페인 '쿨쿨옷장' 통해 '자원 선순환' 돕는다",
+			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=232837",
+			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=232837",
+			"description":"이번 '쿨쿨옷장'은 을지로, 명동, <b>청라<\/b>, 여의도, 강남 사옥 등 하나금융의 모든 사옥에 설치된 의류 기부함을 통해 임직원 및 손님 누구나 참여 가능하며, 하나은행 대표 모바일 앱 '하나원큐' 이벤트 페이지를 통해 모바일... ",
+			"pubDate":"Mon, 19 Aug 2024 19:00:00 +0900"
+		},
 		{
 			"title":"태백산 검단점, <b>청라<\/b>아파트 화재피해 주민에 우족탕 지원",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=468489",
@@ -82,17 +110,17 @@
 			"pubDate":"Mon, 19 Aug 2024 18:00:00 +0900"
 		},
 		{
-			"title":"전기차 캐즘·화재 후폭풍에도 … 車업계 안전한 신차로 정면돌파",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/11096246",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005352297?sid=103",
-			"description":"인천 <b>청라<\/b> 전기차 화재로 전기차 포비아(공포증)가 확산하고 있지만, 현대차그룹을 비롯한 완성차 업계는 전동화 전환 속도를 늦추지 않는다는 방침이다. 전동화 속도를 늦출 경우 빠르게 성장하는 중국 전기차 업계에... ",
-			"pubDate":"Mon, 19 Aug 2024 17:58:00 +0900"
-		},
-		{
 			"title":"야외충전소 많은 비수도권, 전기차 보조금 신청 쑥",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/11096247",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005352298?sid=103",
 			"description":"화재에도 보조금 접수 23%↑ 아산·김해·나주 등 19곳 마감 ◆ 전기차 포비아 ◆ 인천 <b>청라<\/b> 전기차 화재 사고 이후 전기차 포비아(공포증)가 무차별적으로 확산하고 있는 와중에도 올해 전기차 신규 수요는 일반... ",
+			"pubDate":"Mon, 19 Aug 2024 17:58:00 +0900"
+		},
+		{
+			"title":"전기차 캐즘·화재 후폭풍에도 … 車업계 안전한 신차로 정면돌파",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/11096246",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005352297?sid=103",
+			"description":"인천 <b>청라<\/b> 전기차 화재로 전기차 포비아(공포증)가 확산하고 있지만, 현대차그룹을 비롯한 완성차 업계는 전동화 전환 속도를 늦추지 않는다는 방침이다. 전동화 속도를 늦출 경우 빠르게 성장하는 중국 전기차 업계에... ",
 			"pubDate":"Mon, 19 Aug 2024 17:58:00 +0900"
 		},
 		{
@@ -138,17 +166,17 @@
 			"pubDate":"Mon, 19 Aug 2024 17:50:00 +0900"
 		},
 		{
-			"title":"시진핑 권력이 강화될수록 악화되는 중국 경제 | “親中 인사들의 호들갑에 겁...",
-			"originallink":"http:\/\/monthly.chosun.com\/client\/news\/viw.asp?ctcd=D&nNewsNumb=202409100021",
-			"link":"http:\/\/monthly.chosun.com\/client\/news\/viw.asp?ctcd=D&nNewsNumb=202409100021",
-			"description":"서구 <b>청라<\/b>의 한 아파트 지하 1층 주차장에 세워져 있던 벤츠 전기차에서 화재가 난 것이다. 이 사고로 차량 140여 대가 피해를 입고 주민 103명이 대피했다. 이 불로 지하에 있던 전기배선과 수도관까지 다 타버려서, 아파트... ",
-			"pubDate":"Mon, 19 Aug 2024 17:46:00 +0900"
-		},
-		{
 			"title":"하나금융 의류 기부 캠페인 '쿨쿨옷장' 실시, 9월6일부터 3주 간 진행",
 			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=362738",
 			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=362738",
 			"description":"을지로, 명동, <b>청라<\/b>, 여의도, 강남 사옥 등 하나금융그룹의 모든 사옥에 설치된 의류 기부함을 통해 임직원 및 손님 누구나 참여할 수 있다. 하나은행 대표 모바일 앱 '하나원큐' 이벤트 페이지에서 모바일 신청과 무료... ",
+			"pubDate":"Mon, 19 Aug 2024 17:46:00 +0900"
+		},
+		{
+			"title":"시진핑 권력이 강화될수록 악화되는 중국 경제 | “親中 인사들의 호들갑에 겁...",
+			"originallink":"http:\/\/monthly.chosun.com\/client\/news\/viw.asp?ctcd=D&nNewsNumb=202409100021",
+			"link":"http:\/\/monthly.chosun.com\/client\/news\/viw.asp?ctcd=D&nNewsNumb=202409100021",
+			"description":"서구 <b>청라<\/b>의 한 아파트 지하 1층 주차장에 세워져 있던 벤츠 전기차에서 화재가 난 것이다. 이 사고로 차량 140여 대가 피해를 입고 주민 103명이 대피했다. 이 불로 지하에 있던 전기배선과 수도관까지 다 타버려서, 아파트... ",
 			"pubDate":"Mon, 19 Aug 2024 17:46:00 +0900"
 		},
 		{
@@ -173,13 +201,6 @@
 			"pubDate":"Mon, 19 Aug 2024 17:34:00 +0900"
 		},
 		{
-			"title":"하나금융그룹, 의류 기부 캠페인 '쿨쿨옷장' 개최",
-			"originallink":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=87430",
-			"link":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=87430",
-			"description":"이번 쿨쿨옷장은 서울 을지로, 명동, 여의도, 강남 사옥과 인천 <b>청라<\/b> 등 하나금융의 모든 사옥에 설치된 의류 기부함을 활용한다. 임직원과 손님 누구나 참여 가능하며 하나은행 모바일 앱 '하나원큐' 이벤트 페이지에서... ",
-			"pubDate":"Mon, 19 Aug 2024 17:30:00 +0900"
-		},
-		{
 			"title":"전기차 부진에 화재까지 '설상가상'…SK온 사장 &quot;지켜보자&quot;",
 			"originallink":"http:\/\/theviewers.co.kr\/View.aspx?No=3337839",
 			"link":"http:\/\/theviewers.co.kr\/View.aspx?No=3337839",
@@ -187,32 +208,11 @@
 			"pubDate":"Mon, 19 Aug 2024 17:30:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b> 벤츠 전기차 화재, 3차 감식…이번에 발화점 나올까",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240819_0002854740",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012736089?sid=102",
-			"description":"인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 발생한 '벤츠 전기차 폭발 화재'의 정확한 원인 규명을 위해... 함께 <b>청라<\/b>동 화재 전기차량의 배터리 '팩'을 분해하는 등 3차 감식을 실시했다. 경찰 등은 배터리 '모듈'과... ",
-			"pubDate":"Mon, 19 Aug 2024 17:29:00 +0900"
-		},
-		{
-			"title":"하나금융, 의류 기부 캠페인 '쿨쿨옷장' 실시",
-			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=210218",
-			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=210218",
-			"description":"이번 '쿨쿨옷장'은 을지로, 명동, <b>청라<\/b>, 여의도, 강남 사옥 등 하나금융그룹의 모든 사옥에 설치된 의류 기부함을 통해 임직원 및 손님 누구나 참여 가능합니다. 하나은행 대표 모바일 앱 '하나원큐' 이벤트 페이지를 통해... ",
-			"pubDate":"Mon, 19 Aug 2024 17:22:00 +0900"
-		},
-		{
-			"title":"“포르투갈서 전기차 화재로 차량 200여대 불타”",
-			"originallink":"https:\/\/www.donga.com\/news\/Inter\/article\/all\/20240819\/126587750\/2",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003582586?sid=104",
-			"description":"지난 1일 인천 서구 <b>청라<\/b>동 한 아파트 지하주차장에서는 주차돼 있던 벤츠 전기차에서 불이 나 주변 차량 140여 대가 불타고 주민 120여 명이 대피했다. 19일 경찰과 소방 당국은 해당 화재의 정확한 원인을 밝히기 위해 3차... ",
-			"pubDate":"Mon, 19 Aug 2024 17:21:00 +0900"
-		},
-		{
-			"title":"캐즘에 화재까지 ‘설상가상’ 전기차…2차전지 1조 물탄 개미 속도 타네",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DD2T7IWFS",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004381704?sid=101",
-			"description":"이달 1일 인천 <b>청라<\/b> 벤츠 전기차 화재에 이어 16일에는 경기 용인에서 주차 중이던 테슬라 차량에 불이 났고 포르투갈에서도 16일(현지 시간) 국제공항 인근 주차장에서 전기차 발화 추정 화재로 차량 200여 대가... ",
-			"pubDate":"Mon, 19 Aug 2024 17:21:00 +0900"
+			"title":"하나금융그룹, 의류 기부 캠페인 '쿨쿨옷장' 개최",
+			"originallink":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=87430",
+			"link":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=87430",
+			"description":"이번 쿨쿨옷장은 서울 을지로, 명동, 여의도, 강남 사옥과 인천 <b>청라<\/b> 등 하나금융의 모든 사옥에 설치된 의류 기부함을 활용한다. 임직원과 손님 누구나 참여 가능하며 하나은행 모바일 앱 '하나원큐' 이벤트 페이지에서... ",
+			"pubDate":"Mon, 19 Aug 2024 17:30:00 +0900"
 		}
 	]
 }
