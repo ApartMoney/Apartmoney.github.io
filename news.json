@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 19 Aug 2024 18:20:02 +0900",
-	"total":239849,
+	"lastBuildDate":"Mon, 19 Aug 2024 18:30:02 +0900",
+	"total":239852,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[위키뉴스] &quot;우린 과충전 화재 0%&quot; 현대차가 자신있게 공개한 배터리 안전기술...",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/976345",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/976345",
+			"description":"최근 인천 <b>청라<\/b>에서 발생한 벤츠 전기차 배터리 화재로 국내 소비자들의 불안감이 점점 커지고 있는데요. 이에 현대자동차그룹은 15일, 현대차만의 배터리 안전 관리 시스템인 BMS(Battery Management System)를 공개하며 모든... ",
+			"pubDate":"Mon, 19 Aug 2024 18:28:00 +0900"
+		},
+		{
+			"title":"김위상 &quot;방화구획 시스템 편입…대형화재 확산 방지 기대&quot;",
+			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=472128",
+			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=472128",
+			"description":"이는 인천 <b>청라<\/b>국제도시에서 발생한 피해가 포함되지 않은 것으로 올 한 해 총 피해액은 예년보다 훨씬 클 것으로 전망된다. 김 의원은 &quot;건물 내 전기차 충전시설과 주차장이 방화구획 체계에 편입되면 인천 <b>청라<\/b>... ",
+			"pubDate":"Mon, 19 Aug 2024 18:24:00 +0900"
+		},
+		{
+			"title":"'<b>청라<\/b> 전기차 화재' 19일만에 대피소 이재민 100명 밑",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240819_0002854850",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012736135?sid=102",
+			"description":"인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 발생한 '벤츠 전기차 폭발 화재' 19일 만에 이재민 수가 100명 아래로 줄었다. 19일 서구에 따르면 <b>청라<\/b>동 화재 피해 아파트 1581세대 가운데 이날 오전 9시 기준 28세대... ",
+			"pubDate":"Mon, 19 Aug 2024 18:20:00 +0900"
+		},
 		{
 			"title":"하나금융그룹, 의류 기부 캠페인 '쿨쿨옷장' 실시",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287499642779",
@@ -33,17 +54,17 @@
 			"pubDate":"Mon, 19 Aug 2024 18:00:00 +0900"
 		},
 		{
-			"title":"전기차 캐즘·화재 후폭풍에도 … 車업계 안전한 신차로 정면돌파",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/11096246",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005352297?sid=103",
-			"description":"인천 <b>청라<\/b> 전기차 화재로 전기차 포비아(공포증)가 확산하고 있지만, 현대차그룹을 비롯한 완성차 업계는 전동화 전환 속도를 늦추지 않는다는 방침이다. 전동화 속도를 늦출 경우 빠르게 성장하는 중국 전기차 업계에... ",
-			"pubDate":"Mon, 19 Aug 2024 17:58:00 +0900"
-		},
-		{
 			"title":"야외충전소 많은 비수도권, 전기차 보조금 신청 쑥",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/11096247",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005352298?sid=103",
 			"description":"화재에도 보조금 접수 23%↑ 아산·김해·나주 등 19곳 마감 ◆ 전기차 포비아 ◆ 인천 <b>청라<\/b> 전기차 화재 사고 이후 전기차 포비아(공포증)가 무차별적으로 확산하고 있는 와중에도 올해 전기차 신규 수요는 일반... ",
+			"pubDate":"Mon, 19 Aug 2024 17:58:00 +0900"
+		},
+		{
+			"title":"전기차 캐즘·화재 후폭풍에도 … 車업계 안전한 신차로 정면돌파",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/11096246",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005352297?sid=103",
+			"description":"인천 <b>청라<\/b> 전기차 화재로 전기차 포비아(공포증)가 확산하고 있지만, 현대차그룹을 비롯한 완성차 업계는 전동화 전환 속도를 늦추지 않는다는 방침이다. 전동화 속도를 늦출 경우 빠르게 성장하는 중국 전기차 업계에... ",
 			"pubDate":"Mon, 19 Aug 2024 17:58:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/vop.co.kr\/A00001659793.html",
 			"description":"인천 <b>청라<\/b> 전기차 화재를 계기로 완성차 업계가 일제히 배터리 제조사를 공개했다. 벤츠 일부 차종을... 배터리 제조사 공개는 지난 1일 인천 <b>청라<\/b> 아파트 지하주차장에 세워져 있던 벤츠 EQE 차량에서 시작된 대규모... ",
 			"pubDate":"Mon, 19 Aug 2024 17:18:00 +0900"
-		},
-		{
-			"title":"[기획]불 안나는 '전고체 배터리'에 쏠린 시선",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150995",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150995",
-			"description":"사진=삼성SDI 제공 매일일보 = 이미현 기자  |  인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재로 '전기차 포비아'가 확산하며 배터리 안전성이 화두로 떠오른 가운데 화재 위험이 낮은 '전고체 배터리'가 주목을 받고... ",
-			"pubDate":"Mon, 19 Aug 2024 17:10:00 +0900"
-		},
-		{
-			"title":"현대차·기아 전기차 쏟아내지만 캐즘에 화재까지, 가격인하·안전기술로 판매...",
-			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=362727",
-			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=362727",
-			"description":"다만 최근 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 발생한 전기차 화재가 대규모 피해로... 인천 <b>청라<\/b> 전기차 화재 사고로 소비자의 배터리 '알 권리'가 부각된 가운데 완성차업계 전기차 배터리 제조사 정보... ",
-			"pubDate":"Mon, 19 Aug 2024 17:10:00 +0900"
-		},
-		{
-			"title":"[기획]'캐즘'에 '포비아'까지'…갈 길 먼 전기차 시장",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150886",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1150886",
-			"description":"지난 5일 인천 서구 <b>청라<\/b>동 아파트 지하 주차장 화재 현장에서 합동 감식을 마친 경찰이 화재가 발생한 전기차를 옮기고 있다. 사진=연합뉴스 제공 매일일보 = 박지성 기자  |  전기차 시장이 '캐즘(일시적 수요 정체)'으로... ",
-			"pubDate":"Mon, 19 Aug 2024 17:10:00 +0900"
 		}
 	]
 }
