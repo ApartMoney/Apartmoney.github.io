@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 19 Aug 2024 10:00:02 +0900",
-	"total":239603,
+	"lastBuildDate":"Mon, 19 Aug 2024 10:10:02 +0900",
+	"total":239605,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 영종역, 24일부터 노선별 버스정류소 분리 운영",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01731846638988960",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005814603?sid=102",
+			"description":"승객이 <b>청라<\/b> 방향 버스로 잘못 타는 일 등이 발생한다. 또 승차전용 정류소는 대기공간이 협소해 출·퇴근... 운북차고지·<b>청라<\/b>·예단포 방향 정류소로 변경하는 방안을 수립해 24일 첫차부터 시행한다. 해당 정류소에서는... ",
+			"pubDate":"Mon, 19 Aug 2024 10:05:00 +0900"
+		},
+		{
+			"title":"[그래픽] 국내 전기차 차종별 배터리 제조사 현황",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20240819_0001631000",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012734566?sid=102",
+			"description":"자동차리콜센터 홈페이지를 통해 전기차 모델에 탑재된 배터리 제조사를 모두 공개했다. 인천 <b>청라<\/b> 전기차 화재 사고 이후 정부는 전기차 배터리 및 충전시설 안전성 강화 대책 마련을 논의 중이다. (그래픽=안지혜 기자)",
+			"pubDate":"Mon, 19 Aug 2024 10:04:00 +0900"
+		},
 		{
 			"title":"상·하행 구분없던 영종역 정류소, 24일부터 분리 운영",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020433375&code=61122012&cp=nv",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408190821278937cd1e7f0bdf_23",
 			"description":"연합뉴스에 따르면 이날 회의에선 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 이후... 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 불탄 차에 애초 알려진 것과 다른 제조사 배터리가 탑재된 것이 확인돼... ",
 			"pubDate":"Mon, 19 Aug 2024 08:22:00 +0900"
-		},
-		{
-			"title":"전기차 포비아 확산…벤츠 화재 사고 후 '전기차' 호감도 급락",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=606494",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=606494",
-			"description":"공업사에서 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다. 사진=연합뉴스 컨슈머타임스=곽민구 기자 | 지난 1일 인천 <b>청라<\/b> 한 아파트 지하 주차장에서 발생한 메르세데스... ",
-			"pubDate":"Mon, 19 Aug 2024 08:14:00 +0900"
-		},
-		{
-			"title":"전기차 포비아 확산…8월1일 벤츠 화재 사고 후 ‘전기차’ 호감도 35% 급락",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=2024081415492180153e9bb86c69_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=2024081415492180153e9bb86c69_23",
-			"description":"지난 1일 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 메르세데스-벤츠 EQE 350+ 전기차 화재 사건 이후, 보름간 전기차에 대한 소비자 호감도가 사고 직전 같은 기간 대비 약 35%P 가까이 급락한 것으로 나타났다. 그러나... ",
-			"pubDate":"Mon, 19 Aug 2024 08:12:00 +0900"
 		}
 	]
 }
