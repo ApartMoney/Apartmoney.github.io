@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 21 Aug 2024 08:40:02 +0900",
-	"total":240168,
+	"lastBuildDate":"Wed, 21 Aug 2024 08:50:02 +0900",
+	"total":240169,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[임기상 칼럼] 전기차 대중화...걸림돌은 화재 위험성!",
+			"originallink":"https:\/\/www.dailycar.co.kr\/content\/news.html?type=view&autoId=53937",
+			"link":"https:\/\/www.dailycar.co.kr\/content\/news.html?type=view&autoId=53937",
+			"description":"최근 인천 <b>청라<\/b> 아파트 주차장에서 발생한 전기차 화재 사건으로 인해 배터리 안전성 문제가 다시 한번 주목받고 있다. 이번 사고는 전기차 구매를 고려 중이던 많은 소비자에게 충격을 주었으며, 안전한 전기차를... ",
+			"pubDate":"Wed, 21 Aug 2024 08:48:00 +0900"
+		},
 		{
 			"title":"올해 불탄 전기차 80% '주차·충전중' 화재…사고 화재가 아니어서 더 위험",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240821504691?OutUrl=naver",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420407",
 			"description":"이번 토론회는 최근 <b>청라<\/b> 아프트 주차장에서 발생한 전기차 화재 이후, 시민들의 막연한 불안감을 해소하기 위해 즉각적인 필요 정책과 중장기 정책을 논의하기 위해 마련됐다. 이날 손범규 인천시당위원장은 모두... ",
 			"pubDate":"Tue, 20 Aug 2024 22:02:00 +0900"
-		},
-		{
-			"title":"월 8만원 충전 땐 ‘인천~서울 광역버스’ 무제한 이용",
-			"originallink":"https:\/\/www.khan.co.kr\/economy\/market-trend\/article\/202408202119015",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003316067?sid=101",
-			"description":"광역버스로 서구 <b>청라<\/b>~강남역을 한 달 이용할 때 40회면 14만8000원(회당 요금 3700원)이 소요된다. 송도~강남역 구간은 1회 3200원으로 40회 이용한다면 12만8000원이 들지만, 광역 I-패스는 8만원이면 된다. 인천 광역 I-패스... ",
-			"pubDate":"Tue, 20 Aug 2024 21:22:00 +0900"
 		}
 	]
 }
