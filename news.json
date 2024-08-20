@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 20 Aug 2024 08:50:02 +0900",
-	"total":239923,
+	"lastBuildDate":"Tue, 20 Aug 2024 09:00:02 +0900",
+	"total":239924,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;전기차 화재 20분 만에 진압&quot;…리모빌리티, 시드투자 유치",
+			"originallink":"https:\/\/www.news1.kr\/industry\/sb-founded\/5515219",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007738817?sid=101",
+			"description":"앞서 이달 초 인천 <b>청라<\/b> 아파트 지하주차장에서는 전기차 화재로 800대가 넘는 차량이 전소하거나 그을리는 피해가 발생했다. 리모빌리티는 전기차를 들어 올리지 않고도 배터리 하부를 관통해 즉시 소화 단계로 진입하는... ",
+			"pubDate":"Tue, 20 Aug 2024 08:55:00 +0900"
+		},
 		{
 			"title":"전기차 배터리 제조사 공개…중국산 채택 줄까?",
 			"originallink":"http:\/\/www.datanews.co.kr\/news\/article.html?no=134149",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003582697?sid=102",
 			"description":"22일 오후 4∼5시 <b>청라<\/b>호수도서관 다목적강당. □독서 코칭=‘부모 독서 코칭’ 참가자 12명. 9월 6일∼11월 8일 오전 10시∼낮 12시 매주 금요일 <b>청라<\/b>국제도서관 제1다목적실. □독서 클럽=‘성인 독서 클럽’... ",
 			"pubDate":"Tue, 20 Aug 2024 03:04:00 +0900"
-		},
-		{
-			"title":"불탄 전기차 배터리 모듈 합동감식",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240820\/126591235\/2",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003582672?sid=102",
-			"description":"19일 오전 인천 서부경찰서에서 인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재 사건에 대한 3차 합동 감식이 진행됐다. 벤츠 기술진이 참관한 가운데 국립과학수사연구원, 경찰, 소방 등 합동 감식반이 최초 화재가 시작된... ",
-			"pubDate":"Tue, 20 Aug 2024 03:03:00 +0900"
 		}
 	]
 }
