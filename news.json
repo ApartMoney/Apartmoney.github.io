@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 21 Aug 2024 07:00:02 +0900",
-	"total":240156,
+	"lastBuildDate":"Wed, 21 Aug 2024 07:10:02 +0900",
+	"total":240157,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"커지는 전기차 포비아...K전고체 배터리 날까 [이코노株인공]",
+			"originallink":"https:\/\/economist.co.kr\/article\/view\/ecn202408200058",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000063532?sid=101",
+			"description":"지난 1일 인천 서구 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재로 800여 대의 주변 차량까지 피해를 입으면서 배터리의 위험성에 대한 공포가 커졌다. 올해 8월까지 국내에서 발생한 전기차 화재만... ",
+			"pubDate":"Wed, 21 Aug 2024 07:01:00 +0900"
+		},
 		{
 			"title":"[영상] “물타기 했는데”… 전기차 업황 부진에 개미들 시름",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DD3PINWTG",
@@ -19,13 +26,6 @@
 			"pubDate":"Wed, 21 Aug 2024 06:06:00 +0900"
 		},
 		{
-			"title":"&quot;-67%, 더는 못 버텨&quot; 개미들은 털었는데…반대로 가는 외인·기관",
-			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024082016384234179",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005079343?sid=101",
-			"description":"이달 초 인천 <b>청라<\/b> 아파트에서 벤츠 전기차 화재가 발생했다. 이어 16일에는 경기 용인에서 주차 중이던 테슬라 전기차에서 화재가 발생하는 사고가 벌어졌다. 아울러, 최근 SK온과 에코프로비엠이 미국 완성차 기업... ",
-			"pubDate":"Wed, 21 Aug 2024 06:00:00 +0900"
-		},
-		{
 			"title":"현대차·기아 &quot;전기차배터리, 100% 완충해도 안전… 화재와 충전량 무관”",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240820010010807",
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240820010010807",
@@ -37,6 +37,13 @@
 			"originallink":"https:\/\/www.news1.kr\/industry\/auto-industry\/5515832",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007741000?sid=103",
 			"description":"그간 전기차 화재라고 하면 교통사고처럼 물리적인 충격에 의한 상황을 떠올렸지만, 지난 1일 인천 <b>청라<\/b>... 화학적 요인(배터리)으로 인한 화재는 2019년부터 지난해까지 2건(모두 2021년)이 전부인데, <b>청라<\/b> 벤츠 전기차... ",
+			"pubDate":"Wed, 21 Aug 2024 06:00:00 +0900"
+		},
+		{
+			"title":"&quot;-67%, 더는 못 버텨&quot; 개미들은 털었는데…반대로 가는 외인·기관",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024082016384234179",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005079343?sid=101",
+			"description":"이달 초 인천 <b>청라<\/b> 아파트에서 벤츠 전기차 화재가 발생했다. 이어 16일에는 경기 용인에서 주차 중이던 테슬라 전기차에서 화재가 발생하는 사고가 벌어졌다. 아울러, 최근 SK온과 에코프로비엠이 미국 완성차 기업... ",
 			"pubDate":"Wed, 21 Aug 2024 06:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.industrynews.co.kr\/news\/articleView.html?idxno=54810",
 			"description":"20일 중고차 플랫폼 케이카에 따르면 지난 1일 인천 <b>청라<\/b> 벤츠 EQE 전기차 화재 사건 이후 이달 7일 까지 중고 전기차 판매 접수 대수는 전주 대비 184% 늘었다. 사고가 발생한 벤츠 EQ 시리즈는 이달 판매 접수된 전기차의... ",
 			"pubDate":"Tue, 20 Aug 2024 18:42:00 +0900"
-		},
-		{
-			"title":"인천시의회 행안위, 서구 <b>청라<\/b>동 아파트 화재 관련 대책 논의",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=468746",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=468746",
-			"description":"서구 <b>청라<\/b>동 아파트 지하주차장 전기차에서 발생한 화재와 관련해 인천시 추진 상황을 점검하고 대책을 논의하고있다. 사진제공=인천시의회 인천광역시의회 행정안전위원회는 최근 서구 <b>청라<\/b>동 아파트 지하주차장... ",
-			"pubDate":"Tue, 20 Aug 2024 18:36:00 +0900"
 		}
 	]
 }
