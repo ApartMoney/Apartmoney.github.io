@@ -1,9 +1,44 @@
 {
-	"lastBuildDate":"Tue, 20 Aug 2024 10:20:02 +0900",
-	"total":239941,
+	"lastBuildDate":"Tue, 20 Aug 2024 10:30:02 +0900",
+	"total":239946,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;전기차에서 연기가&quot; 광주 아파트서 화재 오인신고 해프닝",
+			"originallink":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=785524",
+			"link":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=785524",
+			"description":"인천 <b>청라<\/b>아파트 지하주차장 내 전기차 폭발 화재를 계기로 경각심이 높아진 가운데 광주에서도 전기차... 앞서 지난 1일 오전 인천 서구 <b>청라<\/b>동 한 아파트 지하주차장에 세워진 벤츠 전기차에서 폭발 화재가 나... ",
+			"pubDate":"Tue, 20 Aug 2024 10:26:00 +0900"
+		},
+		{
+			"title":"올해 발생한 전기차 화재, 2건 중 1건이 '주차 중' 발생",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02056566638989288",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005815374?sid=102",
+			"description":"지난 8일 인천 서구 한 공업사에서 경찰과 소방, 국립과학수사연구원, 벤츠 등 관계자들이 지난 1일 <b>청라<\/b>... 실제로 지난 1일 오전 인천 서구 <b>청라<\/b>동의 한 아파트 지하주차장에서 주차 중이던 벤츠 전기차에서 폭발... ",
+			"pubDate":"Tue, 20 Aug 2024 10:25:00 +0900"
+		},
+		{
+			"title":"전기차 주차·충전 두고 보유자·비보유자 의견 극과 극",
+			"originallink":"https:\/\/www.skyedaily.com\/news\/news_view.html?ID=243567",
+			"link":"https:\/\/www.skyedaily.com\/news\/news_view.html?ID=243567",
+			"description":"컨슈머인사이트 제공 <b>청라<\/b> 전기차 화재 사건으로 아파트 지하 주차장에 전기차를 주차하고 충전하는 것에 대한 불안감이 커지고 있다. 특히 전기차 충전과 주차에 대한 전기차 보유자와 비보유자의 인식이 크게... ",
+			"pubDate":"Tue, 20 Aug 2024 10:24:00 +0900"
+		},
+		{
+			"title":"벤츠 전기차 화재로 배터리 안전성 관심↑…폼팩터 상관 있나",
+			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20240816171743",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002342634?sid=105",
+			"description":"1일 오전 인천 서구 <b>청라<\/b>동의 한 아파트 지하주차장에서 벤츠 전기차로 추정되는 차량이 폭발하며 화재가 발생했다. (영상=독자 제공) 2024.08.01. ruby@newsis.com(출처=뉴시스) 지난 2021년 신정훈 더불어민주당 의원은... ",
+			"pubDate":"Tue, 20 Aug 2024 10:22:00 +0900"
+		},
+		{
+			"title":"파주시, 공공건물 전기차충전소 '지하→지상' 이전 추진",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02043446638989288",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005815370?sid=100",
+			"description":"인천 <b>청라<\/b> 아파트 지하주차장 화재로 전소된 차량들.(사진=연합뉴스) 경기 파주시는 현재 건설이 추진되고 있는 공공건축물을 대상으로 전기차 충전시설을 지상으로 이전 설치하도록 유도한다고 20일 밝혔다. 아울러 향후... ",
+			"pubDate":"Tue, 20 Aug 2024 10:21:00 +0900"
+		},
 		{
 			"title":"전기차 쫓아내면 안전해지나…&quot;대형화재 핵심은 스프링클러&quot;",
 			"originallink":"https:\/\/www.news1.kr\/industry\/auto-industry\/5514957",
@@ -40,7 +75,7 @@
 			"pubDate":"Tue, 20 Aug 2024 10:05:00 +0900"
 		},
 		{
-			"title":"현대차·기아 &quot;전기차 배터리 100% 충전해도 안전&quot;",
+			"title":"&quot;전기차 100% 완충해도 문제없다&quot;…현대·기아 배터리 보니",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01987686638989288",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005815352?sid=103",
 			"description":"최근 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 메르세데스-벤츠 전기차 화재로 전기차 배터리에 대한 불안감이 커지는 가운데, 현대차·기아가 배터리 충전량과 화재는 관계가 없다고 밝히며 “100% 완충해도 안전하게... ",
@@ -68,6 +103,13 @@
 			"pubDate":"Tue, 20 Aug 2024 09:39:00 +0900"
 		},
 		{
+			"title":"강남 대치동 시스템 그대로, 영종도 스투디움 입시학원 2호점 개원",
+			"originallink":"http:\/\/edu.donga.com\/?p=article&ps=view&at_no=20240820093335287667",
+			"link":"http:\/\/edu.donga.com\/?p=article&ps=view&at_no=20240820093335287667",
+			"description":"한편, 인천 <b>청라<\/b>, 송도와 함께 인천국제도시인 영종도는 인천과학고, 인천국제고, 하늘고등학교 등 전국 최상위 학교들이 밀집하여 있어 향후 교육특구 추진이 예상되는 지역이다. 소호섭 공동대표는 “영어·수학 젊은... ",
+			"pubDate":"Tue, 20 Aug 2024 09:34:00 +0900"
+		},
+		{
 			"title":"[취재 그 후] 한국부동산원, '탁상공론·무사안일' 자처 않기를",
 			"originallink":"https:\/\/www.newspost.kr\/news\/articleView.html?idxno=205666",
 			"link":"https:\/\/www.newspost.kr\/news\/articleView.html?idxno=205666",
@@ -79,13 +121,6 @@
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DD38OGTNR",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004381917?sid=101",
 			"description":"앞서 이달 초 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재로 800대가 넘는 차량이 전소하거나 그을리는 피해가 발생해 전기차 화재에 대한 사회적 불안감은 더욱 커진 상황이다. 리모빌리티의 솔루션을 활용할... ",
-			"pubDate":"Tue, 20 Aug 2024 09:34:00 +0900"
-		},
-		{
-			"title":"강남 대치동 시스템 그대로, 영종도 스투디움 입시학원 2호점 개원",
-			"originallink":"http:\/\/edu.donga.com\/?p=article&ps=view&at_no=20240820093335287667",
-			"link":"http:\/\/edu.donga.com\/?p=article&ps=view&at_no=20240820093335287667",
-			"description":"한편, 인천 <b>청라<\/b>, 송도와 함께 인천국제도시인 영종도는 인천과학고, 인천국제고, 하늘고등학교 등 전국 최상위 학교들이 밀집하여 있어 향후 교육특구 추진이 예상되는 지역이다. 소호섭 공동대표는 “영어·수학 젊은... ",
 			"pubDate":"Tue, 20 Aug 2024 09:34:00 +0900"
 		},
 		{
@@ -178,41 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000398099?sid=101",
 			"description":"- 최근 6년간 전기차 화재 분석 결과 국산 배터리 대다수 - 배터리 제조사별 화재 건수, LG엔솔 43건·SK온 22건 - 국내산 배터리 점유율 62%…높은 점유율에 화재 발생↑ - 인천 <b>청라<\/b> 화재 이후 중국산 배터리 위험성... ",
 			"pubDate":"Tue, 20 Aug 2024 07:58:00 +0900"
-		},
-		{
-			"title":"와이엠텍, 주가 급락…전기차 종합대책 수립에 '촉각'",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408200757048437cd1e7f0bdf_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408200757048437cd1e7f0bdf_23",
-			"description":"연합뉴스에 따르면 이날 회의에선 지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 이후... 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 불탄 차에 애초 알려진 것과 다른 제조사 배터리가 탑재된 것이... ",
-			"pubDate":"Tue, 20 Aug 2024 07:58:00 +0900"
-		},
-		{
-			"title":"인천 영종역 정류소 시내버스 이용 편리해진다",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DD37X0EY5",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004381850?sid=102",
-			"description":"또 영종역 경유 전체 시내버스 노선을 분석해 하늘도시‧전소‧공항 방향과 운북차고지‧<b>청라<\/b>‧예단포 방향으로 정류소를 분리하는 방안을 수립했다. 이 같은 운영체계를 마련한 시는 중구 등 유관기관의 의견수렴... ",
-			"pubDate":"Tue, 20 Aug 2024 07:40:00 +0900"
-		},
-		{
-			"title":"“부천시청사 전기차 충전소 지상으로 옮겨야”",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240819580194",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000049871?sid=102",
-			"description":"김종구기자 최근 인천 <b>청라<\/b>국제도시 등지에서 지하 전기차 화재가 빈발하는 가운데 부천시청사 지하 2층에 설치된 전기차 충전소도 지상으로 옮겨야 한다는 목소리가 커지고 있다. 앞서 지난 1일 오전 인천 <b>청라<\/b>국제도시... ",
-			"pubDate":"Tue, 20 Aug 2024 07:32:00 +0900"
-		},
-		{
-			"title":"“K배터리는 중국과 차원이 달라”…전기차 포비아에도 자신감 넘치네",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/11096412",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005352415?sid=101",
-			"description":"위기를 기회 삼는 기업들 글로벌경쟁 中에 뒤처질라 배터리 감시 기술 적용 등 화재예방 전화위복 계기로 현대차 아이오닉9 연내 공개 기아 EV 국산 배터리로 주목 BMW·볼보도 예정대로 출격 인천 <b>청라<\/b> 전기차 화재로... ",
-			"pubDate":"Tue, 20 Aug 2024 07:32:00 +0900"
-		},
-		{
-			"title":"전기차만 보면 섬뜩...속썩이지 않는 '이 차' 인기폭발",
-			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000187624?division=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000398090?sid=101",
-			"description":"중고차 플랫폼 케이카에 따르면 인천 <b>청라<\/b> 전기차 화재 사고가 발생한 지난 1일 이후 7일간 중고 전기차 접수량은 지난달 마지막주 대비 무려 184% 증가했습니다. 특히 사고차량인 벤츠 EQE의 경우 지난 14일... ",
-			"pubDate":"Tue, 20 Aug 2024 07:32:00 +0900"
 		}
 	]
 }
