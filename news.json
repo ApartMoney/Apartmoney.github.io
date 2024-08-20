@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 20 Aug 2024 12:20:03 +0900",
-	"total":239987,
+	"lastBuildDate":"Tue, 20 Aug 2024 12:30:02 +0900",
+	"total":239988,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"당정, 내년도 예산안 공개 ... 온누리상품권 역대 최대 5.5조 발행",
+			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=456920",
+			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=456920",
+			"description":"최근 인천 서구 <b>청라<\/b>동에서 전기차 화재가 발생해 이재민이 발생하는 등 전기차 화재가 빈발하자 당정은 전기차 화재에 대응해 화재예방충전기 보급을 9만대로 늘리고 무인파괴방수차, 진압장비 등을 추가 도입하는... ",
+			"pubDate":"Tue, 20 Aug 2024 12:20:00 +0900"
+		},
 		{
 			"title":"‘전기차 포비아' 막아라... 당정 “화재예방 충전기 보급 9만대까지 확대”",
 			"originallink":"http:\/\/www.segyebiz.com\/newsView\/20240820511421?OutUrl=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001719171?sid=102",
 			"description":"인천 서구는 지난 17일 <b>청라<\/b>블루노바홀에서 ‘제4회 서구 청소년 e스포츠 대회’를 개최했다고 20일 밝혔다. 서구 청소년 e스포츠 대회는 청소년들의 e스포츠 미래 역량을 선도하고 건전한 e스포츠 문화 조성을 위해... ",
 			"pubDate":"Tue, 20 Aug 2024 11:05:00 +0900"
-		},
-		{
-			"title":"현대차그룹, 법인차도 배터리 이상 징후 운전자에게 알린다",
-			"originallink":"https:\/\/www.chosun.com\/economy\/auto\/2024\/08\/20\/CQY3VRHHSFBJHG2ZDTXMT6WVJY\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003853543?sid=101",
-			"description":"이달 초 인천 <b>청라<\/b> 전기차 화재 이후 배터리에 대한 소비자들의 불안이 커진 데에 따른 조치다. 현대차그룹의 모든 전기차는 고객에게 문자로 배터리셀 이상 징후를 통보하는 기능이 탑재돼 있지만, 법인차는 회사... ",
-			"pubDate":"Tue, 20 Aug 2024 11:02:00 +0900"
 		}
 	]
 }
