@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 21 Aug 2024 15:40:02 +0900",
-	"total":240257,
+	"lastBuildDate":"Wed, 21 Aug 2024 15:50:02 +0900",
+	"total":240259,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[초점] 값싼 中배터리 탓에 벤츠 불탔는데…中회사들이 몰래 미소짓는 까닭은",
+			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=211525",
+			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=211525",
+			"description":"인천 서구 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재로 배터리의 위험성에 대한 포비아... ◇ 화재 위험 적은 LFP 배터리, 현 시점 '게임체인저'일까 지난 1일 <b>청라<\/b>에서 불이 난 벤츠 차량에도 세계... ",
+			"pubDate":"Wed, 21 Aug 2024 15:48:00 +0900"
+		},
+		{
+			"title":"인천시, 전기차 화재 대응…저상소방차·배연로봇 도입",
+			"originallink":"https:\/\/www.munhwa.com\/news\/view.html?no=2024082101039927085001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002655610?sid=102",
+			"description":"시는 지난 1일 인천 서구 <b>청라<\/b>국제도시 아파트에서 발생한 지하주차장 전기차 화재의 후속 조치로 인천 시내 1682개 아파트 단지를 대상으로 스프링클러를 비롯한 소방시설 정상 작동 여부를 점검하고 있다. 이와 함께... ",
+			"pubDate":"Wed, 21 Aug 2024 15:39:00 +0900"
+		},
 		{
 			"title":"군산시, 전기차 화재예방대책 실무회의 개최",
 			"originallink":"http:\/\/www.jeonmin.co.kr\/news\/articleView.html?idxno=403359",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=283175",
 			"description":"특히 최근 인천 <b>청라<\/b>의 한 아파트에서 발생한 전기차 화재로 안전에 대한 우려가 커지는 가운데 BMS가 주요 화재 원인로 꼽히는 '배터리 과충전'을 막는 데 기여할 수 있어 더욱 주목을 받고 있다. 현재... ",
 			"pubDate":"Wed, 21 Aug 2024 13:40:00 +0900"
-		},
-		{
-			"title":"서구, 다함께돌봄센터 10.11호점 위·수탁 계약",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1920320",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1920320",
-			"description":"11호점은 <b>청라<\/b>동의 29블럭 호반베르디움에 설치하며, 기존까지 연령 구분 없이 운영되던 단점을 보완했다. 저학년과 고학년의 학습공간과 프로그램을 분리하여 이용자의 욕구를 최대한 반영해 운영된다. 시설별로 20명의... ",
-			"pubDate":"Wed, 21 Aug 2024 13:40:00 +0900"
-		},
-		{
-			"title":"인천 부동산 시세 급락…송도·<b>청라<\/b> 지역 아파트 가격 폭락, 최대 1억 7천만원...",
-			"originallink":"https:\/\/www.idaegu.com\/news\/articleView.html?idxno=612625",
-			"link":"https:\/\/www.idaegu.com\/news\/articleView.html?idxno=612625",
-			"description":"서구 <b>청라<\/b>동의 <b>청라<\/b>린스트라우스 아파트도 예외는 아니었다. 8월 12일 19층 138㎡ 주택이 8억원에 거래되어, 이전 거래가인 9억 6천5백만원보다 1억 6천5백만원이 하락했다. 이러한 부동산 가격 하락에도 불구하고... ",
-			"pubDate":"Wed, 21 Aug 2024 13:36:00 +0900"
 		}
 	]
 }
