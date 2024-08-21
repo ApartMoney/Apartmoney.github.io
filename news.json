@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 21 Aug 2024 11:20:02 +0900",
-	"total":240206,
+	"lastBuildDate":"Wed, 21 Aug 2024 11:30:02 +0900",
+	"total":240208,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"성북구, 전기차 화재예방 대책 수립… 공공충전기 충전율 80% 권고 등",
+			"originallink":"https:\/\/www.munhwa.com\/news\/view.html?no=2024082101039927307002",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002655492?sid=102",
+			"description":"성북구는 지난 1일 인천 서구 <b>청라<\/b>동의 한 아파트 지하 주차장에서 발생한 전기차 화재 사고를 계기로... 인천 <b>청라<\/b>동 아파트 지하주차장 화재가 스프링클러 미작동으로 확산한 바에 착안, 9월 말까지 자체 점검을 완료할... ",
+			"pubDate":"Wed, 21 Aug 2024 11:24:00 +0900"
+		},
+		{
+			"title":"전기차 안전 확보, 어떻게 할 것인가?",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408211115282730661",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202408211115282730661",
+			"description":"손범규 시당위원장은 “최근 서구 <b>청라<\/b>국제도시의 한 아파트 지하주차장 전기차 화재로 국민들의 전기차 화재에 대한 불안이 커진 만큼 오늘 토론회에서는 안전성을 위한 법적 대책 마련이 충분히 제시되었다고... ",
+			"pubDate":"Wed, 21 Aug 2024 11:22:00 +0900"
+		},
 		{
 			"title":"[금융 단신] 하나은행, 투자부터 상속·증여까지 종합 자산관리 컨설팅 外",
 			"originallink":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=80815",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012738960?sid=102",
 			"description":"지난 1일 인천 <b>청라<\/b>동의 한 아파트 지하주차장에 세워둔 전기차에서 화재가 발생하면서 주변 차량 140대가 전소되는 피해가 있었다. 화재가 발생했을 당시 아파트 관리사무소 직원이 스프링클러를 곧바로 큰 바람에 피해를... ",
 			"pubDate":"Wed, 21 Aug 2024 09:29:00 +0900"
-		},
-		{
-			"title":"소방청, 아파트 지하주차장 화재안전조사…스프링클러 등 점검",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240821042600530?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014884787?sid=102",
-			"description":"소방청은 이달초 발생한 인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재 등을 계기로 아파트 지하주차장 소방시설에 대한 화재안전조사를 실시한다고 21일 밝혔다. 이날부터 11월 20일까지 3개월간 진행되는 이번 조사에선... ",
-			"pubDate":"Wed, 21 Aug 2024 09:25:00 +0900"
-		},
-		{
-			"title":"소방청, 전국 아파트 지하주차장 스프링클러 상태 점검한다",
-			"originallink":"https:\/\/www.news1.kr\/society\/general-society\/5516548",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007741279?sid=102",
-			"description":"소방청은 인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재로 인한 아파트 거주 국민의 불안감 해소와 사고 재발 방지를 위해 전국 아파트 지하주차장 소방시설 화재안전조사를 추진한다고 21일 밝혔다. 이날부터 11월 20일까지... ",
-			"pubDate":"Wed, 21 Aug 2024 09:24:00 +0900"
 		}
 	]
 }
