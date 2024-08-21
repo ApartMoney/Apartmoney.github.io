@@ -1,22 +1,29 @@
 {
-	"lastBuildDate":"Thu, 22 Aug 2024 08:40:02 +0900",
-	"total":240364,
+	"lastBuildDate":"Thu, 22 Aug 2024 08:50:02 +0900",
+	"total":240366,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[리얼푸드] 아워홈, 코스트코서 ‘구씨반가 갈치김치’ 선보인다",
+			"originallink":"http:\/\/www.realfoods.co.kr\/view.php?ud=20240822050078",
+			"link":"http:\/\/www.realfoods.co.kr\/view.php?ud=20240822050078",
+			"description":"아워홈에 따르면 아워홈은 22일 인천광역시 서구 코스트코 <b>청라<\/b>점에서 ‘구씨반가 갈치김치’ 시식 행사와 함께 판매 이벤트를 진행한다. 구씨반가 갈치김치(800g) 2개를 1세트로 묶어 기존 판매가 대비 약 50% 할인... ",
+			"pubDate":"Thu, 22 Aug 2024 08:48:00 +0900"
+		},
+		{
+			"title":"아워홈, 코스트코에서 '구씨반가 갈치김치' 선보인다",
+			"originallink":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=229824",
+			"link":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=229824",
+			"description":"아워홈은 22일 인천광역시 서구 코스트코 <b>청라<\/b>점에서 '구씨반가 갈치김치' 시식 행사와 함께 판매 이벤트를 진행한다고 밝혔다. 구씨반가 갈치김치(800g) 2개를 1세트로 묶어 기존 판매가 대비 약 50% 할인 판매한다.... ",
+			"pubDate":"Thu, 22 Aug 2024 08:42:00 +0900"
+		},
 		{
 			"title":"코스트코 인천 <b>청라<\/b>점 개장…국내 최초 미국식 표준형 매장",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240821142700065?input=1195m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014886722?sid=102",
 			"description":"미국계 회원제 대형마트인 코스트코가 인천 <b>청라<\/b>국제도시에 문을 열었다. 인천경제자유구역청은 22일 서구 <b>청라<\/b>동에서 코스트코 <b>청라<\/b>점이 공식 개장했다고 밝혔다. 이곳 매장은 연면적 1만6천㎡ 규모의 지하 1층, 지상... ",
 			"pubDate":"Thu, 22 Aug 2024 08:35:00 +0900"
-		},
-		{
-			"title":"&quot;작아도 못하는 게 없다&quot;…캐스퍼 일렉트릭 '전천후 성능'[시승기]",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240821_0002857504",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012741123?sid=103",
-			"description":"최근 인천 <b>청라<\/b>에서 발생한 전기차 화재로 소비자들 사이에 불안감이 확산된 데 따른 조치다. 김동건 현대차 배터리셀 개발실 실장은 &quot;수년 전 코나 전기차 화재 이슈를 통해 배터리 안전성 확보에 대해 깊게 고민했다... ",
-			"pubDate":"Thu, 22 Aug 2024 08:30:00 +0900"
 		},
 		{
 			"title":"캐스퍼일렉트릭 ‘이 난리통에 구원투수될까’[손재철시승기]",
@@ -30,6 +37,13 @@
 			"originallink":"https:\/\/www.news1.kr\/industry\/auto-industry\/5516946",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007743564?sid=103",
 			"description":"&quot; 최근 인천 <b>청라<\/b>에서 벌어진 전기차 화재를 의식하듯 캐스퍼 일렉트릭을 소개하러 나온 김동건 현대차 배터리셀개발실장이 가장 많은 시간을 할애한 것은 '배터리 안전'이었다. 현대차(005380) 역시 지난 2020년 코나 EV의... ",
+			"pubDate":"Thu, 22 Aug 2024 08:30:00 +0900"
+		},
+		{
+			"title":"&quot;작아도 못하는 게 없다&quot;…캐스퍼 일렉트릭 '전천후 성능'[시승기]",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240821_0002857504",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012741123?sid=103",
+			"description":"최근 인천 <b>청라<\/b>에서 발생한 전기차 화재로 소비자들 사이에 불안감이 확산된 데 따른 조치다. 김동건 현대차 배터리셀 개발실 실장은 &quot;수년 전 코나 전기차 화재 이슈를 통해 배터리 안전성 확보에 대해 깊게 고민했다... ",
 			"pubDate":"Thu, 22 Aug 2024 08:30:00 +0900"
 		},
 		{
@@ -159,17 +173,17 @@
 			"pubDate":"Thu, 22 Aug 2024 05:01:00 +0900"
 		},
 		{
-			"title":"볼보, 내달 대형 전기트럭 국내 도입… ‘보조금 지급’ 핫이슈 전망",
-			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20240821\/126626324\/2",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003583160?sid=101",
-			"description":"하지만 최근 인천 <b>청라<\/b> 전기차 화재를 계기로 확산되고 있는 전기차 포비아 속에서 보조금 지급이 필요한지에 대한 논란도 만만치 않다. 배터리셀이 더 많이 들어간 차량에 보조금을 지급하는 것이 시기상조라는... ",
-			"pubDate":"Thu, 22 Aug 2024 03:04:00 +0900"
-		},
-		{
 			"title":"기아, 전기차 배터리 이상 징후땐 문자 안내",
 			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20240821\/126626321\/2",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003583161?sid=101",
 			"description":"인천 <b>청라<\/b> 전기차 화재가 촉발한 ‘전기차 포비아’ 확산에 완성차와 배터리 기업이 안전 강화 서비스 정책을 속속 내놓고 있다. 기아는 21일 전기차 고객의 불안감을 해소하기 위한 종합 지원책을 내놓았다.... ",
+			"pubDate":"Thu, 22 Aug 2024 03:04:00 +0900"
+		},
+		{
+			"title":"볼보, 내달 대형 전기트럭 국내 도입… ‘보조금 지급’ 핫이슈 전망",
+			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20240821\/126626324\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003583160?sid=101",
+			"description":"하지만 최근 인천 <b>청라<\/b> 전기차 화재를 계기로 확산되고 있는 전기차 포비아 속에서 보조금 지급이 필요한지에 대한 논란도 만만치 않다. 배터리셀이 더 많이 들어간 차량에 보조금을 지급하는 것이 시기상조라는... ",
 			"pubDate":"Thu, 22 Aug 2024 03:04:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003853920?sid=101",
 			"description":"배터리 관리 ‘두뇌’ 역할 핵심기술 전기차·배터리 업계가 인천 <b>청라<\/b> 전기차 화재 이후 배터리 안전성에 대한 우려가 확산하는 것을 막기 위해 ‘배터리 관리 시스템(BMS)’ 서비스를 확대한다. BMS는 배터리 정보를... ",
 			"pubDate":"Thu, 22 Aug 2024 00:41:00 +0900"
-		},
-		{
-			"title":"세종시, 전기차 충전시설 설치 아파트 대상 화재안전조사",
-			"originallink":"http:\/\/fpn119.co.kr\/221087",
-			"link":"http:\/\/fpn119.co.kr\/221087",
-			"description":"= 세종시가 인천 <b>청라<\/b> 전기차 화재를 계기로 정부 정책과 연계한 대응 체계를 구축하고 안전관리 대책을 마련해 추진한다. 21일 세종시(시장 최민호)에 따르면 지난달 말 기준 세종시에 등록된 전기차는 4903대로 전체 차량... ",
-			"pubDate":"Wed, 21 Aug 2024 21:52:00 +0900"
-		},
-		{
-			"title":"인천 전기차 화재, 소방은 '4개월 전' 대형화재 우려",
-			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20240821024500641\/?input=1825m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000677781?sid=102",
-			"description":"인천 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 전기차 화재와 관련해 소방당국이 4개월 전 대형화재... 106대가 추가로 설치돼 화재 당시에는 116대로 늘었습니다. 한웅희 기자 (hlight@yna.co.kr) #인천_<b>청라<\/b> #지하주차장 #전기차",
-			"pubDate":"Wed, 21 Aug 2024 21:15:00 +0900"
 		}
 	]
 }
