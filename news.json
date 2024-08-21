@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 22 Aug 2024 02:30:02 +0900",
-	"total":240338,
+	"lastBuildDate":"Thu, 22 Aug 2024 02:40:02 +0900",
+	"total":240339,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"LG엔솔, 전기차 배터리 안전진단 소프트웨어 사업 확대",
+			"originallink":"https:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=106161",
+			"link":"https:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=106161",
+			"description":"|데일리포스트=송협 선임기자| &quot;배터리 제조뿐 아니라 안전하고 건강한 사용을 위한 BMS 솔루션 분야에서도 대체 불가능한 최고의 차별적 고객가치를 제공해 나가겠습니다.&quot; (LG에너지솔루션 김동명 사장) 최근 인천 <b>청라<\/b>... ",
+			"pubDate":"Thu, 22 Aug 2024 02:36:00 +0900"
+		},
 		{
 			"title":"KLPGA 정규투어 '하나금융그룹 챔피언십' 티켓 사전 판매",
 			"originallink":"https:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=106160",
@@ -194,13 +201,6 @@
 			"pubDate":"Wed, 21 Aug 2024 19:00:00 +0900"
 		},
 		{
-			"title":"소방, 4개월 전부터 '<b>청라<\/b> 전기차 화재 대형사고 예견'",
-			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/5517463",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007743131?sid=102",
-			"description":"4월 <b>청라<\/b> 지하 주차장 전기차 화재 아파트에 대한 조사 보고서를 작성했다. 소방은 보고서에 &quot;지하 주차장이... 실제로 지난 1일 오전 인천 서구 <b>청라<\/b>동 지하 1층 일반차량 주차구역에 세워져 있던 벤츠 전기차에서 갑자기... ",
-			"pubDate":"Wed, 21 Aug 2024 18:56:00 +0900"
-		},
-		{
 			"title":"&quot;대형화재 가능성&quot;…인천 전기차 화재 넉달 전, 소방서는 알았다",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25272148",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003381204?sid=102",
@@ -208,11 +208,11 @@
 			"pubDate":"Wed, 21 Aug 2024 18:56:00 +0900"
 		},
 		{
-			"title":"&quot;할인 늘려도 아무도 안와요&quot;… '전기차 공포증'에 발길 뚝 [현장르포]",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202408211825048565",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005230764?sid=103",
-			"description":"벤츠 EQE는 지난 1일 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 화재가 발생한 모델이다. 그는 &quot;화재 이후 해당 모델 할인 혜택을 기존 500만원에서 1000만원으로 2배 늘렸다&quot;며 &quot;전화로 가끔 문의가 오긴 하지만, 지금까지... ",
-			"pubDate":"Wed, 21 Aug 2024 18:26:00 +0900"
+			"title":"소방, 4개월 전부터 '<b>청라<\/b> 전기차 화재 대형사고 예견'",
+			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/5517463",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007743131?sid=102",
+			"description":"4월 <b>청라<\/b> 지하 주차장 전기차 화재 아파트에 대한 조사 보고서를 작성했다. 소방은 보고서에 &quot;지하 주차장이... 실제로 지난 1일 오전 인천 서구 <b>청라<\/b>동 지하 1층 일반차량 주차구역에 세워져 있던 벤츠 전기차에서 갑자기... ",
+			"pubDate":"Wed, 21 Aug 2024 18:56:00 +0900"
 		}
 	]
 }
