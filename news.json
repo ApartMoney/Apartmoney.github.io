@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 21 Aug 2024 15:50:02 +0900",
-	"total":240259,
+	"lastBuildDate":"Wed, 21 Aug 2024 16:00:03 +0900",
+	"total":240261,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;제 2 아리셀 화재 막자…열폭주 AI 예측, 불타지 않는 전해액&quot;",
+			"originallink":"https:\/\/www.news1.kr\/it-science\/general-science\/5517058",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007742780?sid=105",
+			"description":"최근의 아리셀 공장, <b>청라<\/b> 아파트 사고 등 화재 원인은 결국 '배터리 열폭주'다. 열폭주를 일으키는 주요 변수에는 물리적·전기적·열적 남용 등 세 가지가 있다. 물리적 남용은 충격·천공으로 인한 누액 등이다. 전기적... ",
+			"pubDate":"Wed, 21 Aug 2024 15:56:00 +0900"
+		},
+		{
+			"title":"송호성 기아 사장, '진퇴유곡'…전기차 포비아에 노조 리스크까지",
+			"originallink":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=207850",
+			"link":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=207850",
+			"description":"이달 초 인천 <b>청라<\/b> 아파트 전기차 화재 사고 이후로 전기차 포비아 현상이 커지면서 소비자들의 불안감 해소에 심혈을 쏟고 있다. 기아 역시 현대차에 이어 지난 12일 자사 전기차에 탑재된 배터리 제조사를 공개했다.... ",
+			"pubDate":"Wed, 21 Aug 2024 15:54:00 +0900"
+		},
 		{
 			"title":"[초점] 값싼 中배터리 탓에 벤츠 불탔는데…中회사들이 몰래 미소짓는 까닭은",
 			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=211525",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000102022?sid=102",
 			"description":"인천 <b>청라<\/b>에서 발생한 화재 사고 이후 전기차 공포증이 확산하는 가운데 세종시도 정부 정책과 연계한 대응 체계를 구축하고 안전관리 대책을 마련해 시행한다. 21일 시에 따르면 7월 말 기준 세종에 등록된 전기자동차는... ",
 			"pubDate":"Wed, 21 Aug 2024 13:59:00 +0900"
-		},
-		{
-			"title":"인천서구보건소, <b>청라<\/b> 전기차 화재 피해 주민 안전한 일상 복귀 지원",
-			"originallink":"http:\/\/www.breaknews.com\/1051400",
-			"link":"http:\/\/www.breaknews.com\/1051400",
-			"description":"인천 서구보건소가 지난 8월 1일 발생한 <b>청라<\/b>국제도시 아파트 지하주차장 전기차... 서구보건소에 따르면, <b>청라<\/b> 아파트 전기차 화재 시 주민들의 심리적, 신체적... ",
-			"pubDate":"Wed, 21 Aug 2024 13:42:00 +0900"
-		},
-		{
-			"title":"LG에너지솔루션 주가 방긋...세계에서 가장 많은 BMS 특허 보유 주목",
-			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=283175",
-			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=283175",
-			"description":"특히 최근 인천 <b>청라<\/b>의 한 아파트에서 발생한 전기차 화재로 안전에 대한 우려가 커지는 가운데 BMS가 주요 화재 원인로 꼽히는 '배터리 과충전'을 막는 데 기여할 수 있어 더욱 주목을 받고 있다. 현재... ",
-			"pubDate":"Wed, 21 Aug 2024 13:40:00 +0900"
 		}
 	]
 }
