@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 21 Aug 2024 21:50:02 +0900",
-	"total":240335,
+	"lastBuildDate":"Wed, 21 Aug 2024 22:00:02 +0900",
+	"total":240336,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"세종시, 전기차 충전시설 설치 아파트 대상 화재안전조사",
+			"originallink":"http:\/\/fpn119.co.kr\/221087",
+			"link":"http:\/\/fpn119.co.kr\/221087",
+			"description":"= 세종시가 인천 <b>청라<\/b> 전기차 화재를 계기로 정부 정책과 연계한 대응 체계를 구축하고 안전관리 대책을 마련해 추진한다. 21일 세종시(시장 최민호)에 따르면 지난달 말 기준 세종시에 등록된 전기차는 4903대로 전체 차량... ",
+			"pubDate":"Wed, 21 Aug 2024 21:52:00 +0900"
+		},
 		{
 			"title":"인천 전기차 화재, 소방은 '4개월 전' 대형화재 우려",
 			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20240821024500641\/?input=1825m",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=363062",
 			"description":"오 교수는 &quot;인천 <b>청라<\/b> 아파트 배터리 화재사고를 보면, 내연기관차는 1시간만에 소화된다면 전기차는 8시간이 걸리고 7배 인력과 110톤의 물이 필요하다&quot;며 &quot;재발화 위험도 존재하는 상황에서 화재시 전기차 등 배터리가... ",
 			"pubDate":"Wed, 21 Aug 2024 18:18:00 +0900"
-		},
-		{
-			"title":"인천시, 전기차 화재 대응 강화 … 저상 소방차와 궤도형 배연 로봇 도입",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363668121",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363668121",
-			"description":"시는 지난 1일 인천 서구 <b>청라<\/b>국제도시 아파트에서 발생한 지하주차장 전기차 화재의 후속 조치로 인천 시내 1천682개 아파트 단지를 대상으로 스프링클러를 비롯한 소방시설 정상 작동 여부를 점검하고 있다. 이와 함께... ",
-			"pubDate":"Wed, 21 Aug 2024 18:16:00 +0900"
 		}
 	]
 }
