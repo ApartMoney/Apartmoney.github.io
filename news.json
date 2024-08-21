@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 21 Aug 2024 14:30:03 +0900",
-	"total":240238,
+	"lastBuildDate":"Wed, 21 Aug 2024 14:40:02 +0900",
+	"total":240240,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, ‘저상소방차·배연로봇’ 도입 추진…“전기차 화재 대비”",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1398082\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002864099?sid=102",
+			"description":"시는 지난 1일 인천 서구 <b>청라<\/b>국제도시 아파트에서 발생한 지하주차장 전기차 화재의 후속 조치로 인천 시내 1682개 아파트 단지를 대상으로 스프링클러를 비롯한 소방시설 정상 작동 여부를 점검하고 있다. 이와 함께... ",
+			"pubDate":"Wed, 21 Aug 2024 14:30:00 +0900"
+		},
+		{
+			"title":"인천 서구보건소, <b>청라<\/b> 전기차 화재 피해 주민 안전한 일상 복귀 지원",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420423",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420423",
+			"description":"나은병원 의료진이 <b>청라<\/b> 아파트 전기차 화재 피해주민들에게 의료 지원을 하고 있다. 서구 포토 인천 서구보건소가 지난 1일 발생한 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재와 관련, 신속하고 철저한 대응으로... ",
+			"pubDate":"Wed, 21 Aug 2024 14:30:00 +0900"
+		},
 		{
 			"title":"인천 지하주차장 화재에... 소방청, 아파트 지하주차장 집중조사",
 			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024082109560005325?did=NA",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.redian.org\/news\/articleView.html?idxno=250913",
 			"description":"최근 인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재 이후 지하주차장 화재에 대한 불안감이 커지고 있다. 이에 소방청은 아파트 거주 주민들의 불안감을 해소하고 재발을 방지하기 위해 아파트 지하주차장 스프링클러설비 등... ",
 			"pubDate":"Wed, 21 Aug 2024 11:48:00 +0900"
-		},
-		{
-			"title":"한국지엠, <b>청라<\/b> 전기차 화재 아파트 '쉐보레' 차량 점검 지원",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251862",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251862",
-			"description":"인천투데이=장호영 기자｜한국지엠이 지난 1일 인천 서구 <b>청라<\/b> 한 아파트에서 발생한 전기차 화재로부터... 이달 31일까지 한국지엠 서인천서비스센터(석남동 642-12)와 <b>청라<\/b>바로서비스(청중로 478번길 18)에서 무상점검을... ",
-			"pubDate":"Wed, 21 Aug 2024 11:36:00 +0900"
-		},
-		{
-			"title":"성북구, 전기차 화재예방 대책 수립… 공공충전기 충전율 80% 권고 등",
-			"originallink":"https:\/\/www.munhwa.com\/news\/view.html?no=2024082101039927307002",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002655492?sid=102",
-			"description":"성북구는 지난 1일 인천 서구 <b>청라<\/b>동의 한 아파트 지하 주차장에서 발생한 전기차 화재 사고를 계기로... 인천 <b>청라<\/b>동 아파트 지하주차장 화재가 스프링클러 미작동으로 확산한 바에 착안, 9월 말까지 자체 점검을 완료할... ",
-			"pubDate":"Wed, 21 Aug 2024 11:24:00 +0900"
 		}
 	]
 }
