@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 21 Aug 2024 16:40:02 +0900",
-	"total":240273,
+	"lastBuildDate":"Wed, 21 Aug 2024 16:50:02 +0900",
+	"total":240274,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;자고 일어나니 '공공의 적' 됐다&quot;…집단소송 나선 벤츠 차주들",
+			"originallink":"https:\/\/www.news1.kr\/industry\/auto-industry\/5517230",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007742946?sid=103",
+			"description":"지난 1일 인천 <b>청라<\/b> 아파트 지하주차장에 주차돼 있던 벤츠 EQE 350+ 차량에서 발생한 화재로 인해 차량 87대가 전소되고 793대가 그을리는 피해가 발생했다. 이 사고로 아파트 단지 내 대규모 정전과 단수가 이어지면서... ",
+			"pubDate":"Wed, 21 Aug 2024 16:46:00 +0900"
+		},
+		{
+			"title":"인천 강화남단 경제자유구역 지정 '선택과 집중' 11월 신청",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251874",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251874",
+			"description":"인천경제청 관계자는 &quot;현재 송도·<b>청라<\/b>·영종국제도시를 비롯한 인천경제자유구역은 전체 면적 122㎢ 가운데 용지 조성률이 90%를 초과했다. 첨단산업용지 분양 잔여면적은 6% 수준&quot;이라며 &quot;외국인 투자기업 추가 유치를... ",
+			"pubDate":"Wed, 21 Aug 2024 16:42:00 +0900"
+		},
 		{
 			"title":"인천 서구보건소, <b>청라<\/b> 전기차 화재 피해 주민 일상 복귀 지원",
 			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=183600",
@@ -12,7 +26,7 @@
 			"pubDate":"Wed, 21 Aug 2024 16:38:00 +0900"
 		},
 		{
-			"title":"[단독]인천 전기차 화재 아파트, 4월 소방당국도 ‘전기차 충전 시설 화재 우...",
+			"title":"[단독] ‘인천 전기차 화재’ 아파트 조사한 소방, ‘사고 가능성’ 4개월 전...",
 			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1154691.html",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002703720?sid=102",
 			"description":"인천 <b>청라<\/b>국제도시 아파트에서 전기차 화재가 발생하기 4개월 전, 소방당국이 이 아파트를 소방조사하면서... 발생한 <b>청라<\/b> 아파트를 지난 4월에 소방조사한 뒤 보고서를 작성했다. 이 보고서에는 해당 아파트의 연소 확대... ",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2166318",
 			"description":"앞서 지난 1일 오전 6시 15분께 인천 <b>청라<\/b> 지역 한 아파트 지하 1층 주차장에서 벤츠 전기차 EQE 차량에서 화재가 발생해 8시간 20분에 진화됐다. 이 화재로 102세대 307명의 이재민이 발생했다. 주변에 주차된 140대도 피해를... ",
 			"pubDate":"Wed, 21 Aug 2024 15:00:00 +0900"
-		},
-		{
-			"title":"전기차 화재 키운 지하주차장…인천시, 저상소방차 도입",
-			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/5517054",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007742434?sid=102",
-			"description":"인천에선 지난 1일 서구 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 전기차 화재가 발생했다. 이 불로 인근에 주차돼 있던 차량 140여 대가 불타고, 입주민 23명이 연기를 들이마셨다. 또 건물의 전기·수도 배관이 녹아... ",
-			"pubDate":"Wed, 21 Aug 2024 14:58:00 +0900"
-		},
-		{
-			"title":"인천시, 전기차 화재 대비 저상소방차ㆍ배연로봇 도입",
-			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=155332",
-			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=155332",
-			"description":"유정복 시장은 &quot;이번 <b>청라<\/b> 아파트 화재를 계기로 실질적인 전기차 화재 예방책을 마련해 인천시민들의 불안감을 해소하고 피해를 최소화하기 위해 적극 노력하겠다&quot;라고 밝혔다.",
-			"pubDate":"Wed, 21 Aug 2024 14:56:00 +0900"
 		}
 	]
 }
