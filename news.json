@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 21 Aug 2024 13:50:02 +0900",
-	"total":240231,
+	"lastBuildDate":"Wed, 21 Aug 2024 14:00:02 +0900",
+	"total":240232,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 2.6% 세종시, 아파트 지하충전시설 '지상화' 한다",
+			"originallink":"https:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2150882",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000102022?sid=102",
+			"description":"인천 <b>청라<\/b>에서 발생한 화재 사고 이후 전기차 공포증이 확산하는 가운데 세종시도 정부 정책과 연계한 대응 체계를 구축하고 안전관리 대책을 마련해 시행한다. 21일 시에 따르면 7월 말 기준 세종에 등록된 전기자동차는... ",
+			"pubDate":"Wed, 21 Aug 2024 13:59:00 +0900"
+		},
 		{
 			"title":"인천서구보건소, <b>청라<\/b> 전기차 화재 피해 주민 안전한 일상 복귀 지원",
 			"originallink":"http:\/\/www.breaknews.com\/1051400",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005816134?sid=102",
 			"description":"소방청은 지난 1일 인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재에서 스프링클러 설비 등이 작동하지 않아 피해가 확산 된 사고와 관련해 아파트 거주 중인 국민의 불안감 해소 및 재발방지 등 개선대책의 일환으로 아파트... ",
 			"pubDate":"Wed, 21 Aug 2024 10:50:00 +0900"
-		},
-		{
-			"title":"[21일 인천 서구] <b>청라<\/b> 전기차 화재 피해 주민 일상 복귀 지원 등",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20240821500103",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20240821500103",
-			"description":"발생한 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재와 관련, 신속하고 철저한 대응으로 주민들의 안전한 일상 복귀를 지원하고 있다고 밝혔다. 서구보건소에 따르면 <b>청라<\/b> 아파트 전기차 화재 시 주민들의 심리적... ",
-			"pubDate":"Wed, 21 Aug 2024 10:48:00 +0900"
 		}
 	]
 }
