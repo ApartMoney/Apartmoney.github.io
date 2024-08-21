@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 21 Aug 2024 17:20:02 +0900",
-	"total":240280,
+	"lastBuildDate":"Wed, 21 Aug 2024 17:30:02 +0900",
+	"total":240282,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"한국지엠 노사, <b>청라<\/b> 전기차 화재 주민 지원",
+			"originallink":"http:\/\/www.labortoday.co.kr\/news\/articleView.html?idxno=223251",
+			"link":"http:\/\/www.labortoday.co.kr\/news\/articleView.html?idxno=223251",
+			"description":"인천 <b>청라<\/b> 아파트 전기차 화재 사건과 관련해 한국지엠 노사가 해당 지역 쉐보레 차량을 무상점검하기로... 노사는 지난 1일 전기차 화재 이후 14일 <b>청라<\/b> 화재 피해 복구 관련 긴급 노사협의를 진행하고 차량이 전소된... ",
+			"pubDate":"Wed, 21 Aug 2024 17:26:00 +0900"
+		},
+		{
+			"title":"전기차 포비아' 막아라…안전성에 초점 맞추는 K-배터리 [소부장박대리]",
+			"originallink":"https:\/\/www.ddaily.co.kr\/page\/view\/2024082116491742352",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002180522?sid=105",
+			"description":"실제로 지난 1일 인천 서구 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재가 800여대의 주변 차량까지 피해가 번지는 사고로 이어진 바 있다. 17일(현지시간)에는 포르투갈 리스본 움베르투 델가도 국제공항... ",
+			"pubDate":"Wed, 21 Aug 2024 17:25:00 +0900"
+		},
 		{
 			"title":"인천 서구, 청소년 e스포츠 대회 개최",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1263168",
@@ -68,7 +82,7 @@
 			"pubDate":"Wed, 21 Aug 2024 16:38:00 +0900"
 		},
 		{
-			"title":"[단독] 소방당국, ‘<b>청라<\/b> 전기차 화재’ 가능성 4개월 전에 인지했다",
+			"title":"[단독] “증설된 충전기 위험”…넉달 전부터 예견된 <b>청라<\/b> 전기차 화재",
 			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1154691.html",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002703720?sid=102",
 			"description":"인천 <b>청라<\/b>국제도시 아파트에서 전기차 화재가 발생하기 4개월 전, 소방당국이 이 아파트를 소방조사하면서... 발생한 <b>청라<\/b> 아파트를 지난 4월에 소방조사한 뒤 보고서를 작성했다. 이 보고서에는 해당 아파트의 연소 확대... ",
@@ -194,25 +208,11 @@
 			"pubDate":"Wed, 21 Aug 2024 15:23:00 +0900"
 		},
 		{
-			"title":"인천 전기차 화재 신속 대응…저상소방차·연기배출 로봇 도입",
-			"originallink":"https:\/\/www.khan.co.kr\/economy\/market-trend\/article\/202408211521011",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003316178?sid=101",
-			"description":"인천시는 서구 <b>청라<\/b>국제도시 지하주차장에서 지난 1일 발생한 전기차 화재에 대한 안전 종합대책회의를... 한편 지난 1일 인천 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에 있던 벤츠 전기차에서 폭발과 함께 화재가... ",
-			"pubDate":"Wed, 21 Aug 2024 15:22:00 +0900"
-		},
-		{
 			"title":"인천 서구 곳곳서 찾아가는 문화예술공연... <b>청라<\/b>·검단·루원·가좌 등 대상",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103546",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103546",
 			"description":"찾아가는 서구 문화배달은 오는 22일 검암역 광장을 시작으로 31일 당하동 먹자골목, 9월 7일 검단사거리역 광장, 27일 가좌3동 건지공원, 10월 5일 <b>청라<\/b>1동 커낼웨이 버스킹존 등에서 열린다. 클래식·재즈 팝업 연주회는... ",
 			"pubDate":"Wed, 21 Aug 2024 15:22:00 +0900"
-		},
-		{
-			"title":"배터리 제조사 공개부터 전기차 강제 견인까지... 전기차 화재 예방 입법 살펴...",
-			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024082111540003576?did=NA",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000818837?sid=102",
-			"description":"지난 1일 인천 <b>청라<\/b>국제도시의 아파트 지하주차장에서 일어난 전기차 화재 사건 이후 국회에선 전기차 화재 예방을 위한 법안이 쏟아지고 있다. 사건 발생 후 20일 동안 발의된 관련 법안은 14건. 휴일을 제외하면 하루에 1.... ",
-			"pubDate":"Wed, 21 Aug 2024 15:21:00 +0900"
 		}
 	]
 }
