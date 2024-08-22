@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 22 Aug 2024 12:20:02 +0900",
-	"total":240431,
+	"lastBuildDate":"Thu, 22 Aug 2024 12:30:02 +0900",
+	"total":240432,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"롯데오픈 우승 이가영, 7월 KLPGA 위메이드 대상 포인트 우수 선수 선정!",
+			"originallink":"https:\/\/feedapi.cloud.sbs.co.kr\/feed-api\/article_hub\/G20000001777",
+			"link":"https:\/\/feedapi.cloud.sbs.co.kr\/feed-api\/article_hub\/G20000001777",
+			"description":"이가영은 지난 7월 7일 인천시 베어즈베스트 <b>청라<\/b> 골프클럽 미국, 오스트랄 아시아 코스(파72, 6,655야드)에 열린 KLPGA 투어 &lt;롯데 오픈&gt; 최종라운드에서 18언더파 270타를 기록하며 동타를 기록한 윤이나... ",
+			"pubDate":"Thu, 22 Aug 2024 12:20:00 +0900"
+		},
 		{
 			"title":"아워홈, '구씨반가 갈치김치' 코스트코서 판매",
 			"originallink":"https:\/\/sports.hankooki.com\/news\/articleView.html?idxno=6872677",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2166885",
 			"description":"<b>청라<\/b>국제도시 주민들의 편의 증진에 크게 기여할 코스트코 <b>청라<\/b>점이 22일 정식으로 문을 열었다. 인천경제자유구역청(청장 윤원석)은 코스트코 <b>청라<\/b>점 프리오픈식 개최와 함께 코스트코 <b>청라<\/b>점의 공식 개장을 밝혔다.... ",
 			"pubDate":"Thu, 22 Aug 2024 10:30:00 +0900"
-		},
-		{
-			"title":"코스트코 <b>청라<\/b>점, 우리나라 최초 미국식 표준형으로 개장",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1263259",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1263259",
-			"description":"인천 <b>청라<\/b>국제도시에 우리 나라 최초 미국식 표준형 코스트코가 22일 문을 열었다. 코스트코 <b>청라<\/b>점은 <b>청라<\/b>국제도시 투자유치용지 5만8746㎡ 규모에 들어섰다. 지난해 6월 착공 후 14개월 만에 공사를 마치고 운영에... ",
-			"pubDate":"Thu, 22 Aug 2024 10:28:00 +0900"
 		}
 	]
 }
