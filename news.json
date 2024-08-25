@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 26 Aug 2024 06:10:02 +0900",
-	"total":240764,
+	"lastBuildDate":"Mon, 26 Aug 2024 06:20:02 +0900",
+	"total":240766,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 전기차 화재 이후 법안 18건 우수수…소방시설 의무부터 지상 주차...",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024082502109932049001&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002897584?sid=101",
+			"description":"차량 87대의 전소와 793대의 그을음 피해를 낸 '인천 <b>청라<\/b> 전기차 화재' 이후 국회가 전기차의 화재 예방을... 25일 국회 의안정보시스템에 따르면 이달 1일 인천 <b>청라<\/b> 전기차 화재 이후부터 이날까지 국회에 발의된 전기차와... ",
+			"pubDate":"Mon, 26 Aug 2024 06:15:00 +0900"
+		},
+		{
+			"title":"이닉스, 전기차 화재시 '골든타임 확보'…미국 본격 공략",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024082510113634984",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005463264?sid=101",
+			"description":"인천 <b>청라<\/b>국제도시에서 전기차 화재가 발생하면서 안전 관련 부품의 중요성이 커져서다. 국내뿐만 아니라 미국과 중국에서도 전기차 화재에 대한 관심이 커지면서 전 세계적으로 부품 수요가 늘어날 것으로 보인다.... ",
+			"pubDate":"Mon, 26 Aug 2024 06:10:00 +0900"
+		},
 		{
 			"title":"'전기차 포비아' 잡는다… 당정, 전기차 배터리 정보 공개 의무화",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240825510058?OutUrl=naver",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002704283?sid=100",
 			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 벤츠 전기차 화재 사고가 일어난 이후 전기차 안전에 대한 우려가 급속도로 확산한 데 따른 조치다. 이와 함께 전국 모든 소방서에 전기차 화재 진압 장비를 전진 배치하고, 업계와 협의를... ",
 			"pubDate":"Sun, 25 Aug 2024 19:02:00 +0900"
-		},
-		{
-			"title":"당정, 전기차 화재방지책 확정…&quot;배터리 정보공개 의무화&quot;",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20240825185122566",
-			"link":"https:\/\/www.ajunews.com\/view\/20240825185122566",
-			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고 이후 전기차 안전에 대한 우려가 급속도로 확산한 데 따른 조치다. 정부와 대통령실, 국민의힘은 25일 삼청동 국무총리공관에서 고위 협의회를 열어 이 같은... ",
-			"pubDate":"Sun, 25 Aug 2024 18:54:00 +0900"
-		},
-		{
-			"title":"[기획] 한달새 전기차 규제안 18개 찍어냈다",
-			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024082602100151049001&ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002897561?sid=101",
-			"description":"21대 국회 폐기 법안도 재탕 충전시설 지상 설치 의무화도 &quot;과학적 근거로 법안 발의해야&quot; 국회가 인천 <b>청라<\/b>... 25일 국회 의안정보시스템에 따르면 이달 1일 인천 <b>청라<\/b> 전기차 화재 이후부터 이날까지 국회에 발의된... ",
-			"pubDate":"Sun, 25 Aug 2024 18:45:00 +0900"
 		}
 	]
 }
