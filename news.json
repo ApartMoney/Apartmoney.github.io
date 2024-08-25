@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 26 Aug 2024 06:20:02 +0900",
-	"total":240766,
+	"lastBuildDate":"Mon, 26 Aug 2024 06:30:02 +0900",
+	"total":240767,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 배터리 정보공개 의무화…인증제도 조기 시행",
+			"originallink":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=438055",
+			"link":"https:\/\/www.goodnews1.com\/news\/articleView.html?idxno=438055",
+			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고 이후 전기차 안전에 대한 우려가 급속도로 확산한 데 따른 조치다. 현재 전기차 제조사들은 신차 출시 때 배터리 제조사 등의 상세 정보를 공개할 의무가 없다.... ",
+			"pubDate":"Mon, 26 Aug 2024 06:22:00 +0900"
+		},
 		{
 			"title":"인천 전기차 화재 이후 법안 18건 우수수…소방시설 의무부터 지상 주차...",
 			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024082502109932049001&ref=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=216633",
 			"description":"한양 관계자는, &quot;청량리, 의정부, <b>청라<\/b> 등 지역 랜드마크를 포함해 전국에 23만호를 공급한 수자인 브랜드 파워를 바탕으로 수주 경쟁력을 높여 나갈 것&quot;이라며 &quot;수주 채널 다변화를 통한 양질의 사업 수주로 수익성... ",
 			"pubDate":"Sun, 25 Aug 2024 19:16:00 +0900"
-		},
-		{
-			"title":"전기차 배터리 정보 공개 곧 의무화…신축엔 습식 스프링클러 설치",
-			"originallink":"https:\/\/www.hani.co.kr\/arti\/politics\/politics_general\/1155250.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002704283?sid=100",
-			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 벤츠 전기차 화재 사고가 일어난 이후 전기차 안전에 대한 우려가 급속도로 확산한 데 따른 조치다. 이와 함께 전국 모든 소방서에 전기차 화재 진압 장비를 전진 배치하고, 업계와 협의를... ",
-			"pubDate":"Sun, 25 Aug 2024 19:02:00 +0900"
 		}
 	]
 }
