@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 25 Aug 2024 22:10:02 +0900",
-	"total":240751,
+	"lastBuildDate":"Sun, 25 Aug 2024 22:20:02 +0900",
+	"total":240752,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'화재 위험' 노후 숙박시설, 스프링클러 없는 '안전 사각지대'",
+			"originallink":"https:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=4017817",
+			"link":"https:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=4017817",
+			"description":"반면에 스프링클러가 설치되지 않았거나 작동하지 않은 화성 아리셀 공장과 인천 <b>청라<\/b>아파트 지하주차장에서 일어난 화재는 대규모 인명 피해 및 재산 피해를 낸 후에야 진화됐다. 이에 스프링클러를 기존 건물에... ",
+			"pubDate":"Sun, 25 Aug 2024 22:12:00 +0900"
+		},
 		{
 			"title":"한양, 행신1-1 재개발 수주…1800억 규모",
 			"originallink":"https:\/\/www.kukinews.com\/article\/view\/kuk202408250038",
@@ -205,13 +212,6 @@
 			"originallink":"https:\/\/www.mk.co.kr\/article\/11101057",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005355287?sid=101",
 			"description":"전기차 화재 사고 대응책 마련 최근 인천 <b>청라<\/b> 아파트 사건으로 전기차 배터리 화재에 대한 우려가 커진 가운데 정부와 국민의힘이 전기차 제조사의 배터리 정보 공개를 의무화하고 배터리 인증제도 역시 앞당겨... ",
-			"pubDate":"Sun, 25 Aug 2024 17:57:00 +0900"
-		},
-		{
-			"title":"전기차 배터리 정보공개 의무화…지하주차장엔 스프링클러 설치(종합)",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240825039551001?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014891973?sid=100",
-			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고 이후 전기차 안전에 대한 우려가 급속도로 확산한 데 따른 조치다. 현재 전기차 제조사들은 신차 출시 때 배터리 제조사 등의 상세 정보를 공개할 의무가 없다.... ",
 			"pubDate":"Sun, 25 Aug 2024 17:57:00 +0900"
 		}
 	]
