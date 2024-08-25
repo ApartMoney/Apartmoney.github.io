@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 26 Aug 2024 03:30:02 +0900",
-	"total":240759,
+	"lastBuildDate":"Mon, 26 Aug 2024 03:40:02 +0900",
+	"total":240760,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"제일엠앤에스, 주가 급등…당정 '전기차 화재방지책' 확정",
+			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408260326345913cd1e7f0bdf_23",
+			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408260326345913cd1e7f0bdf_23",
+			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고 이후 전기차 안전에 대한 우려가 급속도로 확산한 데 따른 조치다. 이와 함게 당정대는 전국 모든 소방서에 전기차 화재 진압 장비를 전진 배치하고, 업계와... ",
+			"pubDate":"Mon, 26 Aug 2024 03:28:00 +0900"
+		},
 		{
 			"title":"이렘, 주가 급등…당정, 전기차 화재방지책 확정",
 			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408260325333322cd1e7f0bdf_23",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011787358?sid=100",
 			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고 이후 전기차 안전에 대한 우려가 커지고 있는데 따른 조치입니다. 구체적으로 정부는 전기차 안전과 관련된 국민 알권리 보장을 위해 자동차 제조사의 배터리... ",
 			"pubDate":"Sun, 25 Aug 2024 18:26:00 +0900"
-		},
-		{
-			"title":"전기차 배터리 정보공개 의무화 된다",
-			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024082518105288349",
-			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024082518105288349",
-			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고 이후 전기차 안전에 대한 우려가 급속도로 확산한 데 따른 조치다. 이와 함게 당정대는 전국 모든 소방서에 전기차 화재 진압 장비를 전진 배치하고, 업계와... ",
-			"pubDate":"Sun, 25 Aug 2024 18:14:00 +0900"
 		}
 	]
 }
