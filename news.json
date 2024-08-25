@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 25 Aug 2024 15:30:02 +0900",
-	"total":240705,
+	"lastBuildDate":"Sun, 25 Aug 2024 15:40:02 +0900",
+	"total":240706,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"한동훈 추석 앞두고 &quot;안정적 물가 관리 정부·대통령실 함께 논의해야&quot;...",
+			"originallink":"http:\/\/news.tf.co.kr\/read\/photomovie\/2127669.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000315801?sid=100",
+			"description":"<b>청라<\/b> 전기차 화재와 관련해서는 &quot;지난 비공개 고위당정에서 저희가 전기차 화재 대책을 추가로 논의하자는 제안을 드렸었고 그 이후에 당과 정이 많은 노력을 했던 것으로 안다&quot;며 &quot;이슈에 대해 이번에 분명하게 짚고... ",
+			"pubDate":"Sun, 25 Aug 2024 15:36:00 +0900"
+		},
 		{
 			"title":"인천시, ‘세수부족 대비’ 군·구 교부금 기준 개선",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240825580091",
@@ -194,13 +201,6 @@
 			"pubDate":"Sun, 25 Aug 2024 11:26:00 +0900"
 		},
 		{
-			"title":"인천환경공단, 미술작가들과 미술작품 스케치 활동 업무협약",
-			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240825010006439",
-			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240825010006439",
-			"description":"인천환경공단은 지난 24일 서구 <b>청라<\/b>사업소에서 인천여성미술비엔날레 추진위원회 미술작가 30여명과 함께... 10월 <b>청라<\/b>사업소에서 전시회를 가질 예정이다. 공단 최계운 이사장은 &quot;인천을 대표하는 인천여성미술비엔날래... ",
-			"pubDate":"Sun, 25 Aug 2024 11:18:00 +0900"
-		},
-		{
 			"title":"인천시설공단, <b>청라<\/b> 지하주차장 화재 이재민에 ‘온정’ 전달",
 			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240825010006455",
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240825010006455",
@@ -208,11 +208,11 @@
 			"pubDate":"Sun, 25 Aug 2024 11:18:00 +0900"
 		},
 		{
-			"title":"인천환경공단, 미술작품 스케치 활동…작가 30여명 참여",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240825_0002861437",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012746303?sid=102",
-			"description":"인천환경공단은 지난 24일 서구 <b>청라<\/b>사업소에서 인천여성미비엔날레 추진위원회 미술작가 30여명과 함께... 10월 <b>청라<\/b>사업소에서 전시회를 가질 예정이다. 최계운 공단 이사장은 &quot;인천을 대표하는 인천여성미술비엔날래... ",
-			"pubDate":"Sun, 25 Aug 2024 11:07:00 +0900"
+			"title":"인천환경공단, 미술작가들과 미술작품 스케치 활동 업무협약",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240825010006439",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240825010006439",
+			"description":"인천환경공단은 지난 24일 서구 <b>청라<\/b>사업소에서 인천여성미술비엔날레 추진위원회 미술작가 30여명과 함께... 10월 <b>청라<\/b>사업소에서 전시회를 가질 예정이다. 공단 최계운 이사장은 &quot;인천을 대표하는 인천여성미술비엔날래... ",
+			"pubDate":"Sun, 25 Aug 2024 11:18:00 +0900"
 		}
 	]
 }
