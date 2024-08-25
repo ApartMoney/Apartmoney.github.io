@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 25 Aug 2024 10:10:02 +0900",
-	"total":240665,
+	"lastBuildDate":"Sun, 25 Aug 2024 10:20:02 +0900",
+	"total":240667,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"숙박시설 화재 5년간 1843건…스프링클러 미설치 여전히 다수",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DD5K8XPKU",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004383888?sid=102",
+			"description":"반면에 스프링클러가 설치되지 않았거나 작동하지 않은 화성 아리셀 공장과 인천 <b>청라<\/b>아파트 지하주차장에서 일어난 화재는 대규모 인명 피해 및 재산 피해를 낸 후에야 진화됐다. 이에 스프링클러를 기존 건물에... ",
+			"pubDate":"Sun, 25 Aug 2024 10:12:00 +0900"
+		},
+		{
+			"title":"한국공항공사, 공항 내 전기차 화재 대응 강화…24시간 CCTV 모니터링",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20240825500096",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20240825500096",
+			"description":"최근 인천 <b>청라<\/b> 아파트 지하주차장 화재, 포르투갈 리스본 국제공항 인근 렌트카 주차장 화재 등 전기차 화재 사고가 잇따르자 대형 피해를 막기위해 소방훈련을 실시했다. 이번 훈련은 전기차 화재 발생 시 신속하고... ",
+			"pubDate":"Sun, 25 Aug 2024 10:10:00 +0900"
+		},
 		{
 			"title":"전기차 화재 사고 논란…태평양 &quot;중대재해법 위반될 수도&quot;",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01308726638990928",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/037\/0000034878?sid=101",
 			"description":"배터리 이상 징후 감지 1차 컨트롤타워… 국내 전기차 화재 91%는 국산 배터리 8월 1일 인천 <b>청라<\/b> 아파트... 이번 인천 <b>청라<\/b> 전기차 화재에서는 이 같은 BMS 기능이 제대로 작동하지 않은 정황이 다수 발견됐다. BMS가 화재... ",
 			"pubDate":"Sat, 24 Aug 2024 09:02:00 +0900"
-		},
-		{
-			"title":"&quot;전기차 배터리도 암 걸린다? 생기면 안 될 부산물 생겨 터져&quot; [한판승부...",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6200571?utm_source=naver&utm_medium=article&utm_campaign=20240824090059",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003931074?sid=102",
-			"description":"최근 <b>청라<\/b>에서 벤츠 전기차 화재사건 이후에 전기차 안전성에 대한 우려 또 전기차 배터리는 무엇을 써야... 일단 지난 <b>청라<\/b>지역 전기차 화재사건 때 그러니까 가만히 지하주차장에 전기차가 세워져 있었다는 것이고요.... ",
-			"pubDate":"Sat, 24 Aug 2024 09:01:00 +0900"
-		},
-		{
-			"title":"[초점] 벤츠 화재로 '전고체 판' 깔렸는데…자신하던 K-배터리, 한발 물...",
-			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=211706",
-			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=211706",
-			"description":"인천 서구 <b>청라<\/b>국제도시의 한 아파트 지하 주차장에서 발생한 벤츠 전기차 화재로 배터리의 위험성에 대한 포비아(Phobia, 공포증)가 확산하고 있다. 이번 사고로 인해 화재 걱정이 거의 없는 '게임체인저(Game Changer)'로... ",
-			"pubDate":"Sat, 24 Aug 2024 09:00:00 +0900"
 		}
 	]
 }
