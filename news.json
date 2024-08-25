@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 25 Aug 2024 22:40:02 +0900",
-	"total":240752,
+	"lastBuildDate":"Sun, 25 Aug 2024 22:50:02 +0900",
+	"total":240753,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천환경공단, 미술작가들과 함께 자원순환센터에 문화 입혀",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=469421",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=469421",
+			"description":"사진제공=인천환경공단 인천환경공단(이사장 최계운)은 서구 <b>청라<\/b>사업소에서 인천여성미비엔날레... 교육을 마친 후 미술작가들은 느낀점을 바탕으로 미술작품 스케치 활동을 가졌으며, 이후 작품이 완성되면 10월 <b>청라<\/b>사... ",
+			"pubDate":"Sun, 25 Aug 2024 22:40:00 +0900"
+		},
 		{
 			"title":"'화재 위험' 노후 숙박시설, 스프링클러 없는 '안전 사각지대'",
 			"originallink":"https:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=4017817",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1263670",
 			"description":"지난 1일 인천 서구 <b>청라<\/b>동 제일풍경채 2차 아파트 지하주차장에서 발생한 전기차 화재 사고가 대표적... 달한다&quot;며 &quot;인천 <b>청라<\/b> 전기차 화재 사건을 미뤄볼 때 스프링클러를 단순히 확대 설치만 할 것이 아니라 철저한... ",
 			"pubDate":"Sun, 25 Aug 2024 18:00:00 +0900"
-		},
-		{
-			"title":"배터리 제조사 공개 의무화 안전 인증제 10월로 앞당겨",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/11101057",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005355287?sid=101",
-			"description":"전기차 화재 사고 대응책 마련 최근 인천 <b>청라<\/b> 아파트 사건으로 전기차 배터리 화재에 대한 우려가 커진 가운데 정부와 국민의힘이 전기차 제조사의 배터리 정보 공개를 의무화하고 배터리 인증제도 역시 앞당겨... ",
-			"pubDate":"Sun, 25 Aug 2024 17:57:00 +0900"
 		}
 	]
 }
