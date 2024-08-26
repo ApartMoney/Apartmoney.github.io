@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 26 Aug 2024 23:10:02 +0900",
-	"total":240927,
+	"lastBuildDate":"Mon, 26 Aug 2024 23:20:02 +0900",
+	"total":240928,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'인천 전기차 화재' 아파트 관리소 직원 입건...스프링클러 왜 껐나?",
+			"originallink":"https:\/\/news.jtbc.co.kr\/article\/article.aspx?news_id=NB12212123",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000407809?sid=102",
+			"description":"지난 1일 새벽 6시쯤, 인천 <b>청라<\/b>동의 한 아파트 지하주차장에 세워져 있는 전기차에서 시작된 불. 차 880여 대가 완전히 타거나 그을렸고 주민들은 일주일 가까이 피난살이를 해야 했습니다. 스프링클러가 작동 안 해 피해가... ",
+			"pubDate":"Mon, 26 Aug 2024 23:18:00 +0900"
+		},
 		{
 			"title":"'인천 전기차 화재' 스프링클러 끈 근무자 입건",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202408262247028715",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=396989",
 			"description":"A씨는 지난 1일 인천시 서구 <b>청라<\/b>동 아파트 화재 당시 '솔레노이드 밸브'와 연동된 정지 버튼을 눌러 스프링클러 작동을 멈추게 한 혐의를 받고 있습니다. 조사 결과 불이 난 직후인 당일 오전 6시 9분께 수신기로 화재... ",
 			"pubDate":"Mon, 26 Aug 2024 18:28:00 +0900"
-		},
-		{
-			"title":"'인천 전기차 화재' 스프링클러 끈 야간근무자 입건",
-			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20240826019800641\/?input=1825m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000678619?sid=102",
-			"description":"인천 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 전기차 화재와 관련해 스프링클러를 끈 관리사무소 직원이 소방당국에 입건됐습니다. 인천소방본부 특별사법경찰은 소방시설 설치 및 관리에 관한 법률 위반 혐의로... ",
-			"pubDate":"Mon, 26 Aug 2024 18:23:00 +0900"
 		}
 	]
 }
