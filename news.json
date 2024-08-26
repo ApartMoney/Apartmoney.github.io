@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 26 Aug 2024 22:10:02 +0900",
-	"total":240925,
+	"lastBuildDate":"Mon, 26 Aug 2024 22:20:02 +0900",
+	"total":240926,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 전기차 화재 당시 스프링클러 끈 야간근무자 ‘입건’",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DD623OK0N",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004384539?sid=102",
+			"description":"A씨는 지난 1일 인천 서구 <b>청라<\/b>동 아파트 화재 당시 준비시작동식밸브인 ‘솔레노이드 밸브’와 연동된 정지 버튼을 눌러 스프링클러 작동을 멈추게 한 혐의를 받는다. 조사 결과 불이 난 직후인 당일 오전 6시9분께... ",
+			"pubDate":"Mon, 26 Aug 2024 22:14:00 +0900"
+		},
 		{
 			"title":"동대문구, 소방·경찰과 손잡고 전기차 화재 대응 총력",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024082621223294283",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000864876?sid=102",
 			"description":"인천 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 전기차 화재 사건과 관련해 화재 당시 스프링클러 작동을... A씨는 지난 1일 오전 6시9분께 인천 서구 <b>청라<\/b>동 아파트 화재 당시 준비작동식밸브 연동 정지 버튼을 눌러... ",
 			"pubDate":"Mon, 26 Aug 2024 18:15:00 +0900"
-		},
-		{
-			"title":"인천 전기차 화재서 스프링클러 잠근 야간근무자 입건",
-			"originallink":"https:\/\/www.smartfn.co.kr\/article\/view\/sfn202408260087",
-			"link":"https:\/\/www.smartfn.co.kr\/article\/view\/sfn202408260087",
-			"description":"스마트에프엔 김동하 기자 인천 <b>청라<\/b>국제도시 지하 주차장에서 전기차 화재가 발생할 당시 스프링클러와... A씨는 지난 1일 인천시 서구 <b>청라<\/b> 아파트 화재 당시 솔레노이드 밸브와 연동된 정지 버튼을 눌러 스프링클러... ",
-			"pubDate":"Mon, 26 Aug 2024 18:14:00 +0900"
 		}
 	]
 }
