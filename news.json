@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 27 Aug 2024 06:10:02 +0900",
-	"total":240946,
+	"lastBuildDate":"Tue, 27 Aug 2024 06:20:02 +0900",
+	"total":240947,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"TKG애강, 주가 급등…'전기차 화재' 대안에 스프링클러 설치 의무화",
+			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408270616353200cd1e7f0bdf_23",
+			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408270616353200cd1e7f0bdf_23",
+			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고 이후 전기차 안전에 대한 우려가 급속도로 확산한 데 따른 조치다. 이와 함게 당정대는 전국 모든 소방서에 전기차 화재 진압 장비를 전진 배치하고... ",
+			"pubDate":"Tue, 27 Aug 2024 06:18:00 +0900"
+		},
 		{
 			"title":"[사설]전환기 맞은 전기차, 미래 주력산업 육성 차질 없어야",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01266086638991584",
@@ -75,16 +82,16 @@
 			"pubDate":"Tue, 27 Aug 2024 05:22:00 +0900"
 		},
 		{
-			"title":"이랜텍, 주가 급등…당정, 전기차 화재방지책 확정",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408270519062567cd1e7f0bdf_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408270519062567cd1e7f0bdf_23",
+			"title":"이렘, 주가 급등…화재 위험 '리튬전지 대체제' 기대감↑",
+			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408270518023354cd1e7f0bdf_23",
+			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408270518023354cd1e7f0bdf_23",
 			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고 이후 전기차 안전에 대한 우려가 급속도로 확산한 데 따른 조치다. 이와 함게 당정대는 전국 모든 소방서에 전기차 화재 진압 장비를 전진 배치하고... ",
 			"pubDate":"Tue, 27 Aug 2024 05:20:00 +0900"
 		},
 		{
-			"title":"이렘, 주가 급등…화재 위험 '리튬전지 대체제' 기대감↑",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408270518023354cd1e7f0bdf_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408270518023354cd1e7f0bdf_23",
+			"title":"이랜텍, 주가 급등…당정, 전기차 화재방지책 확정",
+			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408270519062567cd1e7f0bdf_23",
+			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408270519062567cd1e7f0bdf_23",
 			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고 이후 전기차 안전에 대한 우려가 급속도로 확산한 데 따른 조치다. 이와 함게 당정대는 전국 모든 소방서에 전기차 화재 진압 장비를 전진 배치하고... ",
 			"pubDate":"Tue, 27 Aug 2024 05:20:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002865746?sid=102",
 			"description":"A씨는 지난 1일 인천시 서구 <b>청라<\/b>동 아파트 화재 당시 '솔레노이드 밸브'와 연동된 정지 버튼을 눌러 스프링클러 작동을 멈추게 한 혐의를 받고 있다. 조사 결과 불이 난 직후인 당일 오전 6시 9분쯤 수신기로 화재 신호가... ",
 			"pubDate":"Mon, 26 Aug 2024 19:55:00 +0900"
-		},
-		{
-			"title":"'<b>청라<\/b> 전기차 화재' 스프링클러 끈 근무자 입건",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240827010002894",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240827010002894",
-			"description":"밸브 연결 정지 버튼 임의로 눌러 작동하지 않게 한 혐의인천 <b>청라<\/b>국제도시 한 아파트 지하주차장에서... A씨는 이달 1일 서구 <b>청라<\/b> 한 아파트 화재 당시 '솔레노이드 밸브'와 연결된 정지 버튼을 눌러 스프링클러가... ",
-			"pubDate":"Mon, 26 Aug 2024 19:52:00 +0900"
 		}
 	]
 }
