@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 26 Aug 2024 08:50:02 +0900",
-	"total":240786,
+	"lastBuildDate":"Mon, 26 Aug 2024 09:00:02 +0900",
+	"total":240787,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천지역 도서관, 9월 독서의 달 맞아 문화 행사 '풍성'",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251975",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=251975",
+			"description":"인천투데이=장호영 기자｜인천 미추홀도서관과 분관(<b>청라<\/b>호수·<b>청라<\/b>국제·영종하늘·마전·송도국제기구도서관)이 9월 독서의 달을 맞아 작가와 만남, 공연 등 다채로운 문화 행사를 운영한다고 26일 밝혔다.... ",
+			"pubDate":"Mon, 26 Aug 2024 08:58:00 +0900"
+		},
 		{
 			"title":"아파트에 이어 오피스텔 거래량 증가…훈풍 예고, 주거형오피스텔",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1398563\/?sc=Naver",
@@ -159,17 +166,17 @@
 			"pubDate":"Mon, 26 Aug 2024 06:10:00 +0900"
 		},
 		{
-			"title":"&quot;험로 뚫고 순항 성공&quot;…HDC현대산업개발, 재무통 '김회언호' 출범 2년,...",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2393494",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2393494",
-			"description":"4분기 분양 예정인 광운대역세권 개발사업을 시작으로 용산철도병원부지 개발사업, 잠실 스포츠\/MICE, <b>청라<\/b> 의료복합타운, 공릉역세권개발사업 등 총 4조2000억 원 이상의 서울과 수도권 일대 복합개발 사업들이... ",
-			"pubDate":"Mon, 26 Aug 2024 06:02:00 +0900"
-		},
-		{
 			"title":"'전기차 포비아' 잡는다… 당정, 전기차 배터리 정보 공개 의무화",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240825510058?OutUrl=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003962999?sid=100",
 			"description":"지난 5일 인천 서구 <b>청라<\/b>동 한 아파트 지하주차장에서 화재가 발생해 전소된 벤츠 전기차가 지게차로 옮겨지고 있다. 뉴시스 국민의힘과 정부, 대통령실은 25일 서울 종로구 삼청동 총리공관에 모여 이 같은 전기차 화재... ",
+			"pubDate":"Mon, 26 Aug 2024 06:02:00 +0900"
+		},
+		{
+			"title":"&quot;험로 뚫고 순항 성공&quot;…HDC현대산업개발, 재무통 '김회언호' 출범 2년,...",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2393494",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2393494",
+			"description":"4분기 분양 예정인 광운대역세권 개발사업을 시작으로 용산철도병원부지 개발사업, 잠실 스포츠\/MICE, <b>청라<\/b> 의료복합타운, 공릉역세권개발사업 등 총 4조2000억 원 이상의 서울과 수도권 일대 복합개발 사업들이... ",
 			"pubDate":"Mon, 26 Aug 2024 06:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202408260322541517cd1e7f0bdf_23",
 			"description":"지난 1일 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고 이후 전기차 안전에 대한 우려가 급속도로 확산한 데 따른 조치다. 이와 함게 당정대는 전국 모든 소방서에 전기차 화재 진압 장비를 전진 배치하고, 업계와... ",
 			"pubDate":"Mon, 26 Aug 2024 03:24:00 +0900"
-		},
-		{
-			"title":"‘캐즘·포비아’ 겹친 K전기차… 내수 무너지면 수출도 무너진다",
-			"originallink":"https:\/\/www.chosun.com\/economy\/auto\/2024\/08\/26\/GVEBEG3QSBDBLKZKNEKS2DKM4A\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003854615?sid=101",
-			"description":"여기에 지난 1일 <b>청라<\/b> 화재 이후 생겨난 전기차 포비아(공포증) 조짐이 겹치면서, 하반기 전기차 시장이 더 얼어붙을 것으로 보고 있다. 한 자동차 업체 관계자는 “딜러들에게 전기차 관련 새로 문의가 없는 것은... ",
-			"pubDate":"Mon, 26 Aug 2024 01:04:00 +0900"
 		}
 	]
 }
