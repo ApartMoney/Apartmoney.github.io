@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 26 Aug 2024 15:10:02 +0900",
-	"total":240854,
+	"lastBuildDate":"Mon, 26 Aug 2024 15:20:02 +0900",
+	"total":240855,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"파라텍, ‘전기차 화재 전이 차단’ 국내 최초 논-인터록 밸브 시연",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02758486638991256",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005820406?sid=101",
+			"description":"최근 인천 <b>청라<\/b> 화재에선 관리인이 밸브 작동을 임의로 차단해 스프링클러가 작동하지 않은 것으로 알려졌다. 논-인터록 밸브를 주차장에 적용하면 밸브 연동을 차단하더라도 소화수가 분사되기 때문에 화재 확산 방지에... ",
+			"pubDate":"Mon, 26 Aug 2024 15:12:00 +0900"
+		},
 		{
 			"title":"'전기차 포비아 그만'…車업계, 고객불안 해소에 동분서주",
 			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2024082611243551386",
@@ -33,17 +40,17 @@
 			"pubDate":"Mon, 26 Aug 2024 15:02:00 +0900"
 		},
 		{
-			"title":"&quot;하이브리드 통했다&quot;···전기차 포비아에 반사이익 얻는 '日브랜드'",
-			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2168128",
-			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2168128",
-			"description":"특히 지난 1일 인천 <b>청라<\/b>지구 아파트 지하주차장에서 일어난 벤츠 전기차 화재사고로 화재 위험성에 대한 소비자 불신은 더욱 깊어지고 있다. 이에 반해 이 자리를 하이브리드가 빠르게 메우고 있다. 올해까지... ",
-			"pubDate":"Mon, 26 Aug 2024 15:00:00 +0900"
-		},
-		{
 			"title":"&quot;배터리 정보공개 의무&quot; K배터리, 약일까 독일까",
 			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024082614410066324",
 			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024082614410066324",
 			"description":"이달 초 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고로 전기차 안전이 도마 위에 오르자 결정된 조치다. 당초 정부는 전기차에 탑재된 배터리 정보를 모든 제작사가 자발적으로 공개하도록 '권고'한 바 있다.... ",
+			"pubDate":"Mon, 26 Aug 2024 15:00:00 +0900"
+		},
+		{
+			"title":"&quot;하이브리드 통했다&quot;···전기차 포비아에 반사이익 얻는 '日브랜드'",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2168128",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2168128",
+			"description":"특히 지난 1일 인천 <b>청라<\/b>지구 아파트 지하주차장에서 일어난 벤츠 전기차 화재사고로 화재 위험성에 대한 소비자 불신은 더욱 깊어지고 있다. 이에 반해 이 자리를 하이브리드가 빠르게 메우고 있다. 올해까지... ",
 			"pubDate":"Mon, 26 Aug 2024 15:00:00 +0900"
 		},
 		{
@@ -138,16 +145,16 @@
 			"pubDate":"Mon, 26 Aug 2024 14:08:00 +0900"
 		},
 		{
-			"title":"파라텍, 아파트 전기차 화재 대응 최적 소화밸브 시연...국내 최대기업...",
-			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=202408261350262730abe7dc9896_29",
-			"link":"http:\/\/www.globalepic.co.kr\/view.php?ud=202408261350262730abe7dc9896_29",
+			"title":"파라텍, 국내최초 아파트 전기차 화재 대응 '논-인터록 소화 밸브' 시연...",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2394156",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2394156",
 			"description":"최근 인천 <b>청라<\/b> 화재에서는 관리인이 밸브 작동을 임의로 차단해 스프링클러가 작동하지 않은 것으로 알려졌다. 논-인터록 밸브를 주차장에 적용하면 밸브연동을 차단하더라도 소화수가 분사되기 때문에 화재 확산 방지에... ",
 			"pubDate":"Mon, 26 Aug 2024 14:06:00 +0900"
 		},
 		{
-			"title":"파라텍, 국내최초 아파트 전기차 화재 대응 '논-인터록 소화 밸브' 시연...",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2394156",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2394156",
+			"title":"파라텍, 아파트 전기차 화재 대응 최적 소화밸브 시연...국내 최대기업...",
+			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=202408261350262730abe7dc9896_29",
+			"link":"http:\/\/www.globalepic.co.kr\/view.php?ud=202408261350262730abe7dc9896_29",
 			"description":"최근 인천 <b>청라<\/b> 화재에서는 관리인이 밸브 작동을 임의로 차단해 스프링클러가 작동하지 않은 것으로 알려졌다. 논-인터록 밸브를 주차장에 적용하면 밸브연동을 차단하더라도 소화수가 분사되기 때문에 화재 확산 방지에... ",
 			"pubDate":"Mon, 26 Aug 2024 14:06:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.esgeconomy.com\/news\/articleView.html?idxno=7665",
 			"description":"코스트코에 입점된 일체형 비데는 <b>청라<\/b>점, 광명점, 공세점, 송도점, 세종점, 하남점에서 판매될 예정이다.... 또한, 보보코퍼레이션의 바디 드라이어는 <b>청라<\/b>점, 광명점, 공세점, 일산점에서 구매할 수 있다. 이 제품은 타월... ",
 			"pubDate":"Mon, 26 Aug 2024 11:56:00 +0900"
-		},
-		{
-			"title":"오피스텔 시장 훈풍 예상에 '푸르지오 스타셀라49' 관심 ↑",
-			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1634579\/?sc=Naver",
-			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1634579\/?sc=Naver",
-			"description":"이에 인천 <b>청라<\/b>국제도시 핵심 입지에서 조성되는 ‘푸르지오 스타셀라49’가 수요자들의 높은 관심을 받고 있다. 이곳은 중대형 주거형 오피스텔 위주로 공급에 나서는데, <b>청라<\/b>국제도시에는 그동안 1Room형 55.9%와 1.... ",
-			"pubDate":"Mon, 26 Aug 2024 11:46:00 +0900"
 		}
 	]
 }
