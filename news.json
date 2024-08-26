@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 26 Aug 2024 17:20:02 +0900",
-	"total":240879,
+	"lastBuildDate":"Mon, 26 Aug 2024 17:30:02 +0900",
+	"total":240880,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"<b>청라<\/b> 아파트 전기차 화재 당시 스프링클러 끈 야간 근무자 입건",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1263817",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1263817",
+			"description":"인천 <b>청라<\/b>국제도시 아파트 전기차 화재 당시 스프링클러와 연결된 소방시설을 임의로 끈 관리사무소 야간... A씨는 지난 1일 서구 <b>청라<\/b>동 제일풍경채 2차 아파트 지하 주차장에서 화재가 발생했을 당시 '솔레노이드 밸브... ",
+			"pubDate":"Mon, 26 Aug 2024 17:26:00 +0900"
+		},
 		{
 			"title":"인천 전기차 화재서 스프링클러 끈 야간근무자 입건",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020458859&code=61122012&cp=nv",
@@ -33,17 +40,17 @@
 			"pubDate":"Mon, 26 Aug 2024 17:02:00 +0900"
 		},
 		{
-			"title":"인천 '전기차 화재' 스프링클러 끈 관리사무소 직원 입건",
-			"originallink":"https:\/\/www.hankyung.com\/article\/2024082664567",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005025825?sid=102",
-			"description":"A씨는 지난 1일 인천시 서구 <b>청라<\/b>동 아파트에서 전기차 화재가 발생한 당시 방재실에서 버튼을 조작해 스프링클러 작동을 멈추게 한 혐의를 받는다. 조사 결과 불이 난 직후인 당일 오전 6시 9분께 수신기로 화재 신호가... ",
-			"pubDate":"Mon, 26 Aug 2024 16:58:00 +0900"
-		},
-		{
 			"title":"'전기차 화재' 스프링클러 끈 야간근무자 입건",
 			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202408260190&t=NN",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001176898?sid=102",
 			"description":"지난 1일 인천시 서구 <b>청라<\/b>동 아파트 화재 당시 A씨는 '솔레노이드 밸브'와 연동된 정지 버튼을 눌러 스프링클러 작동을 멈추게 한 혐의를 받는다. 불이 난 직후인 당일 오전 6시 9분께 수신기로 화재 신호가 전달됐지만... ",
+			"pubDate":"Mon, 26 Aug 2024 16:58:00 +0900"
+		},
+		{
+			"title":"인천 '전기차 화재' 스프링클러 끈 관리사무소 직원 입건",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2024082664567",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005025825?sid=102",
+			"description":"A씨는 지난 1일 인천시 서구 <b>청라<\/b>동 아파트에서 전기차 화재가 발생한 당시 방재실에서 버튼을 조작해 스프링클러 작동을 멈추게 한 혐의를 받는다. 조사 결과 불이 난 직후인 당일 오전 6시 9분께 수신기로 화재 신호가... ",
 			"pubDate":"Mon, 26 Aug 2024 16:58:00 +0900"
 		},
 		{
@@ -205,13 +212,6 @@
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2168128",
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2168128",
 			"description":"특히 지난 1일 인천 <b>청라<\/b>지구 아파트 지하주차장에서 일어난 벤츠 전기차 화재사고로 화재 위험성에 대한 소비자 불신은 더욱 깊어지고 있다. 이에 반해 이 자리를 하이브리드가 빠르게 메우고 있다. 올해까지... ",
-			"pubDate":"Mon, 26 Aug 2024 15:00:00 +0900"
-		},
-		{
-			"title":"&quot;배터리 정보공개 의무&quot; K배터리, 약일까 독일까",
-			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024082614410066324",
-			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024082614410066324",
-			"description":"이달 초 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고로 전기차 안전이 도마 위에 오르자 결정된 조치다. 당초 정부는 전기차에 탑재된 배터리 정보를 모든 제작사가 자발적으로 공개하도록 '권고'한 바 있다.... ",
 			"pubDate":"Mon, 26 Aug 2024 15:00:00 +0900"
 		}
 	]
