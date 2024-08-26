@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 26 Aug 2024 20:30:02 +0900",
+	"lastBuildDate":"Mon, 26 Aug 2024 20:40:02 +0900",
 	"total":240922,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"배터리의 두뇌 'BMS', 소비자 불안 잠재울까?",
+			"originallink":"https:\/\/imnews.imbc.com\/replay\/2024\/nwdesk\/article\/6630660_36515.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001370292?sid=101",
+			"description":"◀ 앵커 ▶ 인천 <b>청라<\/b> 전기차 화재 이후 불안감이 커지면서, '배터리 이상'을 알려주는 안전 장치에 관심이 쏠리고 있는데요. 대표적인 게 배터리 관리 시스템, 이른바 BMS입니다. 배터리 전압 변화나 과열 여부를... ",
+			"pubDate":"Mon, 26 Aug 2024 20:28:00 +0900"
+		},
 		{
 			"title":"'인천 전기차 화재' 스프링클러 끈 근무자 입건",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1453454",
@@ -80,13 +87,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/658\/0000082098?sid=110",
 			"description":"지하주차장에 세워둔 전기자동차에서 불이 난 인천 <b>청라<\/b> 아파트 화재는 스프링클러가 있었지만 담당자가 작동 스위치를 끄는 바람에 화를 키운 사례다. 부산에서는 2022년과 2023년 각각 해운대구 재송동과 부산진구... ",
 			"pubDate":"Mon, 26 Aug 2024 19:36:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>역 인근 도로에 北 무인정찰기 추정 비행체 추락",
-			"originallink":"https:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=106230",
-			"link":"https:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=106230",
-			"description":"|데일리포스트=송협 선임기자| &quot;<b>청라<\/b>역 도로를 지나고 있는데 경찰과 군인들이 도로위에 떨어진 RC 보다 조금... &quot; (사진 제보자 최성진씨) 북한의 무인(드론)정찰기로 추정되는 비행체가 인천 <b>청라<\/b>국제도시 도로에 추락해... ",
-			"pubDate":"Mon, 26 Aug 2024 19:34:00 +0900"
 		},
 		{
 			"title":"인천 '전기차 화재' 스프링클러 작동 끈 야간근무자 입건",
