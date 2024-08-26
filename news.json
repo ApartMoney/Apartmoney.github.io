@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 26 Aug 2024 15:50:02 +0900",
-	"total":240860,
+	"lastBuildDate":"Mon, 26 Aug 2024 16:00:02 +0900",
+	"total":240863,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[하이빔]전기차 화재, ‘NCM vs LFP’ 논쟁으로 확산",
+			"originallink":"http:\/\/autotimes.co.kr\/detail.php?number=679859&thread=27",
+			"link":"http:\/\/autotimes.co.kr\/detail.php?number=679859&thread=27",
+			"description":"-산업, 환경, 안전 등 우선 항목에 혼선 인천 <b>청라<\/b> 벤츠 전기차 화재가 배터리 양극재 소재 논란으로... 이런 상황에서 <b>청라<\/b> 전기차 화재가 NCM에서 발생하자 LFP 배터리 탑재 전기차로 시선이 몰리고 있다. 자동차의... ",
+			"pubDate":"Mon, 26 Aug 2024 15:56:00 +0900"
+		},
+		{
+			"title":"전기차 화재 사고 '후폭풍'…정부, 전기차 배터리 정보 '의무 공개'",
+			"originallink":"https:\/\/www.newswhoplus.com\/news\/articleView.html?idxno=13256",
+			"link":"https:\/\/www.newswhoplus.com\/news\/articleView.html?idxno=13256",
+			"description":"이번 조치는 최근 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고 이후 전기차 안전성에 대한 우려가 급속도로 확산된 데 따른 것이다. 전기차 배터리는 화재 시 대형 사고로 이어질 가능성이 높기 때문에, 배터리의... ",
+			"pubDate":"Mon, 26 Aug 2024 15:54:00 +0900"
+		},
+		{
+			"title":"부산시의회, 전기차 안전대책 관련 긴급 간담회 개최",
+			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=689877",
+			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=689877",
+			"description":"특히 전체 충전시설의 82%가 지상이 아닌 지하에 설치돼 있어 지난 인천 <b>청라<\/b>동에서 발생한 전기차 화재사고와 같이 대형화재로 번질 우려가 있다. 부산에서도 지금까지 11건의 전기차 화재가 발생했으며, 이 가운데 4건은... ",
+			"pubDate":"Mon, 26 Aug 2024 15:54:00 +0900"
+		},
 		{
 			"title":"국힘 인천 서구병 당협, 청년위원회·여성위원회 발족",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103665",
@@ -68,17 +89,17 @@
 			"pubDate":"Mon, 26 Aug 2024 15:02:00 +0900"
 		},
 		{
-			"title":"&quot;배터리 정보공개 의무&quot; K배터리, 약일까 독일까",
-			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024082614410066324",
-			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024082614410066324",
-			"description":"이달 초 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고로 전기차 안전이 도마 위에 오르자 결정된 조치다. 당초 정부는 전기차에 탑재된 배터리 정보를 모든 제작사가 자발적으로 공개하도록 '권고'한 바 있다.... ",
-			"pubDate":"Mon, 26 Aug 2024 15:00:00 +0900"
-		},
-		{
 			"title":"&quot;하이브리드 통했다&quot;···전기차 포비아에 반사이익 얻는 '日브랜드'",
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2168128",
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2168128",
 			"description":"특히 지난 1일 인천 <b>청라<\/b>지구 아파트 지하주차장에서 일어난 벤츠 전기차 화재사고로 화재 위험성에 대한 소비자 불신은 더욱 깊어지고 있다. 이에 반해 이 자리를 하이브리드가 빠르게 메우고 있다. 올해까지... ",
+			"pubDate":"Mon, 26 Aug 2024 15:00:00 +0900"
+		},
+		{
+			"title":"&quot;배터리 정보공개 의무&quot; K배터리, 약일까 독일까",
+			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024082614410066324",
+			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2024082614410066324",
+			"description":"이달 초 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재 사고로 전기차 안전이 도마 위에 오르자 결정된 조치다. 당초 정부는 전기차에 탑재된 배터리 정보를 모든 제작사가 자발적으로 공개하도록 '권고'한 바 있다.... ",
 			"pubDate":"Mon, 26 Aug 2024 15:00:00 +0900"
 		},
 		{
@@ -166,13 +187,6 @@
 			"pubDate":"Mon, 26 Aug 2024 14:10:00 +0900"
 		},
 		{
-			"title":"SNE리서치 &quot;2030년까지 한국 전기차 충전 인프라 시장 연평균 45% 성장&quot;",
-			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=363492",
-			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=363492",
-			"description":"사진은 지난 8월 1일 인천 <b>청라<\/b> 제일풍경채 아파트 지하주차장 전기차 화재로 타버린 전기차 배터리 충전기 모습. &lt;연합뉴스&gt; 한국의 충전 인프라 시장 규모는 2022년 11억 달러에서 2030년 224억 달러로 커질 것으로... ",
-			"pubDate":"Mon, 26 Aug 2024 14:08:00 +0900"
-		},
-		{
 			"title":"인천 미추홀도서관 '독서의 달' 맞아 다채로운 문화 행사",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1068501",
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1068501",
@@ -180,11 +194,11 @@
 			"pubDate":"Mon, 26 Aug 2024 14:08:00 +0900"
 		},
 		{
-			"title":"파라텍, 국내최초 아파트 전기차 화재 대응 '논-인터록 소화 밸브' 시연...",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2394156",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2394156",
-			"description":"최근 인천 <b>청라<\/b> 화재에서는 관리인이 밸브 작동을 임의로 차단해 스프링클러가 작동하지 않은 것으로 알려졌다. 논-인터록 밸브를 주차장에 적용하면 밸브연동을 차단하더라도 소화수가 분사되기 때문에 화재 확산 방지에... ",
-			"pubDate":"Mon, 26 Aug 2024 14:06:00 +0900"
+			"title":"SNE리서치 &quot;2030년까지 한국 전기차 충전 인프라 시장 연평균 45% 성장&quot;",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=363492",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=363492",
+			"description":"사진은 지난 8월 1일 인천 <b>청라<\/b> 제일풍경채 아파트 지하주차장 전기차 화재로 타버린 전기차 배터리 충전기 모습. &lt;연합뉴스&gt; 한국의 충전 인프라 시장 규모는 2022년 11억 달러에서 2030년 224억 달러로 커질 것으로... ",
+			"pubDate":"Mon, 26 Aug 2024 14:08:00 +0900"
 		},
 		{
 			"title":"파라텍, 아파트 전기차 화재 대응 최적 소화밸브 시연...국내 최대기업...",
@@ -194,25 +208,11 @@
 			"pubDate":"Mon, 26 Aug 2024 14:06:00 +0900"
 		},
 		{
-			"title":"HDC현대산업개발, 회복 넘어 질주…그 비결은?",
-			"originallink":"https:\/\/www.mediapen.com\/news\/view\/948187",
-			"link":"https:\/\/www.mediapen.com\/news\/view\/948187",
-			"description":"이밖에 용산철도병원부지 개발사업, 잠실 스포츠\/MICE, <b>청라<\/b> 의료복합타운, 공릉역세권개발사업 등 총 4조2000억 원 이상의 서울과 수도권 일대 복합개발 사업들이 대기 중이다. 신한투자증권 김선미 연구위원은... ",
-			"pubDate":"Mon, 26 Aug 2024 14:04:00 +0900"
-		},
-		{
-			"title":"1800억 규모 고양 행신 1-1구역 재개발은 '수자인'",
-			"originallink":"https:\/\/www.moneys.co.kr\/article\/2024082613305348257",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0001023102?sid=101",
-			"description":"한양 관계자는 &quot;청량리·의정부·<b>청라<\/b> 등 지역 랜드마크를 포함해 전국에 23만호를 공급한 수자인 브랜드 파워를 바탕으로 수주 경쟁력을 높여 나갈 것&quot;이라며 &quot;수주 채널 다변화를 통한 양질의 사업 수주로 수익성... ",
-			"pubDate":"Mon, 26 Aug 2024 13:32:00 +0900"
-		},
-		{
-			"title":"100여년 전 사라진 ‘광주읍성’ 알아볼까?",
-			"originallink":"http:\/\/www.jnilbo.com\/74633356136",
-			"link":"http:\/\/www.jnilbo.com\/74633356136",
-			"description":"마지막 프로그램으로 9월 28일 노성태 남도역사연구원장과 함께 대구형무소, 달성공원, <b>청라<\/b>언덕, 국채보상운동기념관 등 대구 일대를 둘러보는 문화탐방도 병행한다. 수강 희망자는 오는 30일까지 전화(062-234-2727)... ",
-			"pubDate":"Mon, 26 Aug 2024 13:29:00 +0900"
+			"title":"파라텍, 국내최초 아파트 전기차 화재 대응 '논-인터록 소화 밸브' 시연...",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2394156",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2394156",
+			"description":"최근 인천 <b>청라<\/b> 화재에서는 관리인이 밸브 작동을 임의로 차단해 스프링클러가 작동하지 않은 것으로 알려졌다. 논-인터록 밸브를 주차장에 적용하면 밸브연동을 차단하더라도 소화수가 분사되기 때문에 화재 확산 방지에... ",
+			"pubDate":"Mon, 26 Aug 2024 14:06:00 +0900"
 		}
 	]
 }
