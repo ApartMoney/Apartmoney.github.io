@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Wed, 28 Aug 2024 14:40:02 +0900",
-	"total":241297,
+	"lastBuildDate":"Wed, 28 Aug 2024 14:50:02 +0900",
+	"total":241301,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 서구 중소기업경영자협의회, <b>청라<\/b> 화재 피해 주민에 2천만 원 상...",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1264137",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1264137",
+			"description":"인천시 서구 중소기업경영자협의회는 지난 28일, 지하주차장 화재로 큰 피해를 입은 <b>청라<\/b> 아파트 주민들을... 한편, 이번 지원은 화재로 인해 큰 피해를 입은 <b>청라<\/b> 아파트 주민들에게 실질적인 도움을 주고자 마련된 것으로... ",
+			"pubDate":"Wed, 28 Aug 2024 14:48:00 +0900"
+		},
+		{
+			"title":"전기차 스마트 충전기 9만5000기로 확대, 배터리 안전관리 따라 보조금...",
+			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024082717210004233?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000820076?sid=103",
+			"description":"지난 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재 사고 이후 확산한 사회적 우려를 예산안에 반영했다. 무공해차 보급 대수는 2030년까지 누적 450만 대를 목표로 내년에는 약 35만2,000대로... ",
+			"pubDate":"Wed, 28 Aug 2024 14:48:00 +0900"
+		},
+		{
+			"title":"전기차 배터리 충전률 50% 넘으면 선적 불가?…해수부 권고에 혼란 가중",
+			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=233758",
+			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=233758",
+			"description":"최근 발생한 인천 <b>청라<\/b> 전기차 배터리 화재에 따른 시민들의 경각심이 커지고 있는 가운데, 해양수산부(이하 해수부)가 '충전율 50% 이하' 전기차 선적을 권고하면서 전기차 차주들 사이에서 불만이 급증하고 있는 것으로... ",
+			"pubDate":"Wed, 28 Aug 2024 14:46:00 +0900"
+		},
+		{
+			"title":"'제15차 국가위기관리포럼', 한국국프레스센터 진행",
+			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=184492",
+			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=184492",
+			"description":"윤성규 세이프투데이 발행인은 &quot;최근 발생한 경기도 화성 아리셀 이차전지 제조공장 화재, 인천 <b>청라<\/b>국제도... 송석재 이에스엘 대표이사는 &quot;지난 1일 인천 서구 <b>청라<\/b>국제도시 소재 한 아파트 지하 주차장 전기차 화재 관련... ",
+			"pubDate":"Wed, 28 Aug 2024 14:42:00 +0900"
+		},
 		{
 			"title":"한컴라이프케어, 전기차 화재 이후 제품 판매량 7배 늘어",
 			"originallink":"https:\/\/www.etnews.com\/20240828000230",
@@ -26,13 +54,6 @@
 			"pubDate":"Wed, 28 Aug 2024 14:28:00 +0900"
 		},
 		{
-			"title":"HDC현대산업개발 “부동산 위기 돌파… 기업·주주가치 상승”",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/economy\/2024\/08\/28\/20240828500103?wlog_tag3=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003475673?sid=101",
-			"description":"4분기 분양 예정인 광운대역세권 개발사업을 시작으로 용산철도병원부지 개발사업, 잠실 스포츠·MICE, <b>청라<\/b> 의료복합타운, 공릉역세권개발사업 등 4조 2000억원 이상의 서울 수도권 복합개발 사업들이 줄지어 대기... ",
-			"pubDate":"Wed, 28 Aug 2024 14:18:00 +0900"
-		},
-		{
 			"title":"&quot;<b>청라<\/b> 전기차화재 사고 수습 당시 인천시·교육청, 축소·거짓 보고&quot;",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252192",
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252192",
@@ -40,17 +61,24 @@
 			"pubDate":"Wed, 28 Aug 2024 14:18:00 +0900"
 		},
 		{
-			"title":"인천경제청, <b>청라<\/b>호수공원 '흙길 걷기' 400m 맨발 산책길 조성",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420527",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420527",
-			"description":"<b>청라<\/b>호수공원 맨발 산책길 내 마사토 흙길 전경. IFEZ 포토 인천경제자유구역청은 도심속 공원에서 신발을 벗고 흙길을 걸으면서 건강과 행복을 챙길 수 있는 힐링 맨발길을 <b>청라<\/b>호수공원에 조성했다. 맨발 산책길은... ",
-			"pubDate":"Wed, 28 Aug 2024 14:08:00 +0900"
+			"title":"HDC현대산업개발 “부동산 위기 돌파… 기업·주주가치 상승”",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/economy\/2024\/08\/28\/20240828500103?wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003475673?sid=101",
+			"description":"4분기 분양 예정인 광운대역세권 개발사업을 시작으로 용산철도병원부지 개발사업, 잠실 스포츠·MICE, <b>청라<\/b> 의료복합타운, 공릉역세권개발사업 등 4조 2000억원 이상의 서울 수도권 복합개발 사업들이 줄지어 대기... ",
+			"pubDate":"Wed, 28 Aug 2024 14:18:00 +0900"
 		},
 		{
 			"title":"인천시, 자동차 재활용업체 대상 폐배터리 관리 안전 점검 강화...재활용...",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420533",
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420533",
 			"description":"시에 따르면 이번 점검은 인천시와 각 구가 협력해 진행되며 최근 <b>청라<\/b>에서 발생한 전기차 화재와 같은 대규모 화재 사고를 예방하기 위한 선제적 조치로 마련됐다. 전기차 보급이 확대됨에 따라 폐배터리 발생량이... ",
+			"pubDate":"Wed, 28 Aug 2024 14:08:00 +0900"
+		},
+		{
+			"title":"인천경제청, <b>청라<\/b>호수공원 '흙길 걷기' 400m 맨발 산책길 조성",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420527",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420527",
+			"description":"<b>청라<\/b>호수공원 맨발 산책길 내 마사토 흙길 전경. IFEZ 포토 인천경제자유구역청은 도심속 공원에서 신발을 벗고 흙길을 걸으면서 건강과 행복을 챙길 수 있는 힐링 맨발길을 <b>청라<\/b>호수공원에 조성했다. 맨발 산책길은... ",
 			"pubDate":"Wed, 28 Aug 2024 14:08:00 +0900"
 		},
 		{
@@ -96,10 +124,10 @@
 			"pubDate":"Wed, 28 Aug 2024 13:22:00 +0900"
 		},
 		{
-			"title":"소방차 진입 어려운 지하주차장 전기차 화재...대응은 어떻게?",
-			"originallink":"https:\/\/science.ytn.co.kr\/program\/view.php?mcd=0082&hcd=&key=202408281126448622",
-			"link":"https:\/\/science.ytn.co.kr\/program\/view.php?mcd=0082&hcd=&key=202408281126448622",
-			"description":"인천 <b>청라<\/b>동 아파트 지하주차장 전기차 화재를 계기로 부산에서 비슷한 사고를 가정한 소방 훈련이... 큰 피해를 낸 인천 <b>청라<\/b>동 아파트 지하주차장 전기차 화재와 같은 상황을 가정한 소방 훈련 모습입니다. 상당수 아파트... ",
+			"title":"한컴라이프케어 &quot;전기차 화재 대응 제품 문의·판매 폭증&quot;",
+			"originallink":"http:\/\/www.itdaily.kr\/news\/articleView.html?idxno=226439",
+			"link":"http:\/\/www.itdaily.kr\/news\/articleView.html?idxno=226439",
+			"description":"인천 <b>청라<\/b>국제도시에서 발생한 전기차 화재 사건 이후 자사 전기차 화재 대응 제품 문의와 판매가 폭증했다고 28일 밝혔다. <b>청라<\/b> 지하 주차장에서의 화재 사건을 계기로 관련 제품에 관한 관심이 계속해서 커지고 있으며... ",
 			"pubDate":"Wed, 28 Aug 2024 13:16:00 +0900"
 		},
 		{
@@ -110,24 +138,24 @@
 			"pubDate":"Wed, 28 Aug 2024 13:16:00 +0900"
 		},
 		{
-			"title":"한컴라이프케어 &quot;전기차 화재 대응 제품 문의·판매 폭증&quot;",
-			"originallink":"http:\/\/www.itdaily.kr\/news\/articleView.html?idxno=226439",
-			"link":"http:\/\/www.itdaily.kr\/news\/articleView.html?idxno=226439",
-			"description":"인천 <b>청라<\/b>국제도시에서 발생한 전기차 화재 사건 이후 자사 전기차 화재 대응 제품 문의와 판매가 폭증했다고 28일 밝혔다. <b>청라<\/b> 지하 주차장에서의 화재 사건을 계기로 관련 제품에 관한 관심이 계속해서 커지고 있으며... ",
+			"title":"소방차 진입 어려운 지하주차장 전기차 화재...대응은 어떻게?",
+			"originallink":"https:\/\/science.ytn.co.kr\/program\/view.php?mcd=0082&hcd=&key=202408281126448622",
+			"link":"https:\/\/science.ytn.co.kr\/program\/view.php?mcd=0082&hcd=&key=202408281126448622",
+			"description":"인천 <b>청라<\/b>동 아파트 지하주차장 전기차 화재를 계기로 부산에서 비슷한 사고를 가정한 소방 훈련이... 큰 피해를 낸 인천 <b>청라<\/b>동 아파트 지하주차장 전기차 화재와 같은 상황을 가정한 소방 훈련 모습입니다. 상당수 아파트... ",
 			"pubDate":"Wed, 28 Aug 2024 13:16:00 +0900"
-		},
-		{
-			"title":"인천경제청, <b>청라<\/b>호수공원에 맨발 산책길 조성",
-			"originallink":"http:\/\/www.inews24.com\/view\/1757448",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000865387?sid=102",
-			"description":"인천경제자유구역청이 <b>청라<\/b>호수공원에 왕복 800m 맨발 산책 길을 조성했다. 28일 인천경제청에 따르면 맨발 산책 길은 <b>청라<\/b>호수공원 물속 광장에서 제2주차장 하부 산책로까지 이어지는 편도 400m, 너비 2m~3m 마사토... ",
-			"pubDate":"Wed, 28 Aug 2024 13:00:00 +0900"
 		},
 		{
 			"title":"[생생경제] 중국 배터리 '펑' 터졌는데 K-배터리 3사, 中 못 이긴다? 이...",
 			"originallink":"https:\/\/radio.ytn.co.kr\/program\/?f=2&id=97681&s_mcd=0206&s_hcd=15",
 			"link":"https:\/\/radio.ytn.co.kr\/program\/?f=2&id=97681&s_mcd=0206&s_hcd=15",
 			"description":"◆ 조태현 : 일단은 배터리 이야기를 하려면 이 부분을 이야기하지 않을 수가 없는 게 <b>청라<\/b>에 있었던 굉장히... 금산에서 국내 자동차 제작사의 삼원계 배터리가 화재가 났는데 대비되는 것은 그 <b>청라<\/b>지구 화재를... ",
+			"pubDate":"Wed, 28 Aug 2024 13:00:00 +0900"
+		},
+		{
+			"title":"인천경제청, <b>청라<\/b>호수공원에 맨발 산책길 조성",
+			"originallink":"http:\/\/www.inews24.com\/view\/1757448",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000865387?sid=102",
+			"description":"인천경제자유구역청이 <b>청라<\/b>호수공원에 왕복 800m 맨발 산책 길을 조성했다. 28일 인천경제청에 따르면 맨발 산책 길은 <b>청라<\/b>호수공원 물속 광장에서 제2주차장 하부 산책로까지 이어지는 편도 400m, 너비 2m~3m 마사토... ",
 			"pubDate":"Wed, 28 Aug 2024 13:00:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"https:\/\/www.ngetnews.com\/news\/articleView.html?idxno=511230",
 			"description":"뉴스저널리즘 장하민 기자 = 한글과컴퓨터 자회사 한컴라이프케어는 최근 인천 <b>청라<\/b>국제도시에서 발생한 전기차 화재 사건 이후 자사 전기차 화재 대응 제품 문의와 판매가 폭증했다고 밝혔다. 회사는 화재 사건 이후 관련... ",
 			"pubDate":"Wed, 28 Aug 2024 11:52:00 +0900"
-		},
-		{
-			"title":"'한블리' <b>청라<\/b> 전기차 화재 아파트 주민 증언 &quot;전쟁터가 따로 없었다&quot;",
-			"originallink":"https:\/\/sports.hankooki.com\/news\/articleView.html?idxno=6873371",
-			"link":"https:\/\/sports.hankooki.com\/news\/articleView.html?idxno=6873371",
-			"description":"사진=JTBC '한문철의 블랙박스 리뷰' '한블리'가 인천의 한 아파트 지하주차장에서 발생한 전기차 화재 사고를 집중 조명했다. 27일 방송된 JTBC 교통 공익 버라이어티 '한문철의 블랙박스 리뷰'(기획 민철기\/연출 강홍주... ",
-			"pubDate":"Wed, 28 Aug 2024 11:42:00 +0900"
-		},
-		{
-			"title":"&quot;전기차 화재 걱정 물렀거라&quot;···경기도, 북부청사 공용 전기차 59대 등...",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=299398",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=299398",
-			"description":"(사진=경기도청) 인천 <b>청라<\/b> 등 전기차 화재가 잇따르는 가운데, 경기도가 북부청사에서 운영 중인 공용 전기차 59대, 충전시설 62기(급속2, 완속60)를 대상으로 일체 점검을 실시했다. 먼저 공용 전기차 59대 대상으로... ",
-			"pubDate":"Wed, 28 Aug 2024 11:38:00 +0900"
-		},
-		{
-			"title":"보령소방, 서천FM 라디오 출연 주택용 소방시설 홍보",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3076294",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3076294",
-			"description":"지난 2월15일 보령시 남포면의 한 단독주택에서 발생한 화재는 단독경보형 감지기의 경보 덕분에 신속한 대응이 가능했으며 6월29일 <b>청라<\/b>면의 한 상가 주택에서 발생한 화재도 근처에서 식사 중이던 소방관이 소화기를... ",
-			"pubDate":"Wed, 28 Aug 2024 11:32:00 +0900"
-		},
-		{
-			"title":"뉴트리코어 `초임계 비타민K2 &amp; D3` 코스트코 전용 제품 론칭",
-			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024082802109923783001&ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002898401?sid=101",
-			"description":"이번 코스트코 전용 초임계 추출 비타민K2 제품은 <b>청라<\/b>점을 포함한 전국 19개 코스트코 모든 매장에서 만나볼 수 있다. 초임계 추출법은 50도 이하의 저온에서 인체에 무해한 이산화탄소를 이용해 원료를 추출하는... ",
-			"pubDate":"Wed, 28 Aug 2024 11:29:00 +0900"
 		}
 	]
 }
