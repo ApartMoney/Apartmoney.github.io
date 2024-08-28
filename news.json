@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 28 Aug 2024 12:50:02 +0900",
-	"total":241278,
+	"lastBuildDate":"Wed, 28 Aug 2024 13:00:02 +0900",
+	"total":241280,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[8월 자동차트렌드] KGM 액티언의 돌풍과 전기차의 캐즘현상",
+			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=217136",
+			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=217136",
+			"description":"벤츠의 견적신청 순위는 한단계 하락한 6위 였으며 8월초 <b>청라<\/b> 전기차 화재사고로 인하여 소비자들의 선호도가 확연하게 줄어든 모습이다. 이번 사건으로 인해 벤츠 뿐만 아니라 모든 전기차에 대한 소비자들의 안전... ",
+			"pubDate":"Wed, 28 Aug 2024 12:52:00 +0900"
+		},
 		{
 			"title":"‘전기차 포비아’ 막는다...배터리 정보 공개 의무화",
 			"originallink":"https:\/\/www.todayeconomic.com\/news\/article.html?no=26160",
@@ -117,6 +124,13 @@
 			"pubDate":"Wed, 28 Aug 2024 11:18:00 +0900"
 		},
 		{
+			"title":"인천시, 자동차 재활용업체 대상 폐배터리 관리 안전 점검 강화",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1154016",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1154016",
+			"description":"이번 점검은 인천시와 각 구가 협력하여 진행되며, 최근 <b>청라<\/b>에서 발생한 전기차 화재와 같은 대규모 화재 사고를 예방하기 위한 선제적 조치로 마련됐다. 인천 남동구 인천폐차사업소 폐차 차량 모습 전기차 보급이... ",
+			"pubDate":"Wed, 28 Aug 2024 11:16:00 +0900"
+		},
+		{
 			"title":"가정역 삼부르네상스, 인천 루원시티에 민간임대주택 공급...트리플 역...",
 			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=211935",
 			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=211935",
@@ -124,11 +138,11 @@
 			"pubDate":"Wed, 28 Aug 2024 11:16:00 +0900"
 		},
 		{
-			"title":"인천시, 자동차 재활용업체 대상 폐배터리 관리 안전 점검 강화",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1154016",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1154016",
-			"description":"이번 점검은 인천시와 각 구가 협력하여 진행되며, 최근 <b>청라<\/b>에서 발생한 전기차 화재와 같은 대규모 화재 사고를 예방하기 위한 선제적 조치로 마련됐다. 인천 남동구 인천폐차사업소 폐차 차량 모습 전기차 보급이... ",
-			"pubDate":"Wed, 28 Aug 2024 11:16:00 +0900"
+			"title":"인화회, <b>청라<\/b> 전기차 화재피해 이재민 성금 1000만원",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252178",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252178",
+			"description":"인천투데이=인투아이(INTO-AI)·이재희 기자 | 인화회(회장 유정복)가 <b>청라<\/b> 전기차 화재피해 이재민을 돕기... (사진제공 인천사회복지공동모금회) 이 성금은 지난 8월 인천 서구 <b>청라<\/b> 아파트 지하주차장에서 발생한... ",
+			"pubDate":"Wed, 28 Aug 2024 11:14:00 +0900"
 		},
 		{
 			"title":"HDC현산, 기업·주주 가치 급상승",
@@ -142,13 +156,6 @@
 			"originallink":"https:\/\/www.stardailynews.co.kr\/news\/articleView.html?idxno=458188",
 			"link":"https:\/\/www.stardailynews.co.kr\/news\/articleView.html?idxno=458188",
 			"description":"27일 방송된 JTBC '한문철의 블랙박스 리뷰'(이하 '한블리')에서 공개한 블랙박스 영상에는 한 지하주차장에 주차된 전기차에서 흰 연기가 피어오르다 폭발하는 장면이 담겼다. 화재의 원인을 밝힐 수 있는 대부분의 부품은... ",
-			"pubDate":"Wed, 28 Aug 2024 11:14:00 +0900"
-		},
-		{
-			"title":"인화회, <b>청라<\/b> 전기차 화재피해 이재민 성금 1000만원",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252178",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252178",
-			"description":"인천투데이=인투아이(INTO-AI)·이재희 기자 | 인화회(회장 유정복)가 <b>청라<\/b> 전기차 화재피해 이재민을 돕기... (사진제공 인천사회복지공동모금회) 이 성금은 지난 8월 인천 서구 <b>청라<\/b> 아파트 지하주차장에서 발생한... ",
 			"pubDate":"Wed, 28 Aug 2024 11:14:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240828010007620",
 			"description":"아름다운 <b>청라<\/b>호수공원 황톳길을 걸으며 건강을 챙기세요 전국에 맨발 걷기 열풍이 불고 있는 가운데 인천 <b>청라<\/b>국제도시 <b>청라<\/b>호수공원에 400m의 황톳길과 세족시설, 파라솔, 휴게공간을 조성해 시민들로부터 큰 호응을... ",
 			"pubDate":"Wed, 28 Aug 2024 10:46:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>호수공원에 맨발 산책길 조성",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DD6WSS982",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004385224?sid=102",
-			"description":"인천 서구 <b>청라<\/b>호수공원에 맨발 산책길이 조성됐다. 28일 인천경제자유구역청에 따르면 맨발 산책길은 <b>청라<\/b>호수공원 물속광장부터 제2주차장 하부 산책로까지 이어지는 마사토 흙길로, 길이 400m에 너비는 2~3m에... ",
-			"pubDate":"Wed, 28 Aug 2024 10:43:00 +0900"
 		}
 	]
 }
