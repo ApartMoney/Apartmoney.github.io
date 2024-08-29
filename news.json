@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Aug 2024 11:10:02 +0900",
-	"total":241442,
+	"lastBuildDate":"Thu, 29 Aug 2024 11:20:02 +0900",
+	"total":241443,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"현대차·기아 &quot;전기차 화재 많다는 건 오해&quot;",
+			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=665274",
+			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=665274",
+			"description":"지난 1일 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 벤츠 전기차 화재 이후 이른바 '전기차 공포증'이 확산되고 있는 가운데 현대차·기아는 잘못된 정보와 막연한 오해가 전기차에 대한 불안감 확산을 부추기고 있다고... ",
+			"pubDate":"Thu, 29 Aug 2024 11:18:00 +0900"
+		},
 		{
 			"title":"전기차 충전기 지상 설치하면 300만원…인천시, 50억 규모 화재대책 발...",
 			"originallink":"https:\/\/biz.chosun.com\/topics\/topics_social\/2024\/08\/29\/DZTWPZ6TMFAS5AWNSQGUVSNRWI\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -40,13 +47,6 @@
 			"pubDate":"Thu, 29 Aug 2024 10:42:00 +0900"
 		},
 		{
-			"title":"인천시, '전기차 화재 예방 종합대책' 발표…소방 장비 확충 50억 투입",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240829010016341",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240829010016341",
-			"description":"인천시가 29일 <b>청라<\/b> 아파트 전기차 화재 사고와 관련해 '전기차 화재 예방 안전 종합대책'을 발표했다.하병필... 한편 정부는 <b>청라<\/b> 아파트 전기차 화재와 관련된 다양한 종합대책을 마련 중이며 다음 달 초 발표할... ",
-			"pubDate":"Thu, 29 Aug 2024 10:42:00 +0900"
-		},
-		{
 			"title":"보령시, 산업안전보건관리 강화 ··· 사업장 안전관리 최우선",
 			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1047012",
 			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1047012",
@@ -54,17 +54,24 @@
 			"pubDate":"Thu, 29 Aug 2024 10:42:00 +0900"
 		},
 		{
-			"title":"'EV화재 오해와 진실'…車업계 &quot;막연한 불안감 잡아야&quot;",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1154479",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1154479",
-			"description":"전기차 화재가 발생한 <b>청라<\/b>국제도시 아파트 지하주차장. 사진=연합뉴스 매일일보 = 김명현 기자  |  지난 1일 인천의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재 이후 이른바 '전기차 공포증'이 나타나고 있다. 이... ",
-			"pubDate":"Thu, 29 Aug 2024 10:40:00 +0900"
+			"title":"인천시, '전기차 화재 예방 종합대책' 발표…소방 장비 확충 50억 투입",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240829010016341",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240829010016341",
+			"description":"인천시가 29일 <b>청라<\/b> 아파트 전기차 화재 사고와 관련해 '전기차 화재 예방 안전 종합대책'을 발표했다.하병필... 한편 정부는 <b>청라<\/b> 아파트 전기차 화재와 관련된 다양한 종합대책을 마련 중이며 다음 달 초 발표할... ",
+			"pubDate":"Thu, 29 Aug 2024 10:42:00 +0900"
 		},
 		{
 			"title":"&quot;전기차 화재, 열폭주 동반에 확산 속도 빠르다?&quot;…오해 바로잡고 불안...",
 			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024082902109932091003&ref=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002898728?sid=103",
 			"description":"지난 1일 인천 <b>청라<\/b>아파트 지하주차장에서 일어난 전기차 화재 이후 전기차 공포즘(포비아)이 확산되고 있다. 현대자동차·기아는 29일 &quot;일부 잘못된 정보와 막연한 오해가 전기차에 대한 불안감 확산을 부추기고 있다&quot;며... ",
+			"pubDate":"Thu, 29 Aug 2024 10:40:00 +0900"
+		},
+		{
+			"title":"'EV화재 오해와 진실'…車업계 &quot;막연한 불안감 잡아야&quot;",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1154479",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1154479",
+			"description":"전기차 화재가 발생한 <b>청라<\/b>국제도시 아파트 지하주차장. 사진=연합뉴스 매일일보 = 김명현 기자  |  지난 1일 인천의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재 이후 이른바 '전기차 공포증'이 나타나고 있다. 이... ",
 			"pubDate":"Thu, 29 Aug 2024 10:40:00 +0900"
 		},
 		{
@@ -145,17 +152,17 @@
 			"pubDate":"Thu, 29 Aug 2024 10:06:00 +0900"
 		},
 		{
-			"title":"보령시, 산업안전보건관리 사업장 정기 순회점검",
-			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240829010007929",
-			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240829010007929",
-			"description":"보령시는 28일 <b>청라<\/b>면에 위치한 삼다향실버복지센터를 방문하여 산업안전보건관리 사업장에 대한 정기 순회 점검을 실시했다고 29일 전했다. 이번 점검은 시 안전관리자, 보건관리자 및 대한산업안전본부 전문기관을... ",
-			"pubDate":"Thu, 29 Aug 2024 10:06:00 +0900"
-		},
-		{
 			"title":"보령시, 산업안전보건관리 강화...사업장 안전관리 최우선",
 			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=345489",
 			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=345489",
 			"description":"충남  보령시는 지난 28일 <b>청라<\/b>면에 위치한 삼다향실버복지센터를 방문하여 산업안전보건관리 사업장에 대한 정기 순회 점검을 실시했다. 삼다향실버복지센터 점검사진 이번 점검은 시 안전관리자, 보건관리자 및... ",
+			"pubDate":"Thu, 29 Aug 2024 10:06:00 +0900"
+		},
+		{
+			"title":"보령시, 산업안전보건관리 사업장 정기 순회점검",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240829010007929",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240829010007929",
+			"description":"보령시는 28일 <b>청라<\/b>면에 위치한 삼다향실버복지센터를 방문하여 산업안전보건관리 사업장에 대한 정기 순회 점검을 실시했다고 29일 전했다. 이번 점검은 시 안전관리자, 보건관리자 및 대한산업안전본부 전문기관을... ",
 			"pubDate":"Thu, 29 Aug 2024 10:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.tleaves.co.kr\/news\/articleView.html?idxno=6294",
 			"description":"이 단지는 우수한 입지는 물론이고 대형 개발호재를 통한 미래가치까지 갖추고 있어서 <b>청라<\/b> 대장주로서... '푸르지오 스타셀라49' 앞에는 돔구장을 갖춘 '스타필드 <b>청라<\/b>'가 2027년 개점을 목표로 건립된다. 이곳은... ",
 			"pubDate":"Thu, 29 Aug 2024 09:54:00 +0900"
-		},
-		{
-			"title":"[보령소식]산업안전보건관리 사업장 정기 순회 점검 등",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240829_0002866925",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012754602?sid=102",
-			"description":"충남 보령시는 전날 <b>청라<\/b>면 삼다향실버복지센터에서 산업안전보건관리 사업장 정기 순회 점검을 실시했다고 29일 밝혔다. 중대재해처벌법 및 산업안전보건법 등 강화된 안전보건 관계 법령에 따라 안전조치가 제대로... ",
-			"pubDate":"Thu, 29 Aug 2024 09:48:00 +0900"
 		}
 	]
 }
