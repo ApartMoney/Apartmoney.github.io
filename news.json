@@ -1,14 +1,35 @@
 {
-	"lastBuildDate":"Thu, 29 Aug 2024 11:30:02 +0900",
-	"total":241447,
+	"lastBuildDate":"Thu, 29 Aug 2024 11:40:02 +0900",
+	"total":241450,
 	"start":1,
 	"display":30,
 	"items":[
 		{
+			"title":"인천시, 전기차 화재 예방 종합 대책 추진",
+			"originallink":"http:\/\/www.inews24.com\/view\/1757843",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000865704?sid=102",
+			"description":"인천광역시가 지난 1일 <b>청라<\/b> 아파트에서 발생한 전기 차 화재 사고와 관련해 예방·안전 종합 대책을 수립·추진한다. 29일 인천시에 따르면 이번 대책은 전기 차 화재 예방·소방 장비 확충, 충전 시설 안전 관리, 공동 주택... ",
+			"pubDate":"Thu, 29 Aug 2024 11:38:00 +0900"
+		},
+		{
+			"title":"인천시, 전기차 급속 충전율 90% 이하로 제한",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/11104448",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005357434?sid=100",
+			"description":"지난 1일 <b>청라<\/b> 아파트 지하 주차장내 전기차 화재와 같은 사고가 재발하지 않도록 하기 위해서다.... 지난 1일 인천시 서구 <b>청라<\/b>동 한 아파트 지하 주차장에서는 주차돼 있던 벤츠 전기차에서 불이 나 주변 차량 87대가 불에... ",
+			"pubDate":"Thu, 29 Aug 2024 11:34:00 +0900"
+		},
+		{
+			"title":"충전기 이전 지원·저상소방차 도입... 인천시, 전기차 화재 대책 발표",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240829580038",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000050736?sid=100",
+			"description":"수 있도록 행정적, 제도적 필요한 부분을 개선하도록 하겠다”고 덧붙였다. 한편, 지난 1일 서구 <b>청라<\/b>국제도시 한 아파트 지하주차장에 세워진 전기차에서 불이나 23명의 인명피해가 발생했고, 880대의 차량에 불이 났다.",
+			"pubDate":"Thu, 29 Aug 2024 11:29:00 +0900"
+		},
+		{
 			"title":"인천서 전기차 완속충전기 이전 1기당 300만원 지원",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020470482&code=61122012&cp=nv",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001721450?sid=102",
-			"description":"인천시는 29일 <b>청라<\/b>국제도시 아파트 전기차 화재 사고와 관련해 완속충전기 이전비용 지원 등 ‘전기차 화재 예방 안전 종합대책’을 발표했다. 시는 우선 전기차 화재 예방 및 소방장비 확충을 위해 50억9000만원을... ",
+			"description":"인천시는 29일 <b>청라<\/b>국제도시 아파트 전기차 화재 사고와 관련해 완속충전기 이전비용 지원 등 ‘전기차... 앞서 지난 1일 서구 <b>청라<\/b>동 아파트 지하주차장에서는 전기차 화재로 차량 87대가 불에 타고 783대가 그을렸다.... ",
 			"pubDate":"Thu, 29 Aug 2024 11:27:00 +0900"
 		},
 		{
@@ -54,13 +75,6 @@
 			"pubDate":"Thu, 29 Aug 2024 10:51:00 +0900"
 		},
 		{
-			"title":"인천시, 전기차 화재 예방 안전 종합대책 발표...시민 안전 챙긴다",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20240829104012455",
-			"link":"https:\/\/www.ajunews.com\/view\/20240829104012455",
-			"description":"com [사진=인천시] 인천광역시는 지난 8월 1일 <b>청라<\/b> 아파트에서 발생한 전기차 화재 사고와 관련해 “전기차... 한편 정부는 <b>청라<\/b> 아파트 전기차 화재와 관련된 다양한 종합대책을 마련 중이며 다음 달 초 발표할 계획이다.... ",
-			"pubDate":"Thu, 29 Aug 2024 10:50:00 +0900"
-		},
-		{
 			"title":"인천 저상소방차 확충, 전기차 충전기 지상화…화재 대책 발표",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1264281",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1264281",
@@ -68,10 +82,17 @@
 			"pubDate":"Thu, 29 Aug 2024 10:50:00 +0900"
 		},
 		{
-			"title":"보령시, 산업안전보건관리 강화 ··· 사업장 안전관리 최우선",
-			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1047012",
-			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1047012",
-			"description":"보령시는 지난 28일, <b>청라<\/b>면 소재 삼다향실버복지센터를 방문하여 산업안전보건관리 사업장에 대한 정기 순회 점검을 실시했다. 이번 점검은 시 안전관리자, 보건관리자 및 대한산업안전본부 전문기관을 점검반으로 사업장... ",
+			"title":"인천시, 전기차 화재 예방 안전 종합대책 발표...시민 안전 챙긴다",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20240829104012455",
+			"link":"https:\/\/www.ajunews.com\/view\/20240829104012455",
+			"description":"com [사진=인천시] 인천광역시는 지난 8월 1일 <b>청라<\/b> 아파트에서 발생한 전기차 화재 사고와 관련해 “전기차... 한편 정부는 <b>청라<\/b> 아파트 전기차 화재와 관련된 다양한 종합대책을 마련 중이며 다음 달 초 발표할 계획이다.... ",
+			"pubDate":"Thu, 29 Aug 2024 10:50:00 +0900"
+		},
+		{
+			"title":"[초점] &quot;치명적 배터리 열폭주, 순식간에 1000℃까지?&quot;…전기차 화재, 팩...",
+			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=211992",
+			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=211992",
+			"description":"지난 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 전기차 화재 이후 이른바 '전기차 공포증'이 확산하고 있다. 정부는 지난 25일 전기차 화재 방지 대책을 발표했고, 자동차 및 배터리 제조사도 배터리 정보를... ",
 			"pubDate":"Thu, 29 Aug 2024 10:42:00 +0900"
 		},
 		{
@@ -82,24 +103,24 @@
 			"pubDate":"Thu, 29 Aug 2024 10:42:00 +0900"
 		},
 		{
-			"title":"[초점] &quot;치명적 배터리 열폭주, 순식간에 1000℃까지?&quot;…전기차 화재, 팩...",
-			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=211992",
-			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=211992",
-			"description":"지난 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 전기차 화재 이후 이른바 '전기차 공포증'이 확산하고 있다. 정부는 지난 25일 전기차 화재 방지 대책을 발표했고, 자동차 및 배터리 제조사도 배터리 정보를... ",
+			"title":"보령시, 산업안전보건관리 강화 ··· 사업장 안전관리 최우선",
+			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1047012",
+			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1047012",
+			"description":"보령시는 지난 28일, <b>청라<\/b>면 소재 삼다향실버복지센터를 방문하여 산업안전보건관리 사업장에 대한 정기 순회 점검을 실시했다. 이번 점검은 시 안전관리자, 보건관리자 및 대한산업안전본부 전문기관을 점검반으로 사업장... ",
 			"pubDate":"Thu, 29 Aug 2024 10:42:00 +0900"
-		},
-		{
-			"title":"'EV화재 오해와 진실'…車업계 &quot;막연한 불안감 잡아야&quot;",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1154479",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1154479",
-			"description":"전기차 화재가 발생한 <b>청라<\/b>국제도시 아파트 지하주차장. 사진=연합뉴스 매일일보 = 김명현 기자  |  지난 1일 인천의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재 이후 이른바 '전기차 공포증'이 나타나고 있다. 이... ",
-			"pubDate":"Thu, 29 Aug 2024 10:40:00 +0900"
 		},
 		{
 			"title":"&quot;전기차 화재, 열폭주 동반에 확산 속도 빠르다?&quot;…오해 바로잡고 불안...",
 			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024082902109932091003&ref=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002898728?sid=103",
 			"description":"지난 1일 인천 <b>청라<\/b>아파트 지하주차장에서 일어난 전기차 화재 이후 전기차 공포즘(포비아)이 확산되고 있다. 현대자동차·기아는 29일 &quot;일부 잘못된 정보와 막연한 오해가 전기차에 대한 불안감 확산을 부추기고 있다&quot;며... ",
+			"pubDate":"Thu, 29 Aug 2024 10:40:00 +0900"
+		},
+		{
+			"title":"'EV화재 오해와 진실'…車업계 &quot;막연한 불안감 잡아야&quot;",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1154479",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1154479",
+			"description":"전기차 화재가 발생한 <b>청라<\/b>국제도시 아파트 지하주차장. 사진=연합뉴스 매일일보 = 김명현 기자  |  지난 1일 인천의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재 이후 이른바 '전기차 공포증'이 나타나고 있다. 이... ",
 			"pubDate":"Thu, 29 Aug 2024 10:40:00 +0900"
 		},
 		{
@@ -124,17 +145,17 @@
 			"pubDate":"Thu, 29 Aug 2024 10:31:00 +0900"
 		},
 		{
-			"title":"인천시 전기차 화재 예방 안전 종합대책 발표",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240829010008032",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240829010008032",
-			"description":"인천시 전기차 화재 예방 안전 종합대책 발표 지난 1일 <b>청라<\/b> 아파트에서 발생한 전기차 화재 사고와 관련해 인천시가 화재예방 대책 및 소방장비 확충을 위해 50억 원의 예산을 투입한다. 하병필 인천시 행정부시장은 29일... ",
-			"pubDate":"Thu, 29 Aug 2024 10:28:00 +0900"
-		},
-		{
 			"title":"정준호 서울시의원 “전기차 보조금 지원제도, 시민안전·탄소중립·경...",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/publicnews\/local_govern\/smc_movement\/2024\/08\/29\/20240829500063?wlog_tag3=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003475944?sid=102",
 			"description":"정 의원은 지난 10일 서울시가 발표한 공동주택 지하주차장 충전율 90% 이상 전기차 출입 제한 정책을 언급하며 “<b>청라<\/b> 화재 발생 후 열흘도 지나지 않은 시점에서 정확한 사고 원인 규명과 과학적 근거 없이, 마치 배터리... ",
+			"pubDate":"Thu, 29 Aug 2024 10:28:00 +0900"
+		},
+		{
+			"title":"인천시 전기차 화재 예방 안전 종합대책 발표",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240829010008032",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240829010008032",
+			"description":"인천시 전기차 화재 예방 안전 종합대책 발표 지난 1일 <b>청라<\/b> 아파트에서 발생한 전기차 화재 사고와 관련해 인천시가 화재예방 대책 및 소방장비 확충을 위해 50억 원의 예산을 투입한다. 하병필 인천시 행정부시장은 29일... ",
 			"pubDate":"Thu, 29 Aug 2024 10:28:00 +0900"
 		},
 		{
@@ -173,10 +194,10 @@
 			"pubDate":"Thu, 29 Aug 2024 10:20:00 +0900"
 		},
 		{
-			"title":"보령시, 산업안전보건관리 사업장 정기 순회점검",
-			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240829010007929",
-			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240829010007929",
-			"description":"보령시는 28일 <b>청라<\/b>면에 위치한 삼다향실버복지센터를 방문하여 산업안전보건관리 사업장에 대한 정기 순회 점검을 실시했다고 29일 전했다. 이번 점검은 시 안전관리자, 보건관리자 및 대한산업안전본부 전문기관을... ",
+			"title":"인천시, '전기차 화재 예방 안전 종합대책' 발표",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/978994",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/978994",
+			"description":"인천광역시(시장 유정복)는 지난 8월 1일 <b>청라<\/b> 아파트에서 발생한 전기차 화재 사고와 관련해 “전기차 화재... 한편, 정부는 <b>청라<\/b> 아파트 전기차 화재와 관련된 다양한 종합대책을 마련 중이며, 다음 달 초 발표할... ",
 			"pubDate":"Thu, 29 Aug 2024 10:06:00 +0900"
 		},
 		{
@@ -187,32 +208,11 @@
 			"pubDate":"Thu, 29 Aug 2024 10:06:00 +0900"
 		},
 		{
-			"title":"인천시, '전기차 화재 예방 안전 종합대책' 발표",
-			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/978994",
-			"link":"https:\/\/www.wikitree.co.kr\/articles\/978994",
-			"description":"인천광역시(시장 유정복)는 지난 8월 1일 <b>청라<\/b> 아파트에서 발생한 전기차 화재 사고와 관련해 “전기차 화재... 한편, 정부는 <b>청라<\/b> 아파트 전기차 화재와 관련된 다양한 종합대책을 마련 중이며, 다음 달 초 발표할... ",
+			"title":"보령시, 산업안전보건관리 사업장 정기 순회점검",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240829010007929",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240829010007929",
+			"description":"보령시는 28일 <b>청라<\/b>면에 위치한 삼다향실버복지센터를 방문하여 산업안전보건관리 사업장에 대한 정기 순회 점검을 실시했다고 29일 전했다. 이번 점검은 시 안전관리자, 보건관리자 및 대한산업안전본부 전문기관을... ",
 			"pubDate":"Thu, 29 Aug 2024 10:06:00 +0900"
-		},
-		{
-			"title":"인천시 “전기차 화재 예방…감시시스템 설치비 지원”",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01925366638992240",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005822502?sid=102",
-			"description":"하 부시장은 “지난 1일 서구 <b>청라<\/b>동 아파트에서 발생한 전기차 화재 사고와 관련해 대책을 마련했다”고... 1일 발생한 인천 <b>청라<\/b>동 아파트 지하주차장 화재로 차량 수십대가 불에 탔다. (사진 = )",
-			"pubDate":"Thu, 29 Aug 2024 10:00:00 +0900"
-		},
-		{
-			"title":"인천시, 전기차 충전기 지상 이전비 지원…화재대책 발표",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240829046500065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014899607?sid=102",
-			"description":"시는 지난 1일 <b>청라<\/b>국제도시 아파트 전기차 화재 발생 이후 정부에 지하 3층까지 설치할 수 있는 전기차 충전시설을 지하 1층까지로 제한할 것과 신규 설치 충전기는 화재 예방시스템을 갖춘 기종만 설치하도록... ",
-			"pubDate":"Thu, 29 Aug 2024 10:00:00 +0900"
-		},
-		{
-			"title":"인천시, 아파트 지하에 '연기차단 커튼' 등 소방장비 보강",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240829_0002866993",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012754653?sid=102",
-			"description":"인천시는 지난 8월 1일 <b>청라<\/b> 아파트에서 발생한 전기차 화재 사고와 관련해 '전기차 화재 예방 안전 종합대책... 한편 정부는 <b>청라<\/b> 아파트 전기차 화재와 관련된 다양한 종합대책을 마련 중이며, 다음 달 초 발표할... ",
-			"pubDate":"Thu, 29 Aug 2024 10:00:00 +0900"
 		}
 	]
 }
