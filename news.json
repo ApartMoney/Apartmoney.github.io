@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 29 Aug 2024 16:40:02 +0900",
-	"total":241500,
+	"lastBuildDate":"Thu, 29 Aug 2024 16:50:02 +0900",
+	"total":241501,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 전기차 충전시설 지상 이전 등 종합안전대책 발표",
+			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1122095",
+			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1122095",
+			"description":"인천광역시(시장 유정복)는  29일  지난 1일 서구 <b>청라<\/b> 아파트에서 발생한 전기차 화재 사고와 관련해 전기차... 한편, 정부는 <b>청라<\/b> 아파트 전기차 화재와 관련된 다양한 종합대책을 다음 달 초 발표할 계획이다. 이에... ",
+			"pubDate":"Thu, 29 Aug 2024 16:48:00 +0900"
+		},
 		{
 			"title":"'캐즘이어 포비아'까지…배터리업계 악재에도 미래 경쟁력 확보 분주",
 			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20240829500332",
@@ -89,17 +96,17 @@
 			"pubDate":"Thu, 29 Aug 2024 15:38:00 +0900"
 		},
 		{
-			"title":"전기차 화재, 오해가 불안 키워…현대차·기아가 알린 올바른 정보",
-			"originallink":"https:\/\/it.chosun.com\/news\/articleView.html?idxno=2023092122378",
-			"link":"https:\/\/it.chosun.com\/news\/articleView.html?idxno=2023092122378",
-			"description":"현대자동차·기아가 8월 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 전기차 화재 이후 확산되는 '전기차 공포증'과 관련해 일부 잘못된 정보로 인한 오해 불식시키기에 나섰다. 명확한 사실관계를 알리며... ",
-			"pubDate":"Thu, 29 Aug 2024 15:32:00 +0900"
-		},
-		{
 			"title":"태슬라 전기차 세미트럭 화재 미국 고속도로 16시간 '폐쇄'",
 			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=218679",
 			"link":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=218679",
 			"description":"인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 벤츠 전기차로 입주민들은 이재민을 방불케하는 끔직한 상황을 경험해야 했다. 최근 유사한 '사건'이 해외에서도 계속돼 '전기차 포비아'는 기세를 더하고 있다. 미국... ",
+			"pubDate":"Thu, 29 Aug 2024 15:32:00 +0900"
+		},
+		{
+			"title":"전기차 화재, 오해가 불안 키워…현대차·기아가 알린 올바른 정보",
+			"originallink":"https:\/\/it.chosun.com\/news\/articleView.html?idxno=2023092122378",
+			"link":"https:\/\/it.chosun.com\/news\/articleView.html?idxno=2023092122378",
+			"description":"현대자동차·기아가 8월 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 전기차 화재 이후 확산되는 '전기차 공포증'과 관련해 일부 잘못된 정보로 인한 오해 불식시키기에 나섰다. 명확한 사실관계를 알리며... ",
 			"pubDate":"Thu, 29 Aug 2024 15:32:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1264313",
 			"description":"인천 서구 <b>청라<\/b>국제도시 전기차 화재 발생 28일 만에 인천시가 지하에서 발생하는 전기차 화재를 막기 위한... 하병필 행정부시장은 &quot;<b>청라<\/b> 아파트 전기차 화재 이후 전기차에 대한 불안감을 조금이라도 해소하기 위해... ",
 			"pubDate":"Thu, 29 Aug 2024 14:02:00 +0900"
-		},
-		{
-			"title":"쏘카, 조용한 선행…인천 화재 피해 주민들에게 '車 92대' 전달",
-			"originallink":"https:\/\/www.etnews.com\/20240829000221",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003235554?sid=103",
-			"description":"사고가 난 인천 <b>청라<\/b>는 자차 출퇴근이 많은 지역이다. 쏘카의 차량 지원은 주민과 협의 일주일 만에 속전속결로 진행됐다. 9일 쏘카 임직원은 피해 현장을 찾아 입주자 대표회의를 비롯한 주민들과 만났고, 차량 지원... ",
-			"pubDate":"Thu, 29 Aug 2024 13:51:00 +0900"
 		}
 	]
 }
