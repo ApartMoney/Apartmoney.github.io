@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 30 Aug 2024 00:10:02 +0900",
-	"total":241557,
+	"lastBuildDate":"Fri, 30 Aug 2024 00:20:02 +0900",
+	"total":241558,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[차장 칼럼] 산으로 가는 전기차 화재 대책",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2024082950871",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005027566?sid=110",
+			"description":"인천 <b>청라<\/b> 아파트 주차장 화재로 시작된 ‘전기차 포비아’의 기세가 여전하다. 한 중고차 거래 사이트에선 불이 난 차종(메르세데스벤츠 EQE350+)의 2024년식 모델이 7000만원대에 나와 있다. 신차 가격이 1억1000만원인 점을... ",
+			"pubDate":"Fri, 30 Aug 2024 00:09:00 +0900"
+		},
 		{
 			"title":"송기헌 의원 ‘먹는물 공공성강화 법안’ 대표발의...“샘물개발 주민수...",
 			"originallink":"https:\/\/www.kwnews.co.kr\/page\/view\/2024082918513636815",
@@ -152,17 +159,17 @@
 			"pubDate":"Thu, 29 Aug 2024 21:00:00 +0900"
 		},
 		{
-			"title":"빨간코를 낀 소리꾼, 익살이 기가막혀",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1107448",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1107448",
-			"description":"전통예술을 근간으로 자유로운 창작활동을 펼치는 '창작하는 타루'(타루)가 9월 7∼8일 양일간 송도와 <b>청라<\/b>에... 이번 공연은 특히 인천시민들이 주말에 많이 찾는 장소인 송도 트리플스트리트와 <b>청라<\/b>호수공원을... ",
-			"pubDate":"Thu, 29 Aug 2024 20:54:00 +0900"
-		},
-		{
 			"title":"전기차 화재 위험 후폭풍 인천시 탄소저감책 '흔들'",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1107479",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1107479",
 			"description":"<b>청라<\/b> 지하주차장 전기차 화재로 급락하는 전기차 수요에서 수소차 대체도 쉽지 않은 실정이다. 이 때문에 학계에서는 시가 주도해 전기차 안전의식을 강화하는 한편, 전기차 주력 정책을 수소차 인프라 확대 등 다양한... ",
+			"pubDate":"Thu, 29 Aug 2024 20:54:00 +0900"
+		},
+		{
+			"title":"빨간코를 낀 소리꾼, 익살이 기가막혀",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1107448",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1107448",
+			"description":"전통예술을 근간으로 자유로운 창작활동을 펼치는 '창작하는 타루'(타루)가 9월 7∼8일 양일간 송도와 <b>청라<\/b>에... 이번 공연은 특히 인천시민들이 주말에 많이 찾는 장소인 송도 트리플스트리트와 <b>청라<\/b>호수공원을... ",
 			"pubDate":"Thu, 29 Aug 2024 20:54:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011790666?sid=102",
 			"description":"[리포트] 지난 1일, 인천 <b>청라<\/b>국제도시 아파트에서 발생한 전기차 화재. 지하주차장에서 난 불이 다른 차량은 물론 아파트 위로 번지며 막대한 피해를 입혔습니다. 화재 4주 만에 인천시가 종합 대책을 내놨습니다. 화재... ",
 			"pubDate":"Thu, 29 Aug 2024 19:36:00 +0900"
-		},
-		{
-			"title":"정준호 서울시의원, &quot;전기차 보조금 지원제도 재정비 필요&quot;",
-			"originallink":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=87909",
-			"link":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=87909",
-			"description":"정 의원은 지난 8월 10일 서울시가 발표한 공동주택 지하주차장 충전율 90% 이상 전기차 출입 제한 정책을 언급하며 &quot;<b>청라<\/b> 화재 발생 후 열흘도 지나지 않은 시점에서 정확한 사고 원인 규명과 과학적 근거 없이, 마치... ",
-			"pubDate":"Thu, 29 Aug 2024 19:06:00 +0900"
 		}
 	]
 }
