@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 01 Sep 2024 06:50:03 +0900",
-	"total":241666,
+	"lastBuildDate":"Sun, 01 Sep 2024 07:00:02 +0900",
+	"total":241667,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 충전기 10대 중 6대가 `지하`에…과충전 방지 어려운 완속이 다...",
+			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024090102109919002001&ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002899125?sid=101",
+			"description":"지난달 발생한 인천 <b>청라<\/b>국제도시 아파트 지하 주차장의 전기차 화재로 화재 위험성이 부각된 후 당국이 여러 대책을 내놓고 있지만, 이미 지하에 설치된 충전기에 대해선 별다른 방안이 없는 상황이다. 1일 국회... ",
+			"pubDate":"Sun, 01 Sep 2024 06:55:00 +0900"
+		},
 		{
 			"title":"전기차 충전기 59% '지하'에…과충전 방지 어려운 완속이 다수",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240830095500530?input=1195m",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.meconomynews.com\/news\/articleView.html?idxno=99832",
 			"description":"'광운대역세권 개발사업' 다음에는 용산철도병원부지 개발사업, 잠실 스포츠\/MICE, <b>청라<\/b> 의료복합타운 등 수조원대의 복합개발 사업이 줄지어 대기 중이다. 상황이 이렇다보니 국내 대표적인 기관투자자인 국민연금... ",
 			"pubDate":"Fri, 30 Aug 2024 16:42:00 +0900"
-		},
-		{
-			"title":"‘인천 전기차 화재’ 피해 주민들 대피소 생활 끝나지만 여전히 막막",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20240830580079",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000050859?sid=102",
-			"description":"서구, 민원대응반 계속 운영 30일 오전 인천 서구 <b>청라<\/b>2동 행정복지센터 3층 대피소에 근무하는 공무원이... 서구 <b>청라<\/b>2동 행정복지센터 3층 대피소(임시주거시설). <b>청라<\/b>동 아파트 지하주차장 전기차 화재 피해를 당한... ",
-			"pubDate":"Fri, 30 Aug 2024 16:23:00 +0900"
 		}
 	]
 }
