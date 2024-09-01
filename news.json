@@ -1,9 +1,44 @@
 {
-	"lastBuildDate":"Sun, 01 Sep 2024 11:00:02 +0900",
-	"total":241673,
+	"lastBuildDate":"Sun, 01 Sep 2024 11:10:02 +0900",
+	"total":241678,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시의회 행정안전위원회, 인천소방본부와 전기차 화재 대응 협력 강...",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1107533",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1107533",
+			"description":"김재동 위원장은 훈련 후 &quot;최근 <b>청라<\/b>에서의 전기차 화재 피해를 보고 많은 걱정이 되었다&quot;며, &quot;인천시의회에서 전기차 화재 대응 방안을 철저히 검토하겠다&quot;고 말했다. 임원섭 인천소방본부장은 &quot;전기차 화재 예방과... ",
+			"pubDate":"Sun, 01 Sep 2024 11:06:00 +0900"
+		},
+		{
+			"title":"전기차 충전기 10대 중 6대는 지하에…'과충전 방지'는 더 어렵다",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007783724&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001186362?sid=101",
+			"description":"지난달 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재로 전기차의 화재 위험성이 부각되면서 당국이 여러 대책을 내놓고 있지만, 이미 지하에 설치된 충전기에 대해선 별다른 방안이 없는 상황입니다.... ",
+			"pubDate":"Sun, 01 Sep 2024 11:04:00 +0900"
+		},
+		{
+			"title":"인천시의회 행안위, 현장중심 의정활동으로 '제297회 임시회' 시작",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20240901105626877",
+			"link":"https:\/\/www.ajunews.com\/view\/20240901105626877",
+			"description":"루원복합청사 건립 현장 지하주차장 내 전기차 충전시설을 확인한 의원들은 “최근 <b>청라<\/b> 한 아파트 지하주차장 전기차 화재 사고를 보듯이 지하주차장에서 화재가 발생하면 진화가 어렵고, 대형 피해로 이어질 수 있다”... ",
+			"pubDate":"Sun, 01 Sep 2024 11:02:00 +0900"
+		},
+		{
+			"title":"“취소 차량 없어요” LG엔솔, 캐스퍼EV·EV3 구원투수 될까",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20240830500353",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20240830500353",
+			"description":"인천 <b>청라<\/b> 전기차 화재 이후 전기차 포비아 확산돼 LG엔솔 배터리 탑재한 캐스퍼EV·EV3, 꾸준히 판매돼 기아... 하지만 최근 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 전기차 화재가 발생하며 분위기가 뒤집혔다. 전기차... ",
+			"pubDate":"Sun, 01 Sep 2024 11:02:00 +0900"
+		},
+		{
+			"title":"전기차 충전기, 10대 중 6대가 지하에 설치",
+			"originallink":"https:\/\/www.mediapen.com\/news\/view\/949938",
+			"link":"https:\/\/www.mediapen.com\/news\/view\/949938",
+			"description":"지난 달 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차 화재 사건 이후 당국이 대책을 고심하고 있지만, 이미 지하에 설치된 충전기와 관련해 뾰족한 방안이 없는 것으로 알려졌다. 1일 국회... ",
+			"pubDate":"Sun, 01 Sep 2024 11:02:00 +0900"
+		},
 		{
 			"title":"인천시, 행정체제 개편 행정정보 데이터 전환 첫 단추",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20240901103807857",
@@ -178,41 +213,6 @@
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160290412746497",
 			"description":"인천 서구 <b>청라<\/b>1동 주민자치회(회장 박철민)가 28일, 청초랑 북카페에서「내가 GREEN 지구」사업의 일환으로... <b>청라<\/b>1동 주민자치회 환경자연생태분과에서 운영하며 환경보호를 위한 다양한 프로그램을 기획하고 있다.... ",
 			"pubDate":"Fri, 30 Aug 2024 18:26:00 +0900"
-		},
-		{
-			"title":"(사)인천광역시서구중소기업경영자협의회, <b>청라<\/b> 아파트 화재 피해 주민...",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281488394239",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281488394239",
-			"description":"㈔인천광역시서구 중소기업경영자협의회(회장 우성명 ㈜반찬단지 대표)는 지난 8월 1일 지하주차장 화재로 인해 어려움을 겪고 있는 피해 아파트 주민들을 위해 ▲액상세제, ▲비닐장갑, ▲청소용 물티슈 등 지원물품... ",
-			"pubDate":"Fri, 30 Aug 2024 18:26:00 +0900"
-		},
-		{
-			"title":"기회 얻은 '르노코리아'…안전한 하이브리드차로 반등 모색",
-			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2024083016412494629",
-			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2024083016412494629",
-			"description":"최근 <b>청라<\/b> 지하주차장 화재로 전기차 포비아가 확산하고 있는데요. 이에 대한 반사이익으로 하이브리드차 인기가 지속될 것이란 전망이 나옵니다. 상대적으로 전기차 투자가 늦었던 르노코리아는 기회를 잡은 모습인데... ",
-			"pubDate":"Fri, 30 Aug 2024 17:48:00 +0900"
-		},
-		{
-			"title":"벤츠, <b>청라<\/b> 전기차 화재 피해자들에 'E클래스' 1년 무상대여",
-			"originallink":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=245585",
-			"link":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=245585",
-			"description":"마티아스 바이틀 메르세데스-벤츠코리아 사장이 지난 14일 오후 인천시 서구 <b>청라<\/b>동 한 교회에서 전기차 화재 피해 주민들과 간담회를 하고 있다. [사진=이용우 의원실\/연합뉴스] 메르세데스-벤츠코리아가 인천 <b>청라<\/b>... ",
-			"pubDate":"Fri, 30 Aug 2024 17:40:00 +0900"
-		},
-		{
-			"title":"현대무벡스, AI·로봇 기반 스마트 물류 기술로 글로벌 성과 확대",
-			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20240829\/126752829\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003584838?sid=101",
-			"description":"대규모 <b>청라<\/b>R&amp;D센터를 구축했다. 이곳에서 미래 성장 기반이 될 굵직한 개발 성과를 내놓는 것이 목표다. 2022년에 공개된 네이버 신사옥 1784의 로봇 전용 엘리베이터 로보포트는 <b>청라<\/b> R&amp;D센터의 대표적인 성과다. 네이버... ",
-			"pubDate":"Fri, 30 Aug 2024 17:33:00 +0900"
-		},
-		{
-			"title":"[단독][인더스토리] 그때는 맞고 지금은 틀린···  '충전률 90%'에 관한...",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20240830120957351",
-			"link":"https:\/\/www.ajunews.com\/view\/20240830120957351",
-			"description":"인천 <b>청라<\/b> 자동차 화재 이후 정부는 분주하게 움직이고 있습니다. 그 중에서도 바쁜 곳이 자동차 및 도로 관련 주무부처인 국토교통부입니다. 전기차 화재 방지를 위한 대책을 마련하겠다며 태스크포스팀까지 만들어... ",
-			"pubDate":"Fri, 30 Aug 2024 17:26:00 +0900"
 		}
 	]
 }
