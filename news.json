@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 01 Sep 2024 10:30:03 +0900",
-	"total":241671,
+	"lastBuildDate":"Sun, 01 Sep 2024 10:40:02 +0900",
+	"total":241672,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[연합뉴스 이 시각 헤드라인] - 10:30",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240901021200011?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014904815?sid=100",
+			"description":"지난달 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재로 전기차의 화재 위험성이 부각되면서 당국이 여러 대책을 내놓고 있지만, 이미 지하에 설치된 충전기에 대해선 별다른 방안이 없는... ",
+			"pubDate":"Sun, 01 Sep 2024 10:30:00 +0900"
+		},
 		{
 			"title":"인천 산단 조성현황 및 분양 설명회 성황리에 열려",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1155179",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=208729",
 			"description":"이달 초 인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재사고로 시작된 우려가 수그러들 기세를 보이지 않아서다. 기자가 지인들과 전기차에 관한 이야기를 나누면 가장 큰 화두는 '전기차 포비아'다. 올해 상반기에는 '전기차... ",
 			"pubDate":"Fri, 30 Aug 2024 17:22:00 +0900"
-		},
-		{
-			"title":"은행권 하반기 신입 공채 채용 시작...규모 축소에 취준생 '시름'",
-			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=217469",
-			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=217469",
-			"description":"최종 합격한 지원자들은 오는 12월 중 신입행원 연수를 위해 인천광역시 <b>청라<\/b>에 위치한 하나글로벌캠퍼스로 입소할 예정이다. 신한은행은 다음달 중 올 하반기 신입 행원 채용에 나설 예정이나, 지난해보다 축소된... ",
-			"pubDate":"Fri, 30 Aug 2024 17:18:00 +0900"
 		}
 	]
 }
