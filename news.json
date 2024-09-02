@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 03 Sep 2024 05:20:02 +0900",
-	"total":241834,
+	"lastBuildDate":"Tue, 03 Sep 2024 05:30:02 +0900",
+	"total":241835,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"車화재 4796건 중 전기차 72대…가솔린ㆍ디젤차보다 훨씬 적다",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202409021519208930721",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202409021519208930721",
+			"description":"지난달 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 전기차 화재 이후 ‘전기차=화재차’라는 인식이 확산되고 있는 것과 달리, 최근 수년간 실제 전기차 화재발생 건수는 내연기관차보다 적기 때문이다. 2일 소방청... ",
+			"pubDate":"Tue, 03 Sep 2024 05:20:00 +0900"
+		},
 		{
 			"title":"[단독]벤츠 전기차, 시동 끄면 배터리 두뇌격 BMS '비활성화'",
 			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6205516?utm_source=naver&utm_medium=article&utm_campaign=20240903050102",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1264740",
 			"description":"매립지 캠핑장보다 규모가 작은 <b>청라<\/b>해변공원캠핑장(4만9586㎡)은 2억5000만원, 영종씨사이드캠핑장(2만3726㎡)은 3억7000만원의 임대료를 내고 사용하고 있다. 앞서 시는 한국수자원공사 자회사 수자원환경산업진흥㈜과... ",
 			"pubDate":"Mon, 02 Sep 2024 18:40:00 +0900"
-		},
-		{
-			"title":"[현장] &quot;배터리이상 감지기술 고도화 시급..알림 기능 소방과 연결해야...",
-			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2068827",
-			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2068827",
-			"description":"한 교수는 최근 발생한 인천 <b>청라<\/b> 벤츠 전기차 화재 사고를 예를 들어 &quot;이를 물리적 메커니즘으로 보면... 인천 <b>청라<\/b> 전기차 화재 이후 잘못된 정책으로 국내 60만 전기차 차주들을 잠재적 방화범으로 만들었다&quot;고... ",
-			"pubDate":"Mon, 02 Sep 2024 18:36:00 +0900"
 		}
 	]
 }
