@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 02 Sep 2024 17:00:02 +0900",
-	"total":241775,
+	"lastBuildDate":"Mon, 02 Sep 2024 17:10:02 +0900",
+	"total":241777,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 화재 아파트 돌아온 주민들, 원인 모를 피부 발진으로 '고통'",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202409021703514390",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002082033?sid=102",
+			"description":"인천 <b>청라<\/b> 전기차 화재로 대피 생활을 하다가 집으로 돌아온 아파트 주민들이 원인 모를 피부 발진 증상 등을 호소하고 있다. 2일 인천시 서구에 따르면 지난달 30일께 <b>청라<\/b>2동 행정복지센터에 있는 전기차 화재 대피소... ",
+			"pubDate":"Mon, 02 Sep 2024 17:03:00 +0900"
+		},
+		{
+			"title":"[빅데이터로 보는 부산이슈] 교육·화재·국제",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=479716",
+			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=479716",
+			"description":"인천 <b>청라<\/b> 아파트 전기차 화재 사고 이후 부산시와 기초 지자체들은 부랴부랴 지역 전기차 안전 상황 점검에 나섰습니다. 화재 대응 장비 확충을 비롯한 안전 강화 대책을 발표하고, 소방과 함께 화재 진압 훈련을... ",
+			"pubDate":"Mon, 02 Sep 2024 17:00:00 +0900"
+		},
 		{
 			"title":"인천 서구의회 제269회 임시회 돌입",
 			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240902010000507",
@@ -54,7 +68,7 @@
 			"pubDate":"Mon, 02 Sep 2024 16:26:00 +0900"
 		},
 		{
-			"title":"전기차 화재 피해 주민들, 피부 발진에 '고통'",
+			"title":"&quot;피부 발진에 눈 충혈까지&quot;…전기차 화재 주민들의 '또 다른 고통'",
 			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202409020187&t=NN",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001177925?sid=102",
 			"description":"전기차 화재로 대피 생활을 하다가 집으로 돌아온 인천 <b>청라<\/b>의 아파트 주민들이 원인을 알 수 없는 피부 발진 증상 등으로 불안감을 호소하고 있다. 지난달 30일께 <b>청라<\/b>2동 행정복지센터에 있는 임시주거시설에서 10세대... ",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363669714",
 			"description":"최근 인천 서구 <b>청라<\/b>지역에서 발생한 전기차 화재는 그에게 새로운 도전이었다. 기존의 화재와 다른 양상으로 전개되는 전기차 화재에 대비해, 그는 전기차량의 배터리 형태와 차단 방법, 신속한 화재진압 방법을 연구하고... ",
 			"pubDate":"Mon, 02 Sep 2024 13:34:00 +0900"
-		},
-		{
-			"title":"[today 주요 공시] 우원개발, 491억 규모 <b>청라<\/b>7호선1공구 터널공사 계약",
-			"originallink":"http:\/\/www.thepowernews.co.kr\/news\/articleView.html?idxno=142204",
-			"link":"http:\/\/www.thepowernews.co.kr\/news\/articleView.html?idxno=142204",
-			"description":"우원개발(046940)이 금호건설과 <b>청라<\/b>7호선1공구 터널공사 계약을 맺었다고 2일 공시했다. 계약금액은 지난해 매출액의 19.44%에 해당한다. 계약기간 이날부터 오는 2027년 10월17일까지다.",
-			"pubDate":"Mon, 02 Sep 2024 13:10:00 +0900"
-		},
-		{
-			"title":"&quot;<b>청라<\/b> 전기차 화재 '컨트롤 타워 실종'...서구 초기 대응 '우왕좌왕'&quot;",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252416",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252416",
-			"description":"인천투데이=박규호 기자│인천 서구가 <b>청라<\/b>국제도시 아파트 지하주차장에 주차된 전기차에서 발생한 사고 초기 대응 당시 컨트롤 타워가 없어 우왕좌왕하는 모습을 보였다는 지적이 제기됐다. 민주당 김원진(<b>청라<\/b>1·2동)... ",
-			"pubDate":"Mon, 02 Sep 2024 13:08:00 +0900"
 		}
 	]
 }
