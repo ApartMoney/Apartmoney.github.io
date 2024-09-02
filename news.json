@@ -1,11 +1,25 @@
 {
-	"lastBuildDate":"Mon, 02 Sep 2024 18:30:02 +0900",
-	"total":241803,
+	"lastBuildDate":"Mon, 02 Sep 2024 18:40:01 +0900",
+	"total":241805,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"[단독] 전기차 화재 6년간 138건…2년 안된 차에선 13건뿐",
+			"title":"[현장] &quot;배터리이상 감지기술 고도화 시급..알림 기능 소방과 연결해야...",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2068827",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2068827",
+			"description":"한 교수는 최근 발생한 인천 <b>청라<\/b> 벤츠 전기차 화재 사고를 예를 들어 &quot;이를 물리적 메커니즘으로 보면... 인천 <b>청라<\/b> 전기차 화재 이후 잘못된 정책으로 국내 60만 전기차 차주들을 잠재적 방화범으로 만들었다&quot;고... ",
+			"pubDate":"Mon, 02 Sep 2024 18:36:00 +0900"
+		},
+		{
+			"title":"캐즘·화재공포 뚫고 현대차·기아 전기차 8월 반전 실적 썼다",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202409021831519768",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005235981?sid=101",
+			"description":"인천 <b>청라<\/b>지역에서 발생한 메르세데스-벤츠 전기차 화재 사고 이후 국내 전기차 판매량이 크게 위축됐을 것이란 관측이 나왔으나, 주로 한국산 배터리를 장착한 현대차·기아 판매실적은 오히려 이전 보다 더 늘어난... ",
+			"pubDate":"Mon, 02 Sep 2024 18:32:00 +0900"
+		},
+		{
+			"title":"[단독] 전기차 화재 6년간 138건…2년 안 된 차는 13건",
 			"originallink":"https:\/\/www.hani.co.kr\/arti\/economy\/car\/1156595.html",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002705599?sid=103",
 			"description":"지난달 인천 <b>청라<\/b>에서 발생한 아파트 지하주차장 대형 화재로 ‘전기차는 위험한 것 아니냐’는 우려가 커지고 있는 가운데, 최근 출시된 새 차에선 화재 위험이 상대적으로 작다는 것을 뒷받침하는 통계가... ",
@@ -40,17 +54,17 @@
 			"pubDate":"Mon, 02 Sep 2024 18:04:00 +0900"
 		},
 		{
-			"title":"인천소방본부 &quot;궤도형 배연로봇 이용해 지하주차장 화재 막는다&quot;",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=397653",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=397653",
-			"description":"앞서 지난달 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 벤츠 전기차에 불이 나 큰 피해가 발생했습니다. 이 불로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며 차량 87대가 불에 타고 783대가... ",
-			"pubDate":"Mon, 02 Sep 2024 18:00:00 +0900"
-		},
-		{
 			"title":"[연합뉴스 이 시각 헤드라인] - 18:00",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240902133200011?input=1195m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014907848?sid=100",
 			"description":"인천 <b>청라<\/b> 전기차 화재로 대피 생활을 하다가 집으로 돌아온 아파트 주민들이 원인 모를 피부 발진 증상 등으로 불안감을 호소하고 있다. 2일 인천시 서구에 따르면 지난달 30일께 <b>청라<\/b>2동 행정복지센터에... ",
+			"pubDate":"Mon, 02 Sep 2024 18:00:00 +0900"
+		},
+		{
+			"title":"인천소방본부 &quot;궤도형 배연로봇 이용해 지하주차장 화재 막는다&quot;",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=397653",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=397653",
+			"description":"앞서 지난달 1일 인천시 서구 <b>청라<\/b>국제도시 아파트 지하 1층 주차장에서 벤츠 전기차에 불이 나 큰 피해가 발생했습니다. 이 불로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며 차량 87대가 불에 타고 783대가... ",
 			"pubDate":"Mon, 02 Sep 2024 18:00:00 +0900"
 		},
 		{
@@ -68,13 +82,6 @@
 			"pubDate":"Mon, 02 Sep 2024 17:56:00 +0900"
 		},
 		{
-			"title":"전기차 화재 리스크 드러나...과충전 예방장치 없는 전기차 완속충전기...",
-			"originallink":"https:\/\/www.news2day.co.kr\/article\/20240902500179",
-			"link":"https:\/\/www.news2day.co.kr\/article\/20240902500179",
-			"description":"인천 <b>청라<\/b>국제도시 아파트 지하 주차장 화제 사고와 관련해 지난 1일 &quot;전기차 정책이 확대와 보급에만... [사진=임이자 의원실 제공] [뉴스투데이=박진영 기자] 지난 달 발생한 인천 <b>청라<\/b>국제도시 아파트 지하 주차장... ",
-			"pubDate":"Mon, 02 Sep 2024 17:50:00 +0900"
-		},
-		{
 			"title":"포비아 꺾은 ‘2천만원 대 전기차’…현대, 8월 판매 올해 들어 최고",
 			"originallink":"https:\/\/www.hani.co.kr\/arti\/economy\/car\/1156572.html",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002705572?sid=103",
@@ -82,11 +89,11 @@
 			"pubDate":"Mon, 02 Sep 2024 17:50:00 +0900"
 		},
 		{
-			"title":"홍순서 인천 서구의원 &quot;<b>청라<\/b> 화재 유언비어 확산…바로잡아야&quot;",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363669836",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363669836",
-			"description":"사진=서구의회 인천 <b>청라<\/b>국제도시 일대에서 발생한 전기차 화재와 관련해 서구청이 유언비어 확산을 바로잡아야 한다는 의견이 제기됐다. 홍순서(국민의힘·서구바) 서구의원은 2일 개최된 제269회 제1차 본회의... ",
-			"pubDate":"Mon, 02 Sep 2024 17:48:00 +0900"
+			"title":"전기차 화재 리스크 드러나...과충전 예방장치 없는 전기차 완속충전기...",
+			"originallink":"https:\/\/www.news2day.co.kr\/article\/20240902500179",
+			"link":"https:\/\/www.news2day.co.kr\/article\/20240902500179",
+			"description":"인천 <b>청라<\/b>국제도시 아파트 지하 주차장 화제 사고와 관련해 지난 1일 &quot;전기차 정책이 확대와 보급에만... [사진=임이자 의원실 제공] [뉴스투데이=박진영 기자] 지난 달 발생한 인천 <b>청라<\/b>국제도시 아파트 지하 주차장... ",
+			"pubDate":"Mon, 02 Sep 2024 17:50:00 +0900"
 		},
 		{
 			"title":"'<b>청라<\/b> 전기차 화재 사건' 이후 전기차 보유자도 '화재 우려' 30%↑",
@@ -96,17 +103,24 @@
 			"pubDate":"Mon, 02 Sep 2024 17:48:00 +0900"
 		},
 		{
-			"title":"필름형 센서로 전기차 화재 막는다",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/11107675",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005359389?sid=101",
-			"description":"유민에쓰티, 누액 즉각 감지 최근 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 전기차 화재로 배터리 안정성에 대한 우려가 높은 가운데 사전에 이상 징후를 포착해 사고를 예방할 수 있는 기술을 국내 중소기업이 선보여... ",
-			"pubDate":"Mon, 02 Sep 2024 17:38:00 +0900"
+			"title":"홍순서 인천 서구의원 &quot;<b>청라<\/b> 화재 유언비어 확산…바로잡아야&quot;",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363669836",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363669836",
+			"description":"사진=서구의회 인천 <b>청라<\/b>국제도시 일대에서 발생한 전기차 화재와 관련해 서구청이 유언비어 확산을 바로잡아야 한다는 의견이 제기됐다. 홍순서(국민의힘·서구바) 서구의원은 2일 개최된 제269회 제1차 본회의... ",
+			"pubDate":"Mon, 02 Sep 2024 17:48:00 +0900"
 		},
 		{
 			"title":"인천 서구의회, 제269회 임시회 개회",
 			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=691052",
 			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=691052",
 			"description":"이날 본회의에서는 최근 발생한 <b>청라<\/b> 전기차 화재와 고령친화도시 추진에 대한 의정자유발언이 이어졌다. 김원진 의원은 재난 대응 시스템 필요성을 강조하며 전기차 전용주차구역의 화재예방 및 안전시설 지원에 관한... ",
+			"pubDate":"Mon, 02 Sep 2024 17:38:00 +0900"
+		},
+		{
+			"title":"필름형 센서로 전기차 화재 막는다",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/11107675",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005359389?sid=101",
+			"description":"유민에쓰티, 누액 즉각 감지 최근 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 전기차 화재로 배터리 안정성에 대한 우려가 높은 가운데 사전에 이상 징후를 포착해 사고를 예방할 수 있는 기술을 국내 중소기업이 선보여... ",
 			"pubDate":"Mon, 02 Sep 2024 17:38:00 +0900"
 		},
 		{
@@ -138,6 +152,13 @@
 			"pubDate":"Mon, 02 Sep 2024 17:26:00 +0900"
 		},
 		{
+			"title":"인천 서구의회 김원진 의원, 전기차 화재 사건 대응 지적",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240902010000606",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240902010000606",
+			"description":"2일 인천시 서구의회 제269회 임시회 1차 본회의서 김원진 의원(더불어민주당, <b>청라<\/b>1동, <b>청라<\/b>2동)이 자유발언을 통해 최근 인천에서 발생한 전기차 화재 사건 대응과 관련하여 인천 서구 재난안전대책본부의 문제점을... ",
+			"pubDate":"Mon, 02 Sep 2024 17:22:00 +0900"
+		},
+		{
 			"title":"현대차·기아, 전기차 판매 '빨간불'…&quot;캐즘·화재 악영향&quot;",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240902_0002872359",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012762892?sid=103",
@@ -149,13 +170,6 @@
 			"originallink":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=787785",
 			"link":"http:\/\/www.namdonews.com\/news\/articleView.html?idxno=787785",
 			"description":"인천 <b>청라<\/b> 전기차 화재로 대피 생활을 하다가 집으로 돌아온 아파트 주민들이 원인 모를 피부 발진 증상 등으로 불안감을 호소하고 있다. 2일 연합뉴스와 인천시 서구에 따르면 지난달 30일께 <b>청라<\/b>2동 행정복지센터에 있는... ",
-			"pubDate":"Mon, 02 Sep 2024 17:22:00 +0900"
-		},
-		{
-			"title":"인천 서구의회 김원진 의원, 전기차 화재 사건 대응 지적",
-			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240902010000606",
-			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240902010000606",
-			"description":"2일 인천시 서구의회 제269회 임시회 1차 본회의서 김원진 의원(더불어민주당, <b>청라<\/b>1동, <b>청라<\/b>2동)이 자유발언을 통해 최근 인천에서 발생한 전기차 화재 사건 대응과 관련하여 인천 서구 재난안전대책본부의 문제점을... ",
 			"pubDate":"Mon, 02 Sep 2024 17:22:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=479716",
 			"description":"인천 <b>청라<\/b> 아파트 전기차 화재 사고 이후 부산시와 기초 지자체들은 부랴부랴 지역 전기차 안전 상황 점검에 나섰습니다. 화재 대응 장비 확충을 비롯한 안전 강화 대책을 발표하고, 소방과 함께 화재 진압 훈련을... ",
 			"pubDate":"Mon, 02 Sep 2024 17:00:00 +0900"
-		},
-		{
-			"title":"인천 서구의회 제269회 임시회 돌입",
-			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240902010000507",
-			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240902010000507",
-			"description":"이날 본회의에서는 최근 발생한 <b>청라<\/b> 전기차 화재와 고령친화도시 추진에 대한 의정자유발언이 있었다. 김원진 의원은 재난 대응 시스템 필요성을 강조하며 전기차 전용주차구역의 화재예방 및 안전시설 지원에 관한... ",
-			"pubDate":"Mon, 02 Sep 2024 16:58:00 +0900"
-		},
-		{
-			"title":"&quot;현대차도 대세에 밀리나&quot;…전기차 '판매 부진' 뚜렷",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240902_0002871207",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012762826?sid=103",
-			"description":"지난달 인천 <b>청라<\/b>에서 벤츠 전기차 화재가 발생하며 국내 소비자들 사이에서 전기차 안전 우려가 커지며 현대차 판매량에도 영향을 줄 것이란 분석이 나온 바 있다. 표면적으로 보면 현대차의 전기차 판매량은... ",
-			"pubDate":"Mon, 02 Sep 2024 16:56:00 +0900"
 		}
 	]
 }
