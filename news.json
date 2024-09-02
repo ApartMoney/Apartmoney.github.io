@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 02 Sep 2024 11:10:02 +0900",
-	"total":241730,
+	"lastBuildDate":"Mon, 02 Sep 2024 11:20:02 +0900",
+	"total":241731,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"5일, 자연을 닮은 음악으로 꾸며지는 대구시립국악단 '환경 음악회'",
+			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2024090211063606613",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000902226?sid=103",
+			"description":"다음으로 연주되는 강한뫼 작곡의 '<b>청라<\/b>(靑蘿)'는 대구의 작곡가 박태준의 '동무생각' 노래 선율을 차용했다. 푸른 담쟁이로 장식된 아름다운 대구의 <b>청라<\/b>언덕을 음악적으로 표현한 곡으로 우리 고장의 아름다운 자연의... ",
+			"pubDate":"Mon, 02 Sep 2024 11:19:00 +0900"
+		},
 		{
 			"title":"코리아빌드위크와 건축박람회에서 살펴본 미래건축기술",
 			"originallink":"https:\/\/www.ekoreanews.co.kr\/news\/articleView.html?idxno=75181",
@@ -194,13 +201,6 @@
 			"pubDate":"Sun, 01 Sep 2024 19:36:00 +0900"
 		},
 		{
-			"title":"인천시, 저상 소방차ㆍ궤도형 배연 로봇 도입… 화재대책 발표",
-			"originallink":"http:\/\/fpn119.co.kr\/221571",
-			"link":"http:\/\/fpn119.co.kr\/221571",
-			"description":"= <b>청라<\/b> 전기차 화재와 관련해 인천시가 50억원을 들여 저상 소방차 등 소방장비를 보강한다. 또 급속충전기 충전율을 90% 이하로 제한하기로 했다. 인천시는 지난 29일 ‘전기차 화재 예방 안전 종합대책’을 발표했다. 이번... ",
-			"pubDate":"Sun, 01 Sep 2024 19:22:00 +0900"
-		},
-		{
 			"title":"조지연 “무공해자동차 충전시설 상태 등 정보 소방관서장에 제공해야...",
 			"originallink":"http:\/\/fpn119.co.kr\/221566",
 			"link":"http:\/\/fpn119.co.kr\/221566",
@@ -208,11 +208,11 @@
 			"pubDate":"Sun, 01 Sep 2024 19:22:00 +0900"
 		},
 		{
-			"title":"인천시의회 행안위, 현장중심의 제297회 임시회 시작",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=470568",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=470568",
-			"description":"루원복합청사 건립 현장 지하주차장 내 전기차 충전시설을 확인한 의원들은 &quot;최근 <b>청라<\/b> 한 아파트 지하주차장 전기차 화재 사고를 보듯이 지하주차장에서 화재가 발생하면 진화가 어렵고, 대형 피해로 이어질 수 있다... ",
-			"pubDate":"Sun, 01 Sep 2024 18:46:00 +0900"
+			"title":"인천시, 저상 소방차ㆍ궤도형 배연 로봇 도입… 화재대책 발표",
+			"originallink":"http:\/\/fpn119.co.kr\/221571",
+			"link":"http:\/\/fpn119.co.kr\/221571",
+			"description":"= <b>청라<\/b> 전기차 화재와 관련해 인천시가 50억원을 들여 저상 소방차 등 소방장비를 보강한다. 또 급속충전기 충전율을 90% 이하로 제한하기로 했다. 인천시는 지난 29일 ‘전기차 화재 예방 안전 종합대책’을 발표했다. 이번... ",
+			"pubDate":"Sun, 01 Sep 2024 19:22:00 +0900"
 		}
 	]
 }
