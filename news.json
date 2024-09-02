@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 02 Sep 2024 15:30:02 +0900",
-	"total":241761,
+	"lastBuildDate":"Mon, 02 Sep 2024 15:40:02 +0900",
+	"total":241762,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울시, 국토부 반대에도 '전기차 충전율 90% 제한' 강행 의지",
+			"originallink":"https:\/\/www.bloter.net\/news\/articleView.html?idxno=622417",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/293\/0000058067?sid=101",
+			"description":"서울시 관계자는 2일 통화에서 &quot;8월 인천 <b>청라<\/b>등에서 발생됐던 전기차 화재로 전기차 차주들과 아파트 입주민간 갈등이 심화됐다&quot;며 &quot;이런 문제를 해결하기 위해 마련한 가장 현실적인 부분이 바로 9일 발표된 공동주택... ",
+			"pubDate":"Mon, 02 Sep 2024 15:31:00 +0900"
+		},
 		{
 			"title":"인천 서구의회, 제269회 임시회 개회",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1926099",
@@ -12,7 +19,7 @@
 			"pubDate":"Mon, 02 Sep 2024 15:28:00 +0900"
 		},
 		{
-			"title":"“전기차 화재, 배터리 빅데이터로 사전 파악 가능”",
+			"title":"“전기차 화재, 배터리 빅데이터로 조기 포착 가능”",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240902027163207",
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240902027163207",
 			"description":"최근 인천 <b>청라<\/b> 사고 등 전기차 화재가 잇따라 발생하면서 전기차를 기피하는 포비아 현상이 발생하고 있다. 전기차 판매량이 줄어드는 가 하면 지하주차장에 전기차 주차를 금지하는 일까지 벌어지고 있다. 이에 전기차... ",
@@ -194,13 +201,6 @@
 			"pubDate":"Mon, 02 Sep 2024 11:42:00 +0900"
 		},
 		{
-			"title":"[9월 2일 오늘의 pick] <b>청라<\/b>시티타워 건설 실현 될까… 9월 용역 완료 (B...",
-			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=173172",
-			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=173172",
-			"description":"인천경제자유구역청은 <b>청라<\/b>시티타워 사업 주체인 한국토지주택공사가 진행 중인 비행 절차 영향성 검토 용역이 이달 말 완료될 예정이라고 밝혔습니다. <b>청라<\/b>시티타워가 들어서면 김포공항에 착륙하는 항공기... ",
-			"pubDate":"Mon, 02 Sep 2024 11:34:00 +0900"
-		},
-		{
 			"title":"[닻 올린 내항 재개발] ④ 내항 재개발 '시동' … 과제와 대안은 (B tv 인...",
 			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=173171",
 			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=173171",
@@ -208,11 +208,11 @@
 			"pubDate":"Mon, 02 Sep 2024 11:34:00 +0900"
 		},
 		{
-			"title":"완성차업계 “잘못된 정보로 ‘전기차 포비아’ 가속, 이제는 안전 대책...",
-			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20240902050378",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002357282?sid=101",
-			"description":"인천의 한 아파트의 전기차 화재 사건 이후 전기차에 대한 막연한 혐오 주장들이 활개를 치며 ‘전기차 포비아’(공포증)가 확산하는 모습이다. 전문가를 표방하는 일부 인사들이 사실과 다르거나 과학적으로 입증되지... ",
-			"pubDate":"Mon, 02 Sep 2024 11:27:00 +0900"
+			"title":"[9월 2일 오늘의 pick] <b>청라<\/b>시티타워 건설 실현 될까… 9월 용역 완료 (B...",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=173172",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=173172",
+			"description":"인천경제자유구역청은 <b>청라<\/b>시티타워 사업 주체인 한국토지주택공사가 진행 중인 비행 절차 영향성 검토 용역이 이달 말 완료될 예정이라고 밝혔습니다. <b>청라<\/b>시티타워가 들어서면 김포공항에 착륙하는 항공기... ",
+			"pubDate":"Mon, 02 Sep 2024 11:34:00 +0900"
 		}
 	]
 }
