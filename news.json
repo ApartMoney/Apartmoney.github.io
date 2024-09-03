@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 04 Sep 2024 07:40:02 +0900",
-	"total":242007,
+	"lastBuildDate":"Wed, 04 Sep 2024 07:50:02 +0900",
+	"total":242008,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"유일에너테크, 주가 급락…'전고체 배터리' 지원책 발표에 촉각",
+			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202409040741261477cd1e7f0bdf_23",
+			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202409040741261477cd1e7f0bdf_23",
+			"description":"지난달 1일 인천 서구 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재로 800여 대의 주변 차량까지 피해를 입으면서 배터리의 위험성에 대한 공포가 커졌다. 올해 8월까지 국내에서 발생한 전기차 화재만... ",
+			"pubDate":"Wed, 04 Sep 2024 07:42:00 +0900"
+		},
 		{
 			"title":"인천시, 내년 국비 5조5천400억 원 확보...'역대 최대규모 달성' 총력",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1071655",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000064282?sid=103",
 			"description":"일부 차주들은 8월 1일 인천 <b>청라<\/b>에서 발생한 벤츠 전기차 화재를 계기로 배터리 제조사가 잘못 알려졌다는 점을 인지했다. 당시 전기차 화재의 원인으로 배터리 결함이 지목됐고, 이후 일부 EQE 모델에 파라시스... ",
 			"pubDate":"Tue, 03 Sep 2024 19:26:00 +0900"
-		},
-		{
-			"title":"인천시, 내년 국비 5조5400억 확보",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1264901",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1264901",
-			"description":"'GTX-B 노선 건설'에 2968억원, '서울지하철 7호선 <b>청라<\/b>연장' 793억원, '인천발 KTX 적기 개통' 350억원, '영종-신도 도로건설' 261억원, '공단고가교-서인천IC 혼잡도로 개선' 108억원 등이 대표적이다. 교통 분야 외에도 '인천... ",
-			"pubDate":"Tue, 03 Sep 2024 19:00:00 +0900"
 		}
 	]
 }
