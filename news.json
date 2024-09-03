@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 03 Sep 2024 11:40:02 +0900",
-	"total":241882,
+	"lastBuildDate":"Tue, 03 Sep 2024 11:50:02 +0900",
+	"total":241883,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"가격 낮추고‧혜택 늘리고…현대차, 전기차 포비아 극복 '안간힘'",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1403088\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002868755?sid=101",
+			"description":"이같은 현대차의 움직임은 최근 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 전기차 화재사고로 전기차 기피 심리가 확산하는 상황에 대응하기 위한 것으로 풀이된다. 시장 점유율이 가장 높은 리딩업체로서 가격... ",
+			"pubDate":"Tue, 03 Sep 2024 11:40:00 +0900"
+		},
 		{
 			"title":"인천시 인천 독서대전 부대행사 ‘모아모아 텐트마켓’ 참가자 모집",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240903027431808",
@@ -61,17 +68,17 @@
 			"pubDate":"Tue, 03 Sep 2024 10:40:00 +0900"
 		},
 		{
-			"title":"울주군, 청사 전기차 충전시설 지상 이전 추진",
-			"originallink":"https:\/\/www.news1.kr\/local\/ulsan\/5529770",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007766567?sid=102",
-			"description":"이번 시설 이전은 최근 인천 <b>청라<\/b> 전기차 화재 등에 따른 울주군민의 불안감을 해소하고 전기차 화재 사고를 예방하기 위해 추진됐다. 울주군에 따르면 전기차 화재는 발생 시 대처하기 어렵고 대규모 화재로 번질 수... ",
-			"pubDate":"Tue, 03 Sep 2024 10:33:00 +0900"
-		},
-		{
 			"title":"울주군, 청사 내 전기차 충전시설 지상 이전 추진",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240903_0002873140",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012763819?sid=102",
 			"description":"이번 시설 이전은 최근 인천 <b>청라<\/b> 전기차 화재 등에 따른 울주군민의 불안감을 해소하고, 전기차 화재 사고를 예방하기 위해서다. 전기차 화재는 발생 시 대처하기 어렵고 대규모 화재로 번질 수 있어 불안감이 급속히... ",
+			"pubDate":"Tue, 03 Sep 2024 10:33:00 +0900"
+		},
+		{
+			"title":"울주군, 청사 전기차 충전시설 지상 이전 추진",
+			"originallink":"https:\/\/www.news1.kr\/local\/ulsan\/5529770",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007766567?sid=102",
+			"description":"이번 시설 이전은 최근 인천 <b>청라<\/b> 전기차 화재 등에 따른 울주군민의 불안감을 해소하고 전기차 화재 사고를 예방하기 위해 추진됐다. 울주군에 따르면 전기차 화재는 발생 시 대처하기 어렵고 대규모 화재로 번질 수... ",
 			"pubDate":"Tue, 03 Sep 2024 10:33:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.nbnews.kr\/news\/articleView.html?idxno=97303",
 			"description":"▶️우원개발, 금호건설(주)와 491억원(최근 매출액대비 19.44%) 규모 공급계약(<b>청라<\/b>7호선1공구 터널공사(1-2구간)) 체결(계약기간:2024-09-02~2027-10-17) ▶️와이엠씨, 20억원 규모 자사주 취득 신탁계약... ",
 			"pubDate":"Tue, 03 Sep 2024 08:44:00 +0900"
-		},
-		{
-			"title":"중고 전기차값 급락…&quot;화재 우려 커진 탓&quot;",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240903_0002872728",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012763349?sid=103",
-			"description":"특히 지난달 인천 <b>청라<\/b>에서 발생한 화재 사건으로 안전성 문제가 불거진 메르세데스-벤츠의 EQE 350+ 모델은 2023년식 기준 현재 최저 5790만원부터 최대 6800만원 사이에서 중고 시세를 형성했다. 1억380만원에 달하는... ",
-			"pubDate":"Tue, 03 Sep 2024 08:39:00 +0900"
 		}
 	]
 }
