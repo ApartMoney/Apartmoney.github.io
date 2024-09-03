@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Tue, 03 Sep 2024 09:40:02 +0900",
-	"total":241856,
+	"lastBuildDate":"Tue, 03 Sep 2024 09:50:01 +0900",
+	"total":241860,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'변곡점'에 선 2차전지, '전기차 화재' 악재....'전화위복'될까?",
+			"originallink":"http:\/\/www.newsfc.co.kr\/news\/articleView.html?idxno=66357",
+			"link":"http:\/\/www.newsfc.co.kr\/news\/articleView.html?idxno=66357",
+			"description":"▲지난달 1일 벤츠 전기차 화재로 차량들이 전소된 인천 서구 <b>청라<\/b> 아파트 지하 주차장(사진=연합뉴스)  최근 전기차 화재 속출로 타격이 예상되는 2차전지 산업이 올해 상반기까지 업황 저하와 업체별 실적 부진이... ",
+			"pubDate":"Tue, 03 Sep 2024 09:48:00 +0900"
+		},
+		{
+			"title":"금호에이치티, 전기차 BMS 기술 고도화…“자동차 전장 설계 기반 실적...",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024090309475309840",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005467219?sid=101",
+			"description":"최근 인천 <b>청라<\/b>의 아파트 지하주차장에서 전기차 화재 사건이 발생하면서 BMS의 중요성이 커지고 있다. BMS를 적용하면 배터리의 전압, 전류, 온도 등을 실시간으로 모니터링이 가능하며, 개별 배터리 셀 간의 균형을... ",
+			"pubDate":"Tue, 03 Sep 2024 09:47:00 +0900"
+		},
+		{
+			"title":"금호에이치티, 경쟁사 대비 10배 전문인력...배터리 관리시스템 고도화...",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2397018",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2397018",
+			"description":"최근 인천 <b>청라<\/b>의 아파트 지하주차장에서 전기차 화재 사건이 발생하면서 BMS의 중요성이 커지고 있다. BMS를 적용하면 배터리의 전압, 전류, 온도 등을 실시간으로 모니터링이 가능하며, 개별 배터리 셀 간의 균형을... ",
+			"pubDate":"Tue, 03 Sep 2024 09:40:00 +0900"
+		},
+		{
+			"title":"중고 전기차 시세 급락…벤츠 EQE 신차급 매물 반값 ‘뚝’",
+			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20240903050135",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002357685?sid=101",
+			"description":"특히 인천 <b>청라<\/b> 아파트 화재 사건으로 안전성 문제가 대두된 벤츠 EQE 350+ 모델의 경우, 2023년식 기준 현재 최저 5790만원부터 최대 6800만원 사이에서 중고 시세를 형성했다. 1억380만원에 달하는 신차 가격과... ",
+			"pubDate":"Tue, 03 Sep 2024 09:40:00 +0900"
+		},
 		{
 			"title":"인천시, 2024 인천 독서대전 텐트마켓 참여자 모집",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202409030904339830914",
@@ -103,17 +131,17 @@
 			"pubDate":"Tue, 03 Sep 2024 07:01:00 +0900"
 		},
 		{
-			"title":"‘전기차 캐즘’ 타고 하반기 하이브리드 전성시대 ‘활짝’",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240902010000499",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240902010000499",
-			"description":"지난달에 이어 이달 역시 ‘아르카나 하이브리드’ 모델은 상대적으로 인기 차종인 만큼 혜택이 적었다.또한 지난달 1일 발생한 이른바 ‘<b>청라<\/b> 전기차 화재 사건’ 영향으로 전기차 포비아가 확산된 상황에서... ",
-			"pubDate":"Tue, 03 Sep 2024 06:56:00 +0900"
-		},
-		{
 			"title":"나인테크, 주가 급등…이달 '전고체 배터리' 지원책 나온다",
 			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202409030655051309cd1e7f0bdf_23",
 			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202409030655051309cd1e7f0bdf_23",
 			"description":"지난달 1일 인천 서구 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재로 800여 대의 주변 차량까지 피해를 입으면서 배터리의 위험성에 대한 공포가 커졌다. 올해 8월까지 국내에서 발생한 전기차 화재만... ",
+			"pubDate":"Tue, 03 Sep 2024 06:56:00 +0900"
+		},
+		{
+			"title":"‘전기차 캐즘’ 타고 하반기 하이브리드 전성시대 ‘활짝’",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240902010000499",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240902010000499",
+			"description":"지난달에 이어 이달 역시 ‘아르카나 하이브리드’ 모델은 상대적으로 인기 차종인 만큼 혜택이 적었다.또한 지난달 1일 발생한 이른바 ‘<b>청라<\/b> 전기차 화재 사건’ 영향으로 전기차 포비아가 확산된 상황에서... ",
 			"pubDate":"Tue, 03 Sep 2024 06:56:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202409030440324330cd1e7f0bdf_23",
 			"description":"지난달 1일 인천 서구 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재로 800여 대의 주변 차량까지 피해를 입으면서 배터리의 위험성에 대한 공포가 커졌다. 올해 8월까지 국내에서 발생한 전기차 화재만... ",
 			"pubDate":"Tue, 03 Sep 2024 04:42:00 +0900"
-		},
-		{
-			"title":"이브이첨단소재, 주가 급등…'전고체 배터리' 지원방안 이달 발표",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202409030439226564cd1e7f0bdf_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202409030439226564cd1e7f0bdf_23",
-			"description":"지난달 1일 인천 서구 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재로 800여 대의 주변 차량까지 피해를 입으면서 배터리의 위험성에 대한 공포가 커졌다. 올해 8월까지 국내에서 발생한 전기차 화재만... ",
-			"pubDate":"Tue, 03 Sep 2024 04:40:00 +0900"
-		},
-		{
-			"title":"씨아이에스, 주가 급등…'전기차 화재 방지' 전고체 지원책 발표 '임박...",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202409030438186154cd1e7f0bdf_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202409030438186154cd1e7f0bdf_23",
-			"description":"지난달 1일 인천 서구 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재로 800여 대의 주변 차량까지 피해를 입으면서 배터리의 위험성에 대한 공포가 커졌다. 올해 8월까지 국내에서 발생한 전기차 화재만... ",
-			"pubDate":"Tue, 03 Sep 2024 04:40:00 +0900"
-		},
-		{
-			"title":"유일에너테크, 주가 급등…이달 '전고체 배터리' 지원방안 발표",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202409030435549223cd1e7f0bdf_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202409030435549223cd1e7f0bdf_23",
-			"description":"지난달 1일 인천 서구 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재로 800여 대의 주변 차량까지 피해를 입으면서 배터리의 위험성에 대한 공포가 커졌다. 올해 8월까지 국내에서 발생한 전기차 화재만... ",
-			"pubDate":"Tue, 03 Sep 2024 04:38:00 +0900"
-		},
-		{
-			"title":"애경케미칼, 주가 급등…조만간 '차세대 배터리' 지원방안 나온다",
-			"originallink":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202409030437045352cd1e7f0bdf_23",
-			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=202409030437045352cd1e7f0bdf_23",
-			"description":"지난달 1일 인천 서구 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재로 800여 대의 주변 차량까지 피해를 입으면서 배터리의 위험성에 대한 공포가 커졌다. 올해 8월까지 국내에서 발생한 전기차 화재만... ",
-			"pubDate":"Tue, 03 Sep 2024 04:38:00 +0900"
 		}
 	]
 }
