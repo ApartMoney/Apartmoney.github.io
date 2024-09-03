@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 04 Sep 2024 06:20:02 +0900",
-	"total":242000,
+	"lastBuildDate":"Wed, 04 Sep 2024 06:30:02 +0900",
+	"total":242001,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"벤츠 전기차 1년 탔는데 ‘1억→5800만원’…“날벼락” [수민이가 화났...",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240904501417?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003965770?sid=101",
+			"description":"중고차 거래 사이트 케이카(K Car)에 따르면 <b>청라<\/b> 벤츠 사고 이후 지난 7일까지 일주일 새 접수된 전기차 매도 희망 물량은 직전 일주일(7월 25~31일)에 비해 184% 증가했다. 차량 대수는 공개하지 않았다.",
+			"pubDate":"Wed, 04 Sep 2024 06:29:00 +0900"
+		},
 		{
 			"title":"은행 하반기 공채 본격 시작…인사담당자가 전하는 회사별 취업 꿀팁 모...",
 			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=202409031751541823237391cf86_18",
@@ -173,17 +180,17 @@
 			"pubDate":"Tue, 03 Sep 2024 18:32:00 +0900"
 		},
 		{
-			"title":"인천 서구 사설소각장 2차 공청회도 '안갯속'… 소각 증량 이뤄지나",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363670042",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363670042",
-			"description":"<b>청라<\/b>소각장. 사진=인천환경공단 제공 환경단체 반대·주민간 의견충돌로 소각량 증설 1차 공청회 개회도 못해... 소각장 반경 2㎞ 이내 경서동과 <b>청라<\/b>국제도시 주민들은 2차 공청회 일정과 관련해 리뉴에너지 측으로부터... ",
-			"pubDate":"Tue, 03 Sep 2024 18:30:00 +0900"
-		},
-		{
 			"title":"인천시, 내년 국비 5조 5천400억 원… 역대 최대규모 달성 위해 총력",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363670047",
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363670047",
 			"description":"정부안에 반영된 주요 사업으로는 인천시 교통망 확충을 위한 'GTX-B노선 건설' 2천968억 원, '서울지하철 7호선 <b>청라<\/b>연장' 793억 원, '인천발 KTX 적기 개통' 350억 원, '영종-신도 도로건설' 261억 원, 공단고가교-서인천IC... ",
+			"pubDate":"Tue, 03 Sep 2024 18:30:00 +0900"
+		},
+		{
+			"title":"인천 서구 사설소각장 2차 공청회도 '안갯속'… 소각 증량 이뤄지나",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363670042",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363670042",
+			"description":"<b>청라<\/b>소각장. 사진=인천환경공단 제공 환경단체 반대·주민간 의견충돌로 소각량 증설 1차 공청회 개회도 못해... 소각장 반경 2㎞ 이내 경서동과 <b>청라<\/b>국제도시 주민들은 2차 공청회 일정과 관련해 리뉴에너지 측으로부터... ",
 			"pubDate":"Tue, 03 Sep 2024 18:30:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003477347?sid=102",
 			"description":"인천 <b>청라<\/b> 지하 주차장 화재 이후 전기차 화재에 대한 불안감이 커지고 있는 가운데, 정명근 화성시장이 3일 동탄출장소에서 동탄2신도시 공동주택 입주자대표들과 함께 전기차 안전 문제 등 공동주택 현안을 해결하고... ",
 			"pubDate":"Tue, 03 Sep 2024 18:22:00 +0900"
-		},
-		{
-			"title":"벤츠 차주들, 소비자원에 구제신청… “CATL이라더니 파라시스”",
-			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20240903\/126831795\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003585454?sid=103",
-			"description":"해당 차주들은 지난달 1일 인천 <b>청라<\/b>에서 발생한 벤츠 전기차 화재 조사 과정에서 배터리 제조사가 잘못 알려졌다는 것을 인지했다고 주장하고 있다. 이들은 2022년 크리스토프 스타진스키 메르세데스 벤츠 전기차 개발... ",
-			"pubDate":"Tue, 03 Sep 2024 18:20:00 +0900"
 		}
 	]
 }
