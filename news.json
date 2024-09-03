@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 04 Sep 2024 06:30:02 +0900",
-	"total":242001,
+	"lastBuildDate":"Wed, 04 Sep 2024 06:40:02 +0900",
+	"total":242002,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"내년도 정부예산안에 인천시 국고보조금 5조5,400억원 반영",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103867",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103867",
+			"description":"정부안에 반영된 주요 국고보조금은 ▲GTX-B 노선 건설-2,968억원(국토교통부 직접사업) ▲서울도시철도 7호선 <b>청라<\/b> 연장-793억원 ▲인천발 KTX 건설-350억원(국토교통부 직접사업) ▲영종~신도 평화도로 건설-261억원... ",
+			"pubDate":"Wed, 04 Sep 2024 06:34:00 +0900"
+		},
 		{
 			"title":"벤츠 전기차 1년 탔는데 ‘1억→5800만원’…“날벼락” [수민이가 화났...",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240904501417?OutUrl=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=397739",
 			"description":"영종과 <b>청라<\/b>를 잇는 '제3연륙교'의 공사가 내년 말 개통을 앞두고 있죠. 이 교량의 명칭 선정을 놓고 벌이는... [기자] 하늘대교냐 <b>청라<\/b>대교냐. 내년말 개통(현재 공정률 67.3%)을 앞두고 있는 시점, '제3연륙교'를 두고 해당... ",
 			"pubDate":"Tue, 03 Sep 2024 18:26:00 +0900"
-		},
-		{
-			"title":"정명근 화성시장, 공동주택 ‘전기차 안전 대책’ 등 논의",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/publicnews\/local_govern\/2024\/09\/03\/20240903500274?wlog_tag3=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003477347?sid=102",
-			"description":"인천 <b>청라<\/b> 지하 주차장 화재 이후 전기차 화재에 대한 불안감이 커지고 있는 가운데, 정명근 화성시장이 3일 동탄출장소에서 동탄2신도시 공동주택 입주자대표들과 함께 전기차 안전 문제 등 공동주택 현안을 해결하고... ",
-			"pubDate":"Tue, 03 Sep 2024 18:22:00 +0900"
 		}
 	]
 }
