@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 03 Sep 2024 16:20:02 +0900",
-	"total":241934,
+	"lastBuildDate":"Tue, 03 Sep 2024 16:30:02 +0900",
+	"total":241935,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 내년 국비 5조 5400억원 확보",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20240903150722773",
+			"link":"https:\/\/www.ajunews.com\/view\/20240903150722773",
+			"description":"이번 정부안에 반영된 주요 사업으로는 인천시 교통망 확충을 위한  △‘GTX-B노선 건설’ 2968억원 △‘서울지하철 7호선 <b>청라<\/b>연장’ 793억원 △‘인천발 KTX 적기 개통’ 350억원 △‘영종-신도 도로건설’ 261억원과... ",
+			"pubDate":"Tue, 03 Sep 2024 16:24:00 +0900"
+		},
 		{
 			"title":"전기차 화재에 떠오르는 배터리 BMS…주도권 두고 완성차-배터리 신경전",
 			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=234366",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=653453",
 			"description":"최근 인천 <b>청라<\/b>의 아파트 지하주차장에서 전기차 화재 사건이 발생하면서 BMS의 중요성이 커지고 있다. BMS를 적용하면 배터리의 전압, 전류, 온도 등을 실시간으로 모니터링이 가능하며, 개별 배터리 셀 간의 균형을... ",
 			"pubDate":"Tue, 03 Sep 2024 14:18:00 +0900"
-		},
-		{
-			"title":"부산도시공사 아르피나, 전기자동차 충전시설 지상 이전 완료",
-			"originallink":"http:\/\/www.iminju.net\/news\/articleView.html?idxno=107547",
-			"link":"http:\/\/www.iminju.net\/news\/articleView.html?idxno=107547",
-			"description":"부산도시공사 김용학 사장은 &quot;<b>청라<\/b> 전기차 화재와 같은 대형 사고 발생을 사전에 방지하기 위해 최선을 다하겠다&quot;라며 &quot;공사는 앞으로도 시민 안전을 최우선으로 하여 아르피나를 운영할 예정이니 다가오는 명절 연휴에도... ",
-			"pubDate":"Tue, 03 Sep 2024 14:12:00 +0900"
 		}
 	]
 }
