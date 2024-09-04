@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 04 Sep 2024 18:00:02 +0900",
-	"total":242137,
+	"lastBuildDate":"Wed, 04 Sep 2024 18:10:02 +0900",
+	"total":242138,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"김원진 인천서구의원, '전기차 화재 예방·피해 주민 지원' 조례 발의",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252682",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252682",
+			"description":"더불어민주당 김원진(<b>청라<\/b>1·2동) 서구의원은 4일 열린 서구의회 제269회 임시회에서 '서구 공동주택 전기자동차 전용 주차구역 화재 예방 및 안전시설 설치에 관한 조례안(송승환 서구의회 의장 공동발의)'과 '서구... ",
+			"pubDate":"Wed, 04 Sep 2024 18:04:00 +0900"
+		},
 		{
 			"title":"‘인천서구복지재단’ 출범··· 1호 기부 줄이어",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287849066039",
@@ -54,7 +61,7 @@
 			"pubDate":"Wed, 04 Sep 2024 17:43:00 +0900"
 		},
 		{
-			"title":"&quot;벤츠 측이 배터리 제조사 정보 속였다&quot;...전기차 차주들 집단 행동 나섰...",
+			"title":"&quot;벤츠 측이 배터리 제조사 정보 속였다&quot;...전기차 차주들 집단행동 나섰...",
 			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024090414300004842?did=NA",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000821536?sid=102",
 			"description":"앞서 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 불이 난 벤츠 전기차에는 중국 파라시스 배터리가 쓰인 것으로 확인됐다. 4일 업계에 따르면 최근 벤츠 전기차 차주들은 한국소비자원에 피해 구제를 신청했다.... ",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kukinews.com\/article\/view\/kuk202409040111",
 			"description":"반지길 탐방로는 <b>청라<\/b>언덕에서 출발해 3·1만세운동길, 이상정고택, 계산성당, 종로, 진골목 등 대구의 역사 관광지로 이어지며, 2017년부터 지금까지 전국에서 4000여명의 탐방객이 다녀갔다. 반지길은 대구를 무대로... ",
 			"pubDate":"Wed, 04 Sep 2024 15:56:00 +0900"
-		},
-		{
-			"title":"&quot;불씨 꺼질라&quot;…완성차업계, 전기차 살리기 안간힘",
-			"originallink":"https:\/\/www.mediapen.com\/news\/view\/951202",
-			"link":"https:\/\/www.mediapen.com\/news\/view\/951202",
-			"description":"인천 <b>청라<\/b>에서 발생한 전기차 화재 이후 전기차에 관한 민심이 나빠지고, 중고 전기차 가격도 급락하면서 업계의 우려도 커지고 있다. 완성차업체들은 자동차 및 배터리 제조사도 배터리 정보를 공개하고 배터리... ",
-			"pubDate":"Wed, 04 Sep 2024 15:52:00 +0900"
 		}
 	]
 }
