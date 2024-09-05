@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 05 Sep 2024 21:30:02 +0900",
-	"total":242249,
+	"lastBuildDate":"Thu, 05 Sep 2024 21:40:02 +0900",
+	"total":242250,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"연기 나면 '자동 수조'…전기차 화재 20초 만에 '차단'",
+			"originallink":"https:\/\/news.tvchosun.com\/site\/data\/html_dir\/2024\/09\/05\/2024090590255.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000475976?sid=004",
+			"description":"인천 <b>청라<\/b> 지하주차장에서 벌어진 전기차 화재로, 무려 800여 대 차량이 피해를 입는 일이 있었죠. 이같은 피해를 막기 위해선 차량 아래 설치돼 있는 배터리팩을 공략하는게 중요한데요. 연기만 나도 바로 수조가... ",
+			"pubDate":"Thu, 05 Sep 2024 21:29:00 +0900"
+		},
 		{
 			"title":"전기버스는 안전한가…배터리 정보 '깜깜이'",
 			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20240905020200641\/?input=1825m",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3083571",
 			"description":"송도‧영종‧<b>청라<\/b> 각각의 도시 경쟁력을 강화할 송도 워터프런트, 제3연륙교, <b>청라<\/b>의료복합타운 조성, 영종 한상드림아일랜드 등 굵직한 사업도 순항 중이다. 이와 함께 급변하는 글로벌 환경과 국내 상황에... ",
 			"pubDate":"Thu, 05 Sep 2024 16:12:00 +0900"
-		},
-		{
-			"title":"제21회 대구국제오페라축제 '장미의 기사'로 내달 4일 개막",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6207431?utm_source=naver&utm_medium=article&utm_campaign=20240905040833",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0003935548?sid=102",
-			"description":"오페라 작품 &lt;<b>청라<\/b>언덕&gt;의 작곡가 &lt;윤심덕, 사의 찬미&gt;의 대본가 김하나가 각각 작곡과 대본을 맡았다. 지휘자 이동신과 연출가 표현진을 필두로 '투쟁 이육사'역에 테너 권재희, 노성훈, '안일양'역에 김정아, 이윤경... ",
-			"pubDate":"Thu, 05 Sep 2024 16:09:00 +0900"
 		}
 	]
 }
