@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 06 Sep 2024 08:30:02 +0900",
-	"total":242265,
+	"lastBuildDate":"Fri, 06 Sep 2024 08:40:02 +0900",
+	"total":242266,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 월드스마트시티엑스포 어워즈 2개 부문 수상",
+			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20240906050050",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002359354?sid=102",
+			"description":"시는 환경 및 인프라를 분석해 디지털트윈 기반 ‘실시간 안전관리 모니터링 체계’를 구축했으며 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>~아라뱃길~계양 14km 구간)의 민원과 비상 상황... ",
+			"pubDate":"Fri, 06 Sep 2024 08:31:00 +0900"
+		},
 		{
 			"title":"과충전 제한 정답 아닌데…&quot;전기차 공포, 확실한 안전으로 잠재워야&quot;",
 			"originallink":"https:\/\/www.the-pr.co.kr\/news\/articleView.html?idxno=52077",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010003905",
 			"description":"<b>청라<\/b>국제도시와 검단신도시 등이 있는 서구 역시 아파트값이 치솟고 있다. 7월 넷째 주 0.35%(전주 대비) 뛴... <b>청라<\/b>동 '<b>청라<\/b> 제일풍경채' 전용 115㎡형도 지난달 5일 7억3000만원에 팔리며 올해 7월 최고 거래가(7억원)를 한... ",
 			"pubDate":"Thu, 05 Sep 2024 18:00:00 +0900"
-		},
-		{
-			"title":"전기차·배터리 화재 대응 등 소방청 내년 예산 3311억원 편성",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240905010003901",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240905010003901",
-			"description":"소방청이 <b>청라<\/b>아파트 지하주차장 화재와 부천 호텔 화재 등을 계기로 내년 질식소화덮개 등 전기차 화재 대응 장비를 추가로 도입하고 추락사고 예방을 위해 에어매트 '자동충전' 기술을 개발한다. 화성 아리셀 공장... ",
-			"pubDate":"Thu, 05 Sep 2024 17:58:00 +0900"
 		}
 	]
 }
