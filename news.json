@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 06 Sep 2024 12:20:02 +0900",
-	"total":242322,
+	"lastBuildDate":"Fri, 06 Sep 2024 12:30:02 +0900",
+	"total":242323,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 배터리 정보공개 의무화…정부, 전기차 화재 대책 확정",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/politics\/2024\/09\/06\/20240906500135?wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003478313?sid=100",
+			"description":"정부는 지난달 1월 인천 <b>청라<\/b>국제도시 아파트 지하 주차장을 비롯해 최근 주차장에서 전기차 화재 사고가 잇따르자 지난달 13일 모든 제조사에 배터리 정보 자율 공개를 권고했다. 이에 더해 이제는 배터리 제조사와 제작... ",
+			"pubDate":"Fri, 06 Sep 2024 12:25:00 +0900"
+		},
 		{
 			"title":"전기차 배터리 정보공개 의무화··· 제조사 등 항목 추가 확대",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1072766",
@@ -82,17 +89,17 @@
 			"pubDate":"Fri, 06 Sep 2024 12:01:00 +0900"
 		},
 		{
-			"title":"[전기차 대책] 서울시, 90% 충전차량 지하주차장 진입금지-지상 의무화...",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240906000420",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20240906000420",
-			"description":"이상민 행정안전부 장관이 인천 서구 <b>청라<\/b>동 아파트 지하주차장 전기자동차 화재현장을 점검하고 있다.[사진=행정안전부] 하지만 업계와 특히 전기차 소유자들의 반발에 따라 해당 조항은 보류됐다. 서울시 관계자는 &quot;대책... ",
-			"pubDate":"Fri, 06 Sep 2024 12:00:00 +0900"
-		},
-		{
 			"title":"[전기차 대책] 사업자 책임 강화…무과실 책임보험 가입 의무화",
 			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240906000409",
 			"link":"https:\/\/www.newspim.com\/news\/view\/20240906000409",
 			"description":"인천 서구 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 현장 [사진=인천시] 아울러 화재 발생 시 소방당국의 원활한 화재진압을 위해 내년까지 전국 모든 소방관서(240개)에 이동식 수조, 방사장치, 질식소화덮개 등... ",
+			"pubDate":"Fri, 06 Sep 2024 12:00:00 +0900"
+		},
+		{
+			"title":"[전기차 대책] 서울시, 90% 충전차량 지하주차장 진입금지-지상 의무화...",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240906000420",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20240906000420",
+			"description":"이상민 행정안전부 장관이 인천 서구 <b>청라<\/b>동 아파트 지하주차장 전기자동차 화재현장을 점검하고 있다.[사진=행정안전부] 하지만 업계와 특히 전기차 소유자들의 반발에 따라 해당 조항은 보류됐다. 서울시 관계자는 &quot;대책... ",
 			"pubDate":"Fri, 06 Sep 2024 12:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005238111?sid=102",
 			"description":"인천 서구는 그동안 시범 운영했던 <b>청라<\/b>IHP 산업단지 통근버스가 정식 개통했다고 6일 밝혔다. <b>청라<\/b>IHP(북항경유) 통근버스는 지난해 서구 산업단지·공업지역 기업인들과의 간담회에서 고용난 문제로 제기된 출·퇴근... ",
 			"pubDate":"Fri, 06 Sep 2024 11:06:00 +0900"
-		},
-		{
-			"title":"인천 도시철도건설본부, 지역건설산업 활성화 위한 간담회 열어",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202409061041491580612",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202409061041491580612",
-			"description":"<b>청라<\/b>연장선 시공사 등이 참석한 가운데 인천지역 건설업체의 도시철도사업 참여 확대를 위한『지역 건설산업 활성화 간담회』를 개최했다고 밝혔다. 이번 간담회에서는 2024년 상반기 지역건설산업 활성화 추진 실적을... ",
-			"pubDate":"Fri, 06 Sep 2024 11:02:00 +0900"
 		}
 	]
 }
