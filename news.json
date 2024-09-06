@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 06 Sep 2024 23:20:02 +0900",
-	"total":242431,
+	"lastBuildDate":"Fri, 06 Sep 2024 23:30:02 +0900",
+	"total":242432,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[마감] 한컴라이프케아, 정부 '전기차 화재대책' 발표 '급등'...파마리서...",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20240906500397",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20240906500397",
+			"description":"지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재 사고에 따른 후속 조처다. 지난달 13일 모든 제조사에 배터리 정보 자율 공개를 권고한 데 이어 이번에는 배터리 제조사와 제작 기술... ",
+			"pubDate":"Fri, 06 Sep 2024 23:28:00 +0900"
+		},
 		{
 			"title":"국내 소비자가 떠올린 중국 전기차 1위는 ‘BYD’",
 			"originallink":"https:\/\/wemakenews.co.kr\/news\/view.php?no=19986",
@@ -26,17 +33,17 @@
 			"pubDate":"Fri, 06 Sep 2024 21:38:00 +0900"
 		},
 		{
-			"title":"인천시, 도심항공교통으로 구현하는 스마트시티",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471777",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471777",
-			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 '실시간 안전관리 모니터링 체계'를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황... ",
-			"pubDate":"Fri, 06 Sep 2024 21:26:00 +0900"
-		},
-		{
 			"title":"인천시설공단 <b>청라<\/b>공원사업단, 가을철 유해 생물 방제 작업실시",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471776",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471776",
 			"description":"<b>청라<\/b>호수공원 전경. 사진제공=인천시설공단 인천시설공단 <b>청라<\/b>공원사업단은 최근 <b>청라<\/b>호수공원을 이용하는 시민들의 안전을 위해 유해 생물에 대한 대대적인 방제작업을 실시한다고 6일 밝혔다. <b>청라<\/b>공원사업단은 최근... ",
+			"pubDate":"Fri, 06 Sep 2024 21:26:00 +0900"
+		},
+		{
+			"title":"인천시, 도심항공교통으로 구현하는 스마트시티",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471777",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471777",
+			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 '실시간 안전관리 모니터링 체계'를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황... ",
 			"pubDate":"Fri, 06 Sep 2024 21:26:00 +0900"
 		},
 		{
@@ -159,10 +166,10 @@
 			"pubDate":"Fri, 06 Sep 2024 18:06:00 +0900"
 		},
 		{
-			"title":"모든 전기차 배터리 실시간 감지…위험 땐 소방서에 알림",
+			"title":"전기차 배터리 모든 정보 공개해야…인증제 내달 시행",
 			"originallink":"https:\/\/www.hankyung.com\/article\/2024090632441",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005030964?sid=101",
-			"description":"지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 전기차 화재 사고가 발생한 지 한 달여 만에 나온... 지난달 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재로 시작된 ‘전기차 포비아’가 확산하는 걸 막기... ",
+			"description":"지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 전기차 화재 사고가 발생한 지 한 달여 만에 나온 종합대책으로, ‘전기차 포비아’가 확산하는 것을 막기 위한 조치다. ○배터리 인증제 다음달 조기 시행 정부는... ",
 			"pubDate":"Fri, 06 Sep 2024 18:04:00 +0900"
 		},
 		{
@@ -201,17 +208,10 @@
 			"pubDate":"Fri, 06 Sep 2024 17:11:00 +0900"
 		},
 		{
-			"title":"서류 작성하는 전기차화재 피해 주민",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240906158900065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014917577?sid=102",
-			"description":"전시장에서 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 전기차 화재 피해 입주민이 벤츠코리아로부터 무상 대여받는 신형 벤츠 E200 차량 서류를 작성하고 있다. 벤츠코리아는 지난 달 1일 인천 <b>청라<\/b> 아파트... ",
-			"pubDate":"Fri, 06 Sep 2024 17:10:00 +0900"
-		},
-		{
-			"title":"인천 전기차화재 피해자에게 무상 대여되는 벤츠 E클래스",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240906158200065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014917572?sid=102",
-			"description":"주차장에 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 전기차 화재 피해입주민에게 무상 대여되는 신형 벤츠 E200 차량이 주차돼 있다. 벤츠코리아는 지난 달 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 전기차... ",
+			"title":"벤츠, 인천 전기차화재 피해자에게 E클래스 무상대여",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240906158300065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014917573?sid=102",
+			"description":"전시장에서 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 전기차 화재 피해 입주민이 벤츠코리아로부터 무상 대여받는 신형 벤츠 E200 차량의 주요 기능을 설명 듣고 있다. 벤츠코리아는 지난 달 1일 인천 <b>청라<\/b> 아파트... ",
 			"pubDate":"Fri, 06 Sep 2024 17:10:00 +0900"
 		}
 	]
