@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 07 Sep 2024 00:50:02 +0900",
-	"total":242434,
+	"lastBuildDate":"Sat, 07 Sep 2024 01:00:02 +0900",
+	"total":242435,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, '월드스마트시티엑스포 어워즈' 2개 부문 수상",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=609629",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=609629",
+			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 '실시간 안전관리 모니터링 체계'를 구축했으며 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황... ",
+			"pubDate":"Sat, 07 Sep 2024 00:52:00 +0900"
+		},
 		{
 			"title":"9\/7~8 이마트·홈플러스·롯데마트, 휴무일·영업지점 총정리... 추석 선...",
 			"originallink":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=32887",
@@ -138,17 +145,17 @@
 			"pubDate":"Fri, 06 Sep 2024 18:34:00 +0900"
 		},
 		{
-			"title":"이희래 유성구의원, 전기차 화재 심각한 사회문제...유성구 선제적 대응...",
-			"originallink":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=408997",
-			"link":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=408997",
-			"description":"이희래 의원은 이어 인천 <b>청라<\/b>국제도시에서 발생한 전기차 화재를 언급하며, 지하주차장 같은 폐쇄된 공간에서 전기차 화재가 불러올 수 있는 위험성과 그로 인한 피해의 심각성을 알렸다. 또한 이희래 의원은 이를... ",
-			"pubDate":"Fri, 06 Sep 2024 18:30:00 +0900"
-		},
-		{
 			"title":"정부, 전기차 화재 안전관리 대책 발표…배터리 안전인증제 내달 시범사...",
 			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202409061703336932112616b072_1\/article.html",
 			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202409061703336932112616b072_1\/article.html",
 			"description":"지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재 사고에 따른 후속 조처다. 지난달 13일 모든 제조사에 배터리 정보 자율 공개를 권고한 데 이어 이번에는 배터리 제조사와 제작 기술 등 주요 정보... ",
+			"pubDate":"Fri, 06 Sep 2024 18:30:00 +0900"
+		},
+		{
+			"title":"이희래 유성구의원, 전기차 화재 심각한 사회문제...유성구 선제적 대응...",
+			"originallink":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=408997",
+			"link":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=408997",
+			"description":"이희래 의원은 이어 인천 <b>청라<\/b>국제도시에서 발생한 전기차 화재를 언급하며, 지하주차장 같은 폐쇄된 공간에서 전기차 화재가 불러올 수 있는 위험성과 그로 인한 피해의 심각성을 알렸다. 또한 이희래 의원은 이를... ",
 			"pubDate":"Fri, 06 Sep 2024 18:30:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010004420",
 			"description":"이같이 전기차 캐즘에 더해 인천 <b>청라<\/b>아파트에서 발생한 화재사고로 유발된 전기차 포비아 상황에서 기록한 선전인 만큼 향후 현대차·기아의 전기차 캐즘 돌파는 더욱 탄력을 받을 수 있다.이와 달리 수입 전기차의... ",
 			"pubDate":"Fri, 06 Sep 2024 17:48:00 +0900"
-		},
-		{
-			"title":"[현장] &quot;벤츠 빌리러 왔어요&quot;…전기차 화재 주민에 무상대여",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240906129500065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014917606?sid=102",
-			"description":"E200 모델 1년간 이용 가능…주민들 &quot;그나마 다행&quot; &quot;<b>청라<\/b> 전기차 화재 피해 입주민인데요. 차량 지원받으러 왔습니다.&quot; 6일 오후 인천시 연수구 송도동 메르세데스-벤츠 전시장. 메르세데스-벤츠코리아가 인천 <b>청라<\/b> 아파트... ",
-			"pubDate":"Fri, 06 Sep 2024 17:19:00 +0900"
 		}
 	]
 }
