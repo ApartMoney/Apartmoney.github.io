@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 07 Sep 2024 03:10:02 +0900",
-	"total":242436,
+	"lastBuildDate":"Sat, 07 Sep 2024 03:20:02 +0900",
+	"total":242437,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 활활 놀란 사람들…'이 차들은 다르다' 불티?",
+			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000190789?division=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000400966?sid=101",
+			"description":"인천 <b>청라<\/b> 아파트 지하 주차장 전기차 화재 이후 수입 전기차 판매량이 크게 줄어든 가운데, 기아는 판매량이 급증했습니다. 7일 카이즈유데이터연구소에 따르면 지난달 국내에 신규 등록된 기아 전기... ",
+			"pubDate":"Sat, 07 Sep 2024 03:16:00 +0900"
+		},
 		{
 			"title":"전기차 배터리 정보공개 의무화… 안전성 사전 인증도 내달부터",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1725605227&code=11151400&cp=nv",
@@ -61,17 +68,17 @@
 			"pubDate":"Fri, 06 Sep 2024 21:38:00 +0900"
 		},
 		{
-			"title":"인천시설공단 <b>청라<\/b>공원사업단, 가을철 유해 생물 방제 작업실시",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471776",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471776",
-			"description":"<b>청라<\/b>호수공원 전경. 사진제공=인천시설공단 인천시설공단 <b>청라<\/b>공원사업단은 최근 <b>청라<\/b>호수공원을 이용하는 시민들의 안전을 위해 유해 생물에 대한 대대적인 방제작업을 실시한다고 6일 밝혔다. <b>청라<\/b>공원사업단은 최근... ",
-			"pubDate":"Fri, 06 Sep 2024 21:26:00 +0900"
-		},
-		{
 			"title":"인천시, 도심항공교통으로 구현하는 스마트시티",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471777",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471777",
 			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 '실시간 안전관리 모니터링 체계'를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황... ",
+			"pubDate":"Fri, 06 Sep 2024 21:26:00 +0900"
+		},
+		{
+			"title":"인천시설공단 <b>청라<\/b>공원사업단, 가을철 유해 생물 방제 작업실시",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471776",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471776",
+			"description":"<b>청라<\/b>호수공원 전경. 사진제공=인천시설공단 인천시설공단 <b>청라<\/b>공원사업단은 최근 <b>청라<\/b>호수공원을 이용하는 시민들의 안전을 위해 유해 생물에 대한 대대적인 방제작업을 실시한다고 6일 밝혔다. <b>청라<\/b>공원사업단은 최근... ",
 			"pubDate":"Fri, 06 Sep 2024 21:26:00 +0900"
 		},
 		{
@@ -152,6 +159,13 @@
 			"pubDate":"Fri, 06 Sep 2024 18:34:00 +0900"
 		},
 		{
+			"title":"인천시, 2024년 월드스마트시티엑스포 어워즈 2개 부문 수상",
+			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065602229011061",
+			"link":"https:\/\/idsn.co.kr\/news\/view\/1065602229011061",
+			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 ‘실시간 안전관리 모니터링 체계’를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황... ",
+			"pubDate":"Fri, 06 Sep 2024 18:30:00 +0900"
+		},
+		{
 			"title":"이희래 유성구의원, 전기차 화재 심각한 사회문제...유성구 선제적 대응...",
 			"originallink":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=408997",
 			"link":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=408997",
@@ -163,13 +177,6 @@
 			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202409061703336932112616b072_1\/article.html",
 			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202409061703336932112616b072_1\/article.html",
 			"description":"지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재 사고에 따른 후속 조처다. 지난달 13일 모든 제조사에 배터리 정보 자율 공개를 권고한 데 이어 이번에는 배터리 제조사와 제작 기술 등 주요 정보... ",
-			"pubDate":"Fri, 06 Sep 2024 18:30:00 +0900"
-		},
-		{
-			"title":"인천시, 2024년 월드스마트시티엑스포 어워즈 2개 부문 수상",
-			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065602229011061",
-			"link":"https:\/\/idsn.co.kr\/news\/view\/1065602229011061",
-			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 ‘실시간 안전관리 모니터링 체계’를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황... ",
 			"pubDate":"Fri, 06 Sep 2024 18:30:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005030962?sid=101",
 			"description":"지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 전기차 화재 사고가 발생한 지 한 달여 만에 나온 종합대책이다. 정부는 먼저 내년 2월로 예정된 ‘전기차 배터리 인증제’ 시행 시점을 다음달로 앞당겼다.... ",
 			"pubDate":"Fri, 06 Sep 2024 18:02:00 +0900"
-		},
-		{
-			"title":"지하 3층까지 전기차 충전기 설치 허용 유지된다",
-			"originallink":"https:\/\/www.nongmin.com\/article\/20240906500545",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/662\/0000051608?sid=100",
-			"description":"지난달 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재를 계기로 지하의 전기차 충전기를 지상으로 옮기자는 의견이 많았으나 이를 검토 과제로 넘긴 것이다. 정부는 지난해 6월 ‘전기차 충전 기반시설 확충 및 안전... ",
-			"pubDate":"Fri, 06 Sep 2024 18:01:00 +0900"
 		}
 	]
 }
