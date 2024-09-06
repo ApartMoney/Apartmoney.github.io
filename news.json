@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 07 Sep 2024 01:10:02 +0900",
-	"total":242435,
+	"lastBuildDate":"Sat, 07 Sep 2024 01:20:02 +0900",
+	"total":242436,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 배터리 정보공개 의무화… 안전성 사전 인증도 내달부터",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1725605227&code=11151400&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001723559?sid=101",
+			"description":"지난달 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 전기차 화재 관련 후속 조처다. 정부는 전기차 업체들에 탑재 배터리 셀의 제조사·형태·원료·제작기술 등 정보를 의무적으로 공개하도록 했다. 지난달 13일 전기차... ",
+			"pubDate":"Sat, 07 Sep 2024 01:13:00 +0900"
+		},
 		{
 			"title":"인천시, '월드스마트시티엑스포 어워즈' 2개 부문 수상",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=609629",
@@ -145,6 +152,13 @@
 			"pubDate":"Fri, 06 Sep 2024 18:34:00 +0900"
 		},
 		{
+			"title":"인천시, 2024년 월드스마트시티엑스포 어워즈 2개 부문 수상",
+			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065602229011061",
+			"link":"https:\/\/idsn.co.kr\/news\/view\/1065602229011061",
+			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 ‘실시간 안전관리 모니터링 체계’를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황... ",
+			"pubDate":"Fri, 06 Sep 2024 18:30:00 +0900"
+		},
+		{
 			"title":"이희래 유성구의원, 전기차 화재 심각한 사회문제...유성구 선제적 대응...",
 			"originallink":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=408997",
 			"link":"http:\/\/www.newstnt.com\/news\/articleView.html?idxno=408997",
@@ -156,13 +170,6 @@
 			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202409061703336932112616b072_1\/article.html",
 			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202409061703336932112616b072_1\/article.html",
 			"description":"지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재 사고에 따른 후속 조처다. 지난달 13일 모든 제조사에 배터리 정보 자율 공개를 권고한 데 이어 이번에는 배터리 제조사와 제작 기술 등 주요 정보... ",
-			"pubDate":"Fri, 06 Sep 2024 18:30:00 +0900"
-		},
-		{
-			"title":"인천시, 2024년 월드스마트시티엑스포 어워즈 2개 부문 수상",
-			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065602229011061",
-			"link":"https:\/\/idsn.co.kr\/news\/view\/1065602229011061",
-			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 ‘실시간 안전관리 모니터링 체계’를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황... ",
 			"pubDate":"Fri, 06 Sep 2024 18:30:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/662\/0000051608?sid=100",
 			"description":"지난달 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재를 계기로 지하의 전기차 충전기를 지상으로 옮기자는 의견이 많았으나 이를 검토 과제로 넘긴 것이다. 정부는 지난해 6월 ‘전기차 충전 기반시설 확충 및 안전... ",
 			"pubDate":"Fri, 06 Sep 2024 18:01:00 +0900"
-		},
-		{
-			"title":"'훨훨' 난 캐스퍼EV·EV3…'판매량 뚝' 수입 전기차 '희비'",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010004420",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010004420",
-			"description":"이같이 전기차 캐즘에 더해 인천 <b>청라<\/b>아파트에서 발생한 화재사고로 유발된 전기차 포비아 상황에서 기록한 선전인 만큼 향후 현대차·기아의 전기차 캐즘 돌파는 더욱 탄력을 받을 수 있다.이와 달리 수입 전기차의... ",
-			"pubDate":"Fri, 06 Sep 2024 17:48:00 +0900"
 		}
 	]
 }
