@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 07 Sep 2024 07:20:02 +0900",
-	"total":242438,
+	"lastBuildDate":"Sat, 07 Sep 2024 07:30:02 +0900",
+	"total":242439,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"베일 벗은 전기차 대책‥배터리 제조사 공개 의무화",
+			"originallink":"https:\/\/imnews.imbc.com\/replay\/2024\/nwtoday\/article\/6634581_36523.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001372925?sid=101",
+			"description":"◀ 앵커 ▶ 인천 <b>청라<\/b> 아파트 전기차 화재 이후 한 달여 만에 정부가 종합대책을 내놨습니다. 전기차 배터리... <b>청라<\/b> 전기차 화재를 계기로 충전기를 지상에만 설치하도록 하자는 요구도 많았지만, 지하 3층까지 충전기... ",
+			"pubDate":"Sat, 07 Sep 2024 07:16:00 +0900"
+		},
 		{
 			"title":"새 건물 지하 주차장에 '습식 스프링클러' 필수로...전기차에 불 나면 재...",
 			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024090614340000311?did=NA",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/fpn119.co.kr\/221943",
 			"description":"© FPN = 최근 인천 <b>청라<\/b> 아파트 지하주차장 화재 등 잇따르는 전기차 화재로 사회적 불안감이 고조되는... © FPN 박지혜 의원은 “인천 <b>청라<\/b> 아파트 지하주차장 화재에 대한 정부 차원의 명확한 화재 원인 규명과 적극적인... ",
 			"pubDate":"Fri, 06 Sep 2024 18:06:00 +0900"
-		},
-		{
-			"title":"전기차 배터리 모든 정보 공개해야…인증제 내달 시행",
-			"originallink":"https:\/\/www.hankyung.com\/article\/2024090632441",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005030964?sid=101",
-			"description":"지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 전기차 화재 사고가 발생한 지 한 달여 만에 나온 종합대책으로, ‘전기차 포비아’가 확산하는 것을 막기 위한 조치다. ○배터리 인증제 다음달 조기 시행 정부는... ",
-			"pubDate":"Fri, 06 Sep 2024 18:04:00 +0900"
 		}
 	]
 }
