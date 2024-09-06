@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Fri, 06 Sep 2024 14:40:03 +0900",
-	"total":242373,
+	"lastBuildDate":"Fri, 06 Sep 2024 14:50:02 +0900",
+	"total":242376,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'지하 3층까지 전기차 충전기 설치 허용' 규정 유지하기로",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007791464&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001188048?sid=101",
+			"description":"지난달 인천 <b>청라<\/b>국제도시 아파트 지하 주차장 전기차 화재 후 충전기를 지상에만 설치하도록 하고 지하 충전기는 지상으로 옮기자는 목소리가 커졌는데, 이를 중장기 검토 과제로 넘긴 겁니다. 현재 전기차 충전기는... ",
+			"pubDate":"Fri, 06 Sep 2024 14:45:00 +0900"
+		},
+		{
+			"title":"국내 전기차 판매 제조사 앞으로 배터리 정보 의무 공개",
+			"originallink":"https:\/\/kizmom.hankyung.com\/news\/view.html?aid=202409062580o",
+			"link":"https:\/\/kizmom.hankyung.com\/news\/view.html?aid=202409062580o",
+			"description":"정부는 지난달 1월 인천 <b>청라<\/b>국제도시 아파트 지하 주차장을 비롯해 최근 주차장에서 전기차 화재 사고가 잇따르자 지난달 13일 모든 제조사에 배터리 정보 자율 공개를 권고했다. 이에 더해 이제는 배터리 제조사와 제작... ",
+			"pubDate":"Fri, 06 Sep 2024 14:44:00 +0900"
+		},
+		{
+			"title":"화재 속수무책인데… 정부 “지하 3층 전기차 충전 허용”",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020500374&code=61121211&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001723484?sid=102",
+			"description":"지난달 1일 인천 서구 <b>청라<\/b>국제신도시의 한 아파트 단지 지하 주차장 내 전기차에서 화재가 발생한 뒤 충전기를 지상에 설치하도록 하자는 목소리가 커졌는데 기존 안을 유지한 것이다. 6일 정부는 이런 내용을 골자로... ",
+			"pubDate":"Fri, 06 Sep 2024 14:41:00 +0900"
+		},
 		{
 			"title":"전기차 배터리 정보 공개 의무화…셀 제조사, 주원료 등 항목 추가",
 			"originallink":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=85675",
@@ -47,17 +68,17 @@
 			"pubDate":"Fri, 06 Sep 2024 14:30:00 +0900"
 		},
 		{
-			"title":"정부, 전기차 화재 징후 감지에 초점...충전율 제한 안해",
-			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20240906122715",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002344798?sid=105",
-			"description":"8일 인천 서구 <b>청라<\/b>동의 한 아파트 단지 지하주차장이 지난 1일 발생한 전기차 화재 사고로 인해 새까맣게 그을려 있다 전기차 화재 발생 시 소방 작업이 어렵다는 이유로 전기차 충전기를 지상으로 이전해야 한다는... ",
-			"pubDate":"Fri, 06 Sep 2024 14:24:00 +0900"
-		},
-		{
 			"title":"정부, 전기차 배터리 정보공개 의무화… 충전기 지상 설치",
 			"originallink":"https:\/\/www.womennews.co.kr\/news\/articleView.html?idxno=251775",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/310\/0000118763?sid=101",
 			"description":"지난달 인천 <b>청라<\/b>국제도시 아파트 지하 주차장 전기차 화재 후, 전기차 충전기에 대한 목소리가 흘러나왔다. 이와 관련해 중장기적으로 검토할 과제로 봤다. 현재 전기차 충전기는 지하 3층까지만 설치할 수 있다. 이번에... ",
+			"pubDate":"Fri, 06 Sep 2024 14:24:00 +0900"
+		},
+		{
+			"title":"정부, 전기차 화재 징후 감지에 초점...충전율 제한 안해",
+			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20240906122715",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002344798?sid=105",
+			"description":"8일 인천 서구 <b>청라<\/b>동의 한 아파트 단지 지하주차장이 지난 1일 발생한 전기차 화재 사고로 인해 새까맣게 그을려 있다 전기차 화재 발생 시 소방 작업이 어렵다는 이유로 전기차 충전기를 지상으로 이전해야 한다는... ",
 			"pubDate":"Fri, 06 Sep 2024 14:24:00 +0900"
 		},
 		{
@@ -66,13 +87,6 @@
 			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1125331",
 			"description":"지난달 14일 오전 전기차 화재가 발생했던 인천 서구 <b>청라<\/b> 아파트 지하 주차장이 화재로 피해를 본 차량이 옮겨진 채 검게 그을려 있다. 지난 1일 발생한 전기차 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨졌으며... ",
 			"pubDate":"Fri, 06 Sep 2024 14:20:00 +0900"
-		},
-		{
-			"title":"인천시, 도심항공교통 실증·선도 도시로 도약",
-			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/2131644.htm",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000319569?sid=102",
-			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 ‘실시간 안전관리 모니터링 체계’를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14㎞ 구간)의 민원과 비상 상황... ",
-			"pubDate":"Fri, 06 Sep 2024 14:16:00 +0900"
 		},
 		{
 			"title":"정부, '지하 3층까지 전기차 충전기 설치 허용' 규정 유지",
@@ -89,11 +103,25 @@
 			"pubDate":"Fri, 06 Sep 2024 14:16:00 +0900"
 		},
 		{
+			"title":"인천시, 도심항공교통 실증·선도 도시로 도약",
+			"originallink":"http:\/\/news.tf.co.kr\/read\/national\/2131644.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000319569?sid=102",
+			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 ‘실시간 안전관리 모니터링 체계’를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14㎞ 구간)의 민원과 비상 상황... ",
+			"pubDate":"Fri, 06 Sep 2024 14:16:00 +0900"
+		},
+		{
 			"title":"인천시, 도심항공교통으로 구현하는 스마트시티",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1157490",
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1157490",
 			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 '실시간 안전관리 모니터링 체계'를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황... ",
 			"pubDate":"Fri, 06 Sep 2024 14:14:00 +0900"
+		},
+		{
+			"title":"인천시설공단, <b>청라<\/b>홍수공원 유해생물 방제 작업",
+			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202409061323162290514e0091f6_1\/article.html",
+			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202409061323162290514e0091f6_1\/article.html",
+			"description":"인천시설공단 <b>청라<\/b>공원사업단은 지난 3일 <b>청라<\/b>호수공원을 이용하는 시민들의 안전을 위하여 유해 생물에 대한 대대적인 방제작업을 실시했다고 6일 밝혔다. <b>청라<\/b>공원사업단은 최근 러브버그(붉은등우단털파리), 말벌 등... ",
+			"pubDate":"Fri, 06 Sep 2024 14:08:00 +0900"
 		},
 		{
 			"title":"[특징주] 우듬지팜, 韓ㆍUAE 라스알카이마 특사단 '스마트농업ㆍ스마트...",
@@ -110,11 +138,11 @@
 			"pubDate":"Fri, 06 Sep 2024 14:08:00 +0900"
 		},
 		{
-			"title":"인천시설공단, <b>청라<\/b>홍수공원 유해생물 방제 작업",
-			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202409061323162290514e0091f6_1\/article.html",
-			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202409061323162290514e0091f6_1\/article.html",
-			"description":"인천시설공단 <b>청라<\/b>공원사업단은 지난 3일 <b>청라<\/b>호수공원을 이용하는 시민들의 안전을 위하여 유해 생물에 대한 대대적인 방제작업을 실시했다고 6일 밝혔다. <b>청라<\/b>공원사업단은 최근 러브버그(붉은등우단털파리), 말벌 등... ",
-			"pubDate":"Fri, 06 Sep 2024 14:08:00 +0900"
+			"title":"'전기차 충전기, 지하 3층까지 허용' 안 바꾼 정부…왜?",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240906_0002878652",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012772799?sid=102",
+			"description":"그러나 지난 7월 발생한 인천 <b>청라<\/b>동 아파트 지하주차장 전기차 화재 이후 이 규정을 재검토해야 한다는 목소리가 높아졌다. '지하 3층'은 화재가 발생했을 대 소방차가 진입하기 어려운 깊이이고, 빠른 시간 안에 화재... ",
+			"pubDate":"Fri, 06 Sep 2024 14:03:00 +0900"
 		},
 		{
 			"title":"전기차 배터리 사전 인증 다음달부터 실시",
@@ -124,18 +152,18 @@
 			"pubDate":"Fri, 06 Sep 2024 14:03:00 +0900"
 		},
 		{
-			"title":"'전기차 충전기, 지하 3층까지 허용' 안 바꾼 정부…왜?",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240906_0002878652",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012772799?sid=102",
-			"description":"그러나 지난 7월 발생한 인천 <b>청라<\/b>동 아파트 지하주차장 전기차 화재 이후 이 규정을 재검토해야 한다는 목소리가 높아졌다. '지하 3층'은 화재가 발생했을 대 소방차가 진입하기 어려운 깊이이고, 빠른 시간 안에 화재... ",
-			"pubDate":"Fri, 06 Sep 2024 14:03:00 +0900"
-		},
-		{
 			"title":"정부, 전기차 화재 안전관리 대책 확정...배터리 관리 · 기업 책임 강화",
 			"originallink":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=532774",
 			"link":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=532774",
 			"description":"인천 <b>청라<\/b>의 한 아파트 지하주차장에서 벤츠 전기차 화재가 발생했다. [사진: 연합뉴스] 정부가 6일 한덕수 국무총리 주재로 개최된 국정현안관계장관회의에서 '전기차 화재 안전관리 대책'을 확정하고 이를 발표했다.... ",
 			"pubDate":"Fri, 06 Sep 2024 14:00:00 +0900"
+		},
+		{
+			"title":"&quot;전기차 안 삽니다&quot;…신차·중고차 가격 '뚝'",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1239766&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1239766&inflow=N",
+			"description":"인천 <b>청라<\/b> 전기차 화재 모델인 벤츠 EQE 24년식은 12% 할인합니다. 수입차뿐만 아니라 현대차도 대대적인 할인에 나섰는데요. 아이오닉 6의 경우 이달 구매하면 최대 1050만원을 싸게 살수있습니다. 기본 할인인... ",
+			"pubDate":"Fri, 06 Sep 2024 13:56:00 +0900"
 		},
 		{
 			"title":"전기차 배터리 정보공개 의무화… 제조사·주원료 등 항목 추가",
@@ -149,13 +177,6 @@
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252790",
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252790",
 			"description":"4일 '<b>청라<\/b>IHP(인천하이테크파크) 산업단지 통근버스 개통식'을 개최했다고 6일 밝혔다. 개통식에는 강범석 서구청장, 장문정(국민의힘, <b>청라<\/b>1·2동) 서구의회 의원, <b>청라<\/b>IHP 대표자 협의회 김정태 회장 등 50여명이... ",
-			"pubDate":"Fri, 06 Sep 2024 13:56:00 +0900"
-		},
-		{
-			"title":"&quot;전기차 안 삽니다&quot;…신차·중고차 가격 '뚝'",
-			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1239766&inflow=N",
-			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1239766&inflow=N",
-			"description":"인천 <b>청라<\/b> 전기차 화재 모델인 벤츠 EQE 24년식은 12% 할인합니다. 수입차뿐만 아니라 현대차도 대대적인 할인에 나섰는데요. 아이오닉 6의 경우 이달 구매하면 최대 1050만원을 싸게 살수있습니다. 기본 할인인... ",
 			"pubDate":"Fri, 06 Sep 2024 13:56:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/658\/0000083043?sid=101",
 			"description":"앞서 지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서는 전기차 화재로 큰 피해가 발생하면서... 지난달 인천 <b>청라<\/b>국제도시 아파트 지하 주차장 전기차 화재 후 충전기를 지상에만 설치하도록 하고 지하 충전기는... ",
 			"pubDate":"Fri, 06 Sep 2024 13:40:00 +0900"
-		},
-		{
-			"title":"가정역~<b>청라<\/b>IHP 무료 통근버스 정식 개통",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103942",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103942",
-			"description":"<b>청라<\/b>IHP 산업단지 통근버스. 사진=인천시 서구 인천시 서구는 <b>청라<\/b>IHP(인천하이테크파크) 산업단지 통근버스 개통식을 개최했다고 6일 밝혔다. 구는 가정역~<b>청라<\/b>IHP 산업단지~인천 북항을 잇는 노선에 정류소 11곳을... ",
-			"pubDate":"Fri, 06 Sep 2024 13:38:00 +0900"
-		},
-		{
-			"title":"신축 건물 '습식 스프링클러' 의무화...건설사, 주차장 특화설계 구축 ...",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240906000495",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20240906000495",
-			"description":"인천 서구 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 현장 [사진=인천시] 우선 건설사들이 시공하는 공동주택은 대부분 스프링클러 설치가 의무화돼 추가적인 시공비 상승은 제한적인 상황이다. '습식 스프링클러' 설치... ",
-			"pubDate":"Fri, 06 Sep 2024 13:37:00 +0900"
-		},
-		{
-			"title":"전기차 배터리 정보공개 의무화…제조사·주원료 등 항목 추가",
-			"originallink":"https:\/\/news.tvchosun.com\/site\/data\/html_dir\/2024\/09\/06\/2024090690086.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000476049?sid=101",
-			"description":"지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차 화재 사고에 따른 후속 조처다. 지난달 13일 모든 제조사에 배터리 정보 자율공개를 권고한 데 이어, 배터리 제조사와 제작 기술 등 주요 정보 공개를... ",
-			"pubDate":"Fri, 06 Sep 2024 13:31:00 +0900"
 		}
 	]
 }
