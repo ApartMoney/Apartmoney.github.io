@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Fri, 06 Sep 2024 12:10:01 +0900",
-	"total":242319,
+	"lastBuildDate":"Fri, 06 Sep 2024 12:20:02 +0900",
+	"total":242322,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 배터리 정보공개 의무화··· 제조사 등 항목 추가 확대",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1072766",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1072766",
+			"description":"지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재 사고에 따른 후속 조처다. 지난달... 1일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 하고 있다. [연합뉴스]... ",
+			"pubDate":"Fri, 06 Sep 2024 12:18:00 +0900"
+		},
+		{
+			"title":"정부 &quot;배터리 인증제 실시·지하 스프링클러 의무화&quot;",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007791271&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001188009?sid=101",
+			"description":"&lt;기자&gt; 지난달 1일 아침 인천 <b>청라<\/b>동 아파트 지하주차장에서 일어난 벤츠 전기차 화재. 주민 23명이 연기를 마시고 차량 87대가 다 타버린 뒤 8시간 만에 꺼졌습니다. 한 달여 지나 정부가 전기차 화재 안전관리대책을... ",
+			"pubDate":"Fri, 06 Sep 2024 12:14:00 +0900"
+		},
+		{
+			"title":"전기차 배터리 정보 공개 의무화…충전시설 지상 이전은 계속 검토",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20240906507844?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003966612?sid=101",
+			"description":"인천 서구 <b>청라<\/b>동의 한 아파트 단지 지하주차장에 주차된 차량들이 지난 8월 1일 발생한 전기차 화재 사고로 인해 불에 타 검게 그을려 있다. 뉴스1 ◆스마트 제어 충전기 내년 7만대 보급…습식 스프링클러 의무화... ",
+			"pubDate":"Fri, 06 Sep 2024 12:13:00 +0900"
+		},
 		{
 			"title":"인천시의회 김종배 의원 교육청 10억 원 이상 단위사업 방만운영 질타",
 			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240906010002119",
@@ -19,17 +40,17 @@
 			"pubDate":"Fri, 06 Sep 2024 12:08:00 +0900"
 		},
 		{
-			"title":"전기차 포비아 현상에, 정부 10월 배터리 인증제 시범 사업",
-			"originallink":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065579967564929",
-			"link":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065579967564929",
-			"description":"최근 인천 <b>청라<\/b> 아파트에서 발생한 전기차 화재 사건으로 인해 전기차 안전에 대한 국민적 우려가 커지고 있는 가운데 정부가 전기차 배터리 화재를 예방하고 소비자를 보호하기 위한 강력한 대응책을 마련했다. 특히... ",
-			"pubDate":"Fri, 06 Sep 2024 12:06:00 +0900"
-		},
-		{
 			"title":"다음 달 배터리 인증제… 배터리 원료까지 공개",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DE6SFFGMU",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004389315?sid=100",
 			"description":"지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재 사고에 따른 후속 조처다. 지난달 13일 모든 제조사에 배터리 정보 자율 공개를 권고한 데 이어 이번에는 배터리 제조사와 제작 기술 등 주요 정보... ",
+			"pubDate":"Fri, 06 Sep 2024 12:06:00 +0900"
+		},
+		{
+			"title":"전기차 포비아 현상에, 정부 10월 배터리 인증제 시범 사업",
+			"originallink":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065579967564929",
+			"link":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065579967564929",
+			"description":"최근 인천 <b>청라<\/b> 아파트에서 발생한 전기차 화재 사건으로 인해 전기차 안전에 대한 국민적 우려가 커지고 있는 가운데 정부가 전기차 배터리 화재를 예방하고 소비자를 보호하기 위한 강력한 대응책을 마련했다. 특히... ",
 			"pubDate":"Fri, 06 Sep 2024 12:06:00 +0900"
 		},
 		{
@@ -61,17 +82,17 @@
 			"pubDate":"Fri, 06 Sep 2024 12:01:00 +0900"
 		},
 		{
-			"title":"[전기차 대책] 사업자 책임 강화…무과실 책임보험 가입 의무화",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240906000409",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20240906000409",
-			"description":"인천 서구 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 현장 [사진=인천시] 아울러 화재 발생 시 소방당국의 원활한 화재진압을 위해 내년까지 전국 모든 소방관서(240개)에 이동식 수조, 방사장치, 질식소화덮개 등... ",
-			"pubDate":"Fri, 06 Sep 2024 12:00:00 +0900"
-		},
-		{
 			"title":"[전기차 대책] 서울시, 90% 충전차량 지하주차장 진입금지-지상 의무화...",
 			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240906000420",
 			"link":"https:\/\/www.newspim.com\/news\/view\/20240906000420",
 			"description":"이상민 행정안전부 장관이 인천 서구 <b>청라<\/b>동 아파트 지하주차장 전기자동차 화재현장을 점검하고 있다.[사진=행정안전부] 하지만 업계와 특히 전기차 소유자들의 반발에 따라 해당 조항은 보류됐다. 서울시 관계자는 &quot;대책... ",
+			"pubDate":"Fri, 06 Sep 2024 12:00:00 +0900"
+		},
+		{
+			"title":"[전기차 대책] 사업자 책임 강화…무과실 책임보험 가입 의무화",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240906000409",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20240906000409",
+			"description":"인천 서구 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 현장 [사진=인천시] 아울러 화재 발생 시 소방당국의 원활한 화재진압을 위해 내년까지 전국 모든 소방관서(240개)에 이동식 수조, 방사장치, 질식소화덮개 등... ",
 			"pubDate":"Fri, 06 Sep 2024 12:00:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202409061041491580612",
 			"description":"<b>청라<\/b>연장선 시공사 등이 참석한 가운데 인천지역 건설업체의 도시철도사업 참여 확대를 위한『지역 건설산업 활성화 간담회』를 개최했다고 밝혔다. 이번 간담회에서는 2024년 상반기 지역건설산업 활성화 추진 실적을... ",
 			"pubDate":"Fri, 06 Sep 2024 11:02:00 +0900"
-		},
-		{
-			"title":"'전기차 활활' 충격받은 한국인들?…&quot;이 車는 다르다&quot; 불티",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202409059671g",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005030775?sid=103",
-			"description":"특히 지난 7월 인천 <b>청라<\/b> 아파트 지하 주차장 전기차 화재 이후 테슬라, 메르세데스-벤츠 등 수입 전기차 판매량이 전월 대비 일제히 줄어든 것과 달리 폭스바겐은 전월 대비 판매량이 급증했다. 6일... ",
-			"pubDate":"Fri, 06 Sep 2024 11:02:00 +0900"
-		},
-		{
-			"title":"[특징주]한컴라이프케어, 전기차 화재시 자동진압 판매 폭증…대기업서...",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024090610550373158",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005469112?sid=101",
-			"description":"<b>청라<\/b> 지하 주차장에서의 화재 사건을 계기로 관련 제품에 관한 관심이 계속해서 커지고 있다. 사고 이후 문의가 급증하고 판매량도 늘고있다. 시설 관리가 필수인 대기업을 중심으로 구매가 늘어나고 있다. 공공기관... ",
-			"pubDate":"Fri, 06 Sep 2024 10:55:00 +0900"
-		},
-		{
-			"title":"정부, 전기차 화재 안전대책 발표…배터리 제조사 공개 의무화",
-			"originallink":"https:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=764937",
-			"link":"https:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=764937",
-			"description":"지난달 1일 인천 <b>청라<\/b> 아파트에서 발생한 전기차 화재로 '전기차 포비아(공포증)'이 확산되고 있는데 따른 조치다. 당시 지하 1층 주차장에 있던 전기차 배터리가 자연발화하면서 차량 87개가 불에 타고, 783대는 그을리는... ",
-			"pubDate":"Fri, 06 Sep 2024 10:52:00 +0900"
 		}
 	]
 }
