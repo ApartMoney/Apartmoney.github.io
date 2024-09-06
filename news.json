@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 06 Sep 2024 11:50:02 +0900",
-	"total":242307,
+	"lastBuildDate":"Fri, 06 Sep 2024 12:00:02 +0900",
+	"total":242308,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[특징주] LK삼양, 국내 유일 전기차 화재 대응 '지능형 열화상 솔루션' ...",
+			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=212588",
+			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=212588",
+			"description":"관련업계에 따르면 LK삼양에 최근 <b>청라<\/b> 전기차 화재로 전기차 충전 시설 안전 확보에 대한 인식이 확산되며 솔루션 도입 문의가 폭발적으로 증가하고 있다. LK삼양은 리튬 배터리 화재 진압 솔루션 개발 파트너... ",
+			"pubDate":"Fri, 06 Sep 2024 11:52:00 +0900"
+		},
 		{
 			"title":"한국 배터리 1~7월 중국 제외 세계 점유율 46.5%로 2.1%p 하락, &quot;CATL 점유...",
 			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=365052",
@@ -89,13 +96,6 @@
 			"pubDate":"Fri, 06 Sep 2024 11:08:00 +0900"
 		},
 		{
-			"title":"인천 서구, <b>청라<\/b>IHP 산업단지(북항경유) 통근버스 정식 개통",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202409061058264186",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005238111?sid=102",
-			"description":"인천 서구는 그동안 시범 운영했던 <b>청라<\/b>IHP 산업단지 통근버스가 정식 개통했다고 6일 밝혔다. <b>청라<\/b>IHP(북항경유) 통근버스는 지난해 서구 산업단지·공업지역 기업인들과의 간담회에서 고용난 문제로 제기된 출·퇴근... ",
-			"pubDate":"Fri, 06 Sep 2024 11:06:00 +0900"
-		},
-		{
 			"title":"'배터리 화재, 대피시간 확보 원한다면 열전이 차단부터 신경써야'",
 			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=342748",
 			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=342748",
@@ -103,17 +103,24 @@
 			"pubDate":"Fri, 06 Sep 2024 11:06:00 +0900"
 		},
 		{
-			"title":"'전기차 활활' 충격받은 한국인들?…&quot;이 車는 다르다&quot; 불티",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202409059671g",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005030775?sid=103",
-			"description":"특히 지난 7월 인천 <b>청라<\/b> 아파트 지하 주차장 전기차 화재 이후 테슬라, 메르세데스-벤츠 등 수입 전기차 판매량이 전월 대비 일제히 줄어든 것과 달리 폭스바겐은 전월 대비 판매량이 급증했다. 6일... ",
-			"pubDate":"Fri, 06 Sep 2024 11:02:00 +0900"
+			"title":"인천 서구, <b>청라<\/b>IHP 산업단지(북항경유) 통근버스 정식 개통",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202409061058264186",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005238111?sid=102",
+			"description":"인천 서구는 그동안 시범 운영했던 <b>청라<\/b>IHP 산업단지 통근버스가 정식 개통했다고 6일 밝혔다. <b>청라<\/b>IHP(북항경유) 통근버스는 지난해 서구 산업단지·공업지역 기업인들과의 간담회에서 고용난 문제로 제기된 출·퇴근... ",
+			"pubDate":"Fri, 06 Sep 2024 11:06:00 +0900"
 		},
 		{
 			"title":"인천 도시철도건설본부, 지역건설산업 활성화 위한 간담회 열어",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202409061041491580612",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202409061041491580612",
 			"description":"<b>청라<\/b>연장선 시공사 등이 참석한 가운데 인천지역 건설업체의 도시철도사업 참여 확대를 위한『지역 건설산업 활성화 간담회』를 개최했다고 밝혔다. 이번 간담회에서는 2024년 상반기 지역건설산업 활성화 추진 실적을... ",
+			"pubDate":"Fri, 06 Sep 2024 11:02:00 +0900"
+		},
+		{
+			"title":"'전기차 활활' 충격받은 한국인들?…&quot;이 車는 다르다&quot; 불티",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202409059671g",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005030775?sid=103",
+			"description":"특히 지난 7월 인천 <b>청라<\/b> 아파트 지하 주차장 전기차 화재 이후 테슬라, 메르세데스-벤츠 등 수입 전기차 판매량이 전월 대비 일제히 줄어든 것과 달리 폭스바겐은 전월 대비 판매량이 급증했다. 6일... ",
 			"pubDate":"Fri, 06 Sep 2024 11:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240906010002060",
 			"description":"이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황 대응체계를 마련하고 있다. 또한, 산업육성을 위해 도심항공교통 실내 테스트 시설을 구축하고 기업과 대학이... ",
 			"pubDate":"Fri, 06 Sep 2024 09:44:00 +0900"
-		},
-		{
-			"title":"[이슈 인터뷰:국회 기후위기 탈탄소 경제포럼 대표의원 김성환 의원] 기...",
-			"originallink":"http:\/\/www.e-platform.net\/news\/articleView.html?idxno=87799",
-			"link":"http:\/\/www.e-platform.net\/news\/articleView.html?idxno=87799",
-			"description":"더불어민주당 김성환 의원(더불어민주당, 서울 노원구 을)을 대표의원으로 더불어민주당 8명, 조국혁신당 1명, 진보당 1명으로 구성된 기후경제포럼은 최근 인천 <b>청라<\/b> 아파트 전기차 화재사고 이후 사회적 불안감이 확산될... ",
-			"pubDate":"Fri, 06 Sep 2024 09:20:00 +0900"
 		}
 	]
 }
