@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 07 Sep 2024 22:00:02 +0900",
-	"total":242452,
+	"lastBuildDate":"Sat, 07 Sep 2024 22:10:02 +0900",
+	"total":242453,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 도심항공교통으로 구현하는 스마트시티",
+			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=478644",
+			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=478644",
+			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 ‘실시간 안전관리 모니터링 체계’를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황... ",
+			"pubDate":"Sat, 07 Sep 2024 22:02:00 +0900"
+		},
 		{
 			"title":"파라텍 주가 거침없는 질주...전기차 화재 발생 시 안전성 강화 대책은...",
 			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=286622",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001188157?sid=102",
 			"description":"지난달 1일 지하주차장 전기차 화재가 발생한 인천 <b>청라<\/b> 아파트의 25층 세대의 모습입니다. 화재로 인한 연기는 화장실까지 시커멓게 만들었습니다. 특히 욕조 물 위에 앉은 분진은 화재 당시에 연기가 얼마나 심각했는지를... ",
 			"pubDate":"Fri, 06 Sep 2024 20:27:00 +0900"
-		},
-		{
-			"title":"인천시의회 김종배의원, 인천시교육청 10억원 이상 단위사업 방만 운영...",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471775",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=471775",
-			"description":"건축 규모가 제각각인 <b>청라<\/b>4고, 첨단1고, 해양3고, 해양2중학교 등 6개 학교의 설계비가 15억 8,600만 원씩 동일한 반면 계약 잔액은 38%인 18억 8,400만원 이 과다 발생했다. 입찰 잔액이 통상 10% 내외인 것과는... ",
-			"pubDate":"Fri, 06 Sep 2024 20:22:00 +0900"
 		}
 	]
 }
