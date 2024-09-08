@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 08 Sep 2024 14:40:02 +0900",
-	"total":242489,
+	"lastBuildDate":"Sun, 08 Sep 2024 14:50:02 +0900",
+	"total":242490,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;전기차 화재 다수 원인 규명 어려워…보상 공백 줄여야&quot;",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007792992&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001188424?sid=101",
+			"description":"▲ 8월 5일 오후 인천 서구 <b>청라<\/b>동 아파트 지하 주차장 화재 현장에서 합동 감식을 마친 경찰이 화재가... 보험연구원 천지연·전용식 연구위원은 '전기차 화재 위험 관리를 위한 향후 과제' 보고서에서 &quot;최근 인천 <b>청라<\/b>국... ",
+			"pubDate":"Sun, 08 Sep 2024 14:44:00 +0900"
+		},
 		{
 			"title":"[화보] 인순이가 물들인 인천의 밤… 정서진 원 아일랜드 뮤직 피크닉",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240908000000983",
@@ -26,7 +33,7 @@
 			"pubDate":"Sun, 08 Sep 2024 14:16:00 +0900"
 		},
 		{
-			"title":"학교도 전기차 충전시설 설치 의무인데…배터리 화재용 소화기 비치율은...",
+			"title":"[단독] 초중고 전기차 충전시설 ‘강제’했지만, 배터리 소화기는 35%뿐",
 			"originallink":"https:\/\/www.hani.co.kr\/arti\/society\/schooling\/1157490.html",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002706454?sid=102",
 			"description":"지난달 인천 <b>청라<\/b> 아파트 대형 화재로 전기자동차 화재에 대한 우려가 커지는 가운데, 전기차 주차구역·충전시설이 있는 전국 학교 가운데 배터리 화재용 소화기가 비치된 학교는 35%에 그치는 것으로 나타났다.... ",
@@ -138,6 +145,13 @@
 			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
 		},
 		{
+			"title":"전기차 전환만으로는 어려워... 넷제로 달성 위한 또 다른 대안 '바이오...",
+			"originallink":"https:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=522860",
+			"link":"https:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=522860",
+			"description":"하지만 내연기관 차량 대비 높은 가격대와 부족한 충전 인프라, 긴 충전 시간 등과 더불어 최근 인천 서구 <b>청라<\/b>국제신도시의 한 아파트 단지 지하 주차장에서 전기차 화재 사고로 인해 전기차 포비아(공포증)와 같은... ",
+			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
+		},
+		{
 			"title":"`전기차 포비아` 확산…보험硏 &quot;사회비용 절감·피해보상 공백 줄여야&quot;",
 			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024090802109963084003&ref=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002900915?sid=101",
@@ -149,13 +163,6 @@
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010004321",
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010004321",
 			"description":"인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차 화재 사고를 계기로 잠재적 피해 우려가... 최근 발생한 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재로 주차돼 있던 차량 42대가 전소됐고, 45대는 부분소... ",
-			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
-		},
-		{
-			"title":"전기차 전환만으로는 어려워... 넷제로 달성 위한 또 다른 대안 '바이오...",
-			"originallink":"https:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=522860",
-			"link":"https:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=522860",
-			"description":"하지만 내연기관 차량 대비 높은 가격대와 부족한 충전 인프라, 긴 충전 시간 등과 더불어 최근 인천 서구 <b>청라<\/b>국제신도시의 한 아파트 단지 지하 주차장에서 전기차 화재 사고로 인해 전기차 포비아(공포증)와 같은... ",
 			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014918918?sid=102",
 			"description":"문화가 있는 날과 그 주간에 맞춰 동해 북평민속장, 원주 장미공원, 판교광장, 서울 청계광장, 부천 마루광장, 인천 학공연장, 춘천 풍물시장(야시장), 서울 망원초록길광장, 인천 <b>청라<\/b>호수공원에서 진행될 예정이다. 이어... ",
 			"pubDate":"Sun, 08 Sep 2024 10:10:00 +0900"
-		},
-		{
-			"title":"8월 수입 전기차 판매량 '뚝'… 벤츠車 화재 영향",
-			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1636296\/?sc=Naver",
-			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1636296\/?sc=Naver",
-			"description":"지난달 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재 사고에 따른 영향으로 분석된다. 이어 BMW는 43% 하락한 406대의 전기차를 판매했고, 테슬라는 17.6% 줄어든 2208대를 판매했다. 반면 국산... ",
-			"pubDate":"Sun, 08 Sep 2024 09:54:00 +0900"
 		}
 	]
 }
