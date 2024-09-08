@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 08 Sep 2024 13:30:02 +0900",
-	"total":242481,
+	"lastBuildDate":"Sun, 08 Sep 2024 13:40:03 +0900",
+	"total":242483,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"포스코인터내셔널, 인천 서구 <b>청라<\/b> 청소년들에 자전거 기부",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363670636",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363670636",
+			"description":"포스코인터내셔널이 지난 6일 인천 서구 <b>청라<\/b>국제도시에 거주하는 저소득 청소년들을 위해 자전거 24대(총 900만 원 상당)를 기부했다. 이날 기부식에는 강범석 서구청장을 비롯해 포스코인터내셔널과 <b>청라<\/b> 1·2·3동... ",
+			"pubDate":"Sun, 08 Sep 2024 13:32:00 +0900"
+		},
+		{
+			"title":"전기차 포비아 갈수록 확산되는데… 답답한 보험 역할, 어떻게 개선돼야...",
+			"originallink":"https:\/\/www.ddaily.co.kr\/page\/view\/2024090810005014348",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002181894?sid=101",
+			"description":"지난달 인천 <b>청라<\/b>국제도시 지하주차장에 주차돼 있던 전기차에서 촉발된 화재로 차량 42대 전소, 45대 부분소, 793대 차량은 그을음 피해를 입는 등 총 880대 차량과 수십 명의 인명 피해가 발생했다. 주요국에서는 이미... ",
+			"pubDate":"Sun, 08 Sep 2024 13:31:00 +0900"
+		},
 		{
 			"title":"인천시, 도심항공교통으로 구현하는 스마트시티 인정받아",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=808808",
@@ -75,13 +89,6 @@
 			"pubDate":"Sun, 08 Sep 2024 12:01:00 +0900"
 		},
 		{
-			"title":"&quot;전기차 화재 다수 원인 규명 어려워…피해보상공백 줄여야&quot;",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240907049200002?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014919052?sid=101",
-			"description":"보험연구원 천지연·전용식 연구위원은 8일 '전기차 화재 위험 관리를 위한 향후 과제' 보고서에서 &quot;최근 인천 <b>청라<\/b>국제도시 지하주차장에 주차돼 있던 전기차에서 촉발된 화재로 880대의 차량이 피해를 보면서 주차장 등... ",
-			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
-		},
-		{
 			"title":"전기차 전환만으로는 어려워... 넷제로 달성 위한 또 다른 대안 '바이오...",
 			"originallink":"https:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=522860",
 			"link":"https:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=522860",
@@ -89,10 +96,10 @@
 			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
 		},
 		{
-			"title":"&quot;전기車 화재 우려 확산…배상책임보험 등 관리방안 모색해야&quot;",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010004321",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010004321",
-			"description":"인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차 화재 사고를 계기로 잠재적 피해 우려가... 최근 발생한 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재로 주차돼 있던 차량 42대가 전소됐고, 45대는 부분소... ",
+			"title":"&quot;전기차 화재 다수 원인 규명 어려워…피해보상공백 줄여야&quot;",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240907049200002?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014919052?sid=101",
+			"description":"보험연구원 천지연·전용식 연구위원은 8일 '전기차 화재 위험 관리를 위한 향후 과제' 보고서에서 &quot;최근 인천 <b>청라<\/b>국제도시 지하주차장에 주차돼 있던 전기차에서 촉발된 화재로 880대의 차량이 피해를 보면서 주차장 등... ",
 			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
 		},
 		{
@@ -100,6 +107,13 @@
 			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024090802109963084003&ref=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002900915?sid=101",
 			"description":"인천 <b>청라<\/b>국제도시 지하주차장에 주차돼 있던 전기차에서 촉발된 화재로 주차돼 있던 차량 42대 전소 및 45대 부분소 피해와 그을음 피해(793대 차량)를 입는 등 총 880대 차량이 피해를 입고, 수 십명의 인명 피해가... ",
+			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
+		},
+		{
+			"title":"&quot;전기車 화재 우려 확산…배상책임보험 등 관리방안 모색해야&quot;",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010004321",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010004321",
+			"description":"인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차 화재 사고를 계기로 잠재적 피해 우려가... 최근 발생한 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재로 주차돼 있던 차량 42대가 전소됐고, 45대는 부분소... ",
 			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1072995",
 			"description":"인천시도시철도건설본부는 대한전문건설협회 인천시회, 검단.<b>청라<\/b>연장선 시공사 등이 참석한 가운데, 인천지역 건설업체의 도시철도사업 참여 확대를 위한 '지역 건설산업 활성화 간담회'를 열었다고 7일 밝혔다. 이번... ",
 			"pubDate":"Sat, 07 Sep 2024 22:50:00 +0900"
-		},
-		{
-			"title":"인천시, 도심항공교통으로 구현하는 스마트시티",
-			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=478644",
-			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=478644",
-			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 ‘실시간 안전관리 모니터링 체계’를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황... ",
-			"pubDate":"Sat, 07 Sep 2024 22:02:00 +0900"
-		},
-		{
-			"title":"파라텍 주가 거침없는 질주...전기차 화재 발생 시 안전성 강화 대책은...",
-			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=286622",
-			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=286622",
-			"description":"지난달 인천 <b>청라<\/b>국제도시 아파트 지하 주차장 전기차 화재 후 충전기를 지상에만 설치하도록 하고 지하 충전기는 지상으로 옮기자는 목소리가 커졌는데, 이를 중장기 검토 과제로 넘긴 것이다. 현재 전기차 충전기는... ",
-			"pubDate":"Sat, 07 Sep 2024 14:22:00 +0900"
 		}
 	]
 }
