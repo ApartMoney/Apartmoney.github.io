@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 08 Sep 2024 13:00:03 +0900",
-	"total":242476,
+	"lastBuildDate":"Sun, 08 Sep 2024 13:10:02 +0900",
+	"total":242477,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 배터리 정보공개…“실효성 부족” Vs “韓 알릴 기회”",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01495686639018152",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005831614?sid=102",
+			"description":"정부가 지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 전기자동차 화재 사고가 발생한 지 한 달여만인 지난 6일 ‘전기차 화재 안전관리 대책’을 발표했다. 국내에서 전기차를 판매하는 제조사는 배터리 주요... ",
+			"pubDate":"Sun, 08 Sep 2024 13:04:00 +0900"
+		},
 		{
 			"title":"“전기차 무서워” 판매 ‘뚝’…10명 중 7명 구매 망설인다 [수민이도...",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240908501134?OutUrl=naver",
@@ -47,13 +54,6 @@
 			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
 		},
 		{
-			"title":"&quot;전기차 화재 다수 원인 규명 어려워…피해보상공백 줄여야&quot;",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240907049200002?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014919052?sid=101",
-			"description":"보험연구원 천지연·전용식 연구위원은 8일 '전기차 화재 위험 관리를 위한 향후 과제' 보고서에서 &quot;최근 인천 <b>청라<\/b>국제도시 지하주차장에 주차돼 있던 전기차에서 촉발된 화재로 880대의 차량이 피해를 보면서 주차장 등... ",
-			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
-		},
-		{
 			"title":"`전기차 포비아` 확산…보험硏 &quot;사회비용 절감·피해보상 공백 줄여야&quot;",
 			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024090802109963084003&ref=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002900915?sid=101",
@@ -65,6 +65,13 @@
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010004321",
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010004321",
 			"description":"인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차 화재 사고를 계기로 잠재적 피해 우려가... 최근 발생한 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재로 주차돼 있던 차량 42대가 전소됐고, 45대는 부분소... ",
+			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
+		},
+		{
+			"title":"&quot;전기차 화재 다수 원인 규명 어려워…피해보상공백 줄여야&quot;",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240907049200002?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014919052?sid=101",
+			"description":"보험연구원 천지연·전용식 연구위원은 8일 '전기차 화재 위험 관리를 위한 향후 과제' 보고서에서 &quot;최근 인천 <b>청라<\/b>국제도시 지하주차장에 주차돼 있던 전기차에서 촉발된 화재로 880대의 차량이 피해를 보면서 주차장 등... ",
 			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288982200899",
 			"description":"▲ 지난 4일 진행된 ‘<b>청라<\/b>IHP 산업단지 통근버스 개통식’에서 강범석 구청장(가운데)과 참석자들이 축하 테이프 커팅을 하고 있는 모습.  인천 서구는  ‘<b>청라<\/b>IHP 산업단지 통근버스 개통식’을 개최했다고 6일... ",
 			"pubDate":"Sat, 07 Sep 2024 13:00:00 +0900"
-		},
-		{
-			"title":"“전기차 시설 지상 이전 비용 지원”… 부산서 전국 첫 조례 제정",
-			"originallink":"https:\/\/www.busan.com\/view\/busan\/view.php?code=2024090711353005806",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/082\/0001287581?sid=102",
-			"description":"지난달 인천 서구 <b>청라<\/b>동의 한 아파트 지하 주차장에서 전기차 화재가 발생해 주민의 우려가 높아졌지만 대부분의 전기차 전용 주차 구역과 충전 시설은 지하에 설치돼 있어 문제로 지적된다. 연제구의회 정홍숙 의원은... ",
-			"pubDate":"Sat, 07 Sep 2024 11:48:00 +0900"
 		}
 	]
 }
