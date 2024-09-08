@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Sun, 08 Sep 2024 13:10:02 +0900",
-	"total":242477,
+	"lastBuildDate":"Sun, 08 Sep 2024 13:20:02 +0900",
+	"total":242480,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천환경공단, 가을 행락철 공촌천 유수지 환경정화 활동",
+			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=218538",
+			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=218538",
+			"description":"한편, 인천환경공단 공촌사업소는 <b>청라<\/b>국제도시 지역과 검암 및 경서지역에서 배출하는 생활오수 등을 일일 65,000톤까지 정화하여 처리하고, 깨끗이 처리된 물을 공촌천과 심곡천에 하천유지 용수로 재이용하여 지역하천... ",
+			"pubDate":"Sun, 08 Sep 2024 13:18:00 +0900"
+		},
+		{
+			"title":"정부 ‘전기차 화재 종합대책’ 발표…인천시 대책 제동 걸리나?",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=808832",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=808832",
+			"description":"이는 지난달 서구 <b>청라<\/b>동 한 아파트 지하주차장에서 발생한 전기차 화재를 계기로 시가 자체 수립한... [ 경기신문 \/ 인천 = 박지현 기자 ] 지난 8월 유정복 시장이 서구 <b>청라<\/b>동 아파트 지하주차장 화재현장을 찾아 피해... ",
+			"pubDate":"Sun, 08 Sep 2024 13:16:00 +0900"
+		},
+		{
+			"title":"'엔진차' 없어지려면 멀었다…'현실적 탈탄소 대안'에 주목",
+			"originallink":"https:\/\/www.moneys.co.kr\/article\/2024090812533821685",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0001026074?sid=103",
+			"description":"최근 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 전기차 화재로 인한 불안감이 커진 점도 한몫했다. 무턱대고 전기차만 논할 게 아니라 대안이 필요하다는 것. 자동차제조사들도 전기차 캐즘(일시적 판매 둔화 현상)... ",
+			"pubDate":"Sun, 08 Sep 2024 13:15:00 +0900"
+		},
 		{
 			"title":"전기차 배터리 정보공개…“실효성 부족” Vs “韓 알릴 기회”",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01495686639018152",
@@ -47,6 +68,13 @@
 			"pubDate":"Sun, 08 Sep 2024 12:01:00 +0900"
 		},
 		{
+			"title":"&quot;전기차 화재 다수 원인 규명 어려워…피해보상공백 줄여야&quot;",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240907049200002?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014919052?sid=101",
+			"description":"보험연구원 천지연·전용식 연구위원은 8일 '전기차 화재 위험 관리를 위한 향후 과제' 보고서에서 &quot;최근 인천 <b>청라<\/b>국제도시 지하주차장에 주차돼 있던 전기차에서 촉발된 화재로 880대의 차량이 피해를 보면서 주차장 등... ",
+			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
+		},
+		{
 			"title":"전기차 전환만으로는 어려워... 넷제로 달성 위한 또 다른 대안 '바이오...",
 			"originallink":"https:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=522860",
 			"link":"https:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=522860",
@@ -65,13 +93,6 @@
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010004321",
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240906010004321",
 			"description":"인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차 화재 사고를 계기로 잠재적 피해 우려가... 최근 발생한 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재로 주차돼 있던 차량 42대가 전소됐고, 45대는 부분소... ",
-			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
-		},
-		{
-			"title":"&quot;전기차 화재 다수 원인 규명 어려워…피해보상공백 줄여야&quot;",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240907049200002?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014919052?sid=101",
-			"description":"보험연구원 천지연·전용식 연구위원은 8일 '전기차 화재 위험 관리를 위한 향후 과제' 보고서에서 &quot;최근 인천 <b>청라<\/b>국제도시 지하주차장에 주차돼 있던 전기차에서 촉발된 화재로 880대의 차량이 피해를 보면서 주차장 등... ",
 			"pubDate":"Sun, 08 Sep 2024 12:00:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3177198",
 			"description":"김 의원은 특히 <b>청라<\/b>4고등학교, 첨단1고등학교, 해양3고등학교 등의 신축 설계용역비가 각기 다른 면적과 규모에도 불구하고 동일하게 15억 8600만원씩 책정되었으며, 계약 잔액이 과다하게 남은 사례를 지적했다. 또... ",
 			"pubDate":"Sat, 07 Sep 2024 14:18:00 +0900"
-		},
-		{
-			"title":"연세대 메이커스페이스 i7, '제2회 인천스타트업위크' 참가",
-			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/09\/07\/2024090700009.html",
-			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/09\/07\/2024090700009.html",
-			"description":"2021년 출범한 협의체에는 연세대 메이커스페이스 i7, 로보메카 메이커스페이스, 조은에듀테크 <b>청라<\/b> 드림 메이커스페이스, 인천대 LINC3.0(3단계 산학연협력 선도대학 육성) 공유협업 스튜디오, 3D프린팅연구조합 판교... ",
-			"pubDate":"Sat, 07 Sep 2024 14:06:00 +0900"
-		},
-		{
-			"title":"인천시, 2024년 월드스마트시티엑스포 어워즈 2개 부문 수상",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160304032016458",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160304032016458",
-			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 ‘실시간 안전관리 모니터링 체계’를 구축했으며, 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황... ",
-			"pubDate":"Sat, 07 Sep 2024 13:10:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>IHP 산업단지(북항경유) 통근버스 개통식 개최",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288982200899",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288982200899",
-			"description":"▲ 지난 4일 진행된 ‘<b>청라<\/b>IHP 산업단지 통근버스 개통식’에서 강범석 구청장(가운데)과 참석자들이 축하 테이프 커팅을 하고 있는 모습.  인천 서구는  ‘<b>청라<\/b>IHP 산업단지 통근버스 개통식’을 개최했다고 6일... ",
-			"pubDate":"Sat, 07 Sep 2024 13:00:00 +0900"
 		}
 	]
 }
