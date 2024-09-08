@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 08 Sep 2024 10:50:02 +0900",
-	"total":242463,
+	"lastBuildDate":"Sun, 08 Sep 2024 11:00:02 +0900",
+	"total":242464,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 부정적 이미지 지울까...美서 극찬 받은 현대차 아이오닉 6",
+			"originallink":"https:\/\/economist.co.kr\/article\/view\/ecn202409080003",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/243\/0000064472?sid=103",
+			"description":"직영 중고차업체 케이카가 발표한 설문 조사(전국 20~59세, 남녀 500명 참여)에 따르면 응답자의 72.6%는 전기차 구매가 망설여진다고 답했다. 지난달 인천 <b>청라<\/b>에서 발생한 벤츠 전기차 화재 사건 등이 원인으로 보인다.",
+			"pubDate":"Sun, 08 Sep 2024 10:50:00 +0900"
+		},
 		{
 			"title":"현대차 기아 글로벌 전기차 시장 공략 고삐",
 			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20240908500105",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=609629",
 			"description":"인천시는 환경 및 인프라를 분석해 디지털트윈 기반 '실시간 안전관리 모니터링 체계'를 구축했으며 이를 활용해 국토교통부의 그랜드챌린지 2단계 도심실증(<b>청라<\/b>-아라뱃길-계양 14km 구간)의 민원과 비상 상황... ",
 			"pubDate":"Sat, 07 Sep 2024 00:52:00 +0900"
-		},
-		{
-			"title":"9\/7~8 이마트·홈플러스·롯데마트, 휴무일·영업지점 총정리... 추석 선...",
-			"originallink":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=32887",
-			"link":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=32887",
-			"description":"인천<b>청라<\/b>, 인천연수, 인천송도, 부천여월, 부천상동, 부천소사, 분당오리, 야탑, 시화, 송탄, 평택안중... 영종도점, <b>청라<\/b>점, 시흥배곧점, 경기양평점, 판교점, 영통점, 신갈점, 광교점, 수원점, 시흥점, 권선점, 시화점... ",
-			"pubDate":"Sat, 07 Sep 2024 00:10:00 +0900"
 		}
 	]
 }
