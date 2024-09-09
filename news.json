@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 09 Sep 2024 18:30:02 +0900",
-	"total":242613,
+	"lastBuildDate":"Mon, 09 Sep 2024 18:40:02 +0900",
+	"total":242615,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"김교흥 의원, '전기차 화재 종합대책' 법안 대표발의",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=398212",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=398212",
+			"description":"한편, 지난달 인천 서구 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 화재로 주민 등 23명이 연기를 마셔 병원으로 옮겨지고 차량 100여 대가 불에 타고 800여 대가 그을렸습니다.",
+			"pubDate":"Mon, 09 Sep 2024 18:38:00 +0900"
+		},
 		{
 			"title":"민자사업 혈세 투입 독소조항 키우는 경남도·창원시",
 			"originallink":"https:\/\/www.idomin.com\/news\/articleView.html?idxno=920192",
@@ -17,6 +24,13 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005087925?sid=101",
 			"description":"메르세데스-벤츠가 인천 <b>청라<\/b> 화재로 인한 전기차주들의 불안을 잠재우기 위해 30만원 상당 충전 바우처를... 벤츠는 &quot;메르세데스- 벤츠의 전기차 소유자로서 최근 인천 <b>청라<\/b>에서 발생한 전기차 화재 사고와 이에 대한 언론... ",
 			"pubDate":"Mon, 09 Sep 2024 18:23:00 +0900"
+		},
+		{
+			"title":"[이슈콘서트] “전기차 위기 9월부터”…현대차, ‘캐즘’ 돌파구 찾았...",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8055171&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011797222?sid=101",
+			"description":"[앵커] 인천 <b>청라<\/b>에서 전기차 배터리 화재가 발생한 지 벌써 40일이 지났죠. 지난 번 출연하셔서 전기차 화재에 대한 오해를 바로 잡아주시면서, 전기차 구매할 의향 있으시다고 했는데, 사셨어요? [앵커] 전기차를 둘러싼... ",
+			"pubDate":"Mon, 09 Sep 2024 18:20:00 +0900"
 		},
 		{
 			"title":"전기차 배터리 정보공개 의무화, 안전대책 실효성이 관건",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=480756",
 			"description":"송도와 <b>청라<\/b> 소각시설은 15일과 17일을 제외한 연휴 기간 내내 가동되며, 수도권매립지도 16일에는 반입이 허용됩니다. 또 시와 10개 군·구는 연휴 기간 중 생활쓰레기 처리 등 불편 민원에 대비해 별도 상황실을 운영하고... ",
 			"pubDate":"Mon, 09 Sep 2024 16:04:00 +0900"
-		},
-		{
-			"title":"인천시, 추석 연휴 ‘생활쓰레기 특별수거 기동반’ 가동",
-			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202409091421354189514e0091f6_1\/article.html",
-			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/202409091421354189514e0091f6_1\/article.html",
-			"description":"특히 송도와 <b>청라<\/b> 소각시설은 15일(일요일)과 17일(추석 당일)을 제외한 연휴 기간 내내 가동되며, 수도권매립지도 16일에는 반입이 허용된다. 인천시 관계자는 &quot;군·구별로 민간 수거업체의 사정에 따라 수거 일정이 다를 수... ",
-			"pubDate":"Mon, 09 Sep 2024 16:00:00 +0900"
-		},
-		{
-			"title":"[9일 인천시 소식] 전기택시 화재 대응 민·관 합동훈련 실시 등",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20240909500301",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20240909500301",
-			"description":"송도와 <b>청라<\/b> 소각시설은 오는 15일과 17일을 제외한 연휴 기간 내내 가동되며, 수도권매립지도 16일에는 반입이 허용된다. 인천시 관계자는 &quot;군·구별로 민간 수거업체의 사정에 따라 수거 일정이 다를 수 있다”며... ",
-			"pubDate":"Mon, 09 Sep 2024 15:50:00 +0900"
 		}
 	]
 }
