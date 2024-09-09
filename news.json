@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 10 Sep 2024 08:00:02 +0900",
-	"total":242643,
+	"lastBuildDate":"Tue, 10 Sep 2024 08:10:02 +0900",
+	"total":242644,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[TECH한주] 전기차 불나니 주목받는 한컴라이프케어",
+			"originallink":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=306111",
+			"link":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=306111",
+			"description":"한글과컴퓨터 자회사 한컴라이프케어는 최근 인천 <b>청라<\/b>국제도시에서 발생한 전기차 화재 사건 이후 자사 전기차 화재 대응 제품에 대한 문의가 20배, 판매는 7배 이상 늘었다고 지난 8월28일 밝혔습니다. 특히 산업군을... ",
+			"pubDate":"Tue, 10 Sep 2024 08:00:00 +0900"
+		},
 		{
 			"title":"[K-배터리 안전] ①LG엔솔, BMS 공략…데이터 확보는 '과제'",
 			"originallink":"https:\/\/news.dealsitetv.com\/news\/articleView.html?idxno=122749",
@@ -47,17 +54,17 @@
 			"pubDate":"Tue, 10 Sep 2024 03:10:00 +0900"
 		},
 		{
-			"title":"[인천판\/게시판]인천 外",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240910\/130013040\/2",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003586677?sid=102",
-			"description":"26일 오후 4∼5시 <b>청라<\/b>호수도서관 다목적강당. □스마트폰 교실=50세 이상 ‘공공도서관 노년 함께 보기... 28일 오후 3시∼4시 반 <b>청라<\/b>국제도서관 제1다목적실. □그림책 교실=‘9월 그림책 작가와의 만남―고혜진... ",
-			"pubDate":"Tue, 10 Sep 2024 03:05:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>의료복합타운, 첫 삽 언제 뜨나",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240910\/130013031\/2",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003586678?sid=102",
 			"description":"KT&amp;G가 최대 지분을 갖고 있는 인천 <b>청라<\/b>의료복합타운 조성 사업 착공이 또다시 해를 넘길 것으로 보인다. 인천 <b>청라<\/b>의료복합타운 조성 사업은 원래 지난해 착공할 예정이었다. 특히 서울시가 최근까지 추진해 온... ",
+			"pubDate":"Tue, 10 Sep 2024 03:05:00 +0900"
+		},
+		{
+			"title":"[인천판\/게시판]인천 外",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240910\/130013040\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003586677?sid=102",
+			"description":"26일 오후 4∼5시 <b>청라<\/b>호수도서관 다목적강당. □스마트폰 교실=50세 이상 ‘공공도서관 노년 함께 보기... 28일 오후 3시∼4시 반 <b>청라<\/b>국제도서관 제1다목적실. □그림책 교실=‘9월 그림책 작가와의 만남―고혜진... ",
 			"pubDate":"Tue, 10 Sep 2024 03:05:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1158317",
 			"description":"이날 견학에는 연구회 대표의원인 이순학 의원(민·서구5)을 비롯해 계양구의회 신지수 의원(민·비례), 인천환경공단 김기형 <b>청라<\/b>사업소장, 인천녹색환경지원센터 배양섭 센터장 및 직원, 강화군 송해면 주민자치회 회원... ",
 			"pubDate":"Mon, 09 Sep 2024 19:26:00 +0900"
-		},
-		{
-			"title":"벤츠코리아 &quot;벤츠 전기차 소유자에 30만원 충전 바우처 지급&quot;",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240909001086",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20240909001086",
-			"description":"벤츠는 &quot;메르세데스- 벤츠의 전기차 소유자로서 최근 인천 <b>청라<\/b>에서 발생한 전기차 화재 사고와 이에 대한 언론 보도로 인해 안전성에 대한 염려가 생길 수 있을 것으로 생각한다&quot;며 &quot;벤츠는 당국의 조사를 지원해 원인... ",
-			"pubDate":"Mon, 09 Sep 2024 19:16:00 +0900"
 		}
 	]
 }
