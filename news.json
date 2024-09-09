@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 09 Sep 2024 15:20:02 +0900",
-	"total":242579,
+	"lastBuildDate":"Mon, 09 Sep 2024 15:30:02 +0900",
+	"total":242581,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 추석 연휴 ‘생활쓰레기 특별수거’ 기동반 가동",
+			"originallink":"https:\/\/www.skyedaily.com\/news\/news_view.html?ID=246024",
+			"link":"https:\/\/www.skyedaily.com\/news\/news_view.html?ID=246024",
+			"description":"특히 송도와 <b>청라<\/b> 소각시설은 15일과 17일을 제외한 연휴 기간 내내 가동되며, 수도권매립지도 16일에는 반입이 허용된다. 인천시 관계자는 “군구별로 민간 수거업체의 사정에 따라 수거 일정이 다를 수 있다”라며... ",
+			"pubDate":"Mon, 09 Sep 2024 15:26:00 +0900"
+		},
+		{
+			"title":"'PD수첩', <b>청라<\/b> 전기차 화재 사건 심층 취재…배터리 논란 진실은",
+			"originallink":"http:\/\/enews.imbc.com\/News\/RetrieveNewsInfo\/429472",
+			"link":"https:\/\/m.entertain.naver.com\/article\/408\/0000234917",
+			"description":"'PD수첩'이 <b>청라<\/b> 아파트 전기차 화재 사건을 취재한다. 지난 8월 1일, 인천의 한 아파트 주차장에서 화재가... 인천 <b>청라<\/b> 아파트 전기차 화재 사건의 전말을 파헤친다. ◆ 새카만 욕실, 잿빛 아이방... 아파트 놔두고 떠돌이... ",
+			"pubDate":"Mon, 09 Sep 2024 15:23:00 +0900"
+		},
 		{
 			"title":"김교흥, '전기차 충전시설 신고제·책임보험 의무법안' 대표발의",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252865",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1636381\/?sc=Naver",
 			"description":"9일 업계에 따르면 지난달 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재로 '전기차 포비아'가 전국적으로 확산되고 있다. 지하주차장에 설치돼 있던 스프링클러 고장이 화재 피해를 더 키운 원인으로 지목됐다.... ",
 			"pubDate":"Mon, 09 Sep 2024 11:08:00 +0900"
-		},
-		{
-			"title":"보령 한달살기 '가을편' 참가자 모집",
-			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1048906",
-			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1048906",
-			"description":"김동일 시장은 &quot;보령의 가을은 무창포 신비의 바닷길 축제, 성주산 단풍축제, <b>청라<\/b> 은행마을 축제, 무창포 대하전어 축제 등 다양한 축제가 기다리고 있다&quot;며 &quot;보령에서 가을의 아름다움을 만끽하고, 즐거운... ",
-			"pubDate":"Mon, 09 Sep 2024 11:06:00 +0900"
-		},
-		{
-			"title":"車 주요뉴스, 전기차 배터리 정보 공개 의무화 – 주유소 기름값 6주 연...",
-			"originallink":"http:\/\/www.sisunnews.co.kr\/news\/articleView.html?idxno=215062",
-			"link":"http:\/\/www.sisunnews.co.kr\/news\/articleView.html?idxno=215062",
-			"description":"지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재 사고에 따른 후속 조처로, 지난달 13일 모든 제조사에 배터리 정보 자율 공개를 권고한 데 이어 이번에는 배터리 제조사와 제작 기술 등 주요... ",
-			"pubDate":"Mon, 09 Sep 2024 11:02:00 +0900"
 		}
 	]
 }
