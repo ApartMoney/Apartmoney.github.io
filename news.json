@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 09 Sep 2024 15:10:02 +0900",
-	"total":242578,
+	"lastBuildDate":"Mon, 09 Sep 2024 15:20:02 +0900",
+	"total":242579,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"김교흥, '전기차 충전시설 신고제·책임보험 의무법안' 대표발의",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252865",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252865",
+			"description":"김 의원은 이번 법안을 지난 8월 인천 서구 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재 사고를 계기로 마련했다고 9일 밝혔다. 민주당 김교흥(인천 서구갑) 국회의원. 지난달 1일 오전 인천 서구 <b>청라<\/b>동의 한 아파트... ",
+			"pubDate":"Mon, 09 Sep 2024 15:16:00 +0900"
+		},
 		{
 			"title":"'PD수첩' <b>청라<\/b>아파트 전기차 화재 사건 심층 취재",
 			"originallink":"https:\/\/www.stardailynews.co.kr\/news\/articleView.html?idxno=459395",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.sisunnews.co.kr\/news\/articleView.html?idxno=215062",
 			"description":"지난달 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재 사고에 따른 후속 조처로, 지난달 13일 모든 제조사에 배터리 정보 자율 공개를 권고한 데 이어 이번에는 배터리 제조사와 제작 기술 등 주요... ",
 			"pubDate":"Mon, 09 Sep 2024 11:02:00 +0900"
-		},
-		{
-			"title":"전기차 배터리 정보 공개 의무화…10일 자동차관리법 입법예고",
-			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20240909102021",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002344985?sid=103",
-			"description":"8일 인천 서구 <b>청라<\/b>동의 한 아파트 단지 지하주차장이 지난 1일 발생한 전기차 화재 사고로 인해 새까맣게 그을려 있다 국토부는 최근 전기차 화재 사고와 관련, 국민의 배터리 정보에 대한 관심이 높아짐에 따라 전기차... ",
-			"pubDate":"Mon, 09 Sep 2024 11:01:00 +0900"
 		}
 	]
 }
