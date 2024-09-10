@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Tue, 10 Sep 2024 19:50:02 +0900",
-	"total":242816,
+	"lastBuildDate":"Tue, 10 Sep 2024 20:00:03 +0900",
+	"total":242819,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'전기차 화재' 벤츠코리아 압수수색",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240911010001365",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240911010001365",
+			"description":"인천 서구 <b>청라<\/b>국제도시 한 아파트에서 발생한 전기차 화재 사건을 수사 중인 경찰이 관리사무소와 벤츠코리아 사무실 등을 압수수색했다. 10일 인천경찰청 형사기동대는 화재가 발생한 아파트 관리사무소, 소방점검... ",
+			"pubDate":"Tue, 10 Sep 2024 19:54:00 +0900"
+		},
+		{
+			"title":"‘전기차 화재’ 벤츠, 배터리 허위 광고였나?… 공정위, 현장 조사",
+			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20240910\/130022324\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003586843?sid=101",
+			"description":"지난달 인천 <b>청라<\/b> 아파트 화재를 일으킨 벤츠 전기차 모델(EQE)은 일부에만 중국 1위 배터리 업체 CATL의 배터리가 장착됐고, 나머지에는 중국 파라시스의 배터리가 사용됐다. 하지만 벤츠는 이런 사실을 제대로 알리지... ",
+			"pubDate":"Tue, 10 Sep 2024 19:52:00 +0900"
+		},
+		{
+			"title":"인천 북부권 신도시 출퇴근 시간 짧아진다",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1265625",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1265625",
+			"description":"서울 7호선 <b>청라<\/b> 연장사업은 2027년 1단계, 2029년 2단계로 단계적 개통을 추진한다. <b>청라<\/b>에서 가산디지털단지까지 이동시간이 현재 78분에서 42분으로 46% 단축될 전망이다. 인천 1호선을 계양역에서 검단신도시까지... ",
+			"pubDate":"Tue, 10 Sep 2024 19:50:00 +0900"
+		},
 		{
 			"title":"공정위, '전기차 화재' 벤츠 현장조사 실시",
 			"originallink":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7095536",
@@ -19,7 +40,7 @@
 			"pubDate":"Tue, 10 Sep 2024 19:40:00 +0900"
 		},
 		{
-			"title":"7조 원 투입… 인천 등 수도권 서부권역 광역철도·도로망 신속 구축",
+			"title":"7조원 투입… 검단·부천·김포 교통 인프라 확충",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363671168",
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363671168",
 			"description":"현재 지반침하로 공사가 중단된 7호선 <b>청라<\/b>연장사업은 2029년까지 단계적으로 개통(중부일보 5월 27일자 1면 보도)해 <b>청라<\/b>에서 서울 가산디지털단지역까지 78분 걸리던 통행 시간을 42분으로 대폭 줄여나갈 계획이다. 또... ",
@@ -180,13 +201,6 @@
 			"pubDate":"Tue, 10 Sep 2024 18:00:00 +0900"
 		},
 		{
-			"title":"野이용우 &quot;<b>청라<\/b>의료복합타운, 연내 반드시 착공해야&quot;",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03932726639018808",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005833569?sid=100",
-			"description":"이용우 더불어민주당 의원이 10일 <b>청라<\/b>의료복합타운의 연내 착공을 촉구했다. <b>청라<\/b>의료복합타운은 서구 <b>청라<\/b>국제도시 28만 336㎡ 면적 부지에 △800병상 규모의 첨단 의료센터 △카이스트와 하버드MGH 연구소 △시니어를... ",
-			"pubDate":"Tue, 10 Sep 2024 17:59:00 +0900"
-		},
-		{
 			"title":"경찰, ‘인천 전기차 화재’ 벤츠코리아 등 압수수색",
 			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2024091017580154099?utm_source=naver&utm_medium=search",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002350189?sid=102",
@@ -194,25 +208,11 @@
 			"pubDate":"Tue, 10 Sep 2024 17:59:00 +0900"
 		},
 		{
-			"title":"화재 전기차 배터리 벤츠 허위광고 했나",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/11114424",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005363700?sid=101",
-			"description":"공정위, 현장조사 착수 인천 <b>청라<\/b> 아파트 전기차 화재를 촉발시킨 전기차를 제조한 벤츠가 배터리와 관련해... 지난달 1일 인천 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 벤츠의 전기차 EQE에는 대부분 중국 파라시스의... ",
-			"pubDate":"Tue, 10 Sep 2024 17:51:00 +0900"
-		},
-		{
-			"title":"인천·부천·김포 출퇴근 편의 제고···교통망 확충에 7조4000억원 투입",
-			"originallink":"https:\/\/www.koscaj.com\/news\/articleView.html?idxno=310897",
-			"link":"https:\/\/www.koscaj.com\/news\/articleView.html?idxno=310897",
-			"description":"7호선 연장사업(<b>청라<\/b>연장선)은 2027년 하반기(1단계), 2029년(2단계) 등 단계적 개통을 추진한다. 이 노선이 뚫리면 <b>청라<\/b>에서 7호선 가산디지털단지역까지 이동 시간이 78분에서 42분으로 줄어든다. 인천1호선 검단연장... ",
-			"pubDate":"Tue, 10 Sep 2024 17:48:00 +0900"
-		},
-		{
-			"title":"‘지옥철’ 김포골드라인 열차 11대 증편…“출퇴근 36분 단축”",
-			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020513286&code=61141111&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001724374?sid=101",
-			"description":"서울지하철 7호선 <b>청라<\/b> 연장사업은 2027년 1단계, 2029년 2단계로 나눠 추진된다. 내년 6월에는 인천 1호선... 이 외에도 대광위는 올 상반기 인천 검단신도시 및 <b>청라<\/b>에서 서울 강남으로 직행하는 광역급행버스 2개... ",
-			"pubDate":"Tue, 10 Sep 2024 17:45:00 +0900"
+			"title":"野이용우 &quot;<b>청라<\/b>의료복합타운, 연내 반드시 착공해야&quot;",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03932726639018808",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005833569?sid=100",
+			"description":"이용우 더불어민주당 의원이 10일 <b>청라<\/b>의료복합타운의 연내 착공을 촉구했다. <b>청라<\/b>의료복합타운은 서구 <b>청라<\/b>국제도시 28만 336㎡ 면적 부지에 △800병상 규모의 첨단 의료센터 △카이스트와 하버드MGH 연구소 △시니어를... ",
+			"pubDate":"Tue, 10 Sep 2024 17:59:00 +0900"
 		}
 	]
 }
