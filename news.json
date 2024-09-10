@@ -1,6 +1,6 @@
 {
-	"lastBuildDate":"Tue, 10 Sep 2024 10:40:02 +0900",
-	"total":242661,
+	"lastBuildDate":"Tue, 10 Sep 2024 10:50:02 +0900",
+	"total":242662,
 	"start":1,
 	"display":30,
 	"items":[
@@ -10,6 +10,13 @@
 			"link":"https:\/\/www.newspim.com\/news\/view\/20240910000304",
 			"description":"이번 협력은 퓨처커넥트가 빌딩 내 엽채류 생산 설비, 기지 구축과 인공지능 기반 제어 및 유통 기술을 담당하고 이수화학이 실내 자동 생산 설비와 원격 운영 기술을 제공해 인천 <b>청라<\/b>지구에 110평 규모의 도심형 생산... ",
 			"pubDate":"Tue, 10 Sep 2024 10:36:00 +0900"
+		},
+		{
+			"title":"마포구, 고병준·안미자·최은하의원 5분 자유발언",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2174863",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2174863",
+			"description":"최 의원은 지난 7월 <b>청라<\/b> 아파트 전기차 화재 사건을 언급하며 2021~2023년 3년 동안 일어난 전기차 화재 139건 중 62건이 주차 혹은 충전 중 일어났음을 강조했다. 또한 지하주차장과 같이 실내에서 일어난 전기차 화재는 쉽게... ",
+			"pubDate":"Tue, 10 Sep 2024 10:35:00 +0900"
 		},
 		{
 			"title":"글로벌 톱 10 도시 인천의 중추 'IFEZ'… K-신도시 롤모델로 '각광'",
@@ -47,17 +54,17 @@
 			"pubDate":"Tue, 10 Sep 2024 10:22:00 +0900"
 		},
 		{
-			"title":"[PD수첩 예고] <b>청라<\/b> 아파트 전기차 화재 사건",
-			"originallink":"https:\/\/imnews.imbc.com\/news\/2024\/society\/article\/6635376_36438.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001373417?sid=102",
-			"description":"",
-			"pubDate":"Tue, 10 Sep 2024 10:12:00 +0900"
-		},
-		{
 			"title":"아름다운 인천의 시민공원 전시회 열려",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103995",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=103995",
 			"description":"아름다운 <b>청라<\/b>호수공원, 아름다운 해변에서 레일바이크를 즐길 수 있는 씨사이드파크(영종)와 같은 인천의... 박정수소래습지생태공원-윤희숙씨사이드파크-박찬헌월미공원-황경자자유공원-최혜숙중앙공원-하향용<b>청라<\/b>... ",
+			"pubDate":"Tue, 10 Sep 2024 10:12:00 +0900"
+		},
+		{
+			"title":"[PD수첩 예고] <b>청라<\/b> 아파트 전기차 화재 사건",
+			"originallink":"https:\/\/imnews.imbc.com\/news\/2024\/society\/article\/6635376_36438.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001373417?sid=102",
+			"description":"",
 			"pubDate":"Tue, 10 Sep 2024 10:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000320373?sid=110",
 			"description":"당시에 <b>청라<\/b> 벤츠 전기차 화재의 주범으로 중국 파라시스 배터리의 기술력 부족이 원인으로 지목되고 있었으며, 이에 따라 소비자들이 중국 배터리를 기피하는 현상이 일어났는데 이를 민주당 전용기 의원이 못마땅하게... ",
 			"pubDate":"Tue, 10 Sep 2024 00:01:00 +0900"
-		},
-		{
-			"title":"'PD수첩' <b>청라<\/b>아파트 전기차 화재 사건 추적…사고 블랙박스 첫 공개",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240909010005889",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240909010005889",
-			"description":"MBC 'PD수첩'이 '<b>청라<\/b>아파트 전기차 화재 사건'에 대해 파헤친다.9일 방송되는 MBC 'PD수첩'에서는 지난 8월 1일 인천의 한 아파트 주차장에서 발생된 전기차 화재 사건에 대해 다룬다.최초 발화점은 지하 주차장에 3일간... ",
-			"pubDate":"Tue, 10 Sep 2024 00:00:00 +0900"
 		}
 	]
 }
