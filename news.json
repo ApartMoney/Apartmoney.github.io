@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Tue, 10 Sep 2024 15:50:02 +0900",
-	"total":242728,
+	"lastBuildDate":"Tue, 10 Sep 2024 16:00:02 +0900",
+	"total":242734,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"공정위, 벤츠 현장조사...화재 전기차 배터리 정보 속인 혐의",
+			"originallink":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=31121",
+			"link":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=31121",
+			"description":"공정위는 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 화재 차량과 관련해 표시광고법 여부를 조사 중인 것으로 전해졌다. 해당 아파트에서 정차 중 불이 난 벤츠의 전기 세단 EQE는 '300 트림'에만 중국 배터리 업체인... ",
+			"pubDate":"Tue, 10 Sep 2024 15:56:00 +0900"
+		},
+		{
+			"title":"벤츠, 배터리 허위 광고?…공정위, 벤츠 현장조사",
+			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000191322?division=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000401392?sid=101",
+			"description":"공정위는 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 화재 차량과 관련해 표시광고법 여부를 조사 중인 것으로 전해졌습니다. 정차 중 불이 난 벤츠의 전기차 EQE는 '300 트림'(세부 모델)에만 중국 1위 배터리 업체인 CATL의... ",
+			"pubDate":"Tue, 10 Sep 2024 15:55:00 +0900"
+		},
+		{
+			"title":"벤츠, 전기차 배터리 허위 광고?…공정위 조사",
+			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202409100182&t=NN",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001179104?sid=102",
+			"description":"인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 화재 차량과 관련해 공정위는 벤츠의 표시광고법 위반 여부를 조사 중인 것으로 전해졌다. 정차 중 불이 난 벤츠의 전기차 EQE는 '300 트림'(세부 모델)에는 중국 1위 배터리... ",
+			"pubDate":"Tue, 10 Sep 2024 15:53:00 +0900"
+		},
+		{
+			"title":"대장~홍대선 2030년 개통목표 연내 착공...5호선 연장 2031년 준공",
+			"originallink":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=85803",
+			"link":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=85803",
+			"description":"<b>청라<\/b>에서 가산디지털단지역 7호선까지 이동시간은 약 46%(78분 →42분, 36분) 단축되고, 고속터미널역 3·7... 또 검단, <b>청라<\/b>, 김포 등 인구밀집지역에서 서울 주요 거점으로의 광역 이동 수요가 많은 지역은 버스 노선을... ",
+			"pubDate":"Tue, 10 Sep 2024 15:50:00 +0900"
+		},
+		{
+			"title":"벤츠, 韓日 엇갈린 행보…국내 화재 여파로 주춤",
+			"originallink":"https:\/\/www.theguru.co.kr\/news\/article.html?no=77174",
+			"link":"https:\/\/www.theguru.co.kr\/news\/article.html?no=77174",
+			"description":"특히 인천 <b>청라<\/b> 전기차 화재 사고의 중심에 섰던 EOE의 판매량이 급감했다. 카이즈유 데이터 연구소에 따르면 지난달 EQE 신규 등록 대수는 39대에 불과했다. 지난해 8월(339대)과 비교해 무려 300대나 급감했다.... ",
+			"pubDate":"Tue, 10 Sep 2024 15:50:00 +0900"
+		},
+		{
+			"title":"공정위, 벤츠 '전기차 화재' 배터리 의혹 현장 조사",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007795943&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001189055?sid=101",
+			"description":"▲ 지난 8월 8일 <b>청라<\/b> 아파트 지하 주차장에서 화재가 발생한 전기차에 대한 2차 합동 감식을 지켜보는 벤츠... 공정위는 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 화재 차량과 관련해 표시광고법 여부를 조사 중인... ",
+			"pubDate":"Tue, 10 Sep 2024 15:49:00 +0900"
+		},
 		{
 			"title":"㈜콘크리트공작소 한상우 대표, '콘크리트공작소'만의 가치로 최고 품질...",
 			"originallink":"https:\/\/www.psnews.co.kr\/news\/articleView.html?idxno=2066447",
@@ -12,17 +54,17 @@
 			"pubDate":"Tue, 10 Sep 2024 15:48:00 +0900"
 		},
 		{
-			"title":"수도권 서부 교통망 확충···“출퇴근 시간 최대 36분 단축”",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240910020578723",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240910020578723",
-			"description":"인천 검단·<b>청라<\/b>에서 서울 강남으로 향하는 광역급행버스 2개 노선을 최근 만든 데 이어 인천 계양지구에서 김포공항역 등을 잇는 BRT 노선을 신설한다. GTX-A 파주 운정중앙∼서울역 구간 개통 시점인 12월에 맞춰... ",
-			"pubDate":"Tue, 10 Sep 2024 15:46:00 +0900"
-		},
-		{
 			"title":"두산건설, 내달 '두산위브 더센트럴 부평' 분양",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20240910081924610",
 			"link":"https:\/\/www.ajunews.com\/view\/20240910081924610",
 			"description":"단지 근처 봉오대로를 따라 서울지하철 2호선 <b>청라<\/b> 연장 노선 사업도 계획돼 있다. <b>청라<\/b> 연장 노선은 제4차 국가철도망구축계획(2021~2030년)에서 대장홍대선 확정 이후 최적 대안으로 추진하는 사업인데 최근... ",
+			"pubDate":"Tue, 10 Sep 2024 15:46:00 +0900"
+		},
+		{
+			"title":"수도권 서부 교통망 확충···“출퇴근 시간 최대 36분 단축”",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240910020578723",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240910020578723",
+			"description":"인천 검단·<b>청라<\/b>에서 서울 강남으로 향하는 광역급행버스 2개 노선을 최근 만든 데 이어 인천 계양지구에서 김포공항역 등을 잇는 BRT 노선을 신설한다. GTX-A 파주 운정중앙∼서울역 구간 개통 시점인 12월에 맞춰... ",
 			"pubDate":"Tue, 10 Sep 2024 15:46:00 +0900"
 		},
 		{
@@ -171,48 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003238975?sid=103",
 			"description":"서울시는 인천 <b>청라<\/b> 전기차 화재사건 이후 '공공주택의 지하주차장에 충전율 90% 이하인 차량만 진입을 권장... 컨슈머인사이트는 지난 8월 1일 <b>청라<\/b> 전기차 화재사건 발생 직후 '전기차 화재관련 소비자반응 추적조사'를... ",
 			"pubDate":"Tue, 10 Sep 2024 14:14:00 +0900"
-		},
-		{
-			"title":"수도권 서부 출퇴근길 최대 36분 단축… 교통망 확충에 7.4조 쏟는다",
-			"originallink":"https:\/\/biz.chosun.com\/policy\/policy_sub\/2024\/09\/10\/2TJFZRLNZBGJJBLJX4W33KT7ZY\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0001017097?sid=101",
-			"description":"7호선 연장사업(<b>청라<\/b>연장선)은 2027년 하반기(1단계), 2029년(2단계) 등 단계적 개통을 추진한다. 이 노선이 뚫리면 <b>청라<\/b>에서 7호선 가산디지털단지역까지 이동 시간이 78분에서 42분으로 줄어든다. 인천도시철도 1호선... ",
-			"pubDate":"Tue, 10 Sep 2024 14:08:00 +0900"
-		},
-		{
-			"title":"두산건설, 10월 '두산위브 더센트럴 부평' 분양 예정",
-			"originallink":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=31110",
-			"link":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=31110",
-			"description":"단지 근처 봉오대로를 따라 서울지하철 2호선 <b>청라<\/b> 연장 기대감도 크다. <b>청라<\/b> 연장 노선은 제4차 국가철도망구축계획(2021~2030년)에서 대장홍대선 확정 이후 최적 대안으로 추진하는 사업인데 최근 대장홍대선이 연내... ",
-			"pubDate":"Tue, 10 Sep 2024 14:04:00 +0900"
-		},
-		{
-			"title":"DK아시아, '왕길역 로열파크씨티'로 검단구 중심축 재편",
-			"originallink":"https:\/\/www.news1.kr\/realestate\/general\/5537440",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007782174?sid=101",
-			"description":"<b>청라<\/b>에는 하나금융그룹의 6개 관계사가 2025년 말 완공을 목표로 그룹헤드쿼터를 설립 중이다. 유일로보틱스와 LG마그나도 <b>청라<\/b> IHP첨단산업단지와 서부산업단지에 본사와 공장을 확장하고 있다. BMW그룹코리아는 2024년... ",
-			"pubDate":"Tue, 10 Sep 2024 14:00:00 +0900"
-		},
-		{
-			"title":"인천~서울 출퇴근 시간 최대 46% 단축...철도·도로 7조4000억 투입",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252966",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=252966",
-			"description":"인천투데이=인투아이(INTO-AI)·이종선 기자│인천1호선 검단연장과 서울7호선 <b>청라<\/b>연장 등 인천 지역의... 서울7호선 <b>청라<\/b>연장 2027년 1단계 2029년 2단계 개통 서울도시철도 7호선 <b>청라<\/b>연장선 사업은 1단계 석남역... ",
-			"pubDate":"Tue, 10 Sep 2024 13:56:00 +0900"
-		},
-		{
-			"title":"두산건설, 10월 ‘두산위브 더센트럴 부평’ 분양 예정",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240910010003252",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240910010003252",
-			"description":"단지 근처 봉오대로를 따라 서울지하철 2호선 <b>청라<\/b> 연장 기대감도 크다. <b>청라<\/b> 연장 노선은 제4차 국가철도망구축계획(2021~2030년)에서 대장홍대선 확정 이후 최적 대안으로 추진하는 사업인데 최근 대장홍대선이 연내... ",
-			"pubDate":"Tue, 10 Sep 2024 13:34:00 +0900"
-		},
-		{
-			"title":"5호선 검단·김포연장선 31년 준공, 7호선 <b>청라<\/b>연장선 29년 완전 개통",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=104008",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=104008",
-			"description":"사진=국토교통부 정부가 서울도시철도 5호선 검단·김포연장사업을 2031년 준공하고 7호선 <b>청라<\/b>연장선도... 최근 지반 침하 문제가 발생한 7호선 <b>청라<\/b>연장선은 2단계로 나눠 추진한다. 1단계 석남역~<b>청라<\/b>국제업무단지... ",
-			"pubDate":"Tue, 10 Sep 2024 13:32:00 +0900"
 		}
 	]
 }
