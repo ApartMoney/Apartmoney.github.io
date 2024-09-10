@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 10 Sep 2024 12:10:02 +0900",
-	"total":242686,
+	"lastBuildDate":"Tue, 10 Sep 2024 12:20:02 +0900",
+	"total":242687,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천·부천·김포 출퇴근 편의 제고…교통망 확충에 7.4조 투입",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240910062100003?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014923218?sid=102",
+			"description":"7호선 연장사업(<b>청라<\/b>연장선)은 2027년 하반기(1단계), 2029년(2단계) 등 단계적 개통을 추진한다. 이 노선이 뚫리면 <b>청라<\/b>에서 7호선 가산디지털단지역까지 이동 시간이 78분에서 42분으로 줄어든다. 인천도시철도 1호선... ",
+			"pubDate":"Tue, 10 Sep 2024 12:10:00 +0900"
+		},
 		{
 			"title":"7.4조 투입해 인천, 김포 등 출퇴근 30분 단축한다",
 			"originallink":"https:\/\/www.chosun.com\/national\/transport-environment\/2024\/09\/10\/PFCCMDWKCZGU3NHL33GGDGXIKQ\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -22,29 +29,8 @@
 			"title":"&quot;검단·김포 혼잡 해소&quot;…국토부, '수도권 서부지역' 교통 제고방안 발...",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240910010006012",
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20240910010006012",
-			"description":"7호선 <b>청라<\/b>연장 사업도 추진한다. 공사 중 지반침하가 발생한 7호선 연장사업은 2027년 1단계, 2029년 2단계 등 단계적 개통에 나선다. 사업이 완료될 경우 <b>청라<\/b>에서 7호선 가산디지털단지역까지 이동시간이 현재 78분에서... ",
+			"description":"7.4조 투입해 '광역철도 도로망' 신속 구축 5호선, 9호선 김포골드라인·BRT 확충 검단·<b>청라<\/b>~강남 직행... 7호선 <b>청라<\/b>연장 사업도 추진한다. 공사 중 지반침하가 발생한 7호선 연장사업은 2027년 1단계, 2029년 2단계 등 단계적... ",
 			"pubDate":"Tue, 10 Sep 2024 12:02:00 +0900"
-		},
-		{
-			"title":"수도권 서부 출퇴근 시간 46% 감축 교통 개선안 발표",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0102_202409101201194100",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002085532?sid=101",
-			"description":"7호선을 <b>청라<\/b>까지 연장한다는 계획입니다. 특히 혼잡도가 높은 7호선과 9호선에는 2027년까지 국비 140억 원을 들여, 9호선에 4편성, 7호선에 1편성을 늘리기로 했습니다. 이와 함께 검단신도시와 <b>청라<\/b>에서 각각... ",
-			"pubDate":"Tue, 10 Sep 2024 12:01:00 +0900"
-		},
-		{
-			"title":"5호선 김포 연장, 2031년 준공…6년 뒤엔 '부천~홍대' 27분 만에 간다 [집...",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202409108811i",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005032030?sid=103",
-			"description":"인천 <b>청라<\/b>신도시에서 서울 강남권까지 지하철이나 버스를 타고 직통할 수 있는 길도 열린다. 인천과 경기... 공사 중 지반침하 문제가 발생한 7호선 <b>청라<\/b>연장 사업은 두단계로 나눠 추진한다. 1단계 석남역... ",
-			"pubDate":"Tue, 10 Sep 2024 12:01:00 +0900"
-		},
-		{
-			"title":"김포골드라인 11개 편성추가 ·검단·<b>청라<\/b>-강남 직행버스 신설",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02879846639018808",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005833245?sid=101",
-			"description":"출퇴근 시간대 큰 혼잡을 겪는 ‘김포골드라인’ 열차를 2026년까지 11개 편성을 추가하고 인천 검단·<b>청라<\/b>... 또 7호선 <b>청라<\/b>연장 사업은 공사 중 지반침하가 발생해 오는 2027년과 2029년으로 나눠 단계적 개통을... ",
-			"pubDate":"Tue, 10 Sep 2024 12:01:00 +0900"
 		},
 		{
 			"title":"427만명 사는 '인천·부천·김포'…출퇴근 36분 단축",
@@ -61,17 +47,31 @@
 			"pubDate":"Tue, 10 Sep 2024 12:01:00 +0900"
 		},
 		{
-			"title":"수도권 서부 광역교통개선에 7.4조 투입, 5호선 연장 2031년 개통",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2399503",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2399503",
-			"description":"7호선 <b>청라<\/b>연장은 1단계 2027년 하반기, 2단계 2029년 하반기 목표로 개통하며 <b>청라<\/b>~가산디지털단지역까지 이동시간이 78분에서 42분으로 36분 단축된다. 인천1호선 검단연장은 내년 6월 개통한다. 검단신도시에서... ",
-			"pubDate":"Tue, 10 Sep 2024 12:00:00 +0900"
+			"title":"김포골드라인 11개 편성추가 ·검단·<b>청라<\/b>-강남 직행버스 신설",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02879846639018808",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005833245?sid=101",
+			"description":"출퇴근 시간대 큰 혼잡을 겪는 ‘김포골드라인’ 열차를 2026년까지 11개 편성을 추가하고 인천 검단·<b>청라<\/b>... 또 7호선 <b>청라<\/b>연장 사업은 공사 중 지반침하가 발생해 오는 2027년과 2029년으로 나눠 단계적 개통을... ",
+			"pubDate":"Tue, 10 Sep 2024 12:01:00 +0900"
 		},
 		{
-			"title":"지하철5호선 연장 2031년 완공…김포 한강2~여의도 25분 단축된다",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240910000526",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20240910000526",
-			"description":"서울 지하철 7호선이 <b>청라<\/b>까지 연장된다. 공사 중 지반 침하가 발생한 7호선 연장사업은 1단계 석남역~<b>청라<\/b>국제업무단지 구간이 2027년 하반기, 2단계 <b>청라<\/b>국제업무단지~<b>청라<\/b>국제도시역 구간이 2029년 등의 단계적... ",
+			"title":"5호선 김포 연장, 2031년 준공…6년 뒤엔 '부천~홍대' 27분 만에 간다 [집...",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202409108811i",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005032030?sid=103",
+			"description":"인천 <b>청라<\/b>신도시에서 서울 강남권까지 지하철이나 버스를 타고 직통할 수 있는 길도 열린다. 인천과 경기... 공사 중 지반침하 문제가 발생한 7호선 <b>청라<\/b>연장 사업은 두단계로 나눠 추진한다. 1단계 석남역... ",
+			"pubDate":"Tue, 10 Sep 2024 12:01:00 +0900"
+		},
+		{
+			"title":"수도권 서부 출퇴근 시간 46% 감축 교통 개선안 발표",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0102_202409101201194100",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002085532?sid=101",
+			"description":"7호선을 <b>청라<\/b>까지 연장한다는 계획입니다. 특히 혼잡도가 높은 7호선과 9호선에는 2027년까지 국비 140억 원을 들여, 9호선에 4편성, 7호선에 1편성을 늘리기로 했습니다. 이와 함께 검단신도시와 <b>청라<\/b>에서 각각... ",
+			"pubDate":"Tue, 10 Sep 2024 12:01:00 +0900"
+		},
+		{
+			"title":"수도권 서부지역 교통대책 발표…“출퇴근 최대 36분 단축”",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8055989&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011797881?sid=101",
+			"description":"<b>청라<\/b>국제도시와 <b>청라<\/b> 국제업무단지, 석남역을 잇는 7호선 연장사업은 2027년까지 석남역~<b>청라<\/b> 국제업무단지 역 구간을 먼저 개통하고, 나머지 구간은 2029년 12월까지 공사를 마무리하고 개통하는 단계적 개통이... ",
 			"pubDate":"Tue, 10 Sep 2024 12:00:00 +0900"
 		},
 		{
@@ -82,10 +82,17 @@
 			"pubDate":"Tue, 10 Sep 2024 12:00:00 +0900"
 		},
 		{
-			"title":"수도권 서부지역 교통대책 발표…“출퇴근 최대 36분 단축”",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8055989&ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011797881?sid=101",
-			"description":"<b>청라<\/b>국제도시와 <b>청라<\/b> 국제업무단지, 석남역을 잇는 7호선 연장사업은 2027년까지 석남역~<b>청라<\/b> 국제업무단지 역 구간을 먼저 개통하고, 나머지 구간은 2029년 12월까지 공사를 마무리하고 개통하는 단계적 개통이... ",
+			"title":"지하철5호선 연장 2031년 완공…김포 한강2~여의도 25분 단축된다",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240910000526",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20240910000526",
+			"description":"서울 지하철 7호선이 <b>청라<\/b>까지 연장된다. 공사 중 지반 침하가 발생한 7호선 연장사업은 1단계 석남역~<b>청라<\/b>국제업무단지 구간이 2027년 하반기, 2단계 <b>청라<\/b>국제업무단지~<b>청라<\/b>국제도시역 구간이 2029년 등의 단계적... ",
+			"pubDate":"Tue, 10 Sep 2024 12:00:00 +0900"
+		},
+		{
+			"title":"수도권 서부 광역교통개선에 7.4조 투입, 5호선 연장 2031년 개통",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2399503",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2399503",
+			"description":"7호선 <b>청라<\/b>연장은 1단계 2027년 하반기, 2단계 2029년 하반기 목표로 개통하며 <b>청라<\/b>~가산디지털단지역까지 이동시간이 78분에서 42분으로 36분 단축된다. 인천1호선 검단연장은 내년 6월 개통한다. 검단신도시에서... ",
 			"pubDate":"Tue, 10 Sep 2024 12:00:00 +0900"
 		},
 		{
@@ -96,10 +103,10 @@
 			"pubDate":"Tue, 10 Sep 2024 11:38:00 +0900"
 		},
 		{
-			"title":"'게임체인저' 전고체 배터리 속도 내나…삼성SDI, 편광필름 사업 팔아 '...",
+			"title":"삼성SDI, 편광필름 사업 팔아 '1.1조 실탄 확보'…전고체 등 배터리 소재...",
 			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=212797",
 			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=212797",
-			"description":"특히 최근 인천 <b>청라<\/b> 벤츠 전기차 화재로 배터리의 위험성에 대한 포비아(Phobia, 공포증)가 확산하고 있는 가운데, 배터리 시장의 '게임체인저(Game Changer)'로 평가되는 전고체(全固體) 배터리 개발에 박차를 가할 것으로... ",
+			"description":"지난달 인천 <b>청라<\/b> 벤츠 전기차 화재로 배터리의 위험성에 대한 포비아(Phobia, 공포증)가 확산하고 있는 가운데, 화재 걱정이 거의 없는 배터리의 필요성이 더욱 커졌기 때문이다. K-배터리 3사 중 전고체 배터리 분야에... ",
 			"pubDate":"Tue, 10 Sep 2024 11:34:00 +0900"
 		},
 		{
@@ -199,13 +206,6 @@
 			"link":"https:\/\/www.energy-news.co.kr\/news\/articleView.html?idxno=205723",
 			"description":"전 세계적으로 전기차 수요가 둔화하는 '캐즘현상'이 심화되는 상황에다 인천 <b>청라<\/b>에서 발생한 벤츠 전기차 화재에 이어 전기차 판매량 1위 업체인 테슬라 화재까지 겹치면서 '전기차 포비아'까지 확산되면 '전기차... ",
 			"pubDate":"Tue, 10 Sep 2024 10:30:00 +0900"
-		},
-		{
-			"title":"[이창희의 窓] 자동차보험 시장 변화 부추기는 전기동력차",
-			"originallink":"http:\/\/www.fins.co.kr\/news\/articleView.html?idxno=101894",
-			"link":"http:\/\/www.fins.co.kr\/news\/articleView.html?idxno=101894",
-			"description":"최근 인천 <b>청라<\/b>국제도시 지하주차장에 주차되어 있던 전기차에서 촉발된 화재로 주차되어 있던 차량 42대가 전소되는 등 총 880대 차량이 피해를 입고 수십 명의 인명 피해가 발생했다. 소방청 통계에 따르면 2021... ",
-			"pubDate":"Tue, 10 Sep 2024 10:24:00 +0900"
 		},
 		{
 			"title":"LH, 대장홍대선 2km 연장… 인천시 &quot;<b>청라<\/b> 연장에 영향 없다&quot;",
