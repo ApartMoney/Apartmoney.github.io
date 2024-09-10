@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 10 Sep 2024 12:40:02 +0900",
-	"total":242689,
+	"lastBuildDate":"Tue, 10 Sep 2024 12:50:02 +0900",
+	"total":242691,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[FPN TV] 소방방재신문 주요 뉴스 브리핑(875호)",
+			"originallink":"http:\/\/fpn119.co.kr\/222085",
+			"link":"http:\/\/fpn119.co.kr\/222085",
+			"description":"■ 차량 800여 대에 피해를 입힌 인천 <b>청라<\/b> 지하주차장 화재를 계기로 국회에서 전기차 화재 대응을 위한 안전관리 방안 토론회가 열렸습니다. 국민의힘 제2정책조정위원회가 주최하고 국무조정실이 주관한 이 토론회엔... ",
+			"pubDate":"Tue, 10 Sep 2024 12:48:00 +0900"
+		},
+		{
+			"title":"수도권 서부지역 '교통망 확충'…5호선 연장까지 '김골라 11편성' 증편",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20240910_0002882713",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012778666?sid=102",
+			"description":"버스 노선을 신설해 검단, <b>청라<\/b>, 김포 등 인구밀집지역으로서 서울 주요거점으로의 광역 수요가 많은 지역에는 신규 노선을 신설한다. 인천 검단신도시(M6457) 및 <b>청라<\/b>(M6458)에서 강남으로 직행하는 광역급행버스 2개... ",
+			"pubDate":"Tue, 10 Sep 2024 12:44:00 +0900"
+		},
 		{
 			"title":"김포~여의도 출퇴근길 25분 빨라진다...김포·부천 교통망 확충에 7.4조...",
 			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024091012122697947",
@@ -47,13 +61,6 @@
 			"pubDate":"Tue, 10 Sep 2024 12:02:00 +0900"
 		},
 		{
-			"title":"수도권 서부 출퇴근 시간 46% 감축 교통 개선안 발표",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0102_202409101201194100",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002085532?sid=101",
-			"description":"7호선을 <b>청라<\/b>까지 연장한다는 계획입니다. 특히 혼잡도가 높은 7호선과 9호선에는 2027년까지 국비 140억 원을 들여, 9호선에 4편성, 7호선에 1편성을 늘리기로 했습니다. 이와 함께 검단신도시와 <b>청라<\/b>에서 각각... ",
-			"pubDate":"Tue, 10 Sep 2024 12:01:00 +0900"
-		},
-		{
 			"title":"427만명 사는 '인천·부천·김포'…출퇴근 36분 단축",
 			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202409100066&t=NN",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001179060?sid=101",
@@ -68,7 +75,7 @@
 			"pubDate":"Tue, 10 Sep 2024 12:01:00 +0900"
 		},
 		{
-			"title":"김포골드라인 11개 편성추가 ·검단·<b>청라<\/b>-강남 직행버스 신설",
+			"title":"김포골드라인 11개 편성추가 검단·<b>청라<\/b>-강남 직행버스 신설",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02879846639018808",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005833245?sid=101",
 			"description":"출퇴근 시간대 큰 혼잡을 겪는 ‘김포골드라인’ 열차를 2026년까지 11개 편성을 추가하고 인천 검단·<b>청라<\/b>... 또 7호선 <b>청라<\/b>연장 사업은 공사 중 지반침하가 발생해 오는 2027년과 2029년으로 나눠 단계적 개통을... ",
@@ -82,17 +89,17 @@
 			"pubDate":"Tue, 10 Sep 2024 12:01:00 +0900"
 		},
 		{
-			"title":"수도권 서부 광역교통개선에 7.4조 투입, 5호선 연장 2031년 개통",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2399503",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2399503",
-			"description":"7호선 <b>청라<\/b>연장은 1단계 2027년 하반기, 2단계 2029년 하반기 목표로 개통하며 <b>청라<\/b>~가산디지털단지역까지 이동시간이 78분에서 42분으로 36분 단축된다. 인천1호선 검단연장은 내년 6월 개통한다. 검단신도시에서... ",
-			"pubDate":"Tue, 10 Sep 2024 12:00:00 +0900"
+			"title":"수도권 서부 출퇴근 시간 46% 감축 교통 개선안 발표",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0102_202409101201194100",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002085532?sid=101",
+			"description":"7호선을 <b>청라<\/b>까지 연장한다는 계획입니다. 특히 혼잡도가 높은 7호선과 9호선에는 2027년까지 국비 140억 원을 들여, 9호선에 4편성, 7호선에 1편성을 늘리기로 했습니다. 이와 함께 검단신도시와 <b>청라<\/b>에서 각각... ",
+			"pubDate":"Tue, 10 Sep 2024 12:01:00 +0900"
 		},
 		{
-			"title":"지하철5호선 연장 2031년 완공…김포 한강2~여의도 25분 단축된다",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240910000526",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20240910000526",
-			"description":"서울 지하철 7호선이 <b>청라<\/b>까지 연장된다. 공사 중 지반 침하가 발생한 7호선 연장사업은 1단계 석남역~<b>청라<\/b>국제업무단지 구간이 2027년 하반기, 2단계 <b>청라<\/b>국제업무단지~<b>청라<\/b>국제도시역 구간이 2029년 등의 단계적... ",
+			"title":"수도권 서부지역 교통대책 발표…“출퇴근 최대 36분 단축”",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8055989&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011797881?sid=101",
+			"description":"<b>청라<\/b>국제도시와 <b>청라<\/b> 국제업무단지, 석남역을 잇는 7호선 연장사업은 2027년까지 석남역~<b>청라<\/b> 국제업무단지 역 구간을 먼저 개통하고, 나머지 구간은 2029년 12월까지 공사를 마무리하고 개통하는 단계적 개통이... ",
 			"pubDate":"Tue, 10 Sep 2024 12:00:00 +0900"
 		},
 		{
@@ -103,10 +110,17 @@
 			"pubDate":"Tue, 10 Sep 2024 12:00:00 +0900"
 		},
 		{
-			"title":"수도권 서부지역 교통대책 발표…“출퇴근 최대 36분 단축”",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8055989&ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011797881?sid=101",
-			"description":"<b>청라<\/b>국제도시와 <b>청라<\/b> 국제업무단지, 석남역을 잇는 7호선 연장사업은 2027년까지 석남역~<b>청라<\/b> 국제업무단지 역 구간을 먼저 개통하고, 나머지 구간은 2029년 12월까지 공사를 마무리하고 개통하는 단계적 개통이... ",
+			"title":"지하철5호선 연장 2031년 완공…김포 한강2~여의도 25분 단축된다",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20240910000526",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20240910000526",
+			"description":"서울 지하철 7호선이 <b>청라<\/b>까지 연장된다. 공사 중 지반 침하가 발생한 7호선 연장사업은 1단계 석남역~<b>청라<\/b>국제업무단지 구간이 2027년 하반기, 2단계 <b>청라<\/b>국제업무단지~<b>청라<\/b>국제도시역 구간이 2029년 등의 단계적... ",
+			"pubDate":"Tue, 10 Sep 2024 12:00:00 +0900"
+		},
+		{
+			"title":"수도권 서부 광역교통개선에 7.4조 투입, 5호선 연장 2031년 개통",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2399503",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2399503",
+			"description":"7호선 <b>청라<\/b>연장은 1단계 2027년 하반기, 2단계 2029년 하반기 목표로 개통하며 <b>청라<\/b>~가산디지털단지역까지 이동시간이 78분에서 42분으로 36분 단축된다. 인천1호선 검단연장은 내년 6월 개통한다. 검단신도시에서... ",
 			"pubDate":"Tue, 10 Sep 2024 12:00:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.newspim.com\/news\/view\/20240910000304",
 			"description":"이번 협력은 퓨처커넥트가 빌딩 내 엽채류 생산 설비, 기지 구축과 인공지능 기반 제어 및 유통 기술을 담당하고 이수화학이 실내 자동 생산 설비와 원격 운영 기술을 제공해 인천 <b>청라<\/b>지구에 110평 규모의 도심형 생산... ",
 			"pubDate":"Tue, 10 Sep 2024 10:36:00 +0900"
-		},
-		{
-			"title":"마포구, 고병준·안미자·최은하의원 5분 자유발언",
-			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2174863",
-			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2174863",
-			"description":"최 의원은 지난 7월 <b>청라<\/b> 아파트 전기차 화재 사건을 언급하며 2021~2023년 3년 동안 일어난 전기차 화재 139건 중 62건이 주차 혹은 충전 중 일어났음을 강조했다. 또한 지하주차장과 같이 실내에서 일어난 전기차 화재는 쉽게... ",
-			"pubDate":"Tue, 10 Sep 2024 10:35:00 +0900"
-		},
-		{
-			"title":"글로벌 톱 10 도시 인천의 중추 'IFEZ'… K-신도시 롤모델로 '각광'",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DE8L3S6B6",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004390623?sid=102",
-			"description":"인천경제자유구역청이 송도‧영종‧<b>청라<\/b>의 도시 경쟁력 강화로 ‘글로벌 톱텐 시티 인천’ 도약에 한... 영종과 <b>청라<\/b>를 잇는 제3연륙교도 2006년 건설계획 발표 이후 건설비 확보와 같은 난제들을 해결하고 2025년 말... ",
-			"pubDate":"Tue, 10 Sep 2024 10:30:00 +0900"
 		}
 	]
 }
