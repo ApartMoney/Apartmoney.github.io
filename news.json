@@ -1,22 +1,22 @@
 {
-	"lastBuildDate":"Wed, 11 Sep 2024 07:10:02 +0900",
-	"total":242852,
+	"lastBuildDate":"Wed, 11 Sep 2024 07:20:02 +0900",
+	"total":242853,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"경찰 '인천 전기차 화재'벤츠코리아 압수수색",
+			"originallink":"http:\/\/www.mbn.co.kr\/pages\/news\/newsView.php?news_seq_no=5056373",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/057\/0001841114?sid=102",
+			"description":"인천 서구 <b>청라<\/b>동의 아파트 지하주차장에서 일어난 전기차 화재와 관련해 배터리 정밀 감정을 의뢰한 뒤 강제 수사에 나선 겁니다. 경찰은 아파트 관리사무소, 소방점검 용역업체, 소방시설 납품·보수업체도 함께... ",
+			"pubDate":"Wed, 11 Sep 2024 07:17:00 +0900"
+		},
 		{
 			"title":"[이코노 브리핑] 현대건설, ‘부산 괴정5구역 재개발’ 수주 외",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240910517073?OutUrl=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003967833?sid=101",
 			"description":"공정위는 인천 <b>청라<\/b> 아파트 지하 주차장에서 불이 난 벤츠 ‘EQE’와 관련해 표시광고법 위반 여부를 조사 중인 것으로 전해졌다. EQE는 ‘300 트림’에만 중국 1위 업체 CATL의 배터리가 장착됐고, 나머지에는 중국... ",
 			"pubDate":"Wed, 11 Sep 2024 05:02:00 +0900"
-		},
-		{
-			"title":"5호선 연장, 김포∼여의도 25분 단축",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240911\/130023994\/2",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003586927?sid=102",
-			"description":"서울 가산디지털단지역에서 인천 <b>청라<\/b>국제도시까지 잇는 7호선도 2단계에 걸쳐 연장돼 2029년이면 이동... 인천은 검단신도시 및 <b>청라<\/b>국제도시에서 서울 강남 지역으로 직행하는 광역급행버스 2개 노선을 새로... ",
-			"pubDate":"Wed, 11 Sep 2024 03:05:00 +0900"
 		},
 		{
 			"title":"이번엔 지하주차장서 전기자전거 화재",
@@ -26,9 +26,16 @@
 			"pubDate":"Wed, 11 Sep 2024 03:05:00 +0900"
 		},
 		{
+			"title":"5호선 연장, 김포∼여의도 25분 단축",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20240911\/130023994\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003586927?sid=102",
+			"description":"서울 가산디지털단지역에서 인천 <b>청라<\/b>국제도시까지 잇는 7호선도 2단계에 걸쳐 연장돼 2029년이면 이동... 인천은 검단신도시 및 <b>청라<\/b>국제도시에서 서울 강남 지역으로 직행하는 광역급행버스 2개 노선을 새로... ",
+			"pubDate":"Wed, 11 Sep 2024 03:05:00 +0900"
+		},
+		{
 			"title":"&quot;배터리 허위 광고 속았다&quot; 의혹에…공정위, 벤츠 현장 조사나서",
 			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2024091101285089342",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000904219?sid=101",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000904219?sid=105",
 			"description":"지난달 1일 인천시 서구 <b>청라<\/b>동에서 화재가 발생한 차량과 관련해 표시광고법 위반 여부를 조사하고 있는 것으로 알려졌다. 벤츠 전기차 16개 차종 가운데 파라시스 배터리가 장착된 차종은 화재가 발생한 EQE 350+ 등 총... ",
 			"pubDate":"Wed, 11 Sep 2024 01:33:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004390973?sid=102",
 			"description":"올 6월 경기 화성 아리셀 전지 공장 화재, 8월 인천 <b>청라<\/b> 아파트 전기차 화재가 발생한 여파로 제품 40%는 최근 두 달여 만에 새로 추가됐다. 제조사들은 자사 제품이 전기차 전용이라고 홍보하지만 이는 허위 사실이다.... ",
 			"pubDate":"Tue, 10 Sep 2024 20:16:00 +0900"
-		},
-		{
-			"title":"&quot;지상화 단계적 추진&quot;.. '전북판' 전기차 안전 대책 공개",
-			"originallink":"http:\/\/www.jmbc.co.kr\/news\/view\/46380",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/659\/0000025264?sid=102",
-			"description":"◀앵커▶ 인천 <b>청라<\/b> 지하주차장 화재 이후 전기차 화재와 관련된 불안감이 전국적으로 확산됐는데요. 최근 정부 발표에 발맞춰 전북자치도도 전기차 안전 대책을 내놨습니다. 충전시설을 지상으로 옮기거나 제어 기능을... ",
-			"pubDate":"Tue, 10 Sep 2024 20:10:00 +0900"
 		}
 	]
 }
