@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 11 Sep 2024 18:50:02 +0900",
-	"total":242949,
+	"lastBuildDate":"Wed, 11 Sep 2024 19:00:03 +0900",
+	"total":242950,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"김미연 인천 서구의회 의원, 루원시티 교통체증 해결 모색 간담회",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1109817",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1109817",
+			"description":"이번 간담회에는 서구청 정책기획과 및 교통정책과, 인천서부경찰서, 한국토지주택공사(LH) <b>청라<\/b>영종사업단... 이에 LH <b>청라<\/b>영종사업단 관계자는 &quot;루원시티 주민들의 의견을 듣고 관계기관과 검토하여 개선사항을 찾겠다... ",
+			"pubDate":"Wed, 11 Sep 2024 18:56:00 +0900"
+		},
 		{
 			"title":"&quot;믿는다 vs 못 믿는다&quot;...전기차 화재 원인 '시각차 여전'",
 			"originallink":"http:\/\/www.greenpostkorea.co.kr\/news\/articleView.html?idxno=220789",
@@ -47,17 +54,17 @@
 			"pubDate":"Wed, 11 Sep 2024 18:06:00 +0900"
 		},
 		{
-			"title":"국내서 판매된 전기차 배터리 제조사 공개됐다..파라시스는 벤츠가 ‘유...",
-			"originallink":"https:\/\/www.dailycar.co.kr\/content\/news.html?type=view&autoId=54198",
-			"link":"https:\/\/www.dailycar.co.kr\/content\/news.html?type=view&autoId=54198",
-			"description":"최근 인천시 <b>청라<\/b> 아파트에서 발생한 전기차 화재로 인해 화두에 오른 만큼, 발빠른 정부 대처가 돋보인다. 화재가 발생한 벤츠 EQE에 장착됐던 ‘파라시스’ 배터리는 완성차 업체 중 유일하게 벤츠만 장착한 것으로... ",
-			"pubDate":"Wed, 11 Sep 2024 18:04:00 +0900"
-		},
-		{
 			"title":"인천시의회, 구읍뱃터 주차 문제 해결 필요성 제기",
 			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/5539476",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007786023?sid=102",
 			"description":"이날 간담회에는 신 의원을 비롯해 김철환 경제자유구역청 영종<b>청라<\/b>계획과장, 안상일 영종<b>청라<\/b>기반과 팀장, 이미현 중구청 교통과장, 장재희 LH<b>청라<\/b>영종사업본부 차장 등이 참석해 구읍뱃터 주차 문제 해결 방안에 대한... ",
+			"pubDate":"Wed, 11 Sep 2024 18:04:00 +0900"
+		},
+		{
+			"title":"국내서 판매된 전기차 배터리 제조사 공개됐다..파라시스는 벤츠가 ‘유...",
+			"originallink":"https:\/\/www.dailycar.co.kr\/content\/news.html?type=view&autoId=54198",
+			"link":"https:\/\/www.dailycar.co.kr\/content\/news.html?type=view&autoId=54198",
+			"description":"최근 인천시 <b>청라<\/b> 아파트에서 발생한 전기차 화재로 인해 화두에 오른 만큼, 발빠른 정부 대처가 돋보인다. 화재가 발생한 벤츠 EQE에 장착됐던 ‘파라시스’ 배터리는 완성차 업체 중 유일하게 벤츠만 장착한 것으로... ",
 			"pubDate":"Wed, 11 Sep 2024 18:04:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.stoo.com\/article.php?aid=95995778734",
 			"description":"SSG 랜더스 김재현 단장은 &quot;2028년 <b>청라<\/b> 스타필드 돔 시대를 열며 이율예를 간판선수로 만들겠다&quot;고 말했다. 서울고 우완 김동현이 전체 9번으로 kt wiz의 부름을 받았다. KT 나도현 단장은 &quot;이번 U-18 대회에서 확신을... ",
 			"pubDate":"Wed, 11 Sep 2024 16:26:00 +0900"
-		},
-		{
-			"title":"파라시스 불내고 '나 몰라라' 행보...완성차 업체와 적극 대응 K-배터리...",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20240911101006583",
-			"link":"https:\/\/www.ajunews.com\/view\/20240911101006583",
-			"description":"최근 <b>청라<\/b> 아파트에서 발생한 메르세데스-벤츠 전기차 화재와 관련해 배터리 공급사인 중국의 파라시스가 화재 원인 규명의 책임을 벤츠 측에 전가하면서 갈등이 일어날 가능성이 커졌기 때문이다. 파라시스의 이... ",
-			"pubDate":"Wed, 11 Sep 2024 16:10:00 +0900"
 		}
 	]
 }
