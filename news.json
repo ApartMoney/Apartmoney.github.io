@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 13 Sep 2024 16:10:02 +0900",
-	"total":243166,
+	"lastBuildDate":"Fri, 13 Sep 2024 16:20:02 +0900",
+	"total":243167,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"영종소방서, 전기차 화재대응 숙달훈련",
+			"originallink":"http:\/\/fpn119.co.kr\/222434",
+			"link":"http:\/\/fpn119.co.kr\/222434",
+			"description":"정 서장은 “지난달 발생한 <b>청라<\/b> 전기차 화재를 계기로 유사시 요구되는 신속한 대처능력을 배양시키기 위해 앞으로 전기차 화재진압훈련을 반복 시행할 것”이라며 “시민들의 생명과 재산을 보호하는 데 최선을... ",
+			"pubDate":"Fri, 13 Sep 2024 16:12:00 +0900"
+		},
 		{
 			"title":"한컴라이프케어, 전기차 화재 예방 시스템 고도화 나선다",
 			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=321244",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.smartfn.co.kr\/article\/view\/sfn202409130016",
 			"description":"한글과컴퓨터에 따르면 최근 인천 <b>청라<\/b> 아파트 지하 주차장과 화성 리튬 배터리 공장 등 지속적인 화재 사고로 시민의 불안이 높아지며 효과적인 대책 마련이 절실해졌다. 리튬 배터리 관련 화재 발생 건수는 2019년... ",
 			"pubDate":"Fri, 13 Sep 2024 11:24:00 +0900"
-		},
-		{
-			"title":"한컴라이프케어, SK쉴더스와 '전기차 화재 예방' 시스템 고도화",
-			"originallink":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=69046",
-			"link":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=69046",
-			"description":"최근 인천 <b>청라<\/b> 아파트 지하 주차장과 화성 리튬 배터리 공장 등 지속적인 화재 사고로 시민의 불안이 높아지며 효과적인 대책 마련이 절실해졌다. 한컴라이프케어는 소방은 물론 스마트 공공 안전 분야로 사업을... ",
-			"pubDate":"Fri, 13 Sep 2024 11:20:00 +0900"
 		}
 	]
 }
