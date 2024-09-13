@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 13 Sep 2024 17:00:02 +0900",
-	"total":243168,
+	"lastBuildDate":"Fri, 13 Sep 2024 17:10:03 +0900",
+	"total":243169,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[영상] &quot;전동화는 피할 수 없는 흐름&quot;...전기차 충전시설에 공들이는 BM...",
+			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=212420",
+			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=212420",
+			"description":"인천 <b>청라<\/b>에서 발생한 전기차 화재 사고로 브랜드 이미지에 큰 충격을 받은 벤츠와 달리, 수입차업계 최초로 배터리 제조사를 공개한 BMW가 전기차 마케팅을 강화하고 있습니다. GS·LG그룹과 손잡고, 서울 도심에... ",
+			"pubDate":"Fri, 13 Sep 2024 17:08:00 +0900"
+		},
 		{
 			"title":"여주시, 2024년 재난대응 역량강화훈련 실시",
 			"originallink":"http:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=334403",
@@ -89,17 +96,17 @@
 			"pubDate":"Fri, 13 Sep 2024 14:14:00 +0900"
 		},
 		{
-			"title":"&quot;천장서 '불비' 내려&quot;... 최초 공개된 <b>청라<\/b> 아파트 벤츠 전기차 화재 블...",
-			"originallink":"https:\/\/www.insight.co.kr\/news\/478998",
-			"link":"https:\/\/www.insight.co.kr\/news\/478998",
-			"description":"인천 <b>청라<\/b>의 한 아파트 지하 주차장에서 발생한 벤츠 전기차 화재 사고 당시의 또 다른 영상이 공개됐다.지난 10일 MBC 'PD수첩'은 '<b>청라<\/b>아파트 전기차 화재 사건'에 대해 파헤쳤다. 이날 방송에서는 사고 이후 폐차장과... ",
-			"pubDate":"Fri, 13 Sep 2024 14:02:00 +0900"
-		},
-		{
 			"title":"서울 송파구의회 의장, 문화발전연구회 회장 등 인천서구문화재단 방문",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202409131352370860563",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202409131352370860563",
 			"description":"터·틀’, ‘<b>청라<\/b>블루노바홀‘을 연이어 방문하며 구민들을 위한 문화사업 우수 성공사례와 그 과정을... ‘<b>청라<\/b>블루노바홀’에서는 블랙박스형으로 구성된 공연장의 운영현황 및 시설을 참관하며 문화공간의 운영 및... ",
+			"pubDate":"Fri, 13 Sep 2024 14:02:00 +0900"
+		},
+		{
+			"title":"&quot;천장서 '불비' 내려&quot;... 최초 공개된 <b>청라<\/b> 아파트 벤츠 전기차 화재 블...",
+			"originallink":"https:\/\/www.insight.co.kr\/news\/478998",
+			"link":"https:\/\/www.insight.co.kr\/news\/478998",
+			"description":"인천 <b>청라<\/b>의 한 아파트 지하 주차장에서 발생한 벤츠 전기차 화재 사고 당시의 또 다른 영상이 공개됐다.지난 10일 MBC 'PD수첩'은 '<b>청라<\/b>아파트 전기차 화재 사건'에 대해 파헤쳤다. 이날 방송에서는 사고 이후 폐차장과... ",
 			"pubDate":"Fri, 13 Sep 2024 14:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=420856",
 			"description":"서구 관내 아동공동생활가정에 온누리상품권을 전달하는 LH<b>청라<\/b>영종사업단. 서구 포토 인천 서구는 LH<b>청라<\/b>영종사업단이 서구 관내 아동공동생활가정(아동복지시설) 3개소에 총 300만원 상당의 온누리상품권을 기부했다고... ",
 			"pubDate":"Fri, 13 Sep 2024 11:38:00 +0900"
-		},
-		{
-			"title":"[더벨][i-point]한컴라이프케어, 전기차 화재 예방 시스템 고도화",
-			"originallink":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202409131110308600108627",
-			"link":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202409131110308600108627",
-			"description":"최근 인천 <b>청라<\/b> 아파트 지하 주차장과 화성 리튬 배터리 공장 등 지속적인 화재 사고로 시민의 불안이 높아지며 효과적인 대책 마련이 절실해졌다. 리튬 배터리 관련 화재 발생 건수는 2019년 264건에서 작년 657건으로 3배... ",
-			"pubDate":"Fri, 13 Sep 2024 11:28:00 +0900"
 		}
 	]
 }
