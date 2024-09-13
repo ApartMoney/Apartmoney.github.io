@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 13 Sep 2024 09:50:02 +0900",
-	"total":243121,
+	"lastBuildDate":"Fri, 13 Sep 2024 10:00:02 +0900",
+	"total":243122,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[위클리오늘] 고양시, 드론·UAM 산업 기반구축…미래경쟁력 확보한다",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=651380",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=651380",
+			"description":"국토부는 지난해 8월 K-UAM 실증사업 1단계에 착수했고 1단계를 통과한 기업들은 올해 하반기 2-1단계인 <b>청라<\/b>~계양아라뱃길 구간에서 실증을 진행한 후 2-2단계 킨텍스~김포공항 노선에서 실증을 이어간다. 이를 위해... ",
+			"pubDate":"Fri, 13 Sep 2024 09:56:00 +0900"
+		},
 		{
 			"title":"고양시, 드론·UAM 산업 기반구축…미래경쟁력 확보한다",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202409130921301470376",
@@ -61,17 +68,17 @@
 			"pubDate":"Fri, 13 Sep 2024 09:15:00 +0900"
 		},
 		{
-			"title":"“임상시험물류 거점으로 김포가 최적지”",
-			"originallink":"https:\/\/www.ksg.co.kr\/news\/main_newsView.jsp?pNum=142587",
-			"link":"https:\/\/www.ksg.co.kr\/news\/main_newsView.jsp?pNum=142587",
-			"description":"한국 지사인 마켄코리아는 지난 2022년 6월 인천국제공항 인근 <b>청라<\/b> 신도시에 GMP 콜드체인 물류센터를 완공한 데 이어 2023년 하반기엔 김포 GDP 인증 물류센터를 설립했다. 이외에도 서울 대전 대구 부산 광주 전주 원주... ",
-			"pubDate":"Fri, 13 Sep 2024 09:10:00 +0900"
-		},
-		{
 			"title":"인천시설공단, 추석맞이 도로·주민 체육시설 일제 정비 실시",
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2176639",
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2176639",
 			"description":"인천시설공단(이사장 김종필) <b>청라<\/b>도시기반사업단은 다가오는 추석 연휴에 시민들이 안전한 명절을 보낼 수 있도록  주요 도로와 주민 체육시설을 대상으로 정비 작업을 완료했다고 13일 밝혔다. <b>청라<\/b>국제도시 내 자동차... ",
+			"pubDate":"Fri, 13 Sep 2024 09:10:00 +0900"
+		},
+		{
+			"title":"“임상시험물류 거점으로 김포가 최적지”",
+			"originallink":"https:\/\/www.ksg.co.kr\/news\/main_newsView.jsp?pNum=142587",
+			"link":"https:\/\/www.ksg.co.kr\/news\/main_newsView.jsp?pNum=142587",
+			"description":"한국 지사인 마켄코리아는 지난 2022년 6월 인천국제공항 인근 <b>청라<\/b> 신도시에 GMP 콜드체인 물류센터를 완공한 데 이어 2023년 하반기엔 김포 GDP 인증 물류센터를 설립했다. 이외에도 서울 대전 대구 부산 광주 전주 원주... ",
 			"pubDate":"Fri, 13 Sep 2024 09:10:00 +0900"
 		},
 		{
@@ -82,16 +89,16 @@
 			"pubDate":"Fri, 13 Sep 2024 09:08:00 +0900"
 		},
 		{
-			"title":"한컴라이프케어, SK쉴더스와 손잡고 전기차 화재 예방 시스템 고도화",
-			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=219235",
-			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=219235",
+			"title":"한컴라이프케어, SK쉴더스와 ‘전기차 화재 예방 시스템 고도화’ 협력",
+			"originallink":"http:\/\/mcnews.co.kr\/82238",
+			"link":"http:\/\/mcnews.co.kr\/82238",
 			"description":"최근 인천 <b>청라<\/b> 아파트 지하 주차장과 화성 리튬 배터리 공장 등 지속적인 화재 사고로 시민의 불안이 높아지며 효과적인 대책 마련이 절실해졌다. 리튬 배터리 관련 화재 발생 건수는 2019년 264건에서 작년 657건으로 3배... ",
 			"pubDate":"Fri, 13 Sep 2024 09:00:00 +0900"
 		},
 		{
-			"title":"한컴라이프케어, SK쉴더스와 ‘전기차 화재 예방 시스템 고도화’ 협력",
-			"originallink":"http:\/\/mcnews.co.kr\/82238",
-			"link":"http:\/\/mcnews.co.kr\/82238",
+			"title":"한컴라이프케어, SK쉴더스와 손잡고 전기차 화재 예방 시스템 고도화",
+			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=219235",
+			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=219235",
 			"description":"최근 인천 <b>청라<\/b> 아파트 지하 주차장과 화성 리튬 배터리 공장 등 지속적인 화재 사고로 시민의 불안이 높아지며 효과적인 대책 마련이 절실해졌다. 리튬 배터리 관련 화재 발생 건수는 2019년 264건에서 작년 657건으로 3배... ",
 			"pubDate":"Fri, 13 Sep 2024 09:00:00 +0900"
 		},
@@ -166,13 +173,6 @@
 			"pubDate":"Thu, 12 Sep 2024 20:50:00 +0900"
 		},
 		{
-			"title":"서부발전, 출자회사 합동 안전 점검 실시",
-			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202409122032101332f4ab64559d_12",
-			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202409122032101332f4ab64559d_12",
-			"description":"현장 점검에는 신평택발전과 <b>청라<\/b>에너지 등 다른 출자회사의 경영진도 참여해 서부발전과 동두천드림파워가 축적한 안전관리 방법을 전수받고 ‘무재해 사업장 유지’ 결의를 다졌다. 한 출자회사 관계자는 “모회사인... ",
-			"pubDate":"Thu, 12 Sep 2024 20:34:00 +0900"
-		},
-		{
 			"title":"서부발전, 출자회사 합동 안전 점검",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3179014",
 			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3179014",
@@ -180,17 +180,24 @@
 			"pubDate":"Thu, 12 Sep 2024 20:34:00 +0900"
 		},
 		{
-			"title":"인천시 서구, <b>청라<\/b>호수공원서 21일 야외 클래식 축제 팡파르",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1110068",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1110068",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천 <b>청라<\/b>호수공원에서 올 가을 클래식과 책이 어우러진 야외 클래식 축제가 펼쳐진다. 인천시 서구청이 주최하고 인천서구문화재단, 인천서구시설관리공단이 주관하는 '제7회... ",
-			"pubDate":"Thu, 12 Sep 2024 20:20:00 +0900"
+			"title":"서부발전, 출자회사 합동 안전 점검 실시",
+			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202409122032101332f4ab64559d_12",
+			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202409122032101332f4ab64559d_12",
+			"description":"현장 점검에는 신평택발전과 <b>청라<\/b>에너지 등 다른 출자회사의 경영진도 참여해 서부발전과 동두천드림파워가 축적한 안전관리 방법을 전수받고 ‘무재해 사업장 유지’ 결의를 다졌다. 한 출자회사 관계자는 “모회사인... ",
+			"pubDate":"Thu, 12 Sep 2024 20:34:00 +0900"
 		},
 		{
 			"title":"안상수, 강화군수 보선 '무소속' 출마",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1110088",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1110088",
 			"description":"안 전 시장은 &quot;과거 송도·<b>청라<\/b>·영종 경제자유구역 개발 당시 강화를 포함하려 했지만 시장이 바뀌면서 그 뜻을 이루지 못했다&quot;며 &quot;강화를 경제자유구역으로 지정해 연륙교(영종~강화)를 만들어 인천 전역을... ",
+			"pubDate":"Thu, 12 Sep 2024 20:20:00 +0900"
+		},
+		{
+			"title":"인천시 서구, <b>청라<\/b>호수공원서 21일 야외 클래식 축제 팡파르",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1110068",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1110068",
+			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천 <b>청라<\/b>호수공원에서 올 가을 클래식과 책이 어우러진 야외 클래식 축제가 펼쳐진다. 인천시 서구청이 주최하고 인천서구문화재단, 인천서구시설관리공단이 주관하는 '제7회... ",
 			"pubDate":"Thu, 12 Sep 2024 20:20:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363671533",
 			"description":"석남역에서 <b>청라<\/b>역까지 추가 연장된다. 그야말로 일대의 교통난이 눈에 띄게 달라질 양상이다. 앞으로 3년 뒷면 <b>청라<\/b>국제업무단지까지를 우선 개통하고, 2029년 <b>청라<\/b>역을 개통하겠다고 밝힌 정부의 의지가 돋보이는... ",
 			"pubDate":"Thu, 12 Sep 2024 18:50:00 +0900"
-		},
-		{
-			"title":"[<b>청라<\/b>언덕] 전기차 포비아, 사실에 접근하자",
-			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2024091116371651116",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000904658?sid=110",
-			"description":"최근 인천 <b>청라<\/b> 지하 주차장 벤츠 전기차 화재로 인해 '전기차 포비아'가 확산하고 있다. 전기차에 대한... (이번 <b>청라<\/b> 화재 피해가 컸던 원인 중 하나 역시 스프링클러 미작동이었다.) 우리는 이러한 사실관계에 대한 확인... ",
-			"pubDate":"Thu, 12 Sep 2024 18:30:00 +0900"
 		}
 	]
 }
