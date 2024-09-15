@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 16 Sep 2024 07:10:02 +0900",
-	"total":243254,
+	"lastBuildDate":"Mon, 16 Sep 2024 07:20:02 +0900",
+	"total":243255,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"서울 아파트값 상승폭 또 커져…신고가도 연일 경신",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DEBC5NDED",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004392823?sid=101",
+			"description":"인천에서는 검단신도시와 <b>청라<\/b>국제도시, 루원시티 등의 신도시가 자리한 서구(0.23%)가 가장 높은 상승률을 기록했다. 전세가격도 매매가격과 비슷한 양상을 보였다. 전국 주간 아파트 전세가격은 전주(0.07%) 대비... ",
+			"pubDate":"Mon, 16 Sep 2024 07:16:00 +0900"
+		},
 		{
 			"title":"전기차 화재 위험...보험 통한 관리 방안 모색 필요",
 			"originallink":"https:\/\/cwn.kr\/article\/1065593283008259",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000904898?sid=101",
 			"description":"서류 마감은 9월 25일 오후 6시까지이며, 최종 합격자들은 12월에 인천광역시 <b>청라<\/b>에 위치한 하나글로벌캠퍼스에서 신입 행원 연수를 받게 된다. 신한은행은 지난 2일부터 130명의 신입 행원 채용을 진행 중이다. 일반직... ",
 			"pubDate":"Sat, 14 Sep 2024 23:28:00 +0900"
-		},
-		{
-			"title":"&quot;불안해서 못 살겠어요&quot; 패닉…노후아파트에 무슨 일이 [오세성의 헌집...",
-			"originallink":"https:\/\/www.hankyung.com\/article\/2024091112266",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005033927?sid=101",
-			"description":"인천 <b>청라<\/b>의 한 아파트도 지하 주차장 화재로 약 140대의 차량이 피해를 보았습니다. 당시 스프링클러가 작동하지 않으면서 주변 차량으로 불길이 번진 결과입니다. 전국 4만개 단지 살펴보니…스프링클러 설치 35... ",
-			"pubDate":"Sat, 14 Sep 2024 20:31:00 +0900"
 		}
 	]
 }
