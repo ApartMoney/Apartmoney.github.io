@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 15 Sep 2024 09:50:02 +0900",
-	"total":243237,
+	"lastBuildDate":"Sun, 15 Sep 2024 10:00:02 +0900",
+	"total":243238,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 안 팔린다…환경부 보급계획 '먹구름'",
+			"originallink":"https:\/\/isplus.com\/article\/view\/isp202409150017",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/241\/0003379918?sid=103",
+			"description":"최근 인천 <b>청라<\/b>국제도시 아파트 지하 주차장 전기차 화재로 '전기차 화재 위험성'이 부각되면서 전기차 수요 위축 상황이 길게 이어질 수 있다는 우려에도 환경부는 보조금 단가를 낮추는 기조를 유지했다. 환경부는... ",
+			"pubDate":"Sun, 15 Sep 2024 09:54:00 +0900"
+		},
 		{
 			"title":"정부 계획 못 미치는 전기차 증가세…작년 60%만 달성",
 			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007802011&plink=ORI&cooper=NAVER",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012787910?sid=102",
 			"description":"최근 인천 <b>청라<\/b> 아파트 지하 주차장 전기차 화재, 부천 호텔 화재 등으로 안전에 대한 국민 불안이 가중되고 있는 데다 의료대란 속 응급환자 신속조치 지연, 가을철 태풍·호우 등 자연재난 가능성도 상존하는 데 따른... ",
 			"pubDate":"Sat, 14 Sep 2024 09:30:00 +0900"
-		},
-		{
-			"title":"“집 앞 도착” 택배 자꾸 사라져…잠복해 잡고보니 ‘이웃’",
-			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020527786&code=61121211&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001725223?sid=102",
-			"description":"A씨 등은 이달쯤 인천시 서구 <b>청라<\/b>동 오피스텔에서 최소 5차례에 걸쳐 택배 물품을 훔친 혐의를 받는다. 경찰 조사 결과 두 사람은 해당 오피스텔 입주자였다. 이들은 CCTV를 피해 다른 집 앞에 배송된 신발과 식료품 등... ",
-			"pubDate":"Sat, 14 Sep 2024 09:27:00 +0900"
 		}
 	]
 }
