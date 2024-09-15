@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 16 Sep 2024 06:00:02 +0900",
-	"total":243251,
+	"lastBuildDate":"Mon, 16 Sep 2024 06:10:02 +0900",
+	"total":243252,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"기로에 선 배터리 산업, 안전성·美 정책이 좌우",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/view\/1637140\/?sc=Naver",
+			"link":"https:\/\/www.ebn.co.kr\/news\/view\/1637140\/?sc=Naver",
+			"description":"지난 8월 초 인천 <b>청라<\/b>에서 발생한 지하주차장 내 전기차 화재사고 이후 전기차 및 배터리 안전성에 대한 우려가 크게 증가했다. 실제 국내 전기차 누적 등록대수가 증가하면서 화재 건수도 지속적으로 늘어나고 있다.... ",
+			"pubDate":"Mon, 16 Sep 2024 06:00:00 +0900"
+		},
 		{
 			"title":"BMW, 올해 수입차 1위 조기 확정짓나",
 			"originallink":"https:\/\/dealsite.co.kr\/articles\/128347",
@@ -110,13 +117,6 @@
 			"pubDate":"Sun, 15 Sep 2024 09:36:00 +0900"
 		},
 		{
-			"title":"한컴라이프케어-SK쉴더스, 전기차 화재 예방 시스템 고도화 위한 MOU 체...",
-			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=235480",
-			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=235480",
-			"description":"최근 인천 <b>청라<\/b> 아파트 지하 주차장과 화성 리튬 배터리 공장 등 이어지는 화재 사고로 시민의 불안이 높아지며 대책 마련이 절실해졌다. 리튬 배터리 관련 화재 발생 건수는 2019년 264건에서 작년 657건으로 3배 가까이... ",
-			"pubDate":"Sun, 15 Sep 2024 09:04:00 +0900"
-		},
-		{
 			"title":"[인천 현안] 서구① <b>청라<\/b> 스케이트장·2·7호선 인프라 확보 '분주'",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=253236",
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=253236",
@@ -128,6 +128,13 @@
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=253190",
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=253190",
 			"description":"UAM 수도권 실증노선.(자료제공 국토부) 디지털트윈 등 실증 인프라 구현...MRO 등 첨단 항공산업 육성 특히, 인천 <b>청라<\/b>국제도시와 계양테크노밸리(3기 신도시)를 잇는 경인아라뱃길 시험비행 사업이 국토교통부가... ",
+			"pubDate":"Sun, 15 Sep 2024 09:04:00 +0900"
+		},
+		{
+			"title":"한컴라이프케어-SK쉴더스, 전기차 화재 예방 시스템 고도화 위한 MOU 체...",
+			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=235480",
+			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=235480",
+			"description":"최근 인천 <b>청라<\/b> 아파트 지하 주차장과 화성 리튬 배터리 공장 등 이어지는 화재 사고로 시민의 불안이 높아지며 대책 마련이 절실해졌다. 리튬 배터리 관련 화재 발생 건수는 2019년 264건에서 작년 657건으로 3배 가까이... ",
 			"pubDate":"Sun, 15 Sep 2024 09:04:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20240914500034",
 			"description":"이는 지난달 인천 <b>청라<\/b>에서 발생한 전기차 화재를 시작으로 소비자들 사이에서 전기차 공포가 확산되면서 위기에 빠진 전기차 시장에 대한 인식 개선을 위함이다. 차량의 안전성을 알리고 소비자들이 안심하고... ",
 			"pubDate":"Sat, 14 Sep 2024 18:42:00 +0900"
-		},
-		{
-			"title":"이웃집 택배 여러 차례 훔친 20대 2명 경찰에 붙잡혀",
-			"originallink":"https:\/\/vop.co.kr\/A00001661319.html",
-			"link":"https:\/\/vop.co.kr\/A00001661319.html",
-			"description":"이웃집에 온 택배 물품을 여러 차례 훔친 여성 2명이 경찰에 붙잡혔다.인천 서부경찰서는 13일 절도 혐의로 20대 여성 A씨와 B씨를 불구속 입건했다고 밝혔다.A씨 등은 이달 인천 서구 <b>청라<\/b>동의 한 오피스텔에서 최소 다섯... ",
-			"pubDate":"Sat, 14 Sep 2024 16:46:00 +0900"
 		}
 	]
 }
