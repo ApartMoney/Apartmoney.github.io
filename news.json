@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 18 Sep 2024 15:20:02 +0900",
-	"total":243288,
+	"lastBuildDate":"Wed, 18 Sep 2024 15:30:02 +0900",
+	"total":243289,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"경기도의회 유영일 의원, 전기차 충전시설 화재 안전성 강화 마련",
+			"originallink":"https:\/\/www.sportsseoul.com\/news\/read\/1462379?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/468\/0001093696?sid=102",
+			"description":"유 의원은 제안설명을 통해 “최근 인천 <b>청라<\/b>아파트의 지하주차장에서 발생한 전기차 화재사고는 막대한 피해를 초래해 전 국민에게 공포심을 유발하였다”면서 “전기차 충전시설의 안전성을 강화해 전기차에 대한... ",
+			"pubDate":"Wed, 18 Sep 2024 15:24:00 +0900"
+		},
 		{
 			"title":"‘의료대란’, 어쩌다 여기까지 왔나 | “尹 대통령, 의료 카르텔에 속...",
 			"originallink":"http:\/\/monthly.chosun.com\/client\/news\/viw.asp?ctcd=C&nNewsNumb=202410100011",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.sisaon.co.kr\/news\/articleView.html?idxno=164110",
 			"description":"인천시 <b>청라<\/b>에 거주하는 김모 씨(남·20대)는 &quot;최대 업적이 의대충원이다. 그러나 거대 야당에 맨날 끌려다니는 초보 정치인의 모습&quot;이라고 말했다. 2. 여야 대표 누가 더 잘하고 있는가 여야 대표가 2일 오후 서울 여의도... ",
 			"pubDate":"Mon, 16 Sep 2024 12:18:00 +0900"
-		},
-		{
-			"title":"[시승기] 캐스퍼 일렉트릭 | 페달 오조작 사고 방지에 편의 기능까지…...",
-			"originallink":"https:\/\/economychosun.com\/site\/data\/html_dir\/2024\/09\/06\/2024090600017.html",
-			"link":"https:\/\/economychosun.com\/site\/data\/html_dir\/2024\/09\/06\/2024090600017.html",
-			"description":"전기차 캐즘(일시적 수요 둔화)과 인천 <b>청라<\/b> 전기차 화재 사고로 인한 전기차 포비아(공포)가 확산했던 8월, 캐스퍼 일렉트릭은 우려를 뚫고 기아의 EV3와 함께 현대차그룹의 기대를 채웠다. 각각 1439대와 4002대가... ",
-			"pubDate":"Mon, 16 Sep 2024 11:26:00 +0900"
 		}
 	]
 }
