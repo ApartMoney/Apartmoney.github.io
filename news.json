@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Fri, 20 Sep 2024 19:00:03 +0900",
-	"total":243627,
+	"lastBuildDate":"Fri, 20 Sep 2024 19:10:02 +0900",
+	"total":243630,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"LH, 3기 신도시 최초 본청약 공급 시작",
+			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4001224",
+			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4001224",
+			"description":"LH는오늘 이한준 사장, 김규철 국토교통부 주택토지실장 등 주요 관계자가 참석한 가운데 인천시 서구 <b>청라<\/b>동에 마련된 A2, A3 블록 견본주택 전시관의 개관식을 개최했습니다. 전시관은 계양지구 위치도... ",
+			"pubDate":"Fri, 20 Sep 2024 19:08:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> 전기차 화재…충격에 따른 배터리 손상이 원인일 수도",
+			"originallink":"http:\/\/mbn.mk.co.kr\/pages\/news\/newsView.php?category=mbn00009&news_seq_no=5058490",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/057\/0001842802?sid=102",
+			"description":"지난달 1일, 인천에서 발생한 벤츠 전기차 화재 원인에 대해 국립과학수사연구원이 &quot;차량 아래쪽에 충격이 가해져 배터리의 절연체가 파괴돼 불이 났을 개연성을 배제할 수 없다&quot;는 정밀 감정 결과를 내놨습니다. 배터리... ",
+			"pubDate":"Fri, 20 Sep 2024 19:03:00 +0900"
+		},
+		{
+			"title":"경찰 &quot;인천 아파트 전기차 화재, 외부충격에 배터리셀 손상 개연성&quot;",
+			"originallink":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7096010",
+			"link":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7096010",
+			"description":"앞서 경찰은 지난달 1일 서구 <b>청라<\/b>동 아파트 지하 주차장에서 처음 불이 난 벤츠 전기차를 대상으로 모두 3차례에 걸쳐 합동 감식을 했고 배터리팩 등을 확보해 국과수에 정말 감정을 의뢰했다. 경찰은 벤츠 전기차가... ",
+			"pubDate":"Fri, 20 Sep 2024 19:00:00 +0900"
+		},
 		{
 			"title":"LH, 3기 신도시 최초 본청약 공급 개시",
 			"originallink":"http:\/\/www.koreastocknews.com\/news\/articleView.html?idxno=103880",
@@ -61,13 +82,6 @@
 			"pubDate":"Fri, 20 Sep 2024 17:48:00 +0900"
 		},
 		{
-			"title":"한상드림아일랜드, 빌보드코리아와 업무협약 체결",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1266187",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1266187",
-			"description":"아울러, 현재 설치가 완료된 인천국제공항고속도로 '한상IC'는 연내 개통을 앞두고 있어 차량으로 여의도에서 20분이면 오갈 수 있게 되며, 오는 2025년 <b>청라<\/b>국제도시와 연결하는 제3연륙교가 완공되고... ",
-			"pubDate":"Fri, 20 Sep 2024 17:46:00 +0900"
-		},
-		{
 			"title":"국과수 &quot;인천 전기차 화재, 외부 충격이 발화 원인 가능성&quot;",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20240920510902?OutUrl=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003970087?sid=102",
@@ -75,17 +89,24 @@
 			"pubDate":"Fri, 20 Sep 2024 17:46:00 +0900"
 		},
 		{
-			"title":"돌아온 국감 시즌, 긴장 고조되는 벤츠코리아",
-			"originallink":"https:\/\/www.sisaweek.com\/news\/articleView.html?idxno=218218",
-			"link":"https:\/\/www.sisaweek.com\/news\/articleView.html?idxno=218218",
-			"description":"지난달 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재 때문이다. 이 화재로 상당한 피해가 발생했을 뿐 아니라, 전기차에 대한 우려가 확산하며 큰 파장이 이어지고 있다. 실제 국회 국토교통위원회... ",
-			"pubDate":"Fri, 20 Sep 2024 17:40:00 +0900"
+			"title":"한상드림아일랜드, 빌보드코리아와 업무협약 체결",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1266187",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1266187",
+			"description":"아울러, 현재 설치가 완료된 인천국제공항고속도로 '한상IC'는 연내 개통을 앞두고 있어 차량으로 여의도에서 20분이면 오갈 수 있게 되며, 오는 2025년 <b>청라<\/b>국제도시와 연결하는 제3연륙교가 완공되고... ",
+			"pubDate":"Fri, 20 Sep 2024 17:46:00 +0900"
 		},
 		{
 			"title":"LH, 3기 신도시 최초 인천계양 A2·A3 본청약 시작",
 			"originallink":"http:\/\/www.newsdream.kr\/news\/articleView.html?idxno=68025",
 			"link":"http:\/\/www.newsdream.kr\/news\/articleView.html?idxno=68025",
 			"description":"한편, LH는 20일 이한준 LH 사장, 김규철 국토교통부 주택토지실장 등 주요 관계자가 참석한 가운데 인천시 서구 <b>청라<\/b>동에 마련된 A2, A3 블록 견본주택 전시관의 개관식을 개최했다. 전시관은 계양지구 위치도... ",
+			"pubDate":"Fri, 20 Sep 2024 17:40:00 +0900"
+		},
+		{
+			"title":"돌아온 국감 시즌, 긴장 고조되는 벤츠코리아",
+			"originallink":"https:\/\/www.sisaweek.com\/news\/articleView.html?idxno=218218",
+			"link":"https:\/\/www.sisaweek.com\/news\/articleView.html?idxno=218218",
+			"description":"지난달 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 벤츠 전기차 화재 때문이다. 이 화재로 상당한 피해가 발생했을 뿐 아니라, 전기차에 대한 우려가 확산하며 큰 파장이 이어지고 있다. 실제 국회 국토교통위원회... ",
 			"pubDate":"Fri, 20 Sep 2024 17:40:00 +0900"
 		},
 		{
@@ -145,13 +166,6 @@
 			"pubDate":"Fri, 20 Sep 2024 17:11:00 +0900"
 		},
 		{
-			"title":"3기 신도시 본청약 막 올랐다…LH, 인천계양 모델하우스 첫 개관",
-			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=288895",
-			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=288895",
-			"description":"LH는 이날 인천 서구 <b>청라<\/b>동에 인천 계양지구 A2·A3블록 모델하우스를 개관했다. 개관식에는 이한준 LH 사장과 김규철 국토교통부 주택토지실장 등이 참석했다. 인천 계양 A2·A3블록은 2021년 8월 사전청약을 진행한... ",
-			"pubDate":"Fri, 20 Sep 2024 17:10:00 +0900"
-		},
-		{
 			"title":"&quot;영종도에 K엔터시티 만든다&quot; 한상드림아일랜드, 빌보드코리아와 제휴",
 			"originallink":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2024\/09\/20\/2024092002173.html",
 			"link":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2024\/09\/20\/2024092002173.html",
@@ -159,11 +173,11 @@
 			"pubDate":"Fri, 20 Sep 2024 17:10:00 +0900"
 		},
 		{
-			"title":"국과수 “인천 전기차 화재, 외부충격 따른 배터리팩 손상·발화 개연성...",
-			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1159048.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002707994?sid=102",
-			"description":"인천 <b>청라<\/b> 아파트 전기차 화재와 관련해 외부 충격으로 인한 배터리팩 손상으로 화재가 발생했을 개연성을... 앞서 경찰은 지난달 1일 서구 <b>청라<\/b>동 아파트 지하 주차장에서 처음 불이 난 벤츠 전기차를 대상으로 3차례... ",
-			"pubDate":"Fri, 20 Sep 2024 17:06:00 +0900"
+			"title":"3기 신도시 본청약 막 올랐다…LH, 인천계양 모델하우스 첫 개관",
+			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=288895",
+			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=288895",
+			"description":"LH는 이날 인천 서구 <b>청라<\/b>동에 인천 계양지구 A2·A3블록 모델하우스를 개관했다. 개관식에는 이한준 LH 사장과 김규철 국토교통부 주택토지실장 등이 참석했다. 인천 계양 A2·A3블록은 2021년 8월 사전청약을 진행한... ",
+			"pubDate":"Fri, 20 Sep 2024 17:10:00 +0900"
 		},
 		{
 			"title":"LH, 3기신도시 본청약 개시‥인천계양 A2·A3블록 견본주택 개관",
@@ -173,11 +187,11 @@
 			"pubDate":"Fri, 20 Sep 2024 17:06:00 +0900"
 		},
 		{
-			"title":"LH, 3기 신도시 최초 본청약 공급 시작…인천계양 A3·A2블록 모집 공고",
-			"originallink":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=70041",
-			"link":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=70041",
-			"description":"20일 인천시 서구 <b>청라<\/b>동에서 열린 '인천계양 A2, A3 블록 견본주택 전시관'에서 이한준 LH 사장(왼쪽 네... 서구 <b>청라<\/b>동에 마련된 A2, A3 블록 견본주택 전시관의 개관식을 개최했다. 전시관은 계양지구 위치도... ",
-			"pubDate":"Fri, 20 Sep 2024 17:04:00 +0900"
+			"title":"국과수 “인천 전기차 화재, 외부충격 따른 배터리팩 손상·발화 개연성...",
+			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1159048.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002707994?sid=102",
+			"description":"인천 <b>청라<\/b> 아파트 전기차 화재와 관련해 외부 충격으로 인한 배터리팩 손상으로 화재가 발생했을 개연성을... 앞서 경찰은 지난달 1일 서구 <b>청라<\/b>동 아파트 지하 주차장에서 처음 불이 난 벤츠 전기차를 대상으로 3차례... ",
+			"pubDate":"Fri, 20 Sep 2024 17:06:00 +0900"
 		},
 		{
 			"title":"국과수 &quot;인천 전기차 화재, 차량 하부 배터리팩서 불 난 듯&quot;",
@@ -187,32 +201,18 @@
 			"pubDate":"Fri, 20 Sep 2024 17:04:00 +0900"
 		},
 		{
+			"title":"LH, 3기 신도시 최초 본청약 공급 시작…인천계양 A3·A2블록 모집 공고",
+			"originallink":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=70041",
+			"link":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=70041",
+			"description":"20일 인천시 서구 <b>청라<\/b>동에서 열린 '인천계양 A2, A3 블록 견본주택 전시관'에서 이한준 LH 사장(왼쪽 네... 서구 <b>청라<\/b>동에 마련된 A2, A3 블록 견본주택 전시관의 개관식을 개최했다. 전시관은 계양지구 위치도... ",
+			"pubDate":"Fri, 20 Sep 2024 17:04:00 +0900"
+		},
+		{
 			"title":"LH, 3기 신도시 최초 본청약 공급 시작",
 			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=253836",
 			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=253836",
 			"description":"한편, LH는 20일 이한준 LH 사장, 김규철 국토교통부 주택토지실장 등 주요 관계자가 참석한 가운데 인천시 서구 <b>청라<\/b>동에 마련된 A2, A3 블록 견본주택 전시관의 개관식을 개최했다. 20일 인천시 서구 <b>청라<\/b>동에서... ",
 			"pubDate":"Fri, 20 Sep 2024 17:00:00 +0900"
-		},
-		{
-			"title":"유영일 경기도의원, 전기차 충전시설 화재 안전성 강화 조례 개정",
-			"originallink":"http:\/\/www.aptn.co.kr\/news\/articleView.html?idxno=107344",
-			"link":"http:\/\/www.aptn.co.kr\/news\/articleView.html?idxno=107344",
-			"description":"유 도의원은 &quot;인천 서구 <b>청라<\/b> 아파트 지하주차장 전기차 화재로 막대한 피해가 발생해 도민들이 공포를 느끼고 있는 상황&quot;이라며 &quot;전기차 충전시설 안전성을 강화해 전기차에 대한 불안감을 해소하고자 개정안을 발의했다... ",
-			"pubDate":"Fri, 20 Sep 2024 17:00:00 +0900"
-		},
-		{
-			"title":"‘인천 <b>청라<\/b> 전기차 화재’ 외부충격에 의한 배터리팩 손상 가능성",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240920026225426",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20240920026225426",
-			"description":"인천 <b>청라<\/b>국제도시 전기차 화재 원인이 외부 충격에 의한 배터리셀 손상일 수 있다는 분석 결과가 나왔다. 2024.8.8 \/조재현기자 jhc@kyeongin.com인천 <b>청라<\/b>국제도시 전기차 화재 원인이 외부 충격에 의한 배터리셀 손상일... ",
-			"pubDate":"Fri, 20 Sep 2024 16:58:00 +0900"
-		},
-		{
-			"title":"LH, 3기 신도시 최초 인천 계양 본청약 시작",
-			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20240920010005659",
-			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20240920010005659",
-			"description":"한편 LH는 이날 이한준 LH 사장, 김규철 국토교통부 주택토지실장 등 주요 관계자가 참석한 가운데 인천시 서구 <b>청라<\/b>동에 마련된 A2, A3 블록 견본주택 전시관의 개관식을 개최했다.전시관은 계양지구 위치도... ",
-			"pubDate":"Fri, 20 Sep 2024 16:58:00 +0900"
 		}
 	]
 }
