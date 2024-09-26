@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Fri, 27 Sep 2024 06:10:02 +0900",
-	"total":245893,
+	"lastBuildDate":"Fri, 27 Sep 2024 06:20:02 +0900",
+	"total":245896,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"◇오늘의 경기(27일)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240926126200007?input=1195m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0014951448",
+			"description":"(베어즈베스트 <b>청라<\/b>) 제17회 KB금융그룹배 여자아마추어선수권대회(센추리21CC) △사격= 한국실업연맹회장배 전국대회(9시·창원국제사격장) △씨름= 제54회 회장기전국장사대회(9시30분·문경체육관) △펜싱... ",
+			"pubDate":"Fri, 27 Sep 2024 06:15:00 +0900"
+		},
+		{
+			"title":"◇내일의 경기(28·29일)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20240926126900007?input=1195m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0014951449",
+			"description":"(베어즈베스트 <b>청라<\/b>) △프로축구2부= 안양-충남아산(16시30분·안양종합운동장) 경남-수원(19시... (베어즈베스트 <b>청라<\/b>) △프로축구2부= 안산-부산(16시30분·안산와스타디움) 충북청주-성남(19시·청주종합운동장)... ",
+			"pubDate":"Fri, 27 Sep 2024 06:15:00 +0900"
+		},
+		{
+			"title":"세종시 공동주택 '크린넷' 문제 공론화...해법 찾는다",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240927010007306",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20240927010007306",
+			"description":"시의회 특위는 9월 26일 인천 <b>청라<\/b> 힐데스하임 주택단지에 설치된 대형 음식물 감량기 운용사례를 듣고, 인천... 김현옥 위원장은 &quot;오늘 인천 <b>청라<\/b>지구에서 추진하고 있는 다양한 운영사례를 통해 우리 시에서 도입할 수... ",
+			"pubDate":"Fri, 27 Sep 2024 06:10:00 +0900"
+		},
 		{
 			"title":"[더 나은 미래, 인천] &quot;인천형 출생·주거 정책으로 집 걱정없이 아이 키...",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25280503",
@@ -33,13 +54,6 @@
 			"pubDate":"Fri, 27 Sep 2024 03:13:00 +0900"
 		},
 		{
-			"title":"금광연 하남시의장 “하남시, 전기차 화재대책 마련 시급”",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240927021386885",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240927021386885",
-			"description":"금광명 의장은 모두 발언을 통해 “인천 <b>청라<\/b>에서 발생한 전기차 화재참사에서도 봤듯이 기존 내연차에 비해 전기차 폭발력은 상상을 초월한다&quot;며 “전기차 포비아(phobia) 부각을 감안할 때 중앙정부만이 아니라 지자체도... ",
-			"pubDate":"Fri, 27 Sep 2024 02:20:00 +0900"
-		},
-		{
 			"title":"[KLPGA] 리디아 고, '홀인원 노리는 아이언 티샷",
 			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=665186",
 			"link":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=665186",
@@ -47,10 +61,45 @@
 			"pubDate":"Fri, 27 Sep 2024 02:20:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 빼꼼 박현경, 하나금융그룹 우승 앞으로",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328381",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239077",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 박현경(한국토지신탁)이 11번홀 경기를 펼치고 있다.",
+			"title":"금광연 하남시의장 “하남시, 전기차 화재대책 마련 시급”",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240927021386885",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240927021386885",
+			"description":"금광명 의장은 모두 발언을 통해 “인천 <b>청라<\/b>에서 발생한 전기차 화재참사에서도 봤듯이 기존 내연차에 비해 전기차 폭발력은 상상을 초월한다&quot;며 “전기차 포비아(phobia) 부각을 감안할 때 중앙정부만이 아니라 지자체도... ",
+			"pubDate":"Fri, 27 Sep 2024 02:20:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 윤이나-양원철, 가위 바위 보 브이",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328389",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239069",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 윤이나(하이트진로)가 11번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 국가대표 오수민, 국가대표급 브이",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328392",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239066",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 국가대표 오수민(하나금융그룹)이 11번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 리디아 고, 스폰서 대회 우승 노려요",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328387",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239071",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 리디아 고(하나금융그룹)가 11번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 전예성, 이 악물고 날리는 티샷",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328397",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239061",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 전예성(삼천리)이 11번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 패티 타와타나킷, 스폰서 대회 우승 노려요",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328393",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239065",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 패티 타와타나킷(하나금융그룹)이 11번홀 경기를 펼치고 있다.",
 			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
 		},
 		{
@@ -68,6 +117,20 @@
 			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
 		},
 		{
+			"title":"[mhn포토] 빼꼼 박현경, 하나금융그룹 우승 앞으로",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328381",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239077",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 박현경(한국토지신탁)이 11번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 박현경, 무조건 하나",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328379",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239079",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 박현경(한국토지신탁)이 11번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
+		},
+		{
 			"title":"[mhn포토] 윤이나, 시원하게 날리는 티샷",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328390",
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239068",
@@ -82,10 +145,24 @@
 			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 박현경, 무조건 하나",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328379",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239079",
+			"title":"[mhn포토] 박현경, 페어웨이 벙커에서 그린까지",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328382",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239076",
 			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 박현경(한국토지신탁)이 11번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 이민지, 해저드 피해 페어웨이 중앙에 떨친다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328394",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239064",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 이민지(하나금융그룹)가 11번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 리디아 고, 제자 위해 정성스럽게 닦는 이시우",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328388",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239070",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 리디아 고(하나금융그룹)가 11번홀 경기를 펼치고 있다.",
 			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
 		},
 		{
@@ -96,10 +173,17 @@
 			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 이민지, 해저드 피해 페어웨이 중앙에 떨친다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328394",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239064",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 이민지(하나금융그룹)가 11번홀 경기를 펼치고 있다.",
+			"title":"[mhn포토] 박현경, 홀로 백 들고 이동",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328383",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239075",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 박현경(한국토지신탁)이 11번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 박현경, 벙커는 피하자",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328378",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239080",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 박현경(한국토지신탁)이 11번홀 경기를 펼치고 있다.",
 			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
 		},
 		{
@@ -124,95 +208,11 @@
 			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 리디아 고, 제자 위해 정성스럽게 닦는 이시우",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328388",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239070",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 리디아 고(하나금융그룹)가 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 박현경, 홀로 백 들고 이동",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328383",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239075",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 박현경(한국토지신탁)이 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
-		},
-		{
 			"title":"[mhn포토] 박현경, 하나금융그룹 하나는 일등",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328380",
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239078",
 			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 박현경(한국토지신탁)이 11번홀 경기를 펼치고 있다.",
 			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 박현경, 벙커는 피하자",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328378",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239080",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 박현경(한국토지신탁)이 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 박현경, 페어웨이 벙커에서 그린까지",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328382",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239076",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 박현경(한국토지신탁)이 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 국가대표 오수민, 국가대표급 브이",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328392",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239066",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 국가대표 오수민(하나금융그룹)이 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 리디아 고, 스폰서 대회 우승 노려요",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328387",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239071",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 리디아 고(하나금융그룹)가 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 윤이나-양원철, 가위 바위 보 브이",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328389",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239069",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 윤이나(하이트진로)가 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 패티 타와타나킷, 스폰서 대회 우승 노려요",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328393",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239065",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 패티 타와타나킷(하나금융그룹)이 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 전예성, 이 악물고 날리는 티샷",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328397",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239061",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 전예성(삼천리)이 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
-		},
-		{
-			"title":"[KLPGA] 윤이나, 장타 여왕의 아이언 티샷",
-			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=665183",
-			"link":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=665183",
-			"description":"2024 KLPGA투어 스물다섯 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,689야드)에서 열렸다. 윤이나 (21,하이트진로)가... ",
-			"pubDate":"Fri, 27 Sep 2024 02:16:00 +0900"
-		},
-		{
-			"title":"'보기 없이 7언더파 맹타' 윤이나, KLPGA투어 하나금융 챔피언십 첫날 홍...",
-			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=2024092619554757296cf2d78c68_19",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000154291",
-			"description":"윤이나는 26일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 대회 1라운드에서 7언더파 65타를 쳐 홍현지와 함께 공동 1위에 올랐다. 이번 시즌에 우승은 8월 4일 끝난 제주 삼다수 마스터스 한 번뿐이지만 준우승 3번... ",
-			"pubDate":"Fri, 27 Sep 2024 02:11:00 +0900"
-		},
-		{
-			"title":"[KLPGA] 티샷하는 박현경",
-			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=664522",
-			"link":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=664522",
-			"description":"2024 KLPGA투어 스물다섯 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,689야드)에서 열렸다. 박현경(24,한국토지신탁)이... ",
-			"pubDate":"Fri, 27 Sep 2024 02:01:00 +0900"
 		}
 	]
 }
