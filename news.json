@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 27 Sep 2024 02:00:02 +0900",
-	"total":245863,
+	"lastBuildDate":"Fri, 27 Sep 2024 02:10:02 +0900",
+	"total":245864,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[KLPGA] 티샷하는 박현경",
+			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=664522",
+			"link":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=664522",
+			"description":"2024 KLPGA투어 스물다섯 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72\/6,689야드)에서 열렸다. 박현경(24... ",
+			"pubDate":"Fri, 27 Sep 2024 02:01:00 +0900"
+		},
 		{
 			"title":"[mhn포토] 유현조, 루키 자신감 넘치는 손 인사",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328374",
@@ -26,20 +33,6 @@
 			"pubDate":"Fri, 27 Sep 2024 01:51:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 방신실-오준식, 브이와 엄지 척",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328365",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239060",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 방신실(KB금융그룹)이 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 01:51:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 이제영, 힘차게 날리는 티샷",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328373",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239052",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 이제영(MG새마을금고)이 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 01:51:00 +0900"
-		},
-		{
 			"title":"[mhn포토] 유현조, 또 하나의 버디를 위해",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328375",
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239050",
@@ -54,23 +47,23 @@
 			"pubDate":"Fri, 27 Sep 2024 01:51:00 +0900"
 		},
 		{
+			"title":"[mhn포토] 방신실-오준식, 브이와 엄지 척",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328365",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239060",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 방신실(KB금융그룹)이 11번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 01:51:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 이제영, 힘차게 날리는 티샷",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328373",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239052",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 이제영(MG새마을금고)이 11번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 01:51:00 +0900"
+		},
+		{
 			"title":"[mhn포토] 방신실, 원 온을 노린다",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328367",
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239058",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 방신실(KB금융그룹)이 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 01:51:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 방신실, 물 한잔 하고 힘낸다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328370",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239055",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 방신실(KB금융그룹)이 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 01:51:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 방신실, 목표 방향 확인",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328369",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239056",
 			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 방신실(KB금융그룹)이 11번홀 경기를 펼치고 있다.",
 			"pubDate":"Fri, 27 Sep 2024 01:51:00 +0900"
 		},
@@ -85,6 +78,20 @@
 			"title":"[mhn포토] 방신실, 어드레스 정렬",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328368",
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239057",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 방신실(KB금융그룹)이 11번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 01:51:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 방신실, 물 한잔 하고 힘낸다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328370",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239055",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 방신실(KB금융그룹)이 11번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 01:51:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 방신실, 목표 방향 확인",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328369",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239056",
 			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 방신실(KB금융그룹)이 11번홀 경기를 펼치고 있다.",
 			"pubDate":"Fri, 27 Sep 2024 01:51:00 +0900"
 		},
@@ -117,16 +124,16 @@
 			"pubDate":"Fri, 27 Sep 2024 01:40:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 이수진, 하나금융그룹 챔피언십 우승 도전",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328360",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239047",
+			"title":"[mhn포토] 이수진-문경기, 나이스 버디",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328359",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239048",
 			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 이수진(큐캐피탈파트너스)이 18번홀 경기를 펼치고 있다.",
 			"pubDate":"Fri, 27 Sep 2024 01:40:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 이수진-문경기, 나이스 버디",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328359",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239048",
+			"title":"[mhn포토] 이수진, 하나금융그룹 챔피언십 우승 도전",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328360",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239047",
 			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 이수진(큐캐피탈파트너스)이 18번홀 경기를 펼치고 있다.",
 			"pubDate":"Fri, 27 Sep 2024 01:40:00 +0900"
 		},
@@ -159,20 +166,6 @@
 			"pubDate":"Fri, 27 Sep 2024 01:35:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 유효주, 아이언의 달인",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328332",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239036",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 유효주(두산건설)가 18번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 01:35:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 유효주, 필드 위 아름다운 미소",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328330",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239038",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 유효주(두산건설)가 18번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 01:35:00 +0900"
-		},
-		{
 			"title":"[mhn포토] 유효주, 신중하게 살핀다",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328328",
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239040",
@@ -187,18 +180,18 @@
 			"pubDate":"Fri, 27 Sep 2024 01:35:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 이승연, 디봇은 하늘 위로",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328353",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239015",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 이승연(퍼시픽링스코리아)이 18번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 01:34:00 +0900"
+			"title":"[mhn포토] 유효주, 필드 위 아름다운 미소",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328330",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239038",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 유효주(두산건설)가 18번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 01:35:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 유효주, 거리 측정은 필수",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328337",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239031",
+			"title":"[mhn포토] 유효주, 아이언의 달인",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328332",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239036",
 			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 유효주(두산건설)가 18번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 01:34:00 +0900"
+			"pubDate":"Fri, 27 Sep 2024 01:35:00 +0900"
 		},
 		{
 			"title":"[mhn포토] 이승연, 공략 지점을 다시 한번 찍는다",
@@ -211,6 +204,13 @@
 			"title":"[mhn포토] 신다인, 페이스는 깨끗하게",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328344",
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239024",
+			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 신다인(골프앤요트)이 18번홀 경기를 펼치고 있다.",
+			"pubDate":"Fri, 27 Sep 2024 01:34:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 신다인-김혜수, 세컨드샷 지점으로 이동",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328338",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000239030",
 			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 신다인(골프앤요트)이 18번홀 경기를 펼치고 있다.",
 			"pubDate":"Fri, 27 Sep 2024 01:34:00 +0900"
 		}
