@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 27 Sep 2024 11:20:02 +0900",
-	"total":245916,
+	"lastBuildDate":"Fri, 27 Sep 2024 11:30:02 +0900",
+	"total":245917,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"LPGA 진출 노리는 윤이나… 노보기 7언더 ‘클린샷’",
+			"originallink":"https:\/\/www.munhwa.com\/news\/view.html?no=2024092701073339059002",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/021\/0002662233",
+			"description":"윤이나는 26일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 한국여자프로골프(KLPGA)투어 하나금융그룹 챔피언십(총상금 15억 원) 1라운드에서 7언더파 65타 공동선두로 나섰다. 보기 없이 버디만 7개를 고른... ",
+			"pubDate":"Fri, 27 Sep 2024 11:27:00 +0900"
+		},
 		{
 			"title":"안양시, 전기버스 화재 대비 '자동식' 질식소화포 설치…전국 최초",
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2180937",
@@ -194,13 +201,6 @@
 			"pubDate":"Fri, 27 Sep 2024 03:13:00 +0900"
 		},
 		{
-			"title":"금광연 하남시의장 “하남시, 전기차 화재대책 마련 시급”",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240927021386885",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240927021386885",
-			"description":"금광명 의장은 모두 발언을 통해 “인천 <b>청라<\/b>에서 발생한 전기차 화재참사에서도 봤듯이 기존 내연차에 비해 전기차 폭발력은 상상을 초월한다&quot;며 “전기차 포비아(phobia) 부각을 감안할 때 중앙정부만이 아니라 지자체도... ",
-			"pubDate":"Fri, 27 Sep 2024 02:20:00 +0900"
-		},
-		{
 			"title":"[KLPGA] 리디아 고, '홀인원 노리는 아이언 티샷",
 			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=665186",
 			"link":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=665186",
@@ -208,11 +208,11 @@
 			"pubDate":"Fri, 27 Sep 2024 02:20:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 전예성, 스코어 줄이고 올게요",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=328396",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000239062",
-			"description":"'하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억7천만 원) 1라운드가 26일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,712야드)에서 열렸다. 전예성(삼천리)이 11번홀 경기를 펼치고 있다.",
-			"pubDate":"Fri, 27 Sep 2024 02:19:00 +0900"
+			"title":"금광연 하남시의장 “하남시, 전기차 화재대책 마련 시급”",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20240927021386885",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20240927021386885",
+			"description":"금광명 의장은 모두 발언을 통해 “인천 <b>청라<\/b>에서 발생한 전기차 화재참사에서도 봤듯이 기존 내연차에 비해 전기차 폭발력은 상상을 초월한다&quot;며 “전기차 포비아(phobia) 부각을 감안할 때 중앙정부만이 아니라 지자체도... ",
+			"pubDate":"Fri, 27 Sep 2024 02:20:00 +0900"
 		}
 	]
 }
