@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 27 Sep 2024 14:50:02 +0900",
-	"total":245943,
+	"lastBuildDate":"Fri, 27 Sep 2024 15:00:02 +0900",
+	"total":245944,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[강화군수 보궐] 민주당 한연희 후보, 시의원들과 정책협약",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=253890",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=253890",
+			"description":"(서구 <b>청라<\/b>3동·당하동·오류왕길동·마전동) ▲이오상(남동구 논현1동·논현2동·논현고잔동) ▲장성숙(비례대표) ▲정종혁(서구 <b>청라<\/b>1동·<b>청라<\/b>2동) ▲조성환(계양구 효성1동·효성2동) 의원이 참여했다. ※ 이 기사는 AI... ",
+			"pubDate":"Fri, 27 Sep 2024 14:58:00 +0900"
+		},
 		{
 			"title":"[KLPGA] 박현경, &quot;리디아 언니 같은 '나만의 골프' 있으면 좋겠다&quot;",
 			"originallink":"https:\/\/www.sportsw.kr\/news\/newsview.php?ncode=1065589208818269",
@@ -26,10 +33,10 @@
 			"pubDate":"Fri, 27 Sep 2024 14:32:00 +0900"
 		},
 		{
-			"title":"티샷하는 홍현지",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927113800013?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952448",
-			"description":"홍현지가 27일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>CC에서 열린 '하나금융그룹 챔피언십' 2라운드 1번 홀에서 티샷하고 있다. 2024.9.27 [KLPGT 제공. 재판매 및 DB 금지]",
+			"title":"티샷하는 유현조",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927113500013?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952445",
+			"description":"유현조가 27일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>CC에서 열린 '하나금융그룹 챔피언십' 2라운드 1번 홀에서 티샷하고 있다. 2024.9.27 [KLPGT 제공. 재판매 및 DB 금지]",
 			"pubDate":"Fri, 27 Sep 2024 14:30:00 +0900"
 		},
 		{
@@ -37,6 +44,13 @@
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927113900013?input=1196m",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952450",
 			"description":"자라비 분찬트가 27일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>CC에서 열린 '하나금융그룹 챔피언십' 2라운드 4번 홀에서 티샷하고 있다. 2024.9.27 [KLPGT 제공. 재판매 및 DB 금지]",
+			"pubDate":"Fri, 27 Sep 2024 14:30:00 +0900"
+		},
+		{
+			"title":"티샷하는 홍현지",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927113800013?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952448",
+			"description":"홍현지가 27일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>CC에서 열린 '하나금융그룹 챔피언십' 2라운드 1번 홀에서 티샷하고 있다. 2024.9.27 [KLPGT 제공. 재판매 및 DB 금지]",
 			"pubDate":"Fri, 27 Sep 2024 14:30:00 +0900"
 		},
 		{
@@ -54,20 +68,6 @@
 			"pubDate":"Fri, 27 Sep 2024 14:30:00 +0900"
 		},
 		{
-			"title":"티샷하는 유현조",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927113500013?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952445",
-			"description":"유현조가 27일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>CC에서 열린 '하나금융그룹 챔피언십' 2라운드 1번 홀에서 티샷하고 있다. 2024.9.27 [KLPGT 제공. 재판매 및 DB 금지]",
-			"pubDate":"Fri, 27 Sep 2024 14:30:00 +0900"
-		},
-		{
-			"title":"티샷하는 이동은",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927113700013?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952447",
-			"description":"이동은이 27일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>CC에서 열린 '하나금융그룹 챔피언십' 2라운드 1번 홀에서 티샷하고 있다. 2024.9.27 [KLPGT 제공. 재판매 및 DB 금지]",
-			"pubDate":"Fri, 27 Sep 2024 14:30:00 +0900"
-		},
-		{
 			"title":"티샷하는 윤이나",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927113600013?input=1196m",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952446",
@@ -82,17 +82,17 @@
 			"pubDate":"Fri, 27 Sep 2024 14:30:00 +0900"
 		},
 		{
-			"title":"티샷하는 성유진",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927113200013?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952441",
-			"description":"성유진이 27일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>CC에서 열린 '하나금융그룹 챔피언십' 2라운드 1번 홀에서 티샷하고 있다. 2024.9.27 [KLPGT 제공. 재판매 및 DB 금지]",
-			"pubDate":"Fri, 27 Sep 2024 14:29:00 +0900"
+			"title":"티샷하는 이동은",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927113700013?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952447",
+			"description":"이동은이 27일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>CC에서 열린 '하나금융그룹 챔피언십' 2라운드 1번 홀에서 티샷하고 있다. 2024.9.27 [KLPGT 제공. 재판매 및 DB 금지]",
+			"pubDate":"Fri, 27 Sep 2024 14:30:00 +0900"
 		},
 		{
-			"title":"티샷하는 리안 미카엘라 말락시",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927112800013?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952437",
-			"description":"리안 미카엘라 말락시가 27일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>CC에서 열린 '하나금융그룹 챔피언십' 2라운드 1번 홀에서 티샷하고 있다. 2024.9.27 [KLPGT 제공. 재판매 및 DB 금지]",
+			"title":"티샷하는 리디아 고",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927112900013?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952439",
+			"description":"리디아 고가 27일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>CC에서 열린 '하나금융그룹 챔피언십' 2라운드 1번 홀에서 티샷하고 있다. 2024.9.27 [KLPGT 제공. 재판매 및 DB 금지]",
 			"pubDate":"Fri, 27 Sep 2024 14:29:00 +0900"
 		},
 		{
@@ -110,10 +110,17 @@
 			"pubDate":"Fri, 27 Sep 2024 14:29:00 +0900"
 		},
 		{
-			"title":"티샷하는 리디아 고",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927112900013?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952439",
-			"description":"리디아 고가 27일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>CC에서 열린 '하나금융그룹 챔피언십' 2라운드 1번 홀에서 티샷하고 있다. 2024.9.27 [KLPGT 제공. 재판매 및 DB 금지]",
+			"title":"티샷하는 성유진",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927113200013?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952441",
+			"description":"성유진이 27일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>CC에서 열린 '하나금융그룹 챔피언십' 2라운드 1번 홀에서 티샷하고 있다. 2024.9.27 [KLPGT 제공. 재판매 및 DB 금지]",
+			"pubDate":"Fri, 27 Sep 2024 14:29:00 +0900"
+		},
+		{
+			"title":"티샷하는 리안 미카엘라 말락시",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20240927112800013?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/001\/0014952437",
+			"description":"리안 미카엘라 말락시가 27일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>CC에서 열린 '하나금융그룹 챔피언십' 2라운드 1번 홀에서 티샷하고 있다. 2024.9.27 [KLPGT 제공. 재판매 및 DB 금지]",
 			"pubDate":"Fri, 27 Sep 2024 14:29:00 +0900"
 		},
 		{
@@ -199,13 +206,6 @@
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2180937",
 			"description":"이 자리에 인천 <b>청라<\/b>지역의 전기차량 화재 이후 화재 대응 체계를 강화하고 있는 인천교통공사 관계자도 참관했다. 전기버스는 버스 상부에 배터리가 설치돼 있어 물이 침투하기 어렵고 사람이 직접 차량을 질식소화포로... ",
 			"pubDate":"Fri, 27 Sep 2024 10:20:00 +0900"
-		},
-		{
-			"title":"KLPGA 하나금융챔피언십 26일 개최… ㈜씨엔모터스 카니발하이리무진 전...",
-			"originallink":"https:\/\/www.mhns.co.kr\/news\/articleView.html?idxno=700914",
-			"link":"https:\/\/www.mhns.co.kr\/news\/articleView.html?idxno=700914",
-			"description":"한국여자프로골프(KLPGA) 하나금융그룹 챔피언십이 오는 26일부터 29일까지 인천 베어즈베스트 <b>청라<\/b>에서 열린다고 밝혔다. 이 날 대회에는 Par 3 5번 홀 홀인원 이벤트 상품으로 CN카니발 하이리무진이 제공된다.... ",
-			"pubDate":"Fri, 27 Sep 2024 10:16:00 +0900"
 		},
 		{
 			"title":"인천 서구, 2024 <b>청라<\/b> 와인 페스티벌 개최",
