@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sat, 28 Sep 2024 18:20:02 +0900",
-	"total":247467,
+	"lastBuildDate":"Sat, 28 Sep 2024 18:30:02 +0900",
+	"total":247469,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"윤이나, 하나금융챔피언십 사흘 연속 선두...통산 3승 도전",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0107_202409281826316216",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/052\/0002093058",
+			"description":"윤이나는 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 계속된 대회 3라운드에서 버디 3개와 보기 3개로 이븐파를 쳐, 중간합계 8언더파 공동 1위를 달렸습니다. 전날 공동 8위였던 김수지와 마다솜이 나란히 세 타씩 줄여... ",
+			"pubDate":"Sat, 28 Sep 2024 18:26:00 +0900"
+		},
+		{
+			"title":"[KLPGA] 윤이나, '하나금융그룹 챔피언십' 사흘 연속 선두..와이어투와이...",
+			"originallink":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=665334",
+			"link":"https:\/\/www.polinews.co.kr\/news\/articleView.html?idxno=665334",
+			"description":"윤이나는 28일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,712야드)에서 열린 대회 3라운드에서 버디 3개, 보기 3개를 합해서 이븐파 72타를 쳤다. 중간합계 8언더파 208타 기록해 3타를 줄이며 추격한 김수지, 마다솜과 함께... ",
+			"pubDate":"Sat, 28 Sep 2024 18:18:00 +0900"
+		},
 		{
 			"title":"윤이나, KLPGA 하나금융 챔피언십 3R 공동 선두",
 			"originallink":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=713624",
@@ -40,20 +54,6 @@
 			"pubDate":"Sat, 28 Sep 2024 18:08:00 +0900"
 		},
 		{
-			"title":"[포토]윤이나,타구 방향은 미소",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01574406639024712",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846140",
-			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 4번홀 경기 장면.",
-			"pubDate":"Sat, 28 Sep 2024 18:08:00 +0900"
-		},
-		{
-			"title":"[포토]윤이나,무빙데이 선두 정조준",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01571126639024712",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846139",
-			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 4번홀 경기 장면.",
-			"pubDate":"Sat, 28 Sep 2024 18:08:00 +0900"
-		},
-		{
 			"title":"[포토]윤이나,공략 방향 확인",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01558006639024712",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846135",
@@ -64,13 +64,6 @@
 			"title":"[포토]윤이나,방향 설정을 한다",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01561286639024712",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846136",
-			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 4번홀 경기 장면.",
-			"pubDate":"Sat, 28 Sep 2024 18:08:00 +0900"
-		},
-		{
-			"title":"[포토]윤이나,연습은 부드럽게",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01564566639024712",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846137",
 			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 4번홀 경기 장면.",
 			"pubDate":"Sat, 28 Sep 2024 18:08:00 +0900"
 		},
@@ -89,6 +82,27 @@
 			"pubDate":"Sat, 28 Sep 2024 18:08:00 +0900"
 		},
 		{
+			"title":"[포토]윤이나,연습은 부드럽게",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01564566639024712",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846137",
+			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 4번홀 경기 장면.",
+			"pubDate":"Sat, 28 Sep 2024 18:08:00 +0900"
+		},
+		{
+			"title":"[포토]윤이나,무빙데이 선두 정조준",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01571126639024712",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846139",
+			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 4번홀 경기 장면.",
+			"pubDate":"Sat, 28 Sep 2024 18:08:00 +0900"
+		},
+		{
+			"title":"[포토]윤이나,타구 방향은 미소",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01574406639024712",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846140",
+			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 4번홀 경기 장면.",
+			"pubDate":"Sat, 28 Sep 2024 18:08:00 +0900"
+		},
+		{
 			"title":"[포토]윤이나,미소로 기다려요",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01538326639024712",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846129",
@@ -99,6 +113,27 @@
 			"title":"[포토]윤이나,버디위해 맞춘다",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01535046639024712",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846128",
+			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 3번홀 경기 장면.",
+			"pubDate":"Sat, 28 Sep 2024 18:07:00 +0900"
+		},
+		{
+			"title":"[포토]윤이나,버디로 선두를 지킨다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01541606639024712",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846130",
+			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 3번홀 경기 장면.",
+			"pubDate":"Sat, 28 Sep 2024 18:07:00 +0900"
+		},
+		{
+			"title":"[포토]윤이나,무빙데이도 반가운 첫 미소",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01548166639024712",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846132",
+			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 4번홀 경기 장면.",
+			"pubDate":"Sat, 28 Sep 2024 18:07:00 +0900"
+		},
+		{
+			"title":"[포토]윤이나,핀 주변을 확인한다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01531766639024712",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846127",
 			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 3번홀 경기 장면.",
 			"pubDate":"Sat, 28 Sep 2024 18:07:00 +0900"
 		},
@@ -117,34 +152,6 @@
 			"pubDate":"Sat, 28 Sep 2024 18:07:00 +0900"
 		},
 		{
-			"title":"[포토]윤이나,핀 주변을 확인한다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01531766639024712",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846127",
-			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 3번홀 경기 장면.",
-			"pubDate":"Sat, 28 Sep 2024 18:07:00 +0900"
-		},
-		{
-			"title":"[포토]윤이나,무빙데이도 반가운 첫 미소",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01548166639024712",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846132",
-			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 4번홀 경기 장면.",
-			"pubDate":"Sat, 28 Sep 2024 18:07:00 +0900"
-		},
-		{
-			"title":"[포토]윤이나,버디로 선두를 지킨다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01541606639024712",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846130",
-			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 3번홀 경기 장면.",
-			"pubDate":"Sat, 28 Sep 2024 18:07:00 +0900"
-		},
-		{
-			"title":"[포토]윤이나,라인을 보며 맞춘다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01508806639024712",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846120",
-			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 1번홀 경기 장면.",
-			"pubDate":"Sat, 28 Sep 2024 18:06:00 +0900"
-		},
-		{
 			"title":"[포토]윤이나,내리막 퍼트 신중히 본다",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01505526639024712",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846119",
@@ -152,23 +159,9 @@
 			"pubDate":"Sat, 28 Sep 2024 18:06:00 +0900"
 		},
 		{
-			"title":"[포토]윤이나,나이스 파세이브",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01525206639024712",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846125",
-			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 1번홀 경기 장면.",
-			"pubDate":"Sat, 28 Sep 2024 18:06:00 +0900"
-		},
-		{
-			"title":"[포토]윤이나,힘조절이 중요한 내리막 퍼트",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01515366639024712",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846122",
-			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 1번홀 경기 장면.",
-			"pubDate":"Sat, 28 Sep 2024 18:06:00 +0900"
-		},
-		{
-			"title":"[포토]윤이나,그린이 빨라졌다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01512086639024712",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846121",
+			"title":"[포토]윤이나,라인을 보며 맞춘다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01508806639024712",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846120",
 			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 1번홀 경기 장면.",
 			"pubDate":"Sat, 28 Sep 2024 18:06:00 +0900"
 		},
@@ -180,6 +173,13 @@
 			"pubDate":"Sat, 28 Sep 2024 18:06:00 +0900"
 		},
 		{
+			"title":"[포토]윤이나,힘조절이 중요한 내리막 퍼트",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01515366639024712",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846122",
+			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 1번홀 경기 장면.",
+			"pubDate":"Sat, 28 Sep 2024 18:06:00 +0900"
+		},
+		{
 			"title":"[포토]윤이나,홀을 확인한다",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01518646639024712",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846123",
@@ -187,23 +187,23 @@
 			"pubDate":"Sat, 28 Sep 2024 18:06:00 +0900"
 		},
 		{
+			"title":"[포토]윤이나,그린이 빨라졌다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01512086639024712",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846121",
+			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 1번홀 경기 장면.",
+			"pubDate":"Sat, 28 Sep 2024 18:06:00 +0900"
+		},
+		{
+			"title":"[포토]윤이나,나이스 파세이브",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01525206639024712",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846125",
+			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 윤이나의 1번홀 경기 장면.",
+			"pubDate":"Sat, 28 Sep 2024 18:06:00 +0900"
+		},
+		{
 			"title":"[포토]리슈잉,무빙데이 기도하는 마음으로",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01495686639024712",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846116",
-			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 리슈인의 4번홀 경기 장면.",
-			"pubDate":"Sat, 28 Sep 2024 18:05:00 +0900"
-		},
-		{
-			"title":"[포토]리슈잉,나이스 버디 성공",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01489126639024712",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846114",
-			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 리슈인의 3번홀 경기 장면.",
-			"pubDate":"Sat, 28 Sep 2024 18:05:00 +0900"
-		},
-		{
-			"title":"[포토]리슈잉,강력한 티샷",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=01492406639024712",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0005846115",
 			"description":"28일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/예선 6,712yds, 본선 6,712 yds)에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)3라운드가 열렸다. 리슈인의 4번홀 경기 장면.",
 			"pubDate":"Sat, 28 Sep 2024 18:05:00 +0900"
 		},
