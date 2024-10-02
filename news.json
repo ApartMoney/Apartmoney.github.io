@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 02 Oct 2024 09:50:02 +0900",
-	"total":249385,
+	"lastBuildDate":"Wed, 02 Oct 2024 10:00:02 +0900",
+	"total":249387,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 주요 사회 일정] 사회(10월2일 수요일)",
+			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=356352",
+			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=356352",
+			"description":"16연대, 용산동 삼각지 교통섬, 세월호 참사 국가책임 인정 및 진상규명촉구 집회 ▲오후 12시 보령시샘물개발반대특위, 삼청동 감사원 정문 앞, 보령시 <b>청라<\/b>면 샘물개발 철회 촉구 집회 ▲오후 12시 반일행동, 수송동... ",
+			"pubDate":"Wed, 02 Oct 2024 09:52:00 +0900"
+		},
+		{
+			"title":"송도 중고차수출단지 1596개 업체 17억달러 수출 국내 45% 차지",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=254148",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=254148",
+			"description":"앞서 중고차 수출단지로 서구 <b>청라<\/b>투기장을 검토했던 인천항만공사는 남항으로 장소를 바꿔 '스마트 오토밸리'를 추진하고 있다. 이 사업을 성공하기 위해선 업체 현황을 파악하는 동시에 업체의 영세성을... ",
+			"pubDate":"Wed, 02 Oct 2024 09:52:00 +0900"
+		},
 		{
 			"title":"마다솜, 위믹스 포인트 16단계 '껑충'",
 			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=656926",
@@ -187,13 +201,6 @@
 			"pubDate":"Tue, 01 Oct 2024 13:58:00 +0900"
 		},
 		{
-			"title":"서구, <b>청라<\/b>생활문화센터 건립 ‘첫 삽’",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1938942",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1938942",
-			"description":"인천시 서구가 지난달 30일 <b>청라<\/b>동 일원에 건립하는 <b>청라<\/b>생활문화센터 착공식을 개최했다고 1일 밝혔다. 이날 착공식에는 강범석 구청장, 인천시의회 의원, 서구의회 의원 등 지역 정치인들과 산하기관장, <b>청라<\/b>지역... ",
-			"pubDate":"Tue, 01 Oct 2024 13:26:00 +0900"
-		},
-		{
 			"title":"연수구 “인천 송도유원지 중고차 수출단지 업체 1596개”",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1938939",
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1938939",
@@ -201,18 +208,11 @@
 			"pubDate":"Tue, 01 Oct 2024 13:26:00 +0900"
 		},
 		{
-			"title":"인천 송도유원지 중고차 수출단지 업체 1596개…전국 수출 45%",
-			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/5556237",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007818261?sid=102",
-			"description":"앞서 중고차 수출단지로 서구 <b>청라<\/b>투기장을 검토했던 인천항만공사는 남항으로 장소를 바꿔 ‘스마트 오토밸리’를 추진하고 있다. 이 사업을 성공하기 위해선 업체 현황을 파악하는 동시에 업체의 영세성을... ",
-			"pubDate":"Tue, 01 Oct 2024 13:14:00 +0900"
-		},
-		{
-			"title":"작년 인천항 중고차 수출 37억달러…전국 수출의 45%",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202410011236090277",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005247667?sid=102",
-			"description":"앞서 중고차 수출단지로 서구 <b>청라<\/b>투기장을 검토했던 인천항만공사는 남항으로 장소를 바꿔 ‘스마트 오토밸리’를 추진하고 있다. 허 의원은 이 사업을 성공하기 위해선 업체 현황을 파악하는 동시에 업체의... ",
-			"pubDate":"Tue, 01 Oct 2024 12:53:00 +0900"
+			"title":"서구, <b>청라<\/b>생활문화센터 건립 ‘첫 삽’",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1938942",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1938942",
+			"description":"인천시 서구가 지난달 30일 <b>청라<\/b>동 일원에 건립하는 <b>청라<\/b>생활문화센터 착공식을 개최했다고 1일 밝혔다. 이날 착공식에는 강범석 구청장, 인천시의회 의원, 서구의회 의원 등 지역 정치인들과 산하기관장, <b>청라<\/b>지역... ",
+			"pubDate":"Tue, 01 Oct 2024 13:26:00 +0900"
 		}
 	]
 }
