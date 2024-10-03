@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 03 Oct 2024 09:30:02 +0900",
-	"total":249407,
+	"lastBuildDate":"Thu, 03 Oct 2024 09:40:02 +0900",
+	"total":249408,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 화재 이후 진화하는 배터리…기술 개발 어디까지 왔나 [헤비톡]",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DFFBKL55K",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004398852?sid=101",
+			"description":"지난 8월 발생한 인천 <b>청라<\/b> 주하주차장 전기차 화재사고 이후 이차전지 열폭주를 억제하기 위한 기술 개발이 속도를 내고 있다. 배터리 관련 업체는 물론 정유업체 등에서 신소재, 차단 장치 개발부터 액침냉각 기술... ",
+			"pubDate":"Thu, 03 Oct 2024 09:30:00 +0900"
+		},
 		{
 			"title":"더이앤엠, '제29회 부산국제영화제' 공식 스폰서 참여 및 스페셜 포럼 개...",
 			"originallink":"https:\/\/www.nbntv.kr\/news\/articleView.html?idxno=333008",
@@ -194,13 +201,6 @@
 			"pubDate":"Wed, 02 Oct 2024 07:01:00 +0900"
 		},
 		{
-			"title":"내년 보험료 오를까…車보험 손해율 악화에 '빨간불'",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=612549",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=612549",
-			"description":"지난 8월 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 발생한 전기차 화재로 입은 피해는 소방당국 추산 차량 78대가 불에 타고 880대가 그을림 등 피해를 본 것으로 나타났다. 특히 전기차 화재로 인한 피해 규모는... ",
-			"pubDate":"Wed, 02 Oct 2024 07:00:00 +0900"
-		},
-		{
 			"title":"'부동산 자산으로 자금조달'…신세계 등 리츠시장 진출 '활발'",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=612562",
 			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=612562",
@@ -208,11 +208,11 @@
 			"pubDate":"Wed, 02 Oct 2024 07:00:00 +0900"
 		},
 		{
-			"title":"[이로운 리뷰] 금빛 억새 물결 출렁이는 자연휴양림 억새 명소 3곳",
-			"originallink":"https:\/\/www.eroun.net\/news\/articleView.html?idxno=47772",
-			"link":"https:\/\/www.eroun.net\/news\/articleView.html?idxno=47772",
-			"description":"주소 : 충남 보령시 <b>청라<\/b>면 오서산길 531 가을바람에 술렁이는 억새밭, 신불산자연휴양림 신불산자연휴양림(울산 울주)은 영남알프스 9봉 중 신불산, 영축산, 간월산을 병풍처럼 끼고 있으며, 기암괴석과 다양한 수종의... ",
-			"pubDate":"Wed, 02 Oct 2024 06:48:00 +0900"
+			"title":"내년 보험료 오를까…車보험 손해율 악화에 '빨간불'",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=612549",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=612549",
+			"description":"지난 8월 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 발생한 전기차 화재로 입은 피해는 소방당국 추산 차량 78대가 불에 타고 880대가 그을림 등 피해를 본 것으로 나타났다. 특히 전기차 화재로 인한 피해 규모는... ",
+			"pubDate":"Wed, 02 Oct 2024 07:00:00 +0900"
 		}
 	]
 }
