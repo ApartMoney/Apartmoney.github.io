@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 05 Oct 2024 17:00:02 +0900",
-	"total":249478,
+	"lastBuildDate":"Sat, 05 Oct 2024 17:10:02 +0900",
+	"total":249479,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"中 선점한 LFP 배터리 시장…상품성 갖춘 韓 '도전장' 내밀었다",
+			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=668785",
+			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=668785",
+			"description":"국내에서는 <b>청라<\/b> 아파트 전기차 화재 사고를 계기로 NCM 배터리에 대한 우려가 높아지고 있다. 화재가 발생한 벤츠 EQE 모델에 탑재된 배터리가 파라시스의 NCM 배터리로 확인됐기 때문이다. LFP 배터리 시장에... ",
+			"pubDate":"Sat, 05 Oct 2024 17:00:00 +0900"
+		},
 		{
 			"title":"전기차 공포에 대책 내놨지만…&quot;셀 단위 인증‧BMS 공개 등 보완해야&quot;",
 			"originallink":"https:\/\/www.ntoday.co.kr\/news\/articleView.html?idxno=110028",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.asiatime.co.kr\/article\/20241004500079",
 			"description":"홈플러스 인천<b>청라<\/b>점, 공동생활가정(아동복지시설) 7개소에 식료품 릴레이 전달 인천 서구는 홈플러스 인천<b>청라<\/b>점이 서구 관내 7개소의 아동공동생활가정(아동복지시설)에 매달 1개소 50만원씩, 총 350만원 상당의 식료품을... ",
 			"pubDate":"Fri, 04 Oct 2024 11:28:00 +0900"
-		},
-		{
-			"title":"[아유경제_부동산] 9월 5주 아파트 가격 동향… 매매가격 0.02% 상승ㆍ전...",
-			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=85961",
-			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=85961",
-			"description":"인천(0.18%)의 경우 서구(0.39%)는 매물 부족한 가운데, 가정ㆍ<b>청라<\/b>동 위주로, 중구(0.28%)는 중산ㆍ운남동 중ㆍ소형 규모 위주로, 계양구(0.16%)는 계산ㆍ병방동 교통여건 양호 단지 위주로, 남동구(0.12%)는... ",
-			"pubDate":"Fri, 04 Oct 2024 11:20:00 +0900"
 		}
 	]
 }
