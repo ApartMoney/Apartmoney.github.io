@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 07 Oct 2024 10:10:02 +0900",
-	"total":249552,
+	"lastBuildDate":"Mon, 07 Oct 2024 10:20:02 +0900",
+	"total":249555,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"아파트 3곳 중 2곳은 스프링클러 미설치…정상작동은 31%",
+			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=344018",
+			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=344018",
+			"description":"<b>청라<\/b>의 한 아파트 화재, 이천 물류센터 화재는 건축물의 스프링클러가 있었으나 제대로 작동하지 않았고 다수의 사상자가 발생했다&quot;면서 &quot;그러나 지난 8월 화재가 발생한 마포 고시원은 간이 스프링클러가 설치돼... ",
+			"pubDate":"Mon, 07 Oct 2024 10:18:00 +0900"
+		},
+		{
+			"title":"보령시보건소, 찾아가는 무료 국가암검진 실시",
+			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=349037",
+			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=349037",
+			"description":"검진 일정은 △10월 18일 웅천보건지소 △21일 주산보건지소 △22일 청소보건지소 △23일, 24일 남포면 보령종합체육관 △25일 천북보건지소 △28일 성주보건지소 △29일 <b>청라<\/b>보건지소 순으로 오전 8시~11시 30분까지... ",
+			"pubDate":"Mon, 07 Oct 2024 10:16:00 +0900"
+		},
+		{
+			"title":"보령시보건소, 찾아가는 무료 국가암검진 실시",
+			"originallink":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=793184",
+			"link":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=793184",
+			"description":"24일 남포면 보령종합체육관, 25일 천북보건지소, 28일 성주보건지소,  29일 <b>청라<\/b>보건지소 순으로 오전 8시~11시30분까지 진행된다. 검진 희망자는 검진 전날 저녁 8시부터 금식을 유지하고 신분증을 지참하여 검진장소로... ",
+			"pubDate":"Mon, 07 Oct 2024 10:12:00 +0900"
+		},
 		{
 			"title":"송도 매립 30년...대한민국 경제자유구역의 모범이 된 인천경제청",
 			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=157217",
@@ -33,17 +54,17 @@
 			"pubDate":"Mon, 07 Oct 2024 09:42:00 +0900"
 		},
 		{
-			"title":"아파트 중 65% 스프링클러 미설치.. 있어도 정상작동은 31%",
-			"originallink":"http:\/\/www.thepowernews.co.kr\/news\/articleView.html?idxno=143807",
-			"link":"http:\/\/www.thepowernews.co.kr\/news\/articleView.html?idxno=143807",
-			"description":"<b>청라<\/b>의 한 아파트 화재, 이천 물류센터 화재는 건축물의 스프링클러가 있었으나 제대로 작동하지 않았고 다수의 사상자가 발생했다. 그러나 지난 8월 마포 고시원에서 발생한 화재는 인명피해가 발생하지 않았다.... ",
-			"pubDate":"Mon, 07 Oct 2024 09:38:00 +0900"
-		},
-		{
 			"title":"보령시보건소, 찾아가는 무료 국가암검진 실시",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1080372",
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1080372",
 			"description":"검진 일정은 ▲오는 18일 웅천보건지소 ▲21일 주산보건지소 ▲22일 청소보건지소 ▲23일, 24일 남포면 보령종합체육관 ▲25일 천북보건지소 ▲28일 성주보건지소 ▲29일 <b>청라<\/b>보건지소 순으로 오전 8시~11시 30분까지... ",
+			"pubDate":"Mon, 07 Oct 2024 09:38:00 +0900"
+		},
+		{
+			"title":"아파트 중 65% 스프링클러 미설치.. 있어도 정상작동은 31%",
+			"originallink":"http:\/\/www.thepowernews.co.kr\/news\/articleView.html?idxno=143807",
+			"link":"http:\/\/www.thepowernews.co.kr\/news\/articleView.html?idxno=143807",
+			"description":"<b>청라<\/b>의 한 아파트 화재, 이천 물류센터 화재는 건축물의 스프링클러가 있었으나 제대로 작동하지 않았고 다수의 사상자가 발생했다. 그러나 지난 8월 마포 고시원에서 발생한 화재는 인명피해가 발생하지 않았다.... ",
 			"pubDate":"Mon, 07 Oct 2024 09:38:00 +0900"
 		},
 		{
@@ -124,16 +145,16 @@
 			"pubDate":"Mon, 07 Oct 2024 05:41:00 +0900"
 		},
 		{
-			"title":"[오늘의 국회일정] (7일, 월)",
-			"originallink":"https:\/\/www.news1.kr\/politics\/assembly\/5560244",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007827494?sid=100",
+			"title":"[오늘의 주요일정]국회(10월7일 월요일)",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20241006_0002910170",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012822661?sid=100",
 			"description":"의원, [<b>청라<\/b>시티타워 관련 기자회견] 14:00 주진우 의원, [국민의힘 법률자문위원회, 검사 탄핵청문회 관련 기자회견] 14:20 이미선 진보당 부대변인, [공공부문 비정규직 처우 및 고용안정을 위한 2024년 국정감사... ",
 			"pubDate":"Mon, 07 Oct 2024 05:00:00 +0900"
 		},
 		{
-			"title":"[오늘의 주요일정]국회(10월7일 월요일)",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20241006_0002910170",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012822661?sid=100",
+			"title":"[오늘의 국회일정] (7일, 월)",
+			"originallink":"https:\/\/www.news1.kr\/politics\/assembly\/5560244",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007827494?sid=100",
 			"description":"의원, [<b>청라<\/b>시티타워 관련 기자회견] 14:00 주진우 의원, [국민의힘 법률자문위원회, 검사 탄핵청문회 관련 기자회견] 14:20 이미선 진보당 부대변인, [공공부문 비정규직 처우 및 고용안정을 위한 2024년 국정감사... ",
 			"pubDate":"Mon, 07 Oct 2024 05:00:00 +0900"
 		},
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20241007010000453",
 			"description":"2001년 인천공항 개항은 송도를 비롯해 <b>청라<\/b>와 영종이 2003년 국내 1호 경제자유구역으로 지정되는 기회를 제공했다. 송도·<b>청라<\/b>·영종 개발은 인천의 도심을 다핵(多核) 구조로 확장하는 계기가 됐다. 산업적 측면에서... ",
 			"pubDate":"Sun, 06 Oct 2024 19:44:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>시티타워 사업 재시동 거나… LH 3차 경투심 이달 열릴 듯",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1112920",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1112920",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천 <b>청라<\/b>시티타워 건립사업 재추진을 위한 한국토지주택공사(LH)의... 열린 '<b>청라<\/b>시티타워 건립 재추진을 위한 현안회의'에 참석한 김재경 LH 지역균형본부장은 &quot;7월 중순 이후... ",
-			"pubDate":"Sun, 06 Oct 2024 19:36:00 +0900"
-		},
-		{
-			"title":"SSG 이율예 2억2000만 원에 도장 꾹",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1112934",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1112934",
-			"description":"이율예는 청소년 국가대표 출신으로 빠르고 정확한 송구와 안정된 수비를 겸비한 완성형 포수로 평가되며, 향후 <b>청라<\/b>돔 시대 주전 포수 자원으로 성장이 기대된다. 2라운드에서 지명한 성남고 투수 신지환과는... ",
-			"pubDate":"Sun, 06 Oct 2024 19:36:00 +0900"
-		},
-		{
-			"title":"[창간 79주년] '송도' 이야기… 눈부신 발전 | 물류·첨단산업 부상… 송...",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20241007010003154",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20241007010003154",
-			"description":"■ 인천국제공항 개항, 경제자유구역 지정 이후 비약적 성장2001년 인천국제공항 개항과 2003년 경제자유구역(송도·<b>청라<\/b>·영종) 지정은 인천이 새로운 성장 국면에 들어서는 계기가 됐다. 2001~2005년 인천의... ",
-			"pubDate":"Sun, 06 Oct 2024 19:04:00 +0900"
 		}
 	]
 }
