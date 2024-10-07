@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 07 Oct 2024 17:40:02 +0900",
-	"total":249665,
+	"lastBuildDate":"Mon, 07 Oct 2024 17:50:02 +0900",
+	"total":249666,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 <b>청라<\/b> 시티타워 높이 원안대로 유지 의견 제시",
+			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20241007050651",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002371063?sid=102",
+			"description":"인천 <b>청라<\/b>국제도시 시티타워 높이가 원안대로 유지해야 한다는 의견이 제기됐다. 더불어민주당 김교흥 의원(인천 서구갑)과 이용우 의원(인천 서구을)은 7일 국회소통관 기자회견장에서 “<b>청라<\/b>국제도시 시티타워의... ",
+			"pubDate":"Mon, 07 Oct 2024 17:45:00 +0900"
+		},
 		{
 			"title":"불 난 '듣보잡' 中배터리도 넣어놓고…벤츠 &quot;배터리 제조사는 CATL&quot; 딜러...",
 			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=213972",
@@ -131,13 +138,6 @@
 			"pubDate":"Mon, 07 Oct 2024 16:46:00 +0900"
 		},
 		{
-			"title":"인천환경공단, ‘<b>청라<\/b> 생태환경 체험행사’",
-			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001570",
-			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001570",
-			"description":"인천환경공단 <b>청라<\/b>사업소는 오는 9일 <b>청라<\/b>생태공원 내 잔디마당에서 지역주민들과 환경의 소중함과 자원순환의 중요성을 공감하기 위한 '2024 <b>청라<\/b> 생태환경 체험행사'를 개최한다고 밝혔다. 행사는... ",
-			"pubDate":"Mon, 07 Oct 2024 16:42:00 +0900"
-		},
-		{
 			"title":"박용갑 인천 서구의원, ‘싱크홀 지반침하 사고 대응’ 자유발언",
 			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001551",
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001551",
@@ -149,6 +149,13 @@
 			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001544",
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001544",
 			"description":"인천시 서구의회 김원진 의원(더불어민주당, <b>청라<\/b>1·2동)이 7일 제270회 임시회 제1차 본회의서 자유발언을 통해, <b>청라<\/b>나들목(IC) 일대의 교통 혼잡 문제 개선 계획을 밝혔다. 김원진 의원은 &quot;<b>청라<\/b>나들목 교통 혼잡 문제는... ",
+			"pubDate":"Mon, 07 Oct 2024 16:42:00 +0900"
+		},
+		{
+			"title":"인천환경공단, ‘<b>청라<\/b> 생태환경 체험행사’",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001570",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001570",
+			"description":"인천환경공단 <b>청라<\/b>사업소는 오는 9일 <b>청라<\/b>생태공원 내 잔디마당에서 지역주민들과 환경의 소중함과 자원순환의 중요성을 공감하기 위한 '2024 <b>청라<\/b> 생태환경 체험행사'를 개최한다고 밝혔다. 행사는... ",
 			"pubDate":"Mon, 07 Oct 2024 16:42:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1267435",
 			"description":"지난 8월 인천 <b>청라<\/b> 아파트 전기차 화재로 지하주차장 같은 밀폐된 공간에서 전기차에 불이 나면 얼마나 위험한지를 극명히 보여 준 바 있다. 이후 아파트 지하주차장 전기차 주차에 대한 포비아(공포심) 현상까지... ",
 			"pubDate":"Mon, 07 Oct 2024 16:10:00 +0900"
-		},
-		{
-			"title":"현대무벡스, 자율이동로봇(AMR) 개발 국책과제 주관기관 선정",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/11133588",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005375378?sid=101",
-			"description":"현대무벡스는 지난 2019년 대규모 <b>청라<\/b>R&amp;D센터 구축 이후 단기간 내 다양한 타입의 무인이송로봇(AGV) 개발에도 성공한 바 있다. AGV는 정해진 경로를 움직이는 로봇이고 AMR은 자율주행이 가능하다.",
-			"pubDate":"Mon, 07 Oct 2024 16:01:00 +0900"
 		}
 	]
 }
