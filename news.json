@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 07 Oct 2024 11:10:02 +0900",
-	"total":249573,
+	"lastBuildDate":"Mon, 07 Oct 2024 11:20:02 +0900",
+	"total":249576,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"현대무벡스, 자율이동로봇 개발 '박차'...국책과제 주관기관 선정",
+			"originallink":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=61270",
+			"link":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=61270",
+			"description":"현대무벡스는 2019년 대규모 <b>청라<\/b>R&amp;D센터 구축 이후 단기간 내 다양한 타입의 AGV 개발에 성공, 주력사업인 스마트 물류 대형수주 성과에 톡톡한 효자 노릇을 하고 있다. 최근에는 전 방향 운행이 가능한 AGV까지... ",
+			"pubDate":"Mon, 07 Oct 2024 11:16:00 +0900"
+		},
+		{
+			"title":"현대무벡스, 자율이동로봇 국책과제 주관기관 선정…“AMR 기술 국산화 ...",
+			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20241007050304",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002370814?sid=101",
+			"description":"현대무벡스는 2019년 대규모 <b>청라<\/b>R&amp;D센터 구축 이후 단기간 내 다양한 타입의 AGV 개발에 성공, 주력사업인 스마트 물류 대형수주 성과에 톡톡한 효자 노릇을 하고 있다. 최근에는 전 방향 운행이 가능한 AGV까지... ",
+			"pubDate":"Mon, 07 Oct 2024 11:14:00 +0900"
+		},
+		{
+			"title":"9월, 韓 벤츠 사랑 타올랐다…벤츠, 전기차 화재에도 ‘수입차 1위’",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/11133249",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005375164?sid=103",
+			"description":"올해 8월까지 월간 5000대 수준의 판매에 그쳤던 벤츠가 <b>청라<\/b> 전기차 화재의 중심으로 주목받으면서 9월 판매량은 더욱 꺾일 거라는 예측이 제기됐지만, 벤츠는 내연기관차 파격 할인을 앞세워 보란 듯이... ",
+			"pubDate":"Mon, 07 Oct 2024 11:10:00 +0900"
+		},
 		{
 			"title":"[오늘의 주요 정치 일정] 국회(10월7일 월요일)",
 			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=356874",
@@ -180,13 +201,6 @@
 			"pubDate":"Mon, 07 Oct 2024 09:42:00 +0900"
 		},
 		{
-			"title":"아파트 중 65% 스프링클러 미설치.. 있어도 정상작동은 31%",
-			"originallink":"http:\/\/www.thepowernews.co.kr\/news\/articleView.html?idxno=143807",
-			"link":"http:\/\/www.thepowernews.co.kr\/news\/articleView.html?idxno=143807",
-			"description":"<b>청라<\/b>의 한 아파트 화재, 이천 물류센터 화재는 건축물의 스프링클러가 있었으나 제대로 작동하지 않았고 다수의 사상자가 발생했다. 그러나 지난 8월 마포 고시원에서 발생한 화재는 인명피해가 발생하지 않았다.... ",
-			"pubDate":"Mon, 07 Oct 2024 09:38:00 +0900"
-		},
-		{
 			"title":"보령시보건소, 찾아가는 무료 국가암검진 실시",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1080372",
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1080372",
@@ -194,25 +208,11 @@
 			"pubDate":"Mon, 07 Oct 2024 09:38:00 +0900"
 		},
 		{
-			"title":"[보령시 소식]6년 만에 개최된 제21회 만세보령문화제 성료 등",
-			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=590506",
-			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=590506",
-			"description":"검진 일정은 △10월 18일 웅천보건지소 △21일 주산보건지소 △22일 청소보건지소 △23일, 24일 남포면 보령종합체육관 △25일 천북보건지소 △28일 성주보건지소   △29일 <b>청라<\/b>보건지소 순으로 오전 8시~11시 30분까지... ",
-			"pubDate":"Mon, 07 Oct 2024 09:34:00 +0900"
-		},
-		{
-			"title":"애마 모조리 날린 <b>청라<\/b>의 비극 엊그제인데…아파트 3분의2가 스프링클러...",
-			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20241007050118",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002370678?sid=101",
-			"description":"<b>청라<\/b>의 한 아파트 화재, 이천 물류센터 화재는 건축물의 스프링클러가 있었으나 제대로 작동하지 않았고 다수의 사상자가 발생했다. 그러나 지난 8월 마포 고시원에서 발생한 화재는 간이 스프링클러가 설치돼... ",
-			"pubDate":"Mon, 07 Oct 2024 09:30:00 +0900"
-		},
-		{
-			"title":"[더벨]배터리 치킨게임",
-			"originallink":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202410011640207160108493",
-			"link":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202410011640207160108493",
-			"description":"<b>청라<\/b> 아파트 지하 주차장에서 발생한 전기차 화재 사고 여파다. 충전 중도 아닌 며칠째 주차된 차량에서... <b>청라<\/b> 사고 차량인 벤츠 모델의 경우 신차 출시 1년만에 44%나 급락한 가격에 중고 매물로 나오고 있다. 화재의... ",
-			"pubDate":"Mon, 07 Oct 2024 08:18:00 +0900"
+			"title":"아파트 중 65% 스프링클러 미설치.. 있어도 정상작동은 31%",
+			"originallink":"http:\/\/www.thepowernews.co.kr\/news\/articleView.html?idxno=143807",
+			"link":"http:\/\/www.thepowernews.co.kr\/news\/articleView.html?idxno=143807",
+			"description":"<b>청라<\/b>의 한 아파트 화재, 이천 물류센터 화재는 건축물의 스프링클러가 있었으나 제대로 작동하지 않았고 다수의 사상자가 발생했다. 그러나 지난 8월 마포 고시원에서 발생한 화재는 인명피해가 발생하지 않았다.... ",
+			"pubDate":"Mon, 07 Oct 2024 09:38:00 +0900"
 		}
 	]
 }
