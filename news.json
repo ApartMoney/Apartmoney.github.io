@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 07 Oct 2024 20:20:02 +0900",
-	"total":249686,
+	"lastBuildDate":"Mon, 07 Oct 2024 20:30:02 +0900",
+	"total":249687,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"국감장 선 벤츠코리아 대표 &quot;전기차 화재사고 죄송…합당한 책임&quot;",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202410071946477201",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005250215?sid=101",
+			"description":"마티아스 바이틀 메르세데스 벤츠코리아 대표가 7일 국회 국토교통위원회 국정감사에 출석해 인천 <b>청라<\/b>... 한편, 앞서 지난 8월 인천 <b>청라<\/b> 아파트 지하주차장에서는 주차된 벤츠 EQE 전기차에서 불이 났다. 화재가... ",
+			"pubDate":"Mon, 07 Oct 2024 20:23:00 +0900"
+		},
 		{
 			"title":"벤츠코리아 대표 &quot;EQE 화재 조사 결과 나오면 합당한 책임 지겠다&quot;",
 			"originallink":"https:\/\/www.hankyung.com\/article\/202410070405g",
@@ -103,17 +110,17 @@
 			"pubDate":"Mon, 07 Oct 2024 18:27:00 +0900"
 		},
 		{
-			"title":"울산서 첫 전기차 화재 진화 시연...3세대 장비로 골든타임 앞당겨",
-			"originallink":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1046096",
-			"link":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1046096",
-			"description":"다만 최근 전기차 화재에 큰 관심을 모으게 했던 '인천 <b>청라<\/b> 지하주차장 전기차 화재 사건'과 같이 지하주차장 내 화재에는 여전히 활용하기 어려운 실정이다. 소방본부 관계자는 &quot;진압 장비는 어디까지나 '초진'의... ",
-			"pubDate":"Mon, 07 Oct 2024 18:26:00 +0900"
-		},
-		{
 			"title":"인천환경공단 <b>청라<\/b>사업소, 2024 <b>청라<\/b> 생태환경 체험행사 개최",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160292830639090",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160292830639090",
 			"description":"과학과 환경을 접목해 어린이부터 성인까지 다양한 체험 가능 ▲ 2024 <b>청라<\/b> 생태환경 체험행사 포스터 (사진제공= 인천환경공단) [인천=김형만 기자] 인천환경공단 <b>청라<\/b>사업소는 10월 9일 <b>청라<\/b>생태공원 내 잔디마당에서... ",
+			"pubDate":"Mon, 07 Oct 2024 18:26:00 +0900"
+		},
+		{
+			"title":"울산서 첫 전기차 화재 진화 시연...3세대 장비로 골든타임 앞당겨",
+			"originallink":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1046096",
+			"link":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1046096",
+			"description":"다만 최근 전기차 화재에 큰 관심을 모으게 했던 '인천 <b>청라<\/b> 지하주차장 전기차 화재 사건'과 같이 지하주차장 내 화재에는 여전히 활용하기 어려운 실정이다. 소방본부 관계자는 &quot;진압 장비는 어디까지나 '초진'의... ",
 			"pubDate":"Mon, 07 Oct 2024 18:26:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=104526",
 			"description":"왼쪽부터 더불어민주당 김교흥(인천 서구갑)·이용우(인천 서구을) 의원이 7일 오후 국회소통관에서 <b>청라<\/b>시티타워 높이 원안 요구 기자회견을 열고 있다. 사진=이용우 의원실 인천 <b>청라<\/b>국제도시에 추진하는 시티타워... ",
 			"pubDate":"Mon, 07 Oct 2024 17:08:00 +0900"
-		},
-		{
-			"title":"현대무벡스, 자율이동로봇 개발 '박차'…국책과제 주관기관 선정",
-			"originallink":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=166906",
-			"link":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=166906",
-			"description":"현대무벡스는 지난 2019년 대규모 <b>청라<\/b>R&amp;D센터 구축 이후 단기간 내 다양한 타입의 AGV 개발에 성공, 주력사업인 스마트 물류 대형수주 성과에 톡톡한 효자 노릇을 하고 있다. 최근에는 전 방향 운행이 가능한 AGV까지... ",
-			"pubDate":"Mon, 07 Oct 2024 17:06:00 +0900"
 		}
 	]
 }
