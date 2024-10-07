@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 07 Oct 2024 22:30:02 +0900",
-	"total":249702,
+	"lastBuildDate":"Mon, 07 Oct 2024 22:40:02 +0900",
+	"total":249703,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"국감 출석 벤츠 대표 &quot;화재 원인 밝혀져야 보상 가능&quot;",
+			"originallink":"https:\/\/it.chosun.com\/news\/articleView.html?idxno=2023092124680",
+			"link":"https:\/\/it.chosun.com\/news\/articleView.html?idxno=2023092124680",
+			"description":"이소영 더불어민주당 의원은 지난 8월 인천광역시 <b>청라<\/b> 소재 아파트에서 발생한 EQE 전기차 화재로 인해 막대한 피해를 입었고 국내 전기차 보급 정책책이 큰 위기를 맞았다고 지적했다. 이에 바이틀 대표는 &quot;이번 사고에... ",
+			"pubDate":"Mon, 07 Oct 2024 22:36:00 +0900"
+		},
 		{
 			"title":"[르포] 북부소방서 '전기차 화재 진압 전술 시연회' 가보니",
 			"originallink":"http:\/\/www.ujeil.com\/news\/articleView.html?idxno=355349",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20241007173202730",
 			"description":"이번 주요 전기차 모델을 대상으로 50% 가까이 할인을 진행하는 것은 최근 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 화재 사고와 전기차 캐즘에 따른 여파로 차량 판매가 위축됐기 때문이라는... ",
 			"pubDate":"Mon, 07 Oct 2024 18:30:00 +0900"
-		},
-		{
-			"title":"“도로변에 만들어주세요” 김포시, 민간 전기충전소 한곳도 없어",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20241007580261",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000053720?sid=102",
-			"description":"주유소나 가스충전소처럼 전기차도 운행 중 언제든지 충전할 수 있었으면 좋겠습니다.” “인천 <b>청라<\/b>아파트... 양형찬기자 7일 김포시와 김포지역 전기차 운전자 등에 따르면 인천 <b>청라<\/b>아파트의 전기차 화재사고 이후... ",
-			"pubDate":"Mon, 07 Oct 2024 18:27:00 +0900"
 		}
 	]
 }
