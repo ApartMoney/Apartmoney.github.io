@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 07 Oct 2024 17:20:02 +0900",
-	"total":249661,
+	"lastBuildDate":"Mon, 07 Oct 2024 17:30:02 +0900",
+	"total":249662,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"아파트 화재 사망자 매달 3명꼴 … 스프링클러는?",
+			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=219907",
+			"link":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=219907",
+			"description":"최근 인천 <b>청라<\/b> 아파트 화재 등에선 스프링클러가 임의로 조작되거나 비정상적으로 관리된 경우도 있었다. 황운하 의원은 &quot;거주자가 탈출할 시간과 소방력이 도착할 시간이 곧 골든타임. 핵심은 스프링클러 작동 여부... ",
+			"pubDate":"Mon, 07 Oct 2024 17:24:00 +0900"
+		},
 		{
 			"title":"현대무벡스, 자율이동로봇 개발 '박차'…국책과제 주관기관 선정",
 			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=163927",
@@ -103,17 +110,17 @@
 			"pubDate":"Mon, 07 Oct 2024 16:46:00 +0900"
 		},
 		{
-			"title":"인천환경공단, ‘<b>청라<\/b> 생태환경 체험행사’",
-			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001570",
-			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001570",
-			"description":"인천환경공단 <b>청라<\/b>사업소는 오는 9일 <b>청라<\/b>생태공원 내 잔디마당에서 지역주민들과 환경의 소중함과 자원순환의 중요성을 공감하기 위한 '2024 <b>청라<\/b> 생태환경 체험행사'를 개최한다고 밝혔다. 행사는... ",
-			"pubDate":"Mon, 07 Oct 2024 16:42:00 +0900"
-		},
-		{
 			"title":"박용갑 인천 서구의원, ‘싱크홀 지반침하 사고 대응’ 자유발언",
 			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001551",
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001551",
 			"description":"인천시 서구의회 박용갑 의원(국민의힘, <b>청라<\/b>3동·당하동·오류왕길동·마전동)은 7일 열린 제270회 임시회 제1차 본회의서 자유발언을 통해 주민 안전과 직결된 지반침하 및 싱크홀 문제에 대한 예방 조치 필요성을... ",
+			"pubDate":"Mon, 07 Oct 2024 16:42:00 +0900"
+		},
+		{
+			"title":"인천환경공단, ‘<b>청라<\/b> 생태환경 체험행사’",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001570",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241007010001570",
+			"description":"인천환경공단 <b>청라<\/b>사업소는 오는 9일 <b>청라<\/b>생태공원 내 잔디마당에서 지역주민들과 환경의 소중함과 자원순환의 중요성을 공감하기 위한 '2024 <b>청라<\/b> 생태환경 체험행사'를 개최한다고 밝혔다. 행사는... ",
 			"pubDate":"Mon, 07 Oct 2024 16:42:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20241007010003298",
 			"description":"현대무벡스는 2019년 대규모 <b>청라<\/b>R&amp;D센터 구축 이후 단기간 내 다양한 타입의 AGV 개발에 성공, 주력사업인 스마트 물류 대형수주 성과에 톡톡한 효자 노릇을 하고 있다. 최근에는 전 방향 운행이 가능한 AGV까지... ",
 			"pubDate":"Mon, 07 Oct 2024 15:56:00 +0900"
-		},
-		{
-			"title":"3년 만에 최고치 기록한 주택가격전망지수…인천 내 집 마련 움직임 빨...",
-			"originallink":"https:\/\/magazine.hankyung.com\/business\/article\/202410079597b",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/050\/0000080587?sid=101",
-			"description":"이 가운데, 인천 내에서도 대규모 개발호재가 풍부해 수요자들의 관심이 높아지고 있는 <b>청라<\/b>국제도시에서 신규 공급이 있어 내 집 마련에 나선 수요자라면 주목할 만하다. 대우건설이 인천 서구 <b>청라<\/b>국제도시 C18BL에... ",
-			"pubDate":"Mon, 07 Oct 2024 15:52:00 +0900"
 		}
 	]
 }
