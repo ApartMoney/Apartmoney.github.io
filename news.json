@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 07 Oct 2024 22:40:02 +0900",
-	"total":249703,
+	"lastBuildDate":"Mon, 07 Oct 2024 22:50:02 +0900",
+	"total":249704,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구의회, 제270회 임시회 개회… 행정사무감사 계획서 승인",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3186214",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3186214",
+			"description":"본회의에서는 ▲박용갑 의원의 '싱크홀 발생과 대처'에 대한 제언 ▲김원진 의원의 '인천 <b>청라<\/b>나들목(IC) 일대 교통 혼잡 문제' ▲김춘수 의원의 '사계절 썰매장 대체시설 도입' ▲김미연 의원의 'KBS 열린음악회 주최인... ",
+			"pubDate":"Mon, 07 Oct 2024 22:42:00 +0900"
+		},
 		{
 			"title":"국감 출석 벤츠 대표 &quot;화재 원인 밝혀져야 보상 가능&quot;",
 			"originallink":"https:\/\/it.chosun.com\/news\/articleView.html?idxno=2023092124680",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2070753",
 			"description":"포쓰저널 서영길 기자 2024년 8월 1일 인천 <b>청라<\/b> 아파트에서 화재가 발생한 벤츠 전기차 EQE 350+ 모델이... 벤츠 전기차 소유자들은 벤츠 측이 <b>청라<\/b> 사고 차량 등에 중국 파라시스 배터리를 탑재해놓고 소비자들에게는 CATL... ",
 			"pubDate":"Mon, 07 Oct 2024 18:32:00 +0900"
-		},
-		{
-			"title":"벤츠 전기차 판매 47.6% 감소…직원에 '반값 세일'",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20241007173202730",
-			"link":"https:\/\/www.ajunews.com\/view\/20241007173202730",
-			"description":"이번 주요 전기차 모델을 대상으로 50% 가까이 할인을 진행하는 것은 최근 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 화재 사고와 전기차 캐즘에 따른 여파로 차량 판매가 위축됐기 때문이라는... ",
-			"pubDate":"Mon, 07 Oct 2024 18:30:00 +0900"
 		}
 	]
 }
