@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 10 Oct 2024 07:10:02 +0900",
-	"total":249855,
+	"lastBuildDate":"Thu, 10 Oct 2024 07:20:03 +0900",
+	"total":249856,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"또 전기차… 아파트 지하 주차장서 화재, 이대로 괜찮나",
+			"originallink":"http:\/\/weekly.chosun.com\/news\/articleView.html?idxno=37516",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/053\/0000046185?sid=102",
+			"description":"앞서 지난 8월에도 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 전기차 화재가 발생해 주민 800여 명이 대피하는 사태가 있었으며, 당시 스프링클러가 작동하지 않아 피해가 더 컸던 바 있다.",
+			"pubDate":"Thu, 10 Oct 2024 07:17:00 +0900"
+		},
 		{
 			"title":"'월 100만원' 실버타운이 있다?…&quot;고물가 시대에 이런 곳이&quot; [집코노미-...",
 			"originallink":"https:\/\/www.hankyung.com\/article\/202410066931i",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002097170?sid=102",
 			"description":"특히 지난 8월 인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재로 차량 870대가 타거나 그을리고 480세대 전기 공급까지 끊겼습니다. 이후 소방 당국이 대응 방식을 바꾸면서, 이번엔 신속한 진화가 가능했습니다. 진화 장비도... ",
 			"pubDate":"Wed, 09 Oct 2024 13:47:00 +0900"
-		},
-		{
-			"title":"'<b>청라<\/b> 시티타워' 항공로 논란…LH &quot;원안대로&quot; Vs 항공청 &quot;용역 검토&quot;",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01794166639051280",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005854093?sid=102",
-			"description":"한국토지주택공사(LH)가 인천 <b>청라<\/b>국제도시의 랜드마크로 조성하려는 448m짜리 시티타워가 김포공항... 9일 LH와 서울지방항공청 등에 따르면 LH가 시행하는 <b>청라<\/b> 시티타워 건설 사업은 타워 높이 448m에 크레인(건설장비)... ",
-			"pubDate":"Wed, 09 Oct 2024 13:33:00 +0900"
 		}
 	]
 }
