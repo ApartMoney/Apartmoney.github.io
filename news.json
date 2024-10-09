@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 09 Oct 2024 21:30:02 +0900",
-	"total":249847,
+	"lastBuildDate":"Wed, 09 Oct 2024 21:40:02 +0900",
+	"total":249848,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"충전하던 전기차에 또…스프링클러 작동해 2400여대 '무사'",
+			"originallink":"https:\/\/news.tvchosun.com\/site\/data\/html_dir\/2024\/10\/09\/2024100990181.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000481948?sid=004",
+			"description":"차량 수십 대 전소로 이어진 인천 <b>청라<\/b>아파트 화재와 뭐가 달랐던 걸까요. 박건우 기자가 취재했습니다.... 자칫 800여 대가 불에 타거나 그을렸던 <b>청라<\/b> 지하주차장 전기차 화재와 같이 큰 피해로 이어질 뻔했지만... ",
+			"pubDate":"Wed, 09 Oct 2024 21:30:00 +0900"
+		},
 		{
 			"title":"창·제작 오페라 '264, 그 한 개의 별' 첫 무대",
 			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=477510",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001730013?sid=102",
 			"description":"앞서 지난 8월 1일 인천 <b>청라<\/b>의 한 아파트에서도 지하주차장에 주차됐던 벤츠 전기차에서 불이 나 주민 800여명이 임시거주시설에 머무는 등 큰 불편을 겪은 바 있다. 이 아파트에선 화재 당시 스프링클러가 작동하지 않아... ",
 			"pubDate":"Wed, 09 Oct 2024 10:15:00 +0900"
-		},
-		{
-			"title":"&quot;LH 임대아파트 전기차 화재 소화 장비 갖춰야&quot;",
-			"originallink":"http:\/\/www.aptn.co.kr\/news\/articleView.html?idxno=107448",
-			"link":"http:\/\/www.aptn.co.kr\/news\/articleView.html?idxno=107448",
-			"description":"지난 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재로 주변 차량 수십대가 삽시간에 전소되고 연기가 각 동 비상계단을 타고 확산돼 피해를 키운 사례도 있어 전기차 화재에 대한 입주민들의 불안감이 커져... ",
-			"pubDate":"Wed, 09 Oct 2024 10:02:00 +0900"
 		}
 	]
 }
