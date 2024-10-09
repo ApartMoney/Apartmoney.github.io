@@ -1,13 +1,20 @@
 {
-	"lastBuildDate":"Wed, 09 Oct 2024 21:40:02 +0900",
-	"total":249848,
+	"lastBuildDate":"Wed, 09 Oct 2024 21:50:02 +0900",
+	"total":249849,
 	"start":1,
 	"display":30,
 	"items":[
 		{
+			"title":"[미리보는 이데일리 신문]韓, 4수 끝 WGBI 편입… 해외서 80조 들어온다",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02181206639051280",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005854243?sid=101",
+			"description":"막는 ‘<b>청라<\/b> 시티타워’… LH “원안대로” vs 항공청 “용역 검토” -서울 임산부, 市체육시설 이용료 감면 △사회 -“시골선 주민 팔다리 역할하는데”… ‘경찰 인력 재배치’ 놓고 현장 반발 -중고교생 희망직업 1위... ",
+			"pubDate":"Wed, 09 Oct 2024 21:40:00 +0900"
+		},
+		{
 			"title":"충전하던 전기차에 또…스프링클러 작동해 2400여대 '무사'",
 			"originallink":"https:\/\/news.tvchosun.com\/site\/data\/html_dir\/2024\/10\/09\/2024100990181.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000481948?sid=004",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000481948?sid=102",
 			"description":"차량 수십 대 전소로 이어진 인천 <b>청라<\/b>아파트 화재와 뭐가 달랐던 걸까요. 박건우 기자가 취재했습니다.... 자칫 800여 대가 불에 타거나 그을렸던 <b>청라<\/b> 지하주차장 전기차 화재와 같이 큰 피해로 이어질 뻔했지만... ",
 			"pubDate":"Wed, 09 Oct 2024 21:30:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003325210?sid=102",
 			"description":"<b>청라<\/b> 아파트 화재가 발생했던 인천은 2021년 전체 화재안전조사 대상 5만8721건 중 1.2%인 704건만 점검했다. 2023년에도 5만9762건 중 1685건(2.8%)을 점검하는 데 그쳤다. 화성·부천 등 경기남부는 전체 대상이... ",
 			"pubDate":"Wed, 09 Oct 2024 10:46:00 +0900"
-		},
-		{
-			"title":"또 아파트 지하주차장 전기차 불…“2420대 있었다” 아찔",
-			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0020603405&code=61121211&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001730013?sid=102",
-			"description":"앞서 지난 8월 1일 인천 <b>청라<\/b>의 한 아파트에서도 지하주차장에 주차됐던 벤츠 전기차에서 불이 나 주민 800여명이 임시거주시설에 머무는 등 큰 불편을 겪은 바 있다. 이 아파트에선 화재 당시 스프링클러가 작동하지 않아... ",
-			"pubDate":"Wed, 09 Oct 2024 10:15:00 +0900"
 		}
 	]
 }
