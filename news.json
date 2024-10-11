@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 11 Oct 2024 15:00:02 +0900",
-	"total":250081,
+	"lastBuildDate":"Fri, 11 Oct 2024 15:10:02 +0900",
+	"total":250082,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천교통공사, '제3회 한국 ESG 혁신정책 대상' 우수상 수상",
+			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=157395",
+			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=157395",
+			"description":"최초 <b>청라<\/b>∼강서 BRT 완전 좌석제 정착(행정안전부 2023 적극행정 우수상) ▲관제 열차운행제어 시뮬레이터 실습장 구축(한국철도학회 2023 철도기술상) ▲증강현실 교육훈련 및 비상 대응 토탈 솔루션(국토교통부 2023... ",
+			"pubDate":"Fri, 11 Oct 2024 15:04:00 +0900"
+		},
 		{
 			"title":"3기 신도시 첫 공급, 인천계양 A2블록 주택홍보관…사전관람 기간 동안...",
 			"originallink":"https:\/\/news.heraldcorp.com\/view.php?ud=20241011050488",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065593775214744",
 			"description":"이런 가운데 ‘<b>청라<\/b> 월드메르디앙 레이크원’은 인천광역시 서구 <b>청라<\/b>동에 위치한 주거용 오피스텔이 관심을 모으고 있다. 이 오피스텔은 지하 4층~지상 19층, 전용면적 74㎡~79㎡, 총 162실로 구성되어 있다. 전 호실이... ",
 			"pubDate":"Fri, 11 Oct 2024 09:06:00 +0900"
-		},
-		{
-			"title":"GTX-D∙E 추진 '계양 롯데캐슬 파크시티' 대단지 아파트. 막바지 잔여세...",
-			"originallink":"https:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=1010497",
-			"link":"https:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=1010497",
-			"description":"<b>청라<\/b>연장선의 전철역이 반경 600m 내에 위치하며 인천1호선 작전역, 서울지하철 2호선 효성역 연장(예정) 및 GTX D∙E노선과의 연계계획이 추진 중이다. 봉오대로가 단지 앞을 지나고 있어 경인고속도로 서인천IC가 인접해... ",
-			"pubDate":"Fri, 11 Oct 2024 09:00:00 +0900"
 		}
 	]
 }
