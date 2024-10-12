@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 12 Oct 2024 21:20:02 +0900",
-	"total":250115,
+	"lastBuildDate":"Sat, 12 Oct 2024 21:30:02 +0900",
+	"total":250116,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천소방본부, 지하주차장 전기차 화재안전 TF 결과 발표",
+			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=480336",
+			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=480336",
+			"description":"인천소방본부는 지난 8월 <b>청라<\/b>아파트 지하주차장 전기차 화재와 관련해 8월 12일부터 2개월간 ‘화재안전대책 수립을 위한 테스크포스(TF)’를 운영하고 그 결과를 11일 발표했다. 인천소방본부는 <b>청라<\/b> 아파트 전기차... ",
+			"pubDate":"Sat, 12 Oct 2024 21:20:00 +0900"
+		},
 		{
 			"title":"강원권 대학 3곳 찾은 김완섭 환경장관 &quot;녹색산업 인재양성 지원&quot;",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20241011_0002916936",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363674682",
 			"description":"연희동 주민들의 경우 수영장 등 체육시설을 이용하기 위해 인근 검암경서동으로 가거나 <b>청라<\/b>·가정동으로 이동해야 하는 실정이기 때문이다. 박종필 서구 재향군인회장은 &quot;지역의 생활체육을 20년간 경험하면서... ",
 			"pubDate":"Fri, 11 Oct 2024 15:50:00 +0900"
-		},
-		{
-			"title":"인천교통공사, 제3회 한국 ESG 혁신정책 대상 '우수상'...2호선 무인열차...",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=421264",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=421264",
-			"description":"최초 <b>청라<\/b>∼강서 BRT 완전 좌석제 정착(행정안전부 2023 적극행정 우수상) ▲관제 열차운행제어 시뮬레이터 실습장 구축(한국철도학회 2023 철도기술상) ▲증강현실 교육훈련 및 비상 대응 토탈 솔루션(국토교통부 2023... ",
-			"pubDate":"Fri, 11 Oct 2024 15:44:00 +0900"
 		}
 	]
 }
