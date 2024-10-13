@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 13 Oct 2024 20:40:03 +0900",
-	"total":250133,
+	"lastBuildDate":"Sun, 13 Oct 2024 20:50:02 +0900",
+	"total":250134,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천교통공사, '제3회 한국 ESG 혁신정책 대상' 우수상 수상",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=614025",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=614025",
+			"description":"최초 <b>청라<\/b>∼강서 BRT 완전 좌석제 정착(행정안전부 2023 적극행정 우수상) △관제 열차운행제어 시뮬레이터 실습장 구축(한국철도학회 2023 철도기술상) △ 증강현실 교육훈련 및 비상 대응 토탈 솔루션(국토교통부 2023... ",
+			"pubDate":"Sun, 13 Oct 2024 20:42:00 +0900"
+		},
 		{
 			"title":"[로컬 탐방] 마천루의 흑역사",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3188174",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=34343",
 			"description":"인천<b>청라<\/b>점, 인천청학점, SF수원점, 광명역점, 광주초월점, 광주태전점, 군포당동TR점, 군포산본역점... 인천<b>청라<\/b>, 인천연수, 인천송도, 부천여월, 부천상동, 부천소사, 분당오리, 야탑, 시화, 송탄, 평택안중, 화성향남... ",
 			"pubDate":"Sat, 12 Oct 2024 00:16:00 +0900"
-		},
-		{
-			"title":"인천소방본부, 지하 전기차 화재 대비 저상소방차, 궤도형 배연로봇 등...",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=104614",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=104614",
-			"description":"본부는 지난 8월 <b>청라<\/b>아파트 지하주차장 전기차 화재와 관련하여 이달 12일부터 2개월간 '화재안전대책 수립을 위한 테스크포스(TF)'를 운영하고 그 결과를 이날 발표했다. 이날 발표에서 본부는 <b>청라<\/b> 아파트 전기차 화재... ",
-			"pubDate":"Fri, 11 Oct 2024 19:02:00 +0900"
 		}
 	]
 }
