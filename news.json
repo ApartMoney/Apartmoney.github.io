@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 13 Oct 2024 17:40:02 +0900",
-	"total":250127,
+	"lastBuildDate":"Sun, 13 Oct 2024 17:50:02 +0900",
+	"total":250128,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[ESG 가치실천] 인천교통공사, 제3회 한국 ESG 혁신정책 대상 '우수상'",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1082009",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1082009",
+			"description":"최초 <b>청라<\/b>∼강서 BRT 완전 좌석제 정착(행정안전부 2023 적극행정 '우수상') ▲관제 열차운행제어 시뮬레이터 실습장 구축(한국철도학회 2023 '철도기술상') ▲증강현실 교육 훈련 및 비상 대응 토탈 솔루션(국토교통부... ",
+			"pubDate":"Sun, 13 Oct 2024 17:40:00 +0900"
+		},
 		{
 			"title":"전기차값 할인땐 보조금 더…캐즘 넘고 내수도 살린다",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DFJYFJHO8",
@@ -194,13 +201,6 @@
 			"pubDate":"Fri, 11 Oct 2024 17:12:00 +0900"
 		},
 		{
-			"title":"전기차 화재에 일찍 찾아온 전기차 '한파' 길어진다",
-			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1242172&inflow=N",
-			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1242172&inflow=N",
-			"description":"뉴스토마토 = 표진수 기자 | 최근 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 메르세데스-벤츠 전기차 화재... 벤츠 화재 이후 전기차 판매 감소…무공해차 보급 목표 '난망' 인천 <b>청라<\/b> 한 아파트에서 벤츠 전기차 화재가... ",
-			"pubDate":"Fri, 11 Oct 2024 17:02:00 +0900"
-		},
-		{
 			"title":"인천소방본부, 지하주차장 전기차 화재 대책 발표…장비도입 및 진압전...",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202410111645510193",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005252217?sid=102",
@@ -208,11 +208,11 @@
 			"pubDate":"Fri, 11 Oct 2024 17:02:00 +0900"
 		},
 		{
-			"title":"'인천 전기차 화재' 벤츠 EQE 차주 집단 소송...&quot;사기 계약&quot;",
-			"originallink":"https:\/\/science.ytn.co.kr\/program\/view.php?mcd=0082&hcd=&key=202410111606347303",
-			"link":"https:\/\/science.ytn.co.kr\/program\/view.php?mcd=0082&hcd=&key=202410111606347303",
-			"description":"지난 8월 인천 <b>청라<\/b>동 아파트 지하주차장에서 발생한 전기차 화재와 관련해, 폭발 차량 기종 소유자들이... 지난 8월 1일, 인천 <b>청라<\/b>동의 한 아파트에 주차돼 있던 전기차에서 불이 나 20여 명이 연기를 마셔 병원 치료를... ",
-			"pubDate":"Fri, 11 Oct 2024 17:00:00 +0900"
+			"title":"전기차 화재에 일찍 찾아온 전기차 '한파' 길어진다",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1242172&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1242172&inflow=N",
+			"description":"뉴스토마토 = 표진수 기자 | 최근 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 메르세데스-벤츠 전기차 화재... 벤츠 화재 이후 전기차 판매 감소…무공해차 보급 목표 '난망' 인천 <b>청라<\/b> 한 아파트에서 벤츠 전기차 화재가... ",
+			"pubDate":"Fri, 11 Oct 2024 17:02:00 +0900"
 		}
 	]
 }
