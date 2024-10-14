@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Mon, 14 Oct 2024 15:40:02 +0900",
-	"total":250274,
+	"lastBuildDate":"Mon, 14 Oct 2024 15:50:02 +0900",
+	"total":250278,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;사업자 공모&quot;...인천 영종도 국제학교 유치 '본격화'",
+			"originallink":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=167476",
+			"link":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=167476",
+			"description":"현재 인천경제자유구역 중 송도에는 채드윅과 캘빈매니토바 등 국제학교 2곳이 있으며 <b>청라<\/b>에는 달튼 외국인학교가 있다. 인천경제청 관계자는 &quot;미단시티에 들어설 국제학교가 영종의 발전을 견인하길 바란다&quot;며... ",
+			"pubDate":"Mon, 14 Oct 2024 15:48:00 +0900"
+		},
+		{
+			"title":"대구시, 역대급 폭염 대응 추진 빛났다…온열질환자 67명, 7개 특·광역...",
+			"originallink":"http:\/\/www.inews24.com\/view\/1771517",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000876087?sid=102",
+			"description":"또 구·군과 함께 폭염경보 발효기간 동안(총 17회) 유동인구가 많은 경상감영공원, <b>청라<\/b>언덕역, 동대구역 광장 등 다중이용 장소 13개소에 자원봉사센터 소속 219개 봉사단체가 중심이 돼 시원한 <b>청라<\/b>수(병입 수돗물)... ",
+			"pubDate":"Mon, 14 Oct 2024 15:46:00 +0900"
+		},
+		{
+			"title":"하나은행, 자연사랑 어린이 미술대회 개최",
+			"originallink":"https:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=106937",
+			"link":"https:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=106937",
+			"description":"오늘의 경험이 서로의 꿈과 재능을 나누는 소중한 기쁨으로 기억되기를 바랍니다&quot;(김한욱 하나은행 HR지원그룹 부행장) 하나은행은 지난 12일 인천 <b>청라<\/b> '하나글로벌캠퍼스'에서 '제 32회 자연사랑 어린이 미술대회' 본선... ",
+			"pubDate":"Mon, 14 Oct 2024 15:40:00 +0900"
+		},
+		{
+			"title":"대구 서구, 청소년 희망페스티벌 '빛나는 너의 내일 응원해' 성료",
+			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=464854",
+			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=464854",
+			"description":"대상은 비봉초등학교 '날뫼북춤'팀이, 최우수상은 중리중학교 'Flewer'팀이, 우수상은 서구청소년수련관 '청음'팀, 사우스타운의 '바스테카'팀이 수상했으며 인기상은 사랑속의아이들 지역아동센터의 '블랙체리'팀, <b>청라<\/b>중... ",
+			"pubDate":"Mon, 14 Oct 2024 15:40:00 +0900"
+		},
 		{
 			"title":"'광대, 달문을 찾아서' 인천서 앙코르 공연",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1458768",
@@ -26,6 +54,13 @@
 			"pubDate":"Mon, 14 Oct 2024 15:30:00 +0900"
 		},
 		{
+			"title":"대구시, 7대 특·광역시 중 온열질환자 가장 적어",
+			"originallink":"https:\/\/www.idaegu.com\/news\/articleView.html?idxno=617280",
+			"link":"https:\/\/www.idaegu.com\/news\/articleView.html?idxno=617280",
+			"description":"또 구·군과 함께 폭염경보 발효기간 동안(총 17회) 유동인구가 많은 경상감영공원, <b>청라<\/b>언덕역, 동대구역 광장 등 다중이용 장소 13개소에 자원봉사센터 소속 219개 봉사단체가 중심이 돼 시원한 <b>청라<\/b>수(병입 수돗물)를... ",
+			"pubDate":"Mon, 14 Oct 2024 15:26:00 +0900"
+		},
+		{
 			"title":"인천 영종도 국제학교 유치 공모 시작...2028~2029년 개교 목표",
 			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=157462",
 			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=157462",
@@ -40,13 +75,6 @@
 			"pubDate":"Mon, 14 Oct 2024 15:26:00 +0900"
 		},
 		{
-			"title":"대구시, 7대 특·광역시 중 온열질환자 가장 적어",
-			"originallink":"https:\/\/www.idaegu.com\/news\/articleView.html?idxno=617280",
-			"link":"https:\/\/www.idaegu.com\/news\/articleView.html?idxno=617280",
-			"description":"또 구·군과 함께 폭염경보 발효기간 동안(총 17회) 유동인구가 많은 경상감영공원, <b>청라<\/b>언덕역, 동대구역 광장 등 다중이용 장소 13개소에 자원봉사센터 소속 219개 봉사단체가 중심이 돼 시원한 <b>청라<\/b>수(병입 수돗물)를... ",
-			"pubDate":"Mon, 14 Oct 2024 15:26:00 +0900"
-		},
-		{
 			"title":"'7호선 연장 수혜' BS산업, 인천 '<b>청라<\/b> 파이낸스센터' 임차 기업 모집",
 			"originallink":"https:\/\/www.nbnews.kr\/news\/articleView.html?idxno=98910",
 			"link":"https:\/\/www.nbnews.kr\/news\/articleView.html?idxno=98910",
@@ -54,17 +82,17 @@
 			"pubDate":"Mon, 14 Oct 2024 15:24:00 +0900"
 		},
 		{
-			"title":"인천경제청, 미단시티 외국학교법인 선정 공모 개시",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410140900360530830",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410140900360530830",
-			"description":"현재 인천경제자유구역에는 송도에 채드윅 국제학교 및 칼빈 매니토바 국제학교, 그리고 <b>청라<\/b>에 달튼 외국인학교가 있으며, 영종 국제학교까지 설립되면 총 4개의 외국명문학교(K-12)가 인천경제자유구역에 위치하게... ",
-			"pubDate":"Mon, 14 Oct 2024 15:22:00 +0900"
-		},
-		{
 			"title":"'대프리카'의 반전…올여름 대구 온열질환자 전국 최저 수준",
 			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20241014010001644",
 			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20241014010001644",
 			"description":"아울러 구·군과 함께 폭염경보 발효 기간(총 17회) 유동인구가 많은 경상감영공원, <b>청라<\/b>언덕역, 동대구역 광장 등 다중이용 장소 13개소에 자원봉사센터 소속 219개 봉사단체를 중심으로 <b>청라<\/b>수(병입 수돗물)를... ",
+			"pubDate":"Mon, 14 Oct 2024 15:22:00 +0900"
+		},
+		{
+			"title":"인천경제청, 미단시티 외국학교법인 선정 공모 개시",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410140900360530830",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410140900360530830",
+			"description":"현재 인천경제자유구역에는 송도에 채드윅 국제학교 및 칼빈 매니토바 국제학교, 그리고 <b>청라<\/b>에 달튼 외국인학교가 있으며, 영종 국제학교까지 설립되면 총 4개의 외국명문학교(K-12)가 인천경제자유구역에 위치하게... ",
 			"pubDate":"Mon, 14 Oct 2024 15:22:00 +0900"
 		},
 		{
@@ -103,13 +131,6 @@
 			"pubDate":"Mon, 14 Oct 2024 15:02:00 +0900"
 		},
 		{
-			"title":"인천 영종국제도시에 국제학교 선정 공모 실시",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202410141338070513",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005252963?sid=102",
-			"description":"현재 인천경제자유구역에는 송도국제도시에 채드윅 국제학교 및 칼빈 매니토바 국제학교, <b>청라<\/b>국제도시에... #<b>청라<\/b>국제도시 #국제학교 #송도국제도시 #인천경제청 #영종국제도시 #미단시티 #인천도시공사(iH) #외국인학교... ",
-			"pubDate":"Mon, 14 Oct 2024 15:01:00 +0900"
-		},
-		{
 			"title":"인천 영종도에 국제학교 설립…“2028년 개교 목표”",
 			"originallink":"https:\/\/www.khan.co.kr\/economy\/real_estate\/article\/202410141500001",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003326130?sid=101",
@@ -124,24 +145,17 @@
 			"pubDate":"Mon, 14 Oct 2024 15:01:00 +0900"
 		},
 		{
-			"title":"인천경제청, 미단시티 외국학교법인 선정 공모 개시…국제학교 설립 '본...",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20241014010006884",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20241014010006884",
-			"description":"인천경제자유구역에는 현재 송도에 채드윅 국제학교 및 칼빈 매니토바 국제학교, <b>청라<\/b>에 달튼 외국인학교가 있다.영종 국제학교까지 설립되면 총 4개의 외국명문학교(K-12)가 인천경제자유구역에 위치하게 돼 명실상부한... ",
-			"pubDate":"Mon, 14 Oct 2024 15:00:00 +0900"
+			"title":"인천 영종국제도시에 국제학교 선정 공모 실시",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202410141338070513",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005252963?sid=102",
+			"description":"현재 인천경제자유구역에는 송도국제도시에 채드윅 국제학교 및 칼빈 매니토바 국제학교, <b>청라<\/b>국제도시에... #<b>청라<\/b>국제도시 #국제학교 #송도국제도시 #인천경제청 #영종국제도시 #미단시티 #인천도시공사(iH) #외국인학교... ",
+			"pubDate":"Mon, 14 Oct 2024 15:01:00 +0900"
 		},
 		{
-			"title":"인천경제청, 골든테라시티 외국학교법인 설립 본격화 …국제공모 착수",
-			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/5567075",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007842542?sid=102",
-			"description":"현재 인천경제자유구역에는 송도에 채드윅 국제학교 및 칼빈 매니토바 국제학교, 그리고 <b>청라<\/b>에 달튼 외국인학교가 있다. 영종 국제학교까지 개교하면 총 4개의 외국 명문 학교(K-12)가 인천경제자유구역에 위치하게 돼... ",
-			"pubDate":"Mon, 14 Oct 2024 15:00:00 +0900"
-		},
-		{
-			"title":"인천경제청, 미단시티 외국학교법인 선정 공모 개시",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1167557",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1167557",
-			"description":"현재 인천경제자유구역에는 송도에 채드윅 국제학교 및 칼빈 매니토바 국제학교, 그리고 <b>청라<\/b>에 달튼 외국인학교가 있으며, 영종 국제학교까지 설립되면 총 4개의 외국명문학교(K-12)가 인천경제자유구역에 위치하게 되어... ",
+			"title":"인천 영종도 국제학교 유치 본격화…사업자 공모",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20241014092400065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014981836?sid=102",
+			"description":"현재 인천경제자유구역 중 송도에는 채드윅과 캘빈매니토바 등 국제학교 2곳이 있으며 <b>청라<\/b>에는 달튼 외국인학교가 있다. 인천경제청 관계자는 &quot;미단시티에 들어설 국제학교가 영종의 발전을 견인하길 바란다&quot;며... ",
 			"pubDate":"Mon, 14 Oct 2024 15:00:00 +0900"
 		},
 		{
@@ -152,10 +166,24 @@
 			"pubDate":"Mon, 14 Oct 2024 15:00:00 +0900"
 		},
 		{
-			"title":"인천 영종도 국제학교 유치 본격화…사업자 공모",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20241014092400065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0014981836?sid=102",
-			"description":"현재 인천경제자유구역 중 송도에는 채드윅과 캘빈매니토바 등 국제학교 2곳이 있으며 <b>청라<\/b>에는 달튼 외국인학교가 있다. 인천경제청 관계자는 &quot;미단시티에 들어설 국제학교가 영종의 발전을 견인하길 바란다&quot;며... ",
+			"title":"인천경제청, 미단시티 외국학교법인 선정 공모 개시",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1167557",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1167557",
+			"description":"현재 인천경제자유구역에는 송도에 채드윅 국제학교 및 칼빈 매니토바 국제학교, 그리고 <b>청라<\/b>에 달튼 외국인학교가 있으며, 영종 국제학교까지 설립되면 총 4개의 외국명문학교(K-12)가 인천경제자유구역에 위치하게 되어... ",
+			"pubDate":"Mon, 14 Oct 2024 15:00:00 +0900"
+		},
+		{
+			"title":"인천경제청, 골든테라시티 외국학교법인 설립 본격화 …국제공모 착수",
+			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/5567075",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007842542?sid=102",
+			"description":"현재 인천경제자유구역에는 송도에 채드윅 국제학교 및 칼빈 매니토바 국제학교, 그리고 <b>청라<\/b>에 달튼 외국인학교가 있다. 영종 국제학교까지 개교하면 총 4개의 외국 명문 학교(K-12)가 인천경제자유구역에 위치하게 돼... ",
+			"pubDate":"Mon, 14 Oct 2024 15:00:00 +0900"
+		},
+		{
+			"title":"인천경제청, 미단시티 외국학교법인 선정 공모 개시…국제학교 설립 '본...",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20241014010006884",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20241014010006884",
+			"description":"인천경제자유구역에는 현재 송도에 채드윅 국제학교 및 칼빈 매니토바 국제학교, <b>청라<\/b>에 달튼 외국인학교가 있다.영종 국제학교까지 설립되면 총 4개의 외국명문학교(K-12)가 인천경제자유구역에 위치하게 돼 명실상부한... ",
 			"pubDate":"Mon, 14 Oct 2024 15:00:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"http:\/\/www.womentimes.co.kr\/news\/articleView.html?idxno=80231",
 			"description":"우먼타임스 = 임현빈 기자 하나은행(은행장 이승열)은 지난 12일 인천 <b>청라<\/b>에 위치한 '하나글로벌캠퍼스'에서 「제 32회 자연사랑 어린이 미술대회」 본선 및 시상식을 개최했다고 밝혔다. 하나은행이 1993년부터 매년... ",
 			"pubDate":"Mon, 14 Oct 2024 14:38:00 +0900"
-		},
-		{
-			"title":"하나은행, 32회 지연사랑 어린이 미술대회 시상식",
-			"originallink":"https:\/\/www.goodkyung.com\/news\/articleView.html?idxno=248528",
-			"link":"https:\/\/www.goodkyung.com\/news\/articleView.html?idxno=248528",
-			"description":"하나은행은 지난 12일 인천 <b>청라<\/b>에 위치한 '하나글로벌캠퍼스'에서 '제 32회 자연사랑 어린이 미술대회' 본선 및 시상식을 개최했다고 14일 밝혔다. 하나은행이 1993년부터 매년 개최해 올해 32주년을 맞이한 '자연사랑... ",
-			"pubDate":"Mon, 14 Oct 2024 14:36:00 +0900"
-		},
-		{
-			"title":"대구광역시, 역대급 폭염 대응 추진… 온열질환자 67명, 7개 특·광역시...",
-			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=464733",
-			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=464733",
-			"description":"또한, 구·군과 함께 폭염경보 발효기간 동안(총 17회) 유동인구가 많은 경상감영공원, <b>청라<\/b>언덕역, 동대구역 광장 등 다중이용 장소 13개소에 자원봉사센터 소속 219개 봉사단체가 중심이 돼 시원한 <b>청라<\/b>수(병입... ",
-			"pubDate":"Mon, 14 Oct 2024 14:26:00 +0900"
-		},
-		{
-			"title":"하나은행, 제 32회 자연사랑 어린이 미술대회 본선 및 시상식 개최",
-			"originallink":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=536965",
-			"link":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=536965",
-			"description":"하나은행은 지난 12일 인천 <b>청라<\/b>에 위치한 '하나글로벌캠퍼스'에서 제 32회 자연사랑 어린이 미술대회 본선... [사진: 하나은행] 하나은행은 지난 12일 인천 <b>청라<\/b>에 위치한 '하나글로벌캠퍼스'에서 제 32회 자연사랑 어린이... ",
-			"pubDate":"Mon, 14 Oct 2024 14:10:00 +0900"
-		},
-		{
-			"title":"하나은행, 제 32회 자연사랑 어린이 미술대회 본선·시상식 개최",
-			"originallink":"https:\/\/www.ngetnews.com\/news\/articleView.html?idxno=513001",
-			"link":"https:\/\/www.ngetnews.com\/news\/articleView.html?idxno=513001",
-			"description":"뉴스저널리즘 김혜민 기자 = 하나은행은 지난 12일 인천 <b>청라<\/b>에 위치한 '하나글로벌캠퍼스'에서 '제 32회 자연사랑 어린이 미술대회' 본선 및 시상식을 개최했다고 14일 밝혔다. 하나은행이 1993년부터 매년 개최해 올해... ",
-			"pubDate":"Mon, 14 Oct 2024 14:00:00 +0900"
 		}
 	]
 }
