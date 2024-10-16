@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 17 Oct 2024 07:10:02 +0900",
-	"total":250526,
+	"lastBuildDate":"Thu, 17 Oct 2024 07:20:02 +0900",
+	"total":250527,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[기고] 전기자동차, 필연적 미래와 우리의 기술 선점 과제",
+			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20241009010001090",
+			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20241009010001090",
+			"description":"예를 들어 인천 <b>청라<\/b>동의 한 아파트에서 발생한 전기차 화재 사고는 전기차 배터리의 안전성 문제를 다시 떠올리게 했다. 이 사고는 막대한 재산 피해를 초래했으며, 전기차의 화재 위험성과 충돌 시 안전성 문제는 여전히... ",
+			"pubDate":"Thu, 17 Oct 2024 07:14:00 +0900"
+		},
 		{
 			"title":"[기자수첩] 전기차 인프라, 충전소 결제 절차 간소화해야",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3189582",
@@ -110,13 +117,6 @@
 			"pubDate":"Wed, 16 Oct 2024 18:16:00 +0900"
 		},
 		{
-			"title":"서지영 인천 서구의원, 공동주택관리 지원 조례 개정안 발의",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160293168251779",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160293168251779",
-			"description":"서 위원장은 ‘지난 8월 발생했던 <b>청라<\/b> 지하 주차장 전기차 화재 사건으로 구민 여러분들이 화재 사건에 대해 큰 경각심을 가지고 계신다’라며 ‘노후 공동주택의 경우 소방시설 또한 노후하여 초기 대응 및 진압이... ",
-			"pubDate":"Wed, 16 Oct 2024 18:08:00 +0900"
-		},
-		{
 			"title":"인천 서구의회 장문정 의원, 영구임대아파트 공동전기료 감면 조례 발의",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160292062422702",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160292062422702",
@@ -128,6 +128,13 @@
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288222241830",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288222241830",
 			"description":"<b>청라<\/b> 주민들을 위한 집행부의 관심과 노력 촉구 수도권광역급행철도와 서울도시철도2호선 <b>청라<\/b> 연장 사업에 심혈을 기울여주길 ▲ 인천 서구의회 김원진 의원 (사진제공=인천서구의회) [인천=김형만 기자] 인천... ",
+			"pubDate":"Wed, 16 Oct 2024 18:08:00 +0900"
+		},
+		{
+			"title":"서지영 인천 서구의원, 공동주택관리 지원 조례 개정안 발의",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160293168251779",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160293168251779",
+			"description":"서 위원장은 ‘지난 8월 발생했던 <b>청라<\/b> 지하 주차장 전기차 화재 사건으로 구민 여러분들이 화재 사건에 대해 큰 경각심을 가지고 계신다’라며 ‘노후 공동주택의 경우 소방시설 또한 노후하여 초기 대응 및 진압이... ",
 			"pubDate":"Wed, 16 Oct 2024 18:08:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241016010004086",
 			"description":"본회의 안건 처리에 앞서 ▲김미연 의원의 루원시티 교통 체증 문제에 대한 지적과 대책 마련 요구 ▲김학엽 의원의 경인 아라뱃길 안전관리 대책 촉구 ▲장문정 의원의 <b>청라<\/b> 커낼웨이 수변공원 수질 개선을 촉구하는... ",
 			"pubDate":"Wed, 16 Oct 2024 16:22:00 +0900"
-		},
-		{
-			"title":"인천경제자유구역 '2040 비전' 선포… “밸류업과 혁신 성장에 올인”",
-			"originallink":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2024\/10\/16\/2024101600265.html",
-			"link":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2024\/10\/16\/2024101600265.html",
-			"description":"이와 함께 <b>청라<\/b>영상문화복합단지 개발 계획에 따라 영상 제작 인프라와 관광문화시설을 확충해 K-콘텐츠 경쟁력을 한층 강화할 예정이다. 이를 위해 인천경제청은 행정절차 간소화와 수도권 배제조항 삭제를 위한... ",
-			"pubDate":"Wed, 16 Oct 2024 16:20:00 +0900"
 		}
 	]
 }
