@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 16 Oct 2024 11:50:02 +0900",
-	"total":250475,
+	"lastBuildDate":"Wed, 16 Oct 2024 12:00:03 +0900",
+	"total":250476,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"정부가 '안전성' 직접 시험·인증...'배터리 인증제' 시범운영",
+			"originallink":"https:\/\/science.ytn.co.kr\/program\/view.php?mcd=0082&hcd=&key=202410161103083842",
+			"link":"https:\/\/science.ytn.co.kr\/program\/view.php?mcd=0082&hcd=&key=202410161103083842",
+			"description":"지난 8월 인천 <b>청라<\/b> 전기차 화재 이후 안전 대책으로 제시된 '배터리 인증제'가 이번 달부터 시범 운영에... 지난 8월 인천 <b>청라<\/b> 전기차 화재 이후 전기차에 대한 공포심이 잦아들지 않자, 정부가 직접 전기차 배터리의... ",
+			"pubDate":"Wed, 16 Oct 2024 11:56:00 +0900"
+		},
 		{
 			"title":"‘지하철 개통 호재’ 두산건설, ‘두산위브 더센트럴 부평’ 견본주택...",
 			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024101602109963079005&ref=naver",
@@ -173,17 +180,17 @@
 			"pubDate":"Tue, 15 Oct 2024 23:18:00 +0900"
 		},
 		{
-			"title":"'인천 전기차 화재' 야간 근무자·안전 관리자 송치",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202410152255319827",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002100072?sid=102",
-			"description":"인천 <b>청라<\/b>동 아파트 화재 당시 스프링클러를 끈 야간 근무자와 소방 안전 관리자가 검찰에 넘겨졌습니다.... A 씨는 지난 8월 인천 <b>청라<\/b>동에 있는 아파트에서 불이 났을 당시, 스프링클러 장치와 연동된 밸브의 정지... ",
-			"pubDate":"Tue, 15 Oct 2024 22:55:00 +0900"
-		},
-		{
 			"title":"정부가 '안전성' 직접 시험·인증...'배터리 인증제' 시범운영",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0102_202410152255121071",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002100070?sid=101",
 			"description":"지난 8월 인천 <b>청라<\/b> 전기차 화재 이후 안전 대책으로 제시된 '배터리 인증제'가 이번 달부터 시범 운영에... 지난 8월 인천 <b>청라<\/b> 전기차 화재 이후 전기차에 대한 공포심이 잦아들지 않자, 정부가 직접 전기차 배터리의... ",
+			"pubDate":"Tue, 15 Oct 2024 22:55:00 +0900"
+		},
+		{
+			"title":"'인천 전기차 화재' 야간 근무자·안전 관리자 송치",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202410152255319827",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002100072?sid=102",
+			"description":"인천 <b>청라<\/b>동 아파트 화재 당시 스프링클러를 끈 야간 근무자와 소방 안전 관리자가 검찰에 넘겨졌습니다.... A 씨는 지난 8월 인천 <b>청라<\/b>동에 있는 아파트에서 불이 났을 당시, 스프링클러 장치와 연동된 밸브의 정지... ",
 			"pubDate":"Tue, 15 Oct 2024 22:55:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1114284",
 			"description":"<b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재로 140여 대가 넘는 차량이 파손되면서 전기차의 미래 '청사진'은 그렇게 각종 규제로 꽁꽁 묶여 버리고 말았다. 게다가 그동안 전기차 구매 시 지원했던 인천시 보조금... ",
 			"pubDate":"Tue, 15 Oct 2024 20:58:00 +0900"
-		},
-		{
-			"title":"'혁신성장·밸류업 전략' 글로벌 톱10 도시 발판",
-			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20241016010001441",
-			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20241016010001441",
-			"description":"2003년 국내 1호 경제자유구역으로 지정된 인천 송도·<b>청라<\/b>·영종국제도시는 그간 개발 연동 투자 방식으로 성과를 냈으나, 개발이 80% 이상 완료된 상황에서 이 같은 방식으로는 더 이상 성장이 어렵다. 이에 따라... ",
-			"pubDate":"Tue, 15 Oct 2024 20:54:00 +0900"
 		}
 	]
 }
