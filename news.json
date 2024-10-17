@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 18 Oct 2024 05:40:03 +0900",
-	"total":250584,
+	"lastBuildDate":"Fri, 18 Oct 2024 05:50:02 +0900",
+	"total":250585,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"스마트 제어 충전기 설치 드디어 개시...그러나 과제는 여전",
+			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=344485",
+			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=344485",
+			"description":"특히 지난 8월 인천 <b>청라<\/b>에서 발생한 대형 전기차 화재 사고는 안전에 대한 우려를 더욱 키웠다. 이로 인해 전기차 자체에 대한 불안감이 충전기로 옮겨가는 현상이 발생했고 많은 설치 예정지에서 스마트 제어... ",
+			"pubDate":"Fri, 18 Oct 2024 05:48:00 +0900"
+		},
 		{
 			"title":"수의계약 말곤 답 없는 지자체 턴키…유찰 거듭",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410170947018190366",
@@ -173,17 +180,17 @@
 			"pubDate":"Thu, 17 Oct 2024 14:22:00 +0900"
 		},
 		{
-			"title":"[아유경제_부동산] 10월 2주 아파트 가격 동향… 매매가격 0.02% 상승ㆍ전...",
-			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=86134",
-			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=86134",
-			"description":"인천(0.26%)의 경우 서구(0.47%)는 공급 부족 영향 지속되며 <b>청라<\/b>ㆍ당하동 위주로, 부평구(0.28%)는 산곡ㆍ부개동 위주로, 남동구(0.24%)는 정주여건 양호한 만수ㆍ구월동 위주로, 중구(0.23%)는 중산ㆍ운서동 중ㆍ소형... ",
-			"pubDate":"Thu, 17 Oct 2024 14:08:00 +0900"
-		},
-		{
 			"title":"인천 서구, 지역의 '고유성과 정체성'을 담은 새로운 명칭을 찾습니다!",
 			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=697050",
 			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=697050",
 			"description":"지명은 한번 결정되면 쉽게 바꾸기 힘든 만큼 명칭 공모를 통해 주민분들의 다양한 의견을 들어 신중하게 진행할 예정이다&quot;고 하였다. 한편, 현재 거론되고 있는 명칭은 서해구, 정서진구, <b>청라<\/b>구 등이 있다.",
+			"pubDate":"Thu, 17 Oct 2024 14:08:00 +0900"
+		},
+		{
+			"title":"[아유경제_부동산] 10월 2주 아파트 가격 동향… 매매가격 0.02% 상승ㆍ전...",
+			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=86134",
+			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=86134",
+			"description":"인천(0.26%)의 경우 서구(0.47%)는 공급 부족 영향 지속되며 <b>청라<\/b>ㆍ당하동 위주로, 부평구(0.28%)는 산곡ㆍ부개동 위주로, 남동구(0.24%)는 정주여건 양호한 만수ㆍ구월동 위주로, 중구(0.23%)는 중산ㆍ운서동 중ㆍ소형... ",
 			"pubDate":"Thu, 17 Oct 2024 14:08:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000088644?sid=102",
 			"description":"시는 이번 의무 설치 유예는 인천 <b>청라<\/b>아파트 화재 등을 계기로 전기차와 충전시설 화재 위험에 대한 시민 불안감이가 커지는 상황에서 시민 안전을 고려한 조치라고 설명했다. 현재 광명시 관내 100세대 이상 공동주택... ",
 			"pubDate":"Thu, 17 Oct 2024 13:44:00 +0900"
-		},
-		{
-			"title":"광명시, 공동주택 전기차 충전시설 의무 설치 기한 1년 유예 결정",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=813515",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=813515",
-			"description":"최근 인천 <b>청라<\/b> 아파트 화재 등을 계기로 공동주택 입주민들의 전기차와 충전시설에 대한 불안감이 증폭되는 상황이다. 공동주택은 총 주차대수 50면 이상, 100세대 이상 아파트이면 전기차 충전시설 의무 설치... ",
-			"pubDate":"Thu, 17 Oct 2024 13:32:00 +0900"
 		}
 	]
 }
