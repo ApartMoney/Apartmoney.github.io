@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 17 Oct 2024 13:40:02 +0900",
-	"total":250556,
+	"lastBuildDate":"Thu, 17 Oct 2024 13:50:02 +0900",
+	"total":250557,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[광명24시] 광명시, 공동주택 전기차 주차·충전시설 의무설치 1년 유예",
+			"originallink":"https:\/\/www.sisajournal.com\/news\/articleView.html?idxno=311628",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000088644?sid=102",
+			"description":"시는 이번 의무 설치 유예는 인천 <b>청라<\/b>아파트 화재 등을 계기로 전기차와 충전시설 화재 위험에 대한 시민 불안감이가 커지는 상황에서 시민 안전을 고려한 조치라고 설명했다. 현재 광명시 관내 100세대 이상 공동주택... ",
+			"pubDate":"Thu, 17 Oct 2024 13:44:00 +0900"
+		},
 		{
 			"title":"광명시, 공동주택 전기차 충전시설 의무 설치 기한 1년 유예 결정",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=813515",
@@ -138,17 +145,17 @@
 			"pubDate":"Thu, 17 Oct 2024 10:22:00 +0900"
 		},
 		{
-			"title":"인천시 서구의회 김원진 의원, 「자연환경 및 야생생물 보전과 생물다양...",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410171011252120408",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410171011252120408",
-			"description":"금개구리, 맹꽁이 등 멸종위기 야생생물 보호를 위한 법적 근거 마련 인천시 서구의회 김원진 의원(더불어민주당, <b>청라<\/b>1동?<b>청라<\/b>2동)이 김춘수 의원과 공동 발의한 ‘인천광역시 서구 자연환경 및 야생생물 보전과... ",
-			"pubDate":"Thu, 17 Oct 2024 10:22:00 +0900"
-		},
-		{
 			"title":"인천시 서구의회 장문정 의원, 자유발언 통해 ‘<b>청라<\/b> 커널웨이 수변공원...",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410171002256220390",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410171002256220390",
 			"description":"인천시 서구의회 장문정 의원(국민의힘, <b>청라<\/b>1동, <b>청라<\/b>2동)은 지난 16일 제270회 임시회 제2차 본회의에서 서구 <b>청라<\/b> 커널웨이 수변공원 수질 개선에 관해 자유발언을 진행했다. 장문정 의원은 지난 6월 자유발언을 통해... ",
+			"pubDate":"Thu, 17 Oct 2024 10:22:00 +0900"
+		},
+		{
+			"title":"인천시 서구의회 김원진 의원, 「자연환경 및 야생생물 보전과 생물다양...",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410171011252120408",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410171011252120408",
+			"description":"금개구리, 맹꽁이 등 멸종위기 야생생물 보호를 위한 법적 근거 마련 인천시 서구의회 김원진 의원(더불어민주당, <b>청라<\/b>1동?<b>청라<\/b>2동)이 김춘수 의원과 공동 발의한 ‘인천광역시 서구 자연환경 및 야생생물 보전과... ",
 			"pubDate":"Thu, 17 Oct 2024 10:22:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.medisobizanews.com\/news\/articleView.html?idxno=120149",
 			"description":"인천 <b>청라<\/b>국제병원 성형외과 이영종 원장은 &quot;실 리프팅 시에는 개개인마다 다른 피부 처짐 정도, 시술 부위 등에 따라 알맞은 실의 종류를 선택한 후에 시술 계획을 수립하고 진행해야 한다&quot;며 &quot;안전성이 입증이 된 실을... ",
 			"pubDate":"Thu, 17 Oct 2024 09:28:00 +0900"
-		},
-		{
-			"title":"[기고] 전기자동차, 필연적 미래와 우리의 기술 선점 과제",
-			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20241009010001090",
-			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20241009010001090",
-			"description":"예를 들어 인천 <b>청라<\/b>동의 한 아파트에서 발생한 전기차 화재 사고는 전기차 배터리의 안전성 문제를 다시 떠올리게 했다. 이 사고는 막대한 재산 피해를 초래했으며, 전기차의 화재 위험성과 충돌 시 안전성 문제는 여전히... ",
-			"pubDate":"Thu, 17 Oct 2024 07:14:00 +0900"
 		}
 	]
 }
