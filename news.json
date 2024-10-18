@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 18 Oct 2024 14:50:02 +0900",
-	"total":250611,
+	"lastBuildDate":"Fri, 18 Oct 2024 15:00:02 +0900",
+	"total":250613,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"중진공-서구시설관리공단, 지역 상생과 안전 위한 협력체계 구축",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20241018020571312",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20241018020571312",
+			"description":"이병철 중진공 부이사장은 이날 협약식에서 “최근 인천 <b>청라<\/b> 아파트 전기차 화재 등 지역 내 안전사고 발생 빈도가 증가하고 있다”며 “협약을 통해 지역사회 재난상황에 선제 대응할 협력체계를 구축해 지역사회... ",
+			"pubDate":"Fri, 18 Oct 2024 14:58:00 +0900"
+		},
+		{
+			"title":"인천시, '2025~2026 재외동포 인천 교류·방문의 해' 선포식...'다시 찾고...",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=421419",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=421419",
+			"description":"특히 이번 선포식에서는 재외동포들에게 다양한 관광 혜택과 교육 서비스를 제공하기 위해 인천시와 인천마이스(MICE)얼라이언스, 국제학교 및 외국학교 3개교(채드윅송도국제학교, <b>청라<\/b>달튼외국인학교... ",
+			"pubDate":"Fri, 18 Oct 2024 14:56:00 +0900"
+		},
 		{
 			"title":"인천시, '2025~2026 재외동포 인천 교류·방문의 해' 선포식 개최",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1169455",
@@ -96,17 +110,17 @@
 			"pubDate":"Fri, 18 Oct 2024 10:42:00 +0900"
 		},
 		{
-			"title":"[동정] 김동일 보령시장",
-			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2302499",
-			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2302499",
-			"description":"△김동일 보령시장=19일 오전 10시 <b>청라<\/b>중학교에서 열리는 제25차 총동문화합 체육대회에 참석.",
-			"pubDate":"Fri, 18 Oct 2024 10:40:00 +0900"
-		},
-		{
 			"title":"각종 시장지표 회복세에 금리 인하까지… 시장 분위기 반색, 분주한 ‘...",
 			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024101802109923056001&ref=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0002909522?sid=101",
 			"description":"조성완료 시점에는 인근에 위치한 '남산자이 하늘채'(1368 가구)와 '<b>청라<\/b> 힐스자이'(947 가구)와 '대신센트럴자이'(1147 가구) 함께 약 5,500가구 규모의 달구벌대로 일대를 대표하는 랜드마크 자이 브랜드 타운의... ",
+			"pubDate":"Fri, 18 Oct 2024 10:40:00 +0900"
+		},
+		{
+			"title":"[동정] 김동일 보령시장",
+			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2302499",
+			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2302499",
+			"description":"△김동일 보령시장=19일 오전 10시 <b>청라<\/b>중학교에서 열리는 제25차 총동문화합 체육대회에 참석.",
 			"pubDate":"Fri, 18 Oct 2024 10:40:00 +0900"
 		},
 		{
@@ -124,6 +138,13 @@
 			"pubDate":"Fri, 18 Oct 2024 10:11:00 +0900"
 		},
 		{
+			"title":"각종 시장지표 회복세에 금리 인하까지…'내 집 마련' 수요↑",
+			"originallink":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=250297",
+			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=250297",
+			"description":"조성 완료 시점에는 인근에 위치한 '남산자이 하늘채'(1368가구)와 '<b>청라<\/b> 힐스자이'(947가구)와 '대신센트럴자이'(1147가구) 함께 약 5500가구 규모의 자이 브랜드 타운이 될 전망이다. 단지는 계약금을 5% 낮추고, 중도금... ",
+			"pubDate":"Fri, 18 Oct 2024 10:10:00 +0900"
+		},
+		{
 			"title":"각종 시장지표 회복세에 금리 인하까지… 급변하는 시장 분위기, '내 집...",
 			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=301914",
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=301914",
@@ -135,13 +156,6 @@
 			"originallink":"http:\/\/www.babytimes.co.kr\/news\/articleView.html?idxno=68330",
 			"link":"http:\/\/www.babytimes.co.kr\/news\/articleView.html?idxno=68330",
 			"description":"서강 SLP의 '2025년 유치부 설명회'는 강남 SLP, 마포 공덕 SLP, 성북 SLP, 송도 SLP, 수원 SLP, 안산 SLP, 양주 SLP, 오산 SLP, 용인 동백 SLP, 운정 SLP, <b>청라<\/b> SLP 등 전국 60개의 학당에서 개별로 진행된다. 설명회... ",
-			"pubDate":"Fri, 18 Oct 2024 10:10:00 +0900"
-		},
-		{
-			"title":"각종 시장지표 회복세에 금리 인하까지…'내 집 마련' 수요↑",
-			"originallink":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=250297",
-			"link":"http:\/\/www.constimes.co.kr\/news\/articleView.html?idxno=250297",
-			"description":"조성 완료 시점에는 인근에 위치한 '남산자이 하늘채'(1368가구)와 '<b>청라<\/b> 힐스자이'(947가구)와 '대신센트럴자이'(1147가구) 함께 약 5500가구 규모의 자이 브랜드 타운이 될 전망이다. 단지는 계약금을 5% 낮추고, 중도금... ",
 			"pubDate":"Fri, 18 Oct 2024 10:10:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410170947018190366",
 			"description":"한편, 인천시가 기본설계 기술제안 방식으로 내놓은 추정금액 1572억원 규모 ‘서울도시철도 7호선 <b>청라<\/b>국제도시 연장 추가정거장(005-1) 건설공사’는 코오롱글로벌과 동부건설의 맞대결 구도를 이룬 가운데, 최근... ",
 			"pubDate":"Fri, 18 Oct 2024 05:20:00 +0900"
-		},
-		{
-			"title":"日 한류팬, 대구 즐기며 사랑 듬뿍",
-			"originallink":"http:\/\/www.ksmnews.co.kr\/news\/view.php?idx=506110",
-			"link":"http:\/\/www.ksmnews.co.kr\/news\/view.php?idx=506110",
-			"description":"촬영지(<b>청라<\/b>언덕 일대), 한국 드라마 ‘눈물의 여왕’ 촬영지(사유원, 더현대 대구) 등에도 외국인 관광객들이 방문하며 대표 한류 관광지로서 대구의 인지도가 높아지고 있다. 강성길 대구문화예술진흥원 관광본부장은... ",
-			"pubDate":"Thu, 17 Oct 2024 20:52:00 +0900"
-		},
-		{
-			"title":"대구를 음악도시로 만들 수는 없을까?",
-			"originallink":"https:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=1015251",
-			"link":"https:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=1015251",
-			"description":"이 가을 <b>청라<\/b>언덕이 보이는 야외 언덕배기에서 임윤찬이 라흐마니노프의 '피아노 협주곡 3번'을 연주하면 대구시민은 기뻐 눈물을 흘리고, 많은 국민은 대구로 발길을 향할 것이다. 피아노 연주 전 대구가 낳은 세계적... ",
-			"pubDate":"Thu, 17 Oct 2024 20:10:00 +0900"
 		}
 	]
 }
