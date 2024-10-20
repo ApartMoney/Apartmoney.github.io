@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 21 Oct 2024 08:00:02 +0900",
-	"total":250677,
+	"lastBuildDate":"Mon, 21 Oct 2024 08:10:02 +0900",
+	"total":250678,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[기자수첩] 부족하고 제 역할 못하는 '스프링클러'...화재 사각지대 '여...",
+			"originallink":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=168020",
+			"link":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=168020",
+			"description":"지난 8월 1일 인천 <b>청라<\/b>에선 지하주차장에 주차한 전기차에서 화재가 발생했다. 이 사고로 차량 수백대가... <b>청라<\/b> 전기차 화재 이후 약 두달여가 흐른 이달 9일, 비슷한 전기차 화재 사고가 전북 전주에서 또 발생했다.... ",
+			"pubDate":"Mon, 21 Oct 2024 08:00:00 +0900"
+		},
 		{
 			"title":"[단독] ‘빅5’ 적립금 1조… 의사 대신 병상 늘렸다",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/society\/health-medical\/2024\/10\/21\/20241021001004?wlog_tag3=naver",
@@ -82,23 +89,16 @@
 			"pubDate":"Sun, 20 Oct 2024 12:00:00 +0900"
 		},
 		{
-			"title":"인천 서구 공장서 큰 불…소방 '대응 1단계' 발령 진압 중",
-			"originallink":"https:\/\/www.news1.kr\/photos\/6938192",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855390?sid=102",
-			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
-			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
-		},
-		{
-			"title":"인천 왕길동 공장서 화재 발생…검은 연기 치솟아",
-			"originallink":"https:\/\/www.news1.kr\/photos\/6938188",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855387?sid=102",
-			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
-			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
-		},
-		{
 			"title":"인천 서구 왕길동 공장 화재... '대응 1단계' 발령",
 			"originallink":"https:\/\/www.news1.kr\/photos\/6938190",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855385?sid=102",
+			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
+			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
+		},
+		{
+			"title":"인천 서구 왕길동 기계가공공장서 불 '대응 1단계'",
+			"originallink":"https:\/\/www.news1.kr\/photos\/6938191",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855388?sid=102",
 			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
 			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
 		},
@@ -110,9 +110,16 @@
 			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
 		},
 		{
-			"title":"인천 서구 왕길동 기계가공공장서 불 '대응 1단계'",
-			"originallink":"https:\/\/www.news1.kr\/photos\/6938191",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855388?sid=102",
+			"title":"인천 왕길동 공장서 화재 발생…검은 연기 치솟아",
+			"originallink":"https:\/\/www.news1.kr\/photos\/6938188",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855387?sid=102",
+			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
+			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
+		},
+		{
+			"title":"인천 서구 공장서 큰 불…소방 '대응 1단계' 발령 진압 중",
+			"originallink":"https:\/\/www.news1.kr\/photos\/6938192",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855390?sid=102",
 			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
 			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241018010004776",
 			"description":"특히, 이번 선포식에서는 재외동포들에게 다양한 관광 혜택과 교육 서비스를 제공하기 위해 인천시와 인천마이스(MICE)얼라이언스, 국제학교 및 외국학교 3개교(채드윅송도국제학교, <b>청라<\/b>달튼외국인학교... ",
 			"pubDate":"Sat, 19 Oct 2024 15:24:00 +0900"
-		},
-		{
-			"title":"&quot;농산물 절도는 특별 절도..처벌 강화해야&quot;",
-			"originallink":"http:\/\/www.idjnews.kr\/news\/articleView.html?idxno=206388",
-			"link":"http:\/\/www.idjnews.kr\/news\/articleView.html?idxno=206388",
-			"description":"특히, 지난 8월 인천 <b>청라<\/b>동 아파트에서 전기차 화재가 발생하며 차량 140대가 피해를 입었고, 이재민 257명이 발생했다. 그러나 전기차 충전 및 주차구역이 지하에 있을 경우 화재 진압에 어려움을 겪고 있다. 이로... ",
-			"pubDate":"Sat, 19 Oct 2024 14:00:00 +0900"
 		}
 	]
 }
