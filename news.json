@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 20 Oct 2024 17:50:02 +0900",
-	"total":250671,
+	"lastBuildDate":"Sun, 20 Oct 2024 18:00:02 +0900",
+	"total":250672,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 '2025∼2026 재외동포 인천 교류·방문의 해' 선포",
+			"originallink":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2024\/10\/20\/2024102000070.html",
+			"link":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2024\/10\/20\/2024102000070.html",
+			"description":"이날 선포식에서는 재외동포에 대한 관광·교육 서비스 확대를 목표로 시와 인천마이스(MICE)얼라이언스·채드윅송도국제학교·<b>청라<\/b>달튼외국인학교·칼빈매니토바국제학교 간 업무협약(MOU)을 체결했다. 유정복... ",
+			"pubDate":"Sun, 20 Oct 2024 17:50:00 +0900"
+		},
 		{
 			"title":"전기차 화재피해 줄일 수 있다.",
 			"originallink":"http:\/\/www.jeollailbo.com\/news\/articleView.html?idxno=748594",
@@ -40,23 +47,9 @@
 			"pubDate":"Sun, 20 Oct 2024 12:00:00 +0900"
 		},
 		{
-			"title":"인천 서구 왕길동 기계가공공장서 불 '대응 1단계'",
-			"originallink":"https:\/\/www.news1.kr\/photos\/6938191",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855388?sid=102",
-			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
-			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
-		},
-		{
-			"title":"인천 왕길동 공장서 화재 발생",
-			"originallink":"https:\/\/www.news1.kr\/photos\/6938189",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855386?sid=102",
-			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
-			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
-		},
-		{
-			"title":"인천 서구 왕길동 공장 화재... '대응 1단계' 발령",
-			"originallink":"https:\/\/www.news1.kr\/photos\/6938190",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855385?sid=102",
+			"title":"인천 서구 공장서 큰 불…소방 '대응 1단계' 발령 진압 중",
+			"originallink":"https:\/\/www.news1.kr\/photos\/6938192",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855390?sid=102",
 			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
 			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
 		},
@@ -68,9 +61,23 @@
 			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
 		},
 		{
-			"title":"인천 서구 공장서 큰 불…소방 '대응 1단계' 발령 진압 중",
-			"originallink":"https:\/\/www.news1.kr\/photos\/6938192",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855390?sid=102",
+			"title":"인천 서구 왕길동 공장 화재... '대응 1단계' 발령",
+			"originallink":"https:\/\/www.news1.kr\/photos\/6938190",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855385?sid=102",
+			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
+			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
+		},
+		{
+			"title":"인천 왕길동 공장서 화재 발생",
+			"originallink":"https:\/\/www.news1.kr\/photos\/6938189",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855386?sid=102",
+			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
+			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
+		},
+		{
+			"title":"인천 서구 왕길동 기계가공공장서 불 '대응 1단계'",
+			"originallink":"https:\/\/www.news1.kr\/photos\/6938191",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855388?sid=102",
 			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
 			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/353\/0000049509?sid=102",
 			"description":"현대차그룹은 인천 <b>청라<\/b>와 울산 등지에 수소연료전지 공장 증설도 검토 중이다. 현대차가 수소에 ‘진심’인 이유는 뭘까. 최서호 현대차 수소연료전지시스템개발담당(상무·54)은 이에 대해 “수소연료전지는 탄소배출로... ",
 			"pubDate":"Sat, 19 Oct 2024 01:16:00 +0900"
-		},
-		{
-			"title":"인천시, '2025~2026 재외동포 인천 교류·방문의 해' 선포식 개최",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=615095",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=615095",
-			"description":"특히 이번 선포식에서는 재외동포들에게 다양한 관광 혜택과 교육 서비스를 제공하기 위해 인천시와 인천마이스(MICE)얼라이언스, 국제학교 및 외국학교 3개교(채드윅송도국제학교, <b>청라<\/b>달튼외국인학교... ",
-			"pubDate":"Sat, 19 Oct 2024 00:36:00 +0900"
 		}
 	]
 }
