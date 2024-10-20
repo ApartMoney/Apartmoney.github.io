@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 21 Oct 2024 05:00:02 +0900",
-	"total":250675,
+	"lastBuildDate":"Mon, 21 Oct 2024 05:10:01 +0900",
+	"total":250677,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[단독] ‘빅5’ 적립금 1조… 의사 대신 병상 늘렸다",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/society\/health-medical\/2024\/10\/21\/20241021001004?wlog_tag3=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003488507?sid=102",
+			"description":"서울아산(인천 <b>청라<\/b>)·세브란스(인천 송도)·서울대(경기 시흥)병원 등이 수도권 분원 설립을 추진 중이다. 인력 투자가 이뤄지지 않으면서 ‘의료의 질’과 직결된 의사 수는 쪼그라들고 있다. 전체 의사 중... ",
+			"pubDate":"Mon, 21 Oct 2024 05:02:00 +0900"
+		},
+		{
+			"title":"테마파크·돔구장 '착착'…정용진의 꿈 현실화",
+			"originallink":"http:\/\/www.inews24.com\/view\/1773551",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000877825?sid=101",
+			"description":"테마파크와 더불어 프로야구 SSG랜더스를 인수할 당시 언급한 '<b>청라<\/b> 돔구장'도 정 회장의 숙원 사업 중 하나다. 정 회장은 지난해 세계 최초로 돔구장(멀티스타디움)과 복합쇼핑몰을 결합한 스타필드 <b>청라<\/b>의 청사진을... ",
+			"pubDate":"Mon, 21 Oct 2024 05:01:00 +0900"
+		},
 		{
 			"title":"[이제는 지방시대] 영종 국제학교 공모… 인천경자구역, 글로벌 인재 요...",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1729148892&code=11131411&cp=nv",
@@ -68,20 +82,6 @@
 			"pubDate":"Sun, 20 Oct 2024 12:00:00 +0900"
 		},
 		{
-			"title":"인천 왕길동 공장서 화재 발생…검은 연기 치솟아",
-			"originallink":"https:\/\/www.news1.kr\/photos\/6938188",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855387?sid=102",
-			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
-			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
-		},
-		{
-			"title":"인천 서구 공장서 큰 불…소방 '대응 1단계' 발령 진압 중",
-			"originallink":"https:\/\/www.news1.kr\/photos\/6938192",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855390?sid=102",
-			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
-			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
-		},
-		{
 			"title":"인천 서구 왕길동 공장 화재... '대응 1단계' 발령",
 			"originallink":"https:\/\/www.news1.kr\/photos\/6938190",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855385?sid=102",
@@ -99,6 +99,20 @@
 			"title":"인천 서구 왕길동 기계가공공장서 불 '대응 1단계'",
 			"originallink":"https:\/\/www.news1.kr\/photos\/6938191",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855388?sid=102",
+			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
+			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
+		},
+		{
+			"title":"인천 서구 공장서 큰 불…소방 '대응 1단계' 발령 진압 중",
+			"originallink":"https:\/\/www.news1.kr\/photos\/6938192",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855390?sid=102",
+			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
+			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
+		},
+		{
+			"title":"인천 왕길동 공장서 화재 발생…검은 연기 치솟아",
+			"originallink":"https:\/\/www.news1.kr\/photos\/6938188",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007855387?sid=102",
 			"description":"인천 서구 왕길동 기계 가공 공장에서 화재가 발생한 20일 오전 <b>청라<\/b>에서 왕길동 방면으로 검은 연기가 피어오르고 있다. 2024.10.20\/뉴스1",
 			"pubDate":"Sun, 20 Oct 2024 11:19:00 +0900"
 		},
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.idjnews.kr\/news\/articleView.html?idxno=206388",
 			"description":"특히, 지난 8월 인천 <b>청라<\/b>동 아파트에서 전기차 화재가 발생하며 차량 140대가 피해를 입었고, 이재민 257명이 발생했다. 그러나 전기차 충전 및 주차구역이 지하에 있을 경우 화재 진압에 어려움을 겪고 있다. 이로... ",
 			"pubDate":"Sat, 19 Oct 2024 14:00:00 +0900"
-		},
-		{
-			"title":"올해 ‘NYC 스타트업 서밋’ AI가 대세…경기 스타트업, 유니콘 기업 도...",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20241019505216?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003978210?sid=101",
-			"description":"최근 일어난 2건의 화재에선 배달로 생계를 꾸리던 두 가족이 소중한 목숨을 잃었습니다.” (송영욱 튠잇 대표) 지난 8월 ‘인천 <b>청라<\/b> 전기차 화재’는 우리 사회에 경각심을 불러왔습니다. 친환경·무공해 이동장치로... ",
-			"pubDate":"Sat, 19 Oct 2024 10:11:00 +0900"
-		},
-		{
-			"title":"인천시 서구, ‘맨발 걷기 힐링 걷기체험’ 성료",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160283083914504",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160283083914504",
-			"description":"이러한 주민들의 관심에 부응하고자 석남녹지도시숲, 가좌이음숲, <b>청라<\/b>호수공원 외 13개소에 산책로와 세족장을 설치하고 맨발 걷기 활성화를 위해 노력하고 있다. 체험 참가자는 “맨발로 걷는 것이 처음에는... ",
-			"pubDate":"Sat, 19 Oct 2024 10:02:00 +0900"
 		}
 	]
 }
