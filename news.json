@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 22 Oct 2024 11:10:02 +0900",
-	"total":250726,
+	"lastBuildDate":"Tue, 22 Oct 2024 11:20:02 +0900",
+	"total":250727,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;폐배터리 재활용한다&quot;…배터리 곤혹 겪은 벤츠 獨공장 가보니",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25286057",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003395051?sid=101",
+			"description":"지난 8월 인천 <b>청라<\/b>에서 있었던 벤츠 전기차 화재 사건을 의식한듯 벤츠가 내재화하고 있는 배터리 기술을 상세히 공개했다. 당시 화재 이후 벤츠가 세계 10위권 배터리업체인 중국 파라시스의 배터리를 최고급 세단... ",
+			"pubDate":"Tue, 22 Oct 2024 11:09:00 +0900"
+		},
 		{
 			"title":"[타봤더니]몸집은 우람한데 이 날렵함은 뭘까...가성비도 갖춘 일등 프...",
 			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024092511530001732?did=NA",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newstree.kr\/newsView\/ntr202410210007",
 			"description":"김은혜 의원은 &quot;BMS를 확인하지 못한다면 배터리 검사는 육안 점검 수준에 그치게 될 것&quot;이라며 &quot;인천 <b>청라<\/b> 아파트 주차장 화재와 같은 대형사고를 방지할 수 있는 유일한 대책인 BMS 정보 제공이 어렵다면, 언제 전기차... ",
 			"pubDate":"Mon, 21 Oct 2024 12:58:00 +0900"
-		},
-		{
-			"title":"'배터리안전 깜깜이' 중국산 전기버스 3천대, 도로 달린다",
-			"originallink":"https:\/\/cwn.kr\/article\/1065581278084282",
-			"link":"https:\/\/cwn.kr\/article\/1065581278084282",
-			"description":"김은혜 의원은 &quot;BMS를 확인하지 못한다면 배터리 검사는 육안 점검 수준에 그치게 될 것&quot; 이라며 &quot;인천 <b>청라<\/b> 주차장 화재와 같은 대형 사고를 방지할 수 있는 유일한 대책인 BMS 정보 제공이 어렵다면, 언제 전기차 화재가... ",
-			"pubDate":"Mon, 21 Oct 2024 11:56:00 +0900"
 		}
 	]
 }
