@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 22 Oct 2024 09:20:02 +0900",
-	"total":250723,
+	"lastBuildDate":"Tue, 22 Oct 2024 09:30:02 +0900",
+	"total":250724,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;배터리 재활용 물질로 미래 전기차 만든다&quot;...벤츠의 새 도전[현장+]",
+			"originallink":"https:\/\/www.bloter.net\/news\/articleView.html?idxno=624914",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/293\/0000059565?sid=101",
+			"description":"지난 8월 인천 <b>청라<\/b> 아파트단지 지하주차장에서 발생된 EQE 화재 이후 벤츠에 대한 부정적인 여론이 확산된만큼, 차별화된 기술 공개를 통해 이를 만회한다는 벤츠 내부 의사결정이 이뤄진 것으로 보인다. 벤츠 배터리... ",
+			"pubDate":"Tue, 22 Oct 2024 09:25:00 +0900"
+		},
 		{
 			"title":"인천시설공단, '<b>청라<\/b>호수공원 선상 프러포즈 이벤트'",
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2189694",
@@ -82,17 +89,17 @@
 			"pubDate":"Mon, 21 Oct 2024 17:12:00 +0900"
 		},
 		{
-			"title":"김은혜 의원 &quot;中 업체, 배터리 안전검사 외면··· 국민 얕보는 것&quot;",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1084541",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1084541",
-			"description":"김은혜 의원은 &quot;BMS를 확인하지 못한다면 배터리 검사는 육안 점검 수준에 그치게 될 것&quot;이라며 &quot;인천 <b>청라<\/b> 주차장 화재와 같은 대형 사고를 방지할 수 있는 유일한 대책인 BMS 정보 제공이 어렵다면, 언제 전기차 화재가... ",
-			"pubDate":"Mon, 21 Oct 2024 17:00:00 +0900"
-		},
-		{
 			"title":"인천서 서울로 집 갈아타기... 서구가 가장 많아",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=104812",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=104812",
 			"description":"서구는 올해 검단신도시와 루원시티, <b>청라<\/b>국제도시 등 지역 주요 신도시를 중심으로 아파트값 회복세를 이끌었다. 한국부동산원에 따르면 올해 인천 서구 아파트 매매가격 변동률은 3.76%로 인천 8개 구 가운데 가장... ",
+			"pubDate":"Mon, 21 Oct 2024 17:00:00 +0900"
+		},
+		{
+			"title":"김은혜 의원 &quot;中 업체, 배터리 안전검사 외면··· 국민 얕보는 것&quot;",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1084541",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1084541",
+			"description":"김은혜 의원은 &quot;BMS를 확인하지 못한다면 배터리 검사는 육안 점검 수준에 그치게 될 것&quot;이라며 &quot;인천 <b>청라<\/b> 주차장 화재와 같은 대형 사고를 방지할 수 있는 유일한 대책인 BMS 정보 제공이 어렵다면, 언제 전기차 화재가... ",
 			"pubDate":"Mon, 21 Oct 2024 17:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.asiatime.co.kr\/article\/20241021500129",
 			"description":"구조안전진단 결과 주민설명회(사진=서구 제공) 인천 서구는 지난 8월에 발생한 <b>청라<\/b> 전기차 화재 아파트의 구조안전진단이 완료되는 시점 즈음인 지난 10월 16일 진단결과에 대한 주민설명회를 개최하고 향후 구조복구... ",
 			"pubDate":"Mon, 21 Oct 2024 11:08:00 +0900"
-		},
-		{
-			"title":"인천 서구,<b>청라<\/b> 전기차화재 아파트 구조복구에 구슬땀",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410211049450730506",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202410211049450730506",
-			"description":"구조안전진단 결과에 대한 주민설명회 개최 인천 서구(구청장 강범석)는 지난 8월에 발생한 <b>청라<\/b> 전기차 화재 아파트의 구조안전진단이 완료되는 시점 즈음인 지난 10월 16일 진단결과에 대한 주민설명회를 개최하고 향후... ",
-			"pubDate":"Mon, 21 Oct 2024 11:02:00 +0900"
 		}
 	]
 }
