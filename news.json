@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 23 Oct 2024 13:40:02 +0900",
-	"total":250806,
+	"lastBuildDate":"Wed, 23 Oct 2024 13:50:02 +0900",
+	"total":250807,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제자유구역 일자리, 삼성바이오 4623명으로 1위",
+			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=157791",
+			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=157791",
+			"description":"이어 <b>청라<\/b>가 2만8298명(외투기업 55개 포함 736개 기업), 영종이 1만1139명(외투기업 10개 포함 618개 기업)으로 나타났다. 허 의원은 &quot;업종별 현황을 보면 입주업종이 경제자유구역 개발 목표에 부합하고 있는지... ",
+			"pubDate":"Wed, 23 Oct 2024 13:48:00 +0900"
+		},
 		{
 			"title":"민주 허종식 인천경제자유구역 고용 1등 기업은 삼성바이오로직스",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20241023023142389",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003327963?sid=101",
 			"description":"<b>청라<\/b>, 영종 등 인천경제자유구역에 입주한 사업체는 외국인 투자기업 224개를 포함해 3821개이며, 고용은 11만557명으로 집계됐다. 이 중 송도에는 2467개(65%) 사업체에 7만1120명(64.3%)이 근무하고 있다. <b>청라<\/b>는... ",
 			"pubDate":"Wed, 23 Oct 2024 10:09:00 +0900"
-		},
-		{
-			"title":"테크빌교육, 2024년 2학기 전국형 '디지털새싹 캠프' 프로그램 운영 실시",
-			"originallink":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=525201",
-			"link":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=525201",
-			"description":"전국형 프로그램은 올해 2월까지 서울\/인천, 경상, 경기 및 호남\/제주 지역에서 모집한 수강생 200여명을 대상으로 ▲경남 수남초등학교 ▲경기 나비초등학교 ▲인천 <b>청라<\/b>초등학교 등에서 순차적으로 진행될 예정이다.... ",
-			"pubDate":"Wed, 23 Oct 2024 10:00:00 +0900"
 		}
 	]
 }
