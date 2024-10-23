@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Wed, 23 Oct 2024 18:30:02 +0900",
-	"total":250840,
+	"lastBuildDate":"Wed, 23 Oct 2024 18:40:02 +0900",
+	"total":250843,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나은행, 인천공장 화재 긴급 금융지원",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1420483\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002884764?sid=101",
+			"description":"화재의 피해를 입은 왕길동 산업단지가 위치한 인천 서구는 하나금융그룹 <b>청라<\/b>통합데이터센터와 하나글로벌캠퍼스가 위치해 있다. 오는2026년을 목표로 하나금융 본사가 이전 예정인 곳이다. 이승열 하나은행장은... ",
+			"pubDate":"Wed, 23 Oct 2024 18:38:00 +0900"
+		},
+		{
+			"title":"인천시 중구, '제3연륙교' 대표 명칭 선정 주민 선호도조사 추진",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1115702",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1115702",
+			"description":"조사 대상 명칭은 공항대교, 국제대교, 영종<b>청라<\/b>국제대교, 영종<b>청라<\/b>대교, 영종하늘대교, 이음대교, 인천공항대교, 인천국제대교, 자연대교 등이다. 온라인 제안을 통해 '하늘대교'도 추가됐다. 이번 조사는 23일부터... ",
+			"pubDate":"Wed, 23 Oct 2024 18:34:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천 왕길동 공장 화재 피해복구 위한 긴급 금융지원 실시",
+			"originallink":"http:\/\/www.whitepaper.co.kr\/news\/articleView.html?idxno=239228",
+			"link":"http:\/\/www.whitepaper.co.kr\/news\/articleView.html?idxno=239228",
+			"description":"화재 피해를 입은 왕길동 산업단지가 위치한 인천 서구는, 하나금융그룹 <b>청라<\/b>통합데이터센터와 하나글로벌캠퍼스가 위치해 있고, 오는 2026년을 목표로 하나금융그룹 본사가 이전 예정인 곳이다.",
+			"pubDate":"Wed, 23 Oct 2024 18:34:00 +0900"
+		},
 		{
 			"title":"하나금융, 인천 공장화재 피해 소상공인에 최대 5억원 대출 지원",
 			"originallink":"https:\/\/www.dt.co.kr\/contents.html?article_no=2024102302109963084005&ref=naver",
@@ -19,17 +40,17 @@
 			"pubDate":"Wed, 23 Oct 2024 18:16:00 +0900"
 		},
 		{
-			"title":"'왕길동 화재' 피해복구 금융지원··하나은행 &quot;긴급자금 대출, 만기 연...",
-			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2071764",
-			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2071764",
-			"description":"화재의 피해를 입은 왕길동 산업단지가 위치한 인천 서구는 하나금융그룹 <b>청라<\/b>통합데이터센터와 하나글로벌캠퍼스가 위치해 있고, 2026년을 목표로 하나금융그룹 본사가 이전 예정인 곳이다.",
-			"pubDate":"Wed, 23 Oct 2024 18:10:00 +0900"
-		},
-		{
 			"title":"하나은행, 인천 왕길동 공장 화재 피해복구 위한 긴급 금융지원 실시",
 			"originallink":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=420760",
 			"link":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=420760",
 			"description":"화재의 피해를 입은 왕길동 산업단지가 위치한 인천 서구는, 하나금융그룹 <b>청라<\/b>통합데이터센터와 하나글로벌캠퍼스가 위치해 있고, 오는 2026년을 목표로 하나금융그룹 본사가 이전 예정인 곳이다. 이승열 행장은 &quot;예상치... ",
+			"pubDate":"Wed, 23 Oct 2024 18:10:00 +0900"
+		},
+		{
+			"title":"'왕길동 화재' 피해복구 금융지원··하나은행 &quot;긴급자금 대출, 만기 연...",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2071764",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2071764",
+			"description":"화재의 피해를 입은 왕길동 산업단지가 위치한 인천 서구는 하나금융그룹 <b>청라<\/b>통합데이터센터와 하나글로벌캠퍼스가 위치해 있고, 2026년을 목표로 하나금융그룹 본사가 이전 예정인 곳이다.",
 			"pubDate":"Wed, 23 Oct 2024 18:10:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=814325",
 			"description":"그 결과 공항대교, 국제대교, 영종<b>청라<\/b>국제대교, 영종<b>청라<\/b>대교, 영종하늘대교, 이음대교, 인천공항대교, 인천국제대교, 자연대교 총 9건이 조사 대상에 이름을 올렸다. 공모와 시상대상은 제외됐으나, 그간 온라인... ",
 			"pubDate":"Wed, 23 Oct 2024 14:50:00 +0900"
-		},
-		{
-			"title":"'이정후 핫도그'까지 파는 MLB 상술",
-			"originallink":"https:\/\/www.m-joongang.com\/news\/articleView.html?idxno=400141",
-			"link":"https:\/\/www.m-joongang.com\/news\/articleView.html?idxno=400141",
-			"description":"한국의 3월이 다소 쌀쌀한 점을 감안한 것인데 2028년 인천 <b>청라<\/b>돔이 오픈하면 개장 기념으로 'MLB 월드 투어'가 열릴 가능성을 점쳐 본다. 사실 'MLB 월드 투어'는 2년 전인 2022년에 추진된 바 있다. MLB 팀과 KBO 팀의... ",
-			"pubDate":"Wed, 23 Oct 2024 14:36:00 +0900"
-		},
-		{
-			"title":"'제3연륙교' 명칭 후보 9개 압축… 인천 서구는 '<b>청라<\/b>대교' 거론",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363675563",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363675563",
-			"description":"구는 공항대교, 국제대교, 영종<b>청라<\/b>국제대교, 영종<b>청라<\/b>대교, 영종하늘대교, 이음대교, 인천공항대교, 인천국제대교, 자연대교 총 9개 후보에 대해 23일부터 11월 1일까지 주민 선호도 조사를 진행한다. 이번 조사는 중구... ",
-			"pubDate":"Wed, 23 Oct 2024 14:32:00 +0900"
-		},
-		{
-			"title":"인천 서구, '2024년 재난대응 안전한국훈련' 실시",
-			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/993743",
-			"link":"https:\/\/www.wikitree.co.kr\/articles\/993743",
-			"description":"지난 8월 1일 발생한 <b>청라<\/b> 전기차 화재와 같은 상황에 대응하기 위하여 전기차 화재진압 훈련 과정이... 발생한 <b>청라<\/b>아파트 화재 상황을 복기하는 계기가 되었다”며 “이번 훈련 같은 다중밀집시설에 관해서도 이런... ",
-			"pubDate":"Wed, 23 Oct 2024 14:28:00 +0900"
 		}
 	]
 }
