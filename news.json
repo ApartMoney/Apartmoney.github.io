@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Sat, 26 Oct 2024 17:50:02 +0900",
-	"total":250984,
+	"lastBuildDate":"Sat, 26 Oct 2024 18:00:02 +0900",
+	"total":250987,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[속보] 인천공항고속도로 공항방향 <b>청라<\/b>IC 부근 다중추돌사고",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3193111",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3193111",
+			"description":"인천공항고속도로 공항방향 <b>청라<\/b>IC 부근 다중추돌사고",
+			"pubDate":"Sat, 26 Oct 2024 17:54:00 +0900"
+		},
+		{
+			"title":"인천공항고속도로 <b>청라<\/b>IC 부근 5중 추돌사고…교통 정체(종합)",
+			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/5580643",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007869822?sid=102",
+			"description":"26일 오후 4시 58분쯤 인천공항고속도로 공항 방향 <b>청라<\/b>IC(노우지에서 <b>청라<\/b> 방향) 부근에서 5중 추돌사고가 발생했다. 이 사고로 인명피해는 발생하지 않았으며, 운전자 모두 음주운전은 아닌 것으로 파악됐다.... ",
+			"pubDate":"Sat, 26 Oct 2024 17:52:00 +0900"
+		},
+		{
+			"title":"인천공항고속도로 인천 방향 <b>청라<\/b>IC 부근서 다중 추돌(1보)",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20241026_0002935245",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012866059?sid=102",
+			"description":"26일 오후 4시58분께 인천 서구 인천국제공항고속도로 인천 방향 <b>청라<\/b>나들목(IC) 인근에서 차량 다중 추돌사고가 발생했다. 신공항하이웨이 측은 안전안내문자를 통해 &quot;사고로 차량 정체가 발생했다&quot;며 &quot;교통 정보 확인... ",
+			"pubDate":"Sat, 26 Oct 2024 17:50:00 +0900"
+		},
 		{
 			"title":"[속보]인천공항고속도로 공항방향 <b>청라<\/b>IC 부근 다중추돌사고 발생",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20241026\/130299078\/2",
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.nspna.com\/news\/?mode=view&newsid=723604",
 			"description":"지난 8월 인천 <b>청라<\/b>아파트 지하주차장 화재와 관련해 전기자동차 화재 대응 훈련도 병행했다. 재난 대응 역량 강화를 위해 시민들이 직접 참여해 재난 상황에서의 대피와 행동 요령을 체험하기도 했다. 이번 훈련은... ",
 			"pubDate":"Fri, 25 Oct 2024 14:10:00 +0900"
-		},
-		{
-			"title":"물류센터 총 예정공급량의 65% 공급, 임대차 활동은 상반기 대비 둔화",
-			"originallink":"https:\/\/www.klnews.co.kr\/news\/articleView.html?idxno=314312",
-			"link":"https:\/\/www.klnews.co.kr\/news\/articleView.html?idxno=314312",
-			"description":"대표적으로 시흥에 GREENWAVE 시화물류센터(235,627㎡), 서부권역에 김포한강신도시물류센터(165,104㎡), 인천 메가와이즈<b>청라<\/b>(142, 853 ㎡)가 준공 완료되면서 대형 자산의 공급이 두드러졌다. 그밖에 안성과 이천에 각각... ",
-			"pubDate":"Fri, 25 Oct 2024 13:56:00 +0900"
-		},
-		{
-			"title":"인천시, 선행과 봉사 실천한 모범시민 등 90명 표창",
-			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=222946",
-			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=222946",
-			"description":"이번 시상식에서는 지난 8월 인천 <b>청라<\/b>에서 발생한 화재 당시 피해 이웃을 위해 무료 식사 제공, 무료 세차, 응급 진료소(나은병원) 운영, 물품 지원 등으로 돕고 헌신한 김도희, 김영호, 김재성, 남상휴, 박효선, 최한수... ",
-			"pubDate":"Fri, 25 Oct 2024 13:44:00 +0900"
-		},
-		{
-			"title":"대우건설, 대형거푸집 인양 자동화시스템 개발",
-			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/10\/25\/2024102500189.html",
-			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/10\/25\/2024102500189.html",
-			"description":"2022년 <b>청라<\/b>국제도시역 푸르지오 시티 현장에 본격적으로 사용해 공기 단축과 비용 감축이라는 결실을 이끌어냈다. 지난해에는 3곳의 공동주택 건설현장에 추가로 DSG 시스템을 적용했으며 현장에서 얻은 피드백을... ",
-			"pubDate":"Fri, 25 Oct 2024 13:34:00 +0900"
 		}
 	]
 }
