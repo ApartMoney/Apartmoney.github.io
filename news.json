@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 26 Oct 2024 22:00:02 +0900",
-	"total":251005,
+	"lastBuildDate":"Sat, 26 Oct 2024 22:10:02 +0900",
+	"total":251006,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천공항고속도로 공항 방면 차량 5대 추돌",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202410262155372987",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002105229?sid=102",
+			"description":"오늘(26일) 오후 5시쯤 인천국제공항고속도로 인천공항 방면 노오지 분기점과 <b>청라<\/b> 나들목 사이에서 차량 5대가 추돌했습니다. 이 사고로 다친 사람은 없었지만, 한때 도로 일부가 통제돼 차량 정체가 빚어졌습니다.... ",
+			"pubDate":"Sat, 26 Oct 2024 21:55:00 +0900"
+		},
 		{
 			"title":"인천공항고속도로 <b>청라<\/b>IC 인근서 5중 추돌사고…공항 방면 정체",
 			"originallink":"https:\/\/www.newspim.com\/news\/view\/20241026000103",
@@ -159,17 +166,17 @@
 			"pubDate":"Sat, 26 Oct 2024 17:48:00 +0900"
 		},
 		{
-			"title":"[현장모습] 인천공항고속도로 <b>청라<\/b>IC 추돌사고 '정체 극심'",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3120114",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3120114",
-			"description":"인천공항고속도로 공항 방향 <b>청라<\/b>IC(나들목) 교통사고 CCTV 영상 캡쳐 26일 오후 4시 58분경 인천공항고속도로 공항 방향 <b>청라<\/b>IC(나들목) 부근에서 다중 추돌사고가 발생했다. 이로 인해 교통 정체를 빚고 있으며... ",
-			"pubDate":"Sat, 26 Oct 2024 17:46:00 +0900"
-		},
-		{
 			"title":"인천공항고속도로 <b>청라<\/b>IC 5중추돌사고로 정체",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=255751",
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=255751",
 			"description":"인천투데이=박규호 기자|인천공항고속도로 <b>청라<\/b>IC 부근 공항 방향에서 5중추돌사고가 발생해 정체 중이다. 신공항하이웨이는 26일 오후 4시 59분께 인천공항고속도로 <b>청라<\/b> IC방향에서 5중추돌사고가 발생해 교통정보를... ",
+			"pubDate":"Sat, 26 Oct 2024 17:46:00 +0900"
+		},
+		{
+			"title":"[현장모습] 인천공항고속도로 <b>청라<\/b>IC 추돌사고 '정체 극심'",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3120114",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3120114",
+			"description":"인천공항고속도로 공항 방향 <b>청라<\/b>IC(나들목) 교통사고 CCTV 영상 캡쳐 26일 오후 4시 58분경 인천공항고속도로 공항 방향 <b>청라<\/b>IC(나들목) 부근에서 다중 추돌사고가 발생했다. 이로 인해 교통 정체를 빚고 있으며... ",
 			"pubDate":"Sat, 26 Oct 2024 17:46:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=616211",
 			"description":"이번 시상식에서는 △지난 8월 인천 <b>청라<\/b>에서 발생한 화재 당시 피해 이웃을 위해 무료 식사 제공, 무료 세차, 응급 진료소(나은병원) 운영, 물품 지원 등으로 돕고 헌신한 김도희, 김영호, 김재성, 남상휴, 박효선, 최한수... ",
 			"pubDate":"Sat, 26 Oct 2024 15:52:00 +0900"
-		},
-		{
-			"title":"테크빌교육, '새싹 캠프' 확대 운영…&quot;디지털 격차 해소&quot;",
-			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=359191",
-			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=359191",
-			"description":"전국형 프로그램은 올해 2월까지 서울·인천, 경상, 경기 및 호남·제주 지역에서 모집한 수강생 200여명을 대상으로 ▲경남 수남초등학교 ▲경기 나비초등학교 ▲인천 <b>청라<\/b>초등학교 등에서 순차적으로 진행된다. 박기현... ",
-			"pubDate":"Sat, 26 Oct 2024 10:20:00 +0900"
 		}
 	]
 }
