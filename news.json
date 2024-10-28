@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 28 Oct 2024 16:30:02 +0900",
-	"total":251096,
+	"lastBuildDate":"Mon, 28 Oct 2024 16:40:02 +0900",
+	"total":251097,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전통연희단 잔치마당, '인천아리랑 연가' 11월 5회 공연",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=255788",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=255788",
+			"description":"연희판놀음 인천아리랑 연가 풍물연희 공연 (사진제공 전통연희단 잔치마당) 공연은 오는 11월 2일과 3일 부평아트센터 해누리극장을 시작으로 11월 12일 <b>청라<\/b>블루노바홀, 11월 20일과 21일 강화문예회관에서 진행할... ",
+			"pubDate":"Mon, 28 Oct 2024 16:32:00 +0900"
+		},
 		{
 			"title":"인천경제청, 영종 미단시티 외국학교법인 선정 공모 설명회 성료",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1172607",
@@ -131,17 +138,17 @@
 			"pubDate":"Mon, 28 Oct 2024 14:30:00 +0900"
 		},
 		{
-			"title":"인천경제청 영종 미단시티 외국학교법인 설립 선정 공모 설명회 개최",
-			"originallink":"https:\/\/www.viva100.com\/article\/20241028501044",
-			"link":"https:\/\/www.viva100.com\/article\/20241028501044",
-			"description":"현재 인천경제자유구역에는 송도에 채드윅 국제학교 및 칼빈 매니토바 국제학교, 그리고 <b>청라<\/b>에 달튼 외국인학교가 있으며, 영종 국제학교까지 설립되면 총 4개의 외국명문학교(K-12)가 인천경제자유구역에 위치하게 되어... ",
-			"pubDate":"Mon, 28 Oct 2024 14:20:00 +0900"
-		},
-		{
 			"title":"인천경제청, 영종 미단시티 외국학교법인 선정 공모 설명회 성료",
 			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20241028500272",
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20241028500272",
 			"description":"사업이 완성되면 인천경제청의 송도, 영종, <b>청라<\/b> 세 곳의 국제학교가 완성된다. 현재 인천경제자유구역에는 송도에 채드윅 국제학교 및 칼빈 매니토바 국제학교, 그리고 <b>청라<\/b>에 달튼 외국인학교가 있으며, 영종... ",
+			"pubDate":"Mon, 28 Oct 2024 14:20:00 +0900"
+		},
+		{
+			"title":"인천경제청 영종 미단시티 외국학교법인 설립 선정 공모 설명회 개최",
+			"originallink":"https:\/\/www.viva100.com\/article\/20241028501044",
+			"link":"https:\/\/www.viva100.com\/article\/20241028501044",
+			"description":"현재 인천경제자유구역에는 송도에 채드윅 국제학교 및 칼빈 매니토바 국제학교, 그리고 <b>청라<\/b>에 달튼 외국인학교가 있으며, 영종 국제학교까지 설립되면 총 4개의 외국명문학교(K-12)가 인천경제자유구역에 위치하게 되어... ",
 			"pubDate":"Mon, 28 Oct 2024 14:20:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001734395?sid=102",
 			"description":"사업이 마무리되면 인천경제자유구역 송도, 영종, <b>청라<\/b> 3곳의 국제학교가 완성된다. 현재 송도에는 채드윅 국제학교와 칼빈 매니토바 국제학교, <b>청라<\/b>에는 달튼 외국인학교가 있다.",
 			"pubDate":"Mon, 28 Oct 2024 12:32:00 +0900"
-		},
-		{
-			"title":"영종 미단시티 외국학교법인 선정 공모 설명회 성료",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1951347",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1951347",
-			"description":"사업이 완성되면 인천경제청의 송도, 영종, <b>청라<\/b> 세 곳의 국제학교가 완성된다. 현재 인천경제자유구역에는 송도에 채드윅 국제학교 및 칼빈 매니토바 국제학교, 그리고 <b>청라<\/b>에 달튼 외국인학교가 있으며, 영종... ",
-			"pubDate":"Mon, 28 Oct 2024 12:24:00 +0900"
 		}
 	]
 }
