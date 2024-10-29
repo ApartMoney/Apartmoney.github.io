@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 29 Oct 2024 13:40:02 +0900",
-	"total":251144,
+	"lastBuildDate":"Tue, 29 Oct 2024 13:50:02 +0900",
+	"total":251145,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 시민의 날 기념 99명 모범 시민 표창 수여",
+			"originallink":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=191637",
+			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=191637",
+			"description":"주요 수상자로는 △ 지난 8월 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재를 신속하게 진압하고 인명을 구조한 인천서부소방서 소속 양승용 소방위, 남성우 소방위, 신재형 소방장과 성춘희 대장을 비롯한... ",
+			"pubDate":"Tue, 29 Oct 2024 13:40:00 +0900"
+		},
 		{
 			"title":"서구, 구 명칭 변경 공감대 형성 직원교육 실시",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1952207",
@@ -82,17 +89,17 @@
 			"pubDate":"Tue, 29 Oct 2024 11:26:00 +0900"
 		},
 		{
-			"title":"인천시 서구, 2024년 재난대응 안전한국훈련으로 빈틈 없이 복합재난 대...",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289259813454",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289259813454",
-			"description":"지난 8월 1일 발생한 <b>청라<\/b> 전기차 화재와 같은 상황에 대응하기 위하여 전기차 화재진압 훈련 과정이... 발생한 <b>청라<\/b>아파트 화재 상황을 복기하는 계기가 되었다”며 “이번 훈련 같은 다중밀집시설에 관해서도 이런... ",
-			"pubDate":"Tue, 29 Oct 2024 11:06:00 +0900"
-		},
-		{
 			"title":"인천시 서구자원봉사센터, 지역내 14개 기업체와 함께 서로나눔김장대...",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289059177624",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289059177624",
 			"description":"(주)서인천발전본부, ▲포스코인터내셔널, ▲한국가스기술공사인천지사, ▲항공안전기술원, ▲가톨릭관동대학교국제성모병원, ▲한국환경공단, ▲한국토지주택공사<b>청라<\/b>영종사업본부, ▲인천서구가정어린이집연합회... ",
+			"pubDate":"Tue, 29 Oct 2024 11:06:00 +0900"
+		},
+		{
+			"title":"인천시 서구, 2024년 재난대응 안전한국훈련으로 빈틈 없이 복합재난 대...",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289259813454",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289259813454",
+			"description":"지난 8월 1일 발생한 <b>청라<\/b> 전기차 화재와 같은 상황에 대응하기 위하여 전기차 화재진압 훈련 과정이... 발생한 <b>청라<\/b>아파트 화재 상황을 복기하는 계기가 되었다”며 “이번 훈련 같은 다중밀집시설에 관해서도 이런... ",
 			"pubDate":"Tue, 29 Oct 2024 11:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=401664",
 			"description":"예를 들어 <b>청라<\/b>와 검단 등 신도시에 과밀된 학생수 100명과 덕적도에 1명의 학생이 있다면 인천지역의 모든 학생 수를 합산해 평균을 내고 25명당 교사 1명을 기준으로 인천에 교사를 배치합니다. 이렇게 되면 교사는 총... ",
 			"pubDate":"Tue, 29 Oct 2024 07:34:00 +0900"
-		},
-		{
-			"title":"[Invest]뒤로 밀린 SK그룹 수소사업…연말인사 앞두고 주역들 거취도 주...",
-			"originallink":"https:\/\/www.investchosun.com\/site\/data\/html_dir\/2024\/10\/28\/2024102880205.html",
-			"link":"https:\/\/www.investchosun.com\/site\/data\/html_dir\/2024\/10\/28\/2024102880205.html",
-			"description":"인천 <b>청라<\/b>의 수소 연료전지 관련 사업도 지지부진한 등 JV 활약도 아직은 아쉽다.SK E&amp;S가 충청남도 보령에 추진 중인 블루수소 사업은 본격 시작 전부터 안갯속이다. SK이노베이션과 합병이 이뤄지면 사업의 우선... ",
-			"pubDate":"Tue, 29 Oct 2024 07:02:00 +0900"
 		}
 	]
 }
