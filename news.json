@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 30 Oct 2024 17:20:02 +0900",
-	"total":251384,
+	"lastBuildDate":"Wed, 30 Oct 2024 17:30:02 +0900",
+	"total":251385,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"오늘의 인사 종합",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=04208246639058168",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005872787?sid=102",
+			"description":"송희동 △스타필드<b>청라<\/b>담당 전윤석 &lt;전보&gt; ◇상무 △QS담당 윤석희 ●더블유컨셉코리아 &lt;승진&gt; ◇전무 △대표이사 이주철 ●SCK 컴퍼니 &lt;승진&gt; ◇상무 △인사담당 장수아 ●신세계인터내셔날 &lt;승진&gt; ◇부사장... ",
+			"pubDate":"Wed, 30 Oct 2024 17:25:00 +0900"
+		},
 		{
 			"title":"정용진 신세계그룹 회장 취임 후 첫 정기인사…'신상필벌 ·인적쇄신' 의...",
 			"originallink":"http:\/\/www.whitepaper.co.kr\/news\/articleView.html?idxno=239490",
@@ -19,17 +26,17 @@
 			"pubDate":"Wed, 30 Oct 2024 17:02:00 +0900"
 		},
 		{
-			"title":"인천시 서구보건소, 해충기피제 분사기 집중 점검으로 안전한 생활환경...",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282063664242",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282063664242",
-			"description":"설치장소는 서구 관내 ▲<b>청라<\/b>호수공원 ▲서곶근린공원 ▲능내근린공원 ▲원신근린공원 등 총 26곳이다. 기피제는 1회 분사 시 3~4시간 정도 효과가 지속되며 반려동물과 5세 미만 영유아의 사용은 금한다. 얼굴과 목, 상처... ",
-			"pubDate":"Wed, 30 Oct 2024 17:02:00 +0900"
-		},
-		{
 			"title":"인천시 서구, 마음놓고 마을에서 돌보는 다함께돌봄센터 11호점 개소식...",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282020239278",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282020239278",
 			"description":"지난 9월 2일에 개소한 다함께돌봄센터 11호점은 초등학생 돌봄 사각지대 해소를 위해 <b>청라<\/b>29블럭 호반베르디움 아파트에 설치됐으며, 돌봄이 필요한 모든 초등학생이 이용할 수 있다. 정원은 20명이며, 입소 문의가 많아... ",
+			"pubDate":"Wed, 30 Oct 2024 17:02:00 +0900"
+		},
+		{
+			"title":"인천시 서구보건소, 해충기피제 분사기 집중 점검으로 안전한 생활환경...",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282063664242",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282063664242",
+			"description":"설치장소는 서구 관내 ▲<b>청라<\/b>호수공원 ▲서곶근린공원 ▲능내근린공원 ▲원신근린공원 등 총 26곳이다. 기피제는 1회 분사 시 3~4시간 정도 효과가 지속되며 반려동물과 5세 미만 영유아의 사용은 금한다. 얼굴과 목, 상처... ",
 			"pubDate":"Wed, 30 Oct 2024 17:02:00 +0900"
 		},
 		{
@@ -61,17 +68,17 @@
 			"pubDate":"Wed, 30 Oct 2024 16:47:00 +0900"
 		},
 		{
-			"title":"'신상필벌 통한 인적쇄신 '정용진 표' 인사 드러났다…회장 3월 승진 후...",
-			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=24922",
-			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=24922",
-			"description":"스타필드 <b>청라<\/b>·창원·광주점 출점 등 굵직굵직한 프로젝트를 추진 중인 신세계프라퍼티와 기업공개(IPO)를 준비하는 SCK컴퍼니는 대표 유임을 통해 리더십과 조직 안정을 꾀했다. 업계 한 관계자는 &quot;정용진 회장이 지난해... ",
-			"pubDate":"Wed, 30 Oct 2024 16:46:00 +0900"
-		},
-		{
 			"title":"[인사] 산업부·행안부·중기부 등",
 			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=220808",
 			"link":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=220808",
 			"description":"스타필드<b>청라<\/b>담당 ◇신세계 전무 승진 ▲박순민 신세계 센텀시티점장 ◇신세계 상무 승진 ▲이상헌 신세계 해외패션담당 ▲최원준 신세계 식품담당 ◇신세계 상무보 승진 ▲이은영 신세계 라이프스타일담당 겸... ",
+			"pubDate":"Wed, 30 Oct 2024 16:46:00 +0900"
+		},
+		{
+			"title":"'신상필벌 통한 인적쇄신 '정용진 표' 인사 드러났다…회장 3월 승진 후...",
+			"originallink":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=24922",
+			"link":"https:\/\/www.s-journal.co.kr\/news\/articleView.html?idxno=24922",
+			"description":"스타필드 <b>청라<\/b>·창원·광주점 출점 등 굵직굵직한 프로젝트를 추진 중인 신세계프라퍼티와 기업공개(IPO)를 준비하는 SCK컴퍼니는 대표 유임을 통해 리더십과 조직 안정을 꾀했다. 업계 한 관계자는 &quot;정용진 회장이 지난해... ",
 			"pubDate":"Wed, 30 Oct 2024 16:46:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=191787",
 			"description":"스타필드<b>청라<\/b>담당 □ ㈜신세계 △전무 승진 박 순 민 ㈜신세계 센텀시티점장 △상무 승진 이 상 헌 ㈜신세계 해외패션담당 최 원 준 ㈜신세계 식품담당 △상무보 승진 이 은 영  ㈜신세계 라이프스타일담당 兼... ",
 			"pubDate":"Wed, 30 Oct 2024 14:48:00 +0900"
-		},
-		{
-			"title":"[인사] 신세계그룹",
-			"originallink":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=87672",
-			"link":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=87672",
-			"description":"스타필드<b>청라<\/b>담당 &lt;신세계&gt; ◇ 전무 승진 ▲ 박순민 ㈜신세계 센텀시티점장 ◇ 상무 승진 ▲ 이상헌 ㈜신세계 해외패션담당 ▲ 최원준 ㈜신세계 식품담당 ◇ 상무보 승진 ▲ 이은영 ㈜신세계 라이프스타일담당 겸... ",
-			"pubDate":"Wed, 30 Oct 2024 14:46:00 +0900"
 		}
 	]
 }
