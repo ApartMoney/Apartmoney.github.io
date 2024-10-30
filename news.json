@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Thu, 31 Oct 2024 03:00:02 +0900",
-	"total":251409,
+	"lastBuildDate":"Thu, 31 Oct 2024 03:10:02 +0900",
+	"total":251413,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20241031\/130329202\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003595381?sid=102",
+			"description":"11월 16일 오후 2시∼3시 반 <b>청라<\/b>국제도서관 제1다목적실. □명상 교실=‘11월 문화가 있는 날―나를 돌보는 그림책 명상’ 참가자 30명. 11월 25일 오후 7시 비대면(ZOOM). □독서 활동=‘해외 문학 강독회―앙리... ",
+			"pubDate":"Thu, 31 Oct 2024 03:06:00 +0900"
+		},
+		{
+			"title":"인천 신도시 112 신고 급증… “인력 확충을”",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20241031\/130329196\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003595382?sid=102",
+			"description":"인천에서 송도국제도시와 <b>청라<\/b>국제도시 등 신도시 지역의 112 신고가 크게 늘어나고 있다. 신도시 인구... (1만6563건), <b>청라<\/b>지구대(1만5154건), 송도국제도시지구대(1만4998건) 순으로 분석됐다. 눈에 띄는 건 <b>청라<\/b>지구대와... ",
+			"pubDate":"Thu, 31 Oct 2024 03:06:00 +0900"
+		},
+		{
+			"title":"인천∼백령 대형 여객선 운항… 공영화해 안정적 체계 구축해야[기고\/문...",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20241031\/130329194\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003595383?sid=102",
+			"description":"영종∼서구 <b>청라<\/b>를 연결하는 제3연륙교 4.67km의 건설비용은 6500억 원이다. 국내 최장 항로인 인천∼백령 222km에 도로의 역할을 대신하는 여객선 건조가 800억 원이라는 점을 고려하면 상대적으로 저렴한 비용이다.... ",
+			"pubDate":"Thu, 31 Oct 2024 03:06:00 +0900"
+		},
+		{
+			"title":"[사설] 신도대교 등 제때 개통 ‘적신호’... 인천시민들 실망 걱정이다",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20241030580185",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000055627?sid=110",
+			"description":"<b>청라<\/b>~영종 간의 제3연륙교와 영종~신도 간의 신도대교다. 둘 다 바다를 건너 인천의 영역을 확장하는 사업이다. 오래 끌어온 지역 숙원 사업이기도 하다. 제3연륙교를 성사시키기 위해 <b>청라<\/b>·영종국제도시 주민들은... ",
+			"pubDate":"Thu, 31 Oct 2024 03:02:00 +0900"
+		},
 		{
 			"title":"주요 유통사 신규 출점 24곳…복합 쇼핑몰 비중 가장 높아",
 			"originallink":"http:\/\/www.apparelnews.co.kr\/news\/news_view\/?idx=213865",
@@ -124,17 +152,17 @@
 			"pubDate":"Wed, 30 Oct 2024 18:20:00 +0900"
 		},
 		{
-			"title":"[오피셜] SSG, 김재섭 신임 대표이사 임명...SK 왕조+SSG 통합우승 함께...",
-			"originallink":"https:\/\/www.sportalkorea.com\/news\/view.php?gisa_uniq=2024103017535640&section_code=8111&cp=se&sp=B",
-			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/139\/0002212822",
-			"description":"이마트 지원본부 관리담당, 2022년 이마트 기획개발본부 기획관리담당직을 역임했다. 김재섭 신임 대표 체제 아래 SSG는 2028년 <b>청라<\/b>돔 시대를 맞이할 것으로 보인다. 사진= SSG 랜더스, 신세계그룹 제공, OSEN, 뉴스1",
-			"pubDate":"Wed, 30 Oct 2024 18:18:00 +0900"
-		},
-		{
 			"title":"[인사] 신세계그룹 임원",
 			"originallink":"http:\/\/www.greenpostkorea.co.kr\/news\/articleView.html?idxno=221617",
 			"link":"http:\/\/www.greenpostkorea.co.kr\/news\/articleView.html?idxno=221617",
 			"description":"(스타필드<b>청라<\/b>담당) 전윤석 ◇신세계 ▲전무(센텀시티점장) 박순민 ▲상무(해외패션담당) 이상헌 ▲상무(식품담당) 최원준 ▲상무보(라이프스타일담당 겸 코스메틱잡화담당) 이은영 ▲상무보(브랜드디자인담당 겸... ",
+			"pubDate":"Wed, 30 Oct 2024 18:18:00 +0900"
+		},
+		{
+			"title":"[오피셜] SSG, 김재섭 신임 대표이사 임명...SK 왕조+SSG 통합우승 함께...",
+			"originallink":"https:\/\/www.sportalkorea.com\/news\/view.php?gisa_uniq=2024103017535640&section_code=8111&cp=se&sp=B",
+			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/139\/0002212822",
+			"description":"이마트 지원본부 관리담당, 2022년 이마트 기획개발본부 기획관리담당직을 역임했다. 김재섭 신임 대표 체제 아래 SSG는 2028년 <b>청라<\/b>돔 시대를 맞이할 것으로 보인다. 사진= SSG 랜더스, 신세계그룹 제공, OSEN, 뉴스1",
 			"pubDate":"Wed, 30 Oct 2024 18:18:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"http:\/\/www.whitepaper.co.kr\/news\/articleView.html?idxno=239490",
 			"description":"스타필드 <b>청라<\/b>·창원·광주점 출점 등 굵직굵직한 프로젝트를 추진 중인 신세계프라퍼티와 기업공개(IPO)를 준비하는 SCK컴퍼니는 대표 유임으로 리더십과 조직 안정을 꾀한 것으로 풀이된다.",
 			"pubDate":"Wed, 30 Oct 2024 17:06:00 +0900"
-		},
-		{
-			"title":"인천시, 모범시민 표창 수여식 개최...99명의 모범 시민 표창",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160279327758537",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160279327758537",
-			"description":"<b>청라<\/b> 전기차 화재진압 및 인명구조, 시민 건강증진, 응급환자 구조 등 선행 ▲ 유정복 시장이 28일 시청... 주요 수상자로는 ▲ 지난 8월 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재를 신속하게 진압하고 인명을... ",
-			"pubDate":"Wed, 30 Oct 2024 17:02:00 +0900"
-		},
-		{
-			"title":"인천시 서구보건소, 해충기피제 분사기 집중 점검으로 안전한 생활환경...",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282063664242",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282063664242",
-			"description":"설치장소는 서구 관내 ▲<b>청라<\/b>호수공원 ▲서곶근린공원 ▲능내근린공원 ▲원신근린공원 등 총 26곳이다. 기피제는 1회 분사 시 3~4시간 정도 효과가 지속되며 반려동물과 5세 미만 영유아의 사용은 금한다. 얼굴과 목, 상처... ",
-			"pubDate":"Wed, 30 Oct 2024 17:02:00 +0900"
-		},
-		{
-			"title":"인천시 서구, 마음놓고 마을에서 돌보는 다함께돌봄센터 11호점 개소식...",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282020239278",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282020239278",
-			"description":"지난 9월 2일에 개소한 다함께돌봄센터 11호점은 초등학생 돌봄 사각지대 해소를 위해 <b>청라<\/b>29블럭 호반베르디움 아파트에 설치됐으며, 돌봄이 필요한 모든 초등학생이 이용할 수 있다. 정원은 20명이며, 입소 문의가 많아... ",
-			"pubDate":"Wed, 30 Oct 2024 17:02:00 +0900"
-		},
-		{
-			"title":"인천 서구, 구 명칭 변경 직원교육",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1087629",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1087629",
-			"description":"한편, 지역주민을 대상으로 하는 구 명칭 변경 주민설명회는 <b>청라<\/b>2동 대회의실(11월 12일, 16시), 가정1동 대회의실(11월 15일, 10시)에서 개최될 예정이다. [전국매일신문] 인천\/ 맹창수 기자",
-			"pubDate":"Wed, 30 Oct 2024 16:58:00 +0900"
 		}
 	]
 }
