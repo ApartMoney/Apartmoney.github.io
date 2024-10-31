@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 31 Oct 2024 20:10:02 +0900",
-	"total":251518,
+	"lastBuildDate":"Thu, 31 Oct 2024 20:20:02 +0900",
+	"total":251519,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 내년 예산 14조9천억원 편성...2015년 이후 규모 축소",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20241031580178",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000055722?sid=100",
+			"description":"글로벌 중심지 경제자유구역 발전을 위해 제3연륙교 건설(1천504억원), 서울7호선 <b>청라<\/b>국제도시 연장(1천50억원) 등 기반시설 확충과 K-바이오 랩허브(121억원), <b>청라<\/b>의료복합타운 기반시설 조성(75억원) 등 기반시설... ",
+			"pubDate":"Thu, 31 Oct 2024 20:16:00 +0900"
+		},
 		{
 			"title":"인천서구, 구환 유도관 이웃돕기 성금 전달",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=478681",
@@ -103,17 +110,17 @@
 			"pubDate":"Thu, 31 Oct 2024 17:30:00 +0900"
 		},
 		{
-			"title":"인천시, 내년 예산 14조 9,396억 원 편성…민생과 시민 행복에 집중",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=478659",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=478659",
-			"description":"글로벌 중심지 경제자유구역 발전을 위해 제3연륙교 건설(1,504억 원), 서울7호선 <b>청라<\/b>국제도시 연장(1,050억 원) 등 기반시설 확충과 K-바이오 랩허브(121억 원), <b>청라<\/b>의료복합타운 기반시설 조성(75억 원) 등 기반시설... ",
-			"pubDate":"Thu, 31 Oct 2024 17:26:00 +0900"
-		},
-		{
 			"title":"HDC현대산업개발, 재무·비재무 '두마리 토끼' 잡았다",
 			"originallink":"https:\/\/www.kpinews.kr\/newsView\/1065601380037362",
 			"link":"https:\/\/www.kpinews.kr\/newsView\/1065601380037362",
 			"description":"4분기 분양 예정인 광운대역세권 개발사업을 시작으로 용산철도병원부지 개발사업, 잠실 스포츠\/MICE, <b>청라<\/b> 의료복합타운, 공릉역세권개발사업 등 4조2000억 원 이상의 서울 수도권 복합개발 사업들이 줄지어 대기... ",
+			"pubDate":"Thu, 31 Oct 2024 17:26:00 +0900"
+		},
+		{
+			"title":"인천시, 내년 예산 14조 9,396억 원 편성…민생과 시민 행복에 집중",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=478659",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=478659",
+			"description":"글로벌 중심지 경제자유구역 발전을 위해 제3연륙교 건설(1,504억 원), 서울7호선 <b>청라<\/b>국제도시 연장(1,050억 원) 등 기반시설 확충과 K-바이오 랩허브(121억 원), <b>청라<\/b>의료복합타운 기반시설 조성(75억 원) 등 기반시설... ",
 			"pubDate":"Thu, 31 Oct 2024 17:26:00 +0900"
 		},
 		{
@@ -194,13 +201,6 @@
 			"pubDate":"Thu, 31 Oct 2024 16:28:00 +0900"
 		},
 		{
-			"title":"ESG·실적 다 잡은 HDC현대산업개발 … 신용도 '든든'",
-			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/10\/31\/2024103100357.html",
-			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/10\/31\/2024103100357.html",
-			"description":"4분기 분양예정인 광운대역세권 개발사업을 시작으로 △용산철도병원부지 개발사업 △잠실 스포츠·마이스(MICE) △<b>청라<\/b> 의료복합타운 △공릉역세권개발사업 등 4조2000억원이상 규모 복합개발 사업들이... ",
-			"pubDate":"Thu, 31 Oct 2024 16:14:00 +0900"
-		},
-		{
 			"title":"인천시 내년 예산안 14조9천억 편성…10년 만에 감축",
 			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8095245&ref=A",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011829360?sid=102",
@@ -208,11 +208,11 @@
 			"pubDate":"Thu, 31 Oct 2024 16:14:00 +0900"
 		},
 		{
-			"title":"‘<b>청라<\/b>돔 확정’ 2028시즌 정조준하는 SSG, 최정 다년계약 확정으로 방점...",
-			"originallink":"https:\/\/sports.donga.com\/article\/all\/20241031\/130335140\/1",
-			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/382\/0001160250",
-			"description":"인천경제자유구역청은 인천 서구 <b>청라<\/b>동 일대에 건립될 ‘스타필드 <b>청라<\/b>’의 건축허가 변경을 승인했다고 10월 29일 밝혔다. 이번 건축허가 변경으로 스타필드 <b>청라<\/b>에는 2만1000석 규모의 멀티스타디움(돔구장)... ",
-			"pubDate":"Thu, 31 Oct 2024 16:11:00 +0900"
+			"title":"ESG·실적 다 잡은 HDC현대산업개발 … 신용도 '든든'",
+			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/10\/31\/2024103100357.html",
+			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2024\/10\/31\/2024103100357.html",
+			"description":"4분기 분양예정인 광운대역세권 개발사업을 시작으로 △용산철도병원부지 개발사업 △잠실 스포츠·마이스(MICE) △<b>청라<\/b> 의료복합타운 △공릉역세권개발사업 등 4조2000억원이상 규모 복합개발 사업들이... ",
+			"pubDate":"Thu, 31 Oct 2024 16:14:00 +0900"
 		}
 	]
 }
