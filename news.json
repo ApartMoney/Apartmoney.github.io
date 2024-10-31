@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 31 Oct 2024 21:10:02 +0900",
-	"total":251520,
+	"lastBuildDate":"Thu, 31 Oct 2024 21:20:02 +0900",
+	"total":251521,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시 내년 예산안 14조9396억… 올보다 972억 줄였다",
+			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20241101010003471",
+			"link":"http:\/\/www.kyeongin.com\/main\/view.php?key=20241101010003471",
+			"description":"행정체제 개편, 1호선 검단 연장, 7호선 <b>청라<\/b> 연장 등 '미래사회 준비'에 4조2천31억원을 투입한다.유정복 시장은 &quot;인천시가 나아가고자 하는 큰 목표를 (예산안에) 담았다&quot;면서 &quot;시민 행복 체감지수를 높이고... ",
+			"pubDate":"Thu, 31 Oct 2024 21:10:00 +0900"
+		},
 		{
 			"title":"2028년 UAM 상용화…인천, 밑그림에 채색 더한다",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=402064",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=63674",
 			"description":"[사진=시사캐스트DB] 지난 8월 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 전기차 화재 사고 이후 이른바 '전기차 화재 포비아(공포증)'가 확산하면서 국내 전기차 판매량도 급감하고 있다. 그런데 전기차와 같이 리튬... ",
 			"pubDate":"Thu, 31 Oct 2024 16:28:00 +0900"
-		},
-		{
-			"title":"인천시 내년 예산안 14조9천억 편성…10년 만에 감축",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8095245&ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011829360?sid=102",
-			"description":"<b>청라<\/b>와 영종을 잇는 제3연륙교와 인천지하철 1호선 검단연장선 건설이 마무리되면서 관련 특별회계 세입과 세출 3천억 원 이상 줄어든 데 따른 것입니다. 시는 내년도 특별회계를 올해보다 12.8% 줄어든 3조 7천803억... ",
-			"pubDate":"Thu, 31 Oct 2024 16:14:00 +0900"
 		}
 	]
 }
