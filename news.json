@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 02 Nov 2024 10:40:02 +0900",
-	"total":251568,
+	"lastBuildDate":"Sat, 02 Nov 2024 10:50:02 +0900",
+	"total":251569,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"아이브이에이치, 국제치안산업대전에서 첨단 기술 선보여",
+			"originallink":"https:\/\/www.hellot.net\/news\/article.html?no=95000",
+			"link":"https:\/\/www.hellot.net\/news\/article.html?no=95000",
+			"description":"아이브이에이치는 이를 위해 인천 <b>청라<\/b> 로봇랜드의 디지털트윈 모델을 기반으로 네트워크 로드밸런싱 평가용 시뮬레이터를 개발했다. 해당 시뮬레이터는 ASAM Simulation 표준에 따라 제작됐으며, 향후 가상 기반의 V2X... ",
+			"pubDate":"Sat, 02 Nov 2024 10:44:00 +0900"
+		},
 		{
 			"title":"인천시, 내년 예산 14조9천억 편성…&quot;민생과 시민 행복에 집중&quot;",
 			"originallink":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=90938",
@@ -36,7 +43,7 @@
 			"title":"정용진은 줄이고 정유경은 늘리고…신세계 조직개편 뜯어보니",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DGORVGN8X",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004410166?sid=101",
-			"description":"대신 신세계건설은 <b>청라<\/b> 사업에 집중하기 위해 스타필드<b>청라<\/b>담당 조직을 꾸렸다. 반면, 정유경 회장이 총대를 잡은 백화점부문은 백화점에 쏠린 사업구조를 다변화하기 위해 뷰티 조직을 확장했다. 신세계백화점은 대표... ",
+			"description":"대신 신세계건설은 <b>청라<\/b> 사업에 집중하기 위해 스타필드<b>청라<\/b>담당 조직을 꾸렸다. 정유경의 첫 번째 특명…'뷰티 키워라' 반면, 정유경 회장이 총대를 잡은 백화점부문은 백화점에 쏠린 사업구조를 다변화하기 위해 뷰티... ",
 			"pubDate":"Sat, 02 Nov 2024 05:32:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.naeil.com\/news\/read\/527504?ref=naver",
 			"description":"현대무벡스는 올해 초 <b>청라<\/b>R&amp;D센터에 태양광발전설비를 도입해 ‘RE100’ 달성을 위한 첫발을 뗐다. 이와 함께 주력 생산제품인 스크린도어와 안전발판이 미국 스웨덴 노르웨이 등 각국의 인증기관으로부터... ",
 			"pubDate":"Fri, 01 Nov 2024 13:04:00 +0900"
-		},
-		{
-			"title":"문진석 의원, “주차 중 BMS 미작동, 이상징후 알람기능 없는 차종 다수...",
-			"originallink":"http:\/\/www.livesnews.com\/news\/article.html?no=44254",
-			"link":"http:\/\/www.livesnews.com\/news\/article.html?no=44254",
-			"description":"제2의 인천 <b>청라<\/b> 전기차 화재를 막기 위해서는 BMS 를 중심으로 한 예방 체계가 마련돼야 하는 만큼, 국토교통부와 제작사가 구형 BMS 업데이트에 나서야 한다는 지적이 제기된다. 국회 국토교통위원회... ",
-			"pubDate":"Fri, 01 Nov 2024 11:34:00 +0900"
 		}
 	]
 }
