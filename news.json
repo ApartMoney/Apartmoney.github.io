@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 04 Nov 2024 05:30:02 +0900",
-	"total":251588,
+	"lastBuildDate":"Mon, 04 Nov 2024 05:40:02 +0900",
+	"total":251589,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"정용진은 줄이고 정유경은 늘리고…신세계 조직개편 뜯어보니",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2DGPPUTAIP",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004410514?sid=101",
+			"description":"대신 그룹의 역점사업인 스타필드<b>청라<\/b> 사업에 집중하기 위해 전담 조직을 꾸렸다. 반면 정유경 회장이 총대를 잡은 백화점 부문은 백화점에 쏠린 사업구조를 다변화하기 위해 뷰티 조직을 확장했다. 신세계백화점은... ",
+			"pubDate":"Mon, 04 Nov 2024 05:31:00 +0900"
+		},
 		{
 			"title":"인천공항공사, '제4회 K-UAM 컨펙스' 성공 개최",
 			"originallink":"http:\/\/www.kyeongin.com\/main\/view.php?key=20241104010000009",
@@ -40,17 +47,17 @@
 			"pubDate":"Sun, 03 Nov 2024 19:20:00 +0900"
 		},
 		{
-			"title":"인천로봇랜드 조성사업 내달께 재가동",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1117323",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1117323",
-			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천 <b>청라<\/b> 로봇랜드. \/기호일보 DB 부동산 경기 침체와 낮은 사업성... 인천로봇랜드는 <b>청라<\/b>국제도시에 사업비 7천100여억 원을 들여 76만9천281㎡ 규모에 로봇타워와 로봇R&amp;D센터... ",
-			"pubDate":"Sun, 03 Nov 2024 19:20:00 +0900"
-		},
-		{
 			"title":"&quot;<b>청라<\/b>소각장 폐쇄 10년 걸린다&quot;… 인천환경공단 설문조사에 주민들 발칵",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363676381",
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363676381",
 			"description":"인천환경공단이 내구연한이 지난 <b>청라<\/b>소각장(<b>청라<\/b>자원환경센터)의 연장을 시도하고 있다는 의혹이 <b>청라<\/b>지역 주민들 사이에서 확산되고 있다. 3일 중부일보 취재를 종합하면, 인천환경공단 <b>청라<\/b>사업소는 최근... ",
+			"pubDate":"Sun, 03 Nov 2024 19:20:00 +0900"
+		},
+		{
+			"title":"인천로봇랜드 조성사업 내달께 재가동",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1117323",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1117323",
+			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 인천 <b>청라<\/b> 로봇랜드. \/기호일보 DB 부동산 경기 침체와 낮은 사업성... 인천로봇랜드는 <b>청라<\/b>국제도시에 사업비 7천100여억 원을 들여 76만9천281㎡ 규모에 로봇타워와 로봇R&amp;D센터... ",
 			"pubDate":"Sun, 03 Nov 2024 19:20:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160301396482562",
 			"description":"이번 연구에는 김원진, 박용갑, 김춘수, 홍순서, 심우창 의원을 비롯하여 조은상 인천시 서구 주민자치회 협의회장, 박철민 <b>청라<\/b>1동 주민자치회장, 민혁기 인천시마을공동체만들기지원센터 팀장과 연구용역 수행업체인... ",
 			"pubDate":"Sat, 02 Nov 2024 01:00:00 +0900"
-		},
-		{
-			"title":"11\/1~2 이마트·홈플러스·롯데마트·노브랜드 휴무일·영업지점... 대형...",
-			"originallink":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=35205",
-			"link":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=35205",
-			"description":"인천<b>청라<\/b>, 인천연수, 인천송도, 부천여월, 부천상동, 부천소사, 분당오리, 야탑, 시화, 송탄, 평택안중... 송도점, <b>청라<\/b>점, 검단점, 부평점, 영종도점, 삼산점, 연수점, 부평역점 등 이다. 또 11월 13일, 27일(둘째, 네째 주... ",
-			"pubDate":"Sat, 02 Nov 2024 00:10:00 +0900"
 		}
 	]
 }
