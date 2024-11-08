@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 09 Nov 2024 02:20:02 +0900",
-	"total":251963,
+	"lastBuildDate":"Sat, 09 Nov 2024 02:30:03 +0900",
+	"total":251964,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[기자칼럼] 소방 향한 윤석열 정부 애정은 고작 이만큼인가",
+			"originallink":"http:\/\/fpn119.co.kr\/224699",
+			"link":"http:\/\/fpn119.co.kr\/224699",
+			"description":"게다가 인천 <b>청라<\/b>에서 발생한 아파트 주차장 화재는 기술 발전에 따라 변화하는 재난 양상이 우리 사회를 얼마나 크게 위협하고 있는지를 여실히 드러냈다. 소방의 역량 강화를 위한 정부 차원의 관심과 지원이... ",
+			"pubDate":"Sat, 09 Nov 2024 02:28:00 +0900"
+		},
 		{
 			"title":"인천시, 시민과 함께 새로운 자원순환센터의 미래를 그리다",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=479738",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002890533?sid=102",
 			"description":"인천은 2003년 경제자유구역 지정에 따라 송도, 영종, <b>청라<\/b> 등 의 신도시로 중심지가 이전되면서 기존 원도심은 인구 감소, 빈집 증가, 산업 노후화 등이 새로운 사회문제로 대두되고 있다. 특히 2000년대 기준 원도심에는... ",
 			"pubDate":"Fri, 08 Nov 2024 09:12:00 +0900"
-		},
-		{
-			"title":"인천시, 시민과 함께 새로운 자원순환센터의 미래를 그리다",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202411080903440910616",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202411080903440910616",
-			"description":"공모 기간은 11월 5일부터 12월 1일까지로, 자원순환센터 정책에 관심 있는 누구나 참여가 가능하며 인천광역시 홈페이지(incheon.go.kr) 새소식(링크) 또는 인천환경공단 <b>청라<\/b>·송도 자원순환센터 견학로에 비치된 응모함을... ",
-			"pubDate":"Fri, 08 Nov 2024 09:06:00 +0900"
 		}
 	]
 }
