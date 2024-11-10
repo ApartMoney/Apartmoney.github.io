@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 11 Nov 2024 05:40:02 +0900",
-	"total":252004,
+	"lastBuildDate":"Mon, 11 Nov 2024 05:50:02 +0900",
+	"total":252005,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 캐즘 넘고 재질주 언제쯤…자체 가격 경쟁력이 관건, 트럼프 당...",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202411082114139290835",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202411082114139290835",
+			"description":"특히 국내에서는 지난 8월1일 인천 <b>청라<\/b>에서 발생한 전기차 화재 사고 발생 이후 캐즘을 넘어 포비아(공포증)로까지 번져 판매가 크게 위축된 상태다. 이러한 상황 가운데 최근에는 2026년에는 배터리 제조 기술 발달과... ",
+			"pubDate":"Mon, 11 Nov 2024 05:46:00 +0900"
+		},
 		{
 			"title":"&quot;전기차 이래도 안 사?&quot;…깜깜이 배터리 안전, 정부가 직접 인증",
 			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024111014172331207",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1145852",
 			"description":"정부는 지난 9월 <b>청라<\/b>지구 아파트지하 주차장에서 발생한 전기차 화재사고를 기점으로 마련된 전기차 검사에서 배터리 성능, 배터리관리시스템(BMS) 외관과 물리적 손상 등을 점검할 수 있게 조치했다. 국내 배터리... ",
 			"pubDate":"Sun, 10 Nov 2024 14:52:00 +0900"
-		},
-		{
-			"title":"전기차 배터리 '정부가 직접' 인증한다",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1090621",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1090621",
-			"description":"인천 <b>청라<\/b> 전기차 화재 합동감식 장면. [연합뉴스] 정부가 전기차 배터리의 제작부터 사용, 폐기까지 전 주기에 걸쳐 이력을 관리할 방침이다. 국토교통부는 내년 2월 배터리 안전성 인증제 및 이력 관리제의 전면 시행을... ",
-			"pubDate":"Sun, 10 Nov 2024 14:14:00 +0900"
 		}
 	]
 }
