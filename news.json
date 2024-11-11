@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 11 Nov 2024 18:40:02 +0900",
-	"total":252138,
+	"lastBuildDate":"Mon, 11 Nov 2024 18:50:02 +0900",
+	"total":252139,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융, 임직원 참여 ESG캠페인 '모두하나데이' 실시",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2198497",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2198497",
+			"description":"의류·인형·가방 등 물품 기부는 하나원큐 앱을 통해 누구나 쉽고 간편하게 참여할 수 있으며, 그룹 사옥(명동·을지로·강남·여의도·<b>청라<\/b>) 로비에 설치된 의류 기부함을 통해서도 가능하다. 기부된 물품은 선별작업을... ",
+			"pubDate":"Mon, 11 Nov 2024 18:47:00 +0900"
+		},
 		{
 			"title":"하나금융그룹, '2024 모두하나데이' 캠페인 시작..2개월간 소외계층 돕는...",
 			"originallink":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=83029",
@@ -124,17 +131,17 @@
 			"pubDate":"Mon, 11 Nov 2024 17:11:00 +0900"
 		},
 		{
-			"title":"하나금융그룹, '2024 모두하나데이' 캠페인 실시",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=618720",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=618720",
-			"description":"먼저 의류, 인형, 가방 등 물품 기부는 하나원큐 앱을 통해 누구나 쉽고 간편하게 참여할 수 있으며, 그룹 사옥(명동, 을지로, 강남, 여의도, <b>청라<\/b>) 로비에 설치된 의류 기부함을 통해서도 가능하다. 기부된 물품은... ",
-			"pubDate":"Mon, 11 Nov 2024 17:08:00 +0900"
-		},
-		{
 			"title":"인천시의회 제2차 정례회 위원회 활동상황 보고",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3198507",
 			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3198507",
 			"description":"◆문화복지위원회, 공공시설 관리 체계 개선 및 복지 서비스 질 향상 문화복지위원회는 인천시설공단과 인천광역시사회서비스원에 대한 감사를 통해 인천대공원과 송도·영종·<b>청라<\/b>공원 등 주요 공공시설의 관리 체계를... ",
+			"pubDate":"Mon, 11 Nov 2024 17:08:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, '2024 모두하나데이' 캠페인 실시",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=618720",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=618720",
+			"description":"먼저 의류, 인형, 가방 등 물품 기부는 하나원큐 앱을 통해 누구나 쉽고 간편하게 참여할 수 있으며, 그룹 사옥(명동, 을지로, 강남, 여의도, <b>청라<\/b>) 로비에 설치된 의류 기부함을 통해서도 가능하다. 기부된 물품은... ",
 			"pubDate":"Mon, 11 Nov 2024 17:08:00 +0900"
 		},
 		{
@@ -152,13 +159,6 @@
 			"pubDate":"Mon, 11 Nov 2024 17:00:00 +0900"
 		},
 		{
-			"title":"하나금융, '2024 모두하나데이' 캠페인 시작...김장 나눔 등 2개월간 집...",
-			"originallink":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=309186",
-			"link":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=309186",
-			"description":"의류, 인형, 가방 등 물품 기부는 하나원큐 앱을 통해 누구나 쉽고 간편하게 참여할 수 있으며, 그룹 사옥(명동, 을지로, 강남, 여의도, <b>청라<\/b>) 로비에 설치된 의류 기부함을 통해서도 가능하다. 기부된 물품은 선별작업을... ",
-			"pubDate":"Mon, 11 Nov 2024 16:56:00 +0900"
-		},
-		{
 			"title":"인천시 서구, <b>청라<\/b>지역 공원 8곳 새단장",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287468355963",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287468355963",
@@ -170,6 +170,13 @@
 			"originallink":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=66765",
 			"link":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=66765",
 			"description":"의류나 인형, 가방 등 물품기부는 하나원큐 앱을 통해 누구나 참여할 수 있고 그룹 사옥(명동·을지로·강남·여의도·<b>청라<\/b>) 로비에 설치된 의류기부함을 통해서도 가능합니다. 기부물품은 선별작업을 거쳐 판매되며... ",
+			"pubDate":"Mon, 11 Nov 2024 16:56:00 +0900"
+		},
+		{
+			"title":"하나금융, '2024 모두하나데이' 캠페인 시작...김장 나눔 등 2개월간 집...",
+			"originallink":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=309186",
+			"link":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=309186",
+			"description":"의류, 인형, 가방 등 물품 기부는 하나원큐 앱을 통해 누구나 쉽고 간편하게 참여할 수 있으며, 그룹 사옥(명동, 을지로, 강남, 여의도, <b>청라<\/b>) 로비에 설치된 의류 기부함을 통해서도 가능하다. 기부된 물품은 선별작업을... ",
 			"pubDate":"Mon, 11 Nov 2024 16:56:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.nongaek.com\/news\/articleView.html?idxno=88950",
 			"description":"먼저 의류, 인형, 가방 등 물품 기부는 하나원큐 앱을 통해 누구나 쉽고 간편하게 참여할 수 있으며, 그룹 사옥(명동, 을지로, 강남, 여의도, <b>청라<\/b>) 로비에 설치된 의류 기부함을 통해서도 가능하다. 기부된 물품은... ",
 			"pubDate":"Mon, 11 Nov 2024 16:28:00 +0900"
-		},
-		{
-			"title":"하나금융 대표 ESG활동, '2024 모두하나데이' 캠페인 실시",
-			"originallink":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=26139",
-			"link":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=26139",
-			"description":"먼저, 의류, 인형, 가방 등 물품 기부는 하나원큐 앱을 통해 누구나 쉽고 간편하게 참여할 수 있으며, 그룹 사옥(명동, 을지로, 강남, 여의도, <b>청라<\/b>) 로비에 설치된 의류 기부함을 통해서도 가능하다. 기부된 물품은... ",
-			"pubDate":"Mon, 11 Nov 2024 16:24:00 +0900"
 		}
 	]
 }
