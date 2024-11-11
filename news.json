@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 11 Nov 2024 09:10:02 +0900",
-	"total":252011,
+	"lastBuildDate":"Mon, 11 Nov 2024 09:20:02 +0900",
+	"total":252012,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"가상 도시 체험 콘텐츠 ‘인천크래프트’…“정부 박람회에서 혁신 선보...",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1427419\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002891195?sid=102",
+			"description":"‘인천크래프트 도심항공교통(UAM)’은 <b>청라<\/b>로봇랜드, 인천공항, 송도센트럴파크 등 2040년 미래 인천을 배경으로 도심항공교통(UAM) 조종 체험도 제공한다. 관람객은 튜토리얼 모드에서 비행 방법을 익힌 후 서바이벌... ",
+			"pubDate":"Mon, 11 Nov 2024 09:11:00 +0900"
+		},
 		{
 			"title":"인천형 마인크래프트 '인천크래프트' 정부박람회 선보인다",
 			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=256649",
@@ -103,17 +110,17 @@
 			"pubDate":"Sun, 10 Nov 2024 21:00:00 +0900"
 		},
 		{
-			"title":"인천경제청, 글로벌 투자자에 IFEZ 투자 매력 어필",
-			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3198171",
-			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3198171",
-			"description":"클러스터, <b>청라<\/b>의 로봇·모빌리티·수소 클러스터, 영종의 항공산업 및 문화클러스터 등 다양한 산업... 윤원석 IFEZ 청장은 &quot;송도, 영종, <b>청라<\/b> 지구가 동북아 최고의 투자 지역으로 자리 잡았으며, 바이오 생산능력... ",
-			"pubDate":"Sun, 10 Nov 2024 20:36:00 +0900"
-		},
-		{
 			"title":"인천경제자유구역(IFEZ) 투자 IR설명회 가져",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=479764",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=479764",
 			"description":"또한 투자 유망 산업분야로 송도바이오 및 첨단산업 클러스터, <b>청라<\/b>로봇·모빌리티·수소 클러스터... 윤원석 인천경제자유구역청장은 &quot;송도, 영종, <b>청라<\/b> 지구는 모두 바다를 매립하여 개발한 대한민국 최초이자 최대의... ",
+			"pubDate":"Sun, 10 Nov 2024 20:36:00 +0900"
+		},
+		{
+			"title":"인천경제청, 글로벌 투자자에 IFEZ 투자 매력 어필",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3198171",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3198171",
+			"description":"클러스터, <b>청라<\/b>의 로봇·모빌리티·수소 클러스터, 영종의 항공산업 및 문화클러스터 등 다양한 산업... 윤원석 IFEZ 청장은 &quot;송도, 영종, <b>청라<\/b> 지구가 동북아 최고의 투자 지역으로 자리 잡았으며, 바이오 생산능력... ",
 			"pubDate":"Sun, 10 Nov 2024 20:36:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012894874?sid=102",
 			"description":"또한 투자 유망 산업분야로 송도바이오 및 첨단산업 클러스터, <b>청라<\/b>로봇·모빌리티·수소 클러스터... 윤원석 인천경제청장은 &quot;송도, 영종, <b>청라<\/b> 지구는 모두 바다를 매립해 개발한 대한민국 최초이자 최대의 경자구역... ",
 			"pubDate":"Sun, 10 Nov 2024 16:25:00 +0900"
-		},
-		{
-			"title":"인천경제청, 인베스트 코리아 서밋서 투자유치 활동 전개",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1090655",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1090655",
-			"description":"또 투자 유망산업 분야로 송도바이오 및 첨단산업 클러스터, <b>청라<\/b>로봇·모빌리티·수소 클러스터... 윤원석 경제청장은 &quot;송도, 영종, <b>청라<\/b>국제도시는 모두 바다를 매립 개발한 대한민국 최초이자 최대의... ",
-			"pubDate":"Sun, 10 Nov 2024 16:16:00 +0900"
 		}
 	]
 }
