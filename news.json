@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 14 Nov 2024 08:00:02 +0900",
-	"total":252300,
+	"lastBuildDate":"Thu, 14 Nov 2024 08:10:02 +0900",
+	"total":252301,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[속보]충남 지하주차장서 벤츠 전기차 또 화재…아파트 주민 대피",
+			"originallink":"https:\/\/www.munhwa.com\/news\/view.html?no=2024111401039910181002",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002671638?sid=102",
+			"description":"불이 난 전기차는 벤츠 EQC400 4MATIC 모델로, 이 차에는 국내산 배터리가 탑재된 것으로 확인됐다. 지난 8월 인천 <b>청라<\/b>의 한 아파트 화재 원인이던 벤츠 전기차에는 중국산 배터리가 탑재됐던 것으로 조사됐다.",
+			"pubDate":"Thu, 14 Nov 2024 08:03:00 +0900"
+		},
 		{
 			"title":"또 벤츠 전기차...아산서 벤츠 EQC400 4MATIC 모델 '화재'",
 			"originallink":"https:\/\/www.newswhoplus.com\/news\/articleView.html?idxno=16352",
@@ -19,7 +26,7 @@
 			"pubDate":"Thu, 14 Nov 2024 06:58:00 +0900"
 		},
 		{
-			"title":"아산 아파트 주차장서 '벤츠 전기차' 화재…주민 수십명 대피",
+			"title":"아산 아파트 지하 주차장서 전기차 불…새벽 수십명 대피",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25291927",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003400458?sid=102",
 			"description":"지난 8월에도 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에 주차돼 있던 벤츠 전기차에서 불이 났다. 당시 화재로 입주민 등 23명이 연기를 마시거나 어지럼증을 호소해 병원 치료를 받았으며 차량 87대가 불에 타고... ",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004414664?sid=101",
 			"description":"수요 둔화 상황에 8월 메르세데스벤츠의 인천 <b>청라<\/b> 화재까지 겹악재가 발생하며 과잉 생산 우려까지 나왔다. 업계의 한 관계자는 “완전한 침체로 접어들게 되면 소비자들의 전기차 경험 자체가 줄어들기 때문에... ",
 			"pubDate":"Wed, 13 Nov 2024 15:22:00 +0900"
-		},
-		{
-			"title":"유정복 시장, 제3연륙교 공사 현장 점검…개통 준비 만전 기해",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1118878",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1118878",
-			"description":"<b>청라<\/b> 측 2공구는 11월 말까지 사장교 주탑 트러스 연결을 마무리하고, 탑 케이블 연결과 강교 거치 작업을 본격적으로 추진해 연말까지 전체 공정률 78%를 목표로 하고 있다. 제3연륙교는 영종과 <b>청라<\/b>를 연결하는... ",
-			"pubDate":"Wed, 13 Nov 2024 15:12:00 +0900"
 		}
 	]
 }
