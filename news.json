@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 15 Nov 2024 08:00:02 +0900",
-	"total":252407,
+	"lastBuildDate":"Fri, 15 Nov 2024 08:10:02 +0900",
+	"total":252408,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[리포트] 벤츠 전기차 지하주차장서 또 화재",
+			"originallink":"https:\/\/tjmbc.co.kr\/article\/KV2oYxt4l0CMbwd",
+			"link":"https:\/\/tjmbc.co.kr\/article\/KV2oYxt4l0CMbwd",
+			"description":"◀ SYNC ▶ 차량 소유주(음성변조) \\&quot;(두 달 전) 서비스도 받은 상태이기 때문에 더구나 멀쩡히 서 있던 차가 불이 난다는 게...\\&quot; 지난 8월 차량 140여 대를 태운 인천 <b>청라<\/b> 전기차 화재에서는 당시 불이 난 벤츠 전기차에... ",
+			"pubDate":"Fri, 15 Nov 2024 08:06:00 +0900"
+		},
 		{
 			"title":"'국산' 배터리 차도…충전 중 전기차 잇단 화재",
 			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007874142&plink=ORI&cooper=NAVER",
@@ -152,17 +159,17 @@
 			"pubDate":"Thu, 14 Nov 2024 18:18:00 +0900"
 		},
 		{
-			"title":"그리드위즈, 3분기 누적 매출액 938억 원",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20241114001224",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20241114001224",
-			"description":"EM(E-Mobility) 사업은 지난 8월 <b>청라<\/b>에서 발생한 전기차 화재 이후 전기차 과충전을 방지할 수 있는 PLC 모뎀의 의무 설치가 제도화되는 기대감으로 실적 개선이 기대되었다. 그러나 제도 보완과 환경부 보조금 지급... ",
-			"pubDate":"Thu, 14 Nov 2024 17:26:00 +0900"
-		},
-		{
 			"title":"보령발전본부 '2024 행복 Together 김장 담그기 한마당' 성료",
 			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=663012",
 			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=663012",
 			"description":"충남 보령발전본부(본부장 이웅천)는 지난 12일과 13일 보령시 <b>청라<\/b>면에 위치한 삼다향 실버복지센터에서 '2024년 행복 Together 김장 담그기 한마당' 행사를 열었다. 이번 행사는 보령발전본부를 비롯해 보령시청... ",
+			"pubDate":"Thu, 14 Nov 2024 17:26:00 +0900"
+		},
+		{
+			"title":"그리드위즈, 3분기 누적 매출액 938억 원",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20241114001224",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20241114001224",
+			"description":"EM(E-Mobility) 사업은 지난 8월 <b>청라<\/b>에서 발생한 전기차 화재 이후 전기차 과충전을 방지할 수 있는 PLC 모뎀의 의무 설치가 제도화되는 기대감으로 실적 개선이 기대되었다. 그러나 제도 보완과 환경부 보조금 지급... ",
 			"pubDate":"Thu, 14 Nov 2024 17:26:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011838075?sid=121",
 			"description":"8월에 인천 <b>청라<\/b>아파트에서 화재가 발생했던 벤츠 전기차와 달리 이 차에는 국내산 배터리가 탑재된 것으로... 앞서 지난 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 주차중이던 벤츠 전기차에서 화재가 나, 차량은 물론... ",
 			"pubDate":"Thu, 14 Nov 2024 16:57:00 +0900"
-		},
-		{
-			"title":"인천 서구·포스코에너지·초록우산 '미세먼지 저감 숲 조성' 기념식",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1270903",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1270903",
-			"description":"인천 서구(구청장 강범석)는 지난 12일 <b>청라<\/b> 원창공원에서 포스코에너지, 초록우산 어린이재단과 함께 '미세먼지 저감 5호 숲 조성' 기념식을 가졌다. 포스코에너지가 주관한 행사에는 강범석 구청장과 송승환 서구의회... ",
-			"pubDate":"Thu, 14 Nov 2024 16:56:00 +0900"
 		}
 	]
 }
