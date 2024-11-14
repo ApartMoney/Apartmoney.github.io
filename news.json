@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 14 Nov 2024 16:20:01 +0900",
-	"total":252373,
+	"lastBuildDate":"Thu, 14 Nov 2024 16:30:02 +0900",
+	"total":252374,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[항공투데이] 인천국제공항 5단계 확장 변수, 경기국제공항과 1인당 GDP",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=256989",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=256989",
+			"description":"또한 향후 영종~<b>청라<\/b> 제3연륙교와 영종~신도 서해평화도로, 제2공항철도와 GTX-D Y자 노선, 백령공항 등 인천공항을 잇는 주요 교통인프라 조성도 예정돼 있어 여객수요 창출을 위한 환경은 나아지고 있습니다.... ",
+			"pubDate":"Thu, 14 Nov 2024 16:24:00 +0900"
+		},
 		{
 			"title":"벤츠 전기차 또 지하주차장서 화재…새벽 주민 대피 소동",
 			"originallink":"http:\/\/www.dizzotv.com\/site\/data\/html_dir\/2024\/11\/14\/2024111480183.html",
@@ -106,7 +113,7 @@
 			"title":"벤츠 전기차 또 화재, 스프링클러가 큰 피해 막았다",
 			"originallink":"https:\/\/www.bloter.net\/news\/articleView.html?idxno=626382",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/293\/0000060553?sid=101",
-			"description":"올 8월 인천 <b>청라<\/b> 아파트단지 지하주차장 화재 사고 이후 3개월만이다. 이번 아산 벤츠 전기차 화재 사고는 인천 <b>청라<\/b> 때와 달리 스프링클러가 정상작동돼 주변 피해 확산을 막을 수 있게 됐다. 충남소방본부와... ",
+			"description":"지난 8월 인천 <b>청라<\/b> 아파트단지 지하주차장 화재 사고 이후 3개월 만이다. 이번 아산 벤츠 전기차 화재 사고는 <b>청라<\/b> 때와 달리 스프링클러가 정상작동돼 주변으로 피해가 확산되는 것을 막을 수 있었다. 충남소방본부와... ",
 			"pubDate":"Thu, 14 Nov 2024 14:09:00 +0900"
 		},
 		{
@@ -131,17 +138,17 @@
 			"pubDate":"Thu, 14 Nov 2024 14:00:00 +0900"
 		},
 		{
-			"title":"보령발전본부, 행복 together 김장담그기 한마당",
-			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=353313",
-			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=353313",
-			"description":"보령발전본부 (본부장 이웅천)는 지난 12일~ 13일 이틀에 걸쳐 삼다향 실버복지센터(보령시 <b>청라<\/b>면 소재)에서 기관, 기업 및 봉사단체와 협업으로 '2024년 행복Together 김장담그기 한마당'행사를 시행하였다. 이번... ",
-			"pubDate":"Thu, 14 Nov 2024 13:58:00 +0900"
-		},
-		{
 			"title":"인천 서구의회 연구단체, 고양시 일산호수공원 관리 사례 벤치마킹",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1961357",
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1961357",
 			"description":"<b>청라<\/b>호수공원 수질 개선을 위해 인천경제청, 인천시설관리공단 등 관계 기관과 계속해서 적극적인 논의를 펼치고 있는 ‘서구 수상레저 활성화를 위한 연구단체’는 <b>청라<\/b>호수와 유사한 호수인 일산호수를 직접 방문하여... ",
+			"pubDate":"Thu, 14 Nov 2024 13:58:00 +0900"
+		},
+		{
+			"title":"보령발전본부, 행복 together 김장담그기 한마당",
+			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=353313",
+			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=353313",
+			"description":"보령발전본부 (본부장 이웅천)는 지난 12일~ 13일 이틀에 걸쳐 삼다향 실버복지센터(보령시 <b>청라<\/b>면 소재)에서 기관, 기업 및 봉사단체와 협업으로 '2024년 행복Together 김장담그기 한마당'행사를 시행하였다. 이번... ",
 			"pubDate":"Thu, 14 Nov 2024 13:58:00 +0900"
 		},
 		{
@@ -166,7 +173,7 @@
 			"pubDate":"Thu, 14 Nov 2024 13:40:00 +0900"
 		},
 		{
-			"title":"벤츠 전기차, 아파트 주차장서 또 화재… <b>청라<\/b> 화재와는 다른 모델",
+			"title":"벤츠 전기차, 아파트 주차장서 충전 중 또 화재… <b>청라<\/b> 화재 때완 다른...",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20241114510347?OutUrl=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003985734?sid=102",
 			"description":"화재가 난 벤츠모델은 국산 배터리를 장착한 것으로 알려졌다. 지난 8월 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 화재가 발생한 벤츠 전기차와 다른 모델이다. 경찰과 소방당국은 정확한 화재원인을 조사하고 있다.",
@@ -180,13 +187,6 @@
 			"pubDate":"Thu, 14 Nov 2024 13:22:00 +0900"
 		},
 		{
-			"title":"아리셀 공장·<b>청라<\/b> 주차장..줄줄이 터진 대형화재 맞춤형 대책 내놓는다",
-			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024111408202882647",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005114367?sid=101",
-			"description":"정부가 올해 경기 화성의 아리셀 공장과 인천 <b>청라<\/b> 아파트 주차장 등에서 잇따라 발생한 대형화재에 대한... 인천 <b>청라<\/b> 아파트 지하주차장 화재와 같이 소방설비 미작동 등으로 화재가 확산되는 사례를 방지하기 위해... ",
-			"pubDate":"Thu, 14 Nov 2024 12:00:00 +0900"
-		},
-		{
 			"title":"소방시설 전원 차단 불시 단속한다…리튬 소화기 단계적 개발",
 			"originallink":"https:\/\/www.news1.kr\/society\/general-society\/5599969",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007907021?sid=102",
@@ -194,10 +194,10 @@
 			"pubDate":"Thu, 14 Nov 2024 12:00:00 +0900"
 		},
 		{
-			"title":"소방청, 화재 예방차 제도개선·안전한 환경·인프라 확보 추진",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03634246639085720",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005885507?sid=102",
-			"description":"또 인천 <b>청라<\/b> 아파트 지하주차장 화재와 같이 소방설비 미작동 등으로 화재가 확산되는 사례를 방지하기 위해 모든 지하주차장에 화재발생 시 원척으로 작동시간이 빠른 ‘습식 스프링클러’ 설치한다. 소방청은... ",
+			"title":"아리셀 공장·<b>청라<\/b> 주차장..줄줄이 터진 대형화재 맞춤형 대책 내놓는다",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2024111408202882647",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005114367?sid=101",
+			"description":"정부가 올해 경기 화성의 아리셀 공장과 인천 <b>청라<\/b> 아파트 주차장 등에서 잇따라 발생한 대형화재에 대한... 인천 <b>청라<\/b> 아파트 지하주차장 화재와 같이 소방설비 미작동 등으로 화재가 확산되는 사례를 방지하기 위해... ",
 			"pubDate":"Thu, 14 Nov 2024 12:00:00 +0900"
 		},
 		{
