@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 15 Nov 2024 08:40:02 +0900",
-	"total":252409,
+	"lastBuildDate":"Fri, 15 Nov 2024 08:50:02 +0900",
+	"total":252410,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"내년 철도 예산안 7020억 증액…신안산선·광주 2호선 500억 이상↑",
+			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=346143",
+			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=346143",
+			"description":"도시철도는 광주 도시철도 2호선을 포함해 ▲서울 지하철 7호선 <b>청라<\/b> 연장 120억원 ▲양산 도시철도 건설 164억원 ▲대전 도시철도 2호선 건설 100억원 ▲울산 도시철도1호선 건설 30억원 ▲대구 도시철도 엑스코선... ",
+			"pubDate":"Fri, 15 Nov 2024 08:42:00 +0900"
+		},
 		{
 			"title":"벤츠 전기차 3개월 만에 또 화재…이번엔 국산 배터리 탑재",
 			"originallink":"https:\/\/www.kukinews.com\/article\/view\/kuk202411150015",
@@ -166,17 +173,17 @@
 			"pubDate":"Thu, 14 Nov 2024 18:18:00 +0900"
 		},
 		{
-			"title":"그리드위즈, 3분기 누적 매출액 938억 원",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20241114001224",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20241114001224",
-			"description":"EM(E-Mobility) 사업은 지난 8월 <b>청라<\/b>에서 발생한 전기차 화재 이후 전기차 과충전을 방지할 수 있는 PLC 모뎀의 의무 설치가 제도화되는 기대감으로 실적 개선이 기대되었다. 그러나 제도 보완과 환경부 보조금 지급... ",
-			"pubDate":"Thu, 14 Nov 2024 17:26:00 +0900"
-		},
-		{
 			"title":"보령발전본부 '2024 행복 Together 김장 담그기 한마당' 성료",
 			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=663012",
 			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=663012",
 			"description":"충남 보령발전본부(본부장 이웅천)는 지난 12일과 13일 보령시 <b>청라<\/b>면에 위치한 삼다향 실버복지센터에서 '2024년 행복 Together 김장 담그기 한마당' 행사를 열었다. 이번 행사는 보령발전본부를 비롯해 보령시청... ",
+			"pubDate":"Thu, 14 Nov 2024 17:26:00 +0900"
+		},
+		{
+			"title":"그리드위즈, 3분기 누적 매출액 938억 원",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20241114001224",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20241114001224",
+			"description":"EM(E-Mobility) 사업은 지난 8월 <b>청라<\/b>에서 발생한 전기차 화재 이후 전기차 과충전을 방지할 수 있는 PLC 모뎀의 의무 설치가 제도화되는 기대감으로 실적 개선이 기대되었다. 그러나 제도 보완과 환경부 보조금 지급... ",
 			"pubDate":"Thu, 14 Nov 2024 17:26:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1047034",
 			"description":"불법 운영진들은 해외에 서버를 두고 필리핀, 태국 등 동남아와 경기 부천, 인천 <b>청라<\/b> 등에서 도박사이트 운영사무실을 열었다. 조직원을 모집한 뒤엔 SNS 홍보 등으로 13만명의 회원을 모집, 판돈으로 4조원 상당을... ",
 			"pubDate":"Thu, 14 Nov 2024 17:20:00 +0900"
-		},
-		{
-			"title":"그리드위즈, 3분기 매출 487억원 영업이익 36억원 흑자 전환",
-			"originallink":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=314460",
-			"link":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=314460",
-			"description":"EM(E-Mobility) 사업의 경우 지난 8월 <b>청라<\/b>에서 발생한 전기차 화재 이후 전기차 과충전을 방지할 수 있는 PLC 모뎀 설치 의무화 기대감으로 실적 개선을 기대했으나 제도보완과 환경부 보조금 지급 지침 준비로 즉각적인... ",
-			"pubDate":"Thu, 14 Nov 2024 17:10:00 +0900"
 		}
 	]
 }
