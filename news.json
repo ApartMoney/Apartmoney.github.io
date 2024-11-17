@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 17 Nov 2024 12:50:02 +0900",
-	"total":252459,
+	"lastBuildDate":"Sun, 17 Nov 2024 13:00:02 +0900",
+	"total":252460,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"간선급행버스체계 신규 노선 발굴 나선 인천시…이동 편의성 ↑",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=817693",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=817693",
+			"description":"시는 <b>청라<\/b>에서 서울 강서까지 47.6㎞에 달하는 간선급행버스(7700번) 1개 노선만 운영하고 있다. 김인수 시 교통국장은 “원도심을 포함한 인천 전역에 추가 노선 발굴이 필요한 상황”이라며 “버스중앙차로 도입을 통해... ",
+			"pubDate":"Sun, 17 Nov 2024 12:54:00 +0900"
+		},
 		{
 			"title":"인천시, 버스중앙차로 도입∙간선급행버스체계 노선 확충",
 			"originallink":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=143655",
@@ -68,17 +75,17 @@
 			"pubDate":"Sun, 17 Nov 2024 10:46:00 +0900"
 		},
 		{
-			"title":"인천시, 버스중앙차로 도입 및 간선급행버스체계(BRT)노선 확충 가시화",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1179499",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1179499",
-			"description":"간선급행버스체계(BRT)는 전용주행로, 교차로 우선처리, 정류소 및 전용차량 등을 갖추어 급행버스를 운행하는 교통 체계로, 인천시는 현재 '<b>청라<\/b>~강서 간 간선급행버스(BRT, 7700번)' 1개 노선(왕복 47.6km)을 운영 중이다.... ",
-			"pubDate":"Sun, 17 Nov 2024 10:22:00 +0900"
-		},
-		{
 			"title":"인천시, 간선급행버스 노선 확충 추진…중앙버스전용차로 도입",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20241117010008281",
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20241117010008281",
 			"description":"시는 현재 '<b>청라<\/b>~강서 간 간선급행버스(BRT, 7700번)' 1개 노선(왕복 47.6km)을 운영 중이다. 하지만 이용객 수가 매년 증가하고 있어 이용 수요에 맞춰 차량 증차 및 운행 횟수를 확대하고 있다.지난해 8월 시행된 고객만족도... ",
+			"pubDate":"Sun, 17 Nov 2024 10:22:00 +0900"
+		},
+		{
+			"title":"인천시, 버스중앙차로 도입 및 간선급행버스체계(BRT)노선 확충 가시화",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1179499",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1179499",
+			"description":"간선급행버스체계(BRT)는 전용주행로, 교차로 우선처리, 정류소 및 전용차량 등을 갖추어 급행버스를 운행하는 교통 체계로, 인천시는 현재 '<b>청라<\/b>~강서 간 간선급행버스(BRT, 7700번)' 1개 노선(왕복 47.6km)을 운영 중이다.... ",
 			"pubDate":"Sun, 17 Nov 2024 10:22:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=35999",
 			"description":"인천<b>청라<\/b>, 인천연수, 인천송도, 부천여월, 부천상동, 부천소사, 분당오리, 야탑, 시화, 송탄, 평택안중... 송도점, <b>청라<\/b>점, 검단점, 부평점, 영종도점, 삼산점, 연수점, 부평역점 등 이다. 또 11월 13일, 27일(둘째, 네째 주... ",
 			"pubDate":"Sat, 16 Nov 2024 00:10:00 +0900"
-		},
-		{
-			"title":"'국산 배터리' 현대차·벤츠 전기차 화재 발생…최다 차종·배터리 회사...",
-			"originallink":"https:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=773137",
-			"link":"https:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=773137",
-			"description":"화재가 난 EQC 모델은 중국산 배터리를 쓴 지난 8월 인천 <b>청라<\/b> 아파트 화재를 일으킨 EQE350+(중국산... 메르세데스-벤츠는 1대로 비교적 적은 수치를 보였는데, 이번 집계에는 지난 8월 발생한 <b>청라<\/b> 전기차 화재... ",
-			"pubDate":"Fri, 15 Nov 2024 23:04:00 +0900"
 		}
 	]
 }
