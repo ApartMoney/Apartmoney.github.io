@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 17 Nov 2024 12:00:02 +0900",
-	"total":252455,
+	"lastBuildDate":"Sun, 17 Nov 2024 12:10:02 +0900",
+	"total":252456,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천, 버스중앙차로 도입.BRT 노선 확충 가시화",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1962400",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1962400",
+			"description":"간선급행버스체계(BRT)는 전용주행로, 교차로 우선처리, 정류소 및 전용차량 등을 갖추어 급행버스를 운행하는 교통 체계로, 시는 현재 ‘<b>청라<\/b>~강서 간 간선급행버스(BRT, 7700번)’ 1개 노선(왕복 47.6km)을 운영중이다. 시는... ",
+			"pubDate":"Sun, 17 Nov 2024 12:00:00 +0900"
+		},
 		{
 			"title":"인천 신규 BRT 도입 추진…내년 정부 종합계획에 반영",
 			"originallink":"https:\/\/www.newspim.com\/news\/view\/20241117000070",
@@ -40,17 +47,17 @@
 			"pubDate":"Sun, 17 Nov 2024 10:46:00 +0900"
 		},
 		{
-			"title":"인천시, 간선급행버스 노선 확충 추진…중앙버스전용차로 도입",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20241117010008281",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20241117010008281",
-			"description":"시는 현재 '<b>청라<\/b>~강서 간 간선급행버스(BRT, 7700번)' 1개 노선(왕복 47.6km)을 운영 중이다. 하지만 이용객 수가 매년 증가하고 있어 이용 수요에 맞춰 차량 증차 및 운행 횟수를 확대하고 있다.지난해 8월 시행된 고객만족도... ",
-			"pubDate":"Sun, 17 Nov 2024 10:22:00 +0900"
-		},
-		{
 			"title":"인천시, 버스중앙차로 도입 및 간선급행버스체계(BRT)노선 확충 가시화",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1179499",
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1179499",
 			"description":"간선급행버스체계(BRT)는 전용주행로, 교차로 우선처리, 정류소 및 전용차량 등을 갖추어 급행버스를 운행하는 교통 체계로, 인천시는 현재 '<b>청라<\/b>~강서 간 간선급행버스(BRT, 7700번)' 1개 노선(왕복 47.6km)을 운영 중이다.... ",
+			"pubDate":"Sun, 17 Nov 2024 10:22:00 +0900"
+		},
+		{
+			"title":"인천시, 간선급행버스 노선 확충 추진…중앙버스전용차로 도입",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20241117010008281",
+			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20241117010008281",
+			"description":"시는 현재 '<b>청라<\/b>~강서 간 간선급행버스(BRT, 7700번)' 1개 노선(왕복 47.6km)을 운영 중이다. 하지만 이용객 수가 매년 증가하고 있어 이용 수요에 맞춰 차량 증차 및 운행 횟수를 확대하고 있다.지난해 8월 시행된 고객만족도... ",
 			"pubDate":"Sun, 17 Nov 2024 10:22:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=105434",
 			"description":"서구(0.18→0.08%)는 가정동과 <b>청라<\/b>동 등 신도시 위주로 올라 이번 주 보합 전환한 인천 전체 아파트값을 웃도는 상승세를 이어갔다. 인천 고가 아파트와 저가 아파트의 가격 격차는 점점 벌어지고 있다. KB부동산... ",
 			"pubDate":"Fri, 15 Nov 2024 16:30:00 +0900"
-		},
-		{
-			"title":"배터리3사, '전기차 필리아' 이끌 화재예방 기술개발 집중",
-			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=299655",
-			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=299655",
-			"description":"올해 8월 인천 <b>청라<\/b> 전기차 화재에 이어 지난 14일 천안과 용인에서도 전기차 화재가 잇따라 발생하면서 심화된 '전기차 포비아(공포증)'를 해소하기 위해서다. 15일 소방청 국가화재정보센터 자료에 따르면 전기차... ",
-			"pubDate":"Fri, 15 Nov 2024 16:16:00 +0900"
 		}
 	]
 }
