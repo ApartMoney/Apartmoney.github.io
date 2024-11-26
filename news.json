@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 27 Nov 2024 07:00:02 +0900",
-	"total":253132,
+	"lastBuildDate":"Wed, 27 Nov 2024 07:10:02 +0900",
+	"total":253133,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;또 울리네&quot;…겨울철 화재경보 오작동에 '안전불감증' 우려",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20241126_0002973460",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012925777?sid=102",
+			"description":"전기차 화재로 차량 40대가 전소한 인천 <b>청라<\/b>동 아파트 지하주차장 사고도 관리사무소 직원이 화재 신호를 감지하자마자 스프링클러를 정지시킨 것으로 조사됐다. 해당 직원은 '화재경보기가 오작동하면 민원 전화가... ",
+			"pubDate":"Wed, 27 Nov 2024 07:00:00 +0900"
+		},
 		{
 			"title":"“전기차도 지하 주차 가능” 조달청, 공공기관 최초 설계지침 마련",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202411261436213490015",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=314806",
 			"description":"또한 <b>청라<\/b> 전기차 화재와 같이, 밀폐구역 화재 발생 시 농연과 고온에 의한 소방관 진입에 한계를... 이번 <b>청라<\/b> 전기차 화재사례에서도 농연에 의한 사후 피해가 큰 만큼 향후 적극 검토가 필요한 솔루션으로 기대를... ",
 			"pubDate":"Tue, 26 Nov 2024 09:50:00 +0900"
-		},
-		{
-			"title":"엠젠솔루션, AI 화재진압시스템 확장 '주목'…&quot;민간시장 공략&quot;",
-			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=664267",
-			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=664267",
-			"description":"올해 인천 <b>청라<\/b>에서 발생한 전기차 화재 이후에도 화재 소식은 끊이지 않고 있다. 지난 14일 충남... 이충헌 밸류파인더 연구원은 &quot;이제는 인적·물적 피해 최소화를 위한 필수적 대응 구축이 필요한 시기&quot;라며 &quot;<b>청라<\/b> 화재... ",
-			"pubDate":"Tue, 26 Nov 2024 08:48:00 +0900"
 		}
 	]
 }
