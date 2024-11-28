@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 28 Nov 2024 11:10:03 +0900",
-	"total":253204,
+	"lastBuildDate":"Thu, 28 Nov 2024 11:20:02 +0900",
+	"total":253205,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"경찰, '인천 전기차 화재' 원인 불명 결론...책임자 4명 송치",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202411281116260283",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002120181?sid=102",
+			"description":"앞서 지난 8월 1일 인천 <b>청라<\/b>동에 있는 아파트 지하 주차장에 세워진 벤츠 전기차에서 불이 나 입주민 23명이 병원 치료를 받았고, 차량 800여 대가 타거나 그을리는 피해가 발생했습니다.",
+			"pubDate":"Thu, 28 Nov 2024 11:16:00 +0900"
+		},
 		{
 			"title":"차량 87대 태운 <b>청라<\/b> 벤츠 전기차 화재..경찰 &quot;원인 미상&quot;",
 			"originallink":"https:\/\/www.ikbc.co.kr\/article\/view\/kbc202411280032",
@@ -89,17 +96,17 @@
 			"pubDate":"Thu, 28 Nov 2024 10:30:00 +0900"
 		},
 		{
-			"title":"‘인천 전기차 화재’ 원인 불명 결론…책임자 4명은 송치",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8117568&ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011847014?sid=102",
-			"description":"인천경찰청 형사기동대는 오늘(28일) 오전 ‘<b>청라<\/b> 아파트 지하주차장 전기차량 화재 사건’ 수사 결과를... 앞서 지난 8월 1일 오전 6시 15분쯤 인천 서구 <b>청라<\/b>동의 한 아파트 지하 1층 주차장에 주차된 벤츠사의 전기... ",
-			"pubDate":"Thu, 28 Nov 2024 10:30:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b> 전기차 화재 원인, 끝내 '미궁'…배터리 셀손상 추정",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20241128_0002975941",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012929107?sid=102",
 			"description":"지난 8월 인천 <b>청라<\/b>국제도시 한 아파트 지하주차장에서 발생한 벤츠 EQE350+ 전기차 화재의 원인이 규명되지... 인천경찰청 형사기동대는 28일 '<b>청라<\/b> 벤츠 전기차 화재'와 관련 화재원인에 대한 수사를 진행했으나 배터리 팩... ",
+			"pubDate":"Thu, 28 Nov 2024 10:30:00 +0900"
+		},
+		{
+			"title":"‘인천 전기차 화재’ 원인 불명 결론…책임자 4명은 송치",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8117568&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011847014?sid=102",
+			"description":"인천경찰청 형사기동대는 오늘(28일) 오전 ‘<b>청라<\/b> 아파트 지하주차장 전기차량 화재 사건’ 수사 결과를... 앞서 지난 8월 1일 오전 6시 15분쯤 인천 서구 <b>청라<\/b>동의 한 아파트 지하 1층 주차장에 주차된 벤츠사의 전기... ",
 			"pubDate":"Thu, 28 Nov 2024 10:30:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=482436",
 			"description":"서구는 지방자치 종합경쟁력이 높은 평가를 받은 배경으로 <b>청라<\/b> · 루원 · 검단 등 3개의 신도시로 대표되는 대규모 도시개발사업의 지속적인 추진으로 도시 성장이 가속화된 데 있다고 평가하고 있다. 이에 따른... ",
 			"pubDate":"Wed, 27 Nov 2024 21:06:00 +0900"
-		},
-		{
-			"title":"인천 서구 지방자치 경쟁력 전국 69개 자치구 중 '최고'",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1121217",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1121217",
-			"description":"서구는 <b>청라<\/b>국제도시, 루원시티, 검단신도시 등 대규모 도시개발사업을 통한 주거단지 확대, 광역교통망 확보가 높은 평가를 받는데 주효했던 것으로 보고 있다. 앞서 서구는 2020~2022년 같은 평가에서 3년 연속... ",
-			"pubDate":"Wed, 27 Nov 2024 20:14:00 +0900"
 		}
 	]
 }
