@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 29 Nov 2024 17:40:02 +0900",
-	"total":253337,
+	"lastBuildDate":"Fri, 29 Nov 2024 17:50:02 +0900",
+	"total":253338,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 캐즘 이어 배터리 화재...전고체 배터리 개발 '온힘'",
+			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=167298",
+			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=167298",
+			"description":"앞서 지난 8월 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 화재 사고가 발생했던 벤츠 EQE 350 차량에는 중국 파라시스 에너지에서 만든 배터리가 장착됐다. 이 역시 NCM 배터리다. NCM 배터리는 휘발성이 강한 액체 전해질을... ",
+			"pubDate":"Fri, 29 Nov 2024 17:46:00 +0900"
+		},
 		{
 			"title":"HDC현대산업개발, 서울원 시작으로 대형개발사업 이어져 호실적 전망",
 			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=374767",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newspim.com\/news\/view\/20241129000286",
 			"description":"지리적으로 <b>청라<\/b>국제도시와 송도국제도시 사이에 위치해, 두 곳의 인프라를 모두 수월하게 이용할 수 있다. 특히 ▲현대제철 ▲동국제강 ▲현대두산인프라코어 등의 기업이 위치한 산업 단지와 가까워 직주근접을... ",
 			"pubDate":"Fri, 29 Nov 2024 11:09:00 +0900"
-		},
-		{
-			"title":"DL건설 'e편한세상 동인천 베이프런트' 29일 주택전시관 개관",
-			"originallink":"https:\/\/www.smartfn.co.kr\/article\/view\/sfn202411290032",
-			"link":"https:\/\/www.smartfn.co.kr\/article\/view\/sfn202411290032",
-			"description":"지리적으로 <b>청라<\/b>국제도시와 송도국제도시 사이에 위치해, 두 곳의 인프라를 모두 수월하게 이용할 수 있다. 특히 ▲현대제철 ▲동국제강 ▲현대두산인프라코어 등 기업이 위치한 산업 단지와 가까워 직주근접을... ",
-			"pubDate":"Fri, 29 Nov 2024 10:58:00 +0900"
 		}
 	]
 }
