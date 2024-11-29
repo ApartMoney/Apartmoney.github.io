@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 29 Nov 2024 18:10:03 +0900",
-	"total":253338,
+	"lastBuildDate":"Fri, 29 Nov 2024 18:20:02 +0900",
+	"total":253339,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 벤츠전기차 화재 조사결과 '원인불명'",
+			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=222182",
+			"link":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=222182",
+			"description":"경찰은 지난 8월 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 벤츠 전기차 화재에 대해 '원인불명' 결론을 내렸다. 인천경찰청 형사기동대는 압수수색·합동감식·전문가 자문 등 여러 단계의 수사를 진행했지만... ",
+			"pubDate":"Fri, 29 Nov 2024 18:18:00 +0900"
+		},
 		{
 			"title":"전기차 캐즘 이어 배터리 화재...전고체 배터리 개발 '온힘'",
 			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=167298",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.thebigdata.co.kr\/view.php?ud=20241129094038603062abca1943_23",
 			"description":"지리적으로 <b>청라<\/b>국제도시와 송도국제도시 사이에 위치하고 있으며, 특히 △현대제철 △동국제강 △현대두산인프라코어 등의 기업이 위치한 산업 단지와도 가깝다. 단지에 적용되는 브랜드인 ‘e편한세상’은... ",
 			"pubDate":"Fri, 29 Nov 2024 11:12:00 +0900"
-		},
-		{
-			"title":"DL건설 '오션뷰 아파트' e편한세상 동인천 베이프런트 주택전시관 개관",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20241129000286",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20241129000286",
-			"description":"지리적으로 <b>청라<\/b>국제도시와 송도국제도시 사이에 위치해, 두 곳의 인프라를 모두 수월하게 이용할 수 있다. 특히 ▲현대제철 ▲동국제강 ▲현대두산인프라코어 등의 기업이 위치한 산업 단지와 가까워 직주근접을... ",
-			"pubDate":"Fri, 29 Nov 2024 11:09:00 +0900"
 		}
 	]
 }
