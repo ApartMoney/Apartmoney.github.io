@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 02 Dec 2024 21:00:02 +0900",
-	"total":253394,
+	"lastBuildDate":"Mon, 02 Dec 2024 21:10:02 +0900",
+	"total":253396,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이 상황에서 앞으로 전기차 화재는 누가 책임지겠는가?",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1121721",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1121721",
+			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 김필수 대림대 교수 최근 경찰청이 인천 <b>청라<\/b>지역 아파트 대형 전기차 화재의 결론을 원인 불명이라고 최종 발표했다. 국립과학수사연구원은 앞서 전기차 배터리관리시스템인 BMS의... ",
+			"pubDate":"Mon, 02 Dec 2024 21:04:00 +0900"
+		},
+		{
+			"title":"검단구 신설 도로·공공건물에 2026년 7월부터 한글명 붙인다",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1121840",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1121840",
+			"description":"인천의 경우 송도국제도시에는 센트럴로, 아카데미로, 컨벤시아대로 등이 존재하고, <b>청라<\/b>국제도시에도 에메랄드로, 크리스탈로 등 보석 이름을 가져다 쓰는 경우가 많았다. 이렇게 도로명주소가 외국어로 사용되면서... ",
+			"pubDate":"Mon, 02 Dec 2024 21:04:00 +0900"
+		},
 		{
 			"title":"국비 6조 확보 '비상'…인천 주요사업 재정부담 가중",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1272496",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=26318",
 			"description":"지리적으로 <b>청라<\/b>국제도시와 송도국제도시 사이에 위치해, 두 곳의 인프라를 모두 수월하게 이용할 수 있다. 특히 △현대제철 △동국제강 △현대두산인프라코어 등의 기업이 위치한 산업 단지와 가까워 직주근접을... ",
 			"pubDate":"Mon, 02 Dec 2024 10:14:00 +0900"
-		},
-		{
-			"title":"수변공원 품은 아파트 '고덕국제신도시 미래도 파밀리에' 12월 분양",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=304655",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=304655",
-			"description":"또한, <b>청라<\/b>호수공원 인근 '<b>청라<\/b>호수공원 한신더휴' 전용면적 84㎡는 지난 10월 8억4,000만 원(30층)에 거래됐다. 지난 4월 동일 면적이 7억700만 원(20층)에 거래된 것에 비해 6개월 만에 1억3,300만 원이 상승했다. ◆ 수변공원... ",
-			"pubDate":"Mon, 02 Dec 2024 09:46:00 +0900"
-		},
-		{
-			"title":"[WIKI AUTO] 잇단 전기차 화재에…제조사 '발 벗고' 나섰다",
-			"originallink":"http:\/\/www.wikileaks-kr.org\/news\/articleView.html?idxno=160589",
-			"link":"http:\/\/www.wikileaks-kr.org\/news\/articleView.html?idxno=160589",
-			"description":"지난 8월 인천 <b>청라<\/b>에서 발생한 벤츠 전기차 화재 이후 전기차에 대한 불안감을 해소하기 위함이다. 우선 현대차∙기아는  전기차 배터리에서 두뇌 역할을 하고 있는 BMS(Battery Management System) 기술을 개발했다.  특히 BMS의... ",
-			"pubDate":"Mon, 02 Dec 2024 08:50:00 +0900"
 		}
 	]
 }
