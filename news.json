@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 10 Dec 2024 11:20:02 +0900",
-	"total":253669,
+	"lastBuildDate":"Tue, 10 Dec 2024 11:30:02 +0900",
+	"total":253670,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천공항 AI혁신허브로 키운다…대규모 데이터센터 유치",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2024121011225293283",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005514618?sid=101",
+			"description":"하이퍼스케일의 AI 데이터센터가 완공되면 <b>청라<\/b>의 금융, 송도의 바이오, 마곡의 IT, 인천항의 물류 데이터 등 근거리 내 산업단지의 풍부한 데이터를 취급할 수 있는 국가 대표 다기능 데이터센터로 자리매김할 수... ",
+			"pubDate":"Tue, 10 Dec 2024 11:22:00 +0900"
+		},
 		{
 			"title":"인천공항공사, 'AI 혁신 허브' 청사진 공개...&quot;미래 공항도시로 탈바꿈...",
 			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=160059",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=724889",
 			"description":"<b>청라<\/b>R&amp;D센터무인이송로봇검수장면.\/사진=현대무벡스  현대그룹의 물류 자동화 계열사 현대무벡스는 9일 임시이사회에서 250억원 규모 자사주 취득을 의결했다고 밝혔다. 매입한 자사주는 전량 소각할 예정이며 이를... ",
 			"pubDate":"Mon, 09 Dec 2024 15:16:00 +0900"
-		},
-		{
-			"title":"현대무벡스, 250억원 규모 자사주 매입·소각 추진",
-			"originallink":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=108089",
-			"link":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=108089",
-			"description":"현대무벡스 직원이 <b>청라<\/b>R&amp;D센터에서 무인이송로봇을 검수하고 있다. (사진=현대무벡스)  현대무벡스는 9일 임시 이사회에서 250억원 규모의 자사주 취득을 의결했다. 매입한 자사주는 전량 소각할 예정이며 이를 계기로... ",
-			"pubDate":"Mon, 09 Dec 2024 15:10:00 +0900"
 		}
 	]
 }
