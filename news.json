@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 12 Dec 2024 10:00:02 +0900",
-	"total":253782,
+	"lastBuildDate":"Thu, 12 Dec 2024 10:10:02 +0900",
+	"total":253783,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"(종합)2025년도 인천시 예산…예결위 최종 조율",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1273608",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1273608",
+			"description":"공항주변 고도제한 완화 방안 수립용역은 송도·<b>청라<\/b>국제도시 마천루를 짓기 위한 방안으로 풀이되고, 명예도로 안내시설물 등도 담겼다. 여기에 민선8기 인천시의 중점 사업 중 하나인 인천 i-바다패스 사업... ",
+			"pubDate":"Thu, 12 Dec 2024 10:00:00 +0900"
+		},
 		{
 			"title":"유일로보틱스, 제61회 무역의 날 '700만불 수출탑' 수상",
 			"originallink":"https:\/\/www.hankyung.com\/article\/202412121598i",
@@ -180,13 +187,6 @@
 			"pubDate":"Wed, 11 Dec 2024 17:46:00 +0900"
 		},
 		{
-			"title":"&quot;면세점 전용 1ℓ 대용량 특별판매&quot; 골든블루 카발란, 코스트코서 슈퍼...",
-			"originallink":"https:\/\/www.nbnews.kr\/news\/articleView.html?idxno=101737",
-			"link":"https:\/\/www.nbnews.kr\/news\/articleView.html?idxno=101737",
-			"description":"광명점·송도점·세종점·일산점·의정부점·천안점 6개 점포는 오는 21일까지 진행되며 공세점·김해점·대구점·대구혁신점·울산점·<b>청라<\/b>점 6개 점포에서는 오는 23일~내달 5일까지 행사장을 운영한다. 현재 '카발란'은... ",
-			"pubDate":"Wed, 11 Dec 2024 17:40:00 +0900"
-		},
-		{
 			"title":"인천경제청, 2024년 IFEZ 경관어워드 시상식 개최",
 			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241211010003522",
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241211010003522",
@@ -201,18 +201,18 @@
 			"pubDate":"Wed, 11 Dec 2024 17:40:00 +0900"
 		},
 		{
+			"title":"&quot;면세점 전용 1ℓ 대용량 특별판매&quot; 골든블루 카발란, 코스트코서 슈퍼...",
+			"originallink":"https:\/\/www.nbnews.kr\/news\/articleView.html?idxno=101737",
+			"link":"https:\/\/www.nbnews.kr\/news\/articleView.html?idxno=101737",
+			"description":"광명점·송도점·세종점·일산점·의정부점·천안점 6개 점포는 오는 21일까지 진행되며 공세점·김해점·대구점·대구혁신점·울산점·<b>청라<\/b>점 6개 점포에서는 오는 23일~내달 5일까지 행사장을 운영한다. 현재 '카발란'은... ",
+			"pubDate":"Wed, 11 Dec 2024 17:40:00 +0900"
+		},
+		{
 			"title":"포스코이앤씨, 인천지역사회와 상생을 통해 동반성장에 앞장",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363679756",
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363679756",
 			"description":"2025년 준공을 목표로 인천에서 활발하게 시공중인 '영종~<b>청라<\/b> 연결도로 (제3연륙교) 건설공사 2공구'의 경우... '영종~<b>청라<\/b> 연결도로 (제3연륙교)'는 길이 4.67km, 폭 29m의 왕복 6차로로 건설되는 대규모 사업이다. 인천내륙과... ",
 			"pubDate":"Wed, 11 Dec 2024 17:36:00 +0900"
-		},
-		{
-			"title":"위러브유, ‘어머니 사랑’ 담아 전국 취약계층 겨울나기 지원",
-			"originallink":"https:\/\/sports.donga.com\/article\/all\/20241211\/130621040\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/382\/0001168138?sid=102",
-			"description":"5월 인천 <b>청라<\/b>국제도시에서 개최한 ‘제26회 새생명 사랑 가족 걷기대회’를 통해서도 기후재난국가 10개국과 기후변화 취약 도서국 5개국, 서울·인천의 기후위기 취약계층 100가정에 총 3억 원을, 몽골 어린이 의료비로... ",
-			"pubDate":"Wed, 11 Dec 2024 17:18:00 +0900"
 		}
 	]
 }
