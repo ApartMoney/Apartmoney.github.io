@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sat, 14 Dec 2024 07:00:02 +0900",
-	"total":253584,
+	"lastBuildDate":"Sat, 14 Dec 2024 07:10:02 +0900",
+	"total":253586,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[지방소멸 경고등] 인천 인구 300만명 넘었지만…강화·옹진은 '시름'",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20241212152400065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015105114?sid=102",
+			"description":"특히 인천 인구는 송도·영종·<b>청라<\/b>·검단 등 신도시 확장에 힘입어 작년에도 전년도보다 약 3만명이 늘어나 서울과 6대 광역시 중 유일하게 증가했다. 그러나 이런 성장세와 대조적으로 인천 10개 군·구 중 옹진군과... ",
+			"pubDate":"Sat, 14 Dec 2024 07:01:00 +0900"
+		},
+		{
+			"title":"화재 걱정 없는 충전기가 온다...이엘일렉트릭의 도전",
+			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=347615",
+			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=347615",
+			"description":"올해 8월 인천 <b>청라<\/b> 지하주차장 전기차 화재 사고 이후 업계는 안전에 촉각을 곤두세우고 있다. 이런 가운데 이엘일렉트릭(ELELECTRIC)이 독자적인 기술로 화재 예방과 초기 진압이 가능한 충전 솔루션을 선보여 주목받고... ",
+			"pubDate":"Sat, 14 Dec 2024 07:00:00 +0900"
+		},
 		{
 			"title":"12\/14~15 이마트·홈플러스·롯데마트·노브랜드 휴무일·영업시간... 백...",
 			"originallink":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=37725",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/087\/0001086018?sid=102",
 			"description":"올해 8월 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 전기차량 화재가 발생했을 때 스프링클러 설비가 제대로 작동하지 않았다. 다행히 인명 피해는 없었지만 5개동 480세대가 화재로 인해 피해를 입었고, 스프링클러... ",
 			"pubDate":"Fri, 13 Dec 2024 00:03:00 +0900"
-		},
-		{
-			"title":"수입차 판매 감소에도 전기차는 테슬라, 하이브리드는 토요타 '두각'",
-			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=676732",
-			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=676732",
-			"description":"벤츠의 경우 올해 인천 <b>청라<\/b> 지하 주차장 전기차 화재 사고의 여파가 큰 타격을 미쳤으나, 공격적인 할인 프로모션을 통해 9월과 10월 반등에 성공했다. 그러나 올해 초부터 꾸준히 판매량 1위를 기록한 BMW의 벽을... ",
-			"pubDate":"Thu, 12 Dec 2024 20:20:00 +0900"
-		},
-		{
-			"title":"“우리 집 식탁, 어떤 나무가 좋을까”…만져보고 고르는 초대형 목재시...",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/11193270",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005412889?sid=101",
-			"description":"이경호 영림목재 회장 인천 <b>청라<\/b>에 초대형 목재시장 소비자가 직접 만져보고 구매 탄소저감 위해 목재활용 필수 석유 고갈돼도 나무는 영구히 40년 주기의 ‘순환조림’ 강조 최근 방문한 인천 <b>청라<\/b> 소재 ‘영림... ",
-			"pubDate":"Thu, 12 Dec 2024 19:51:00 +0900"
 		}
 	]
 }
