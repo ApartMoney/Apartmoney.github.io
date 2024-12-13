@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 13 Dec 2024 19:30:02 +0900",
-	"total":253621,
+	"lastBuildDate":"Fri, 13 Dec 2024 19:40:02 +0900",
+	"total":253622,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"공항철도, '노을이 물드는 공항철도' 21~31일 운행",
+			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=483893",
+			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=483893",
+			"description":"이 기간 동안 서울역에서 16시 50분에 출발하는 직통열차를 타면 <b>청라<\/b>국제도시역과 영종역 사이에 있는 영종대교를 지나는 7분간 서행 운행하는 열차 안에서 기관사 감성방송을 들으며 노을이 물든 바다를 감상할 수... ",
+			"pubDate":"Fri, 13 Dec 2024 19:30:00 +0900"
+		},
 		{
 			"title":"포스코인터 인천 LNG 복합발전소 신예화 '조건부 허가'",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1273781",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005412778?sid=102",
 			"description":"이경호 영림목재 회장 인천 <b>청라<\/b>에 초대형 목재시장 소비자가 직접 만져보고 구매 탄소저감 위해 목재활용 필수 석유 고갈돼도 나무는 영구히 40년 주기의 '순환조림' 강조 최근 방문한 인천 <b>청라<\/b> 소재 '영림+목재시장'은... ",
 			"pubDate":"Thu, 12 Dec 2024 17:26:00 +0900"
-		},
-		{
-			"title":"[<b>청라<\/b>언덕-유광준] 생즉사 사즉생",
-			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2024121120492222260",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000920409?sid=110",
-			"description":"&quot;살고자 하면 죽을 것이고 죽고자 하면 살 것이다.&quot;(生則死 死則生) 지금도 온 국민이 존경하는 충무공 이순신 장군은 세계 해전사(海戰史)에서 전무후무한 기록으로 남아 있는 명량대첩에 나서기 전 병사들의 결연한... ",
-			"pubDate":"Thu, 12 Dec 2024 16:51:00 +0900"
 		}
 	]
 }
