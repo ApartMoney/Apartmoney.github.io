@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 14 Dec 2024 09:40:02 +0900",
-	"total":253578,
+	"lastBuildDate":"Sat, 14 Dec 2024 09:50:02 +0900",
+	"total":253577,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"공항철도 &quot;직통열차 타고 서해 노을 감상하세요&quot;",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1977090",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1977090",
+			"description":"노을이 물드는 공항철도 운영 기간 서울역에서 오후 4시50분에 출발하는 직통열차는 <b>청라<\/b>국제도시역과 영종역 사이에 있는 영종대교를 지나는 7분간 서행 운행한다. 열차 안에서 기관사의 감성 방송을 들을 수 있고... ",
+			"pubDate":"Sat, 14 Dec 2024 09:48:00 +0900"
+		},
 		{
 			"title":"[지방소멸 경고등] 인천 인구 300만명 넘었지만…강화·옹진은 '시름'",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20241212152400065?input=1195m",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3159032",
 			"description":"씨네Q 서울(신도림) 경기도(<b>청라<\/b>\/남양주가산) 충청도(천안불당) ■ 일반 극장 경기도(동두천문화극장) 경상도(안동중앙아트시네마) 한편 '퍼스트레이디' 네이버 평점은 12일 기준 9.20점이며, 쿠키영상은 있다.",
 			"pubDate":"Fri, 13 Dec 2024 00:06:00 +0900"
-		},
-		{
-			"title":"[발언대]소방시설 유지 관리 평소에 꼼꼼히",
-			"originallink":"https:\/\/www.kwnews.co.kr\/page\/view\/2024121217231833700",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/087\/0001086018?sid=102",
-			"description":"올해 8월 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 전기차량 화재가 발생했을 때 스프링클러 설비가 제대로 작동하지 않았다. 다행히 인명 피해는 없었지만 5개동 480세대가 화재로 인해 피해를 입었고, 스프링클러... ",
-			"pubDate":"Fri, 13 Dec 2024 00:03:00 +0900"
 		}
 	]
 }
