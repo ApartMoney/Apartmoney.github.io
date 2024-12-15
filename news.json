@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 15 Dec 2024 13:10:02 +0900",
-	"total":253488,
+	"lastBuildDate":"Sun, 15 Dec 2024 13:20:02 +0900",
+	"total":253489,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 역대 최대 국비 5조 8697억 확보",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241215010004469",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20241215010004469",
+			"description":"이번에 확보한 주요 국비 사업은 ▲수도권광역급행철도(GTX-B) 3630억 원 ▲서울도시철도 7호선 <b>청라<\/b>연장 793억 원 ▲인천발 한국고속철도(KTX) 350억 원 ▲스마트빌리지 보급 및 확산 232억 원 ▲노인 일자리 지원 1204억... ",
+			"pubDate":"Sun, 15 Dec 2024 13:18:00 +0900"
+		},
 		{
 			"title":"인천, 내년도 국비 역대 최대 5조8697억원 확보",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1977412",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=26437",
 			"description":"지리적으로 <b>청라<\/b>국제도시와 송도국제도시의 중간 지점에 자리해, 두 지역 내 인프라를 모두 수월하게 이용할 수 있는 것도 특징이다. 현대제철, 동국제강, 현대두산인프라코어 등 산업 단지와의 직주근접도 강점으로... ",
 			"pubDate":"Fri, 13 Dec 2024 20:08:00 +0900"
-		},
-		{
-			"title":"공항철도, '노을이 물드는 공항철도' 21~31일 운행",
-			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=483893",
-			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=483893",
-			"description":"이 기간 동안 서울역에서 16시 50분에 출발하는 직통열차를 타면 <b>청라<\/b>국제도시역과 영종역 사이에 있는 영종대교를 지나는 7분간 서행 운행하는 열차 안에서 기관사 감성방송을 들으며 노을이 물든 바다를 감상할 수... ",
-			"pubDate":"Fri, 13 Dec 2024 19:30:00 +0900"
 		}
 	]
 }
