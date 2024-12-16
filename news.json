@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 16 Dec 2024 14:40:02 +0900",
-	"total":253561,
+	"lastBuildDate":"Mon, 16 Dec 2024 14:50:02 +0900",
+	"total":253562,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, '2024 자원순환실천 학생 토론대회' 성공적 종료",
+			"originallink":"https:\/\/www.etnews.com\/20241216000322",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003268311?sid=102",
+			"description":"이번 행사는 인천시가 추진 중인 자원순환센터 시민 인식개선 사업의 일환으로, 사전심사를 통과한 능허대중, 부원중, 청람중, 하늘중 등 총 4팀이 참여했다. 참가 학생들은 송도와 <b>청라<\/b> 자원순환센터를 견학하고... ",
+			"pubDate":"Mon, 16 Dec 2024 14:43:00 +0900"
+		},
 		{
 			"title":"2년 뒤 UAM 타고 제주·남해안 관광하나...한국공항공사, 1단계 실증 성...",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/11195680",
@@ -166,17 +173,17 @@
 			"pubDate":"Mon, 16 Dec 2024 11:12:00 +0900"
 		},
 		{
-			"title":"소방 &quot;<b>청라<\/b> 전기차 화재 피해액 38억 원 추산&quot;",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202412161100166550",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002128284?sid=102",
-			"description":"지난 8월 벌어진 인천 <b>청라<\/b> 아파트 전기차 화재로 입주민이 입은 재산 피해액이 38억 원에 달하는 것으로 추산됐습니다. 인천 서부소방서는 오늘 (16일) <b>청라<\/b> 아파트 지하주차장 화재와 관련해 입주민들의 재산 피해... ",
-			"pubDate":"Mon, 16 Dec 2024 11:00:00 +0900"
-		},
-		{
 			"title":"“<b>청라<\/b> 전기차 화재 재산피해액 38억원 추산”",
 			"originallink":"https:\/\/biz.chosun.com\/topics\/topics_social\/2024\/12\/16\/JL3E3BKNGBFZHANLSEO7NK75DI\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0001040416?sid=102",
 			"description":"인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차 화재로 인해 38억원의 재산 피해가 일어난 것으로 추산됐다. 인천 서부소방서는 지난 8월 발생한 <b>청라<\/b> 전기차 화재 관련 재산 피해액이 부동산 24억원, 동산... ",
+			"pubDate":"Mon, 16 Dec 2024 11:00:00 +0900"
+		},
+		{
+			"title":"소방 &quot;<b>청라<\/b> 전기차 화재 피해액 38억 원 추산&quot;",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202412161100166550",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002128284?sid=102",
+			"description":"지난 8월 벌어진 인천 <b>청라<\/b> 아파트 전기차 화재로 입주민이 입은 재산 피해액이 38억 원에 달하는 것으로 추산됐습니다. 인천 서부소방서는 오늘 (16일) <b>청라<\/b> 아파트 지하주차장 화재와 관련해 입주민들의 재산 피해... ",
 			"pubDate":"Mon, 16 Dec 2024 11:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=176203",
 			"description":"또 서울 7호선 <b>청라<\/b>연장 793억 원과 인천발 KTX 350억 원, 노인 일자리 지원 1,204억 원도 확보했습니다. 시는 이번 국회에서 증액되지 못한 주요 사업은 추경을 통해 반영될 수 있도록 하겠다고 밝혔습니다.... ",
 			"pubDate":"Mon, 16 Dec 2024 10:18:00 +0900"
-		},
-		{
-			"title":"인천 서부소방서 &quot;<b>청라<\/b> 아파트 전기차 화재 재산 피해액 38억 원 추산&quot;",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1007913681&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001215677?sid=102",
-			"description":"▲ <b>청라<\/b> 아파트 지하 주차장 화재로 전소된 차량 지난 8월 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차 화재로 인한 재산 피해액이 38억 원에 달하는 것으로 추산됐습니다. 인천 서부소방서는 <b>청라<\/b> 전기차... ",
-			"pubDate":"Mon, 16 Dec 2024 10:09:00 +0900"
 		}
 	]
 }
