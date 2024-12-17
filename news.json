@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 17 Dec 2024 18:50:02 +0900",
-	"total":253669,
+	"lastBuildDate":"Tue, 17 Dec 2024 19:00:02 +0900",
+	"total":253670,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이준영 유타대 교수 '인천시장상'...외국인 생활 개선 공로",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202412173262h",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005071442?sid=102",
+			"description":"이준영 교수와 조은비 학생은 8월부터 송도·<b>청라<\/b>·영종국제도시에 거주하는 외국인을 대상으로 생활 편의를 도모하고 개선하기 위한 영상 콘텐츠를 제작해왔다. 콘텐츠 내용은 MZ 세대의 감성을 담아 외국인 생활 정보... ",
+			"pubDate":"Tue, 17 Dec 2024 18:55:00 +0900"
+		},
 		{
 			"title":"인천로봇랜드 조성사업 17년 만에 ‘본궤도’",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1734417447&code=11131411&cp=nv",
@@ -33,17 +40,17 @@
 			"pubDate":"Tue, 17 Dec 2024 18:24:00 +0900"
 		},
 		{
-			"title":"17년간 지연됐던 '인천로봇랜드' 내년 3월 첫 삽",
-			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1466262",
-			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1466262",
-			"description":"인천로봇랜드는 <b>청라<\/b>국제도시 내 76만 9천㎡ 부지에 로봇산업진흥시설과 테마파크, 상업·업무시설 등을 조성하는 사업입니다. 현재 해당 부지에는 로봇타워와 연구시설 건물 각 1개 동만 조성된 가운데 이번 산자부... ",
-			"pubDate":"Tue, 17 Dec 2024 17:58:00 +0900"
-		},
-		{
 			"title":"건강보험 돈 빼돌린 의료기관 17곳 적발… 환자들 주의해야",
 			"originallink":"https:\/\/sports.donga.com\/article\/all\/20241217\/130662949\/1",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/382\/0001169197?sid=102",
 			"description":"공개된 의료기관은광교산한의원 용인시, <b>청라<\/b>탑치과의원 인천광역시 서구, 가평사랑정형외과의원 가평군, 확실한 신경외과의원 시흥시, 백향목 경희한의원 수원시, 동방치과의원 여주시, 편한 몸한의원 부천시... ",
+			"pubDate":"Tue, 17 Dec 2024 17:58:00 +0900"
+		},
+		{
+			"title":"17년간 지연됐던 '인천로봇랜드' 내년 3월 첫 삽",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1466262",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1466262",
+			"description":"인천로봇랜드는 <b>청라<\/b>국제도시 내 76만 9천㎡ 부지에 로봇산업진흥시설과 테마파크, 상업·업무시설 등을 조성하는 사업입니다. 현재 해당 부지에는 로봇타워와 연구시설 건물 각 1개 동만 조성된 가운데 이번 산자부... ",
 			"pubDate":"Tue, 17 Dec 2024 17:58:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005415060?sid=100",
 			"description":"인천 로봇랜드는 인천 경제자유구역 <b>청라<\/b>국제도시 76만 9000㎡ 용지에 로봇산업 진흥시설과 테마파크, 상업·업무시설 등을 조성하는 대규모 국책 프로젝트다. 2008년 경상남도 마산(현재 창원)과 함께 선정됐지만... ",
 			"pubDate":"Tue, 17 Dec 2024 14:28:00 +0900"
-		},
-		{
-			"title":"인천, 로봇 성지 되나...23만평 로봇랜드 내년 3월 착공",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202412172352h",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005071178?sid=102",
-			"description":"인천로봇랜드는 인천경제자유구역인 <b>청라<\/b>국제도시에 있는 알짜배기 부지(76만 9281㎡)에 로봇산업진흥시설, 테마파크, 상업·업무시설 등을 조성하는 대규모 건설사업이다. 토지매입비와 도로 등 기반 시설 조성에만... ",
-			"pubDate":"Tue, 17 Dec 2024 14:27:00 +0900"
 		}
 	]
 }
