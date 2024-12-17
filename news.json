@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 17 Dec 2024 09:00:02 +0900",
-	"total":253592,
+	"lastBuildDate":"Tue, 17 Dec 2024 09:10:02 +0900",
+	"total":253593,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"17년간 표류`인천로봇랜드 사업` 드디어 첫 삽",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2214017",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2214017",
+			"description":"인천로봇랜드는 인천경제자유구역 <b>청라<\/b>국제도시 내 76만 9천㎡ 부지에 로봇산업진흥시설과 테마파크, 상업 및 업무시설 등을 조성하는 대규모 프로젝트로, 사업이 완료되면 인천은 글로벌 로봇 융합 산업의 선도... ",
+			"pubDate":"Tue, 17 Dec 2024 09:00:00 +0900"
+		},
 		{
 			"title":"17년 표류 `인천로봇랜드` 내년 3월 첫 삽 뜬다",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20241217_0002999581",
@@ -33,17 +40,17 @@
 			"pubDate":"Tue, 17 Dec 2024 07:56:00 +0900"
 		},
 		{
-			"title":"[2024결산] 시청앞 참사·전기차 화재…갈길 먼 '안전 대한민국'",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20241216079100004?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015110200?sid=102",
-			"description":"노출 <b>청라<\/b> 아파트 지하주차장 전기차 화재로 일상속 '전기차 포비아' 확산 보행자 9명 목숨 앗아간 역주행 사고 큰 충격…고령운전 자격 논란도 (서울=연합뉴스) 김기훈 기자 = 화성 아리셀 공장 화재, 인천 <b>청라<\/b> 아파트... ",
-			"pubDate":"Tue, 17 Dec 2024 07:11:00 +0900"
-		},
-		{
 			"title":"[2024결산] 연합뉴스 선정 10대 국내뉴스",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20241216040500005?input=1195m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015110185?sid=100",
 			"description":"8월 1일 인천 서구 <b>청라<\/b>동 아파트 주차장에서 발생한 전기차 화재는 '전기차 포비아' 현상까지 낳았다. 배터리 화재 특성상 진화가 쉽지 않아 불이 8시간여만에 완전히 꺼지면서 시설 피해가 컸고, 단수와 단전으로 인해... ",
+			"pubDate":"Tue, 17 Dec 2024 07:11:00 +0900"
+		},
+		{
+			"title":"[2024결산] 시청앞 참사·전기차 화재…갈길 먼 '안전 대한민국'",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20241216079100004?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015110200?sid=102",
+			"description":"노출 <b>청라<\/b> 아파트 지하주차장 전기차 화재로 일상속 '전기차 포비아' 확산 보행자 9명 목숨 앗아간 역주행 사고 큰 충격…고령운전 자격 논란도 (서울=연합뉴스) 김기훈 기자 = 화성 아리셀 공장 화재, 인천 <b>청라<\/b> 아파트... ",
 			"pubDate":"Tue, 17 Dec 2024 07:11:00 +0900"
 		},
 		{
@@ -82,13 +89,6 @@
 			"pubDate":"Tue, 17 Dec 2024 02:36:00 +0900"
 		},
 		{
-			"title":"안산의 미래는 어디로 가고 있나?",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1124013",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1124013",
-			"description":"인천 <b>청라<\/b> 돔구장(2027년 12월 준공 예정), 화성국제테마파크(2029년 개장 예정)와 연계해 내·외국인 관광객 유치가 가능하며, 안산시 도시 이미지 개선뿐 아니라 문화복합도시로의 변모도 가능할 것이다. 또 경력단절... ",
-			"pubDate":"Mon, 16 Dec 2024 20:52:00 +0900"
-		},
-		{
 			"title":"전기차충전시설 지상 이전 뚜껑 열어보니 실적 저조",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1124153",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1124153",
@@ -100,6 +100,13 @@
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1124112",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1124112",
 			"description":"일반산단인 미추홀구 인천산단과 서구 <b>청라<\/b>1지구산단은 가동률 100%였다. 강화하점산단은 지난해 3분기 13개였던 입주기업이 올해는 10개로 3개 줄었으나, 고용 현황은 126명으로 지난해 117명보다 9명 늘어난... ",
+			"pubDate":"Mon, 16 Dec 2024 20:52:00 +0900"
+		},
+		{
+			"title":"안산의 미래는 어디로 가고 있나?",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1124013",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1124013",
+			"description":"인천 <b>청라<\/b> 돔구장(2027년 12월 준공 예정), 화성국제테마파크(2029년 개장 예정)와 연계해 내·외국인 관광객 유치가 가능하며, 안산시 도시 이미지 개선뿐 아니라 문화복합도시로의 변모도 가능할 것이다. 또 경력단절... ",
 			"pubDate":"Mon, 16 Dec 2024 20:52:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=259153",
 			"description":"인천 <b>청라<\/b>국제도시와 계양테크노밸리를 잇는 경인아라뱃길 구간에 구축된 UAM 실증 인프라를 검증하는 예비 실증에 착수했다고 13일 밝혔습니다. UAM은 인천 3기 신도시 계양테크노밸리와 <b>청라<\/b>국제도시를 잇는... ",
 			"pubDate":"Mon, 16 Dec 2024 15:30:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 전기차 화재 재산 피해…‘38억 원’ 추산",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=822716",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=822716",
-			"description":"인천 <b>청라<\/b> 아파트에서 발생한 전기차 화재로 인한 재산 피해액이 38억 원에 달했다. 16일 인천 서부소방서에 따르면 지난 8월 초 발생한 <b>청라<\/b> 아파트 지하주차장 전기차 화재 사고 관련, 부동산 24억 원과 동산 14억 원 등... ",
-			"pubDate":"Mon, 16 Dec 2024 15:28:00 +0900"
 		}
 	]
 }
