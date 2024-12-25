@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 26 Dec 2024 03:00:02 +0900",
-	"total":253908,
+	"lastBuildDate":"Thu, 26 Dec 2024 03:10:02 +0900",
+	"total":253909,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 BMS 안전성… ‘EV3’ ‘캐스퍼’ 2등급, 테슬라 ‘모델Y’ 4등급",
+			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20241225\/130723205\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003606292?sid=101",
+			"description":"국토부는 인천 <b>청라<\/b> 전기차 화재 사건 이후 전기차 화재 예방을 위해 KNCAP 평가 시 BMS 안전기능 항목을 추가했다. 올해 첫 시행한 BMS 안전 기능 평가에선 EV3, 캐스퍼 일렉트릭이 100점 만점에 72.7점(2등급)을... ",
+			"pubDate":"Thu, 26 Dec 2024 03:06:00 +0900"
+		},
 		{
 			"title":"인천시설공단, 폐수 재활용으로 원수 부족 문제 해결",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=486191",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=484407",
 			"description":"시에 따르면, 국토교통부는 지난 1월 인천 검단~계양과 인천공항~<b>청라<\/b>~가정을 지나 서울 강남을 잇는 GTX-D Y자 노선과 인천공항~<b>청라<\/b>~대장~남양주를 지나는 GTX-E 노선을 확정, 발표했다. 이어 3월에는... ",
 			"pubDate":"Tue, 24 Dec 2024 18:02:00 +0900"
-		},
-		{
-			"title":"'초고령' 접어든 대한민국, 인천도 '코앞'",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=406683",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=406683",
-			"description":"군·구별로는 지난달 기준 경제자유구역이 위치한 연수구(12.9%, 송도국제도시)와 서구(13.3%, <b>청라<\/b>국제도시), 중구(15.9%, 영종국제도시) 순으로 비중이 적은 반면, 섬 지역인 옹진군(33.6%)과 강화군(38.8%)은 가장... ",
-			"pubDate":"Tue, 24 Dec 2024 17:56:00 +0900"
 		}
 	]
 }
