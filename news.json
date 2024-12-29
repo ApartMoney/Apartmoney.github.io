@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 30 Dec 2024 05:50:02 +0900",
+	"lastBuildDate":"Mon, 30 Dec 2024 06:00:02 +0900",
 	"total":254138,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 국회일정] (30일, 월)",
+			"originallink":"https:\/\/www.news1.kr\/politics\/assembly\/5645682",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007992989?sid=100",
+			"description":"[인천 <b>청라<\/b>시티타워 원안 높이 관철 관련 기자회견] 13:00 박홍배 의원, [통상임금 관련 근로기준법 개정안 발의 기자회견] 13:20 박주민 의원, [집회의 자유 관련 시민사회 기자회견] 14:00 윤종오 의원, [화물노동자... ",
+			"pubDate":"Mon, 30 Dec 2024 05:00:00 +0900"
+		},
 		{
 			"title":"[인물로 뽑은, 산업 톱10] '혼란' 연속, 흔들린 재계…쪼개지고‧강탈위...",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1981882",
@@ -15,13 +22,6 @@
 			"title":"[오늘의 주요일정]국회(12월30일 월요일)",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20241229_0003013973",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012987043?sid=100",
-			"description":"[인천 <b>청라<\/b>시티타워 원안 높이 관철 관련 기자회견] 13:00 박홍배 의원, [통상임금 관련 근로기준법 개정안 발의 기자회견] 13:20 박주민 의원, [집회의 자유 관련 시민사회 기자회견] 14:00 윤종오 의원, [화물노동자... ",
-			"pubDate":"Mon, 30 Dec 2024 05:00:00 +0900"
-		},
-		{
-			"title":"[오늘의 국회일정] (30일, 월)",
-			"originallink":"https:\/\/www.news1.kr\/politics\/assembly\/5645682",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007992989?sid=100",
 			"description":"[인천 <b>청라<\/b>시티타워 원안 높이 관철 관련 기자회견] 13:00 박홍배 의원, [통상임금 관련 근로기준법 개정안 발의 기자회견] 13:20 박주민 의원, [집회의 자유 관련 시민사회 기자회견] 14:00 윤종오 의원, [화물노동자... ",
 			"pubDate":"Mon, 30 Dec 2024 05:00:00 +0900"
 		},
@@ -89,17 +89,17 @@
 			"pubDate":"Sun, 29 Dec 2024 17:26:00 +0900"
 		},
 		{
-			"title":"[2024년 10대 뉴스-국내]전기차 화재에 포비아·캐즘 확산",
-			"originallink":"https:\/\/www.etnews.com\/20241227000058",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003271862?sid=103",
-			"description":"올해 인천 <b>청라<\/b>동 아파트 지하 주차장 전기차 화재로 일상 속 '전기차 포비아(공포증)'가 확산됐다. 8월 1일 벤츠 전기차에서 폭발과 함께 불길이 치솟았다. 불이 난 곳이 지하 주차장인 데다 배터리 화재 특성상 진화가... ",
-			"pubDate":"Sun, 29 Dec 2024 16:01:00 +0900"
-		},
-		{
 			"title":"인천 아파트 화재에도... 1,300여 곳 소방·방화시설 '위험신호'",
 			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2024122915120005454?did=NA",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000841212?sid=102",
 			"description":"지난 8월 인천 <b>청라<\/b>국제도시 아파트 지하주차장 전기차 화재로 국민 불안감이 커졌지만, 아파트 6곳 중... 소방청은 인천 <b>청라<\/b> 아파트 지하주차장 화재 사건이 발생한 지난 8월부터 11월까지 3개월간 사전통지 없이... ",
+			"pubDate":"Sun, 29 Dec 2024 16:01:00 +0900"
+		},
+		{
+			"title":"[2024년 10대 뉴스-국내]전기차 화재에 포비아·캐즘 확산",
+			"originallink":"https:\/\/www.etnews.com\/20241227000058",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003271862?sid=103",
+			"description":"올해 인천 <b>청라<\/b>동 아파트 지하 주차장 전기차 화재로 일상 속 '전기차 포비아(공포증)'가 확산됐다. 8월 1일 벤츠 전기차에서 폭발과 함께 불길이 치솟았다. 불이 난 곳이 지하 주차장인 데다 배터리 화재 특성상 진화가... ",
 			"pubDate":"Sun, 29 Dec 2024 16:01:00 +0900"
 		},
 		{
@@ -117,17 +117,17 @@
 			"pubDate":"Sun, 29 Dec 2024 14:46:00 +0900"
 		},
 		{
-			"title":"[속보]인천시 소각여열 96% 인상…민간발전업체 말려죽여 교체?",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1275041",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1275041",
-			"description":"인천환경공단은 <b>청라<\/b>자원환경센터(270t\/일×2기)에도 소각 여열을 이용한 증기터빈 발전기(용량 1.8MWh) 설치해 운영한다는 방침이다. 시가 송도자원환경센터 발전사업에서 인천뉴파워를 젖히고, 인천환경공단을... ",
-			"pubDate":"Sun, 29 Dec 2024 14:00:00 +0900"
-		},
-		{
 			"title":"[아듀2024] 역대급 수출실적 거둔 車업계, 수입차 판매는 희비",
 			"originallink":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7102157",
 			"link":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7102157",
 			"description":"인천 <b>청라<\/b>아파트 지하주차장 전기차 화재 현장. 사진=연합뉴스 경기 침체에 수입차업계도 실적 급락 국산차 내수 부진에 대해 수입차업계의 국내 판매도 큰폭으로 줄었다. 한국수입자동차협회에 따르면 지난달 누적... ",
+			"pubDate":"Sun, 29 Dec 2024 14:00:00 +0900"
+		},
+		{
+			"title":"[속보]인천시 소각여열 96% 인상…민간발전업체 말려죽여 교체?",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1275041",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1275041",
+			"description":"인천환경공단은 <b>청라<\/b>자원환경센터(270t\/일×2기)에도 소각 여열을 이용한 증기터빈 발전기(용량 1.8MWh) 설치해 운영한다는 방침이다. 시가 송도자원환경센터 발전사업에서 인천뉴파워를 젖히고, 인천환경공단을... ",
 			"pubDate":"Sun, 29 Dec 2024 14:00:00 +0900"
 		},
 		{
@@ -159,6 +159,13 @@
 			"pubDate":"Sun, 29 Dec 2024 12:01:00 +0900"
 		},
 		{
+			"title":"스프링클러 설치된 아파트 16%, 소방·방화 시설 불량",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20241227111200530?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015130427?sid=102",
+			"description":"올바른 소방시설 관리를 위한 자율점검 체크리스트를 배포하고, 화재 안전에 대해 상담했다. 이번 점검은 지난 8월 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재와 유사한 사고를 막고자 진행됐다.",
+			"pubDate":"Sun, 29 Dec 2024 12:00:00 +0900"
+		},
+		{
 			"title":"지하주차장 화재 잊었나…아파트 6곳 중 1곳, 스프링클러 '불량'",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20241229_0003013401",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012986173?sid=102",
@@ -170,13 +177,6 @@
 			"originallink":"https:\/\/www.news1.kr\/society\/general-society\/5644651",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007992201?sid=102",
 			"description":"인천 <b>청라<\/b>아파트 지하주차장 전기차 화재 이후 불시에 긴급 안전 조사를 실시한 소방청이 총 1312건의 불량사항을 적발했다고 29일 밝혔다. 소방청은 유사 사고 재발 방지를 위해 스프링클러가 설치된 전국 아파트... ",
-			"pubDate":"Sun, 29 Dec 2024 12:00:00 +0900"
-		},
-		{
-			"title":"스프링클러 설치된 아파트 16%, 소방·방화 시설 불량",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20241227111200530?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015130427?sid=102",
-			"description":"올바른 소방시설 관리를 위한 자율점검 체크리스트를 배포하고, 화재 안전에 대해 상담했다. 이번 점검은 지난 8월 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재와 유사한 사고를 막고자 진행됐다.",
 			"pubDate":"Sun, 29 Dec 2024 12:00:00 +0900"
 		},
 		{
