@@ -1,13 +1,13 @@
 {
-	"lastBuildDate":"Mon, 30 Dec 2024 05:30:02 +0900",
+	"lastBuildDate":"Mon, 30 Dec 2024 05:40:02 +0900",
 	"total":254138,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"[오늘의 주요일정]국회(12월30일 월요일)",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20241229_0003013973",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012987043?sid=100",
+			"title":"[오늘의 국회일정] (30일, 월)",
+			"originallink":"https:\/\/www.news1.kr\/politics\/assembly\/5645682",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007992989?sid=100",
 			"description":"[인천 <b>청라<\/b>시티타워 원안 높이 관철 관련 기자회견] 13:00 박홍배 의원, [통상임금 관련 근로기준법 개정안 발의 기자회견] 13:20 박주민 의원, [집회의 자유 관련 시민사회 기자회견] 14:00 윤종오 의원, [화물노동자... ",
 			"pubDate":"Mon, 30 Dec 2024 05:00:00 +0900"
 		},
@@ -19,9 +19,9 @@
 			"pubDate":"Mon, 30 Dec 2024 05:00:00 +0900"
 		},
 		{
-			"title":"[오늘의 국회일정] (30일, 월)",
-			"originallink":"https:\/\/www.news1.kr\/politics\/assembly\/5645682",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007992989?sid=100",
+			"title":"[오늘의 주요일정]국회(12월30일 월요일)",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20241229_0003013973",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012987043?sid=100",
 			"description":"[인천 <b>청라<\/b>시티타워 원안 높이 관철 관련 기자회견] 13:00 박홍배 의원, [통상임금 관련 근로기준법 개정안 발의 기자회견] 13:20 박주민 의원, [집회의 자유 관련 시민사회 기자회견] 14:00 윤종오 의원, [화물노동자... ",
 			"pubDate":"Mon, 30 Dec 2024 05:00:00 +0900"
 		},
@@ -159,6 +159,13 @@
 			"pubDate":"Sun, 29 Dec 2024 12:01:00 +0900"
 		},
 		{
+			"title":"스프링클러 설치된 아파트 16%, 소방·방화 시설 불량",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20241227111200530?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015130427?sid=102",
+			"description":"올바른 소방시설 관리를 위한 자율점검 체크리스트를 배포하고, 화재 안전에 대해 상담했다. 이번 점검은 지난 8월 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재와 유사한 사고를 막고자 진행됐다.",
+			"pubDate":"Sun, 29 Dec 2024 12:00:00 +0900"
+		},
+		{
 			"title":"지하주차장 화재 잊었나…아파트 6곳 중 1곳, 스프링클러 '불량'",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20241229_0003013401",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012986173?sid=102",
@@ -170,13 +177,6 @@
 			"originallink":"https:\/\/www.news1.kr\/society\/general-society\/5644651",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007992201?sid=102",
 			"description":"인천 <b>청라<\/b>아파트 지하주차장 전기차 화재 이후 불시에 긴급 안전 조사를 실시한 소방청이 총 1312건의 불량사항을 적발했다고 29일 밝혔다. 소방청은 유사 사고 재발 방지를 위해 스프링클러가 설치된 전국 아파트... ",
-			"pubDate":"Sun, 29 Dec 2024 12:00:00 +0900"
-		},
-		{
-			"title":"스프링클러 설치된 아파트 16%, 소방·방화 시설 불량",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20241227111200530?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015130427?sid=102",
-			"description":"올바른 소방시설 관리를 위한 자율점검 체크리스트를 배포하고, 화재 안전에 대해 상담했다. 이번 점검은 지난 8월 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에서 발생한 전기차 화재와 유사한 사고를 막고자 진행됐다.",
 			"pubDate":"Sun, 29 Dec 2024 12:00:00 +0900"
 		},
 		{
