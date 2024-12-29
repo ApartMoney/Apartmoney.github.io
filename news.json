@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 30 Dec 2024 01:50:02 +0900",
-	"total":254134,
+	"lastBuildDate":"Mon, 30 Dec 2024 02:00:02 +0900",
+	"total":254135,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[공공뉴스-아듀 2024] ③사회 7대 뉴스",
+			"originallink":"http:\/\/www.00news.co.kr\/news\/articleView.html?idxno=91084",
+			"link":"http:\/\/www.00news.co.kr\/news\/articleView.html?idxno=91084",
+			"description":"8월1일에는 인천 서구 <b>청라<\/b>동의 아파트 지하 1층 주차장에 주차된 전기차에서 불이 나면서 아파트 주민의 일상이 무너졌다. 이 화재로 주민 23명이 연기를 흡입하는 등 다치고, 차량 87대가 불에 탔다. 또 차량 872대가... ",
+			"pubDate":"Mon, 30 Dec 2024 01:58:00 +0900"
+		},
 		{
 			"title":"인천시 4급 이상 125명 인사예고…5급 이하 1월 중순 발령 예정",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=824575",
@@ -89,17 +96,17 @@
 			"pubDate":"Sun, 29 Dec 2024 14:46:00 +0900"
 		},
 		{
-			"title":"[아듀2024] 역대급 수출실적 거둔 車업계, 수입차 판매는 희비",
-			"originallink":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7102157",
-			"link":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7102157",
-			"description":"인천 <b>청라<\/b>아파트 지하주차장 전기차 화재 현장. 사진=연합뉴스 경기 침체에 수입차업계도 실적 급락 국산차 내수 부진에 대해 수입차업계의 국내 판매도 큰폭으로 줄었다. 한국수입자동차협회에 따르면 지난달 누적... ",
-			"pubDate":"Sun, 29 Dec 2024 14:00:00 +0900"
-		},
-		{
 			"title":"[속보]인천시 소각여열 96% 인상…민간발전업체 말려죽여 교체?",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1275041",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1275041",
 			"description":"인천환경공단은 <b>청라<\/b>자원환경센터(270t\/일×2기)에도 소각 여열을 이용한 증기터빈 발전기(용량 1.8MWh) 설치해 운영한다는 방침이다. 시가 송도자원환경센터 발전사업에서 인천뉴파워를 젖히고, 인천환경공단을... ",
+			"pubDate":"Sun, 29 Dec 2024 14:00:00 +0900"
+		},
+		{
+			"title":"[아듀2024] 역대급 수출실적 거둔 車업계, 수입차 판매는 희비",
+			"originallink":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7102157",
+			"link":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7102157",
+			"description":"인천 <b>청라<\/b>아파트 지하주차장 전기차 화재 현장. 사진=연합뉴스 경기 침체에 수입차업계도 실적 급락 국산차 내수 부진에 대해 수입차업계의 국내 판매도 큰폭으로 줄었다. 한국수입자동차협회에 따르면 지난달 누적... ",
 			"pubDate":"Sun, 29 Dec 2024 14:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3216295",
 			"description":"이와 함께 검단신도시 SOC 복합청사, <b>청라<\/b>생활 문화센터, 가좌 국민 체육센터, 신개념 실내종합체육관, 오류왕길문화체육센터, (가칭)<b>청라<\/b>청소년센터 건립 등 문화·체육시설 확대를 추진하겠다고 언급했다. 사통팔달... ",
 			"pubDate":"Sun, 29 Dec 2024 08:02:00 +0900"
-		},
-		{
-			"title":"1152회 로또, 1등 '30번대 번호'만 잭팟... 35명 8.7억씩",
-			"originallink":"http:\/\/www.kbsm.net\/news\/view.php?idx=459155",
-			"link":"http:\/\/www.kbsm.net\/news\/view.php?idx=459155",
-			"description":"서구 <b>청라<\/b>에메랄드로 65) ▲NBA(인천 중구 신도시남로142번길 6 1동 1층) ▲훼밀리슈퍼(경기 구리 건원대로34번길 19 세신훼밀리타운102) ▲건우유통(경기 성남 중원구 박석로 80 1층) ▲용이복권방(경기 평택... ",
-			"pubDate":"Sun, 29 Dec 2024 07:26:00 +0900"
 		}
 	]
 }
