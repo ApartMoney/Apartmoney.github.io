@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 30 Dec 2024 09:00:02 +0900",
-	"total":254153,
+	"lastBuildDate":"Mon, 30 Dec 2024 09:10:02 +0900",
+	"total":254154,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[연중기획] 인천 서구 어려운 아동·청소년에 건강한 밥상 전달",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=259937",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=259937",
+			"description":"이후 저소득층 여성 청소년들의 생리대 문제가 사회 이슈화 됐을 때 '달콤한<b>청라<\/b>맘스'와 '너나들이검단·신도시·검암맘' 등 서구지역 맘카페의 후원으로 생리대 무상지급을 했으며, 교복 지원 역할도 했다. 코로나19... ",
+			"pubDate":"Mon, 30 Dec 2024 09:02:00 +0900"
+		},
 		{
 			"title":"달라진 인천의 위상, 세계 10대 도시로 도약",
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2219179",
@@ -54,17 +61,17 @@
 			"pubDate":"Mon, 30 Dec 2024 07:30:00 +0900"
 		},
 		{
-			"title":"인천의 꿈, 대한민국의 미래…세계 10대 도시 도약",
-			"originallink":"https:\/\/www.viva100.com\/article\/20241230500029",
-			"link":"https:\/\/www.viva100.com\/article\/20241230500029",
-			"description":"바이오(송도), 로봇·모빌리티(<b>청라<\/b>), 바이오·항공정비(영종) 등 지역 거점별 산업클러스터 조성을 통해 도시경쟁력도 확보한다. 지난 4월에는 첨단복합 항공단지 조성 공사를 시작으로 글로벌 항공정비산업... ",
-			"pubDate":"Mon, 30 Dec 2024 07:26:00 +0900"
-		},
-		{
 			"title":"[와글와글 플러스] 아파트 6곳 중 1곳‥소방·방화 시설 불량",
 			"originallink":"https:\/\/imnews.imbc.com\/replay\/2024\/nwtoday\/article\/6671954_36523.html",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001396836?sid=102",
 			"description":"지난 8월 인천 <b>청라<\/b> 아파트 지하 주차장에서 전기차 화재가 발생했죠. 화재 당시, 초기 불을 잡는 데 큰... 지난 8월 1일 인천 <b>청라<\/b>국제도시 아파트 지하 주차장에 세워진 벤츠 전기차에서 불이 나 차량 959대가 타거나... ",
+			"pubDate":"Mon, 30 Dec 2024 07:26:00 +0900"
+		},
+		{
+			"title":"인천의 꿈, 대한민국의 미래…세계 10대 도시 도약",
+			"originallink":"https:\/\/www.viva100.com\/article\/20241230500029",
+			"link":"https:\/\/www.viva100.com\/article\/20241230500029",
+			"description":"바이오(송도), 로봇·모빌리티(<b>청라<\/b>), 바이오·항공정비(영종) 등 지역 거점별 산업클러스터 조성을 통해 도시경쟁력도 확보한다. 지난 4월에는 첨단복합 항공단지 조성 공사를 시작으로 글로벌 항공정비산업... ",
 			"pubDate":"Mon, 30 Dec 2024 07:26:00 +0900"
 		},
 		{
@@ -110,13 +117,6 @@
 			"pubDate":"Mon, 30 Dec 2024 06:02:00 +0900"
 		},
 		{
-			"title":"[오늘의 국회일정] (30일, 월)",
-			"originallink":"https:\/\/www.news1.kr\/politics\/assembly\/5645682",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007992989?sid=100",
-			"description":"[인천 <b>청라<\/b>시티타워 원안 높이 관철 관련 기자회견] 13:00 박홍배 의원, [통상임금 관련 근로기준법 개정안 발의 기자회견] 13:20 박주민 의원, [집회의 자유 관련 시민사회 기자회견] 14:00 윤종오 의원, [화물노동자... ",
-			"pubDate":"Mon, 30 Dec 2024 05:00:00 +0900"
-		},
-		{
 			"title":"[오늘의 주요일정]국회(12월30일 월요일)",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20241229_0003013973",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0012987043?sid=100",
@@ -128,6 +128,13 @@
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1981882",
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1981882",
 			"description":"지난 8월 인천<b>청라<\/b> 아파트 주차차량에서 폭발이 일어나며 8시간 20분만에 진화됐다. 반면 기아는 E-GMP 기반 3번째 전기차 모델 'EV3'를 선보이며 전기차 대중화에 박차를 가했다. EV3는 소형 SUV로 2021년 E-GMP 전기차 EV6... ",
+			"pubDate":"Mon, 30 Dec 2024 05:00:00 +0900"
+		},
+		{
+			"title":"[오늘의 국회일정] (30일, 월)",
+			"originallink":"https:\/\/www.news1.kr\/politics\/assembly\/5645682",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0007992989?sid=100",
+			"description":"[인천 <b>청라<\/b>시티타워 원안 높이 관철 관련 기자회견] 13:00 박홍배 의원, [통상임금 관련 근로기준법 개정안 발의 기자회견] 13:20 박주민 의원, [집회의 자유 관련 시민사회 기자회견] 14:00 윤종오 의원, [화물노동자... ",
 			"pubDate":"Mon, 30 Dec 2024 05:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003271862?sid=103",
 			"description":"올해 인천 <b>청라<\/b>동 아파트 지하 주차장 전기차 화재로 일상 속 '전기차 포비아(공포증)'가 확산됐다. 8월 1일 벤츠 전기차에서 폭발과 함께 불길이 치솟았다. 불이 난 곳이 지하 주차장인 데다 배터리 화재 특성상 진화가... ",
 			"pubDate":"Sun, 29 Dec 2024 16:01:00 +0900"
-		},
-		{
-			"title":"대출 규제에 계절적 비수기까지…인천 아파트 값 하락폭 확대, 전세도 ...",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=824527",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=824527",
-			"description":"특히 중구는 입주물량 영향이 있는 중산·운남동 위주로 -0.18%를 기록, 서구도 <b>청라<\/b>·가정동 위주로 -0.12% 하락하면서 인천 전체 하락폭을 견인했다. 이 같은 상황에 주요 시중은행들이 새해 대출 규제를 완화한다는... ",
-			"pubDate":"Sun, 29 Dec 2024 14:52:00 +0900"
 		}
 	]
 }
