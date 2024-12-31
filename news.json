@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 31 Dec 2024 16:30:03 +0900",
-	"total":254291,
+	"lastBuildDate":"Tue, 31 Dec 2024 16:40:02 +0900",
+	"total":254292,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"경고 주의 처분 받은 직원, 승진에 표창까지…인천서구문화재단, 인사평...",
+			"originallink":"http:\/\/www.100ssd.co.kr\/news\/articleView.html?idxno=117143",
+			"link":"http:\/\/www.100ssd.co.kr\/news\/articleView.html?idxno=117143",
+			"description":"이와 관련해 김원진 인천 서구의회 의원(<b>청라<\/b>1·2동, 민주당)은 &quot;A씨의 경우 휴가를 내놓고 출장을 갔다고 출장비를 신청해 출장비를 중복 수급 한 내역들이 발견됐고, 과거 근태 내역들을 살펴보니 2022년과 2023년도... ",
+			"pubDate":"Tue, 31 Dec 2024 16:38:00 +0900"
+		},
 		{
 			"title":"2024 한국 교통, 새로웠지만 참사가 비통했다 [박장식의 환승센터]",
 			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0003091192&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
@@ -61,6 +68,13 @@
 			"pubDate":"Tue, 31 Dec 2024 14:28:00 +0900"
 		},
 		{
+			"title":"[신년사] 강범석 인천 서구청장 &quot;지역 경제 성장 최우선 과제&quot;",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1195053",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1195053",
+			"description":"검단신도시 SOC 복합청사, <b>청라<\/b>생활 문화센터, 가좌 국민 체육센터, 신개념 실내종합체육관, 오류왕길문화체육센터, (가칭)<b>청라<\/b>청소년센터 건립을 통해 63만 구민이 행복한 여가활동과 일상을 누릴 수 있는, 다양한 문화... ",
+			"pubDate":"Tue, 31 Dec 2024 14:02:00 +0900"
+		},
+		{
 			"title":"유정복 인천시장 신년사 &quot;인천, 제2의 경제도시일뿐 아니라 제1의 행복...",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=422842",
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=422842",
@@ -75,13 +89,6 @@
 			"pubDate":"Tue, 31 Dec 2024 14:02:00 +0900"
 		},
 		{
-			"title":"[신년사] 강범석 인천 서구청장 &quot;지역 경제 성장 최우선 과제&quot;",
-			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1195053",
-			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1195053",
-			"description":"검단신도시 SOC 복합청사, <b>청라<\/b>생활 문화센터, 가좌 국민 체육센터, 신개념 실내종합체육관, 오류왕길문화체육센터, (가칭)<b>청라<\/b>청소년센터 건립을 통해 63만 구민이 행복한 여가활동과 일상을 누릴 수 있는, 다양한 문화... ",
-			"pubDate":"Tue, 31 Dec 2024 14:02:00 +0900"
-		},
-		{
 			"title":"강범석 인천 서구청장 <b>청라<\/b> 전기차 화재 아파트 복구현장 점검",
 			"originallink":"https:\/\/www.viva100.com\/article\/20241231500562",
 			"link":"https:\/\/www.viva100.com\/article\/20241231500562",
@@ -89,17 +96,17 @@
 			"pubDate":"Tue, 31 Dec 2024 13:44:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b>~강서 BRT 이용자 94% “전면좌석제 만족” (B tv 인천뉴스)",
-			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=176695",
-			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=176695",
-			"description":"<b>청라<\/b>~강서간 BRT(간선급행버스체계) 이용자들이 전면 좌석제에 대한 만족도가 높은 것으로 나타났습니다. 인천교통공사가 실시한 이용자 만족도 조사 결과 응답자 588명 중 94%가 &quot;전면 좌석제에 대해 만족한다... ",
-			"pubDate":"Tue, 31 Dec 2024 13:42:00 +0900"
-		},
-		{
 			"title":"인천경제청, 외국인직접투자 6억 달러 돌파 (B tv 인천뉴스)",
 			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=176696",
 			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=176696",
 			"description":"송도·영종·<b>청라<\/b>국제도시에 대한 외국인직접투자 누적 신고액은 총 6억500만 달러로 집계됐습니다. 이는 지난해보다 40% 늘어난 규모로, 2022년부터 2년 연속 증가세를 보였습니다. 특히 송도국제도시에는... ",
+			"pubDate":"Tue, 31 Dec 2024 13:42:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>~강서 BRT 이용자 94% “전면좌석제 만족” (B tv 인천뉴스)",
+			"originallink":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=176695",
+			"link":"http:\/\/ch1.skbroadband.com\/content\/view?parent_no=24&content_no=58&p_no=176695",
+			"description":"<b>청라<\/b>~강서간 BRT(간선급행버스체계) 이용자들이 전면 좌석제에 대한 만족도가 높은 것으로 나타났습니다. 인천교통공사가 실시한 이용자 만족도 조사 결과 응답자 588명 중 94%가 &quot;전면 좌석제에 대해 만족한다... ",
 			"pubDate":"Tue, 31 Dec 2024 13:42:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3217131",
 			"description":"내년 1월 1일부터 5년간 인천 송도, <b>청라<\/b>, 영종, 화성(동탄), 용인 등과 같은 과밀억제권역이 아닌 수도권 감면율은 일반 50%에서 25%로, 청년 등은 100%에서 75%로 낮아진다. 현재까지는 일반기업은 50%, 청년·생계형 기업은... ",
 			"pubDate":"Tue, 31 Dec 2024 10:40:00 +0900"
-		},
-		{
-			"title":"&quot;시민행복ㆍ민생안정ㆍ미래선도도시 인천 만들기 위해 최선 다할것&quot;",
-			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=200909",
-			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=200909",
-			"description":"글로벌 TOP 10 도시로의 도약을 위해 전국 1위 인천경제자유구역을 강화도 남단과 인천항 내항으로 확대하고 국내 전망타워 중 최고높이인 <b>청라<\/b>시티타워 건설과 송도 6·8공구 개발사업 및 103층 랜드마크타워 건설도... ",
-			"pubDate":"Tue, 31 Dec 2024 10:32:00 +0900"
 		}
 	]
 }
