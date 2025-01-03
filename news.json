@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 03 Jan 2025 15:00:01 +0900",
-	"total":254687,
+	"lastBuildDate":"Fri, 03 Jan 2025 15:10:02 +0900",
+	"total":254689,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시, 탄소중립 실천 '새해농업인 실용교육' 실시",
+			"originallink":"https:\/\/www.jbnews.com\/news\/articleView.html?idxno=1463075",
+			"link":"https:\/\/www.jbnews.com\/news\/articleView.html?idxno=1463075",
+			"description":"(논콩) ▷15일 <b>청라<\/b>면 ▷16일 남포면, 농업기술센터(치유농업) ▷20일 미산면 ▷21일 성주면, 농업기술센터(정밀농업) ▷22일 문화의전당(대천1~4동) ▷23일 대천5동, 미산면(산채) ▷24일 주산면 순이다. 자세한 일정은... ",
+			"pubDate":"Fri, 03 Jan 2025 15:04:00 +0900"
+		},
+		{
+			"title":"2025년, 더 행복한 인천생활을 누려보세요",
+			"originallink":"http:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=342564",
+			"link":"http:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=342564",
+			"description":"또한, ▲전국민 대상 인천대교 통행료를 기존 5,500원에서 2,000원으로 대폭 인하하고, ▲영종과 <b>청라<\/b>를 연결하는 제3연륙교를 12월에 개통하며, ▲인천도시철도 1호선을 검단까지 연장 개통하는 등 교통 흐름과 편의성을... ",
+			"pubDate":"Fri, 03 Jan 2025 15:02:00 +0900"
+		},
 		{
 			"title":"인천시 &quot;2025년 더 행복한 인천생활을 누려보세요&quot;",
 			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=230141",
@@ -187,13 +201,6 @@
 			"pubDate":"Fri, 03 Jan 2025 09:58:00 +0900"
 		},
 		{
-			"title":"인천 원도심·신도시 초등학생수 양극화 '심화'",
-			"originallink":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2025\/01\/02\/2025010200410.html",
-			"link":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2025\/01\/02\/2025010200410.html",
-			"description":"반면 송도·영종·<b>청라<\/b> 등 신도시 개발에 따른 인구 유입으로 연수구·서구·중구에서는 학급 과밀화 문제가 발생하고 있다고 설명했다. 또 양극화 현상이 지속될 경우 인천의 초등학교는 2023년 262곳에서 2035년... ",
-			"pubDate":"Fri, 03 Jan 2025 09:56:00 +0900"
-		},
-		{
 			"title":"유정복, “시민에게 실질적인 도움이 되는 정책 지속 발굴 추진할 것”",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20250103021581283",
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20250103021581283",
@@ -201,18 +208,11 @@
 			"pubDate":"Fri, 03 Jan 2025 09:56:00 +0900"
 		},
 		{
-			"title":"인천시, 2025 더 행복한 인천생활 발간",
-			"originallink":"http:\/\/www.livesnews.com\/news\/article.html?no=46537",
-			"link":"http:\/\/www.livesnews.com\/news\/article.html?no=46537",
-			"description":"또한 전국민 대상 인천대교 통행료를 기존 5500원에서 2000원으로 대폭 인하하고, 영종과 <b>청라<\/b>를 연결하는 제3연륙교를 12월에 개통하며, 인천도시철도 1호선을 검단까지 연장 개통하는 등 교통 흐름과 편의성을 크게... ",
-			"pubDate":"Fri, 03 Jan 2025 09:46:00 +0900"
-		},
-		{
-			"title":"[인사] 신한은행",
-			"originallink":"http:\/\/www.popcornnews.net\/news\/articleView.html?idxno=71047",
-			"link":"http:\/\/www.popcornnews.net\/news\/articleView.html?idxno=71047",
-			"description":"김은자 ▲<b>청라<\/b>국제도시지점장 김백년 ▲부천테크노파크 금융센터장겸 SRM 김종빈 ▲인천영업부 금융센터장겸 SRM 박태훈 ▲남동 금융센터장겸 SRM 정웅택 ▲남동산단지점장 김병규 ▲경기광주 금융센터장겸 SRM... ",
-			"pubDate":"Fri, 03 Jan 2025 09:46:00 +0900"
+			"title":"인천 원도심·신도시 초등학생수 양극화 '심화'",
+			"originallink":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2025\/01\/02\/2025010200410.html",
+			"link":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2025\/01\/02\/2025010200410.html",
+			"description":"반면 송도·영종·<b>청라<\/b> 등 신도시 개발에 따른 인구 유입으로 연수구·서구·중구에서는 학급 과밀화 문제가 발생하고 있다고 설명했다. 또 양극화 현상이 지속될 경우 인천의 초등학교는 2023년 262곳에서 2035년... ",
+			"pubDate":"Fri, 03 Jan 2025 09:56:00 +0900"
 		}
 	]
 }
