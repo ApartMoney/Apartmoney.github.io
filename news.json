@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 09 Jan 2025 23:50:03 +0900",
-	"total":254962,
+	"lastBuildDate":"Fri, 10 Jan 2025 00:00:03 +0900",
+	"total":254963,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] KB금융지주·KB국민은행",
+			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=670547",
+			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=670547",
+			"description":"김승수 △<b>청라<\/b>지점 김연우 △내외동지점 김연주 △왕십리지점 김영기 △주안지점 김영숙 △석촌동지점 김영태 △독산동지점 김영흔 △테헤란로지점 김은영 △오산지점 김장선 △KTX광명역지점 김재일 △의왕지점 김재형... ",
+			"pubDate":"Thu, 09 Jan 2025 23:54:00 +0900"
+		},
 		{
 			"title":"[인사] KB국민은행",
 			"originallink":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=39316",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2436396",
 			"description":"김승수 △<b>청라<\/b>지점 김연우 △내외동지점 김연주 △왕십리지점 김영기 △주안지점 김영숙 △석촌동지점 김영태 △독산동지점 김영흔 △테헤란로지점 김은영 △오산지점 김장선 △KTX광명역지점 김재일 △의왕지점 김재형... ",
 			"pubDate":"Thu, 09 Jan 2025 20:38:00 +0900"
-		},
-		{
-			"title":"[인사] KB금융지주·KB국민은행",
-			"originallink":"https:\/\/www.kukinews.com\/article\/view\/kuk202501090236",
-			"link":"https:\/\/www.kukinews.com\/article\/view\/kuk202501090236",
-			"description":"김승수 ▲<b>청라<\/b>지점 김연우 ▲내외동지점 김연주 ▲왕십리지점 김영기 ▲주안지점 김영숙 ▲석촌동지점 김영태 ▲독산동지점 김영흔 ▲테헤란로지점 김은영 ▲오산지점 김장선 ▲KTX광명역지점 김재일 ▲의왕지점 김재형... ",
-			"pubDate":"Thu, 09 Jan 2025 20:28:00 +0900"
 		}
 	]
 }
