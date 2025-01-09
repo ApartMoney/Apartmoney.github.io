@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 09 Jan 2025 18:20:02 +0900",
-	"total":254906,
+	"lastBuildDate":"Thu, 09 Jan 2025 18:30:02 +0900",
+	"total":254907,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"불나면 어쩌지…한파특보에 스프링클러 동파될까 '발동동'",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363682114",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363682114",
+			"description":"9일 중부일보 취재를 종합하면 지난해 8월 인천 <b>청라<\/b> 지하 주차장 화재를 계기로 정부가 습식 스프링클러 설치 의무화를 추진 중이지만, 동파에 취약하다는 우려가 나온다. 습식 설비에 비해 건식 스프링클러는... ",
+			"pubDate":"Thu, 09 Jan 2025 18:20:00 +0900"
+		},
 		{
 			"title":"[인천24시] 유정복 시장 &quot;대한민국 제2 경제도시 만들 것&quot;",
 			"originallink":"https:\/\/www.sisajournal.com\/news\/articleView.html?idxno=320949",
@@ -47,17 +54,17 @@
 			"pubDate":"Thu, 09 Jan 2025 17:14:00 +0900"
 		},
 		{
-			"title":"[에듀플러스]테크빌교육, 2025년 겨울학기 디지털새싹 캠프 프로그램 운...",
-			"originallink":"https:\/\/www.etnews.com\/20250109000359",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003274832?sid=102",
-			"description":"서울·인천, 경상, 경기 및 호남·제주 지역에서 모집한 수강생 200여명을 대상으로 경남 수남 초등학교, 경기 나비 초등학교, 인천 <b>청라<\/b> 초등학교 등에서 진행했다. 이번 겨울학기 캠프는 호남·제주 지역을 중심으로... ",
-			"pubDate":"Thu, 09 Jan 2025 17:12:00 +0900"
-		},
-		{
 			"title":"인천시, '시민과 함께하는 시정공유회' 개최",
 			"originallink":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1056578",
 			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1056578",
 			"description":"로봇-모빌리티-첨단의료 벨트(<b>청라<\/b>), 친환경-미래에너지 벨트(영흥) 등 지역별 특성에 맞는 첨단산업 벨트 구축을 통해 산업생태계를 활성화하고 노후화된 산업 공간 가치 재창조를 통해 지역경제 성장을 견인할... ",
+			"pubDate":"Thu, 09 Jan 2025 17:12:00 +0900"
+		},
+		{
+			"title":"[에듀플러스]테크빌교육, 2025년 겨울학기 디지털새싹 캠프 프로그램 운...",
+			"originallink":"https:\/\/www.etnews.com\/20250109000359",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003274832?sid=102",
+			"description":"서울·인천, 경상, 경기 및 호남·제주 지역에서 모집한 수강생 200여명을 대상으로 경남 수남 초등학교, 경기 나비 초등학교, 인천 <b>청라<\/b> 초등학교 등에서 진행했다. 이번 겨울학기 캠프는 호남·제주 지역을 중심으로... ",
 			"pubDate":"Thu, 09 Jan 2025 17:12:00 +0900"
 		},
 		{
@@ -194,13 +201,6 @@
 			"pubDate":"Thu, 09 Jan 2025 13:12:00 +0900"
 		},
 		{
-			"title":"[신년 인터뷰] 강범석 인천 서구청장 &quot;민생회복과 지역경제 성장 최선&quot;",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363682048",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363682048",
-			"description":"강 구청장은 2024년 힘겨웠던 일 중 하나로 지난 8월 <b>청라<\/b> 아파트 전기차 화재 사고를 꼽으면서 그때의 저력으로 위기를 헤쳐나가겠다고 강조했다. 그는 &quot;전국 각지에서 후원을 했고 사태 수습에 최선을 다했다. 지역... ",
-			"pubDate":"Thu, 09 Jan 2025 13:08:00 +0900"
-		},
-		{
 			"title":"인천교통공사, 2025년 운수종사자 직무교육 실시",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=422991",
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=422991",
@@ -208,11 +208,11 @@
 			"pubDate":"Thu, 09 Jan 2025 13:08:00 +0900"
 		},
 		{
-			"title":"테크빌교육, '2025년 겨울학기 디지털새싹 캠프' 프로그램 운영",
-			"originallink":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=538747",
-			"link":"http:\/\/www.veritas-a.com\/news\/articleView.html?idxno=538747",
-			"description":"서울\/인천, 경상, 경기 및 호남\/제주 지역에서 모집한 수강생 200여명을 대상으로 경남 수남 초등학교, 경기 나비 초등학교, 인천 <b>청라<\/b> 초등학교 등에서 진행했다. 이번 겨울학기 캠프에서는 호남\/제주 지역을 중심으로... ",
-			"pubDate":"Thu, 09 Jan 2025 12:38:00 +0900"
+			"title":"[신년 인터뷰] 강범석 인천 서구청장 &quot;민생회복과 지역경제 성장 최선&quot;",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363682048",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363682048",
+			"description":"강 구청장은 2024년 힘겨웠던 일 중 하나로 지난 8월 <b>청라<\/b> 아파트 전기차 화재 사고를 꼽으면서 그때의 저력으로 위기를 헤쳐나가겠다고 강조했다. 그는 &quot;전국 각지에서 후원을 했고 사태 수습에 최선을 다했다. 지역... ",
+			"pubDate":"Thu, 09 Jan 2025 13:08:00 +0900"
 		}
 	]
 }
