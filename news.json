@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 10 Jan 2025 17:50:02 +0900",
-	"total":255190,
+	"lastBuildDate":"Fri, 10 Jan 2025 18:00:02 +0900",
+	"total":255191,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[이호근의 모빌리티 인사이트] 배터리 사전인증제, '셀단위' 인증으로 ...",
+			"originallink":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7102870",
+			"link":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7102870",
+			"description":"인천 <b>청라<\/b>에서 발생한 벤츠 화재의 경우, 너무도 많은 사람이 고통받고 있고 아직도 뾰족한 해결책이 없는 상황이다. 향후 유사한 사례가 또 나타날 수 있다면 개인의 정보공개 동의 여부에 대해 예외 조항이 필요하다고... ",
+			"pubDate":"Fri, 10 Jan 2025 17:58:00 +0900"
+		},
 		{
 			"title":"[인사] 하나은행",
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2224102",
@@ -75,17 +82,17 @@
 			"pubDate":"Fri, 10 Jan 2025 16:44:00 +0900"
 		},
 		{
-			"title":"[인사] KB금융지주·KB국민은행",
-			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=162070",
-			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=162070",
-			"description":"김승수 <b>청라<\/b>지점 김연우 내외동지점 김연주 왕십리지점 김영기 주안지점 김영숙 석촌동지점 김영태 독산동지점 김영흔 테헤란로지점 김은영 오산지점 김장선 KTX광명역지점 김재일 의왕지점 김재형 암사역지점 김점용... ",
-			"pubDate":"Fri, 10 Jan 2025 16:40:00 +0900"
-		},
-		{
 			"title":"[인사] 하나은행",
 			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=162071",
 			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=162071",
 			"description":"남기석 △<b>청라<\/b>HQ추진부 류찬호 △하나더넥스트전략부 배도진 △업무혁신부 서경민 △투자상품부 서민경 △금융AI부 서일식 △자금세탁방지부 성윤상 △개인여신심사부 소갑숙 △투자금융부 송정호 △영업기획부 심효섭... ",
+			"pubDate":"Fri, 10 Jan 2025 16:40:00 +0900"
+		},
+		{
+			"title":"[인사] KB금융지주·KB국민은행",
+			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=162070",
+			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=162070",
+			"description":"김승수 <b>청라<\/b>지점 김연우 내외동지점 김연주 왕십리지점 김영기 주안지점 김영숙 석촌동지점 김영태 독산동지점 김영흔 테헤란로지점 김은영 오산지점 김장선 KTX광명역지점 김재일 의왕지점 김재형 암사역지점 김점용... ",
 			"pubDate":"Fri, 10 Jan 2025 16:40:00 +0900"
 		},
 		{
@@ -159,17 +166,17 @@
 			"pubDate":"Fri, 10 Jan 2025 15:30:00 +0900"
 		},
 		{
-			"title":"[인사] KB국민은행",
-			"originallink":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=67113",
-			"link":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=67113",
-			"description":"김승수 ▲<b>청라<\/b>지점 김연우 ▲내외동지점 김연주 ▲왕십리지점 김영기 ▲주안지점 김영숙 ▲석촌동지점 김영태 ▲독산동지점 김영흔 ▲테헤란로지점 김은영 ▲오산지점 김장선 ▲KTX광명역지점 김재일 ▲의왕지점 김재형... ",
-			"pubDate":"Fri, 10 Jan 2025 14:56:00 +0900"
-		},
-		{
 			"title":"[인사] 하나은행",
 			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2025011014525420778cba63abf8_30",
 			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2025011014525420778cba63abf8_30",
 			"description":"남기석 ▲<b>청라<\/b>HQ추진부 류찬호 ▲하나더넥스트전략부 배도진 ▲업무혁신부 서경민 ▲투자상품부 서민경 ▲금융AI부 서일식 ▲자금세탁방지부 성윤상 ▲개인여신심사부 소갑숙 ▲투자금융부 송정호 ▲영업기획부 심효섭... ",
+			"pubDate":"Fri, 10 Jan 2025 14:56:00 +0900"
+		},
+		{
+			"title":"[인사] KB국민은행",
+			"originallink":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=67113",
+			"link":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=67113",
+			"description":"김승수 ▲<b>청라<\/b>지점 김연우 ▲내외동지점 김연주 ▲왕십리지점 김영기 ▲주안지점 김영숙 ▲석촌동지점 김영태 ▲독산동지점 김영흔 ▲테헤란로지점 김은영 ▲오산지점 김장선 ▲KTX광명역지점 김재일 ▲의왕지점 김재형... ",
 			"pubDate":"Fri, 10 Jan 2025 14:56:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20250110140301652",
 			"description":"남기석 ▷<b>청라<\/b>HQ추진부 류찬호 ▷하나더넥스트전략부 배도진 ▷업무혁신부 서경민 ▷투자상품부 서민경 ▷금융AI부 서일식 ▷자금세탁방지부 성윤상 ▷개인여신심사부 소갑숙 ▷투자금융부 송정호 ▷영업기획부 심효섭... ",
 			"pubDate":"Fri, 10 Jan 2025 14:06:00 +0900"
-		},
-		{
-			"title":"[인사] 곡성군, 기술보증기금, 하나은행",
-			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=379657",
-			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=379657",
-			"description":"남기석 △<b>청라<\/b>HQ추진부 류찬호 △하나더넥스트전략부 배도진 △업무혁신부 서경민 △투자상품부 서민경 △금융AI부 서일식 △자금세탁방지부 성윤상 △개인여신심사부 소갑숙 △투자금융부 송정호 △영업기획부 심효섭... ",
-			"pubDate":"Fri, 10 Jan 2025 13:50:00 +0900"
 		}
 	]
 }
