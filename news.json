@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 16 Jan 2025 19:30:02 +0900",
-	"total":255587,
+	"lastBuildDate":"Thu, 16 Jan 2025 19:40:02 +0900",
+	"total":255588,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'<b>청라<\/b> 전기차 화재 보상' 공동 대응",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1276775",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1276775",
+			"description":"▲ 지난해 8월 인천 서구 <b>청라<\/b>동 제일풍경채 2차 아파트 지하 주차장 화재 현장. \/인천일보DB 지난해 인천 서구 <b>청라<\/b>국제도시 아파트에서 발생한 벤츠 전기차 화재 여파가 해를 넘긴 지금까지도 사그러들지 않고 있다. 피해... ",
+			"pubDate":"Thu, 16 Jan 2025 19:30:00 +0900"
+		},
 		{
 			"title":"전국 아파트 전셋값 1년 6개월 만에 하락...매매가격과 동반 ↓",
 			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1170930",
@@ -26,16 +33,16 @@
 			"pubDate":"Thu, 16 Jan 2025 18:44:00 +0900"
 		},
 		{
-			"title":"IBK기업은행, 정기 인사·조직개편…백창열·김규섭·이건홍·이승은 부...",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1112396",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1112396",
+			"title":"IBK기업은행, 부행장 4명 신규 선임 등 2025년 상반기 조직개편 및 정기...",
+			"originallink":"https:\/\/www.ddaily.co.kr\/page\/view\/2025011618274557175",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002189534?sid=101",
 			"description":"서임선 ▲인천<b>청라<\/b> 김준희 ▲주안공단 박재술 ▲계산역 정찬희 ▲계양서운산단 김우진 ▲부천기업스마트 조정연 ▲부천테크노 백인범 ▲부평기업스마트 배홍순 ▲삼정동 전대성 ▲소사본동 김정진 ▲원종동 이상화... ",
 			"pubDate":"Thu, 16 Jan 2025 18:40:00 +0900"
 		},
 		{
-			"title":"IBK기업은행, 부행장 4명 신규 선임 등 2025년 상반기 조직개편 및 정기...",
-			"originallink":"https:\/\/www.ddaily.co.kr\/page\/view\/2025011618274557175",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002189534?sid=101",
+			"title":"IBK기업은행, 정기 인사·조직개편…백창열·김규섭·이건홍·이승은 부...",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1112396",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1112396",
 			"description":"서임선 ▲인천<b>청라<\/b> 김준희 ▲주안공단 박재술 ▲계산역 정찬희 ▲계양서운산단 김우진 ▲부천기업스마트 조정연 ▲부천테크노 백인범 ▲부평기업스마트 배홍순 ▲삼정동 전대성 ▲소사본동 김정진 ▲원종동 이상화... ",
 			"pubDate":"Thu, 16 Jan 2025 18:40:00 +0900"
 		},
@@ -96,13 +103,6 @@
 			"pubDate":"Thu, 16 Jan 2025 18:12:00 +0900"
 		},
 		{
-			"title":"[인사]IBK기업은행",
-			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065602607537175",
-			"link":"https:\/\/idsn.co.kr\/news\/view\/1065602607537175",
-			"description":"서임선 ▲인천<b>청라<\/b> 김준희 ▲주안공단 박재술 ▲계산역 정찬희 ▲계양서운산단 김우진 ▲부천기업스마트 조정연 ▲부천테크노 백인범 ▲부평기업스마트 배홍순 ▲삼정동 전대성 ▲소사본동 김정진 ▲원종동 이상화... ",
-			"pubDate":"Thu, 16 Jan 2025 18:06:00 +0900"
-		},
-		{
 			"title":"[인사] IBK기업은행",
 			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=221807",
 			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=221807",
@@ -110,17 +110,24 @@
 			"pubDate":"Thu, 16 Jan 2025 18:06:00 +0900"
 		},
 		{
-			"title":"[인사] IBK기업은행",
-			"originallink":"https:\/\/www.news1.kr\/finance\/general-finance\/5663780",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0008026781?sid=101",
-			"description":"서임선 △인천<b>청라<\/b> 김준희 △주안공단 박재술 △계산역 정찬희 △계양서운산단 김우진 △부천기업스마트 조정연 △부천테크노 백인범 △부평기업스마트 배홍순 △삼정동 전대성 △소사본동 김정진 △원종동 이상화... ",
-			"pubDate":"Thu, 16 Jan 2025 18:03:00 +0900"
+			"title":"[인사]IBK기업은행",
+			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065602607537175",
+			"link":"https:\/\/idsn.co.kr\/news\/view\/1065602607537175",
+			"description":"서임선 ▲인천<b>청라<\/b> 김준희 ▲주안공단 박재술 ▲계산역 정찬희 ▲계양서운산단 김우진 ▲부천기업스마트 조정연 ▲부천테크노 백인범 ▲부평기업스마트 배홍순 ▲삼정동 전대성 ▲소사본동 김정진 ▲원종동 이상화... ",
+			"pubDate":"Thu, 16 Jan 2025 18:06:00 +0900"
 		},
 		{
 			"title":"&quot;올 역대급 하락장…경매 매물 증가는 알짜 선점할 기회&quot;",
 			"originallink":"https:\/\/www.hankyung.com\/article\/2025011612071",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005083277?sid=101",
 			"description":"이어 “실거주자라면 자신이 잘 아는 지역, 재건축·재개발 등 개발 호재가 분명한 지역, 인천 송도·<b>청라<\/b>신도시같이 교통이나 주거 기반 시설이 좋은 지역 경매 매물부터 집중할 필요가 있다”고 조언했다. 반면 “투자를... ",
+			"pubDate":"Thu, 16 Jan 2025 18:03:00 +0900"
+		},
+		{
+			"title":"[인사] IBK기업은행",
+			"originallink":"https:\/\/www.news1.kr\/finance\/general-finance\/5663780",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0008026781?sid=101",
+			"description":"서임선 △인천<b>청라<\/b> 김준희 △주안공단 박재술 △계산역 정찬희 △계양서운산단 김우진 △부천기업스마트 조정연 △부천테크노 백인범 △부평기업스마트 배홍순 △삼정동 전대성 △소사본동 김정진 △원종동 이상화... ",
 			"pubDate":"Thu, 16 Jan 2025 18:03:00 +0900"
 		},
 		{
@@ -173,6 +180,13 @@
 			"pubDate":"Thu, 16 Jan 2025 17:48:00 +0900"
 		},
 		{
+			"title":"IBK기업은행, 2025년 상반기 조직개편 및 정기인사 실시",
+			"originallink":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=11731",
+			"link":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=11731",
+			"description":"서임선 ▲인천<b>청라<\/b> 김준희 ▲주안공단 박재술 ▲계산역 정찬희 ▲계양서운산단 김우진 ▲부천기업스마트 조정연 ▲부천테크노 백인범 ▲부평기업스마트 배홍순 ▲삼정동 전대성 ▲소사본동 김정진 ▲원종동 이상화... ",
+			"pubDate":"Thu, 16 Jan 2025 17:44:00 +0900"
+		},
+		{
 			"title":"[인사] IBK기업은행",
 			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=247962",
 			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=247962",
@@ -180,11 +194,11 @@
 			"pubDate":"Thu, 16 Jan 2025 17:44:00 +0900"
 		},
 		{
-			"title":"IBK기업은행, 2025년 상반기 조직개편 및 정기인사 실시",
-			"originallink":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=11731",
-			"link":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=11731",
-			"description":"서임선 ▲인천<b>청라<\/b> 김준희 ▲주안공단 박재술 ▲계산역 정찬희 ▲계양서운산단 김우진 ▲부천기업스마트 조정연 ▲부천테크노 백인범 ▲부평기업스마트 배홍순 ▲삼정동 전대성 ▲소사본동 김정진 ▲원종동 이상화... ",
-			"pubDate":"Thu, 16 Jan 2025 17:44:00 +0900"
+			"title":"에스원, '2025년 보안 트렌드 발표'",
+			"originallink":"http:\/\/www.aptn.co.kr\/news\/articleView.html?idxno=108384",
+			"link":"http:\/\/www.aptn.co.kr\/news\/articleView.html?idxno=108384",
+			"description":"실제로 지난해 8월 인천 <b>청라<\/b> 아파트 화재 이후 전기차 화재의 주요 원인 중 하나인 급격한 온도 상승을 초기 단계부터 인지하고 24시간 관제 모니터링을 통해 화재 징후를 감시·경고하는 기능을 갖춘 열화상... ",
+			"pubDate":"Thu, 16 Jan 2025 17:40:00 +0900"
 		},
 		{
 			"title":"[인사] IBK기업은행",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.segyebiz.com\/newsView\/20250116521635?OutUrl=naver",
 			"description":"서임선 ▲인천<b>청라<\/b> 김준희 ▲주안공단 박재술 ▲계산역 정찬희 ▲계양서운산단 김우진 ▲부천기업스마트 조정연 ▲부천테크노 백인범 ▲부평기업스마트 배홍순 ▲삼정동 전대성 ▲소사본동 김정진 ▲원종동 이상화... ",
 			"pubDate":"Thu, 16 Jan 2025 17:40:00 +0900"
-		},
-		{
-			"title":"에스원, '2025년 보안 트렌드 발표'",
-			"originallink":"http:\/\/www.aptn.co.kr\/news\/articleView.html?idxno=108384",
-			"link":"http:\/\/www.aptn.co.kr\/news\/articleView.html?idxno=108384",
-			"description":"실제로 지난해 8월 인천 <b>청라<\/b> 아파트 화재 이후 전기차 화재의 주요 원인 중 하나인 급격한 온도 상승을 초기 단계부터 인지하고 24시간 관제 모니터링을 통해 화재 징후를 감시·경고하는 기능을 갖춘 열화상... ",
-			"pubDate":"Thu, 16 Jan 2025 17:40:00 +0900"
-		},
-		{
-			"title":"인천경제청 &quot;<b>청라<\/b>·강화도 남단에 대규모 화훼 유통 단지 조성&quot;",
-			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2025011615310005312?did=NA",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000844452?sid=102",
-			"description":"인천 <b>청라<\/b>국제도시와 강화도 남단에 세계적 화훼 유통 단지를 조성하는 사업이 첫 발을 뗐다.... 인천경제청은 인천경제자유구역인 <b>청라<\/b>국제도시 친환경 복합단지와 경제자유구역 지정을 추진 중인 강화도 남단에 대규모... ",
-			"pubDate":"Thu, 16 Jan 2025 17:39:00 +0900"
 		}
 	]
 }
