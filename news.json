@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 22 Jan 2025 09:50:02 +0900",
-	"total":255812,
+	"lastBuildDate":"Wed, 22 Jan 2025 10:00:02 +0900",
+	"total":255813,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"“교통부터 응급의료·물가까지” 인천시, 설 연휴 종합대책 마련",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=827990",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=827990",
+			"description":"송도·<b>청라<\/b>소각시설은 설 연휴를 앞둔 26일과 설 당일인 29일을 제외한 연휴 기간 내내 가동할 계획이다. 수도권매립지는 오는 27일에, 인천남부권광역생활자원회수센터는 27~28일과 30일에 반입이 허용된다. 시와 10개 군... ",
+			"pubDate":"Wed, 22 Jan 2025 09:52:00 +0900"
+		},
 		{
 			"title":"[더벨][이사회 분석]신세계프라퍼티, '송병관 CFO' 사내이사 합류",
 			"originallink":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202501201241136640106174",
@@ -194,13 +201,6 @@
 			"pubDate":"Tue, 21 Jan 2025 14:59:00 +0900"
 		},
 		{
-			"title":"보령시 스마트팜 혁신단지 조성으로 신농업대전환 시대 연다",
-			"originallink":"https:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2179982",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000119074?sid=102",
-			"description":"계속사업인 청년맞춤 임대형 스마트팜 단지 조성은 <b>청라<\/b>면 의평리 일원 2.5ha 부지에 지난해 12월 기반조성 공사를 시작, 올 완공을 목표로 진행되며 완공 후에는 입주 희망 청년농을 모집해 첨단 스마트팜 시설을 임대... ",
-			"pubDate":"Tue, 21 Jan 2025 14:36:00 +0900"
-		},
-		{
 			"title":"인천시, 설 연휴 종합대책 마련",
 			"originallink":"https:\/\/news.tf.co.kr\/read\/national\/2172565.htm",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000358558?sid=102",
@@ -208,11 +208,11 @@
 			"pubDate":"Tue, 21 Jan 2025 14:36:00 +0900"
 		},
 		{
-			"title":"보령시'스마트팜 혁신단지 조성'으로 新농업대전환 시대 연다",
-			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=828585",
-			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=828585",
-			"description":"계속사업인 청년맞춤 임대형 스마트팜 단지 조성은 <b>청라<\/b>면 의평리 일원 2.5ha 부지에 조성된다. 2024년 12월 기반조성 공사를 시작했으며, 2025년내 완공을 목표로 한다. 완공 후에는 입주 희망 청년농을 모집해 첨단... ",
-			"pubDate":"Tue, 21 Jan 2025 14:28:00 +0900"
+			"title":"보령시 스마트팜 혁신단지 조성으로 신농업대전환 시대 연다",
+			"originallink":"https:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2179982",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000119074?sid=102",
+			"description":"계속사업인 청년맞춤 임대형 스마트팜 단지 조성은 <b>청라<\/b>면 의평리 일원 2.5ha 부지에 지난해 12월 기반조성 공사를 시작, 올 완공을 목표로 진행되며 완공 후에는 입주 희망 청년농을 모집해 첨단 스마트팜 시설을 임대... ",
+			"pubDate":"Tue, 21 Jan 2025 14:36:00 +0900"
 		}
 	]
 }
