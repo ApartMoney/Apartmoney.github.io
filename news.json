@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 24 Jan 2025 05:00:02 +0900",
-	"total":256048,
+	"lastBuildDate":"Fri, 24 Jan 2025 05:10:02 +0900",
+	"total":256049,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 글로벌 화훼단지 조성…업계 반응 ‘신중’",
+			"originallink":"https:\/\/www.nongmin.com\/article\/20250122500636",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/662\/0000060626?sid=101",
+			"description":"인천시가 <b>청라<\/b>·강화 지역에 글로벌 화훼단지를 조성하는 것과 관련해 업계에선 기대감을 나타내면서도 신중한 반응을 보이고 있다. 인천경제자유구역청은 16일 인천 연수구 경원재 앰배서더 호텔에서 ‘글로벌 화훼... ",
+			"pubDate":"Fri, 24 Jan 2025 05:01:00 +0900"
+		},
 		{
 			"title":"유정복 시장 &quot;경인고속도로 지하화 확정, 속도감 있게 추진할 것&quot;",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=630605",
@@ -194,13 +201,6 @@
 			"pubDate":"Thu, 23 Jan 2025 18:13:00 +0900"
 		},
 		{
-			"title":"홈플러스, '메가 푸드 마켓 라이브' 인천 간석점 리뉴얼 오픈",
-			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065602433734517",
-			"link":"https:\/\/idsn.co.kr\/news\/view\/1065602433734517",
-			"description":"인천은 지난해 인구가 300만 명을 돌파하는 등 특별·광역시 중 유일하게 인구가 증가하고 있는 지역이며, 송도·<b>청라<\/b>국제도시 등 경제자유구역이 성공적으로 자리 잡으면서, 실질적 소비를 일으키는 경제활동인구도... ",
-			"pubDate":"Thu, 23 Jan 2025 18:06:00 +0900"
-		},
-		{
 			"title":"지냄, '레스티아 인천베이' 운영.. 호텔 위탁운영 도입",
 			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=262856",
 			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=262856",
@@ -208,11 +208,11 @@
 			"pubDate":"Thu, 23 Jan 2025 18:06:00 +0900"
 		},
 		{
-			"title":"[주간스타트업동향] 이노디테크, CES 2025서 AI 투명교정 임상협진지원...",
-			"originallink":"https:\/\/it.donga.com\/106469\/",
-			"link":"https:\/\/it.donga.com\/106469\/",
-			"description":"팜스태프, <b>청라<\/b>서 실내 수직농장 첫 수확 성공 팜스태프가 <b>청라<\/b> 지구에 위치한 첨단 도심형 수직농장에서 2025년 1월 20일 첫 수확을 개시했다. 해당 시설에서 자란 원물은 샐러드 브랜드 ‘리브팜’에 제공된다.... ",
-			"pubDate":"Thu, 23 Jan 2025 17:50:00 +0900"
+			"title":"홈플러스, '메가 푸드 마켓 라이브' 인천 간석점 리뉴얼 오픈",
+			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065602433734517",
+			"link":"https:\/\/idsn.co.kr\/news\/view\/1065602433734517",
+			"description":"인천은 지난해 인구가 300만 명을 돌파하는 등 특별·광역시 중 유일하게 인구가 증가하고 있는 지역이며, 송도·<b>청라<\/b>국제도시 등 경제자유구역이 성공적으로 자리 잡으면서, 실질적 소비를 일으키는 경제활동인구도... ",
+			"pubDate":"Thu, 23 Jan 2025 18:06:00 +0900"
 		}
 	]
 }
