@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 30 Jan 2025 20:40:02 +0900",
-	"total":256203,
+	"lastBuildDate":"Thu, 30 Jan 2025 20:50:03 +0900",
+	"total":256204,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"(인사) 신용보증기금",
+			"originallink":"http:\/\/www.ksmnews.co.kr\/news\/view.php?idx=522520",
+			"link":"http:\/\/www.ksmnews.co.kr\/news\/view.php?idx=522520",
+			"description":"조선익 △<b>청라<\/b> 박상봉 △청주 조준기 △충정로 이인수 △칠곡 배중현 △테헤란로 전승민 △통영 최병욱 △판교스타트업 김윤원 △평택 유성근 △포천 전성옥 △하남 정계승 △해운대 정완섭 △혁신성장심사센터 이혜옥... ",
+			"pubDate":"Thu, 30 Jan 2025 20:45:00 +0900"
+		},
 		{
 			"title":"[사설] 경인고속도로 지하화에 거는 기대와 과제",
 			"originallink":"https:\/\/www.kyeongin.com\/article\/1727689",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=261670",
 			"description":"인천3호선은 송도달빛축제공원역부터~신포역~동인천역~송림오거리~<b>청라<\/b>국제업무지구역~<b>청라<\/b>국제도시역~왕길역~검단호수공원역으로 설계됐다. 인천시는 제2차 인천도시철도망 구축계획안 공청회에서 발표할 때부터... ",
 			"pubDate":"Wed, 29 Jan 2025 08:42:00 +0900"
-		},
-		{
-			"title":"전기차, 설 연휴 화재 대비 필수… 예방·대처법은?",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20250123152112511",
-			"link":"https:\/\/www.ajunews.com\/view\/20250123152112511",
-			"description":"지난해 인천 <b>청라<\/b>국제도시에서 발생한 전기차 화재는 1580세대에 피해를 입히며 그 심각성을 보여줬다. 이에 따라 전기차 화재에 대한 특별한 예방과 대처법에 대한 주의가 요구된다. 29일 소방청에 따르면 2018년부터... ",
-			"pubDate":"Wed, 29 Jan 2025 06:00:00 +0900"
 		}
 	]
 }
