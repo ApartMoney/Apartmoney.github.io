@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 31 Jan 2025 16:20:02 +0900",
-	"total":256216,
+	"lastBuildDate":"Fri, 31 Jan 2025 16:30:02 +0900",
+	"total":256217,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천소방안전브리핑] 지난해 인천 화재 1,314건 299명 사망...겨울철 히...",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=409163",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=409163",
+			"description":"8월 1일에 발생한 서구 <b>청라<\/b> 전기차 화재의 경우 사회적으로 큰 이슈가 되었고, 정부를 비롯한 전국민적 관심사로 떠올라 전기차 화재에 대한 경각심과 각종 대책 및 장비 도입의 필요성이 대두되기도 했던 한 해로... ",
+			"pubDate":"Fri, 31 Jan 2025 16:26:00 +0900"
+		},
 		{
 			"title":"윤원석 인천경제청장, &quot;IFEZ 2.0 시대 열겠다&quot;",
 			"originallink":"https:\/\/www.sisajournal.com\/news\/articleView.html?idxno=322703",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.medisobizanews.com\/news\/articleView.html?idxno=122840",
 			"description":"인천 <b>청라<\/b>국제병원 성형외과 이영종 원장은 &quot;눈밑지방재배치의 자연스러운 개선을 위해서는 개개인마다 다른 눈 밑 지방의 양, 돌출 정도와 꺼짐 상태, 다크서클과 눈물고랑 여부 등을 파악하여 개인별 맞춤 디자인으로... ",
 			"pubDate":"Thu, 30 Jan 2025 10:00:00 +0900"
-		},
-		{
-			"title":"&quot;경기회복 마중물&quot; 조달청, 올해 상반기 45조7천억 조기 집행",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20250130025400063?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015183650?sid=100",
-			"description":"사업별로 물품의 경우 국가정보자원관리원 제1차 정보자원 통합구축사업(1천억원)과 서울도시철도 7호선 <b>청라<\/b>국제도시 연장 스크린도어(PSD) 제조·구매 설치(141억원) 등이며, 용역은 기상청 국가기상슈퍼컴퓨터... ",
-			"pubDate":"Thu, 30 Jan 2025 09:55:00 +0900"
 		}
 	]
 }
