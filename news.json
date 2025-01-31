@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 31 Jan 2025 18:10:01 +0900",
-	"total":256220,
+	"lastBuildDate":"Fri, 31 Jan 2025 18:20:02 +0900",
+	"total":256221,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천바다속으로] 인천해양경찰서, &quot;바다와 섬 찾는 국민 안전 지키기에...",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=409159",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=409159",
+			"description":"그래서 사무실이 있는 경찰서 청사는 서구 <b>청라<\/b>에 위치해 있고, 현장부서로는 파출소, 그리고 경비함정이 있는데요. 파출소는 각 지역마다 이를테면 연안부두에는 인왕파출소가, 영종도에는 하늘바다파출소, 강화에는... ",
+			"pubDate":"Fri, 31 Jan 2025 18:18:00 +0900"
+		},
 		{
 			"title":"&quot;지명은 안돼&quot;…서구 새 이름 찾기 어렵네",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=409210",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005087548?sid=103",
 			"description":"여기에 보조금 지급 시 주행 거리에 따른 성능 기준이나, 배터리 관리 시스템(BMS) 여부 등 인천 <b>청라<\/b> 아파트 지하 주차장 벤츠 EQE 화재 이후 불거진 소비자들의 불안감을 반영해 배터리 안전 기준도 강화했다. 올해... ",
 			"pubDate":"Thu, 30 Jan 2025 12:55:00 +0900"
-		},
-		{
-			"title":"[2차 인천철도망] 인천3호선·용현서창선 등 차량기지는 어디로?",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=261687",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=261687",
-			"description":"동인천역~<b>청라<\/b>국제업무투자구역~공항철도 <b>청라<\/b>국제도시역~인천2호선 왕길역~인천1호선 검단호수공원역까지 34.64km 연결하는 노선이다. 인천시는 서구 백석동 드림파크 야생화 단지를 인천3호선 차량기지로 만들겠다고... ",
-			"pubDate":"Thu, 30 Jan 2025 12:32:00 +0900"
 		}
 	]
 }
