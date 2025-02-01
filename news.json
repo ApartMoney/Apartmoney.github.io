@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 02 Feb 2025 07:00:01 +0900",
-	"total":256215,
+	"lastBuildDate":"Sun, 02 Feb 2025 07:10:01 +0900",
+	"total":256216,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[Tech 스토리] '화재 막아라'...K-배터리, 안정성 강화한 신공법 속속 등...",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20250131000530",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20250131000530",
+			"description":"지난해 8월 인천 <b>청라<\/b>의 한 아파트에서 발생한 전기차 화재 이후 시민들은 전기차 안전에 대한 불안감이 커지고 있습니다. 전기차 화재의 원인은 대부분 '배터리'에서 시작됩니다. 전기차에는 리튬이온배터리가 주로... ",
+			"pubDate":"Sun, 02 Feb 2025 07:00:00 +0900"
+		},
 		{
 			"title":"인천 서구, 음식물 폐기물 감량 우수 공동주택 선정 사업 실시",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=490494",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.jbnews.com\/news\/articleView.html?idxno=1465294",
 			"description":"보령에는 그를 기리는 <b>청라<\/b>면의 화암서원과 주교면의 묘소가 있으며 대한민국 풍수지리가의 필수 방문지로 자리 잡고 있다. 봉사단은 이지함 선생의 애민정신과 희망을 오늘날에도 계승하고 특히 대천동 '토정마루... ",
 			"pubDate":"Thu, 30 Jan 2025 16:38:00 +0900"
-		},
-		{
-			"title":"[인사]신용보증기금",
-			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=489238",
-			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=489238",
-			"description":"조선익 △<b>청라<\/b> 박상봉 △청주 조준기 △충정로 이인수 △칠곡 배중현 △테헤란로 전승민 △통영 최병욱 △판교스타트업 김윤원 △평택 유성근 △포천 전성옥 △하남 정계승 △해운대 정완섭 △혁신성장심사센터 이혜옥... ",
-			"pubDate":"Thu, 30 Jan 2025 13:14:00 +0900"
 		}
 	]
 }
