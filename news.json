@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 02 Feb 2025 16:50:01 +0900",
-	"total":256223,
+	"lastBuildDate":"Sun, 02 Feb 2025 17:00:01 +0900",
+	"total":256224,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 음식물 폐기물 감량 우수 공동주택 선정 추진",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1130148",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1130148",
+			"description":"다만 RFID 종량기 미설치 공동주택, <b>청라<\/b>국제도시 일부 등 대형감량기 미설치 지역, 2025년 기준 준공 1년 미만 공동주택은 배출량 산정이 어려워 평가 대상에서 제외된다.",
+			"pubDate":"Sun, 02 Feb 2025 16:56:00 +0900"
+		},
 		{
 			"title":"[30년 만의 대개조] 1. 행정체제 30년, 바꿔야 할 때",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1277865",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/449\/0000298225?sid=102",
 			"description":"영종도와 <b>청라<\/b>국제도시를 잇는 제3연륙교입니다. 인천대교와 영종대교에 이어 영종도와 육지를 잇는 세 번째 다리입니다. 그런데 다리 이름을 어떻게 할지를 놓고 진통을 겪고 있습니다. 영종도가 속한 중구와 <b>청라<\/b>국제도... ",
 			"pubDate":"Thu, 30 Jan 2025 19:43:00 +0900"
-		},
-		{
-			"title":"익산소방서, 공동주택 지하층 전기차 화재진압 훈련 전개",
-			"originallink":"http:\/\/sjbnews.com\/news\/news.php?number=839791",
-			"link":"http:\/\/sjbnews.com\/news\/news.php?number=839791",
-			"description":"지난해 8월 인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재로 주민 22명이 병원 치료를 받고 약 38억원 상당의 재산피해가 발생했으며, 같은 해 10월 전주시 장동 아파트 지하주차장 4층에서 충전 중이던 전기차에서 불이 나 주민... ",
-			"pubDate":"Thu, 30 Jan 2025 19:06:00 +0900"
 		}
 	]
 }
