@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 02 Feb 2025 14:20:01 +0900",
-	"total":256219,
+	"lastBuildDate":"Sun, 02 Feb 2025 14:30:00 +0900",
+	"total":256220,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"박범계 의원, 전기차 충전시설 사업자 보험 가입 의무화 법안 대표 발의",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20250202021290857",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20250202021290857",
+			"description":"지난해 8월 인천 <b>청라<\/b>동 아파트 지하주차장 전기차 화재 사고 발생 등 전기차 충전시설 화재 사고가 잇따르자 안전에 대한 우려가 커지고 있다. 이에 화재 예방뿐 아니라 화재 사고 후 보상 방안에 대비할 수 있도록 하는... ",
+			"pubDate":"Sun, 02 Feb 2025 14:24:00 +0900"
+		},
 		{
 			"title":"서구, 음식물류 폐기물 감량 우수 공동주택 선정 사업 추진",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1998887",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=328940",
 			"description":"사업별로 물품의 경우 국가정보자원관리원 제1차 정보자원 통합구축사업(1천억원)과 서울도시철도 7호선 <b>청라<\/b>국제도시 연장 스크린도어(PSD) 제조·구매 설치(141억원) 등이며, 용역은 기상청 국가기상슈퍼컴퓨터 교체... ",
 			"pubDate":"Thu, 30 Jan 2025 18:20:00 +0900"
-		},
-		{
-			"title":"한번 터지면 대형사고...끊이지 않는 배터리 화재",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20250130151211494",
-			"link":"https:\/\/www.ajunews.com\/view\/20250130151211494",
-			"description":"지난해 8월 차량 800여 대에 피해를 준 인천 <b>청라<\/b> 전기차 화재 원인으로도 리튬배터리 손상 가능성이 거론되고 있다. 통상 전기차 배터리는 수백에서 수천 개의 셀(배터리 기본단위)로 구성되는데 한 셀에 불이 나면 인접한... ",
-			"pubDate":"Thu, 30 Jan 2025 18:00:00 +0900"
 		}
 	]
 }
