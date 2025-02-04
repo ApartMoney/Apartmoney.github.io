@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 04 Feb 2025 21:50:01 +0900",
-	"total":256338,
+	"lastBuildDate":"Tue, 04 Feb 2025 22:00:00 +0900",
+	"total":256339,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"7호선 <b>청라<\/b>연장, 2027년·2029년 개통",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8167151&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011886281?sid=102",
+			"description":"",
+			"pubDate":"Tue, 04 Feb 2025 21:49:00 +0900"
+		},
 		{
 			"title":"[물꼬 튼 송도유원지 개발] (하) 폐기물로 채운 매립지...처리비 수천억",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1278150",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011885957?sid=102",
 			"description":"인천 <b>청라<\/b> 연장선' 공사가 오는 7월 재개되면서 2027년과 2029년 등 2단계로 나뉘어 개통될 것으로 보입니다. 인천시 도시철도건설본부는 2023년 10월에 지하수 유출과 지반침하로 공사가 중단된 '7호선 인천 <b>청라<\/b>... ",
 			"pubDate":"Tue, 04 Feb 2025 15:07:00 +0900"
-		},
-		{
-			"title":"&quot;ESG는 선택 아닌 필수&quot;…현대그룹, 장애인 고용 '복지카페' 개장",
-			"originallink":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1650484",
-			"link":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1650484",
-			"description":"현대무벡스도 지난달 23일 <b>청라<\/b>R&amp;D센터 1층 로비에'카페 웨이브466(WAVE 466; 도로명 주소 파랑로 466에서 착안)'을 오픈했다. 두 카페의 이름은 임직원들의 의견을 수렴해 결정됐다. 각 카페에는 장애인 바리스타 4명이... ",
-			"pubDate":"Tue, 04 Feb 2025 15:06:00 +0900"
 		}
 	]
 }
