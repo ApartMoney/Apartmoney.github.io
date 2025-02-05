@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 05 Feb 2025 16:10:01 +0900",
-	"total":256384,
+	"lastBuildDate":"Wed, 05 Feb 2025 16:20:01 +0900",
+	"total":256385,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"한국편집기자협회 '2025 기자가 본 100대 뉴스' 발간",
+			"originallink":"https:\/\/www.news1.kr\/life-culture\/book\/5680317",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0008057250?sid=103",
+			"description":"이번 '100대 뉴스'에는 '서울의 밤'이라는 서글픈 신조어를 낳은 비상계엄부터 한강 작가의 노벨문학상 수상, 전기차 불안감을 키운 <b>청라<\/b> 화재, 전 국민을 공분케 한 딥페이크 음란물 공포까지 굵직한 이슈들이... ",
+			"pubDate":"Wed, 05 Feb 2025 16:16:00 +0900"
+		},
 		{
 			"title":"편집기자협회 '2025 기자가 본 100대 뉴스' 발간",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1130744",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20250205010001299",
 			"description":"2023년 4월 <b>청라<\/b>면에서 발생한 대형산불로 97ha의 산림이 소실된 바 있다. 그러나 2024년에는 집중 예찰과 초동 진화 노력으로 피해면적이 1.1ha로 크게 감소했다. 이는 적극적인 예방 활동과 신속한 대응의 효과를 입증하는... ",
 			"pubDate":"Wed, 05 Feb 2025 11:32:00 +0900"
-		},
-		{
-			"title":"편집기자협회 '2025 기자가 본 100대 뉴스' 발간",
-			"originallink":"https:\/\/www.etnews.com\/20250205000141",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003281135?sid=105",
-			"description":"이번 100대 뉴스에는 비상계엄 사태부터 한강 작가의 노벨문학상 수상, 전기차 불안감을 키운 <b>청라<\/b> 아파트 지하주차장 화재, 전 국민의 공분을 일으킨 딥페이크 음란물 공포까지 굵직한 이슈들이 담겼다. 세계인의... ",
-			"pubDate":"Wed, 05 Feb 2025 11:04:00 +0900"
 		}
 	]
 }
