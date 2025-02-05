@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 05 Feb 2025 14:10:01 +0900",
-	"total":256370,
+	"lastBuildDate":"Wed, 05 Feb 2025 14:20:00 +0900",
+	"total":256371,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시, '산불 최소화 탄소중립 보령 만들기' 본격 가동",
+			"originallink":"https:\/\/www.jbnews.com\/news\/articleView.html?idxno=1465846",
+			"link":"https:\/\/www.jbnews.com\/news\/articleView.html?idxno=1465846",
+			"description":"실제로 2023년 4월 <b>청라<\/b>면에서 발생한 대형 산불로 97ha의 산림이 소실됐으나, 2024년에는 집중 예찰과 초동 진화 노력으로 피해 면적을 1.1ha로 대폭 줄이는 성과를 거뒀다. 올해는 고기압의 영향으로 맑고 건조한 날씨가... ",
+			"pubDate":"Wed, 05 Feb 2025 14:12:00 +0900"
+		},
 		{
 			"title":"보령시, 봄철 비상 근무체제 돌입…산불방지대책본부 가동",
 			"originallink":"https:\/\/www.news1.kr\/local\/daejeon-chungnam\/5680025",
@@ -89,17 +96,17 @@
 			"pubDate":"Wed, 05 Feb 2025 11:40:00 +0900"
 		},
 		{
-			"title":"충남소방, 올해 7000곳 이상 화재안전조사 실시",
-			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1072181",
-			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1072181",
-			"description":"올해는 화성시 아리셀 전지공장 화재, <b>청라<\/b> 아파트 지하주차장 전기차 화재 등과 같은 유사 화재가 발생하지 않도록 공동주택, 전통시장, 리튬전지 공장, 숙박시설 등 위험성을 고려해 대상을 선정하고 집중 조사할... ",
-			"pubDate":"Wed, 05 Feb 2025 11:34:00 +0900"
-		},
-		{
 			"title":"보령시, 선제 대응으로 '산불 최소화 탄소중립 보령만들기'",
 			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1072180",
 			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1072180",
 			"description":"실제로 지난 2023년 4월 <b>청라<\/b>면에 발생한 대형산불로 97㏊의 산림이 소실됐으나 2024년에는 집중 예찰과 초동 진화 노력으로 피해면적이 1.1㏊로 크게 감소했다. 올해는 고기압의 영향으로 맑고 건조한 날이 많을 것으로... ",
+			"pubDate":"Wed, 05 Feb 2025 11:34:00 +0900"
+		},
+		{
+			"title":"충남소방, 올해 7000곳 이상 화재안전조사 실시",
+			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1072181",
+			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1072181",
+			"description":"올해는 화성시 아리셀 전지공장 화재, <b>청라<\/b> 아파트 지하주차장 전기차 화재 등과 같은 유사 화재가 발생하지 않도록 공동주택, 전통시장, 리튬전지 공장, 숙박시설 등 위험성을 고려해 대상을 선정하고 집중 조사할... ",
 			"pubDate":"Wed, 05 Feb 2025 11:34:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001755382?sid=101",
 			"description":"현대무벡스는 지난달 23일 <b>청라<\/b> 연구·개발(R&amp;D)센터 1층 로비에 ‘카페 웨이브466’을 오픈했다. 도익한 현대무벡스 대표이사 등 현대무벡스 임직원은 쿠키와 음료를 함께하며 장애인 직원들을 따뜻하게 맞이했다. 현정은... ",
 			"pubDate":"Wed, 05 Feb 2025 02:21:00 +0900"
-		},
-		{
-			"title":"7호선 <b>청라<\/b>연장선 2027년 일부 개통…지반침하 구간 7월 공사 재개",
-			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=349940",
-			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=349940",
-			"description":"지반침하로 일부 구간 공사가 1년 넘게 중단된 서울지하철 7호선 인천 <b>청라<\/b> 연장선이 2단계로 나뉘어 개통된다. 4일 인천시 도시철도건설본부가 시의회에 보고한 7호선 <b>청라<\/b> 연장선 추진 대책에 따르면 2023년... ",
-			"pubDate":"Tue, 04 Feb 2025 23:12:00 +0900"
 		}
 	]
 }
