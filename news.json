@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 05 Feb 2025 13:40:01 +0900",
-	"total":256366,
+	"lastBuildDate":"Wed, 05 Feb 2025 13:50:01 +0900",
+	"total":256367,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"한국편집기자협회 '100대 뉴스' 발간",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1278194",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1278194",
+			"description":"이번 100대 뉴스에는 '서울의 밤'이라는 서글픈 신조어를 낳은 비상계엄부터 한강 작가의 노벨 문학상 수상, 전기차 불안감을 키운 <b>청라<\/b> 화재, 전국민을 공분케한 딥페이크 음란물 공포까지 굵직한 이슈들이 담겼다.... ",
+			"pubDate":"Wed, 05 Feb 2025 13:48:00 +0900"
+		},
 		{
 			"title":"보령시, 선제 대응으로 '산불 최소화 탄소중립 보령만들기'",
 			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=829954",
@@ -82,17 +89,17 @@
 			"pubDate":"Wed, 05 Feb 2025 11:32:00 +0900"
 		},
 		{
-			"title":"전기차 수요 회복될까···현대차·기아 전기차 대대적 할인",
-			"originallink":"https:\/\/www.raonnews.com\/news\/article.html?no=44417",
-			"link":"https:\/\/www.raonnews.com\/news\/article.html?no=44417",
-			"description":"차종별 실구매가 최대 1000만원 줄어···수입차도 가세할 듯 <b>청라<\/b> 벤츠 화재 이후 국내 전기차 수요 급감... 현대차와 기아가 대대적인 할인 프로션을 실시하는 것은 지난해 인천 <b>청라<\/b> 벤츠 화재 사고 이후 전기차... ",
-			"pubDate":"Wed, 05 Feb 2025 11:04:00 +0900"
-		},
-		{
 			"title":"편집기자협회 '2025 기자가 본 100대 뉴스' 발간",
 			"originallink":"https:\/\/www.etnews.com\/20250205000141",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003281135?sid=105",
 			"description":"이번 100대 뉴스에는 비상계엄 사태부터 한강 작가의 노벨문학상 수상, 전기차 불안감을 키운 <b>청라<\/b> 아파트 지하주차장 화재, 전 국민의 공분을 일으킨 딥페이크 음란물 공포까지 굵직한 이슈들이 담겼다. 세계인의... ",
+			"pubDate":"Wed, 05 Feb 2025 11:04:00 +0900"
+		},
+		{
+			"title":"전기차 수요 회복될까···현대차·기아 전기차 대대적 할인",
+			"originallink":"https:\/\/www.raonnews.com\/news\/article.html?no=44417",
+			"link":"https:\/\/www.raonnews.com\/news\/article.html?no=44417",
+			"description":"차종별 실구매가 최대 1000만원 줄어···수입차도 가세할 듯 <b>청라<\/b> 벤츠 화재 이후 국내 전기차 수요 급감... 현대차와 기아가 대대적인 할인 프로션을 실시하는 것은 지난해 인천 <b>청라<\/b> 벤츠 화재 사고 이후 전기차... ",
 			"pubDate":"Wed, 05 Feb 2025 11:04:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1278150",
 			"description":"실제 미추홀구 용현·학익동과 연수구 옥련·동춘동, 서구 가좌·석남동, <b>청라<\/b>국제도시 등 개발구역에서... <b>청라<\/b>국제도시 개발 사업 시행사인 LH는 1980년대 후반에서 1990년대 초반까지 버려진 생활폐기물로... ",
 			"pubDate":"Tue, 04 Feb 2025 19:50:00 +0900"
-		},
-		{
-			"title":"진척없는 '인천상륙작전'…민선8기 대외정책 흔들",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2GOU904XCT",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004446677?sid=102",
-			"description":"이 사업은 인천 서구 <b>청라<\/b> 영상·문화 복합단지 내 미국 로스앤젤레스(LA) 할리우드의 영상·미디어 기업을 유치하는 내용이다. 인천시 계획대로 투자 의향서를 받긴 했지만, 당시 캘리포니아에 본사를 둔 MBS 그룹이 참여... ",
-			"pubDate":"Tue, 04 Feb 2025 18:31:00 +0900"
 		}
 	]
 }
