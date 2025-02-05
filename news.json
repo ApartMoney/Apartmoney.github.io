@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 05 Feb 2025 15:20:01 +0900",
-	"total":256378,
+	"lastBuildDate":"Wed, 05 Feb 2025 15:30:01 +0900",
+	"total":256379,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"한국편집기자協 '2025 기자가 본 100대 뉴스' 발간",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363683998",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363683998",
+			"description":"이번 100대 뉴스는 '서울의 밤'이라는 서글픈 신조어를 낳은 비상계엄과 한강 작가의 노벨문학상 수상, 전기차 불안감을 키운 <b>청라<\/b> 화재, 전 국민을 공분케한 딥페이크 음란물 공포 등등 굵직한 이슈로 채워졌다. 이... ",
+			"pubDate":"Wed, 05 Feb 2025 15:20:00 +0900"
+		},
 		{
 			"title":"[단독] 부동산 팔아 현금 확보하는 KT&amp;G…서울 을지로 타워 매각 본격화",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/11233242",
@@ -166,17 +173,17 @@
 			"pubDate":"Wed, 05 Feb 2025 11:32:00 +0900"
 		},
 		{
-			"title":"전기차 수요 회복될까···현대차·기아 전기차 대대적 할인",
-			"originallink":"https:\/\/www.raonnews.com\/news\/article.html?no=44417",
-			"link":"https:\/\/www.raonnews.com\/news\/article.html?no=44417",
-			"description":"차종별 실구매가 최대 1000만원 줄어···수입차도 가세할 듯 <b>청라<\/b> 벤츠 화재 이후 국내 전기차 수요 급감... 현대차와 기아가 대대적인 할인 프로션을 실시하는 것은 지난해 인천 <b>청라<\/b> 벤츠 화재 사고 이후 전기차... ",
-			"pubDate":"Wed, 05 Feb 2025 11:04:00 +0900"
-		},
-		{
 			"title":"편집기자협회 '2025 기자가 본 100대 뉴스' 발간",
 			"originallink":"https:\/\/www.etnews.com\/20250205000141",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003281135?sid=105",
 			"description":"이번 100대 뉴스에는 비상계엄 사태부터 한강 작가의 노벨문학상 수상, 전기차 불안감을 키운 <b>청라<\/b> 아파트 지하주차장 화재, 전 국민의 공분을 일으킨 딥페이크 음란물 공포까지 굵직한 이슈들이 담겼다. 세계인의... ",
+			"pubDate":"Wed, 05 Feb 2025 11:04:00 +0900"
+		},
+		{
+			"title":"전기차 수요 회복될까···현대차·기아 전기차 대대적 할인",
+			"originallink":"https:\/\/www.raonnews.com\/news\/article.html?no=44417",
+			"link":"https:\/\/www.raonnews.com\/news\/article.html?no=44417",
+			"description":"차종별 실구매가 최대 1000만원 줄어···수입차도 가세할 듯 <b>청라<\/b> 벤츠 화재 이후 국내 전기차 수요 급감... 현대차와 기아가 대대적인 할인 프로션을 실시하는 것은 지난해 인천 <b>청라<\/b> 벤츠 화재 사고 이후 전기차... ",
 			"pubDate":"Wed, 05 Feb 2025 11:04:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=361273",
 			"description":"올해는 화성시 아리셀 전지공장 화재, <b>청라<\/b> 아파트 지하주차장 전기차 화재 등과 같은 유사 화재가 발생하지 않도록 공동주택, 전통시장, 리튬전지 공장, 숙박시설 등 위험성을 고려해 대상을 선정하고 집중 조사할... ",
 			"pubDate":"Wed, 05 Feb 2025 10:06:00 +0900"
-		},
-		{
-			"title":"인천시 서구, 음식물류 폐기물 감량 우수 공동주택 선정 사업 실시",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286269260692",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286269260692",
-			"description":"다만, 전자태그(RFID) 종량기 미설치 공동주택·대형감량기 미설치 지역(<b>청라<\/b> 일부)·2025년 기준 준공 1년 미만 공동주택은 배출량 산정이 어려워 평가대상에서 제외된다. 인천 서구 관계자는 “각 가정이 음식물... ",
-			"pubDate":"Wed, 05 Feb 2025 09:46:00 +0900"
 		}
 	]
 }
