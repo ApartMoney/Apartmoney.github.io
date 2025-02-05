@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 05 Feb 2025 15:10:01 +0900",
-	"total":256377,
+	"lastBuildDate":"Wed, 05 Feb 2025 15:20:01 +0900",
+	"total":256378,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[단독] 부동산 팔아 현금 확보하는 KT&amp;G…서울 을지로 타워 매각 본격화",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/11233242",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005438783?sid=101",
+			"description":"경기도 과천 지식산업센터, 인천 <b>청라<\/b> 의료복합타운 개발사업 등에 투자하고 복합 쇼핑몰인 스타필드 수원의 경우 신세계프라퍼티와 지분을 각각 50%씩 보유하고 있다. 서울과 수도권, 지방에 위치한 오피스 등을... ",
+			"pubDate":"Wed, 05 Feb 2025 15:19:00 +0900"
+		},
 		{
 			"title":"보령시, 봄철 산불 대비 비상 근무체제 돌입",
 			"originallink":"https:\/\/news.tf.co.kr\/read\/national\/2176075.htm",
@@ -180,17 +187,17 @@
 			"pubDate":"Wed, 05 Feb 2025 10:58:00 +0900"
 		},
 		{
-			"title":"충남소방본부, 화재안전조사 확대 실시",
-			"originallink":"https:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2182150",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000120349?sid=102",
-			"description":"올해는 화성시 아리셀 전지공장 화재, <b>청라<\/b>아파트 지하주차장 전기차 화재 등 유사 화재가 발생하지 않도록 공동주택, 전통시장, 리튬전지 공장, 숙박시설 등 위험성을 고려해 대상을 선정하고 집중 조사할 계획이다.... ",
-			"pubDate":"Wed, 05 Feb 2025 10:40:00 +0900"
-		},
-		{
 			"title":"편집기자협회 ‘2025 기자가 본 100대 뉴스’ 발간",
 			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2442453",
 			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2442453",
 			"description":"이번 100대 뉴스에는 현실판 ‘서울의 밤’이라고 불린 비상계엄 사태부터 한강 작가의 노벨문학상 수상, 전기차 불안감을 키운 <b>청라<\/b> 아파트 지하주차장 화재, 전 국민의 공분을 일으킨 딥페이크 음란물 공포까지... ",
+			"pubDate":"Wed, 05 Feb 2025 10:40:00 +0900"
+		},
+		{
+			"title":"충남소방본부, 화재안전조사 확대 실시",
+			"originallink":"https:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2182150",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000120349?sid=102",
+			"description":"올해는 화성시 아리셀 전지공장 화재, <b>청라<\/b>아파트 지하주차장 전기차 화재 등 유사 화재가 발생하지 않도록 공동주택, 전통시장, 리튬전지 공장, 숙박시설 등 위험성을 고려해 대상을 선정하고 집중 조사할 계획이다.... ",
 			"pubDate":"Wed, 05 Feb 2025 10:40:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160286269260692",
 			"description":"다만, 전자태그(RFID) 종량기 미설치 공동주택·대형감량기 미설치 지역(<b>청라<\/b> 일부)·2025년 기준 준공 1년 미만 공동주택은 배출량 산정이 어려워 평가대상에서 제외된다. 인천 서구 관계자는 “각 가정이 음식물... ",
 			"pubDate":"Wed, 05 Feb 2025 09:46:00 +0900"
-		},
-		{
-			"title":"[보령시 소식]산불감시원 발대식 갖고 봄철 비상 근무체제 돌입 등",
-			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=607309",
-			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=607309",
-			"description":"실제로 2023년 4월 <b>청라<\/b>면에 발생한 대형산불로 97ha의 산림이 소실됐으나, 2024년에는 집중 예찰과 초동 진화 노력으로 피해면적이 1.1㏊로 크게 감소했다. 올해는 고기압의 영향으로 맑고 건조한 날이 많을 것으로... ",
-			"pubDate":"Wed, 05 Feb 2025 09:34:00 +0900"
 		}
 	]
 }
