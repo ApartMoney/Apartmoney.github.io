@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 05 Feb 2025 15:30:01 +0900",
-	"total":256379,
+	"lastBuildDate":"Wed, 05 Feb 2025 15:40:00 +0900",
+	"total":256380,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 전기차 구매 지원금 확대…최대 100만원 지급",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=829309",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=829309",
+			"description":"여기에 지난해 <b>청라<\/b>국제도시에서 발생한 전기차 화재 등이 겹치며 소비자들의 구매 심리가 위축되고 있는 상황이다. 이에 시는 전기차 보급 확대를 촉진하기 위해 보조금 지급 방식을 개선하기로 했다. 기존 보조금 지급... ",
+			"pubDate":"Wed, 05 Feb 2025 15:34:00 +0900"
+		},
 		{
 			"title":"한국편집기자協 '2025 기자가 본 100대 뉴스' 발간",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363683998",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000120349?sid=102",
 			"description":"올해는 화성시 아리셀 전지공장 화재, <b>청라<\/b>아파트 지하주차장 전기차 화재 등 유사 화재가 발생하지 않도록 공동주택, 전통시장, 리튬전지 공장, 숙박시설 등 위험성을 고려해 대상을 선정하고 집중 조사할 계획이다.... ",
 			"pubDate":"Wed, 05 Feb 2025 10:40:00 +0900"
-		},
-		{
-			"title":"충남소방본부, 화재안전조사 확대...도민 안전 강화 '총력'",
-			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=361273",
-			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=361273",
-			"description":"올해는 화성시 아리셀 전지공장 화재, <b>청라<\/b> 아파트 지하주차장 전기차 화재 등과 같은 유사 화재가 발생하지 않도록 공동주택, 전통시장, 리튬전지 공장, 숙박시설 등 위험성을 고려해 대상을 선정하고 집중 조사할... ",
-			"pubDate":"Wed, 05 Feb 2025 10:06:00 +0900"
 		}
 	]
 }
