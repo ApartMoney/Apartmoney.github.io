@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 05 Feb 2025 13:50:01 +0900",
-	"total":256367,
+	"lastBuildDate":"Wed, 05 Feb 2025 14:00:01 +0900",
+	"total":256368,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시 산불 최소화를 위한 선제적 대응",
+			"originallink":"https:\/\/www.daejonilbo.com\/news\/articleView.html?idxno=2182086",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/656\/0000120383?sid=102",
+			"description":"실제로 지난 2023년 4월 <b>청라<\/b>면에 발생한 대형산불로 97㏊의 산림이 소실됐으나 지난해에는 집중 예찰과 초동 진화 노력으로 피해면적이 1.1㏊로 크게 감소했다. 올해는 고기압의 영향으로 맑고 건조한 날이 많을 것으로... ",
+			"pubDate":"Wed, 05 Feb 2025 13:55:00 +0900"
+		},
 		{
 			"title":"한국편집기자협회 '100대 뉴스' 발간",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1278194",
@@ -68,17 +75,17 @@
 			"pubDate":"Wed, 05 Feb 2025 11:40:00 +0900"
 		},
 		{
-			"title":"충남소방, 올해 7000곳 이상 화재안전조사 실시",
-			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1072181",
-			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1072181",
-			"description":"올해는 화성시 아리셀 전지공장 화재, <b>청라<\/b> 아파트 지하주차장 전기차 화재 등과 같은 유사 화재가 발생하지 않도록 공동주택, 전통시장, 리튬전지 공장, 숙박시설 등 위험성을 고려해 대상을 선정하고 집중 조사할... ",
-			"pubDate":"Wed, 05 Feb 2025 11:34:00 +0900"
-		},
-		{
 			"title":"보령시, 선제 대응으로 '산불 최소화 탄소중립 보령만들기'",
 			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1072180",
 			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1072180",
 			"description":"실제로 지난 2023년 4월 <b>청라<\/b>면에 발생한 대형산불로 97㏊의 산림이 소실됐으나 2024년에는 집중 예찰과 초동 진화 노력으로 피해면적이 1.1㏊로 크게 감소했다. 올해는 고기압의 영향으로 맑고 건조한 날이 많을 것으로... ",
+			"pubDate":"Wed, 05 Feb 2025 11:34:00 +0900"
+		},
+		{
+			"title":"충남소방, 올해 7000곳 이상 화재안전조사 실시",
+			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1072181",
+			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1072181",
+			"description":"올해는 화성시 아리셀 전지공장 화재, <b>청라<\/b> 아파트 지하주차장 전기차 화재 등과 같은 유사 화재가 발생하지 않도록 공동주택, 전통시장, 리튬전지 공장, 숙박시설 등 위험성을 고려해 대상을 선정하고 집중 조사할... ",
 			"pubDate":"Wed, 05 Feb 2025 11:34:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0011886281?sid=102",
 			"description":"",
 			"pubDate":"Tue, 04 Feb 2025 21:49:00 +0900"
-		},
-		{
-			"title":"[물꼬 튼 송도유원지 개발] (하) 폐기물로 채운 매립지...처리비 수천억",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1278150",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1278150",
-			"description":"실제 미추홀구 용현·학익동과 연수구 옥련·동춘동, 서구 가좌·석남동, <b>청라<\/b>국제도시 등 개발구역에서... <b>청라<\/b>국제도시 개발 사업 시행사인 LH는 1980년대 후반에서 1990년대 초반까지 버려진 생활폐기물로... ",
-			"pubDate":"Tue, 04 Feb 2025 19:50:00 +0900"
 		}
 	]
 }
