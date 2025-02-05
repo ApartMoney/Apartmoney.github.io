@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 06 Feb 2025 00:10:01 +0900",
-	"total":256388,
+	"lastBuildDate":"Thu, 06 Feb 2025 00:20:00 +0900",
+	"total":256389,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'2025 기자가 본 100대 뉴스', 한국편집기자협 엄선·발간",
+			"originallink":"https:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=1019793",
+			"link":"https:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=1019793",
+			"description":"이번 100대 뉴스에는 비상계엄부터 한강 작가의 노벨문학상 수상, 전기차 불안감을 키운 <b>청라<\/b> 화재, 전국민을 공분케한 딥페이크 음란물 공포까지 굵직한 이슈들이 담겼다. 전세계의 스포츠 축제인 파리 올림픽과 KIA... ",
+			"pubDate":"Thu, 06 Feb 2025 00:12:00 +0900"
+		},
 		{
 			"title":"“인천 중구 교통망 확충… 구도심 발전 노력”",
 			"originallink":"https:\/\/www.kyeongin.com\/article\/1728381",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.tournews21.com\/news\/articleView.html?idxno=85128",
 			"description":"대구 <b>청라<\/b>언덕 막창: 대구 <b>청라<\/b>언덕 일대에 위치한 이 곳은 숯불 막창으로 유명하다. 고기와 함께 제공되는 다양한 소스와 함께 막창을 즐길 수 있다. 수성구 막창: 수성구 지역에서는 고급스러운 분위기의 막창 전문점들이... ",
 			"pubDate":"Wed, 05 Feb 2025 11:54:00 +0900"
-		},
-		{
-			"title":"경기·인천·강원 ‘국제 스케이트장 유치’ 레이스",
-			"originallink":"https:\/\/www.munhwa.com\/news\/view.html?no=2025020501071027204001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002687970?sid=102",
-			"description":"■ 체육회 선거 끝나자 경쟁 재점화 2027년까지 태릉 철거계획에 동두천, 빙상 인프라 등 강조 <b>청라<\/b>는 수도권 접근성 내세워 춘천선 ‘릴레이 캠페인’ 진행 의정부=김준구·춘천=이성현 기자 대한체육회의 새 집행부... ",
-			"pubDate":"Wed, 05 Feb 2025 11:48:00 +0900"
 		}
 	]
 }
