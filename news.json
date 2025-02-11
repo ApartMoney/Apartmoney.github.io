@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 11 Feb 2025 20:40:01 +0900",
-	"total":256667,
+	"lastBuildDate":"Tue, 11 Feb 2025 20:50:00 +0900",
+	"total":256668,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"한국편집기자협회, 2025 기자가 본 100대 뉴스 발간",
+			"originallink":"https:\/\/www.gnnews.co.kr\/news\/articleView.html?idxno=604637",
+			"link":"https:\/\/www.gnnews.co.kr\/news\/articleView.html?idxno=604637",
+			"description":"불안감을 키운 <b>청라<\/b> 화재, 전 국민을 공분케 한 딥페이크 음란물 공포까지 굵직한 이슈들이 담겼다. 전 세계의 스포츠 축제인 파리 올림픽과 KIA 타이거즈의 한국시리즈 우승 등 짜릿한 승리의 순간도 기록돼 있다",
+			"pubDate":"Tue, 11 Feb 2025 20:42:00 +0900"
+		},
 		{
 			"title":"수도권 대체매립지 4차 공모 어디까지 협의됐나...김철수 인천시 환경국...",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=423589",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005544451?sid=102",
 			"description":"경인고속도로 지하화는 인천 서구 <b>청라<\/b>동∼서울 양천구 신월동 15.3㎞ 구간에 왕복 4차로 지하 고속도로를 신설하는 사업으로, 지난달 예비타당성조사를 통과했다. 이 사업은 총사업비 1조3780억원을 들여 경인고속도로... ",
 			"pubDate":"Tue, 11 Feb 2025 08:33:00 +0900"
-		},
-		{
-			"title":"알파도, 디지털 헬스케어 신성장 동력 통해 5년 내 1,200억 매출목표 밝...",
-			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2025021012192529566cf2d78c68_30",
-			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2025021012192529566cf2d78c68_30",
-			"description":"그에 따른 1차로 송도 A+라운지를 본사 직영하고 있으며, 2025년도에 인천 <b>청라<\/b> 및 일산, 분당, 서울 강남 ,부산, 광주, 대전 등 주요 도시에 알파도 A+헬스 라운지를 오픈하여 O2O 헬스케어 서비스를 한다. 2차로는 태국... ",
-			"pubDate":"Tue, 11 Feb 2025 08:02:00 +0900"
 		}
 	]
 }
