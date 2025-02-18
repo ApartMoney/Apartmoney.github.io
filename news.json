@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 18 Feb 2025 10:30:01 +0900",
-	"total":256822,
+	"lastBuildDate":"Tue, 18 Feb 2025 10:40:01 +0900",
+	"total":256823,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'대충대충' 새 이름 짓는 인천 서구... 미추홀구 사례 살펴보니",
+			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=263013",
+			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=263013",
+			"description":"서해구, <b>청라<\/b>구를 선정했다고 밝혔다. 구는 앞으로 이 4개 안을 두고 2000명을 대상으로 구 명칭 선호도... 인천 서구의회 더불어민주당 김원진(<b>청라<\/b>1·2동) 의원은 17일 열린 서구의회 제272회 임시회 제2차 본회의 5분... ",
+			"pubDate":"Tue, 18 Feb 2025 10:30:00 +0900"
+		},
 		{
 			"title":"[특징주] 유일로보틱스, 연간 실적 확대 기대감에 장중 '신고가'",
 			"originallink":"http:\/\/www.seoulwire.com\/news\/articleView.html?idxno=638810",
@@ -96,13 +103,6 @@
 			"pubDate":"Tue, 18 Feb 2025 03:06:00 +0900"
 		},
 		{
-			"title":"인천시의회 유승분 의원, 전기차 주차구역 화재예방 강화 추진",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=492736",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=492736",
-			"description":"지난해 8월 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재로 차량 880대가 소실되고 717명의 이재민이 발생하는 등 대규모 피해가 있었다. 이에 이번 개정 조례안은 전기차 전용주차구역 및 충전시설 열화상 카메라... ",
-			"pubDate":"Mon, 17 Feb 2025 21:02:00 +0900"
-		},
-		{
 			"title":"인천환경공단 &quot;겨울방학 가족들과 함께 자원순환의 중요성 알아봐요&quot;",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=492746",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=492746",
@@ -110,17 +110,24 @@
 			"pubDate":"Mon, 17 Feb 2025 21:02:00 +0900"
 		},
 		{
-			"title":"영종 국제학교 첫 공모서 7개 법인 '노크'",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1132380",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1132380",
-			"description":"현재 인천경제자유구역(IFEZ)에는 송도에 채드윅 국제학교와 칼빈 매니토바 국제학교, <b>청라<\/b>에 달튼 외국인학교가 운영 중이다. 인천경제청은 이번 공모로 영종에 첫 국제학교가 들어서면 미단시티와 영종의 새로운 성장... ",
-			"pubDate":"Mon, 17 Feb 2025 20:48:00 +0900"
+			"title":"인천시의회 유승분 의원, 전기차 주차구역 화재예방 강화 추진",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=492736",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=492736",
+			"description":"지난해 8월 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재로 차량 880대가 소실되고 717명의 이재민이 발생하는 등 대규모 피해가 있었다. 이에 이번 개정 조례안은 전기차 전용주차구역 및 충전시설 열화상 카메라... ",
+			"pubDate":"Mon, 17 Feb 2025 21:02:00 +0900"
 		},
 		{
 			"title":"내년 국내 첫 '세계 로보컵' 인천시 손님맞이 체제 돌입",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1132427",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1132427",
 			"description":"특히 시는 <b>청라<\/b>국제도시에 인천도시공사를 중심으로 재투자하기로 한 인천로봇랜드를 기반으로 로봇산업 인프라를 활용하고, 국내외 전문가들을 대거 초청한 로봇산업 포럼과 콘퍼런스를 사전에 열어 대회 붐업에 나설... ",
+			"pubDate":"Mon, 17 Feb 2025 20:48:00 +0900"
+		},
+		{
+			"title":"영종 국제학교 첫 공모서 7개 법인 '노크'",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1132380",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1132380",
+			"description":"현재 인천경제자유구역(IFEZ)에는 송도에 채드윅 국제학교와 칼빈 매니토바 국제학교, <b>청라<\/b>에 달튼 외국인학교가 운영 중이다. 인천경제청은 이번 공모로 영종에 첫 국제학교가 들어서면 미단시티와 영종의 새로운 성장... ",
 			"pubDate":"Mon, 17 Feb 2025 20:48:00 +0900"
 		},
 		{
@@ -194,13 +201,6 @@
 			"pubDate":"Mon, 17 Feb 2025 17:06:00 +0900"
 		},
 		{
-			"title":"인천시의회, 전기차 주차구역 '열감지기' 설치 의무화 조례 개정 추진",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1132296",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1132296",
-			"description":"1만9천724기에 달하며 이 중 아파트 지하주차장에 설치된 충전시설이 전체의 59.5%인 1만1천732기다. 지난해 8월 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재로 당시 880대의 차량이 전소됐고, 717명의 이재민이 발생했다.",
-			"pubDate":"Mon, 17 Feb 2025 17:04:00 +0900"
-		},
-		{
 			"title":"허종식 의원, '준설토 투기장 정부 지자체 공동개발' 항만법 개정안 발...",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1132292",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1132292",
@@ -208,11 +208,11 @@
 			"pubDate":"Mon, 17 Feb 2025 17:04:00 +0900"
 		},
 		{
-			"title":"인천경제청, 영종 미단시티 국제학교 공모에 7개 학교 접수",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202502170935226240699",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202502170935226240699",
-			"description":"사업이 완성되면 인천경제청의 송도, 영종, <b>청라<\/b> 세 곳의 국제학교가 완성된다. 현재 인천경제자유구역에는 송도에 채드윅 국제학교 및 칼빈 매니토바 국제학교, 그리고 <b>청라<\/b>에 달튼 외국인학교가 운영되고 있다. 이번... ",
-			"pubDate":"Mon, 17 Feb 2025 17:02:00 +0900"
+			"title":"인천시의회, 전기차 주차구역 '열감지기' 설치 의무화 조례 개정 추진",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1132296",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1132296",
+			"description":"1만9천724기에 달하며 이 중 아파트 지하주차장에 설치된 충전시설이 전체의 59.5%인 1만1천732기다. 지난해 8월 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재로 당시 880대의 차량이 전소됐고, 717명의 이재민이 발생했다.",
+			"pubDate":"Mon, 17 Feb 2025 17:04:00 +0900"
 		}
 	]
 }
