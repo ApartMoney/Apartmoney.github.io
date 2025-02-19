@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 20 Feb 2025 05:30:01 +0900",
-	"total":256968,
+	"lastBuildDate":"Thu, 20 Feb 2025 05:40:00 +0900",
+	"total":256969,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘글로벌도시’로 도약 중인 인천 | “인천은 진보와 보수가 공존하는 ...",
+			"originallink":"http:\/\/monthly.chosun.com\/client\/news\/viw.asp?ctcd=C&nNewsNumb=202503100024",
+			"link":"http:\/\/monthly.chosun.com\/client\/news\/viw.asp?ctcd=C&nNewsNumb=202503100024",
+			"description":"또 국내 최초로 서양 문물을 받아들인 도시이며, 송도·영종·<b>청라<\/b> 등 국제도시가 자리 잡았고 해외 유명... 기자가 오전 8시 즈음 서울역에서 공항철도를 타자 <b>청라<\/b>국제도시역까지 딱 35분이 걸렸다. 오전 9시 즈음 인천에서... ",
+			"pubDate":"Thu, 20 Feb 2025 05:34:00 +0900"
+		},
 		{
 			"title":"[인천판\/게시판]인천 外",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20250219\/131065328\/2",
@@ -131,17 +138,17 @@
 			"pubDate":"Wed, 19 Feb 2025 17:44:00 +0900"
 		},
 		{
-			"title":"유정복 시장, &quot;조정교부금 증액 등 서구·검단구 분구 위해 최선을 다할...",
-			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=807787",
-			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=807787",
-			"description":"<b>청라<\/b>블루노바홀에서 열린 '생생톡톡 애인(愛仁) 소통'엔 유정복 시장과 강범석 서구청장을 비롯한 구의원, 시의원, 지역원로, 단체·주민 대표, 구민 등 500여명해시정 운영 방향에 대한 설명과 질의응답 시간을 가졌다.... ",
-			"pubDate":"Wed, 19 Feb 2025 17:44:00 +0900"
-		},
-		{
 			"title":"금호건설, '왕길역 아테라' 입주 시작…신규 브랜드 첫 적용",
 			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20250219500372",
 			"link":"https:\/\/www.asiatime.co.kr\/article\/20250219500372",
 			"description":"동쪽으로는 검단신도시, 남쪽으로는 <b>청라<\/b>국제도시가 인접해 있다. 이마트와 롯데마트 등 대형마트도 인근에 위치했다. 금호건설 관계자는 &quot;아테라는 차별화된 디자인과 공간 설계를 통해 주거의 새로운 기준을... ",
+			"pubDate":"Wed, 19 Feb 2025 17:44:00 +0900"
+		},
+		{
+			"title":"유정복 시장, &quot;조정교부금 증액 등 서구·검단구 분구 위해 최선을 다할...",
+			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=807787",
+			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=807787",
+			"description":"<b>청라<\/b>블루노바홀에서 열린 '생생톡톡 애인(愛仁) 소통'엔 유정복 시장과 강범석 서구청장을 비롯한 구의원, 시의원, 지역원로, 단체·주민 대표, 구민 등 500여명해시정 운영 방향에 대한 설명과 질의응답 시간을 가졌다.... ",
 			"pubDate":"Wed, 19 Feb 2025 17:44:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=410573",
 			"description":"◆ 이도형 : 네, 최근 <b>청라<\/b>지역에요 영림목재시장을 열었다고 하는데, 목재시장 이게 뭡니까? ◇ 이경호... 새로이 <b>청라<\/b>지역에 준비하게 되었습니다. 본 &lt;영림+목재 시장&gt;은 2천400평 규모의 각종 세계 각국의 목재 및... ",
 			"pubDate":"Wed, 19 Feb 2025 16:20:00 +0900"
-		},
-		{
-			"title":"인천시, 송도트램 등 인천트램 GRT 대체 '시사'... GRT란?",
-			"originallink":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=263063",
-			"link":"http:\/\/www.incheontoday.com\/news\/articleView.html?idxno=263063",
-			"description":"지난 2018년에 개통한 <b>청라<\/b> GRT 버스의 모습.(사진제공 인천시) <b>청라<\/b> GRT는 자기 유도로 자동 조향이 되는 굴절 버스 인천시 김인수 교통국장은 &quot;국토부가 여러 가지 유형을 검토 중&quot;이라며 &quot;개인적인 생각이지만... ",
-			"pubDate":"Wed, 19 Feb 2025 15:52:00 +0900"
 		}
 	]
 }
