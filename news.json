@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 23 Feb 2025 09:40:01 +0900",
-	"total":257064,
+	"lastBuildDate":"Sun, 23 Feb 2025 09:50:01 +0900",
+	"total":257065,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"아파트 초토화 공포?…전기차 화재 걱정 이제 ‘뚝’",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01272646642073472",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005949164?sid=101",
+			"description":"지난해 8월 인천 <b>청라<\/b>국제도시 한 아파트 지하 주차장에서 전기차 화재가 발생해 차량 880대가 소실되고... 한 화재진압 솔루션 업체 관계자는 “<b>청라<\/b> 아파트 사고 이후 관련 장비 설치 문의가 부쩍 늘었다”며 “민간... ",
+			"pubDate":"Sun, 23 Feb 2025 09:44:00 +0900"
+		},
 		{
 			"title":"[제106회 동계체전] 인천, 역대 최고 점수 획득하며 종합 6위 달성",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1279883",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/fpn119.co.kr\/230143",
 			"description":"시연회를 참관한 아파트 관계인은 “지난해 8월 인천 <b>청라<\/b> 아파트 전기차 화재 등 전기차 화재 사고가 지속적으로 발생해 주민들의 전기차 화재에 대한 관심이 높아졌다”며 “아파트 전기차 화재 피해 예방을 위해 꼭... ",
 			"pubDate":"Fri, 21 Feb 2025 10:02:00 +0900"
-		},
-		{
-			"title":"인천시, 내년 국비 6조5천억 목표…7호선 <b>청라<\/b>연장 등 현안 53건",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2025022109304799005",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005549967?sid=102",
-			"description":"주요 사업은 서울도시철도 7호선 <b>청라<\/b>국제도시 연장(1천605억원), 인천발 KTX(500억원), 수도권광역급행철도(GTX)-B 노선(2천826억원), 인천신항 진입도로 지하차도 건설(74억원) 등이다. 또 2026년 신규사업은 총 26개... ",
-			"pubDate":"Fri, 21 Feb 2025 09:30:00 +0900"
 		}
 	]
 }
