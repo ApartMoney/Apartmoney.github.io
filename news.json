@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 25 Feb 2025 18:20:01 +0900",
-	"total":257260,
+	"lastBuildDate":"Tue, 25 Feb 2025 18:30:01 +0900",
+	"total":257261,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[에코스토리] 쓰레기·하수 대란 직면한 인천시의 무능 행정",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1280174",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1280174",
+			"description":"애초 시가 주도해서 동·서·남·북부 4개 권역별로 기존 시설 대보수와 증설을 통해 소각 시설을 확충할 계획이었으나, 송도와 <b>청라<\/b>는 소각장 증설이 이루어지지 못했고 동부권과 서부권 신규소각장은 입지 선정도 못... ",
+			"pubDate":"Tue, 25 Feb 2025 18:20:00 +0900"
+		},
 		{
 			"title":"하나금융, 임직원 참여 '사랑 나눔 헌혈 캠페인' 실시",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=832477",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287924721452",
 			"description":"전 그룹사 임직원의 자발적 참여로 이뤄지는 이번 '사랑 나눔 헌혈 캠페인'은 25일 명동사옥, 강남 하나캐피탈 사옥, 여의도 하나증권 사옥 3곳에서 동시에 진행하며, 오는 3월5일에는 <b>청라<\/b> 통합데이터센터에서 진행 될... ",
 			"pubDate":"Tue, 25 Feb 2025 16:26:00 +0900"
-		},
-		{
-			"title":"하나금융, 임직원과 함께 '사랑 나눔' 헌혈 캠페인 펼쳐",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202502251139398546",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005313197?sid=101",
-			"description":"다음달 5일에는 <b>청라<\/b> 통합데이터센터에서 진행 될 예정이다. 하나금융그룹은 캠페인이 진행된 각 사옥에 헌혈차를 운영해 임직원 누구나 쉽게 헌혈 참여가 가능하도록 했다. 특히, 현장접수 외에도 사전 신청을 통한... ",
-			"pubDate":"Tue, 25 Feb 2025 16:18:00 +0900"
 		}
 	]
 }
