@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 27 Feb 2025 16:50:01 +0900",
-	"total":257343,
+	"lastBuildDate":"Thu, 27 Feb 2025 17:00:01 +0900",
+	"total":257344,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"지하주차장 소화·경보 설비 의무화…전기차 화재 대책",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20250227165337009",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000717055?sid=102",
+			"description":"지난해 8월 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 발생한 대형 화재를 계기로 종합대책을 논의해 온 소방청은 오늘(27일) 이같은 내용을 담은 '지하주차장 전기차 화재 안전 종합대책'을 발표했습니다. 소방청은... ",
+			"pubDate":"Thu, 27 Feb 2025 16:54:00 +0900"
+		},
 		{
 			"title":"지하주차장에 습식 스프링클러 설치…지하주차장 전기차 화재 대책",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20250227010014941",
@@ -82,17 +89,17 @@
 			"pubDate":"Thu, 27 Feb 2025 14:33:00 +0900"
 		},
 		{
-			"title":"[아유경제_부동산] 2월 4주 아파트 가격 동향… 매매가격 -0.02% 하락ㆍ전...",
-			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=87721",
-			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=87721",
-			"description":"01%)는 <b>청라<\/b>ㆍ마전동 위주로 하락한 것으로 나타났다. 지방(-0.05%)은 시ㆍ도별로 부산(-0.06%), 대전(-0.05... 13%)는 공급 물량 영향 있는 <b>청라<\/b>ㆍ원당ㆍ가정동 위주로, 중구(-0.08%)는 중산ㆍ운남동 구축 위주로, 남동구... ",
-			"pubDate":"Thu, 27 Feb 2025 14:30:00 +0900"
-		},
-		{
 			"title":"인천의 출범 역사 ‘30주년 사진전’ 통해 성장 한눈에 인식",
 			"originallink":"https:\/\/m.skyedaily.com\/news_view.html?ID=264563",
 			"link":"https:\/\/m.skyedaily.com\/news_view.html?ID=264563",
 			"description":"3부 ‘지금은 인천광역시 시대’에서는 민선시장 선출, 경제자유구역 설치, 송도와 <b>청라<\/b>를 비롯한 신도시 건설, 인천국제공항 설립 등 다방면에서 대한민국 제2의 도시로 나아가는 인천의 모습을 소개한다. 1966년... ",
+			"pubDate":"Thu, 27 Feb 2025 14:30:00 +0900"
+		},
+		{
+			"title":"[아유경제_부동산] 2월 4주 아파트 가격 동향… 매매가격 -0.02% 하락ㆍ전...",
+			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=87721",
+			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=87721",
+			"description":"01%)는 <b>청라<\/b>ㆍ마전동 위주로 하락한 것으로 나타났다. 지방(-0.05%)은 시ㆍ도별로 부산(-0.06%), 대전(-0.05... 13%)는 공급 물량 영향 있는 <b>청라<\/b>ㆍ원당ㆍ가정동 위주로, 중구(-0.08%)는 중산ㆍ운남동 구축 위주로, 남동구... ",
 			"pubDate":"Thu, 27 Feb 2025 14:30:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202502270936504720234",
 			"description":"3부 ‘지금은 인천광역시 시대’에서는 민선시장 선출, 경제자유구역 설치, 송도와 <b>청라<\/b>를 비롯한 신도시 건설, 인천국제공항 설립 등 다방면에서 대한민국 제2의 도시로 나아가는 인천의 모습을 소개한다. 1966년... ",
 			"pubDate":"Thu, 27 Feb 2025 10:42:00 +0900"
-		},
-		{
-			"title":"'전기차 화재' 추가 대책 발표…신축 지하주차장 소화·경보설비 의무화",
-			"originallink":"https:\/\/www.widedaily.com\/news\/articleView.html?idxno=260496",
-			"link":"https:\/\/www.widedaily.com\/news\/articleView.html?idxno=260496",
-			"description":"지난해 8월 인천 <b>청라<\/b>의 한 아파트 지하주차장에 주차돼있던 벤츠 전기차에서 불이 나면서 주변 차량 87대가 전소되고 783대가 그을림 피해를 입었다. 이 사고를 계기로 전기차 화재에 대한 불안이 커지자 정부는 한 달 뒤... ",
-			"pubDate":"Thu, 27 Feb 2025 10:04:00 +0900"
 		}
 	]
 }
