@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 01 Mar 2025 13:30:01 +0900",
-	"total":257390,
+	"lastBuildDate":"Sat, 01 Mar 2025 13:40:01 +0900",
+	"total":257391,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"경북 전역 들불처럼 번진 '3·1정신 계승' 행사",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202503011326479452",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005315098?sid=102",
+			"description":"또 대구 <b>청라<\/b>언덕 주차장에서는 3·1 만세운동 재현행사가 열려 주민 대표 33인이 독립선언문을 낭독했다. 참가자들은 3·1 만세운동길을 따라 이상화·서상돈 고택까지 만세삼창을 하며 행진했다.",
+			"pubDate":"Sat, 01 Mar 2025 13:33:00 +0900"
+		},
 		{
 			"title":"대구·경북 곳곳서 제106주년 3·1절 기념행사",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20250301035200053?input=1195m",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kidshankook.kr\/news\/articleView.html?idxno=13038",
 			"description":"부산 동래구는 3ㆍ1독립운동기념탑에서, 대구 중구는 <b>청라<\/b>언덕 일원에서 독립만세운동 재현 행사를 개최한다. 서울시립미술관은 서소문본관과 분관 3개소를 3월 1~3일 정상 개관한다. 국립백두대간수목원과... ",
 			"pubDate":"Fri, 28 Feb 2025 12:40:00 +0900"
-		},
-		{
-			"title":"[집중조명] 지하공간 전기차 화재 안전 방안… 어떤 내용 담겼나?",
-			"originallink":"http:\/\/fpn119.co.kr\/230592",
-			"link":"http:\/\/fpn119.co.kr\/230592",
-			"description":"인천 <b>청라<\/b> 전기차 화재로 소실된 차량 모습     ©최누리 기자 습식 스프링클러 설치 의무화하고 불시점검 강화 먼저 모든 지하주차장에 연결살수설비와 함께 습식 스프링클러 설치를 의무화한다. 동파방지가 어려운... ",
-			"pubDate":"Fri, 28 Feb 2025 10:56:00 +0900"
 		}
 	]
 }
