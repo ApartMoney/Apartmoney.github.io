@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 04 Mar 2025 14:20:01 +0900",
-	"total":257466,
+	"lastBuildDate":"Tue, 04 Mar 2025 14:30:00 +0900",
+	"total":257467,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"중흥토건, '원주역 중흥S-클래스' 이달 분양 예정",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1213196",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1213196",
+			"description":"GTX-D 노선은 삼성, 강남, 사당 등 서울 중심지를 비롯해 인천공항, <b>청라<\/b>, 광명·시흥 등 수도권 주요 지역에서 정차한다. 이밖에 남원주IC도 가까워 중앙고속도로, 영동고속도로 등 광역도로망을 통한 차량 이동도... ",
+			"pubDate":"Tue, 04 Mar 2025 14:26:00 +0900"
+		},
 		{
 			"title":"‘원조 꽃남’ 류진, 유튜브 열었다···반전 가득한 일상",
 			"originallink":"https:\/\/sports.khan.co.kr\/article\/202503041416003?pt=nv",
@@ -89,17 +96,17 @@
 			"pubDate":"Tue, 04 Mar 2025 11:09:00 +0900"
 		},
 		{
-			"title":"중흥토건, 강원도 원주서 '원주역 중흥S-클래스' 분양",
-			"originallink":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=110223",
-			"link":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=110223",
-			"description":"GTX-D 노선은 삼성, 강남, 사당 등을 비롯해 인천공항, <b>청라<\/b>, 광명·시흥 등 수도권 주오 지역에서 정차한다. 이 밖에 남원주IC도 가까워 중앙고속도로, 영동고속도로 등 광역 도로망을 통한 차량 이용도 용이하다. 원주역... ",
-			"pubDate":"Tue, 04 Mar 2025 11:08:00 +0900"
-		},
-		{
 			"title":"중흥토건, 남원주역세권 품은 '원주역 중흥S-클래스' 출격",
 			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=676924",
 			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=676924",
 			"description":"GTX-D 노선은 삼성, 강남, 사당 등 서울 중심지를 비롯해 인천공항, <b>청라<\/b>, 광명·시흥 등 수도권 주요 지역에서 정차한다. 이밖에 남원주IC도 가까워 중앙고속도로, 영동고속도로 등 광역도로망을 통한 차량 이동도... ",
+			"pubDate":"Tue, 04 Mar 2025 11:08:00 +0900"
+		},
+		{
+			"title":"중흥토건, 강원도 원주서 '원주역 중흥S-클래스' 분양",
+			"originallink":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=110223",
+			"link":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=110223",
+			"description":"GTX-D 노선은 삼성, 강남, 사당 등을 비롯해 인천공항, <b>청라<\/b>, 광명·시흥 등 수도권 주오 지역에서 정차한다. 이 밖에 남원주IC도 가까워 중앙고속도로, 영동고속도로 등 광역 도로망을 통한 차량 이용도 용이하다. 원주역... ",
 			"pubDate":"Tue, 04 Mar 2025 11:08:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=309107",
 			"description":"차량에 탑재된 배터리의 화재 위험성은 순식간에 800도에 이르는 열폭주 현상으로 인해 운전자의 안전과 주변을 위협할 수 있다는 것은 인천 <b>청라<\/b>지구에서 발생한 전기차 한 대 화재로 차량 40여 대가 전소되고 600여... ",
 			"pubDate":"Tue, 04 Mar 2025 09:38:00 +0900"
-		},
-		{
-			"title":"알고리즘·AI 활용 CCTV로 객체 탐지 영역 확대",
-			"originallink":"http:\/\/www.koit.co.kr\/news\/articleView.html?idxno=128688",
-			"link":"http:\/\/www.koit.co.kr\/news\/articleView.html?idxno=128688",
-			"description":"인천 <b>청라<\/b>에서 운행 중인 굴절버스 대상 좌석 점유 인지 시스템 실험 화면. [사진='CCTV 기반 대중교통 좌석... 인천 <b>청라<\/b>에서 운행 중인 굴절버스를 대상으로 실험을 진행한 결과, 교차 영역 및 위치 동시 고려 방법이 더... ",
-			"pubDate":"Tue, 04 Mar 2025 08:12:00 +0900"
 		}
 	]
 }
