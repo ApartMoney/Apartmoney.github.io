@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 06 Mar 2025 07:10:01 +0900",
-	"total":257541,
+	"lastBuildDate":"Thu, 06 Mar 2025 07:20:01 +0900",
+	"total":257542,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 초고층 타워 늦어지나…비행 안전성 추가 검증할 듯",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20250305116700065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015248234?sid=102",
+			"description":"송도 6·8공구 초고층 빌딩과 <b>청라<\/b>시티타워는 각각 인천국제공항과 김포국제공항 관제 공역에 포함돼 비행 절차에 따른 안전성 확보가 필요했다. 서울항공청은 제주항공 참사 이전에는 송도와 <b>청라<\/b>의 초고층 타워 건립과... ",
+			"pubDate":"Thu, 06 Mar 2025 07:13:00 +0900"
+		},
 		{
 			"title":"인천 서구 검단신도시 대형병원 유치 ‘빨간불’",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20250305580317",
@@ -173,17 +180,17 @@
 			"pubDate":"Wed, 05 Mar 2025 10:42:00 +0900"
 		},
 		{
-			"title":"인천광역시 ‘선진 자원순환시설 견학’ 프로그램 운영",
-			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=2025030508550662936e1e092a28_29",
-			"link":"http:\/\/www.globalepic.co.kr\/view.php?ud=2025030508550662936e1e092a28_29",
-			"description":"한편, 인천시는 송도와 <b>청라<\/b> 자원순환센터에 60여 명의 시민환경해설사를 배치해 시민들이 자원순환센터를 보다 친숙하게 느낄 수 있도록 다양한 견학 체험과 환경 프로그램을 운영하고 있다. 지난해에는 1만 3천여 명의... ",
-			"pubDate":"Wed, 05 Mar 2025 10:40:00 +0900"
-		},
-		{
 			"title":"인천환경공단 남항사업소 물 홍보관 리뉴얼 오픈, 하수처리과정 쉽게 설...",
 			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=2025030508412923186e1e092a28_29",
 			"link":"http:\/\/www.globalepic.co.kr\/view.php?ud=2025030508412923186e1e092a28_29",
 			"description":"또, 지난해부터 <b>청라<\/b>‧자원순환센터에서 운영중인 자원순환 시민환경해설사를 2기 물순환 분야도 모집‧양성을 완료하여 시민 눈높이에 맞춘 물환경 교육도 추진할 예정이다. 공단 최계운 이사장은 “하수처리는... ",
+			"pubDate":"Wed, 05 Mar 2025 10:40:00 +0900"
+		},
+		{
+			"title":"인천광역시 ‘선진 자원순환시설 견학’ 프로그램 운영",
+			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=2025030508550662936e1e092a28_29",
+			"link":"http:\/\/www.globalepic.co.kr\/view.php?ud=2025030508550662936e1e092a28_29",
+			"description":"한편, 인천시는 송도와 <b>청라<\/b> 자원순환센터에 60여 명의 시민환경해설사를 배치해 시민들이 자원순환센터를 보다 친숙하게 느낄 수 있도록 다양한 견학 체험과 환경 프로그램을 운영하고 있다. 지난해에는 1만 3천여 명의... ",
 			"pubDate":"Wed, 05 Mar 2025 10:40:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=93155",
 			"description":"또한, <b>청라<\/b>호수공원은 산책과 레저 활동을 동시에 즐길 수 있어 가족, 연인과 함께하기에 적합하다. 인천 서구는 서울과 가까워 당일치기 여행지로도 인기가 높다. 기온이 점차 올라가는 후반부에는 인천대공원이나 송도... ",
 			"pubDate":"Wed, 05 Mar 2025 10:32:00 +0900"
-		},
-		{
-			"title":"인천환경공단 남항사업소 물 홍보관 개관...다양한 체험시설 갖춰",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=107899",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=107899",
-			"description":"<b>청라<\/b>. 운북. 승기. 신항, 공촌. 가좌. 남항. 자원순환센터. 송도)사업소에서 환경관련 프로그램을 운영하고 있다. 김도연 시민환경해설사가 시설라운딩을 진행하고 있다. 남항사업소는 일일 12만5천톤의 하수를... ",
-			"pubDate":"Wed, 05 Mar 2025 09:46:00 +0900"
 		}
 	]
 }
