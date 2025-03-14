@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 14 Mar 2025 10:10:01 +0900",
-	"total":257945,
+	"lastBuildDate":"Fri, 14 Mar 2025 10:20:01 +0900",
+	"total":257946,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"국과수 “에어부산 화재 사고, 보조 배터리서 발화 추정”",
+			"originallink":"https:\/\/www.chosun.com\/national\/transport-environment\/2025\/03\/14\/MFFQDXMUDRF6BAXX4GMHPLV4FA\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003893447?sid=102",
+			"description":"책임 소재 등을 따지는 문제 역시 난관에 부딪힐 수 밖에 없기 때문이다. 지난해 9월 <b>청라<\/b>에서 일어난 벤츠 전기차 화재 사건 역시, 배터리에서 왜 화재가 발생했는지를 규명하지 못해 벤츠코리아에 책임을 묻지 못했다.",
+			"pubDate":"Fri, 14 Mar 2025 10:19:00 +0900"
+		},
 		{
 			"title":"인천경제청, 제3연륙교 민관협의회 발족",
 			"originallink":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1059765",
@@ -110,17 +117,17 @@
 			"pubDate":"Thu, 13 Mar 2025 18:19:00 +0900"
 		},
 		{
-			"title":"서울 오르고, 경기 보합 전환했는데... 인천 집값만 하락",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=108120",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=108120",
-			"description":"<b>청라<\/b>국제도시와 검단신도시, 루원시티 등 신도시가 밀집한 서구는 지난주 보합에서 이번 주 –0.03%로 하락해 다시 내림세를 보였다. 계양구(-0.11→0.08%)와 미추홀구(-0.06→-0.06%), 동구(-0.03→-0.06%) 등 나머지 구도... ",
-			"pubDate":"Thu, 13 Mar 2025 18:08:00 +0900"
-		},
-		{
 			"title":"[부동산라운지-3월2주] 서울 아파트값, 토허제 해제 영향 집값 7년만에 ...",
 			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=330922",
 			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=330922",
 			"description":"인천 동구(-0.06%)는 송림·만석동 위주로, 서구(-0.03%)는 <b>청라<\/b>·당하·불로동 위주로 하락했다. 경기 광명시(-0.14%)는 공급물량 영향있는 철산·광명동 위주로 하락했으나, 과천시(0.71%)는 재건축사업 지역인 별양... ",
+			"pubDate":"Thu, 13 Mar 2025 18:08:00 +0900"
+		},
+		{
+			"title":"서울 오르고, 경기 보합 전환했는데... 인천 집값만 하락",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=108120",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=108120",
+			"description":"<b>청라<\/b>국제도시와 검단신도시, 루원시티 등 신도시가 밀집한 서구는 지난주 보합에서 이번 주 –0.03%로 하락해 다시 내림세를 보였다. 계양구(-0.11→0.08%)와 미추홀구(-0.06→-0.06%), 동구(-0.03→-0.06%) 등 나머지 구도... ",
 			"pubDate":"Thu, 13 Mar 2025 18:08:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3245105",
 			"description":"인천시 영종국제도시와 <b>청라<\/b>국제도시를 연결하는 제3연륙교 개통을 앞두고 인천경제청이 국회, 시의회... 안광호 영종<b>청라<\/b>사업본부장은 &quot;민관협의회가 지역 주민과 인천시 간 소통 창구 역할을 할 것&quot;이라며 &quot;올 연말에... ",
 			"pubDate":"Thu, 13 Mar 2025 16:54:00 +0900"
-		},
-		{
-			"title":"개통 앞둔 '제3연륙교'…다리 이름, 손실보전금 등 논의 본격화",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=412437",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=412437",
-			"description":"영종과 <b>청라<\/b>를 잇는 제3연륙교가 올해 말 개통을 앞두고 있는 가운데, 건설 과정에서 불거진 주요 현안과 쟁점을 해결하기 위한 '소통 테이블'이 마련됐습니다. 인천경제자유구역청은 오늘(13일) 송도 G타워에서 지역... ",
-			"pubDate":"Thu, 13 Mar 2025 16:46:00 +0900"
 		}
 	]
 }
