@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 21 Mar 2025 08:40:01 +0900",
-	"total":258393,
+	"lastBuildDate":"Fri, 21 Mar 2025 08:50:02 +0900",
+	"total":258394,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융그룹, 의류 기부 캠페인 '해봄옷장' 실시",
+			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=254683",
+			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=254683",
+			"description":"'해봄옷장' 기부 참여는 은행 대표 모바일 앱 '하나원큐'에서 접수를 통해 가능하며, 손님 및 그룹 임직원 누구나 하나금융그룹 사옥(명동, 을지로, 강남, 여의도, <b>청라<\/b>) 로비에 설치된 의류기부함, 가까운 하나은행... ",
+			"pubDate":"Fri, 21 Mar 2025 08:44:00 +0900"
+		},
 		{
 			"title":"인천시, 2234억 투입 배수지 7곳 신증설",
 			"originallink":"http:\/\/www.segye.com\/newsView\/20250320519873?OutUrl=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=266881",
 			"description":"송도지식일반산단, 남동국가산단, 남도도시첨단산단, 주안국가산단, IHP도시첨단산단, <b>청라<\/b>1지구일반산단 등도 지근거리에 있어 직주근접형 단지인 것도 장점이다. 좁은 대지에 노후 빌라, 통학로 위험해 다만 장점... ",
 			"pubDate":"Thu, 20 Mar 2025 18:14:00 +0900"
-		},
-		{
-			"title":"&quot;안 입는 옷, '하나원큐'로 기부하세요&quot;…하나금융, '해봄옷장' 실시",
-			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=688429",
-			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=688429",
-			"description":"하나금융 사옥(명동, 을지로, 강남, 여의도, <b>청라<\/b>) 로비에 설치된 의류 기부함이나 가까운 하나은행, 하나증권, 하나저축은행 등 전 그룹사 영업점을 방문해 직접 기부할 수도 있다. 직접 방문이 어려운 경우에도... ",
-			"pubDate":"Thu, 20 Mar 2025 18:12:00 +0900"
 		}
 	]
 }
