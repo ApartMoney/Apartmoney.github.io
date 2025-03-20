@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 20 Mar 2025 23:00:01 +0900",
-	"total":258384,
+	"lastBuildDate":"Thu, 20 Mar 2025 23:10:01 +0900",
+	"total":258385,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"사고 잇따르는데…&quot;공영주차장 전기차 구역 화재 취약&quot;",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/MYH20250320230718067",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000723140?sid=101",
+			"description":"지난해 8월 인천 <b>청라<\/b>국제도시 아파트 지하주차장에서 발생한 전기차 화재 사고. 이 불로 지하 주차장 내 차량 880대가 탔고 약 38억원의 재산 피해가 발생했습니다. 전기차 화재 사고 건수는 지난 2021년 24건에서 2023년... ",
+			"pubDate":"Thu, 20 Mar 2025 23:08:00 +0900"
+		},
 		{
 			"title":"[금융ESG] 하나금융그룹, 의류 기부 캠페인 '해봄옷장'",
 			"originallink":"https:\/\/www.webeconomy.co.kr\/news\/article.html?no=1157584",
@@ -159,17 +166,17 @@
 			"pubDate":"Thu, 20 Mar 2025 18:10:00 +0900"
 		},
 		{
-			"title":"하나금융 &quot;옷 기부로 포근함 나누고 소득공제 혜택까지&quot;",
-			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000223968?division=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000430785?sid=101",
-			"description":"손님 및 그룹 임직원 누구나 하나금융그룹 사옥(명동, 을지로, 강남, 여의도, <b>청라<\/b>) 로비에 설치된 의류기부함이나 가까운 하나은행, 하나증권, 하나저축은행 등 전 그룹사 영업점을 방문해 직접 기부할 수 있습니다.... ",
-			"pubDate":"Thu, 20 Mar 2025 18:06:00 +0900"
-		},
-		{
 			"title":"하나금융그룹, 탄소 중립 실천 및 기부문화 확산 위한 의류 기부 캠페인...",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160290274746770",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160290274746770",
 			"description":"'해봄옷장' 기부 참여는 은행 대표 모바일 앱 ‘하나원큐’에서 접수를 통해 가능하며, 손님 및 그룹 임직원 누구나 하나금융그룹 사옥(명동, 을지로, 강남, 여의도, <b>청라<\/b>) 로비에 설치된 의류기부함이나 가까운 하나은행... ",
+			"pubDate":"Thu, 20 Mar 2025 18:06:00 +0900"
+		},
+		{
+			"title":"하나금융 &quot;옷 기부로 포근함 나누고 소득공제 혜택까지&quot;",
+			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000223968?division=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000430785?sid=101",
+			"description":"손님 및 그룹 임직원 누구나 하나금융그룹 사옥(명동, 을지로, 강남, 여의도, <b>청라<\/b>) 로비에 설치된 의류기부함이나 가까운 하나은행, 하나증권, 하나저축은행 등 전 그룹사 영업점을 방문해 직접 기부할 수 있습니다.... ",
 			"pubDate":"Thu, 20 Mar 2025 18:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.iminju.net\/news\/articleView.html?idxno=121902",
 			"description":"손님 및 그룹 임직원 누구나 하나금융그룹 사옥(명동, 을지로, 강남, 여의도, <b>청라<\/b>) 로비에 설치된 의류기부함이나 가까운 하나은행, 하나증권, 하나저축은행 등 전 그룹사 영업점을 방문해 직접 기부할 수 있다. 직접... ",
 			"pubDate":"Thu, 20 Mar 2025 17:32:00 +0900"
-		},
-		{
-			"title":"강남3구·용산, ‘막차 효과’로 집값 폭등… 규제가 더 키웠다?",
-			"originallink":"http:\/\/www.segye.com\/newsView\/20250320517301?OutUrl=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0004020709?sid=101",
-			"description":"인천 서구(-0.17%)는 <b>청라<\/b>, 가정동 위주로 하락했고, 연수구(-0.08%)도 입주 물량이 많은 송도, 동춘동을 중심으로 가격이 떨어졌다. 미추홀구, 계양구, 남동구 등도 하락세를 기록했다. 서울 주요 지역과 일부 경기권 인기... ",
-			"pubDate":"Thu, 20 Mar 2025 17:31:00 +0900"
 		}
 	]
 }
