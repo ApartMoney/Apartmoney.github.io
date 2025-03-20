@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 20 Mar 2025 10:30:01 +0900",
-	"total":258211,
+	"lastBuildDate":"Thu, 20 Mar 2025 10:40:01 +0900",
+	"total":258212,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 상수도, 2028년까지 배수지 7개소 건설",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2023611",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2023611",
+			"description":"인천시 상수도사업본부는 송도․<b>청라<\/b>등 인천경제자유구역과 도시개발사업지역 및 강화 지역 등에... <b>청라<\/b>국제도시는 <b>청라<\/b>스타필드, 의료복합타운, <b>청라<\/b>시티타워, 로봇랜드 등의 개발로 급수 수요가 급격히 증가할... ",
+			"pubDate":"Thu, 20 Mar 2025 10:36:00 +0900"
+		},
 		{
 			"title":"인천시, 2028년까지 배수지 7개 확충",
 			"originallink":"https:\/\/www.newspim.com\/news\/view\/20250320000292",
@@ -89,17 +96,17 @@
 			"pubDate":"Thu, 20 Mar 2025 09:52:00 +0900"
 		},
 		{
-			"title":"유일로보틱스, <b>청라<\/b> 신 본사 공정률 95% 달성…4월 스마트 팩토리 시대...",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202503200858528450830",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202503200858528450830",
-			"description":"8천평 부지에 생산시설 구축…연간 생산능력 2300억 이상 목표 첨단 로봇자동화 전문기업 유일로보틱스가 인천 <b>청라<\/b>국제도시에 건설 중인 신 본사의 공정률이 95%에 달해 ‘4월 <b>청라<\/b> 시대’ 개막을 앞두고 있다고 20일... ",
-			"pubDate":"Thu, 20 Mar 2025 09:40:00 +0900"
-		},
-		{
 			"title":"&quot;<b>청라<\/b> 시대 개막&quot; 유일로보틱스, <b>청라<\/b> 본사 공정률 95%",
 			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=679464",
 			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=679464",
 			"description":"첨단 로봇자동화 전문기업 유일로보틱스(388720)는 인천광역시 <b>청라<\/b>국제도시에 건설 중인 새 본사가 95% 공정률을 달성 중이며 '4월 <b>청라<\/b> 시대’ 개막을 앞두고 있다고 20일 밝혔다. <b>청라<\/b> 새 본사는 LH(한국토지주택공사)... ",
+			"pubDate":"Thu, 20 Mar 2025 09:40:00 +0900"
+		},
+		{
+			"title":"유일로보틱스, <b>청라<\/b> 신 본사 공정률 95% 달성…4월 스마트 팩토리 시대...",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202503200858528450830",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202503200858528450830",
+			"description":"8천평 부지에 생산시설 구축…연간 생산능력 2300억 이상 목표 첨단 로봇자동화 전문기업 유일로보틱스가 인천 <b>청라<\/b>국제도시에 건설 중인 신 본사의 공정률이 95%에 달해 ‘4월 <b>청라<\/b> 시대’ 개막을 앞두고 있다고 20일... ",
 			"pubDate":"Thu, 20 Mar 2025 09:40:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003428047?sid=110",
 			"description":"만약 지난해 인천 <b>청라<\/b>에서 발생한 중국산 배터리 탑재 벤츠차 화재 사고가 미국에서 발생하면 어떻게 될까. 아마 회사의 존폐를 좌우할 정도의 타격을 입게 될 것이다. 품질 불량으로 인한 비용은 초기엔 무시할... ",
 			"pubDate":"Thu, 20 Mar 2025 00:22:00 +0900"
-		},
-		{
-			"title":"[미리보는 이데일리 신문]고개 숙인 오세훈...오락가락 토허제에 시장만...",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=04618246642104960",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005966324?sid=100",
-			"description":"448m <b>청라<\/b>시티타워 제동 -“야간·휴일도 활짝...심야어린이병원 확대” △27면 -탄핵선고 임박하자...헌재·광화문 ‘알박기’ 전쟁 -“폭력 선동땐 과거보다 엄한 형벌” -의대총장들, 내일까지 의대생 휴학계 모두... ",
-			"pubDate":"Wed, 19 Mar 2025 22:10:00 +0900"
 		}
 	]
 }
