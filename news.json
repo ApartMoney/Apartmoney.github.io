@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 30 Mar 2025 16:30:01 +0900",
-	"total":258722,
+	"lastBuildDate":"Sun, 30 Mar 2025 16:40:01 +0900",
+	"total":258723,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"국토부, 전기차 화재 안전관리 일반건축물까지 확대",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2028935",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2028935",
+			"description":"이번 매뉴얼은 지난해 8월 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 전기차 화재를 계기로 정부가 발표한 '전기차 화재 안전관리 대책' 후속 조치다. 지난해 12월 공동주택 대상 매뉴얼에 이어 대형마트와 병원... ",
+			"pubDate":"Sun, 30 Mar 2025 16:30:00 +0900"
+		},
 		{
 			"title":"[동정] 보령시장",
 			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1081638",
@@ -47,17 +54,17 @@
 			"pubDate":"Sun, 30 Mar 2025 15:03:00 +0900"
 		},
 		{
-			"title":"대형마트·병원·회사에 전기차 화재 안전 매뉴얼 배포",
-			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1477892",
-			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1477892",
-			"description":"이번 매뉴얼은 지난해 8월 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 화재 사고를 계기로 정부가 발표한 '전기차 화재 안전관리 대책'의 후속 조치로 마련했습니다. 이번 매뉴얼은 일반건축물에서 날 수 있는 전기차 화재에... ",
-			"pubDate":"Sun, 30 Mar 2025 14:54:00 +0900"
-		},
-		{
 			"title":"[동정] 김동일 보령시장, <b>청라<\/b> 농공단지 입주업체 준공식",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1132768",
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1132768",
 			"description":"김동일 보령시장 김동일 충남 보령시장은 31일 오전 11시 <b>청라<\/b> 농공단지 마루다움 보령공장에서 열리는 <b>청라<\/b> 농공단지 입주업체 준공식에 참석.",
+			"pubDate":"Sun, 30 Mar 2025 14:54:00 +0900"
+		},
+		{
+			"title":"대형마트·병원·회사에 전기차 화재 안전 매뉴얼 배포",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1477892",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1477892",
+			"description":"이번 매뉴얼은 지난해 8월 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 화재 사고를 계기로 정부가 발표한 '전기차 화재 안전관리 대책'의 후속 조치로 마련했습니다. 이번 매뉴얼은 일반건축물에서 날 수 있는 전기차 화재에... ",
 			"pubDate":"Sun, 30 Mar 2025 14:54:00 +0900"
 		},
 		{
@@ -110,13 +117,6 @@
 			"pubDate":"Sun, 30 Mar 2025 11:21:00 +0900"
 		},
 		{
-			"title":"&quot;전기차 화재 땐 이렇게&quot;…국토부, 안전 매뉴얼 배포",
-			"originallink":"https:\/\/www.hankyung.com\/article\/202503297518i",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005112471?sid=101",
-			"description":"이번 매뉴얼은 지난해 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재를 계기로 정부가 발표한 ‘전기차 화재 안전관리 대책’의 후속조치로 마련됐다. 전기차는 2018년 5만6000여 대에서 지난해 68만 대로 약... ",
-			"pubDate":"Sun, 30 Mar 2025 11:01:00 +0900"
-		},
-		{
 			"title":"국토부, 대형마트·오피스 전기차 화재 안전 매뉴얼 배포",
 			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2GQG2XRARN",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004467644?sid=101",
@@ -124,11 +124,11 @@
 			"pubDate":"Sun, 30 Mar 2025 11:01:00 +0900"
 		},
 		{
-			"title":"국토부, 전기차 화재 안전 매뉴얼 배포…초기 대응 역량 강화",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20250330_0003118765",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013151257?sid=101",
-			"description":"이번 매뉴얼은 지난해 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재를 계기로 정부가 발표한 '전기차 화재 안전관리 대책'의 후속 조치로 마련됐다. 지난 2023년 12월 공동주택 대상 매뉴얼 배포에 이어... ",
-			"pubDate":"Sun, 30 Mar 2025 11:00:00 +0900"
+			"title":"&quot;전기차 화재 땐 이렇게&quot;…국토부, 안전 매뉴얼 배포",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202503297518i",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005112471?sid=101",
+			"description":"이번 매뉴얼은 지난해 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재를 계기로 정부가 발표한 ‘전기차 화재 안전관리 대책’의 후속조치로 마련됐다. 전기차는 2018년 5만6000여 대에서 지난해 68만 대로 약... ",
+			"pubDate":"Sun, 30 Mar 2025 11:01:00 +0900"
 		},
 		{
 			"title":"국토부, 일반건축물 전기차 화재 안전 매뉴얼 배포",
@@ -138,10 +138,10 @@
 			"pubDate":"Sun, 30 Mar 2025 11:00:00 +0900"
 		},
 		{
-			"title":"&quot;차량 화재시 이렇게&quot;…국토부, 전기차 화재 대응 매뉴얼 배포",
-			"originallink":"https:\/\/www.news1.kr\/realestate\/general\/5736228",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0008161591?sid=101",
-			"description":"오는 31일부터 배포되는 이번 매뉴얼은 지난해 8월 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 전기차 화재를 계기로 정부가 발표한 '전기차 화재 안전관리 대책'의 후속조치로 마련된 것이다. 20323년 12월 공동주택 대상... ",
+			"title":"국토부, 전기차 화재 안전 매뉴얼 배포…초기 대응 역량 강화",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20250330_0003118765",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013151257?sid=101",
+			"description":"이번 매뉴얼은 지난해 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 전기차 화재를 계기로 정부가 발표한 '전기차 화재 안전관리 대책'의 후속 조치로 마련됐다. 지난 2023년 12월 공동주택 대상 매뉴얼 배포에 이어... ",
 			"pubDate":"Sun, 30 Mar 2025 11:00:00 +0900"
 		},
 		{
@@ -149,6 +149,13 @@
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20250328134200003?input=1195m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015298182?sid=101",
 			"description":"이번 매뉴얼은 지난해 8월 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 화재 사고를 계기로 정부가 발표한 '전기차 화재 안전관리 대책'의 후속 조치로 마련했다. 지난 2023년 12월 아파트 등 공동주택에 매뉴얼을 배포한 데... ",
+			"pubDate":"Sun, 30 Mar 2025 11:00:00 +0900"
+		},
+		{
+			"title":"&quot;차량 화재시 이렇게&quot;…국토부, 전기차 화재 대응 매뉴얼 배포",
+			"originallink":"https:\/\/www.news1.kr\/realestate\/general\/5736228",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0008161591?sid=101",
+			"description":"오는 31일부터 배포되는 이번 매뉴얼은 지난해 8월 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 전기차 화재를 계기로 정부가 발표한 '전기차 화재 안전관리 대책'의 후속조치로 마련된 것이다. 20323년 12월 공동주택 대상... ",
 			"pubDate":"Sun, 30 Mar 2025 11:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0004023140?sid=103",
 			"description":"인천 <b>청라<\/b>=이동준 기자 최근 신차보다 중고차를 구매하려는 젊은 소비자들이 늘고 있다. 2030세대가 중고차를 구매하는 가장 큰 이유는 ‘경제적 부담’ 때문이다. 신차값은 ‘오늘이 가장 싸다’라는 말이 나올... ",
 			"pubDate":"Fri, 28 Mar 2025 22:02:00 +0900"
-		},
-		{
-			"title":"올 연말 개통 '제3연륙교'…명칭 두고 신경전",
-			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1477798",
-			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1477798",
-			"description":"앞서 중구가 '영종하늘대교'를 내세운 반면 서구는 <b>청라<\/b>대교로 맞서고 있습니다. 신종한 기자입니다. 【기자】 인천공항이 위치한 영종과 서구의 <b>청라<\/b>국제도시를 잇는 제3연륙교. 바다 위 공사가 한 창인 가운데 현재... ",
-			"pubDate":"Fri, 28 Mar 2025 20:08:00 +0900"
 		}
 	]
 }
