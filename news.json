@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 04 Apr 2025 03:00:01 +0900",
-	"total":259005,
+	"lastBuildDate":"Fri, 04 Apr 2025 03:10:01 +0900",
+	"total":259006,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20250404\/131344865\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003625952?sid=102",
+			"description":"19일 오전 10시∼11시 반 <b>청라<\/b>호수도서관 세미나실1. □인문학 교실=‘그림 읽기, 생각 나누기―인상주의 톺아보기’ 참가자 20명. 26일∼5월 3일 매주 토요일 오전 10시∼낮 12시 송도국제기구도서관.",
+			"pubDate":"Fri, 04 Apr 2025 03:05:00 +0900"
+		},
 		{
 			"title":"제43회 대한민국연극제, 7월 인천서 화려한 막 올린다",
 			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=333773",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=108622",
 			"description":"개막식이 열릴 상상플랫폼을 비롯해 인천문화예술회관, 서구문화회관, <b>청라<\/b>블로노바홀, 문학시이터, 아트플랫폼 등지에서 다양한 연극 공연과 부대행사를 진행한다. 젊은 예술인들이 참여하는 '네트워킹 페스티벌... ",
 			"pubDate":"Thu, 03 Apr 2025 12:08:00 +0900"
-		},
-		{
-			"title":"제43회 대한민국연극제 17년 만에 인천에서 펼쳐진다!",
-			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=2025040310563455286e1e092a28_29",
-			"link":"http:\/\/www.globalepic.co.kr\/view.php?ud=2025040310563455286e1e092a28_29",
-			"description":"17년 만에 인천에서 열리는 이번 대한민국연극제는 ‘연극, 인천에 상륙하다’라는 슬로건을 내세워 7월 5일 상상플랫폼에서 개막식을 시작으로, 7월 27일까지 ▲인천문화예술회관 소공연장 ▲서구문화회관 ▲<b>청라<\/b>... ",
-			"pubDate":"Thu, 03 Apr 2025 12:04:00 +0900"
 		}
 	]
 }
