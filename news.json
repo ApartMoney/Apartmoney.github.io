@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Tue, 08 Apr 2025 10:00:01 +0900",
-	"total":259252,
+	"lastBuildDate":"Tue, 08 Apr 2025 10:10:01 +0900",
+	"total":259255,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 시내버스 영종 노선 신설 등 10개 노선 개편…4월 말부터 순차...",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20250408580036",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000069258?sid=102",
+			"description":"8일 시에 따르면 영종국제도시부터 인천공항을 잇는 영종 노선과 검단신도시 일대 신축 아파트를 잇는 검단 노선, <b>청라<\/b>국제도시역부터 아시아드경기장을 연결하는 <b>청라<\/b> 노선 등 모두 6개의 시내버스 노선을 신설한다.... ",
+			"pubDate":"Tue, 08 Apr 2025 10:07:00 +0900"
+		},
+		{
+			"title":"인천시, 시내버스 영종·검단·<b>청라<\/b> 신설 6개… 4개 노선 변경",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3255320",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3255320",
+			"description":"영종국제도시와 <b>청라<\/b> 등 내륙지역을 직접 연결한다. 공항 이용객과 통근자 등 교통수요가 집중되는 지역으로, BRT 및 도시철도와의 환승 편의도 높일 수 있을 것으로 보인다. 검단신도시와 <b>청라<\/b>국제도시 등 대규모... ",
+			"pubDate":"Tue, 08 Apr 2025 10:04:00 +0900"
+		},
+		{
+			"title":"인천시, 올해 시내버스 노선 6개 신설·4개 변경…대중교통 이용 편의 증...",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1284871",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1284871",
+			"description":"이를 통해 제3연륙교 개통에 맞춰 영종과 <b>청라<\/b> 등 내륙 연계가 강화돼 간선급행버스체계(BRT)와 주요 도시철도와의 환승이 편리해지고, 대규모 아파트단지가 조성되는 지역에는 대중교통 이용 수요를 충족시킬... ",
+			"pubDate":"Tue, 08 Apr 2025 10:02:00 +0900"
+		},
 		{
 			"title":"인천 버스노선 10개 조정··· 제3연륙교 개통·신도시 입주 대응",
 			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=300444",
@@ -68,17 +89,17 @@
 			"pubDate":"Tue, 08 Apr 2025 09:34:00 +0900"
 		},
 		{
-			"title":"인천시, 시내버스 10개 노선 개편…영종도 노선 12월 신설",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20250408044700065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015316344?sid=101",
-			"description":"영종도 노선은 올해 말 제3연륙교 개통에 맞춰 서구 석남동∼<b>청라<\/b>∼인천국제공항, 루원시티∼<b>청라<\/b>∼영종하늘도시 구간을 운행할 예정이다. 서구 신설 노선은 검단신도시, 경서지구 등 대규모 아파트 단지 조성 지역의... ",
-			"pubDate":"Tue, 08 Apr 2025 09:24:00 +0900"
-		},
-		{
 			"title":"인천 시내버스 영종 노선 신설 등 10개 노선 개편!",
 			"originallink":"https:\/\/www.viva100.com\/article\/20250408500234",
 			"link":"https:\/\/www.viva100.com\/article\/20250408500234",
 			"description":"이번 개편으로 제3연륙교 개통에 맞춰 영종과 <b>청라<\/b> 등의 내륙연계가 강화되어 BRT 및 주요 도시철도와의 환승이 용이(가칭 281번, 가칭 282번)하게 됐다. 가칭 281번과 282번은 공항 이용객(출‧퇴근자 포함) 증가에 따라... ",
+			"pubDate":"Tue, 08 Apr 2025 09:24:00 +0900"
+		},
+		{
+			"title":"인천시, 시내버스 10개 노선 개편…영종도 노선 12월 신설",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20250408044700065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015316344?sid=101",
+			"description":"영종도 노선은 올해 말 제3연륙교 개통에 맞춰 서구 석남동∼<b>청라<\/b>∼인천국제공항, 루원시티∼<b>청라<\/b>∼영종하늘도시 구간을 운행할 예정이다. 서구 신설 노선은 검단신도시, 경서지구 등 대규모 아파트 단지 조성 지역의... ",
 			"pubDate":"Tue, 08 Apr 2025 09:24:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.ksmnews.co.kr\/news\/view.php?idx=533627",
 			"description":"10개 장소는 반월당역, 중앙로역, 동대구역, 상인역, 명덕역, 하양역, 계명대역, <b>청라<\/b>언덕역, 영남대역 대합실과 청사 로비이다. ‘공유 우산 서비스’는 시민들이 갑작스러운 비에 대비할 수 있도록 우산을 무료로 대여해... ",
 			"pubDate":"Mon, 07 Apr 2025 20:44:00 +0900"
-		},
-		{
-			"title":"&quot;지하철역서도 우산 빌려 드립니다&quot;",
-			"originallink":"https:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=1039591",
-			"link":"https:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=1039591",
-			"description":"10개 장소는 반월당역, 중앙로역, 동대구역, 상인역, 명덕역, 하양역, 계명대역, <b>청라<\/b>언덕역, 영남대역 대합실과 청사 로비다. 시스템 이용 방법은 스마트폰 어플 '펴다'를 내려받은 후 우산에 부착된 QR코드를 인식해... ",
-			"pubDate":"Mon, 07 Apr 2025 20:26:00 +0900"
-		},
-		{
-			"title":"'문화행사' 인천에 다 있네",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1139287",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1139287",
-			"description":"7월에는 17년 만에 인천에서 펼쳐지는 제43회 대한민국연극제가 기다리고 있다.'연극, 인천에 상륙하다'는 슬로건을 내세워 7월 5일부터 27일까지 인천문화예술회관과 서구문화회관, <b>청라<\/b>블루노바홀, 문학시어터... ",
-			"pubDate":"Mon, 07 Apr 2025 20:18:00 +0900"
-		},
-		{
-			"title":"'장기 표류' 딱지 떼고 속도 올리는 인천로봇랜드",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1139337",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1139337",
-			"description":"&lt;인천도시공사 제공&gt; 17년 동안 표류해온 인천 <b>청라<\/b>국제도시의 '인천로봇랜드'가 기반시설 공사에 들어갔다. 7일 iH(인천도시공사)에 따르면 로봇산업 클러스터 조성을 위한 국책사업인 인천로봇랜드가 지난달... ",
-			"pubDate":"Mon, 07 Apr 2025 20:18:00 +0900"
 		}
 	]
 }
