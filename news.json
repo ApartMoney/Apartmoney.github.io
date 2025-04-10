@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 10 Apr 2025 17:50:01 +0900",
-	"total":259432,
+	"lastBuildDate":"Thu, 10 Apr 2025 18:00:01 +0900",
+	"total":259433,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;모두가 안전하게 등교할 수 있는 인천을 위해&quot;",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=414781",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=414781",
+			"description":"시행령이 개정되어서 앞으로도 안정적으로 운영이 될 것으로 저희는 예측하고 있습니다.] 인천학생성공버스는 현재 연수구 송도, 서구 <b>청라<\/b>·경서, 서구 검단신도시, 남동구 서창·남촌, 부평구 일신동 , 중구 영종 등 6개... ",
+			"pubDate":"Thu, 10 Apr 2025 17:58:00 +0900"
+		},
 		{
 			"title":"[<b>청라<\/b>언덕-홍준표] &quot;지방은 또 잊혔다&quot;",
 			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2025041011011677468",
@@ -40,17 +47,17 @@
 			"pubDate":"Thu, 10 Apr 2025 15:04:00 +0900"
 		},
 		{
-			"title":"인천시교육청, '학생성공버스' 직접 운영한다",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=414752",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=414752",
-			"description":"현재 연수구 송도, 서구 <b>청라<\/b>·경서, 서구 검단신도시, 남동구 서창·남촌, 부평구 일신동 , 중구 영종 등 6개 권역에서 51대가 운행 중입니다. 그러나 국토교통부는 이 사업에 위법 소지가 있다고 제동을 걸었습니다.... ",
-			"pubDate":"Thu, 10 Apr 2025 14:42:00 +0900"
-		},
-		{
 			"title":"한국도 '나트륨 배터리' 상용화 준비 착착",
 			"originallink":"http:\/\/www.thelec.kr\/news\/articleView.html?idxno=34687",
 			"link":"http:\/\/www.thelec.kr\/news\/articleView.html?idxno=34687",
 			"description":"지난해 인천 <b>청라<\/b>동 아파트 지하주차장에서 발생한 메르세데스-벤츠 EQE350 화재 차량의 배터리 공급사다. 이듬해 1월에는 JAC가 나트륨이온 배터리 탑재 전기차를 출시했다. 배터리 공급업체는 하이나배터리다. 두... ",
+			"pubDate":"Thu, 10 Apr 2025 14:42:00 +0900"
+		},
+		{
+			"title":"인천시교육청, '학생성공버스' 직접 운영한다",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=414752",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=414752",
+			"description":"현재 연수구 송도, 서구 <b>청라<\/b>·경서, 서구 검단신도시, 남동구 서창·남촌, 부평구 일신동 , 중구 영종 등 6개 권역에서 51대가 운행 중입니다. 그러나 국토교통부는 이 사업에 위법 소지가 있다고 제동을 걸었습니다.... ",
 			"pubDate":"Thu, 10 Apr 2025 14:42:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/fpn119.co.kr\/232684",
 			"description":"▲ 이오씨의 화재예방 솔루션  © 이오씨 제공 = 인천 <b>청라<\/b> 전기차 화재를 계기로 예방 시스템에 대한 관심이 높아지는 가운데 신속한 화재 감지는 물론 관련 사실을 관계자에게 알려주는 솔루션이 주목받고 있다. 이오씨... ",
 			"pubDate":"Wed, 09 Apr 2025 16:54:00 +0900"
-		},
-		{
-			"title":"왜 유정복 인천시장 대선 후보 나섰나?",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=425066",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=425066",
-			"description":"재선에 성공한 유 시장은 인천발 KTX, GTX-B, 서울7호선 <b>청라<\/b> 연장, 경인고속도로 일반도로 전환, 검단 신도시·루원시티 착공, 제3연륙교 건설, 경인고속도로 지하화, 아이 플러스 1억드림, 천원주택 등 굵직한 사업들을... ",
-			"pubDate":"Wed, 09 Apr 2025 16:42:00 +0900"
 		}
 	]
 }
