@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 11 Apr 2025 10:00:01 +0900",
-	"total":259445,
+	"lastBuildDate":"Fri, 11 Apr 2025 10:10:01 +0900",
+	"total":259446,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"ABC 다음은 로봇? SK ‘휴머노이드 로봇 전쟁’ 뛰어든다",
+			"originallink":"https:\/\/magazine.hankyung.com\/business\/article\/202504091768b",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/050\/0000089150?sid=101",
+			"description":"유일로보틱스는 4월 중순 인천 <b>청라<\/b>에 5000평 규모의 신공장 완공을 앞두고 있는데 신공장이 완공되면 연간 생산능력이 약 2300억원 규모로 확대된다. SK온의 미국 배터리 공장 자동화 설비에 들어가는 로봇을 개발하고... ",
+			"pubDate":"Fri, 11 Apr 2025 10:06:00 +0900"
+		},
 		{
 			"title":"&quot;여의도까지 20분 만에 간다&quot;…'함박웃음' 짓는 이 동네 [집코노미-집집...",
 			"originallink":"https:\/\/www.hankyung.com\/article\/202504088970i",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003627270?sid=101",
 			"description":"■ 도요타-렉서스, 인천 <b>청라<\/b> 서비스센터 오픈 한국토요타자동차가 인천 서구 가좌동에 ‘도요타·렉서스 <b>청라<\/b> 서비스센터’를 개관했다고 8일 밝혔다. 기존 경기 부천시 렉서스 서비스센터를 확장 이전한 이 센터는... ",
 			"pubDate":"Thu, 10 Apr 2025 03:04:00 +0900"
-		},
-		{
-			"title":"&quot;전북자치도 산불 진화용 헬기들 평균 30년 넘어 노후 '심각'…대형화 ...",
-			"originallink":"http:\/\/www.jbsori.com\/news\/articleView.html?idxno=15449",
-			"link":"http:\/\/www.jbsori.com\/news\/articleView.html?idxno=15449",
-			"description":"인천 <b>청라<\/b>지구에 분양한 아파트에 후보자의 아들이 83 대 1의 경쟁률을 뚫고, 7억원 대 로얄층에 당첨되면서 특혜 의혹이 제기됐고, 아내가 자녀들에게 증여 한도를 넘는 금액을 송금하면서도 증여세를 내지 않았다는... ",
-			"pubDate":"Thu, 10 Apr 2025 02:48:00 +0900"
 		}
 	]
 }
