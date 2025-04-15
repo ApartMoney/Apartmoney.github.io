@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 15 Apr 2025 18:30:01 +0900",
-	"total":259563,
+	"lastBuildDate":"Tue, 15 Apr 2025 18:40:01 +0900",
+	"total":259564,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 동구, 철도망 확충에 ‘사통팔달’ 도시 기대감↑",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1486088\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002945593?sid=102",
+			"description":"15일 인천 동구에 따르면 인천 3호선은 송도에서 출발해 동인천역, 송림오거리 등을 거쳐 <b>청라<\/b>와 검단을 연결하는 순환노선으로, 총연장 34.64km, 정거장 19개소가 계획돼 있다. 인천3호선 일부 구간 중 동인천~송림오거리... ",
+			"pubDate":"Tue, 15 Apr 2025 18:35:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>호수공원 녹지공간·야간 경관 조성",
 			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=201614",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1138178",
 			"description":"인천경제자유구역청이 <b>청라<\/b>호수공원 내 녹지공간을 확충하고 야간경관을 개선하는 '<b>청라<\/b>호수공원 꿈의 숲 조성사업'을 본격 추진한다. 이 사업은 야외음악당과 멀티프라자 일대에 그늘 숲을 조성하고 공원 보행로 정비... ",
 			"pubDate":"Tue, 15 Apr 2025 12:04:00 +0900"
-		},
-		{
-			"title":"동구, 철도망 확충 본격화…'사통팔달' 교통도시 기대",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1138157",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1138157",
-			"description":"인천시가 추진 중인 인천3호선은 송도국제도시에서 출발해 동인천역, 송림오거리, <b>청라<\/b>·검단을 잇는 순환형 도시철도망으로 총연장 34.64km, 정거장 19개소가 계획돼 있다. 실제로 인천3호선 일부 구간 중 동인천... ",
-			"pubDate":"Tue, 15 Apr 2025 11:44:00 +0900"
 		}
 	]
 }
