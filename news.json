@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Tue, 22 Apr 2025 10:20:01 +0900",
-	"total":259942,
+	"lastBuildDate":"Tue, 22 Apr 2025 10:30:00 +0900",
+	"total":259945,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 영종·<b>청라<\/b>에 스마트 횡단보도 설치",
+			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=205725",
+			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=205725",
+			"description":"인천경제자유구역청은 영종과 <b>청라<\/b>국제도시에 최신 정보통신기술(ICT)을 접목한 스마트 횡단보도 설치... 설치 규모는 지역 주민 및 인천시 교육청의 요구를 반영해 영종과 <b>청라<\/b>국제도시 내 28개소에 33개 서비스를... ",
+			"pubDate":"Tue, 22 Apr 2025 10:26:00 +0900"
+		},
+		{
+			"title":"인천경제청, 영종·<b>청라<\/b>에 스마트 횡단보도 설치한다",
+			"originallink":"http:\/\/www.koreareport.co.kr\/news\/articleView.html?idxno=35376",
+			"link":"http:\/\/www.koreareport.co.kr\/news\/articleView.html?idxno=35376",
+			"description":"인천경제자유구역청(청장 윤원석)에서 영종과 <b>청라<\/b>국제도시에 최신 정보통신기술(ICT)을 접목한 스마트... 설치 규모는 지역주민 및 인천광역시 교육청의 요구를 반영하여 영종과 <b>청라<\/b>국제도시 내 28개소에 33개 서비스를... ",
+			"pubDate":"Tue, 22 Apr 2025 10:24:00 +0900"
+		},
+		{
+			"title":"진흥기업, '시흥 헤링턴 타워 709'에 국내 최초 배관 준불연재 적용",
+			"originallink":"https:\/\/www.meconomynews.com\/news\/articleView.html?idxno=111533",
+			"link":"https:\/\/www.meconomynews.com\/news\/articleView.html?idxno=111533",
+			"description":"2024년 인천 <b>청라<\/b> 아파트에서 발생한 차량 화재가 그 대표적인 사례다. 당시 사고로 입주민들은 상당 기간 정상적인 생활을 하지 못했으며, 현재까지도 집에 돌아가지 못하는 상황이다. 또한, 지난 2월 부산 기장군 리조트... ",
+			"pubDate":"Tue, 22 Apr 2025 10:24:00 +0900"
+		},
 		{
 			"title":"영종·<b>청라<\/b> '스마트 횡단보도'…스쿨존·사고다발지역 28곳",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20250422_0003148412",
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=311932",
 			"description":"시범사업은 지난해 8월 인천 <b>청라<\/b> 전기차 화재 사고를 계기로 마련된 정부의 '전기차 화재 안전관리 대책'의 일환으로 현대차·기아, 비엠더블유코리아 등 주요 자동차제작사의 참여로 진행한다. 대상차량은 총 4만... ",
 			"pubDate":"Mon, 21 Apr 2025 20:16:00 +0900"
-		},
-		{
-			"title":"[사설] 검단신도시 광역 교통 개선을 반기며",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1286482",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1286482",
-			"description":"국토부 대광위는 서울 7호선 <b>청라<\/b> 연장선을 비롯한 광역 교통망 개선에도 힘을 쏟기로 했다. 인천 1호선 검단... 인천시와 관계기관은 긴밀히 협력해 서울 7호선 <b>청라<\/b> 연장선, 검단~대곡 광역도로 건설 등 광역 교통망... ",
-			"pubDate":"Mon, 21 Apr 2025 20:06:00 +0900"
-		},
-		{
-			"title":"불타는 보온재 막는 보호재, 시흥 오피스텔에 첫 시공",
-			"originallink":"http:\/\/fpn119.co.kr\/233264",
-			"link":"http:\/\/fpn119.co.kr\/233264",
-			"description":"지난 2024년 인천 <b>청라<\/b>의 한 아파트 지하주차장에 세워진 전기차에서 시작된 불은 배관 보온재를 타고 급속히 번져 막대한 피해를 남겼다. 지난 2월 6명이 숨진 부산 반얀트리 리조트 화재 역시 배관 보온재가... ",
-			"pubDate":"Mon, 21 Apr 2025 19:08:00 +0900"
-		},
-		{
-			"title":"[인터뷰] “화재를 미리 예측한다”…열화상 카메라 시장의 판도를 바꾼...",
-			"originallink":"https:\/\/www.news2day.co.kr\/article\/20250421500236",
-			"link":"https:\/\/www.news2day.co.kr\/article\/20250421500236",
-			"description":"▲예산군청 전기차 충전소 ▲남양주 아파트 전기차 충전소 ▲성남시 전기버스 충전소 ▲파주시 전기버스 충전소 ▲서울시 전기버스 충전소(63빌딩) ▲인천시 <b>청라<\/b> 쓰레기 소각장 ▲울산시 SK 가스 공장 화재 감시... ",
-			"pubDate":"Mon, 21 Apr 2025 18:56:00 +0900"
 		}
 	]
 }
