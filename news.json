@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 27 Apr 2025 23:40:01 +0900",
-	"total":260256,
+	"lastBuildDate":"Sun, 27 Apr 2025 23:50:01 +0900",
+	"total":260257,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"르노코리아, 코스트코 일산점에서 그랑 콜레오스 특별 전시",
+			"originallink":"http:\/\/www.rpm9.com\/news\/article.html?id=20250427090013",
+			"link":"http:\/\/www.rpm9.com\/news\/article.html?id=20250427090013",
+			"description":"코스트코 <b>청라<\/b>점을 시작으로 대구혁신점, 하남점, 세종점을 거쳐 다섯 번째 전시 거점으로 코스트코 일산점을 선정했다. 르노코리아 영업 및 네트워크 총괄 황재섭 전무는 “올해 코스트코 4개 지점에서 진행한 그랑... ",
+			"pubDate":"Sun, 27 Apr 2025 23:44:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>호수공원 음악분수 가동 &quot;시민들 마음에 폭싹 들었수다&quot;",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3262863",
@@ -40,17 +47,17 @@
 			"pubDate":"Sun, 27 Apr 2025 20:44:00 +0900"
 		},
 		{
-			"title":"인천경제청, <b>청라<\/b>호수공원 음악분수 &quot;시민들 마음에 폭싹 들었수다&quot;",
-			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=244740",
-			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=244740",
-			"description":"<b>청라<\/b>호수공원 음악분수 전경.  [사진=인천경제청] 인천경제자유구역청은 <b>청라<\/b>호수공원 음악분수가 동절기 휴식을 마치고, 4월 26일부터 운영을 재개했다고 밝혔다. 서구의 대표적인 야간 명소로 자리잡은 <b>청라<\/b>호수공원... ",
-			"pubDate":"Sun, 27 Apr 2025 19:18:00 +0900"
-		},
-		{
 			"title":"'전기차 충전기 조례' 울산서 전국 첫발",
 			"originallink":"http:\/\/www.ujeil.com\/news\/articleView.html?idxno=366180",
 			"link":"http:\/\/www.ujeil.com\/news\/articleView.html?idxno=366180",
 			"description":"지난해 8월 1일 인천시 서구 <b>청라<\/b>국제도시의 한 아파트에서 발생한 전기차 화재로 지하주차장 전기차 화재에 대해 각종 안전대책이 쏟아져 나왔지만, 지방정부가 지원조례를 제정해 이를 제도로 시행하는 것은 울산시가... ",
+			"pubDate":"Sun, 27 Apr 2025 19:18:00 +0900"
+		},
+		{
+			"title":"인천경제청, <b>청라<\/b>호수공원 음악분수 &quot;시민들 마음에 폭싹 들었수다&quot;",
+			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=244740",
+			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=244740",
+			"description":"<b>청라<\/b>호수공원 음악분수 전경.  [사진=인천경제청] 인천경제자유구역청은 <b>청라<\/b>호수공원 음악분수가 동절기 휴식을 마치고, 4월 26일부터 운영을 재개했다고 밝혔다. 서구의 대표적인 야간 명소로 자리잡은 <b>청라<\/b>호수공원... ",
 			"pubDate":"Sun, 27 Apr 2025 19:18:00 +0900"
 		},
 		{
@@ -166,13 +173,6 @@
 			"pubDate":"Sun, 27 Apr 2025 15:42:00 +0900"
 		},
 		{
-			"title":"[전기차 화재 해법 찾는다]〈1〉전기차 주차거부 민원 1→50건…“포비...",
-			"originallink":"https:\/\/www.etnews.com\/20250425000306",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003307393?sid=103",
-			"description":"전기차 화재 포비아(공포증)는 작년 8월 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 화재사고가 분수령이... 인천 <b>청라<\/b> 화재사고 후 8개월이 지났지만 지하주차장을 중심으로 건물주들의 주차거부 현상이 지속되고... ",
-			"pubDate":"Sun, 27 Apr 2025 15:01:00 +0900"
-		},
-		{
 			"title":"[전기차 화재 해법 찾는다] 〈1〉지난해 EV 10만대당 화재 건수, 내연차...",
 			"originallink":"https:\/\/www.etnews.com\/20250425000304",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003307396?sid=103",
@@ -184,6 +184,13 @@
 			"originallink":"https:\/\/www.etnews.com\/20250425000205",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003307397?sid=103",
 			"description":"한국전기차사용자협회에 접수된 민원은 작년 8월 인천 <b>청라<\/b> 화재 전 연간 1~2건 수준이었지만, 최근 6개월 동안 50건 이상으로 급격히 늘었다. 현 추세라면 전기차 주차 거부 사례는 연간 100건을 넘을 것으로... ",
+			"pubDate":"Sun, 27 Apr 2025 15:01:00 +0900"
+		},
+		{
+			"title":"[전기차 화재 해법 찾는다]〈1〉전기차 주차거부 민원 1→50건…“포비...",
+			"originallink":"https:\/\/www.etnews.com\/20250425000306",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003307393?sid=103",
+			"description":"전기차 화재 포비아(공포증)는 작년 8월 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 화재사고가 분수령이... 인천 <b>청라<\/b> 화재사고 후 8개월이 지났지만 지하주차장을 중심으로 건물주들의 주차거부 현상이 지속되고... ",
 			"pubDate":"Sun, 27 Apr 2025 15:01:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1141871",
 			"description":"가동되는 수경시설은 인천대공원과 송도센트럴파크, <b>청라<\/b>호수공원 등 주요 거점공원의 경관 분수와 인공폭포, 계류시설 등이다. 수경시설에서 분수나 폭포 형태로 떨어지는 미세한 물방울은 공기 중 음이온 농도를... ",
 			"pubDate":"Sun, 27 Apr 2025 14:36:00 +0900"
-		},
-		{
-			"title":"건물 사이에 피어난 ‘쓰레기’…수년 째 방치된 <b>청라<\/b>동 공터",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=842197",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=842197",
-			"description":"서인천농협 바로 옆 부지 몇 년째 방치 2021년 ㈜<b>청라<\/b>리얼디앤씨로 소유권 이전되고 나서 변경 없어 “쓰레기들이 막 널부러져 있는데…보기 안좋죠.” 27일 <b>청라<\/b>동 167-3번지. 세 개의 컨테이너 박스와 제초되지 않은... ",
-			"pubDate":"Sun, 27 Apr 2025 13:54:00 +0900"
 		}
 	]
 }
