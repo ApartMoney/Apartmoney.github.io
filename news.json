@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 27 Apr 2025 18:50:01 +0900",
-	"total":260247,
+	"lastBuildDate":"Sun, 27 Apr 2025 19:00:01 +0900",
+	"total":260248,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[데스크칼럼] 유정복 인천시장 대선 출마, 득이 더 많다",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363691089",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363691089",
+			"description":"특히 원도심과 신도시(송도, <b>청라<\/b>, 영종)간에는 같은 인천임에도 불구하고 상호간의 접점과 교류도 그리 많지도 않은데다 시장이 어느 한쪽 개발에만 과하게 집중하면 다른 쪽에서는 자연히 불만이 생기기 쉬운 구조다.... ",
+			"pubDate":"Sun, 27 Apr 2025 18:56:00 +0900"
+		},
 		{
 			"title":"지난해말부터 ‘인천 서구 한글사랑 조례’ 시행 [주목! 이 조례·(15)]",
 			"originallink":"https:\/\/www.kyeongin.com\/article\/1737695",
@@ -40,17 +47,17 @@
 			"pubDate":"Sun, 27 Apr 2025 17:01:00 +0900"
 		},
 		{
-			"title":"[르포]中 가격 전쟁 파고 '거뜬'…현대무벡스 '지능형 물류'의 심장을 가...",
-			"originallink":"http:\/\/news.bizwatch.co.kr\/article\/industry\/2025\/04\/27\/0001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/648\/0000035671?sid=101",
-			"description":"<b>청라<\/b> R&amp;D센터에서 확인한 자율주행 운반 로봇(AGV), 갠트리로봇, 스태커크레인(SRM)은 이 같은 전략을 현실로 옮기고 있었다. 기술이 바꾼 물류 동선 지난 23일 찾은 인천 <b>청라<\/b>국제도시 현대무벡스 R&amp;D센터. 한가운데 대형... ",
-			"pubDate":"Sun, 27 Apr 2025 17:00:00 +0900"
-		},
-		{
 			"title":"현대무벡스 &quot;100% 자체 설계&quot;... 스마트 물류 '게임체인저' 등극",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202504251736556988",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005341801?sid=101",
 			"description":"자체 설계 100% 활용 인천 <b>청라<\/b>국제도시에 위치한 현대무벡스 R&amp;D센터를 찾은 지난 23일, 센터 옆 실험 공간에서는 자동화 로봇들이 24시간 실시간으로 테스트를 진행하고 있었다. 스마트 물류 시장의 게임체인저로... ",
+			"pubDate":"Sun, 27 Apr 2025 17:00:00 +0900"
+		},
+		{
+			"title":"[르포]中 가격 전쟁 파고 '거뜬'…현대무벡스 '지능형 물류'의 심장을 가...",
+			"originallink":"http:\/\/news.bizwatch.co.kr\/article\/industry\/2025\/04\/27\/0001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/648\/0000035671?sid=101",
+			"description":"<b>청라<\/b> R&amp;D센터에서 확인한 자율주행 운반 로봇(AGV), 갠트리로봇, 스태커크레인(SRM)은 이 같은 전략을 현실로 옮기고 있었다. 기술이 바꾼 물류 동선 지난 23일 찾은 인천 <b>청라<\/b>국제도시 현대무벡스 R&amp;D센터. 한가운데 대형... ",
 			"pubDate":"Sun, 27 Apr 2025 17:00:00 +0900"
 		},
 		{
@@ -103,6 +110,13 @@
 			"pubDate":"Sun, 27 Apr 2025 15:42:00 +0900"
 		},
 		{
+			"title":"[전기차 화재 해법 찾는다]〈1〉전기차 주차거부 민원 1→50건…“포비...",
+			"originallink":"https:\/\/www.etnews.com\/20250425000306",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003307393?sid=103",
+			"description":"전기차 화재 포비아(공포증)는 작년 8월 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 화재사고가 분수령이... 인천 <b>청라<\/b> 화재사고 후 8개월이 지났지만 지하주차장을 중심으로 건물주들의 주차거부 현상이 지속되고... ",
+			"pubDate":"Sun, 27 Apr 2025 15:01:00 +0900"
+		},
+		{
 			"title":"[전기차 화재 해법 찾는다] 〈1〉지난해 EV 10만대당 화재 건수, 내연차...",
 			"originallink":"https:\/\/www.etnews.com\/20250425000304",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003307396?sid=103",
@@ -114,13 +128,6 @@
 			"originallink":"https:\/\/www.etnews.com\/20250425000205",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003307397?sid=103",
 			"description":"한국전기차사용자협회에 접수된 민원은 작년 8월 인천 <b>청라<\/b> 화재 전 연간 1~2건 수준이었지만, 최근 6개월 동안 50건 이상으로 급격히 늘었다. 현 추세라면 전기차 주차 거부 사례는 연간 100건을 넘을 것으로... ",
-			"pubDate":"Sun, 27 Apr 2025 15:01:00 +0900"
-		},
-		{
-			"title":"[전기차 화재 해법 찾는다]〈1〉전기차 주차거부 민원 1→50건…“포비...",
-			"originallink":"https:\/\/www.etnews.com\/20250425000306",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003307393?sid=103",
-			"description":"전기차 화재 포비아(공포증)는 작년 8월 1일 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 화재사고가 분수령이... 인천 <b>청라<\/b> 화재사고 후 8개월이 지났지만 지하주차장을 중심으로 건물주들의 주차거부 현상이 지속되고... ",
 			"pubDate":"Sun, 27 Apr 2025 15:01:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20250427029031423",
 			"description":"인천=에너지경제신문 송인호 기자 인천경제자유구역청은 27알 <b>청라<\/b>호수공원 음악분수가 동절기 휴식을 마치고 지난 26일부터 운영을 재개했다고 밝혔다. 서구의 대표적인 야간 명소로 자리잡은 <b>청라<\/b>호수공원... ",
 			"pubDate":"Sun, 27 Apr 2025 12:16:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>호수공원 음악분수 10월 12일까지 운영 재개",
-			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/20250427104255205514e0091f6_1\/article.html",
-			"link":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/20250427104255205514e0091f6_1\/article.html",
-			"description":"인천경제자유구역청은 <b>청라<\/b>호수공원 음악분수가 동절기 휴식을 마치고 지난 26일부터 운영을 재개했다고 27일 밝혔다. 서구의 대표적인 야간 명소로 자리잡은 <b>청라<\/b>호수공원 음악분수는 오는 10월 12일까지 약 6개월간... ",
-			"pubDate":"Sun, 27 Apr 2025 11:52:00 +0900"
 		}
 	]
 }
