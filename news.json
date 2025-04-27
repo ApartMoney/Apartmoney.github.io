@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 28 Apr 2025 08:10:01 +0900",
-	"total":260264,
+	"lastBuildDate":"Mon, 28 Apr 2025 08:20:01 +0900",
+	"total":260265,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하늘 달리는 시민의 발…10년간 인명사고 '0'",
+			"originallink":"https:\/\/www.yeongnam.com\/web\/view.php?key=20250428010002561",
+			"link":"https:\/\/www.yeongnam.com\/web\/view.php?key=20250428010002561",
+			"description":"서문시장, <b>청라<\/b>언덕, 달성공원, 수성못 등 대구 대표 관광지이자 주요 상권을 연결해 접근성을 높였다. 특히, 서문시장역은 3호선 전체 역 중 승객 이용(지난해 기준 연간 226만명)이 가장 많았다.대구는 모노레일... ",
+			"pubDate":"Mon, 28 Apr 2025 08:18:00 +0900"
+		},
 		{
 			"title":"[더벨][종합상사의 변신]'현금 두둑' LX인터, 거침없는 '투자'",
 			"originallink":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202504231000537560107627",
@@ -159,17 +166,17 @@
 			"pubDate":"Sun, 27 Apr 2025 17:01:00 +0900"
 		},
 		{
-			"title":"현대무벡스 &quot;100% 자체 설계&quot;... 스마트 물류 '게임체인저' 등극",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202504251736556988",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005341801?sid=101",
-			"description":"자체 설계 100% 활용 인천 <b>청라<\/b>국제도시에 위치한 현대무벡스 R&amp;D센터를 찾은 지난 23일, 센터 옆 실험 공간에서는 자동화 로봇들이 24시간 실시간으로 테스트를 진행하고 있었다. 스마트 물류 시장의 게임체인저로... ",
-			"pubDate":"Sun, 27 Apr 2025 17:00:00 +0900"
-		},
-		{
 			"title":"[르포]中 가격 전쟁 파고 '거뜬'…현대무벡스 '지능형 물류'의 심장을 가...",
 			"originallink":"http:\/\/news.bizwatch.co.kr\/article\/industry\/2025\/04\/27\/0001",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/648\/0000035671?sid=101",
 			"description":"<b>청라<\/b> R&amp;D센터에서 확인한 자율주행 운반 로봇(AGV), 갠트리로봇, 스태커크레인(SRM)은 이 같은 전략을 현실로 옮기고 있었다. 기술이 바꾼 물류 동선 지난 23일 찾은 인천 <b>청라<\/b>국제도시 현대무벡스 R&amp;D센터. 한가운데 대형... ",
+			"pubDate":"Sun, 27 Apr 2025 17:00:00 +0900"
+		},
+		{
+			"title":"현대무벡스 &quot;100% 자체 설계&quot;... 스마트 물류 '게임체인저' 등극",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202504251736556988",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005341801?sid=101",
+			"description":"자체 설계 100% 활용 인천 <b>청라<\/b>국제도시에 위치한 현대무벡스 R&amp;D센터를 찾은 지난 23일, 센터 옆 실험 공간에서는 자동화 로봇들이 24시간 실시간으로 테스트를 진행하고 있었다. 스마트 물류 시장의 게임체인저로... ",
 			"pubDate":"Sun, 27 Apr 2025 17:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1287110",
 			"description":"이어 &quot;인천경제청은 그동안 자유구역 전략 대부분을 송도와 <b>청라<\/b>에 집중하며 영종을 철저히 후순위로 밀어냈다. 영종에 대한 독립된 개발전략은 부재했다&quot;며 &quot;영종국제학교 공모 과정을 투명하게 공개하고, 송도·<b>청라<\/b>... ",
 			"pubDate":"Sun, 27 Apr 2025 16:32:00 +0900"
-		},
-		{
-			"title":"&quot;현안 제로&quot;vs&quot;경제 초점&quot; 이재명 공약에 엇갈리는 인천시민 반응",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363691118",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363691118",
-			"description":"영종·<b>청라<\/b> 영상문화 복합 클러스터 조성 등이다. 이와 관련 김송원 인천경제정의실천시민연합(인천경실련) 사무처장은 인천 숙원 사업이 전혀 반영되지 않았다고 비판했다. 인천경실련은 최근 대권 주자들의 '행정수도... ",
-			"pubDate":"Sun, 27 Apr 2025 16:18:00 +0900"
 		}
 	]
 }
