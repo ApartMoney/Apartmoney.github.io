@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 08 May 2025 03:00:01 +0900",
-	"total":260755,
+	"lastBuildDate":"Thu, 08 May 2025 03:10:01 +0900",
+	"total":260756,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20250508\/131559757\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003633549?sid=102",
+			"description":"21일 오후 3∼5시 <b>청라<\/b>국제도서관 제1다목적실. □만들기 교실=6, 7세 대상 ‘플라워 센터피스 만들기’ 참가자 10명. 21일 오후 4시 반∼6시 신석도서관 어울림터. □거울 만들기=초등학교 1, 2학년생 대상 ‘색으로... ",
+			"pubDate":"Thu, 08 May 2025 03:04:00 +0900"
+		},
 		{
 			"title":"인천 서구, 가칭 <b>청라<\/b>대교(제3연륙교) 명칭 구민 선호도조사 실시",
 			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=100826",
@@ -103,17 +110,17 @@
 			"pubDate":"Wed, 07 May 2025 16:19:00 +0900"
 		},
 		{
-			"title":"인천시 서구, 가칭 <b>청라<\/b>대교(제3연륙교) 명칭 구민 선호도조사 실시",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289716972421",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289716972421",
-			"description":"인천 서구(구청장 강범석)는 올해 말 준공 예정인 제3연륙교(가칭 <b>청라<\/b>대교)의 명칭 관련... 제3연륙교는 서구 <b>청라<\/b>동과 중구 중산동을 연결하는 4.68km 규모의 해상교량으로 인천 서구와 영종을 잇는 두 번째 교량이다.... ",
-			"pubDate":"Wed, 07 May 2025 16:12:00 +0900"
-		},
-		{
 			"title":"전통의 흥, 인천을 누비다! 찾아가는 전통공연 ‘얼쑤’ 개최",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288600363827",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288600363827",
 			"description":"▲계양구 서운체육공원 야외무대에서 ‘프로젝트 락(樂)’의 무대가, ▲동인천역 아트큐브 야외무대에서는‘억스(AUX)’▲<b>청라<\/b>호수공원 음악분수에서는 소리꾼 고영열과 권병호 슈퍼밴드의 무대가 펼쳐진다. 혹서기에는... ",
+			"pubDate":"Wed, 07 May 2025 16:12:00 +0900"
+		},
+		{
+			"title":"인천시 서구, 가칭 <b>청라<\/b>대교(제3연륙교) 명칭 구민 선호도조사 실시",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289716972421",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289716972421",
+			"description":"인천 서구(구청장 강범석)는 올해 말 준공 예정인 제3연륙교(가칭 <b>청라<\/b>대교)의 명칭 관련... 제3연륙교는 서구 <b>청라<\/b>동과 중구 중산동을 연결하는 4.68km 규모의 해상교량으로 인천 서구와 영종을 잇는 두 번째 교량이다.... ",
 			"pubDate":"Wed, 07 May 2025 16:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=505459",
 			"description":"다음 달 당첨자 발표를 거쳐 입주는 오는 2028년으로, 실수요자를 대상으로 한 A7, A8블록 주택 전시관은 오는 10일 인천 <b>청라<\/b>에 개관합니다. [사진 출처: LH 청약플러스 공공분양주택 팸플릿 캡처]",
 			"pubDate":"Wed, 07 May 2025 13:48:00 +0900"
-		},
-		{
-			"title":"인천 서구, 제3연륙교 명칭 주민 선호도 조사",
-			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/5775012",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0008234987?sid=102",
-			"description":"서구 <b>청라<\/b>동과 중구 중산동을 연결하는 4.68㎞ 길이 해상교량이다. 인천경제자유구역청은 서구와 중구에 2건씩 주민 의견을 수렴한 명칭 안을 제출하라고 요청했다. 이에 서구는 주민들 지지를 받은 기존 '<b>청라<\/b>대교'와... ",
-			"pubDate":"Wed, 07 May 2025 13:45:00 +0900"
 		}
 	]
 }
