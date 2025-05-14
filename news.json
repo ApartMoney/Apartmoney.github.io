@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 14 May 2025 11:40:01 +0900",
-	"total":261042,
+	"lastBuildDate":"Wed, 14 May 2025 11:50:01 +0900",
+	"total":261043,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[항공투데이] 인천 UAM 생태계 확대 '에어택시' 성큼 세계무대 주도",
+			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=302234",
+			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=302234",
+			"description":"인천시는 국토부가 추진 중인 'K-UAM 그랜드챌린지'와 연계해 <b>청라<\/b>~계양 간 실증노선에서 아라벳길을 따라 비행 실증을 준비 중입니다. 이를 위해 올해부터 5년간 38억원을 투입해 'UAM 실증 플랫폼'을 조성합니다.... ",
+			"pubDate":"Wed, 14 May 2025 11:48:00 +0900"
+		},
 		{
 			"title":"포스코인터내셔널, 서구 <b>청라<\/b>1·2·3동에 저소득 청소년 자전거 후원",
 			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=2025051409535359606e1e092a28_29",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=313193",
 			"description":"개발·<b>청라<\/b> 1천세대 이상 시니어단지 PM 수행 등 경험 바탕 시니어주택 개발·PM·건설·운영 등 사업 확대... 이어 <b>청라<\/b> 1,000세대 이상 시니어주택단지 건설사업 PM 수행 등 경험을 바탕으로 시니어주택 개발·PM·건설·운영... ",
 			"pubDate":"Wed, 14 May 2025 09:06:00 +0900"
-		},
-		{
-			"title":"지앤톡, '아파트 전기차 화재감지 솔루션' 100개 단지 돌파",
-			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=354803",
-			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=354803",
-			"description":"지난해 인천 <b>청라<\/b> 아파트 전기차 화재 사고 이후 이를 감지·대처하는 솔루션 수요도 증가하고 있다. 실제로 오이천사 전기차 화재안전 솔루션은 올해 1분기 설치 문의 건수가 107건으로 전년 동기 68건보다 58% 증가했다는... ",
-			"pubDate":"Wed, 14 May 2025 09:04:00 +0900"
 		}
 	]
 }
