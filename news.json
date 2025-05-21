@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 22 May 2025 03:00:08 +0900",
-	"total":261421,
+	"lastBuildDate":"Thu, 22 May 2025 03:10:01 +0900",
+	"total":261422,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20250521\/131656541\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003636630?sid=102",
+			"description":"29일 오후 3시∼4시 반 <b>청라<\/b>호수도서관 세미나실1. □과학 교실=초등학교 1∼3학년생 대상 ‘신석 도서관 생활 과학교실 1기’ 참가자 15명. 6월 4∼25일 매주 수요일 오후 3시 반∼5시 신석도서관 배움터. 참가비... ",
+			"pubDate":"Thu, 22 May 2025 03:05:00 +0900"
+		},
 		{
 			"title":"인천시, 지방재정협의회서 국비 3258억 원 지원 요청",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=648153",
@@ -117,17 +124,17 @@
 			"pubDate":"Wed, 21 May 2025 20:22:00 +0900"
 		},
 		{
-			"title":"이재명 민주당 대선 후보에게 환호 보내는 인천 <b>청라<\/b> 시민들",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1500877\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002959257?sid=154",
-			"description":"더불어민주당 이재명 대선후보가 21일 인천시 서구 롯데마트 <b>청라<\/b>점 앞에서 열린 유세에서 연설하는 동안 지지자들이 환호하고 있다.",
-			"pubDate":"Wed, 21 May 2025 20:21:00 +0900"
-		},
-		{
 			"title":"인천 <b>청라<\/b> 시민들 향해 엄지손가락 치켜든 이재명 후보",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1500878\/?sc=Naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002959258?sid=154",
 			"description":"더불어민주당 이재명 대선후보가 21일 인천 서구 롯데마트 <b>청라<\/b>점 앞에서 열린 집중유세를 마친 뒤, 유권자들의 지지를 호소하며 포즈를 취하고 있다.",
+			"pubDate":"Wed, 21 May 2025 20:21:00 +0900"
+		},
+		{
+			"title":"이재명 민주당 대선 후보에게 환호 보내는 인천 <b>청라<\/b> 시민들",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1500877\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002959257?sid=154",
+			"description":"더불어민주당 이재명 대선후보가 21일 인천시 서구 롯데마트 <b>청라<\/b>점 앞에서 열린 유세에서 연설하는 동안 지지자들이 환호하고 있다.",
 			"pubDate":"Wed, 21 May 2025 20:21:00 +0900"
 		},
 		{
@@ -138,13 +145,6 @@
 			"pubDate":"Wed, 21 May 2025 20:20:00 +0900"
 		},
 		{
-			"title":"인천시, 기재부에 10대 핵심사업 국비 3285억원 지원 요청",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20250521001391",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20250521001391",
-			"description":"인천시청 청사 [사진=인천시] 시가 요청한 국비 사업과 규모는 접경지역 북한 소음방송 피해 지원 174억원과 서울지하철 7호선 <b>청라<\/b> 연장 1605억원, 인천발 KTX 건설 800억원, 공단고가교∼서인천IC 혼잡도로 개선 360억원... ",
-			"pubDate":"Wed, 21 May 2025 20:00:00 +0900"
-		},
-		{
 			"title":"인천 찾은 이재명 &quot;전국 대통합 기운 일으킬 것&quot;",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1144976",
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1144976",
@@ -152,17 +152,24 @@
 			"pubDate":"Wed, 21 May 2025 20:00:00 +0900"
 		},
 		{
-			"title":"'해수부 부산 이전'에도 지지세 확인… 이재명 &quot;인천에서 이겨야 이긴다...",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363693282",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363693282",
-			"description":"이 후보는 이날 오후 1시 남동구 구월 로데오광장을 시작으로 3시 부평역 북광장, 5시 서구 <b>청라<\/b> 롯데마트... 정선식기자 이와 관련 이 후보는 부평역과 서구 <b>청라<\/b>국제도시 유세에서 &quot;목을 찔려 죽을 뻔한 상대방이 방탄 유리... ",
-			"pubDate":"Wed, 21 May 2025 19:56:00 +0900"
+			"title":"인천시, 기재부에 10대 핵심사업 국비 3285억원 지원 요청",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20250521001391",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20250521001391",
+			"description":"인천시청 청사 [사진=인천시] 시가 요청한 국비 사업과 규모는 접경지역 북한 소음방송 피해 지원 174억원과 서울지하철 7호선 <b>청라<\/b> 연장 1605억원, 인천발 KTX 건설 800억원, 공단고가교∼서인천IC 혼잡도로 개선 360억원... ",
+			"pubDate":"Wed, 21 May 2025 20:00:00 +0900"
 		},
 		{
 			"title":"'민생 경제' 인천 현안 사업 10건 국비 요청",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1289788",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1289788",
 			"description":"시는 인천발 고속철도(KTX)와 서울도시철도 7호선 <b>청라<\/b> 연장선 건설비로 각각 800억원, 1605억원을 건의했다. 공단고가교~서인천나들목 혼잡도로 개선 사업에도 360억원이 필요하다고 요청했다. 인천 권역 감염병... ",
+			"pubDate":"Wed, 21 May 2025 19:56:00 +0900"
+		},
+		{
+			"title":"'해수부 부산 이전'에도 지지세 확인… 이재명 &quot;인천에서 이겨야 이긴다...",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363693282",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363693282",
+			"description":"이 후보는 이날 오후 1시 남동구 구월 로데오광장을 시작으로 3시 부평역 북광장, 5시 서구 <b>청라<\/b> 롯데마트... 정선식기자 이와 관련 이 후보는 부평역과 서구 <b>청라<\/b>국제도시 유세에서 &quot;목을 찔려 죽을 뻔한 상대방이 방탄 유리... ",
 			"pubDate":"Wed, 21 May 2025 19:56:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363693257",
 			"description":"이어 인천<b>청라<\/b>(26만㎡), 루원시티(6만4천㎡), 인천가정1·2(5만5천㎡), 인천남동도시첨단산업단지(2만9천㎡) 순이었다. 공급착수일 기준 3년 이후에도 팔리지 않는 장기미분양은 전체 43만6천㎡로 전체 미분양토지에 절반... ",
 			"pubDate":"Wed, 21 May 2025 19:06:00 +0900"
-		},
-		{
-			"title":"이재명·김문수·이준석 인천·경기지역 표심 공략…최대 승부처 집중 ...",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20250521580377",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000073297?sid=154",
-			"description":"더불어민주당 이재명 후보는 21일 인천 남동구 구월로데오광장과 부평구 부평역 북광장, 서구 <b>청라<\/b>와 계양구 계양역 등을 잇따라 돌며 집중 유세를 했다. 이재명 후보는 남동구 유세에서 “인천의 바다가 모든 것을... ",
-			"pubDate":"Wed, 21 May 2025 19:02:00 +0900"
 		}
 	]
 }
