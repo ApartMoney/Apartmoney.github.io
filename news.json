@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 22 May 2025 10:40:01 +0900",
-	"total":261443,
+	"lastBuildDate":"Thu, 22 May 2025 10:50:01 +0900",
+	"total":261444,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"정부 '전기차 배터리 제조사 현황' 페이지 관리 부실...주요 모델 빠져",
+			"originallink":"https:\/\/www.bloter.net\/news\/articleView.html?idxno=637135",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/293\/0000067650?sid=101",
+			"description":"이 페이지는 2024년 8월 1일 인천 <b>청라<\/b>의 한 아파트단지 지하주차장에서 발생한 벤츠 EQE 전기차 화재사건 이후로 배터리에 대한 소비자 불안감이 커지자 정부가 소비자 알권리를 위해 구축한 것이다. 페이지를 접속해... ",
+			"pubDate":"Thu, 22 May 2025 10:49:00 +0900"
+		},
 		{
 			"title":"인천시, '7호선 <b>청라<\/b> 연장' 등 10개 사업 국비 3200억원 요청",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2025052210343279597",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newspim.com\/news\/view\/20250521001514",
 			"description":"[인천=뉴스핌] 김학선 기자 = 더불어민주당 이재명 대선후보가 21일 인천시 서구 롯데마트 <b>청라<\/b>점 앞에서 열린 유세에서 지지를 호소하고 있다. 2025.05.21 yooksa@newspim.com 이 후보는 국민의힘이 앞서 제안한 대선 후보들의... ",
 			"pubDate":"Wed, 21 May 2025 21:18:00 +0900"
-		},
-		{
-			"title":"이재명 &quot;김문수와 경쟁 아냐…'대한민국'과 '反대한민국' 세력 전쟁&quot;(종...",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2025052121075802999",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005596389?sid=154",
-			"description":"이 후보는 이날 오후 인천 서구 <b>청라<\/b> 집중유세 현장에서 &quot;헌정수호 세력과 헌정파괴 세력의 대결이고, 이 나라의 주권자가 국민인지 아니면 국민을 총칼로 위협하는 한 줌 기득권자들인지가 결정되는 것&quot;이라며 이같이... ",
-			"pubDate":"Wed, 21 May 2025 21:07:00 +0900"
 		}
 	]
 }
