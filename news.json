@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 22 May 2025 08:50:01 +0900",
-	"total":261432,
+	"lastBuildDate":"Thu, 22 May 2025 09:00:01 +0900",
+	"total":261433,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 내년 주요사업 10건 국비 지원 요청",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=507218",
+			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=507218",
+			"description":"시가 요청한 국비는 북한 소음방송 피해 지원 174억 원과 인천발 KTX 건설 800억 원, 인천~서울 지하고속도로 건설 21억 원과 서울지하철 7호선 <b>청라<\/b> 연장 1천605억 원, 공단고가교~서인천IC 혼잡도로 개선 360억 원 등 총... ",
+			"pubDate":"Thu, 22 May 2025 08:52:00 +0900"
+		},
 		{
 			"title":"효성중공업 '해링턴 스퀘어 산곡역' 24일(토)부터 선착순 한정 특별분양",
 			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=313609",
@@ -166,17 +173,17 @@
 			"pubDate":"Wed, 21 May 2025 20:25:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b> 시민들에게 지지 호소하는 이재명 대선 후보",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1500880\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002959261?sid=154",
-			"description":"이재명 더불어민주당 대선 후보가 21일 인천 서구 롯데마트 <b>청라<\/b>점 앞에서 선거유세를 하고 있다.",
-			"pubDate":"Wed, 21 May 2025 20:24:00 +0900"
-		},
-		{
 			"title":"이재명 민주당 대선 후보 연호하는 인천 <b>청라<\/b> 시민들",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1500881\/?sc=Naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002959262?sid=154",
 			"description":"이재명 더불어민주당 대선 후보 지지자들이 21일 인천 서구 롯데마트 <b>청라<\/b>점 앞에서 열린 선거 유세에서 연호하고 있다.",
+			"pubDate":"Wed, 21 May 2025 20:24:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b> 시민들에게 지지 호소하는 이재명 대선 후보",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1500880\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002959261?sid=154",
+			"description":"이재명 더불어민주당 대선 후보가 21일 인천 서구 롯데마트 <b>청라<\/b>점 앞에서 선거유세를 하고 있다.",
 			"pubDate":"Wed, 21 May 2025 20:24:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002959257?sid=154",
 			"description":"더불어민주당 이재명 대선후보가 21일 인천시 서구 롯데마트 <b>청라<\/b>점 앞에서 열린 유세에서 연설하는 동안 지지자들이 환호하고 있다.",
 			"pubDate":"Wed, 21 May 2025 20:21:00 +0900"
-		},
-		{
-			"title":"[자치단상] 한국 산업지도 다시 그리는 ‘강화 경제자유구역’",
-			"originallink":"https:\/\/www.kyeongin.com\/article\/1740399",
-			"link":"https:\/\/www.kyeongin.com\/article\/1740399",
-			"description":"송도, <b>청라<\/b>, 영종 등 기존 인천경제자유구역의 개발률은 이미 90% 선을 넘었고 첨단산업용지는 포화상태에 이르렀다. 강화 남단은 이를 보완하여 인천경제자유구역의 경쟁력을 지속 가능하게 하는 대체지로서의 의미가... ",
-			"pubDate":"Wed, 21 May 2025 20:20:00 +0900"
 		}
 	]
 }
