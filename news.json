@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 28 May 2025 14:50:01 +0900",
-	"total":261874,
+	"lastBuildDate":"Wed, 28 May 2025 15:00:01 +0900",
+	"total":261875,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"반도건설-한광정보통신, 지하주차장 화재·안전감시 AI CCTV시스템 개발...",
+			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=264686",
+			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=264686",
+			"description":"실제로 작년에 <b>청라<\/b>국제도시에서 발생한 전기차 화재 당시 발화한 전기차 주변 차량과 지하주차장 시설까지 손상되는 등 큰 피해를 입었다. 그 밖에 지하주차장 내 크고 작은 화재사고가 매스컴을 통해 알려지면서 공동... ",
+			"pubDate":"Wed, 28 May 2025 14:52:00 +0900"
+		},
 		{
 			"title":"인천광역시교육청, ‘제54회 전국소년체육대회’ 꿈메달 잔치 마무리",
 			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=2025052810354942076e1e092a28_29",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newspim.com\/news\/view\/20250528000379",
 			"description":"실제로 지난해 <b>청라<\/b>국제도시에서 발생한 전기차 화재는 발화 차량 외 주변 차량과 주차장 시설까지 손상시키는 등 상당한 피해를 낳았다. 기존 지하주차장 화재감시 시스템은 전기차 충전구역에만 한정적으로... ",
 			"pubDate":"Wed, 28 May 2025 11:09:00 +0900"
-		},
-		{
-			"title":"반도건설-한광정보통신, 지하주차장 화재·안전감시 AI CCTV시스템 개발",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=649161",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=649161",
-			"description":"실제로 작년에 <b>청라<\/b>국제도시에서 발생한 전기차 화재 당시 발화한 전기차 주변 차량과 지하주차장 시설까지 손상되는 등 큰 피해를 입었다. 그 밖에 지하주차장 내 크고 작은 화재사고가 매스컴을 통해 알려지면서 공동... ",
-			"pubDate":"Wed, 28 May 2025 11:06:00 +0900"
 		}
 	]
 }
