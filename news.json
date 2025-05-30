@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 30 May 2025 11:10:01 +0900",
-	"total":261938,
+	"lastBuildDate":"Fri, 30 May 2025 11:20:00 +0900",
+	"total":261939,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[포토뉴스] 2025 대구 국제소방안전박람회",
+			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=230624",
+			"link":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=230624",
+			"description":"21번째 국제소방안전박람회는 전기차 화재대응과 무인 소방기술이 주를 이뤘다. 기업들은 제2의 인천 <b>청라<\/b> 아파트 화재와 영남지역 산불 등을 막기 위한 차세대 소방 솔루션을 제시했다.",
+			"pubDate":"Fri, 30 May 2025 11:10:00 +0900"
+		},
 		{
 			"title":"인천 공원, 형형색색 장미로 물들다",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281130934825",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013273988?sid=101",
 			"description":"또한, 용산철도병원부지 개발사업, 잠실 스포츠\/MICE, <b>청라<\/b> 의료복합타운, 공릉역세권 개발사업 등 대규모 서울 수도권 복합개발 사업들이 대기 중이다. 올해 4월에 나온 NH투자증권 투자 리포트에 따르면... ",
 			"pubDate":"Thu, 29 May 2025 13:38:00 +0900"
-		},
-		{
-			"title":"[전기차 화재 해법을 찾는다] 〈3〉 환경부, BMS 보조금 우대·안전성 높...",
-			"originallink":"https:\/\/www.etnews.com\/20250529000220",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003317129?sid=103",
-			"description":"정부는 지난해 8월 인천 <b>청라<\/b> 아파트 지하주차장 화재 등으로 전기차와 충전시설에 대한 화재 우려가 커지자 한 달 뒤 '전기차 화재 안전관리 대책'을 발표했다. 전기차 BMS 기능을 개선하고, 운전자의 실사용을 늘려 화재... ",
-			"pubDate":"Thu, 29 May 2025 13:10:00 +0900"
 		}
 	]
 }
