@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 03 Jun 2025 06:00:01 +0900",
-	"total":262002,
+	"lastBuildDate":"Tue, 03 Jun 2025 06:10:02 +0900",
+	"total":262003,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구꽃박람회, 5일 엑스코서 ‘활짝’",
+			"originallink":"http:\/\/www.segye.com\/newsView\/20250602512860?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0004040498?sid=102",
+			"description":"전시장은 대형 화훼조형물을 전시하는 주제관, 화훼와 원예 작품 콘테스트가 열리는 <b>청라<\/b>상관, 전국 관광지와 정원을 홍보하는 지자체관 등으로 꾸며진다. 한국과 일본, 중국, 태국, 말레이시아 등 8개국 대표... ",
+			"pubDate":"Tue, 03 Jun 2025 06:04:00 +0900"
+		},
 		{
 			"title":"6월 분양물량, 전년比 39%↑…DSR 3단계 막차 기대",
 			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=691162",
@@ -124,17 +131,17 @@
 			"pubDate":"Mon, 02 Jun 2025 15:32:00 +0900"
 		},
 		{
-			"title":"6월 인천서 1,705세대 분양... <b>청라<\/b>서 1,000세대 대단지 공급",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110035",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110035",
-			"description":"인천 <b>청라<\/b>국제도시 전경. 사진=인천경제자유구역청 내달 인천 서구 <b>청라<\/b>국제도시에서 1,000세대가 넘는 대단지 아파트가 분양에 나선다. 2일 종합 프롭테크 기업 직방에 따르면 6월 인천 아파트 분양 예정 물량은... ",
-			"pubDate":"Mon, 02 Jun 2025 15:20:00 +0900"
-		},
-		{
 			"title":"&quot;제3연륙교 유료화 중단해야&quot;... 영종 주민들, 소송·청원 등 투쟁 예고",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110031",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110031",
 			"description":"<b>청라<\/b> 토지조성원가에 제3연륙교 건설비를 포함해 분양자들로부터 비용을 회수했다&quot;며 &quot;통행료를 다시 부과하겠다는 것은 명백한 이중 부담&quot;이라고 했다. 제3연륙교는 사업비 7,320억원을 들여 중구 영종도와 서구 <b>청라<\/b>국... ",
+			"pubDate":"Mon, 02 Jun 2025 15:20:00 +0900"
+		},
+		{
+			"title":"6월 인천서 1,705세대 분양... <b>청라<\/b>서 1,000세대 대단지 공급",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110035",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110035",
+			"description":"인천 <b>청라<\/b>국제도시 전경. 사진=인천경제자유구역청 내달 인천 서구 <b>청라<\/b>국제도시에서 1,000세대가 넘는 대단지 아파트가 분양에 나선다. 2일 종합 프롭테크 기업 직방에 따르면 6월 인천 아파트 분양 예정 물량은... ",
 			"pubDate":"Mon, 02 Jun 2025 15:20:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=698328",
 			"description":"인천에서는 서구 <b>청라<\/b>동의 '<b>청라<\/b>피크원푸르지오'(B1)가 1056가구 규모로 공급될 예정이다. 지방에선 경남 양산시 평산동 '양산자이파크팰리체' 842가구, 부산 해운대구 재송동 '르엘리버파크센텀' 2070가구, 부산... ",
 			"pubDate":"Mon, 02 Jun 2025 13:30:00 +0900"
-		},
-		{
-			"title":"‘DSR 3단계’ 전 막차..6월 전국 분양 예정물량 2만6407세대",
-			"originallink":"http:\/\/www.breaknews.com\/1121727",
-			"link":"http:\/\/www.breaknews.com\/1121727",
-			"description":"인천에서는 서구 <b>청라<\/b>동의 ‘<b>청라<\/b>피크원프루지오(B1)’가 1056세대 규모로 공급될 예정이다. 직방 관계자는 “7월부터 시행되는 DSR 3단계 규제가 잔금부터... ",
-			"pubDate":"Mon, 02 Jun 2025 13:06:00 +0900"
 		}
 	]
 }
