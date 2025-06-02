@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 02 Jun 2025 18:10:01 +0900",
-	"total":261992,
+	"lastBuildDate":"Mon, 02 Jun 2025 18:20:01 +0900",
+	"total":261993,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 제3연륙교 영종·<b>청라<\/b>에 ‘1일 1회 왕복 무료’… 주민들 “전면 ...",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20250602580351",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000074416?sid=102",
+			"description":"영종·<b>청라<\/b> 주민에게 ‘1일 1회 왕복 무료 통행’ 혜택을 검토 중이지만, 주민들은 ‘통행료 전면 무료화’를 강하게 주장하고 있기 때문이다. 2일 인천시와 인천경제자유구역청 등에 따르면 오는 12월 개통하는 영종~<b>청라<\/b>... ",
+			"pubDate":"Mon, 02 Jun 2025 18:18:00 +0900"
+		},
 		{
 			"title":"영종~<b>청라<\/b> '제3연륙교' 통행료 논란…&quot;유료화 철회하라&quot;",
 			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=203863",
@@ -54,17 +61,17 @@
 			"pubDate":"Mon, 02 Jun 2025 15:32:00 +0900"
 		},
 		{
-			"title":"&quot;제3연륙교 유료화 중단해야&quot;... 영종 주민들, 소송·청원 등 투쟁 예고",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110031",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110031",
-			"description":"<b>청라<\/b> 토지조성원가에 제3연륙교 건설비를 포함해 분양자들로부터 비용을 회수했다&quot;며 &quot;통행료를 다시 부과하겠다는 것은 명백한 이중 부담&quot;이라고 했다. 제3연륙교는 사업비 7,320억원을 들여 중구 영종도와 서구 <b>청라<\/b>국... ",
-			"pubDate":"Mon, 02 Jun 2025 15:20:00 +0900"
-		},
-		{
 			"title":"6월 인천서 1,705세대 분양... <b>청라<\/b>서 1,000세대 대단지 공급",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110035",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110035",
 			"description":"인천 <b>청라<\/b>국제도시 전경. 사진=인천경제자유구역청 내달 인천 서구 <b>청라<\/b>국제도시에서 1,000세대가 넘는 대단지 아파트가 분양에 나선다. 2일 종합 프롭테크 기업 직방에 따르면 6월 인천 아파트 분양 예정 물량은... ",
+			"pubDate":"Mon, 02 Jun 2025 15:20:00 +0900"
+		},
+		{
+			"title":"&quot;제3연륙교 유료화 중단해야&quot;... 영종 주민들, 소송·청원 등 투쟁 예고",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110031",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110031",
+			"description":"<b>청라<\/b> 토지조성원가에 제3연륙교 건설비를 포함해 분양자들로부터 비용을 회수했다&quot;며 &quot;통행료를 다시 부과하겠다는 것은 명백한 이중 부담&quot;이라고 했다. 제3연륙교는 사업비 7,320억원을 들여 중구 영종도와 서구 <b>청라<\/b>국... ",
 			"pubDate":"Mon, 02 Jun 2025 15:20:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006029619?sid=102",
 			"description":"인천경제자유구역청이 송도, 영종, <b>청라<\/b> 등 경제자유구역의 스마트 도시 서비스 제공을 확대한다. 인천경제청은 최근 연수구 송도 G타워에서 스마트 도시 서비스 2단계 구축사업의 실시설계 용역 중간보고회를... ",
 			"pubDate":"Mon, 02 Jun 2025 10:49:00 +0900"
-		},
-		{
-			"title":"6월 전국 2만6천여 가구 분양예정···&quot;DSR 3단계 적용 전 막차&quot;",
-			"originallink":"https:\/\/www.smartfn.co.kr\/news\/articleView.html?idxno=111265",
-			"link":"https:\/\/www.smartfn.co.kr\/news\/articleView.html?idxno=111265",
-			"description":"인천에서는 서구 <b>청라<\/b>동의 '<b>청라<\/b>피크원푸르지오(B1)' 1056가구가 공급될 예정이다. 지방광역도시 곳곳에서 분양이 계획돼 있다. 경남 양산시 평산동 '양산자이파크팰리체'842가구, 부산 해운대구 재송동... ",
-			"pubDate":"Mon, 02 Jun 2025 10:38:00 +0900"
 		}
 	]
 }
