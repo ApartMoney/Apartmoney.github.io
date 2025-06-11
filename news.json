@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 11 Jun 2025 09:20:01 +0900",
-	"total":262390,
+	"lastBuildDate":"Wed, 11 Jun 2025 09:30:01 +0900",
+	"total":262391,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"디지스트 자율주행 통신·연산 최적 분산 기술 개발",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0028233852&code=61122020&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001782378?sid=102",
+			"description":"연구팀은 실제 도로 상황을 반영한 8가지 시나리오(플래투닝 주행, 교차로, 합류차로, 사고 대응 등)와 인천 <b>청라<\/b>지구 실측 도로 데이터를 활용해 제안 기술이 기존 대비 얼마나 효과적으로 트래픽과 연산 부하를... ",
+			"pubDate":"Wed, 11 Jun 2025 09:27:00 +0900"
+		},
 		{
 			"title":"DGIST, 자율주행용 최적 자원 분배 시뮬레이터 개발",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20250611_0003208398",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=508423",
 			"description":"문제 해결의 실마리는 중구가 한국토지주택공사 <b>청라<\/b>영종사업본부와 인근 토지주를 만나 소통하며... 게다가 구의 요청으로 한국토지주택공사 <b>청라<\/b>영종사업본부 측에서 주차장 용도의 또 다른 토지(중산동 1943-1번지)... ",
 			"pubDate":"Tue, 10 Jun 2025 17:52:00 +0900"
-		},
-		{
-			"title":"영종 구읍뱃터 주차공간 586면 확보…중구, 적극소통 '성과'",
-			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3279873",
-			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3279873",
-			"description":"이에 중구는 LH <b>청라<\/b>영종사업본부 및 토지주와 협의를 거쳐 해당 부지의 임차 기간을 올해 12월까지 연장하고, 인근 사설 유료주차장(85면)과 추가 토지(100면 예정)를 내년 5월까지 무상 확보했다. 이로써 총 185면이... ",
-			"pubDate":"Tue, 10 Jun 2025 17:48:00 +0900"
 		}
 	]
 }
