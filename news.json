@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 11 Jun 2025 15:10:01 +0900",
-	"total":262428,
+	"lastBuildDate":"Wed, 11 Jun 2025 15:20:01 +0900",
+	"total":262429,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"디지스트, 자율주행용 최적 자원 분배 시뮬레이터 개발",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2288453",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2288453",
+			"description":"연구팀은 실제 도로 상황을 반영한 8가지 시나리오(플래투닝 주행, 교차로, 합류차로, 사고 대응 등)와 인천 <b>청라<\/b>지구 실측 도로 데이터를 활용해, 제안 기술이 기존 대비 얼마나 효과적으로 트래픽 및 연산 부하를... ",
+			"pubDate":"Wed, 11 Jun 2025 15:13:00 +0900"
+		},
 		{
 			"title":"재계, 현정은 '소프트파워'에 주목한다…&quot;ESG경영 시대 모범 모델&quot;",
 			"originallink":"https:\/\/www.apnews.kr\/news\/articleView.html?idxno=3036071",
@@ -205,13 +212,6 @@
 			"originallink":"https:\/\/www.livesnews.com\/news\/article.html?no=51367",
 			"link":"https:\/\/www.livesnews.com\/news\/article.html?no=51367",
 			"description":"중구의회는 성명서를 통해 제3연륙교 건설에 소요된 약 7000억원 중 6200억원이 이미 영종·<b>청라<\/b> 지역 주민들의 아파트 분양가에 포함되어 납부됐고, 나머지 1000억원 역시 인천시 재정으로 충당됐다는 점을 강조했다. 이에... ",
-			"pubDate":"Wed, 11 Jun 2025 10:48:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>국제도시, ‘<b>청라<\/b> 3.0 시대’ 개막으로 국제업무단지 개발 본격화",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20250611\/131776892\/1",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003640535?sid=102",
-			"description":"인천 서구 <b>청라<\/b>국제도시 ‘국제업무단지’를 중심으로 하는 복합개발이 본격화된다. <b>청라<\/b>3동을 중심으로 하는 ‘<b>청라<\/b> 3.0 시대’가 열리는 것이다. 인천경제자유구역청과 ㈜<b>청라<\/b>스마트시티 등 민간사업자는 <b>청라<\/b> 3.0... ",
 			"pubDate":"Wed, 11 Jun 2025 10:48:00 +0900"
 		}
 	]
