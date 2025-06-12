@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 12 Jun 2025 20:50:01 +0900",
-	"total":262540,
+	"lastBuildDate":"Thu, 12 Jun 2025 21:00:01 +0900",
+	"total":262541,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"DGIST, 자율주행용 최적 자원 분배 시뮬레이터 개발",
+			"originallink":"https:\/\/www.ksmnews.co.kr\/news\/view.php?idx=545413",
+			"link":"https:\/\/www.ksmnews.co.kr\/news\/view.php?idx=545413",
+			"description":"연구팀은 실제 도로 상황을 반영한 8가지 시나리오와 인천 <b>청라<\/b>지구 실측 도로 데이터를 활용해, 제안 기술이 기존 대비 얼마나 효과적으로 트래픽 및 연산 부하를 분산시키고, 지연시간 및 전력 소모를... ",
+			"pubDate":"Thu, 12 Jun 2025 20:55:00 +0900"
+		},
 		{
 			"title":"글로벌 럭셔리 호텔·테마파크 개발사 케슬러 컬렉션…K-콘랜드 프로젝...",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=508864",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.arunews.com\/news\/articleView.html?idxno=49132",
 			"description":"인천(-0.05%→-0.01%)의 경우 서구(0.11%)는 마전·<b>청라<\/b>동 위주로, 남동구(0.05%)는 만수·간석동 정주여건 양호한 단지 위주로 상승했으나, 연수구(-0.24%)는 입주물량 영향있는 송도·동춘동 위주로, 동구(-0.04%)는... ",
 			"pubDate":"Thu, 12 Jun 2025 15:36:00 +0900"
-		},
-		{
-			"title":"미국 호텔 체인 '케슬러 컬렉션', 인천 K-콘랜드 투자의향서 제출",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110241",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110241",
-			"description":"'케슬러 컬렉션'은 K-콘랜드 프로젝트 대상지인 <b>청라<\/b>투자6블록(구 지테크씨티, 문화기술복합단지)에 럭셔리... 사업 대상지로는 인천국제공항 인근 영종국제도시 4곳과 <b>청라<\/b>국제도시 2곳 등 6곳이 거론되고 있다.... ",
-			"pubDate":"Thu, 12 Jun 2025 15:32:00 +0900"
 		}
 	]
 }
