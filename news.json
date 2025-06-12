@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 12 Jun 2025 11:20:01 +0900",
-	"total":262489,
+	"lastBuildDate":"Thu, 12 Jun 2025 11:30:00 +0900",
+	"total":262490,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘<b>청라<\/b> 피크원 푸르지오’ 7월 분양",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202506120833129120620",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202506120833129120620",
+			"description":"지하 5층~지상 49층, 4개 동 전용면적 84~119㎡ 오피스텔 1056실 분양 인천광역시 서구 <b>청라<\/b>국제도시 B1블록에 위치한 ‘<b>청라<\/b> 피크원 푸르지오’가 오는 7월 선보일 예정이다. 이 단지는 <b>청라<\/b>국제도시 업무용지 B1블록에... ",
+			"pubDate":"Thu, 12 Jun 2025 11:22:00 +0900"
+		},
 		{
 			"title":"미국 케슬러 컬렉션, 인천 <b>청라<\/b>에 호텔·영상문화복합시설 개발",
 			"originallink":"https:\/\/www.khan.co.kr\/article\/202506121105001",
@@ -26,17 +33,17 @@
 			"pubDate":"Thu, 12 Jun 2025 11:04:00 +0900"
 		},
 		{
-			"title":"&quot;글로벌 럭셔리 호텔·테마파크 개발사&quot;... 케슬러 컬렉션, K-콘랜드 프...",
-			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=105214",
-			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=105214",
-			"description":"케슬러 컬렉션은 아시아 시장 확장 전략의 일환으로, K-콘랜드 프로젝트의 사업지인 <b>청라<\/b>투자6블록(구 지테크  씨티)에 투자를 결정했다. 이번 투자의향서 제출은 <b>청라<\/b>국제도시에 케슬러 컬렉션이 한국 최초의 럭셔리... ",
-			"pubDate":"Thu, 12 Jun 2025 11:04:00 +0900"
-		},
-		{
 			"title":"美 케슬러 컬렉션, 인천 K-콘랜드 합류…투자 의향서(LOI) 제출",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1509505\/?sc=Naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002967137?sid=102",
 			"description":"케슬러 컬렉션은 아시아 시장 확장 전략의 하나로, K-콘랜드 대상지인 <b>청라<\/b>투자6블록에 럭셔리 부티크 호텔, 영상문화복합시설 개발을 추진할 계획이다. 여기에는 '태양의 서커스'를 설립한 캐나다 기업인 룬 루즈 그룹이... ",
+			"pubDate":"Thu, 12 Jun 2025 11:04:00 +0900"
+		},
+		{
+			"title":"&quot;글로벌 럭셔리 호텔·테마파크 개발사&quot;... 케슬러 컬렉션, K-콘랜드 프...",
+			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=105214",
+			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=105214",
+			"description":"케슬러 컬렉션은 아시아 시장 확장 전략의 일환으로, K-콘랜드 프로젝트의 사업지인 <b>청라<\/b>투자6블록(구 지테크  씨티)에 투자를 결정했다. 이번 투자의향서 제출은 <b>청라<\/b>국제도시에 케슬러 컬렉션이 한국 최초의 럭셔리... ",
 			"pubDate":"Thu, 12 Jun 2025 11:04:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1147549",
 			"description":"간담회에는 김인수 인천시 교통국장과 안광호 인천경제청 영종·<b>청라<\/b>본부장, 영종국제도시총연합회 관계자 등이 참석했다. 이 자리에서는 손실 보전을 누가 책임져야 하는지가 논란이 됐다. 참석자들은 애초 제3연륙교... ",
 			"pubDate":"Wed, 11 Jun 2025 20:22:00 +0900"
-		},
-		{
-			"title":"DGIST, 자율주행용 최적 자원 분배 시뮬레이터 개발",
-			"originallink":"https:\/\/www.irobotnews.com\/news\/articleView.html?idxno=40467",
-			"link":"https:\/\/www.irobotnews.com\/news\/articleView.html?idxno=40467",
-			"description":"연구팀은 실제 도로 상황을 반영한 8가지 시나리오(플래투닝 주행, 교차로, 합류차로, 사고 대응 등)와 인천 <b>청라<\/b>지구 실측 도로 데이터를 활용해, 제안 기술이 기존 대비 얼마나 효과적으로 트래픽 및 연산... ",
-			"pubDate":"Wed, 11 Jun 2025 19:36:00 +0900"
 		}
 	]
 }
