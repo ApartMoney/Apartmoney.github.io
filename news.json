@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 17 Jun 2025 10:00:01 +0900",
-	"total":262755,
+	"lastBuildDate":"Tue, 17 Jun 2025 10:10:00 +0900",
+	"total":262756,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"오피스텔 공급 감소 속 거래 증가…강서구 '한양 더챔버' 관심",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202506168144O",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005145523?sid=101",
+			"description":"지하6층~지상13층 총 154실 규모로 기존 5호선과 서부광역철도(확정), 2호선 <b>청라<\/b>연장선(예정)이 예정되어 있으며, 하이엔드 주거상품으로 고급스러운 인테리어와 특화 설계를 제공한다. 남향 배치와 4-bay 특화 설계로... ",
+			"pubDate":"Tue, 17 Jun 2025 10:01:00 +0900"
+		},
 		{
 			"title":"하나금융그룹, 임직원 '수어교육'·'수어문화제' 자원봉사활동 실천",
 			"originallink":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=75754",
@@ -117,17 +124,17 @@
 			"pubDate":"Tue, 17 Jun 2025 05:40:00 +0900"
 		},
 		{
-			"title":"인천환경공단, 공공환경시설 통합지도점검 실시",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=651989",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=651989",
-			"description":"분뇨처리시설과 <b>청라<\/b>·송도·신항사업소 등 총 42개소의 악취방지시설(처리용량 17,710㎥\/min), 그리고 33대의... 한편 인천환경공단은 가좌, <b>청라<\/b>, 송도 등 인구 밀집 지역의 악취방지시설에 대한 집중 확인도 병행하고... ",
-			"pubDate":"Tue, 17 Jun 2025 05:40:00 +0900"
-		},
-		{
 			"title":"논란의 제3연륙교 통행료 - 국민의 도로를 사유화할 것인가?",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110316",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=110316",
 			"description":"제3연육교 조감도(자료제공=인천시) 올해 12월 개통 예정인 제3연륙교(영종~<b>청라<\/b> 연결, 지방도 제2호선)가... 이 중 LH의 개발비는 이미 조성원가에 포함되어 영종·<b>청라<\/b> 입주민이 분양대금으로 '선납'했다. 여기에 인천시도... ",
+			"pubDate":"Tue, 17 Jun 2025 05:40:00 +0900"
+		},
+		{
+			"title":"인천환경공단, 공공환경시설 통합지도점검 실시",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=651989",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=651989",
+			"description":"분뇨처리시설과 <b>청라<\/b>·송도·신항사업소 등 총 42개소의 악취방지시설(처리용량 17,710㎥\/min), 그리고 33대의... 한편 인천환경공단은 가좌, <b>청라<\/b>, 송도 등 인구 밀집 지역의 악취방지시설에 대한 집중 확인도 병행하고... ",
 			"pubDate":"Tue, 17 Jun 2025 05:40:00 +0900"
 		},
 		{
@@ -194,13 +201,6 @@
 			"pubDate":"Mon, 16 Jun 2025 20:06:00 +0900"
 		},
 		{
-			"title":"짜릿한 도심 속 질주를 향한 인천의 염원 '재시동'",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1148132",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1148132",
-			"description":"시는 시가지 서킷으로 막강한 부를 이룬 모나코와 싱가포르, 아부다비 등을 벤치마킹한 뒤 송도와 <b>청라<\/b>... 시는 이번 용역을 통해 송도와 <b>청라<\/b>, 영종국제도시 등 인천경제자유구역 중 어느 지역이 대회 개최 장소로... ",
-			"pubDate":"Mon, 16 Jun 2025 20:06:00 +0900"
-		},
-		{
 			"title":"인천항만·경제단체도 해수부 부산행 반발",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1292876",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1292876",
@@ -208,11 +208,11 @@
 			"pubDate":"Mon, 16 Jun 2025 20:06:00 +0900"
 		},
 		{
-			"title":"인천시교육청, 5개 신설학교 착공… 미래형 교육시설 도입 '눈길'",
-			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=253038",
-			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=253038",
-			"description":"인천시교육청은 16일 &quot;해양2중, 해양3고, 첨단1고, 검단3고, <b>청라<\/b>4고 등 5개교의 신축공사가 시작됐다&quot;며... 신설 학교들의 학급 규모는 ▲해양2중 37학급 ▲해양3고·첨단1고·<b>청라<\/b>4고 각 31학급 ▲검단3고 37학급이다. 각... ",
-			"pubDate":"Mon, 16 Jun 2025 19:50:00 +0900"
+			"title":"짜릿한 도심 속 질주를 향한 인천의 염원 '재시동'",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1148132",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1148132",
+			"description":"시는 시가지 서킷으로 막강한 부를 이룬 모나코와 싱가포르, 아부다비 등을 벤치마킹한 뒤 송도와 <b>청라<\/b>... 시는 이번 용역을 통해 송도와 <b>청라<\/b>, 영종국제도시 등 인천경제자유구역 중 어느 지역이 대회 개최 장소로... ",
+			"pubDate":"Mon, 16 Jun 2025 20:06:00 +0900"
 		}
 	]
 }
