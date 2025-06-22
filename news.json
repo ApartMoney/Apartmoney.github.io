@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 22 Jun 2025 16:20:01 +0900",
-	"total":263036,
+	"lastBuildDate":"Sun, 22 Jun 2025 16:30:01 +0900",
+	"total":263038,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이대통령 공약 '경인고속도로 지하화' 장기 중단 현실화되나",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363696008",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363696008",
+			"description":"경인고속도로 지하화 사업은 인천 서구 <b>청라<\/b>1동∼서울 양천구 신월동 15.3km 구간에 왕복 4차로 지하 고속도로를 건설하는 것이다. 총사업비는 약 1조 3천780억 원으로, 2032년 개통하는 것을 목표로 추진된다.",
+			"pubDate":"Sun, 22 Jun 2025 16:28:00 +0900"
+		},
+		{
+			"title":"서구청 허가 전 데이터센터 부지 매입… 아마존 '확신' 배경은?",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363696005",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363696005",
+			"description":"중부일보 취재에 따르면, <b>청라<\/b>동 원창변전소에서 데이터센터까지 이어지는 약 5.5㎞ 길이 특고압선 경로에는 신석초등학교와 서구청소년수련관, 아파트 단지 등이 위치한다. 서구의회는 23일 제274회 제1차 정례회 제2차... ",
+			"pubDate":"Sun, 22 Jun 2025 16:20:00 +0900"
+		},
 		{
 			"title":"인천환경공단, ‘<b>청라<\/b> 생태환경 체험’ 성료",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160291962099090",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=304200",
 			"description":"인천투데이 = 박길상 기자 | 11년 전 오늘, 2014년 6월 21일 인천국제공항철도 <b>청라<\/b>국제도시역이 개통했다. <b>청라<\/b>국제도시 경쟁력 강화와 공항철도를 이용하는 시민 교통편의를 도모하기 위해 건설했다.... ",
 			"pubDate":"Sat, 21 Jun 2025 03:06:00 +0900"
-		},
-		{
-			"title":"인천시교육청, '시민소통 유공자' 11인 표창",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=652900",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=652900",
-			"description":"표창을 받은 인천시민연합은 <b>청라<\/b>, 영종, 루원, 계양, 검단 등 9개 단체로 구성된 연합체로 GTX-D 인천공항행... 또한 서구의 온라인 맘카페 '달콤한<b>청라<\/b>맘스', '너나들이검단시도시 검암맘'은 신뢰도 높은 온라인... ",
-			"pubDate":"Sat, 21 Jun 2025 02:20:00 +0900"
-		},
-		{
-			"title":"6\/21~6\/22 이마트·홈플러스·롯데마트, 휴무일·영업지점... 무더위 날릴...",
-			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=231752",
-			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=231752",
-			"description":"인천<b>청라<\/b>, 인천연수, 부천여월, 부천상동, 부천소사, 분당오리, 야탑, 시화, 송탄, 평택안중, 화성향남... 영종도점, <b>청라<\/b>점, 경기양평점, 광교점, 권선점, 롯데몰수지점, 수원점, 시화점, 시흥배곧점, 시흥점, 신갈점... ",
-			"pubDate":"Sat, 21 Jun 2025 00:06:00 +0900"
 		}
 	]
 }
