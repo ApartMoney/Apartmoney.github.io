@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 25 Jun 2025 17:10:00 +0900",
-	"total":263519,
+	"lastBuildDate":"Wed, 25 Jun 2025 17:20:00 +0900",
+	"total":263520,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 인천시",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3308514",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3308514",
+			"description":"안전관리부장 조항만 ▲ 주거정비과장 정성균 ▲ 건축과장 이지연 ▲ 수산과장 송병훈 ◇ 전입 ▲ 상수도사업본부장 장병현 ▲ 보훈정책과장 한윤섭 ▲ 위생정책과장 이지영 ▲ 경제자유구역청 영종<b>청라<\/b>기반과장 박춘곤",
+			"pubDate":"Wed, 25 Jun 2025 17:12:00 +0900"
+		},
 		{
 			"title":"제3연륙교 전망대, ' 세계 최고 높이’ 공식 인증 절차 밟는다",
 			"originallink":"https:\/\/gg.newdaily.co.kr\/site\/data\/html\/2025\/06\/25\/2025062500441.html",
@@ -19,17 +26,10 @@
 			"pubDate":"Wed, 25 Jun 2025 17:02:00 +0900"
 		},
 		{
-			"title":"[인터뷰]벤츠 코리아 사장 &quot;화재 원인 파악 최선 중…내년 EV 풀라인업 ...",
-			"originallink":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1668056",
-			"link":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1668056",
-			"description":"이 때문에 경찰 당국에 전적으로 지원하며 결과를 기다리고 있습니다&quot; 마티아스 바이틀 메르세데스-벤츠 코리아 사장은 지난해 인천 서구 <b>청라<\/b>국제도시 한 아파트 지하주차장에서 발생한 전기차 화재에 관한 현황을... ",
-			"pubDate":"Wed, 25 Jun 2025 17:00:00 +0900"
-		},
-		{
-			"title":"메르세데스-벤츠 CEO &quot;<b>청라<\/b> 화재 후 높은 품질·안전에 더욱 집중&quot;",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2025062515090239988",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005613188?sid=103",
-			"description":"&quot;<b>청라<\/b> 화재는 너무나 참담한 사고였습니다. 그날 이후 우리는 어떻게 하면 가장 높은 수준의 품질과 안전... &quot; 작년 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 전기차 화재가 발생한 시점은 마티아스 바이틀 메르세데스-벤츠... ",
+			"title":"마티아스 바이틀 벤츠코리아 사장 &quot;판매량보다 고객 만족&quot;",
+			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2025062509352982770",
+			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2025062509352982770",
+			"description":"앞서 지난해 8월1일 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 벤츠 EQE 350 전기차 화재 사고가 발생하며 안정성 논란이 불거진 바 있다. 마티아스 바이틀 사장은 &quot;가장 높은 수준의 품질 및 안전 테스트를 계속해서... ",
 			"pubDate":"Wed, 25 Jun 2025 17:00:00 +0900"
 		},
 		{
@@ -40,10 +40,17 @@
 			"pubDate":"Wed, 25 Jun 2025 17:00:00 +0900"
 		},
 		{
-			"title":"마티아스 바이틀 벤츠코리아 사장 &quot;판매량보다 고객 만족&quot;",
-			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2025062509352982770",
-			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2025062509352982770",
-			"description":"앞서 지난해 8월1일 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 벤츠 EQE 350 전기차 화재 사고가 발생하며 안정성 논란이 불거진 바 있다. 마티아스 바이틀 사장은 &quot;가장 높은 수준의 품질 및 안전 테스트를 계속해서... ",
+			"title":"메르세데스-벤츠 CEO &quot;<b>청라<\/b> 화재 후 높은 품질·안전에 더욱 집중&quot;",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2025062515090239988",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005613188?sid=103",
+			"description":"&quot;<b>청라<\/b> 화재는 너무나 참담한 사고였습니다. 그날 이후 우리는 어떻게 하면 가장 높은 수준의 품질과 안전... &quot; 작년 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 전기차 화재가 발생한 시점은 마티아스 바이틀 메르세데스-벤츠... ",
+			"pubDate":"Wed, 25 Jun 2025 17:00:00 +0900"
+		},
+		{
+			"title":"[인터뷰]벤츠 코리아 사장 &quot;화재 원인 파악 최선 중…내년 EV 풀라인업 ...",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1668056",
+			"link":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1668056",
+			"description":"이 때문에 경찰 당국에 전적으로 지원하며 결과를 기다리고 있습니다&quot; 마티아스 바이틀 메르세데스-벤츠 코리아 사장은 지난해 인천 서구 <b>청라<\/b>국제도시 한 아파트 지하주차장에서 발생한 전기차 화재에 관한 현황을... ",
 			"pubDate":"Wed, 25 Jun 2025 17:00:00 +0900"
 		},
 		{
@@ -54,13 +61,6 @@
 			"pubDate":"Wed, 25 Jun 2025 16:46:00 +0900"
 		},
 		{
-			"title":"“작은 전등 하나가 어둡던 방을 밝히고, 벽화는 골목을 화사하게”",
-			"originallink":"https:\/\/cc.newdaily.co.kr\/site\/data\/html\/2025\/06\/25\/2025062500402.html",
-			"link":"https:\/\/cc.newdaily.co.kr\/site\/data\/html\/2025\/06\/25\/2025062500402.html",
-			"description":"보령시 <b>청라<\/b>면을 찾았다. 이름은 ‘하계 기술봉사 활동’이었지만, 그들이 남긴 건 기술만이 아니었다.... <b>청라<\/b>면의 골목을 화사하게 수놓은 벽화 작업도 이어졌다. 디자인공학을 전공한 박준병 학생은 이렇게 이야기했다.... ",
-			"pubDate":"Wed, 25 Jun 2025 16:40:00 +0900"
-		},
-		{
 			"title":"&quot;어두웠던 집과 마음에 불이 켜졌어요&quot;",
 			"originallink":"https:\/\/news.unn.net\/news\/articleView.html?idxno=580467",
 			"link":"https:\/\/news.unn.net\/news\/articleView.html?idxno=580467",
@@ -68,17 +68,24 @@
 			"pubDate":"Wed, 25 Jun 2025 16:40:00 +0900"
 		},
 		{
-			"title":"도성훈 인천교육감 “도서관은 움직이는 배움의 공간”",
-			"originallink":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202506250083",
-			"link":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202506250083",
-			"description":"서울경제티브이 김혜준 기자 도성훈 인천광역시교육감이 <b>청라<\/b>고등학교 도서관 개관식에 참석했습니다. 교육청에 따르면, 24일 열린 ‘지혜의 숲’ 도서관 개관식에는 <b>청라<\/b> 지역 학부모와 교직원, 교육청 관계자들이... ",
-			"pubDate":"Wed, 25 Jun 2025 16:36:00 +0900"
+			"title":"“작은 전등 하나가 어둡던 방을 밝히고, 벽화는 골목을 화사하게”",
+			"originallink":"https:\/\/cc.newdaily.co.kr\/site\/data\/html\/2025\/06\/25\/2025062500402.html",
+			"link":"https:\/\/cc.newdaily.co.kr\/site\/data\/html\/2025\/06\/25\/2025062500402.html",
+			"description":"보령시 <b>청라<\/b>면을 찾았다. 이름은 ‘하계 기술봉사 활동’이었지만, 그들이 남긴 건 기술만이 아니었다.... <b>청라<\/b>면의 골목을 화사하게 수놓은 벽화 작업도 이어졌다. 디자인공학을 전공한 박준병 학생은 이렇게 이야기했다.... ",
+			"pubDate":"Wed, 25 Jun 2025 16:40:00 +0900"
 		},
 		{
 			"title":"한국기술교육대 학생들 충남 보령서 하계 기술봉사활동 '구슬땀'",
 			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1097230",
 			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1097230",
 			"description":"보령군 <b>청라<\/b>면 일대에서 '하계 기술봉사 활동'을 실시했다. 한기대 제공 한국기술교육대학교(KOREATECH·총장 유길상)는 학생과 기술연구원 등 35명은 지난 22일부터 24일까지 2박 3일간 충남 보령군 <b>청라<\/b>면 일대에서 '하계... ",
+			"pubDate":"Wed, 25 Jun 2025 16:36:00 +0900"
+		},
+		{
+			"title":"도성훈 인천교육감 “도서관은 움직이는 배움의 공간”",
+			"originallink":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202506250083",
+			"link":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202506250083",
+			"description":"서울경제티브이 김혜준 기자 도성훈 인천광역시교육감이 <b>청라<\/b>고등학교 도서관 개관식에 참석했습니다. 교육청에 따르면, 24일 열린 ‘지혜의 숲’ 도서관 개관식에는 <b>청라<\/b> 지역 학부모와 교직원, 교육청 관계자들이... ",
 			"pubDate":"Wed, 25 Jun 2025 16:36:00 +0900"
 		},
 		{
@@ -103,17 +110,17 @@
 			"pubDate":"Wed, 25 Jun 2025 16:28:00 +0900"
 		},
 		{
-			"title":"한기대 학생들, 보령서 하계 기술 봉사활동 '구슬 땀'",
-			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=375908",
-			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=375908",
-			"description":"보령군 <b>청라<\/b>면 일대에서 '하계 기술봉사 활동'을 실시했다. 이번 봉사활동은 사전 현장 답사와 마을 회의를... 벽화 그리기 봉사 모습 '벽화 그리기' 봉사를 한 디자인공학 전공 박준병 학생은 &quot;<b>청라<\/b>면이 과거 탄광... ",
-			"pubDate":"Wed, 25 Jun 2025 16:18:00 +0900"
-		},
-		{
 			"title":"한기대 학생들, 충남 보령서 하계 기술봉사",
 			"originallink":"https:\/\/dhnews.co.kr\/news\/view\/1065597247369436",
 			"link":"https:\/\/dhnews.co.kr\/news\/view\/1065597247369436",
 			"description":"한기대 학생과 기술연구원 등 35명이 22~24일 충남 보령군 <b>청라<\/b>면 일대에서 하계 기술봉사를 실시했다. 사진=한기대 제공  한국기술교육대학교(KOREATECH) 학생과 기술연구원 등 35명이 22~24일 2박 3일간 충남 보령군 <b>청라<\/b>면... ",
+			"pubDate":"Wed, 25 Jun 2025 16:18:00 +0900"
+		},
+		{
+			"title":"한기대 학생들, 보령서 하계 기술 봉사활동 '구슬 땀'",
+			"originallink":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=375908",
+			"link":"http:\/\/www.ccnnews.co.kr\/news\/articleView.html?idxno=375908",
+			"description":"보령군 <b>청라<\/b>면 일대에서 '하계 기술봉사 활동'을 실시했다. 이번 봉사활동은 사전 현장 답사와 마을 회의를... 벽화 그리기 봉사 모습 '벽화 그리기' 봉사를 한 디자인공학 전공 박준병 학생은 &quot;<b>청라<\/b>면이 과거 탄광... ",
 			"pubDate":"Wed, 25 Jun 2025 16:18:00 +0900"
 		},
 		{
@@ -159,17 +166,17 @@
 			"pubDate":"Wed, 25 Jun 2025 15:34:00 +0900"
 		},
 		{
-			"title":"인천경제자유구역청, 제3연륙교에 세계 최고 해상 전망대 조성…기네스...",
-			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20250625500277",
-			"link":"http:\/\/www.metroseoul.co.kr\/article\/20250625500277",
-			"description":"또한 <b>청라<\/b> 지역 육상부에서 주탑 기초부까지 약 271m를 연결하는 보행데크가 설치되며, 국내 최초로 해상 교량 주탑 기초부에 친수공간도 조성된다. 이 공간은 시민과 관광객들이 바다 위에서 휴식과 여가를 즐길 수 있는... ",
-			"pubDate":"Wed, 25 Jun 2025 15:28:00 +0900"
-		},
-		{
 			"title":"도성훈 인천시교육감, 인천<b>청라<\/b>고 '지혜의 숲' 도서관 개관식 참석",
 			"originallink":"https:\/\/www.thebk.co.kr\/news\/articleView.html?idxno=301069",
 			"link":"https:\/\/www.thebk.co.kr\/news\/articleView.html?idxno=301069",
 			"description":"도성훈 인천시교육감은 지난 24일 인천<b>청라<\/b>고등학교 '지혜의 숲' 도서관 개관식에 참석해 도서관이 단순한 독서 공간을 넘어 미래형 학습 및 복합문화공간으로 진화하고 있음을 강조했다. 이날 행사에는 <b>청라<\/b> 지역... ",
+			"pubDate":"Wed, 25 Jun 2025 15:28:00 +0900"
+		},
+		{
+			"title":"인천경제자유구역청, 제3연륙교에 세계 최고 해상 전망대 조성…기네스...",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20250625500277",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20250625500277",
+			"description":"또한 <b>청라<\/b> 지역 육상부에서 주탑 기초부까지 약 271m를 연결하는 보행데크가 설치되며, 국내 최초로 해상 교량 주탑 기초부에 친수공간도 조성된다. 이 공간은 시민과 관광객들이 바다 위에서 휴식과 여가를 즐길 수 있는... ",
 			"pubDate":"Wed, 25 Jun 2025 15:28:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20250625144207722",
 			"description":"또한 국내 최초로 해상 교량 주탑 기초에 친수공간이 조성될 예정이며 <b>청라<\/b> 측 육상부에서 주탑 기초 친수공간까지 271m를 연결하는 보행데크가 설치된다. 윤원석 인천경제청장은 “인천경제청은 세계 기록 등재를... ",
 			"pubDate":"Wed, 25 Jun 2025 14:50:00 +0900"
-		},
-		{
-			"title":"인천 제3연륙교 전망대 세계 최고높이 기네스 도전",
-			"originallink":"https:\/\/www.moneys.co.kr\/article\/2025062513185364016",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0001085354?sid=102",
-			"description":"또한 국내 최초로 해상 교량 주탑 기초에 친수공간이 조성될 예정이며 <b>청라<\/b> 측 육상부에서 주탑 기초 친수공간까지 271m를 연결하는 보행데크가 설치된다. 제3연륙교는 총 연장 4.68㎞로 왕복 6차로(폭 30m)이다. 총... ",
-			"pubDate":"Wed, 25 Jun 2025 14:41:00 +0900"
 		}
 	]
 }
