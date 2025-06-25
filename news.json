@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 25 Jun 2025 16:00:01 +0900",
-	"total":263500,
+	"lastBuildDate":"Wed, 25 Jun 2025 16:10:01 +0900",
+	"total":263501,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 세계 최고 높이 인천 제3연륙교 전망대 연말 개통",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289934346995",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160289934346995",
+			"description":"또한 국내 최초로 해상 교량 주탑 기초에 친수공간이 조성될 예정이며, <b>청라<\/b>측 육상부에서 주탑 기초 친수공간까지 271m를 연결하는 보행데크가 설치된다. 한편 제3연륙교는 총 연장 4.68㎞로 왕복 6차로(폭 30m)이다.... ",
+			"pubDate":"Wed, 25 Jun 2025 16:06:00 +0900"
+		},
 		{
 			"title":"인천경제자유구역청, 제3연륙교 전망대 세계 최고 높이 기네스 도전",
 			"originallink":"https:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=216051",
@@ -82,17 +89,17 @@
 			"pubDate":"Wed, 25 Jun 2025 14:41:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b> 맛집 총정리, 한식부터 중식·이탈리안까지",
-			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=107085",
-			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=107085",
-			"description":"인천 <b>청라<\/b>는 주거지와 상업시설이 밀집된 지역으로, 다양한 맛집들이 자리해 있어 외식과 모임 장소로 꾸준히 주목받고 있다. 특히 한식, 중식, 이탈리아 음식까지 폭넓은 선택지를 갖춘 <b>청라<\/b>의 대표 맛집들이 많은 이들의... ",
-			"pubDate":"Wed, 25 Jun 2025 14:38:00 +0900"
-		},
-		{
 			"title":"유일로보틱스, <b>청라<\/b> 본사 사용승인 완료...'매출 1조 도전' 비전 선포",
 			"originallink":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=429130",
 			"link":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=429130",
 			"description":"|중앙이코노미뉴스 윤남웅 기자|유일로보틱스 <b>청라<\/b> 본사 전경. [사진=유일로보틱스]  첨단 로봇자동화 전문기업 유일로보틱스(대표이사 김동헌)는 <b>청라<\/b> 본사에 대한 사용승인 절차를 완료하고 인천광역시... ",
+			"pubDate":"Wed, 25 Jun 2025 14:38:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> 맛집 총정리, 한식부터 중식·이탈리안까지",
+			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=107085",
+			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=107085",
+			"description":"인천 <b>청라<\/b>는 주거지와 상업시설이 밀집된 지역으로, 다양한 맛집들이 자리해 있어 외식과 모임 장소로 꾸준히 주목받고 있다. 특히 한식, 중식, 이탈리아 음식까지 폭넓은 선택지를 갖춘 <b>청라<\/b>의 대표 맛집들이 많은 이들의... ",
 			"pubDate":"Wed, 25 Jun 2025 14:38:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=304452",
 			"description":"<b>청라<\/b> 방면에서 이 공간까지는 271m의 보행데크가 연결됩니다. 윤원석 인천경제청장은 &quot;세계 기록 등재로 제3연륙교의 기술력과 상징성을 전 세계에 알릴 것&quot;이라며 &quot;장소 마케팅을 강화해 제3연륙교를 세계적인... ",
 			"pubDate":"Wed, 25 Jun 2025 13:34:00 +0900"
-		},
-		{
-			"title":"인천 제3연륙교 180m 주탑에 설치될 전망대, 기네스 기록 도전",
-			"originallink":"http:\/\/www.lak.co.kr\/news\/boardview.php?id=20481",
-			"link":"http:\/\/www.lak.co.kr\/news\/boardview.php?id=20481",
-			"description":"또 <b>청라<\/b> 방향 육상부에서 주탑 기초 친수공간까지 271m를 연결하는 보행데크도 마련될 계획이다. 인천경제청은 연말 개통에 맞춰 영국 기네스북과 미국 세계기록위원회(WRC, World Record Committee)에 ‘세계 최고 높이 해상... ",
-			"pubDate":"Wed, 25 Jun 2025 13:26:00 +0900"
 		}
 	]
 }
