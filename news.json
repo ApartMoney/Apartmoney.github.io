@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 01 Jul 2025 03:00:01 +0900",
-	"total":263894,
+	"lastBuildDate":"Tue, 01 Jul 2025 03:10:01 +0900",
+	"total":263895,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"버스 타고 인천 도심-섬 둘러볼까",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20250630\/131911794\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003644811?sid=102",
+			"description":"(무의도, <b>청라<\/b>, 선재·영흥도, 교동도, 석모도, 노을야경)으로 나뉘어 운행된다. 순환형 노선은 하루 동안 모든 정류소에서 자유롭게 승하차가 가능하며, 테마형 노선은 지난해 9개에서 올해 6개로 축소된 대신 <b>청라<\/b>... ",
+			"pubDate":"Tue, 01 Jul 2025 03:04:00 +0900"
+		},
 		{
 			"title":"&quot;뜻대로 승부가 이뤄질 때가 많아졌어요&quot;…ERA 2위 이끈 조력자, '주전 ...",
 			"originallink":"https:\/\/www.sportschosun.com\/baseball\/2025-07-01\/202507010100003730000002",
@@ -159,17 +166,17 @@
 			"pubDate":"Mon, 30 Jun 2025 18:42:00 +0900"
 		},
 		{
-			"title":"[6월 30일 오늘의 Pick] 부동산 초강력 규제에…인천 아파트도 '출렁'",
-			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=205172",
-			"link":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=205172",
-			"description":"구는 지난 24일부터 서구 명칭 변경 권역별 주민설명회를 진행 중인데요, 총 4개 권역으로 나누어 이뤄지며, 마지막 일정은 30일 오후 2시 <b>청라<\/b>지역에서 진행됐습니다. 이번 설명회에서는 구 명칭변경 추진 진행 상황 등에... ",
-			"pubDate":"Mon, 30 Jun 2025 18:36:00 +0900"
-		},
-		{
 			"title":"인천이 무대가 되고, 시민이 주연이 된다",
 			"originallink":"https:\/\/www.kyeongin.com\/article\/1744679",
 			"link":"https:\/\/www.kyeongin.com\/article\/1744679",
 			"description":"인천문화예술회관 소공연장, 서구문화회관 대공연장, 문학시어터, <b>청라<\/b>블루노바홀 등 극장 4곳에서 매일... 26일 <b>청라<\/b>블루노바홀에서 두 차례 공연한다. 같은 날 8개국 연극인들이 참가하는 ‘2025 인천 국제연극포럼’이... ",
+			"pubDate":"Mon, 30 Jun 2025 18:36:00 +0900"
+		},
+		{
+			"title":"[6월 30일 오늘의 Pick] 부동산 초강력 규제에…인천 아파트도 '출렁'",
+			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=205172",
+			"link":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=205172",
+			"description":"구는 지난 24일부터 서구 명칭 변경 권역별 주민설명회를 진행 중인데요, 총 4개 권역으로 나누어 이뤄지며, 마지막 일정은 30일 오후 2시 <b>청라<\/b>지역에서 진행됐습니다. 이번 설명회에서는 구 명칭변경 추진 진행 상황 등에... ",
 			"pubDate":"Mon, 30 Jun 2025 18:36:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363696786",
 			"description":"30일 인천 서구 <b>청라<\/b>1동 행정복지센터에서 열린 행정체제 개편 및 서구 명칭변경 주민설명회에서 <b>청라<\/b> 주민들이 서구청 관계자의 설명을 듣고 있다. 사진=최기주기자 인천 서구가 새로운 명칭 선정에 속도를 내는 가운데... ",
 			"pubDate":"Mon, 30 Jun 2025 17:26:00 +0900"
-		},
-		{
-			"title":"인천 제3연륙교(영종~<b>청라<\/b>) 12월 개통…인천시·국토부 통행료 놓고 이...",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1516835\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002973828?sid=102",
-			"description":"오는 12월 개통 예정인 인천서구~영종도를 연결하는 제3연륙교의 통행료 문제를 놓고 인천시와 국토교통부가 합의점을 찾지 못해 논란이 일고 있다. 인천시의회 신성영 의원(중구 제2선거구)은 30일 본회의 5분 발언을... ",
-			"pubDate":"Mon, 30 Jun 2025 17:22:00 +0900"
 		}
 	]
 }
