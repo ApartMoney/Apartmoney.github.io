@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 03 Jul 2025 06:10:00 +0900",
-	"total":264138,
+	"lastBuildDate":"Thu, 03 Jul 2025 06:20:01 +0900",
+	"total":264140,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"◇내일의 경기(4일)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20250702152500007?input=1195m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0015484619",
+			"description":"◆4일(금) △프로야구= 한화-키움(고척) kt-두산(잠실) LG-삼성(대구) 롯데-KIA(광주) SSG-NC(창원·이상 18시30분) △골프= KLPGA 투어 제15회 롯데 오픈(베어즈베스트 <b>청라<\/b>) 제9회 베어크리크배 아마추어선수권대회... ",
+			"pubDate":"Thu, 03 Jul 2025 06:16:00 +0900"
+		},
+		{
+			"title":"◇오늘의 경기(3일)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20250702152400007?input=1195m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0015484618",
+			"description":"◆3일(목) △프로야구= LG-롯데(부산) NC-한화(대전) SSG-KIA(광주) 삼성-두산(잠실) 키움-kt(수원·이상 18시30분) △골프= KLPGA 투어 제15회 롯데 오픈(베어즈베스트 <b>청라<\/b>) 제9회 베어크리크배 아마추어선수권대회... ",
+			"pubDate":"Thu, 03 Jul 2025 06:15:00 +0900"
+		},
 		{
 			"title":"[오늘(3일)의 경제·산업 주요 일정·행사] '제6회 인천국제해양포럼' 등",
 			"originallink":"http:\/\/www.popcornnews.net\/news\/articleView.html?idxno=85241",
@@ -166,17 +180,17 @@
 			"pubDate":"Wed, 02 Jul 2025 18:01:00 +0900"
 		},
 		{
-			"title":"4년 연속 인천 개최… ‘제15회 롯데오픈’ 7월3일 개막",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160280750677370",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160280750677370",
-			"description":"<b>청라<\/b> 골프클럽에서 4일간 열전 … 퍼팅 체험 등 다채로운 이벤트 마련 - 김효주·최혜진·이가영 등 정상급 선수 출전, 총상금 12억 원 규모  인천광역시(시장 유정복)는 7월 3일부터 6일까지 나흘간 인천 <b>청라<\/b>국제도시에... ",
-			"pubDate":"Wed, 02 Jul 2025 17:38:00 +0900"
-		},
-		{
 			"title":"‘제15회 롯데오픈’ 골프대회 인천 <b>청라<\/b>서 열려",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160272465020638",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160272465020638",
 			"description":"김효주·, 최혜진·황유민·이가영·이예원 등 국내외 스타 총출동 제15회 롯데오픈 골프대회 홍보 이미지 ‘제15회 롯데오픈’골프대회가 3일부터 6일까지 인천 <b>청라<\/b> 베어즈베스트 골프클럽에서 개최된다. 롯데그룹이... ",
+			"pubDate":"Wed, 02 Jul 2025 17:38:00 +0900"
+		},
+		{
+			"title":"4년 연속 인천 개최… ‘제15회 롯데오픈’ 7월3일 개막",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160280750677370",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160280750677370",
+			"description":"<b>청라<\/b> 골프클럽에서 4일간 열전 … 퍼팅 체험 등 다채로운 이벤트 마련 - 김효주·최혜진·이가영 등 정상급 선수 출전, 총상금 12억 원 규모  인천광역시(시장 유정복)는 7월 3일부터 6일까지 나흘간 인천 <b>청라<\/b>국제도시에... ",
 			"pubDate":"Wed, 02 Jul 2025 17:38:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/009\/0005518479",
 			"description":"3일부터 나흘간 인천 서구 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열리는 롯데 오픈에서 김효주와 최혜진은 단연 우승 후보로 꼽힌다. 지난 3월 포드 챔피언십에서 우승한 김효주, 3개 메이저 대회에서 모두 톱10에 든... ",
 			"pubDate":"Wed, 02 Jul 2025 16:57:00 +0900"
-		},
-		{
-			"title":"인천 서구, 행정체제 개편·서구 명칭 변경 권역별 주민설명회 개최",
-			"originallink":"https:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=216767",
-			"link":"https:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=216767",
-			"description":"주민설명회 일정은 △6월 24일 서구청 대회의실 △6월 26일 가좌청소년센터 △6월 27일 가정1동 행정복지센터 △6월 30일 <b>청라<\/b>1동 행정복지센터 순으로 진행됐다. 행정체제 개편 및 서구 명칭변경 추진 사항 전반에 대한... ",
-			"pubDate":"Wed, 02 Jul 2025 16:48:00 +0900"
-		},
-		{
-			"title":"&quot;내 가족은 내가 지킨다&quot;…<b>청라<\/b>복합문화센터, 주민 대상 생존수영 강습",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1294804",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1294804",
-			"description":"인천 서구시설관리공단 <b>청라<\/b>복합문화센터(센터)는 지난달 28일 센터 수영장에서 <b>청라<\/b>지역 주민들을 대상으로 '내 가족은 내가 지킨다 가족수영 데이(DAY)' 프로젝트를 실시했다. 가족수영 강습은 물놀이 사고 시에 대비한... ",
-			"pubDate":"Wed, 02 Jul 2025 16:30:00 +0900"
 		}
 	]
 }
