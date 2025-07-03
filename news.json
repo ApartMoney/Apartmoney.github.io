@@ -1,27 +1,41 @@
 {
-	"lastBuildDate":"Fri, 04 Jul 2025 00:00:01 +0900",
-	"total":265488,
+	"lastBuildDate":"Fri, 04 Jul 2025 00:10:01 +0900",
+	"total":265491,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"[mhn포토] 이정민, 코치 김혜동과 함께 우승 도전",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422452",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316253",
+			"title":"김효주 스폰서 대회 '사생결단'",
+			"originallink":"https:\/\/www.kado.net\/news\/articleView.html?idxno=1320424",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/654\/0000129701",
+			"description":"김효주는 3일 인천 베어즈베스트 <b>청라<\/b>에서 열린 제15회 롯데 오픈 1라운드에서 2언더파 70타를 기록하며 첫날 경기를 마무리했다. 김효주는 1라운드를 마친 뒤 &quot;미국에서 허리가 안 좋아 기권하고 국내 대회에 나왔다.... ",
+			"pubDate":"Fri, 04 Jul 2025 00:08:00 +0900"
+		},
+		{
+			"title":"박현경 ‘막판 6홀 버디 3개’ 유현조 ‘마지막 홀 22m 이글’…위기 넘...",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2GV7V9HZXI",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/011\/0004504929",
+			"description":"3일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 1라운드가 열린 KLPGA 시즌 15번째 대회인 롯데 오픈에는 ‘100% 컷 통과’ 선수 6명 중 박지영을 뺀 5명이 출전했다. 이들 5명은 대회 첫 날 모두 예상 컷 라인 안에서... ",
+			"pubDate":"Fri, 04 Jul 2025 00:06:00 +0900"
+		},
+		{
+			"title":"‘돌격 대장’ 황유민의 이유있는 변신… 280야드 이상 장타 비율 13.8%",
+			"originallink":"https:\/\/www.chosun.com\/sports\/golf\/2025\/07\/04\/BSPBXT7R65BMRCVMK5PRWVENXM\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/023\/0003914910",
+			"description":"황유민은 3일 인천 베어즈베스트 <b>청라<\/b> 골프클럽에서 개막한 한국여자프로골프(KLPGA) 투어 ‘롯데 오픈’... 롯데 오픈이 열리는 베어즈베스트 <b>청라<\/b> 골프클럽은 국내의 대표적인 난코스다. 코스는 길고 페어웨이는... ",
+			"pubDate":"Fri, 04 Jul 2025 00:01:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 성유진, 우승 정조준",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422458",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316247",
 			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 성유진(대방건설), 이정민(한화큐셀), 최혜진(롯데)이... ",
 			"pubDate":"Thu, 03 Jul 2025 23:58:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 최혜진. 이 악물고 강하게 날린다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422456",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316249",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 성유진(대방건설), 이정민(한화큐셀), 최혜진(롯데)이... ",
-			"pubDate":"Thu, 03 Jul 2025 23:58:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 최혜진. 타구는 어디로",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422457",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316248",
+			"title":"[mhn포토] 최혜진. 이미지 스윙으로 목표 방향 설정",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422454",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316251",
 			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 성유진(대방건설), 이정민(한화큐셀), 최혜진(롯데)이... ",
 			"pubDate":"Thu, 03 Jul 2025 23:58:00 +0900"
 		},
@@ -40,16 +54,23 @@
 			"pubDate":"Thu, 03 Jul 2025 23:58:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 성유진, 우승 정조준",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422458",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316247",
+			"title":"[mhn포토] 이정민, 코치 김혜동과 함께 우승 도전",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422452",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316253",
 			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 성유진(대방건설), 이정민(한화큐셀), 최혜진(롯데)이... ",
 			"pubDate":"Thu, 03 Jul 2025 23:58:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 최혜진. 이미지 스윙으로 목표 방향 설정",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422454",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316251",
+			"title":"[mhn포토] 최혜진. 타구는 어디로",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422457",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316248",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 성유진(대방건설), 이정민(한화큐셀), 최혜진(롯데)이... ",
+			"pubDate":"Thu, 03 Jul 2025 23:58:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 최혜진. 이 악물고 강하게 날린다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422456",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316249",
 			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 성유진(대방건설), 이정민(한화큐셀), 최혜진(롯데)이... ",
 			"pubDate":"Thu, 03 Jul 2025 23:58:00 +0900"
 		},
@@ -75,23 +96,37 @@
 			"pubDate":"Thu, 03 Jul 2025 23:58:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 지한솔, 브이로 시작합니다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422443",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316229",
+			"title":"[mhn포토] 지한솔, 이 악물고 날린다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422439",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316233",
 			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
 			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 지한솔, 엄지 척",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422438",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316234",
+			"title":"[mhn포토] 지한솔, 손목 스트레칭",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422444",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316228",
 			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
 			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 이채은, 똑바로 날린다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422429",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316242",
+			"title":"[mhn포토] 박보겸, 손 인사로 시작해요",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422435",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316236",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
+			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 지한솔, 클럽 이용한 정렬",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422447",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316226",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
+			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 지한솔, 정타 날려 보낸다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422440",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316232",
 			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
 			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
 		},
@@ -117,72 +152,23 @@
 			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 지한솔, 손목 스트레칭",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422444",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316228",
+			"title":"[mhn포토] 지한솔, 브이로 시작합니다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422443",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316229",
 			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
 			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 지한솔, 클럽 이용한 정렬",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422447",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316226",
+			"title":"[mhn포토] 지한솔, 엄지 척",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422438",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316234",
 			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
 			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 지한솔, 정타 날려 보낸다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422440",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316232",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
-			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 박보겸, 손 인사로 시작해요",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422435",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316236",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
-			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 지한솔, 이 악물고 날린다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422439",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316233",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
-			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 박보겸, 우승 부스터 먹는다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422431",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316240",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
-			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 박보겸, 두 팔 곧게 뻗어 날린다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422433",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316238",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
-			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 박보겸, 차분히 목표 지점을 보다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422432",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316239",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
-			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 박보겸, 정타 날려 보낸다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422434",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316237",
-			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
-			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 이채은, 출발 준비 완료",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422430",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316241",
+			"title":"[mhn포토] 이채은, 똑바로 날린다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422429",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316242",
 			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
 			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
 		},
@@ -194,6 +180,20 @@
 			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
 		},
 		{
+			"title":"[mhn포토] 박보겸, 차분히 목표 지점을 보다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316239",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
+			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 박보겸, 우승 부스터 먹는다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422431",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316240",
+			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
+			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
+		},
+		{
 			"title":"[mhn포토] 지한솔, 기도로 시작합니다",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422448",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316225",
@@ -201,16 +201,16 @@
 			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 이채은, 승리의 브이로 출발",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422428",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316243",
+			"title":"[mhn포토] 박보겸, 두 팔 곧게 뻗어 날린다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422433",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316238",
 			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
 			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 지한솔, 내가 원하는 곳은",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422442",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316230",
+			"title":"[mhn포토] 이채은, 승리의 브이로 출발",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=422428",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000316243",
 			"description":"3일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/ 6,684야드)에서 '제15회 롯데 오픈(총상금 12억 원\/ 우승상금 2억 1천6백만 원)' 1라운드가 열렸다. 이채은(메디힐), 박보겸(삼천리), 지한솔(동부건설)이... ",
 			"pubDate":"Thu, 03 Jul 2025 23:48:00 +0900"
 		}
