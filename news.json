@@ -1,15 +1,29 @@
 {
-	"lastBuildDate":"Sat, 05 Jul 2025 19:20:01 +0900",
-	"total":267894,
+	"lastBuildDate":"Sat, 05 Jul 2025 19:30:01 +0900",
+	"total":267895,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘3년차’ 박혜준 첫 우승 도전장, 롯데오픈 최종일 1타 차 단독 선두 출...",
+			"originallink":"https:\/\/sports.khan.co.kr\/article\/202507051920003?pt=nv",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/144\/0001051494",
+			"description":"박혜준은 5일 인천 베어즈베스트 <b>청라<\/b>(파72·6684야드)에서 열린 대회 3라운드에서 보기 없이 이글 하나와 버디 4개를 잡아내며 6언더파 66타를 쳤다. 2라운드까지 9언더파로 공동 2위였던 박혜준은 사흘간 합계... ",
+			"pubDate":"Sat, 05 Jul 2025 19:20:00 +0900"
+		},
 		{
 			"title":"박혜준, 3R 1타 차 선두로 첫 우승 도전 “기회 왔다…잘해보고 싶다”",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=02318966642231568",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006058326",
 			"description":"박혜준(사진=KLPGT 제공) 박혜준은 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 대회 3라운드에서 보기 없이 이글 1개와 버디 4개를 묶어 6언더파 66타를 적어냈다. 3라운드까지 합계 15언더파 201타를 기록한... ",
 			"pubDate":"Sat, 05 Jul 2025 19:11:00 +0900"
+		},
+		{
+			"title":"김효주 '깜짝이야!'",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519206\/?sc=Naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975986",
+			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 김효주가 8번홀 그린에 공을 올리던 중 홀컵으로 들어가려하자 놀라고 있다.",
+			"pubDate":"Sat, 05 Jul 2025 19:08:00 +0900"
 		},
 		{
 			"title":"김효주 '팬들의 응원에 놀라워라'",
@@ -26,25 +40,11 @@
 			"pubDate":"Sat, 05 Jul 2025 19:08:00 +0900"
 		},
 		{
-			"title":"김효주 '깜짝이야!'",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519206\/?sc=Naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975986",
-			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 김효주가 8번홀 그린에 공을 올리던 중 홀컵으로 들어가려하자 놀라고 있다.",
-			"pubDate":"Sat, 05 Jul 2025 19:08:00 +0900"
-		},
-		{
 			"title":"김효주-황유민-김민선7 '따라가는 갤러리들'",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519205\/?sc=Naver",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975985",
 			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 갤러리들이 김효주, 황유민, 김민선7 조를 따라가고 있다.",
 			"pubDate":"Sat, 05 Jul 2025 19:07:00 +0900"
-		},
-		{
-			"title":"지 유아이 '실수는 없어'",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519204\/?sc=Naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975983",
-			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 지 유아이가 8번홀 그린에서 퍼팅하고 있다.",
-			"pubDate":"Sat, 05 Jul 2025 19:06:00 +0900"
 		},
 		{
 			"title":"신다인 '연습한 그대로'",
@@ -61,10 +61,17 @@
 			"pubDate":"Sat, 05 Jul 2025 19:06:00 +0900"
 		},
 		{
-			"title":"이다연 '9번홀 세컨샷'",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519198\/?sc=Naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975979",
-			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 이다연이 9번홀 세컨샷하고 있다.",
+			"title":"지 유아이 '실수는 없어'",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519204\/?sc=Naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975983",
+			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 지 유아이가 8번홀 그린에서 퍼팅하고 있다.",
+			"pubDate":"Sat, 05 Jul 2025 19:06:00 +0900"
+		},
+		{
+			"title":"김수지의 티샷",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519199\/?sc=Naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975980",
+			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 김수지가 9번홀 티샷하고 있다.",
 			"pubDate":"Sat, 05 Jul 2025 19:05:00 +0900"
 		},
 		{
@@ -75,18 +82,11 @@
 			"pubDate":"Sat, 05 Jul 2025 19:05:00 +0900"
 		},
 		{
-			"title":"김수지의 티샷",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519199\/?sc=Naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975980",
-			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 김수지가 9번홀 티샷하고 있다.",
+			"title":"이다연 '9번홀 세컨샷'",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519198\/?sc=Naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975979",
+			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 이다연이 9번홀 세컨샷하고 있다.",
 			"pubDate":"Sat, 05 Jul 2025 19:05:00 +0900"
-		},
-		{
-			"title":"조아연 '완벽하게 올린다'",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519197\/?sc=Naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975977",
-			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 조아연이 9번홀 세컨샷하고 있다.",
-			"pubDate":"Sat, 05 Jul 2025 19:04:00 +0900"
 		},
 		{
 			"title":"황유민 '신중한 퍼팅'",
@@ -96,11 +96,11 @@
 			"pubDate":"Sat, 05 Jul 2025 19:04:00 +0900"
 		},
 		{
-			"title":"최민경 '벙커에서 탈출한다'",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519195\/?sc=Naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975976",
-			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 최민경이 9번홀 벙커에서 탈출하고 있다.",
-			"pubDate":"Sat, 05 Jul 2025 19:03:00 +0900"
+			"title":"조아연 '완벽하게 올린다'",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519197\/?sc=Naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975977",
+			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 조아연이 9번홀 세컨샷하고 있다.",
+			"pubDate":"Sat, 05 Jul 2025 19:04:00 +0900"
 		},
 		{
 			"title":"조아연 '실수 없이'",
@@ -110,11 +110,11 @@
 			"pubDate":"Sat, 05 Jul 2025 19:03:00 +0900"
 		},
 		{
-			"title":"강가율 '티샷'",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519200\/?sc=Naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975973",
-			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 강가율이 9번홀 티샷하고 있다.",
-			"pubDate":"Sat, 05 Jul 2025 19:02:00 +0900"
+			"title":"최민경 '벙커에서 탈출한다'",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519195\/?sc=Naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975976",
+			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 최민경이 9번홀 벙커에서 탈출하고 있다.",
+			"pubDate":"Sat, 05 Jul 2025 19:03:00 +0900"
 		},
 		{
 			"title":"그린에 공 올리는 신유진",
@@ -124,10 +124,17 @@
 			"pubDate":"Sat, 05 Jul 2025 19:02:00 +0900"
 		},
 		{
-			"title":"홍진영2 '버디 길아 보여라'",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519191\/?sc=Naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975972",
-			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 홍진영2가 9번홀 그린에서 퍼팅 라인을 읽고 있다.",
+			"title":"강가율 '티샷'",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519200\/?sc=Naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975973",
+			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 강가율이 9번홀 티샷하고 있다.",
+			"pubDate":"Sat, 05 Jul 2025 19:02:00 +0900"
+		},
+		{
+			"title":"신유진, 미소 지으며 다음 홀로",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519193\/?sc=Naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975971",
+			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 신유진이 9번홀을 파세이브하고 이동하고 있다.",
 			"pubDate":"Sat, 05 Jul 2025 19:01:00 +0900"
 		},
 		{
@@ -138,10 +145,10 @@
 			"pubDate":"Sat, 05 Jul 2025 19:01:00 +0900"
 		},
 		{
-			"title":"신유진, 미소 지으며 다음 홀로",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519193\/?sc=Naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975971",
-			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 신유진이 9번홀을 파세이브하고 이동하고 있다.",
+			"title":"홍진영2 '버디 길아 보여라'",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519191\/?sc=Naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975972",
+			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 홍진영2가 9번홀 그린에서 퍼팅 라인을 읽고 있다.",
 			"pubDate":"Sat, 05 Jul 2025 19:01:00 +0900"
 		},
 		{
@@ -152,16 +159,16 @@
 			"pubDate":"Sat, 05 Jul 2025 19:00:00 +0900"
 		},
 		{
-			"title":"황유민 '갤러리들 앞에서'",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519189\/?sc=Naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975968",
+			"title":"황유민 '그린에 올린다'",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519188\/?sc=Naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975967",
 			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 황유민이 9번홀 세컨샷하고 있다.",
 			"pubDate":"Sat, 05 Jul 2025 18:55:00 +0900"
 		},
 		{
-			"title":"황유민 '그린에 올린다'",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519188\/?sc=Naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975967",
+			"title":"황유민 '갤러리들 앞에서'",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519189\/?sc=Naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975968",
 			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 황유민이 9번홀 세컨샷하고 있다.",
 			"pubDate":"Sat, 05 Jul 2025 18:55:00 +0900"
 		},
@@ -194,13 +201,6 @@
 			"pubDate":"Sat, 05 Jul 2025 18:50:00 +0900"
 		},
 		{
-			"title":"김효주 '좋아'",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519183\/?sc=Naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975962",
-			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 김효주가 9번홀 티샷하고 있다.",
-			"pubDate":"Sat, 05 Jul 2025 18:49:00 +0900"
-		},
-		{
 			"title":"김효주 '생각한 그대로'",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519182\/?sc=Naver",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975961",
@@ -208,11 +208,11 @@
 			"pubDate":"Sat, 05 Jul 2025 18:49:00 +0900"
 		},
 		{
-			"title":"황유민 '밝은 표정'",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519180\/?sc=Naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975958",
-			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 황유민이 9번홀 티샷하고 있다.",
-			"pubDate":"Sat, 05 Jul 2025 18:47:00 +0900"
+			"title":"김효주 '좋아'",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1519183\/?sc=Naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/119\/0002975962",
+			"description":"한국여자프로골프(KLPGA)투어 롯데오픈(총상금 12억원) 3라운드가 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열렸다. 김효주가 9번홀 티샷하고 있다.",
+			"pubDate":"Sat, 05 Jul 2025 18:49:00 +0900"
 		}
 	]
 }
