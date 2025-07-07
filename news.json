@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 07 Jul 2025 10:40:01 +0900",
-	"total":269083,
+	"lastBuildDate":"Mon, 07 Jul 2025 10:50:00 +0900",
+	"total":269084,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"삼성물산·현대건설, 자재 운반용 자율주행 로봇 공동 개발",
+			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1239535",
+			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1239535",
+			"description":"앞서 양사는 지난 3일 인천 <b>청라<\/b> 하나드림타운에서 시연회를 개최했다. 향후 수직 운반 기능과 복합 동선 대응 기술도 추가 개발할 예정이다. 한편 삼성물산과 현대건설은 지난 2023년 '건설 로봇 분야 에코 시스템 구축... ",
+			"pubDate":"Mon, 07 Jul 2025 10:42:00 +0900"
+		},
 		{
 			"title":"KLPGA 롯데오픈 역대 우승자 '15회 장신 골퍼 박혜준 우승'",
 			"originallink":"http:\/\/www.thegolftimes.co.kr\/news\/articleView.html?idxno=62992",
@@ -187,17 +194,17 @@
 			"pubDate":"Mon, 07 Jul 2025 08:32:00 +0900"
 		},
 		{
-			"title":"삼성물산-현대건설, 로봇 개발 위해 '맞손'",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=655390",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=655390",
-			"description":"삼성물산과 현대건설은 공동으로 연구·개발한 건설 현장 자재 운반 로봇의 현장 시연회를 지난 3일 현대건설 인천 <b>청라<\/b> 하나드림타운 현장에서 개최했다고 밝혔다. 삼성물산은 이후 국내 현장에서 실증 운영을 진행해... ",
-			"pubDate":"Mon, 07 Jul 2025 08:18:00 +0900"
-		},
-		{
 			"title":"박혜준 롯데오픈서 첫 승 감격..18번 홀 ‘탭인 버디’로 1타 차 우승",
 			"originallink":"https:\/\/biz.heraldcorp.com\/article\/10525526?ref=naver",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/016\/0002495462",
 			"description":"박혜준은 6일 인천 <b>청라<\/b>의 베어즈베스트 <b>청라<\/b> 골프클럽(파72·6684야드)에서 열린 대회 최종일 경기에서 18번 홀(파5)의 ‘탭인 버디’로 1타 차 우승을 차지했다. 버디 3개에 보기 1개로 2타를 줄인 박혜준은 최종 합계... ",
+			"pubDate":"Mon, 07 Jul 2025 08:18:00 +0900"
+		},
+		{
+			"title":"삼성물산-현대건설, 로봇 개발 위해 '맞손'",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=655390",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=655390",
+			"description":"삼성물산과 현대건설은 공동으로 연구·개발한 건설 현장 자재 운반 로봇의 현장 시연회를 지난 3일 현대건설 인천 <b>청라<\/b> 하나드림타운 현장에서 개최했다고 밝혔다. 삼성물산은 이후 국내 현장에서 실증 운영을 진행해... ",
 			"pubDate":"Mon, 07 Jul 2025 08:18:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=233025",
 			"description":"삼성물산 건설부문(이하 삼성물산)은 현대건설과 공동으로 연구·개발한 건설 현장 자재 운반 로봇의 현장 시연회를 지난 3일 현대건설 인천 <b>청라<\/b> 하나드림타운 현장에서 개최했다고 7일 밝혔다. 삼성물산은 이후 국내... ",
 			"pubDate":"Mon, 07 Jul 2025 08:14:00 +0900"
-		},
-		{
-			"title":"[박상욱의 기후 1.5] K-배터리, K-전기차 무색한 '더딘 전기차 전환' ④...",
-			"originallink":"https:\/\/news.jtbc.co.kr\/article\/NB12253352?influxDiv=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000447432?sid=102",
-			"description":"특히, 인천 <b>청라<\/b>에서의 전기차 화재는 보급량 급감의 주요한 원인으로 지목되고 있습니다. 반면, 전기차... 이런 가운데, 다수 시민들을 공포에 몰아넣었던 <b>청라<\/b> BEV 화재 사건 당시, 정부는 오정보의 확산을 막고... ",
-			"pubDate":"Mon, 07 Jul 2025 08:00:00 +0900"
 		}
 	]
 }
