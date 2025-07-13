@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 13 Jul 2025 17:10:01 +0900",
-	"total":269642,
+	"lastBuildDate":"Sun, 13 Jul 2025 17:20:01 +0900",
+	"total":269643,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"무더위 물리친 분수쇼",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1151721",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1151721",
+			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 야간에도 무더위가 이어진 12일 인천시 서구 <b>청라<\/b>호수공원을 찾은 시민들이 분수쇼를 보며 더위를 식히고 있다.",
+			"pubDate":"Sun, 13 Jul 2025 17:18:00 +0900"
+		},
 		{
 			"title":"전기차 화재 부른 덴드라이트 … 한국화학연, 보호막 기술 개발",
 			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=232845",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1295804",
 			"description":"10일 오전 9시쯤 인천 서구 <b>청라<\/b>동 한 아파트 19층에서 불이나 10여 분 만에 꺼졌다. 이 불로 인한 인명피해는 없었으나, 러닝머신 등을 태워 소방 추산 67만원 상당의 재산 피해가 났다. 소방 당국은 집 안에서 충전 중이던... ",
 			"pubDate":"Fri, 11 Jul 2025 13:04:00 +0900"
-		},
-		{
-			"title":"신혼 맞춤형 단지 인천가정2 A2 신혼희망타운 잔여세대 이달 공급예정",
-			"originallink":"https:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=1031779",
-			"link":"https:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=1031779",
-			"description":"단지 인근에는 유치원 및 초등학교 신설이 예정돼 있으며, <b>청라<\/b>, 가정1지구, 루원시티 등과 가까워 상업시설과 문화시설 이용이 편리하다. 여기에 근린공원, 심곡천, 승학산 등 자연환경도 인접해 쾌적한 주거환경을... ",
-			"pubDate":"Fri, 11 Jul 2025 11:48:00 +0900"
 		}
 	]
 }
