@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 21 Jul 2025 14:20:00 +0900",
-	"total":270005,
+	"lastBuildDate":"Mon, 21 Jul 2025 14:30:01 +0900",
+	"total":270007,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구, 서해구·<b>청라<\/b>구 최종 명칭 선호도 여론조사 실시",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1262284",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1262284",
+			"description":"매일일보 = 이종민 기자  |  인천 서구는 이달 21일부터 8월 6일까지 17일간 '서해구, <b>청라<\/b>구'(가나다순)를... 안내문에는 그간의 추진 경과와 함께, 최종 후보인 '서해구', '<b>청라<\/b>구' 명칭이 갖는 의미와 가치가 알기 쉽게... ",
+			"pubDate":"Mon, 21 Jul 2025 14:26:00 +0900"
+		},
+		{
+			"title":"&quot;제3연륙교 유료화 국민 수탈... 국토부, 인천시에 혈세 부담 떠넘겨&quot;",
+			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=305618",
+			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=305618",
+			"description":"영종·<b>청라<\/b> 분양대금·세금·통행료 삼중 부담 단체들 설명을 정리하면, 제3연륙교는 한국토지주택공사(LH)의 영종·<b>청라<\/b> 택지개발분담금과 인천시 예산 등으로 건설 중이다. LH의 분담금은 조성원가에 포함돼 영종·<b>청라<\/b>... ",
+			"pubDate":"Mon, 21 Jul 2025 14:24:00 +0900"
+		},
 		{
 			"title":"서해구·<b>청라<\/b>구 최종 명칭 선호도 여론조사",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3330444",
@@ -61,17 +75,17 @@
 			"pubDate":"Mon, 21 Jul 2025 13:39:00 +0900"
 		},
 		{
-			"title":"서구, 서해-<b>청라<\/b>구 최종 명칭 선호도 여론조사",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2086772",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2086772",
-			"description":"인천시 서구는 다음달 6일까지 ‘서해구, <b>청라<\/b>구’(가나다순)를 후보로 최종 구 명칭 선호도 조사를... 안내문에는 그간의 추진 경과와 함께, 최종 후보인 ‘서해구’, ‘<b>청라<\/b>구’ 명칭이 갖는 의미와 가치가 알기 쉽게... ",
-			"pubDate":"Mon, 21 Jul 2025 13:34:00 +0900"
-		},
-		{
 			"title":"인천 서구, 새로운 구 명칭 결정 위한 주민 여론조사 실시",
 			"originallink":"https:\/\/www.viva100.com\/article\/20250721500826",
 			"link":"https:\/\/www.viva100.com\/article\/20250721500826",
 			"description":"이번 조사는 서해구와 <b>청라<\/b>구 중 최종 명칭을 선택하기 위한 것으로 다음달 6일까지 17일간 진행된다. 21일... 안내문에는 추진 경과와 함께 서해구와 <b>청라<\/b>구 명칭의 의미와 가치가 설명될 예정이다. 여론조사 결과는 제6회... ",
+			"pubDate":"Mon, 21 Jul 2025 13:34:00 +0900"
+		},
+		{
+			"title":"서구, 서해-<b>청라<\/b>구 최종 명칭 선호도 여론조사",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2086772",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2086772",
+			"description":"인천시 서구는 다음달 6일까지 ‘서해구, <b>청라<\/b>구’(가나다순)를 후보로 최종 구 명칭 선호도 조사를... 안내문에는 그간의 추진 경과와 함께, 최종 후보인 ‘서해구’, ‘<b>청라<\/b>구’ 명칭이 갖는 의미와 가치가 알기 쉽게... ",
 			"pubDate":"Mon, 21 Jul 2025 13:34:00 +0900"
 		},
 		{
@@ -117,7 +131,7 @@
 			"pubDate":"Mon, 21 Jul 2025 12:18:00 +0900"
 		},
 		{
-			"title":"“제3연륙교 유료화는 정부의 이중·삼중 국민 수탈”…인천 지역사회,...",
+			"title":"“제3연륙교 유료화, 이중·삼중 국민 수탈”…인천 지역사회, 전면 무...",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20250721580070",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000078932?sid=102",
 			"description":"“제3연륙교 유료화는 정부가 국민에게 이중·삼중 비용을 부담시키는 수탈입니다.” 인천 영종,<b>청라<\/b>... 영종·<b>청라<\/b> 입주민이 분양대금으로 선납을 했다”고 강조했다. 이어 “인천시도 재정으로 약 1천억원을 투입했다”... ",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2356680",
 			"description":"이번에 도입된 청소차는 여름철 관광객이 집중되는 대천해수욕장, 원산도, <b>청라<\/b> 지역 등 관광지와 시가지의 청결활동을 강화하기 위해 우선 투입되며, 생활쓰레기 수거의 신속성과 체계적인 처리를 통해 쾌적한 도시 환경... ",
 			"pubDate":"Mon, 21 Jul 2025 10:38:00 +0900"
-		},
-		{
-			"title":"[위클리오늘] '<b>청라<\/b> 피크원 푸르지오' 주말 3일간 1만3000명 방문 '구름...",
-			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=711420",
-			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=711420",
-			"description":"'<b>청라<\/b> 피크원 푸르지오' 분양사업장 모습 (사진=대우건설) 인천 <b>청라<\/b> 국제업무지구 첫 주거단지 '<b>청라<\/b> 피크원 푸르지오'의 분양사업장에 지난 18일부터 주말 3일간 약 1만3000명의 방문객이 몰리며 성황을 이뤘다.... ",
-			"pubDate":"Mon, 21 Jul 2025 10:30:00 +0900"
-		},
-		{
-			"title":"‘<b>청라<\/b> 피크원 푸르지오’… 견본주택 개관 3일간 1만3000명 몰려",
-			"originallink":"https:\/\/www.viva100.com\/article\/20250721500245",
-			"link":"https:\/\/www.viva100.com\/article\/20250721500245",
-			"description":"인천 <b>청라<\/b> 국제업무지구 첫 주거단지 ‘<b>청라<\/b> 피크원 푸르지오’의 견본주택에 지난 18일부터 20일까지 주말 3일 동안 약 1만3000명의 방문객이 몰렸다. 21일 부동산업계에 따르면 지난 18일 개관한 ‘<b>청라<\/b> 피크원... ",
-			"pubDate":"Mon, 21 Jul 2025 10:18:00 +0900"
 		}
 	]
 }
