@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 22 Jul 2025 08:50:01 +0900",
-	"total":270060,
+	"lastBuildDate":"Tue, 22 Jul 2025 09:00:01 +0900",
+	"total":270061,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"7월 21일 주식시장 주요공시",
+			"originallink":"https:\/\/www.nbnews.kr\/news\/articleView.html?idxno=112174",
+			"link":"https:\/\/www.nbnews.kr\/news\/articleView.html?idxno=112174",
+			"description":"68%) 규모 공급계약(스타필드<b>청라<\/b>현장 일반설비공사(4공구)) 체결(계약기간:2025-07-21~2027-12-31) ▶티쓰리, 보통주 1,485,148주(30억원) 규모 자사주 취득 결정(기간:2025-07-22~2025-10-21) ▶감성코퍼레이션... ",
+			"pubDate":"Tue, 22 Jul 2025 08:50:00 +0900"
+		},
 		{
 			"title":"인천 지역사회 &quot;재정사업 '제3연륙교' 전면 무료화해야&quot;",
 			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6373373?utm_source=naver&utm_medium=article&utm_campaign=20250722082424",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=602329",
 			"description":"인천 서구는 이달 21일부터 8월 6일까지 17일간 '서해구, <b>청라<\/b>구'(가나다순)를 후보로 최종 구 명칭 선호도... 안내문에는 그간의 추진 경과와 함께, 최종 후보인 '서해구', '<b>청라<\/b>구' 명칭이 갖는 의미와 가치가 알기 쉽게... ",
 			"pubDate":"Mon, 21 Jul 2025 16:56:00 +0900"
-		},
-		{
-			"title":"기업 공시[7월 21일]",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2GVFQPW1RB",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004511714?sid=101",
-			"description":"스타필드<b>청라<\/b>현장 일반설비공사(4공구) 수주 공급계약 체결 ▲동부건설=1001억 원 규모 개포현대4차아파트 소규모재건축정비사업 시공자 선정 ▲삼일씨엔에스=에이치에스화성과 460억 원 규모 시화 MTV... ",
-			"pubDate":"Mon, 21 Jul 2025 16:37:00 +0900"
 		}
 	]
 }
