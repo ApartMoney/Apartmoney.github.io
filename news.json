@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Wed, 23 Jul 2025 17:00:01 +0900",
-	"total":270135,
+	"lastBuildDate":"Wed, 23 Jul 2025 17:10:01 +0900",
+	"total":270139,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"7월 23일 입찰정보",
+			"originallink":"https:\/\/www.gasnews.com\/news\/articleView.html?idxno=121088",
+			"link":"https:\/\/www.gasnews.com\/news\/articleView.html?idxno=121088",
+			"description":"10:00 ▣ <b>청라<\/b> 생활문화센터 건립공사(기계-GHP실외기) 발주처 : 인천광역시 서구 마 감 : 7월 29일 10:00 ▣ 경북권 공공어린이 재활의료센터 건립공사 GHP실외기 구입 발주처 : 경상북도 마 감 : 7월 29일 12:00... ",
+			"pubDate":"Wed, 23 Jul 2025 17:08:00 +0900"
+		},
+		{
+			"title":"주거용 오피스텔 '<b>청라<\/b> 피크원 푸르지오' 평균 경쟁률 2.38대 1 기록",
+			"originallink":"https:\/\/www.goodkyung.com\/news\/articleView.html?idxno=268285",
+			"link":"https:\/\/www.goodkyung.com\/news\/articleView.html?idxno=268285",
+			"description":"인천 <b>청라<\/b>국제업무단지에 들어서는 주거용 오피스텔 '<b>청라<\/b> 피크원 푸르지오'가 전 타입 청약 마감에 성공했다. 23일 한국부동산원 청약홈에 따르면 '<b>청라<\/b> 피크원 푸르지오'는 전날 진행된 청약접수에서 1056실... ",
+			"pubDate":"Wed, 23 Jul 2025 17:06:00 +0900"
+		},
+		{
+			"title":"인천 고정밀 전자지도, 자율주행·재난대응 '디지털 기반' 구축",
+			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=305811",
+			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=305811",
+			"description":"자율주행과 스마트시티 구현의 핵심 인프라 인천경제자유구역 송도와 <b>청라<\/b>는 자율주행 실증지구로 운영되고 있다. 이곳에서 고정밀 전자지도는 자율주행의 '눈' 역할을 한다. 국토교통부 공공데이터에 따르면... ",
+			"pubDate":"Wed, 23 Jul 2025 17:00:00 +0900"
+		},
+		{
+			"title":"[독자시점주의 〈From you〉] 당신이 묻는 계양구는?…서른살 청년 도시...",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1297107",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1297107",
+			"description":"경인교대 부설초 등으로 저학년 때는 주목을 받다가 학년이 올라가면서 <b>청라<\/b>, 삼산 등 비교적 학업 성취율 등이 높은 다른 지역으로 빠져나간다. 여기에 익살스러운 학교와 학원가 풍경도 더했다. ▲ 제21대 대통령 당선이... ",
+			"pubDate":"Wed, 23 Jul 2025 17:00:00 +0900"
+		},
 		{
 			"title":"[브리프] 현대건설 대우건설 GS건설 HDC현대산업개발 두산에너빌리티 外",
 			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=337434",
@@ -103,20 +131,6 @@
 			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
 		},
 		{
-			"title":"'찜통 폭염'",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900730",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379935?sid=102",
-			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
-			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
-		},
-		{
-			"title":"'찜통 폭염'",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900722",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379937?sid=102",
-			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
-			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
-		},
-		{
 			"title":"폭염 식혀주는 쿨링포그",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900726",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379931?sid=102",
@@ -142,6 +156,20 @@
 			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900725",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379933?sid=102",
 			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 손 선풍기를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
+			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
+		},
+		{
+			"title":"'찜통 폭염'",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900722",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379937?sid=102",
+			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
+			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
+		},
+		{
+			"title":"'찜통 폭염'",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900730",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379935?sid=102",
+			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
 			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"https:\/\/www.bizwork.co.kr\/news\/articleView.html?idxno=404530",
 			"description":"인천 <b>청라<\/b>국제업무단지 첫 주거단지 '<b>청라<\/b> 피크원 푸르지오'가 최고 4.36대 1의 경쟁률을 나타내며, 모든 타입 청약 마감을 기록했다. 23일 한국부동산원 청약홈에 따르면, '<b>청라<\/b> 피크원 푸르지오'는 지난 22일 진행된... ",
 			"pubDate":"Wed, 23 Jul 2025 11:24:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 피크원 푸르지오 전 타입 청약 마감",
-			"originallink":"https:\/\/www.meconomynews.com\/news\/articleView.html?idxno=116937",
-			"link":"https:\/\/www.meconomynews.com\/news\/articleView.html?idxno=116937",
-			"description":"대우건설 시공, <b>청라<\/b>스마트시티 시행 1056실 모집에 2518건 청약 평균 경쟁률 2.38대 1, 최고 4.36대 1 [시장경제=정규호 기자] <b>청라<\/b> 피크원 푸르지오 투시도. 사진=대우건설 대우건설은 '<b>청라<\/b> 피크원 푸르지오'의 모든... ",
-			"pubDate":"Wed, 23 Jul 2025 11:22:00 +0900"
-		},
-		{
-			"title":"'<b>청라<\/b> 피크원 푸르지오' 전 타입 청약 마감···평균 경쟁률 2.38대 1",
-			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=704611",
-			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=704611",
-			"description":"인천 <b>청라<\/b>국제업무단지 첫 주거단지 '<b>청라<\/b> 피크원 푸르지오'가 최고 4.36대 1의 경쟁률을 기록하며 모든 타입 청약 마감을 기록했다. 23일 한국부동산원 청약홈에 따르면 '<b>청라<\/b> 피크원 푸르지오'는 지난 22일 진행된... ",
-			"pubDate":"Wed, 23 Jul 2025 11:18:00 +0900"
-		},
-		{
-			"title":"인천시민사회, 제3연륙교 유료화 반대…&quot;국민 혈세 떠넘긴 국토부·인천...",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1168826",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1168826",
-			"description":"(영종~<b>청라<\/b> 연결, 광역시도44호선) 개통을 앞두고 '유료화 여부'를 둘러싼 인천시와 국토교통부, 인천경제청... 영종·<b>청라<\/b> 입주민이 분양 대금으로 이미 '선납'을 했고, 인천시도 시 재정으로 약 1,000억 원을 투입했다.... ",
-			"pubDate":"Wed, 23 Jul 2025 10:52:00 +0900"
-		},
-		{
-			"title":"'<b>청라<\/b> 피크원 푸르지오' 청약 마감...최고 경쟁률 4.36대 1",
-			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=259891",
-			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=259891",
-			"description":"인천 <b>청라<\/b>국제업무단지 내 첫 주거단지로 공급된 '<b>청라<\/b> 피크원 푸르지오'가 최고 4.36대 1의 경쟁률을 기록하며 전 타입 청약 마감에 성공했다. 23일 한국부동산원 청약홈에 따르면 '<b>청라<\/b> 피크원 푸르지오'는 지난... ",
-			"pubDate":"Wed, 23 Jul 2025 10:48:00 +0900"
 		}
 	]
 }
