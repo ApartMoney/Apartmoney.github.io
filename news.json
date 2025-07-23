@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 24 Jul 2025 06:10:01 +0900",
-	"total":270150,
+	"lastBuildDate":"Thu, 24 Jul 2025 06:20:01 +0900",
+	"total":270151,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘 날씨] 한낮 최고 36도 불볕더위 기승-서울 34도, 대구·광주 36도⋯...",
+			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=397560",
+			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=397560",
+			"description":"사진은 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 부채를 들고 이동하고 있는 모습. \/뉴시스 24일 한낮 최고기온이 36도까지 오르며 불볕더위가 기승을 부리겠다. 밤사이 곳곳에 열대야가... ",
+			"pubDate":"Thu, 24 Jul 2025 06:14:00 +0900"
+		},
 		{
 			"title":"[인천판\/게시판]인천",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20250723\/132057939\/2",
@@ -187,10 +194,10 @@
 			"pubDate":"Wed, 23 Jul 2025 13:08:00 +0900"
 		},
 		{
-			"title":"숨 막히는 폭염",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900728",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379932?sid=102",
-			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 손 선풍기를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
+			"title":"계속되는 폭염",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900727",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379934?sid=102",
+			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 시민들이 손 선풍기와 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
 			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
 		},
 		{
@@ -201,17 +208,10 @@
 			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
 		},
 		{
-			"title":"계속되는 폭염",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900727",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379934?sid=102",
-			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 시민들이 손 선풍기와 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
-			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
-		},
-		{
-			"title":"'찜통 폭염'",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900722",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379937?sid=102",
-			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
+			"title":"숨 막히는 폭염",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900728",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379932?sid=102",
+			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 손 선풍기를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
 			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
 		}
 	]
