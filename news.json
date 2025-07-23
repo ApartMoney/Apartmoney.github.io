@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 23 Jul 2025 13:50:01 +0900",
-	"total":270126,
+	"lastBuildDate":"Wed, 23 Jul 2025 14:00:00 +0900",
+	"total":270127,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"한국·북마케도니아 합동공연 '전쟁과 평화:일렉트라 스토리'",
+			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1153037",
+			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1153037",
+			"description":"기호일보 - 아침을 여는 신문, KIHOILBO 한국·북마케도니아 합동공연 '전쟁과 평화:일렉트라 스토리' 포스터 제43회 대한민국연극제 인천이 오는 26일 <b>청라<\/b>블루노바홀에서 한국·북마케도니아 합동공연 '전쟁과 평화... ",
+			"pubDate":"Wed, 23 Jul 2025 13:56:00 +0900"
+		},
 		{
 			"title":"인천시설공단, <b>청라<\/b>호수공원 ‘생태마루’ 조성 팔 걷다",
 			"originallink":"http:\/\/www.g-enews.com\/ko-kr\/news\/article\/news_all\/20250723104023813683e7a7bd2e_1\/article.html",
@@ -19,24 +26,10 @@
 			"pubDate":"Wed, 23 Jul 2025 13:08:00 +0900"
 		},
 		{
-			"title":"계속되는 폭염",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900727",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379934?sid=102",
+			"title":"폭염 식혀주는 쿨링포그",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900726",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379931?sid=102",
 			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 시민들이 손 선풍기와 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
-			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
-		},
-		{
-			"title":"숨 막히는 폭염",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900728",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379932?sid=102",
-			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 손 선풍기를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
-			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
-		},
-		{
-			"title":"숨 막히는 폭염",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900723",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379936?sid=102",
-			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
 			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
 		},
 		{
@@ -61,23 +54,37 @@
 			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
 		},
 		{
-			"title":"폭염 식혀주는 쿨링포그",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900726",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379931?sid=102",
+			"title":"숨 막히는 폭염",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900723",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379936?sid=102",
+			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
+			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
+		},
+		{
+			"title":"계속되는 폭염",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900727",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379934?sid=102",
 			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 시민들이 손 선풍기와 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
 			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
 		},
 		{
-			"title":"'찜통 폭염'",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900730",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379935?sid=102",
-			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
+			"title":"숨 막히는 폭염",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900728",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379932?sid=102",
+			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 손 선풍기를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
 			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
 		},
 		{
 			"title":"'찜통 폭염'",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900722",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379937?sid=102",
+			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
+			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
+		},
+		{
+			"title":"'찜통 폭염'",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250723_0020900730",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013379935?sid=102",
 			"description":"폭염이 연일 계속된 23일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 한 시민이 부채를 들고 이동하고 있다. 2025.07.23. lmy@newsis.com",
 			"pubDate":"Wed, 23 Jul 2025 13:03:00 +0900"
 		},
@@ -166,17 +173,17 @@
 			"pubDate":"Wed, 23 Jul 2025 09:56:00 +0900"
 		},
 		{
-			"title":"'<b>청라<\/b> 피크원 푸르지오' 청약 마감···평균 2.38대1·최고 4.36대1",
-			"originallink":"https:\/\/www.smartfn.co.kr\/news\/articleView.html?idxno=115308",
-			"link":"https:\/\/www.smartfn.co.kr\/news\/articleView.html?idxno=115308",
-			"description":"| 스마트에프엔 = 최형호 기자 | 인천 <b>청라<\/b>국제업무단지 첫 주거단지 '<b>청라<\/b> 피크원 푸르지오'가 최고 4.36대 1의 경쟁률을 나타내며, 모든 타입 청약 마감을 기록했다. 23일 한국부동산원 청약홈에 따르면 '<b>청라<\/b>... ",
-			"pubDate":"Wed, 23 Jul 2025 09:54:00 +0900"
-		},
-		{
 			"title":"'<b>청라<\/b> 피크원 푸르지오' 최고 경쟁률 4.36대 1, 전 타입 청약 마감!",
 			"originallink":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=86482",
 			"link":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=86482",
 			"description":"|스마트투데이=이재수 기자| 인천 <b>청라<\/b>국제업무단지에서 처음 공급한 '<b>청라<\/b> 피크원 푸르지오'가 최고 4.36대 1의 경쟁률로 모든 타입 청약 마감에 성공했다. 23일 한국부동산원 청약홈에 따르면 '<b>청라<\/b> 피크원 푸르지오... ",
+			"pubDate":"Wed, 23 Jul 2025 09:54:00 +0900"
+		},
+		{
+			"title":"'<b>청라<\/b> 피크원 푸르지오' 청약 마감···평균 2.38대1·최고 4.36대1",
+			"originallink":"https:\/\/www.smartfn.co.kr\/news\/articleView.html?idxno=115308",
+			"link":"https:\/\/www.smartfn.co.kr\/news\/articleView.html?idxno=115308",
+			"description":"| 스마트에프엔 = 최형호 기자 | 인천 <b>청라<\/b>국제업무단지 첫 주거단지 '<b>청라<\/b> 피크원 푸르지오'가 최고 4.36대 1의 경쟁률을 나타내며, 모든 타입 청약 마감을 기록했다. 23일 한국부동산원 청약홈에 따르면 '<b>청라<\/b>... ",
 			"pubDate":"Wed, 23 Jul 2025 09:54:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=230159",
 			"description":"더불어 서울지하철 7호선의 <b>청라<\/b> 연장선도 진행될 예정이다. <b>청라<\/b>국제도시부터 석남역을 잇는 이 노선은 오는 2029년 개통 예정으로 개통 시 인천 서북권에서 강남, 여의도, 구로 등 서울 주요 직주근접 지역으로의 이동... ",
 			"pubDate":"Wed, 23 Jul 2025 09:00:00 +0900"
-		},
-		{
-			"title":"[인천TV] '대장홍대선 박촌 연장, 공무원 동원 의혹', 계양구 &quot;문제없다...",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=305758",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=305758",
-			"description":"인천시는 대장신도시를 거친 뒤 <b>청라<\/b>연장구간은 작전역으로 이어지고, 계양테크노밸리로 향하는 노선은 테크노밸리 거주지를 거쳐 가칭 도시첨단산업단지역으로 이어진 뒤 향후 계양역까지 이어지게 계획 중입니다.... ",
-			"pubDate":"Wed, 23 Jul 2025 08:54:00 +0900"
 		}
 	]
 }
