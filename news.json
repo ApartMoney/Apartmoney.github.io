@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 29 Jul 2025 08:00:01 +0900",
-	"total":270368,
+	"lastBuildDate":"Tue, 29 Jul 2025 08:10:01 +0900",
+	"total":270370,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전국 주요 신문 톱뉴스](29일 조간)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20250729014900505?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015535014?sid=102",
+			"description":"일간경기 = '<b>청라<\/b>하늘대교' 지역 상생 다리 되나 ▲ 중부일보 = '근로감독권 공유' 기대 커졌다 ▲ 현대일보 = 경기도 온열질환자 작년보다 6배 '껑충' ▲ 강원도민일보 = 16년 전 고배 첨단의료복합단지 추가 지정 총력전... ",
+			"pubDate":"Tue, 29 Jul 2025 08:00:00 +0900"
+		},
+		{
+			"title":"김동일 보령시장, 피서지 근무자 현지 격려 방문",
+			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1249835",
+			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1249835",
+			"description":"이번 피서지 방문은 28일부터 30일까지 3일 동안 진행되며 대천해수욕장 등 주요 관광지와 석탄박물관, <b>청라<\/b>면 냉풍욕장 등 자연발생 유원지, 유관기관·단체 등 총 54개소를 방문한다. 김 시장은 28일 오전 석탄박물관을... ",
+			"pubDate":"Tue, 29 Jul 2025 08:00:00 +0900"
+		},
 		{
 			"title":"영종도 세 번째 다리…‘<b>청라<\/b>하늘대교’로 잠정 결정",
 			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8315922&ref=A",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.kukinews.com\/article\/view\/kuk202507280228",
 			"description":"인천시는 영종대교·인천대교에 이어 영종도와 육지를 연결하는 세 번째 해상교량인 인천 제3연륙교 명칭을 '<b>청라<\/b>하늘대교'로 결정했다고 28일 밝혔다. 시에 따르면 <b>청라<\/b>하늘대교는 중구와 서구 양측이 제안한 지역별... ",
 			"pubDate":"Mon, 28 Jul 2025 18:28:00 +0900"
-		},
-		{
-			"title":"[서부발전 소식] 서인천발전본부, 수도권 최장기 녹색기업 지정 쾌거",
-			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=697931",
-			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=697931",
-			"description":"인천 <b>청라<\/b>·검단, 김포 신도시 등 17만 세대에 폐열회수설비를 활용한 난방열을 공급하고 있으며, '중소기업 환경 멘토링'을 통해 관련 기술과 운영 방안을 전수하고 있다. 또 '1사 1하천 가꾸기' 활동으로 공촌천 정화... ",
-			"pubDate":"Mon, 28 Jul 2025 18:14:00 +0900"
-		},
-		{
-			"title":"수천억 들인 <b>청라<\/b> ‘IHP첨단산단’… 대형화물차 차고지 전락 [현장, 그...",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20250728580323",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000079672?sid=102",
-			"description":"“말이 첨단산업단지지, 이건 뭐 대형 화물차 차고지나 다름없어요.” 28일 오후 5시께 인천 서구 <b>청라<\/b>동... 인천 <b>청라<\/b>동 IHP도시첨단산업단지가 대형 화물차 차고지로 전락하고 있어 입주 기업들이 큰 불편을 겪고 있다.... ",
-			"pubDate":"Mon, 28 Jul 2025 18:10:00 +0900"
 		}
 	]
 }
