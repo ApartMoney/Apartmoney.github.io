@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 01 Aug 2025 03:00:01 +0900",
-	"total":270686,
+	"lastBuildDate":"Fri, 01 Aug 2025 03:10:01 +0900",
+	"total":270687,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천 外",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20250801\/132108850\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003651814?sid=102",
+			"description":"11∼13일 오전 10시∼낮 12시 <b>청라<\/b>호수도서관 세미나실1. □보드게임 강좌=초등학교 4∼6학년생 대상 ‘여름방학 특강―보드게임으로 배우는 미디어 리터러시’ 참가자 20명. 12일 오전 10시∼낮 12시 <b>청라<\/b>국제도서... ",
+			"pubDate":"Fri, 01 Aug 2025 03:05:00 +0900"
+		},
 		{
 			"title":"[<b>청라<\/b> 전기사 화재 1년] 수사·수습 장기화…아파트엔 깊은 상흔",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1298104",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202507310935237820803",
 			"description":"인천시 지명위에 이의제기할 것 인천 서구(구청장 강범석)가 시 지명위원회가 제3연륙교 명칭으로 ‘<b>청라<\/b>하늘대교’를 결정한 데 대해 아쉬움을 표하며, 이의제기를 통해 ‘<b>청라<\/b>대교’ 가 될 수 있도록 행정력을 쏟겠다고... ",
 			"pubDate":"Thu, 31 Jul 2025 11:42:00 +0900"
-		},
-		{
-			"title":"인천영종 A33·A37·A60 공공분양 잔여세대 선착순 공급",
-			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=833873",
-			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=833873",
-			"description":"또한 <b>청라<\/b>국제도시와 영종을 잇는 제3연륙교가 2026년 개통 예정으로, 향후 교통 여건 개선에 대한 기대감도 높다. 주변 생활 인프라도 안정적이다. 대형마트, 병원, 영화관 등 생활시설, 인천과학고·국제고·하늘고 등... ",
-			"pubDate":"Thu, 31 Jul 2025 11:14:00 +0900"
 		}
 	]
 }
