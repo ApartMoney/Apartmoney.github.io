@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 04 Aug 2025 06:00:01 +0900",
-	"total":270770,
+	"lastBuildDate":"Mon, 04 Aug 2025 06:10:01 +0900",
+	"total":270771,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천 시장·군수·구청장 일정 \/ 8월 4일(월)]",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=448661",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=448661",
+			"description":"성금 전달식 (15:00 집무실) △ 윤환 계양구청장 주간 현안업무 회의 (09:00 소회의실) △ 강범석 서구청장 구청장 간부회의 (09:00 구청장실) '<b>청라<\/b> 아파트 지하주차장 전기차 화재백서' 중간보고회 (16:00 재난안전상황실)",
+			"pubDate":"Mon, 04 Aug 2025 06:00:00 +0900"
+		},
 		{
 			"title":"인천경제자유구역청, 'IFEZ 스마트시티 기반서비스 1단계' 준공",
 			"originallink":"https:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=488315",
@@ -138,17 +145,17 @@
 			"pubDate":"Sat, 02 Aug 2025 15:22:00 +0900"
 		},
 		{
-			"title":"인천시 서구 <b>청라<\/b>1동, 청소년과 함께 금연 캠페인",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3340927",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3340927",
-			"description":"지난 26일, 인천 서구 <b>청라<\/b>1동 주민자치회와 청소년들이 <b>청라<\/b>커낼웨이 일대에서 금연지도원 활동을 하고 기념촬영을 하고 있다. 사진=서구청  인천 서구 <b>청라<\/b>1동 행정복지센터 주민자치회가 지난 26일, <b>청라<\/b>커낼웨이... ",
-			"pubDate":"Sat, 02 Aug 2025 10:44:00 +0900"
-		},
-		{
 			"title":"인천 서구자원봉사센터 청소년 자원봉사학교 성료",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3340929",
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3340929",
 			"description":"이번 프로그램은 환경교육과 자원순환 체험, 화재 안전 및 응급처치 교육, 장애인식 개선 교육 및 체험, 인천환경공단 <b>청라<\/b>사업소 견학으로 구성됐으며 참가한 청소년들은 활동을 통해 환경보호, 안전의식, 인권 존중 등... ",
+			"pubDate":"Sat, 02 Aug 2025 10:44:00 +0900"
+		},
+		{
+			"title":"인천시 서구 <b>청라<\/b>1동, 청소년과 함께 금연 캠페인",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3340927",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3340927",
+			"description":"지난 26일, 인천 서구 <b>청라<\/b>1동 주민자치회와 청소년들이 <b>청라<\/b>커낼웨이 일대에서 금연지도원 활동을 하고 기념촬영을 하고 있다. 사진=서구청  인천 서구 <b>청라<\/b>1동 행정복지센터 주민자치회가 지난 26일, <b>청라<\/b>커낼웨이... ",
 			"pubDate":"Sat, 02 Aug 2025 10:44:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=306244",
 			"description":"이어 <b>청라<\/b>소각장 자원순환센터 이전 입지 선정에 대해서는 &quot;현재 12개 후보지를 3개로 압축하는 과정을 진행할 예정&quot;이라며 &quot;전략환경영향평가를 위해 3개 지역으로 좁힐 계획&quot;이라고 밝혔다. 그러면서 &quot;서두르지 않고... ",
 			"pubDate":"Sat, 02 Aug 2025 03:28:00 +0900"
-		},
-		{
-			"title":"8\/2~8\/3 이마트·홈플러스·롯데마트, 휴무일·영업시간... 여름휴가·바...",
-			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=235413",
-			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=235413",
-			"description":"가좌, <b>청라<\/b>, 인천연수, 인천송도, 부천여월, 부천소사, 분당오리, 야탑, 시화, 송탄, 평택안중, 화성향남... 영종도점, <b>청라<\/b>점, 경기양평점, 광교점, 권선점, 롯데몰수지점, 수원점, 시화점, 시흥배곧점, 시흥점, 신갈점... ",
-			"pubDate":"Sat, 02 Aug 2025 00:06:00 +0900"
 		}
 	]
 }
