@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 08 Aug 2025 01:20:01 +0900",
-	"total":271060,
+	"lastBuildDate":"Fri, 08 Aug 2025 01:30:01 +0900",
+	"total":271061,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구 오피스텔 3곳 1,300세대 최대 1시간 정전",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8324895&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0012005127?sid=102",
+			"description":"어제(7일) 밤 10시 50분쯤 인천 서구 <b>청라<\/b>호수공원 인근 오피스텔 세 곳 총 1,300세대에 전기 공급이 끊겼다가 최대 1시간 만에 복구돼 주민들이 불편을 겪었습니다. 주민 신고로 현장에 출동한 소방 당국이 안전 조치에... ",
+			"pubDate":"Fri, 08 Aug 2025 01:21:00 +0900"
+		},
 		{
 			"title":"인천 서구, 새 명칭 '서해구'로 최종 결정",
 			"originallink":"https:\/\/www.startuptoday.co.kr\/news\/articleView.html?idxno=490826",
@@ -166,17 +173,17 @@
 			"pubDate":"Thu, 07 Aug 2025 17:38:00 +0900"
 		},
 		{
-			"title":"인천 서구, 서해구로 바뀐다",
-			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1212149.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002760116?sid=102",
-			"description":"다른 후보인 <b>청라<\/b>구는 41.6%(831명)를 얻었다. 이번 명칭 변경은 행정체계 개편에 따라 서구에서 검단구가 분리되는 과정에서 진행됐다. 구는 서구의회와 인천시의회 의견 청취 등 절차를 밟아 내년 7월1일 이뤄지는... ",
-			"pubDate":"Thu, 07 Aug 2025 17:36:00 +0900"
-		},
-		{
 			"title":"인천 서구 새 명칭으로 '서해구' 확정...구민 여론조사로 결정",
 			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=211367",
 			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=211367",
 			"description":"서구는 지난 7월 21일부터 6일까지 17일간 최종 명칭 선호도 여론조사를 실시한 결과 서해구가 58.5%(1,169명)의 지지를 얻어 1위를 차지했고, <b>청라<\/b>구는 41.6%(831명)에 그쳤다고 밝혔다. 이번 조사는 전문여론조사기관에... ",
+			"pubDate":"Thu, 07 Aug 2025 17:36:00 +0900"
+		},
+		{
+			"title":"인천 서구, 서해구로 바뀐다",
+			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1212149.html",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002760116?sid=102",
+			"description":"다른 후보인 <b>청라<\/b>구는 41.6%(831명)를 얻었다. 이번 명칭 변경은 행정체계 개편에 따라 서구에서 검단구가 분리되는 과정에서 진행됐다. 구는 서구의회와 인천시의회 의견 청취 등 절차를 밟아 내년 7월1일 이뤄지는... ",
 			"pubDate":"Thu, 07 Aug 2025 17:36:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000880421?sid=102",
 			"description":"지난달 21일부터 전날까지 진행한 여론조사 결과 서해구는 58.5%(1,169명)의 지지를 받아 다른 후보인 <b>청라<\/b>구(41.6%·831명)를 16.9%포인트(338명) 앞섰다. 해당 조사는 행정체제 개편 후 분리되는 서구 지역 18세 이상 주민 2... ",
 			"pubDate":"Thu, 07 Aug 2025 17:01:00 +0900"
-		},
-		{
-			"title":"인천 서구, 새 명칭 '서해구' 최종 선정…주민 선호도 반영",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20250807_0003282761",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013410247?sid=102",
-			"description":"앞서 구는 1차 명칭 선호도 조사 결과 '<b>청라<\/b>구'와 '서해구'가 오차범위 내 경합함에 따라 추가적인 의견 수렴을 거쳐 주민 수용성을 높이기로 했다. 최종 명칭 선호도 조사 결과 서해구 58.5%(1169명), <b>청라<\/b>구 41.6%(831명)... ",
-			"pubDate":"Thu, 07 Aug 2025 16:58:00 +0900"
 		}
 	]
 }
