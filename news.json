@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 09 Aug 2025 10:20:01 +0900",
-	"total":271143,
+	"lastBuildDate":"Sat, 09 Aug 2025 10:30:01 +0900",
+	"total":271144,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 2개월 만에 조직개편 원점.. &quot;직원들 혼란&quot;",
+			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=306505",
+			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=306505",
+			"description":"송도·<b>청라<\/b>·영종 개발 영향은 인천경제자유구역은 송도, <b>청라<\/b>, 영종 3개 지구로 구성돼 있다. 2003년 출범한 인천경제청은 이들 지구의 개발과 외국인 투자 유치를 담당해왔다. 이번 조직 개편으로 각 지구 개발 사업과... ",
+			"pubDate":"Sat, 09 Aug 2025 10:24:00 +0900"
+		},
 		{
 			"title":"인천시 서구, <b>청라<\/b>에서 구로까지 ‘출동! 찾아가는 소비쿠폰 신청’",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282037880964",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000080715?sid=100",
 			"description":"이를 위해서는 송도, 영종, <b>청라<\/b>의 스타트업 생태계를 재설계하고 원도심 도시재생의 마스터플랜을 함께... 바로 <b>청라<\/b> 로봇랜드다. 로봇랜드에 들어설 로봇산업 클러스터를 활용, <b>청라<\/b> 로봇랜드가 인천의 AI 전진기지... ",
 			"pubDate":"Fri, 08 Aug 2025 12:01:00 +0900"
-		},
-		{
-			"title":"인천 아파트·오피스텔서 잇단 정전…엘리베이터 갇히기도",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1298870",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1298870",
-			"description":"또 전날 오후 10시50분쯤에는 서구 <b>청라<\/b>동 아파트, 오피스텔 등 3곳 약 530세대에 전기 공급이 끊겼다. 한전은 차례로 전기 공급을 재개해 50분 만인 오후 11시40분쯤 복구 작업을 마쳤다. 한전은 한전 선로에 문제가 생겨... ",
-			"pubDate":"Fri, 08 Aug 2025 12:00:00 +0900"
 		}
 	]
 }
