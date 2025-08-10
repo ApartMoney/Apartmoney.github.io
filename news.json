@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 10 Aug 2025 22:30:01 +0900",
-	"total":271181,
+	"lastBuildDate":"Sun, 10 Aug 2025 22:40:01 +0900",
+	"total":271182,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 경관계획 재정비 공청회로 미래 전략 수립",
+			"originallink":"https:\/\/www.etnews.com\/20250810000077",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003339556?sid=102",
+			"description":"경관계획 재정비 용역은 IFEZ 전체(송도, 영종, <b>청라<\/b>)를 대상으로 도시환경 변화를 반영해 2020년 수립된 경관계획의 성과를 검토하고, 글로벌 미래도시에 부합하는 새로운 경관 미래상과 추진 전략을 세우는 데 있다. 특히... ",
+			"pubDate":"Sun, 10 Aug 2025 22:38:00 +0900"
+		},
 		{
 			"title":"대구 중구, 학업에서 벗어난 특별한 여름방학",
 			"originallink":"https:\/\/www.ksmnews.co.kr\/news\/view.php?idx=556476",
@@ -68,17 +75,17 @@
 			"pubDate":"Sun, 10 Aug 2025 15:24:00 +0900"
 		},
 		{
-			"title":"인천경제청, 경관계획 재정비 공청회 마련",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160277645863828",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160277645863828",
-			"description":"인천경제자유구역 경관계획 재정비는 IFEZ 전체(송도·영종·<b>청라<\/b>)를 대상으로 변화된 도시 여건을 고려, 2020년 수립한 경관계획 성과를 재검토하고 경관미래상 재설정, 구체적 추진 전략 마련을 위해 추진 중이다. 특히... ",
-			"pubDate":"Sun, 10 Aug 2025 15:06:00 +0900"
-		},
-		{
 			"title":"IFEZ, 전체(송도, 영종, <b>청라<\/b>) 경관계획 재정비 공청회",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3346739",
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3346739",
 			"description":"인천경제자유구역 경관계획 재정비 용역은 IFEZ 전체(송도, 영종, <b>청라<\/b>)를 대상으로 변화된 도시여건을 고려하여 2020년 수립 완료한 경관계획의 성과를 재검토 하고, 글로벌 미래도시에 부합하는 경관미래상 재설정... ",
+			"pubDate":"Sun, 10 Aug 2025 15:06:00 +0900"
+		},
+		{
+			"title":"인천경제청, 경관계획 재정비 공청회 마련",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160277645863828",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160277645863828",
+			"description":"인천경제자유구역 경관계획 재정비는 IFEZ 전체(송도·영종·<b>청라<\/b>)를 대상으로 변화된 도시 여건을 고려, 2020년 수립한 경관계획 성과를 재검토하고 경관미래상 재설정, 구체적 추진 전략 마련을 위해 추진 중이다. 특히... ",
 			"pubDate":"Sun, 10 Aug 2025 15:06:00 +0900"
 		},
 		{
@@ -90,16 +97,16 @@
 		},
 		{
 			"title":"인천경제청, 경관계획 재정비를 위한 공청회 개최",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20250810140334735",
-			"link":"https:\/\/www.ajunews.com\/view\/20250810140334735",
-			"description":"인천경제자유구역 경관계획 재정비 용역은 IFEZ 전체(송도, 영종, <b>청라<\/b>)를 대상으로 변화된 도시여건을 고려해 2020년 수립 완료한 경관계획의 성과를 재검토 하고, 글로벌 미래도시에 부합하는 경관미래상 재설정... ",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2097298",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2097298",
+			"description":"인천경제자유구역 경관계획 재정비 용역은 IFEZ 전체(송도, 영종, <b>청라<\/b>)를 대상으로 변화된 도시여건을 고려하여 2020년 수립 완료한 경관계획의 성과를 재검토 하고, 글로벌 미래도시에 부합하는 경관미래상 재설정... ",
 			"pubDate":"Sun, 10 Aug 2025 14:08:00 +0900"
 		},
 		{
 			"title":"인천경제청, 경관계획 재정비를 위한 공청회 개최",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2097298",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2097298",
-			"description":"인천경제자유구역 경관계획 재정비 용역은 IFEZ 전체(송도, 영종, <b>청라<\/b>)를 대상으로 변화된 도시여건을 고려하여 2020년 수립 완료한 경관계획의 성과를 재검토 하고, 글로벌 미래도시에 부합하는 경관미래상 재설정... ",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20250810140334735",
+			"link":"https:\/\/www.ajunews.com\/view\/20250810140334735",
+			"description":"인천경제자유구역 경관계획 재정비 용역은 IFEZ 전체(송도, 영종, <b>청라<\/b>)를 대상으로 변화된 도시여건을 고려해 2020년 수립 완료한 경관계획의 성과를 재검토 하고, 글로벌 미래도시에 부합하는 경관미래상 재설정... ",
 			"pubDate":"Sun, 10 Aug 2025 14:08:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=249173",
 			"description":"인천경제자유구역 경관계획 재정비 용역은 IFEZ 전체(송도, 영종, <b>청라<\/b>)를 대상으로 변화된 도시여건을 고려하여 2020년 수립 완료한 경관계획의 성과를 재검토 하고, 글로벌 미래도시에 부합하는 경관미래상 재설정... ",
 			"pubDate":"Sun, 10 Aug 2025 09:48:00 +0900"
-		},
-		{
-			"title":"인천경제자유구역 미래 경관 설계로 글로벌 도시 도약",
-			"originallink":"https:\/\/www.viva100.com\/article\/20250810500171",
-			"link":"https:\/\/www.viva100.com\/article\/20250810500171",
-			"description":"인천경제자유구역청은 5년마다 경관계획을 재정비하며, 이번 재정비는 송도, 영종, <b>청라<\/b>를 포함한 인천경제자유구역 전체를 대상으로 한다. 변화된 도시여건을 반영해 2020년 수립된 경관계획의 성과를 재검토하고... ",
-			"pubDate":"Sun, 10 Aug 2025 09:24:00 +0900"
 		}
 	]
 }
