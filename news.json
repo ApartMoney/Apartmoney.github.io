@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Wed, 13 Aug 2025 13:50:01 +0900",
-	"total":271309,
+	"lastBuildDate":"Wed, 13 Aug 2025 14:00:01 +0900",
+	"total":271313,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"폭우로 인천1호선 박촌역사 침수, 경인선 열차 운행 일시 중단",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202508131349555233",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005391125?sid=102",
+			"description":"북성동 2가 5-4 월미도 진입로와 운남동 푸른나래 지하차도 및 <b>청라<\/b>국제지하차도, 청천오거리, 갈산역사거리, 효성굴다리 주변 등 많은 지하차도와 도로가 침수됐다. 인천시는 낮 12시께 폭우로 인해 119신고 전화가... ",
+			"pubDate":"Wed, 13 Aug 2025 13:59:00 +0900"
+		},
+		{
+			"title":"인천 서구 심곡천, 친수공간으로 재탄생한다",
+			"originallink":"https:\/\/www.viva100.com\/article\/20250813500942",
+			"link":"https:\/\/www.viva100.com\/article\/20250813500942",
+			"description":"심곡천은 총 7.67킬로미터 길이로, 올해 7월부터 <b>청라<\/b>지방하천 보행환경개선사업에 포함돼 수목 식재와 산책로 확장 및 신설이 진행 중이다. 김유곤 위원장은 “심곡천은 <b>청라<\/b>와 루원시티 지역주민에게 중요한 휴식공간”... ",
+			"pubDate":"Wed, 13 Aug 2025 13:58:00 +0900"
+		},
+		{
+			"title":"대구 근대골목, 밤이 더 특별해진다",
+			"originallink":"http:\/\/www.breaknews.com\/1140101",
+			"link":"http:\/\/www.breaknews.com\/1140101",
+			"description":"새롭게 추가된 코스는 <b>청라<\/b>언덕관광센터를 시작점으로 한다. 주요 역사문화 명소들을 도보로 둘러본 뒤 동성로로 이동해 '동성로 놀장' 축제에 참여하는 방식으로, 총... ",
+			"pubDate":"Wed, 13 Aug 2025 13:50:00 +0900"
+		},
+		{
+			"title":"인천 서구, 청년의 정책 아이디어 공모.잘 먹고 잘 살고 싶은 청년 과 '...",
+			"originallink":"http:\/\/www.breaknews.com\/1140090",
+			"link":"http:\/\/www.breaknews.com\/1140090",
+			"description":"프로그램에 참여한 청년에게는 ‘<b>청라<\/b>꽃갈비’의 부대찌개, ‘지니스튜디오’의 취업용 반명함 증명사진 촬영, ‘㈜청년주택에너지사업단’의 집수리 지도... ",
+			"pubDate":"Wed, 13 Aug 2025 13:50:00 +0900"
+		},
 		{
 			"title":"인천 극한 호우 피해 210건으로 늘어... 시장 침수·도로 통제",
 			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=306717",
@@ -12,17 +40,17 @@
 			"pubDate":"Wed, 13 Aug 2025 13:26:00 +0900"
 		},
 		{
-			"title":"인천서 침수 피해 잇따라…오후1시 기준 피해 '210건'",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20250813580127",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000081138?sid=102",
-			"description":"특히 오전 11시43분께 <b>청라<\/b>국제지하차도 김포 방향 도로가 침수 우려로 인해 차량 통제가 이뤄졌다. 또 정오께 부평구 청수사거리와 청천오거리, 갈산역사거리, 효성굴다리 주변이 물에 잠겼다. 인천도시철도(지하철)... ",
-			"pubDate":"Wed, 13 Aug 2025 13:23:00 +0900"
-		},
-		{
 			"title":"인천 제3연륙교 유료화, 행복추구권 침해…“헌법 소원”",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/publicnews\/2025\/08\/13\/20250813500089?wlog_tag3=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003565628?sid=100",
 			"description":"통행료는 편도 4000원 안팎으로 알려져 있으며 영종·<b>청라<\/b> 주민들에 대한 무료화는 검토 중이다. 시가... 제3연륙교 건설비는 애초 영종하늘도시·<b>청라<\/b>국제도시 토지 조성원가에 포함됐다. 주민들이 아파트 등을 분양받을... ",
+			"pubDate":"Wed, 13 Aug 2025 13:23:00 +0900"
+		},
+		{
+			"title":"인천서 침수 피해 잇따라…오후1시 기준 피해 '210건'",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20250813580127",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000081138?sid=102",
+			"description":"특히 오전 11시43분께 <b>청라<\/b>국제지하차도 김포 방향 도로가 침수 우려로 인해 차량 통제가 이뤄졌다. 또 정오께 부평구 청수사거리와 청천오거리, 갈산역사거리, 효성굴다리 주변이 물에 잠겼다. 인천도시철도(지하철)... ",
 			"pubDate":"Wed, 13 Aug 2025 13:23:00 +0900"
 		},
 		{
@@ -131,10 +159,10 @@
 			"pubDate":"Wed, 13 Aug 2025 10:42:00 +0900"
 		},
 		{
-			"title":"‘호우 경보’ 인천, 새벽부터 많은 비… 도로·주택 등 침수 피해 잇따...",
+			"title":"‘호우 경보’ 인천, 반나절 만에 곳곳 ‘물바다’… 덕적도엔 시간당 ...",
 			"originallink":"https:\/\/www.chosun.com\/national\/incident\/2025\/08\/14\/FKCSKFYUKJBN3D4IJ7GP3SPJYU\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003922834?sid=102",
-			"description":"오전 5시 39분쯤엔 중구 운남동의 한 주택에서 침수신고가 접수돼 배수 조치가 이뤄졌고, 오전 6시 18분쯤엔 서구 <b>청라<\/b>동 청중로 도로 일부가 침수됐다. 비슷한 시각 미추홀구 주안동, 남동구 만수동, 계양구 작전동... ",
+			"description":"인천김포고속도로 <b>청라<\/b>국제지하차도, 중구 북성동 월미도 진입로, 영종 운남동 푸른나래 지하차도, 서구 <b>청라<\/b>호수1‧2 지하차도 등이 집중 호우로 침수돼 한때 통제됐다 배수 조치가 마무리되면서 해제됐다.... ",
 			"pubDate":"Wed, 13 Aug 2025 10:41:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001795484?sid=101",
 			"description":"대표적인 사례가 지난해 8월 인천 서구 <b>청라<\/b> 지하주차장 전기차 화재 사고다. 천장 배관을 감싼 보온재가... 소방청은 지난 6월 “인천 <b>청라<\/b> 지하주차장 등 최근 대형화재 발생에 따른 특정소방대상물의 화재 안전성 강화를... ",
 			"pubDate":"Wed, 13 Aug 2025 00:10:00 +0900"
-		},
-		{
-			"title":"이육사 삶·문학 기리는 오페라 '264, 그 한 개의 별'",
-			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=519673",
-			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=519673",
-			"description":"이번 작품은 제10회 대구국제오페라축제 개막작 '<b>청라<\/b>언덕'의 작곡가 김성재, 대한민국오페라축제 대상작 '윤심덕, 사의 찬미'의 대본가 김하나가 각각 작곡과 대본을 맡았다. 이육사가 대구형무소(현 삼덕교회 자리)... ",
-			"pubDate":"Tue, 12 Aug 2025 21:24:00 +0900"
-		},
-		{
-			"title":"‘제3연륙교 통행료 징수 논란’ 헌법소원 간다",
-			"originallink":"https:\/\/www.kyeongin.com\/article\/1748961",
-			"link":"https:\/\/www.kyeongin.com\/article\/1748961",
-			"description":"영종~<b>청라<\/b>를 잇는 제3연륙교가 오는 12월 개통을 앞두고 약 85%의 공정률을 보이고 있다. 2025.7.28 \/조재현기자... (영종~<b>청라<\/b>) 통행료 무료화를 위한 헌법 소원을 청구하겠다고 밝혔다. 배 의원은 이날 기자회견에서... ",
-			"pubDate":"Tue, 12 Aug 2025 20:58:00 +0900"
-		},
-		{
-			"title":"배준영 의원, 영종 제3연륙교 통행료 무료 헌법소원 청구할 것",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=605130",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=605130",
-			"description":"제3연륙교는 영종과 <b>청라<\/b> 입주주민들의 분양대금 및 인천시와 도시공사 등이 부담한 사실상의 재정도로여서 무료화 되어야 하지만, 현재 정부와 인천시의 비용부담 문제로 유료화 논의가 진행 중이다. 배준영 의원은... ",
-			"pubDate":"Tue, 12 Aug 2025 20:32:00 +0900"
-		},
-		{
-			"title":"[사설] 공동주택 정전 사태 주범 노후 변압기 해법 찾아야",
-			"originallink":"https:\/\/www.kyeongin.com\/article\/1748938",
-			"link":"https:\/\/www.kyeongin.com\/article\/1748938",
-			"description":"같은 날 서구 <b>청라<\/b>동 아파트와 오피스텔 등 3곳 540여 가구에도 전기 공급이 끊겼다. 이런 공동주택 정전 사태는 자칫 엘리베이터 갇힘 사고 등으로 인한 인명 피해를 초래할 수도 있다. 국회... ",
-			"pubDate":"Tue, 12 Aug 2025 20:30:00 +0900"
 		}
 	]
 }
