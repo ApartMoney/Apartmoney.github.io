@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Thu, 14 Aug 2025 14:00:01 +0900",
-	"total":271381,
+	"lastBuildDate":"Thu, 14 Aug 2025 14:10:00 +0900",
+	"total":271384,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[아유경제_부동산] 8월 2주 아파트 가격 동향… 매매가격 0.01% 상승ㆍ전...",
+			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=90273",
+			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=90273",
+			"description":"인천광역시(-0.04%)에서 서구(-0.07%)는 <b>청라<\/b>ㆍ당하동 신도시 위주로, 연수구(-0.07%)는 송도ㆍ동춘동 대단지... 15%)는 입주물량 영향있는 <b>청라<\/b>ㆍ가정동 위주로, 계양구(-0.04%)는 작전ㆍ효성동 구축 위주로, 연수구(-0.02... ",
+			"pubDate":"Thu, 14 Aug 2025 14:08:00 +0900"
+		},
+		{
+			"title":"서울 아파트 매매가 다시 둔화…대출규제 이후 최저 상승",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2497148",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2497148",
+			"description":"서구(-0.07%)는 <b>청라<\/b>·당하동 신도시, 연수구(-0.07%)는 송도·동춘동 대단지 위주로 집값이 하락했다. 부평구(-0.02%)는 부개·삼산동 소형 규모, 남동구(-0.02%)는 구월·논현동, 중구(-0.02%)는 운서동·항동7가 위주로... ",
+			"pubDate":"Thu, 14 Aug 2025 14:02:00 +0900"
+		},
+		{
+			"title":"서울 아파트값 상승폭 다시 축소…6·27규제 시행 후 가장 낮게 올라",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2025081410504541468",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005236108?sid=101",
+			"description":"인천(-0.04%)은 서구(-0.07%) <b>청라<\/b>신도시, 연수구(-0.07%) 송도 대단지 등이 하락하며 전주(-0.02%) 대비 하락폭을 확대했다. 서울, 경기 상승폭이 축소되고 인천의 하락폭이 확대되면서 수도권 상승률(0.04%)도 전주(0.05... ",
+			"pubDate":"Thu, 14 Aug 2025 14:00:00 +0900"
+		},
 		{
 			"title":"인천광역시 서구의회, 제275회 임시회 개최",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1271013",
@@ -40,17 +61,17 @@
 			"pubDate":"Thu, 14 Aug 2025 13:28:00 +0900"
 		},
 		{
-			"title":"李 정부 ‘경기·인천’ 5개년 추진과제, 핵심 키워드는",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=859773",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=859773",
-			"description":"영종 항공산업특화단지를 조성하고, <b>청라<\/b>·영종에 K-콘텐츠 산업 인프라를 확충하며, 송도·영종에는 인천 MICE 산업 경쟁력 강화·UN 산하기구 등 국제기구를 유치·집적할 계획이다. 특히 정부의 발표에는 인천에 관해... ",
-			"pubDate":"Thu, 14 Aug 2025 12:40:00 +0900"
-		},
-		{
 			"title":"인천광역시 서구의회, 제275회 임시회 개최",
 			"originallink":"https:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=220830",
 			"link":"https:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=220830",
 			"description":"이번 변경안은 2015년 '자치구 명칭 변경 공동선언문' 이후 추진돼왔으며, 최근 주민 여론조사에서 '서해구'가 58.5%로 '<b>청라<\/b>구'(41.6%)를 제치고 최종 후보로 선정됐다. 기획행정위원회는 '서해구' 명칭이 타 지역과 중복되고... ",
+			"pubDate":"Thu, 14 Aug 2025 12:40:00 +0900"
+		},
+		{
+			"title":"李 정부 ‘경기·인천’ 5개년 추진과제, 핵심 키워드는",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=859773",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=859773",
+			"description":"영종 항공산업특화단지를 조성하고, <b>청라<\/b>·영종에 K-콘텐츠 산업 인프라를 확충하며, 송도·영종에는 인천 MICE 산업 경쟁력 강화·UN 산하기구 등 국제기구를 유치·집적할 계획이다. 특히 정부의 발표에는 인천에 관해... ",
 			"pubDate":"Thu, 14 Aug 2025 12:40:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.kyeongin.com\/article\/1749093",
 			"description":"인천시는 송도·영종·<b>청라<\/b> 등에 영상·문화·엔터테인먼트 산업 집적화 단지를 조성하는 ‘K-콘 랜드’(K-Con Land) 프로젝트를 추진 중이다. 정부가 K-컬처 300조원 시대, 방한관광 3천만 시대를 목표로 하고 있는 만큼 기회를... ",
 			"pubDate":"Wed, 13 Aug 2025 20:32:00 +0900"
-		},
-		{
-			"title":"대구 중구, 근대골목 밤마실 야간투어 코스 확대 운영",
-			"originallink":"https:\/\/www.ksmnews.co.kr\/news\/view.php?idx=557137",
-			"link":"https:\/\/www.ksmnews.co.kr\/news\/view.php?idx=557137",
-			"description":"새롭게 신설된 코스는 <b>청라<\/b>언덕관광센터를 출발해 주요 역사문화 명소를 도보로 둘러본 뒤 동성로로 이동해 ‘동성로 놀장’ 축제에 참여하는 일정으로 약 2시간 동안 진행된다. 자세한 코스 정보는 대구 중구청 홈페이지... ",
-			"pubDate":"Wed, 13 Aug 2025 20:24:00 +0900"
-		},
-		{
-			"title":"인천 하늘에 구멍이… 덕적도 211㎜ 쏟아졌다",
-			"originallink":"https:\/\/www.kyeongin.com\/article\/1749080",
-			"link":"https:\/\/www.kyeongin.com\/article\/1749080",
-			"description":"<b>청라<\/b>국제지하차도는 도로 침수 우려로 김포 방향 구간이 한때 통제됐다가 재개됐다. 내륙뿐 아니라 영종도에서도 물난리가 났다. 오전 11시45분께 영종 운남동 푸른나래 지하차도와 중산동 화성파크드림 오션브릿지... ",
-			"pubDate":"Wed, 13 Aug 2025 20:22:00 +0900"
-		},
-		{
-			"title":"중대본 수도권 2단계 비상근무... 인천 호우 피해 계속 14일 새벽까지",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=306773",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=306773",
-			"description":"제2순환고속도로 인천~김포 구간 <b>청라<\/b>국제지하차도 역시 도로 침수 우려로 일시 전면 통제됐다가 오후 1시 49분께 통행이 재개됐다. 기상청은 14일 오전까지 중부지방을 중심으로 시간당 30~70mm의 매우 강한 비가... ",
-			"pubDate":"Wed, 13 Aug 2025 20:14:00 +0900"
 		}
 	]
 }
