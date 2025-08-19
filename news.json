@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 19 Aug 2025 11:00:01 +0900",
-	"total":271561,
+	"lastBuildDate":"Tue, 19 Aug 2025 11:10:01 +0900",
+	"total":271562,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"공정위, 벤츠코리아에 공정거래법 위반 혐의 등 심사보고서 전달",
+			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=183850",
+			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=183850",
+			"description":"벤츠코리아가 '인천 <b>청라<\/b> 아파트 전기차 화재'가 시작된 전기차 등과 관련해 고객에게 허위 정보를 알린... 지난해 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 처음 불이 난 벤츠 EQE에는 CATL사 제품이 아닌 중국의 저가 제품인... ",
+			"pubDate":"Tue, 19 Aug 2025 11:04:00 +0900"
+		},
 		{
 			"title":"&quot;중국 1위 배터리 사용했다더니&quot;…공정위, '허위 광고' 벤츠코리아 제재...",
 			"originallink":"http:\/\/www.ttlnews.com\/news\/articleView.html?idxno=3022602",
@@ -61,10 +68,10 @@
 			"pubDate":"Tue, 19 Aug 2025 10:20:00 +0900"
 		},
 		{
-			"title":"전기차 화재발 공정위 제재···벤츠 집단소송 판도 바꾼다",
+			"title":"전기차 화재발 공정위 제재 착수···벤츠 집단소송 판도 바꾼다",
 			"originallink":"https:\/\/www.sisajournal-e.com\/news\/articleView.html?idxno=414507",
 			"link":"https:\/\/www.sisajournal-e.com\/news\/articleView.html?idxno=414507",
-			"description":"지난해 8월 인천 <b>청라<\/b>동 아파트 지하주차장에서 벤츠 EQE 전기차가 충전 중 폭발해 대형 화재가 발생했다. 차량 30여 대가 전소하고 수십억원의 재산 피해가 뒤따른 이 사고는 국내 수입 전기차 안전성 논란에 불을... ",
+			"description":"지난해 8월 인천 <b>청라<\/b>동 아파트 지하주차장에서 벤츠 EQE 전기차가 충전 중 폭발해 대형 화재가 발생했다. 차량 30여 대가 전소하고 수십억원의 재산 피해가 뒤따른 이 사고는 국내 수입 전기차 안전성 논란에 불을 지폈다.... ",
 			"pubDate":"Tue, 19 Aug 2025 10:18:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.popcornnews.net\/news\/articleView.html?idxno=90630",
 			"description":"<b>청라<\/b> 전기차 화재 사고 이후 소방청, 자동차 제조사, 물류·금융 기업에 대응 솔루션을 납품했으며, 최근에는 서울시 20여 개 자치구와 계약을 체결하며 입지를 강화했다. 양사는 이번 협약을 통해 GEVR의 전문 기술과... ",
 			"pubDate":"Tue, 19 Aug 2025 08:56:00 +0900"
-		},
-		{
-			"title":"‘스마트 소방 시장 주도’ 한컴라이프케어, 소방 스타트업 GEVR과 맞손",
-			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=2025081908512277217fd637f543_18",
-			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=2025081908512277217fd637f543_18",
-			"description":"지난해 <b>청라<\/b> 전기차 화재 사고를 계기로 소방청을 비롯한 주요 공공기관, 자동차 제조사, 물류·금융 기업 등에 화재 대응 장비를 공급해왔다. 최근에는 서울시 20여 개 자치구에 장비 납품 계약을 체결했다. 이번 협약을... ",
-			"pubDate":"Tue, 19 Aug 2025 08:54:00 +0900"
 		}
 	]
 }
