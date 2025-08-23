@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 23 Aug 2025 14:50:01 +0900",
-	"total":271980,
+	"lastBuildDate":"Sat, 23 Aug 2025 15:00:00 +0900",
+	"total":271981,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[자막뉴스] 안전 우려에 건설현장 '올스톱'...준공시기 지연 우려",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0134_202508231347363011",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002236894?sid=102",
+			"description":"모든 공사장에서 안전 문제가 없도록 하는 데도 주력을 다 해 나가겠습니다.] 인천 중구 영종도와 서구 <b>청라<\/b>국제도시를 잇는 제3연륙교 공사는 상황이 더 안 좋습니다. 전체 공정률 86%로 막바지 작업이 진행 중이지만... ",
+			"pubDate":"Sat, 23 Aug 2025 13:47:00 +0900"
+		},
 		{
 			"title":"멈춰 선 인천 주요 건설현장...준공시기 지연 우려",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0115_202508231317422544",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kpinews.kr\/newsView\/1065602564530500",
 			"description":"강남사옥(18일)을 시작으로 <b>청라<\/b>사옥(20~21일), 명동사옥 등에서 순차적으로 진행됐다. 하나금융그룹은 지난해부터 ESG 경영 활동의 일환으로 임직원 심폐소생술 교육을 실시하고 있다. 현재까지 300여 명의 임직원이 해당... ",
 			"pubDate":"Fri, 22 Aug 2025 17:43:00 +0900"
-		},
-		{
-			"title":"하나금융, 임직원 대상 심폐소생술 안전 교육 실시",
-			"originallink":"http:\/\/www.wikileaks-kr.org\/news\/articleView.html?idxno=173639",
-			"link":"http:\/\/www.wikileaks-kr.org\/news\/articleView.html?idxno=173639",
-			"description":"그룹 임직원 200여 명이 자발적으로 참여한 심폐소생술 교육은 지난 18일 강남사옥을 시작으로 <b>청라<\/b>사옥(20~21일), 명동사옥 등에서 순차적으로 실시했다. 내달 2일 여의도 사옥에서도 진행할 예정이다. 최근 질병관리청... ",
-			"pubDate":"Fri, 22 Aug 2025 17:16:00 +0900"
 		}
 	]
 }
