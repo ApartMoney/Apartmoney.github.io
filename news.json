@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 27 Aug 2025 00:00:01 +0900",
-	"total":272165,
+	"lastBuildDate":"Wed, 27 Aug 2025 00:10:01 +0900",
+	"total":272166,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[단독] 지만원 ‘5·18 왜곡 도서’ 공공도서관에 버젓이 비치",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1756194446&code=11131100&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001798288?sid=102",
+			"description":"해당 책이 비치된 곳은 국립세종도서관·서울도서관·부산 시민도서관·인천 <b>청라<\/b>호수도서관·충남도서관이다. 모두 정부와 지자체가 운영하는 공공도서관이다. 이들 도서관에선 현재도 지씨의 책이 대출·열람 가능한... ",
+			"pubDate":"Wed, 27 Aug 2025 00:09:00 +0900"
+		},
 		{
 			"title":"배준영, 제3연륙교 통행료 “인천시 조치 불구 헌법소원 인용 위해 최선...",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=861580",
@@ -54,17 +61,17 @@
 			"pubDate":"Tue, 26 Aug 2025 20:42:00 +0900"
 		},
 		{
-			"title":"제3연륙교 통행료 2천 원…&quot;인천시민 무료화&quot;",
-			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1495145",
-			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1495145",
-			"description":"영종과 <b>청라<\/b> 주민은 무료로 이용할 수 있고, 내년 3월 말부터는 인천시민 전체가 무료 통행 혜택을 받게... 【기자】 영종과 <b>청라<\/b>를 잇는 제3연륙교. 연말 개통을 앞두고 있습니다. 총사업비 7천877억 원 가운데 76%는 영종... ",
-			"pubDate":"Tue, 26 Aug 2025 20:26:00 +0900"
-		},
-		{
 			"title":"연말 개통 제3연륙교… 인천 시민 통행요금 단계적으로 무료화",
 			"originallink":"https:\/\/www.kyeongin.com\/article\/1750149",
 			"link":"https:\/\/www.kyeongin.com\/article\/1750149",
 			"description":"영종·<b>청라<\/b> 주민들은 첫날부터 나머지는 내년 3월말께 ‘혜택’ 타 시도 경차 1천원·중형 3400원 유정복 시장 기자회견 내용 발표 올해 말 개통을 앞둔 제3연륙교(인천 중구 중산동~서구 <b>청라<\/b>동, 4.68㎞)의 통행료가... ",
+			"pubDate":"Tue, 26 Aug 2025 20:26:00 +0900"
+		},
+		{
+			"title":"제3연륙교 통행료 2천 원…&quot;인천시민 무료화&quot;",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1495145",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1495145",
+			"description":"영종과 <b>청라<\/b> 주민은 무료로 이용할 수 있고, 내년 3월 말부터는 인천시민 전체가 무료 통행 혜택을 받게... 【기자】 영종과 <b>청라<\/b>를 잇는 제3연륙교. 연말 개통을 앞두고 있습니다. 총사업비 7천877억 원 가운데 76%는 영종... ",
 			"pubDate":"Tue, 26 Aug 2025 20:26:00 +0900"
 		},
 		{
@@ -89,17 +96,17 @@
 			"pubDate":"Tue, 26 Aug 2025 19:56:00 +0900"
 		},
 		{
-			"title":"제3연륙교 통행료, 인천시민 순차적 무료화",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1300863",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1300863",
-			"description":"인천시는 개통과 동시에 영종·<b>청라<\/b> 주민에게 '100% 요금 감면'을 적용하고, 이르면 내년 3월부터 인천시민... 내년 1월 개통과 동시에 영종·<b>청라<\/b> 주민은 통행료가 면제되고, 내년 3월 감면 시스템 구축이 끝나면 무료화... ",
-			"pubDate":"Tue, 26 Aug 2025 19:50:00 +0900"
-		},
-		{
 			"title":"제3연륙교 손실 보상 불공정 논란…&quot;政, 협약 바로잡아야&quot;",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1300861",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1300861",
 			"description":"인천 <b>청라<\/b>국제도시와 영종국제도시 개발 과정에서 한국토지주택공사(LH)는 택지 조성 원가에 제3연륙교 건설비를 포함시켰다. 영종대교와 인천대교에 이은 세 번째 교량을 건설하는 비용으로 6000억원 정도가 <b>청라<\/b>... ",
+			"pubDate":"Tue, 26 Aug 2025 19:50:00 +0900"
+		},
+		{
+			"title":"제3연륙교 통행료, 인천시민 순차적 무료화",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1300863",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1300863",
+			"description":"인천시는 개통과 동시에 영종·<b>청라<\/b> 주민에게 '100% 요금 감면'을 적용하고, 이르면 내년 3월부터 인천시민... 내년 1월 개통과 동시에 영종·<b>청라<\/b> 주민은 통행료가 면제되고, 내년 3월 감면 시스템 구축이 끝나면 무료화... ",
 			"pubDate":"Tue, 26 Aug 2025 19:50:00 +0900"
 		},
 		{
@@ -138,17 +145,17 @@
 			"pubDate":"Tue, 26 Aug 2025 18:10:00 +0900"
 		},
 		{
-			"title":"[인천 시장·군수·구청장 일정 \/ 8월 27일(수)]",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=450725",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=450725",
-			"description":"예방(인권 포함) 교육 (10:00 대회의실) 초록우산 인천지역본부 지원금 전달식 (11:00 구청장실) 화엄정사, 호우피해 취야계층 이웃돕기물품 전달 (13:20 화엄정사) 제85회 명사초청 서구아카데미 (14:00 <b>청라<\/b>블루노바홀)",
-			"pubDate":"Tue, 26 Aug 2025 17:58:00 +0900"
-		},
-		{
 			"title":"인천시의회 산경위, 제3연륙교 통행료 무료화 적극 환영",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=606803",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=606803",
 			"description":"영종·<b>청라<\/b> 주민에게 우선 무료 혜택을 적용한 뒤 내년 3월 말 감면시스템 구축이 완료되면 인천시민 전체로 무료화 범위를 확대한다고 했다. 이번 결정은 수십 년간 영종·<b>청라<\/b> 주민을 비롯한 인천시민들이 불평등하게... ",
+			"pubDate":"Tue, 26 Aug 2025 17:58:00 +0900"
+		},
+		{
+			"title":"[인천 시장·군수·구청장 일정 \/ 8월 27일(수)]",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=450725",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=450725",
+			"description":"예방(인권 포함) 교육 (10:00 대회의실) 초록우산 인천지역본부 지원금 전달식 (11:00 구청장실) 화엄정사, 호우피해 취야계층 이웃돕기물품 전달 (13:20 화엄정사) 제85회 명사초청 서구아카데미 (14:00 <b>청라<\/b>블루노바홀)",
 			"pubDate":"Tue, 26 Aug 2025 17:58:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1178756",
 			"description":"인천 서구는 <b>청라<\/b> 모래성공원(<b>청라<\/b>동 105-68번지)과 물병자리공원(<b>청라<\/b>동 140-3번지) 내 어린이 놀이공간 환경 개선사업을 추진한다고 26일 밝혔다. 이번 사업은 노후화된 놀이시설과 주변 환경을 정비해 안전성과 편의성을... ",
 			"pubDate":"Tue, 26 Aug 2025 16:58:00 +0900"
-		},
-		{
-			"title":"유정복 인천시장 &quot;제 3연륙교 통행료 2000원…인천시민에게는 무료화&quot;",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20250826_0003304093",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013443472?sid=102",
-			"description":"인천시는 개통과 동시에 영종·<b>청라<\/b> 주민에게 우선 무료를 적용하고, 2026년 3월부터는 인천시민 전체로... 특히 “제3연륙교는 영종·<b>청라<\/b> 주민과 인천시가 함께 비용을 부담해 건설하는 사실상의 공공사업”이라며... ",
-			"pubDate":"Tue, 26 Aug 2025 16:51:00 +0900"
 		}
 	]
 }
