@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 08 Sep 2025 15:00:01 +0900",
-	"total":273249,
+	"lastBuildDate":"Mon, 08 Sep 2025 15:10:01 +0900",
+	"total":273252,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천광역시, '인천 철도 혁명 위한 국회 토론회' 개최",
+			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=245187",
+			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=245187",
+			"description":"토론 주제는 △인천발 KTX 인천공항 연장 △GTX-D·E노선 △대장홍대선 <b>청라<\/b> 연장 △경인전철 지하화 추진과 같은 인천 시민들의 오랜 숙원 사업이었습니다. 인천시는 철도망 확충이 단순한 지역 사업을 넘어 글로벌... ",
+			"pubDate":"Mon, 08 Sep 2025 15:06:00 +0900"
+		},
+		{
+			"title":"[인천 주요 뉴스]인천시 '거미줄 철도' 위해 국회 달려간 유정복",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6396439?utm_source=naver&utm_medium=article&utm_campaign=20250908030031",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0004063795?sid=102",
+			"description":"주요 내용은 인천발 KTX 인천공항 연장과 GTX-D·E노선 계획, 대장홍대선 <b>청라<\/b> 연장, 경인전철 지하화 등입니다. 인천 영종 해변에 '복합 생태 관광지' 들어선다인천경제자유구역청이 중구 영종씨사이드파크에... ",
+			"pubDate":"Mon, 08 Sep 2025 15:01:00 +0900"
+		},
+		{
+			"title":"인천발KTX 공항 연장, 전국 2시간대 연결…글로벌 접근성 강화",
+			"originallink":"https:\/\/www.redaily.co.kr\/news\/articleView.html?idxno=13549",
+			"link":"https:\/\/www.redaily.co.kr\/news\/articleView.html?idxno=13549",
+			"description":"토론 주제로 △인천발 KTX 인천공항 연장 △GTX-D·E노선 △대장홍대선 <b>청라<\/b> 연장 △경인전철 지하화 추진 등 숙원 사업들을 다뤘다. 시는 철도망 확충이 단순한 지역 사업을 넘어 글로벌 접근성과 전국적 교통망 연결을... ",
+			"pubDate":"Mon, 08 Sep 2025 15:00:00 +0900"
+		},
 		{
 			"title":"인천시, 지역 국회의원들과 '인천 철도망 확충' 한목소리",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20250908108800065?input=1195m",
@@ -159,6 +180,20 @@
 			"pubDate":"Mon, 08 Sep 2025 13:11:00 +0900"
 		},
 		{
+			"title":"인천시, 국회서 '철도 혁명' 토론회 개최…교통 혁신 가속",
+			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=839416",
+			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=839416",
+			"description":"토론회에서는 ▲인천발 KTX 인천공항 연장 ▲GTX-D·E노선 ▲대장홍대선 <b>청라<\/b> 연장 ▲경인전철 지하화 등 인천 시민들의 오랜 숙원 사업들이 주요 주제로 다뤄졌다. 인천시는 철도망 확충이 단순한 지역 사업을 넘어 글로벌... ",
+			"pubDate":"Mon, 08 Sep 2025 12:56:00 +0900"
+		},
+		{
+			"title":"인천 국회의원들과 인천시, '인천철도혁명을 위한 국회 토론회' 개최",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=112150",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=112150",
+			"description":"인천지역 국회의원들이 주최하고 인천시가 주관한 이날 토론회는 정부의 '제5차(2026~2035) 국가철도망구축계획' 확정·고시를 앞두고 GTX-E·D 노선 건설, 대장홍대선 <b>청라<\/b> 연장, 경인전철 지하화 등 인천철도망 확충의... ",
+			"pubDate":"Mon, 08 Sep 2025 12:56:00 +0900"
+		},
+		{
 			"title":"인천 서구, 전국 기초지자체 인구수 '1위' 등극…64만6,703명 기록",
 			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=839420",
 			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=839420",
@@ -173,46 +208,11 @@
 			"pubDate":"Mon, 08 Sep 2025 12:56:00 +0900"
 		},
 		{
-			"title":"인천 국회의원들과 인천시, '인천철도혁명을 위한 국회 토론회' 개최",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=112150",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=112150",
-			"description":"인천지역 국회의원들이 주최하고 인천시가 주관한 이날 토론회는 정부의 '제5차(2026~2035) 국가철도망구축계획' 확정·고시를 앞두고 GTX-E·D 노선 건설, 대장홍대선 <b>청라<\/b> 연장, 경인전철 지하화 등 인천철도망 확충의... ",
-			"pubDate":"Mon, 08 Sep 2025 12:56:00 +0900"
-		},
-		{
-			"title":"인천시, 국회서 '철도 혁명' 토론회 개최…교통 혁신 가속",
-			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=839416",
-			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=839416",
-			"description":"토론회에서는 ▲인천발 KTX 인천공항 연장 ▲GTX-D·E노선 ▲대장홍대선 <b>청라<\/b> 연장 ▲경인전철 지하화 등 인천 시민들의 오랜 숙원 사업들이 주요 주제로 다뤄졌다. 인천시는 철도망 확충이 단순한 지역 사업을 넘어 글로벌... ",
-			"pubDate":"Mon, 08 Sep 2025 12:56:00 +0900"
-		},
-		{
 			"title":"인천시 서구, 전국 기초지자체 인구 1위 등극",
 			"originallink":"https:\/\/www.thebk.co.kr\/news\/articleView.html?idxno=302234",
 			"link":"https:\/\/www.thebk.co.kr\/news\/articleView.html?idxno=302234",
 			"description":"구는 지난 2023년 인구 60만 명을 돌파한 이후 <b>청라<\/b>·루원시티·검단 등 신도시 개발과 맞물려 꾸준한 인구 증가세를 보여 왔다. 특히 도시·교통 인프라 확충과 함께 원도심 균형발전 정책을 병행하며 수도권 서북부... ",
 			"pubDate":"Mon, 08 Sep 2025 12:28:00 +0900"
-		},
-		{
-			"title":"착공 계속 늦어지는 서울아산<b>청라<\/b>병원",
-			"originallink":"https:\/\/www.dailymedi.com\/news\/news_view.php?wr_id=928628",
-			"link":"https:\/\/www.dailymedi.com\/news\/news_view.php?wr_id=928628",
-			"description":"﻿﻿﻿﻿ 인천 <b>청라<\/b>국제도시 의료복합단지 핵심 시설로 추진 중인 서울아산<b>청라<\/b>병원 착공이 계획보다 늦어지고 있다. 병원 측과 사업 주체 간 공사비 증액 문제를 두고 합의가 이뤄지지 않고 있기 때문이다. 이로 인해... ",
-			"pubDate":"Mon, 08 Sep 2025 12:24:00 +0900"
-		},
-		{
-			"title":"운동·건강·뷰티 아우르는 EMS, APEX EMS 성장세",
-			"originallink":"http:\/\/www.hemophilia.co.kr\/news\/articleView.html?idxno=31479",
-			"link":"http:\/\/www.hemophilia.co.kr\/news\/articleView.html?idxno=31479",
-			"description":"에이펙스 이엠에스 역시 2024년 <b>청라<\/b>ㆍ강남ㆍ상암 지점에 이어 2025년에도 주요 거점 도시에 신규 지점을 확장할 계획이다. 업계 전문가는 &quot;프리미엄 체형 관리와 웰니스 케어를 결합한 브랜드가 앞으로 시장의 중심으로... ",
-			"pubDate":"Mon, 08 Sep 2025 12:22:00 +0900"
-		},
-		{
-			"title":"인천 서구, 자치구 인구수 전국 1위 달성... 64만6703명",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=429011",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=429011",
-			"description":"지난 2023년 인구 60만 명을 돌파한 서구는 <b>청라<\/b>·루원시티·검단 등 도시 개발과 함께 인구수가 꾸준히 증가해 왔다. 이에 구는 도시·교통 기반 시설을 늘리고, 균형 잡힌 원도심 개발을 진행하는 등 수도권 서북부... ",
-			"pubDate":"Mon, 08 Sep 2025 12:14:00 +0900"
 		}
 	]
 }
