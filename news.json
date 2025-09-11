@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 11 Sep 2025 10:40:01 +0900",
-	"total":273503,
+	"lastBuildDate":"Thu, 11 Sep 2025 10:50:01 +0900",
+	"total":273504,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"한밤중 인천 <b>청라<\/b> 아파트 화재…100여 명 대피",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1496945",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1496945",
+			"description":"오늘 새벽 1시 반쯤 인천시 서구 <b>청라<\/b>동 48층짜리 아파트 14층에서 불이 났습니다. 인명피해는 없었지만, 아파트 주민 100여명이 스스로 대피했습니다. 소방당국은 인력 80여 명과 장비 30여 대를 투입해 화재 발생 30여... ",
+			"pubDate":"Thu, 11 Sep 2025 10:42:00 +0900"
+		},
 		{
 			"title":"인천 서구 아파트서 불…약 100명 대피 소동",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1302728",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=375761",
 			"description":"사진=119 11일 오전 1시 24분께 인천시 서구 <b>청라<\/b>동 48층짜리 아파트 14층에서 불이 났다. 인명피해는 없었으나 아파트 주민 100여명이 스스로 대피했다. 또 폭발음이 들리고 연기가 난다는 화재 신고 31건이 119에... ",
 			"pubDate":"Thu, 11 Sep 2025 05:46:00 +0900"
-		},
-		{
-			"title":"한밤중 인천 <b>청라<\/b> 초고층 아파트서 불…100여명 대피",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202509110535574099",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005404984?sid=102",
-			"description":"11일 오전 1시 24분께 인천시 서구 <b>청라<\/b>동 48층짜리 아파트 14층에서 불이 났다. 인명피해는 없었으나 아파트 주민 100여명이 스스로 대피했다. 또 폭발음이 들리고 연기가 난다는 화재 신고 31건이 119에 들어왔다.... ",
-			"pubDate":"Thu, 11 Sep 2025 05:39:00 +0900"
 		}
 	]
 }
