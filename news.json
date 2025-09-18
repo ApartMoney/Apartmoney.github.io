@@ -1,71 +1,113 @@
 {
-	"lastBuildDate":"Fri, 19 Sep 2025 00:20:01 +0900",
-	"total":275460,
+	"lastBuildDate":"Fri, 19 Sep 2025 00:30:01 +0900",
+	"total":275474,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[mhn포토] 이가영, 신중하게 살핀다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460814",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344028",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 이가영(NH투자증권)이 3번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 홍정민, 주먹 불끈 출발합니다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460824",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344018",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 홍정민(CJ)이 4번홀 경기를 펼치고... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 이가영, 정타 날려 보낸다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460818",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344024",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 이가영(NH투자증권)이 3번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 김민선, 위풍당당하게",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460820",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344022",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 김민선(대방건설)이 3번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 김민선, 정타 날려 핀으로 보낸다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460819",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344023",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 김민선(대방건설)이 3번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 이가영, 한참을 보는 타구 방향",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460813",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344029",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 이가영(NH투자증권)이 4번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 김민선, 강력하게 날리는 티샷",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460822",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344020",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 김민선(대방건설)이 4번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 이가영, 최선을 다해 날린다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460817",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344025",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 이가영(NH투자증권)이 3번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 이가영, 핀으로 가라",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460816",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344026",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 이가영(NH투자증권)이 3번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 홍정민, 편하게 날린다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460823",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344019",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 홍정민(CJ)이 3번홀 경기를 펼치고... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 이가영, 세심하게 살핀다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460815",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344027",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 이가영(NH투자증권)이 3번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 홍정민, 캐디 김준수와 함께 우승 도전",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460825",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344017",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 홍정민(CJ)이 4번홀 경기를 펼치고... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 김민선, 기필코 성공시킨다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460821",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344021",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 김민선(대방건설)이 3번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 이가영, 하나금융그룹 우승 노리는 티샷",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460812",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344030",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 이가영(NH투자증권)이 4번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:22:00 +0900"
+		},
 		{
 			"title":"[mhn포토] 고지우-고지원 자매, 하트 담아 출발",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460784",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344016",
 			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지우(삼천리), 고지원(삼천리)이... ",
 			"pubDate":"Fri, 19 Sep 2025 00:12:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지우, 타구 방향 확인",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460787",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344013",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지우(삼천리)가 4번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지원, 퍼터와 볼 일 자",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460799",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344001",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지원(삼천리)이 3번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지우, 살피고 또 살핀다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460792",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344008",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지우(삼천리)가 3번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지우, 들어가라",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460791",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344009",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지우(삼천리)가 3번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지우, 한번에 성공시킨다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460793",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344007",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지우(삼천리)가 3번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지우, 아쉬운 파 세이브로 마무리",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460790",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344010",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지우(삼천리)가 3번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지원, 버디 성공 후 자신감 넘치는 미소",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460805",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343995",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지원(삼천리)이 3번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지우, 이 악물고 날리는 티샷",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460786",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344014",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지우(삼천리)가 4번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
 		},
 		{
 			"title":"[mhn포토] 고지원, 앙 다문 입 허투루 볼 수 없어요",
@@ -82,30 +124,9 @@
 			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 황유민, 마음 먹고 날리는 돌격대장",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460810",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343990",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 황유민(롯데)이 4번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지원, 버디로 마무리합니다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460802",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343998",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지원(삼천리)이 3번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
 			"title":"[mhn포토] 고지원, 들어가라",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460801",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343999",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지원(삼천리)이 3번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지원, 반드시 성공시킨다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460800",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344000",
 			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지원(삼천리)이 3번홀 경기를... ",
 			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
 		},
@@ -124,17 +145,24 @@
 			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
 		},
 		{
+			"title":"[mhn포토] 황유민, 마음 먹고 날리는 돌격대장",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460810",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343990",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 황유민(롯데)이 4번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 고지원, 버디로 마무리합니다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460802",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343998",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지원(삼천리)이 3번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
+		},
+		{
 			"title":"[mhn포토] 고지원, 강력하게 날리는 작은 버디 폭격기",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460807",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343993",
 			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지원(삼천리)이 4번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지우, 허투루 볼 수 없다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460795",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344005",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지우(삼천리)가 3번홀 경기를... ",
 			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
 		},
 		{
@@ -145,17 +173,31 @@
 			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 황유민, 시선 고정",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460809",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343991",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 황유민(롯데)이 4번홀 경기를... ",
+			"title":"[mhn포토] 고지우, 허투루 볼 수 없다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460795",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344005",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지우(삼천리)가 3번홀 경기를... ",
 			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 고지우, 앙 다문 입 다음 홀 반드시 버디 잡는다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460788",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344012",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지우(삼천리)가 3번홀 경기를... ",
+			"title":"[mhn포토] 고지원, 반드시 성공시킨다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460800",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344000",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지원(삼천리)이 3번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 고지원, 버디 성공 후 자신감 넘치는 미소",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460805",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343995",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지원(삼천리)이 3번홀 경기를... ",
+			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 고지우, 이 악물고 날리는 티샷",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460786",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344014",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지우(삼천리)가 4번홀 경기를... ",
 			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
 		},
 		{
@@ -171,48 +213,6 @@
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343992",
 			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지원(삼천리)이 4번홀 경기를... ",
 			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지원, 볼 인사로 마무리",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460806",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343994",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지원(삼천리)이 3번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지원, 캐디 문경기와 버디 파이팅",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460804",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343996",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지원(삼천리)이 3번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 고지원, 버디 잡고 위풍당당한 마무리",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460803",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343997",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 고지원(삼천리)이 3번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 황유민, 허투루 볼 수 없다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460811",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343989",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 황유민(롯데)이 3번홀 경기를... ",
-			"pubDate":"Fri, 19 Sep 2025 00:10:00 +0900"
-		},
-		{
-			"title":"지능형로봇·인공지능(AI) 관련주, '어깨춤 으쓱으쓱' 로보로보·로보스...",
-			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=239261",
-			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=239261",
-			"description":"IT서비스 부문은 시스템 구축과 운영을 담당하고 있으며, <b>청라<\/b> R&amp;D센터의 기술력과 전문 인력을 기반으로 물류 설비 설계 경험을 축적해왔다. 회사는 이를 토대로 AI와 로봇 등 고도화된 기술력 확보에 주력하며 사업... ",
-			"pubDate":"Fri, 19 Sep 2025 00:10:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 배소현, 캐디 이준형과 출발",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=460769",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000343983",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 1라운드 경기가 열렸다. 배소현(메디힐)이 3번홀 경기를... ",
-			"pubDate":"Thu, 18 Sep 2025 23:41:00 +0900"
 		}
 	]
 }
