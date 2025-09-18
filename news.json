@@ -1,9 +1,184 @@
 {
-	"lastBuildDate":"Thu, 18 Sep 2025 21:40:01 +0900",
-	"total":275206,
+	"lastBuildDate":"Thu, 18 Sep 2025 21:50:01 +0900",
+	"total":275233,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[골프in 포토] 이제영,노련하고 정확한 임팩트",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03263606642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119534",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 이제영이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:49:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 김소이,정확도 높은 티샷",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03260326642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119533",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 김소이가... ",
+			"pubDate":"Thu, 18 Sep 2025 21:49:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 김소이,조준은 페어웨이",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03257046642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119532",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 김소이가... ",
+			"pubDate":"Thu, 18 Sep 2025 21:49:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 김소이,밝은 미소 홀아웃",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03253766642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119531",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 김소이가... ",
+			"pubDate":"Thu, 18 Sep 2025 21:48:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 김소이,그린에 올려 버디를 노린다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03250486642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119530",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 김소이가... ",
+			"pubDate":"Thu, 18 Sep 2025 21:48:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 김소이,조준은 노련하게",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03247206642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119529",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 김소이가... ",
+			"pubDate":"Thu, 18 Sep 2025 21:47:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 현세린,반가운 미소로 이동해요",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03240646642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119527",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 현세린이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:46:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 현세린,강하고 유연한 아이언샷",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03237366642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119526",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 현세린이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:46:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 현세린,밝은 손인사로 이동",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03243926642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119528",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 현세린이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:46:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 현세린,완벽한 임팩트",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03234086642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119525",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 현세린이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:46:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 최민경,우승 향한 밝은 엄지척",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03224246642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119522",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 최민경이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:45:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 현세린,조준은 확실하게",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03230806642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119524",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 현세린이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:45:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 현세린,부드러운 연습 스윙",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03227526642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119523",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 현세린이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:45:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 최민경,깔끔한 임팩트",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03217686642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119520",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 최민경이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:44:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 최민경,차분한 어드레스",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03214406642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119519",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 최민경이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:44:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 최민경,목표는 홀인원",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03220966642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119521",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 최민경이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:44:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 최민경,노련한 정조준",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03211126642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119518",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 최민경이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:43:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 방신실,버디 퍼트 들어가라",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03207846642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119517",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 방신실이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:43:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 방신실,강력하게 올라간다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03204566642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119516",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 방신실이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:42:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 마다솜,타이틀 방어를 향하여",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03201286642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119515",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 마다솜이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:41:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 마다솜,파세이브 성공한다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03194726642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119513",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 마다솜이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:41:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 마다솜,타이틀 방어 정조준",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03198006642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119514",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 마다솜이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:41:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 마다솜,핀을 다시 본다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03184886642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119510",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 마다솜이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:40:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 마다솜,칩인 버디를 노린다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03188166642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119511",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 마다솜이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:40:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 마다솜,신중하게 라인을 본다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03191446642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119512",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 마다솜이... ",
+			"pubDate":"Thu, 18 Sep 2025 21:40:00 +0900"
+		},
 		{
 			"title":"[골프in 포토] 리디아고,파세이브 성공",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03175046642301432",
@@ -19,200 +194,25 @@
 			"pubDate":"Thu, 18 Sep 2025 21:39:00 +0900"
 		},
 		{
+			"title":"[골프in 포토] 리디아고,스폰서 대회 우승 정조준",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03178326642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119508",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 리디아고가... ",
+			"pubDate":"Thu, 18 Sep 2025 21:39:00 +0900"
+		},
+		{
+			"title":"[골프in 포토] 리디아고,우승위해 타수를 줄인다",
+			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03181606642301432",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119509",
+			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 리디아고가... ",
+			"pubDate":"Thu, 18 Sep 2025 21:39:00 +0900"
+		},
+		{
 			"title":"[골프in 포토] 리디아고,실수없이 맞춘다",
 			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03165206642301432",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119503",
 			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 리디아고가... ",
 			"pubDate":"Thu, 18 Sep 2025 21:38:00 +0900"
-		},
-		{
-			"title":"[골프in 포토] 리디아고,핀 앞에 멈춰라",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03158646642301432",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119501",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 리디아고가... ",
-			"pubDate":"Thu, 18 Sep 2025 21:38:00 +0900"
-		},
-		{
-			"title":"[골프in 포토] 리디아고,판단은 정확하게",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03168486642301432",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119504",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 리디아고가... ",
-			"pubDate":"Thu, 18 Sep 2025 21:38:00 +0900"
-		},
-		{
-			"title":"[골프in 포토] 리디아고,볼 마크해요",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03161926642301432",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119502",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 리디아고가... ",
-			"pubDate":"Thu, 18 Sep 2025 21:38:00 +0900"
-		},
-		{
-			"title":"[골프in 포토] 노승희,홀컵으로 들어가라",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03148806642301432",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119498",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 노승희가... ",
-			"pubDate":"Thu, 18 Sep 2025 21:37:00 +0900"
-		},
-		{
-			"title":"[골프in 포토] 리디아고,핀을 보고 준비한다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03152086642301432",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119499",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 리디아고가... ",
-			"pubDate":"Thu, 18 Sep 2025 21:37:00 +0900"
-		},
-		{
-			"title":"[골프in 포토] 리디아고,확실하게 공략한다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03155366642301432",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119500",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 리디아고가... ",
-			"pubDate":"Thu, 18 Sep 2025 21:37:00 +0900"
-		},
-		{
-			"title":"[골프in 포토] 노승희,정확도로 승부한다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03135686642301432",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119494",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 노승희가... ",
-			"pubDate":"Thu, 18 Sep 2025 21:36:00 +0900"
-		},
-		{
-			"title":"[골프in 포토] 노승희,타구 방향 보며 이동",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03138966642301432",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119495",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 노승희가... ",
-			"pubDate":"Thu, 18 Sep 2025 21:36:00 +0900"
-		},
-		{
-			"title":"[골프in 포토] 노승희,스윙 크기는 이만큼",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03145526642301432",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119497",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 노승희가... ",
-			"pubDate":"Thu, 18 Sep 2025 21:36:00 +0900"
-		},
-		{
-			"title":"[골프in 포토] 노승희,버디 라인을 맞춘다",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03142246642301432",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119496",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 노승희가... ",
-			"pubDate":"Thu, 18 Sep 2025 21:36:00 +0900"
-		},
-		{
-			"title":"[STN포토]파로 홀아웃하는 노승희",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303018",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142310",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]클럽 선택을 고민하는 전우리",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303038",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142293",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]파 라인 읽고 있는 윤선정",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303030",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142299",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]강하게 티샷 날리는 노승희",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303024",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142304",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]세컨드샷 날리는 노승희",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303021",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142307",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]볼 드롭하는 윤선정",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303026",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142302",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]세컨드샷 준비하는 노승희",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303019",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142309",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[골프in 포토] 유현조,타구 방향 문제없어",
-			"originallink":"http:\/\/starin.edaily.co.kr\/news\/newspath.asp?newsid=03125846642301432",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006119491",
-			"description":"18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/미국(OUT) 유럽(IN),예선 6,781yds, 본선 6,813 yds에서 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)1라운드가 열렸다. 유현조가... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]서드샷 하고 있는 박지영",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303071",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142311",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]버디퍼트 하고 있는 전우리",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303036",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142295",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]세컨드샷 날리는 윤선정",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303027",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142301",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]윤선정, 왼쪽으로 흐른다",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303031",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142298",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]목표를 조준하는 노승희",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303020",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142308",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]세컨드샷 준비하는 전우리",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303037",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142294",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]티샷 방향을 조준하는 노승희",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303023",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142305",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]어프로치샷 하는 박지영",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303070",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142312",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
-		},
-		{
-			"title":"[STN포토]파 세이브 성공하는 박주영",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=303069",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/450\/0000142291",
-			"description":"손진현 기자┃KLPGA 2025시즌 스물네 번째 대회인 '하나금융그룹 챔피언십'(총상금 15억 원, 우승상금 2억 7천만 원)이 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72, 예선: 6,781야드 \/ 본선: 6,813야드)에서 열리고... ",
-			"pubDate":"Thu, 18 Sep 2025 21:35:00 +0900"
 		}
 	]
 }
