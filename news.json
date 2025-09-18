@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 18 Sep 2025 16:20:01 +0900",
-	"total":274528,
+	"lastBuildDate":"Thu, 18 Sep 2025 16:30:01 +0900",
+	"total":274530,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"영종구 출범 기념 '시민토론회' 25일 개막",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1186600",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1186600",
+			"description":"토론에는 백현송 인천공항공사 도시개발처장, 박광운 영종총연 정책위원(전 국정기획위원회 정치행정분과위원), 안광호 인천경제청 영종<b>청라<\/b>사업본부장 등이 참여해 공항경제권 구축과 도시계획 방향을 구체적으로 다룰... ",
+			"pubDate":"Thu, 18 Sep 2025 16:26:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>에너지, '지역난방 관리담당자 교육' 개최",
+			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=359970",
+			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=359970",
+			"description":"<b>청라<\/b>에너지가 지역난방 관리담당자들을 대상으로 요금체계와 에너지바우처 제도를 집중 교육하며 현장 실무 역량 강화에 나섰다. <b>청라<\/b>에너지(대표 최태희)는 16일부터 18일까지 사흘간 인천 <b>청라<\/b>·검단신도시와 김포... ",
+			"pubDate":"Thu, 18 Sep 2025 16:22:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>에너지, <b>청라<\/b>·김포·검단 권역별 지역난방 관리담당자 교육",
 			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1159612",
@@ -19,20 +33,6 @@
 			"pubDate":"Thu, 18 Sep 2025 16:15:00 +0900"
 		},
 		{
-			"title":"티샷 치는 김민솔",
-			"originallink":"https:\/\/www.news1.kr\/photos\/7503444",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0008495261",
-			"description":"= 김민솔이 18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> CC에서 열린 '하나금융그룹 챔피언십' 1라운드 1번 홀에서 티샷을 하고 있다. (KLPGA 제공. 재판매 및 DB 금지) 2025.9.18\/뉴스1",
-			"pubDate":"Thu, 18 Sep 2025 16:14:00 +0900"
-		},
-		{
-			"title":"티샷 치는 마다솜",
-			"originallink":"https:\/\/www.news1.kr\/photos\/7503447",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0008495263",
-			"description":"= 마다솜이 18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> CC에서 열린 '하나금융그룹 챔피언십' 1라운드 4번 홀에서 티샷을 하고 있다. (KLPGA 제공. 재판매 및 DB 금지) 2025.9.18\/뉴스1",
-			"pubDate":"Thu, 18 Sep 2025 16:14:00 +0900"
-		},
-		{
 			"title":"티샷 치는 박혜준",
 			"originallink":"https:\/\/www.news1.kr\/photos\/7503442",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0008495259",
@@ -44,6 +44,20 @@
 			"originallink":"https:\/\/www.news1.kr\/photos\/7503448",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0008495264",
 			"description":"= 방신실이 18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> CC에서 열린 '하나금융그룹 챔피언십' 1라운드 4번 홀에서 티샷을 하고 있다. (KLPGA 제공. 재판매 및 DB 금지) 2025.9.18\/뉴스1",
+			"pubDate":"Thu, 18 Sep 2025 16:14:00 +0900"
+		},
+		{
+			"title":"티샷 치는 김민솔",
+			"originallink":"https:\/\/www.news1.kr\/photos\/7503444",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0008495261",
+			"description":"= 김민솔이 18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> CC에서 열린 '하나금융그룹 챔피언십' 1라운드 1번 홀에서 티샷을 하고 있다. (KLPGA 제공. 재판매 및 DB 금지) 2025.9.18\/뉴스1",
+			"pubDate":"Thu, 18 Sep 2025 16:14:00 +0900"
+		},
+		{
+			"title":"티샷 치는 마다솜",
+			"originallink":"https:\/\/www.news1.kr\/photos\/7503447",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/421\/0008495263",
+			"description":"= 마다솜이 18일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> CC에서 열린 '하나금융그룹 챔피언십' 1라운드 4번 홀에서 티샷을 하고 있다. (KLPGA 제공. 재판매 및 DB 금지) 2025.9.18\/뉴스1",
 			"pubDate":"Thu, 18 Sep 2025 16:14:00 +0900"
 		},
 		{
@@ -89,13 +103,6 @@
 			"pubDate":"Thu, 18 Sep 2025 16:12:00 +0900"
 		},
 		{
-			"title":"파세이브 한 마다솜",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250918_0020982028",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0013491352",
-			"description":"18일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 하나금융그룹 챔피언십 1라운드 6번홀에서 마다솜이 파세이브 후 홀아웃 하고 있다. (사진=KLPGA 제공) 2025.09.18. photo@newsis.com *재판매 및 DB 금지",
-			"pubDate":"Thu, 18 Sep 2025 16:12:00 +0900"
-		},
-		{
 			"title":"트러블샷 하는 리디아 고",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250918_0020982032",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0013491351",
@@ -103,10 +110,24 @@
 			"pubDate":"Thu, 18 Sep 2025 16:12:00 +0900"
 		},
 		{
+			"title":"파세이브 한 마다솜",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250918_0020982028",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0013491352",
+			"description":"18일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 하나금융그룹 챔피언십 1라운드 6번홀에서 마다솜이 파세이브 후 홀아웃 하고 있다. (사진=KLPGA 제공) 2025.09.18. photo@newsis.com *재판매 및 DB 금지",
+			"pubDate":"Thu, 18 Sep 2025 16:12:00 +0900"
+		},
+		{
 			"title":"티샷하는 신다인",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250918_0020982025",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0013491348",
 			"description":"18일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 하나금융그룹 챔피언십 1라운드 1번홀에서 신다인이 티샷을 하고 있다. (사진=KLPGA 제공) 2025.09.18. photo@newsis.com *재판매 및 DB 금지",
+			"pubDate":"Thu, 18 Sep 2025 16:12:00 +0900"
+		},
+		{
+			"title":"티샷하는 이예원",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250918_0020982023",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0013491349",
+			"description":"18일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 하나금융그룹 챔피언십 1라운드 4번홀에서 이예원이 티샷을 하고 있다. (사진=KLPGA 제공) 2025.09.18. photo@newsis.com *재판매 및 DB 금지",
 			"pubDate":"Thu, 18 Sep 2025 16:12:00 +0900"
 		},
 		{
@@ -128,13 +149,6 @@
 			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250918_0020982039",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0013491359",
 			"description":"18일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 하나금융그룹 챔피언십 1라운드 10번홀에서 구래현이 티샷을 하고 있다. (사진=KLPGA 제공) 2025.09.18. photo@newsis.com *재판매 및 DB 금지",
-			"pubDate":"Thu, 18 Sep 2025 16:12:00 +0900"
-		},
-		{
-			"title":"티샷하는 이예원",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20250918_0020982023",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/003\/0013491349",
-			"description":"18일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC에서 열린 하나금융그룹 챔피언십 1라운드 4번홀에서 이예원이 티샷을 하고 있다. (사진=KLPGA 제공) 2025.09.18. photo@newsis.com *재판매 및 DB 금지",
 			"pubDate":"Thu, 18 Sep 2025 16:12:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.stoo.com\/article.php?aid=102661462602",
 			"description":"18일 인천 <b>청라<\/b> 베어즈베스트 골프클럽에서 열린 ‘하나금융그룹 챔피언십’ 1라운드, 박혜준이 9번홀 파세이브를 기록하고 있다. 2025.09.18.",
 			"pubDate":"Thu, 18 Sep 2025 16:02:00 +0900"
-		},
-		{
-			"title":"[ST포토] 임희정, 진지한 사막여우",
-			"originallink":"http:\/\/www.stoo.com\/article.php?aid=102661350586",
-			"link":"http:\/\/www.stoo.com\/article.php?aid=102661350586",
-			"description":"18일 인천 <b>청라<\/b> 베어즈베스트 골프클럽에서 열린 ‘하나금융그룹 챔피언십’ 1라운드, 임희정이 9번홀 퍼팅을 준비하고 있다. 2025.09.18.",
-			"pubDate":"Thu, 18 Sep 2025 16:00:00 +0900"
-		},
-		{
-			"title":"서울 아파트 가격 상승폭 2주째 연속 상승",
-			"originallink":"http:\/\/www.arunews.com\/news\/articleView.html?idxno=50667",
-			"link":"http:\/\/www.arunews.com\/news\/articleView.html?idxno=50667",
-			"description":"인천(0.01%→0.03%)의 경우 연수구(-0.03%)는 입주물량 영향있는 송도동 및 연수동 구축 위주로 하락했으나, 서구(0.14%)는 마전·<b>청라<\/b>동 주요 단지 위주로, 미추홀구(0.03%)는 주안·용현동 구축 위주로, 계양구(0.02... ",
-			"pubDate":"Thu, 18 Sep 2025 15:58:00 +0900"
 		}
 	]
 }
