@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sat, 20 Sep 2025 00:50:00 +0900",
-	"total":276593,
+	"lastBuildDate":"Sat, 20 Sep 2025 01:00:01 +0900",
+	"total":276595,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 경기] 2025년 9월 20일",
+			"originallink":"https:\/\/www.chosun.com\/sports\/sports_general\/2025\/09\/20\/GDT2ALGBWJBPTPKI7NGNXST5MY\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/023\/0003930278",
+			"description":"(베어즈베스트 <b>청라<\/b>·SBS골프·9시) 프로축구2부 수원-경남(수원월드컵), 부천-서울E(부천종합·이하 16시30분), 인천-김포(인천축구전용), 성남-충남아산(탄천종합·이하 19시) 테니스 코리아오픈 2025 4강전... ",
+			"pubDate":"Sat, 20 Sep 2025 00:54:00 +0900"
+		},
+		{
+			"title":"[내일의 경기] 2025년 9월 21일",
+			"originallink":"https:\/\/www.chosun.com\/sports\/sports_general\/2025\/09\/20\/SFNJLTLKCJCI7JCPCZSA3DHTGU\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/023\/0003930274",
+			"description":"(베어즈베스트 <b>청라<\/b>·SBS골프·9시) 프로축구2부 안산-충북청주(와스타디움), 천안-화성(천안종합운동장·이하 16시 30분), 부산-전남(19시·구덕운동장) 당구 PBA 팀리그 3라운드(12시·킨텍스 PBA스타디움)... ",
+			"pubDate":"Sat, 20 Sep 2025 00:53:00 +0900"
+		},
 		{
 			"title":"[mhn포토] 유효주, 첫 홀 실망스러워",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461575",
@@ -40,13 +54,6 @@
 			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 유효주, 퍼터로 바꾸다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461582",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344714",
-			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
-			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
-		},
-		{
 			"title":"[mhn포토] 박민지 캐디 이순석, 우승만 생각한다",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461585",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344711",
@@ -57,6 +64,20 @@
 			"title":"[mhn포토] 유효주, 칩 인을 노린다",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461583",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344713",
+			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
+			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 유효주, 퍼터로 바꾸다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461582",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344714",
+			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
+			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 유효주, 미소가 아름다워",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461572",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344721",
 			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
 			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
 		},
@@ -82,20 +103,6 @@
 			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 유효주, 미소가 아름다워",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461572",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344721",
-			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
-			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 박혜준, 볼 마크",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461592",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344705",
-			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 박혜준(두산건설위브)이 1번홀... ",
-			"pubDate":"Sat, 20 Sep 2025 00:17:00 +0900"
-		},
-		{
 			"title":"[mhn포토] 조혜림, 쌍 엄지 척 춤",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461611",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344687",
@@ -103,10 +110,10 @@
 			"pubDate":"Sat, 20 Sep 2025 00:17:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 엄지 척 조혜림, 최고에요",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461609",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344689",
-			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 조혜림(파마리서치)이 1번홀 경기를... ",
+			"title":"[mhn포토] 박혜준, 볼 마크",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461592",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344705",
+			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 박혜준(두산건설위브)이 1번홀... ",
 			"pubDate":"Sat, 20 Sep 2025 00:17:00 +0900"
 		},
 		{
@@ -166,6 +173,13 @@
 			"pubDate":"Sat, 20 Sep 2025 00:17:00 +0900"
 		},
 		{
+			"title":"[mhn포토] 엄지 척 조혜림, 최고에요",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461609",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344689",
+			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 조혜림(파마리서치)이 1번홀 경기를... ",
+			"pubDate":"Sat, 20 Sep 2025 00:17:00 +0900"
+		},
+		{
 			"title":"[mhn포토] 최민경, 캐디 강성도와 파이팅",
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461617",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344682",
@@ -177,20 +191,6 @@
 			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461591",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344706",
 			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 신다인이 1번홀 경기를 펼치고 있다.",
-			"pubDate":"Sat, 20 Sep 2025 00:17:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 조아연-김진한, 브이 브이",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461621",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344680",
-			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 조아연(한국토지신탁)이 1번홀... ",
-			"pubDate":"Sat, 20 Sep 2025 00:17:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 이율린, 들어가라",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461605",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344693",
-			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 이율린(두산건설위브)이 1번홀... ",
 			"pubDate":"Sat, 20 Sep 2025 00:17:00 +0900"
 		},
 		{
