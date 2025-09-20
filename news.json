@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 20 Sep 2025 11:30:01 +0900",
-	"total":276609,
+	"lastBuildDate":"Sat, 20 Sep 2025 11:40:01 +0900",
+	"total":276610,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[특집기획] 유정복 시장 ‘민생·혁신 정책’ 시민들 체감",
+			"originallink":"https:\/\/m.skyedaily.com\/news_view.html?ID=285825",
+			"link":"https:\/\/m.skyedaily.com\/news_view.html?ID=285825",
+			"description":"제3연륙교 무료화는 영종·<b>청라<\/b> 주민과 인천시민의 큰 관심을 받았다. 인천시를 향해 비판이 극성스러웠던 시민단체도 오랜 숙원을 풀어주었다는 성명을 낼 만큼 인정받았다. 지역 균형발전과 생활 편익을 동시에 확보한... ",
+			"pubDate":"Sat, 20 Sep 2025 11:34:00 +0900"
+		},
 		{
 			"title":"&quot;주말나들이는 인천 베어즈베스트 <b>청라<\/b>로~&quot;..'명품샷+먹거리 '풍성'",
 			"originallink":"http:\/\/www.newsian.co.kr\/news\/articleView.html?idxno=82355",
@@ -117,23 +124,37 @@
 			"pubDate":"Sat, 20 Sep 2025 00:53:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 유효주, 퍼터로 바꾸다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461582",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344714",
+			"title":"[mhn포토] 유효주, 볼 주변 먼지 제거",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461577",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344718",
 			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
 			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 박민지 캐디 이순석, 우승만 생각한다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461585",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344711",
-			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 박민지(NH투자증권)가 1번홀 경기를... ",
+			"title":"[mhn포토] 유효주, 들어가라 들어가",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461576",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344719",
+			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
 			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 유효주, 칩 인을 노린다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461583",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344713",
+			"title":"[mhn포토] 유효주, 행복한 미소로 우승 도전",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461570",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344722",
+			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
+			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 유효주, 첫 홀 실망스러워",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461575",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344720",
+			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
+			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 유효주, 공략 방향 살핀다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461584",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344712",
 			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
 			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
 		},
@@ -166,52 +187,31 @@
 			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 유효주, 볼 주변 먼지 제거",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461577",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344718",
+			"title":"[mhn포토] 유효주, 퍼터로 바꾸다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461582",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344714",
 			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
 			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 유효주, 들어가라 들어가",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461576",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344719",
+			"title":"[mhn포토] 박민지 캐디 이순석, 우승만 생각한다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461585",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344711",
+			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 박민지(NH투자증권)가 1번홀 경기를... ",
+			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 유효주, 칩 인을 노린다",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461583",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344713",
 			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
 			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 유효주, 첫 홀 실망스러워",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461575",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344720",
-			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
-			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 유효주, 공략 방향 살핀다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461584",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344712",
-			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
-			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 유효주, 행복한 미소로 우승 도전",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461570",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344722",
-			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 유효주(두산건설위브)가 1번홀... ",
-			"pubDate":"Sat, 20 Sep 2025 00:18:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 신다인, 칩 인을 노린다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461590",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344707",
-			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 신다인이 1번홀 경기를 펼치고 있다.",
-			"pubDate":"Sat, 20 Sep 2025 00:17:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 김효문, 차분히 마무리 한다",
-			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461612",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344686",
-			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 김효문(대광로제비앙)이 1번홀... ",
+			"title":"[mhn포토] 최민경, 캐디 강성도와 파이팅",
+			"originallink":"https:\/\/www.mhnse.com\/news\/articleView.html?idxno=461617",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000344682",
+			"description":"19일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b>(파72 예선 6,781야드ㅣ본선 6,813야드)에서 '하나금융그룹 챔피언십(총상금 15억 원ㅣ우승상금 2억7천만 원) 2라운드 경기가 열렸다. 최민경(지벤트)이 1번홀 경기를... ",
 			"pubDate":"Sat, 20 Sep 2025 00:17:00 +0900"
 		}
 	]
