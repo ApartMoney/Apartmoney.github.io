@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 24 Sep 2025 18:00:01 +0900",
-	"total":278525,
+	"lastBuildDate":"Wed, 24 Sep 2025 18:10:01 +0900",
+	"total":278526,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[미래산업 선도하는 인천, 그 현장을 가다] 3. 인천테크노파크 로봇센터",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1304369",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1304369",
+			"description":"인천 <b>청라<\/b>국제도시의 로봇타워. 실내 배송 로봇이 1층 로비에서 소포를 집어 엘리베이터에 오른다. 맞은편 R&amp;D센터로 이어지는 횡단보도에는 실외 배송 로봇이 스스로 길을 건넌다. 언뜻 공상처럼 들리지만... ",
+			"pubDate":"Wed, 24 Sep 2025 18:00:00 +0900"
+		},
 		{
 			"title":"인천 송도 ‘꼭 가볼 곳’ IFEZ 홍보관… 7월 리뉴얼 후 매월 1만명 방문",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20250924580349",
@@ -124,17 +131,17 @@
 			"pubDate":"Wed, 24 Sep 2025 11:32:00 +0900"
 		},
 		{
-			"title":"현대무벡스 주가 9월 24일 9,370원…장중 거래량 97만 주 돌파",
-			"originallink":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=179792",
-			"link":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=179792",
-			"description":"또한 AGV(무인운반차) 등 로봇 기술과 인공지능(AI) 기술 고도화를 추진 중이며, <b>청라<\/b> R&amp;D센터를 기반으로 기술력 향상과 전문인력 확보를 통해 물류 핵심 설비 설계 경험을 확대해가고 있다. 현재 현대무벡스의... ",
-			"pubDate":"Wed, 24 Sep 2025 11:18:00 +0900"
-		},
-		{
 			"title":"&quot;마지막까지 함께하는 돌봄&quot; 인천, 호스피스의 날 맞아 걷기대회",
 			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1285965",
 			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1285965",
 			"description":"10시, <b>청라<\/b>호수공원에서 '2025년 호스피스의 날 기념 걷기대회'를 개최한다고 24일 밝혔다. 이번 행사는... 이번 행사의 걷기대회는 <b>청라<\/b>의 대표적 수변공원인 <b>청라<\/b>호수공원 산책로 2.7km 구간에서 진행되며, 남녀노소 누구나... ",
+			"pubDate":"Wed, 24 Sep 2025 11:18:00 +0900"
+		},
+		{
+			"title":"현대무벡스 주가 9월 24일 9,370원…장중 거래량 97만 주 돌파",
+			"originallink":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=179792",
+			"link":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=179792",
+			"description":"또한 AGV(무인운반차) 등 로봇 기술과 인공지능(AI) 기술 고도화를 추진 중이며, <b>청라<\/b> R&amp;D센터를 기반으로 기술력 향상과 전문인력 확보를 통해 물류 핵심 설비 설계 경험을 확대해가고 있다. 현재 현대무벡스의... ",
 			"pubDate":"Wed, 24 Sep 2025 11:18:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005189275?sid=101",
 			"description":"부동산 디벨로퍼 도담에스테이트가 오는 30일 서울 강남구 삼성동 코엑스 B홀에서 열리는 '집코노미 박람회 2025'에서 인천 서구 <b>청라<\/b>국제도시 내 고급 오피스텔 '<b>청라<\/b> 피크원 푸르지오'를 선보인다. 올해로 11회째를 맞는... ",
 			"pubDate":"Wed, 24 Sep 2025 09:21:00 +0900"
-		},
-		{
-			"title":"호수공원과 신도시 생활권, ‘천안 휴먼빌 퍼스트시티’ 분양 눈길",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2025092409003183427",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005656702?sid=101",
-			"description":"광교, 동탄, <b>청라<\/b> 등 성공적으로 자리 잡은 수도권 신도시의 공통점은 도심 속 자연환경을 설계적... <b>청라<\/b>신도시에서도 <b>청라<\/b>국제금융단지 한양수자인, <b>청라<\/b>호수공원 한신더휴 등 호수공원과 가까운 단지들이 최고... ",
-			"pubDate":"Wed, 24 Sep 2025 09:20:00 +0900"
 		}
 	]
 }
