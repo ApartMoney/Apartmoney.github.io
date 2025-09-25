@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 25 Sep 2025 23:00:01 +0900",
-	"total":278616,
+	"lastBuildDate":"Thu, 25 Sep 2025 23:10:01 +0900",
+	"total":278617,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[기자가만난세상] 개통 앞둔 제3연륙교 수난사",
+			"originallink":"https:\/\/www.segye.com\/newsView\/20250925515020?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0004071248?sid=110",
+			"description":"하나인 ‘<b>청라<\/b>하늘대교’라고 의결했지만 두 자치구가 차례로 불복 의사를 밝혔다. 중구는 “인천공항을... 당연히 ‘<b>청라<\/b>대교’가 돼야 한다”고 발표하며 맞섰다. 인천시는 지난 17일 지명위원회를 다시 열어 재심의에... ",
+			"pubDate":"Thu, 25 Sep 2025 23:01:00 +0900"
+		},
 		{
 			"title":"제3연륙교 통행료 무료화 &quot;세금 충당…이중 부담&quot; 우려",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1304628",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/fpn119.co.kr\/240647",
 			"description":"2021년 천안 불당동 지하주차장, 2024년 인천 <b>청라<\/b> 지하주차장, 지난 2월 부산 반얀트리 리조트 공사장 화재는 배관 보온재가 불길의 통로가 돼 피해가 커졌다. 배관 보온재는 수십m 수평으로 이어져 있기에 가연성 소재일... ",
 			"pubDate":"Thu, 25 Sep 2025 15:28:00 +0900"
-		},
-		{
-			"title":"강남구, 전기차 화재 예방 위한 '스마트제어 충전기 보조금 지원' 추진",
-			"originallink":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=180373",
-			"link":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=180373",
-			"description":"스마트제어 충전기는 인천 <b>청라<\/b> 아파트 전기차 화재 이후 주목받은 차세대 충전기다. 배터리 정보를 실시간 수집해 충전량을 조절할 수 있어 안전성을 크게 높였으며, 통신 기능을 통해 사용자 편의성도 강화됐다.... ",
-			"pubDate":"Thu, 25 Sep 2025 15:20:00 +0900"
 		}
 	]
 }
