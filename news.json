@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 28 Sep 2025 16:10:01 +0900",
-	"total":278758,
+	"lastBuildDate":"Sun, 28 Sep 2025 16:20:01 +0900",
+	"total":278759,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 늘자 화재도 급증…6년간 100억 피해, 소방 대응은 뒷북",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/1084755",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/1084755",
+			"description":"특히 재산 피해는 같은 기간 15배 이상 늘었는데, 2024년 인천 <b>청라<\/b> 아파트 지하주차장 화재 한 건으로만 38억 원 이상의 손해가 발생했다. 지역별로는 경기도가 65건으로 가장 많았고, 제주(19건), 서울·경북(18건), 전북... ",
+			"pubDate":"Sun, 28 Sep 2025 16:14:00 +0900"
+		},
 		{
 			"title":"BS한양, 수인분당선 인하대역 역세권 …커튼월룩 적용 특화설계",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/11431033",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363704703",
 			"description":"이와 함께 그룹은 <b>청라<\/b> 그룹통합데이터센터의 서버와 무정전전원장치(UPS) 등 주요 인프라를 긴급 점검했으며, 향후 장애 시스템의 재가동과 안정적 서비스 복구를 위한 사전 점검도 실시하고 있다. 하나금융그룹... ",
 			"pubDate":"Sun, 28 Sep 2025 13:44:00 +0900"
-		},
-		{
-			"title":"하나금융, 국가정보자원관리원 화재에 전사 비상대응체계 가동",
-			"originallink":"https:\/\/www.newswhoplus.com\/news\/articleView.html?idxno=41969",
-			"link":"https:\/\/www.newswhoplus.com\/news\/articleView.html?idxno=41969",
-			"description":"한편, 하나금융그룹은 그룹 데이터센터 안정성 확보를 위해 서버, 무정전전원장치(UPS) 등 <b>청라<\/b> 그룹통합데이터센터 관리 체계를 긴급 점검했으며, 향후 장애 시스템을 재가동, 안정적인 서비스 정상화를 위한 사전 점검도... ",
-			"pubDate":"Sun, 28 Sep 2025 13:38:00 +0900"
 		}
 	]
 }
