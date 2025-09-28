@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 28 Sep 2025 18:50:01 +0900",
-	"total":278784,
+	"lastBuildDate":"Sun, 28 Sep 2025 19:00:01 +0900",
+	"total":278785,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 영종·<b>청라<\/b> 근린공원 조성 추진",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1759040436&code=11131411&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001805158?sid=102",
+			"description":"인천 영종국제도시와 <b>청라<\/b>국제도시를 잇는 제3연륙교(4.68㎞) 관광자원화 사업의 하나로 영종·<b>청라<\/b> 근린공원 조성 사업이 본격 추진된다. 인천경제자유구역청은 지난 25일 한국토지주택공사(LH)·인천도시공사(iH)와... ",
+			"pubDate":"Sun, 28 Sep 2025 18:54:00 +0900"
+		},
 		{
 			"title":"82메이저, ATA 페스티벌서 폭발적 라이브 퍼포먼스",
 			"originallink":"http:\/\/www.ttlnews.com\/news\/articleView.html?idxno=3034707",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004538473?sid=101",
 			"description":"실제 지난해 8월 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 벤츠 전기차 화재로 배터리 안전에 대한 불신이 커지며 국내 전기차 시장이 주춤하기도 했다. 사고 원인에 대해선 배터리 결함 등 다양한 추측이 나왔지만... ",
 			"pubDate":"Sun, 28 Sep 2025 15:53:00 +0900"
-		},
-		{
-			"title":"하나금융, 국가정보자원관리원 화재 비상대응체계 가동…&quot;고객 불편 최...",
-			"originallink":"http:\/\/www.efnews.co.kr\/news\/articleView.html?idxno=123665",
-			"link":"http:\/\/www.efnews.co.kr\/news\/articleView.html?idxno=123665",
-			"description":"한편, 하나금융은 그룹 데이터센터 안정성 확보를 위해 서버, 무정전전원장치(UPS) 등 <b>청라<\/b> 그룹통합데이터센터 관리 체계를 긴급 점검했으며, 향후 장애 시스템을 재가동, 안정적인 서비스 정상화를 위한 사전 점검도... ",
-			"pubDate":"Sun, 28 Sep 2025 15:52:00 +0900"
 		}
 	]
 }
