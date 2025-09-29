@@ -1,5 +1,5 @@
 {
-	"lastBuildDate":"Mon, 29 Sep 2025 12:10:01 +0900",
+	"lastBuildDate":"Mon, 29 Sep 2025 12:20:01 +0900",
 	"total":278887,
 	"start":1,
 	"display":30,
@@ -33,17 +33,17 @@
 			"pubDate":"Mon, 29 Sep 2025 11:42:00 +0900"
 		},
 		{
-			"title":"인천 찾은 국힘 지도부…'인천항 재개발·경인전철 지하화' 지원 약속",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20250929_0003348091",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013511931?sid=100",
-			"description":"송언석 원내대표는 &quot;제물포 내항 등 도시개발 프로젝트의 조속한 착공, 경인전철 및 경인고속도로 지하화, 인천공항 5단계 확장 사업 추진, GTX-B노선 신속 추진을 비롯한 광역 교통망 개선, 송도·<b>청라<\/b>·영종 등 성공적... ",
-			"pubDate":"Mon, 29 Sep 2025 11:39:00 +0900"
-		},
-		{
 			"title":"인천 제3연륙교 연계 영종·<b>청라<\/b> 테마공원 조성…2029년 준공",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2025092911394573411",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005659205?sid=102",
 			"description":"인천 영종도와 <b>청라<\/b>국제도시를 연결하는 제3연륙교와 연계한 영종·<b>청라<\/b> 테마공원 조성 사업이 본격 추진된다. 인천경제자유구역청은 지난 25일 한국토지주택공사(LH), 인천도시공사(iH)와 영종·<b>청라<\/b> 근린공원 조성을... ",
+			"pubDate":"Mon, 29 Sep 2025 11:39:00 +0900"
+		},
+		{
+			"title":"인천 찾은 국힘 지도부…'인천항 재개발·경인전철 지하화' 지원 약속",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20250929_0003348091",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013511931?sid=100",
+			"description":"송언석 원내대표는 &quot;제물포 내항 등 도시개발 프로젝트의 조속한 착공, 경인전철 및 경인고속도로 지하화, 인천공항 5단계 확장 사업 추진, GTX-B노선 신속 추진을 비롯한 광역 교통망 개선, 송도·<b>청라<\/b>·영종 등 성공적... ",
 			"pubDate":"Mon, 29 Sep 2025 11:39:00 +0900"
 		},
 		{
@@ -103,13 +103,6 @@
 			"pubDate":"Mon, 29 Sep 2025 11:08:00 +0900"
 		},
 		{
-			"title":"[금융 이모저모] 하나은행, '자연사랑 어린이 미술대회' 성료",
-			"originallink":"https:\/\/www.greened.kr\/news\/articleView.html?idxno=331658",
-			"link":"https:\/\/www.greened.kr\/news\/articleView.html?idxno=331658",
-			"description":"하나은행이 인천 <b>청라<\/b>에서 '제33회 하나은행 자연사랑 어린이 미술대회' 본선 및 시상식을 개최했다는... O···하나은행, '자연사랑 어린이 미술대회' 성료 29일 하나은행은 지난 27일 인천 <b>청라<\/b>에 위치한... ",
-			"pubDate":"Mon, 29 Sep 2025 11:04:00 +0900"
-		},
-		{
 			"title":"하나은행, '제33회 자연사랑 어린이 미술대회' 본선 및 시상식 개최",
 			"originallink":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=253864",
 			"link":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=253864",
@@ -117,10 +110,17 @@
 			"pubDate":"Mon, 29 Sep 2025 11:04:00 +0900"
 		},
 		{
-			"title":"하나은행, 1만290명 모인 '자연사랑 어린이 미술대회' 성료",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2511286",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2511286",
-			"description":"이투데이=김재은 기자 | 하나은행은 인천 <b>청라<\/b>에 있는 하나글로벌캠퍼스에서 '제33회 하나은행 자연사랑 어린이 미술대회' 본선 및 시상식을 개최했다고 29일 밝혔다. 27일 이 대회는 △환경부 △문화체육관광부 △산림청... ",
+			"title":"[금융 이모저모] 하나은행, '자연사랑 어린이 미술대회' 성료",
+			"originallink":"https:\/\/www.greened.kr\/news\/articleView.html?idxno=331658",
+			"link":"https:\/\/www.greened.kr\/news\/articleView.html?idxno=331658",
+			"description":"하나은행이 인천 <b>청라<\/b>에서 '제33회 하나은행 자연사랑 어린이 미술대회' 본선 및 시상식을 개최했다는... O···하나은행, '자연사랑 어린이 미술대회' 성료 29일 하나은행은 지난 27일 인천 <b>청라<\/b>에 위치한... ",
+			"pubDate":"Mon, 29 Sep 2025 11:04:00 +0900"
+		},
+		{
+			"title":"국정자원 화재에 '배터리 포비아' 다시 확산하나…조사 결과 '촉각'",
+			"originallink":"https:\/\/news.tf.co.kr\/read\/economy\/2248542.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000430630?sid=101",
+			"description":"업계에서는 지난해 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 전기차 화재로 확산한 바 있는 배터리 포비아에 촉각을 곤두세우는 모양새다. 전기차 시대 개막 등으로 배터리 활용이 많아지면서, 배터리 화재 발생... ",
 			"pubDate":"Mon, 29 Sep 2025 11:00:00 +0900"
 		},
 		{
@@ -131,10 +131,10 @@
 			"pubDate":"Mon, 29 Sep 2025 11:00:00 +0900"
 		},
 		{
-			"title":"국정자원 화재에 '배터리 포비아' 다시 확산하나…조사 결과 '촉각'",
-			"originallink":"https:\/\/news.tf.co.kr\/read\/economy\/2248542.htm",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000430630?sid=101",
-			"description":"업계에서는 지난해 인천 <b>청라<\/b> 아파트 지하 주차장에서 발생한 전기차 화재로 확산한 바 있는 배터리 포비아에 촉각을 곤두세우는 모양새다. 전기차 시대 개막 등으로 배터리 활용이 많아지면서, 배터리 화재 발생... ",
+			"title":"하나은행, 1만290명 모인 '자연사랑 어린이 미술대회' 성료",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2511286",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2511286",
+			"description":"이투데이=김재은 기자 | 하나은행은 인천 <b>청라<\/b>에 있는 하나글로벌캠퍼스에서 '제33회 하나은행 자연사랑 어린이 미술대회' 본선 및 시상식을 개최했다고 29일 밝혔다. 27일 이 대회는 △환경부 △문화체육관광부 △산림청... ",
 			"pubDate":"Mon, 29 Sep 2025 11:00:00 +0900"
 		},
 		{
@@ -159,17 +159,17 @@
 			"pubDate":"Mon, 29 Sep 2025 10:50:00 +0900"
 		},
 		{
-			"title":"하나은행, '제33회 자연사랑 어린이 미술대회' 개최",
-			"originallink":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=92595",
-			"link":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=92595",
-			"description":"|스마트투데이=김윤진 기자| 하나은행은 지난 27일 인천 <b>청라<\/b>에 위치한 '하나글로벌캠퍼스'에서 『제33회 하나은행 자연사랑 어린이 미술대회』 본선 및 시상식을 개최했다고 29일 밝혔다. 『하나은행 자연사랑 어린이... ",
-			"pubDate":"Mon, 29 Sep 2025 10:46:00 +0900"
-		},
-		{
 			"title":"하나은행, '제33회 자연사랑 어린이 미술대회' 열어",
 			"originallink":"https:\/\/www.insnews.co.kr\/news\/articleView.html?idxno=86374",
 			"link":"https:\/\/www.insnews.co.kr\/news\/articleView.html?idxno=86374",
 			"description":"하나은행은 지난 27일 인천 <b>청라<\/b>에 위치한 '하나글로벌캠퍼스'에서 '제33회 하나은행 자연사랑 어린이 미술대회' 본선 및 시상식을 개최했다고 29일 밝혔다. 하나은행 자연사랑 어린이 미술대회는 환경부, 문화체육관광부... ",
+			"pubDate":"Mon, 29 Sep 2025 10:46:00 +0900"
+		},
+		{
+			"title":"하나은행, '제33회 자연사랑 어린이 미술대회' 개최",
+			"originallink":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=92595",
+			"link":"https:\/\/www.smarttoday.co.kr\/news\/articleView.html?idxno=92595",
+			"description":"|스마트투데이=김윤진 기자| 하나은행은 지난 27일 인천 <b>청라<\/b>에 위치한 '하나글로벌캠퍼스'에서 『제33회 하나은행 자연사랑 어린이 미술대회』 본선 및 시상식을 개최했다고 29일 밝혔다. 『하나은행 자연사랑 어린이... ",
 			"pubDate":"Mon, 29 Sep 2025 10:46:00 +0900"
 		},
 		{
@@ -208,10 +208,10 @@
 			"pubDate":"Mon, 29 Sep 2025 10:36:00 +0900"
 		},
 		{
-			"title":"하나은행, '제33회 자연사랑 어린이 미술대회' 성료",
-			"originallink":"https:\/\/www.eroun.net\/news\/articleView.html?idxno=64080",
-			"link":"https:\/\/www.eroun.net\/news\/articleView.html?idxno=64080",
-			"description":"1만여 점 출품·환경단체 기부·다채로운 가족 프로그램으로 ESG 가치 확산 이로운넷 = 이수진 에디터 하나은행은 지난 27일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 '제33회 하나은행 자연사랑 어린이 미술대회' 본선 및 시상식을... ",
+			"title":"작품 한 점당 1000원 기부···미술로 환경 사랑 전한다",
+			"originallink":"https:\/\/www.thereport.co.kr\/news\/articleView.html?idxno=71683",
+			"link":"https:\/\/www.thereport.co.kr\/news\/articleView.html?idxno=71683",
+			"description":"하나은행은 지난 27일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 '제33회 하나은행 자연사랑 어린이 미술대회' 본선과 시상식을 개최했다고 29일 밝혔다. '하나은행 자연사랑 어린이 미술대회'는 환경부, 문화체육관광부... ",
 			"pubDate":"Mon, 29 Sep 2025 10:34:00 +0900"
 		}
 	]
