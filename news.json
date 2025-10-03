@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 03 Oct 2025 22:40:01 +0900",
-	"total":279237,
+	"lastBuildDate":"Fri, 03 Oct 2025 22:50:01 +0900",
+	"total":279238,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"연휴 첫날 곳곳 사고로 얼룩...터널 화재 등 잇따라",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202510032237393153",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002255603?sid=102",
+			"description":"인천 <b>청라<\/b>에서는 지하차도에 불이 나 한때 전면 통제됐고, 부산에서는 근로자가 작업 중 숨지기도 했습니다.... 인천 <b>청라<\/b>동 <b>청라<\/b>국제지하차도에서 견인되고 있던 차량에 불이 난 겁니다. 다친 사람은 없었지만, 사고 처리... ",
+			"pubDate":"Fri, 03 Oct 2025 22:37:00 +0900"
+		},
 		{
 			"title":"개통 임박 '제3연륙교'…이달 중 명칭 재심의",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1499555",
@@ -145,17 +152,17 @@
 			"pubDate":"Fri, 03 Oct 2025 13:28:00 +0900"
 		},
 		{
-			"title":"바디프랜드 라운지, 추석 연휴 정상 영업",
-			"originallink":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=113184",
-			"link":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=113184",
-			"description":"특히 추석 당일(6일)에는 서울 송파, 경기 수원, 인천 <b>청라<\/b>, 부산 해운대 등을 포함한 대표 라운지 55곳이 문을 열어 긴 연휴 기간의 제약 없이 헬스케어로봇 체험을 원하는 고객 누구나 방문할 수 있게 했다고 한다. 고객들이... ",
-			"pubDate":"Fri, 03 Oct 2025 13:24:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>국제지하차도 화재 처리 완료...통행 재개",
 			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=209793",
 			"link":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=209793",
 			"description":"<b>청라<\/b>국제지하차도 통행이 재개됐습니다. 인천김포고속도로는 3일 낮 12시45분 &quot;<b>청라<\/b>국제지하차도 인천 방향 차량 화재 사고가 처리돼 통행이 재개됐다&quot;고 밝혔습니다. 이날 오전 11시20분쯤 <b>청라<\/b>국제지하차도에서 차량... ",
+			"pubDate":"Fri, 03 Oct 2025 13:24:00 +0900"
+		},
+		{
+			"title":"바디프랜드 라운지, 추석 연휴 정상 영업",
+			"originallink":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=113184",
+			"link":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=113184",
+			"description":"특히 추석 당일(6일)에는 서울 송파, 경기 수원, 인천 <b>청라<\/b>, 부산 해운대 등을 포함한 대표 라운지 55곳이 문을 열어 긴 연휴 기간의 제약 없이 헬스케어로봇 체험을 원하는 고객 누구나 방문할 수 있게 했다고 한다. 고객들이... ",
 			"pubDate":"Fri, 03 Oct 2025 13:24:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3394856",
 			"description":"수도권제2순환고속도로(인천김포고속도로) <b>청라<\/b>국제지하차도 CCTV 영상 3일 오전 11시 20분 경 인천 서구 수도권제2순환고속도로(인천김포고속도로) <b>청라<\/b>국제지하차도를 달리던 차량에서 화재가 발생했다. 신고를... ",
 			"pubDate":"Fri, 03 Oct 2025 12:46:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>국제지하차도 통행 재개...화재 발생 1시간20여분만",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363705302",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363705302",
-			"description":"승용차 화재로 전면 통제됐던 <b>청라<\/b>국제지하차도 통행이 1시간 20여분만에 재개됐다. 3일 오전 11시 25분쯤 제2순환고속도로 인천~김포 구간(인천김포고속도로)의 <b>청라<\/b>국제지하차도 인천 방향에서는 승용차 화재가... ",
-			"pubDate":"Fri, 03 Oct 2025 12:42:00 +0900"
 		}
 	]
 }
