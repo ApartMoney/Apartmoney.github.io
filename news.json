@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 05 Oct 2025 09:00:01 +0900",
-	"total":279249,
+	"lastBuildDate":"Sun, 05 Oct 2025 09:10:00 +0900",
+	"total":279250,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 인천소사] 인천서부경찰서 개서",
+			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=309196",
+			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=309196",
+			"description":"인천 서구 64만6703명의 치안 담당 현재 산하에 서곶지구대·석남지구대·가좌지구대·검단지구대·<b>청라<\/b>지구대·불로지구대·가정지구대·당하지구대 등 8개 지구대와 가석파출소 1곳을 두고 2025년 8월 31일 기준... ",
+			"pubDate":"Sun, 05 Oct 2025 09:00:00 +0900"
+		},
 		{
 			"title":"이영철 서구의원 &quot;인천 수도권매립지 종료가 최우선 과제&quot;",
 			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=309221",
@@ -173,17 +180,17 @@
 			"pubDate":"Fri, 03 Oct 2025 14:39:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b>국제지하차도서 차량 화재…도로 전면 통제",
-			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1499511",
-			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1499511",
-			"description":"추석 연휴 첫날인 오늘 오전 11시 25분쯤 제2순환고속도로 인천∼김포 구간의 <b>청라<\/b>국제지하차도 인천 방향에서 승용차에 불이 났습니다. 이 불로 인명 피해는 없었으나 지하차도에 연기가 차면서 왕복 6차로 양방향... ",
-			"pubDate":"Fri, 03 Oct 2025 14:30:00 +0900"
-		},
-		{
 			"title":"인천 지하차도에서 견인차량에 불…한때 전면 통제",
 			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1008282796&plink=ORI&cooper=NAVER",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001297739?sid=102",
 			"description":"▲ 차량 화재로 통제된 <b>청라<\/b>국제지하차도 추석 연휴 첫날인 오늘(3일) 오전 11시 30분쯤 제2순환고속도로 인천김포고속도로 <b>청라<\/b>국제지하차도 안에서 승용차에 불이 났습니다. 이 불로 인명피해는 없었지만 지하차도... ",
+			"pubDate":"Fri, 03 Oct 2025 14:30:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b>국제지하차도서 차량 화재…도로 전면 통제",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1499511",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1499511",
+			"description":"추석 연휴 첫날인 오늘 오전 11시 25분쯤 제2순환고속도로 인천∼김포 구간의 <b>청라<\/b>국제지하차도 인천 방향에서 승용차에 불이 났습니다. 이 불로 인명 피해는 없었으나 지하차도에 연기가 차면서 왕복 6차로 양방향... ",
 			"pubDate":"Fri, 03 Oct 2025 14:30:00 +0900"
 		},
 		{
@@ -194,13 +201,6 @@
 			"pubDate":"Fri, 03 Oct 2025 14:03:00 +0900"
 		},
 		{
-			"title":"인천김포고속도로 <b>청라<\/b>국제지하차도 차량 화재로 한때 전면 통제",
-			"originallink":"https:\/\/www.khan.co.kr\/article\/202510031340001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003400649?sid=102",
-			"description":"인천김포고속도로 <b>청라<\/b>국제지하차도 인천 방향을 달리던 차량에서 불이 나 한때 도로가 통제됐다. 소방 등에 따르면 이날 오전 11시 25분 제2순환고속도로 인천∼김포 구간(인천김포고속도로)의 <b>청라<\/b>국제지하차도... ",
-			"pubDate":"Fri, 03 Oct 2025 13:40:00 +0900"
-		},
-		{
 			"title":"인천 <b>청라<\/b>국제지하차도, 차량 화재로 통제됐다가 통행 재개",
 			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000263949?division=NAVER",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000467271?sid=103",
@@ -208,11 +208,11 @@
 			"pubDate":"Fri, 03 Oct 2025 13:40:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b>국제지하차도 차량 화재 처리 완료 통행 재개",
-			"originallink":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1161248",
-			"link":"http:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=1161248",
-			"description":"3일 오전 11시 25분께 제2순환고속도로 인천∼김포 구간(인천김포고속도로)의 <b>청라<\/b>국제지하차도에서 인천... 소방당국은 &quot;<b>청라<\/b>국제지하차도에서 차량에 불이 붙었다&quot;는 119 신고를 접수하고, 펌프차 등 장비 20여대와... ",
-			"pubDate":"Fri, 03 Oct 2025 13:36:00 +0900"
+			"title":"인천김포고속도로 <b>청라<\/b>국제지하차도 차량 화재로 한때 전면 통제",
+			"originallink":"https:\/\/www.khan.co.kr\/article\/202510031340001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003400649?sid=102",
+			"description":"인천김포고속도로 <b>청라<\/b>국제지하차도 인천 방향을 달리던 차량에서 불이 나 한때 도로가 통제됐다. 소방 등에 따르면 이날 오전 11시 25분 제2순환고속도로 인천∼김포 구간(인천김포고속도로)의 <b>청라<\/b>국제지하차도... ",
+			"pubDate":"Fri, 03 Oct 2025 13:40:00 +0900"
 		}
 	]
 }
