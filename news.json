@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 05 Oct 2025 16:20:02 +0900",
-	"total":279260,
+	"lastBuildDate":"Sun, 05 Oct 2025 16:30:01 +0900",
+	"total":279261,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"추석 앞두고 벤츠 전기차 또 화재...수원 1800세대 아파트",
+			"originallink":"http:\/\/weekly.chosun.com\/news\/articleView.html?idxno=45063",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/053\/0000052726?sid=102",
+			"description":"지난해 8월 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 벤츠 전기차 화재로 대규모 재산피해가 일어난 악몽이 재현될뻔 했다는 평가다. 5일 오전 8시 4분쯤, 경기도 수원시 권선구의 1800세대 규모 아파트 지하주차장... ",
+			"pubDate":"Sun, 05 Oct 2025 16:21:00 +0900"
+		},
 		{
 			"title":"수원 아파트 주차장서 전기차 화재···충전 발화 추정",
 			"originallink":"https:\/\/www.sisajournal-e.com\/news\/articleView.html?idxno=415864",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1305341",
 			"description":"▲ 3일 오전 11시25분쯤 인천 <b>청라<\/b>국제지하차도 북<b>청라<\/b>IC에서 남인천IC방향에서 차량 화재가 발생했다는 신고가 접수됐다. \/사진제공=인천소방본부 인천 <b>청라<\/b>국제지하차도에서 견인 중이던 승용차에서 불이나 약... ",
 			"pubDate":"Fri, 03 Oct 2025 16:16:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>국제지하차도서 승용차 화재…1시간 넘게 양뱡향 통제",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20251003000152",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20251003000152",
-			"description":"수도권 제2순환고속도로 <b>청라<\/b>국제지하차도서 승용차 화재 [사진=인천소방본부] 추석 연휴 첫날인 3일 오전 11시 20분께 제2순환고속도로 인천∼김포 구간(인천김포고속도로)의 <b>청라<\/b>국제지하차도에서 승용차에 불이... ",
-			"pubDate":"Fri, 03 Oct 2025 15:50:00 +0900"
 		}
 	]
 }
