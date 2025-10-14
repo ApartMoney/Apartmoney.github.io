@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 14 Oct 2025 17:50:01 +0900",
-	"total":279499,
+	"lastBuildDate":"Tue, 14 Oct 2025 18:00:01 +0900",
+	"total":279500,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천 시정 특집] 제61회 인천시민의 날…&quot;함께 더 큰 도약을&quot;",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1305909",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1305909",
+			"description":"2003년 국내 최초로 인천경제자유구역(IFEZ)이 지정되면서 송도·<b>청라<\/b>·영종은 글로벌 비즈니스 거점으로 변모했다. 또한 2005년 물동량 1억t을 돌파한 인천항은 2019년 국제여객·크루즈터미널 개항으로 글로벌 관광... ",
+			"pubDate":"Tue, 14 Oct 2025 17:50:00 +0900"
+		},
 		{
 			"title":"인천시 국정감사, 12.3 계엄 빼면 2023년 국감과 중복?",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=454544",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/medicalworldnews.co.kr\/news\/view.php?idx=1510970547",
 			"description":"인천 <b>청라<\/b> 더율피부과 김호진(대한피부과의사회 정회원) 원장은 “동안 외모는 탄력 있는 피부와 정돈된 윤곽이 핵심이다. 하지만 20대 중반부터는 피부 재생 능력이 서서히 느려지면서, 주름과 탄력 저하가 빠르게... ",
 			"pubDate":"Tue, 14 Oct 2025 11:50:00 +0900"
-		},
-		{
-			"title":"[기획] 항구에서 세계로…인천, 61년 성장의 발자취 &quot;시민과 함께 세계...",
-			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=659317",
-			"link":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=659317",
-			"description":"2003년 인천경제자유구역(IFEZ) 지정은 송도·<b>청라<\/b>·영종을 글로벌 비즈니스 거점으로 변화시켰고, 2009년 인천대교 개통은 물류 네트워크의 효율성을 극대화했다. 인천항은 2005년 물동량 1억 톤을 돌파하며 세계적... ",
-			"pubDate":"Tue, 14 Oct 2025 11:47:00 +0900"
 		}
 	]
 }
