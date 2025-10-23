@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 23 Oct 2025 16:50:01 +0900",
-	"total":280043,
+	"lastBuildDate":"Thu, 23 Oct 2025 17:00:00 +0900",
+	"total":280044,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이용우 국회의원, 교육부 특별교부금 7억5천300만 원 확보",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3001170",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3001170",
+			"description":"이 의원에 따르면 교육부 특별교부금은 <b>청라<\/b>중학교 옥상방수 사업으로 3억3천만 원, 청호초·중학교 옥상방수 사업으로 4억2천3백만 원을 교부받았다. 이들 학교는 옥상시설이 노후되어 보수가 시급한 곳이었다. 이번... ",
+			"pubDate":"Thu, 23 Oct 2025 16:58:00 +0900"
+		},
 		{
 			"title":"제일건설 ‘영종국제도시 제일풍경채 디오션’ 입주 순항… 오션뷰 아파...",
 			"originallink":"https:\/\/www.dt.co.kr\/article\/12024762?ref=naver",
@@ -187,17 +194,17 @@
 			"pubDate":"Thu, 23 Oct 2025 11:04:00 +0900"
 		},
 		{
-			"title":"삼영물류 플랫폼사업부, 신규 인천물류센터 통합 이전 발표",
-			"originallink":"https:\/\/www.klnews.co.kr\/news\/articleView.html?idxno=318450",
-			"link":"https:\/\/www.klnews.co.kr\/news\/articleView.html?idxno=318450",
-			"description":"삼영물류 플랫폼사업부는 글로벌 이커머스 풀필먼트 서비스를 전문적으로 제공하기 위해 인천 가좌, <b>청라<\/b>, FM센터 등 기존 4개의 직영센터를 운영해 왔다. 삼영물류는 이번 신규 인천센터로의 통합 확장 이전을 통해... ",
-			"pubDate":"Thu, 23 Oct 2025 10:56:00 +0900"
-		},
-		{
 			"title":"IFEZ 조지메이슨대 한국캠퍼스 '글로벌 K-컬처 센터' 개소... &quot;K-컬처 연구...",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1195179",
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1195179",
 			"description":"<b>청라<\/b>국제도시에는 영상문화복합단지를 중심으로 콘텐츠 기획과 제작을 위한 복합벨트를 구축하고 있으며... 기대한다&quot;며 &quot;<b>청라<\/b>의 영상문화복합단지, 영종의 공항경제권, 송도의 글로벌 네트워크를 연계해 세계가 찾는 K... ",
+			"pubDate":"Thu, 23 Oct 2025 10:56:00 +0900"
+		},
+		{
+			"title":"삼영물류 플랫폼사업부, 신규 인천물류센터 통합 이전 발표",
+			"originallink":"https:\/\/www.klnews.co.kr\/news\/articleView.html?idxno=318450",
+			"link":"https:\/\/www.klnews.co.kr\/news\/articleView.html?idxno=318450",
+			"description":"삼영물류 플랫폼사업부는 글로벌 이커머스 풀필먼트 서비스를 전문적으로 제공하기 위해 인천 가좌, <b>청라<\/b>, FM센터 등 기존 4개의 직영센터를 운영해 왔다. 삼영물류는 이번 신규 인천센터로의 통합 확장 이전을 통해... ",
 			"pubDate":"Thu, 23 Oct 2025 10:56:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.dailylog.co.kr\/news\/articleView.html?idxno=26094",
 			"description":"삼영물류 플랫폼사업부는 그동안 인천 가좌, <b>청라<\/b>, FM센터 등 4개 직영센터를 운영해 왔다. 회사측은 이번 신규 센터로 통합 확장 이전을 통해 인력과 장비 등의 운영력을 집중해 생산성과 수익성 모두 향상될 것으로... ",
 			"pubDate":"Thu, 23 Oct 2025 10:40:00 +0900"
-		},
-		{
-			"title":"인천경제청, 송도에 '글로벌 K컬쳐 센터' 개소...&quot;K-콘랜드 프로젝트 연...",
-			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=216661",
-			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=216661",
-			"description":"<b>청라<\/b>에는 영상문화복합단지를 중심으로 콘텐츠 기획과 제작을 위한 복합벨트를 구축하고 있으며, 영종은... 기대한다&quot;며 &quot;<b>청라<\/b>의 영상문화복합단지, 영종의 공항경제권, 송도의 글로벌 네트워크를 연계해 세계가 찾는 K... ",
-			"pubDate":"Thu, 23 Oct 2025 10:32:00 +0900"
 		}
 	]
 }
