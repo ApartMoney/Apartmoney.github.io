@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 29 Oct 2025 08:20:02 +0900",
-	"total":280312,
+	"lastBuildDate":"Wed, 29 Oct 2025 08:30:01 +0900",
+	"total":280314,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[단독] 전기차 40% 이상, 주차 중 배터리 이상 감지 못해",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0102_202510290822278322",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002265777?sid=101",
+			"description":"정부는 지난해 인천 <b>청라<\/b> 전기차 화재를 계기로 배터리 이상 감지·전파 기능을 하는 BMS 기능 개선을 약속했지만, 실제로 개선된 차량은 5개 모델에 불과한 것으로 드러났습니다.",
+			"pubDate":"Wed, 29 Oct 2025 08:22:00 +0900"
+		},
+		{
+			"title":"인천 부동산시장 천지개벽… '동부권 잠룡(부평)' 부상",
+			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=322882",
+			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=322882",
+			"description":"송도·<b>청라<\/b> 등 서부권이 주도해 온 인천 부동산 시장의 판도가 바뀌고 있다. 시장의 관심이 원도심인 동부권... 전문가들은 &quot;GTX-B 개통은 송도, <b>청라<\/b>와 마찬가지로 부평을 광역 생활권 중심지로 끌어올리는 결정적 요인이... ",
+			"pubDate":"Wed, 29 Oct 2025 08:20:00 +0900"
+		},
 		{
 			"title":"충남도, 11월 가을단풍 명소 소개…아산·보령·당진·태안 등",
 			"originallink":"https:\/\/www.news1.kr\/local\/daejeon-chungnam\/5956844",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3001601",
 			"description":"'영종'이나 '<b>청라<\/b>'나 '하늘' 다 빼고 비류, 인주, 경원 등 인천의 옛 이름을 따 짓든지 두 '국제도시'를 연결하는 다리이니 외국어 이름을 가져다 붙이는 게 차라리 낫지 않을까 싶다. 제3연륙교가 인천을 한없이 부끄럽게... ",
 			"pubDate":"Tue, 28 Oct 2025 14:12:00 +0900"
-		},
-		{
-			"title":"[동정] 보령시장",
-			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1120648",
-			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1120648",
-			"description":"▲김동일 보령시장 김동일 보령시장은 29일 오후 1시 국립기억의숲 추모광장에서 열리는 제18회 무연고 사망자 합동 추모제에 이어, 3시 <b>청라<\/b>면 의평리 일원에서 진행되는 청년맞춤 임대형 스마트팜 착공식에 참석한다.",
-			"pubDate":"Tue, 28 Oct 2025 14:10:00 +0900"
-		},
-		{
-			"title":"상해에서 배우는 인천의 길 - 물과 도시의 공존을 위하여",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=113260",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=113260",
-			"description":"<b>청라<\/b> 경제자유구역의 커넬웨이는 예외적인 성공 사례다. 물길을 중심으로 한 도시 설계가 주민의 삶의 질을 높인다는 사실을 증명했다. 그러나 송도의 경우, 세계적인 도시를 표방하면서도 수변공간이 주는 정체성과... ",
-			"pubDate":"Tue, 28 Oct 2025 14:02:00 +0900"
 		}
 	]
 }
