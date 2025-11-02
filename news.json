@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 03 Nov 2025 07:30:00 +0900",
-	"total":280627,
+	"lastBuildDate":"Mon, 03 Nov 2025 07:40:00 +0900",
+	"total":280628,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[Who Is ?] 김상열 호반장학재단 이사장 겸 서울신문 회장",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=418113",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=418113",
+			"description":"인천 <b>청라<\/b>, 고양 삼송, 수원 광교, 성남 판교 등의 부지를 사들여 호반베르디움을 공급하면서 수도권에서 입지를 확고히 했다. △호반건설이 걸어온 길 호반그룹은 1989년 김상열이 광주광역시에서 설립한 건설회사... ",
+			"pubDate":"Mon, 03 Nov 2025 07:32:00 +0900"
+		},
 		{
 			"title":"[불멸의 정주영] 정의선·정기선 회장 &quot;王 회장 정신, 우리가 잇는다&quot;",
 			"originallink":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=234358",
@@ -40,13 +47,6 @@
 			"pubDate":"Sun, 02 Nov 2025 20:52:00 +0900"
 		},
 		{
-			"title":"대구 중구, 제19회 경로당 연합 윷놀이 한마당",
-			"originallink":"https:\/\/www.ksmnews.co.kr\/news\/view.php?idx=572192",
-			"link":"https:\/\/www.ksmnews.co.kr\/news\/view.php?idx=572192",
-			"description":"대구 중구는 지난달 31일 <b>청라<\/b>국민체육센터에서 제19회 중구 경로당 연합 윷놀이 한마당을 성황리에 개최했다. 이번 행사는 남산기독교종합사회복지관이 주관하고 중구 내 38개 경로당 어르신 550여 명이 참석한 가운데... ",
-			"pubDate":"Sun, 02 Nov 2025 20:48:00 +0900"
-		},
-		{
 			"title":"대구 중구보건소, <b>청라<\/b>국민체육센터 윷놀이한마당서 암예방 홍보부스 운...",
 			"originallink":"https:\/\/www.ksmnews.co.kr\/news\/view.php?idx=572188",
 			"link":"https:\/\/www.ksmnews.co.kr\/news\/view.php?idx=572188",
@@ -54,17 +54,24 @@
 			"pubDate":"Sun, 02 Nov 2025 20:48:00 +0900"
 		},
 		{
-			"title":"제14회 미래도시 그리기대회 수상자 명단",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3002208",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3002208",
-			"description":"기호일보, KIHOILBO ◇ 대상 (교육부장관상) ▶인천<b>청라<\/b>중 김은준 ◇ 대상 (인천광역시장상) &lt;고등부... 박신웅 ▶인천<b>청라<\/b>초병설유치원 정서율 ▶분당성모유치원 손예온 ▶드림유치원 심연수 ▶죽전ECC 김태윤 ▶유정유치원... ",
-			"pubDate":"Sun, 02 Nov 2025 18:44:00 +0900"
+			"title":"대구 중구, 제19회 경로당 연합 윷놀이 한마당",
+			"originallink":"https:\/\/www.ksmnews.co.kr\/news\/view.php?idx=572192",
+			"link":"https:\/\/www.ksmnews.co.kr\/news\/view.php?idx=572192",
+			"description":"대구 중구는 지난달 31일 <b>청라<\/b>국민체육센터에서 제19회 중구 경로당 연합 윷놀이 한마당을 성황리에 개최했다. 이번 행사는 남산기독교종합사회복지관이 주관하고 중구 내 38개 경로당 어르신 550여 명이 참석한 가운데... ",
+			"pubDate":"Sun, 02 Nov 2025 20:48:00 +0900"
 		},
 		{
 			"title":"[교육부장관상 (중등부 대상)] 김은준 인천<b>청라<\/b>중",
 			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3002205",
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3002205",
 			"description":"&quot; 제14회 미래도시그리기대회에서 교육부 장관상을 수상한 김은준(14·<b>청라<\/b>중)군은 &quot;AI시대에 걸맞은 첨단... 인천 <b>청라<\/b>국제도시를 배경으로 사람과 기술이 공존하는 도시를 그렸다. 김 군은 &quot;AI시대에 맞춰 물안경으로... ",
+			"pubDate":"Sun, 02 Nov 2025 18:44:00 +0900"
+		},
+		{
+			"title":"제14회 미래도시 그리기대회 수상자 명단",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3002208",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3002208",
+			"description":"기호일보, KIHOILBO ◇ 대상 (교육부장관상) ▶인천<b>청라<\/b>중 김은준 ◇ 대상 (인천광역시장상) &lt;고등부... 박신웅 ▶인천<b>청라<\/b>초병설유치원 정서율 ▶분당성모유치원 손예온 ▶드림유치원 심연수 ▶죽전ECC 김태윤 ▶유정유치원... ",
 			"pubDate":"Sun, 02 Nov 2025 18:44:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2025\/10\/30\/2025103001393.html",
 			"description":"화성 동탄, 구리, 인천 송도·<b>청라<\/b>·검단 같은 곳은 규제가 없어서 시장이 들썩인다. 동시에 ‘여기가 다음 규제 대상 아니냐’는 소문도 돈다. 시장은 항상 정부보다 먼저 움직인다.” -결국 집값을 끌어올리는 원인은... ",
 			"pubDate":"Sat, 01 Nov 2025 06:06:00 +0900"
-		},
-		{
-			"title":"11\/1~11\/2 이마트·홈플러스·롯데마트, 휴무일·영업시간",
-			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=242087",
-			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=242087",
-			"description":"가좌, <b>청라<\/b>, 인천연수, 인천송도, 부천여월, 부천소사, 분당오리, 야탑, 시화, 송탄, 평택안중, 화성향남... 영종도점, <b>청라<\/b>점, 경기양평점, 광교점, 권선점, 롯데몰수지점, 수원점, 시화점, 시흥배곧점, 시흥점, 신갈점... ",
-			"pubDate":"Sat, 01 Nov 2025 00:10:00 +0900"
 		}
 	]
 }
