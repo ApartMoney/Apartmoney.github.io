@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 03 Nov 2025 13:30:00 +0900",
-	"total":280731,
+	"lastBuildDate":"Mon, 03 Nov 2025 13:40:00 +0900",
+	"total":280733,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"KT, 국내 첫 도심항공 실증 성공",
+			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=277751",
+			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=277751",
+			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15㎞ 구간에서 실증을 수행했다. KT가 자체 개발한 UAM 교통관리시스템을 중심으로... ",
+			"pubDate":"Mon, 03 Nov 2025 13:38:00 +0900"
+		},
+		{
+			"title":"KT, 국내 최초 도심 환경 'K-UAM 그랜드 챌린지' 2단계 실증 완료",
+			"originallink":"https:\/\/www.aitimes.com\/news\/articleView.html?idxno=203671",
+			"link":"https:\/\/www.aitimes.com\/news\/articleView.html?idxno=203671",
+			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 협력해 K-UAM 원팀으로서 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. KT가 자체 개발한 UAM 교통관리시스템(UATM)을 중심으로... ",
+			"pubDate":"Mon, 03 Nov 2025 13:30:00 +0900"
+		},
 		{
 			"title":"KT, 5G로 하늘길 연다…K-UAM 2단계 실증 성공",
 			"originallink":"https:\/\/www.hankyung.com\/article\/202511039764i",
@@ -199,20 +213,6 @@
 			"link":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=342350",
 			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM 교통관리시스템... ",
 			"pubDate":"Mon, 03 Nov 2025 10:58:00 +0900"
-		},
-		{
-			"title":"'세계 최고 높이' 인증도 받았는데…인천 제3연륙교 '무명대교' 될판",
-			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/5962717",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0008581108?sid=102",
-			"description":"시 지명위원회는 지난 7월 28일 제3연륙교 명칭을 '<b>청라<\/b>하늘대교'로 의결했으나 중구 주민들은 '영종하늘대교'를, 서구 주민들은 '<b>청라<\/b>대교'를 주장해 합의점을 찾지 못하고 있다. 중구는 통상 섬을 연결하는 해상교량이... ",
-			"pubDate":"Mon, 03 Nov 2025 10:55:00 +0900"
-		},
-		{
-			"title":"KT, 국내 최초 도심형 K-UAM 운용 실증 성공",
-			"originallink":"https:\/\/www.news2day.co.kr\/article\/20251103500096",
-			"link":"https:\/\/www.news2day.co.kr\/article\/20251103500096",
-			"description":"계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 이번 실증에는 KT가 자체 개발한 UAM 교통관리시스템(UATM)을 중심으로 시뮬레이션을 통해 수립한 UAM 교통관리 표준 운영절차(SOP), 핵심 인프라인... ",
-			"pubDate":"Mon, 03 Nov 2025 10:54:00 +0900"
 		}
 	]
 }
