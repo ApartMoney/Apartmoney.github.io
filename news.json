@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 03 Nov 2025 14:50:01 +0900",
-	"total":280743,
+	"lastBuildDate":"Mon, 03 Nov 2025 15:00:01 +0900",
+	"total":280746,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 제3연륙교, 세계가 인정한 '최고(最高)의 전망대' 등극",
+			"originallink":"http:\/\/www.koreareport.co.kr\/news\/articleView.html?idxno=41317",
+			"link":"http:\/\/www.koreareport.co.kr\/news\/articleView.html?idxno=41317",
+			"description":"제3연륙교는 인천 영종도와 <b>청라<\/b>국제도시를 잇는 핵심 인프라이자, 인천의 도시경관을 대표하는 상징물로 꼽힌다. 특히 교량 상부에 조성되는 전망대는 탁 트인 서해의 전경을 한눈에 담을 수 있어, 개통 전부터... ",
+			"pubDate":"Mon, 03 Nov 2025 14:54:00 +0900"
+		},
+		{
+			"title":"[재계는 지금] LG CNS, 인도네시아서 클라우드 ERP사업 착수 外",
+			"originallink":"https:\/\/dealsite.co.kr\/articles\/150690",
+			"link":"https:\/\/dealsite.co.kr\/articles\/150690",
+			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM 교통관리시스템... ",
+			"pubDate":"Mon, 03 Nov 2025 14:54:00 +0900"
+		},
+		{
+			"title":"KT, 국내 최초 도심 UAM 실증 성공…'5G 하늘길' 안정성 입증",
+			"originallink":"https:\/\/www.ezyeconomy.com\/news\/articleView.html?idxno=224743",
+			"link":"https:\/\/www.ezyeconomy.com\/news\/articleView.html?idxno=224743",
+			"description":"KT는 현대자동차·현대건설·인천국제공항공사·대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM... ",
+			"pubDate":"Mon, 03 Nov 2025 14:52:00 +0900"
+		},
 		{
 			"title":"대구소방, '불조심 강조의 달' 운영…&quot;시민 참여형 예방 활동&quot;",
 			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2025110313250004062?did=NA",
@@ -180,13 +201,6 @@
 			"pubDate":"Mon, 03 Nov 2025 11:40:00 +0900"
 		},
 		{
-			"title":"KT, K-UAM 그랜드 챌린지 2단계 성공적 마무리",
-			"originallink":"https:\/\/www.ddaily.co.kr\/page\/view\/2025110311225880458",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002208459?sid=105",
-			"description":"이번 실증은 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 이뤄졌다. 국내 최초로 도심 환경에서 진행된 UAM 통합 운용 검증이다. KT는 실증을 통해 5G 항공망의 안정성을 입증했다. KT가 자체 개발한 UAM... ",
-			"pubDate":"Mon, 03 Nov 2025 11:32:00 +0900"
-		},
-		{
 			"title":"인천공항공사, 국내 최초 도심 UAM 통합운용 실증 성공",
 			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20251103010000744",
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20251103010000744",
@@ -194,25 +208,11 @@
 			"pubDate":"Mon, 03 Nov 2025 11:32:00 +0900"
 		},
 		{
-			"title":"‘세계 최대 높이 해상교량 전망대’ 타이틀 땄는데…정작 이름은 없다...",
-			"originallink":"https:\/\/www.ichannela.com\/news\/main\/news_detailPage.do?publishId=000000499006",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/449\/0000325293?sid=102",
-			"description":"시 지명위원회는 지난 7월 제3연륙교 명칭을 '<b>청라<\/b>하늘대교'로 의결했지만 중구는 '영종하늘대교'를, 서구는 '<b>청라<\/b>대교'를 고집해 합의점을 찾지 못하고 있습니다. 영종도가 속한 중구는 통상 섬을 연결하는 해상교량이... ",
-			"pubDate":"Mon, 03 Nov 2025 11:31:00 +0900"
-		},
-		{
-			"title":"인천공항공사, 도심 UAM 통합운용 실증 완료",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03135686642362112",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006154858?sid=102",
-			"description":"공사가 지난달 16~31일 인천 아라뱃길 노선(<b>청라<\/b> 드론센터↔계양)에서 수행한 통합 운용성 검증은 정상 시나리오와 비정상 시나리오까지 전체 11개의 시나리오를 포함했다. 이 과정에서 공사는 UAM 교통관리체계... ",
-			"pubDate":"Mon, 03 Nov 2025 11:24:00 +0900"
-		},
-		{
-			"title":"‘해발 184.2m’ 인천 제3연륙교 전망대… ‘세계 최고 높이’ 인증",
-			"originallink":"https:\/\/www.chosun.com\/national\/regional\/2025\/11\/03\/AKACQO2YDVCYNDGZSQW4VFU5TA\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003938576?sid=102",
-			"description":"제3연륙교는 인천 영종도와 서구 <b>청라<\/b>국제도시를 연결하는 해상 교량으로, 길이 4.68㎞, 폭 30m(왕복 6차로) 규모로 건립 중이다. 현재 공정률은 94%로 다음 달 개통이 목표다. 유정복 인천시장은 “제3연륙교는 인천의... ",
-			"pubDate":"Mon, 03 Nov 2025 11:23:00 +0900"
+			"title":"KT, K-UAM 그랜드 챌린지 2단계 성공적 마무리",
+			"originallink":"https:\/\/www.ddaily.co.kr\/page\/view\/2025110311225880458",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002208459?sid=105",
+			"description":"이번 실증은 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 이뤄졌다. 국내 최초로 도심 환경에서 진행된 UAM 통합 운용 검증이다. KT는 실증을 통해 5G 항공망의 안정성을 입증했다. KT가 자체 개발한 UAM... ",
+			"pubDate":"Mon, 03 Nov 2025 11:32:00 +0900"
 		}
 	]
 }
