@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Mon, 03 Nov 2025 09:30:01 +0900",
-	"total":280651,
+	"lastBuildDate":"Mon, 03 Nov 2025 09:40:01 +0900",
+	"total":280657,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"KT, 도심항공교통 2단계 실증 성료",
+			"originallink":"https:\/\/biz.heraldcorp.com\/article\/10607158?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002551490?sid=105",
+			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15㎞ 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM... ",
+			"pubDate":"Mon, 03 Nov 2025 09:39:00 +0900"
+		},
+		{
+			"title":"KT, K-UAM 그랜드챌린지 2단계 실증 성공적 마무리",
+			"originallink":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=117142",
+			"link":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=117142",
+			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증했다. 이번 실증에서는 KT가 자체 개발한 UAM 교통관리시스템을... ",
+			"pubDate":"Mon, 03 Nov 2025 09:38:00 +0900"
+		},
+		{
+			"title":"KT, 한국형 도심항공교통 K-UAM 실증서 ‘5G 항공망’ 안정성 입증",
+			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2025\/11\/03\/2025110300066.html",
+			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2025\/11\/03\/2025110300066.html",
+			"description":"KT는 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM 교통관리시스템(UATM)을 중심으로 시뮬레이션을 통해 수립한 UAM 교통관리... ",
+			"pubDate":"Mon, 03 Nov 2025 09:36:00 +0900"
+		},
+		{
+			"title":"해발 184m 인천 제3연륙교 전망대…세계 최고 높이 공인",
+			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2025110309230001291?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000895318?sid=102",
+			"description":"인천 영종과 <b>청라<\/b>를 연결하는 제3연륙교는 길이 4.68㎞, 폭 30ｍ(왕복 6차로) 규모로 건립된다. 현재 공정률은 94%로 올해 말이나 내년 초 개통할 것으로 예상된다. 유정복 인천시장은 &quot;제3연륙교는 단순한 교량을 넘어... ",
+			"pubDate":"Mon, 03 Nov 2025 09:34:00 +0900"
+		},
+		{
+			"title":"KT, K-UAM 그랜드 챌린지 2단계 성공적 수행",
+			"originallink":"https:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=228685",
+			"link":"https:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=228685",
+			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM 교통관리시스템... ",
+			"pubDate":"Mon, 03 Nov 2025 09:34:00 +0900"
+		},
+		{
+			"title":"KT, K-UAM 그랜드 챌린지 2단계 성공적 수행",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3335328",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3335328",
+			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15㎞ 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM... ",
+			"pubDate":"Mon, 03 Nov 2025 09:34:00 +0900"
+		},
 		{
 			"title":"제3연륙교 전망대, 세계 최고 높이 '공식 인증'",
 			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=310436",
@@ -26,13 +68,6 @@
 			"pubDate":"Mon, 03 Nov 2025 09:23:00 +0900"
 		},
 		{
-			"title":"KT, 5G 항공망으로 도심항공교통 운용성 입증",
-			"originallink":"https:\/\/www.pointe.co.kr\/news\/articleView.html?idxno=60382",
-			"link":"https:\/\/www.pointe.co.kr\/news\/articleView.html?idxno=60382",
-			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 실증 과정에서는 KT가 자체 개발한 UAM... ",
-			"pubDate":"Mon, 03 Nov 2025 09:22:00 +0900"
-		},
-		{
 			"title":"인천 영종도~<b>청라<\/b> 연결, 제3연륙교 전망대 …세계 최고 높은 해상교량 ...",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1567604\/?sc=Naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0003019953?sid=102",
@@ -47,16 +82,23 @@
 			"pubDate":"Mon, 03 Nov 2025 09:22:00 +0900"
 		},
 		{
-			"title":"KT, K-UAM 그랜드 챌린지 2단계 성공적 수행",
-			"originallink":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065572198971478",
-			"link":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065572198971478",
-			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM 교통관리시스템... ",
-			"pubDate":"Mon, 03 Nov 2025 09:20:00 +0900"
+			"title":"KT, 5G 항공망으로 도심항공교통 운용성 입증",
+			"originallink":"https:\/\/www.pointe.co.kr\/news\/articleView.html?idxno=60382",
+			"link":"https:\/\/www.pointe.co.kr\/news\/articleView.html?idxno=60382",
+			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 실증 과정에서는 KT가 자체 개발한 UAM... ",
+			"pubDate":"Mon, 03 Nov 2025 09:22:00 +0900"
 		},
 		{
 			"title":"KT, K-UAM 그랜드 챌린지 2단계 성공적 수행...5G 항공망으로 도심항공 ...",
 			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=411817",
 			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=411817",
+			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM 교통관리시스템... ",
+			"pubDate":"Mon, 03 Nov 2025 09:20:00 +0900"
+		},
+		{
+			"title":"KT, K-UAM 그랜드 챌린지 2단계 성공적 수행",
+			"originallink":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065572198971478",
+			"link":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065572198971478",
 			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM 교통관리시스템... ",
 			"pubDate":"Mon, 03 Nov 2025 09:20:00 +0900"
 		},
@@ -89,17 +131,17 @@
 			"pubDate":"Mon, 03 Nov 2025 09:14:00 +0900"
 		},
 		{
-			"title":"KT, K-UAM 그랜드 챌린지 2단계 성공적 수행…&quot;5G 항공망 기반 통합 운용...",
-			"originallink":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=324171",
-			"link":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=324171",
-			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM 교통관리시스템... ",
-			"pubDate":"Mon, 03 Nov 2025 09:12:00 +0900"
-		},
-		{
 			"title":"KT, 아라뱃길 상공서 도심항공 실증 성공⋯&quot;5G 항공망 기반 통합 운용성...",
 			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2521284",
 			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2521284",
 			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM... ",
+			"pubDate":"Mon, 03 Nov 2025 09:12:00 +0900"
+		},
+		{
+			"title":"KT, K-UAM 그랜드 챌린지 2단계 성공적 수행…&quot;5G 항공망 기반 통합 운용...",
+			"originallink":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=324171",
+			"link":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=324171",
+			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM 교통관리시스템... ",
 			"pubDate":"Mon, 03 Nov 2025 09:12:00 +0900"
 		},
 		{
@@ -124,20 +166,6 @@
 			"pubDate":"Mon, 03 Nov 2025 09:08:00 +0900"
 		},
 		{
-			"title":"KT, K-UAM 그랜드 챌린지 2단계 성공적 수행… “5G 항공망 안정성 입증...",
-			"originallink":"https:\/\/www.viva100.com\/article\/20251103500170",
-			"link":"https:\/\/www.viva100.com\/article\/20251103500170",
-			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15㎞ 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM 교통관리시스템... ",
-			"pubDate":"Mon, 03 Nov 2025 09:06:00 +0900"
-		},
-		{
-			"title":"인천 영종∼<b>청라<\/b> 제3연륙교 전망대, '세계 최고 높이' 인증",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20251103027800065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015719821?sid=102",
-			"description":"인천 영종과 <b>청라<\/b>를 연결하는 제3연륙교는 길이 4.68㎞·폭 30ｍ(왕복 6차로) 규모로 건립된다. 현재 공정률은 94%로 올해 말이나 내년 초에 개통할 것으로 예상된다. 유정복 인천시장은 &quot;제3연륙교는 단순한 교량을 넘어... ",
-			"pubDate":"Mon, 03 Nov 2025 09:06:00 +0900"
-		},
-		{
 			"title":"KT, 국내 첫 도심항공 실증 성공",
 			"originallink":"http:\/\/thetracker.co.kr\/View.aspx?No=3838367",
 			"link":"http:\/\/thetracker.co.kr\/View.aspx?No=3838367",
@@ -149,6 +177,20 @@
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=02355046642362112",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006154455?sid=105",
 			"description":"계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15km 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM 교통관리시스템(UATM)을 중심으로 시뮬레이션을 통해 수립한 UAM 교통관리 표준 운영절차(SOP), 핵심... ",
+			"pubDate":"Mon, 03 Nov 2025 09:06:00 +0900"
+		},
+		{
+			"title":"인천 영종∼<b>청라<\/b> 제3연륙교 전망대, '세계 최고 높이' 인증",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20251103027800065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015719821?sid=102",
+			"description":"인천 영종과 <b>청라<\/b>를 연결하는 제3연륙교는 길이 4.68㎞·폭 30ｍ(왕복 6차로) 규모로 건립된다. 현재 공정률은 94%로 올해 말이나 내년 초에 개통할 것으로 예상된다. 유정복 인천시장은 &quot;제3연륙교는 단순한 교량을 넘어... ",
+			"pubDate":"Mon, 03 Nov 2025 09:06:00 +0900"
+		},
+		{
+			"title":"KT, K-UAM 그랜드 챌린지 2단계 성공적 수행… “5G 항공망 안정성 입증...",
+			"originallink":"https:\/\/www.viva100.com\/article\/20251103500170",
+			"link":"https:\/\/www.viva100.com\/article\/20251103500170",
+			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15㎞ 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM 교통관리시스템... ",
 			"pubDate":"Mon, 03 Nov 2025 09:06:00 +0900"
 		},
 		{
@@ -171,48 +213,6 @@
 			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=418113",
 			"description":"인천 <b>청라<\/b>, 고양 삼송, 수원 광교, 성남 판교 등의 부지를 사들여 호반베르디움을 공급하면서 수도권에서 입지를 확고히 했다. △호반건설이 걸어온 길 호반그룹은 1989년 김상열이 광주광역시에서 설립한 건설회사... ",
 			"pubDate":"Mon, 03 Nov 2025 07:32:00 +0900"
-		},
-		{
-			"title":"[불멸의 정주영] 정의선·정기선 회장 &quot;王 회장 정신, 우리가 잇는다&quot;",
-			"originallink":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=234358",
-			"link":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=234358",
-			"description":"모친과 함께 현대무벡스 사업 전반을 챙기고 있으며 2019년 가동을 시작한 <b>청라<\/b> R&amp;D센터를 기반으로 기술 고도화에 집중하고 있다. 그 결과, 사이즈가 큰 해외 사업을 잇달아 수주하며 실적을 폭발적으로 끌어올렸다.... ",
-			"pubDate":"Mon, 03 Nov 2025 07:00:00 +0900"
-		},
-		{
-			"title":"[i리그] “전윤오 원맨쇼” 높이의 인천 삼성, 부천 삼성 상대로 압승",
-			"originallink":"",
-			"link":"https:\/\/m.sports.naver.com\/basketball\/article\/065\/0000286941",
-			"description":"총 8팀이 참가해 오전부, 오후부 각각 4팀씩 경기를 진행했고, 오후부에는 인천 삼성, 부천 삼성, <b>청라<\/b>KBC, 동탄 삼성이 자웅을 겨뤘다. 이 가운데 인천 삼성과 부천 삼성이 각각 <b>청라<\/b> KBC, 동탄 삼성을 꺾고 결승전에... ",
-			"pubDate":"Mon, 03 Nov 2025 06:03:00 +0900"
-		},
-		{
-			"title":"[i리그] 잡으면 뛴다! <b>청라<\/b> KBC의 런앤건 듀오 '조윤우-강유민'",
-			"originallink":"",
-			"link":"https:\/\/m.sports.naver.com\/basketball\/article\/065\/0000286942",
-			"description":"오후부에는 <b>청라<\/b> KBC를 제외한 세 팀이 모두 서울 삼성썬더스 산하의 유소년 클럽 팀이었기 때문에 <b>청라<\/b>KBC는 의도치 않게 '집안 싸움에 낀 꼴'이 되어버렸다. <b>청라<\/b> KBC는 인천 삼성과의 첫 경기에서 패배했지만... ",
-			"pubDate":"Mon, 03 Nov 2025 06:03:00 +0900"
-		},
-		{
-			"title":"악취 대신 꽃향 솔솔… 쓰레기장 핫플 변신",
-			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1762068727&code=11131100&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001811798?sid=102",
-			"description":"김력 수도권매립지관리공사 매립운영처 차장은 “제3매립장 주변이 <b>청라<\/b>, 검단 등 신도시로 둘러싸여 있어서 환경 피해 방지를 위해 법적 기준치보다 강화된 기준을 적용 중”이라고 설명했다. 공사는 연탄재... ",
-			"pubDate":"Mon, 03 Nov 2025 02:07:00 +0900"
-		},
-		{
-			"title":"문학경기장 ‘K-컬처 아레나’ 최적의 조건",
-			"originallink":"https:\/\/www.kyeongin.com\/article\/1754345",
-			"link":"https:\/\/www.kyeongin.com\/article\/1754345",
-			"description":"위탁 운영 계약 기간은 2028년 12월까지인데, 야구단은 2027년 준공 예정인 <b>청라<\/b> 돔구장으로 이전한다는 계획이 세워진 상태다. 이 중 주경기장은 필요에 따라 공연장으로도 활용되고 있다. 지난해 인천시가 주최한 INK... ",
-			"pubDate":"Sun, 02 Nov 2025 20:52:00 +0900"
-		},
-		{
-			"title":"대구 중구, 제19회 경로당 연합 윷놀이 한마당",
-			"originallink":"https:\/\/www.ksmnews.co.kr\/news\/view.php?idx=572192",
-			"link":"https:\/\/www.ksmnews.co.kr\/news\/view.php?idx=572192",
-			"description":"대구 중구는 지난달 31일 <b>청라<\/b>국민체육센터에서 제19회 중구 경로당 연합 윷놀이 한마당을 성황리에 개최했다. 이번 행사는 남산기독교종합사회복지관이 주관하고 중구 내 38개 경로당 어르신 550여 명이 참석한 가운데... ",
-			"pubDate":"Sun, 02 Nov 2025 20:48:00 +0900"
 		}
 	]
 }
