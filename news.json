@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 03 Nov 2025 13:00:01 +0900",
-	"total":280726,
+	"lastBuildDate":"Mon, 03 Nov 2025 13:10:00 +0900",
+	"total":280728,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"KT, 인천 아라뱃길 상공서 국내 첫 도심항공 실증 성공",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2H0B6VM6Q9",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004551193?sid=105",
+			"description":"KT는 현대자동차, 현대건설, 인천국제공항공사, 대한항공과 함께 K-UAM 원팀 소속으로 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15㎞ 구간에서 실증을 수행했다. 이번 실증에서는 KT가 자체 개발한 UAM... ",
+			"pubDate":"Mon, 03 Nov 2025 13:09:00 +0900"
+		},
+		{
+			"title":"[인천TV] 제3연륙교 전망대, 세계 최고 높이 '공식 인증'",
+			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=310463",
+			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=310463",
+			"description":"인천투데이=홍지은 PD | 인천 서구 <b>청라<\/b>와 중구 영종을 잇는 제3연륙교 전망대가 세계에서 가장 높은 해상교량 전망대로 공식 인증받았습니다. 인천경제자유구역청은 제3연륙교 전망대가 미국 세계기록위원회... ",
+			"pubDate":"Mon, 03 Nov 2025 13:02:00 +0900"
+		},
 		{
 			"title":"제3연륙교 명칭 선정, 올해 안에 못할 듯··· 인천시 '책임론' 부각",
 			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=310458",
@@ -187,13 +201,6 @@
 			"pubDate":"Mon, 03 Nov 2025 10:50:00 +0900"
 		},
 		{
-			"title":"대구 중구, 제19회 경로당 연합 윷놀이 한마당 성황리 개최",
-			"originallink":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=4012279",
-			"link":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=4012279",
-			"description":"| 내외경제TV=김다영 기자| 대구 중구는 지난 10월 31일 <b>청라<\/b>국민체육센터에서 제19회 중구 경로당 연합 윷놀이 한마당을 성황리에 개최했다. 이번 행사는 남산기독교종합사회복지관(관장 심영숙)이 주관하고 중구 내 38개... ",
-			"pubDate":"Mon, 03 Nov 2025 10:46:00 +0900"
-		},
-		{
 			"title":"KT 5G, UAM 관제 핵심 기술 입증",
 			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=716979",
 			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=716979",
@@ -201,18 +208,11 @@
 			"pubDate":"Mon, 03 Nov 2025 10:46:00 +0900"
 		},
 		{
-			"title":"인천 영종~<b>청라<\/b> '제3연륙교', 세계 최고 해상교량 전망대 공식 인증",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/view.php?key=20251103010000639",
-			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20251103010000639",
-			"description":"올해 말 개통 예정인 제3연륙교가 세계 최고 해상교량 전망대 명소로 떠오른다.인천광역시는 제3연륙교 전망대가 미국 세계기록위원회(WRC)로부터 '세계 최대 높이 해상교량 전망대(Highest observation deck on a sea bridge)... ",
+			"title":"대구 중구, 제19회 경로당 연합 윷놀이 한마당 성황리 개최",
+			"originallink":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=4012279",
+			"link":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=4012279",
+			"description":"| 내외경제TV=김다영 기자| 대구 중구는 지난 10월 31일 <b>청라<\/b>국민체육센터에서 제19회 중구 경로당 연합 윷놀이 한마당을 성황리에 개최했다. 이번 행사는 남산기독교종합사회복지관(관장 심영숙)이 주관하고 중구 내 38개... ",
 			"pubDate":"Mon, 03 Nov 2025 10:46:00 +0900"
-		},
-		{
-			"title":"'현대차·KT·대한항공' K-UAM원팀, '그랜드챌린지' 2단계 실증 성공",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2139467",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2139467",
-			"description":"현대자동차, KT, 대한항공, 현대건설, 인천국제공항공사가 K-UAM 원팀 컨소시엄을 구성, 지난 10월 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15킬로미터(km) 구간에서 실증을 수행했다. KT는 자체 개발한 UAM... ",
-			"pubDate":"Mon, 03 Nov 2025 10:44:00 +0900"
 		}
 	]
 }
