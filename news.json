@@ -1,21 +1,28 @@
 {
-	"lastBuildDate":"Tue, 04 Nov 2025 16:00:01 +0900",
-	"total":280855,
+	"lastBuildDate":"Tue, 04 Nov 2025 16:10:01 +0900",
+	"total":280856,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"유정복, “내년 예산 15조 3129억 편성...시정성과가 ‘시민 행복’으로...",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20251104029423410",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20251104029423410",
-			"description":"서울도시철도7호선 <b>청라<\/b>국제도시 연장 3153억원, 인천대로 일반화 도로개량공사에 421억원을 투입하고 특히 내년 7월 인천형 행정체제개편에 대비해 자치구 조정교부금을 430억원 증액한 8670억원 반영했다. 유정복... ",
-			"pubDate":"Tue, 04 Nov 2025 15:56:00 +0900"
+			"title":"유정복 인천시장, 내년 예산 15조3129억원 규모로 편성",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20251104_0003389813",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013580768?sid=102",
+			"description":"서울도시철도7호선 <b>청라<\/b>국제도시 연장 3153억원, 인천대로 일반화 도로개량공사에 421억원을 투입하고 특히 내년 7월 인천형 행정체제개편에 대비해 자치구 조정교부금을 430억원 증액한 8670억원을 반영했다. 유정복... ",
+			"pubDate":"Tue, 04 Nov 2025 16:04:00 +0900"
 		},
 		{
 			"title":"인천시, 내년 예산 15조3129억원 편성…시민행복·미래투자 강화",
 			"originallink":"https:\/\/www.munhwa.com\/article\/11544382?ref=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002747562?sid=102",
 			"description":"또한 서울도시철도 7호선 <b>청라<\/b>국제도시 연장(3153억 원), 인천대로 일반화 도로개량공사(421억 원) 등 주요 인프라 사업도 예산안에 포함됐다. 아울러 내년 7월로 예정된 ‘2군 9구’ 행정체제 개편의 성공적인 출범을... ",
+			"pubDate":"Tue, 04 Nov 2025 15:56:00 +0900"
+		},
+		{
+			"title":"유정복, “내년 예산 15조 3129억 편성...시정성과가 ‘시민 행복’으로...",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20251104029423410",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20251104029423410",
+			"description":"서울도시철도7호선 <b>청라<\/b>국제도시 연장 3153억원, 인천대로 일반화 도로개량공사에 421억원을 투입하고 특히 내년 7월 인천형 행정체제개편에 대비해 자치구 조정교부금을 430억원 증액한 8670억원 반영했다. 유정복... ",
 			"pubDate":"Tue, 04 Nov 2025 15:56:00 +0900"
 		},
 		{
@@ -75,17 +82,17 @@
 			"pubDate":"Tue, 04 Nov 2025 15:23:00 +0900"
 		},
 		{
-			"title":"인천시, 내년도 예산안 15조원대 편성…시민 행복 등 4가지 방향 설정",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1307927",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1307927",
-			"description":"서울도시철도 7호선 <b>청라<\/b>국제도시 연장에 3153억원, 인천대로 일반화 도로 개량 공사에 421억원을 투입한다. 또 내년 7월 인천형 행정 체제 개편에 대비해 자치구 조정교부금을 430억원 늘린 8670억원으로 편성했다.... ",
-			"pubDate":"Tue, 04 Nov 2025 15:20:00 +0900"
-		},
-		{
 			"title":"인천시, 2026년 예산 15조 3129억 원 편성…시민행복·미래투자 강화 방...",
 			"originallink":"https:\/\/news.tf.co.kr\/read\/national\/2259013.htm",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000440503?sid=102",
 			"description":"서울도시철도7호선 <b>청라<\/b>국제도시 연장 3153억 원, 인천대로 일반화 도로개량공사에 421억 원을 투입하고 특히 내년 7월 인천형 행정체제개편에 대비하여 자치구 조정교부금을 430억 원 증액한 8670억 원 반영했다.... ",
+			"pubDate":"Tue, 04 Nov 2025 15:20:00 +0900"
+		},
+		{
+			"title":"인천시, 내년도 예산안 15조원대 편성…시민 행복 등 4가지 방향 설정",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1307927",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1307927",
+			"description":"서울도시철도 7호선 <b>청라<\/b>국제도시 연장에 3153억원, 인천대로 일반화 도로 개량 공사에 421억원을 투입한다. 또 내년 7월 인천형 행정 체제 개편에 대비해 자치구 조정교부금을 430억원 늘린 8670억원으로 편성했다.... ",
 			"pubDate":"Tue, 04 Nov 2025 15:20:00 +0900"
 		},
 		{
@@ -96,17 +103,17 @@
 			"pubDate":"Tue, 04 Nov 2025 15:19:00 +0900"
 		},
 		{
-			"title":"인천시, 내년 15조 3천억 예산 편성…어디에 쓰이나?",
-			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=524870",
-			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=524870",
-			"description":"서울도시철도7호선 <b>청라<\/b>국제도시 연장과 인천대로 일반화 도로개량공사가 포함되며 특히 내년 7월 인천형 행정체제개편에 대비해 자치구 조정교부금을 430억 원 증액한 8천670억 원을 반영하는 등 4조 5천억 원이... ",
-			"pubDate":"Tue, 04 Nov 2025 15:18:00 +0900"
-		},
-		{
 			"title":"인천시 서구, <b>청라<\/b>청소년센터 건립 공식화",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287992717579",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160287992717579",
 			"description":"(사진=인천 서구청 제공)  인천 서구가 3일 오후 5시 <b>청라<\/b>2동 행정복지센터 3층 대회의실에서 ‘<b>청라<\/b>청소년센터 건립 기부채납 협약식’을 개최했다. 이번 협약식은 지역 청소년을 위한 복합문화공간인 <b>청라<\/b>청소년센터... ",
+			"pubDate":"Tue, 04 Nov 2025 15:18:00 +0900"
+		},
+		{
+			"title":"인천시, 내년 15조 3천억 예산 편성…어디에 쓰이나?",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=524870",
+			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=524870",
+			"description":"서울도시철도7호선 <b>청라<\/b>국제도시 연장과 인천대로 일반화 도로개량공사가 포함되며 특히 내년 7월 인천형 행정체제개편에 대비해 자치구 조정교부금을 430억 원 증액한 8천670억 원을 반영하는 등 4조 5천억 원이... ",
 			"pubDate":"Tue, 04 Nov 2025 15:18:00 +0900"
 		},
 		{
@@ -152,17 +159,17 @@
 			"pubDate":"Tue, 04 Nov 2025 14:48:00 +0900"
 		},
 		{
-			"title":"인천시, 2026년 예산 15조 3000억 편성…시민행복·미래투자 강화",
-			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3336060",
-			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3336060",
-			"description":"서울도시철도 7호선 <b>청라<\/b>국제도시 연장사업에 3153억원, 인천대로 일반화 도로개량공사에 421억원이 투입된다. 내년 행정체제 개편에 대비해 자치구 조정교부금은 430억원 증액된 8670억원으로 반영됐다. 유정복... ",
-			"pubDate":"Tue, 04 Nov 2025 14:46:00 +0900"
-		},
-		{
 			"title":"인천시, 내년 예산 15조3129억원⋯전년 대비 2.5%↑",
 			"originallink":"http:\/\/www.inews24.com\/view\/1903179",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000977816?sid=102",
 			"description":"서울도시철도7호선 <b>청라<\/b>국제도시 연장 3153억원, 인천대로 일반화 도로개량공사 421억원을 투입한다. 자치구 조정교부금은 430억원 증액한 8670억원을 반영했다. 유정복 시장은 &quot;지방 재정이 갈수록 어려워지는... ",
+			"pubDate":"Tue, 04 Nov 2025 14:46:00 +0900"
+		},
+		{
+			"title":"인천시, 2026년 예산 15조 3000억 편성…시민행복·미래투자 강화",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3336060",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3336060",
+			"description":"서울도시철도 7호선 <b>청라<\/b>국제도시 연장사업에 3153억원, 인천대로 일반화 도로개량공사에 421억원이 투입된다. 내년 행정체제 개편에 대비해 자치구 조정교부금은 430억원 증액된 8670억원으로 반영됐다. 유정복... ",
 			"pubDate":"Tue, 04 Nov 2025 14:46:00 +0900"
 		},
 		{
@@ -194,13 +201,6 @@
 			"pubDate":"Tue, 04 Nov 2025 14:32:00 +0900"
 		},
 		{
-			"title":"인천시, 내년도 예산 15조3129억원 편성⋯ 전년 比2.5%증액",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20251104500273",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20251104500273",
-			"description":"서울도시철도7호선 <b>청라<\/b>국제도시 연장 3,153억 원, 인천대로 일반화 도로개량공사에 421억 원을 투입하고 특히 내년 7월 인천형 행정체제개편에 대비하여 자치구 조정교부금을 430억 원 증액한 8,670억 원 반영하였다.... ",
-			"pubDate":"Tue, 04 Nov 2025 14:26:00 +0900"
-		},
-		{
 			"title":"인천시, '건전재정 속 시민행복 예산'…2026년 예산안 15조 3천억 편성",
 			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=655807",
 			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=655807",
@@ -208,11 +208,11 @@
 			"pubDate":"Tue, 04 Nov 2025 14:26:00 +0900"
 		},
 		{
-			"title":"인천시, 내년 예산 15조3000억 편성...올해보다 2.5% 늘어나",
-			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=217659",
-			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=217659",
-			"description":"서울도시철도7호선 <b>청라<\/b>국제도시 연장 3,153억 원, 인천대로 일반화 도로개량공사에 421억 원을 투입하고 특히 내년 7월 인천형 행정체제개편에 대비해 자치구 조정교부금을 430억 원 증액한 8,670억 원 반영했다.... ",
-			"pubDate":"Tue, 04 Nov 2025 14:22:00 +0900"
+			"title":"인천시, 내년도 예산 15조3129억원 편성⋯ 전년 比2.5%증액",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20251104500273",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20251104500273",
+			"description":"서울도시철도7호선 <b>청라<\/b>국제도시 연장 3,153억 원, 인천대로 일반화 도로개량공사에 421억 원을 투입하고 특히 내년 7월 인천형 행정체제개편에 대비하여 자치구 조정교부금을 430억 원 증액한 8,670억 원 반영하였다.... ",
+			"pubDate":"Tue, 04 Nov 2025 14:26:00 +0900"
 		}
 	]
 }
