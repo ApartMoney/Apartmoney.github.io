@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 07 Nov 2025 11:30:01 +0900",
-	"total":280993,
+	"lastBuildDate":"Fri, 07 Nov 2025 11:40:01 +0900",
+	"total":280994,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 중구, '영종 경제자유구역 정책간담회' 오는 14일 개최",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3002847",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3002847",
+			"description":"특히 인천의 세 경제자유구역(송도·<b>청라<\/b>·영종)의 발전 현황을 비교 분석하며, 영종지역 주민들이 경제자유구역 지정 해제를 요구하게 된 근본적 원인을 짚어볼 계획이다. 또 사무 처리기관 불명확, 기관 간 업무처리... ",
+			"pubDate":"Fri, 07 Nov 2025 11:32:00 +0900"
+		},
 		{
 			"title":"인천 서구, 중소기업 재직청년 캠핑장 이용권 제공 사업 추진",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2142363",
@@ -89,17 +96,17 @@
 			"pubDate":"Thu, 06 Nov 2025 20:26:00 +0900"
 		},
 		{
-			"title":"'제3연륙교' 개통 전 막판 몸살",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1308228",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1308228",
-			"description":"차일피일 미뤄지던 명칭 제정은 인천시가 '영종<b>청라<\/b>대교'와 '<b>청라<\/b>영종대교'라는 새로운 카드를 제시하면서 혼란을 피하지 못하게 됐고, 올해 말로 목표한 개통은 내년을 기약하게 됐다. 6일 &lt;인천일보&gt; 취재 결과, 인천시는... ",
-			"pubDate":"Thu, 06 Nov 2025 20:06:00 +0900"
-		},
-		{
 			"title":"[사설] 인천형 AI 인프라 로드맵 수립해야",
 			"originallink":"https:\/\/www.kyeongin.com\/article\/1754570",
 			"link":"https:\/\/www.kyeongin.com\/article\/1754570",
 			"description":"<b>청라<\/b>국제도시 로봇랜드 사업부지. \/경인일보DB 지방정부도 더 이상 인공지능(AI) 시대를 관망할 수 없다. 중앙정부가 ‘AI 고속도로’ 구축과 ‘인공지능 3대 강국’ 도약을 천명하고, 인공지능 투자를 본격화하고 있다.... ",
+			"pubDate":"Thu, 06 Nov 2025 20:06:00 +0900"
+		},
+		{
+			"title":"'제3연륙교' 개통 전 막판 몸살",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1308228",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1308228",
+			"description":"차일피일 미뤄지던 명칭 제정은 인천시가 '영종<b>청라<\/b>대교'와 '<b>청라<\/b>영종대교'라는 새로운 카드를 제시하면서 혼란을 피하지 못하게 됐고, 올해 말로 목표한 개통은 내년을 기약하게 됐다. 6일 &lt;인천일보&gt; 취재 결과, 인천시는... ",
 			"pubDate":"Thu, 06 Nov 2025 20:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.widedaily.com\/news\/articleView.html?idxno=282239",
 			"description":"서구(0.09%)는 <b>청라<\/b>·가정동 중소형 규모 위주로, 동구(0.07%)는 송현·송림동 위주로, 미추홀구(0.07%)는 용현·학익동 위주로, 연수구(0.07%)는 송도·동춘동 대단지 위주로, 남동구(0.05%)는 구월·만수동 위주로... ",
 			"pubDate":"Thu, 06 Nov 2025 15:34:00 +0900"
-		},
-		{
-			"title":"[<b>청라<\/b>언덕-이화섭] 고통에 대한 아이러니",
-			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2025110515152388128",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0000979732?sid=110",
-			"description":"이재용 삼성전자 회장을 보면서 인생과 고통의 상관관계를 생각해 본다. 박근혜 전 대통령이 탄핵되고 이 회장도 관련 비리로 옥고를 치를 때만 해도 '이재용의 삼성'은 성장에 대한 기대보다 '망하지는 않을까' 하는... ",
-			"pubDate":"Thu, 06 Nov 2025 15:09:00 +0900"
 		}
 	]
 }
