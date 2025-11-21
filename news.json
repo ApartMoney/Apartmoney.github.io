@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 21 Nov 2025 10:40:01 +0900",
-	"total":281899,
+	"lastBuildDate":"Fri, 21 Nov 2025 10:50:01 +0900",
+	"total":281901,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"체육공단, '2025년 우수 공공 체육시설' 15개소 선정 및 시상",
+			"originallink":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=446242",
+			"link":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=446242",
+			"description":"올해 최우수상은 서울숲복합문화체육센터, 장량국민체육센터, 기장군국민체육센터, 상무국민체육센터, <b>청라<\/b>국민체육센터가 우수상은 부산광역시국민체육센터, 강서구민올림픽체육센터, 옥천국민체육센터, 미추홀구... ",
+			"pubDate":"Fri, 21 Nov 2025 10:46:00 +0900"
+		},
+		{
+			"title":"&quot;우수 공공 체육시설 15곳 선정&quot;…체육공단, 2025년 최우수상 5개소 시상",
+			"originallink":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=15881899",
+			"link":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=15881899",
+			"description":"최우수상은 서울숲복합문화체육센터, 장량국민체육센터, 기장군국민체육센터, 상무국민체육센터, <b>청라<\/b>국민체육센터가 받았다. 국민체육진흥공단과 문화체육관광부는 선정된 시설에 등급별 시상을 진행했다는 점을... ",
+			"pubDate":"Fri, 21 Nov 2025 10:44:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b> SK V1, 제3연륙교·7호선 호재로 성장 가속… 서부권 핵심 업무지로...",
 			"originallink":"https:\/\/magazine.hankyung.com\/business\/article\/202511217611b",
@@ -187,13 +201,6 @@
 			"pubDate":"Thu, 20 Nov 2025 21:42:00 +0900"
 		},
 		{
-			"title":"하병필 행정부시장, 유일로보틱스 인천 <b>청라<\/b> 신공장 오픈식 참석",
-			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=121358",
-			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=121358",
-			"description":"20일 오후 유일로보틱스 <b>청라<\/b>(첨단기술로 87)에서 유일로보틱스 인천 <b>청라<\/b> 신공장 오픈식이 개최됐다. 이날 행사에는 김동헌 대표이사, 로봇․AI 산업협회장, 이용우 국회의원(서구을), 강범석 서구청장, 서동만 회장... ",
-			"pubDate":"Thu, 20 Nov 2025 19:52:00 +0900"
-		},
-		{
 			"title":"유일로보틱스, 인천 <b>청라<\/b> 신공장 오픈식 개최",
 			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=121353",
 			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=121353",
@@ -201,18 +208,11 @@
 			"pubDate":"Thu, 20 Nov 2025 19:52:00 +0900"
 		},
 		{
-			"title":"이용우 의원, 유일로보틱스 인천 <b>청라<\/b> 신공장 오픈식 참석",
-			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=121361",
-			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=121361",
-			"description":"20일 오후 유일로보틱스 <b>청라<\/b>(첨단기술로 87)에서 유일로보틱스 인천 <b>청라<\/b> 신공장 오픈식이 개최됐다. 이날 행사에는 약 400 여명이 참석해 신공장 설립의 의미와 유일로보틱스의 역할, 그리고 로봇 산업의 미래에 대한... ",
+			"title":"하병필 행정부시장, 유일로보틱스 인천 <b>청라<\/b> 신공장 오픈식 참석",
+			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=121358",
+			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=121358",
+			"description":"20일 오후 유일로보틱스 <b>청라<\/b>(첨단기술로 87)에서 유일로보틱스 인천 <b>청라<\/b> 신공장 오픈식이 개최됐다. 이날 행사에는 김동헌 대표이사, 로봇․AI 산업협회장, 이용우 국회의원(서구을), 강범석 서구청장, 서동만 회장... ",
 			"pubDate":"Thu, 20 Nov 2025 19:52:00 +0900"
-		},
-		{
-			"title":"한난, 제1차 집단에너지 AI 기술 교류회 개최",
-			"originallink":"https:\/\/biz.heraldcorp.com\/article\/10620574?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002560863?sid=100",
-			"description":"주요 발표내용으로는 한난이 ‘스마트한난 : 집단에너지 AI를 달다’와 ‘AX를 통한 조직혁신 전략’을 주제로 자사의 AI 전환추진 현황과 성과를 소개하고, <b>청라<\/b>에너지가 ‘민간 기업의 AI 전환을 위한 정부지원사업... ",
-			"pubDate":"Thu, 20 Nov 2025 19:41:00 +0900"
 		}
 	]
 }
