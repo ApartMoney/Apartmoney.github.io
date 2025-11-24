@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 24 Nov 2025 16:10:01 +0900",
-	"total":282011,
+	"lastBuildDate":"Mon, 24 Nov 2025 16:20:01 +0900",
+	"total":282012,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 '별밤 버스' 출범 1년…평균 22명 이용, 확장 논의 제자리",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3004669",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3004669",
+			"description":"별밤 버스는 송내역과 <b>청라<\/b>국제도시역, 검암역, 게양역 등 심야 시간대 지하철 단절로 불편을 겪는 시민... 현재 운행중인 노선은 N50(송내역~농현동), N81(<b>청라<\/b>국제도시역~<b>청라<\/b>5단지), N80(검암역~가정역), N90(계양역... ",
+			"pubDate":"Mon, 24 Nov 2025 16:10:00 +0900"
+		},
 		{
 			"title":"김정헌 인천 중구청장 “제3연륙교 명칭, 국가지명위 판단 맡길 것”",
 			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1577412\/?sc=Naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005594984?sid=101",
 			"description":"내년 1월 개통을 목표로 공사가 진행 중인 제3연륙교(총연장 4.68㎞)가 개통되면 영종과 <b>청라<\/b> 간 이동 시간이 크게 단축될 전망이다. 여기에 경인고속도로 지하화 사업이 완공되면 남<b>청라<\/b>에서 서울 여의도까지 17분대로... ",
 			"pubDate":"Mon, 24 Nov 2025 10:47:00 +0900"
-		},
-		{
-			"title":"'펜션·풀빌라 수영장'서 잇단 유아 사망…&quot;수심 낮아도 치명적&quot; 왜",
-			"originallink":"https:\/\/www.joongang.co.kr\/article\/25384483",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003484794?sid=102",
-			"description":"지난 2023년 7월 인천 <b>청라<\/b>지구의 키즈풀에서 2세 여자아이가 익사했고 수심은 67cm였다. 키즈풀 등은 대부분 공간대여업으로 등록돼 있어 '어린이놀이시설 안전관리법'에 포함되지 않는다. 맘카페에서도 &quot;어른들이 술을... ",
-			"pubDate":"Mon, 24 Nov 2025 10:34:00 +0900"
 		}
 	]
 }
