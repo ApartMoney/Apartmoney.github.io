@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 01 Dec 2025 12:40:01 +0900",
-	"total":282723,
+	"lastBuildDate":"Mon, 01 Dec 2025 12:50:01 +0900",
+	"total":282724,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 로봇랜드, 도시첨단산단 지정… 로봇산업 투자 유치 본격화",
+			"originallink":"https:\/\/www.livesnews.com\/news\/article.html?no=57328",
+			"link":"https:\/\/www.livesnews.com\/news\/article.html?no=57328",
+			"description":"인천로봇랜드는 인천경제자유구역 <b>청라<\/b>국제도시 내 76만 9000㎡ 부지에 조성되며, 로봇산업진흥시설과 테마파크, 상업·업무시설 등을 포함한 대규모 프로젝트다. 사업이 완료되면 400여 개 로봇 관련 기업과 실증... ",
+			"pubDate":"Mon, 01 Dec 2025 12:40:00 +0900"
+		},
 		{
 			"title":"인천시, 로봇랜드 기업 유치 위한 도시첨단산단 지정",
 			"originallink":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202512010074",
@@ -33,13 +40,6 @@
 			"pubDate":"Mon, 01 Dec 2025 12:04:00 +0900"
 		},
 		{
-			"title":"소방청, 소규모 지하주차장도 소방시설 의무화",
-			"originallink":"https:\/\/biz.chosun.com\/topics\/topics_social\/2025\/12\/01\/CJMF3OLEIBH7DNBZEKU6YWAPDY\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0001127215?sid=102",
-			"description":"이번 조치는 최근 인천시 <b>청라<\/b> 아파트 지하주차장 화재, 경기 화성시 리튬전지공장 화재 등 대형 사고의 재발을 방지하고, 소방시설 설치 사각지대로 지적된 시설에 대한 안전 기준을 마련하기 위해 추진됐다. 앞으로는... ",
-			"pubDate":"Mon, 01 Dec 2025 12:01:00 +0900"
-		},
-		{
 			"title":"소방청, 소규모 지하주차장·리튬전지공장 소방시설 기준 강화",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03161926642394256",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006175152?sid=102",
@@ -47,31 +47,17 @@
 			"pubDate":"Mon, 01 Dec 2025 12:01:00 +0900"
 		},
 		{
-			"title":"모든 지하주차장에 소방설비 의무화…화재 사각지대 없앤다",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20251201000510",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20251201000510",
-			"description":"이번 조치는 최근 인천 <b>청라<\/b> 아파트 지하주차장 화재·화성 리튬전지공장 화재 등 반복된 대형 사고의 재발을... 지난해 8월 인천 서구 <b>청라<\/b>국제도시 아파트에서 발생한 지하주차장 전기차 화재 현장. [사진=인천시] 먼저... ",
-			"pubDate":"Mon, 01 Dec 2025 12:00:00 +0900"
+			"title":"소방청, 소규모 지하주차장도 소방시설 의무화",
+			"originallink":"https:\/\/biz.chosun.com\/topics\/topics_social\/2025\/12\/01\/CJMF3OLEIBH7DNBZEKU6YWAPDY\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0001127215?sid=102",
+			"description":"이번 조치는 최근 인천시 <b>청라<\/b> 아파트 지하주차장 화재, 경기 화성시 리튬전지공장 화재 등 대형 사고의 재발을 방지하고, 소방시설 설치 사각지대로 지적된 시설에 대한 안전 기준을 마련하기 위해 추진됐다. 앞으로는... ",
+			"pubDate":"Mon, 01 Dec 2025 12:01:00 +0900"
 		},
 		{
-			"title":"지하주차장, 앞으론 면적 상관 없이 소방시설 설치해야",
-			"originallink":"https:\/\/www.wolyo.co.kr\/news\/articleView.html?idxno=304862",
-			"link":"https:\/\/www.wolyo.co.kr\/news\/articleView.html?idxno=304862",
-			"description":"이번 조치는 지난해 인천 <b>청라<\/b> 아파트 지하주차장 화재, 화성 리튬전지공장 화재와 같은 대형 사고 재발을 방지함은 물론, 그간 소방시설 미설치 사각지대로 지적돼 온 시설의 안전 기준을 정비하기 위해 마련됐다.... ",
-			"pubDate":"Mon, 01 Dec 2025 12:00:00 +0900"
-		},
-		{
-			"title":"지하주차장, 면적 상관 없이 소방시설 설치…리튬전지공장, 시각경보장...",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20251201_0003422956",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013631439?sid=100",
-			"description":"이번 조치는 지난해 인천 <b>청라<\/b> 아파트 지하주차장 화재, 화성 리튬전지공장 화재처럼 대형 사고의 재발을 막고, 그동안 소방시설 미설치 사각지대로 지적돼온 시설에 대한 안전 기준을 마련하기 위해 추진됐다. 기존에는... ",
-			"pubDate":"Mon, 01 Dec 2025 12:00:00 +0900"
-		},
-		{
-			"title":"소방청, 소규모 지하주차장 및 리튬전지공장 소방시설 기준 강화",
-			"originallink":"https:\/\/www.munhwa.com\/article\/11550818?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002753919?sid=102",
-			"description":"1일 소방청에 따르면, 이번 조치는 최근 인천 <b>청라<\/b>아파트 지하주차장 화재, 화성 리튬전지공장 화재 등 반복된 대형 사고의 재발을 방지하고 그동안 소방시설 미설치 사각지대로 지적돼 온 시설의 실효적 안전 기준을... ",
+			"title":"소규모 지하주차장도 스프링클러 의무화…화재취약시설 안전강화",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20251201035200530?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015771251?sid=100",
+			"description":"이번 조치는 인천 <b>청라<\/b> 아파트 지하 주차장 화재, 화성 리튬전지 공장 화재 등 반복된 대형 사고 재발을 방지하고, 그간 소방시설 미설치 사각지대로 지적된 시설에 대한 실효적인 안전기준을 마련하기 위해 추진됐다.... ",
 			"pubDate":"Mon, 01 Dec 2025 12:00:00 +0900"
 		},
 		{
@@ -82,10 +68,31 @@
 			"pubDate":"Mon, 01 Dec 2025 12:00:00 +0900"
 		},
 		{
-			"title":"소규모 지하주차장도 스프링클러 의무화…화재취약시설 안전강화",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20251201035200530?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015771251?sid=100",
-			"description":"이번 조치는 인천 <b>청라<\/b> 아파트 지하 주차장 화재, 화성 리튬전지 공장 화재 등 반복된 대형 사고 재발을 방지하고, 그간 소방시설 미설치 사각지대로 지적된 시설에 대한 실효적인 안전기준을 마련하기 위해 추진됐다.... ",
+			"title":"지하주차장, 앞으론 면적 상관 없이 소방시설 설치해야",
+			"originallink":"https:\/\/www.wolyo.co.kr\/news\/articleView.html?idxno=304862",
+			"link":"https:\/\/www.wolyo.co.kr\/news\/articleView.html?idxno=304862",
+			"description":"이번 조치는 지난해 인천 <b>청라<\/b> 아파트 지하주차장 화재, 화성 리튬전지공장 화재와 같은 대형 사고 재발을 방지함은 물론, 그간 소방시설 미설치 사각지대로 지적돼 온 시설의 안전 기준을 정비하기 위해 마련됐다.... ",
+			"pubDate":"Mon, 01 Dec 2025 12:00:00 +0900"
+		},
+		{
+			"title":"소방청, 소규모 지하주차장 및 리튬전지공장 소방시설 기준 강화",
+			"originallink":"https:\/\/www.munhwa.com\/article\/11550818?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002753919?sid=102",
+			"description":"1일 소방청에 따르면, 이번 조치는 최근 인천 <b>청라<\/b>아파트 지하주차장 화재, 화성 리튬전지공장 화재 등 반복된 대형 사고의 재발을 방지하고 그동안 소방시설 미설치 사각지대로 지적돼 온 시설의 실효적 안전 기준을... ",
+			"pubDate":"Mon, 01 Dec 2025 12:00:00 +0900"
+		},
+		{
+			"title":"지하주차장, 면적 상관 없이 소방시설 설치…리튬전지공장, 시각경보장...",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20251201_0003422956",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013631439?sid=100",
+			"description":"이번 조치는 지난해 인천 <b>청라<\/b> 아파트 지하주차장 화재, 화성 리튬전지공장 화재처럼 대형 사고의 재발을 막고, 그동안 소방시설 미설치 사각지대로 지적돼온 시설에 대한 안전 기준을 마련하기 위해 추진됐다. 기존에는... ",
+			"pubDate":"Mon, 01 Dec 2025 12:00:00 +0900"
+		},
+		{
+			"title":"모든 지하주차장에 소방설비 의무화…화재 사각지대 없앤다",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20251201000510",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20251201000510",
+			"description":"이번 조치는 최근 인천 <b>청라<\/b> 아파트 지하주차장 화재·화성 리튬전지공장 화재 등 반복된 대형 사고의 재발을... 지난해 8월 인천 서구 <b>청라<\/b>국제도시 아파트에서 발생한 지하주차장 전기차 화재 현장. [사진=인천시] 먼저... ",
 			"pubDate":"Mon, 01 Dec 2025 12:00:00 +0900"
 		},
 		{
@@ -96,13 +103,6 @@
 			"pubDate":"Mon, 01 Dec 2025 11:22:00 +0900"
 		},
 		{
-			"title":"인천로봇랜드 도시첨단산단 지정···투자 유치 ‘청신호’",
-			"originallink":"https:\/\/www.khan.co.kr\/article\/202512011118001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003412194?sid=101",
-			"description":"인천경제자유구역 <b>청라<\/b>국제도시에 있는 인천로봇랜드는 2007년 경남과 함께 로봇랜드 사업자로 선정됐지만 지지부진했다. 인천시와 iH, 인천로봇랜드는 8988억원을 들여 로봇산업진흥시설과 유원시설, 부대시설 등을... ",
-			"pubDate":"Mon, 01 Dec 2025 11:18:00 +0900"
-		},
-		{
 			"title":"인천로봇랜드, 도시첨단산단 지정으로 기업 투자유치 ‘청신호’",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0029049774&code=61122012&cp=nv",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001817681?sid=102",
@@ -110,17 +110,24 @@
 			"pubDate":"Mon, 01 Dec 2025 11:18:00 +0900"
 		},
 		{
-			"title":"'인천 로봇랜드' 도시첨단산단 지정으로 기업 투자 유치 '청신호'",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1207518",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1207518",
-			"description":"인천로봇랜드는 인천경제자유구역(IFEZ) <b>청라<\/b>국제도시 내 76만9천㎡ 부지에 로봇산업진흥시설과 테마파크, 상업 및 업무시설 등을 조성하는 대규모 프로젝트이다. 사업이 완료되면 400여 개 로봇기업 및 실증.연구기관이... ",
-			"pubDate":"Mon, 01 Dec 2025 11:16:00 +0900"
+			"title":"인천로봇랜드 도시첨단산단 지정···투자 유치 ‘청신호’",
+			"originallink":"https:\/\/www.khan.co.kr\/article\/202512011118001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003412194?sid=101",
+			"description":"인천경제자유구역 <b>청라<\/b>국제도시에 있는 인천로봇랜드는 2007년 경남과 함께 로봇랜드 사업자로 선정됐지만 지지부진했다. 인천시와 iH, 인천로봇랜드는 8988억원을 들여 로봇산업진흥시설과 유원시설, 부대시설 등을... ",
+			"pubDate":"Mon, 01 Dec 2025 11:18:00 +0900"
 		},
 		{
 			"title":"인천시, 로봇랜드 산업용지 도시첨단산단 지정",
 			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20251201500135",
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20251201500135",
 			"description":"인천로봇랜드는 <b>청라<\/b>국제도시 76만 9천㎡ 부지에 로봇산업진흥시설, 테마파크, 상업·업무시설을 조성하는 대규모 프로젝트다. 사업 완료 시 400여 개 로봇기업과 실증·연구기관이 집적되며, 수도권 최대 규모의 로봇... ",
+			"pubDate":"Mon, 01 Dec 2025 11:16:00 +0900"
+		},
+		{
+			"title":"'인천 로봇랜드' 도시첨단산단 지정으로 기업 투자 유치 '청신호'",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1207518",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1207518",
+			"description":"인천로봇랜드는 인천경제자유구역(IFEZ) <b>청라<\/b>국제도시 내 76만9천㎡ 부지에 로봇산업진흥시설과 테마파크, 상업 및 업무시설 등을 조성하는 대규모 프로젝트이다. 사업이 완료되면 400여 개 로봇기업 및 실증.연구기관이... ",
 			"pubDate":"Mon, 01 Dec 2025 11:16:00 +0900"
 		},
 		{
@@ -138,17 +145,17 @@
 			"pubDate":"Mon, 01 Dec 2025 11:00:00 +0900"
 		},
 		{
-			"title":"SSG 류효용 육성군 타격코치 결혼 &quot;서로 아끼고 존중하며 행복한 가정 꾸...",
-			"originallink":"https:\/\/www.spotvnews.co.kr\/news\/articleView.html?idxno=785127",
-			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/477\/0000581997",
-			"description":"예식 후에는 몰디브로 신혼여행을 떠날 예정이며 인천 <b>청라<\/b>에 신혼살림을 마련할 계획이다. 류효용 코치는 &quot;유학 시절부터 늘 곁에서 많은 힘이 되어준 점에 감사하다&quot;라며 &quot;앞으로도 서로를 아끼고 존중하며 행복한... ",
-			"pubDate":"Mon, 01 Dec 2025 10:58:00 +0900"
-		},
-		{
 			"title":"SSG 류효용 육성군 타격코치, 7일 결혼…“서로 아끼고 존중하며 행복한...",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/11481129",
 			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/410\/0001101257",
 			"description":"예식 후에는 몰디브로 신혼여행을 떠날 예정이며, 인천 <b>청라<\/b>에 신혼살림을 마련할 계획이다. 류효용 코치는 “유학 시절부터 늘 곁에서 많은 힘이 되어준 점에 감사하다”면서 “앞으로도 서로를 아끼고 존중하며... ",
+			"pubDate":"Mon, 01 Dec 2025 10:58:00 +0900"
+		},
+		{
+			"title":"SSG 류효용 육성군 타격코치 결혼 &quot;서로 아끼고 존중하며 행복한 가정 꾸...",
+			"originallink":"https:\/\/www.spotvnews.co.kr\/news\/articleView.html?idxno=785127",
+			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/477\/0000581997",
+			"description":"예식 후에는 몰디브로 신혼여행을 떠날 예정이며 인천 <b>청라<\/b>에 신혼살림을 마련할 계획이다. 류효용 코치는 &quot;유학 시절부터 늘 곁에서 많은 힘이 되어준 점에 감사하다&quot;라며 &quot;앞으로도 서로를 아끼고 존중하며 행복한... ",
 			"pubDate":"Mon, 01 Dec 2025 10:58:00 +0900"
 		},
 		{
@@ -173,17 +180,17 @@
 			"pubDate":"Mon, 01 Dec 2025 10:44:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b>호수공원 달군 듀애슬론전국대회 전야제 … 인천 서부권 미래 청사...",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=431806",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=431806",
-			"description":"인천뉴스 편집본 제3연륙교 개통을 기념한 듀애슬론전국대회 전야제가 지난 29일 <b>청라<\/b>호수공원 야외음악당에서 성황리에 열렸다. 행사에는 지역 주요 인사와 관계 기관장이 대거 참석해 영종·<b>청라<\/b> 국제도시의 상생 발전과... ",
-			"pubDate":"Mon, 01 Dec 2025 10:42:00 +0900"
-		},
-		{
 			"title":"인천시, 인천 로봇랜드 '도시첨단산단 지정'으로 기업 투자 유치 '청신...",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=431813",
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=431813",
 			"description":"인천로봇랜드는 인천경제자유구역 <b>청라<\/b>국제도시 내 76만9천㎡ 부지에 로봇산업진흥시설과 테마파크, 상업 및 업무시설 등을 조성하는 대규모 프로젝트이다. 사업이 완료되면 400여 개 로봇기업 및 실증·연구기관이... ",
+			"pubDate":"Mon, 01 Dec 2025 10:42:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>호수공원 달군 듀애슬론전국대회 전야제 … 인천 서부권 미래 청사...",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=431806",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=431806",
+			"description":"인천뉴스 편집본 제3연륙교 개통을 기념한 듀애슬론전국대회 전야제가 지난 29일 <b>청라<\/b>호수공원 야외음악당에서 성황리에 열렸다. 행사에는 지역 주요 인사와 관계 기관장이 대거 참석해 영종·<b>청라<\/b> 국제도시의 상생 발전과... ",
 			"pubDate":"Mon, 01 Dec 2025 10:42:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/117\/0004013476",
 			"description":"예식 후에는 몰디브로 신혼여행을 떠날 예정이며, 인천 <b>청라<\/b>에 신혼살림을 마련할 계획이다. 류효용 코치는 “유학 시절부터 늘 곁에서 많은 힘이 되어준 점에 감사하다”라며 “앞으로도 서로를 아끼고 존중하며... ",
 			"pubDate":"Mon, 01 Dec 2025 10:22:00 +0900"
-		},
-		{
-			"title":"인천 로봇랜드, 도시첨단산단 지정으로 기업 투자 유치 '청신호'",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2154962",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2154962",
-			"description":"인천로봇랜드는 인천경제자유구역 <b>청라<\/b>국제도시 내 76만 9천㎡ 부지에 로봇산업진흥시설과 테마파크, 상업 및 업무시설 등을 조성하는 대규모 프로젝트이다. 사업이 완료되면 400여 개 로봇기업 및 실증・연구기관이... ",
-			"pubDate":"Mon, 01 Dec 2025 10:18:00 +0900"
 		}
 	]
 }
