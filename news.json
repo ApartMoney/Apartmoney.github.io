@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 02 Dec 2025 15:40:01 +0900",
-	"total":282810,
+	"lastBuildDate":"Tue, 02 Dec 2025 15:50:01 +0900",
+	"total":282811,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천 주요 뉴스]인천시, 노후도심에 '지속가능발전' 새 옷 입힌다",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6437084?utm_source=naver&utm_medium=article&utm_campaign=20251202034802",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0004091878?sid=102",
+			"description":"올해 송도·영종·<b>청라<\/b> 등 인천경제자유구역 내 10월 말 기준 FDI 누적 신고액은 7억 4천만 달러로 연간 목표치인 6억 달러보다 많은 것으로 집계됐습니다. 올해 인천경제자유구역의 FDI 누적 도착액도 5억 8천만 달러로... ",
+			"pubDate":"Tue, 02 Dec 2025 15:49:00 +0900"
+		},
 		{
 			"title":"[네트워크365] 인천경제자유구역 올해 외국인 직접투자 목표 초과 달성",
 			"originallink":"http:\/\/mbnmoney.mbn.co.kr\/news\/view?news_no=MM1005731313",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=681257",
 			"description":"인천로봇랜드는 인천경제자유구역 <b>청라<\/b>국제도시 내 76만 9천㎡ 부지에 로봇산업진흥시설과 테마파크, 상업 및 업무시설 등을 조성하는 대규모 프로젝트이다. 사업이 완료되면 400여 개 로봇기업 및 실증·연구기관이... ",
 			"pubDate":"Tue, 02 Dec 2025 01:02:00 +0900"
-		},
-		{
-			"title":"모든 지하주차장에 소방시설 설치 의무화…&quot;화재 사각지대 해소&quot;",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3444276",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3444276",
-			"description":"이번 조치는 최근 인천 <b>청라<\/b> 아파트 지하주차장 화재와 화성 리튬전지공장 화재 등 반복된 대형 사고의 재발을 방지하고, 그동안 소방시설 미설치 사각지대로 지적돼 온 시설의 실효적 안전기준을 마련하기 위해... ",
-			"pubDate":"Tue, 02 Dec 2025 00:26:00 +0900"
 		}
 	]
 }
