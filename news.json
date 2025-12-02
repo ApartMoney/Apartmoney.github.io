@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 02 Dec 2025 08:50:01 +0900",
-	"total":282784,
+	"lastBuildDate":"Tue, 02 Dec 2025 09:00:01 +0900",
+	"total":282785,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"소방청, 지하주차장·리튬전지공장 안전기준 대폭 강화…모든 지하주차...",
+			"originallink":"https:\/\/www.factin.co.kr\/news\/articleView.html?idxno=5348",
+			"link":"https:\/\/www.factin.co.kr\/news\/articleView.html?idxno=5348",
+			"description":"이는 인천 <b>청라<\/b> 아파트 지하주차장 화재, 화성 리튬전지공장 화재 등 잇단 대형 사고의 재발을 막고 그동안 소방시설 설치 사각지대로 지적된 시설의 안전 기준을 보완하기 위한 조치다. 가장 큰 변화는 지하주차장에 대한... ",
+			"pubDate":"Tue, 02 Dec 2025 08:52:00 +0900"
+		},
 		{
 			"title":"인천 로봇랜드, 도시첨단산업단지 지정",
 			"originallink":"https:\/\/www.segye.com\/newsView\/20251201517670?OutUrl=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=4058220",
 			"description":"소방청은 이번 기준 강화가 인천 <b>청라<\/b> 아파트 지하주차장 화재와 화성 리튬전지 공장 화재 등 최근 발생한 사고의 재발을 막기 위한 것이라고 설명했다. 소방시설 설치가 미흡했던 시설을 중심으로 실효성을 높여 초기... ",
 			"pubDate":"Mon, 01 Dec 2025 17:14:00 +0900"
-		},
-		{
-			"title":"인천로봇랜드, 도시첨단산단 지정",
-			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20251201171219",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002400563?sid=105",
-			"description":"인천로봇랜드는 인천경제자유구역 <b>청라<\/b>국제도시 내 76만9천㎡ 부지에 로봇산업진흥시설과 테마파크, 상업 및 업무시설 등을 조성하는 대규모 프로젝트이다. 사업이 완료되면 400여 개 로봇기업 및 실증·연구기관이... ",
-			"pubDate":"Mon, 01 Dec 2025 17:13:00 +0900"
 		}
 	]
 }
