@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 15 Dec 2025 15:00:01 +0900",
-	"total":283739,
+	"lastBuildDate":"Mon, 15 Dec 2025 15:10:01 +0900",
+	"total":283741,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘철수설’ GM, 4400억 국내투자…“4개 브랜드로 韓 공략”",
+			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20251215\/132966390\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003681866?sid=103",
+			"description":"한국GM은 15일 인천 <b>청라<\/b> 주행시험장에서 ‘2026 비즈니스 전략 콘퍼런스’를 열고 향후 로드맵을 발표했다.... 이날 <b>청라<\/b> 주행시험장에 개소한 ‘버추얼 엔지니어링 랩’을 통해 분산된 연구조직을 통합하고, 가상... ",
+			"pubDate":"Mon, 15 Dec 2025 15:08:00 +0900"
+		},
+		{
+			"title":"[인천 주요 뉴스]인천시, 노후도심 정비 박차…선도지구 공모",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6442914?utm_source=naver&utm_medium=article&utm_campaign=20251215030042",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0004096105?sid=102",
+			"description":"신설 노선은 인천공항 제2여객터미널~<b>청라<\/b>~석남동을 잇는 281번과 영종하늘도시~<b>청라<\/b>~신현동으로 이어지는 282번 노선으로, 두 노선 모두 제3연륙교를 경유하게 됩니다. 인천 중구는 제3연륙교가 개통하면 관계기관과... ",
+			"pubDate":"Mon, 15 Dec 2025 15:01:00 +0900"
+		},
 		{
 			"title":"영종·인천대교 통행료 지원 3년 연장…장기렌터카에도 적용",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20251215105600065?input=1195m",
@@ -26,13 +40,6 @@
 			"pubDate":"Mon, 15 Dec 2025 14:47:00 +0900"
 		},
 		{
-			"title":"철수설 종지부? 한국GM '글로벌 전략기지' 재포지셔닝",
-			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=716292",
-			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=716292",
-			"description":"한국GM은 15일 인천 서구 <b>청라<\/b>국제도시에 위치한 GM <b>청라<\/b> 주행시험장 타운홀에서 'GM 한국사업장 2026 비즈니스 전략 컨퍼런스'를 개최했다. 글로벌 자동차업계가 생산 효율화와 전기차 포트폴리오 조정으로 해외... ",
-			"pubDate":"Mon, 15 Dec 2025 14:46:00 +0900"
-		},
-		{
 			"title":"한국GM, &quot;3억 달러 투자해 2028년 이후에도 생산 지속&quot;...내년 프리미엄...",
 			"originallink":"http:\/\/www.consumernews.co.kr\/news\/articleView.html?idxno=746092",
 			"link":"http:\/\/www.consumernews.co.kr\/news\/articleView.html?idxno=746092",
@@ -40,17 +47,24 @@
 			"pubDate":"Mon, 15 Dec 2025 14:46:00 +0900"
 		},
 		{
-			"title":"한국GM, 내년 4천억원 투자ㆍ '뷰익·GMC' 론칭... '철수설' 종식시켰다",
-			"originallink":"https:\/\/www.insight.co.kr\/news\/533627",
-			"link":"https:\/\/www.insight.co.kr\/news\/533627",
-			"description":"한국GM은 15일 인천 서구 <b>청라<\/b>국제도시 GM <b>청라<\/b> 주행시험장 타운홀에서 개최된 'GM 한국사업장 2026 비즈니스 전략 콘퍼런스'를 통해 이같은 내용을 담은 내년 사업 전략을 공개했습니다. 이날 행사에서는 새롭게 구축된... ",
-			"pubDate":"Mon, 15 Dec 2025 14:44:00 +0900"
+			"title":"철수설 종지부? 한국GM '글로벌 전략기지' 재포지셔닝",
+			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=716292",
+			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=716292",
+			"description":"한국GM은 15일 인천 서구 <b>청라<\/b>국제도시에 위치한 GM <b>청라<\/b> 주행시험장 타운홀에서 'GM 한국사업장 2026 비즈니스 전략 컨퍼런스'를 개최했다. 글로벌 자동차업계가 생산 효율화와 전기차 포트폴리오 조정으로 해외... ",
+			"pubDate":"Mon, 15 Dec 2025 14:46:00 +0900"
 		},
 		{
 			"title":"GM 한국사업장, 생산·기술·브랜드 핵심 거점 재확인…지속 성장 청사...",
 			"originallink":"https:\/\/www.seoultimes.news\/news\/article.html?no=2000087622",
 			"link":"https:\/\/www.seoultimes.news\/news\/article.html?no=2000087622",
 			"description":"<b>청라<\/b> 버추얼 엔지니어링 랩 개소…글로벌 엔지니어링 허브 역할 강화 약 3억 달러 투자 기반 생산 역량 확대... GM 한국사업장은 12월 15일 인천 서구 <b>청라<\/b>국제도시에 위치한 GM <b>청라<\/b> 주행시험장에서 ‘GM 한국사업장 2026... ",
+			"pubDate":"Mon, 15 Dec 2025 14:44:00 +0900"
+		},
+		{
+			"title":"한국GM, 내년 4천억원 투자ㆍ '뷰익·GMC' 론칭... '철수설' 종식시켰다",
+			"originallink":"https:\/\/www.insight.co.kr\/news\/533627",
+			"link":"https:\/\/www.insight.co.kr\/news\/533627",
+			"description":"한국GM은 15일 인천 서구 <b>청라<\/b>국제도시 GM <b>청라<\/b> 주행시험장 타운홀에서 개최된 'GM 한국사업장 2026 비즈니스 전략 콘퍼런스'를 통해 이같은 내용을 담은 내년 사업 전략을 공개했습니다. 이날 행사에서는 새롭게 구축된... ",
 			"pubDate":"Mon, 15 Dec 2025 14:44:00 +0900"
 		},
 		{
@@ -145,10 +159,10 @@
 			"pubDate":"Mon, 15 Dec 2025 14:08:00 +0900"
 		},
 		{
-			"title":"한국지엠, &quot;4400억 투자, 2028년 이후 생산 지속위해 기반 강화&quot;",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=312332",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=312332",
-			"description":"한국지엠은 15일 인천 서구 <b>청라<\/b>국제도시에 위치한 지엠 <b>청라<\/b> 주행시험장 타운홀에서 '지엠 한국사업장 2026 비즈니스 전략 컨퍼런스'를 열고 <b>청라<\/b> 주행시험장 내에 새롭게 구축한 버추얼 엔지니어링 랩(Virtual Engineering... ",
+			"title":"한국GM, 미래 위한 주요 이정표 제시…韓 생산능력 최대 가동",
+			"originallink":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=351884",
+			"link":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=351884",
+			"description":"주요 내용으로는 ▲<b>청라<\/b> 주행시험장 내 신규 버추얼 센터 오픈을 통한 가상-실물 통합 개발 모델 전환과... 포함한 <b>청라<\/b> 주행시험장의 리노베이션은 가상–실물 통합 개발로의 전환을 가속화할 수 있는 탄탄한 기반을... ",
 			"pubDate":"Mon, 15 Dec 2025 14:02:00 +0900"
 		},
 		{
@@ -159,10 +173,10 @@
 			"pubDate":"Mon, 15 Dec 2025 14:02:00 +0900"
 		},
 		{
-			"title":"한국GM, 미래 위한 주요 이정표 제시…韓 생산능력 최대 가동",
-			"originallink":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=351884",
-			"link":"http:\/\/www.sisafocus.co.kr\/news\/articleView.html?idxno=351884",
-			"description":"주요 내용으로는 ▲<b>청라<\/b> 주행시험장 내 신규 버추얼 센터 오픈을 통한 가상-실물 통합 개발 모델 전환과... 포함한 <b>청라<\/b> 주행시험장의 리노베이션은 가상–실물 통합 개발로의 전환을 가속화할 수 있는 탄탄한 기반을... ",
+			"title":"한국지엠, &quot;4400억 투자, 2028년 이후 생산 지속위해 기반 강화&quot;",
+			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=312332",
+			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=312332",
+			"description":"한국지엠은 15일 인천 서구 <b>청라<\/b>국제도시에 위치한 지엠 <b>청라<\/b> 주행시험장 타운홀에서 '지엠 한국사업장 2026 비즈니스 전략 컨퍼런스'를 열고 <b>청라<\/b> 주행시험장 내에 새롭게 구축한 버추얼 엔지니어링 랩(Virtual Engineering... ",
 			"pubDate":"Mon, 15 Dec 2025 14:02:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/293\/0000076460?sid=101",
 			"description":"지난해 내부거래가 가장 많았던 법인은 '<b>청라<\/b> 수자인 디에스틴'을 분양한 <b>청라<\/b>국제금융단지다. BS한양과 BS산업은 <b>청라<\/b>국제금융단지 지분율을 절반씩 보유하고 있으며 각각 729억원, 512억원의 내부거래 매출을... ",
 			"pubDate":"Mon, 15 Dec 2025 13:43:00 +0900"
-		},
-		{
-			"title":"한국GM, 국내에 3억달러 투자…'철수설' 일축",
-			"originallink":"https:\/\/www.newsinside.kr\/news\/articleView.html?idxno=4258038",
-			"link":"https:\/\/www.newsinside.kr\/news\/articleView.html?idxno=4258038",
-			"description":"한국GM은 15일 인천 서구 <b>청라<\/b>국제도시 내 GM <b>청라<\/b> 주행시험장에서 'GM 한국사업장 2026 비즈니스 전략 콘퍼런스'를 열고 내년 사업 전략과 중장기 투자 방향을 발표했다. 헥터 비자레알 한국GM 사장 겸 최고경영자(CEO)는... ",
-			"pubDate":"Mon, 15 Dec 2025 13:42:00 +0900"
-		},
-		{
-			"title":"&quot;한국 안 떠난다&quot;…한국GM, 3억 달러 '깜짝 투자' 선언",
-			"originallink":"https:\/\/www.sisajournal.com\/news\/articleView.html?idxno=356388",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000118123?sid=101",
-			"description":"한국GM은 15일 인천 서구 <b>청라<\/b>국제도시 내 GM <b>청라<\/b> 주행시험장 타운홀에서 'GM 한국사업장 2026 비즈니스 전략 콘퍼런스'를 열어 내년 비즈니스 전략을 발표하고, 주행시험장에 새로 구축한 '버추얼 엔지니어링 랩'의... ",
-			"pubDate":"Mon, 15 Dec 2025 13:38:00 +0900"
 		}
 	]
 }
