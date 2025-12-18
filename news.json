@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 18 Dec 2025 13:10:01 +0900",
-	"total":283999,
+	"lastBuildDate":"Thu, 18 Dec 2025 13:20:01 +0900",
+	"total":284000,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 11월 주택 매매·전세가격 ‘오름세’…대출 규제와 매물 감소 등...",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20251218580142",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000090994?sid=101",
+			"description":"연수구의 경우 송도동 대단지 및 역세권을 위주로 올랐고, 동구는 송현·송림동 등 중소형 규모에서, 서구는 <b>청라<\/b>·원당동 등 주요 단지 위주로 상승했다. 이어 남동구(0.03%→0.09%), 중구(0.05%→0.09%), 부평구... ",
+			"pubDate":"Thu, 18 Dec 2025 13:15:00 +0900"
+		},
 		{
 			"title":"스킨부스터 '고우리', 피부 장벽ㆍ수분 균형 관리 강조",
 			"originallink":"http:\/\/www.medisobizanews.com\/news\/articleView.html?idxno=132464",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.idaegu.com\/news\/articleView.html?idxno=654034",
 			"description":"한국부동산원 자료에 따르면 동성로는 중대형 상가 공실률이 4분기 연속 20%대를 기록했고, 서문시장과 <b>청라<\/b>언덕 일대의 중대형 상가 공실률은 34%를 넘어섰다. 학생들의 발걸음이 뜸해진 대학가나 유동인구가 적은... ",
 			"pubDate":"Wed, 17 Dec 2025 18:36:00 +0900"
-		},
-		{
-			"title":"제물포주권포럼 &quot;시, 제물포 교통 현안 외면··· 영종·검단 정성 반이...",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=312539",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=312539",
-			"description":"인천3호선 송도검단선 지연, 인천시 책임 주권포럼은 먼저 &quot;인천도시철도3호선 송도검단선은 중구와 동구를 거쳐 <b>청라<\/b>, 검단을 잇는 핵심 노선&quot;이라며 &quot;이 노선이 반영된 제2차 인천도시철도망 구축계획 변경안의 연내... ",
-			"pubDate":"Wed, 17 Dec 2025 17:30:00 +0900"
 		}
 	]
 }
