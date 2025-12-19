@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 19 Dec 2025 13:50:01 +0900",
-	"total":284051,
+	"lastBuildDate":"Fri, 19 Dec 2025 14:00:01 +0900",
+	"total":284052,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[분양캘린더] 경기 이천, 부산 남구 등 전국 1600여 가구 분양",
+			"originallink":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=29790",
+			"link":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=29790",
+			"description":"내년 1월 제3연륙교가 개통되면 <b>청라<\/b>로 이동 시간이 한층 빨라져 스타필드 <b>청라<\/b>(2027년 예정), 서울아산<b>청라<\/b>병원(2029년 예정) 등도 이용하기 좋아질 전망입니다. 대방건설이 인천 중구 중산동에 짓는 '인천영종 디에트르... ",
+			"pubDate":"Fri, 19 Dec 2025 13:58:00 +0900"
+		},
 		{
 			"title":"[대구소식] 중구 근대골목 '크리스마스 연말 이벤트'",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20251219084500053?input=1195m",
@@ -187,17 +194,17 @@
 			"pubDate":"Thu, 18 Dec 2025 19:41:00 +0900"
 		},
 		{
-			"title":"제3연륙교 갈등 '통행료 무료화'에도 불똥",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3007559",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3007559",
-			"description":"기호일보, KIHOILBO 인천 영종~<b>청라<\/b>를 잇는 '제3연륙교' 개통이 한 달여 앞으로 다가왔지만 교량 명칭을 둘러싼... 영종·<b>청라<\/b> 주민에게 우선 감면을 적용한 뒤 내년 3월 통행료 감면 시스템이 구축되면 인천시민 전체로... ",
-			"pubDate":"Thu, 18 Dec 2025 19:18:00 +0900"
-		},
-		{
 			"title":"서울 지하철 7호선 급행, 내년 상반기 현실화 될까",
 			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3007558",
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3007558",
 			"description":"1996년 개통한 7호선 전 구간에는 대피선이 없으며 2029년 개통 예정인 <b>청라<\/b> 연장선에도 대피선 설치 계획은 없는 것으로 알려졌다. 결국 기존 선형을 유지한 채 추가 대피선을 설치해야 하는 상황으로, 선로 기울기와... ",
+			"pubDate":"Thu, 18 Dec 2025 19:18:00 +0900"
+		},
+		{
+			"title":"제3연륙교 갈등 '통행료 무료화'에도 불똥",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3007559",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3007559",
+			"description":"기호일보, KIHOILBO 인천 영종~<b>청라<\/b>를 잇는 '제3연륙교' 개통이 한 달여 앞으로 다가왔지만 교량 명칭을 둘러싼... 영종·<b>청라<\/b> 주민에게 우선 감면을 적용한 뒤 내년 3월 통행료 감면 시스템이 구축되면 인천시민 전체로... ",
 			"pubDate":"Thu, 18 Dec 2025 19:18:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kyeongin.com\/article\/1756626",
 			"description":"송도·<b>청라<\/b>·영종국제도시(경제자유구역)는 물론 검단(택지개발지구)까지 신도시 개발이 빠르게 진행되면서... 특히 송도·<b>청라<\/b>·영종을 잇는 직결 철도망의 부재는 도시 경쟁력 측면에서 구조적 약점으로 작용하고 있다.... ",
 			"pubDate":"Thu, 18 Dec 2025 18:56:00 +0900"
-		},
-		{
-			"title":"도쿄돔 뛰어넘는 서울돔 탄생인가...정부 5만석 돔구장 건립추진에 야구...",
-			"originallink":"http:\/\/www.osen.co.kr\/article\/G1112714904",
-			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/109\/0005449107",
-			"description":"현재 인천 <b>청라<\/b> SSG 돔구장을 건립중이지만 2만5000석 정도이고, 잠실구장 자리에 돔구장 건립을 추진하고 있지만 역시 3만 석 규모이다. 수도권 지역의 인구와 수요가 폭발하는 K-공연을 감안하면 4~5만석 정도의 대형... ",
-			"pubDate":"Thu, 18 Dec 2025 18:41:00 +0900"
 		}
 	]
 }
