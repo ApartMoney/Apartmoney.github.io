@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 21 Dec 2025 14:40:01 +0900",
-	"total":284105,
+	"lastBuildDate":"Sun, 21 Dec 2025 14:50:01 +0900",
+	"total":284106,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천대교 통행료 2000원으로…영종 오가는 길 넓어졌다",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20251221\/133006644\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003683431?sid=102",
+			"description":"인천시는 개통과 동시에 영종·<b>청라<\/b>국제도시 주민에게는 무료로 이용할 수 있도록 하고, 내년 3월 통행료... 제3연륙교 전체 사업비 7709억 원 가운데 약 80%(6200억 원)가 영종·<b>청라<\/b>국제도시 조성 당시 주택 분양가에... ",
+			"pubDate":"Sun, 21 Dec 2025 14:42:00 +0900"
+		},
 		{
 			"title":"경인고속도로 지하화 본궤도 진입…'1년 공백' 끝 타당성 평가 재개",
 			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3007687",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.smarttoday.co.kr\/ko-kr\/articles\/99474",
 			"description":"영종과 <b>청라<\/b>를 연결하는 제3연륙교 개통이 가시화 되는 시점에 분양이 시작돼 수요자들의 관심도 커지고... 제3연륙교 개통 이후에는 <b>청라<\/b> 학원가 접근성도 한층 개선될 전망이다. 교육 인프라도 우수하다. 영종에는... ",
 			"pubDate":"Fri, 19 Dec 2025 17:24:00 +0900"
-		},
-		{
-			"title":"출퇴근 인구 계속 느는데... 갈 길 먼 인천 북부지역 철도망",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=114520",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=114520",
-			"description":"사진=인천시 인천시는 검단과 <b>청라<\/b>, 송도, 중·동구 원도심까지 총 34.64㎞를 잇는 인천3호선을 계획하고 있지만 역시 내부 순환선이라는 한계가 있고 막대한 사업비 등으로 구상 단계에 그치고 있다. 핵심 광역철도망인... ",
-			"pubDate":"Fri, 19 Dec 2025 17:16:00 +0900"
 		}
 	]
 }
