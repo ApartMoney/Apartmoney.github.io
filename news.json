@@ -1,5 +1,5 @@
 {
-	"lastBuildDate":"Mon, 22 Dec 2025 15:40:00 +0900",
+	"lastBuildDate":"Mon, 22 Dec 2025 15:50:01 +0900",
 	"total":284192,
 	"start":1,
 	"display":30,
@@ -61,17 +61,17 @@
 			"pubDate":"Mon, 22 Dec 2025 14:04:00 +0900"
 		},
 		{
-			"title":"인천도서관, 유아 책놀이부터 성인 인문 특강까지 선보여...도서관별 겨...",
-			"originallink":"http:\/\/www.breaknews.com\/1170982",
-			"link":"http:\/\/www.breaknews.com\/1170982",
-			"description":"인천시가 22일, 인천도서관 및 분관(<b>청라<\/b>호수·<b>청라<\/b>국제·영종하늘·마전)은 새해를 맞아 어린이를 위한 책놀이·독서교실과 성인을 위한 특강 등 다양한 프로그램을... ",
-			"pubDate":"Mon, 22 Dec 2025 14:00:00 +0900"
-		},
-		{
 			"title":"인천시, 광역시도 노선 재정비 고시",
 			"originallink":"http:\/\/www.breaknews.com\/1170978",
 			"link":"http:\/\/www.breaknews.com\/1170978",
 			"description":"인천시가 22일 송도·<b>청라<\/b>경제자유구역 및 계양 테크노밸리(TV) 개발계획... 특히, 송도국제도시 11공구와 계양 테크노밸리(TV), <b>청라<\/b>·서창 등 대규모 개발이 진행... ",
+			"pubDate":"Mon, 22 Dec 2025 14:00:00 +0900"
+		},
+		{
+			"title":"인천도서관, 유아 책놀이부터 성인 인문 특강까지 선보여...도서관별 겨...",
+			"originallink":"http:\/\/www.breaknews.com\/1170982",
+			"link":"http:\/\/www.breaknews.com\/1170982",
+			"description":"인천시가 22일, 인천도서관 및 분관(<b>청라<\/b>호수·<b>청라<\/b>국제·영종하늘·마전)은 새해를 맞아 어린이를 위한 책놀이·독서교실과 성인을 위한 특강 등 다양한 프로그램을... ",
 			"pubDate":"Mon, 22 Dec 2025 14:00:00 +0900"
 		},
 		{
@@ -152,6 +152,13 @@
 			"pubDate":"Mon, 22 Dec 2025 11:42:00 +0900"
 		},
 		{
+			"title":"인천시, 광역시도 노선 재정비 '박차'",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1214406",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1214406",
+			"description":"인천시는 22일 송도·<b>청라<\/b>경제자유구역 및 계양 테크노밸리(TV) 개발계획, 고속도로 건설 및 교통혼잡도로... 특히 송도국제도시 11공구와 계양 테크노밸리(TV), <b>청라<\/b>·서창 등 대규모 개발이 진행 중인 지역을 중심으로... ",
+			"pubDate":"Mon, 22 Dec 2025 11:36:00 +0900"
+		},
+		{
 			"title":"인천시, 광역시도 노선 재정비 고시",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=114569",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=114569",
@@ -163,13 +170,6 @@
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=114568",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=114568",
 			"description":"사진=인천시 인천 영종과 <b>청라<\/b>를 잇는 제3연륙교의 명칭 결정이 국가지명위원회로 넘어갔다. 인천시 중구는... 시 지명위원회는 지난 7월에 이어 11월 열린 재심의에서도 제3연륙교 명칭을 <b>청라<\/b>하늘대교로 의결했다.... ",
-			"pubDate":"Mon, 22 Dec 2025 11:36:00 +0900"
-		},
-		{
-			"title":"인천시, 광역시도 노선 재정비 '박차'",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1214406",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1214406",
-			"description":"인천시는 22일 송도·<b>청라<\/b>경제자유구역 및 계양 테크노밸리(TV) 개발계획, 고속도로 건설 및 교통혼잡도로... 특히 송도국제도시 11공구와 계양 테크노밸리(TV), <b>청라<\/b>·서창 등 대규모 개발이 진행 중인 지역을 중심으로... ",
 			"pubDate":"Mon, 22 Dec 2025 11:36:00 +0900"
 		},
 		{
@@ -194,17 +194,17 @@
 			"pubDate":"Mon, 22 Dec 2025 11:02:00 +0900"
 		},
 		{
-			"title":"인천도서관, 새해 맞아 어린이·성인 대상 독서 프로그램 풍성",
-			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=682674",
-			"link":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=682674",
-			"description":"인천도서관 및 분관 행사 포스터 \/ 인천시청 인천광역시 인천도서관과 <b>청라<\/b>호수·<b>청라<\/b>국제·영종하늘·마전도서관 등 분관이 새해를 맞아 어린이와 성인을 위한 다양한 독서·문화 프로그램을 운영한다. 인천시는 연령별... ",
-			"pubDate":"Mon, 22 Dec 2025 10:48:00 +0900"
-		},
-		{
 			"title":"인천시 광역시도 노선 재정비…미래 개발 대비 도로망 확대",
 			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=682673",
 			"link":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=682673",
 			"description":"인천시는 12월 22일 송도·<b>청라<\/b>경제자유구역과 계양 테크노밸리(TV) 개발계획, 고속도로 건설 및... 특히 송도국제도시 11공구와 계양 테크노밸리, <b>청라<\/b>·서창 등 대규모 개발이 진행 중인 지역을 중심으로 신규 노선이... ",
+			"pubDate":"Mon, 22 Dec 2025 10:48:00 +0900"
+		},
+		{
+			"title":"인천도서관, 새해 맞아 어린이·성인 대상 독서 프로그램 풍성",
+			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=682674",
+			"link":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=682674",
+			"description":"인천도서관 및 분관 행사 포스터 \/ 인천시청 인천광역시 인천도서관과 <b>청라<\/b>호수·<b>청라<\/b>국제·영종하늘·마전도서관 등 분관이 새해를 맞아 어린이와 성인을 위한 다양한 독서·문화 프로그램을 운영한다. 인천시는 연령별... ",
 			"pubDate":"Mon, 22 Dec 2025 10:48:00 +0900"
 		},
 		{
