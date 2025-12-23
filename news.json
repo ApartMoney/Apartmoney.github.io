@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 23 Dec 2025 15:40:00 +0900",
-	"total":284272,
+	"lastBuildDate":"Tue, 23 Dec 2025 15:50:00 +0900",
+	"total":284273,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시4-H연합회, 연탄 2000장 기부로 따뜻한 겨울 나눔",
+			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=883288",
+			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=883288",
+			"description":"이 가운데 1,000장은 <b>청라<\/b>면과 궁촌동 지역의 취약계층 2가구에 500장씩 회원들이 직접 배달하며 따뜻한 겨울을 선물했다. 특히 이번 활동은 회원들이 함께 나눔의 의미를 되새기며 진행돼, 단순한 기부를 넘어... ",
+			"pubDate":"Tue, 23 Dec 2025 15:44:00 +0900"
+		},
 		{
 			"title":"대방건설, '영종 디에트르 라 메르 Ⅰ' 견본주택 24일 개관",
 			"originallink":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1692471",
@@ -194,13 +201,6 @@
 			"pubDate":"Tue, 23 Dec 2025 10:30:00 +0900"
 		},
 		{
-			"title":"&quot;층간소음부터 돌봄까지&quot; 공동주택 관리지원센터 필요한 이유는?",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=460624",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=460624",
-			"description":"예를 들어 가지고 <b>청라<\/b>지구의 화재로 해가지고 38억 피해를 봤잖아요. 그리고 주민들의 어려움을 많이 겪고 있는데 그런 부분들이 요사이 같이 AI로 해서 연기가 감지됐을 때에 그런 부분들이 시설이 돼 있었다면은 아마... ",
-			"pubDate":"Tue, 23 Dec 2025 10:20:00 +0900"
-		},
-		{
 			"title":"인천 광역도로 대수술…76개 노선·931km로 확장",
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2372162",
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2372162",
@@ -208,11 +208,11 @@
 			"pubDate":"Tue, 23 Dec 2025 10:20:00 +0900"
 		},
 		{
-			"title":"보령시 4-H연합회, 연탄 2000장 나눔 봉사",
-			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20251223010008920",
-			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20251223010008920",
-			"description":"이 가운데 1000장은 <b>청라<\/b>면과 궁촌동 지역의 취약계층 2가구에 각각 500장씩 회원들이 직접 배달했다. 나머지 1000장도 지역 내 어려운 이웃들에게 전달될 예정이다. 이번 활동은 단순한 물품 기부를 넘어 회원들이... ",
-			"pubDate":"Tue, 23 Dec 2025 10:10:00 +0900"
+			"title":"&quot;층간소음부터 돌봄까지&quot; 공동주택 관리지원센터 필요한 이유는?",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=460624",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=460624",
+			"description":"예를 들어 가지고 <b>청라<\/b>지구의 화재로 해가지고 38억 피해를 봤잖아요. 그리고 주민들의 어려움을 많이 겪고 있는데 그런 부분들이 요사이 같이 AI로 해서 연기가 감지됐을 때에 그런 부분들이 시설이 돼 있었다면은 아마... ",
+			"pubDate":"Tue, 23 Dec 2025 10:20:00 +0900"
 		}
 	]
 }
