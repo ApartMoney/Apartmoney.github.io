@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 28 Dec 2025 14:10:01 +0900",
-	"total":284459,
+	"lastBuildDate":"Sun, 28 Dec 2025 14:20:01 +0900",
+	"total":284460,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"올해 사실상 집값 마이너스…인천, 수도권 속 예외로 남아",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1312996",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1312996",
+			"description":"인천 지역별로 보면 부평구와 미추홀구 등 일부 원도심에서만 올해 초 대비 소폭 상승이 나타났을 뿐, 송도·<b>청라<\/b> 등 신도시를 포함한 상당수 지역은 상승 동력을 확보하지 못했다. 서울과 경기에서 형성 중인... ",
+			"pubDate":"Sun, 28 Dec 2025 14:16:00 +0900"
+		},
 		{
 			"title":"[해양·항공 핫클릭 ①] 가덕도·새만금공항 표류와 인천공항 5단계",
 			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=313021",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ksilbo.co.kr\/news\/articleView.html?idxno=1045295",
 			"description":"로이문화예술실용전문학교는 2026년 <b>청라<\/b> 지역에 새롭게 조성되는 캠퍼스로 이전을 앞두고 있다. 신설되는 <b>청라<\/b> 캠퍼스는 전공별 실습 공간과 교육 시설을 한층 더 확충해, 보다 쾌적하고 정돈된 환경에서 학생들이 학습과... ",
 			"pubDate":"Fri, 26 Dec 2025 15:34:00 +0900"
-		},
-		{
-			"title":"[기고] 노동과 지역사회를 파괴해 온 지엠의 구조조정",
-			"originallink":"https:\/\/www.laborplus.co.kr\/news\/articleView.html?idxno=40033",
-			"link":"https:\/\/www.laborplus.co.kr\/news\/articleView.html?idxno=40033",
-			"description":"토지 사용권 문제 대표적인 것이 지금은 비록 법인 분리로 인해 별도의 법인이 되긴 했습니다만 <b>청라<\/b> 프루빙 그라운드 연구소 부지의 장기 토지 사용권입니다. 사실상 무상에 가까운 조건으로 장기간(50년 수준) 제공하고... ",
-			"pubDate":"Fri, 26 Dec 2025 15:31:00 +0900"
 		}
 	]
 }
