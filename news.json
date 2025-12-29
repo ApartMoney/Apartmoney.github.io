@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 30 Dec 2025 08:00:01 +0900",
-	"total":284719,
+	"lastBuildDate":"Tue, 30 Dec 2025 08:10:00 +0900",
+	"total":284720,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"AI·로봇이 이끈 2025년…국내 과학·기술분야 10대 뉴스는?",
+			"originallink":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=326644",
+			"link":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=326644",
+			"description":"SK가 투자한 유일로보틱스는 최근 약 1만평에 달하는 <b>청라<\/b> 신공장을 오픈했다. 이는 국내 로봇 업계 기준 최대 수준이다. 이곳에서는 다관절로봇을 비롯한 산업용 로봇을 생산하고 있으며 피지컬 AI R&amp;D 센터에서는... ",
+			"pubDate":"Tue, 30 Dec 2025 08:00:00 +0900"
+		},
 		{
 			"title":"[수도권 직매립금지] ③ '주민 반발' 직면한 공공소각시설 확충",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20251229135600061?input=1195m",
@@ -173,17 +180,17 @@
 			"pubDate":"Mon, 29 Dec 2025 19:34:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b>의료복합타운 조성사업 '첫삽'",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3008509",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3008509",
-			"description":"기호일보, KIHOILBO 서울아산병원이 주도하는 국내 최대 규모의 '<b>청라<\/b>의료복합서비스타운' 조성사업이 본격화된다. 인천경제자유구역청은 29일 인천 서구 <b>청라<\/b>의료복합타운(26만336㎡) 터에서 유정복 인천시장과 이용우... ",
-			"pubDate":"Mon, 29 Dec 2025 19:24:00 +0900"
-		},
-		{
 			"title":"하나은행, <b>청라<\/b>의료복합타운 서울아산<b>청라<\/b>병원 착공식 참여",
 			"originallink":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=269301",
 			"link":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=269301",
 			"description":"(제공=하나은행) ©열린뉴스통신ONA 하나은행(은행장 이호성)은 29일 인천시 서구 <b>청라<\/b>동에서 <b>청라<\/b>의료복합타운의 핵심 시설인 서울아산<b>청라<\/b>병원 착공식에 참여했다고 밝혔다. <b>청라<\/b>의료복합타운은 종합병원 및 의료... ",
+			"pubDate":"Mon, 29 Dec 2025 19:24:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>의료복합타운 조성사업 '첫삽'",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3008509",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3008509",
+			"description":"기호일보, KIHOILBO 서울아산병원이 주도하는 국내 최대 규모의 '<b>청라<\/b>의료복합서비스타운' 조성사업이 본격화된다. 인천경제자유구역청은 29일 인천 서구 <b>청라<\/b>의료복합타운(26만336㎡) 터에서 유정복 인천시장과 이용우... ",
 			"pubDate":"Mon, 29 Dec 2025 19:24:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=432850",
 			"description":"유정복 인천광역시장이 29일 서구 <b>청라<\/b>동에서 열린 '<b>청라<\/b>의료복합타운 서울아산<b>청라<\/b>병원 착공식'에서 축사를 하고 있다. 인천시 포토 유정복 인천시장이 하반기 직무수행 긍정 평가에서 6대 특･광역시 중 2위를... ",
 			"pubDate":"Mon, 29 Dec 2025 18:36:00 +0900"
-		},
-		{
-			"title":"정용진 “새해 다시 성장…‘성장•혁신•룰 메이커’로 재도약”",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2540561",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2540561",
-			"description":"신세계그룹은 스타필드 <b>청라<\/b> 복합쇼핑몰 건립과 파라마운트 스카이댄스를 글로벌 파트너사로 한 화성국제테마파크 복합개발사업을 추진 중이다. 동서울터미널 개발사업에는 신세계프라퍼티가 참여하기로 했다. 또한... ",
-			"pubDate":"Mon, 29 Dec 2025 18:34:00 +0900"
 		}
 	]
 }
