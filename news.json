@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Jan 2026 00:00:01 +0900",
-	"total":285019,
+	"lastBuildDate":"Thu, 01 Jan 2026 00:10:01 +0900",
+	"total":285020,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인터뷰] 유정복 인천시장, 2026년 새해 구상 아닌 '인천 완성 시간표'를...",
+			"originallink":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=24804",
+			"link":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=24804",
+			"description":"제3연륙교는 2026년 1월 개통과 동시에 영종·<b>청라<\/b> 주민 무료 통행을 우선 시행하고, 같은 해 상반기에는... 유정복 시장 : 2026년 1월 개통과 동시에 영종·<b>청라<\/b> 주민을 대상으로 무료 통행을 시행하고, 같은 해 상반기에는... ",
+			"pubDate":"Thu, 01 Jan 2026 00:00:00 +0900"
+		},
 		{
 			"title":"(재)서동이장학회, 장학기금 기부자에 감사패 전달",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=624421",
@@ -75,17 +82,17 @@
 			"pubDate":"Wed, 31 Dec 2025 20:00:00 +0900"
 		},
 		{
-			"title":"유정복 인천시장 신년사 &quot;천원정책 확대·교통혁명 본격화&quot;",
-			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=192655",
-			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=192655",
-			"description":"영종·<b>청라<\/b> 주민 통행료 무료화를 단계적으로 확대하고, 인천발 KTX 개통을 통해 전국 주요 도시를 반나절... 송도세브란스병원의 본격 추진과 서울아산<b>청라<\/b>병원의 착공은 인천의 미래 의료환경을 획기적으로 변화시킬... ",
-			"pubDate":"Wed, 31 Dec 2025 19:48:00 +0900"
-		},
-		{
 			"title":"LH, 영종하늘도시 A24블록 공공분양주택 공급…평당 1323만원",
 			"originallink":"https:\/\/www.apnews.kr\/news\/articleView.html?idxno=3044284",
 			"link":"https:\/\/www.apnews.kr\/news\/articleView.html?idxno=3044284",
 			"description":"영종대교와 인천대교에 더해 제3연륙교가 2026년 1월 개통될 예정으로, <b>청라<\/b>국제도시와의 접근성이 개선될 전망이다. 여기에 인천국제공항 5단계 개발사업과 GTX-D·E 노선 추진 등 광역 교통망 확충 계획도 예정돼... ",
+			"pubDate":"Wed, 31 Dec 2025 19:48:00 +0900"
+		},
+		{
+			"title":"유정복 인천시장 신년사 &quot;천원정책 확대·교통혁명 본격화&quot;",
+			"originallink":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=192655",
+			"link":"http:\/\/www.joongang.tv\/news\/articleView.html?idxno=192655",
+			"description":"영종·<b>청라<\/b> 주민 통행료 무료화를 단계적으로 확대하고, 인천발 KTX 개통을 통해 전국 주요 도시를 반나절... 송도세브란스병원의 본격 추진과 서울아산<b>청라<\/b>병원의 착공은 인천의 미래 의료환경을 획기적으로 변화시킬... ",
 			"pubDate":"Wed, 31 Dec 2025 19:48:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005456582?sid=102",
 			"description":"송도세브란스병원의 본격 추진과 서울아산<b>청라<\/b>병원의 착공은 인천의 미래 의료환경을 획기적으로 변화시킬... 이 다리가 인천의 새로운 경제 동맥이 될 수 있도록 영종·<b>청라<\/b> 주민의 통행료 무료화를 시작으로 인천시민... ",
 			"pubDate":"Wed, 31 Dec 2025 15:46:00 +0900"
-		},
-		{
-			"title":"LH, 영종하늘도시 A24블록 공공분양주택 공급",
-			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=2025123115420554167191f6c6e_12",
-			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=2025123115420554167191f6c6e_12",
-			"description":"기존의 영종대교, 인천대교 외에도 제3연륙교(2026년 1월 개통 예정) 건설로 <b>청라<\/b>국제도시와의 접근성이 더욱 개선될 예정이며, 인천국제공항 5단계 개발사업, GTX-D와 E 노선 추진 등 광역 교통망 확충 계획도 예정돼... ",
-			"pubDate":"Wed, 31 Dec 2025 15:44:00 +0900"
 		}
 	]
 }
