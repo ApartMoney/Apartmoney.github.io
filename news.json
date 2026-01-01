@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Jan 2026 12:20:01 +0900",
-	"total":285046,
+	"lastBuildDate":"Thu, 01 Jan 2026 12:30:01 +0900",
+	"total":285047,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"경기·인천 &quot;새해부터 이렇게 달라져요&quot;",
+			"originallink":"https:\/\/www.hankookilbo.com\/News\/Read\/A2026010111550002484?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000906433?sid=102",
+			"description":"개통과 동시에 영종·<b>청라<\/b> 주민은 무료 통행할 수 있고 내년 상반기 인천시민 전체로 무료화 대상이 확대될 예정이다. △인천발 KTX 개통=인천발 KTX가 12월 개통할 예정이다. 수인선 송도역에서 출발하는 인천발 KTX는... ",
+			"pubDate":"Thu, 01 Jan 2026 12:24:00 +0900"
+		},
 		{
 			"title":"인천경제청, 제3연륙교 개통 준비에 만전...비상 상황 대비 합동 훈련 실...",
 			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=505738",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=624431",
 			"description":"송도세브란스병원의 본격 추진과 서울아산<b>청라<\/b>병원의 착공은 인천의 미래 의료환경을 획기적으로 변화시킬... 이 다리가 인천의 새로운 경제 동맥이 될 수 있도록 영종·<b>청라<\/b> 주민의 통행료 무료화를 시작으로 인천시민... ",
 			"pubDate":"Wed, 31 Dec 2025 23:46:00 +0900"
-		},
-		{
-			"title":"강범석 인천서구청장, &quot;교통 혁신과 안전망 강화로 구민 삶의 질 향상&quot;",
-			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=221658",
-			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=221658",
-			"description":"그는 &quot;교통 혁신을 통해 인천1호선 검단 연장선 개통과 서울7호선 <b>청라<\/b> 연장선 사업을 추진하며 지역의 이동성을 높였으며, 도시 성장 측면에서는 원도심과 신도시가 함께 발전하는 균형 도시를 목표로 도시 재생과 발전... ",
-			"pubDate":"Wed, 31 Dec 2025 23:28:00 +0900"
 		}
 	]
 }
