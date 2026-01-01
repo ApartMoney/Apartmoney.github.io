@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Jan 2026 11:30:01 +0900",
-	"total":285041,
+	"lastBuildDate":"Thu, 01 Jan 2026 11:40:01 +0900",
+	"total":285042,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[2026 건설사 기술대전①] '로봇·자동화'로 진화하는 현장, 안전성 높인...",
+			"originallink":"https:\/\/www.ntoday.co.kr\/news\/articleView.html?idxno=123604",
+			"link":"https:\/\/www.ntoday.co.kr\/news\/articleView.html?idxno=123604",
+			"description":"이 로봇은 지난 9월 현대건설 인천 <b>청라<\/b> 하나드림타운 현장에서 처음 실증됐다. 로봇에는 ▲3D 영상 기반 팔레트 형상·피킹홀 인식 ▲SLAM 기반 자율주행 ▲운반 작업 관리·로봇 관제 ▲자동 도킹(충전) 기능 등이... ",
+			"pubDate":"Thu, 01 Jan 2026 11:36:00 +0900"
+		},
 		{
 			"title":"인천경제청, 제3연륙교 개통전 비상상황 대비 합동 훈련",
 			"originallink":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=260013",
@@ -110,17 +117,17 @@
 			"pubDate":"Thu, 01 Jan 2026 07:02:00 +0900"
 		},
 		{
-			"title":"[2026년 폐기물 직매립 금지시대] ① 불안정한 공공소각, 커지는 민간 의...",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=461315",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=461315",
-			"description":"북부권은 서구에 <b>청라<\/b>소각장이 운영되고 있으나 과거 인천시와 서구가 맺은 협약에 따라 올해까지만 운영한... 공공소각시설인 수도권매립지와 송도·<b>청라<\/b>소각시설에 생활폐기물을 직매립하면 처리 비용은 각각 1톤당... ",
-			"pubDate":"Thu, 01 Jan 2026 07:00:00 +0900"
-		},
-		{
 			"title":"[붉은 말의 해] 2026년 인천, 어떻게 달라질까?",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=461301",
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=461301",
 			"description":"오는 5일 영종과 <b>청라<\/b>를 직접 잇는 새 다리, 제3연륙교가 개통합니다. 통행료는 기존 인천대교의 절반 수준인 2천 원이며, 4월부터는 인천 시민이라면 누구나 무료로 이용할 수 있습니다. 특히 고속도로가 아닌... ",
+			"pubDate":"Thu, 01 Jan 2026 07:00:00 +0900"
+		},
+		{
+			"title":"[2026년 폐기물 직매립 금지시대] ① 불안정한 공공소각, 커지는 민간 의...",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=461315",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=461315",
+			"description":"북부권은 서구에 <b>청라<\/b>소각장이 운영되고 있으나 과거 인천시와 서구가 맺은 협약에 따라 올해까지만 운영한... 공공소각시설인 수도권매립지와 송도·<b>청라<\/b>소각시설에 생활폐기물을 직매립하면 처리 비용은 각각 1톤당... ",
 			"pubDate":"Thu, 01 Jan 2026 07:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.g-enews.com\/view.php?ud=2025123120170742679ae5042aca_1",
 			"description":"인천시는 개통과 동시에 영종·<b>청라<\/b> 주민 무료화를 적용하고, 2026년 3월 말까지 감면시스템 구축을 완료해 인천시민 전체로 무료 통행을 확대한다는 계획이다. 하이패스 기반 감면 운영은 차량 등록·인증·부정사용... ",
 			"pubDate":"Wed, 31 Dec 2025 21:24:00 +0900"
-		},
-		{
-			"title":"유정복 인천시장, 2026년 신년사 통해 체감복지·교통혁명·경제도시 가...",
-			"originallink":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=24801",
-			"link":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=24801",
-			"description":"서울아산<b>청라<\/b>병원 착공이 주요 성과로 언급됐다. 인천 1호선 검단연장선 개통, GTX-B 착공, 인천대로 지하화... 1월 5일 개통되는 제3연륙교를 시작으로 영종·<b>청라<\/b> 주민 통행료 무료화를 단계적으로 확대하고, 인천발 KTX... ",
-			"pubDate":"Wed, 31 Dec 2025 20:22:00 +0900"
 		}
 	]
 }
