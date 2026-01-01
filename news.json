@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Jan 2026 11:50:01 +0900",
-	"total":285042,
+	"lastBuildDate":"Thu, 01 Jan 2026 12:00:01 +0900",
+	"total":285043,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"제3연륙교, 개통 앞두고 '실전급 비상훈련'",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2376718",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2376718",
+			"description":"한편 제3연륙교는 중구 중산동과 서구 <b>청라<\/b>동을 잇는 총연장 4.68㎞, 왕복 6차로 교량으로, 2026년 1월 5일 오후 2시 개통된다. 전면 무인 스마트톨링 시스템을 도입해 통행 편의를 높였으며, 투신 방지시설과 동절기 결빙... ",
+			"pubDate":"Thu, 01 Jan 2026 11:50:00 +0900"
+		},
 		{
 			"title":"[2026 건설사 기술대전①] '로봇·자동화'로 진화하는 현장, 안전성 높인...",
 			"originallink":"https:\/\/www.ntoday.co.kr\/news\/articleView.html?idxno=123604",
@@ -117,17 +124,17 @@
 			"pubDate":"Thu, 01 Jan 2026 07:02:00 +0900"
 		},
 		{
-			"title":"[붉은 말의 해] 2026년 인천, 어떻게 달라질까?",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=461301",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=461301",
-			"description":"오는 5일 영종과 <b>청라<\/b>를 직접 잇는 새 다리, 제3연륙교가 개통합니다. 통행료는 기존 인천대교의 절반 수준인 2천 원이며, 4월부터는 인천 시민이라면 누구나 무료로 이용할 수 있습니다. 특히 고속도로가 아닌... ",
-			"pubDate":"Thu, 01 Jan 2026 07:00:00 +0900"
-		},
-		{
 			"title":"[2026년 폐기물 직매립 금지시대] ① 불안정한 공공소각, 커지는 민간 의...",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=461315",
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=461315",
 			"description":"북부권은 서구에 <b>청라<\/b>소각장이 운영되고 있으나 과거 인천시와 서구가 맺은 협약에 따라 올해까지만 운영한... 공공소각시설인 수도권매립지와 송도·<b>청라<\/b>소각시설에 생활폐기물을 직매립하면 처리 비용은 각각 1톤당... ",
+			"pubDate":"Thu, 01 Jan 2026 07:00:00 +0900"
+		},
+		{
+			"title":"[붉은 말의 해] 2026년 인천, 어떻게 달라질까?",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=461301",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=461301",
+			"description":"오는 5일 영종과 <b>청라<\/b>를 직접 잇는 새 다리, 제3연륙교가 개통합니다. 통행료는 기존 인천대교의 절반 수준인 2천 원이며, 4월부터는 인천 시민이라면 누구나 무료로 이용할 수 있습니다. 특히 고속도로가 아닌... ",
 			"pubDate":"Thu, 01 Jan 2026 07:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002294758?sid=100",
 			"description":"그래서 <b>청라<\/b>인과 명라인의 후보자들로 지금 3명 중에서 누가 2명을 선점할 것이냐 이런 사실은 이야기들이 회자되고 있기는 한데요. 실제로 아직까지는 대통령 임기 첫해입니다. 그렇기 때문에 1년차로서의 대통령을 잘... ",
 			"pubDate":"Wed, 31 Dec 2025 22:21:00 +0900"
-		},
-		{
-			"title":"유정복 시장, 2026 신년사 병오년 앞두고 새로운 성과와 도약 출발 알려",
-			"originallink":"https:\/\/www.g-enews.com\/view.php?ud=2025123120170742679ae5042aca_1",
-			"link":"https:\/\/www.g-enews.com\/view.php?ud=2025123120170742679ae5042aca_1",
-			"description":"인천시는 개통과 동시에 영종·<b>청라<\/b> 주민 무료화를 적용하고, 2026년 3월 말까지 감면시스템 구축을 완료해 인천시민 전체로 무료 통행을 확대한다는 계획이다. 하이패스 기반 감면 운영은 차량 등록·인증·부정사용... ",
-			"pubDate":"Wed, 31 Dec 2025 21:24:00 +0900"
 		}
 	]
 }
