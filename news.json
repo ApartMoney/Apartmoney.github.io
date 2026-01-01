@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Jan 2026 20:20:01 +0900",
-	"total":285071,
+	"lastBuildDate":"Thu, 01 Jan 2026 20:30:01 +0900",
+	"total":285072,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[새해 인천] '천원 시리즈' 확대·2군 9구로",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1509172",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1509172",
+			"description":"영종·<b>청라<\/b> 주민의 통행료 무료화를 시작으로 인천시민 전체로 혜택을 확대할 계획입니다. 인천발 KTX도 연말 개통 예정입니다. 수인선 송도역에서 출발해 경기 화성시에서 KTX 경부선과 연결됩니다. OBS 뉴스... ",
+			"pubDate":"Thu, 01 Jan 2026 20:20:00 +0900"
+		},
 		{
 			"title":"[신년사] 유정복 인천광역시장",
 			"originallink":"https:\/\/www.kukinews.com\/article\/view\/kuk202601010072",
@@ -89,17 +96,17 @@
 			"pubDate":"Thu, 01 Jan 2026 14:59:00 +0900"
 		},
 		{
-			"title":"병오년, 300만 인천시민의 소망은",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1313409",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1313409",
-			"description":"인천 서구 <b>청라<\/b>동에 거주하는 최정은(36·여)씨와 남편 안혁원(44)씨 부부가 자연 분만으로 얻은 3.49㎏의... 서구 <b>청라<\/b>동에서 부모님과 함께 온 박준영(12)군은 &quot;새해를 맞아 올해에는 영어와 과학을 더 많이 배우고 싶다... ",
-			"pubDate":"Thu, 01 Jan 2026 14:56:00 +0900"
-		},
-		{
 			"title":"인천경제청, 지난해 외국인직접투자 '7.9억달러' 유치...최근 6년 중 '최...",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1217629",
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1217629",
 			"description":"1일 인천경제청에 따르면 작년 송도·영종·<b>청라<\/b>국제도시 등 인천경제자유구역의 FDI 누적 신고액은 7억9천만 달러(지난해 12월 29일 기준 잠정치)이다. 이는 2020년부터 최근 6년 동안 인천경제자유구역 FDI 신고액... ",
+			"pubDate":"Thu, 01 Jan 2026 14:56:00 +0900"
+		},
+		{
+			"title":"병오년, 300만 인천시민의 소망은",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1313409",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1313409",
+			"description":"인천 서구 <b>청라<\/b>동에 거주하는 최정은(36·여)씨와 남편 안혁원(44)씨 부부가 자연 분만으로 얻은 3.49㎏의... 서구 <b>청라<\/b>동에서 부모님과 함께 온 박준영(12)군은 &quot;새해를 맞아 올해에는 영어와 과학을 더 많이 배우고 싶다... ",
 			"pubDate":"Thu, 01 Jan 2026 14:56:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2376718",
 			"description":"한편 제3연륙교는 중구 중산동과 서구 <b>청라<\/b>동을 잇는 총연장 4.68㎞, 왕복 6차로 교량으로, 2026년 1월 5일 오후 2시 개통된다. 전면 무인 스마트톨링 시스템을 도입해 통행 편의를 높였으며, 투신 방지시설과 동절기 결빙... ",
 			"pubDate":"Thu, 01 Jan 2026 11:50:00 +0900"
-		},
-		{
-			"title":"[2026 건설사 기술대전①] '로봇·자동화'로 진화하는 현장, 안전성 높인...",
-			"originallink":"https:\/\/www.ntoday.co.kr\/news\/articleView.html?idxno=123604",
-			"link":"https:\/\/www.ntoday.co.kr\/news\/articleView.html?idxno=123604",
-			"description":"이 로봇은 지난 9월 현대건설 인천 <b>청라<\/b> 하나드림타운 현장에서 처음 실증됐다. 로봇에는 ▲3D 영상 기반 팔레트 형상·피킹홀 인식 ▲SLAM 기반 자율주행 ▲운반 작업 관리·로봇 관제 ▲자동 도킹(충전) 기능 등이... ",
-			"pubDate":"Thu, 01 Jan 2026 11:36:00 +0900"
 		}
 	]
 }
