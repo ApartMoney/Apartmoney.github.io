@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Jan 2026 22:10:00 +0900",
-	"total":285073,
+	"lastBuildDate":"Thu, 01 Jan 2026 22:20:00 +0900",
+	"total":285074,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시·경제청, 제3연륙교 개통 준비 ‘만전’",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1767248646&code=11131411&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001823663?sid=102",
+			"description":"인천경제자유구역 영종국제도시(중구 중산동)와 <b>청라<\/b>국제도시(서구 <b>청라<\/b>동)를 잇는 제3연륙교의 개통이 임박했다. 인천경제자유구역청은 제3연륙교 개통 사흘 전인 2일 교량 일대에서 비상 상황 대비 합동 훈련을... ",
+			"pubDate":"Thu, 01 Jan 2026 22:15:00 +0900"
+		},
 		{
 			"title":"에스에스오트론, 창립 20주년 기념행사 성료",
 			"originallink":"https:\/\/www.ppss.kr\/news\/articleView.html?idxno=280927",
@@ -166,17 +173,17 @@
 			"pubDate":"Thu, 01 Jan 2026 13:08:00 +0900"
 		},
 		{
-			"title":"유정복 &quot;마부정제(馬不停蹄)의 각오로 오직 인천의 미래만 생각하며 뛰...",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20260101125035048",
-			"link":"https:\/\/www.ajunews.com\/view\/20260101125035048",
-			"description":"송도세브란스병원의 본격 추진과 서울아산<b>청라<\/b>병원의 착공은 인천의 미래 의료환경을 획기적으로 변화시킬... 이 다리가 인천의 새로운 경제 동맥이 될 수 있도록 영종·<b>청라<\/b> 주민의 통행료 무료화를 시작으로 인천시민... ",
-			"pubDate":"Thu, 01 Jan 2026 13:02:00 +0900"
-		},
-		{
 			"title":"[신년사]유정복 인천시장, “마부정제 각오로 새해 힘차게 달리겠다”",
 			"originallink":"https:\/\/biz.heraldcorp.com\/article\/10647118?ref=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002579726?sid=100",
 			"description":"송도세브란스병원의 본격 추진과 서울아산<b>청라<\/b>병원의 착공은 인천의 미래 의료환경을 획기적으로 변화시킬... 1월 5일 제3연륙교가 드디어 개통됩니다.이 다리가 인천의 새로운 경제 동맥이 될 수 있도록영종·<b>청라<\/b>... ",
+			"pubDate":"Thu, 01 Jan 2026 13:02:00 +0900"
+		},
+		{
+			"title":"유정복 &quot;마부정제(馬不停蹄)의 각오로 오직 인천의 미래만 생각하며 뛰...",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20260101125035048",
+			"link":"https:\/\/www.ajunews.com\/view\/20260101125035048",
+			"description":"송도세브란스병원의 본격 추진과 서울아산<b>청라<\/b>병원의 착공은 인천의 미래 의료환경을 획기적으로 변화시킬... 이 다리가 인천의 새로운 경제 동맥이 될 수 있도록 영종·<b>청라<\/b> 주민의 통행료 무료화를 시작으로 인천시민... ",
 			"pubDate":"Thu, 01 Jan 2026 13:02:00 +0900"
 		},
 		{
@@ -194,13 +201,6 @@
 			"pubDate":"Thu, 01 Jan 2026 12:24:00 +0900"
 		},
 		{
-			"title":"인천시 유정복 시장, &quot;인천, 3년 평균 경제성장률 1위…제2의 경제도시...",
-			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20251231500153",
-			"link":"http:\/\/www.metroseoul.co.kr\/article\/20251231500153",
-			"description":"송도세브란스병원 추진과 서울아산<b>청라<\/b>병원 착공으로 의료 인프라 확충도 본격화됐다. 인천 1호선 검단연장선 개통, GTX-B 착공, 인천대로 지하화 사업 착공 등 광역 교통망 구축도 속도를 내고 있다. 인천시는 2026년을... ",
-			"pubDate":"Thu, 01 Jan 2026 12:12:00 +0900"
-		},
-		{
 			"title":"인천경제청, 제3연륙교 개통 준비에 만전...비상 상황 대비 합동 훈련 실...",
 			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=505738",
 			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=505738",
@@ -208,11 +208,11 @@
 			"pubDate":"Thu, 01 Jan 2026 12:12:00 +0900"
 		},
 		{
-			"title":"[신년사] 강범석 서구청장 &quot;서해구·검단구 출범···광역교통망 확충...",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=313192",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=313192",
-			"description":"교통 분야에서는 인천1호선 검단 연장선 개통, 서울7호선 <b>청라<\/b> 연장선 사업 승인, 서부권광역급행철도(GTX-D) 예비타당성조사 통과 등을 주요 성과로 꼽았다. 특히 제3연륙교는 1월 5일 개통을 앞두고 있어 <b>청라<\/b>와 영종을... ",
-			"pubDate":"Thu, 01 Jan 2026 12:00:00 +0900"
+			"title":"인천시 유정복 시장, &quot;인천, 3년 평균 경제성장률 1위…제2의 경제도시...",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20251231500153",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20251231500153",
+			"description":"송도세브란스병원 추진과 서울아산<b>청라<\/b>병원 착공으로 의료 인프라 확충도 본격화됐다. 인천 1호선 검단연장선 개통, GTX-B 착공, 인천대로 지하화 사업 착공 등 광역 교통망 구축도 속도를 내고 있다. 인천시는 2026년을... ",
+			"pubDate":"Thu, 01 Jan 2026 12:12:00 +0900"
 		}
 	]
 }
