@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 01 Jan 2026 17:20:01 +0900",
-	"total":285067,
+	"lastBuildDate":"Thu, 01 Jan 2026 17:30:01 +0900",
+	"total":285068,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[2026 신년특집] 인천시 새해 달라지는 정책",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3008732",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3008732",
+			"description":"◆ 세 번째 해상교량 제3연륙교 개통 인천 영종도와 <b>청라<\/b>국제도시를 잇는 세 번째 해상교량인 제3연륙교가 1월 5일 개통된다. 제3연륙교가 개통되면 영종과 <b>청라<\/b>가 하나의 생활권으로 연결되면서 이동 편의성이 크게... ",
+			"pubDate":"Thu, 01 Jan 2026 17:22:00 +0900"
+		},
 		{
 			"title":"강범석 인천 서구청장 &quot;서해구·검단구, 새로운 미래 연다&quot;[신년사]",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260101_0003462244",
@@ -61,17 +68,17 @@
 			"pubDate":"Thu, 01 Jan 2026 14:59:00 +0900"
 		},
 		{
-			"title":"병오년, 300만 인천시민의 소망은",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1313409",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1313409",
-			"description":"인천 서구 <b>청라<\/b>동에 거주하는 최정은(36·여)씨와 남편 안혁원(44)씨 부부가 자연 분만으로 얻은 3.49㎏의... 서구 <b>청라<\/b>동에서 부모님과 함께 온 박준영(12)군은 &quot;새해를 맞아 올해에는 영어와 과학을 더 많이 배우고 싶다... ",
-			"pubDate":"Thu, 01 Jan 2026 14:56:00 +0900"
-		},
-		{
 			"title":"인천경제청, 지난해 외국인직접투자 '7.9억달러' 유치...최근 6년 중 '최...",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1217629",
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1217629",
 			"description":"1일 인천경제청에 따르면 작년 송도·영종·<b>청라<\/b>국제도시 등 인천경제자유구역의 FDI 누적 신고액은 7억9천만 달러(지난해 12월 29일 기준 잠정치)이다. 이는 2020년부터 최근 6년 동안 인천경제자유구역 FDI 신고액... ",
+			"pubDate":"Thu, 01 Jan 2026 14:56:00 +0900"
+		},
+		{
+			"title":"병오년, 300만 인천시민의 소망은",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1313409",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1313409",
+			"description":"인천 서구 <b>청라<\/b>동에 거주하는 최정은(36·여)씨와 남편 안혁원(44)씨 부부가 자연 분만으로 얻은 3.49㎏의... 서구 <b>청라<\/b>동에서 부모님과 함께 온 박준영(12)군은 &quot;새해를 맞아 올해에는 영어와 과학을 더 많이 배우고 싶다... ",
 			"pubDate":"Thu, 01 Jan 2026 14:56:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.asiatoday.co.kr\/view.php?key=20260101010000122",
 			"description":"&quot;- 올해 초 개통예정인 제3연륙교 무료화 추진상황과 향후 일정은 &quot;제3연륙교는 영종과 <b>청라<\/b> 주민들, 그리고... 제3연륙교는 올해 1월 개통과 동시에 영종·<b>청라<\/b> 주민들은 통행료를 무료화하고, 3월 말까지 통행료 무료화... ",
 			"pubDate":"Thu, 01 Jan 2026 11:06:00 +0900"
-		},
-		{
-			"title":"인천경제청, 제3연륙교 개통 준비… 비상 상황 대비 합동 훈련 실시",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2171693",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2171693",
-			"description":"제3연륙교는 중구 중산동과 서구 <b>청라<\/b>동을 연결하는 총연장 4.68㎞에 폭 30m 왕복 6차로 교량으로 오는 5일 오후 2시 개통 예정이다. 전면 무인 스마트톨링 시스템을 도입해 운전자 편의성을 높였다. 또 주탑 양쪽에 높이 2.5m... ",
-			"pubDate":"Thu, 01 Jan 2026 11:00:00 +0900"
 		}
 	]
 }
