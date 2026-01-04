@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 05 Jan 2026 07:30:01 +0900",
-	"total":285602,
+	"lastBuildDate":"Mon, 05 Jan 2026 07:40:01 +0900",
+	"total":285603,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 경제뉴스] 10년 새 사교육비 총액 60% 급증…초등 1인당 44만원,...",
+			"originallink":"https:\/\/www.newsverse.kr\/news\/articleView.html?idxno=9327",
+			"link":"https:\/\/www.newsverse.kr\/news\/articleView.html?idxno=9327",
+			"description":"인천 영종도와 <b>청라<\/b>국제도시를 연결하는 총연장 4.68㎞에 폭 30m 왕복 6차로 해상교량인 '인천 제3연륙교'가 5일 오후 2시에 개통된다. 3월부터 운영하는 인천 제3연륙교 전망대는 해발 184m 높이로 영국 기네스가... ",
+			"pubDate":"Mon, 05 Jan 2026 07:38:00 +0900"
+		},
 		{
 			"title":"[2025 리그테이블] [M&amp;A법률자문] 초격차 벌린 김앤장…2위 광장 더블스...",
 			"originallink":"https:\/\/dealsite.co.kr\/articles\/154237",
@@ -194,13 +201,6 @@
 			"pubDate":"Sun, 04 Jan 2026 21:02:00 +0900"
 		},
 		{
-			"title":"인천공항 가는 3번째 다리 '제3연륙교' 개통식…1월 5일 통행 시작",
-			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/6028002",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0008694877?sid=102",
-			"description":"<b>청라<\/b>와 영종에 마련된 시민 관람 공간에서는 많은 시민들이 인천의 밤바다를 밝히는 조명과 밤하늘에... 개통과 동시에 영종, <b>청라<\/b>, 옹진군 북도면 주민들은 사전 등록된 차량에 한해 무료로 도로를 이용할 수 있으며... ",
-			"pubDate":"Sun, 04 Jan 2026 20:49:00 +0900"
-		},
-		{
 			"title":"신년사로 본 4대 금융 회장들의 경영 화두 “생산적 금융과 인공지능 전...",
 			"originallink":"https:\/\/sports.donga.com\/economy\/article\/all\/20260104\/133086216\/1",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/382\/0001245839?sid=101",
@@ -208,11 +208,11 @@
 			"pubDate":"Sun, 04 Jan 2026 20:49:00 +0900"
 		},
 		{
-			"title":"인천시, 국비 7.5조 원 확보… 역대 최대 기록 경신",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=624639",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=624639",
-			"description":"주요 반영 사업으로는 ▲인천발 KTX(1,142억 원) ▲수도권광역급행철도(GTX-B)(3,095억 원) ▲서울도시철도 7호선 <b>청라<\/b> 연장(1,405억 원) ▲서해5도 종합발전지원(107억 원) ▲공단고가교~서인천IC 혼잡 개선(161억 원) 등이... ",
-			"pubDate":"Sun, 04 Jan 2026 20:42:00 +0900"
+			"title":"인천공항 가는 3번째 다리 '제3연륙교' 개통식…1월 5일 통행 시작",
+			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/6028002",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0008694877?sid=102",
+			"description":"<b>청라<\/b>와 영종에 마련된 시민 관람 공간에서는 많은 시민들이 인천의 밤바다를 밝히는 조명과 밤하늘에... 개통과 동시에 영종, <b>청라<\/b>, 옹진군 북도면 주민들은 사전 등록된 차량에 한해 무료로 도로를 이용할 수 있으며... ",
+			"pubDate":"Sun, 04 Jan 2026 20:49:00 +0900"
 		}
 	]
 }
