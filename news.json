@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Jan 2026 04:30:01 +0900",
-	"total":285662,
+	"lastBuildDate":"Wed, 07 Jan 2026 04:40:01 +0900",
+	"total":285663,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천 外",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20260106\/133104272\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003687378?sid=102",
+			"description":"13∼16일 오전 10시∼낮 12시 <b>청라<\/b>국제도서관 제1다목적실. 부천 □만들기 교실=초등학교 4∼6학년생 대상 ‘목공 벤치 책 선반 만들기’ 참가자 15명. 21일 오전 10시 반∼낮 12시 역곡도서관 문화강좌실.... ",
+			"pubDate":"Wed, 07 Jan 2026 04:33:00 +0900"
+		},
 		{
 			"title":"인천, 75세 이상 대중교통비 무임 '실버패스' 시행",
 			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=287595",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1313778",
 			"description":"중구 중산동과 서구 <b>청라<\/b>동을 잇는 제3연륙교는 4일 개통 기념행사를 열고 5일 오후 2시 정식 개통했다. 요금은 소형차 2000원, 중형차 3400원, 대형차 4400원 등이다. 중구 영종·서구 <b>청라<\/b>·옹진군 북도면 지역 주민은 소유한... ",
 			"pubDate":"Tue, 06 Jan 2026 15:26:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>의 새로운 꿈을 위하여",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3009157",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3009157",
-			"description":"기호일보, KIHOILBO <b>청라<\/b>국제도시는 본래 바다였던 곳을 1970년대 후반 박정희 정부에서 식량증산을 위한... 것이고 <b>청라<\/b>라는 이름은 그 곳에 있는 작은 섬인 <b>청라<\/b>도에서 유래한다. 그 후 1980년대까지 농업용지로... ",
-			"pubDate":"Tue, 06 Jan 2026 15:20:00 +0900"
 		}
 	]
 }
