@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Jan 2026 08:40:01 +0900",
-	"total":285672,
+	"lastBuildDate":"Wed, 07 Jan 2026 08:50:01 +0900",
+	"total":285673,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;고양이 키우면 이사해라&quot;...인천 오피스텔 공지 논란",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202601070844455155",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002297193?sid=102",
+			"description":"6일 소셜미디어(SNS)에 따르면 인천시 서구 <b>청라<\/b>국제도시 한 오피스텔 관리실은 지난달 열린 입주민 총회에서 고양이, 페럿, 토끼, 너구리 등을 사육 금지한다고 공지했다. 관리실은 &quot;고양이류를 키우는 세대는 인덕션 안전... ",
+			"pubDate":"Wed, 07 Jan 2026 08:44:00 +0900"
+		},
 		{
 			"title":"인천 서구 스타필드<b>청라<\/b> 공정률 35%··· 2028년 개장 '순항'",
 			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=313451",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=724608",
 			"description":"하나은행은 <b>청라<\/b>의료복합타운 사업에 금융 주선사로 참여한 것은 기업 금융 확대에 속도를 낸 대표적 사례로 꼽힌다. <b>청라<\/b>의료복합타운은 <b>청라<\/b>의료복합타운은 종합병원 및 의료 바이오 관련 산업·학문·연구 시설 등을... ",
 			"pubDate":"Tue, 06 Jan 2026 18:02:00 +0900"
-		},
-		{
-			"title":"&quot;하나은행 선수들과 큰 무대에 올라 마지막 경기가 농구 인생에서 최고...",
-			"originallink":"https:\/\/www.sportalkorea.com\/news\/articleView.html?idxno=2025052909552875749",
-			"link":"https:\/\/m.sports.naver.com\/basketball\/article\/139\/0002240038",
-			"description":"지난 5일 인천 서구 <b>청라<\/b> 글로벌 캠퍼스에서 만난 김정은은 &quot;사실 지난 2023년 봄, 하나은행에 다시 왔을 때 2년은 덤이라고 생각했다&quot;며 &quot;계약을 2년 했는데 딱 2년 동안 선수 생활을 하고 은퇴하려고 했는데 지난 시즌... ",
-			"pubDate":"Tue, 06 Jan 2026 18:00:00 +0900"
 		}
 	]
 }
