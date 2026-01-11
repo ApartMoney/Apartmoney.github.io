@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 11 Jan 2026 23:40:01 +0900",
-	"total":285951,
+	"lastBuildDate":"Sun, 11 Jan 2026 23:50:01 +0900",
+	"total":285952,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 하나은행",
+			"originallink":"https:\/\/www.mydaily.co.kr\/page\/view\/2026011123411592674",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/117\/0004025448?sid=103",
+			"description":"김윤범 △<b>청라<\/b>금융센터 김인철 △경주금융센터 김재익 △수서역 김재정 △송파헬리오시티 김정기 △검단신도시 김정섭 △현대모터금융센터 김제형 △구미 김종식 △역삼중앙 김주현 △정관 김지헌 △하계역 김지훈... ",
+			"pubDate":"Sun, 11 Jan 2026 23:42:00 +0900"
+		},
 		{
 			"title":"[인사] 하나은행",
 			"originallink":"https:\/\/www.apnews.kr\/news\/articleView.html?idxno=3044657",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=449325",
 			"description":"김윤범 △<b>청라<\/b>금융센터 김인철 △경주금융센터 김재익 △수서역 김재정 △송파헬리오시티 김정기 △검단신도시 김정섭 △현대모터금융센터 김제형 △구미 김종식 △역삼중앙 김주현 △정관 김지헌 △하계역 김지훈... ",
 			"pubDate":"Sun, 11 Jan 2026 15:20:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행 부장 등 전보",
-			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2104828",
-			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2104828",
-			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
-			"pubDate":"Sun, 11 Jan 2026 15:06:00 +0900"
 		}
 	]
 }
