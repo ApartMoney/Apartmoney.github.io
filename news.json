@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Sun, 11 Jan 2026 15:00:01 +0900",
-	"total":285917,
+	"lastBuildDate":"Sun, 11 Jan 2026 15:10:01 +0900",
+	"total":285921,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 하나은행 부장 등 전보",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2104828",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2104828",
+			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
+			"pubDate":"Sun, 11 Jan 2026 15:06:00 +0900"
+		},
+		{
+			"title":"고향사랑 <b>청라<\/b>사랑을 실천하는 의전장학회",
+			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=885814",
+			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=885814",
+			"description":"충남 보령시 <b>청라<\/b>중학교(교장 양희진) 동문들로 구성된 재단법인 의전장학회(이사장 김종성)는 지난 1월 8일까지 <b>청라<\/b>면내 3개 초등학교(<b>청라<\/b>초, 청보초, 옥계초) 졸업생 총 23명에 대한 장학금 전달식을 갖고 고향사랑을... ",
+			"pubDate":"Sun, 11 Jan 2026 15:04:00 +0900"
+		},
+		{
+			"title":"[인사] 하나은행",
+			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=725195",
+			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=725195",
+			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
+			"pubDate":"Sun, 11 Jan 2026 15:04:00 +0900"
+		},
+		{
+			"title":"회복세 올라선 인천 부동산… 연수구 '활기 체감'·서구 '체감 아직'",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363714036",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363714036",
+			"description":"반면 서구는 <b>청라<\/b>동과 마전동을 중심으로 아파트 매매·전세가가 올해 들어 소폭 오름세를 보였지만, 현장에서 체감하는 분위기는 냉랭하다. 한국부동산원의 같은 조사에 따르면 서구의 아파트 매매가 변동률은... ",
+			"pubDate":"Sun, 11 Jan 2026 15:02:00 +0900"
+		},
 		{
 			"title":"[인사] 하나은행",
 			"originallink":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=109360",
@@ -47,17 +75,17 @@
 			"pubDate":"Sun, 11 Jan 2026 14:08:00 +0900"
 		},
 		{
-			"title":"인천 아파트값, 새해 첫 주 수도권서 유일하게 상승폭 확대",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1314181",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1314181",
-			"description":"연수구가 0.09% 상승하며 동춘·옥련동 위주로 오름세를 보였고, 서구도 <b>청라<\/b>·마전동 등 정주여건이 양호한 단지를 중심으로 0.09% 상승했다. 남동구(0.05%), 계양구(0.02%), 중구(0.01%) 등도 소폭 상승했다. 경기는... ",
-			"pubDate":"Sun, 11 Jan 2026 13:46:00 +0900"
-		},
-		{
 			"title":"[인사] 하나은행",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2175874",
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2175874",
 			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
+			"pubDate":"Sun, 11 Jan 2026 13:46:00 +0900"
+		},
+		{
+			"title":"인천 아파트값, 새해 첫 주 수도권서 유일하게 상승폭 확대",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1314181",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1314181",
+			"description":"연수구가 0.09% 상승하며 동춘·옥련동 위주로 오름세를 보였고, 서구도 <b>청라<\/b>·마전동 등 정주여건이 양호한 단지를 중심으로 0.09% 상승했다. 남동구(0.05%), 계양구(0.02%), 중구(0.01%) 등도 소폭 상승했다. 경기는... ",
 			"pubDate":"Sun, 11 Jan 2026 13:46:00 +0900"
 		},
 		{
@@ -89,16 +117,16 @@
 			"pubDate":"Sun, 11 Jan 2026 12:58:00 +0900"
 		},
 		{
-			"title":"[인사] 하나은행, 전 부문 대상 200명 대규모 인사 단행",
-			"originallink":"https:\/\/www.pointe.co.kr\/news\/articleView.html?idxno=67815",
-			"link":"https:\/\/www.pointe.co.kr\/news\/articleView.html?idxno=67815",
+			"title":"[인사] 하나은행",
+			"originallink":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=4016775",
+			"link":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=4016775",
 			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
 			"pubDate":"Sun, 11 Jan 2026 12:56:00 +0900"
 		},
 		{
-			"title":"[인사] 하나은행",
-			"originallink":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=4016775",
-			"link":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=4016775",
+			"title":"[인사] 하나은행, 전 부문 대상 200명 대규모 인사 단행",
+			"originallink":"https:\/\/www.pointe.co.kr\/news\/articleView.html?idxno=67815",
+			"link":"https:\/\/www.pointe.co.kr\/news\/articleView.html?idxno=67815",
 			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
 			"pubDate":"Sun, 11 Jan 2026 12:56:00 +0900"
 		},
@@ -111,15 +139,15 @@
 		},
 		{
 			"title":"[인사] 하나은행",
-			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=347079",
-			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=347079",
+			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=416062",
+			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=416062",
 			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
 			"pubDate":"Sun, 11 Jan 2026 12:46:00 +0900"
 		},
 		{
 			"title":"[인사] 하나은행",
-			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=416062",
-			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=416062",
+			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=347079",
+			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=347079",
 			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
 			"pubDate":"Sun, 11 Jan 2026 12:46:00 +0900"
 		},
@@ -146,15 +174,15 @@
 		},
 		{
 			"title":"[인사] 하나은행",
-			"originallink":"http:\/\/www.segyebiz.com\/newsView\/20260111505098?OutUrl=naver",
-			"link":"http:\/\/www.segyebiz.com\/newsView\/20260111505098?OutUrl=naver",
+			"originallink":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=89823",
+			"link":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=89823",
 			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
 			"pubDate":"Sun, 11 Jan 2026 12:24:00 +0900"
 		},
 		{
 			"title":"[인사] 하나은행",
-			"originallink":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=89823",
-			"link":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=89823",
+			"originallink":"http:\/\/www.segyebiz.com\/newsView\/20260111505098?OutUrl=naver",
+			"link":"http:\/\/www.segyebiz.com\/newsView\/20260111505098?OutUrl=naver",
 			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
 			"pubDate":"Sun, 11 Jan 2026 12:24:00 +0900"
 		},
@@ -185,34 +213,6 @@
 			"link":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=301361",
 			"description":"김윤범 <b>청라<\/b>금융센터 김인철 경주금융센터 김재익 수서역 김재정 송파헬리오시티 김정기 검단신도시 김정섭 현대모터금융센터 김제형 구미 김종식 역삼중앙 김주현 정관 김지헌 하계역 김지훈 반포금융센터 김진... ",
 			"pubDate":"Sun, 11 Jan 2026 12:02:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행",
-			"originallink":"https:\/\/www.socialvalue.kr\/news\/view\/1065581639703020",
-			"link":"https:\/\/www.socialvalue.kr\/news\/view\/1065581639703020",
-			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
-			"pubDate":"Sun, 11 Jan 2026 11:56:00 +0900"
-		},
-		{
-			"title":"[하나은행 人事] 고규연 자금결제부 부장 外",
-			"originallink":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2026\/01\/11\/2026011100051.html",
-			"link":"https:\/\/biz.newdaily.co.kr\/site\/data\/html\/2026\/01\/11\/2026011100051.html",
-			"description":"김윤범 △<b>청라<\/b>금융센터 김인철 △경주금융센터 김재익 △수서역 김재정 △송파헬리오시티 김정기 △검단신도시 김정섭 △현대모터금융센터 김제형 △구미 김종식 △역삼중앙 김주현 △정관 김지헌 △하계역 김지훈... ",
-			"pubDate":"Sun, 11 Jan 2026 11:48:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행",
-			"originallink":"https:\/\/www.ngetnews.com\/news\/articleView.html?idxno=545219",
-			"link":"https:\/\/www.ngetnews.com\/news\/articleView.html?idxno=545219",
-			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
-			"pubDate":"Sun, 11 Jan 2026 11:26:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행",
-			"originallink":"https:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=120941",
-			"link":"https:\/\/www.lcnews.co.kr\/news\/articleView.html?idxno=120941",
-			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
-			"pubDate":"Sun, 11 Jan 2026 11:18:00 +0900"
 		}
 	]
 }
