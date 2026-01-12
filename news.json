@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 12 Jan 2026 11:00:01 +0900",
-	"total":286029,
+	"lastBuildDate":"Mon, 12 Jan 2026 11:10:01 +0900",
+	"total":286032,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 생활폐기물 처리 '이상무'…공공·민간 소각 병행으로 안정성 ...",
+			"originallink":"https:\/\/news.tf.co.kr\/read\/national\/2281141.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000461495?sid=102",
+			"description":"인천시는 비상사태 발생 시에도 공공소각시설 저장조 여유 물량을 최대한 확보하고, 송도·<b>청라<\/b> 소각시설 간 교차 반입을 추진하는 한편, 공공소각시설 가동일 수 확대 등을 통해 안정적인 처리가 가능하도록 대응할... ",
+			"pubDate":"Mon, 12 Jan 2026 11:07:00 +0900"
+		},
+		{
+			"title":"인천 서구 강범석 구청장 새해 맞아 15일부터 각 동 소통 행보",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=433181",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=433181",
+			"description":"4권역(<b>청라<\/b>1·2·3동) <b>청라<\/b>2동 행정복지센터 ▲22일 5권역(석남1·석남2·석남3동, 가좌1·가좌2·가좌3·가좌4동) 서구노인복지관 순으로 진행된다. 이번 방문 인사에서는 사전 제출받은 주민 건의사항에 대한 추진 경과... ",
+			"pubDate":"Mon, 12 Jan 2026 11:04:00 +0900"
+		},
+		{
+			"title":"'생활 폐기물 직매립 금지'⋯인천시, 처리 &quot;이상 없음&quot;",
+			"originallink":"http:\/\/www.inews24.com\/view\/1926700",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0000996061?sid=102",
+			"description":"시는 비상사태 발생 시 공공 소각 시설 저장조 여유 물량을 최대한 확보하고 송도·<b>청라<\/b> 소각 시설 간 교차 반입을 추진할 방침이다. 공공 소각 시설 가동 일수 확대 등 안정적인 처리가 가능하도록 대응할 계획이다.... ",
+			"pubDate":"Mon, 12 Jan 2026 11:00:00 +0900"
+		},
 		{
 			"title":"“괜한 걱정이었네”…인천 생활 쓰레기 직매립 금지 ‘연락륙’",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/11929938",
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.hg-times.com\/news\/articleView.html?idxno=278743",
 			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
 			"pubDate":"Mon, 12 Jan 2026 10:14:00 +0900"
-		},
-		{
-			"title":"인천시, 생활폐기물 직매립 금지에도 폐기물 처리‘이상없음’",
-			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202601121005411269d94aa4ada6_12",
-			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202601121005411269d94aa4ada6_12",
-			"description":"인천시는 비상사태 발생 시에도 공공소각시설 저장조 여유 물량을 최대한 확보하고, 송도·<b>청라<\/b> 소각시설 간 교차 반입을 추진하는 한편, 공공소각시설 가동일수 확대 등을 통해 안정적인 처리가 가능하도록 대응할... ",
-			"pubDate":"Mon, 12 Jan 2026 10:12:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행",
-			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/1109083",
-			"link":"https:\/\/www.wikitree.co.kr\/articles\/1109083",
-			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
-			"pubDate":"Mon, 12 Jan 2026 10:10:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행",
-			"originallink":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=119262",
-			"link":"http:\/\/www.newscape.co.kr\/news\/articleView.html?idxno=119262",
-			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
-			"pubDate":"Mon, 12 Jan 2026 10:10:00 +0900"
 		}
 	]
 }
