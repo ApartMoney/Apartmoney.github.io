@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 12 Jan 2026 15:10:01 +0900",
-	"total":286068,
+	"lastBuildDate":"Mon, 12 Jan 2026 15:20:01 +0900",
+	"total":286070,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"유정복표 '매립 제로' 전환… 인천, 직매립 금지 이후 폐기물 처리 안정",
+			"originallink":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=25112",
+			"link":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=25112",
+			"description":"공공소각시설 저장조의 여유 물량을 최대한 확보하고, 송도·<b>청라<\/b> 소각시설 간 교차 반입을 추진하는 한편, 필요 시 공공소각시설 가동일수 확대를 통해 생활폐기물 처리에 차질이 없도록 할 방침이다. 정승환 인천시... ",
+			"pubDate":"Mon, 12 Jan 2026 15:18:00 +0900"
+		},
 		{
 			"title":"강범석 서구청장, 새해 첫 방문인사",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1314270",
@@ -24,6 +31,13 @@
 			"link":"https:\/\/www.tfmedia.co.kr\/news\/article.html?no=200196",
 			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
 			"pubDate":"Mon, 12 Jan 2026 15:00:00 +0900"
+		},
+		{
+			"title":"오늘의 인사-해수부, 관세청, 하나은행 외",
+			"originallink":"https:\/\/www.khan.co.kr\/article\/202601121459001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003420903?sid=102",
+			"description":"김윤범 △<b>청라<\/b>금융센터 김인철 △경주금융센터 김재익 △수서역 김재정 △송파헬리오시티 김정기 △검단신도시 김정섭 △현대모터금융센터 김제형 △구미 김종식 △역삼중앙 김주현 △정관 김지헌 △하계역 김지훈... ",
+			"pubDate":"Mon, 12 Jan 2026 14:59:00 +0900"
 		},
 		{
 			"title":"인천시, 수도권 생활폐기물 직매립 금지 시행...생활폐기물 처리 안정적",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=485026",
 			"description":"너티차일드 <b>청라<\/b>점 — 즐거움 가득한 프리미엄 실내 놀이터 인천 서구 <b>청라<\/b>동의 너티차일드 <b>청라<\/b>점은 아이들을 위한 프리미엄 실내 놀이터다. 오랜 운영 경험을 바탕으로 조성된 이곳은 다양한 놀이시설과 고급 자재로... ",
 			"pubDate":"Mon, 12 Jan 2026 11:54:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행",
-			"originallink":"https:\/\/www.tfmedia.co.kr\/news\/article.html?no=200173",
-			"link":"https:\/\/www.tfmedia.co.kr\/news\/article.html?no=200173",
-			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
-			"pubDate":"Mon, 12 Jan 2026 11:44:00 +0900"
-		},
-		{
-			"title":"[인사] 하나은행, 부장·지점장급 인사 단행",
-			"originallink":"https:\/\/www.100ssd.co.kr\/news\/articleView.html?idxno=204916",
-			"link":"https:\/\/www.100ssd.co.kr\/news\/articleView.html?idxno=204916",
-			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
-			"pubDate":"Mon, 12 Jan 2026 11:40:00 +0900"
 		}
 	]
 }
