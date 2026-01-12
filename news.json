@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 13 Jan 2026 06:00:01 +0900",
-	"total":286105,
+	"lastBuildDate":"Tue, 13 Jan 2026 06:10:01 +0900",
+	"total":286106,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"수도권 3곳, 쓰레기 매립 할당 지켰다",
+			"originallink":"https:\/\/www.segye.com\/newsView\/20260112518035?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0004097147?sid=102",
+			"description":"인천의 경우 송도·<b>청라<\/b> 공공소각장에서 상당수 태우고 있으며, 10% 정도를 민간시설에서 담당하고 있다. 이달 1∼8일 공공 6568t(89%), 민간업체에서 861t(11%)이 각각 처리됐다.",
+			"pubDate":"Tue, 13 Jan 2026 06:04:00 +0900"
+		},
 		{
 			"title":"[오늘의 주요일정]인천·김포·부천(1월13일 화요일)",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260112_0003473198",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1314278",
 			"description":"▲ 최한수 <b>청라<\/b>아파트 입주자대표 회장단 연합회장. \/사진=본인제공 &quot;주민 목소리가 행정에 제대로 전달되는 통로가 되길 바랍니다.&quot; 최한수(59) <b>청라<\/b>아파트 입주자대표 회장단 연합회장은 <b>청라<\/b>국제도시 각 아파트 단지의... ",
 			"pubDate":"Mon, 12 Jan 2026 15:56:00 +0900"
-		},
-		{
-			"title":"인천 강화군, 연간 3200톤 ‘생활 폐기물’…“충북 청주에서 처리”",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1597236\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0003047288?sid=102",
-			"description":"강화군은 공공 소각시설인 <b>청라<\/b> 소각장과 민간 소각장을 함께 활용하면서 생활폐기물 발생 추이에 따라 민간업체와 추가 계약을 추진하기로 했다. 강화군은 지난해 수도권매립지에 반입한 생활폐기물이 768t에 불과해... ",
-			"pubDate":"Mon, 12 Jan 2026 15:48:00 +0900"
 		}
 	]
 }
