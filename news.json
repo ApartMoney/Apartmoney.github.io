@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Wed, 14 Jan 2026 15:50:01 +0900",
-	"total":286436,
+	"lastBuildDate":"Wed, 14 Jan 2026 16:00:01 +0900",
+	"total":286442,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 소방본부, 강풍·한파로 사흘 동안 95건 구조 구급",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8458845&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0012104897?sid=102",
+			"description":"어제(13일) 오전 8시 12분쯤에는 인천시 서구 <b>청라<\/b>동 건설 현장에서 대형 크레인이 넘어지면서 1명이 다쳐 병원 치료를 받았습니다. 또, 어제 오전 10시 26분쯤 인천시 서구 원당동 주택가의 오르막길이 빙판으로... ",
+			"pubDate":"Wed, 14 Jan 2026 15:57:00 +0900"
+		},
+		{
+			"title":"인천시, 카자흐스탄에 신도시 개발·운영 경험 등 공유",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8458844&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0012104896?sid=102",
+			"description":"특히, 인천시는 송도·영종·<b>청라<\/b> 등 인천 경제자유구역 개발 배경과 추진 경과를 비롯해 외국인 투자 유치 여건, 정주 환경 조성, 도시 관리 방식 등을 설명했습니다. 카스피안 그룹 측은 대규모 신도시 조성에 필요한 법... ",
+			"pubDate":"Wed, 14 Jan 2026 15:56:00 +0900"
+		},
+		{
+			"title":"인천시교육청, 신설학교 8교 명칭 공모",
+			"originallink":"https:\/\/www.lecturernews.com\/news\/articleView.html?idxno=194784",
+			"link":"https:\/\/www.lecturernews.com\/news\/articleView.html?idxno=194784",
+			"description":"명칭을 공모하는 신설교는 ▲연수구 (가칭)아라5유치원, (가칭)아라5초, (가칭)해양2중, (가칭)첨단1고, (가칭)해양3고 ▲미추홀구 (가칭)용현학익유치원, (가칭)용현학익1초 ▲서구 (가칭)<b>청라<\/b>4고로 총 8교이며, 이 중... ",
+			"pubDate":"Wed, 14 Jan 2026 15:56:00 +0900"
+		},
+		{
+			"title":"인천광역시, 카자흐스탄 알라타우 신도시 개발사업 추진 그룹 회장과 면...",
+			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=258457",
+			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=258457",
+			"description":"이날 인천시는 송도·영종·<b>청라<\/b> 등 인천경제자유구역의 개발 배경과 추진 경과를 비롯해 외국인 투자 유치... 이러한 4대 지구(G4) 개발 구상은 송도·영종·<b>청라<\/b>로 대표되는 인천경제자유구역의 핵심 거점별 기능 특화... ",
+			"pubDate":"Wed, 14 Jan 2026 15:54:00 +0900"
+		},
+		{
+			"title":"국가지명위 '제3연륙교 명칭' 심의 종료…이르면 주내 발표",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260114_0003476935",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013710845?sid=102",
+			"description":"결정된 <b>청라<\/b>하늘대교로 명칭이 정해져야 할 필요성을 설명하는 방식으로 진행됐다. 국가지명위는 결정... 앞서 시는 지난해 7월 시 지명위원회를 개최해 제3연륙교의 명칭을 <b>청라<\/b>하늘대교로 선정했지만, 중구와 서구... ",
+			"pubDate":"Wed, 14 Jan 2026 15:51:00 +0900"
+		},
+		{
+			"title":"인천시, 카자흐스탄에 경제자유구역 등 도시개발 기술 전수…해외 공유...",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20260114000897",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20260114000897",
+			"description":"인천시는 이날 카스피안 그룹 관계자들에게 송도·영종·<b>청라<\/b> 등 인천경제자유구역 개발 배경과 추진 경과를 비롯해 외국인 투자 유치 여건, 정주 환경 조성, 도시 관리 방식 등을 설명했다. 카스피안 그룹 측은 대규모... ",
+			"pubDate":"Wed, 14 Jan 2026 15:49:00 +0900"
+		},
 		{
 			"title":"인천시, 카자흐스탄에 도시개발·운영 노하우 전수",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=881241",
@@ -171,48 +213,6 @@
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3010042",
 			"description":"의료·문화 분야와 관련해서는 &quot;송도세브란스병원은 현재 골조 공사가 진행 중이고 <b>청라<\/b>에는 카이스트와 하버드 의학연구소가 참여하는 800병상 규모의 아산병원이 들어설 예정&quot;이라며 &quot;인천 의료 환경의 획기적인... ",
 			"pubDate":"Wed, 14 Jan 2026 11:34:00 +0900"
-		},
-		{
-			"title":"'방탄 진 닮은꼴' 류진 아들, 버클리 음대 합격했다…현대판 '맹모삼천...",
-			"originallink":"https:\/\/www.tenasia.co.kr\/article\/2026011496884",
-			"link":"https:\/\/m.entertain.naver.com\/article\/312\/0000744263",
-			"description":"인천 송도에 거주하던 류진 가족은 둘째 아들의 교육을 위해 현재는 인천 <b>청라<\/b>에서 지내고 있는 것으로 알려졌다. 한편 1972년생으로 올해 53세인 류진은 2006년 비연예인 이혜선 씨와 결혼해 2007년 찬형 군과 2010년 찬호... ",
-			"pubDate":"Wed, 14 Jan 2026 11:31:00 +0900"
-		},
-		{
-			"title":"유정복 시장, 카자흐 카스피안 그룹과 면담…&quot;인천-알라타우, 도시 발전...",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=688387",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=688387",
-			"description":"이날 인천시는 송도·영종·<b>청라<\/b> 등 인천경제자유구역의 개발 배경과 추진 경과를 비롯해 외국인 투자 유치... 이러한 4대 지구(G4) 개발 구상은 송도·영종·<b>청라<\/b>로 대표되는 인천경제자유구역의 핵심 거점별 기능 특화... ",
-			"pubDate":"Wed, 14 Jan 2026 11:30:00 +0900"
-		},
-		{
-			"title":"천경제자유구역 개발 노하우, 카자흐 신도시에 전수",
-			"originallink":"https:\/\/www.sedaily.com\/NewsView\/2K7ASE8TDC",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004578544?sid=102",
-			"description":"인천경제자유구역은 송도가 비즈니스·IT·BT, 영종이 물류·관광, <b>청라<\/b>가 금융·레저를 맡는다. 알라타우 시티도 금융·비즈니스, 의료·교육, 산업·물류, 관광·레저 등 4개 특화 지구로 나눠 개발 중이다. 토카예프... ",
-			"pubDate":"Wed, 14 Jan 2026 11:26:00 +0900"
-		},
-		{
-			"title":"크레인 넘어지고 곳곳 빙판길…인천서 사흘간 95건 구조구급 출동",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260114074700065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015846118?sid=102",
-			"description":"전날 오전 8시 12분께 인천시 서구 <b>청라<\/b>동 건설 현장에서 대형 크레인이 넘어지면서 1명이 다쳐 병원 치료를 받았다. 또 같은 날 오전 10시 26분께 서구 원당동 주택가 일대 오르막길이 빙판으로 변했다는 신고가 들어와... ",
-			"pubDate":"Wed, 14 Jan 2026 11:18:00 +0900"
-		},
-		{
-			"title":"인천시, 카자흐스탄 알라타우 신도시 개발 관계자와 면담",
-			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=669213",
-			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=669213",
-			"description":"인천시는 송도·영종·<b>청라<\/b>로 구성된 인천경제자유구역의 개발 배경과 추진 경과를 설명하고, 외국인 투자... 이러한 기능별 특화 개발 구상은 송도·영종·<b>청라<\/b>를 핵심 거점으로 조성한 인천경제자유구역의 전략과... ",
-			"pubDate":"Wed, 14 Jan 2026 11:08:00 +0900"
-		},
-		{
-			"title":"인천시, 카자흐스탄 알라타우 신도시 개발 관련 카스피안 그룹 회장단 ...",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=433267",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=433267",
-			"description":"이날 인천시는 송도·영종·<b>청라<\/b> 등 인천경제자유구역의 개발 배경과 추진 경과를 비롯해 외국인 투자 유치... 이러한 4대 지구(G4) 개발 구상은 송도·영종·<b>청라<\/b>로 대표되는 인천경제자유구역의 핵심 거점별 기능 특화... ",
-			"pubDate":"Wed, 14 Jan 2026 11:04:00 +0900"
 		}
 	]
 }
