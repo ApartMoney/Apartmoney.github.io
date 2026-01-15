@@ -1,18 +1,11 @@
 {
-	"lastBuildDate":"Thu, 15 Jan 2026 17:10:01 +0900",
+	"lastBuildDate":"Thu, 15 Jan 2026 17:20:01 +0900",
 	"total":286622,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"유정복 인천시장, 환경공단 방문서… 환경·안전 현안 점검",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3010329",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3010329",
-			"description":"아울러 공단은 지난 2022년과 2006년 준공한 자원순환시설(<b>청라<\/b>·송도)의 노후화에 따른 시설교체 등을 위한 예산 47억 원을 추경에 반영 요청했다. 유정복 시장은&quot;수도권매립지 생활폐기물 직매립 금지 시행과 기후위기... ",
-			"pubDate":"Thu, 15 Jan 2026 17:08:00 +0900"
-		},
-		{
-			"title":"새해 인천 집값 연수구가 견인하나... 상승률 0.09→0.19% 껑충",
+			"title":"인천 아파트 매매가 15주 연속 상승세",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=115069",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=115069",
 			"description":"서구는 0.23%에서 0.17%로 오름폭이 둔화했지만 <b>청라<\/b>·마전동을 중심으로 인천에서 가장 높은 상승률을 이어갔다. 연수구는 선학·청학동 선호단지 위주로 지난주와 같이 0.16% 올랐고, 남동구는 간석·서창동... ",
@@ -23,6 +16,13 @@
 			"originallink":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202601121556003680102863",
 			"link":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202601121556003680102863",
 			"description":"방배서래, 광화문, 수원, <b>청라<\/b>, 대전 등 주요 금융센터의 지점장들이 대거 교체됐고, 해당 지역의 고객군 특성과 채널 포지션에 따라 경험자 중심의 배치가 이뤄진 모습이다. 단순 창구 중심 운영에서 상담과 컨설팅... ",
+			"pubDate":"Thu, 15 Jan 2026 17:08:00 +0900"
+		},
+		{
+			"title":"유정복 인천시장, 환경공단 방문서… 환경·안전 현안 점검",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3010329",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3010329",
+			"description":"아울러 공단은 지난 2022년과 2006년 준공한 자원순환시설(<b>청라<\/b>·송도)의 노후화에 따른 시설교체 등을 위한 예산 47억 원을 추경에 반영 요청했다. 유정복 시장은&quot;수도권매립지 생활폐기물 직매립 금지 시행과 기후위기... ",
 			"pubDate":"Thu, 15 Jan 2026 17:08:00 +0900"
 		},
 		{
@@ -61,17 +61,17 @@
 			"pubDate":"Thu, 15 Jan 2026 16:42:00 +0900"
 		},
 		{
-			"title":"제3연륙교 명칭 ‘<b>청라<\/b>하늘대교’ 최종 확정...인천시민 뜻 반영, 서구와...",
-			"originallink":"http:\/\/www.breaknews.com\/1176935",
-			"link":"http:\/\/www.breaknews.com\/1176935",
-			"description":"반영된 ‘<b>청라<\/b>하늘대교’로 확정됐다고 밝혔다. 서구에 따르면,  서구 <b>청라<\/b>동과 중구 중산동을 연결하는 제3연륙교의 명칭은 지난해 7월과 11월 두 차례의 인천시... ",
-			"pubDate":"Thu, 15 Jan 2026 16:34:00 +0900"
-		},
-		{
 			"title":"국가지명위, 제3연륙교 공식 명칭‘<b>청라<\/b>하늘대교’최종 확정",
 			"originallink":"http:\/\/www.breaknews.com\/1176934",
 			"link":"http:\/\/www.breaknews.com\/1176934",
 			"description":"명칭으로 '<b>청라<\/b>하늘대교'가 최종 결정됐다고 밝혔다. 인천시에 따르면, 앞서 인천시 지명위원회는 지난해 11월 12일 제3연륙교의 명칭을 ‘<b>청라<\/b>하늘대교’로... ",
+			"pubDate":"Thu, 15 Jan 2026 16:34:00 +0900"
+		},
+		{
+			"title":"제3연륙교 명칭 ‘<b>청라<\/b>하늘대교’ 최종 확정...인천시민 뜻 반영, 서구와...",
+			"originallink":"http:\/\/www.breaknews.com\/1176935",
+			"link":"http:\/\/www.breaknews.com\/1176935",
+			"description":"반영된 ‘<b>청라<\/b>하늘대교’로 확정됐다고 밝혔다. 서구에 따르면,  서구 <b>청라<\/b>동과 중구 중산동을 연결하는 제3연륙교의 명칭은 지난해 7월과 11월 두 차례의 인천시... ",
 			"pubDate":"Thu, 15 Jan 2026 16:34:00 +0900"
 		},
 		{
@@ -180,17 +180,17 @@
 			"pubDate":"Thu, 15 Jan 2026 15:46:00 +0900"
 		},
 		{
-			"title":"'매년 투타 2명씩 1군 전력으로'…SSG, <b>청라<\/b>돔 시대 육성 청사진",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260115129400007?input=1195m",
-			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/001\/0015849712",
-			"description":"워크숍에는 박정권 퓨처스 감독과 박재상 육성군 총괄 코치를 비롯한 2군 코치진과 프런트가 참석해 '<b>청라<\/b>돔 시대'를 대비한 육성 시스템 구축을 논의했다. SSG는 매년 1군 즉시 전력감 투수와 타자를 2명씩... ",
-			"pubDate":"Thu, 15 Jan 2026 15:36:00 +0900"
-		},
-		{
 			"title":"리본카, 가족 구성원별 중고차 모델 제안...&quot;사회초년생부터 반려동물 ...",
 			"originallink":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=486304",
 			"link":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=486304",
 			"description":"|중앙이코노미뉴스 송태원 기자|리본카 <b>청라<\/b>지점에서 고객이 중고차 전문 세일즈매니저에게 상담을 받고... 이에 리본카가 <b>청라<\/b>지점 서민수 세일즈매니저의 실제 상담 사례를 기반으로, 고객 문의가 많은 가족 유형별... ",
+			"pubDate":"Thu, 15 Jan 2026 15:36:00 +0900"
+		},
+		{
+			"title":"'매년 투타 2명씩 1군 전력으로'…SSG, <b>청라<\/b>돔 시대 육성 청사진",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260115129400007?input=1195m",
+			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/001\/0015849712",
+			"description":"워크숍에는 박정권 퓨처스 감독과 박재상 육성군 총괄 코치를 비롯한 2군 코치진과 프런트가 참석해 '<b>청라<\/b>돔 시대'를 대비한 육성 시스템 구축을 논의했다. SSG는 매년 1군 즉시 전력감 투수와 타자를 2명씩... ",
 			"pubDate":"Thu, 15 Jan 2026 15:36:00 +0900"
 		},
 		{
