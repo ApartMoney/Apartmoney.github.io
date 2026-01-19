@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 19 Jan 2026 21:00:00 +0900",
-	"total":286789,
+	"lastBuildDate":"Mon, 19 Jan 2026 21:10:01 +0900",
+	"total":286790,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시의회, 루원시티 개발 지연에 강력 조치 촉구",
+			"originallink":"https:\/\/www.viva100.com\/article\/20260119501523",
+			"link":"https:\/\/www.viva100.com\/article\/20260119501523",
+			"description":"이 자리에는 시 도시개발과, LH <b>청라<\/b>영종사업본부, 용역사 등이 참석했다. 루원시티 중심상업 3·4용지는 당초 랜드마크 기능의 초고층 빌딩 등 앵커시설이 들어설 계획이었으나, 사업성 부족으로 개발이 장기간 지연돼... ",
+			"pubDate":"Mon, 19 Jan 2026 21:02:00 +0900"
+		},
 		{
 			"title":"인천시의회, 루원시티 중심상업 3·4용지 개발 업무보고",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3484476",
@@ -89,13 +96,6 @@
 			"pubDate":"Mon, 19 Jan 2026 17:14:00 +0900"
 		},
 		{
-			"title":"유정복 시장, 시 산하 기관 찾아 현장 소통 강화",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3010663",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3010663",
-			"description":"이어 인천시설공단은 '인천 시민의 행복한 삶을 위한 효율적 시설 운영'을 목표로, <b>청라<\/b>하늘대교 개통에 따른 시설 안전성 확보와 직영 전환을 통한 체계적 관리, 신규 조성 시설의 안정적 운영, 디지털 기반 재난 대응... ",
-			"pubDate":"Mon, 19 Jan 2026 17:02:00 +0900"
-		},
-		{
 			"title":"김교흥·이용우, &quot;인천 서구 방위식 명칭 변경 법안 절차 속도 내겠다&quot;",
 			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=314111",
 			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=314111",
@@ -103,17 +103,24 @@
 			"pubDate":"Mon, 19 Jan 2026 17:02:00 +0900"
 		},
 		{
-			"title":"서구·인천관광公, 관광 활성화 업무협약 체결",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=881604",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=881604",
-			"description":"뿐만 아니라 향후 <b>청라<\/b> 스타필드 공연장 개관도 앞두고 있는 만큼 관람 수요가 늘어날 것으로 구는 전망한다. 이에 관광공사와의 협력을 통해 공연 관람객들의 이동 및 소비 패턴 등 데이터를 분석하고, 이를 기반으로 관광... ",
-			"pubDate":"Mon, 19 Jan 2026 16:40:00 +0900"
+			"title":"유정복 시장, 시 산하 기관 찾아 현장 소통 강화",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3010663",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3010663",
+			"description":"이어 인천시설공단은 '인천 시민의 행복한 삶을 위한 효율적 시설 운영'을 목표로, <b>청라<\/b>하늘대교 개통에 따른 시설 안전성 확보와 직영 전환을 통한 체계적 관리, 신규 조성 시설의 안정적 운영, 디지털 기반 재난 대응... ",
+			"pubDate":"Mon, 19 Jan 2026 17:02:00 +0900"
 		},
 		{
 			"title":"인천 서구, '체류형 관광경제' 시동",
 			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2383294",
 			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2383294",
 			"description":"현재 아시아드 주경기장을 중심으로 대규모 공연이 이어지고 있으며, <b>청라<\/b> 스타필드 공연장 개관을 앞두고 관람 수요는 지속적으로 증가할 전망이다. 양 기관은 앞으로 공연 관람객의 이동 동선·체류 시간·소비 패턴 등... ",
+			"pubDate":"Mon, 19 Jan 2026 16:40:00 +0900"
+		},
+		{
+			"title":"서구·인천관광公, 관광 활성화 업무협약 체결",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=881604",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=881604",
+			"description":"뿐만 아니라 향후 <b>청라<\/b> 스타필드 공연장 개관도 앞두고 있는 만큼 관람 수요가 늘어날 것으로 구는 전망한다. 이에 관광공사와의 협력을 통해 공연 관람객들의 이동 및 소비 패턴 등 데이터를 분석하고, 이를 기반으로 관광... ",
 			"pubDate":"Mon, 19 Jan 2026 16:40:00 +0900"
 		},
 		{
@@ -173,17 +180,17 @@
 			"pubDate":"Mon, 19 Jan 2026 15:08:00 +0900"
 		},
 		{
-			"title":"현대무벡스 주가, 급등... &quot;현대차 아틀라스 가장 진보한 로봇&quot;",
-			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1136670",
-			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1136670",
-			"description":"자동화 물류 솔루션과 PSD 시스템 설계·제작, 정보시스템 종합 서비스를 제공하고 있다. AGV 등 로봇 및 AI 기술 고도화에 주력하고 있으며, <b>청라<\/b> R&amp;D센터를 통해 물류 핵심 설비 설계 역량과 전문 인력을 확보하고 있다.",
-			"pubDate":"Mon, 19 Jan 2026 15:04:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>하늘대교, 상생과 화합으로 지역 건설경제 견인",
 			"originallink":"http:\/\/kpenews.com\/View.aspx?No=3946766",
 			"link":"http:\/\/kpenews.com\/View.aspx?No=3946766",
 			"description":"한국정경신문 박용일 기­자 yong68333@naver.com [한국정경신문(인천)=박용일 기자] 인천경제자유구역청은 <b>청라<\/b>... 기대된다.<b>청라<\/b>측 공사는 포스코이앤씨 중심 컨소시엄이 맡아 인천 지역업체 8곳과 함께 시공했다. 지역... ",
+			"pubDate":"Mon, 19 Jan 2026 15:04:00 +0900"
+		},
+		{
+			"title":"현대무벡스 주가, 급등... &quot;현대차 아틀라스 가장 진보한 로봇&quot;",
+			"originallink":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1136670",
+			"link":"https:\/\/www.ggilbo.com\/news\/articleView.html?idxno=1136670",
+			"description":"자동화 물류 솔루션과 PSD 시스템 설계·제작, 정보시스템 종합 서비스를 제공하고 있다. AGV 등 로봇 및 AI 기술 고도화에 주력하고 있으며, <b>청라<\/b> R&amp;D센터를 통해 물류 핵심 설비 설계 역량과 전문 인력을 확보하고 있다.",
 			"pubDate":"Mon, 19 Jan 2026 15:04:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=126909",
 			"description":"현재 서구에서는 아시아드 주경기장을 중심으로 다양한 공연이 열리고 있고, 향후 <b>청라<\/b> 스타필드 공연장 개관도 앞두고 있어 관람 수요가 점차 확대될 것으로 전망된다. 이에 서구와 인천관광공사는 공연 관람객의 이동... ",
 			"pubDate":"Mon, 19 Jan 2026 14:58:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>하늘대교에 지역업체 신기술·특허공법 적용",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=881642",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=881642",
-			"description":"고내구 방수 공법·신축이음 장치 등으로 안전 강화 인천경제자유구역청은 지난 5일 개통한 제3연륙교 ’<b>청라<\/b>하늘대교‘에 인천 건설업체가 보유한 신기술 및 특허공법을 적용했다고 19일 밝혔다. <b>청라<\/b> 방면은 염분이 많은... ",
-			"pubDate":"Mon, 19 Jan 2026 14:50:00 +0900"
 		}
 	]
 }
