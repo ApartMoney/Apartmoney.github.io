@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 23 Jan 2026 08:00:01 +0900",
-	"total":287237,
+	"lastBuildDate":"Fri, 23 Jan 2026 08:10:01 +0900",
+	"total":287238,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전국 주요 신문 톱뉴스](23일 조간)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260123016100505?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015862809?sid=102",
+			"description":"기호일보 = <b>청라<\/b>시티타워 비행 안전성 해소… 당초 높이 448m로 올린다 ▲ 신아일보 = 정청래 합당 제안에 조국 &quot;국민 뜻 경청&quot; ▲ 인천일보 = 상위기관 외교부 뒷짐 재외동포청 논란 키워 ▲ 일간경기 = '도로 밑 전력망... ",
+			"pubDate":"Fri, 23 Jan 2026 08:00:00 +0900"
+		},
 		{
 			"title":"SK증권, 인천 <b>청라<\/b> '아이콘 시티' 개발 PF 주관",
 			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=726753",
@@ -138,17 +145,17 @@
 			"pubDate":"Thu, 22 Jan 2026 19:34:00 +0900"
 		},
 		{
-			"title":"김교흥 &quot;위대한 인천 만들 것&quot; 시장 출마",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3011123",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3011123",
-			"description":"그러면서 &quot;불가능하다는 말 앞에서도 결과로 증명해왔다&quot;며 인천고등법원 유치와 <b>청라<\/b>하늘대교 개통, 서울지하철 7호선 연장, 인천대로·경인고속도로 지하화 추진, GTX 노선 확대 등을 자신의 의정 성과로 내세웠다.... ",
-			"pubDate":"Thu, 22 Jan 2026 19:34:00 +0900"
-		},
-		{
 			"title":"인천·영종대교 통행료 내렸다더니 통합채산제로 30년 더 받기 꼼수?",
 			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3011119",
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3011119",
 			"description":"기호일보, KIHOILBO <b>청라<\/b>하늘대교가 인천 내륙과 영종을 잇는 새 길을 열면서 인천대교·영종대교 통행료 논쟁이 다시 불붙고 있다. 영종국제도시총연합회와 영종을 사랑하는 시민모임은 22일 오전 국회에서 기자회견을... ",
+			"pubDate":"Thu, 22 Jan 2026 19:34:00 +0900"
+		},
+		{
+			"title":"김교흥 &quot;위대한 인천 만들 것&quot; 시장 출마",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3011123",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3011123",
+			"description":"그러면서 &quot;불가능하다는 말 앞에서도 결과로 증명해왔다&quot;며 인천고등법원 유치와 <b>청라<\/b>하늘대교 개통, 서울지하철 7호선 연장, 인천대로·경인고속도로 지하화 추진, GTX 노선 확대 등을 자신의 의정 성과로 내세웠다.... ",
 			"pubDate":"Thu, 22 Jan 2026 19:34:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005308315?sid=101",
 			"description":"빵백화점은 오는 2026년 2월 인천 <b>청라<\/b>에 첫 가맹 매장 오픈을 앞두고 있으며, 수도권 핵심 상권을 중심으로 가맹 출점을 단계적으로 확대할 계획이다. 빵백화점의 가맹사업 확대는 직영점 중심으로 운영해 온 기존 체계를... ",
 			"pubDate":"Thu, 22 Jan 2026 18:21:00 +0900"
-		},
-		{
-			"title":"SK증권, 인천 '<b>청라<\/b> 아이콘 시티' 투자구조·PF 주관",
-			"originallink":"https:\/\/www.meconomynews.com\/news\/articleView.html?idxno=126619",
-			"link":"https:\/\/www.meconomynews.com\/news\/articleView.html?idxno=126619",
-			"description":"<b>청라<\/b>국제도시 내 문화·관광지 조성 글로벌 K-콘텐츠 거점 조성 본격화 숙박·라이브뮤지엄·공연장 등... 째)가 '<b>청라<\/b> I-CON City' 개발사업 관련 회의를 마친 후 기념사진을 촬영하고 있다. 사진=SK증권 SK증권이 문화... ",
-			"pubDate":"Thu, 22 Jan 2026 18:16:00 +0900"
 		}
 	]
 }
