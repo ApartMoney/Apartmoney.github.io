@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 23 Jan 2026 14:40:01 +0900",
-	"total":287253,
+	"lastBuildDate":"Fri, 23 Jan 2026 14:50:01 +0900",
+	"total":287255,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구 가볼 만한 곳, 겨울 바다와 도시의 풍경",
+			"originallink":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=489236",
+			"link":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=489236",
+			"description":"고쉐프의 신선한 초밥 — 엄선된 재료로 맛을 낸 초밥 전문점 인천 서구 <b>청라<\/b>동에 위치한 고쉐프의 신선한... <b>청라<\/b>호수공원 — 다채로운 테마의 친수 공간 인천 서구 <b>청라<\/b>동의 <b>청라<\/b>호수공원은 에코존, 전통존, 레저존... ",
+			"pubDate":"Fri, 23 Jan 2026 14:46:00 +0900"
+		},
+		{
+			"title":"국제스케이트장 공모 조만간 시작할 듯",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1315389",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1315389",
+			"description":"▲ <b>청라<\/b> 국제스케이트장 가상 조감도 \/자료제공=서구 1년 넘게 중단된 국제스케이트장 공모 사업이 조만간 재개될 것으로 예상된다. 공모 절차 등을 감안할 때 빠르면 6·3 지방선거 직후 건립 지역이 확정될 것으로... ",
+			"pubDate":"Fri, 23 Jan 2026 14:42:00 +0900"
+		},
 		{
 			"title":"인천 서구 핵심 산업거점 <b>청라<\/b>IHP, 경제인협회 출범으로 공동 대응 나선...",
 			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=858508",
@@ -145,13 +159,6 @@
 			"pubDate":"Fri, 23 Jan 2026 00:27:00 +0900"
 		},
 		{
-			"title":"'생활체육 프로그램 위탁강사'…인천시설공단, 시간제 기간제 4명 선발",
-			"originallink":"https:\/\/www.public25.com\/news\/articleView.html?idxno=38075",
-			"link":"https:\/\/www.public25.com\/news\/articleView.html?idxno=38075",
-			"description":"인천시설공단은 2002년 3월 설립된 시설운영 전문 공기업으로, 아시아드주경기장과 삼산월드체육관 등 체육시설, 청소년수련관과 어린이과학관 등 문화시설, 송도·영종·<b>청라<\/b> 공원시설과 인천가족공원, 지하도상가... ",
-			"pubDate":"Fri, 23 Jan 2026 00:24:00 +0900"
-		},
-		{
 			"title":"'인천시설공단 주차팀 기간제 7명 채용'…시간제 근무에 1200만원 이상 보...",
 			"originallink":"https:\/\/www.public25.com\/news\/articleView.html?idxno=38074",
 			"link":"https:\/\/www.public25.com\/news\/articleView.html?idxno=38074",
@@ -159,17 +166,24 @@
 			"pubDate":"Fri, 23 Jan 2026 00:24:00 +0900"
 		},
 		{
-			"title":"'청소년상담 전담인력 채용'…인천 서구시설관리공단 무기계약직 2명 모...",
-			"originallink":"https:\/\/www.public25.com\/news\/articleView.html?idxno=38071",
-			"link":"https:\/\/www.public25.com\/news\/articleView.html?idxno=38071",
-			"description":"인천광역시서구시설관리공단은 2000년 11월 설립 이후 검단복지회관, 국민체육센터, <b>청라<\/b>복합문화센터, 청소년수련시설, 장애인직업재활시설, 구립도서관, 노인여가복지시설, 공영주차장, 공원녹지 등을... ",
-			"pubDate":"Fri, 23 Jan 2026 00:22:00 +0900"
+			"title":"'생활체육 프로그램 위탁강사'…인천시설공단, 시간제 기간제 4명 선발",
+			"originallink":"https:\/\/www.public25.com\/news\/articleView.html?idxno=38075",
+			"link":"https:\/\/www.public25.com\/news\/articleView.html?idxno=38075",
+			"description":"인천시설공단은 2002년 3월 설립된 시설운영 전문 공기업으로, 아시아드주경기장과 삼산월드체육관 등 체육시설, 청소년수련관과 어린이과학관 등 문화시설, 송도·영종·<b>청라<\/b> 공원시설과 인천가족공원, 지하도상가... ",
+			"pubDate":"Fri, 23 Jan 2026 00:24:00 +0900"
 		},
 		{
 			"title":"'삼산월드체육관 시간강사 모집'…인천시설공단, 기간제 2명 채용",
 			"originallink":"https:\/\/www.public25.com\/news\/articleView.html?idxno=38068",
 			"link":"https:\/\/www.public25.com\/news\/articleView.html?idxno=38068",
 			"description":"한편 인천시설공단은 2002년 3월 설립된 시설운영 전문 공기업으로, 아시아드주경기장과 삼산월드체육관 등 체육시설을 비롯해 청소년수련관과 어린이과학관 등 문화시설, 송도·영종·<b>청라<\/b> 공원시설과 인천가족공원... ",
+			"pubDate":"Fri, 23 Jan 2026 00:22:00 +0900"
+		},
+		{
+			"title":"'청소년상담 전담인력 채용'…인천 서구시설관리공단 무기계약직 2명 모...",
+			"originallink":"https:\/\/www.public25.com\/news\/articleView.html?idxno=38071",
+			"link":"https:\/\/www.public25.com\/news\/articleView.html?idxno=38071",
+			"description":"인천광역시서구시설관리공단은 2000년 11월 설립 이후 검단복지회관, 국민체육센터, <b>청라<\/b>복합문화센터, 청소년수련시설, 장애인직업재활시설, 구립도서관, 노인여가복지시설, 공영주차장, 공원녹지 등을... ",
 			"pubDate":"Fri, 23 Jan 2026 00:22:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005308346?sid=102",
 			"description":"22일 JTBC '사건반장'에 따르면 제보자 A씨는 이날 오전 차를 타고 인천 송도에서 <b>청라<\/b> 방면으로 출근하던 중이었다. 그런데 터널을 지나던 중 뒤따르던 트럭이 갑자기 다가와 차선을 변경하더니 차량을 들이받기... ",
 			"pubDate":"Thu, 22 Jan 2026 22:50:00 +0900"
-		},
-		{
-			"title":"김교흥 의원, 인천시장 출마 공식 선언...인천을 한국의 메가시티로 만...",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=627177",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=627177",
-			"description":"며 &quot;모두가 불가능하다고 했던 인천고등법원을 유치했고, <b>청라<\/b>하늘대교 개통, 서울7호선 연장, 인천대로 지하화, 경인고속도로 지하화, GTX 노선 확대까지 김교흥의 끈질긴 뚝심과 실천력으로 이뤄냈다.&quot;고 했다. 김 의원은... ",
-			"pubDate":"Thu, 22 Jan 2026 22:18:00 +0900"
-		},
-		{
-			"title":"터널에서 트럭이 10번 충돌…&quot;사고처리 없이 도망간 트럭 신고&quot;",
-			"originallink":"https:\/\/news.jtbc.co.kr\/article\/NB12281455?influxDiv=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/437\/0000474916?sid=102",
-			"description":"제보자에 따르면 이날 오전 인천 송도에서 <b>청라<\/b> 방면으로 출근하던 중 터널을 지나던 상황에서 뒤따르던 트럭이 갑자기 다가와 차선을 변경하더니 차량을 들이받기 시작했습니다. 공개된 영상에는 트럭이 제보자 차량을... ",
-			"pubDate":"Thu, 22 Jan 2026 21:58:00 +0900"
 		}
 	]
 }
