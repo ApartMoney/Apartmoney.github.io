@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 02 Feb 2026 22:00:01 +0900",
-	"total":287898,
+	"lastBuildDate":"Mon, 02 Feb 2026 22:10:00 +0900",
+	"total":287899,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, <b>청라<\/b>하늘대교에서 토지·공간정보 회의 개최",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=628539",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=628539",
+			"description":"<b>청라<\/b>하늘대교 홍보관에서 토지·공간정보 관련 군·구 부서장과 유관기관 관계자들이 함께 회의를 개최하고, 올해 사업 추진계획과 시정 현안을 공유했다. 특히, 이번 회의는 지난 1월 5일 제3연륙교 개통과 1월 14일 <b>청라<\/b>하... ",
+			"pubDate":"Mon, 02 Feb 2026 22:08:00 +0900"
+		},
 		{
 			"title":"김경협 재외동포청장 “재외동포는 국가 전략자산이자 새 성장동력… 인...",
 			"originallink":"https:\/\/www.segye.com\/newsView\/20260202513951?OutUrl=naver",
@@ -194,13 +201,6 @@
 			"pubDate":"Mon, 02 Feb 2026 15:02:00 +0900"
 		},
 		{
-			"title":"서울시, '로봇·특수차량·정예대원'으로 '재난 사각지대' 없앤다",
-			"originallink":"https:\/\/www.mt.co.kr\/policy\/2026\/02\/02\/2026020209101118248",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005312780?sid=102",
-			"description":"2024년 8월 인천 <b>청라<\/b> 지하주차장에서 발생한 전기차 화재를 계기로, 높이 2.3m 수준의 지하주차장에도 진입이 가능한 '저상형 소방차(전고 2.15m)' 4대를 도입했다. 저상형 소방차는 군용차량(소형전술차량 K351)을 특장한... ",
-			"pubDate":"Mon, 02 Feb 2026 15:00:00 +0900"
-		},
-		{
 			"title":"서울 전통시장 화재순찰로봇 확충…군용트럭 소방차량 개조",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260202_0003498546",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013743739?sid=102",
@@ -208,11 +208,11 @@
 			"pubDate":"Mon, 02 Feb 2026 15:00:00 +0900"
 		},
 		{
-			"title":"인천 서구의회, 2026년 첫 임시회 개회",
-			"originallink":"http:\/\/www.breaknews.com\/1181668",
-			"link":"http:\/\/www.breaknews.com\/1181668",
-			"description":"“제3연륙교인 <b>청라<\/b>하늘대교의 개통과 명칭 확정은 서구의 위상을 한 단계 끌어올리는 의미 있는 성과”라며 “<b>청라<\/b>하늘대교가 새롭게 출범할 서해구를 대표하는... ",
-			"pubDate":"Mon, 02 Feb 2026 14:58:00 +0900"
+			"title":"서울시, '로봇·특수차량·정예대원'으로 '재난 사각지대' 없앤다",
+			"originallink":"https:\/\/www.mt.co.kr\/policy\/2026\/02\/02\/2026020209101118248",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005312780?sid=102",
+			"description":"2024년 8월 인천 <b>청라<\/b> 지하주차장에서 발생한 전기차 화재를 계기로, 높이 2.3m 수준의 지하주차장에도 진입이 가능한 '저상형 소방차(전고 2.15m)' 4대를 도입했다. 저상형 소방차는 군용차량(소형전술차량 K351)을 특장한... ",
+			"pubDate":"Mon, 02 Feb 2026 15:00:00 +0900"
 		}
 	]
 }
