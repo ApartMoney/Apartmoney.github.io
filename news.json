@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 03 Feb 2026 10:10:00 +0900",
-	"total":287919,
+	"lastBuildDate":"Tue, 03 Feb 2026 10:20:01 +0900",
+	"total":287920,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인터뷰 전문: 유정복 “시도 통합, 졸속과 부실…사탕발림 납득 못해”...",
+			"originallink":"https:\/\/www.ichannela.com\/news\/main\/news_detailPage.do?publishId=000000512881",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/449\/0000334175?sid=100",
+			"description":"영종도에 있는 세 번째 다리 <b>청라<\/b>하늘대교가 개통이 되었지만 올해 이제 인천발 KTX가 개통을 하고 또 인천은 행정 체제 개편이 완성이 돼서 7월 1일부터 제물포구 등 새로운 구체제가 출범하는데 이런 많은 일들이 금년에... ",
+			"pubDate":"Tue, 03 Feb 2026 10:10:00 +0900"
+		},
 		{
 			"title":"직선형 드라이브인 시스템 갖춘 <b>청라<\/b> SK V1",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202602030944227110360",
@@ -131,17 +138,17 @@
 			"pubDate":"Mon, 02 Feb 2026 23:14:00 +0900"
 		},
 		{
-			"title":"인천시 중구, 하늘대로 일원서 ‘운행차 소음·불법 개조’ 수시 점검",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282919586402",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282919586402",
-			"description":"이번 점검은 최근 ‘<b>청라<\/b>하늘대교’ 개통 이후 운행차 통행량이 증가하면서, 대교와 이어지는 하늘대로 일원을 중심으로 불법 개조 차량 등으로 인한 소음 민원이 지속적으로 발생한 데 따른 것이다. 특히 하늘대로 부근... ",
-			"pubDate":"Mon, 02 Feb 2026 23:06:00 +0900"
-		},
-		{
 			"title":"인천시,‘경인고속도로 지하화’상부도로 청사진 그린다",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160280576980717",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160280576980717",
 			"description":"경인고속도로 지하화 사업은 총사업비 약 1조 3,780억 원이 투입되는 대규모 국책사업으로, <b>청라<\/b>1동에서 신월나들목까지 총연장 15.3km 구간에 진출입로 5개소를 포함한 왕복 4차로 규모의 지하 고속도로를 건설하는... ",
+			"pubDate":"Mon, 02 Feb 2026 23:06:00 +0900"
+		},
+		{
+			"title":"인천시 중구, 하늘대로 일원서 ‘운행차 소음·불법 개조’ 수시 점검",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282919586402",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160282919586402",
+			"description":"이번 점검은 최근 ‘<b>청라<\/b>하늘대교’ 개통 이후 운행차 통행량이 증가하면서, 대교와 이어지는 하늘대로 일원을 중심으로 불법 개조 차량 등으로 인한 소음 민원이 지속적으로 발생한 데 따른 것이다. 특히 하늘대로 부근... ",
 			"pubDate":"Mon, 02 Feb 2026 23:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2026020215562342619",
 			"description":"하나금융그룹은 인천 <b>청라<\/b>국제도시에 '하나드림타운'을 세우고 그룹 본사 기능을 옮기고 있다. 하반기부터 본격화될 이전 작업에는 약 2800명의 임직원이 참여한다. 이는 서울 중심의 과밀화를 해소하고 수도권 내 기능... ",
 			"pubDate":"Mon, 02 Feb 2026 17:06:00 +0900"
-		},
-		{
-			"title":"KB·신한·하나 '탈서울' 추진...직원들 반발 &quot;난 못 가&quot;",
-			"originallink":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=240421",
-			"link":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=240421",
-			"description":"인천 <b>청라<\/b> 신사옥 입주를 반대하는 목소리를 내고 있다. 하나금융그룹은 올해 상반기부터 지주·그룹사 임직원 2800여명 근무지를 명동 본사를 비롯한 서울 등지에서 인천 <b>청라<\/b>국제도시로 옮긴다. 하나금융은 헤드쿼터... ",
-			"pubDate":"Mon, 02 Feb 2026 16:46:00 +0900"
 		}
 	]
 }
