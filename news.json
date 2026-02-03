@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 03 Feb 2026 16:30:01 +0900",
-	"total":287949,
+	"lastBuildDate":"Tue, 03 Feb 2026 16:40:00 +0900",
+	"total":287948,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[OBS 뉴스오늘1] '직원 사망' 경기도의회 국외출장비 의혹",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1512918",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1512918",
+			"description":"이사 갈까&quot;…학부모 '술렁' [질문8] &quot;<b>청라<\/b>는 되고 송도는 안 된다?&quot;…역차별 논란 '의료 오지나 다름없는 파주는 제외?' 반발 복지부 &quot;파주·인천 남부권 의료 취약지 아냐&quot; '입법예고 게시판' 경기·인천 일부 불만 폭주",
+			"pubDate":"Tue, 03 Feb 2026 16:38:00 +0900"
+		},
 		{
 			"title":"서울7호선 <b>청라<\/b> 연장 대비…인천시, 천왕차량사업소 증축 추진",
 			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3012371",
@@ -131,17 +138,17 @@
 			"pubDate":"Tue, 03 Feb 2026 14:16:00 +0900"
 		},
 		{
-			"title":"‘책 올려놓으면 끝’… 인천도서관, 장애인 접근성 높인 자동화 장비 ...",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281551835512",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281551835512",
-			"description":"점자 자판·음성 안내 등 갖춘 스마트 서가 대출·반납 시스템 도입  인천시(시장 유정복) 인천도서관은 장애인을 포함한 모든 이용자의 도서관 접근성과 이용 편의를 높이기 위해 인천도서관과 분관(<b>청라<\/b>호수·<b>청라<\/b>국제... ",
-			"pubDate":"Tue, 03 Feb 2026 14:10:00 +0900"
-		},
-		{
 			"title":"인천시, 설 연휴 앞두고 대규모점포 안전관리 점검",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281365684953",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281365684953",
 			"description":"현장점검 대상은 ▲인스파이어 리조트 ▲이마트 트레이더스 송림점 ▲롯데마트 계양점 ▲<b>청라<\/b>지젤엠 등 4개소로, 소방 분야와 인파 관리 분야로 나누어 유관기관과 합동 점검반을 구성해 점검을 진행한다. 주요 점검... ",
+			"pubDate":"Tue, 03 Feb 2026 14:10:00 +0900"
+		},
+		{
+			"title":"‘책 올려놓으면 끝’… 인천도서관, 장애인 접근성 높인 자동화 장비 ...",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281551835512",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281551835512",
+			"description":"점자 자판·음성 안내 등 갖춘 스마트 서가 대출·반납 시스템 도입  인천시(시장 유정복) 인천도서관은 장애인을 포함한 모든 이용자의 도서관 접근성과 이용 편의를 높이기 위해 인천도서관과 분관(<b>청라<\/b>호수·<b>청라<\/b>국제... ",
 			"pubDate":"Tue, 03 Feb 2026 14:10:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.klnews.co.kr\/news\/articleView.html?idxno=319885",
 			"description":"4분기 물류 투자 규모는 전 분기 대비 약 70% 증가한 2조 1,627억 원을 기록했으며, <b>청라<\/b> 로지스틱스 센터 등 우량 자산을 중심으로 국내외 자본의 투자가 집중됐다. 2025년 4분기 오피스 거래 규모는 약 5조5,921억... ",
 			"pubDate":"Tue, 03 Feb 2026 11:52:00 +0900"
-		},
-		{
-			"title":"인천도서관, 장애인 이용 편의 자동화 장비 설치 완료",
-			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=692831",
-			"link":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=692831",
-			"description":"자동화 장비는 인천도서관을 비롯해 <b>청라<\/b>호수도서관, <b>청라<\/b>국제도서관, 영종하늘도서관, 마전도서관, 송도국제기구도서관 등 총 6개 도서관 자료실에 설치됐다. 주요 장비로는 스마트 서가 대출·반납 시스템과 와이드형... ",
-			"pubDate":"Tue, 03 Feb 2026 11:42:00 +0900"
 		}
 	]
 }
