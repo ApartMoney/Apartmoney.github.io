@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 04 Feb 2026 19:20:00 +0900",
-	"total":288027,
+	"lastBuildDate":"Wed, 04 Feb 2026 19:30:01 +0900",
+	"total":288028,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"한국지엠의 일방통행, 어디까지?",
+			"originallink":"https:\/\/www.laborplus.co.kr\/news\/articleView.html?idxno=40298",
+			"link":"https:\/\/www.laborplus.co.kr\/news\/articleView.html?idxno=40298",
+			"description":"2018년엔 8,100억 원에 달하는 공적 자금이 한국지엠에 투입됐고 인천 <b>청라<\/b>에 위치한 부지를 무상으로 제공받기도 했다&quot;면서 그런데도 한국지엠은 △군산공장 폐쇄 및 연구개발법인 분리(2018년) △AS 물류 및 KD 공장 축소... ",
+			"pubDate":"Wed, 04 Feb 2026 19:18:00 +0900"
+		},
 		{
 			"title":"영종~<b>청라<\/b> 잇는 ‘<b>청라<\/b>하늘대교’… 개통후 주민 생활권도 넓어졌다",
 			"originallink":"https:\/\/www.kyeongin.com\/article\/1758668",
@@ -96,17 +103,17 @@
 			"pubDate":"Wed, 04 Feb 2026 16:48:00 +0900"
 		},
 		{
-			"title":"인천 “30분 생활권”실현 위해 교통축 재편, 환승 혁신, 모빌리티 전환...",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281226164353",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281226164353",
-			"description":"이 연구는 신도시(송도·<b>청라<\/b>·영종·검단 등) 성장과 구도심 쇠퇴가 병행되는 상황에서 인천의 공간구조 불균형이 교통 불편을 심화시켜 ‘1시간 30분 도시’이미지가 고착되어서는 안 된다는 문제의식에서 출발했다.... ",
-			"pubDate":"Wed, 04 Feb 2026 16:46:00 +0900"
-		},
-		{
 			"title":"인천 대중교통 패러다임 '1시간 30분'에서 '30분' 생활권으로 바뀐다",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363716370",
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363716370",
 			"description":"4일 연구원이 발표한 보고서에 따르면, 이번 연구는 송도, <b>청라<\/b>, 영종, 검단 등 신도시의 팽창과 원도심의 쇠퇴가 맞물리며 심화된 교통 문제를 해결하고, '장거리 통근 도시'라는 인천의 이미지를 탈피하는 데 목적을... ",
+			"pubDate":"Wed, 04 Feb 2026 16:46:00 +0900"
+		},
+		{
+			"title":"인천 “30분 생활권”실현 위해 교통축 재편, 환승 혁신, 모빌리티 전환...",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281226164353",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281226164353",
+			"description":"이 연구는 신도시(송도·<b>청라<\/b>·영종·검단 등) 성장과 구도심 쇠퇴가 병행되는 상황에서 인천의 공간구조 불균형이 교통 불편을 심화시켜 ‘1시간 30분 도시’이미지가 고착되어서는 안 된다는 문제의식에서 출발했다.... ",
 			"pubDate":"Wed, 04 Feb 2026 16:46:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20260204010001625",
 			"description":"또 VR을 활용해 소각장·하수처리장 등 접근이 어려운 시설을 체험할 수 있도록 하고, 봄철에는 <b>청라<\/b>사업소 온실과 송도사업소를 방문하는 현장 견학 프로그램도 추진한다. 오는 6월 '환경의 날' 행사에서는 시민 참여형... ",
 			"pubDate":"Wed, 04 Feb 2026 15:20:00 +0900"
-		},
-		{
-			"title":"한창훈 인천경찰청장, <b>청라<\/b>하늘대교 사고 예방 안전점검",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260204_0003502506",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013748922?sid=102",
-			"description":"인천경찰청은 한창훈 청장이 영종국제도시와 <b>청라<\/b>국제도시를 잇는 <b>청라<\/b>하늘대교를 찾아 대교 현황 및 안전사고 예방 대책을 점검했다고 4일 밝혔다. 한 청장은 불법 개조 차량과 일부 오토바이의 과도한 소음으로 주민... ",
-			"pubDate":"Wed, 04 Feb 2026 15:14:00 +0900"
 		}
 	]
 }
