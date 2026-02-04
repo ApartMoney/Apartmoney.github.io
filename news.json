@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 04 Feb 2026 09:30:01 +0900",
-	"total":287968,
+	"lastBuildDate":"Wed, 04 Feb 2026 09:40:00 +0900",
+	"total":287969,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천에는 왜 공공자전거가 없을까?",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=115481",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=115481",
+			"description":"송도·<b>청라<\/b>·영종과 같은 신도시는 비교적 도로 여건이 양호하고 수변 공간이 풍부해 자전거 이용에 유리한 환경을 갖추고 있으며, 도시재생이 진행 중인 원도심에서는 공공자전거가 보행과 대중교통을 연결하는 생활... ",
+			"pubDate":"Wed, 04 Feb 2026 09:30:00 +0900"
+		},
 		{
 			"title":"&quot;영종구 출범 앞두고 '무늬만 자치구' 우려&quot;",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=115477",
@@ -131,17 +138,17 @@
 			"pubDate":"Tue, 03 Feb 2026 17:35:00 +0900"
 		},
 		{
-			"title":"[인사]하나은행",
-			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065597044570517",
-			"link":"https:\/\/idsn.co.kr\/news\/view\/1065597044570517",
-			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
-			"pubDate":"Tue, 03 Feb 2026 17:26:00 +0900"
-		},
-		{
 			"title":"[인사]신용보증기금",
 			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065596961877209",
 			"link":"https:\/\/idsn.co.kr\/news\/view\/1065596961877209",
 			"description":"우병관 ▲ <b>청라<\/b> 임택규 ▲ 시흥 명대일 ▲ 인천스타트업 이창권 ▲ 진주 이홍철 ▲ 울산 박종형 ▲ 김해 김상희 ▲ 통영 이용균 ▲ 양산 김남경 ▲ 녹산 정완섭 ▲ 울산북 천병철 ▲ 해운대 권혁일 ▲ 울산스타트업 박해규... ",
+			"pubDate":"Tue, 03 Feb 2026 17:26:00 +0900"
+		},
+		{
+			"title":"[인사]하나은행",
+			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065597044570517",
+			"link":"https:\/\/idsn.co.kr\/news\/view\/1065597044570517",
+			"description":"김윤범 ▲<b>청라<\/b>금융센터 김인철 ▲경주금융센터 김재익 ▲수서역 김재정 ▲송파헬리오시티 김정기 ▲검단신도시 김정섭 ▲현대모터금융센터 김제형 ▲구미 김종식 ▲역삼중앙 김주현 ▲정관 김지헌 ▲하계역 김지훈... ",
 			"pubDate":"Tue, 03 Feb 2026 17:26:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005313383?sid=101",
 			"description":"<b>청라<\/b> 로지스틱스 센터 등 우량 자산을 중심으로 국내외 자본의 투자가 집중됐다. 최수혜 CBRE 코리아 리서치 총괄 상무는 &quot;지난해 상업용 부동산 시장은 금리 하락 환경 속에서 그간 지연됐던 거래가 재개되며... ",
 			"pubDate":"Tue, 03 Feb 2026 15:23:00 +0900"
-		},
-		{
-			"title":"홍순서, &quot;서해·검단 분구, 인천 서북부 새 중심 연다&quot;",
-			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2390014",
-			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2390014",
-			"description":"돌파하며 대한민국에서 가장 역동적인 자치구로 성장했다. 홍 의원은 <b>청라<\/b>·검단·루원 등 신도시 개발과 교통망 확충, 산업·물류 인프라 집적 성과를 기반으로 &quot;서북권 대전환 시대를 구민과 함께 준비하겠다&quot;고 강조했다.",
-			"pubDate":"Tue, 03 Feb 2026 15:20:00 +0900"
 		}
 	]
 }
