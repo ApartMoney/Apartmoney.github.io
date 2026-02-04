@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 05 Feb 2026 00:30:01 +0900",
-	"total":288040,
+	"lastBuildDate":"Thu, 05 Feb 2026 00:40:01 +0900",
+	"total":288041,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천환경공단, '어린이 환경교육 세부 운영' 실무 간담회 개최",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=691958",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=691958",
+			"description":"소각장 벙커나 하수처리장 수조 등 직접 들어가기 어려운 시설을 가상현실(VR)로 생생하게 체험하는 교육을 도입하고 봄철에는 <b>청라<\/b>사업소 온실과 송도사업소 등을 방문하는 현장 견학 프로그램도 적극 추진하기로 했다.... ",
+			"pubDate":"Thu, 05 Feb 2026 00:32:00 +0900"
+		},
 		{
 			"title":"국제성모병원, 개원 12주년 기념식 개최...‘지역 넘어 세계 향한 도약...",
 			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=507758",
@@ -187,17 +194,17 @@
 			"pubDate":"Wed, 04 Feb 2026 16:48:00 +0900"
 		},
 		{
-			"title":"인천 대중교통 패러다임 '1시간 30분'에서 '30분' 생활권으로 바뀐다",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363716370",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363716370",
-			"description":"4일 연구원이 발표한 보고서에 따르면, 이번 연구는 송도, <b>청라<\/b>, 영종, 검단 등 신도시의 팽창과 원도심의 쇠퇴가 맞물리며 심화된 교통 문제를 해결하고, '장거리 통근 도시'라는 인천의 이미지를 탈피하는 데 목적을... ",
-			"pubDate":"Wed, 04 Feb 2026 16:46:00 +0900"
-		},
-		{
 			"title":"인천 “30분 생활권”실현 위해 교통축 재편, 환승 혁신, 모빌리티 전환...",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281226164353",
 			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281226164353",
 			"description":"이 연구는 신도시(송도·<b>청라<\/b>·영종·검단 등) 성장과 구도심 쇠퇴가 병행되는 상황에서 인천의 공간구조 불균형이 교통 불편을 심화시켜 ‘1시간 30분 도시’이미지가 고착되어서는 안 된다는 문제의식에서 출발했다.... ",
+			"pubDate":"Wed, 04 Feb 2026 16:46:00 +0900"
+		},
+		{
+			"title":"인천 대중교통 패러다임 '1시간 30분'에서 '30분' 생활권으로 바뀐다",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363716370",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363716370",
+			"description":"4일 연구원이 발표한 보고서에 따르면, 이번 연구는 송도, <b>청라<\/b>, 영종, 검단 등 신도시의 팽창과 원도심의 쇠퇴가 맞물리며 심화된 교통 문제를 해결하고, '장거리 통근 도시'라는 인천의 이미지를 탈피하는 데 목적을... ",
 			"pubDate":"Wed, 04 Feb 2026 16:46:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3012546",
 			"description":"영종구의 핵심 과제로 ▶<b>청라<\/b>하늘대교 통행료 전국민 무료화, 영종·인천대교 무료화 확대 추진 ▶보건의료원 설치로 24시간 공공 응급의료 체계 구축 ▶인천공항공사, 인천경제자유구역청, LH 등과의 상설협의체 구축... ",
 			"pubDate":"Wed, 04 Feb 2026 16:38:00 +0900"
-		},
-		{
-			"title":"국제성모병원, 개원 12주년 기념식 개최…&quot;지역 넘어 세계 향해 도약&quot;",
-			"originallink":"https:\/\/www.rapportian.com\/news\/articleView.html?idxno=232202",
-			"link":"https:\/\/www.rapportian.com\/news\/articleView.html?idxno=232202",
-			"description":"한편, 2014년 2월 개원한 가톨릭관동대 국제성모병원은 <b>청라<\/b>, 검단, 영종, 김포 등 인천 서북부 지역 최초이자 유일한 대학병원으로, 거점 병원의 역할을 수행하고 있다. 지난해에는 지역완결형 의료체계 실현을 목표로... ",
-			"pubDate":"Wed, 04 Feb 2026 16:30:00 +0900"
 		}
 	]
 }
