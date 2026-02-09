@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 09 Feb 2026 12:40:01 +0900",
-	"total":288270,
+	"lastBuildDate":"Mon, 09 Feb 2026 12:50:00 +0900",
+	"total":288271,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[미리보는 인천-·강화군] 유정복 &quot;강화 교통망 확충.. 경제자유구역 지...",
+			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=217668",
+			"link":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=217668",
+			"description":"이렇게 되면 송도 국제도시와 <b>청라<\/b> 국제도시, 영종 국제도시에 이어 강화 남단을 잇는 새로운 경제자유구역 교통축이 완성될 것으로 기대됩니다. 인천시와 강화군이 공동 목표로 하는 강화 경제자유구역이 지정될 수... ",
+			"pubDate":"Mon, 09 Feb 2026 12:44:00 +0900"
+		},
 		{
 			"title":"인천도서관·분관, 3월부터 2026년 상반기 정규강좌 운영",
 			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=693518",
@@ -159,17 +166,17 @@
 			"pubDate":"Sun, 08 Feb 2026 13:24:00 +0900"
 		},
 		{
-			"title":"보령시, 산성토양 개량을 위해 토양개량제 6963t 공급",
-			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=890666",
-			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=890666",
-			"description":"토양개량제 공급은 3년 1주기로 실시되며, 올해 공급지역은 주포면, 주교면, 오천면, 천북면, 청소면, <b>청라<\/b>면이다. 시는 농촌의 고령화, 여성농업인 증가, 일손 부족 등으로 살포에 어려움을 겪는 농가를 위해... ",
-			"pubDate":"Sun, 08 Feb 2026 13:22:00 +0900"
-		},
-		{
 			"title":"인천시, 설 연휴 생활쓰레기 특별수거 체계 가동",
 			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20260208500106",
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20260208500106",
 			"description":"송도자원환경센터와 <b>청라<\/b>자원환경센터는 2월 15일과 설 당일인 2월 17일을 제외한 연휴 기간 동안 반입을 허용하며, 수도권매립지는 2월 16일 하루에 한해 반입이 가능하다. 다만 수도권매립지 반입은 공휴일 반입을... ",
+			"pubDate":"Sun, 08 Feb 2026 13:22:00 +0900"
+		},
+		{
+			"title":"보령시, 산성토양 개량을 위해 토양개량제 6963t 공급",
+			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=890666",
+			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=890666",
+			"description":"토양개량제 공급은 3년 1주기로 실시되며, 올해 공급지역은 주포면, 주교면, 오천면, 천북면, 청소면, <b>청라<\/b>면이다. 시는 농촌의 고령화, 여성농업인 증가, 일손 부족 등으로 살포에 어려움을 겪는 농가를 위해... ",
 			"pubDate":"Sun, 08 Feb 2026 13:22:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=883829",
 			"description":"송도자원환경센터와 <b>청라<\/b>자원환경센터는 오는 15일과 설 당일인 17일을 제외한 연휴 기간 동안 반입을 허용하고, 수도권매립지는 오는 16일 하루에 한정해 반입이 가능하다. 다만 수도권매립지 반입은 공휴일 반입을... ",
 			"pubDate":"Sun, 08 Feb 2026 12:34:00 +0900"
-		},
-		{
-			"title":"설 연휴에도 쓰레기 처리 공백 없다… 인천시 특별수거 체계 가동",
-			"originallink":"https:\/\/www.livesnews.com\/news\/article.html?no=59355",
-			"link":"https:\/\/www.livesnews.com\/news\/article.html?no=59355",
-			"description":"송도자원환경센터와 <b>청라<\/b>자원환경센터는 오는 15일과 설 당일인 17일을 제외한 연휴 기간 동안 생활쓰레기 반입을 허용한다. 수도권매립지는 오는 16일 하루에 한해 반입이 가능하다. 다만 수도권매립지 반입은 공휴일... ",
-			"pubDate":"Sun, 08 Feb 2026 12:32:00 +0900"
 		}
 	]
 }
