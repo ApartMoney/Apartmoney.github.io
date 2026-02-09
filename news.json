@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 09 Feb 2026 14:40:01 +0900",
-	"total":288273,
+	"lastBuildDate":"Mon, 09 Feb 2026 14:50:00 +0900",
+	"total":288274,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 설 연휴 쓰레기 특별수거 체계 및 응급진료체계 가동",
+			"originallink":"http:\/\/www.breaknews.com\/1183507",
+			"link":"http:\/\/www.breaknews.com\/1183507",
+			"description":"송도자원환경센터와 <b>청라<\/b>자원환경센터는 2월 15일과 설 당일인 2월 17일을 제외한 연휴 기간 동안 반입을 허용하며, 수도권매립지는 2월 16일 하루에 한해 반입이... ",
+			"pubDate":"Mon, 09 Feb 2026 14:40:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>하늘대교 개통으로 스피드 경쟁력까지! ‘<b>청라<\/b> SK V1’에 관심 뜨겁...",
 			"originallink":"https:\/\/biz.heraldcorp.com\/article\/10672748?ref=naver",
@@ -180,17 +187,17 @@
 			"pubDate":"Sun, 08 Feb 2026 13:24:00 +0900"
 		},
 		{
-			"title":"보령시, 산성토양 개량을 위해 토양개량제 6963t 공급",
-			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=890666",
-			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=890666",
-			"description":"토양개량제 공급은 3년 1주기로 실시되며, 올해 공급지역은 주포면, 주교면, 오천면, 천북면, 청소면, <b>청라<\/b>면이다. 시는 농촌의 고령화, 여성농업인 증가, 일손 부족 등으로 살포에 어려움을 겪는 농가를 위해... ",
-			"pubDate":"Sun, 08 Feb 2026 13:22:00 +0900"
-		},
-		{
 			"title":"인천시, 설 연휴 생활쓰레기 특별수거 체계 가동",
 			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20260208500106",
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20260208500106",
 			"description":"송도자원환경센터와 <b>청라<\/b>자원환경센터는 2월 15일과 설 당일인 2월 17일을 제외한 연휴 기간 동안 반입을 허용하며, 수도권매립지는 2월 16일 하루에 한해 반입이 가능하다. 다만 수도권매립지 반입은 공휴일 반입을... ",
+			"pubDate":"Sun, 08 Feb 2026 13:22:00 +0900"
+		},
+		{
+			"title":"보령시, 산성토양 개량을 위해 토양개량제 6963t 공급",
+			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=890666",
+			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=890666",
+			"description":"토양개량제 공급은 3년 1주기로 실시되며, 올해 공급지역은 주포면, 주교면, 오천면, 천북면, 청소면, <b>청라<\/b>면이다. 시는 농촌의 고령화, 여성농업인 증가, 일손 부족 등으로 살포에 어려움을 겪는 농가를 위해... ",
 			"pubDate":"Sun, 08 Feb 2026 13:22:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2189180",
 			"description":"특히 <b>청라<\/b>국제도시 내 국제금융단지 조성 사업과 관련해 “2019년부터 2026년까지 주요 공급 시설이 오피스텔... 또한 검암역세권 개발사업과 <b>청라<\/b>국제업무단지(나 구역) 공모 등 주요 현안에 대해서도 서구의 선제적인 입장... ",
 			"pubDate":"Sun, 08 Feb 2026 12:54:00 +0900"
-		},
-		{
-			"title":"인천시, 명절 연휴 쓰레기 특별수거 체계 가동",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3501057",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3501057",
-			"description":"송도자원환경센터와 <b>청라<\/b>자원환경센터는 2월 15일(일)과 설 당일인 2월 17일(화)을 제외한 연휴 기간 동안 반입을 허용하며, 수도권매립지는 2월 16일(월) 하루에 한해 반입이 가능하다. 다만, 수도권매립지 반입은 공휴일... ",
-			"pubDate":"Sun, 08 Feb 2026 12:52:00 +0900"
 		}
 	]
 }
