@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 10 Feb 2026 18:00:01 +0900",
-	"total":288391,
+	"lastBuildDate":"Tue, 10 Feb 2026 18:10:01 +0900",
+	"total":288392,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[뉴스 속으로] 수도권(극) 산업·판교의 두뇌…인천의 관문으로 흐른다",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1316877",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1316877",
+			"description":"서부 혁신 라인은 성남 판교–G밸리–마곡–부천·계양–김포·검단–부평·주안·남동-송도·<b>청라<\/b>... 송도·<b>청라<\/b>·영종은 조립·사업화·수출 터미널과의 결합을 담당한다. 서부 혁신 라인은 미래 산업을 실험하고... ",
+			"pubDate":"Tue, 10 Feb 2026 18:00:00 +0900"
+		},
 		{
 			"title":"[특별기고] '선납 할인액'은 누구의 몫인가...대법원 심리 개시가 던진...",
 			"originallink":"http:\/\/www.ttlnews.com\/news\/articleView.html?idxno=3078949",
@@ -159,17 +166,17 @@
 			"pubDate":"Tue, 10 Feb 2026 15:18:00 +0900"
 		},
 		{
-			"title":"보령발전본부, 설 맞아 취약계층에 1천500만 원 온누리상품권 나눔",
-			"originallink":"https:\/\/www.jbnews.com\/news\/articleView.html?idxno=1498735",
-			"link":"https:\/\/www.jbnews.com\/news\/articleView.html?idxno=1498735",
-			"description":"지원 대상은 서부장애인복지관과 정심작업장, 삼육소담 노인요양공동생활가정, 청소노인복지센터 등 4개 복지기관에 600만원, 오천·주교·주포·천북·<b>청라<\/b>·청소 등 6개 면 지역 독거노인과 한부모가정 등 30가구에 각... ",
-			"pubDate":"Tue, 10 Feb 2026 15:12:00 +0900"
-		},
-		{
 			"title":"알스퀘어 &quot;공장·창고 매매 시장, 4년 만에 월간 2조 원대 회복&quot;",
 			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202602101509096346204ead0791_12",
 			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202602101509096346204ead0791_12",
 			"description":"지난 12월에는 '<b>청라<\/b> 로지스틱스 물류센터'가 약 1조 300억 원에 거래되며 연중 최대 규모 거래를 기록했다. 이 자산은 KKR·크리에이트자산운용 컨소시엄이 인수했다. 이번 대형 거래는 글로벌 자본이 국내 우량 물류... ",
+			"pubDate":"Tue, 10 Feb 2026 15:12:00 +0900"
+		},
+		{
+			"title":"보령발전본부, 설 맞아 취약계층에 1천500만 원 온누리상품권 나눔",
+			"originallink":"https:\/\/www.jbnews.com\/news\/articleView.html?idxno=1498735",
+			"link":"https:\/\/www.jbnews.com\/news\/articleView.html?idxno=1498735",
+			"description":"지원 대상은 서부장애인복지관과 정심작업장, 삼육소담 노인요양공동생활가정, 청소노인복지센터 등 4개 복지기관에 600만원, 오천·주교·주포·천북·<b>청라<\/b>·청소 등 6개 면 지역 독거노인과 한부모가정 등 30가구에 각... ",
 			"pubDate":"Tue, 10 Feb 2026 15:12:00 +0900"
 		},
 		{
@@ -194,13 +201,6 @@
 			"pubDate":"Tue, 10 Feb 2026 15:02:00 +0900"
 		},
 		{
-			"title":"&quot;설 연휴, 어디갈까?&quot; 전 세대가 함께 즐기는 인천여행 가이드",
-			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2190514",
-			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2190514",
-			"description":"단, 소방시설 주변이나 교통 안전에 지장을 주는 불법 주·정차는 단속 대상이다 유지상 인천관광공사 사장은 &quot;인천은 개항장 문화지구를 비롯해, 송도, 강화도, 영종·<b>청라<\/b>, 섬 여행에 이르기까지 즐길거리가 풍성한 곳”... ",
-			"pubDate":"Tue, 10 Feb 2026 14:54:00 +0900"
-		},
-		{
 			"title":"&quot;영종구를 글로벌 미래 중심 도시로&quot; 한목소리",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2190546",
 			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2190546",
@@ -208,11 +208,11 @@
 			"pubDate":"Tue, 10 Feb 2026 14:54:00 +0900"
 		},
 		{
-			"title":"알스퀘어, &quot;물류 부동산 회복세 확인&quot;… 12월 거래 2조 3,575억 원",
-			"originallink":"https:\/\/www.klnews.co.kr\/news\/articleView.html?idxno=319981",
-			"link":"https:\/\/www.klnews.co.kr\/news\/articleView.html?idxno=319981",
-			"description":"11월 경기 안산시 성곡동 '로지스밸리 안산' 물류센터가 약 5,123억 원에 거래되며 세운 기록은 한 달 만에 약 1조 300억 원 규모의 '<b>청라<\/b> 로지스틱스 물류센터' 거래로 인해 다시 바뀌었다. 해당 자산은... ",
-			"pubDate":"Tue, 10 Feb 2026 14:52:00 +0900"
+			"title":"&quot;설 연휴, 어디갈까?&quot; 전 세대가 함께 즐기는 인천여행 가이드",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2190514",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2190514",
+			"description":"단, 소방시설 주변이나 교통 안전에 지장을 주는 불법 주·정차는 단속 대상이다 유지상 인천관광공사 사장은 &quot;인천은 개항장 문화지구를 비롯해, 송도, 강화도, 영종·<b>청라<\/b>, 섬 여행에 이르기까지 즐길거리가 풍성한 곳”... ",
+			"pubDate":"Tue, 10 Feb 2026 14:54:00 +0900"
 		}
 	]
 }
