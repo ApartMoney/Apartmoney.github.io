@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 10 Feb 2026 16:30:01 +0900",
-	"total":288380,
+	"lastBuildDate":"Tue, 10 Feb 2026 16:40:01 +0900",
+	"total":288381,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서구 자원순환센터 후보지 놓고, 동구 &quot;주민 의견 배제된 채 추진...",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1316872",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1316872",
+			"description":"\/인천일보DB 인천 서구가 <b>청라<\/b>소각장을 대체할 자원순환센터 후보지 선정을 앞두고 인접 지역인 동구가... 서구는 내구연한(15년)을 10년 이상 초과한 <b>청라<\/b>소각장(<b>청라<\/b>자원순환센터)을 대체할 신축 자원순환센터 후보지... ",
+			"pubDate":"Tue, 10 Feb 2026 16:30:00 +0900"
+		},
 		{
 			"title":"“영종구, 글로벌 미래 중심도시로!”… 김정헌 구청장·유정복 시장 맞...",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=884208",
@@ -194,13 +201,6 @@
 			"pubDate":"Tue, 10 Feb 2026 14:00:00 +0900"
 		},
 		{
-			"title":"공장·창고 매매시장, 1조 메가딜에 '2조 클럽' 복귀",
-			"originallink":"https:\/\/www.goodkyung.com\/news\/articleView.html?idxno=282636",
-			"link":"https:\/\/www.goodkyung.com\/news\/articleView.html?idxno=282636",
-			"description":"'<b>청라<\/b> 로지스틱스 물류센터'가 약 1조300억원에 매매되며 연중 최대 거래 기록을 갈아치웠다. 해당 자산은 브룩필드자산운용이 매각하고, KKR·크리에이트자산운용 컨소시엄이 인수한 것으로 알려졌다. 불과 한 달... ",
-			"pubDate":"Tue, 10 Feb 2026 14:00:00 +0900"
-		},
-		{
 			"title":"공장·창고 매매시장, 1조 ‘메가딜’ 터지며 4년 만에 2조 원대 회복",
 			"originallink":"https:\/\/kidd.co.kr\/news\/244946",
 			"link":"https:\/\/kidd.co.kr\/news\/244946",
@@ -208,11 +208,11 @@
 			"pubDate":"Tue, 10 Feb 2026 14:00:00 +0900"
 		},
 		{
-			"title":"인천 중구, <b>청라<\/b>하늘대교 개통 맞춰 ‘공영버스’ 개편 실시",
-			"originallink":"https:\/\/www.g-enews.com\/view.php?ud=2026021010502585429ae5042aca_1",
-			"link":"https:\/\/www.g-enews.com\/view.php?ud=2026021010502585429ae5042aca_1",
-			"description":"<b>청라<\/b>하늘대교 개통과 영종구 신설을 앞두고 인천 중구가 공영버스 노선을 생활 수요 중심으로 손질한다.... 이번 개편은 단순한 노선 조정이 아니라, <b>청라<\/b>하늘대교 개통 이후 예상되는 이동 패턴 변화를 선제적으로 반영한... ",
-			"pubDate":"Tue, 10 Feb 2026 13:58:00 +0900"
+			"title":"공장·창고 매매시장, 1조 메가딜에 '2조 클럽' 복귀",
+			"originallink":"https:\/\/www.goodkyung.com\/news\/articleView.html?idxno=282636",
+			"link":"https:\/\/www.goodkyung.com\/news\/articleView.html?idxno=282636",
+			"description":"'<b>청라<\/b> 로지스틱스 물류센터'가 약 1조300억원에 매매되며 연중 최대 거래 기록을 갈아치웠다. 해당 자산은 브룩필드자산운용이 매각하고, KKR·크리에이트자산운용 컨소시엄이 인수한 것으로 알려졌다. 불과 한 달... ",
+			"pubDate":"Tue, 10 Feb 2026 14:00:00 +0900"
 		}
 	]
 }
