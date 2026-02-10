@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 10 Feb 2026 13:20:01 +0900",
-	"total":288345,
+	"lastBuildDate":"Tue, 10 Feb 2026 13:30:00 +0900",
+	"total":288346,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[미리보는 인천] 영종 바이오특화단지 조성…제3개항 '중심'",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=534513",
+			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=534513",
+			"description":"같은 기준 송도와 <b>청라<\/b> 인구 증가율 각각 18%와 1.2%를 크게 앞지른 셈입니다. 영종도는 2001년 인천국제공항 개항과 함께 빠르게 성장했습니다. 인천 내륙과 잇는 다리도 영종대교와 인천대교에 이어 지난 1월 5일 <b>청라<\/b>하... ",
+			"pubDate":"Tue, 10 Feb 2026 13:20:00 +0900"
+		},
 		{
 			"title":"[미리보는 인천-영종구] 유정복 &quot;바이오 특화단지 조성… GTX-D·E 신설&quot;",
 			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=217823",
@@ -40,17 +47,17 @@
 			"pubDate":"Tue, 10 Feb 2026 11:44:00 +0900"
 		},
 		{
-			"title":"인천 중구, 공영버스 노선 부분 개편…21일부터 적용",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3013094",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3013094",
-			"description":"10일 구에 따르면 이번 개편은 <b>청라<\/b>하늘대교 개통과 영종구 신설 등 변화하는 지역 교통 여건에 선제적으로 대응하기 위해 추진됐다. 개편 내용은 ▶평일 통근 지원을 위한 '중구 5-5번' 신설 ▶<b>청라<\/b>하늘대교 개통에 따른... ",
-			"pubDate":"Tue, 10 Feb 2026 11:36:00 +0900"
-		},
-		{
 			"title":"글로벌 미래 중심도시로…유정복 인천시장·김정헌 중구청장, 영종구 미...",
 			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3013098",
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3013098",
 			"description":"김 구청장은 주요 현안으로 ▶영종구 신청사 건립 사업 지원 확대 ▶임시청사 임차 비용 지속 지원 ▶<b>청라<\/b>하... 또 행정체제 개편과 <b>청라<\/b>하늘대교 개통에 발맞춰 '공항버스 리무진 <b>청라<\/b>하늘대교 경유 및 영종하늘도시... ",
+			"pubDate":"Tue, 10 Feb 2026 11:36:00 +0900"
+		},
+		{
+			"title":"인천 중구, 공영버스 노선 부분 개편…21일부터 적용",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3013094",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3013094",
+			"description":"10일 구에 따르면 이번 개편은 <b>청라<\/b>하늘대교 개통과 영종구 신설 등 변화하는 지역 교통 여건에 선제적으로 대응하기 위해 추진됐다. 개편 내용은 ▶평일 통근 지원을 위한 '중구 5-5번' 신설 ▶<b>청라<\/b>하늘대교 개통에 따른... ",
 			"pubDate":"Tue, 10 Feb 2026 11:36:00 +0900"
 		},
 		{
@@ -124,17 +131,17 @@
 			"pubDate":"Tue, 10 Feb 2026 11:09:00 +0900"
 		},
 		{
-			"title":"영종구 '글로벌 미래도시' 선언… 김정헌·유정복 한뜻",
-			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3373576",
-			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3373576",
-			"description":"이어 ▲영종구 신청사 건립 사업 지원 확대 ▲임시청사 임차 비용 지속 지원 ▲<b>청라<\/b>하늘대교 개통에 따른... 개편과 <b>청라<\/b>하늘대교 개통에 발맞춰 '공항버스 리무진 <b>청라<\/b>하늘대교 경유 및 영종하늘도시 정차', '영종구청... ",
-			"pubDate":"Tue, 10 Feb 2026 11:02:00 +0900"
-		},
-		{
 			"title":"서울 오피스빌딩 시장, 거래 감소에도 매매액 8조원 돌파…우량자산 집...",
 			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=857319",
 			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=857319",
 			"description":"한편, 데이트 제공사의 다른 분석에 따르면, 지난해 12월 '<b>청라<\/b> 로지스틱스 물류센터'는 약 1조300억원에 거래되며, 이 거래가 당해 전국 공장·창고 매매 시장에서는 최대 규모로 기록되었다고 전했다. 해당 물류센터는... ",
+			"pubDate":"Tue, 10 Feb 2026 11:02:00 +0900"
+		},
+		{
+			"title":"영종구 '글로벌 미래도시' 선언… 김정헌·유정복 한뜻",
+			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3373576",
+			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3373576",
+			"description":"이어 ▲영종구 신청사 건립 사업 지원 확대 ▲임시청사 임차 비용 지속 지원 ▲<b>청라<\/b>하늘대교 개통에 따른... 개편과 <b>청라<\/b>하늘대교 개통에 발맞춰 '공항버스 리무진 <b>청라<\/b>하늘대교 경유 및 영종하늘도시 정차', '영종구청... ",
 			"pubDate":"Tue, 10 Feb 2026 11:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=377094",
 			"description":"또 다른 상업용 부동산 서비스 기업 알스퀘어에 따르면 지난해 12월 '<b>청라<\/b> 로지스틱스 물류센터'가 약 1조300억원에 매각되며 전국 공장·창고 매매 시장에서 연중 최대 규모 거래로 기록됐다. 매각은... ",
 			"pubDate":"Tue, 10 Feb 2026 10:26:00 +0900"
-		},
-		{
-			"title":"연말 공장·창고 거래 2조원대 회복…물류센터 ‘1조’ 거래 영향",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2555036",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2555036",
-			"description":"지난해 11월에 경기 안산시 성곡동 '로지스밸리 안산' 물류센터가 약 5123억원에 거래되며 연중 최대 딜로 기록된 지 한 달만인 12월 '<b>청라<\/b> 로지스틱스 물류센터'가 약 1조300억원에 거래되며 이를 경신했다. 해당... ",
-			"pubDate":"Tue, 10 Feb 2026 10:24:00 +0900"
 		}
 	]
 }
