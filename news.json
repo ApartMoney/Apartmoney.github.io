@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 11 Feb 2026 11:30:01 +0900",
-	"total":288416,
+	"lastBuildDate":"Wed, 11 Feb 2026 11:40:01 +0900",
+	"total":288417,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천연구원, 인천시민 위한 심야 자율버스 도입 제안...기존 '별밤버스...",
+			"originallink":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1085023",
+			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1085023",
+			"description":"인천연구원에 따르면 1단계(시범운행)는 안전성 확보를 위해 기존 중앙버스전용차로(<b>청라<\/b> GRT·BRT) 구간을 대상으로 심야 자율주행버스를 시범 운행이다. 2단계(확대도입)는 인천대로, 경인로 등 신규 중앙버스전용차로... ",
+			"pubDate":"Wed, 11 Feb 2026 11:30:00 +0900"
+		},
 		{
 			"title":"인천연구원 &quot;심야 자율주행버스 도입 필요&quot;…교통 공백 해소·운영 효율...",
 			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=674686",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002598995?sid=102",
 			"description":"안내문 인천 중구는 <b>청라<\/b>하늘대교 개통에 따라 ‘중구 공영버스’ 노선을 부분 개편한다고 10일 밝혔다. 구는 <b>청라<\/b>하늘대교, 영종구 신설 등으로 변화하는 영종국제도시 교통 여건 대응을 위해 주민 의견을 반영한... ",
 			"pubDate":"Tue, 10 Feb 2026 17:12:00 +0900"
-		},
-		{
-			"title":"인천시 중구, <b>청라<\/b>하늘대교 개통 등에 발맞춰 ‘공영버스’ 부분 개편",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281585879800",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160281585879800",
-			"description":"평일 통근용 중구 5-5번 신설, 중구 6번 <b>청라<\/b>하늘대교 일원 경유 노선 조정 등  인천 중구(구청장 김정헌)는 <b>청라<\/b>하늘대교 개통 등 변화하는 영종국제도시 교통 환경에 발맞춰 ‘중구 공영버스’ 노선을 부분 개편한다고... ",
-			"pubDate":"Tue, 10 Feb 2026 17:06:00 +0900"
 		}
 	]
 }
