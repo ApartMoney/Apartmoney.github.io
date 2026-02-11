@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 11 Feb 2026 12:10:01 +0900",
-	"total":288422,
+	"lastBuildDate":"Wed, 11 Feb 2026 12:20:00 +0900",
+	"total":288423,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"김종인 전 인천시의원, &quot;지속가능한 스마트 명품도시 '서해구' 만들 것...",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363717027",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363717027",
+			"description":"이어 <b>청라<\/b>는 청리시티타워 추진과 글로벌 비즈니스 거점 조성을 꾀할 방침이고, 연희·검암에는 여가 관광 문화 등 관문형 권역을 조성하겠다는 계획이다. 김종인 전 인천시의원이 11일 서해구청장 출마 기자회견에서... ",
+			"pubDate":"Wed, 11 Feb 2026 12:12:00 +0900"
+		},
 		{
 			"title":"한국중부발전 보령발전본부, 설 맞이 사회공헌활동 실시",
 			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=2190966",
@@ -166,17 +173,17 @@
 			"pubDate":"Tue, 10 Feb 2026 20:04:00 +0900"
 		},
 		{
-			"title":"인천 중구, <b>청라<\/b>하늘대교 개통에 발맞춰 공영버스 부분 개편",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=629618",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=629618",
-			"description":"인천시 중구가 <b>청라<\/b>하늘대교 개통 등 변화하는 영종국제도시 교통 환경에 발맞춰 '중구 공영버스' 노선을 부분 개편한다. 이번 조치는 <b>청라<\/b>하늘대교, 영종구 신설 등으로 변화하는 지역 교통 여건에 선제적으로 대응해... ",
-			"pubDate":"Tue, 10 Feb 2026 20:02:00 +0900"
-		},
-		{
 			"title":"인천 영종구, 글로벌 미래 중심도시로... 김정헌 중구청장·유정복 인천...",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=629617",
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=629617",
 			"description":"이를 위해 ▲영종구 신청사 건립 사업 지원 확대 ▲임시청사 임차 비용 지속 지원 ▲<b>청라<\/b>하늘대교 개통에... 또한, 행정 체제 개편과 <b>청라<\/b>하늘대교 개통에 발맞춰, '공항버스 리무진 <b>청라<\/b>하늘대교 경유 및 영종하늘도시... ",
+			"pubDate":"Tue, 10 Feb 2026 20:02:00 +0900"
+		},
+		{
+			"title":"인천 중구, <b>청라<\/b>하늘대교 개통에 발맞춰 공영버스 부분 개편",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=629618",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=629618",
+			"description":"인천시 중구가 <b>청라<\/b>하늘대교 개통 등 변화하는 영종국제도시 교통 환경에 발맞춰 '중구 공영버스' 노선을 부분 개편한다. 이번 조치는 <b>청라<\/b>하늘대교, 영종구 신설 등으로 변화하는 지역 교통 여건에 선제적으로 대응해... ",
 			"pubDate":"Tue, 10 Feb 2026 20:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=249491",
 			"description":"IT서비스 부문은 시스템 구축과 운영을 담당하고 있으며, <b>청라<\/b> R&amp;D센터의 기술력과 전문 인력을 기반으로 물류 설비 설계 경험을 축적해왔다. 회사는 이를 토대로 AI와 로봇 등 고도화된 기술력 확보에 주력하며 사업... ",
 			"pubDate":"Tue, 10 Feb 2026 18:20:00 +0900"
-		},
-		{
-			"title":"공장·창고 매매시장, 1조 원 메가딜로 4년 만에 돌아온 '2조 시대'",
-			"originallink":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=81153",
-			"link":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=81153",
-			"description":"그러나 불과 한 달 뒤인 12월, '<b>청라<\/b> 로지스틱스 물류센터'가 약 1조 300억 원에 거래되며 이를 경신했다. 해당 자산은 브룩필드자산운용이 매각했고, KKR·크리에이트자산운용 컨소시엄이 인수한 것으로 나타났다.... ",
-			"pubDate":"Tue, 10 Feb 2026 18:16:00 +0900"
 		}
 	]
 }
