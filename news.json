@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 18 Feb 2026 17:00:01 +0900",
-	"total":288720,
+	"lastBuildDate":"Wed, 18 Feb 2026 17:10:00 +0900",
+	"total":288721,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[지방선거 D-105] 당신의 선택으로 인천의 미래를 바꾸자",
+			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=315419",
+			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=315419",
+			"description":"영종구·제물포구·검단구의 신설, 동인천역 개발, <b>청라<\/b>하늘대교 개통, 인천대공공의대 추진 등 모든 것이 인천시민이 뽑은 선택의 후과일 수 있다. 후보 검증, 시민 책임의 시작 이제 시민의 선택이 올바른지 확인할... ",
+			"pubDate":"Wed, 18 Feb 2026 17:00:00 +0900"
+		},
 		{
 			"title":"지하철 공사장과 학원 등에 침입해 상습 절도 행각 벌인 60대 징역형",
 			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3013759",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1317264",
 			"description":"투자 1순위 노선인 인천 순환 3호선은 송도국제도시에서 시작해 동인천과 <b>청라<\/b>국제도시, 검단신도시를 남북으로 연결한다. 34.64㎞ 길이로 이번 2차 도시철도망 구축계획 전체 연장 123.96㎞ 가운데 27.9%를 차지할... ",
 			"pubDate":"Mon, 16 Feb 2026 10:24:00 +0900"
-		},
-		{
-			"title":"‘부의 대동맥’ 7호선 라인, 강남 직결 파급력에 청약&amp;매매 고공 행진",
-			"originallink":"https:\/\/www.dt.co.kr\/article\/12046569?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0003011153?sid=101",
-			"description":"인천 석남역에서 <b>청라<\/b>국제도시역을 잇는 <b>청라<\/b> 연장선과 도봉산역에서 양주를 거쳐 포천까지 연결되는 옥정~포천 광역철도 사업이 속도를 내고 있기 때문이다. 전문가들은 7호선이 수도권 북동부와 서북부를 잇는 거대... ",
-			"pubDate":"Mon, 16 Feb 2026 10:00:00 +0900"
 		}
 	]
 }
