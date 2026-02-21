@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 22 Feb 2026 07:00:01 +0900",
-	"total":288840,
+	"lastBuildDate":"Sun, 22 Feb 2026 07:10:01 +0900",
+	"total":288841,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[지선 D-100] 당내 경쟁 먼저 불붙은 인천 기초단체장 선거",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260219057500065?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015916380?sid=100",
+			"description":"서구 <b>청라<\/b>국제도시와 구도심 지역을 품은 서해구에서는 국민의힘 소속 강범석 서구청장의 3선 도전이 유력시되는 가운데 전·현직 시의원들이 내부 경쟁에 뛰어들 채비에 한창이다. 민주당에서는 전 서구청장과 현 시... ",
+			"pubDate":"Sun, 22 Feb 2026 07:03:00 +0900"
+		},
 		{
 			"title":"'대통령 직격'에 지자체 금고 이자 시선 쏠려, 은행권 최적금리 눈치싸...",
 			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=430721",
@@ -96,17 +103,17 @@
 			"pubDate":"Sat, 21 Feb 2026 07:52:00 +0900"
 		},
 		{
-			"title":"인천시·국토부, 영종대교 손실보상금 기준 ‘동상이몽’ [집중취재]",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260219580434",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000096862?sid=102",
-			"description":"인천 영종~<b>청라<\/b>를 잇는 <b>청라<\/b>하늘대교(제3연륙교)의 개통 1개월이 지나면서 첫 통행량 분석이 나온 가운데, 국토교통부와 인천시가 영종대교 손실보상금 산정 기준을 놓고 갈등을 빚고 있다. 21일 국토부와 시 등에 따르면... ",
-			"pubDate":"Sat, 21 Feb 2026 05:02:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>하늘대교 개통 한 달…영종대교 ‘22% 급감’, 인천대교 ‘소폭 상...",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260219580478",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000096863?sid=102",
 			"description":"인천 영종~<b>청라<\/b>를 잇는 <b>청라<\/b>하늘대교(제3연륙교) 개통 1개월이 지난 가운데, 민자도로인 영종대교의 통행량은 20% 이상 줄어든 반면 인천대교는 오히려 소폭 증가한 것으로 나타났다. 21일 인천시 등에 따르면 지난... ",
+			"pubDate":"Sat, 21 Feb 2026 05:02:00 +0900"
+		},
+		{
+			"title":"인천시·국토부, 영종대교 손실보상금 기준 ‘동상이몽’ [집중취재]",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260219580434",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000096862?sid=102",
+			"description":"인천 영종~<b>청라<\/b>를 잇는 <b>청라<\/b>하늘대교(제3연륙교)의 개통 1개월이 지나면서 첫 통행량 분석이 나온 가운데, 국토교통부와 인천시가 영종대교 손실보상금 산정 기준을 놓고 갈등을 빚고 있다. 21일 국토부와 시 등에 따르면... ",
 			"pubDate":"Sat, 21 Feb 2026 05:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000096830?sid=102",
 			"description":"경찰에 따르면 A씨는 19일 오후 7시께 인천 서구 <b>청라<\/b>동 한 도로에서 술에 취한 상태로 스포츠유틸리티차(SUV)를 운전하다가 신호 대기 중이던 오토바이 2대와 승용차 2대를 잇달아 들이받은 혐의다. 이 사고로 오토바이... ",
 			"pubDate":"Fri, 20 Feb 2026 14:46:00 +0900"
-		},
-		{
-			"title":"유일로보틱스, 적자 터널 지나 북미로…수익성 회복 '본격화'",
-			"originallink":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1700273",
-			"link":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1700273",
-			"description":"회사는 이 같은 영업손실에 대해 <b>청라<\/b> 신공장 이전 관련 일회성 비용과 신공장 로봇 제조 및 R&amp;D 신규 인력... 유일로보틱스는 2대 주주인 SK온과의 협력 관계를 지속 강화하는 한편, <b>청라<\/b> 신공장 이전 완료 등 미래 시장... ",
-			"pubDate":"Fri, 20 Feb 2026 14:38:00 +0900"
 		}
 	]
 }
