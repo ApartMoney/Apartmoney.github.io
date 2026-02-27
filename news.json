@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 27 Feb 2026 09:40:01 +0900",
-	"total":289114,
+	"lastBuildDate":"Fri, 27 Feb 2026 09:50:01 +0900",
+	"total":289115,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천환경공단, 제2차 AX 실무협의회 개최",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20260227010008669",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20260227010008669",
+			"description":"자원순환본부 <b>청라<\/b>사업소는 안전 안내방송 시스템을 도입해 선제적 안전망을 구축했으며, 안전감사실은 현장 사진을 통해 위험요소를 자동 인식하는 'AI 위험성평가 시스템'을 시범 적용해 개선 효과를 거뒀다.... ",
+			"pubDate":"Fri, 27 Feb 2026 09:48:00 +0900"
+		},
 		{
 			"title":"지방 부동산 '희귀템' 더블 역세권, 집값 상승·청약 흥행 이끄나?",
 			"originallink":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=30200",
@@ -68,17 +75,17 @@
 			"pubDate":"Fri, 27 Feb 2026 01:00:00 +0900"
 		},
 		{
-			"title":"유정복의 인천 경제 살리기…인천시, 7호선 <b>청라<\/b>연장선 '지역업체 하도...",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=695180",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=695180",
-			"description":"7호선 <b>청라<\/b>연장선 건설사업과 관련해 지역업체 참여 확대에 본격 나섰다. 인천시(시장 유정복) 도시철도건설본부는 '지역건설산업 활성화 간담회'를 열고 서울도시철도 7호선 <b>청라<\/b>연장선 건설사업의 지역업체 참여율... ",
-			"pubDate":"Fri, 27 Feb 2026 00:36:00 +0900"
-		},
-		{
 			"title":"인천환경공단, '제2차 AX 실무협의회·오픈 AI 활용 연찬' 개최",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=695146",
 			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=695146",
 			"description":"자원순환본부 <b>청라<\/b>사업소 안전 안내방송 시스템 도입을 이달 완료하며 선제적인 현장 안전망을 구축했다. 또한 최첨단 AI 기술을 활용한 현장 밀착형 안전 실증도 속도를 내고 있다. 안전감사실은 현장 사진으로... ",
+			"pubDate":"Fri, 27 Feb 2026 00:36:00 +0900"
+		},
+		{
+			"title":"유정복의 인천 경제 살리기…인천시, 7호선 <b>청라<\/b>연장선 '지역업체 하도...",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=695180",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=695180",
+			"description":"7호선 <b>청라<\/b>연장선 건설사업과 관련해 지역업체 참여 확대에 본격 나섰다. 인천시(시장 유정복) 도시철도건설본부는 '지역건설산업 활성화 간담회'를 열고 서울도시철도 7호선 <b>청라<\/b>연장선 건설사업의 지역업체 참여율... ",
 			"pubDate":"Fri, 27 Feb 2026 00:36:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=126888",
 			"description":"현장 안전 분야에서는 자원순환본부 <b>청라<\/b>사업소가 안전 안내방송 시스템 도입을 완료하며 선제적 안전망을 구축했다. 안전감사실은 현장 사진을 분석해 위험요소를 자동 인식하는 'AI 위험성평가 시스템'을 시범 적용해... ",
 			"pubDate":"Thu, 26 Feb 2026 17:44:00 +0900"
-		},
-		{
-			"title":"서울소방, 첨단 로봇·저상소방차로 미래 재난 대응 패러다임 제시",
-			"originallink":"https:\/\/www.newdaily.co.kr\/site\/data\/html\/2026\/02\/26\/2026022600454.html",
-			"link":"https:\/\/www.newdaily.co.kr\/site\/data\/html\/2026\/02\/26\/2026022600454.html",
-			"description":"안우석 서울소방재난본부 장비기획담당 조정관은 &quot;이 차량은 지난 2024년 8월 인천 <b>청라<\/b> 지하주차장 전기차 화재 사건 이후 도입됐다&quot;라며 &quot;당시 주차장 높이가 2.3m라 일반적인 소방 차량 진입이 어려웠다&quot;라고 차량 도입... ",
-			"pubDate":"Thu, 26 Feb 2026 17:14:00 +0900"
 		}
 	]
 }
