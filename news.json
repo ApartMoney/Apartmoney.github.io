@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 02 Mar 2026 18:10:01 +0900",
-	"total":289202,
+	"lastBuildDate":"Mon, 02 Mar 2026 18:20:01 +0900",
+	"total":289203,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[6·3 지방선거] 인천시장 선거 전초전 본격화 … 박찬대 출판기념회로...",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=434549",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=434549",
+			"description":"부평의 문화적 역사성과 <b>청라<\/b>지역의 관광자원 등을 연계해 문화산업의 축을 다시 세우겠다는 전략도... 지역구인 <b>청라<\/b>의 문화·관광 연계 가능성 등을 언급하며 시너지 효과를 강조했다. 정치적 메시지는 더욱 뚜렸했다.... ",
+			"pubDate":"Mon, 02 Mar 2026 18:14:00 +0900"
+		},
 		{
 			"title":"'희망찬 새출발' 기원 인천 글로벌 연축제",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1515644",
@@ -174,8 +181,15 @@
 		},
 		{
 			"title":"'3·1절 기념 만세운동 재현'",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260301034000053?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015931056?sid=102",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260301034100053?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015931058?sid=102",
+			"description":"1일 대구 중구 <b>청라<\/b>언덕 일원에서 열린 '제107주년 3·1절 기념행사'에서 3·1 만세운동이 재현되고 있다. 2026.3.1",
+			"pubDate":"Sun, 01 Mar 2026 11:52:00 +0900"
+		},
+		{
+			"title":"'3·1절 기념 만세운동 재현'",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260301034400053?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015931061?sid=102",
 			"description":"1일 대구 중구 <b>청라<\/b>언덕 일원에서 열린 '제107주년 3·1절 기념행사'에서 3·1 만세운동이 재현되고 있다. 2026.3.1",
 			"pubDate":"Sun, 01 Mar 2026 11:52:00 +0900"
 		},
@@ -195,22 +209,8 @@
 		},
 		{
 			"title":"'3·1절 기념 만세운동 재현'",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260301034300053?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015931060?sid=102",
-			"description":"1일 대구 중구 <b>청라<\/b>언덕 일원에서 열린 '제107주년 3·1절 기념행사'에서 3·1 만세운동이 재현되고 있다. 2026.3.1",
-			"pubDate":"Sun, 01 Mar 2026 11:52:00 +0900"
-		},
-		{
-			"title":"'3·1절 기념 만세운동 재현'",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260301034200053?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015931059?sid=102",
-			"description":"1일 대구 중구 <b>청라<\/b>언덕 일원에서 열린 '제107주년 3·1절 기념행사'에서 3·1 만세운동이 재현되고 있다. 2026.3.1",
-			"pubDate":"Sun, 01 Mar 2026 11:52:00 +0900"
-		},
-		{
-			"title":"'3·1절 기념 만세운동 재현'",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260301034100053?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015931058?sid=102",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260301034000053?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015931056?sid=102",
 			"description":"1일 대구 중구 <b>청라<\/b>언덕 일원에서 열린 '제107주년 3·1절 기념행사'에서 3·1 만세운동이 재현되고 있다. 2026.3.1",
 			"pubDate":"Sun, 01 Mar 2026 11:52:00 +0900"
 		}
