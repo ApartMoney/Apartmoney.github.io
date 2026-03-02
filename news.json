@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 03 Mar 2026 05:30:01 +0900",
-	"total":289205,
+	"lastBuildDate":"Tue, 03 Mar 2026 05:40:01 +0900",
+	"total":289206,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"유정복 인천시장의 '첨단 레시피'…바이오·AI·로봇 등 미래 먹거리",
+			"originallink":"https:\/\/www.etnews.com\/20260303000001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003403297?sid=105",
+			"description":"동시에 <b>청라<\/b>의 로봇·수소·첨단금융, 영종의 바이오·문화·물류 기능을 연결하고, AI·데이터 기반 실증... 경자구역 각 지구(송도, 영종, <b>청라<\/b>)가 담당하는 산업 기능과 이를 연결할 ‘산업 지도’ 구상은. 인천의 미래 '산업... ",
+			"pubDate":"Tue, 03 Mar 2026 05:31:00 +0900"
+		},
 		{
 			"title":"[삶의 향기] ‘하늘 사람’이 되려면",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25408610",
@@ -195,22 +202,15 @@
 		},
 		{
 			"title":"'3·1절 기념 만세운동 재현'",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260301033900053?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015931055?sid=102",
-			"description":"1일 대구 중구 <b>청라<\/b>언덕 일원에서 열린 '제107주년 3·1절 기념행사'에서 3·1 만세운동이 재현되고 있다. 2026.3.1",
-			"pubDate":"Sun, 01 Mar 2026 11:52:00 +0900"
-		},
-		{
-			"title":"'3·1절 기념 만세운동 재현'",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260301034000053?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015931056?sid=102",
-			"description":"1일 대구 중구 <b>청라<\/b>언덕 일원에서 열린 '제107주년 3·1절 기념행사'에서 3·1 만세운동이 재현되고 있다. 2026.3.1",
-			"pubDate":"Sun, 01 Mar 2026 11:52:00 +0900"
-		},
-		{
-			"title":"'3·1절 기념 만세운동 재현'",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260301034500053?input=1196m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015931062?sid=102",
+			"description":"1일 대구 중구 <b>청라<\/b>언덕 일원에서 열린 '제107주년 3·1절 기념행사'에서 3·1 만세운동이 재현되고 있다. 2026.3.1",
+			"pubDate":"Sun, 01 Mar 2026 11:52:00 +0900"
+		},
+		{
+			"title":"'3·1절 기념 만세운동 재현'",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260301033900053?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0015931055?sid=102",
 			"description":"1일 대구 중구 <b>청라<\/b>언덕 일원에서 열린 '제107주년 3·1절 기념행사'에서 3·1 만세운동이 재현되고 있다. 2026.3.1",
 			"pubDate":"Sun, 01 Mar 2026 11:52:00 +0900"
 		}
