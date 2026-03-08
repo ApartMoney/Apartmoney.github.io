@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 08 Mar 2026 19:00:00 +0900",
-	"total":289597,
+	"lastBuildDate":"Sun, 08 Mar 2026 19:10:01 +0900",
+	"total":289598,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[사설] 시대 역행하는 공항철도 자전거 휴대 금지",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363719067",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363719067",
+			"description":"공항철도 측은 <b>청라<\/b>하늘대교(제3연륙교) 개통으로 자전거 통행로가 확보됐으니 열차 내 혼잡을 줄이기 위해 승차를 제한한다는 논리를 내세웠다. 어쩌면 이는 대단히 단편적인 시각으로 다리가 생겼다고 해서 열차를... ",
+			"pubDate":"Sun, 08 Mar 2026 19:06:00 +0900"
+		},
 		{
 			"title":"[썰물밀물] 검여(劍如)의 귀환",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1318353",
@@ -19,10 +26,10 @@
 			"pubDate":"Sun, 08 Mar 2026 18:21:00 +0900"
 		},
 		{
-			"title":"영종~<b>청라<\/b> 잇는 '<b>청라<\/b>하늘대교'…도로명도 갈등 조짐",
+			"title":"일단락된 '<b>청라<\/b>하늘대교'… 도로명 갈등으로 재확산",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363719042",
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363719042",
-			"description":"송길호 = <b>청라<\/b>하늘대교. 사진=인천경제청 영종~<b>청라<\/b> 잇는 '<b>청라<\/b>하늘대교'…도로명도 갈등 조짐 인천 영종과 <b>청라<\/b>를 잇는 이른바 '제3연륙교'의 명칭이 '<b>청라<\/b>하늘대교'로 결정된 데 이어, 이번에는 해당 교량을 포함한 도로... ",
+			"description":"송길호 = <b>청라<\/b>하늘대교. 사진=인천경제청 인천 영종과 <b>청라<\/b>를 잇는 이른바 '제3연륙교'의 명칭이 '<b>청라<\/b>하늘대교'로 결정된 데 이어, 이번에는 해당 교량을 포함한 도로 명칭 설정을 두고 지역 간 갈등이 재점화되고 있다. 8일... ",
 			"pubDate":"Sun, 08 Mar 2026 17:36:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=632148",
 			"description":"이번 절차는 영종~<b>청라<\/b> 연결도로를 비롯한 3개 광역도로의 예비도로명에 대해 시민 의견을 폭넓게 수렴하기 위한 것이다. 자치단체별로 제출된 예비도로명을 보면 ▲'영종~<b>청라<\/b> 연결도로'는 중구가 '인천국제도시대로... ",
 			"pubDate":"Fri, 06 Mar 2026 19:18:00 +0900"
-		},
-		{
-			"title":"수도권 물류센터, 공급 과잉 벗어나나…공실률 17.6%로 하락",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20260306001157",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20260306001157",
-			"description":"지난해 4분기 인천 소재 <b>청라<\/b>로지스틱스센터(약 42만9000㎡)가 1조원 규모로 거래된 영향이 컸다. 해당 자산은 공실을 대거 해소한 뒤 손바뀜이 이뤄져, 시장 회복세를 가늠할 수 있는 사례로 주목받는다. 이밖에... ",
-			"pubDate":"Fri, 06 Mar 2026 18:44:00 +0900"
 		}
 	]
 }
