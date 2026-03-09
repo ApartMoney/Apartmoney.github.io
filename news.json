@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 09 Mar 2026 15:40:01 +0900",
-	"total":289635,
+	"lastBuildDate":"Mon, 09 Mar 2026 15:50:01 +0900",
+	"total":289636,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천, 원도심·신도심 인구 증감 양극화…고령인구 비율도 격차 커",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260309580314",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000098561?sid=102",
+			"description":"중구(영종하늘도시), 서구(<b>청라<\/b>국제도시·검단신도시), 연수구(송도국제도시) 등은 각각 25%, 19.7%, 5.3% 인구가 증가했다. 반면, 동구, 남동구, 계양구는 각각 9.2%, 8.4%, 6.4% 인구가 감소했다. 인천은 인구가 지속적으로... ",
+			"pubDate":"Mon, 09 Mar 2026 15:46:00 +0900"
+		},
 		{
 			"title":"55조 서울시 금고 쟁탈전…신한 수성 vs 우리 탈환",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20260309144554856",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/ic.newdaily.co.kr\/site\/data\/html\/2026\/03\/09\/2026030900002.html",
 			"description":"뉴데일리 송원영 기자 = 인천시 <b>청라<\/b>하늘대교의 명칭을 잘못 적은 도로 표지판이 영종도 곳곳에 설치됐다가 <b>청라<\/b> 주민들이 반발하자 교체됐다. 8일 인천시 중구와 서구 에 따르면 지난달 27일 중구 영종도 내 교차로 5곳에... ",
 			"pubDate":"Mon, 09 Mar 2026 07:54:00 +0900"
-		},
-		{
-			"title":"‘<b>청라<\/b>하늘대교’ 잘못 적은 ‘영종하늘대교’ 표지판 교체",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8502671&ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0012137670?sid=102",
-			"description":"",
-			"pubDate":"Mon, 09 Mar 2026 07:48:00 +0900"
 		}
 	]
 }
