@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 09 Mar 2026 11:10:00 +0900",
-	"total":289622,
+	"lastBuildDate":"Mon, 09 Mar 2026 11:20:01 +0900",
+	"total":289623,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘인천 찾는 수학여행’ 2년 새 5배 증가…체험·산업탐방 인기",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8502988&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0012137855?sid=102",
+			"description":"인천시는 여기에 송도·영종·<b>청라<\/b> 지역의 바이오, 로봇, 자율주행, 반도체 등 첨단 산업 기업과 연계한 산업 탐방 프로그램을 개발하고 있습니다. 특히, 송도국제도시의 ‘트리플 스트리트’는 가상현실(VR) 체험... ",
+			"pubDate":"Mon, 09 Mar 2026 11:17:00 +0900"
+		},
 		{
 			"title":"'인천서 수학여행' 작년 2만명 돌파…송도 트리플 스트리트 인기",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260309068400065?input=1195m",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1318360",
 			"description":"인천 역시 송도 바이오 클러스터, 영종 항공정비(MRO) 산업, <b>청라<\/b> 금융·로봇 산업 등과 연계한 공항경제권 전략이 필요하다는 분석이다. 컨테이너 물동량 350만TEU 수준에서 정체될 위기에 처해 있는 인천항에서 가장... ",
 			"pubDate":"Sun, 08 Mar 2026 19:10:00 +0900"
-		},
-		{
-			"title":"[사설] 시대 역행하는 공항철도 자전거 휴대 금지",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363719067",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363719067",
-			"description":"공항철도 측은 <b>청라<\/b>하늘대교(제3연륙교) 개통으로 자전거 통행로가 확보됐으니 열차 내 혼잡을 줄이기 위해 승차를 제한한다는 논리를 내세웠다. 어쩌면 이는 대단히 단편적인 시각으로 다리가 생겼다고 해서 열차를... ",
-			"pubDate":"Sun, 08 Mar 2026 19:06:00 +0900"
 		}
 	]
 }
