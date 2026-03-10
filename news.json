@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 11 Mar 2026 00:40:01 +0900",
-	"total":289760,
+	"lastBuildDate":"Wed, 11 Mar 2026 00:50:01 +0900",
+	"total":289761,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘전기차 화재’ 벤츠, 배터리 속여 판매… 공정위 112억 과징금",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=1773134659&code=11151400&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001836404?sid=101",
+			"description":"2024년 8월 인천 <b>청라<\/b>국제도시의 한 아파트 지하주차장에서 벤츠 전기차 화재가 발생해 차량 87대가 전소하고 아파트 입주민 대부분이 피해를 입은 사고였다. 이 사고 후 화재 차량의 배터리 셀이 파라시스 제품으로... ",
+			"pubDate":"Wed, 11 Mar 2026 00:44:00 +0900"
+		},
 		{
 			"title":"로봇·산업용·협동로봇 관련주, '함박웃음' 와이투솔루션·휴림로봇·원...",
 			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=251114",
@@ -173,17 +180,17 @@
 			"pubDate":"Tue, 10 Mar 2026 17:00:00 +0900"
 		},
 		{
-			"title":"&quot;배터리 정보 숨기고 팔았다&quot; 벤츠 전기차 판매 논란에 공정위 과징금 ...",
-			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=732583",
-			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=732583",
-			"description":"논란은 2024년 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 전기차 화재 사건 이후 크게 확산됐다. 당시 화재 차량에도 파라시스 배터리가 탑재된 것으로 알려졌으며 이후 벤츠는 같은 해 8월 13일에야 차종별... ",
-			"pubDate":"Tue, 10 Mar 2026 17:00:00 +0900"
-		},
-		{
 			"title":"&quot;CATL인 줄 알았는데&quot;…공정위, 배터리 제조사 숨긴 벤츠에 과징금 112억...",
 			"originallink":"https:\/\/www.industrynews.co.kr\/news\/articleView.html?idxno=78865",
 			"link":"https:\/\/www.industrynews.co.kr\/news\/articleView.html?idxno=78865",
 			"description":"앞서 같은 달 1일 인천 <b>청라<\/b>지구 한 아파트 지하 주차장에서 파라시스 셀을 탑재한 벤츠 전기차에서 화재가 발생해 논란이 커진 이후에야 관련 정보가 공개됐다. 이에 배터리 제조사 정보 공개 이후 파라시스 셀이... ",
+			"pubDate":"Tue, 10 Mar 2026 17:00:00 +0900"
+		},
+		{
+			"title":"&quot;배터리 정보 숨기고 팔았다&quot; 벤츠 전기차 판매 논란에 공정위 과징금 ...",
+			"originallink":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=732583",
+			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=732583",
+			"description":"논란은 2024년 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 전기차 화재 사건 이후 크게 확산됐다. 당시 화재 차량에도 파라시스 배터리가 탑재된 것으로 알려졌으며 이후 벤츠는 같은 해 8월 13일에야 차종별... ",
 			"pubDate":"Tue, 10 Mar 2026 17:00:00 +0900"
 		},
 		{
@@ -205,13 +212,6 @@
 			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=564314&class=17&grp=",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002379175?sid=101",
 			"description":"지난 2024년 8월 인천 <b>청라<\/b>의 한 아파트 지하주차장에서 벤츠 EQE 전기차 화재가 발생하면서 전기차 배터리 안전성 논란이 확산됐다. 이후 소비자들 사이에서 배터리 제조사에 대한 관심이 높아졌고, 정부와 업계에서는... ",
-			"pubDate":"Tue, 10 Mar 2026 16:20:00 +0900"
-		},
-		{
-			"title":"벤츠, 공정위 112억 과징금 '불복'…행정소송 예고",
-			"originallink":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065597505664421",
-			"link":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065597505664421",
-			"description":"이번 조사는 2024년 8월 인천 <b>청라<\/b> 아파트에서 발생한 전기차 화재 사건에서 화재 원인 차량으로 벤츠 EQE가 지목되면서 시작됐다. 해당 차량에는 CATL이 아닌 중국 배터리 업체 파라시스 제품이 탑재된 것으로 알려졌다.... ",
 			"pubDate":"Tue, 10 Mar 2026 16:20:00 +0900"
 		}
 	]
