@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 11 Mar 2026 09:20:01 +0900",
-	"total":289776,
+	"lastBuildDate":"Wed, 11 Mar 2026 09:30:00 +0900",
+	"total":289777,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, '인천나우' 1+2월호 발간…인천 이야기 세계에 전하다",
+			"originallink":"https:\/\/news.tf.co.kr\/read\/national\/2300771.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000480027?sid=102",
+			"description":"주요 콘텐츠로는 △인천의 도시 변화와 기록을 담은 '인천 도시경관 기록 프로젝트' △GTX-B 노선과 <b>청라<\/b>하늘대교 등 인천 교통 인프라 발전상 △김용구 주한 페루 명예총영사 인터뷰를 통한 인천과 세계 도시 간 교류... ",
+			"pubDate":"Wed, 11 Mar 2026 09:20:00 +0900"
+		},
 		{
 			"title":"인천 이야기 세계에 전하다…'인천나우 1+2월호 발간'",
 			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20260311010003388",
@@ -166,17 +173,17 @@
 			"pubDate":"Tue, 10 Mar 2026 19:49:00 +0900"
 		},
 		{
-			"title":"벤츠에게 한국은 '호갱'…&quot;일단 팔고 보자&quot; 배터리 화재 위험 알고도 누...",
-			"originallink":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=4019658",
-			"link":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=4019658",
-			"description":"앞서 지난 2024년 8월경 <b>청라<\/b> 아파트 지하 주차장 화재로 전국을 불안에 떨게 했던 벤츠 차량에도 해당 배터리 셀이 탑재된 것으로 확인됐다. 당시에도 벤츠코리아 측은 차량에 탑재된 배터리 제조사를 밝히지 않아 논란을... ",
-			"pubDate":"Tue, 10 Mar 2026 19:22:00 +0900"
-		},
-		{
 			"title":"'이해충돌 논란' 홍준호 인천경제청 차장, 시청 복귀",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363719326",
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363719326",
 			"description":"또한, 안광호 전 본부장의 사퇴로 공석이었던 경제청 영종<b>청라<\/b>사업본부장 자리에는 구혜림 도시계획과장이 직무대리로 부임하며, 조현휘 사무관이 도시계획과장 직무를 대리하게 됐다.",
+			"pubDate":"Tue, 10 Mar 2026 19:22:00 +0900"
+		},
+		{
+			"title":"벤츠에게 한국은 '호갱'…&quot;일단 팔고 보자&quot; 배터리 화재 위험 알고도 누...",
+			"originallink":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=4019658",
+			"link":"https:\/\/www.nbntv.co.kr\/news\/articleView.html?idxno=4019658",
+			"description":"앞서 지난 2024년 8월경 <b>청라<\/b> 아파트 지하 주차장 화재로 전국을 불안에 떨게 했던 벤츠 차량에도 해당 배터리 셀이 탑재된 것으로 확인됐다. 당시에도 벤츠코리아 측은 차량에 탑재된 배터리 제조사를 밝히지 않아 논란을... ",
 			"pubDate":"Tue, 10 Mar 2026 19:22:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2026031016411281032",
 			"description":"중국 배터리 제조사인 파라시스사 제품은 화재 위험이 커 지난 2021년 대규모 리콜된 적이 있고, 2024년 인천 <b>청라<\/b> 아파트에서 발생한 벤츠 전기차 화재에도 이 회사 배터리가 탑재됐습니다. [황원철 \/ 공정거래위원회... ",
 			"pubDate":"Tue, 10 Mar 2026 18:02:00 +0900"
-		},
-		{
-			"title":"[뉴스 속으로] 인천공항 접근 인프라 '육상 교통망 체계' 재편 시급",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1318496",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1318496",
-			"description":"영종대교·인천대교·<b>청라<\/b>하늘대교는 각 시기별로 인천국제공항의 성장 단계에 적절히 대응한 인프라다. 3개의 연륙교가 '필수 접근성 확보 → 수요 성장기에 남측 보강 → 배후 생활권과 통합'이라는 관점에서... ",
-			"pubDate":"Tue, 10 Mar 2026 18:00:00 +0900"
 		}
 	]
 }
