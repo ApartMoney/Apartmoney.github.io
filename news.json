@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 11 Mar 2026 12:10:01 +0900",
-	"total":289798,
+	"lastBuildDate":"Wed, 11 Mar 2026 12:20:00 +0900",
+	"total":289800,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 영문소식지 '인천나우(Incheon Now)' 1·2월호(통권 97호) 발간",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=116256",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=116256",
+			"description":"주요 콘텐츠는 ▲인천의 도시 변화를 기록한 '인천 도시경관 기록 프로젝트' ▲GTX-B 노선과 <b>청라<\/b>하늘대교 등 '인천 교통 인프라 발전상' ▲김용구 주한 페루 명예총영사 인터뷰를 통한 '인천과 세계 도시간 교류... ",
+			"pubDate":"Wed, 11 Mar 2026 12:14:00 +0900"
+		},
+		{
+			"title":"인천, 영문소식지 '인천나우' 1·2월호 발간",
+			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=696577",
+			"link":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=696577",
+			"description":"주요 콘텐츠로는 인천의 도시 변화와 기록을 소개하는 '인천 도시경관 기록 프로젝트'를 비롯해 GTX-B 노선과 <b>청라<\/b>하늘대교 등 교통 인프라 발전상, 김용구 주한 페루 명예총영사 인터뷰를 통한 국제 교류 이야기 등이... ",
+			"pubDate":"Wed, 11 Mar 2026 12:13:00 +0900"
+		},
 		{
 			"title":"&quot;영종권 중진료권 신설하라&quot; 김정헌 중구청장, 종합병원 유치 촉구",
 			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/1123962",
@@ -187,13 +201,6 @@
 			"pubDate":"Wed, 11 Mar 2026 09:06:00 +0900"
 		},
 		{
-			"title":"송도·<b>청라<\/b>보다 빨라… ‘인구 증가율 24%’ 영종, 새 주거지로 부상",
-			"originallink":"https:\/\/www.viva100.com\/article\/20260310500849",
-			"link":"https:\/\/www.viva100.com\/article\/20260310500849",
-			"description":"이는 같은 기간 송도(18%), <b>청라<\/b>(1%)를 크게 웃도는 수치다. 부동산 업계 관계자는 “인구는 가장 보수적인... 특히 지난 1월 <b>청라<\/b>하늘대교 개통으로 인천 <b>청라<\/b>·서울 서부권 접근성이 개선됐다. 향후 제2인천국제공항철도... ",
-			"pubDate":"Wed, 11 Mar 2026 09:02:00 +0900"
-		},
-		{
 			"title":"두산위브 센트럴파크 강화, 강화 남단 개발 수혜 기대",
 			"originallink":"https:\/\/www.vegannews.co.kr\/news\/article.html?no=381731",
 			"link":"https:\/\/www.vegannews.co.kr\/news\/article.html?no=381731",
@@ -201,18 +208,11 @@
 			"pubDate":"Wed, 11 Mar 2026 09:02:00 +0900"
 		},
 		{
-			"title":"인천시설공단-㈜셀바이오, '기후위기 대응 도시숲' 조성 업무협약 체결",
-			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20260311010003377",
-			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20260311010003377",
-			"description":"인천시설공단(이사장 김재보) <b>청라<\/b>공원사업단은 지난 10일, 한국서부발전 사내벤처 ㈜셀바이오(대표이사 변형완)와 '기후위기 대응 도시숲 조성'을 위한 업무협약을 체결했다. 이번 협약을 통해 양 기관은 ▲지속... ",
-			"pubDate":"Wed, 11 Mar 2026 09:00:00 +0900"
-		},
-		{
-			"title":"인천나우 글로벌 독자와 소통하며 인천의 매력 전파",
-			"originallink":"https:\/\/www.viva100.com\/article\/20260311500162",
-			"link":"https:\/\/www.viva100.com\/article\/20260311500162",
-			"description":"이번 호의 주제는 ‘Connecting with Incheon’s Landscape’로▲인천 도시경관 기록 프로젝트 ▲GTX-B 노선과 <b>청라<\/b>하늘대교 등 인천 교통 인프라 발전상 ▲김용구 주한 페루 명예총영사 인터뷰를 통한 인천과 세계 도시 간 교류... ",
-			"pubDate":"Wed, 11 Mar 2026 08:54:00 +0900"
+			"title":"송도·<b>청라<\/b>보다 빨라… ‘인구 증가율 24%’ 영종, 새 주거지로 부상",
+			"originallink":"https:\/\/www.viva100.com\/article\/20260310500849",
+			"link":"https:\/\/www.viva100.com\/article\/20260310500849",
+			"description":"이는 같은 기간 송도(18%), <b>청라<\/b>(1%)를 크게 웃도는 수치다. 부동산 업계 관계자는 “인구는 가장 보수적인... 특히 지난 1월 <b>청라<\/b>하늘대교 개통으로 인천 <b>청라<\/b>·서울 서부권 접근성이 개선됐다. 향후 제2인천국제공항철도... ",
+			"pubDate":"Wed, 11 Mar 2026 09:02:00 +0900"
 		}
 	]
 }
