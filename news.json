@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 11 Mar 2026 17:00:00 +0900",
-	"total":289828,
+	"lastBuildDate":"Wed, 11 Mar 2026 17:10:01 +0900",
+	"total":289829,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 로봇기업 집중 육성…로보컵 열고 기술교류",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=04880646645382336",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006232834?sid=102",
+			"description":"로봇실증지원센터는 다음 달 인천 서구 <b>청라<\/b>동 로봇랜드에서 문을 연다. 이 센터는 기업들이 생산한 로봇을... 유 시장은 “조만간 <b>청라<\/b> 로봇랜드 내 로봇타워 1층에 인천 로봇기업 전용 상설 전시장을 마련해 국내외... ",
+			"pubDate":"Wed, 11 Mar 2026 17:06:00 +0900"
+		},
 		{
 			"title":"인천시, 로봇기업 에스피지 방문",
 			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20260311010003693",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=116256",
 			"description":"주요 콘텐츠는 ▲인천의 도시 변화를 기록한 '인천 도시경관 기록 프로젝트' ▲GTX-B 노선과 <b>청라<\/b>하늘대교 등 '인천 교통 인프라 발전상' ▲김용구 주한 페루 명예총영사 인터뷰를 통한 '인천과 세계 도시간 교류... ",
 			"pubDate":"Wed, 11 Mar 2026 12:14:00 +0900"
-		},
-		{
-			"title":"인천, 영문소식지 '인천나우' 1·2월호 발간",
-			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=696577",
-			"link":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=696577",
-			"description":"주요 콘텐츠로는 인천의 도시 변화와 기록을 소개하는 '인천 도시경관 기록 프로젝트'를 비롯해 GTX-B 노선과 <b>청라<\/b>하늘대교 등 교통 인프라 발전상, 김용구 주한 페루 명예총영사 인터뷰를 통한 국제 교류 이야기 등이... ",
-			"pubDate":"Wed, 11 Mar 2026 12:13:00 +0900"
 		}
 	]
 }
