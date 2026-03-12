@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 12 Mar 2026 14:10:01 +0900",
-	"total":289917,
+	"lastBuildDate":"Thu, 12 Mar 2026 14:20:01 +0900",
+	"total":289919,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융 주총 안건에 ISS &quot;모두 찬성&quot;…과거 반대표 사라진 배경",
+			"originallink":"https:\/\/www.bloter.net\/news\/articleView.html?idxno=656504",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/293\/0000080791?sid=101",
+			"description":"하나금융은 이번 주총을 계기로 <b>청라<\/b> 본점 이전, 비과세배당 재원 확보, 비은행 포트폴리오 강화, 디지털 금융 및 원화 스테이블코인 등 중장기 과제를 추진할 동력을 한층 확보하게 될 것으로 보인다. 금융권 관계자는... ",
+			"pubDate":"Thu, 12 Mar 2026 14:15:00 +0900"
+		},
+		{
+			"title":"조국혁신당, '1호 인재' 안광호 전 인천경제청 본부장 영입",
+			"originallink":"https:\/\/www.natv.go.kr\/natv\/news\/newsView.do?newsId=512820",
+			"link":"https:\/\/www.natv.go.kr\/natv\/news\/newsView.do?newsId=512820",
+			"description":"조국혁신당이 안광호 전 인천경제자유구역청 영종<b>청라<\/b>사업 본부장을 1호 인재로 영입했다고 밝혔습니다. 조국 대표는 인천 지역화폐 설계와 <b>청라<\/b>하늘대교 개통 등 행정 현장에서 굵직한 성과를 만들어 온 안 전 본부장을... ",
+			"pubDate":"Thu, 12 Mar 2026 14:14:00 +0900"
+		},
 		{
 			"title":"인천시, 민선 8기 주요 정책 완성 위한 ‘확대간부회의’ 개최",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160280183549911",
@@ -110,34 +124,6 @@
 			"pubDate":"Thu, 12 Mar 2026 11:29:00 +0900"
 		},
 		{
-			"title":"혁신인재에게 운동화 신겨주는 조국 대표",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260312_0002082073",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013817498?sid=100",
-			"description":"조국 조국혁신당 대표가 12일 오전 서울 여의도 국회에서 열린 혁신인재영입식에서 안광호 전 인천경제자유구역청 영종<b>청라<\/b>사업본부장에게 운동화를 신겨주고 있다. 2026.03.12. suncho21@newsis.com",
-			"pubDate":"Thu, 12 Mar 2026 11:29:00 +0900"
-		},
-		{
-			"title":"혁신인재에게 당 배지 전달하는 조국 대표",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260312_0002082080",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013817499?sid=100",
-			"description":"조국 조국혁신당 대표가 12일 오전 서울 여의도 국회에서 열린 혁신인재영입식에서 안광호 전 인천경제자유구역청 영종<b>청라<\/b>사업본부장에게 당 배지를 달아주고 있다. 2026.03.12. suncho21@newsis.com",
-			"pubDate":"Thu, 12 Mar 2026 11:29:00 +0900"
-		},
-		{
-			"title":"조국-안광호, ‘함께’",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260312_0002082090",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013817496?sid=100",
-			"description":"조국 조국혁신당 대표가 12일 오전 서울 여의도 국회에서 열린 혁신인재영입식에서 안광호 전 인천경제자유구역청 영종<b>청라<\/b>사업본부장에게 점퍼를 입혀주고 있다. 2026.03.12. suncho21@newsis.com",
-			"pubDate":"Thu, 12 Mar 2026 11:29:00 +0900"
-		},
-		{
-			"title":"‘혁신인재 안광호를 소개합니다’",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260312_0002082092",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013817494?sid=100",
-			"description":"조국 조국혁신당 대표가 12일 오전 서울 여의도 국회에서 열린 혁신인재영입식에서 안광호 전 인천경제자유구역청 영종<b>청라<\/b>사업본부장과 기념촬영을 하고 있다. 2026.03.12. suncho21@newsis.com",
-			"pubDate":"Thu, 12 Mar 2026 11:29:00 +0900"
-		},
-		{
 			"title":"안광호에게 점퍼 입혀주는 조국 대표",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260312_0002082089",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013817497?sid=100",
@@ -152,17 +138,45 @@
 			"pubDate":"Thu, 12 Mar 2026 11:29:00 +0900"
 		},
 		{
-			"title":"조국혁신당, '지방선거 1호 인재' 안광호 영입...&quot;9급 신화 쓴 행정 불도...",
-			"originallink":"https:\/\/www.ikbc.co.kr\/article\/view\/kbc202603120027",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/660\/0000105112?sid=100",
-			"description":"실제로 안 전 본부장은 인천의 지역화폐인 '인천 e음' 설계를 주도해 소상공인 지원의 틀을 마련했으며, <b>청라<\/b>하늘대교 개통과 백령공항 예비타당성 조사 통과 등 인천 지역의 굵직한 난제들을 해결하는 데 결정적인 역할을... ",
-			"pubDate":"Thu, 12 Mar 2026 11:15:00 +0900"
+			"title":"혁신인재에게 운동화 신겨주는 조국 대표",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260312_0002082073",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013817498?sid=100",
+			"description":"조국 조국혁신당 대표가 12일 오전 서울 여의도 국회에서 열린 혁신인재영입식에서 안광호 전 인천경제자유구역청 영종<b>청라<\/b>사업본부장에게 운동화를 신겨주고 있다. 2026.03.12. suncho21@newsis.com",
+			"pubDate":"Thu, 12 Mar 2026 11:29:00 +0900"
+		},
+		{
+			"title":"혁신인재에게 당 배지 전달하는 조국 대표",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260312_0002082080",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013817499?sid=100",
+			"description":"조국 조국혁신당 대표가 12일 오전 서울 여의도 국회에서 열린 혁신인재영입식에서 안광호 전 인천경제자유구역청 영종<b>청라<\/b>사업본부장에게 당 배지를 달아주고 있다. 2026.03.12. suncho21@newsis.com",
+			"pubDate":"Thu, 12 Mar 2026 11:29:00 +0900"
+		},
+		{
+			"title":"‘혁신인재 안광호를 소개합니다’",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260312_0002082092",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013817494?sid=100",
+			"description":"조국 조국혁신당 대표가 12일 오전 서울 여의도 국회에서 열린 혁신인재영입식에서 안광호 전 인천경제자유구역청 영종<b>청라<\/b>사업본부장과 기념촬영을 하고 있다. 2026.03.12. suncho21@newsis.com",
+			"pubDate":"Thu, 12 Mar 2026 11:29:00 +0900"
+		},
+		{
+			"title":"조국-안광호, ‘함께’",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260312_0002082090",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013817496?sid=100",
+			"description":"조국 조국혁신당 대표가 12일 오전 서울 여의도 국회에서 열린 혁신인재영입식에서 안광호 전 인천경제자유구역청 영종<b>청라<\/b>사업본부장에게 점퍼를 입혀주고 있다. 2026.03.12. suncho21@newsis.com",
+			"pubDate":"Thu, 12 Mar 2026 11:29:00 +0900"
 		},
 		{
 			"title":"하나금융 이전에 로봇·의료까지… 수도권 신흥 비즈니스 허브로 진화하...",
 			"originallink":"https:\/\/www.dt.co.kr\/article\/12051123?ref=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0003015367?sid=101",
 			"description":"그 대표 사례로 <b>청라<\/b>국제도시가 주목받고 있다. 주요 금융 그룹 본사 이전과 로봇 산업 집적화, 대규모 문화 인프라 구축이 동시에 진행되면서 <b>청라<\/b>가 수도권 내 새로운 비즈니스 거점으로 부상할 전망이다.... ",
+			"pubDate":"Thu, 12 Mar 2026 11:15:00 +0900"
+		},
+		{
+			"title":"조국혁신당, '지방선거 1호 인재' 안광호 영입...&quot;9급 신화 쓴 행정 불도...",
+			"originallink":"https:\/\/www.ikbc.co.kr\/article\/view\/kbc202603120027",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/660\/0000105112?sid=100",
+			"description":"실제로 안 전 본부장은 인천의 지역화폐인 '인천 e음' 설계를 주도해 소상공인 지원의 틀을 마련했으며, <b>청라<\/b>하늘대교 개통과 백령공항 예비타당성 조사 통과 등 인천 지역의 굵직한 난제들을 해결하는 데 결정적인 역할을... ",
 			"pubDate":"Thu, 12 Mar 2026 11:15:00 +0900"
 		},
 		{
@@ -194,25 +208,11 @@
 			"pubDate":"Thu, 12 Mar 2026 11:00:00 +0900"
 		},
 		{
-			"title":"대우건설, 영종 ‘운서역 푸르지오 더 스카이 2차’ 견본주택 13일 개관",
-			"originallink":"https:\/\/www.viva100.com\/article\/20260312500586",
-			"link":"https:\/\/www.viva100.com\/article\/20260312500586",
-			"description":"특히 지난 1월 <b>청라<\/b>하늘대교 개통으로 인천 <b>청라<\/b>·서울 서부권 접근성이 개선됐다. 향후 제2인천국제공항철도(예정)와 서해남북평화도로(계획) 개통 시 교통편의성은 더욱 높아질 전망이다. 이와 함께 초등학교와... ",
-			"pubDate":"Thu, 12 Mar 2026 10:56:00 +0900"
-		},
-		{
 			"title":"정부, 전기차 화재 피해보상 제도 추진…‘전기차 화재안심보험’ 공모",
 			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20260312105501",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002414034?sid=103",
 			"description":"2024년 8월 1일 발생한 전기차 화재 사고로 인천 서구 <b>청라<\/b>동 아파트 단지 지하주차장이 새까맣게 그을려 있다 (사진=뉴스1) 기후부는 접수된 제안서를 평가해 보험사업자를 선정하고, 선정된 보험사업자는 관계기관 협의... ",
 			"pubDate":"Thu, 12 Mar 2026 10:56:00 +0900"
-		},
-		{
-			"title":"혁신당, 안광호 전 인천경제청 본부장 '1호 인재' 영입",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03332486645382664",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006233245?sid=100",
-			"description":"조국혁신당은 12일 당 ‘1호 인재’로 안광호 전 인천경제자유구역청 영종<b>청라<\/b>사업본부장을 영입했다. 6·3... 됐고 <b>청라<\/b>하늘대교 개통과 백령공항 예비타당성 조사 통과 등 인천의 난제들을 불도저처럼 밀어붙여 성과를... ",
-			"pubDate":"Thu, 12 Mar 2026 10:52:00 +0900"
 		}
 	]
 }
