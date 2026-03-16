@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 16 Mar 2026 21:20:01 +0900",
-	"total":290104,
+	"lastBuildDate":"Mon, 16 Mar 2026 21:30:01 +0900",
+	"total":290105,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천경제청, 주유소 가격표시제 등 일제 점검 실시",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=633125",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=633125",
+			"description":"점검 대상은 송도(3개소), 영종(8개소), <b>청라<\/b>(2개소) 등 경제자유구역 내 위치한 주유소 총 13개소다. 주요 점검 사항은 ▲석유류 가격표시제 실시요령 준수 여부 ▲취급 석유제품 외 타 제품 판매 행위 등이다. 점검 결과... ",
+			"pubDate":"Mon, 16 Mar 2026 21:20:00 +0900"
+		},
 		{
 			"title":"인천 중구, 운서2동 행정복지센터 임시청사 개청",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=633111",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001340670?sid=102",
 			"description":"로봇 타워와 로봇 연구개발 센터가 있는 <b>청라<\/b>에 각종 기반 시설을 조성해 로봇 산업의 중심지로 키운다는 청사진도 내놨습니다. [유정복\/인천광역시장 : 로봇산업은 앞으로 인천의 미래 혁신전략산업이 될 겁니다. 그래서... ",
 			"pubDate":"Mon, 16 Mar 2026 12:40:00 +0900"
-		},
-		{
-			"title":"인천경제청, 주유소 가격표시제 일제 점검",
-			"originallink":"https:\/\/news.tf.co.kr\/read\/national\/2302554.htm",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000481707?sid=102",
-			"description":"점검 대상은 송도(3개소), 영종(8개소), <b>청라<\/b>(2개소) 등 경제자유구역 내 위치한 주유소 총 13개소다. 주요 점검 사항은 △석유류 가격표시제 실시 요령 준수 여부 △취급 석유제품 외 타 제품 판매 행위 등이다. 점검 결과... ",
-			"pubDate":"Mon, 16 Mar 2026 12:37:00 +0900"
 		}
 	]
 }
