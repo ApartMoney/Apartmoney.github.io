@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Wed, 18 Mar 2026 10:00:01 +0900",
-	"total":290207,
+	"lastBuildDate":"Wed, 18 Mar 2026 10:10:00 +0900",
+	"total":290210,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;15년의 기다림&quot;... '검암역세권 공공주택지구' 마침내 닻 올렸다",
+			"originallink":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=30312",
+			"link":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=30312",
+			"description":"검암역세권이 주목 받는 이유는 <b>청라<\/b>국제도시와 검단신도시를 잇는 '연결축'으로 인천 서구 주거 벨트를... ◆ 공항철도·인천2호선, 검암역 복합환승센터와 <b>청라<\/b>IC 등 교통 대책… '교통혁명' 예고 검암역세권의 가장... ",
+			"pubDate":"Wed, 18 Mar 2026 10:06:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>하늘대교·7호선 연장 호재에…<b>청라<\/b>, 수도권 서부 교통 거점 부상",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1702659",
+			"link":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1702659",
+			"description":"인천 <b>청라<\/b>국제도시가 교통 인프라 확충을 발판으로 수도권 서부 핵심 거점으로 부상하고 있다. <b>청라<\/b>하늘대교(제3연륙교) 개통과 서울 지하철 7호선 연장 사업이 맞물리며 광역 접근성이 크게 개선되고, 이에 따른 주거... ",
+			"pubDate":"Wed, 18 Mar 2026 10:04:00 +0900"
+		},
+		{
+			"title":"인천 SOC 판 커진다...건설사 '민자 인프라' 수주전",
+			"originallink":"https:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=243662",
+			"link":"https:\/\/www.asiaa.co.kr\/news\/articleView.html?idxno=243662",
+			"description":"포스코이앤씨은 지난 2025년 인천 영종과 <b>청라<\/b>를 연결하는 제3연륙교 공사를 재개하며 사업 정상화 국면에... 서울지하철 7호선 <b>청라<\/b>연장선에서는 금호건설이 1공구, 동부건설이 6공구를 각각 맡아 공사를 진행 중이다.... ",
+			"pubDate":"Wed, 18 Mar 2026 10:02:00 +0900"
+		},
 		{
 			"title":"[6·3 지방선거 이모저모] 김용섭 인천 서구청장 예비후보 &quot;정당보다 시...",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363720005",
@@ -47,17 +68,17 @@
 			"pubDate":"Wed, 18 Mar 2026 09:22:00 +0900"
 		},
 		{
-			"title":"남산타워까지 보이는 기네스북 기록 교량전망대, 다음달 개장",
-			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03119286645384632",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006237588?sid=102",
-			"description":"연합 인천경제자유구역청은 <b>청라<\/b>하늘대교(제3연륙교) 주탑 전망대를 포함한 관광 시설 다음 달 개장을... 전망대에선 <b>청라<\/b>·영종국제도시와 서해 경치를 관람할 수 있으며 맑은 날에는 서울 롯데월드타워와... ",
-			"pubDate":"Wed, 18 Mar 2026 09:14:00 +0900"
-		},
-		{
 			"title":"인천연구원, 검여 유희강 서거 50주년 기념 학술 심포지엄 개최",
 			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=226436",
 			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=226436",
 			"description":"인천연구원은 21일 <b>청라<\/b> 블루노바 홀에서 '검여 유희강의 예술세계 재조명과 K-Culture로의 확장'을 주제로 '제13차 현장동행 정책대화'를 인천 서구 문화재단과 공동주관으로 개최한다. 검여 유희강 서거 50주년을 기념해... ",
+			"pubDate":"Wed, 18 Mar 2026 09:14:00 +0900"
+		},
+		{
+			"title":"남산타워까지 보이는 기네스북 기록 교량전망대, 다음달 개장",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03119286645384632",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006237588?sid=102",
+			"description":"연합 인천경제자유구역청은 <b>청라<\/b>하늘대교(제3연륙교) 주탑 전망대를 포함한 관광 시설 다음 달 개장을... 전망대에선 <b>청라<\/b>·영종국제도시와 서해 경치를 관람할 수 있으며 맑은 날에는 서울 롯데월드타워와... ",
 			"pubDate":"Wed, 18 Mar 2026 09:14:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3531974",
 			"description":"내항 유치를 촉구했으며, 김광호 의원은 인천해사법원의 영종구 유치를 강력히 촉구했다. 또한 윤효화 의원은 영종 및 금산 나들목의 만성적인 차량정체 해소를 위해 <b>청라<\/b>하늘대교와 연계한 교통 개선 방안을 제안했다.",
 			"pubDate":"Tue, 17 Mar 2026 23:06:00 +0900"
-		},
-		{
-			"title":"김종배 미추홀구청장 예비후보 출마 선언",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=633273",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=633273",
-			"description":"김 후보는 미추홀구는 조선시대부터 행정·군사·교육의 도시였으나 송도, 논현, <b>청라<\/b>, 영종 신도시 조성으로 구도심으로 전락하여 떠나는 미추홀구가 되었다고 지적하고, 사람중심 행복도시 미추홀구 건설을 통해 다시... ",
-			"pubDate":"Tue, 17 Mar 2026 21:40:00 +0900"
-		},
-		{
-			"title":"이영철 의원, 2026 혁신인물 대상 수상",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=633266",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=633266",
-			"description":"이영철 의원(더불어민주당, 당하·마전·오류왕길·<b>청라<\/b>3동)이 지난 16일 한국프레스센터에서 열린 에서 의정정책 공헌 부문 대상을 수상했다. 서구의회 더불어민주당 원내대표·의회 운영위원회 위원장 등을 역임한... ",
-			"pubDate":"Tue, 17 Mar 2026 21:36:00 +0900"
-		},
-		{
-			"title":"‘검암역자이르네’ 5월 분양…여의도·마곡 접근성 좋은 더블역세권",
-			"originallink":"https:\/\/www.sedaily.com\/article\/20020119?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004600390?sid=101",
-			"description":"단지 인근 인천국제공항고속도로(<b>청라<\/b>IC)를 통한 광역 도로망 이용도 수월하다. 여기에 검암역은 향후 서울지하철 9호선 직결(계획)이 예정돼 있어 강남권 접근성이 획기적으로 개선될 전망이다. 이 외에도 인천 서구는... ",
-			"pubDate":"Tue, 17 Mar 2026 19:01:00 +0900"
 		}
 	]
 }
