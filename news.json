@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 26 Mar 2026 04:50:01 +0900",
-	"total":291240,
+	"lastBuildDate":"Thu, 26 Mar 2026 05:00:00 +0900",
+	"total":291241,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘 날씨 03\/26] 전국 대체로 맑지만, 일교차 커...미세먼지 '나쁨'",
+			"originallink":"https:\/\/www.wolyo.co.kr\/news\/articleView.html?idxno=310264",
+			"link":"https:\/\/www.wolyo.co.kr\/news\/articleView.html?idxno=310264",
+			"description":"영종대교와 인천대교, <b>청라<\/b>하늘대교, 서해대교, 천사대교 등 해안 교량과 강·호수·골짜기 인접 도로에서는 안개가 더욱 짙을 것으로 보여 교통안전에 주의가 필요하다. 오전 사이 경기동부와 강원내륙·산지, 충청권... ",
+			"pubDate":"Thu, 26 Mar 2026 04:50:00 +0900"
+		},
 		{
 			"title":"날씨, 대구23도 &quot;봄기운 쑥↑&quot; 벚꽃 개화, 서울19도·부산20도",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3539821",
@@ -117,17 +124,17 @@
 			"pubDate":"Wed, 25 Mar 2026 21:56:00 +0900"
 		},
 		{
-			"title":"[내일날씨]일교차 큰 봄 날씨…서울 낮 최고 19도",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2026032521340748510",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005740176?sid=102",
-			"description":"특히 해안에 위치한 영종대교, 인천대교, <b>청라<\/b>하늘대교 등과 내륙 강, 호수, 골짜기 인접 도로는 주변보다 안개가 자욱할 전망이다. 차량 운행 시 감속 운행해야 한다는 주문이다. 아울러 건조특보가 발효된 수도권과... ",
-			"pubDate":"Wed, 25 Mar 2026 21:34:00 +0900"
-		},
-		{
 			"title":"[아주경제 오늘의 뉴스 종합] 靑 &quot;보유세, 아직 뽑지 않은 '히든카드'…...",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20260325212727729",
 			"link":"https:\/\/www.ajunews.com\/view\/20260325212727729",
 			"description":"해안에 위치한 교량(영종대교, 인천대교, <b>청라<\/b>하늘대교, 서해대교, 천사대교 등)과 내륙의 강이나 호수, 골짜기에 인접한 도로에서는 주변보다 안개가 더욱 짙게 끼는 곳이 있겠다. 오전 사이 경기동부와 강원내륙·산지... ",
+			"pubDate":"Wed, 25 Mar 2026 21:34:00 +0900"
+		},
+		{
+			"title":"[내일날씨]일교차 큰 봄 날씨…서울 낮 최고 19도",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2026032521340748510",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005740176?sid=102",
+			"description":"특히 해안에 위치한 영종대교, 인천대교, <b>청라<\/b>하늘대교 등과 내륙 강, 호수, 골짜기 인접 도로는 주변보다 안개가 자욱할 전망이다. 차량 운행 시 감속 운행해야 한다는 주문이다. 아울러 건조특보가 발효된 수도권과... ",
 			"pubDate":"Wed, 25 Mar 2026 21:34:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=467592",
 			"description":"세계에서 가장 높은 바다 위 주탑,  인천 <b>청라<\/b>하늘대교에 마련한 '해상 전망대(더 스카이 184)'가 다음달 정식 개장을 앞뒀습니다. 아찔한 높이 만큼 시원했던 바다 위 풍광을 김예빈 기자가 먼저 전합니다. [기자] '바다... ",
 			"pubDate":"Wed, 25 Mar 2026 18:24:00 +0900"
-		},
-		{
-			"title":"계양구, '주민자치 역량강화 교육' 실시",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3539558",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3539558",
-			"description":"이번 교육은 인천환경공단 <b>청라<\/b>사업소장인 김기형 강사가 맡아 지역사회 문제 해결과 공동체 활성화를 위한 다양한 주민자치 실천 사례를 소개했으며. 특히 환경 분야를 중심으로 위원들이 갖추어야 할 역할과... ",
-			"pubDate":"Wed, 25 Mar 2026 18:18:00 +0900"
 		}
 	]
 }
