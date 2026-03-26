@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 26 Mar 2026 16:30:01 +0900",
-	"total":291293,
+	"lastBuildDate":"Thu, 26 Mar 2026 16:40:01 +0900",
+	"total":291294,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[내일날씨] 큰 일교차 계속…내륙 낮 20도 안팎",
+			"originallink":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16016948",
+			"link":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16016948",
+			"description":"특히 영종대교와 인천대교, <b>청라<\/b>하늘대교, 서해대교, 천사대교 등 해안 교량과 강·호수·골짜기 인접 도로는 주변보다 안개가 더 짙을 가능성이 커 출근 시간대 감속 운행이 필요하다. 짙은 안개로 이슬비가 내리는... ",
+			"pubDate":"Thu, 26 Mar 2026 16:30:00 +0900"
+		},
 		{
 			"title":"[내일의 날씨] 서쪽 200m 짙은 안개·수도권 5mm 미만 비…중부·경북 대...",
 			"originallink":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16016949",
@@ -47,17 +54,17 @@
 			"pubDate":"Thu, 26 Mar 2026 15:22:00 +0900"
 		},
 		{
-			"title":"종량제 봉투 사재기 비상...인천시, 200일치 물량 확보·가격 인상 계획...",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=435045",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=435045",
-			"description":"주변에서 다들 산다고 하길래 군중심리가 작용했나 보다.&quot; ＃인천 <b>청라<\/b> 주민 B씨 － &quot;친구들이 SNS를 통해 빨리 종량제 봉투를 사야 한다, 전쟁 때문에 이제 봉투를 못 산다고 해서 주변에 있는 마트나 편의점에 들러 어제... ",
-			"pubDate":"Thu, 26 Mar 2026 15:02:00 +0900"
-		},
-		{
 			"title":"[더벨][건설리포트] 서한, 자체사업 비중 확대에 수익성 개선",
 			"originallink":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202603241536198520104663",
 			"link":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202603241536198520104663",
 			"description":"서한은 대구·경북뿐 아니라 인천 <b>청라<\/b>, 김포, 수원 호매실 등 수도권에도 다수의 토지를 확보하고 있다. 아직 구체적인 개발 계획은 확정되지 않았지만 자체사업과 매각을 병행하는 다양한 활용 방안을 검토 중이다.... ",
+			"pubDate":"Thu, 26 Mar 2026 15:02:00 +0900"
+		},
+		{
+			"title":"종량제 봉투 사재기 비상...인천시, 200일치 물량 확보·가격 인상 계획...",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=435045",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=435045",
+			"description":"주변에서 다들 산다고 하길래 군중심리가 작용했나 보다.&quot; ＃인천 <b>청라<\/b> 주민 B씨 － &quot;친구들이 SNS를 통해 빨리 종량제 봉투를 사야 한다, 전쟁 때문에 이제 봉투를 못 산다고 해서 주변에 있는 마트나 편의점에 들러 어제... ",
 			"pubDate":"Thu, 26 Mar 2026 15:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3059001",
 			"description":"<b>청라<\/b>하늘대교,세계에서 가장높은대교,유정복 시장 유정복 인천시장이 세계에서 가장 높은 해상 교량 전망대를 로고를 보고있다. 인천시 제공 인천시는 유정복 시장이 <b>청라<\/b>하늘대교 관광시설 현장을 찾아 시설 운영 계획... ",
 			"pubDate":"Thu, 26 Mar 2026 10:20:00 +0900"
-		},
-		{
-			"title":"&quot;주거·돌봄까지 묶었다&quot;…인천시, 제조업 근로자 '기초이음 프로젝트'...",
-			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=681802",
-			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=681802",
-			"description":"특히 인천은 송도·<b>청라<\/b> 등 신도시 중심으로 주거지가 확대되면서, 부평·남동·미추홀 등 산업단지와의 공간적 분리가 심화된 상황이다. 이에 따라 근로자의 출퇴근 부담과 생활 불균형 문제가 지속적으로 제기돼 왔다.... ",
-			"pubDate":"Thu, 26 Mar 2026 10:04:00 +0900"
 		}
 	]
 }
