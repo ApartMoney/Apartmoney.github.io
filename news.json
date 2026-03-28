@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 29 Mar 2026 08:00:01 +0900",
-	"total":291391,
+	"lastBuildDate":"Sun, 29 Mar 2026 08:10:01 +0900",
+	"total":291392,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전국 지역별 오늘의 날씨 및 내일날씨, 내륙 중심 대기 매우 건조, 내일...",
+			"originallink":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=419680",
+			"link":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=419680",
+			"description":"- 특히, 해안에 위치한 교량(인천대교, 영종대교, <b>청라<\/b>하늘대교, 서해대교 등)과 내륙의 강이나 호수, 골짜기에 인접한 도로에서는 안개가 더욱 짙게 끼는 곳이 있겠고, 짙은 안개로 인해 이슬비가 내리는 곳도... ",
+			"pubDate":"Sun, 29 Mar 2026 08:00:00 +0900"
+		},
 		{
 			"title":"&quot;경제자유구역인데&quot;…'<b>청라<\/b>하늘교 통행료 0원 제외' 외국인 반발",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260327041600065?input=1195m",
@@ -131,17 +138,17 @@
 			"pubDate":"Sat, 28 Mar 2026 09:02:00 +0900"
 		},
 		{
-			"title":"대구도시철도 '시니어 안전지킴이' 신속 대응 에스컬레이터 피해 막아",
-			"originallink":"https:\/\/www.news1.kr\/local\/daegu-gyeongbuk\/6116838",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0008854370?sid=102",
-			"description":"28일 대구교통공사에 따르면 지난 23일 도시철도 2호선 <b>청라<\/b>언덕역 에스컬레이터에서 짐과 손수레를 들고 이동하던 승객이 중심을 잃고 넘어지면서 뒤따르던 승객들이 연쇄적으로 넘어지는 사고가 났다. 현장에 있던... ",
-			"pubDate":"Sat, 28 Mar 2026 09:02:00 +0900"
-		},
-		{
 			"title":"물류·오피스·호텔까지 ‘빅딜’…상업용 부동산 시장에 봄이 왔다[0과...",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01964726645387912",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006244528?sid=101",
 			"description":"채 한 달이 지나기 전 12월에는 ‘<b>청라<\/b> 로지스틱스 물류센터’가 약 1조 300억원에 주인이 바뀌며 그 기록을 단번에 갈아치웠다. 그리고 올해 1월 인천 ‘아레나스영종 물류센터’가 약 4320억원에 거래되며 대형 딜의... ",
+			"pubDate":"Sat, 28 Mar 2026 09:02:00 +0900"
+		},
+		{
+			"title":"대구도시철도 '시니어 안전지킴이' 신속 대응 에스컬레이터 피해 막아",
+			"originallink":"https:\/\/www.news1.kr\/local\/daegu-gyeongbuk\/6116838",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0008854370?sid=102",
+			"description":"28일 대구교통공사에 따르면 지난 23일 도시철도 2호선 <b>청라<\/b>언덕역 에스컬레이터에서 짐과 손수레를 들고 이동하던 승객이 중심을 잃고 넘어지면서 뒤따르던 승객들이 연쇄적으로 넘어지는 사고가 났다. 현장에 있던... ",
 			"pubDate":"Sat, 28 Mar 2026 09:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3542121",
 			"description":"이와 함께, 해안에 위치한 교량(인천대교, 영종대교, <b>청라<\/b>하늘대교, 서해대교 등)과 내륙의 강이나 호수, 골짜기에 인접한 도로에서는 안개가 더욱 짙게 끼는 곳이 있겠다. 아울러, 오늘(28일) 아침최저기온은 서울시... ",
 			"pubDate":"Sat, 28 Mar 2026 00:14:00 +0900"
-		},
-		{
-			"title":"3\/28~3\/29 이마트·홈플러스·롯데마트 대형마트 휴무일·영업시간... 대...",
-			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=252234",
-			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=252234",
-			"description":"가좌, <b>청라<\/b>, 인천연수, 인천송도, 부천여월, 부천소사, 분당오리, 야탑, 시화, 송탄, 평택안중, 화성향남... 송도점, <b>청라<\/b>점, 검단점, 부평점, 영종도점, 삼산점, 연수점, 부평역점, 시흥배곧점, 경기양평점, 판교점... ",
-			"pubDate":"Sat, 28 Mar 2026 00:06:00 +0900"
 		}
 	]
 }
