@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 29 Mar 2026 04:30:01 +0900",
-	"total":291386,
+	"lastBuildDate":"Sun, 29 Mar 2026 04:40:01 +0900",
+	"total":291387,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 날씨] 내륙 '대기 매우 건조' 계속…내일~모레 전국 5mm~100mm 비...",
+			"originallink":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16019043",
+			"link":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16019043",
+			"description":"영종대교와 인천대교, <b>청라<\/b>하늘대교, 서해대교, 천사대교 등 서해안에 위치한 교량과, 내륙의 강·호수·골짜기 인접 도로에서는 주변보다 안개가 더 짙어지고, 일부 지역에서는 짙은 안개로 인해 이슬비가 내리는... ",
+			"pubDate":"Sun, 29 Mar 2026 04:32:00 +0900"
+		},
 		{
 			"title":"날씨, 주말 봄기운 쑥↑ 대구22도, 서울날씨 &quot;미세먼지 불청객&quot;",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3542535",
@@ -89,17 +96,17 @@
 			"pubDate":"Sat, 28 Mar 2026 10:02:00 +0900"
 		},
 		{
-			"title":"&quot;출근은 강남, 퇴근은 영종&quot;… 강남 직행 M버스 신설에 영종 '주목'",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=331713",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=331713",
-			"description":"공항철도를 이용하면 서울역까지 환승 없이 이동할 수 있고, 최근 <b>청라<\/b>하늘대교 개통으로 차량 이동 여건도 한층 개선됐다. 경인고속도로 지하화 사업이 완료되면 여의도까지의 접근성도 한층 편리해 질 전망이다.... ",
-			"pubDate":"Sat, 28 Mar 2026 09:02:00 +0900"
-		},
-		{
 			"title":"물류·오피스·호텔까지 ‘빅딜’…상업용 부동산 시장에 봄이 왔다[0과...",
 			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01964726645387912",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006244528?sid=101",
 			"description":"채 한 달이 지나기 전 12월에는 ‘<b>청라<\/b> 로지스틱스 물류센터’가 약 1조 300억원에 주인이 바뀌며 그 기록을 단번에 갈아치웠다. 그리고 올해 1월 인천 ‘아레나스영종 물류센터’가 약 4320억원에 거래되며 대형 딜의... ",
+			"pubDate":"Sat, 28 Mar 2026 09:02:00 +0900"
+		},
+		{
+			"title":"&quot;출근은 강남, 퇴근은 영종&quot;… 강남 직행 M버스 신설에 영종 '주목'",
+			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=331713",
+			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=331713",
+			"description":"공항철도를 이용하면 서울역까지 환승 없이 이동할 수 있고, 최근 <b>청라<\/b>하늘대교 개통으로 차량 이동 여건도 한층 개선됐다. 경인고속도로 지하화 사업이 완료되면 여의도까지의 접근성도 한층 편리해 질 전망이다.... ",
 			"pubDate":"Sat, 28 Mar 2026 09:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=435081",
 			"description":"및 경제청 사업(보조금) 신청 절차는 개별 공고를 확인해야 한다. 경제청 관할 지역인 송도, <b>청라<\/b>, 영종은 시 보조금과 중복지원이 불가하다. 신청자가 설치 에너지원 및 시공업체를 선택해 계약을 체결하는 방식이다.",
 			"pubDate":"Fri, 27 Mar 2026 19:52:00 +0900"
-		},
-		{
-			"title":"중동 위기에 더 취약한 중소기업들 발 동동 &quot;경영 부담에 비상상황&quot;",
-			"originallink":"http:\/\/www.mbn.co.kr\/pages\/news\/newsView.php?news_seq_no=5184583",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/057\/0001941933?sid=101",
-			"description":"【 기자 】 인천 <b>청라<\/b>의 한 중소기업. 주변에서 쉽게 볼 수 있는 다양한 제품의 뚜껑을 생산하고 있습니다. 하지만 갈수록 악화되는 중동 정세에 공장 운영에 비상등이 켜졌습니다. '나프타 쇼크'로 제품의 원료인 에틸렌... ",
-			"pubDate":"Fri, 27 Mar 2026 19:13:00 +0900"
 		}
 	]
 }
