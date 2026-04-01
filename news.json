@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 01 Apr 2026 09:10:01 +0900",
-	"total":291669,
+	"lastBuildDate":"Wed, 01 Apr 2026 09:20:01 +0900",
+	"total":291670,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"AI 활용 '스마트시티' 인천 찾은 기자들… &quot;도시개발 롤모델&quot;",
+			"originallink":"http:\/\/www.journalist.or.kr\/news\/article.html?no=60630",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/127\/0000039072?sid=102",
+			"description":"인천은 송도를 비롯해 영종도, <b>청라<\/b> 등 경제자유구역을 중심으로 스마트시티 모델을 구축하고 있다. 스마트시티 관계자의 상세한 설명이 끝나자 기자들은 “스마트시티 시스템의 적용 범위를 향후 도시 전체로 확대할... ",
+			"pubDate":"Wed, 01 Apr 2026 09:13:00 +0900"
+		},
 		{
 			"title":"[기획] &quot;회색 도시의 대반전&quot;... 인천, 대한민국에서 가장 빠르게 진화하...",
 			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=132998",
@@ -117,17 +124,17 @@
 			"pubDate":"Tue, 31 Mar 2026 22:34:00 +0900"
 		},
 		{
-			"title":"인천시, 송도 환경기초시설 정기정비 ‘전면 업그레이드’",
-			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=2026033015335222226e1e092a28_29",
-			"link":"http:\/\/www.globalepic.co.kr\/view.php?ud=2026033015335222226e1e092a28_29",
-			"description":"정비 기간 중인 4월 2일부터 4월 24일까지 일부 지역의 생활폐기물 반입이 일시 중단되지만, <b>청라<\/b>자원환경센터 교차 반입과 민간 위탁 처리 등을 통해 처리 공백과 시민 불편을 최소화할 방침이다. 시는 환경기초시설을... ",
-			"pubDate":"Tue, 31 Mar 2026 22:32:00 +0900"
-		},
-		{
 			"title":"인천경제청, 주택 신재생에너지 설치 지원 신청 접수",
 			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=2026033015381621426e1e092a28_29",
 			"link":"http:\/\/www.globalepic.co.kr\/view.php?ud=2026033015381621426e1e092a28_29",
 			"description":"인천경제자유구역청은 송도․영종․<b>청라<\/b>국제도시 내 민간주택에 신재생 에너지 보급사업을 추진한다고 밝혔다. 오는 4월 14일부터 신청서를 접수한다. 이 사업은 민간 부문 신재생 에너지 보급 확대와 친환경... ",
+			"pubDate":"Tue, 31 Mar 2026 22:32:00 +0900"
+		},
+		{
+			"title":"인천시, 송도 환경기초시설 정기정비 ‘전면 업그레이드’",
+			"originallink":"http:\/\/www.globalepic.co.kr\/view.php?ud=2026033015335222226e1e092a28_29",
+			"link":"http:\/\/www.globalepic.co.kr\/view.php?ud=2026033015335222226e1e092a28_29",
+			"description":"정비 기간 중인 4월 2일부터 4월 24일까지 일부 지역의 생활폐기물 반입이 일시 중단되지만, <b>청라<\/b>자원환경센터 교차 반입과 민간 위탁 처리 등을 통해 처리 공백과 시민 불편을 최소화할 방침이다. 시는 환경기초시설을... ",
 			"pubDate":"Tue, 31 Mar 2026 22:32:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3018134",
 			"description":"강화 남단은 기존 송도·영종·<b>청라<\/b> 등 경제자유구역과 연계가 가능하고 인천국제공항과 인접해 산업·물류 시너지 창출과 외국인 투자 유치 측면에서 잠재력이 크다는 평가다. 이와 관련해 인천경제자유구역청... ",
 			"pubDate":"Tue, 31 Mar 2026 17:04:00 +0900"
-		},
-		{
-			"title":"[2026 정기주총] 4대 금융지주, 연임·자본정책 확정···실행국면 전환",
-			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=252328",
-			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=252328",
-			"description":"지주 기능은 인천 <b>청라<\/b>로 이전하고, 은행 영업 기능은 을지로에 유지하는 방식이다. <b>청라<\/b>에는 데이터센터와 글로벌캠퍼스 등 기존 인프라가 구축돼 있으며, 약 2800명 규모 인력이 순차적으로 이동할 예정이다.... ",
-			"pubDate":"Tue, 31 Mar 2026 16:54:00 +0900"
 		}
 	]
 }
