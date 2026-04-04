@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 05 Apr 2026 02:00:01 +0900",
-	"total":291818,
+	"lastBuildDate":"Sun, 05 Apr 2026 02:10:00 +0900",
+	"total":291819,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[날씨] 수도권, 가시거리 200m 미만 안개· · ·항공교통 운항정보 확인",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3548943",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3548943",
+			"description":"아울러, 해안에 위치한 교량(인천대교, 영종대교, <b>청라<\/b>하늘대교, 서해대교 등)과 내륙의 강이나 호수, 골짜기에 인접한 도로에서는 주변보다 안개가 더욱 짙게 끼는 곳이 있겠다. 또한, 공항에서는 짙은 안개로 인해... ",
+			"pubDate":"Sun, 05 Apr 2026 02:08:00 +0900"
+		},
 		{
 			"title":"오늘(4\/5) 코스트코 휴무일, 영업하는 지점·영업시간 확인... 春 실속 추...",
 			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=252637",
@@ -145,17 +152,17 @@
 			"pubDate":"Fri, 03 Apr 2026 16:32:00 +0900"
 		},
 		{
-			"title":"대방건설, 옥정중앙역 디에트르와 7호선 옥정중앙역 직통 연결 추진",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20260403000957",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20260403000957",
-			"description":"<b>청라<\/b>국제도시 사례에서 호수공원 인접 단지가 비인접 단지 대비 공급면적 120~135㎡ 기준 최대 2억~3억원 높은 시세를 형성하고 있다. 남측으로는 옥정신도시 중심상업지구가 바로 인접해 있다. 학원 89개, 점포 813개가... ",
-			"pubDate":"Fri, 03 Apr 2026 16:26:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>하늘대교 영종 측 하늘광장 공영주차장, 5월 1일부터 운영",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=116908",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=116908",
 			"description":"<b>청라<\/b>하늘대교 영종 하늘광장 공영주차장이 5월 1일부터 유료 운영을 시작한다. 인천경제자유구역청은 3일 '하늘광장 공영주차장 (유료)운영에 따른 행정예고 공고'를 냈다. <b>청라<\/b>하늘대교(옛 제3연륙교) 영종 측 교량... ",
+			"pubDate":"Fri, 03 Apr 2026 16:26:00 +0900"
+		},
+		{
+			"title":"대방건설, 옥정중앙역 디에트르와 7호선 옥정중앙역 직통 연결 추진",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20260403000957",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20260403000957",
+			"description":"<b>청라<\/b>국제도시 사례에서 호수공원 인접 단지가 비인접 단지 대비 공급면적 120~135㎡ 기준 최대 2억~3억원 높은 시세를 형성하고 있다. 남측으로는 옥정신도시 중심상업지구가 바로 인접해 있다. 학원 89개, 점포 813개가... ",
 			"pubDate":"Fri, 03 Apr 2026 16:26:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005744630?sid=101",
 			"description":"단지 좌측에 인접한 봉수대로와 <b>청라<\/b>IC를 통해 인천국제공항고속도로를 이용하기도 수월해 사통팔달 광역 교통망을 갖췄다. 또한 단지 반경 200m 이내에 유치원과 초등학교, 중학교 신설 부지가 나란히 계획되어 있어... ",
 			"pubDate":"Fri, 03 Apr 2026 10:30:00 +0900"
-		},
-		{
-			"title":"인천TP, 인천 로봇산업 '퀀텀 점프' 돕는다…사업화 자금 2천만 원 지원",
-			"originallink":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=268230",
-			"link":"http:\/\/www.paxetv.com\/news\/articleView.html?idxno=268230",
-			"description":"<b>청라<\/b> 로봇타워 전경\/ [사진=인천TP] 인천테크노파크(이하 인천TP)가 지역 로봇 기업들의 기술력을 끌어올리고 판로를 넓히기 위해 '2026 로봇기업 사업화 지원사업'에 참여할 기업을 오는 10일까지 모집합니다. 이번 사업은... ",
-			"pubDate":"Fri, 03 Apr 2026 10:18:00 +0900"
 		}
 	]
 }
