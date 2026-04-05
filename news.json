@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 05 Apr 2026 20:00:01 +0900",
-	"total":291852,
+	"lastBuildDate":"Sun, 05 Apr 2026 20:10:00 +0900",
+	"total":291853,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"물류센터에 태양광발전소 설치…LX판토스, SK이노 E&amp;S와 맞손",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2572815",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2572815",
+			"description":"태앙광 발전시설은 메가와이즈<b>청라<\/b>센터, 신항에코센터, SC용인센터 등 자가 물류센터 3곳의 지붕부지에 총 2㎿ 규모로 설치된다. SC용인센터에서 생산한 전력을 신항에코센터로 공급하는 연계 시스템을 만들면 연간... ",
+			"pubDate":"Sun, 05 Apr 2026 20:08:00 +0900"
+		},
 		{
 			"title":"LX판토스-SK이노베이션 E&amp;S 맞손…물류센터 전력 생산·연계 본격화",
 			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2026040519383368752",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20260405092721121",
 			"description":"LX판토스는 메가와이즈<b>청라<\/b>센터(인천), 신항에코센터(창원), SC용인센터(용인) 등 자가 물류센터 3곳 지붕에 총 2MW 규모의 태양광 발전시설을 설치한다. 각 센터가 전력을 자체 생산·소비하는 데 그치지 않고... ",
 			"pubDate":"Sun, 05 Apr 2026 09:30:00 +0900"
-		},
-		{
-			"title":"LX판토스-SK이노베이션 E&amp;S, 태양광 발전 협력",
-			"originallink":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=267015",
-			"link":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=267015",
-			"description":"LX판토스는 메가와이즈<b>청라<\/b>센터(인천), 신항에코센터(창원), SC용인센터(용인) 등 자가 물류센터 3곳의 지붕부지에 총 2MW 규모의 태양광 발전시설을 설치할 예정이다. 특히 각 센터에서 자체적으로 전력을 생산... ",
-			"pubDate":"Sun, 05 Apr 2026 09:20:00 +0900"
 		}
 	]
 }
