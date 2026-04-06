@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 06 Apr 2026 12:50:01 +0900",
-	"total":291876,
+	"lastBuildDate":"Mon, 06 Apr 2026 13:00:01 +0900",
+	"total":291878,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[6일 인천 서구] 식목일 기념 나무 심기 및 산불 예방 캠페인 등",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20260406500149",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20260406500149",
+			"description":"나무심기행사(사진=서구 제공) 인천 서구는 제81회 식목일을 기념하여 지난 3일 원창공원(<b>청라<\/b>동 205-4번지)에서 지역주민과 함께하는 나무심기 행사를 개최하여 도심 속 탄소중립 실천에 앞장섰다. 행사에는... ",
+			"pubDate":"Mon, 06 Apr 2026 12:58:00 +0900"
+		},
 		{
 			"title":"&quot;여보, 우리도 전기차로 바꿀까?&quot; 초고유가 시대 갓성비 주목",
 			"originallink":"https:\/\/radio.ytn.co.kr\/program\/?f=2&id=108178&s_mcd=0206&s_hcd=15",
@@ -80,6 +87,13 @@
 			"link":"https:\/\/www.klnews.co.kr\/news\/articleView.html?idxno=320629",
 			"description":"양사는 인천 메가와이즈 <b>청라<\/b>센터, 창원 신항에코센터, 용인 SC센터 등 3개 물류 거점에 총 2MW 규모의 태양광 설비를 설치할 계획이다. 특히 용인 센터는 생산된 전력을 창원 센터로 공급하는 방식의 연계 시스템을... ",
 			"pubDate":"Mon, 06 Apr 2026 10:08:00 +0900"
+		},
+		{
+			"title":"&quot;여보, 우리도 전기차로 바꿀까?&quot; 초고유가 시대 갓성비 주목",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0102_202604061003555995",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002336903?sid=101",
+			"description":"그래서 지금 인천 <b>청라<\/b> 아파트 전기차 화재 아시잖아요. 지금 민사 소송 중인데 최대한 천억 원 낸다고 그러거든요. 근데 원인 불명이에요. ◆ 조태현 : 피해가 어마어마했어요. ◇ 김필수 : 원인 불명인데 국과수에서... ",
+			"pubDate":"Mon, 06 Apr 2026 10:03:00 +0900"
 		},
 		{
 			"title":"[5대 시중은행장 임기만료③] 이호성 하나은행장, 함영주 이후 첫 '연임...",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016003628?sid=101",
 			"description":"LX판토스는 메가와이즈<b>청라<\/b>센터, 신항에코센터, SC용인센터 등 자가 물류센터 3곳의 지붕부지에 총 2㎿ 규모의 태양광 발전시설을 설치한다. 특히 SC용인센터에서 생산한 전력을 신항에코센터로 공급하는 연계... ",
 			"pubDate":"Sun, 05 Apr 2026 18:53:00 +0900"
-		},
-		{
-			"title":"LX판토스·SK이노베이션 E&amp;S '태양광 사업' 확대",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202604051829497804",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005502653?sid=101",
-			"description":"LX판토스는 △메가와이즈<b>청라<\/b>센터(인천) △신항에코센터(창원) △SC용인센터(용인) 등 물류센터 3곳 지붕부지에 총 2MW 규모 태양광 발전시설을 설치할 예정이다. 이를 통해 각 센터에서 자체적으로 전력을 생산... ",
-			"pubDate":"Sun, 05 Apr 2026 18:32:00 +0900"
-		},
-		{
-			"title":"물류센터에 태양광 발전 구축…LX판토스·SK이노E&amp;S 협력",
-			"originallink":"https:\/\/www.hankyung.com\/article\/2026040597631",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005271138?sid=101",
-			"description":"태양광 발전 시설은 메가와이즈<b>청라<\/b>센터(인천), 신항에코센터(경남 창원), SC용인센터(경기 용인) 등 물류센터 세 곳 지붕에 설치될 예정이다. 설치가 끝나면 연간 1200t 규모의 탄소 배출 저감 효과가 발생할 것이라고... ",
-			"pubDate":"Sun, 05 Apr 2026 18:18:00 +0900"
 		}
 	]
 }
