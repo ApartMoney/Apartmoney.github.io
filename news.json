@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 07 Apr 2026 04:30:01 +0900",
-	"total":291913,
+	"lastBuildDate":"Tue, 07 Apr 2026 04:40:01 +0900",
+	"total":291914,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천 外",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20260406\/133685882\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003710287?sid=102",
+			"description":"13일 오전 7∼9시 <b>청라<\/b>호수도서관 세미나실3. 부천 □만들기 교실=‘나만의 치유의 숲, 이끼정원 만들기’ 참가자 12명. 24일 오전 10시∼11시 반 역곡도서관 문화강좌실. 참가비 2만 5000원.",
+			"pubDate":"Tue, 07 Apr 2026 04:32:00 +0900"
+		},
 		{
 			"title":"[삶의 향기] AI 시대의 ‘개벽장이’",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25418031",
@@ -61,17 +68,17 @@
 			"pubDate":"Mon, 06 Apr 2026 19:44:00 +0900"
 		},
 		{
-			"title":"인천 생활폐기물 일부 원정처리까지 불사",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3018763",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3018763",
-			"description":"송도와 <b>청라<\/b> 등 공공 자원순환센터 2곳을 활용하고 나머지는 민간 소각장을 이용하기로 했다. 인천지역 내 송도와 <b>청라<\/b> 등 공공 소각시설 2곳의 일 평균 시설 용량은 각각 540ｔ과 420ｔ규모다.  또 서구 3곳, 남동구 2곳... ",
-			"pubDate":"Mon, 06 Apr 2026 19:18:00 +0900"
-		},
-		{
 			"title":"인천시정 '인': 정주여건 출생아·인구증가율 '전국 1위'",
 			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3018695",
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3018695",
 			"description":"앞둔 <b>청라<\/b>하늘대교 '엣지워크'는 새로운 체류형 관광 콘텐츠로 주목받고 있다. 정책이 발표에 그치지 않고... 지난달 <b>청라<\/b>하늘대교에서 관계자들이 개장을 앞둔 '엣지워크'를 점검하고 있다. # '체감 행정' 강화…성과가... ",
+			"pubDate":"Mon, 06 Apr 2026 19:18:00 +0900"
+		},
+		{
+			"title":"인천 생활폐기물 일부 원정처리까지 불사",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3018763",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3018763",
+			"description":"송도와 <b>청라<\/b> 등 공공 자원순환센터 2곳을 활용하고 나머지는 민간 소각장을 이용하기로 했다. 인천지역 내 송도와 <b>청라<\/b> 등 공공 소각시설 2곳의 일 평균 시설 용량은 각각 540ｔ과 420ｔ규모다.  또 서구 3곳, 남동구 2곳... ",
 			"pubDate":"Mon, 06 Apr 2026 19:18:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20260406010001657",
 			"description":"기존 1개 노선(대구역 ↔ 산격청사)을 4개 노선(명덕역·<b>청라<\/b>언덕역·대구역·북구청역 ↔ 산격·동인청사)으로 확대해 운영할 계획이다. 업무 수행 방식에도 에너지 절약 기조를 적극 도입한다. 시가 주관하는 각종 내·외... ",
 			"pubDate":"Mon, 06 Apr 2026 15:20:00 +0900"
-		},
-		{
-			"title":"[하나금융 <b>청라<\/b>시대 개막] 20년 프로젝트 결실…한국판 산탄데르시티로",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20260406134027857",
-			"link":"https:\/\/www.ajunews.com\/view\/20260406134027857",
-			"description":"com 하나드림타운 헤드쿼터 [사진=하나금융그룹] 인천 <b>청라<\/b>국제도시에 한국판 산탄데르시티가 완성된다.... 하나금융 역시 올 3분기 인천 <b>청라<\/b>에 그룹 핵심 계열사를 집결시키는 '<b>청라<\/b> 시대'를 열고 종합 금융 클러스터... ",
-			"pubDate":"Mon, 06 Apr 2026 15:00:00 +0900"
 		}
 	]
 }
