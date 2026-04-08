@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 09 Apr 2026 07:00:00 +0900",
-	"total":292127,
+	"lastBuildDate":"Thu, 09 Apr 2026 07:10:01 +0900",
+	"total":292128,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[Invest]AI 데이터센터 '장밋빛' 전망만?…투자자들 엑시트 걱정도 가득",
+			"originallink":"https:\/\/www.investchosun.com\/site\/data\/html_dir\/2026\/04\/08\/2026040880155.html",
+			"link":"https:\/\/www.investchosun.com\/site\/data\/html_dir\/2026\/04\/08\/2026040880155.html",
+			"description":"최근 삼성(구미), 현대차(새만금), SK(울산), 신세계(<b>청라<\/b> 유력) 등 국내 주요 그룹사들이 정책 흐름에 발맞춰 비수도권에 학습용 AI DC를 개발하고 있다.수도권 대안 엣지 데이터센터는 민원에 추진 난항수도권에서는... ",
+			"pubDate":"Thu, 09 Apr 2026 07:02:00 +0900"
+		},
 		{
 			"title":"발생암 무분별 매각…공공기관 갑질 논란",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202604081226045780444",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=116979",
 			"description":"제3연륙교(<b>청라<\/b>하늘대교) 개통과 함께 조성키로한 '20호 테마공원'(영종하늘도시 20호 근린공원, 주민들은 '월촌동산'이라 부름)이 흐지부지 되고 있다. 영종 방향으로 <b>청라<\/b>하늘대교가 끝나는 왼쪽 해안에 위치한... ",
 			"pubDate":"Wed, 08 Apr 2026 16:28:00 +0900"
-		},
-		{
-			"title":"현대무벡스, 북미 최대 물류전 '모덱스 2026' 참가",
-			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2416494",
-			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2416494",
-			"description":"현대무벡스는 한국 <b>청라<\/b>R&amp;D센터와 미국 전시장을 실시간으로 연결하는 '3D 디지털 트윈' 기술을 통해 주요 자동화 설비의 가동 현황을 생중계한다. 관람객들은 통합 관제 시스템(VCS)을 통해 실제 현장 장비들의 운용... ",
-			"pubDate":"Wed, 08 Apr 2026 16:26:00 +0900"
 		}
 	]
 }
