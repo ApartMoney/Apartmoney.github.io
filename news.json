@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Wed, 15 Apr 2026 14:40:01 +0900",
-	"total":292421,
+	"lastBuildDate":"Wed, 15 Apr 2026 14:50:00 +0900",
+	"total":292427,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"LH, '인천가정2지구' 308가구 모집…올해 첫 공공분양",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1297935&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1297935&inflow=N",
+			"description":"인천가정2 B2 블록은 루원시티와 <b>청라<\/b>국제도시, 가정지구 사이에서 트리플생활권을 누릴 수 있는 입지에... 서환식 LH 인천지역본부장은 &quot;올해 첫 LH 공공분양 단지인 인천 가정2 B2 블록은 합리적인 가격에 <b>청라<\/b>, 루원... ",
+			"pubDate":"Wed, 15 Apr 2026 14:48:00 +0900"
+		},
+		{
+			"title":"LH, '인천가정2 B2블록' 공공분양 돌입…올해 첫 공급",
+			"originallink":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=110679",
+			"link":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=110679",
+			"description":"LH는 인천 서구 <b>청라<\/b>동에 주택전시관을 마련해 오는 18일부터 26일까지 운영한다. 전시관에서는 단지... 해당 단지는 루원시티와 <b>청라<\/b>국제도시, 가정지구 사이에 위치해 기존 조성된 생활 인프라를 공유할 수 있는... ",
+			"pubDate":"Wed, 15 Apr 2026 14:48:00 +0900"
+		},
+		{
+			"title":"4년 만에 재개된 분양… LH, 인천가정2 300여가구 공급",
+			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20260415\/133744310\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003712579?sid=101",
+			"description":"해당 단지는 루원시티와 <b>청라<\/b>국제도시, 가정지구 사이에 위치해 다양한 생활 인프라를 동시에 누릴 수 있는 지역이다. 인근에는 서울지하철 7호선 연장선(가칭 심곡천역)이 2027년 말 개통 예정으로, 향후 교통... ",
+			"pubDate":"Wed, 15 Apr 2026 14:44:00 +0900"
+		},
+		{
+			"title":"LH, 인천가정2지구 B2블록 308가구 입주자 모집…올해 첫 공공분양",
+			"originallink":"https:\/\/www.news1.kr\/realestate\/general\/6137434",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0008891512?sid=101",
+			"description":"견본주택은 인천 서구 <b>청라<\/b>동 일대에 마련되며 18일부터 26일까지 운영된다. 방문객은 단지 모형과 지구 배치도는 물론 84A 타입 견본주택을 확인할 수 있다. 온라인 분양 홈페이지를 통해서도 세대 구조와 내부를... ",
+			"pubDate":"Wed, 15 Apr 2026 14:42:00 +0900"
+		},
+		{
+			"title":"LH, 인천 가정2지구 B2블록 308호 공급…올해 첫 공공분양",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260415120300003?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016023223?sid=101",
+			"description":"조성이 완료된 루원시티와 <b>청라<\/b>국제도시, 가정지구 사이에 있는 '트리플 생활권'이며, 단지 인근에... 서환식 LH 인천지역본부장은 &quot;올해 첫 LH 공공분양 단지인 인천 가정2 B2 블록은 합리적인 가격에 <b>청라<\/b>·루원... ",
+			"pubDate":"Wed, 15 Apr 2026 14:40:00 +0900"
+		},
+		{
+			"title":"끊겼던 공급 다시 잇는다…LH, 인천가정2 B2블록 308가구 모집공고",
+			"originallink":"https:\/\/www.mediapen.com\/news\/view\/1093548",
+			"link":"https:\/\/www.mediapen.com\/news\/view\/1093548",
+			"description":"인천 서구 <b>청라<\/b>동에 마련된 주택전시관은 4월 18일부터 26일까지 운영된다. 방문객들은 단지 모형과 입지 정보, 전용 84㎡A형 견본주택 등을 확인할 수 있다. 입지 역시 강점으로 꼽힌다. 단지는 루원시티와 <b>청라<\/b>국제... ",
+			"pubDate":"Wed, 15 Apr 2026 14:40:00 +0900"
+		},
 		{
 			"title":"LH, 인천가정2 공공분양 308호 모집",
 			"originallink":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3060787",
@@ -26,17 +68,17 @@
 			"pubDate":"Wed, 15 Apr 2026 14:30:00 +0900"
 		},
 		{
-			"title":"인천마라톤, 참가 규모 늘리고 코스 개편 러너 유치 나선다",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=637043",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=637043",
-			"description":"인천의 주요 경관을 연결하는 노선을 검토하는 가운데 <b>청라<\/b>하늘대교를 통과하는 편도 코스 도입이 논의되고 있다. 해당 안이 확정되면 도심과 서해 해안 풍경을 함께 경험할 수 있는 구간이 포함된다. 대회 경쟁력... ",
-			"pubDate":"Wed, 15 Apr 2026 14:26:00 +0900"
-		},
-		{
 			"title":"LH, 인천가정2지구 B2블록 308호 입주자 모집…올해 첫 분양",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260415_0003592268",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013889195?sid=101",
 			"description":"루원시티와 <b>청라<\/b>국제도시, 가정지구 사이에 위치해 세 동네의 인프라를 누릴 수 있는 '트리플 생활권'을... 주택 전시관은 이달 18~26일 9일간 인천시 서구 <b>청라<\/b>동 92-7에 운영된다. 분양 홈페이지에서도 세대 구조와... ",
+			"pubDate":"Wed, 15 Apr 2026 14:26:00 +0900"
+		},
+		{
+			"title":"인천마라톤, 참가 규모 늘리고 코스 개편 러너 유치 나선다",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=637043",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=637043",
+			"description":"인천의 주요 경관을 연결하는 노선을 검토하는 가운데 <b>청라<\/b>하늘대교를 통과하는 편도 코스 도입이 논의되고 있다. 해당 안이 확정되면 도심과 서해 해안 풍경을 함께 경험할 수 있는 구간이 포함된다. 대회 경쟁력... ",
 			"pubDate":"Wed, 15 Apr 2026 14:26:00 +0900"
 		},
 		{
@@ -131,13 +173,6 @@
 			"pubDate":"Wed, 15 Apr 2026 13:56:00 +0900"
 		},
 		{
-			"title":"LH, 인천가정2지구 B2블록 공급 시행...올해 첫 공공분양",
-			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4078487",
-			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4078487",
-			"description":"주택전시관도 인천시 서구 <b>청라<\/b>동 92-7에 마련됐습니다. 전시관은 오는 18일부터 26일까지 운영되며... 조성이 완료된 루원시티와 <b>청라<\/b>국제도시, 가정지구 사이에 위치해 세 동네의 다양한 인프라를 누릴 수 있는... ",
-			"pubDate":"Wed, 15 Apr 2026 13:54:00 +0900"
-		},
-		{
 			"title":"LH, 인천가정2지구 B2블록 공급...올해 첫 공공분양",
 			"originallink":"https:\/\/www.viva100.com\/article\/20260415500753",
 			"link":"https:\/\/www.viva100.com\/article\/20260415500753",
@@ -145,17 +180,24 @@
 			"pubDate":"Wed, 15 Apr 2026 13:54:00 +0900"
 		},
 		{
-			"title":"LH, 인천가정2 B2블록 공공분양 308가구 공급",
-			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=445660",
-			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=445660",
-			"description":"루원시티와 <b>청라<\/b>국제도시 사이에 위치해 다양한 생활 인프라를 동시에 누릴 수 있는 '트리플 생활권'을... 모델하우스는 인천 서구 <b>청라<\/b>동 일대에 마련되며, 4월 18일부터 26일까지 운영된다. 방문이 어려운 경우... ",
-			"pubDate":"Wed, 15 Apr 2026 13:52:00 +0900"
+			"title":"LH, 인천가정2지구 B2블록 공급 시행...올해 첫 공공분양",
+			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4078487",
+			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4078487",
+			"description":"주택전시관도 인천시 서구 <b>청라<\/b>동 92-7에 마련됐습니다. 전시관은 오는 18일부터 26일까지 운영되며... 조성이 완료된 루원시티와 <b>청라<\/b>국제도시, 가정지구 사이에 위치해 세 동네의 다양한 인프라를 누릴 수 있는... ",
+			"pubDate":"Wed, 15 Apr 2026 13:54:00 +0900"
 		},
 		{
 			"title":"올해 첫 공공분양 '인천가정2지구' 308가구 이달 공급",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202604151326043056",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005508092?sid=101",
 			"description":"인천가정2 B2블록은 루원시티, <b>청라<\/b>국제도시, 가정지구 사이에 위치해 다양한 인프라를 누릴 수 있는... 주택전시관은 인천광역시 서구 <b>청라<\/b>동 92-7에 마련돼 오는 18일부터 26일까지 운영된다.",
+			"pubDate":"Wed, 15 Apr 2026 13:52:00 +0900"
+		},
+		{
+			"title":"LH, 인천가정2 B2블록 공공분양 308가구 공급",
+			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=445660",
+			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=445660",
+			"description":"루원시티와 <b>청라<\/b>국제도시 사이에 위치해 다양한 생활 인프라를 동시에 누릴 수 있는 '트리플 생활권'을... 모델하우스는 인천 서구 <b>청라<\/b>동 일대에 마련되며, 4월 18일부터 26일까지 운영된다. 방문이 어려운 경우... ",
 			"pubDate":"Wed, 15 Apr 2026 13:52:00 +0900"
 		},
 		{
@@ -171,48 +213,6 @@
 			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=332901",
 			"description":"주택전시관(인천광역시 서구 <b>청라<\/b>동 일원)도 마련됐다. 전시관은 오는 4월 18일(토)부터 26일(일)까지... 조성이 완료된 루원시티와 <b>청라<\/b>국제도시, 가정지구 사이에 위치해 세 동네의 다양한 인프라를 누릴 수 있는... ",
 			"pubDate":"Wed, 15 Apr 2026 13:38:00 +0900"
-		},
-		{
-			"title":"인천시, 인천마라톤 <b>청라<\/b>하늘대교 코스 검토…2만 명 규모 확대",
-			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=1364599",
-			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=1364599",
-			"description":"특히 풀코스는 <b>청라<\/b>하늘대교를 통과하는 편도 코스를 검토 중이다. 코스가 확정되면 도심과 서해 해안을 동시에 체험할 수 있는 차별화된 레이스가 될 전망이다. 참가 규모는 총 2만 명으로 확대되며, 풀코스 인원도 8... ",
-			"pubDate":"Wed, 15 Apr 2026 13:14:00 +0900"
-		},
-		{
-			"title":"7월부터 간이과세 적용받는 사업장은?",
-			"originallink":"https:\/\/www.taxtimes.co.kr\/news\/article.html?no=274732",
-			"link":"https:\/\/www.taxtimes.co.kr\/news\/article.html?no=274732",
-			"description":"롯데마트<b>청라<\/b>점 18 전남 목포 롯데남악점 8 인천 연수 롯데슈퍼 19 대구 동구 롯데아울렛 대구율하점 9 인천 서구 모다아울렛 20 대구 동구 현대시티아울렛 대구점 10 부산 해운대 NC백화점 21 대구 북구 이마트칠성점 11... ",
-			"pubDate":"Wed, 15 Apr 2026 12:02:00 +0900"
-		},
-		{
-			"title":"인천시, 올 인천마라톤 코스 <b>청라<\/b>하늘대교 통과 방안 추진",
-			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=228368",
-			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=228368",
-			"description":"인천시가 올해 열리는 인천 국제마라톤 대회 코스를 새로 개통한 <b>청라<\/b>하늘대교를 경유하는 것으로 추진한다고 15일 밝혔다. 인천시는 대한육상연맹과 공동 주최하는 '2026 인천마라톤'을 오는 11월 22일 개최하며, <b>청라<\/b>... ",
-			"pubDate":"Wed, 15 Apr 2026 11:56:00 +0900"
-		},
-		{
-			"title":"인천시, 11월 22일 인천마라톤 <b>청라<\/b>하늘대교 편도 코스 검토 중",
-			"originallink":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1089094",
-			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1089094",
-			"description":"랜드마크인 <b>청라<\/b>하늘대교를 통과하는 편도 코스 도입을 검토 중으로 나타났다. 인천광역시(시장 유정복)... 특히 풀코스는 인천의 랜드마크인 <b>청라<\/b>하늘대교를 통과하는 편도 코스 도입을 검토 중으로 확정될 경우... ",
-			"pubDate":"Wed, 15 Apr 2026 11:26:00 +0900"
-		},
-		{
-			"title":"인천시, 4월 17~19일 <b>청라<\/b>호수공원·어린이과학관서 과학문화행사 개최",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=317778",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=317778",
-			"description":"맞아 <b>청라<\/b>호수공원과 인천어린이과학관에서 시민 참여형 과학문화행사를 연다. 시는 제59회 과학의 날(4월 21일)을 기념해 4월 17일부터 19일까지 <b>청라<\/b>호수공원과 인천어린이과학관에서 다양한 과학문화행사를... ",
-			"pubDate":"Wed, 15 Apr 2026 11:14:00 +0900"
-		},
-		{
-			"title":"[#부동산 나들이] LH '인천가정2 B2블록 분양'-'스위스프랑 채권 발행'·...",
-			"originallink":"https:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=837835",
-			"link":"https:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=837835",
-			"description":"4월 18일부터 26일까지 인천 서구 <b>청라<\/b>동에 주택전시관이 운영되며 84A 타입 견본주택도 관람할 수 있다. 루원시티·<b>청라<\/b>국제도시·가정지구 사이에 위치해 세 지역 인프라를 모두 누릴 수 있고, 도보권 내 서울 지하철... ",
-			"pubDate":"Wed, 15 Apr 2026 11:00:00 +0900"
 		}
 	]
 }
