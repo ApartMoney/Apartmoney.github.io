@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 22 Apr 2026 17:40:01 +0900",
-	"total":292804,
+	"lastBuildDate":"Wed, 22 Apr 2026 17:50:01 +0900",
+	"total":292805,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"박찬대 &quot;인천의 바이오 산업 혁신 이루겠다&quot;",
+			"originallink":"https:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202604220488&t=NNv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001249873?sid=100",
+			"description":"인천공항·인천항 물류 AI 자동화와 <b>청라<\/b> AI 커넥티드카 및 글로벌 AI 오토밸리 조성하고, 송도 글로벌 신약 허브를 조성하겠다고 강조했다. 여기에 5만석 규모의 문학 K-컬처 스타디움과 콘텐츠 클러스터를 구축하고... ",
+			"pubDate":"Wed, 22 Apr 2026 17:42:00 +0900"
+		},
 		{
 			"title":"박찬대, 인천시장 출마 선언…&quot;100일 내 변화 증명하겠다&quot;",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202604221720586229",
@@ -194,13 +201,6 @@
 			"pubDate":"Wed, 22 Apr 2026 10:00:00 +0900"
 		},
 		{
-			"title":"이영철 의원, 인천시의원 선거 예비후보 등록",
-			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20260422010006730",
-			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20260422010006730",
-			"description":"인천 서구의회 이영철 의원(더불어민주당, 당하·마전·오류왕길·<b>청라<\/b>3동)이 21일 검단구선거관리위원회를 방문해 검단구 제2선거구(당하·마전·오류왕길동) 인천시의원 예비후보 등록을 마치고 본격적인 선거 행보에... ",
-			"pubDate":"Wed, 22 Apr 2026 09:34:00 +0900"
-		},
-		{
 			"title":"마곡지구 교통망 확충에 따른 '뉴브 클라우드힐스' 공급",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202604220919512859",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005511418?sid=101",
@@ -208,11 +208,11 @@
 			"pubDate":"Wed, 22 Apr 2026 09:34:00 +0900"
 		},
 		{
-			"title":"서초구 '방배우성' 35평, 9.5억 오른 24.9억원에 거래 [일일 신고가]",
-			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=202604220901412732048b718333_18",
-			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=202604220901412732048b718333_18",
-			"description":"◇ 인천에선 2010년대 준공단지 오름세 인천광역시 서구 <b>청라<\/b>동 ‘<b>청라<\/b>롯데캐슬(2013년 준공)' 53평형(141.18㎡) 31층 매물이 지난달 31일 9억3800만원에 등록되며, 이전 거래가인 지난 3월 27일 8억3500만원 대비... ",
-			"pubDate":"Wed, 22 Apr 2026 09:06:00 +0900"
+			"title":"이영철 의원, 인천시의원 선거 예비후보 등록",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20260422010006730",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20260422010006730",
+			"description":"인천 서구의회 이영철 의원(더불어민주당, 당하·마전·오류왕길·<b>청라<\/b>3동)이 21일 검단구선거관리위원회를 방문해 검단구 제2선거구(당하·마전·오류왕길동) 인천시의원 예비후보 등록을 마치고 본격적인 선거 행보에... ",
+			"pubDate":"Wed, 22 Apr 2026 09:34:00 +0900"
 		}
 	]
 }
