@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 24 Apr 2026 18:50:01 +0900",
-	"total":292962,
+	"lastBuildDate":"Fri, 24 Apr 2026 19:00:01 +0900",
+	"total":292963,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천 소식] '환경 클러스터' 존치 총력, 인천연구원 '인구감소 전제한...",
+			"originallink":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=134916",
+			"link":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=134916",
+			"description":"7호선 <b>청라<\/b> 연장(1000억원) 등 11건, 총 1조3678억원 규모다. 인천시 측은 논의된 사업들을 이달 말까지 중앙부처에 신청할 예정이며 실·국에서 발굴한 신규사업이 정부 예산에 반영될 수 있도록 중앙부처 동향을 공유하고... ",
+			"pubDate":"Fri, 24 Apr 2026 18:52:00 +0900"
+		},
 		{
 			"title":"&quot;광현이가 그립다&quot; 다시 돌아가는 재활 시계, 시즌 막판 극적 복귀 가능...",
 			"originallink":"https:\/\/www.spotvnews.co.kr\/news\/articleView.html?idxno=812627",
@@ -159,17 +166,17 @@
 			"pubDate":"Fri, 24 Apr 2026 09:36:00 +0900"
 		},
 		{
-			"title":"고소득 수요 몰리는 ‘테크 시티’, ‘교육 프리미엄’이 집값 좌우",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/12026240",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005670768?sid=101",
-			"description":"인접한 송도4동(1만1543명) 및 <b>청라<\/b>2동(9884명) 등과 함께 인천 내에서 학령기 인구가 밀집한 주요 지역으로 분류된다. 반도체 클러스터 배후지인 화성 동탄2신도시에서도 비슷한 분위기가 감지된다. 동탄신도시의... ",
-			"pubDate":"Fri, 24 Apr 2026 09:34:00 +0900"
-		},
-		{
 			"title":"서울 접근성 개선 기대...인천 검암역세권, 교통 거점 기능 확대",
 			"originallink":"https:\/\/magazine.hankyung.com\/money\/article\/202604243733c",
 			"link":"https:\/\/magazine.hankyung.com\/money\/article\/202604243733c",
 			"description":"이는 인근 <b>청라<\/b>국제도시나 검단신도시와 비교해 체감 이동 시간이 상대적으로 짧은 수준으로 평가된다. 향후... 인천 서구 <b>청라<\/b>동에서 서울 양천구 신월IC까지 지하도로를 신설하고, 기존 지상 구간은 일반도로 및... ",
+			"pubDate":"Fri, 24 Apr 2026 09:34:00 +0900"
+		},
+		{
+			"title":"고소득 수요 몰리는 ‘테크 시티’, ‘교육 프리미엄’이 집값 좌우",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/12026240",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005670768?sid=101",
+			"description":"인접한 송도4동(1만1543명) 및 <b>청라<\/b>2동(9884명) 등과 함께 인천 내에서 학령기 인구가 밀집한 주요 지역으로 분류된다. 반도체 클러스터 배후지인 화성 동탄2신도시에서도 비슷한 분위기가 감지된다. 동탄신도시의... ",
 			"pubDate":"Fri, 24 Apr 2026 09:34:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=893082",
 			"description":"7호선 <b>청라<\/b> 연장(1000억 원) 등 11건, 총 1조 3678억 원 규모다. 시는 논의된 사업들을 이달 말까지 중앙부처에 신청할 예정이며 실·국에서 발굴한 신규사업이 정부 예산에 반영될 수 있도록 중앙부처 동향을 공유하고... ",
 			"pubDate":"Fri, 24 Apr 2026 07:28:00 +0900"
-		},
-		{
-			"title":"[<b>청라<\/b>언덕-김태진] 협상의 기술",
-			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2026042123391275945",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0001007012?sid=110",
-			"description":"한 달 넘게 이어진 이란전쟁을 보다 문득, 도널드 트럼프 미국 대통령의 '메타인지(Meta 認知)'에 대해 매우 궁금해졌다. 팔순의 사업가이자 정치가는 스스로를 어떻게 평가하는가. 전기(傳記)에 가까운 책이 있었다. 1987년... ",
-			"pubDate":"Fri, 24 Apr 2026 05:01:00 +0900"
 		}
 	]
 }
