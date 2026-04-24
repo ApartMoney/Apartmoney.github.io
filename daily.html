@@ -212,6 +212,41 @@
   .loading { text-align: center; padding: 40px; color: var(--muted); }
   .err { color: var(--up); background: #fdecea; padding: 14px; border-radius: 6px; }
 
+  /* 데이터 없음 안내 */
+  .empty-state {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 40px 24px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,.04);
+  }
+  .empty-state .icon {
+    width: 64px; height: 64px; margin: 0 auto 14px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #f0f4ff 0%, #e4ebff 100%);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 30px;
+  }
+  .empty-state .title {
+    font-size: 16px; font-weight: 700; color: var(--text);
+    margin-bottom: 6px;
+  }
+  .empty-state .desc {
+    font-size: 13px; color: var(--muted); line-height: 1.6;
+    margin-bottom: 14px;
+  }
+  .empty-state .hint {
+    display: inline-flex; gap: 6px; align-items: center;
+    font-size: 12px; color: #5a6a8a;
+    background: #f3f7ff; border: 1px solid #d8e3ff;
+    padding: 6px 12px; border-radius: 16px;
+  }
+  .empty-state.compact { padding: 28px 18px; }
+  .empty-state.compact .icon { width: 52px; height: 52px; font-size: 24px; margin-bottom: 10px; }
+  .empty-state.compact .title { font-size: 14px; }
+  .empty-state.compact .desc { font-size: 12px; }
+
   .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: #333; color: #fff; padding: 8px 14px; border-radius: 4px; font-size: 13px; opacity: 0; transition: opacity .2s; pointer-events: none; z-index: 100; }
   .toast.show { opacity: 1; }
 
@@ -425,15 +460,28 @@ $('#favBtn').onclick = () => {
 
 /* ========= 요약 (일일 종합) ========= */
 function parseCityRow(row) {
-  const states = row.STATE.split(',');
-  const cnts = row.CNT.split(',');
-  const avgs = row.AVG_MONEY.split(',');
-  const maxs = row.MAX_MONEY.split(',');
-  const mins = row.MIN_MONEY.split(',');
+  if (!row || !row.STATE) return [];
+  const states = String(row.STATE).split(',');
+  const cnts = String(row.CNT ?? '').split(',');
+  const avgs = String(row.AVG_MONEY ?? '').split(',');
+  const maxs = String(row.MAX_MONEY ?? '').split(',');
+  const mins = String(row.MIN_MONEY ?? '').split(',');
   return states.map((s, i) => ({
     label: s, cnt: Number(cnts[i] || 0), avg: Number(avgs[i] || 0),
     max: Number(maxs[i] || 0), min: Number(mins[i] || 0),
   }));
+}
+
+function renderEmptyState(container, { title, desc, hint, compact } = {}) {
+  container.innerHTML = '';
+  const box = document.createElement('div');
+  box.className = 'empty-state' + (compact ? ' compact' : '');
+  box.innerHTML = `
+    <div class="icon">🏠</div>
+    <div class="title">${title || '실거래 데이터가 아직 없어요'}</div>
+    <div class="desc">${desc || '선택하신 날짜·지역에 등록된 실거래 내역이 없습니다.<br>잠시 후 다시 시도하거나 다른 날짜를 선택해 보세요.'}</div>
+    ${hint ? `<div class="hint">💡 ${hint}</div>` : ''}`;
+  container.appendChild(box);
 }
 
 function renderRegionTable(container, { title, dateStr, headerLabel, rows }) {
@@ -693,57 +741,85 @@ async function load() {
     const sumEl = $('#sec-summary');
     sumEl.innerHTML = '';
 
-    // 상단 전체 저장 바
-    const bar = document.createElement('div');
-    bar.className = 'summary-bar';
-    bar.innerHTML = `
-      <span>📊 일일 종합 (${date})</span>
-      <button class="save-all-btn">📥 전체 저장</button>`;
-    sumEl.appendChild(bar);
-
-    // 3개 카드를 감쌀 컨테이너
-    const pack = document.createElement('div');
-    pack.className = 'summary-pack';
-    sumEl.appendChild(pack);
-
-    const nation = news.todayAll.find(r => r.CITY === '전국');
-    if (nation) renderRegionTable(pack, { title: '전국', dateStr: date, headerLabel: '시/군/구', rows: parseCityRow(nation) });
-
+    const todayAll = Array.isArray(news?.todayAll) ? news.todayAll : [];
+    const todayMaxList = Array.isArray(news?.todayMaxList) ? news.todayMaxList : [];
+    const nation = todayAll.find(r => r && r.CITY === '전국');
     const focusCity = reg.cityName && !/전체/.test(reg.cityName) ? reg.cityName : null;
 
-    if (focusCity) {
-      // 특정 시/도 선택 — 그 시/도 요약만
-      const focusRow = news.todayAll.find(r => r.CITY === focusCity);
-      if (focusRow) renderRegionTable(pack, { title: focusCity, dateStr: date, headerLabel: '시/군/구', rows: parseCityRow(focusRow) });
-      const focusMax = (news.todayMaxList || []).filter(r => r.CITY === focusCity);
-      if (focusMax.length) renderMaxByGu(pack, { title: `${focusCity} 시/구별 최고가`, dateStr: date, rows: focusMax });
+    // 요약에 보여줄 row가 있는지 판별 (STATE 필드가 있어야 유효)
+    const hasSummaryData = focusCity
+      ? !!todayAll.find(r => r && r.CITY === focusCity && r.STATE)
+      : todayAll.some(r => r && r.STATE);
+
+    if (!hasSummaryData) {
+      renderEmptyState(sumEl, {
+        title: '아직 실거래 요약 데이터가 없어요',
+        desc: `${date} 기준 ${focusCity || '선택하신 지역'}에 집계된 실거래가 아직 등록되지 않았습니다.<br>국토부 공개 시점에 따라 늦게 반영될 수 있어요.`,
+        hint: '다른 날짜를 선택하거나 잠시 후 새로고침해 주세요',
+      });
     } else {
-      // 전체 — 모든 광역시도 요약 + 전국 구별 최고가 전체
-      for (const row of news.todayAll) {
-        if (row.CITY === '전국') continue;
-        renderRegionTable(pack, { title: row.CITY, dateStr: date, headerLabel: '시/군/구', rows: parseCityRow(row) });
+      // 상단 전체 저장 바
+      const bar = document.createElement('div');
+      bar.className = 'summary-bar';
+      bar.innerHTML = `
+        <span>📊 일일 종합 (${date})</span>
+        <button class="save-all-btn">📥 전체 저장</button>`;
+      sumEl.appendChild(bar);
+
+      // 3개 카드를 감쌀 컨테이너
+      const pack = document.createElement('div');
+      pack.className = 'summary-pack';
+      sumEl.appendChild(pack);
+
+      if (nation && nation.STATE) {
+        renderRegionTable(pack, { title: '전국', dateStr: date, headerLabel: '시/군/구', rows: parseCityRow(nation) });
       }
-      if (news.todayMaxList && news.todayMaxList.length) {
-        renderMaxByGu(pack, { title: '전국 시/구별 최고가', dateStr: date, rows: news.todayMaxList });
+
+      if (focusCity) {
+        const focusRow = todayAll.find(r => r && r.CITY === focusCity);
+        if (focusRow && focusRow.STATE) renderRegionTable(pack, { title: focusCity, dateStr: date, headerLabel: '시/군/구', rows: parseCityRow(focusRow) });
+        const focusMax = todayMaxList.filter(r => r && r.CITY === focusCity);
+        if (focusMax.length) renderMaxByGu(pack, { title: `${focusCity} 시/구별 최고가`, dateStr: date, rows: focusMax });
+      } else {
+        for (const row of todayAll) {
+          if (!row || row.CITY === '전국' || !row.STATE) continue;
+          renderRegionTable(pack, { title: row.CITY, dateStr: date, headerLabel: '시/군/구', rows: parseCityRow(row) });
+        }
+        if (todayMaxList.length) {
+          renderMaxByGu(pack, { title: '전국 시/구별 최고가', dateStr: date, rows: todayMaxList });
+        }
       }
+
+      bar.querySelector('.save-all-btn').onclick = () => {
+        saveAsImage(pack, `일일종합_${date}.png`);
+      };
     }
 
-    bar.querySelector('.save-all-btn').onclick = () => {
-      saveAsImage(pack, `일일종합_${date}.png`);
-    };
-
     // 거래 카드
-    const total = deals.count || 0;
+    const total = deals?.count || 0;
+    const dealRows = Array.isArray(deals?.list) ? deals.list : [];
     const totalPages = Math.max(1, Math.ceil(total / 30));
     lastQueryInfo = { dateStr: date, total };
-    renderDealsSection($('#sec-deals'), {
-      rows: deals.list || [], total, dateStr: date, pageNum: page, totalPages,
-    });
+    if (!dealRows.length) {
+      renderEmptyState($('#sec-deals'), {
+        title: '표시할 실거래 내역이 없어요',
+        desc: `${date} · ${[reg.cityName, reg.stateName, reg.dong].filter(x => x && !/전체/.test(x)).join(' ') || '전국'} 기준으로<br>등록된 실거래가 아직 없습니다.`,
+        hint: '다른 날짜·지역을 선택해 보세요',
+      });
+    } else {
+      renderDealsSection($('#sec-deals'), {
+        rows: dealRows, total, dateStr: date, pageNum: page, totalPages,
+      });
+    }
 
     const ms = Math.round(performance.now() - t0);
     $('#status').textContent = `✓ ${date} / ${page}페이지 / 총 ${total}건 (${ms}ms)`;
   } catch (e) {
-    $('#sec-summary').innerHTML = `<div class="err">오류: ${e.message}</div>`;
+    renderEmptyState($('#sec-summary'), {
+      title: '데이터를 불러오지 못했어요',
+      desc: '잠시 후 다시 시도해 주세요.<br>문제가 계속되면 새로고침해 주세요.',
+      hint: e.message,
+    });
     $('#sec-deals').innerHTML = '';
     console.error(e);
   }

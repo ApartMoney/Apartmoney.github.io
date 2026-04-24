@@ -82,6 +82,39 @@
   .loading { padding: 20px; text-align: center; color: #888; }
   .empty { padding: 20px; text-align: center; color: #888; font-size: 13px; }
 
+  /* 예쁜 데이터 없음/오류 안내 */
+  .empty-state {
+    margin: 16px;
+    background: #fff;
+    border: 1px solid #e4e7ee;
+    border-radius: 12px;
+    padding: 28px 18px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,.04);
+  }
+  .empty-state .icon {
+    width: 56px; height: 56px; margin: 0 auto 12px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #f0f4ff 0%, #e4ebff 100%);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 26px;
+  }
+  .empty-state .title {
+    font-size: 15px; font-weight: 700; color: #222;
+    margin-bottom: 6px;
+  }
+  .empty-state .desc {
+    font-size: 12.5px; color: #777; line-height: 1.6;
+    margin-bottom: 12px;
+  }
+  .empty-state .hint {
+    display: inline-flex; gap: 6px; align-items: center;
+    font-size: 11.5px; color: #5a6a8a;
+    background: #f3f7ff; border: 1px solid #d8e3ff;
+    padding: 5px 10px; border-radius: 14px;
+    max-width: 100%; word-break: break-all; white-space: normal;
+  }
+
   @media (max-width: 800px) {
     .layout { flex-direction: column-reverse; height: auto; }
     .sidebar { width: 100%; max-height: 45vh; min-height: 200px; flex: 0 0 auto; }
@@ -152,9 +185,32 @@ let allDeals = [];
 let allMatched = [];
 
 async function fetchJson(url) {
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`${res.status}`);
+  let res;
+  try {
+    res = await fetch(url);
+  } catch (e) {
+    const err = new Error('네트워크 연결에 실패했어요');
+    err.kind = 'network';
+    err.detail = e.message;
+    throw err;
+  }
+  if (!res.ok) {
+    const err = new Error(`서버 응답 오류 (${res.status})`);
+    err.kind = res.status === 403 ? 'forbidden' : 'http';
+    err.status = res.status;
+    throw err;
+  }
   return res.json();
+}
+
+function renderMapEmptyState(container, { title, desc, hint } = {}) {
+  container.innerHTML = `
+    <div class="empty-state">
+      <div class="icon">🗺️</div>
+      <div class="title">${title || '표시할 실거래가 없어요'}</div>
+      <div class="desc">${desc || '선택하신 날짜에 집계된 실거래가 없습니다.'}</div>
+      ${hint ? `<div class="hint">💡 ${hint}</div>` : ''}
+    </div>`;
 }
 
 async function loadCoordsFor(cc2) {
@@ -456,7 +512,18 @@ async function load(date) {
     const t0 = performance.now();
     // 전체 한 번에
     const res = await fetchJson(`${BASE}/todayRankAll?btweenDate=${date}&dealDateBtween=0`);
-    allDeals = res.list || [];
+    allDeals = Array.isArray(res?.list) ? res.list : [];
+
+    if (!allDeals.length) {
+      renderMapEmptyState($('#sidebar'), {
+        title: '실거래 데이터가 아직 없어요',
+        desc: `${date} 기준 등록된 실거래 내역이 없습니다.<br>국토부 공개 시점에 따라 늦게 반영될 수 있어요.`,
+        hint: '다른 날짜를 선택하거나 잠시 후 다시 시도해 주세요',
+      });
+      $('#status').textContent = `${date} · 데이터 없음`;
+      $('#metaInfo').textContent = '';
+      return;
+    }
 
     // 등장한 모든 시도 좌표 lazy load (병렬)
     const cc2s = [...new Set(allDeals.map(d => (d.APART_CITY_CODE||'').slice(0,2)).filter(Boolean))];
@@ -474,7 +541,19 @@ async function load(date) {
     $('#status').textContent = `${date} · 전국 ${allDeals.length}건 (좌표 매칭 ${allMatched.length}건${missed?`, 미매칭 ${missed}`:''}) · ${ms}ms`;
     $('#metaInfo').textContent = `좌표 DB: ${Object.keys(coordsMap).length.toLocaleString()}단지`;
   } catch (e) {
-    $('#sidebar').innerHTML = `<div class="err">로드 실패: ${e.message}</div>`;
+    const isNetwork = e.kind === 'network';
+    const isForbidden = e.kind === 'forbidden';
+    renderMapEmptyState($('#sidebar'), {
+      title: isNetwork ? '서버에 연결할 수 없어요'
+        : isForbidden ? '데이터 접근이 거부되었어요'
+        : '데이터를 불러오지 못했어요',
+      desc: isNetwork
+        ? '네트워크가 끊겼거나, 로컬 환경에서 CORS로 차단되었을 수 있어요.<br>잠시 후 다시 시도해 주세요.'
+        : isForbidden
+        ? '서버에서 요청을 거부했어요.<br>잠시 후 다시 시도해 주세요.'
+        : '요청 처리 중 문제가 발생했어요.<br>잠시 후 다시 시도해 주세요.',
+      hint: e.detail || e.message,
+    });
     $('#status').textContent = '오류';
     console.error(e);
   }
