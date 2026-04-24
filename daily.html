@@ -4,35 +4,215 @@
 <meta charset="UTF-8">
 <title>일일 아파트 리포트</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://cdn.jsdelivr.net/npm/dom-to-image-more@3.5.0/dist/dom-to-image-more.min.js"></script>
 <style>
   * { box-sizing: border-box; }
-  body { margin: 0; padding: 16px; font-family: -apple-system, BlinkMacSystemFont, "Malgun Gothic", sans-serif; background: #f4f6f8; color: #222; }
-  header { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 16px; }
+  :root {
+    --primary: #4b5ec4;
+    --primary-dark: #3a4ba8;
+    --accent: #e85c5c;
+    --down: #2d6cdf;
+    --up: #c0392b;
+    --text: #222;
+    --muted: #777;
+    --border: #e4e7ee;
+    --bg: #eef1f6;
+    --card-bg: #fff;
+  }
+  html { height: auto; overflow-x: hidden; }
+  body { margin: 0; padding: 16px 20px 40px; font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif; background: var(--bg); color: var(--text); overflow-x: hidden; }
+
+  @media (max-width: 1100px) {
+    body { padding: 12px 12px 60px; }
+  }
+
+  header { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 12px; max-width: 1400px; margin-left: auto; margin-right: auto; }
   header h1 { margin: 0; font-size: 18px; }
-  header input[type="date"] { padding: 6px 10px; border: 1px solid #bbb; border-radius: 6px; font-size: 14px; }
-  header button { padding: 6px 14px; border: 0; border-radius: 6px; background: #2d6cdf; color: #fff; cursor: pointer; font-size: 14px; }
-  header button:hover { background: #245bbd; }
-  header button.ghost { background: #666; }
+  header input[type="date"], header select { padding: 6px 10px; border: 1px solid #bbb; border-radius: 5px; font-size: 13px; background: #fff; }
+  header button { padding: 6px 14px; border: 0; border-radius: 5px; background: var(--primary); color: #fff; cursor: pointer; font-size: 13px; font-weight: 500; }
+  header button:hover { filter: brightness(.93); }
+  header button.ghost { background: #888; }
+  header button.star { background: #f5b400; }
   header .spacer { flex: 1; }
-  .section { background: #fff; border-radius: 8px; padding: 12px 14px; margin-bottom: 14px; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
-  .section h2 { margin: 0 0 8px; font-size: 15px; display: flex; gap: 10px; align-items: center; }
-  .section h2 .count { font-size: 12px; color: #666; font-weight: normal; }
-  .section h2 .copy { margin-left: auto; font-size: 12px; padding: 4px 10px; background: #e7ebf0; color: #333; border: 0; border-radius: 4px; cursor: pointer; }
-  .section h2 .copy:hover { background: #d5dae2; }
-  table { width: 100%; border-collapse: collapse; font-size: 13px; }
-  th, td { padding: 6px 8px; border-bottom: 1px solid #eee; text-align: left; white-space: nowrap; }
-  th { background: #fafbfc; font-weight: 600; cursor: pointer; user-select: none; position: sticky; top: 0; }
-  th.sorted::after { content: ' ▼'; font-size: 10px; }
-  th.asc.sorted::after { content: ' ▲'; }
-  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
-  tr:hover td { background: #fafcff; }
-  .pos { color: #0a7f3f; font-weight: 600; }
-  .neg { color: #c0392b; font-weight: 600; }
-  .mute { color: #888; }
-  .loading { text-align: center; padding: 40px; color: #888; }
-  .err { color: #c0392b; background: #fdecea; padding: 10px; border-radius: 4px; }
-  .wrap { max-height: 60vh; overflow: auto; }
-  .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: #333; color: #fff; padding: 8px 14px; border-radius: 4px; font-size: 13px; opacity: 0; transition: opacity .2s; pointer-events: none; }
+  header .status { font-size: 12px; color: var(--muted); }
+
+  .container { max-width: 1400px; margin: 0 auto; }
+
+  /* 즐겨찾기 바 — 한 줄 가로 스크롤 */
+  .favs {
+    display: flex; gap: 6px; align-items: center;
+    margin-bottom: 12px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    padding-bottom: 4px;
+    scrollbar-width: thin;
+  }
+  .favs::-webkit-scrollbar { height: 6px; }
+  .favs::-webkit-scrollbar-thumb { background: #c0c7d4; border-radius: 3px; }
+  .favs::-webkit-scrollbar-track { background: transparent; }
+  .favs .label { font-size: 12px; color: #666; font-weight: 600; flex-shrink: 0; }
+  .fav-chip {
+    display: inline-flex; align-items: center; gap: 4px;
+    background: #fff; border: 1px solid #d0d8e8;
+    padding: 4px 10px; border-radius: 14px;
+    font-size: 12px; cursor: pointer; color: #333;
+    flex-shrink: 0;
+  }
+  .fav-chip:hover { background: #f3f7ff; border-color: var(--primary); }
+  .fav-chip .del { color: #999; margin-left: 2px; font-size: 14px; line-height: 1; cursor: pointer; padding: 0 2px; }
+  .fav-chip .del:hover { color: var(--up); }
+  .fav-chip.empty { color: #999; font-style: italic; cursor: default; }
+
+  /* === 레이아웃 === */
+  .layout { display: grid; grid-template-columns: 420px 1fr; gap: 16px; }
+  @media (max-width: 1100px) {
+    .layout { grid-template-columns: 1fr; }
+    .tabs { display: flex; }
+    .col-summary, .col-deals { display: none; }
+    .col-summary.active, .col-deals.active { display: block; }
+  }
+  @media (min-width: 1101px) {
+    .tabs { display: none; }
+    .col-summary, .col-deals { display: block !important; }
+  }
+
+  .tabs { gap: 4px; margin-bottom: 12px; border-bottom: 2px solid #ddd; }
+  .tab { padding: 8px 16px; border: none; background: transparent; cursor: pointer; font-size: 14px; font-weight: 600; color: var(--muted); border-bottom: 3px solid transparent; margin-bottom: -2px; }
+  .tab.active { color: var(--primary); border-bottom-color: var(--primary); }
+
+  /* 요약 상단 바 */
+  .summary-bar {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 10px;
+    font-size: 14px; font-weight: 700; color: #444;
+  }
+  .summary-bar .save-all-btn {
+    padding: 5px 12px; font-size: 12px;
+    border: 1px solid #d0d8e8; background: #fff;
+    color: #333; border-radius: 5px; cursor: pointer; font-weight: 500;
+  }
+  .summary-bar .save-all-btn:hover { background: var(--primary); color: #fff; border-color: var(--primary); }
+  .summary-pack { display: flex; flex-direction: column; gap: 14px; }
+  .summary-pack .card { margin-bottom: 0; }
+
+  /* === 카드(요약) === */
+  .card { background: var(--card-bg); border-radius: 8px; overflow: hidden; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+  .card-head { display: flex; align-items: center; background: var(--primary); color: #fff; padding: 8px 12px; font-weight: 700; font-size: 14px; }
+  .card-head .right { margin-left: auto; font-size: 11px; background: var(--accent); padding: 3px 8px; border-radius: 4px; font-weight: 600; }
+  .copy-btn, .save-btn { background: transparent; border: 1px solid rgba(255,255,255,.5); color: #fff; font-size: 11px; padding: 2px 8px; border-radius: 3px; cursor: pointer; margin-left: 6px; }
+  .copy-btn:hover, .save-btn:hover { background: rgba(255,255,255,.15); }
+  .save-btn.dark { border-color: #d0d8e8; color: #444; background: #fff; }
+  .save-btn.dark:hover { background: #f3f7ff; border-color: var(--primary); color: var(--primary); }
+
+  table.rpt { width: 100%; border-collapse: collapse; font-size: 12px; }
+  table.rpt th, table.rpt td { padding: 6px 8px; border-bottom: 1px solid var(--border); text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  table.rpt th { background: #f5f7fb; color: #333; font-weight: 600; font-size: 11px; }
+  table.rpt td.lbl, table.rpt th.lbl { text-align: center; }
+  table.rpt tbody tr:nth-child(even) td { background: #fafbfc; }
+  table.rpt tbody tr:hover td { background: #eef3ff; }
+  table.rpt tr.total td { font-weight: 700; background: #fff7e8 !important; }
+
+  table.max { width: 100%; border-collapse: collapse; font-size: 12px; table-layout: fixed; }
+  table.max th, table.max td { padding: 8px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+  table.max th { background: #f5f7fb; font-weight: 600; font-size: 11px; color: #333; text-align: center; }
+  table.max td.region { width: 38%; text-align: left; line-height: 1.4; font-size: 11px; }
+  table.max td.region b { color: #222; font-size: 12px; }
+  table.max td.apt { width: 37%; text-align: center; line-height: 1.4; }
+  table.max td.apt .name { font-weight: 700; color: #222; font-size: 12px; }
+  table.max td.apt .sub { color: var(--accent); font-size: 11px; margin-top: 2px; }
+  table.max td.money { width: 25%; text-align: right; line-height: 1.4; }
+  table.max td.money .amount { font-weight: 800; font-size: 13px; color: #222; }
+  table.max td.money .when { color: var(--muted); font-size: 11px; margin-top: 2px; }
+  table.max tbody tr:nth-child(even) td { background: #fafbfc; }
+
+  /* === 서구 거래 그리드 === */
+  .deals-header { padding: 10px 14px; border-bottom: 1px solid var(--border); background: #fff; border-radius: 8px 8px 0 0; }
+  .deals-title { font-weight: 700; font-size: 15px; display: flex; align-items: center; gap: 8px; }
+  .deals-title .range { font-size: 12px; color: var(--muted); font-weight: 400; }
+  .deals-title .count { background: var(--accent); color: #fff; padding: 2px 8px; border-radius: 3px; font-size: 11px; font-weight: 600; margin-left: auto; }
+  .sort-bar { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+  .sort-bar button { padding: 4px 12px; font-size: 12px; border: 1px solid #ccc; background: #fff; border-radius: 14px; cursor: pointer; }
+  .sort-bar button.on { background: var(--primary); color: #fff; border-color: var(--primary); }
+
+  .legend {
+    display: flex; gap: 10px; font-size: 11px; color: #666;
+    justify-content: flex-end;
+    margin: 14px 2px 0;
+  }
+  .legend span { display: inline-flex; align-items: center; gap: 4px; }
+  .legend i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; }
+
+  .deals-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 10px;
+    padding: 4px 0 12px;
+  }
+
+  .deal {
+    background: var(--card-bg);
+    border-radius: 8px;
+    padding: 10px 12px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.07);
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 10px;
+    border-left: 5px solid #4b5ec4;
+    min-height: 120px;
+    position: relative;
+  }
+  .deal[data-type="중개거래"] { border-left-color: #4b5ec4; }
+  .deal[data-type="직거래"]   { border-left-color: #0a9e5a; }
+  .deal[data-type="직거래"] .deal-type { color: #0a9e5a; }
+  .deal.canceled { border-left-color: #c0392b !important; background: #fef5f4; }
+  .deal.canceled .deal-left .ttl,
+  .deal.canceled .deal-left .addr,
+  .deal.canceled .deal-left .size,
+  .deal.canceled .deal-right .price,
+  .deal.canceled .deal-right .deal-type { text-decoration: line-through; text-decoration-color: #999; }
+  .deal.canceled .deal-left .ttl,
+  .deal.canceled .deal-right .price { color: #888; }
+  .deal .cancel-date { display: none; }
+  .deal.canceled .cancel-date {
+    display: inline-block;
+    color: var(--up);
+    font-weight: 700;
+    font-size: 11px;
+    margin-top: 2px;
+  }
+
+  .deal-left { min-width: 0; font-size: 12px; line-height: 1.45; }
+  .deal-left .ttl { font-weight: 800; font-size: 14px; margin-bottom: 2px; color: #222; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .deal-left .ttl .idx { color: #999; margin-right: 4px; }
+  .deal-left .nation { color: var(--primary); font-size: 11px; font-weight: 600; margin-bottom: 3px; }
+  .deal-left .addr { color: #555; font-size: 11px; line-height: 1.4; }
+  .deal-left .size { color: var(--accent); font-size: 11px; font-weight: 700; margin-top: 2px; }
+  .deal-left .dates { color: #888; font-size: 11px; margin-top: 5px; line-height: 1.5; }
+
+  .deal-right { text-align: right; font-size: 11px; line-height: 1.5; white-space: nowrap; }
+  .deal-right .price { font-size: 20px; font-weight: 900; color: #222; margin-bottom: 5px; line-height: 1.1; }
+  .deal-right .price .unit { font-size: 11px; font-weight: 500; color: #666; margin-left: 2px; }
+  .deal-right .ref-line { color: #444; font-size: 11px; }
+  .deal-right .ref-line b { color: #222; font-weight: 700; }
+  .deal-right .down { color: var(--down); font-weight: 800; font-size: 11px; }
+  .deal-right .up { color: var(--up); font-weight: 800; font-size: 11px; }
+  .deal-right .gap { height: 4px; }
+  .deal-right .jeonse { color: #777; font-size: 10.5px; }
+  .deal-right .jeonse b { color: #444; }
+
+  /* 페이지네이션 */
+  .pager { display: flex; gap: 4px; justify-content: center; margin: 14px 0 4px; flex-wrap: wrap; }
+  .pager button { padding: 5px 10px; min-width: 34px; border: 1px solid #d0d8e8; background: #fff; cursor: pointer; font-size: 12px; border-radius: 4px; }
+  .pager button:hover:not(:disabled) { background: #f3f7ff; border-color: var(--primary); }
+  .pager button.on { background: var(--primary); color: #fff; border-color: var(--primary); }
+  .pager button:disabled { opacity: .4; cursor: default; }
+  .pager .ell { padding: 5px 4px; color: #999; font-size: 12px; }
+
+  .loading { text-align: center; padding: 40px; color: var(--muted); }
+  .err { color: var(--up); background: #fdecea; padding: 14px; border-radius: 6px; }
+
+  .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: #333; color: #fff; padding: 8px 14px; border-radius: 4px; font-size: 13px; opacity: 0; transition: opacity .2s; pointer-events: none; z-index: 100; }
   .toast.show { opacity: 1; }
 </style>
 </head>
@@ -43,39 +223,43 @@
   <input type="date" id="dateInput">
   <button id="loadBtn">불러오기</button>
   <button id="todayBtn" class="ghost">오늘</button>
+  <span style="width: 12px;"></span>
+  <select id="citySel"><option value="">전체 (시/도)</option></select>
+  <select id="stateSel"><option value="">전체 (시/군/구)</option></select>
+  <select id="dongSel"><option value="">전체 (동)</option></select>
+  <button id="favBtn" class="star" title="현재 지역 즐겨찾기">⭐</button>
   <span class="spacer"></span>
-  <span id="status" class="mute"></span>
+  <span id="status" class="status"></span>
 </header>
 
-<div id="sections"></div>
+<div class="container">
+  <div class="favs" id="favList">
+    <span class="label">⭐</span>
+  </div>
+
+  <div class="tabs">
+    <button class="tab active" data-tab="summary">📊 일일 종합</button>
+    <button class="tab" data-tab="deals">🏠 일일 실거래</button>
+  </div>
+
+  <div class="layout">
+    <aside class="col-summary active" id="sec-summary"></aside>
+    <section class="col-deals" id="sec-deals"></section>
+  </div>
+</div>
 
 <div class="toast" id="toast"></div>
 
 <script>
 const BASE = "https://home.niee.kr";
-const INCHEON_SEOGU = "28260";
+const INCHEON_CITY = "인천광역시";
 
 const $ = s => document.querySelector(s);
-const fmt = n => (n == null || n === '' || isNaN(n)) ? '-' : Number(n).toLocaleString();
-const money = n => {
-  if (n == null || n === '' || isNaN(n)) return '-';
-  n = Number(n);
-  const eok = Math.floor(n / 10000), man = n % 10000;
-  if (eok && man) return `${eok}억 ${fmt(man)}`;
-  if (eok) return `${eok}억`;
-  return fmt(man);
-};
-const toast = msg => {
-  const t = $('#toast');
-  t.textContent = msg;
-  t.classList.add('show');
-  setTimeout(() => t.classList.remove('show'), 1500);
-};
-
-const isoToday = () => {
-  const d = new Date();
-  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
-};
+const $$ = s => document.querySelectorAll(s);
+const fmt = n => (n == null || n === '' || isNaN(n)) ? '-' : Math.round(Number(n)).toLocaleString();
+const pct = (a, b) => (!b || !isFinite(a/b)) ? '-' : ((a/b)*100).toFixed(1);
+const toast = msg => { const t=$('#toast'); t.textContent=msg; t.classList.add('show'); setTimeout(()=>t.classList.remove('show'),1500); };
+const isoToday = () => { const d=new Date(); return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`; };
 
 async function fetchJson(path, params) {
   const qs = new URLSearchParams(params).toString();
@@ -84,206 +268,477 @@ async function fetchJson(path, params) {
   return res.json();
 }
 
-// todayAll: 각 row가 전국 or 광역시도. STATE/CNT/AVG/MAX/MIN 가 쉼표 CSV
-function flattenTodayAll(list) {
-  const rows = [];
-  for (const r of list) {
-    const states = r.STATE.split(',');
-    const cnts = r.CNT.split(',');
-    const avgs = r.AVG_MONEY.split(',');
-    const maxs = r.MAX_MONEY.split(',');
-    const mins = r.MIN_MONEY.split(',');
-    for (let i = 0; i < states.length; i++) {
-      const isAll = states[i] === '전체';
-      rows.push({
-        지역: isAll ? r.CITY : `${r.CITY} ${states[i]}`,
-        건수: Number(cnts[i] || 0),
-        평균: Number(avgs[i] || 0),
-        최고: Number(maxs[i] || 0),
-        최저: Number(mins[i] || 0),
-      });
-    }
+/* ========= 이미지 저장 ========= */
+async function saveAsImage(el, filename) {
+  if (!window.domtoimage) { toast('라이브러리 로드 실패'); return; }
+  toast('이미지 생성 중…');
+  try {
+    // 캡처 전 모든 카드의 overflow:hidden 임시 해제 (잘림 방지)
+    const cards = el.querySelectorAll('.card');
+    const origOverflow = [];
+    cards.forEach(c => { origOverflow.push(c.style.overflow); c.style.overflow = 'visible'; });
+
+    // 레이아웃 강제 재계산
+    el.getBoundingClientRect();
+
+    const rect = el.getBoundingClientRect();
+    const w = Math.ceil(Math.max(rect.width, el.scrollWidth));
+    const h = Math.ceil(Math.max(rect.height, el.scrollHeight)) + 20;  // 넉넉하게 하단 여유
+
+    const dataUrl = await domtoimage.toPng(el, {
+      bgcolor: '#ffffff',
+      scale: 2,
+      width: w,
+      height: h,
+      style: {
+        transform: 'scale(1)',
+        'transform-origin': 'top left',
+        margin: '0',
+        padding: '0 0 20px 0',
+      },
+      filter: (node) => !(node.classList && (node.classList.contains('save-btn') || node.classList.contains('copy-btn'))),
+    });
+
+    // 원복
+    cards.forEach((c, i) => { c.style.overflow = origOverflow[i]; });
+
+    const link = document.createElement('a');
+    link.download = filename;
+    link.href = dataUrl;
+    link.click();
+    toast('저장됨');
+  } catch (e) {
+    console.error(e);
+    toast('저장 실패: ' + e.message);
   }
-  return rows;
 }
 
-function renderTable(container, title, rows, cols, opts = {}) {
-  const count = opts.count ?? rows.length;
-  const sec = document.createElement('section');
-  sec.className = 'section';
-  sec.innerHTML = `
-    <h2>${title} <span class="count">${count}건</span>
-      <button class="copy">📋 TSV 복사</button>
-    </h2>
-    <div class="wrap"><table><thead><tr></tr></thead><tbody></tbody></table></div>
-  `;
-  container.appendChild(sec);
+/* ========= 지역 드롭다운 ========= */
+let cityList = [], stateList = [], dongList = [];
 
-  const thead = sec.querySelector('thead tr');
-  const tbody = sec.querySelector('tbody');
+async function loadCities() {
+  cityList = await fetchJson('/city');
+  const sel = $('#citySel');
+  sel.innerHTML = '<option value="">전체 (시/도)</option>';
+  cityList.forEach(c => sel.innerHTML += `<option value="${c.CODE}">${c.CITY}</option>`);
+}
+async function loadStates(cityCode) {
+  const sel = $('#stateSel');
+  sel.innerHTML = '<option value="">전체 (시/군/구)</option>';
+  $('#dongSel').innerHTML = '<option value="">전체 (동)</option>';
+  if (!cityCode) { stateList = []; return; }
+  stateList = await fetchJson('/state', { city: cityCode });
+  stateList.forEach(s => sel.innerHTML += `<option value="${s.CODE}">${s.STATE}</option>`);
+}
+async function loadDongs(stateCode) {
+  const sel = $('#dongSel');
+  sel.innerHTML = '<option value="">전체 (동)</option>';
+  if (!stateCode) { dongList = []; return; }
+  dongList = await fetchJson('/dong', { code: stateCode });
+  dongList.forEach(d => sel.innerHTML += `<option value="${d.DONG}">${d.DONG}</option>`);
+}
 
-  cols.forEach((c, idx) => {
-    const th = document.createElement('th');
-    th.textContent = c.label;
-    if (c.num) th.classList.add('num');
-    th.onclick = () => {
-      const asc = th.classList.contains('sorted') && !th.classList.contains('asc');
-      thead.querySelectorAll('th').forEach(x => x.classList.remove('sorted','asc'));
-      th.classList.add('sorted');
-      if (asc) th.classList.add('asc');
-      rows.sort((a, b) => {
-        const av = a[c.key], bv = b[c.key];
-        if (typeof av === 'number' && typeof bv === 'number') return asc ? av - bv : bv - av;
-        return asc ? String(av).localeCompare(bv) : String(bv).localeCompare(av);
-      });
-      paint();
-    };
-    thead.appendChild(th);
-  });
+$('#citySel').onchange = async e => { await loadStates(e.target.value); page = 1; load(); };
+$('#stateSel').onchange = async e => { await loadDongs(e.target.value); page = 1; load(); };
+$('#dongSel').onchange = () => { page = 1; load(); };
 
-  // default sort: first numeric col desc
-  const defaultSort = cols.findIndex(c => c.num);
-  if (defaultSort >= 0) {
-    rows.sort((a, b) => (b[cols[defaultSort].key] ?? 0) - (a[cols[defaultSort].key] ?? 0));
-    thead.children[defaultSort].classList.add('sorted');
-  }
-
-  function paint() {
-    tbody.innerHTML = '';
-    for (const r of rows) {
-      const tr = document.createElement('tr');
-      for (const c of cols) {
-        const td = document.createElement('td');
-        if (c.num) td.classList.add('num');
-        const v = c.render ? c.render(r) : r[c.key];
-        if (c.html) td.innerHTML = v ?? '-';
-        else td.textContent = v ?? '-';
-        tr.appendChild(td);
-      }
-      tbody.appendChild(tr);
-    }
-  }
-  paint();
-
-  sec.querySelector('.copy').onclick = () => {
-    const header = cols.map(c => c.label).join('\t');
-    const body = rows.map(r => cols.map(c => {
-      const v = c.copy ? c.copy(r) : (c.render ? c.render(r) : r[c.key]);
-      // strip html tags if any
-      return String(v ?? '').replace(/<[^>]+>/g, '');
-    }).join('\t')).join('\n');
-    navigator.clipboard.writeText(header + '\n' + body);
-    toast('클립보드 복사됨');
+/* ========= 즐겨찾기 ========= */
+const FAV_KEY = 'apart_daily_favs';
+function getFavs() { try { return JSON.parse(localStorage.getItem(FAV_KEY) || '[]'); } catch { return []; } }
+function setFavs(list) { localStorage.setItem(FAV_KEY, JSON.stringify(list)); renderFavs(); }
+function currentRegion() {
+  const c = $('#citySel'), s = $('#stateSel'), d = $('#dongSel');
+  return {
+    city: c.value, cityName: c.options[c.selectedIndex]?.text || '',
+    state: s.value, stateName: s.options[s.selectedIndex]?.text || '',
+    dong: d.value, dongName: d.value,
   };
 }
-
-function diffCell(row) {
-  const deal = Number(row.DEAL_MONEY_NUM || 0);
-  const max = Number(row.MAX_DEAL_MONEY || 0);
-  if (!max) return '-';
-  const d = deal - max;
-  const eok = (d / 10000).toFixed(1);
-  const sign = d > 0 ? '+' : '';
-  const cls = d > 0 ? 'pos' : d < 0 ? 'neg' : '';
-  return `<span class="${cls}">${sign}${eok}억</span>`;
+function favLabel(f) {
+  const parts = [];
+  if (f.city) parts.push(f.cityName.replace(' (시/도)','').replace('전체','').trim());
+  if (f.state) parts.push(f.stateName);
+  if (f.dong) parts.push(f.dong);
+  return parts.filter(Boolean).join(' › ') || '전체';
 }
-function diffCopy(row) {
-  const deal = Number(row.DEAL_MONEY_NUM || 0);
-  const max = Number(row.MAX_DEAL_MONEY || 0);
-  if (!max) return '';
-  return ((deal - max) / 10000).toFixed(1) + '억';
+function renderFavs() {
+  const host = $('#favList');
+  // ⭐ 라벨은 유지, 칩만 교체
+  host.querySelectorAll('.fav-chip').forEach(el => el.remove());
+  const favs = getFavs();
+  if (!favs.length) {
+    const empty = document.createElement('span');
+    empty.className = 'fav-chip empty';
+    empty.textContent = '⭐ 버튼으로 지역 저장';
+    host.appendChild(empty);
+    return;
+  }
+  favs.forEach((f, i) => {
+    const chip = document.createElement('span');
+    chip.className = 'fav-chip';
+    chip.innerHTML = `<span class="lbl">${favLabel(f)}</span><span class="del" title="삭제">×</span>`;
+    chip.querySelector('.lbl').onclick = () => applyFav(f);
+    chip.querySelector('.del').onclick = (e) => { e.stopPropagation(); const list = getFavs(); list.splice(i,1); setFavs(list); };
+    host.appendChild(chip);
+  });
+}
+async function applyFav(f) {
+  $('#citySel').value = f.city || '';
+  await loadStates(f.city || '');
+  $('#stateSel').value = f.state || '';
+  await loadDongs(f.state || '');
+  $('#dongSel').value = f.dong || '';
+  page = 1;
+  load();
+}
+$('#favBtn').onclick = () => {
+  const cur = currentRegion();
+  if (!cur.city && !cur.state && !cur.dong) { toast('지역을 먼저 선택'); return; }
+  const favs = getFavs();
+  // 중복 방지
+  if (favs.find(f => f.city===cur.city && f.state===cur.state && f.dong===cur.dong)) { toast('이미 저장됨'); return; }
+  favs.push(cur);
+  setFavs(favs);
+  toast('즐겨찾기 저장됨');
+};
+
+/* ========= 요약 (일일 종합) ========= */
+function parseCityRow(row) {
+  const states = row.STATE.split(',');
+  const cnts = row.CNT.split(',');
+  const avgs = row.AVG_MONEY.split(',');
+  const maxs = row.MAX_MONEY.split(',');
+  const mins = row.MIN_MONEY.split(',');
+  return states.map((s, i) => ({
+    label: s, cnt: Number(cnts[i] || 0), avg: Number(avgs[i] || 0),
+    max: Number(maxs[i] || 0), min: Number(mins[i] || 0),
+  }));
 }
 
-async function load(date) {
-  const sections = $('#sections');
-  sections.innerHTML = '<div class="loading">불러오는 중…</div>';
+function renderRegionTable(container, { title, dateStr, headerLabel, rows }) {
+  const card = document.createElement('section');
+  card.className = 'card';
+  card.innerHTML = `
+    <div class="card-head">
+      <span>${title}</span>
+      <button class="copy-btn">📋 복사</button>
+      <button class="save-btn">📥 저장</button>
+      <span class="right">${dateStr}</span>
+    </div>
+    <table class="rpt">
+      <thead><tr>
+        <th class="lbl">${headerLabel}</th>
+        <th>거래량</th><th>평균가</th><th>최고가</th><th>최소가</th>
+      </tr></thead>
+      <tbody></tbody>
+    </table>`;
+  container.appendChild(card);
+  const tbody = card.querySelector('tbody');
+  rows.forEach((r, i) => {
+    const tr = document.createElement('tr');
+    if (i === 0) tr.classList.add('total');
+    tr.innerHTML = `<td class="lbl">${r.label}</td><td>${fmt(r.cnt)}</td><td>${fmt(r.avg)}</td><td>${fmt(r.max)}</td><td>${fmt(r.min)}</td>`;
+    tbody.appendChild(tr);
+  });
+  card.querySelector('.copy-btn').onclick = () => {
+    const header = [headerLabel, '거래량', '평균가', '최고가', '최소가'].join('\t');
+    const body = rows.map(r => [r.label, r.cnt, Math.round(r.avg), r.max, r.min].join('\t')).join('\n');
+    navigator.clipboard.writeText(`${title}\n${header}\n${body}`);
+    toast('복사됨');
+  };
+  card.querySelector('.save-btn').onclick = () => saveAsImage(card, `${title}_${dateStr}.png`);
+}
+
+function renderMaxByGu(container, { title, dateStr, rows }) {
+  const card = document.createElement('section');
+  card.className = 'card';
+  card.innerHTML = `
+    <div class="card-head">
+      <span>${title}</span>
+      <button class="copy-btn">📋 복사</button>
+      <button class="save-btn">📥 저장</button>
+      <span class="right">${dateStr}</span>
+    </div>
+    <table class="max">
+      <thead><tr><th>지역</th><th>아파트명<br>(면적/층)</th><th>거래금액<br>(거래일)</th></tr></thead>
+      <tbody></tbody>
+    </table>`;
+  container.appendChild(card);
+  const tbody = card.querySelector('tbody');
+  for (const r of rows) {
+    const when = `${r.DEAL_YEAR}.${r.DEAL_MONTH}.${r.DEAL_DAY}`;
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td class="region"><b>${r.STATE}</b><br><span style="color:#666">${r.APART_DONG}</span></td>
+      <td class="apt"><div class="name">${r.APART_NAME}</div><div class="sub">(${r.APART_SIZE}/${r.DEAL_FLOOR})</div></td>
+      <td class="money"><div class="amount">${fmt(r.DEAL_MONEY_NUM)}</div><div class="when">(${when})</div></td>`;
+    tbody.appendChild(tr);
+  }
+  card.querySelector('.copy-btn').onclick = () => {
+    const header = ['지역','아파트','전용면적','층','거래금액','거래일'].join('\t');
+    const body = rows.map(r => [`${r.CITY} ${r.STATE} ${r.APART_DONG}`, r.APART_NAME, r.APART_SIZE, r.DEAL_FLOOR, fmt(r.DEAL_MONEY_NUM), `${r.DEAL_YEAR}.${r.DEAL_MONTH}.${r.DEAL_DAY}`].join('\t')).join('\n');
+    navigator.clipboard.writeText(`${title}\n${header}\n${body}`);
+    toast('복사됨');
+  };
+  card.querySelector('.save-btn').onclick = () => saveAsImage(card, `${title}_${dateStr}.png`);
+}
+
+/* ========= 거래 카드 ========= */
+function renderDealCard(r, idx) {
+  const dealPrice = Number(r.DEAL_MONEY_NUM || 0);
+  const maxPrice = Number(r.MAX_DEAL_MONEY || 0);
+  const diff = dealPrice - maxPrice;
+  const diffPct = maxPrice ? pct(Math.abs(diff), maxPrice) : '-';
+  const age = Number(r.DEAL_YEAR) - Number(r.APART_CREATED_YEAR) + 1;
+
+  const avgInfo = (r.LAST_AVG && r.LAST_AVG[0]) || {};
+  const avgMoney = Number(avgInfo['AVG(DEAL_MONEY_NUM)'] || 0);
+  const avgDiff = dealPrice - avgMoney;
+  const avgDiffPct = avgMoney ? pct(Math.abs(avgDiff), avgMoney) : '-';
+  const lastDealDate = avgInfo['LAST_DEAL_DAY'] || avgInfo['MAX(LAST_DEAL_DAY)'] || '-';
+
+  const jData = (r.LAST_J_DATA && r.LAST_J_DATA[0]) || null;
+  let jeonseHTML = '';
+  if (jData) {
+    const jAvg = Number(jData.AVG_MONEY || 0);
+    const ratio = dealPrice ? ((jAvg/dealPrice)*100).toFixed(1) : '-';
+    jeonseHTML = `
+      <div class="gap"></div>
+      <div class="jeonse">전세평균 <b>${fmt(jAvg)}</b> · ${ratio}%(${jData.CNT})</div>`;
+  }
+
+  const when = `${r.DEAL_YEAR}.${r.DEAL_MONTH}.${r.DEAL_DAY}`;
+  const diffSign = diff < 0 ? '▼' : diff > 0 ? '▲' : '';
+  const diffClass = diff < 0 ? 'down' : diff > 0 ? 'up' : '';
+  const avgSign = avgDiff < 0 ? '▼' : avgDiff > 0 ? '▲' : '';
+  const avgClass = avgDiff < 0 ? 'down' : avgDiff > 0 ? 'up' : '';
+
+  const isCanceled = r.IS_CANCEL === 'Y' || !!r.CANCEL_DATE;
+  const cancelLine = isCanceled ? `<div class="cancel-date">취소: ${r.CANCEL_DATE || ''}</div>` : '';
+  const dealType = r.DEAL_TYPE && r.DEAL_TYPE.trim() ? r.DEAL_TYPE.trim() : '중개거래';
+
+  const div = document.createElement('div');
+  div.className = 'deal' + (isCanceled ? ' canceled' : '');
+  div.dataset.type = dealType;
+  div.innerHTML = `
+    <div class="deal-left">
+      <div class="ttl"><span class="idx">${idx}.</span>${r.APART_NAME}</div>
+      <div class="nation">전국 ${r.RANKING||'-'}위 · ${age}년차</div>
+      <div class="addr">${r.CITY||''} ${r.STATE||''} ${r.APART_DONG||''} ${r.APART_ADDRESS||''}</div>
+      <div class="size">${r.APART_SIZE}㎡ / ${r.DEAL_FLOOR}층</div>
+      <div class="dates">거래 ${when}<br>이전 ${lastDealDate}</div>
+      ${cancelLine}
+    </div>
+    <div class="deal-right">
+      <div class="price">${fmt(dealPrice)}<span class="unit">만원</span></div>
+      <div class="ref-line">최고가 <b>${fmt(maxPrice)}</b></div>
+      <div class="${diffClass}">${diffSign}${fmt(Math.abs(diff))} (${diffPct}%)</div>
+      <div class="gap"></div>
+      <div class="ref-line">10건평균 <b>${fmt(avgMoney)}</b></div>
+      <div class="${avgClass}">${avgSign}${fmt(Math.abs(avgDiff))} (${avgDiffPct}%)</div>
+      ${jeonseHTML}
+    </div>`;
+  return div;
+}
+
+/* ========= 페이지 ========= */
+let page = 1;
+let sortMode = 'price';
+let lastQueryInfo = { dateStr: '', total: 0 };
+
+function renderPager(container, curPage, totalPages) {
+  if (totalPages <= 1) return;
+  const nav = document.createElement('div');
+  nav.className = 'pager';
+
+  const mk = (label, p, disabled, on) => {
+    const b = document.createElement('button');
+    b.textContent = label;
+    if (disabled) b.disabled = true;
+    if (on) b.classList.add('on');
+    if (!disabled && !on) b.onclick = () => { page = p; load(); window.scrollTo({top:0,behavior:'smooth'}); };
+    return b;
+  };
+
+  nav.appendChild(mk('◀', curPage-1, curPage===1));
+  // 숫자: 현재±2, 처음/끝
+  const nums = new Set([1, totalPages, curPage-2, curPage-1, curPage, curPage+1, curPage+2]);
+  const sorted = [...nums].filter(n => n>=1 && n<=totalPages).sort((a,b)=>a-b);
+  let prev = 0;
+  for (const n of sorted) {
+    if (n - prev > 1) { const ell = document.createElement('span'); ell.className='ell'; ell.textContent='…'; nav.appendChild(ell); }
+    nav.appendChild(mk(String(n), n, false, n===curPage));
+    prev = n;
+  }
+  nav.appendChild(mk('▶', curPage+1, curPage===totalPages));
+  container.appendChild(nav);
+}
+
+function renderDealsSection(container, { rows, total, dateStr, pageNum, totalPages }) {
+  container.innerHTML = '';
+  const header = document.createElement('div');
+  header.className = 'deals-header';
+  const reg = currentRegion();
+  const regLabel = [reg.cityName, reg.stateName, reg.dong].filter(x => x && !/전체/.test(x)).join(' ') || '전국';
+  header.innerHTML = `
+    <div class="deals-title">
+      <span>🏠 ${regLabel} 당일 실거래</span>
+      <span class="range">${dateStr}</span>
+      <span class="count">총 ${total} 건</span>
+      <button class="save-btn dark" id="saveDealsBtn">📥 현재 페이지 저장</button>
+    </div>
+    <div class="sort-bar">
+      <button data-sort="price" ${sortMode==='price'?'class="on"':''}>거래금액 높은순</button>
+      <button data-sort="dong" ${sortMode==='dong'?'class="on"':''}>동별</button>
+      <button data-sort="diff" ${sortMode==='diff'?'class="on"':''}>최고가 대비</button>
+    </div>
+    <div class="legend">
+      <span><i style="background:#4b5ec4"></i>중개거래</span>
+      <span><i style="background:#0a9e5a"></i>직거래</span>
+      <span><i style="background:#c0392b"></i>취소</span>
+    </div>`;
+  container.appendChild(header);
+
+  const grid = document.createElement('div');
+  grid.className = 'deals-grid';
+  container.appendChild(grid);
+
+  const sorted = [...rows];
+  sorted.sort((a,b) => {
+    if (sortMode === 'price') return Number(b.DEAL_MONEY_NUM||0) - Number(a.DEAL_MONEY_NUM||0);
+    if (sortMode === 'dong') return (a.APART_DONG||'').localeCompare(b.APART_DONG||'') || Number(b.DEAL_MONEY_NUM||0) - Number(a.DEAL_MONEY_NUM||0);
+    if (sortMode === 'diff') {
+      const da = Number(a.DEAL_MONEY_NUM||0) - Number(a.MAX_DEAL_MONEY||0);
+      const db = Number(b.DEAL_MONEY_NUM||0) - Number(b.MAX_DEAL_MONEY||0);
+      return db - da;
+    }
+    return 0;
+  });
+  const startIdx = (pageNum - 1) * 30 + 1;
+  sorted.forEach((r, i) => grid.appendChild(renderDealCard(r, startIdx + i)));
+
+  header.querySelectorAll('.sort-bar button').forEach(btn => {
+    btn.onclick = () => {
+      sortMode = btn.dataset.sort;
+      page = 1;
+      load();
+    };
+  });
+
+  // 저장 버튼: header + grid 묶어서 캡처
+  const saveBtn = header.querySelector('#saveDealsBtn');
+  if (saveBtn) {
+    saveBtn.onclick = () => {
+      const wrap = document.createElement('div');
+      wrap.style.cssText = 'background:#eef1f6;padding:12px;display:inline-block';
+      const headerClone = header.cloneNode(true);
+      const gridClone = grid.cloneNode(true);
+      headerClone.querySelector('#saveDealsBtn')?.remove();
+      headerClone.querySelector('.sort-bar')?.remove();
+      wrap.appendChild(headerClone);
+      wrap.appendChild(gridClone);
+      wrap.style.width = grid.offsetWidth + 'px';
+      document.body.appendChild(wrap);
+      saveAsImage(wrap, `${regLabel}_실거래_${dateStr}_p${pageNum}.png`).finally(() => {
+        wrap.remove();
+      });
+    };
+  }
+
+  renderPager(container, pageNum, totalPages);
+}
+
+/* ========= 로드 ========= */
+async function load() {
+  const date = $('#dateInput').value || isoToday();
+  const reg = currentRegion();
+  $('#sec-summary').innerHTML = '<div class="loading">불러오는 중…</div>';
+  $('#sec-deals').innerHTML = '<div class="loading">불러오는 중…</div>';
   $('#status').textContent = '';
   const t0 = performance.now();
 
   try {
-    const [news, todayRank] = await Promise.all([
+    const dealParams = { btweenDate: date, dealDateBtween: 0, page };
+    if (reg.city) dealParams.city = reg.city;
+    if (reg.state) dealParams.state = reg.state;
+    if (reg.dong) dealParams.dong = reg.dong;
+
+    const [news, deals] = await Promise.all([
       fetchJson('/newsToday', { page: 1, cityCode: '', stateCode: '', selectDate: date }),
-      fetchJson('/todayRank', { btweenDate: date, dealDateBtween: 0, state: INCHEON_SEOGU }),
+      fetchJson('/todayRank', dealParams),
     ]);
 
-    sections.innerHTML = '';
+    // 요약
+    const sumEl = $('#sec-summary');
+    sumEl.innerHTML = '';
 
-    // 1) 전국/광역시도 요약
-    const summary = flattenTodayAll(news.todayAll || []);
-    renderTable(sections, '일일 종합 — 전국/광역시도', summary, [
-      { key: '지역', label: '지역' },
-      { key: '건수', label: '건수', num: true },
-      { key: '평균', label: '평균가', num: true, render: r => money(r.평균), copy: r => money(r.평균) },
-      { key: '최고', label: '최고가', num: true, render: r => money(r.최고), copy: r => money(r.최고) },
-      { key: '최저', label: '최저가', num: true, render: r => money(r.최저), copy: r => money(r.최저) },
-    ]);
+    // 상단 전체 저장 바
+    const bar = document.createElement('div');
+    bar.className = 'summary-bar';
+    bar.innerHTML = `
+      <span>📊 일일 종합 (${date})</span>
+      <button class="save-all-btn">📥 전체 저장</button>`;
+    sumEl.appendChild(bar);
 
-    // 2) 구별 최고가
-    const maxList = (news.todayMaxList || []).map(r => ({
-      시: r.CITY, 구: r.STATE, 동: r.APART_DONG, 단지: r.APART_NAME,
-      평형: r.APART_SIZE, 층: r.DEAL_FLOOR,
-      거래가: Number(r.DEAL_MONEY_NUM || 0),
-      거래일: `${r.DEAL_YEAR}-${r.DEAL_MONTH}-${r.DEAL_DAY}`,
-      타입: r.DEAL_TYPE,
-    }));
-    renderTable(sections, '구별 최고가', maxList, [
-      { key: '시', label: '시' },
-      { key: '구', label: '구' },
-      { key: '동', label: '동' },
-      { key: '단지', label: '단지' },
-      { key: '평형', label: '평형', num: true },
-      { key: '층', label: '층', num: true },
-      { key: '거래가', label: '거래가', num: true, render: r => money(r.거래가), copy: r => money(r.거래가) },
-      { key: '거래일', label: '거래일' },
-      { key: '타입', label: '타입' },
-    ]);
+    // 3개 카드를 감쌀 컨테이너
+    const pack = document.createElement('div');
+    pack.className = 'summary-pack';
+    sumEl.appendChild(pack);
 
-    // 3) 인천 서구 전체
-    const seogu = todayRank.list || [];
-    renderDeals(sections, `인천 서구 당일 거래`, seogu);
+    const nation = news.todayAll.find(r => r.CITY === '전국');
+    if (nation) renderRegionTable(pack, { title: '전국', dateStr: date, headerLabel: '시/군/구', rows: parseCityRow(nation) });
 
-    // 4) 청라동
-    const cheongna = seogu.filter(r => r.APART_DONG === '청라동');
-    renderDeals(sections, `청라동만`, cheongna);
+    // 선택한 시/도가 있으면 그 도시 요약, 없으면 인천 기본
+    const focusCity = reg.cityName && !/전체/.test(reg.cityName) ? reg.cityName : INCHEON_CITY;
+    const focusRow = news.todayAll.find(r => r.CITY === focusCity);
+    if (focusRow) renderRegionTable(pack, { title: focusCity, dateStr: date, headerLabel: '시/군/구', rows: parseCityRow(focusRow) });
+
+    const focusMax = (news.todayMaxList || []).filter(r => r.CITY === focusCity);
+    if (focusMax.length) renderMaxByGu(pack, { title: `${focusCity} 시/구별 최고가`, dateStr: date, rows: focusMax });
+
+    bar.querySelector('.save-all-btn').onclick = () => {
+      saveAsImage(pack, `일일종합_${date}.png`);
+    };
+
+    // 거래 카드
+    const total = deals.count || 0;
+    const totalPages = Math.max(1, Math.ceil(total / 30));
+    lastQueryInfo = { dateStr: date, total };
+    renderDealsSection($('#sec-deals'), {
+      rows: deals.list || [], total, dateStr: date, pageNum: page, totalPages,
+    });
 
     const ms = Math.round(performance.now() - t0);
-    $('#status').textContent = `✓ ${date} (${ms}ms)`;
+    $('#status').textContent = `✓ ${date} / ${page}페이지 / 총 ${total}건 (${ms}ms)`;
   } catch (e) {
-    sections.innerHTML = `<div class="err">오류: ${e.message}<br><br>CORS 차단일 수 있습니다. 반드시 <b>https://apartmoney.github.io/daily.html</b> 에서 열어주세요.</div>`;
+    $('#sec-summary').innerHTML = `<div class="err">오류: ${e.message}</div>`;
+    $('#sec-deals').innerHTML = '';
+    console.error(e);
   }
 }
 
-function renderDeals(container, title, rows) {
-  const cols = [
-    { key: 'APART_DONG', label: '동' },
-    { key: 'APART_NAME', label: '단지' },
-    { key: 'APART_SIZE', label: '평형', num: true },
-    { key: 'DEAL_FLOOR', label: '층', num: true },
-    { key: '거래가', label: '거래가', num: true,
-      render: r => money(r.DEAL_MONEY_NUM), copy: r => money(r.DEAL_MONEY_NUM) },
-    { key: '최고가', label: '최고가', num: true,
-      render: r => r.MAX_DEAL_MONEY ? money(r.MAX_DEAL_MONEY) : '-',
-      copy: r => r.MAX_DEAL_MONEY ? money(r.MAX_DEAL_MONEY) : '' },
-    { key: '신고가차이', label: '차이', num: true, html: true,
-      render: diffCell, copy: diffCopy },
-    { key: 'APART_CREATED_YEAR', label: '건축년' },
-    { key: 'DEAL_DATE', label: '거래일',
-      render: r => `${r.DEAL_YEAR}-${r.DEAL_MONTH}-${r.DEAL_DAY}` },
-    { key: 'DEAL_TYPE', label: '타입' },
-    { key: 'APART_ADDRESS', label: '지번' },
-  ];
-  // synthesize 거래가 sort key
-  rows = rows.map(r => ({ ...r, 거래가: Number(r.DEAL_MONEY_NUM || 0), 최고가: Number(r.MAX_DEAL_MONEY || 0) }));
-  renderTable(container, title, rows, cols);
-}
+// Tabs (모바일)
+$$('.tab').forEach(tab => {
+  tab.onclick = () => {
+    $$('.tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    const key = tab.dataset.tab;
+    $('.col-summary').classList.toggle('active', key === 'summary');
+    $('.col-deals').classList.toggle('active', key === 'deals');
+  };
+});
 
-$('#loadBtn').onclick = () => load($('#dateInput').value);
-$('#todayBtn').onclick = () => { $('#dateInput').value = isoToday(); load(isoToday()); };
-$('#dateInput').onkeydown = e => { if (e.key === 'Enter') load(e.target.value); };
+$('#loadBtn').onclick = () => { page = 1; load(); };
+$('#todayBtn').onclick = () => { $('#dateInput').value = isoToday(); page = 1; load(); };
+$('#dateInput').onkeydown = e => { if (e.key === 'Enter') { page = 1; load(); } };
 
-// init
-$('#dateInput').value = isoToday();
-load(isoToday());
+// 초기화
+(async () => {
+  $('#dateInput').value = isoToday();
+  await loadCities();
+  renderFavs();
+  load();
+})();
 </script>
 </body>
 </html>
