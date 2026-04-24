@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>일일 아파트 거래 지도</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif; background: #eef1f6; color: #222; }
+  header { display: flex; gap: 8px; align-items: center; padding: 8px 14px; background: #4b5ec4; color: #fff; flex-wrap: wrap; }
+  header h1 { margin: 0; font-size: 15px; }
+  header input[type="date"] { padding: 5px 10px; border: 0; border-radius: 4px; font-size: 13px; }
+  header button { padding: 5px 12px; border: 0; border-radius: 4px; background: #fff; color: #4b5ec4; cursor: pointer; font-size: 13px; font-weight: 600; }
+  header button.ghost { background: transparent; color: #fff; border: 1px solid rgba(255,255,255,0.6); }
+  header .spacer { flex: 1; }
+  header a { color: #fff; font-size: 12px; text-decoration: underline; }
+  header .status { font-size: 12px; opacity: 0.85; }
+
+  .layout { display: flex; height: calc(100vh - 76px); }
+  .sidebar { width: 360px; background: #fff; overflow-y: auto; border-right: 1px solid #d4dae6; }
+  .sidebar h3 { margin: 12px 14px 6px; font-size: 13px; color: #4b5ec4; }
+  .deal-item {
+    padding: 10px 12px; border-bottom: 1px solid #eaeaea; cursor: pointer;
+    border-left: 4px solid #4b5ec4;
+  }
+  .deal-item:hover { background: #f3f7ff; }
+  .deal-item.active { background: #e7edff; }
+  .deal-item[data-type="직거래"] { border-left-color: #0a9e5a; }
+  .deal-item.canceled { border-left-color: #c0392b; background: #fef5f4; }
+  .deal-item.canceled .name { text-decoration: line-through; color: #888; }
+  .deal-item .name { font-weight: 700; font-size: 13px; }
+  .deal-item .meta { color: #666; font-size: 11px; margin-top: 3px; }
+  .deal-item .price { color: #222; font-weight: 800; font-size: 14px; margin-top: 4px; }
+  .deal-item .price .ratio { font-size: 11px; font-weight: 500; margin-left: 6px; }
+  .deal-item .ratio.down { color: #2d6cdf; }
+  .deal-item .ratio.up { color: #c0392b; }
+
+  #map { flex: 1; }
+
+  .legend-bar { padding: 6px 12px; background: #f5f7fb; border-bottom: 1px solid #e4e7ee; font-size: 11px; color: #555; display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+  .legend-bar i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 4px; vertical-align: middle; }
+
+  .marker {
+    background: #4b5ec4; color: #fff; padding: 4px 8px; border-radius: 6px;
+    font-size: 11px; font-weight: 600; white-space: nowrap;
+    box-shadow: 0 2px 5px rgba(0,0,0,.25);
+    border: 2px solid #fff;
+    line-height: 1.3; text-align: center; cursor: pointer;
+  }
+  .marker .name { font-weight: 700; font-size: 11px; max-width: 110px; overflow: hidden; text-overflow: ellipsis; }
+  .marker .price { font-size: 12px; font-weight: 800; margin-top: 1px; }
+  .marker.direct { background: #0a9e5a; }
+  .marker.canceled { background: #c0392b; }
+  .marker.canceled .name, .marker.canceled .price { text-decoration: line-through; }
+
+  .cluster {
+    background: rgba(75,94,196,.95); color: #fff;
+    min-width: 70px; padding: 6px 10px; border-radius: 10px;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    font-weight: 700; border: 2px solid #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,.3);
+    cursor: pointer; line-height: 1.25; text-align: center;
+  }
+  .cluster.lg { background: rgba(75,94,196,.95); min-width: 80px; padding: 7px 12px; }
+  .cluster .label { font-size: 11px; opacity: 0.95; font-weight: 700; }
+  .cluster .cnt { font-size: 12px; font-weight: 800; margin-top: 1px; }
+  .cluster .avg { font-size: 11px; font-weight: 700; opacity: 0.95; margin-top: 1px; }
+
+  .infobox {
+    background: #fff; padding: 10px 12px; border-radius: 6px;
+    box-shadow: 0 4px 14px rgba(0,0,0,.15);
+    font-size: 12px; min-width: 200px; max-width: 280px;
+    border: 1px solid #d4dae6;
+  }
+  .infobox .ttl { font-weight: 800; font-size: 13px; margin-bottom: 4px; }
+  .infobox .row { color: #555; font-size: 11px; line-height: 1.5; }
+  .infobox .price { color: #222; font-weight: 800; font-size: 16px; margin-top: 4px; }
+  .infobox .down { color: #2d6cdf; font-weight: 700; }
+  .infobox .up { color: #c0392b; font-weight: 700; }
+
+  .err { padding: 16px; color: #c0392b; background: #fdecea; }
+  .loading { padding: 20px; text-align: center; color: #888; }
+  .empty { padding: 20px; text-align: center; color: #888; font-size: 13px; }
+
+  @media (max-width: 800px) {
+    .layout { flex-direction: column-reverse; height: auto; }
+    .sidebar { width: 100%; max-height: 45vh; min-height: 200px; flex: 0 0 auto; }
+    #map { width: 100%; height: 55vh; min-height: 350px; flex: 0 0 auto; }
+  }
+</style>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=1a0e34e5c3854ed4e3a8646ce343231c"></script>
+</head>
+<body>
+
+<header>
+  <h1>🗺 일일 아파트 거래 지도</h1>
+  <input type="date" id="dateInput">
+  <button id="loadBtn">불러오기</button>
+  <button id="todayBtn" class="ghost">오늘</button>
+  <span class="spacer"></span>
+  <a href="daily.html">📊 리포트</a>
+  <span class="status" id="status"></span>
+</header>
+
+<div class="legend-bar">
+  <span><i style="background:#4b5ec4"></i>중개거래</span>
+  <span><i style="background:#0a9e5a"></i>직거래</span>
+  <span><i style="background:#c0392b"></i>취소</span>
+  <span style="margin-left:auto;color:#888" id="metaInfo"></span>
+</div>
+
+<div class="layout">
+  <aside class="sidebar" id="sidebar"></aside>
+  <div id="map"></div>
+</div>
+
+<script>
+const BASE = "https://home.niee.kr";
+const COORDS_DIR = "coords";
+const GANGNAM = { lat: 37.5172, lng: 127.0473 };
+
+const $ = s => document.querySelector(s);
+const fmt = n => (n == null || n === '' || isNaN(n)) ? '-' : Math.round(Number(n)).toLocaleString();
+const isoToday = () => { const d=new Date(); return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`; };
+
+let map, markers = [], openOverlay = null;
+
+let coordsMap = {};
+let loadedCoords = new Set();
+let allDeals = [];
+let allMatched = [];
+
+async function fetchJson(url) {
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`${res.status}`);
+  return res.json();
+}
+
+async function loadCoordsFor(cc2) {
+  if (loadedCoords.has(cc2)) return;
+  loadedCoords.add(cc2);
+  try {
+    const res = await fetch(`${COORDS_DIR}/${cc2}.json`);
+    if (!res.ok) return;  // 404 등 조용히 무시
+    const data = await res.json();
+    Object.assign(coordsMap, data);
+  } catch (e) { /* 콘솔 노이즈 줄임 */ }
+}
+
+function aptKey(d) { return `${d.APART_CITY_CODE}|${d.APART_DONG}|${d.APART_NAME}|${d.APART_ADDRESS}`; }
+
+function initMap() {
+  map = new kakao.maps.Map($('#map'), {
+    center: new kakao.maps.LatLng(GANGNAM.lat, GANGNAM.lng),
+    level: 6,
+  });
+  kakao.maps.event.addListener(map, 'zoom_changed', refresh);
+  kakao.maps.event.addListener(map, 'idle', refresh);
+  const relayout = () => { if (map) map.relayout(); };
+  window.addEventListener('resize', relayout);
+  setTimeout(relayout, 100);
+  setTimeout(relayout, 500);
+}
+
+function clearMarkers() {
+  markers.forEach(m => m.setMap(null));
+  markers = [];
+  markerById.clear();
+  currentClusters.clear();
+  currentLevel = -1;
+  currentGroupBy = '';
+  if (openOverlay) { openOverlay.setMap(null); openOverlay = null; }
+}
+
+// 변경분만 갱신하기 위한 추적
+const markerById = new Map();         // dealId → overlay (개별 마커)
+const currentClusters = new Map();    // groupKey → overlay (클러스터)
+const groupCache = new Map();         // groupBy('APART_DONG' 등) → Map(label → items[])
+let currentLevel = -1;
+let currentGroupBy = '';
+
+// 화면 가장자리 깜빡임 방지를 위해 bounds 30% 확장
+function expandedBounds() {
+  const b = map.getBounds();
+  const sw = b.getSouthWest(), ne = b.getNorthEast();
+  const dLat = (ne.getLat() - sw.getLat()) * 0.3;
+  const dLng = (ne.getLng() - sw.getLng()) * 0.3;
+  return {
+    minLat: sw.getLat() - dLat, maxLat: ne.getLat() + dLat,
+    minLng: sw.getLng() - dLng, maxLng: ne.getLng() + dLng,
+  };
+}
+
+function inBounds(coord, eb) {
+  return coord.lat >= eb.minLat && coord.lat <= eb.maxLat
+      && coord.lng >= eb.minLng && coord.lng <= eb.maxLng;
+}
+
+function visibleMatched() {
+  const eb = expandedBounds();
+  return allMatched.filter(m => inBounds(m.coord, eb));
+}
+
+function getGroupBy(level) {
+  if (level <= 4) return '';            // 1~4: 개별 단지 마커
+  if (level <= 6) return 'APART_DONG';  // 5~6: 동 단위
+  if (level <= 9) return 'STATE';       // 7~9: 구 단위
+  return 'CITY';                        // 10+: 시 단위
+}
+
+function buildIndividualMarker(deal, coord) {
+  const dealType = deal.DEAL_TYPE || '중개거래';
+  // 취소 거래도 마커 색은 일반(거래유형 따름) — 시각적으로 다른 마커와 차이 두지 않음
+  const cls = dealType === '직거래' ? 'marker direct' : 'marker';
+  const node = document.createElement('div');
+  node.className = cls;
+  node.innerHTML = `<div class="name">${deal.APART_NAME}</div><div class="price">${fmt(deal.DEAL_MONEY_NUM)}</div>`;
+  node.onclick = (e) => { e.stopPropagation(); showInfo(deal, coord); };
+  const ov = new kakao.maps.CustomOverlay({
+    position: new kakao.maps.LatLng(coord.lat, coord.lng),
+    content: node, yAnchor: 1, clickable: true,
+  });
+  ov.setMap(map); markers.push(ov);
+  return ov;
+}
+
+function buildClusterMarker(items, label, isLarge) {
+  const lat = items.reduce((s, x) => s + x.coord.lat, 0) / items.length;
+  const lng = items.reduce((s, x) => s + x.coord.lng, 0) / items.length;
+  const totalCnt = items.length;
+  const totalAmt = items.reduce((s, x) => s + Number(x.deal.DEAL_MONEY_NUM || 0), 0);
+  const avgAmt = totalAmt / totalCnt;
+  const node = document.createElement('div');
+  node.className = 'cluster' + (isLarge ? ' lg' : '');
+  node.innerHTML = `<div class="label">${label}</div><div class="cnt">${totalCnt}건</div><div class="avg">평균 ${fmt(avgAmt)}</div>`;
+  node.title = `${label} · ${totalCnt}건 · 평균 ${fmt(avgAmt)}만원`;
+  node.onclick = () => map.setLevel(Math.max(1, map.getLevel() - 2), { anchor: new kakao.maps.LatLng(lat, lng) });
+  const ov = new kakao.maps.CustomOverlay({
+    position: new kakao.maps.LatLng(lat, lng),
+    content: node, yAnchor: 0.5, xAnchor: 0.5, clickable: true,
+  });
+  ov.setMap(map); markers.push(ov);
+  return ov;
+}
+
+function rebuildMarkers() {
+  const level = map.getLevel();
+  const groupBy = getGroupBy(level);
+
+  // 그룹 단위가 바뀌면 (개별 ↔ 클러스터) 깔끔히 다시
+  if (groupBy !== currentGroupBy) {
+    clearMarkers();
+    currentGroupBy = groupBy;
+    currentLevel = level;
+  }
+
+  if (groupBy === '') {
+    // === 개별 마커 모드 — bounds 기반 (가장자리 30% 확장) ===
+    const visible = visibleMatched();
+    const seenIds = new Set();
+    for (const {deal, coord} of visible) {
+      seenIds.add(deal.ID);
+      if (!markerById.has(deal.ID)) {
+        const ov = buildIndividualMarker(deal, coord);
+        markerById.set(deal.ID, ov);
+      }
+    }
+    for (const [id, ov] of markerById) {
+      if (!seenIds.has(id)) {
+        ov.setMap(null);
+        markerById.delete(id);
+        const idx = markers.indexOf(ov);
+        if (idx >= 0) markers.splice(idx, 1);
+      }
+    }
+    return;
+  }
+
+  // === 클러스터 모드 — 그룹 전체 단위 (bounds 무시) ===
+  // 1) 전체 거래를 그룹키로 묶음 (한 번만 계산해서 캐시)
+  // 2) 그룹의 중심점이 화면 안에 있으면 표시
+  // 3) 카운트는 항상 "그룹 전체" — 화면 이동해도 안 바뀜
+  if (!groupCache.has(groupBy)) {
+    const groups = new Map();
+    for (const item of allMatched) {
+      // 키: 동일 라벨 충돌(중구 등)을 막으려면 시/도까지 포함
+      // 단, 클러스터 라벨(label) 자체는 사용자에게 보이는 짧은 이름
+      const labelVal = item.deal[groupBy] || '미상';
+      let key, label;
+      if (groupBy === 'APART_DONG') {
+        // 동: 시·구까지 키에, 라벨은 동
+        key = `${item.deal.CITY||''}|${item.deal.STATE||''}|${labelVal}`;
+        label = labelVal;
+      } else if (groupBy === 'STATE') {
+        // 구: 시까지 키에, 라벨은 구
+        key = `${item.deal.CITY||''}|${labelVal}`;
+        label = labelVal;
+      } else {
+        key = labelVal;
+        label = labelVal;
+      }
+      if (!groups.has(key)) groups.set(key, { label, items: [] });
+      groups.get(key).items.push(item);
+    }
+    groupCache.set(groupBy, groups);
+  }
+  const groups = groupCache.get(groupBy);
+
+  const eb = expandedBounds();
+  const seenKeys = new Set();
+  for (const [key, { label, items }] of groups) {
+    const lat = items.reduce((s, x) => s + x.coord.lat, 0) / items.length;
+    const lng = items.reduce((s, x) => s + x.coord.lng, 0) / items.length;
+    if (lat < eb.minLat || lat > eb.maxLat || lng < eb.minLng || lng > eb.maxLng) continue;
+
+    seenKeys.add(key);
+    const existing = currentClusters.get(key);
+    if (existing) continue;
+    const ov = buildClusterMarker(items, label, items.length >= 5);
+    ov._count = items.length;
+    currentClusters.set(key, ov);
+  }
+  for (const [k, ov] of currentClusters) {
+    if (!seenKeys.has(k)) {
+      ov.setMap(null);
+      currentClusters.delete(k);
+      const idx = markers.indexOf(ov);
+      if (idx >= 0) markers.splice(idx, 1);
+    }
+  }
+}
+
+function rebuildSidebar() {
+  const visible = visibleMatched();
+  const sb = $('#sidebar');
+  sb.innerHTML = '';
+  const h = document.createElement('h3');
+  h.textContent = `📍 화면 영역 ${visible.length}건 (전체 ${allMatched.length})`;
+  sb.appendChild(h);
+  if (!visible.length) {
+    const e = document.createElement('div');
+    e.className = 'empty';
+    e.textContent = '이 영역에 표시할 거래 없음';
+    sb.appendChild(e);
+    return;
+  }
+  const sorted = [...visible].sort((a, b) => Number(b.deal.DEAL_MONEY_NUM||0) - Number(a.deal.DEAL_MONEY_NUM||0));
+  for (const {deal, coord} of sorted.slice(0, 100)) {
+    const isCanceled = deal.IS_CANCEL === 'Y' || !!deal.CANCEL_DATE;
+    const dealType = deal.DEAL_TYPE || '중개거래';
+    const item = document.createElement('div');
+    item.className = 'deal-item' + (isCanceled ? ' canceled' : '');
+    item.dataset.type = dealType;
+    const dealPrice = Number(deal.DEAL_MONEY_NUM || 0);
+    const maxPrice = Number(deal.MAX_DEAL_MONEY || 0);
+    const diff = dealPrice - maxPrice;
+    const diffPct = maxPrice ? ((diff/maxPrice)*100).toFixed(1) : '-';
+    const sign = diff < 0 ? '▼' : diff > 0 ? '▲' : '';
+    const cls = diff < 0 ? 'down' : diff > 0 ? 'up' : '';
+    item.innerHTML = `
+      <div class="name">${deal.APART_NAME}</div>
+      <div class="meta">${deal.CITY||''} ${deal.STATE||''} ${deal.APART_DONG} · ${deal.APART_SIZE}㎡ / ${deal.DEAL_FLOOR}층</div>
+      <div class="price">${fmt(dealPrice)}만원 <span class="ratio ${cls}">${sign}${Math.abs(diffPct)}%</span></div>
+    `;
+    item.onclick = () => {
+      document.querySelectorAll('.deal-item.active').forEach(x => x.classList.remove('active'));
+      item.classList.add('active');
+      showInfo(deal, coord, true);  // 사이드바 클릭 → 줌 인
+    };
+    sb.appendChild(item);
+  }
+  if (sorted.length > 100) {
+    const more = document.createElement('div');
+    more.className = 'empty';
+    more.textContent = `+${sorted.length - 100}건 (지도 마커로 확인)`;
+    sb.appendChild(more);
+  }
+}
+
+let refreshTimer = null;
+function refresh() {
+  if (refreshTimer) clearTimeout(refreshTimer);
+  refreshTimer = setTimeout(() => {
+    rebuildMarkers();
+    rebuildSidebar();
+  }, 80);
+}
+
+function infoboxHTML(deal) {
+  const dealPrice = Number(deal.DEAL_MONEY_NUM || 0);
+  const maxPrice = Number(deal.MAX_DEAL_MONEY || 0);
+  const diff = dealPrice - maxPrice;
+  const diffPct = maxPrice ? ((diff/maxPrice)*100).toFixed(1) : '-';
+  const sign = diff < 0 ? '▼' : diff > 0 ? '▲' : '';
+  const cls = diff < 0 ? 'down' : diff > 0 ? 'up' : '';
+  const isCanceled = deal.IS_CANCEL === 'Y' || !!deal.CANCEL_DATE;
+  return `
+    <div class="infobox">
+      <div class="ttl">${deal.APART_NAME}${isCanceled ? ' <span style="color:#c0392b">(취소)</span>' : ''}</div>
+      <div class="row">${deal.CITY||''} ${deal.STATE||''} ${deal.APART_DONG} ${deal.APART_ADDRESS||''}</div>
+      <div class="row">${deal.APART_SIZE}㎡ / ${deal.DEAL_FLOOR}층 · ${deal.DEAL_TYPE||'중개거래'}</div>
+      <div class="row">거래일: ${deal.DEAL_YEAR}.${deal.DEAL_MONTH}.${deal.DEAL_DAY}</div>
+      <div class="price">${fmt(dealPrice)}<span style="font-size:11px;color:#888">만원</span></div>
+      <div class="row">최고가 <b>${fmt(maxPrice)}</b> · <span class="${cls}">${sign}${Math.abs(diff/10000).toFixed(1)}억 (${Math.abs(diffPct)}%)</span></div>
+    </div>`;
+}
+
+function showInfo(deal, coord, zoomIn) {
+  if (openOverlay) openOverlay.setMap(null);
+  const pos = new kakao.maps.LatLng(coord.lat, coord.lng);
+  // 사이드바 클릭 등으로 확대 요청이 오면 단지 보이는 줌으로
+  if (zoomIn && map.getLevel() > 4) {
+    map.setLevel(4, { anchor: pos });
+  }
+  map.panTo(pos);
+  // panTo 후 인포박스 다시 띄우기 (refresh 가 마커를 비워서)
+  setTimeout(() => {
+    openOverlay = new kakao.maps.CustomOverlay({
+      position: pos,
+      content: infoboxHTML(deal), yAnchor: 1.6,
+    });
+    openOverlay.setMap(map);
+  }, 0);
+}
+
+async function load(date) {
+  $('#status').textContent = '불러오는 중…';
+  $('#sidebar').innerHTML = '<div class="loading">불러오는 중…</div>';
+  clearMarkers();
+  groupCache.clear();
+  allDeals = [];
+  allMatched = [];
+
+  try {
+    const t0 = performance.now();
+    // 전체 한 번에
+    const res = await fetchJson(`${BASE}/todayRankAll?btweenDate=${date}&dealDateBtween=0`);
+    allDeals = res.list || [];
+
+    // 등장한 모든 시도 좌표 lazy load (병렬)
+    const cc2s = [...new Set(allDeals.map(d => (d.APART_CITY_CODE||'').slice(0,2)).filter(Boolean))];
+    await Promise.all(cc2s.map(cc => loadCoordsFor(cc)));
+
+    // 매칭
+    for (const d of allDeals) {
+      const c = coordsMap[aptKey(d)];
+      if (c && c.lat) allMatched.push({ deal: d, coord: c });
+    }
+
+    refresh();
+    const ms = Math.round(performance.now() - t0);
+    const missed = allDeals.length - allMatched.length;
+    $('#status').textContent = `${date} · 전국 ${allDeals.length}건 (좌표 매칭 ${allMatched.length}건${missed?`, 미매칭 ${missed}`:''}) · ${ms}ms`;
+    $('#metaInfo').textContent = `좌표 DB: ${Object.keys(coordsMap).length.toLocaleString()}단지`;
+  } catch (e) {
+    $('#sidebar').innerHTML = `<div class="err">로드 실패: ${e.message}</div>`;
+    $('#status').textContent = '오류';
+    console.error(e);
+  }
+}
+
+$('#loadBtn').onclick = () => load($('#dateInput').value || isoToday());
+$('#todayBtn').onclick = () => { $('#dateInput').value = isoToday(); load(isoToday()); };
+
+(async () => {
+  $('#dateInput').value = isoToday();
+  await new Promise((resolve) => {
+    if (window.kakao && kakao.maps) { kakao.maps.load(resolve); }
+    else {
+      const t = setInterval(() => {
+        if (window.kakao && kakao.maps) { clearInterval(t); kakao.maps.load(resolve); }
+      }, 100);
+    }
+  });
+  initMap();
+  load(isoToday());
+})();
+</script>
+</body>
+</html>
