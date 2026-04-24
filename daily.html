@@ -688,13 +688,24 @@ async function load() {
     const nation = news.todayAll.find(r => r.CITY === '전국');
     if (nation) renderRegionTable(pack, { title: '전국', dateStr: date, headerLabel: '시/군/구', rows: parseCityRow(nation) });
 
-    // 선택한 시/도가 있으면 그 도시 요약, 없으면 인천 기본
-    const focusCity = reg.cityName && !/전체/.test(reg.cityName) ? reg.cityName : INCHEON_CITY;
-    const focusRow = news.todayAll.find(r => r.CITY === focusCity);
-    if (focusRow) renderRegionTable(pack, { title: focusCity, dateStr: date, headerLabel: '시/군/구', rows: parseCityRow(focusRow) });
+    const focusCity = reg.cityName && !/전체/.test(reg.cityName) ? reg.cityName : null;
 
-    const focusMax = (news.todayMaxList || []).filter(r => r.CITY === focusCity);
-    if (focusMax.length) renderMaxByGu(pack, { title: `${focusCity} 시/구별 최고가`, dateStr: date, rows: focusMax });
+    if (focusCity) {
+      // 특정 시/도 선택 — 그 시/도 요약만
+      const focusRow = news.todayAll.find(r => r.CITY === focusCity);
+      if (focusRow) renderRegionTable(pack, { title: focusCity, dateStr: date, headerLabel: '시/군/구', rows: parseCityRow(focusRow) });
+      const focusMax = (news.todayMaxList || []).filter(r => r.CITY === focusCity);
+      if (focusMax.length) renderMaxByGu(pack, { title: `${focusCity} 시/구별 최고가`, dateStr: date, rows: focusMax });
+    } else {
+      // 전체 — 모든 광역시도 요약 + 전국 구별 최고가 전체
+      for (const row of news.todayAll) {
+        if (row.CITY === '전국') continue;
+        renderRegionTable(pack, { title: row.CITY, dateStr: date, headerLabel: '시/군/구', rows: parseCityRow(row) });
+      }
+      if (news.todayMaxList && news.todayMaxList.length) {
+        renderMaxByGu(pack, { title: '전국 시/구별 최고가', dateStr: date, rows: news.todayMaxList });
+      }
+    }
 
     bar.querySelector('.save-all-btn').onclick = () => {
       saveAsImage(pack, `일일종합_${date}.png`);
