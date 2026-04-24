@@ -200,6 +200,14 @@
   .deal-right .gap { height: 4px; }
   .deal-right .jeonse { color: #777; font-size: 10.5px; }
   .deal-right .jeonse b { color: #444; }
+  .deal-right .new-high-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, #ff6a3d 0%, #c0392b 100%);
+    color: #fff; font-weight: 800; font-size: 10.5px;
+    padding: 2px 7px; border-radius: 10px;
+    margin-bottom: 3px; letter-spacing: 0.3px;
+    box-shadow: 0 1px 3px rgba(192,57,43,.25);
+  }
 
   /* 페이지네이션 */
   .pager { display: flex; gap: 4px; justify-content: center; margin: 14px 0 4px; flex-wrap: wrap; }
@@ -556,6 +564,10 @@ function renderMaxByGu(container, { title, dateStr, rows }) {
 function renderDealCard(r, idx) {
   const dealPrice = Number(r.DEAL_MONEY_NUM || 0);
   const maxPrice = Number(r.MAX_DEAL_MONEY || 0);
+  const isNewHigh = r.DEAL_BTWEEN != null && Number(r.DEAL_BTWEEN) >= 0;
+  const dealBtween = Number(r.DEAL_BTWEEN || 0);
+  const prevHigh = isNewHigh ? Math.max(0, dealPrice - dealBtween) : 0;
+  const newHighPct = isNewHigh && prevHigh ? pct(dealBtween, prevHigh) : '-';
   const diff = dealPrice - maxPrice;
   const diffPct = maxPrice ? pct(Math.abs(diff), maxPrice) : '-';
   const age = Number(r.DEAL_YEAR) - Number(r.APART_CREATED_YEAR) + 1;
@@ -600,8 +612,14 @@ function renderDealCard(r, idx) {
     </div>
     <div class="deal-right">
       <div class="price">${fmt(dealPrice)}<span class="unit">만원</span></div>
-      <div class="ref-line">최고가 <b>${fmt(maxPrice)}</b></div>
-      <div class="${diffClass}">${diffSign}${fmt(Math.abs(diff))} (${diffPct}%)</div>
+      ${isNewHigh ? `
+        <div class="new-high-badge">🔥 신고가</div>
+        <div class="ref-line">전고가 <b>${prevHigh ? fmt(prevHigh) : '-'}</b></div>
+        <div class="up">▲${fmt(dealBtween)} (${newHighPct}%)</div>
+      ` : `
+        <div class="ref-line">최고가 <b>${fmt(maxPrice)}</b></div>
+        <div class="${diffClass}">${diffSign}${fmt(Math.abs(diff))} (${diffPct}%)</div>
+      `}
       <div class="gap"></div>
       <div class="ref-line">10건평균 <b>${fmt(avgMoney)}</b></div>
       <div class="${avgClass}">${avgSign}${fmt(Math.abs(avgDiff))} (${avgDiffPct}%)</div>
