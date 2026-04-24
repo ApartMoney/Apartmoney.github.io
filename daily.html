@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>일일 아파트 리포트</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 16px; font-family: -apple-system, BlinkMacSystemFont, "Malgun Gothic", sans-serif; background: #f4f6f8; color: #222; }
+  header { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 16px; }
+  header h1 { margin: 0; font-size: 18px; }
+  header input[type="date"] { padding: 6px 10px; border: 1px solid #bbb; border-radius: 6px; font-size: 14px; }
+  header button { padding: 6px 14px; border: 0; border-radius: 6px; background: #2d6cdf; color: #fff; cursor: pointer; font-size: 14px; }
+  header button:hover { background: #245bbd; }
+  header button.ghost { background: #666; }
+  header .spacer { flex: 1; }
+  .section { background: #fff; border-radius: 8px; padding: 12px 14px; margin-bottom: 14px; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+  .section h2 { margin: 0 0 8px; font-size: 15px; display: flex; gap: 10px; align-items: center; }
+  .section h2 .count { font-size: 12px; color: #666; font-weight: normal; }
+  .section h2 .copy { margin-left: auto; font-size: 12px; padding: 4px 10px; background: #e7ebf0; color: #333; border: 0; border-radius: 4px; cursor: pointer; }
+  .section h2 .copy:hover { background: #d5dae2; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { padding: 6px 8px; border-bottom: 1px solid #eee; text-align: left; white-space: nowrap; }
+  th { background: #fafbfc; font-weight: 600; cursor: pointer; user-select: none; position: sticky; top: 0; }
+  th.sorted::after { content: ' ▼'; font-size: 10px; }
+  th.asc.sorted::after { content: ' ▲'; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  tr:hover td { background: #fafcff; }
+  .pos { color: #0a7f3f; font-weight: 600; }
+  .neg { color: #c0392b; font-weight: 600; }
+  .mute { color: #888; }
+  .loading { text-align: center; padding: 40px; color: #888; }
+  .err { color: #c0392b; background: #fdecea; padding: 10px; border-radius: 4px; }
+  .wrap { max-height: 60vh; overflow: auto; }
+  .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: #333; color: #fff; padding: 8px 14px; border-radius: 4px; font-size: 13px; opacity: 0; transition: opacity .2s; pointer-events: none; }
+  .toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🏢 일일 아파트 리포트</h1>
+  <input type="date" id="dateInput">
+  <button id="loadBtn">불러오기</button>
+  <button id="todayBtn" class="ghost">오늘</button>
+  <span class="spacer"></span>
+  <span id="status" class="mute"></span>
+</header>
+
+<div id="sections"></div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const BASE = "http://home.niee.kr:9000";
+const INCHEON_SEOGU = "28260";
+
+const $ = s => document.querySelector(s);
+const fmt = n => (n == null || n === '' || isNaN(n)) ? '-' : Number(n).toLocaleString();
+const money = n => {
+  if (n == null || n === '' || isNaN(n)) return '-';
+  n = Number(n);
+  const eok = Math.floor(n / 10000), man = n % 10000;
+  if (eok && man) return `${eok}억 ${fmt(man)}`;
+  if (eok) return `${eok}억`;
+  return fmt(man);
+};
+const toast = msg => {
+  const t = $('#toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 1500);
+};
+
+const isoToday = () => {
+  const d = new Date();
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+};
+
+async function fetchJson(path, params) {
+  const qs = new URLSearchParams(params).toString();
+  const res = await fetch(`${BASE}${path}?${qs}`);
+  if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+  return res.json();
+}
+
+// todayAll: 각 row가 전국 or 광역시도. STATE/CNT/AVG/MAX/MIN 가 쉼표 CSV
+function flattenTodayAll(list) {
+  const rows = [];
+  for (const r of list) {
+    const states = r.STATE.split(',');
+    const cnts = r.CNT.split(',');
+    const avgs = r.AVG_MONEY.split(',');
+    const maxs = r.MAX_MONEY.split(',');
+    const mins = r.MIN_MONEY.split(',');
+    for (let i = 0; i < states.length; i++) {
+      const isAll = states[i] === '전체';
+      rows.push({
+        지역: isAll ? r.CITY : `${r.CITY} ${states[i]}`,
+        건수: Number(cnts[i] || 0),
+        평균: Number(avgs[i] || 0),
+        최고: Number(maxs[i] || 0),
+        최저: Number(mins[i] || 0),
+      });
+    }
+  }
+  return rows;
+}
+
+function renderTable(container, title, rows, cols, opts = {}) {
+  const count = opts.count ?? rows.length;
+  const sec = document.createElement('section');
+  sec.className = 'section';
+  sec.innerHTML = `
+    <h2>${title} <span class="count">${count}건</span>
+      <button class="copy">📋 TSV 복사</button>
+    </h2>
+    <div class="wrap"><table><thead><tr></tr></thead><tbody></tbody></table></div>
+  `;
+  container.appendChild(sec);
+
+  const thead = sec.querySelector('thead tr');
+  const tbody = sec.querySelector('tbody');
+
+  cols.forEach((c, idx) => {
+    const th = document.createElement('th');
+    th.textContent = c.label;
+    if (c.num) th.classList.add('num');
+    th.onclick = () => {
+      const asc = th.classList.contains('sorted') && !th.classList.contains('asc');
+      thead.querySelectorAll('th').forEach(x => x.classList.remove('sorted','asc'));
+      th.classList.add('sorted');
+      if (asc) th.classList.add('asc');
+      rows.sort((a, b) => {
+        const av = a[c.key], bv = b[c.key];
+        if (typeof av === 'number' && typeof bv === 'number') return asc ? av - bv : bv - av;
+        return asc ? String(av).localeCompare(bv) : String(bv).localeCompare(av);
+      });
+      paint();
+    };
+    thead.appendChild(th);
+  });
+
+  // default sort: first numeric col desc
+  const defaultSort = cols.findIndex(c => c.num);
+  if (defaultSort >= 0) {
+    rows.sort((a, b) => (b[cols[defaultSort].key] ?? 0) - (a[cols[defaultSort].key] ?? 0));
+    thead.children[defaultSort].classList.add('sorted');
+  }
+
+  function paint() {
+    tbody.innerHTML = '';
+    for (const r of rows) {
+      const tr = document.createElement('tr');
+      for (const c of cols) {
+        const td = document.createElement('td');
+        if (c.num) td.classList.add('num');
+        const v = c.render ? c.render(r) : r[c.key];
+        if (c.html) td.innerHTML = v ?? '-';
+        else td.textContent = v ?? '-';
+        tr.appendChild(td);
+      }
+      tbody.appendChild(tr);
+    }
+  }
+  paint();
+
+  sec.querySelector('.copy').onclick = () => {
+    const header = cols.map(c => c.label).join('\t');
+    const body = rows.map(r => cols.map(c => {
+      const v = c.copy ? c.copy(r) : (c.render ? c.render(r) : r[c.key]);
+      // strip html tags if any
+      return String(v ?? '').replace(/<[^>]+>/g, '');
+    }).join('\t')).join('\n');
+    navigator.clipboard.writeText(header + '\n' + body);
+    toast('클립보드 복사됨');
+  };
+}
+
+function diffCell(row) {
+  const deal = Number(row.DEAL_MONEY_NUM || 0);
+  const max = Number(row.MAX_DEAL_MONEY || 0);
+  if (!max) return '-';
+  const d = deal - max;
+  const eok = (d / 10000).toFixed(1);
+  const sign = d > 0 ? '+' : '';
+  const cls = d > 0 ? 'pos' : d < 0 ? 'neg' : '';
+  return `<span class="${cls}">${sign}${eok}억</span>`;
+}
+function diffCopy(row) {
+  const deal = Number(row.DEAL_MONEY_NUM || 0);
+  const max = Number(row.MAX_DEAL_MONEY || 0);
+  if (!max) return '';
+  return ((deal - max) / 10000).toFixed(1) + '억';
+}
+
+async function load(date) {
+  const sections = $('#sections');
+  sections.innerHTML = '<div class="loading">불러오는 중…</div>';
+  $('#status').textContent = '';
+  const t0 = performance.now();
+
+  try {
+    const [news, todayRank] = await Promise.all([
+      fetchJson('/newsToday', { page: 1, cityCode: '', stateCode: '', selectDate: date }),
+      fetchJson('/todayRank', { btweenDate: date, dealDateBtween: 0, state: INCHEON_SEOGU }),
+    ]);
+
+    sections.innerHTML = '';
+
+    // 1) 전국/광역시도 요약
+    const summary = flattenTodayAll(news.todayAll || []);
+    renderTable(sections, '일일 종합 — 전국/광역시도', summary, [
+      { key: '지역', label: '지역' },
+      { key: '건수', label: '건수', num: true },
+      { key: '평균', label: '평균가', num: true, render: r => money(r.평균), copy: r => money(r.평균) },
+      { key: '최고', label: '최고가', num: true, render: r => money(r.최고), copy: r => money(r.최고) },
+      { key: '최저', label: '최저가', num: true, render: r => money(r.최저), copy: r => money(r.최저) },
+    ]);
+
+    // 2) 구별 최고가
+    const maxList = (news.todayMaxList || []).map(r => ({
+      시: r.CITY, 구: r.STATE, 동: r.APART_DONG, 단지: r.APART_NAME,
+      평형: r.APART_SIZE, 층: r.DEAL_FLOOR,
+      거래가: Number(r.DEAL_MONEY_NUM || 0),
+      거래일: `${r.DEAL_YEAR}-${r.DEAL_MONTH}-${r.DEAL_DAY}`,
+      타입: r.DEAL_TYPE,
+    }));
+    renderTable(sections, '구별 최고가', maxList, [
+      { key: '시', label: '시' },
+      { key: '구', label: '구' },
+      { key: '동', label: '동' },
+      { key: '단지', label: '단지' },
+      { key: '평형', label: '평형', num: true },
+      { key: '층', label: '층', num: true },
+      { key: '거래가', label: '거래가', num: true, render: r => money(r.거래가), copy: r => money(r.거래가) },
+      { key: '거래일', label: '거래일' },
+      { key: '타입', label: '타입' },
+    ]);
+
+    // 3) 인천 서구 전체
+    const seogu = todayRank.list || [];
+    renderDeals(sections, `인천 서구 당일 거래`, seogu);
+
+    // 4) 청라동
+    const cheongna = seogu.filter(r => r.APART_DONG === '청라동');
+    renderDeals(sections, `청라동만`, cheongna);
+
+    const ms = Math.round(performance.now() - t0);
+    $('#status').textContent = `✓ ${date} (${ms}ms)`;
+  } catch (e) {
+    sections.innerHTML = `<div class="err">오류: ${e.message}<br><br>CORS 차단일 수 있습니다. 반드시 <b>https://apartmoney.github.io/daily.html</b> 에서 열어주세요.</div>`;
+  }
+}
+
+function renderDeals(container, title, rows) {
+  const cols = [
+    { key: 'APART_DONG', label: '동' },
+    { key: 'APART_NAME', label: '단지' },
+    { key: 'APART_SIZE', label: '평형', num: true },
+    { key: 'DEAL_FLOOR', label: '층', num: true },
+    { key: '거래가', label: '거래가', num: true,
+      render: r => money(r.DEAL_MONEY_NUM), copy: r => money(r.DEAL_MONEY_NUM) },
+    { key: '최고가', label: '최고가', num: true,
+      render: r => r.MAX_DEAL_MONEY ? money(r.MAX_DEAL_MONEY) : '-',
+      copy: r => r.MAX_DEAL_MONEY ? money(r.MAX_DEAL_MONEY) : '' },
+    { key: '신고가차이', label: '차이', num: true, html: true,
+      render: diffCell, copy: diffCopy },
+    { key: 'APART_CREATED_YEAR', label: '건축년' },
+    { key: 'DEAL_DATE', label: '거래일',
+      render: r => `${r.DEAL_YEAR}-${r.DEAL_MONTH}-${r.DEAL_DAY}` },
+    { key: 'DEAL_TYPE', label: '타입' },
+    { key: 'APART_ADDRESS', label: '지번' },
+  ];
+  // synthesize 거래가 sort key
+  rows = rows.map(r => ({ ...r, 거래가: Number(r.DEAL_MONEY_NUM || 0), 최고가: Number(r.MAX_DEAL_MONEY || 0) }));
+  renderTable(container, title, rows, cols);
+}
+
+$('#loadBtn').onclick = () => load($('#dateInput').value);
+$('#todayBtn').onclick = () => { $('#dateInput').value = isoToday(); load(isoToday()); };
+$('#dateInput').onkeydown = e => { if (e.key === 'Enter') load(e.target.value); };
+
+// init
+$('#dateInput').value = isoToday();
+load(isoToday());
+</script>
+</body>
+</html>
