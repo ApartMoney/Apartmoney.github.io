@@ -1,0 +1,68 @@
+name: Archive old daily JSONs
+
+on:
+  schedule:
+    # 매월 1일 00:30 KST = 전날(말일) 15:30 UTC
+    - cron: '30 15 L * *'
+  workflow_dispatch: {}  # 수동 실행 허용
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Move old JSONs to quarterly folders
+        id: move
+        run: |
+          set -euo pipefail
+          # 30일 이전 기준일 (YYYYMMDD 숫자 비교)
+          CUTOFF=$(date -u -d '30 days ago' +%Y%m%d)
+          echo "cutoff=$CUTOFF"
+          moved=0
+
+          shopt -s nullglob
+          for f in [0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]*.json; do
+            # 파일명에서 YYYYMMDD 추출
+            base=$(basename "$f")
+            ymd="${base:0:8}"
+
+            # 숫자가 아닌 파일명은 스킵
+            [[ "$ymd" =~ ^[0-9]{8}$ ]] || continue
+
+            # 30일 이내면 유지
+            if [ "$ymd" -gt "$CUTOFF" ]; then
+              continue
+            fi
+
+            year="${ymd:0:4}"
+            mon="${ymd:4:2}"
+            # 월 → 분기
+            case "$mon" in
+              01|02|03) q=01 ;;
+              04|05|06) q=02 ;;
+              07|08|09) q=03 ;;
+              10|11|12) q=04 ;;
+              *) continue ;;
+            esac
+
+            dest="json/oldjson/${year}${q}st"
+            mkdir -p "$dest"
+            git mv "$f" "$dest/" 2>/dev/null || mv "$f" "$dest/"
+            moved=$((moved+1))
+          done
+
+          echo "moved=$moved" >> "$GITHUB_OUTPUT"
+          echo "총 $moved 개 이동"
+
+      - name: Commit & push
+        if: steps.move.outputs.moved != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "archive: move ${{ steps.move.outputs.moved }} daily JSONs older than 30 days"
+          git push
