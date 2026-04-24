@@ -2,8 +2,8 @@ name: Archive old daily JSONs
 
 on:
   schedule:
-    # 매월 1일 00:30 KST = 전날(말일) 15:30 UTC
-    - cron: '30 15 L * *'
+    # 매월 1일 00:30 UTC = 매월 1일 09:30 KST
+    - cron: '30 0 1 * *'
   workflow_dispatch: {}  # 수동 실행 허용
 
 permissions:
