@@ -34,6 +34,14 @@
   .deal-item .price .ratio { font-size: 11px; font-weight: 500; margin-left: 6px; }
   .deal-item .ratio.down { color: #2d6cdf; }
   .deal-item .ratio.up { color: #c0392b; }
+  .deal-item .new-high {
+    display: inline-block;
+    background: linear-gradient(135deg, #ff6a3d 0%, #c0392b 100%);
+    color: #fff; font-weight: 800; font-size: 10px;
+    padding: 1px 6px; border-radius: 8px;
+    margin-left: 6px; letter-spacing: 0.3px;
+    vertical-align: middle;
+  }
 
   #map { flex: 1; }
 
@@ -77,6 +85,14 @@
   .infobox .price { color: #222; font-weight: 800; font-size: 16px; margin-top: 4px; }
   .infobox .down { color: #2d6cdf; font-weight: 700; }
   .infobox .up { color: #c0392b; font-weight: 700; }
+  .infobox .new-high-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, #ff6a3d 0%, #c0392b 100%);
+    color: #fff; font-weight: 800; font-size: 10.5px;
+    padding: 2px 7px; border-radius: 10px;
+    margin: 4px 0 2px; letter-spacing: 0.3px;
+    box-shadow: 0 1px 3px rgba(192,57,43,.25);
+  }
 
   .err { padding: 16px; color: #c0392b; background: #fdecea; }
   .loading { padding: 20px; text-align: center; color: #888; }
@@ -430,14 +446,21 @@ function rebuildSidebar() {
     item.dataset.type = dealType;
     const dealPrice = Number(deal.DEAL_MONEY_NUM || 0);
     const maxPrice = Number(deal.MAX_DEAL_MONEY || 0);
+    const isNewHigh = deal.DEAL_BTWEEN != null && Number(deal.DEAL_BTWEEN) >= 0;
+    const dealBtween = Number(deal.DEAL_BTWEEN || 0);
+    const prevHigh = isNewHigh ? Math.max(0, dealPrice - dealBtween) : 0;
+    const newHighPct = isNewHigh && prevHigh ? ((dealBtween/prevHigh)*100).toFixed(1) : '-';
     const diff = dealPrice - maxPrice;
     const diffPct = maxPrice ? ((diff/maxPrice)*100).toFixed(1) : '-';
     const sign = diff < 0 ? '▼' : diff > 0 ? '▲' : '';
     const cls = diff < 0 ? 'down' : diff > 0 ? 'up' : '';
+    const ratioHTML = isNewHigh
+      ? `<span class="ratio up">▲${newHighPct}%</span><span class="new-high">🔥 신고가</span>`
+      : `<span class="ratio ${cls}">${sign}${Math.abs(diffPct)}%</span>`;
     item.innerHTML = `
       <div class="name">${deal.APART_NAME}</div>
       <div class="meta">${deal.CITY||''} ${deal.STATE||''} ${deal.APART_DONG} · ${deal.APART_SIZE}㎡ / ${deal.DEAL_FLOOR}층</div>
-      <div class="price">${fmt(dealPrice)}만원 <span class="ratio ${cls}">${sign}${Math.abs(diffPct)}%</span></div>
+      <div class="price">${fmt(dealPrice)}만원 ${ratioHTML}</div>
     `;
     item.onclick = () => {
       document.querySelectorAll('.deal-item.active').forEach(x => x.classList.remove('active'));
@@ -466,11 +489,19 @@ function refresh() {
 function infoboxHTML(deal) {
   const dealPrice = Number(deal.DEAL_MONEY_NUM || 0);
   const maxPrice = Number(deal.MAX_DEAL_MONEY || 0);
+  const isNewHigh = deal.DEAL_BTWEEN != null && Number(deal.DEAL_BTWEEN) >= 0;
+  const dealBtween = Number(deal.DEAL_BTWEEN || 0);
+  const prevHigh = isNewHigh ? Math.max(0, dealPrice - dealBtween) : 0;
+  const newHighPct = isNewHigh && prevHigh ? ((dealBtween/prevHigh)*100).toFixed(1) : '-';
   const diff = dealPrice - maxPrice;
   const diffPct = maxPrice ? ((diff/maxPrice)*100).toFixed(1) : '-';
   const sign = diff < 0 ? '▼' : diff > 0 ? '▲' : '';
   const cls = diff < 0 ? 'down' : diff > 0 ? 'up' : '';
   const isCanceled = deal.IS_CANCEL === 'Y' || !!deal.CANCEL_DATE;
+  const refRow = isNewHigh
+    ? `<div class="new-high-badge">🔥 신고가</div>
+       <div class="row">전고가 <b>${prevHigh ? fmt(prevHigh) : '-'}</b> · <span class="up">▲${(dealBtween/10000).toFixed(1)}억 (${newHighPct}%)</span></div>`
+    : `<div class="row">최고가 <b>${fmt(maxPrice)}</b> · <span class="${cls}">${sign}${Math.abs(diff/10000).toFixed(1)}억 (${Math.abs(diffPct)}%)</span></div>`;
   return `
     <div class="infobox">
       <div class="ttl">${deal.APART_NAME}${isCanceled ? ' <span style="color:#c0392b">(취소)</span>' : ''}</div>
@@ -478,7 +509,7 @@ function infoboxHTML(deal) {
       <div class="row">${deal.APART_SIZE}㎡ / ${deal.DEAL_FLOOR}층 · ${deal.DEAL_TYPE||'중개거래'}</div>
       <div class="row">거래일: ${deal.DEAL_YEAR}.${deal.DEAL_MONTH}.${deal.DEAL_DAY}</div>
       <div class="price">${fmt(dealPrice)}<span style="font-size:11px;color:#888">만원</span></div>
-      <div class="row">최고가 <b>${fmt(maxPrice)}</b> · <span class="${cls}">${sign}${Math.abs(diff/10000).toFixed(1)}억 (${Math.abs(diffPct)}%)</span></div>
+      ${refRow}
     </div>`;
 }
 
