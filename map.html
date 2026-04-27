@@ -285,7 +285,7 @@ const groupCache = new Map();         // groupBy('APART_DONG' 등) → Map(label
 let currentLevel = -1;
 let currentGroupBy = '';
 
-// 화면 가장자리 깜빡임 방지를 위해 bounds 30% 확장
+// 마커용: 가장자리 깜빡임 방지를 위해 bounds 30% 확장
 function expandedBounds() {
   const b = map.getBounds();
   const sw = b.getSouthWest(), ne = b.getNorthEast();
@@ -297,13 +297,30 @@ function expandedBounds() {
   };
 }
 
+// 사이드바용: 정확한 bounds
+function exactBounds() {
+  const b = map.getBounds();
+  const sw = b.getSouthWest(), ne = b.getNorthEast();
+  return {
+    minLat: sw.getLat(), maxLat: ne.getLat(),
+    minLng: sw.getLng(), maxLng: ne.getLng(),
+  };
+}
+
 function inBounds(coord, eb) {
   return coord.lat >= eb.minLat && coord.lat <= eb.maxLat
       && coord.lng >= eb.minLng && coord.lng <= eb.maxLng;
 }
 
+// 마커용 (확장 bounds)
 function visibleMatched() {
   const eb = expandedBounds();
+  return allMatched.filter(m => inBounds(m.coord, eb));
+}
+
+// 사이드바용 (정확한 bounds)
+function visibleMatchedExact() {
+  const eb = exactBounds();
   return allMatched.filter(m => inBounds(m.coord, eb));
 }
 
@@ -437,7 +454,7 @@ function rebuildMarkers() {
 }
 
 function rebuildSidebar() {
-  const visible = visibleMatched();
+  const visible = visibleMatchedExact();
   const sb = $('#sidebar');
   sb.innerHTML = '';
   const h = document.createElement('h3');
@@ -451,43 +468,58 @@ function rebuildSidebar() {
     return;
   }
   const sorted = [...visible].sort((a, b) => Number(b.deal.DEAL_MONEY_NUM||0) - Number(a.deal.DEAL_MONEY_NUM||0));
-  for (const {deal, coord} of sorted.slice(0, 100)) {
-    const isCanceled = deal.IS_CANCEL === 'Y' || !!deal.CANCEL_DATE;
-    const dealType = deal.DEAL_TYPE || '중개거래';
-    const item = document.createElement('div');
-    item.className = 'deal-item' + (isCanceled ? ' canceled' : '');
-    item.dataset.type = dealType;
-    const dealPrice = Number(deal.DEAL_MONEY_NUM || 0);
-    const maxPrice = Number(deal.MAX_DEAL_MONEY || 0);
-    const isNewHigh = deal.DEAL_BTWEEN != null && Number(deal.DEAL_BTWEEN) >= 0;
-    const dealBtween = Number(deal.DEAL_BTWEEN || 0);
-    const prevHigh = isNewHigh ? Math.max(0, dealPrice - dealBtween) : 0;
-    const newHighPct = isNewHigh && prevHigh ? ((dealBtween/prevHigh)*100).toFixed(1) : '-';
-    const diff = dealPrice - maxPrice;
-    const diffPct = maxPrice ? ((diff/maxPrice)*100).toFixed(1) : '-';
-    const sign = diff < 0 ? '▼' : diff > 0 ? '▲' : '';
-    const cls = diff < 0 ? 'down' : diff > 0 ? 'up' : '';
-    const ratioHTML = isNewHigh
-      ? `<span class="ratio up">▲${newHighPct}%</span><span class="new-high">🔥 신고가</span>`
-      : `<span class="ratio ${cls}">${sign}${Math.abs(diffPct)}%</span>`;
-    item.innerHTML = `
-      <div class="name">${deal.APART_NAME}</div>
-      <div class="meta">${deal.CITY||''} ${deal.STATE||''} ${deal.APART_DONG} · ${deal.APART_SIZE}㎡ / ${deal.DEAL_FLOOR}층</div>
-      <div class="price">${fmt(dealPrice)}만원 ${ratioHTML}</div>
-    `;
-    item.onclick = () => {
-      document.querySelectorAll('.deal-item.active').forEach(x => x.classList.remove('active'));
-      item.classList.add('active');
-      showInfo(deal, coord, true);  // 사이드바 클릭 → 줌 인
-    };
-    sb.appendChild(item);
+  let shownCount = 0;
+  const PAGE = 100;
+
+  function renderItems(from, to) {
+    for (const {deal, coord} of sorted.slice(from, to)) {
+      const isCanceled = deal.IS_CANCEL === 'Y' || !!deal.CANCEL_DATE;
+      const dealType = deal.DEAL_TYPE || '중개거래';
+      const item = document.createElement('div');
+      item.className = 'deal-item' + (isCanceled ? ' canceled' : '');
+      item.dataset.type = dealType;
+      const dealPrice = Number(deal.DEAL_MONEY_NUM || 0);
+      const maxPrice = Number(deal.MAX_DEAL_MONEY || 0);
+      const isNewHigh = deal.DEAL_BTWEEN != null && Number(deal.DEAL_BTWEEN) >= 0;
+      const dealBtween = Number(deal.DEAL_BTWEEN || 0);
+      const prevHigh = isNewHigh ? Math.max(0, dealPrice - dealBtween) : 0;
+      const newHighPct = isNewHigh && prevHigh ? ((dealBtween/prevHigh)*100).toFixed(1) : '-';
+      const diff = dealPrice - maxPrice;
+      const diffPct = maxPrice ? ((diff/maxPrice)*100).toFixed(1) : '-';
+      const sign = diff < 0 ? '▼' : diff > 0 ? '▲' : '';
+      const cls = diff < 0 ? 'down' : diff > 0 ? 'up' : '';
+      const ratioHTML = isNewHigh
+        ? `<span class="ratio up">▲${newHighPct}%</span><span class="new-high">🔥 신고가</span>`
+        : `<span class="ratio ${cls}">${sign}${Math.abs(diffPct)}%</span>`;
+      item.innerHTML = `
+        <div class="name">${deal.APART_NAME}</div>
+        <div class="meta">${deal.CITY||''} ${deal.STATE||''} ${deal.APART_DONG} · ${deal.APART_SIZE}㎡ / ${deal.DEAL_FLOOR}층</div>
+        <div class="price">${fmt(dealPrice)}만원 ${ratioHTML}</div>
+      `;
+      item.onclick = () => {
+        document.querySelectorAll('.deal-item.active').forEach(x => x.classList.remove('active'));
+        item.classList.add('active');
+        showInfo(deal, coord, true);
+      };
+      sb.appendChild(item);
+    }
+    shownCount = to;
+    // 더보기 버튼
+    const existing = sb.querySelector('.more-btn');
+    if (existing) existing.remove();
+    if (shownCount < sorted.length) {
+      const more = document.createElement('div');
+      more.className = 'empty more-btn';
+      more.style.cursor = 'pointer';
+      more.style.color = '#4b5ec4';
+      more.style.fontWeight = '600';
+      more.textContent = `+${sorted.length - shownCount}건 더보기`;
+      more.onclick = () => renderItems(shownCount, shownCount + PAGE);
+      sb.appendChild(more);
+    }
   }
-  if (sorted.length > 100) {
-    const more = document.createElement('div');
-    more.className = 'empty';
-    more.textContent = `+${sorted.length - 100}건 (지도 마커로 확인)`;
-    sb.appendChild(more);
-  }
+
+  renderItems(0, PAGE);
 }
 
 let refreshTimer = null;
