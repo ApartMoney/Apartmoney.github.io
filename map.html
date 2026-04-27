@@ -260,7 +260,7 @@ function initMap() {
     center: new kakao.maps.LatLng(GANGNAM.lat, GANGNAM.lng),
     level: 6,
   });
-  kakao.maps.event.addListener(map, 'zoom_changed', refresh);
+  kakao.maps.event.addListener(map, 'zoom_changed', () => { sidebarFilter = null; refresh(); });
   kakao.maps.event.addListener(map, 'idle', refresh);
   const relayout = () => { if (map) map.relayout(); };
   window.addEventListener('resize', relayout);
@@ -284,6 +284,9 @@ const currentClusters = new Map();    // groupKey → overlay (클러스터)
 const groupCache = new Map();         // groupBy('APART_DONG' 등) → Map(label → items[])
 let currentLevel = -1;
 let currentGroupBy = '';
+
+// 사이드바 필터 (클러스터 클릭 시 설정, 줌 변경 시 해제)
+let sidebarFilter = null; // { field, value } 또는 null
 
 // 마커용: 가장자리 깜빡임 방지를 위해 bounds 30% 확장
 function expandedBounds() {
@@ -347,7 +350,7 @@ function buildIndividualMarker(deal, coord) {
   return ov;
 }
 
-function buildClusterMarker(items, label, isLarge) {
+function buildClusterMarker(items, label, isLarge, groupBy) {
   const lat = items.reduce((s, x) => s + x.coord.lat, 0) / items.length;
   const lng = items.reduce((s, x) => s + x.coord.lng, 0) / items.length;
   const totalCnt = items.length;
@@ -357,7 +360,11 @@ function buildClusterMarker(items, label, isLarge) {
   node.className = 'cluster' + (isLarge ? ' lg' : '');
   node.innerHTML = `<div class="label">${label}</div><div class="cnt">${totalCnt}건</div><div class="avg">평균 ${fmt(avgAmt)}</div>`;
   node.title = `${label} · ${totalCnt}건 · 평균 ${fmt(avgAmt)}만원`;
-  node.onclick = () => map.setLevel(Math.max(1, map.getLevel() - 2), { anchor: new kakao.maps.LatLng(lat, lng) });
+  node.onclick = () => {
+    sidebarFilter = { field: groupBy, value: label };
+    rebuildSidebar();
+    map.setLevel(Math.max(1, map.getLevel() - 2), { anchor: new kakao.maps.LatLng(lat, lng) });
+  };
   const ov = new kakao.maps.CustomOverlay({
     position: new kakao.maps.LatLng(lat, lng),
     content: node, yAnchor: 0.5, xAnchor: 0.5, clickable: true,
@@ -439,7 +446,7 @@ function rebuildMarkers() {
     seenKeys.add(key);
     const existing = currentClusters.get(key);
     if (existing) continue;
-    const ov = buildClusterMarker(items, label, items.length >= 5);
+    const ov = buildClusterMarker(items, label, items.length >= 5, groupBy);
     ov._count = items.length;
     currentClusters.set(key, ov);
   }
@@ -454,11 +461,16 @@ function rebuildMarkers() {
 }
 
 function rebuildSidebar() {
-  const visible = visibleMatchedExact();
+  let visible = visibleMatchedExact();
+  if (sidebarFilter) {
+    visible = visible.filter(m => m.deal[sidebarFilter.field] === sidebarFilter.value);
+  }
   const sb = $('#sidebar');
   sb.innerHTML = '';
   const h = document.createElement('h3');
-  h.textContent = `📍 화면 영역 ${visible.length}건 (전체 ${allMatched.length})`;
+  h.textContent = sidebarFilter
+    ? `📍 ${sidebarFilter.value} ${visible.length}건`
+    : `📍 화면 영역 ${visible.length}건 (전체 ${allMatched.length})`;
   sb.appendChild(h);
   if (!visible.length) {
     const e = document.createElement('div');
