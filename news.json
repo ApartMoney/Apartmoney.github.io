@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 28 Apr 2026 14:40:01 +0900",
-	"total":293132,
+	"lastBuildDate":"Tue, 28 Apr 2026 14:50:00 +0900",
+	"total":293133,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"강범석 인천 서구청장, 공공기관 지방 이전에 강력 반대 선언",
+			"originallink":"https:\/\/www.viva100.com\/article\/20260428500779",
+			"link":"https:\/\/www.viva100.com\/article\/20260428500779",
+			"description":"또한, 항공안전기술원이 <b>청라<\/b>의 대규모 로봇 산업 단지에 위치해 인천국제공항 등과 가까운 곳에서 항공 안전성 및 성능 시험을 주도하고 있다고 덧붙였다. 그는 “이전 시 국가 핵심 환경 관리 체계에 커다란 공백이... ",
+			"pubDate":"Tue, 28 Apr 2026 14:40:00 +0900"
+		},
 		{
 			"title":"&quot;매립지 참았는데 공공기관까지?&quot; 인천 서구, 환경공단 이전 강력 반발",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260428580224",
@@ -166,16 +173,16 @@
 			"pubDate":"Tue, 28 Apr 2026 11:05:00 +0900"
 		},
 		{
-			"title":"쓰레기 소각열로 재배한 카네이션",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260428067800065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016046951?sid=102",
+			"title":"인천환경공단 쓰레기 소각열로 가꾸는 카네이션",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260428068100065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016046954?sid=102",
 			"description":"28일 인천 서구 인천환경공단 <b>청라<\/b>사업소에서 직원들이 쓰레기 소각열로 온실 재배한 카네이션을 가꾸고 있다. 이 카네이션은 5월 어버이날을 앞두고 인천적십자사, 서구청 등을 통해 복지단체와 주민들에게 무료로... ",
 			"pubDate":"Tue, 28 Apr 2026 11:05:00 +0900"
 		},
 		{
-			"title":"인천환경공단 쓰레기 소각열로 가꾸는 카네이션",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260428068100065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016046954?sid=102",
+			"title":"쓰레기 소각열로 재배한 카네이션",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260428067800065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016046951?sid=102",
 			"description":"28일 인천 서구 인천환경공단 <b>청라<\/b>사업소에서 직원들이 쓰레기 소각열로 온실 재배한 카네이션을 가꾸고 있다. 이 카네이션은 5월 어버이날을 앞두고 인천적십자사, 서구청 등을 통해 복지단체와 주민들에게 무료로... ",
 			"pubDate":"Tue, 28 Apr 2026 11:05:00 +0900"
 		},
@@ -194,13 +201,6 @@
 			"pubDate":"Tue, 28 Apr 2026 11:04:00 +0900"
 		},
 		{
-			"title":"폐열로 키운 카네이션",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260428068800065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016046943?sid=102",
-			"description":"28일 인천 서구 인천환경공단 <b>청라<\/b>사업소에서 직원들이 쓰레기 소각열로 온실 재배한 카네이션을 가꾸고 있다. 이 카네이션은 5월 어버이날을 앞두고 인천적십자사, 서구청 등을 통해 복지단체와 주민들에게 무료로... ",
-			"pubDate":"Tue, 28 Apr 2026 11:04:00 +0900"
-		},
-		{
 			"title":"쓰레기 소각열로 재배한 카네이션",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260428068500065?input=1196m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016046937?sid=102",
@@ -208,9 +208,9 @@
 			"pubDate":"Tue, 28 Apr 2026 11:04:00 +0900"
 		},
 		{
-			"title":"가정의 달 앞둔 카네이션",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260428068900065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016046944?sid=102",
+			"title":"폐열로 키운 카네이션",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260428068800065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016046943?sid=102",
 			"description":"28일 인천 서구 인천환경공단 <b>청라<\/b>사업소에서 직원들이 쓰레기 소각열로 온실 재배한 카네이션을 가꾸고 있다. 이 카네이션은 5월 어버이날을 앞두고 인천적십자사, 서구청 등을 통해 복지단체와 주민들에게 무료로... ",
 			"pubDate":"Tue, 28 Apr 2026 11:04:00 +0900"
 		}
