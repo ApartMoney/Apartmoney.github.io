@@ -589,18 +589,20 @@ function renderDealCard(r, idx) {
   const hasBtween = r.DEAL_BTWEEN != null && Number(r.DEAL_BTWEEN) >= 0;
   const dealBtween = Number(r.DEAL_BTWEEN || 0);
   const prevHigh = hasBtween ? Math.max(0, dealPrice - dealBtween) : 0;
-  const isFirstDeal = hasBtween && prevHigh === 0 && !isCanceled;
-  const isNewHigh = hasBtween && dealBtween > 0 && prevHigh > 0 && !isCanceled;
-  const newHighPct = isNewHigh ? pct(dealBtween, prevHigh) : '-';
-  const diff = dealPrice - maxPrice;
-  const diffPct = maxPrice ? pct(Math.abs(diff), maxPrice) : '-';
-  const age = Number(r.DEAL_YEAR) - Number(r.APART_CREATED_YEAR) + 1;
 
   const avgInfo = (r.LAST_AVG && r.LAST_AVG[0]) || {};
   const avgMoney = Number(avgInfo['AVG(DEAL_MONEY_NUM)'] || 0);
   const avgDiff = dealPrice - avgMoney;
   const avgDiffPct = avgMoney ? pct(Math.abs(avgDiff), avgMoney) : '-';
-  const lastDealDate = avgInfo['LAST_DEAL_DAY'] || avgInfo['MAX(LAST_DEAL_DAY)'] || '-';
+  const lastDealDate = avgInfo['LAST_DEAL_DAY'] || avgInfo['MAX(LAST_DEAL_DAY)'] || '';
+  const hasPrevDeal = !!lastDealDate;
+
+  const isFirstDeal = !hasPrevDeal && !isCanceled;
+  const isNewHigh = !isFirstDeal && hasBtween && dealBtween > 0 && prevHigh > 0 && !isCanceled;
+  const newHighPct = isNewHigh ? pct(dealBtween, prevHigh) : '-';
+  const diff = dealPrice - maxPrice;
+  const diffPct = maxPrice ? pct(Math.abs(diff), maxPrice) : '-';
+  const age = Number(r.DEAL_YEAR) - Number(r.APART_CREATED_YEAR) + 1;
 
   const jData = (r.LAST_J_DATA && r.LAST_J_DATA[0]) || null;
   let jeonseHTML = '';
@@ -630,7 +632,7 @@ function renderDealCard(r, idx) {
       <div class="nation">전국 ${r.RANKING||'-'}위 · ${age}년차</div>
       <div class="addr">${r.CITY||''} ${r.STATE||''} ${r.APART_DONG||''} ${r.APART_ADDRESS||''}</div>
       <div class="size">${r.APART_SIZE}㎡ / ${r.DEAL_FLOOR}층</div>
-      <div class="dates">거래 ${when}<br>이전 ${lastDealDate}</div>
+      <div class="dates">거래 ${when}<br>이전 ${lastDealDate || '-'}</div>
       ${cancelLine}
     </div>
     <div class="deal-right">
