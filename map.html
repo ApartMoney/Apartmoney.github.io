@@ -54,6 +54,14 @@
     margin-left: 6px; letter-spacing: 0.3px;
     vertical-align: middle;
   }
+  .deal-item .new-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, #4b8df8 0%, #2d6cdf 100%);
+    color: #fff; font-weight: 800; font-size: 10px;
+    padding: 1px 6px; border-radius: 8px;
+    margin-left: 6px; letter-spacing: 0.3px;
+    vertical-align: middle;
+  }
 
   #map { flex: 1; }
 
@@ -104,6 +112,14 @@
     padding: 2px 7px; border-radius: 10px;
     margin: 4px 0 2px; letter-spacing: 0.3px;
     box-shadow: 0 1px 3px rgba(192,57,43,.25);
+  }
+  .infobox .new-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, #4b8df8 0%, #2d6cdf 100%);
+    color: #fff; font-weight: 800; font-size: 10.5px;
+    padding: 2px 7px; border-radius: 10px;
+    margin: 4px 0 2px; letter-spacing: 0.3px;
+    box-shadow: 0 1px 3px rgba(45,108,223,.25);
   }
 
   .err { padding: 16px; color: #c0392b; background: #fdecea; }
@@ -480,17 +496,21 @@ function rebuildSidebar() {
       item.dataset.type = dealType;
       const dealPrice = Number(deal.DEAL_MONEY_NUM || 0);
       const maxPrice = Number(deal.MAX_DEAL_MONEY || 0);
-      const isNewHigh = deal.DEAL_BTWEEN != null && Number(deal.DEAL_BTWEEN) >= 0;
+      const hasBtween = deal.DEAL_BTWEEN != null && Number(deal.DEAL_BTWEEN) >= 0;
       const dealBtween = Number(deal.DEAL_BTWEEN || 0);
-      const prevHigh = isNewHigh ? Math.max(0, dealPrice - dealBtween) : 0;
-      const newHighPct = isNewHigh && prevHigh ? ((dealBtween/prevHigh)*100).toFixed(1) : '-';
+      const prevHigh = hasBtween ? Math.max(0, dealPrice - dealBtween) : 0;
+      const isFirstDeal = hasBtween && prevHigh === 0 && !isCanceled;
+      const isNewHigh = hasBtween && dealBtween > 0 && prevHigh > 0 && !isCanceled;
+      const newHighPct = isNewHigh ? ((dealBtween/prevHigh)*100).toFixed(1) : '-';
       const diff = dealPrice - maxPrice;
-      const diffPct = maxPrice ? ((diff/maxPrice)*100).toFixed(1) : '-';
+      const diffPct = maxPrice ? ((Math.abs(diff)/maxPrice)*100).toFixed(1) : '-';
       const sign = diff < 0 ? '▼' : diff > 0 ? '▲' : '';
       const cls = diff < 0 ? 'down' : diff > 0 ? 'up' : '';
       const ratioHTML = isNewHigh
         ? `<span class="ratio up">▲${newHighPct}%</span><span class="new-high">🔥 신고가</span>`
-        : `<span class="ratio ${cls}">${sign}${Math.abs(diffPct)}%</span>`;
+        : isFirstDeal
+        ? `<span class="new-badge">NEW</span>`
+        : `<span class="ratio ${cls}">${sign}${diffPct}%</span>`;
       item.innerHTML = `
         <div class="name">${deal.APART_NAME}</div>
         <div class="meta">${deal.CITY||''} ${deal.STATE||''} ${deal.APART_DONG} · ${deal.APART_SIZE}㎡ / ${deal.DEAL_FLOOR}층</div>
@@ -534,19 +554,24 @@ function refresh() {
 function infoboxHTML(deal) {
   const dealPrice = Number(deal.DEAL_MONEY_NUM || 0);
   const maxPrice = Number(deal.MAX_DEAL_MONEY || 0);
-  const isNewHigh = deal.DEAL_BTWEEN != null && Number(deal.DEAL_BTWEEN) >= 0;
+  const isCanceled = deal.IS_CANCEL === 'Y' || !!deal.CANCEL_DATE;
+  const hasBtween = deal.DEAL_BTWEEN != null && Number(deal.DEAL_BTWEEN) >= 0;
   const dealBtween = Number(deal.DEAL_BTWEEN || 0);
-  const prevHigh = isNewHigh ? Math.max(0, dealPrice - dealBtween) : 0;
-  const newHighPct = isNewHigh && prevHigh ? ((dealBtween/prevHigh)*100).toFixed(1) : '-';
+  const prevHigh = hasBtween ? Math.max(0, dealPrice - dealBtween) : 0;
+  const isFirstDeal = hasBtween && prevHigh === 0 && !isCanceled;
+  const isNewHigh = hasBtween && dealBtween > 0 && prevHigh > 0 && !isCanceled;
+  const newHighPct = isNewHigh ? ((dealBtween/prevHigh)*100).toFixed(1) : '-';
   const diff = dealPrice - maxPrice;
-  const diffPct = maxPrice ? ((diff/maxPrice)*100).toFixed(1) : '-';
+  const diffPct = maxPrice ? ((Math.abs(diff)/maxPrice)*100).toFixed(1) : '-';
   const sign = diff < 0 ? '▼' : diff > 0 ? '▲' : '';
   const cls = diff < 0 ? 'down' : diff > 0 ? 'up' : '';
-  const isCanceled = deal.IS_CANCEL === 'Y' || !!deal.CANCEL_DATE;
   const refRow = isNewHigh
     ? `<div class="new-high-badge">🔥 신고가</div>
-       <div class="row">전고가 <b>${prevHigh ? fmt(prevHigh) : '-'}</b> · <span class="up">▲${(dealBtween/10000).toFixed(1)}억 (${newHighPct}%)</span></div>`
-    : `<div class="row">최고가 <b>${fmt(maxPrice)}</b> · <span class="${cls}">${sign}${Math.abs(diff/10000).toFixed(1)}억 (${Math.abs(diffPct)}%)</span></div>`;
+       <div class="row">전고가 <b>${fmt(prevHigh)}</b> · <span class="up">▲${(dealBtween/10000).toFixed(1)}억 (${newHighPct}%)</span></div>`
+    : isFirstDeal
+    ? `<div class="new-badge">NEW</div>
+       <div class="row">첫 거래</div>`
+    : `<div class="row">최고가 <b>${fmt(maxPrice)}</b> · <span class="${cls}">${sign}${(Math.abs(diff)/10000).toFixed(1)}억 (${diffPct}%)</span></div>`;
   return `
     <div class="infobox">
       <div class="ttl">${deal.APART_NAME}${isCanceled ? ' <span style="color:#c0392b">(취소)</span>' : ''}</div>

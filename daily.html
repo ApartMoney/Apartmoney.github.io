@@ -220,6 +220,14 @@
     margin-bottom: 3px; letter-spacing: 0.3px;
     box-shadow: 0 1px 3px rgba(192,57,43,.25);
   }
+  .deal-right .new-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, #4b8df8 0%, #2d6cdf 100%);
+    color: #fff; font-weight: 800; font-size: 10.5px;
+    padding: 2px 7px; border-radius: 10px;
+    margin-bottom: 3px; letter-spacing: 0.3px;
+    box-shadow: 0 1px 3px rgba(45,108,223,.25);
+  }
 
   /* 페이지네이션 */
   .pager { display: flex; gap: 4px; justify-content: center; margin: 14px 0 4px; flex-wrap: wrap; }
@@ -577,10 +585,13 @@ function renderMaxByGu(container, { title, dateStr, rows }) {
 function renderDealCard(r, idx) {
   const dealPrice = Number(r.DEAL_MONEY_NUM || 0);
   const maxPrice = Number(r.MAX_DEAL_MONEY || 0);
-  const isNewHigh = r.DEAL_BTWEEN != null && Number(r.DEAL_BTWEEN) >= 0;
+  const isCanceled = r.IS_CANCEL === 'Y' || !!r.CANCEL_DATE;
+  const hasBtween = r.DEAL_BTWEEN != null && Number(r.DEAL_BTWEEN) >= 0;
   const dealBtween = Number(r.DEAL_BTWEEN || 0);
-  const prevHigh = isNewHigh ? Math.max(0, dealPrice - dealBtween) : 0;
-  const newHighPct = isNewHigh && prevHigh ? pct(dealBtween, prevHigh) : '-';
+  const prevHigh = hasBtween ? Math.max(0, dealPrice - dealBtween) : 0;
+  const isFirstDeal = hasBtween && prevHigh === 0 && !isCanceled;
+  const isNewHigh = hasBtween && dealBtween > 0 && prevHigh > 0 && !isCanceled;
+  const newHighPct = isNewHigh ? pct(dealBtween, prevHigh) : '-';
   const diff = dealPrice - maxPrice;
   const diffPct = maxPrice ? pct(Math.abs(diff), maxPrice) : '-';
   const age = Number(r.DEAL_YEAR) - Number(r.APART_CREATED_YEAR) + 1;
@@ -607,7 +618,6 @@ function renderDealCard(r, idx) {
   const avgSign = avgDiff < 0 ? '▼' : avgDiff > 0 ? '▲' : '';
   const avgClass = avgDiff < 0 ? 'down' : avgDiff > 0 ? 'up' : '';
 
-  const isCanceled = r.IS_CANCEL === 'Y' || !!r.CANCEL_DATE;
   const cancelLine = isCanceled ? `<div class="cancel-date">취소: ${r.CANCEL_DATE || ''}</div>` : '';
   const dealType = r.DEAL_TYPE && r.DEAL_TYPE.trim() ? r.DEAL_TYPE.trim() : '중개거래';
 
@@ -627,8 +637,11 @@ function renderDealCard(r, idx) {
       <div class="price">${fmt(dealPrice)}<span class="unit">만원</span></div>
       ${isNewHigh ? `
         <div class="new-high-badge">🔥 신고가</div>
-        <div class="ref-line">전고가 <b>${prevHigh ? fmt(prevHigh) : '-'}</b></div>
+        <div class="ref-line">전고가 <b>${fmt(prevHigh)}</b></div>
         <div class="up">▲${fmt(dealBtween)} (${newHighPct}%)</div>
+      ` : isFirstDeal ? `
+        <div class="new-badge">NEW</div>
+        <div class="ref-line">첫 거래</div>
       ` : `
         <div class="ref-line">최고가 <b>${fmt(maxPrice)}</b></div>
         <div class="${diffClass}">${diffSign}${fmt(Math.abs(diff))} (${diffPct}%)</div>
