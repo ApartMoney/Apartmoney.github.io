@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 02 May 2026 06:00:01 +0900",
-	"total":293570,
+	"lastBuildDate":"Sat, 02 May 2026 06:10:01 +0900",
+	"total":293571,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"징검다리 연휴 이튿날, 전국 흐려…'최고 26도' 포근[오늘날씨]",
+			"originallink":"https:\/\/www.news1.kr\/society\/weather-disaster\/6155233",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0008923278?sid=103",
+			"description":"특히 해안에 위치한 교량(영종대교, 인천대교, <b>청라<\/b>하늘대교, 서해대교, 천사대교 등)과 내륙의 강이나 호수, 골짜기에 인접한 도로에서는 주변보다 안개가 더욱 짙게 끼겠고, 짙은 안개로 인해 이슬비가 내리는 곳도... ",
+			"pubDate":"Sat, 02 May 2026 06:00:00 +0900"
+		},
 		{
 			"title":"[오늘의 날씨] 서울·충청·경북 매우 건조…오늘 밤 5~80mm 비 시작, 강...",
 			"originallink":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16049740",
@@ -194,13 +201,6 @@
 			"pubDate":"Thu, 30 Apr 2026 18:41:00 +0900"
 		},
 		{
-			"title":"[<b>청라<\/b>언덕-채정민] 대한축구협회의 '오너 리스크'",
-			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2026042815060811539",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0001008007?sid=110",
-			"description":"다들 손가락질한다. 상처투성이다. 그런데도 아랑곳하지 않는다. 안 아픈 척한다. 핑계 대기 바쁘다. 변명으로 일관한다. '정치를 하려면 염치가 없어야 한다'는 말도 있던데 그 얘기가 딱 어울린다. 정치인이 아닌데도... ",
-			"pubDate":"Thu, 30 Apr 2026 18:40:00 +0900"
-		},
-		{
 			"title":"인천 <b>청라<\/b>국제지하차도 달리던 화물차서 불...운전자 대피",
 			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202604301840348366",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002347558?sid=102",
@@ -208,11 +208,11 @@
 			"pubDate":"Thu, 30 Apr 2026 18:40:00 +0900"
 		},
 		{
-			"title":"LH, 인천계양A9블록 신혼희망타운 317호 공급",
-			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1522917",
-			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1522917",
-			"description":"견본주택은 인천 서구 <b>청라<\/b>동에 마련됐으며, 5월 1일부터 사전청약 당첨자에게 우선 공개된 후 일반에게 개방됩니다. 서환식 LH 인천지역본부장은 &quot;인천 계양은 3기 신도시 중 사업 속도가 가장 빨라 미래 가치와 실거주... ",
-			"pubDate":"Thu, 30 Apr 2026 18:28:00 +0900"
+			"title":"[<b>청라<\/b>언덕-채정민] 대한축구협회의 '오너 리스크'",
+			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2026042815060811539",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0001008007?sid=110",
+			"description":"다들 손가락질한다. 상처투성이다. 그런데도 아랑곳하지 않는다. 안 아픈 척한다. 핑계 대기 바쁘다. 변명으로 일관한다. '정치를 하려면 염치가 없어야 한다'는 말도 있던데 그 얘기가 딱 어울린다. 정치인이 아닌데도... ",
+			"pubDate":"Thu, 30 Apr 2026 18:40:00 +0900"
 		}
 	]
 }
