@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 11 May 2026 14:10:01 +0900",
-	"total":294008,
+	"lastBuildDate":"Mon, 11 May 2026 14:20:01 +0900",
+	"total":294009,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[6.3 지선 우리 동네는] 유정복 KTX vs 박찬대 GTX…인천 교통공약 1순위...",
+			"originallink":"https:\/\/www.sedaily.com\/article\/20042533?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004619478?sid=102",
+			"description":"GTX-D·E 노선, 서울 5호선 검단 연장, 대장홍대선 <b>청라<\/b>·계양 연장, 송도·영종 트램, 월판선 논현역 정차다. 다만 GTX-D·E는 아직 제5차 국가철도망 구축계획(2026~2035)에 반영되지 않았다. 국토부는 지자체 건의 사업 폭증... ",
+			"pubDate":"Mon, 11 May 2026 14:16:00 +0900"
+		},
 		{
 			"title":"박찬대 인천시장 후보, 철도망 대혁신·도로망 대개조…교통 혁신 공약...",
 			"originallink":"https:\/\/news.tf.co.kr\/read\/national\/2321299.htm",
@@ -173,17 +180,17 @@
 			"pubDate":"Mon, 11 May 2026 10:54:00 +0900"
 		},
 		{
-			"title":"유정복 &quot;인천 전역을 역세권으로&quot; 교통 공약 발표...도시철도·GTX·KTX 3대...",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363725222",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363725222",
-			"description":"그러면서 유 후보는 인천발 KTX와 서울지하철 7호선 <b>청라<\/b> 연장 등을 실현한 경험을 강조했다. 첫 번째... 대장홍대선 <b>청라<\/b>·계양 연장도 추진한다. 송도와 영종에는 트램을 도입하고, 인천 2호선 및 서울 5호선의 강화... ",
-			"pubDate":"Mon, 11 May 2026 10:46:00 +0900"
-		},
-		{
 			"title":"고양시, 수도권 UAM 전진기지 시동",
 			"originallink":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=215480",
 			"link":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=215480",
 			"description":"지난해 10월부터 진행된 아라뱃길·<b>청라<\/b>~계양 구간 실증에 이어, 현재는 킨텍스를 포함한 한강권 노선을 중심으로 2-2단계 실증이 이어지고 있다. 고양시는 킨텍스~김포공항~수색비행장~대덕비행장을 연결하는 노선... ",
+			"pubDate":"Mon, 11 May 2026 10:46:00 +0900"
+		},
+		{
+			"title":"유정복 &quot;인천 전역을 역세권으로&quot; 교통 공약 발표...도시철도·GTX·KTX 3대...",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363725222",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363725222",
+			"description":"그러면서 유 후보는 인천발 KTX와 서울지하철 7호선 <b>청라<\/b> 연장 등을 실현한 경험을 강조했다. 첫 번째... 대장홍대선 <b>청라<\/b>·계양 연장도 추진한다. 송도와 영종에는 트램을 도입하고, 인천 2호선 및 서울 5호선의 강화... ",
 			"pubDate":"Mon, 11 May 2026 10:46:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=470665",
 			"description":"지난해 10월부터 아라뱃길과 <b>청라<\/b>~계양 구간에서 2-1단계 실증이 진행됐고 현재는 킨텍스를 포함한 한강권 노선을 중심으로 2-2단계 실증이 이뤄지고 있다. 고양시는 킨텍스~김포공항~수색비행장~대덕비행장을 연결하는... ",
 			"pubDate":"Mon, 11 May 2026 10:42:00 +0900"
-		},
-		{
-			"title":"유정복 &quot;인천 전역, 역세권으로 만들 것&quot;…교통공약 발표",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260511_0003624073",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013936608?sid=102",
-			"description":"대장홍대선 <b>청라<\/b>·계양 연장, 송도·영종 트램 설치, 강화군 철도 생활권 구축 등이 포함됐다. 광역철도에서는 수도권광역급행철도(GTX) B노선과 서부권광역급행철도 차질 없이 추진, GTX D Y자 노선 및 인천공항에서 <b>청라<\/b>... ",
-			"pubDate":"Mon, 11 May 2026 10:38:00 +0900"
 		}
 	]
 }
