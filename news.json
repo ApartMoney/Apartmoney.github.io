@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 12 May 2026 18:10:01 +0900",
-	"total":294122,
+	"lastBuildDate":"Tue, 12 May 2026 18:20:00 +0900",
+	"total":294123,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 인천경찰청",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2428690",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2428690",
+			"description":"서부서 <b>청라<\/b>지구대장 홍만기 △ 서부서 당하지구대장 양창석 △ 서부서 서곶지구대장 박현배 △ 서부서 검단지구대장 서봉채 △ 계양서 여성청소년과장 진국섭 △ 계양서 형사과장 박찬수 △ 계양서 경비과장 이정석... ",
+			"pubDate":"Tue, 12 May 2026 18:16:00 +0900"
+		},
 		{
 			"title":"인천경찰청 인사",
 			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3022580",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.arunews.com\/news\/articleView.html?idxno=62565",
 			"description":"한편 이곳은 지하철1·2호선 반월당역과 2·3호선 <b>청라<\/b>언덕역이 모두 가까워 교통환경이 우수하다고 평가받는다. 또 현대백화점, 동아백화점, 반달스퀘어, 동성로로데오거리 등 편리한 생활환경 인프라도 누릴 수... ",
 			"pubDate":"Tue, 12 May 2026 12:30:00 +0900"
-		},
-		{
-			"title":"국제교육기관 CCIS, 2026 오픈설명회 개최",
-			"originallink":"https:\/\/www.joongang.co.kr\/article\/25427609",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/353\/0000055396?sid=102",
-			"description":"<b>청라<\/b>국제도시의 친환경복합기관 내 오픈 예정인 국제교육기관 CCIS(Cheongna Capstone International Scholars)가 오는 5월 31일 오픈설명회를 개최한다고 밝혔다. CCIS 측에 따르면 미국 캘리포니아 명문 페어몬트... ",
-			"pubDate":"Tue, 12 May 2026 12:28:00 +0900"
 		}
 	]
 }
