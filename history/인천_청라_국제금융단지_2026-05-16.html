@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>인천 청라 국제금융단지 — 시계열 히스토리</title>
+<style>
+  :root { --bg: #0f1419; --surface: #1a2027; --surface2: #232b35; --border: #2f3a47; --text: #e6edf3; --muted: #8b949e; --accent: #58a6ff; --s: #f85149; --a: #d29922; --b: #58a6ff; --c: #8b949e; --d: #6e7681; --milestone: #3fb950; --conflict: #db6d28; --gap: #484f58; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; line-height: 1.6; padding: 40px 20px; }
+  .container { max-width: 980px; margin: 0 auto; }
+  header { border-bottom: 1px solid var(--border); padding-bottom: 24px; margin-bottom: 32px; }
+  h1 { font-size: 32px; font-weight: 700; letter-spacing: -0.5px; margin-bottom: 8px; }
+  .subtitle { color: var(--muted); font-size: 14px; }
+  .meta { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px; margin-top: 16px; font-size: 13px; }
+  .meta-item { display: flex; flex-direction: column; gap: 2px; }
+  .meta-label { color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .meta-value { color: var(--text); font-weight: 500; }
+  .notice { background: rgba(210,153,34,0.08); border-left: 3px solid var(--a); border-radius: 4px; padding: 12px 16px; margin: 20px 0 32px; font-size: 13px; color: #c9d1d9; }
+  .notice strong { color: var(--a); }
+  .legend { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px; margin-bottom: 32px; font-size: 13px; }
+  .legend h3 { font-size: 13px; color: var(--muted); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .legend-row { display: flex; flex-wrap: wrap; gap: 8px 16px; }
+  .legend-item { display: inline-flex; align-items: center; gap: 6px; }
+  .badge { display: inline-block; padding: 2px 7px; border-radius: 3px; font-size: 10px; font-weight: 700; letter-spacing: 0.3px; border: 1px solid; }
+  .badge-S { color: var(--s); border-color: var(--s); background: rgba(248,81,73,0.08); }
+  .badge-A { color: var(--a); border-color: var(--a); background: rgba(210,153,34,0.08); }
+  .badge-B { color: var(--b); border-color: var(--b); background: rgba(88,166,255,0.08); }
+  .badge-D { color: var(--d); border-color: var(--d); background: rgba(110,118,129,0.08); }
+  .badge-MS { color: var(--milestone); border-color: var(--milestone); background: rgba(63,185,80,0.08); }
+  .badge-T1 { color: #d2a8ff; border-color: #d2a8ff; background: rgba(210,168,255,0.08); }
+  .badge-T2 { color: #79c0ff; border-color: #79c0ff; background: rgba(121,192,255,0.08); }
+  .timeline { position: relative; padding-left: 24px; border-left: 2px solid var(--border); }
+  .event { position: relative; margin-bottom: 28px; padding-left: 24px; }
+  .event::before { content: ""; position: absolute; left: -32px; top: 8px; width: 12px; height: 12px; border-radius: 50%; background: var(--surface2); border: 2px solid var(--accent); }
+  .event.milestone::before { background: var(--milestone); border-color: var(--milestone); box-shadow: 0 0 0 4px rgba(63,185,80,0.15); }
+  .event.conflict::before { background: var(--conflict); border-color: var(--conflict); }
+  .date { font-family: "SF Mono", Menlo, monospace; font-size: 13px; color: var(--muted); margin-bottom: 4px; }
+  .date-precision { margin-left: 4px; }
+  .title { font-size: 16px; font-weight: 600; color: var(--text); margin-bottom: 6px; }
+  .desc { font-size: 14px; color: #c9d1d9; margin-bottom: 8px; }
+  .sources { font-size: 12px; color: var(--muted); }
+  .sources a { color: var(--accent); text-decoration: none; margin-right: 12px; }
+  .sources a:hover { text-decoration: underline; }
+  .badges { display: inline-flex; gap: 4px; margin-left: 6px; vertical-align: 1px; }
+  .era { margin-top: 40px; margin-bottom: 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); font-size: 14px; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; font-weight: 600; }
+  .era:first-child { margin-top: 0; }
+  footer { margin-top: 60px; padding-top: 24px; border-top: 1px solid var(--border); font-size: 12px; color: var(--muted); }
+  footer h3 { font-size: 13px; margin-bottom: 8px; color: var(--text); }
+  footer ul { list-style: none; margin-bottom: 16px; }
+  footer li { padding: 2px 0; }
+  footer code { background: var(--surface); padding: 1px 5px; border-radius: 3px; font-size: 11px; }
+  .remote { position: fixed; top: 50%; right: 24px; transform: translateY(-50%); background: rgba(26, 32, 39, 0.92); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid var(--border); border-radius: 10px; padding: 12px 8px; z-index: 100; max-height: 80vh; overflow-y: auto; box-shadow: 0 8px 32px rgba(0,0,0,0.4); font-size: 11px; width: 130px; }
+  .remote::-webkit-scrollbar { width: 4px; }
+  .remote::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+  .remote-title { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; padding: 0 6px 8px; margin-bottom: 8px; border-bottom: 1px solid var(--border); text-align: center; }
+  .remote-era { margin-top: 10px; padding: 4px 6px; font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.3px; font-weight: 600; cursor: pointer; border-radius: 4px; }
+  .remote-era:first-of-type { margin-top: 0; }
+  .remote-era:hover { background: var(--surface2); color: var(--text); }
+  .remote-year { display: block; padding: 4px 10px; color: var(--text); text-decoration: none; font-family: "SF Mono", Menlo, monospace; font-size: 11px; border-radius: 4px; margin: 1px 0; }
+  .remote-year:hover { background: var(--accent); color: #0f1419; padding-left: 14px; }
+  .remote-year.active { background: rgba(88,166,255,0.15); color: var(--accent); font-weight: 600; }
+  .remote-year .dot { display: inline-block; width: 5px; height: 5px; border-radius: 50%; background: var(--milestone); margin-right: 6px; vertical-align: middle; opacity: 0; }
+  .remote-year.has-milestone .dot { opacity: 1; }
+  .event[id], .era[id] { scroll-margin-top: 24px; }
+  .event.flash { animation: flash 1.2s ease-out; }
+  @keyframes flash { 0% { background: rgba(88,166,255,0.25); } 100% { background: transparent; } }
+  @media (max-width: 900px) { .remote { right: 12px; width: 110px; font-size: 10px; } }
+  @media (max-width: 640px) { .remote { display: none; } }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>인천 청라 국제금융단지</h1>
+    <div class="subtitle">청라국제금융단지 + 청라국제업무단지 — 두 갈래 사업 21년사</div>
+    <div class="meta">
+      <div class="meta-item"><span class="meta-label">키워드</span><span class="meta-value">인천 청라 국제금융단지</span></div>
+      <div class="meta-item"><span class="meta-label">조사일</span><span class="meta-value">2026-05-16</span></div>
+      <div class="meta-item"><span class="meta-label">시간 범위</span><span class="meta-value">2005 ~ 2025</span></div>
+      <div class="meta-item"><span class="meta-label">수집 사건</span><span class="meta-value">15건</span></div>
+      <div class="meta-item"><span class="meta-label">총 부지</span><span class="meta-value">국제금융단지 15.9만㎡ + 국제업무단지 약 27만㎡</span></div>
+      <div class="meta-item"><span class="meta-label">현재 단계</span><span class="meta-value">국제업무단지 시공 중, 국제금융단지 일부 미개발</span></div>
+    </div>
+  </header>
+
+  <div class="notice">
+    <strong>두 사업의 구분.</strong> "청라 국제금융단지"는 사실 별개의 두 사업이 같은 권역에서 진행되어 한 이름처럼 불린다. <span class="badge badge-T1">T1</span> <strong>청라국제금융단지</strong>(한양·보성 SPC) — 2015년 협약, 15.9만㎡, 한양수자인 아파트·오피스텔 중심. <span class="badge badge-T2">T2</span> <strong>청라국제업무단지(IBD)</strong>(LH-㈜청라스마트시티 미래에셋 컨소시엄) — 2005년 개발계획, 약 27만㎡, AI·ICT 4차산업 + 금융센터. 본 페이지는 두 사업을 시간순으로 통합하되 트랙 배지로 구분한다.
+  </div>
+
+  <div class="legend">
+    <h3>범례</h3>
+    <div class="legend-row" style="margin-bottom:8px;">
+      <span class="legend-item"><span class="badge badge-T1">T1</span> 청라국제금융단지(한양·보성)</span>
+      <span class="legend-item"><span class="badge badge-T2">T2</span> 청라국제업무단지(LH·미래에셋)</span>
+    </div>
+    <div class="legend-row" style="margin-bottom:8px;">
+      <span class="legend-item"><span class="badge badge-S">S</span> 공식 협약·고시</span>
+      <span class="legend-item"><span class="badge badge-A">A</span> 공공기관 발표</span>
+      <span class="legend-item"><span class="badge badge-B">B</span> 언론 1차 보도</span>
+      <span class="legend-item"><span class="badge badge-D">D</span> 위키</span>
+      <span class="legend-item"><span class="badge badge-MS">MS</span> 마일스톤</span>
+    </div>
+    <div class="legend-row">
+      <span class="legend-item">🎯 일</span>
+      <span class="legend-item">📅 월</span>
+      <span class="legend-item">📆 연</span>
+    </div>
+  </div>
+
+  <div class="era" id="era-1">제1기 — 청사진과 1차 좌초 (2005 ~ 2013)</div>
+  <div class="timeline">
+
+    <div class="event milestone" id="y-2005" data-year="2005" data-milestone="1">
+      <div class="date">2005-08 <span class="date-precision">📅</span></div>
+      <div class="title">청라국제업무단지 개발계획 최초 승인 <span class="badges"><span class="badge badge-T2">T2</span><span class="badge badge-A">A</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">청라국제업무단지(IBD) 개발계획이 최초 승인. 업무용지 규모 과다 + 국제금융 유치 기능 집중 구조. 사업 시작점.</div>
+      <div class="sources">
+        <a href="https://www.incheonin.com/news/articleView.html?idxno=83487" target="_blank">인천in 회고</a>
+      </div>
+    </div>
+
+    <div class="event" id="y-2007" data-year="2007">
+      <div class="date">2007년 <span class="date-precision">📆</span></div>
+      <div class="title">한국토지공사(LH 전신), IBD 조성 추진 시작 <span class="badges"><span class="badge badge-T2">T2</span><span class="badge badge-C">C</span></span></div>
+      <div class="desc">한국토지공사(현 LH)가 청라국제업무단지 조성을 본격 추진. 그러나 곧 글로벌 금융위기로 좌초.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보</a>
+      </div>
+    </div>
+
+    <div class="event conflict" id="y-2013" data-year="2013">
+      <div class="date">2013-12 <span class="date-precision">📅</span></div>
+      <div class="title">LH, 글로벌 금융위기 여파로 청라국제업무단지 사업 1차 접음 <span class="badges"><span class="badge badge-T2">T2</span><span class="badge badge-B">B</span></span></div>
+      <div class="desc">LH가 글로벌 금융위기 영향 누적으로 청라국제업무단지 조성 사업을 공식 접음. 약 6년간 답보. 사업 1차 좌초.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보</a>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="era" id="era-2">제2기 — 한양·보성 컨소시엄 진입 (2015 ~ 2019)</div>
+  <div class="timeline">
+
+    <div class="event milestone" id="y-2015" data-year="2015" data-milestone="1">
+      <div class="date">2015-04 <span class="date-precision">📅</span></div>
+      <div class="title">청라국제금융단지 조성 사업협약 — 한양·보성·코리아신탁·타워애스크로우 컨소시엄 <span class="badges"><span class="badge badge-T1">T1</span><span class="badge badge-S">S</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">IFEZ-한양·보성산업·코리아신탁·미국 타워애스크로우 컨소시엄이 청라국제금융단지 조성 사업협약 체결. SPC ㈜청라국제금융단지 설립 — 지분 한양 50%, 보성 29% 등. 15만9천㎡ 부지에 2025년까지 완성 목표. (단, 결과적으로 호텔·관광 핵심사업 지연됨)</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2015">
+      <div class="date">2015~2019 <span class="date-precision">📆</span></div>
+      <div class="title">한양수자인 레이크블루 아파트 1,534가구 완공 — 수익사업 우선 진행 <span class="badges"><span class="badge badge-T1">T1</span><span class="badge badge-B">B</span></span></div>
+      <div class="desc">SPC ㈜청라국제금융단지가 부지 내 한양수자인 레이크블루 아파트 1,534가구를 우선 분양·완공. 주민들 — "수익 사업만 진행, 핵심 호텔·관광은 방치" 비판 시작.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보</a>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="era" id="era-3">제3기 — IBD 재출발과 미래에셋 진입 (2020 ~ 2021)</div>
+  <div class="timeline">
+
+    <div class="event milestone" id="y-2020" data-year="2020" data-milestone="1">
+      <div class="date">2020-07 <span class="date-precision">📅</span></div>
+      <div class="title">LH, 청라국제업무단지 사업자 재모집 시작 <span class="badges"><span class="badge badge-T2">T2</span><span class="badge badge-A">A</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">LH가 2013년 사업 중단 이후 약 7년 만에 청라국제업무단지 사업자 공모 재개. 2.5조원 규모 사업.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/202011081144668" target="_blank">경기일보(2020-11-08)</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2020">
+      <div class="date">2020-11 <span class="date-precision">📅</span></div>
+      <div class="title">LH, 미래에셋대우 컨소시엄을 IBD 우선협상대상자로 선정 <span class="badges"><span class="badge badge-T2">T2</span><span class="badge badge-A">A</span></span></div>
+      <div class="desc">LH가 IBD 우선협상대상자로 미래에셋대우 컨소시엄(미래에셋·리딩투자·도담에스테이트·대명화학·DS네트웍스·웰메이드·제일건설·보광종합건설·EMP벨스타 등 9개사) 선정.</div>
+      <div class="sources">
+        <a href="https://www.sisajournal-e.com/news/articleView.html?idxno=225718" target="_blank">시사저널e</a>
+      </div>
+    </div>
+
+    <div class="event milestone" id="y-2021" data-year="2021" data-milestone="1">
+      <div class="date">2021-10-26 <span class="date-precision">🎯</span></div>
+      <div class="title">LH-미래에셋 컨소시엄 본 계약 체결 — ㈜청라스마트시티 사업자 지위 부여 <span class="badges"><span class="badge badge-T2">T2</span><span class="badge badge-S">S</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">LH와 미래에셋대우 컨소시엄이 본 계약 체결. SPC ㈜청라스마트시티 사업자 지위 부여. 총사업비 1조 7천억원, 27만㎡, 2028년 준공 목표. 2005년 첫 개발계획 후 16년 만의 본 궤도 진입.</div>
+      <div class="sources">
+        <a href="https://www.ifez.go.kr/main/pst/view.do?pst_id=noti03&pst_sn=269573" target="_blank">IFEZ 보도자료</a>
+        <a href="https://www.incheonin.com/news/articleView.html?idxno=83487" target="_blank">인천in(2021-10-28)</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2021">
+      <div class="date">2021-12 <span class="date-precision">📅</span></div>
+      <div class="title">㈜청라스마트시티, 토지매매계약 체결 예정 <span class="badges"><span class="badge badge-T2">T2</span><span class="badge badge-A">A</span></span></div>
+      <div class="desc">㈜청라스마트시티가 청라 B1·B2·C1·M5 등 부지 14만3,943㎡에 대한 토지매매계약 12월 중 체결 예정.</div>
+      <div class="sources">
+        <a href="https://www.sedaily.com/NewsView/22SWZMP48G" target="_blank">서울경제</a>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="era" id="era-4">제4기 — 지연·표류와 첫 삽 (2022 ~ 2025)</div>
+  <div class="timeline">
+
+    <div class="event conflict" id="y-2022" data-year="2022">
+      <div class="date">2022-09-26 <span class="date-precision">🎯</span></div>
+      <div class="title">청라국제금융단지 7년째 표류 — 부지 30% 미개발 보도 <span class="badges"><span class="badge badge-T1">T1</span><span class="badge badge-B">B</span></span></div>
+      <div class="desc">2015년 협약 이후 7년 지났음에도 ㈜청라국제금융단지의 호텔·관광 등 핵심사업 미진행. 부지 약 30%인 5만84㎡가 미개발 방치. 주민들 사업 철수 요구.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보(2022-09-26)</a>
+      </div>
+    </div>
+
+    <div class="event" id="y-2024" data-year="2024">
+      <div class="date">2024-01-03 <span class="date-precision">🎯</span></div>
+      <div class="title">IBD, 하반기 첫 삽 — 1차 구역 14.4만㎡, 2033 완공 계획 발표 <span class="badges"><span class="badge badge-T2">T2</span><span class="badge badge-B">B</span></span></div>
+      <div class="desc">㈜청라스마트시티가 2024년 4월까지 1차 구역 인허가 완료 후 8월 착공, 2033년 완공 계획 발표. 2차 구역(13.4만㎡)은 2026년 착공, 금융센터는 2028년 완료 목표. LH-㈜청라스마트시티 토지매매(2021-12) 후 약 3년 만의 시공 단계.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20240103580217" target="_blank">경기일보(2024-01-03)</a>
+      </div>
+    </div>
+
+    <div class="event milestone" data-year="2024" data-milestone="1">
+      <div class="date">2024-08 <span class="date-precision">📅</span></div>
+      <div class="title">청라국제업무단지(IBD) 1차 구역 분양·착공 <span class="badges"><span class="badge badge-T2">T2</span><span class="badge badge-A">A</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">㈜청라스마트시티가 IBD 1차 구역 14만 4천㎡ 분양·착공 동시 시작. 4차산업(AI·ICT·IoT) 핵심 업종 + 금융업무 + 주거·상업·문화 복합단지 조성. 2021-10 본 계약 후 약 3년 만의 시공 진입.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20240103580217" target="_blank">경기일보</a>
+        <a href="https://www.kihoilbo.co.kr/news/articleView.html?idxno=951766" target="_blank">기호일보</a>
+      </div>
+    </div>
+
+    <div class="event" id="y-2025" data-year="2025">
+      <div class="date">2025년 <span class="date-precision">📆</span></div>
+      <div class="title">한양수자인 디에스틴 오피스텔 702가구 분양 <span class="badges"><span class="badge badge-T1">T1</span><span class="badge badge-B">B</span></span></div>
+      <div class="desc">㈜청라국제금융단지가 한양수자인 디에스틴 오피스텔 702가구 분양 진행. 여전히 핵심 호텔·관광 사업은 답보 상태.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보</a>
+      </div>
+    </div>
+
+    <div class="event milestone" data-year="2025" data-milestone="1">
+      <div class="date">2025-06-13 <span class="date-precision">🎯</span></div>
+      <div class="title">'청라 3.0 시대' 발표 — 청라국제업무단지 개발 본격화 <span class="badges"><span class="badge badge-T2">T2</span><span class="badge badge-A">A</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">IFEZ·인천시가 '청라 3.0 시대' 개막 공식 발표. 1.0(2003 IFEZ 발족), 2.0(2010년대 주거 입주)에 이어 3.0은 국제업무단지·하나금융타운·스타필드 등 대형 사업 동시 가동 단계. IBD 개발 본격화.</div>
+      <div class="sources">
+        <a href="https://www.fnnews.com/news/202506131149524734" target="_blank">파이낸셜뉴스(2025-06-13) '청라 3.0시대'</a>
+        <a href="https://news.nate.com/view/20250611n13070" target="_blank">네이트(2025-06-11)</a>
+      </div>
+    </div>
+
+    <div class="event milestone" data-year="2025" data-milestone="1">
+      <div class="date">2025년 <span class="date-precision">📆</span></div>
+      <div class="title">대우건설-㈜청라스마트시티 5,274억 규모 공급계약 체결 <span class="badges"><span class="badge badge-T2">T2</span><span class="badge badge-S">S</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">대우건설이 ㈜청라스마트시티와 5,274억원 규모 청라 IBD 공급계약 체결. 시공 본격화. (※ 기존 일정 '2028 금융센터·2033 완공'은 2030~2035로 일부 조정)</div>
+      <div class="sources">
+        <a href="https://www.msn.com/ko-kr/news/other/%EB%8C%80%EC%9A%B0%EA%B1%B4%EC%84%A4-%EC%B2%AD%EB%9D%BC%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8B%9C%ED%8B%B0%EC%99%80-5274%EC%96%B5%EC%9B%90-%EA%B7%9C%EB%AA%A8-%EA%B3%B5%EA%B8%89%EA%B3%84%EC%95%BD/ar-AA1BFXO0" target="_blank">대우건설-청라스마트시티 공급계약 보도</a>
+      </div>
+    </div>
+
+    <div class="event" id="y-2026" data-year="2026">
+      <div class="date">2026-05-16 (조사일 현재) <span class="date-precision">🎯</span></div>
+      <div class="title">현재 상태 — IBD 시공 진행, 일정 2030~2035 조정, T1 핵심사업 답보 지속 <span class="badges"><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">청라국제업무단지(IBD, T2)는 대우건설 5,274억 계약으로 시공 본격화. 일정 조정 — 2030년부터 2035년까지 단계 완공으로 5~7년 연장. '청라 3.0 시대' 핵심. 청라국제금융단지(T1, 한양·보성)는 아파트·오피스텔 일부 완공·분양했으나 핵심 호텔·관광 미개발 22년째 답보.</div>
+      <div class="sources">
+        <a href="https://www.fnnews.com/news/202506131149524734" target="_blank">파이낸셜뉴스 '청라 3.0'</a>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    <h3>조사 소스</h3>
+    <ul>
+      <li>인천경제자유구역청(IFEZ) 보도자료, LH</li>
+      <li>경기일보, 인천in, 시사저널e, 기호일보, 서울경제, 인천투데이</li>
+      <li>나무위키 청라국제도시</li>
+    </ul>
+    <h3>한계와 미해결</h3>
+    <ul>
+      <li>2005-08 개발계획 승인 정확 일자 미확보 — 월 단위</li>
+      <li>2013-12 LH 사업 종료 결정 공식 일자 미확보</li>
+      <li>2015-04 청라국제금융단지 협약일 정확 일자 미확보</li>
+      <li>2020-11 IBD 우선협상자 선정 정확 일자 미확보 — 월 단위</li>
+      <li>㈜청라국제금융단지(T1) 핵심사업 지연 사유 및 IFEZ의 행정조치 진행 상황 미확보</li>
+      <li>두 사업은 같은 권역이나 별개 법인·다른 부지 — 향후 청라 전체 마스터플랜에서 어떻게 통합·조정될지 미확정</li>
+    </ul>
+    <h3>키워드</h3>
+    <p>입력 키워드: <code>인천 청라 국제금융단지</code></p>
+    <p>본 사업은 '청라국제금융단지㈜'(한양·보성, 2015~)와 '청라국제업무단지'(LH-미래에셋, 2005~)의 별개 두 사업이 같은 권역에 병존 — 상단 트랙 구분 참고.</p>
+  </footer>
+</div>
+
+<aside class="remote" id="remote">
+  <div class="remote-title">시기·연도 점프</div>
+  <div class="remote-era" data-target="era-1">제1기 좌초</div>
+  <a class="remote-year has-milestone" href="#y-2005" data-year="2005"><span class="dot"></span>2005</a>
+  <a class="remote-year" href="#y-2007" data-year="2007"><span class="dot"></span>2007</a>
+  <a class="remote-year" href="#y-2013" data-year="2013"><span class="dot"></span>2013</a>
+  <div class="remote-era" data-target="era-2">제2기 T1진입</div>
+  <a class="remote-year has-milestone" href="#y-2015" data-year="2015"><span class="dot"></span>2015</a>
+  <div class="remote-era" data-target="era-3">제3기 T2재출발</div>
+  <a class="remote-year has-milestone" href="#y-2020" data-year="2020"><span class="dot"></span>2020</a>
+  <a class="remote-year has-milestone" href="#y-2021" data-year="2021"><span class="dot"></span>2021</a>
+  <div class="remote-era" data-target="era-4">제4기 시공</div>
+  <a class="remote-year" href="#y-2022" data-year="2022"><span class="dot"></span>2022</a>
+  <a class="remote-year has-milestone" href="#y-2024" data-year="2024"><span class="dot"></span>2024</a>
+  <a class="remote-year" href="#y-2025" data-year="2025"><span class="dot"></span>2025</a>
+  <a class="remote-year" href="#y-2026" data-year="2026"><span class="dot"></span>2026</a>
+</aside>
+
+<script src="assets/history.js"></script>
+</body>
+</html>
