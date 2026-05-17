@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>Keyword History — 인덱스</title>
+<style>
+  :root {
+    --bg: #0f1419; --surface: #1a2027; --surface2: #232b35; --border: #2f3a47;
+    --text: #e6edf3; --muted: #8b949e; --accent: #58a6ff;
+    --milestone: #3fb950; --conflict: #db6d28; --warn: #d29922;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; line-height: 1.6; padding: 40px 20px; min-height: 100vh; }
+  .container { max-width: 1200px; margin: 0 auto; }
+
+  header {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 24px;
+    margin-bottom: 32px;
+  }
+  h1 { font-size: 32px; font-weight: 700; letter-spacing: -0.5px; margin-bottom: 8px; }
+  .subtitle { color: var(--muted); font-size: 14px; }
+  .header-meta { margin-top: 12px; color: var(--muted); font-size: 12px; }
+
+  .controls {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 16px;
+    margin-bottom: 24px;
+    align-items: center;
+  }
+  .search-box {
+    position: relative;
+  }
+  .search-input {
+    width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 16px 12px 40px;
+    color: var(--text);
+    font-size: 14px;
+    transition: border-color 0.15s;
+    font-family: inherit;
+  }
+  .search-input:focus { outline: none; border-color: var(--accent); }
+  .search-input::placeholder { color: var(--muted); }
+  .search-icon {
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--muted);
+    font-size: 14px;
+    pointer-events: none;
+  }
+  .view-toggle {
+    display: inline-flex;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .view-toggle button {
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    padding: 10px 16px;
+    cursor: pointer;
+    font-size: 13px;
+    font-family: inherit;
+    transition: background 0.15s, color 0.15s;
+  }
+  .view-toggle button.active { background: var(--accent); color: #0f1419; font-weight: 600; }
+  .view-toggle button:hover:not(.active) { background: var(--surface2); color: var(--text); }
+
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 28px;
+  }
+  .filter-chip {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 100px;
+    padding: 6px 14px;
+    color: var(--muted);
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.15s;
+    user-select: none;
+  }
+  .filter-chip:hover { color: var(--text); border-color: var(--muted); }
+  .filter-chip.active {
+    background: var(--accent);
+    color: #0f1419;
+    border-color: var(--accent);
+    font-weight: 600;
+  }
+
+  .stats {
+    color: var(--muted);
+    font-size: 12px;
+    margin-bottom: 20px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 16px;
+  }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+    transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+  }
+  .card.hidden { display: none; }
+
+  .card-status {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+    margin-bottom: 10px;
+    align-self: flex-start;
+  }
+  .card-title {
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 6px;
+    color: var(--text);
+  }
+  .card-summary {
+    font-size: 13px;
+    color: #c9d1d9;
+    margin-bottom: 14px;
+    line-height: 1.5;
+    flex: 1;
+  }
+  .card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    font-size: 11px;
+    color: var(--muted);
+    padding-top: 12px;
+    border-top: 1px solid var(--border);
+    margin-bottom: 12px;
+  }
+  .card-meta-item { display: flex; align-items: center; gap: 4px; }
+  .card-categories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+  .cat-tag {
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 3px;
+    border: 1px solid;
+    font-weight: 600;
+  }
+
+  /* 그래프 뷰 */
+  .graph-container {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 24px;
+    margin-top: 8px;
+    overflow: hidden;
+    display: none;
+  }
+  .graph-container.active { display: block; }
+  .grid.hidden { display: none; }
+
+  svg { width: 100%; height: 600px; }
+  .graph-link { stroke: var(--border); stroke-width: 1.5; transition: stroke 0.15s, stroke-width 0.15s; }
+  .graph-link.highlighted { stroke: var(--accent); stroke-width: 2.5; }
+  .graph-node-circle {
+    cursor: pointer;
+    transition: r 0.15s, stroke-width 0.15s;
+    stroke: var(--border);
+    stroke-width: 2;
+  }
+  .graph-node:hover .graph-node-circle { stroke: var(--accent); stroke-width: 3; }
+  .graph-node text {
+    fill: var(--text);
+    font-size: 12px;
+    font-weight: 500;
+    pointer-events: none;
+    text-anchor: middle;
+  }
+  .graph-legend {
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .graph-legend-item { display: inline-flex; align-items: center; gap: 6px; }
+  .legend-dot { width: 10px; height: 10px; border-radius: 50%; }
+
+  .empty {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--muted);
+    font-size: 14px;
+  }
+
+  footer {
+    margin-top: 48px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+    font-size: 11px;
+    color: var(--muted);
+    text-align: center;
+  }
+
+  @media (max-width: 640px) {
+    .controls { grid-template-columns: 1fr; }
+    .view-toggle { justify-self: start; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <div style="margin-bottom:12px;"><a href="../" style="color:#58a6ff; text-decoration:none; font-size:13px;">← 청라실 메인</a></div>
+    <h1>Keyword History</h1>
+    <div class="subtitle">키워드별 시계열 히스토리 모음 — 청라 권역 사업·인프라</div>
+    <div class="header-meta" id="header-meta"></div>
+  </header>
+
+  <div class="controls">
+    <div class="search-box">
+      <span class="search-icon">🔍</span>
+      <input type="text" class="search-input" id="search" placeholder="키워드·태그·요약 검색 (예: 7호선, IFEZ, 신세계...)" autocomplete="off">
+    </div>
+    <div class="view-toggle">
+      <button id="view-cards" class="active">카드</button>
+      <button id="view-graph">연관 그래프</button>
+    </div>
+  </div>
+
+  <div class="filters" id="filters"></div>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="grid" id="grid"></div>
+  <div class="graph-container" id="graph">
+    <svg viewBox="0 0 1000 600" preserveAspectRatio="xMidYMid meet" id="graph-svg"></svg>
+    <div class="graph-legend" id="graph-legend"></div>
+  </div>
+
+  <div class="empty" id="empty" style="display:none;">검색 결과가 없습니다.</div>
+
+  <footer>
+    데이터: <code>history.json</code> · 자동 생성 인덱스 · keyword-history skill v1
+  </footer>
+</div>
+
+<script>
+(async function () {
+  const res = await fetch('history.json');
+  const data = await res.json();
+  const histories = data.histories;
+  const catColors = data.categoryColors;
+  const statusColors = data.statusColors;
+
+  // ─── 헤더 메타 ───
+  document.getElementById('header-meta').textContent =
+    `총 ${histories.length}개 히스토리 · 데이터 갱신 ${data.generatedAt}`;
+
+  // ─── 필터 칩 ───
+  const allCategories = [...new Set(histories.flatMap(h => h.categories))].sort();
+  const filtersEl = document.getElementById('filters');
+  const activeFilters = new Set();
+
+  const allChip = document.createElement('div');
+  allChip.className = 'filter-chip active';
+  allChip.textContent = '전체';
+  allChip.dataset.cat = '__all__';
+  filtersEl.appendChild(allChip);
+
+  allCategories.forEach(cat => {
+    const chip = document.createElement('div');
+    chip.className = 'filter-chip';
+    chip.textContent = cat;
+    chip.dataset.cat = cat;
+    chip.style.borderColor = catColors[cat] || 'var(--border)';
+    filtersEl.appendChild(chip);
+  });
+
+  filtersEl.addEventListener('click', e => {
+    const chip = e.target.closest('.filter-chip');
+    if (!chip) return;
+    const cat = chip.dataset.cat;
+    if (cat === '__all__') {
+      activeFilters.clear();
+      filtersEl.querySelectorAll('.filter-chip').forEach(c => c.classList.toggle('active', c === chip));
+    } else {
+      allChip.classList.remove('active');
+      if (activeFilters.has(cat)) {
+        activeFilters.delete(cat);
+        chip.classList.remove('active');
+      } else {
+        activeFilters.add(cat);
+        chip.classList.add('active');
+      }
+      if (activeFilters.size === 0) allChip.classList.add('active');
+    }
+    render();
+  });
+
+  // ─── 카드 렌더 ───
+  const gridEl = document.getElementById('grid');
+  const statsEl = document.getElementById('stats');
+  const emptyEl = document.getElementById('empty');
+
+  histories.forEach(h => {
+    const card = document.createElement('a');
+    card.className = 'card';
+    card.href = h.file;
+    card.dataset.id = h.id;
+    const statusColor = statusColors[h.status] || '#8b949e';
+
+    card.innerHTML = `
+      <span class="card-status" style="background:${statusColor}22; color:${statusColor}; border:1px solid ${statusColor}66;">${h.status}</span>
+      <div class="card-title">${h.title}</div>
+      <div class="card-summary">${h.summary}</div>
+      <div class="card-meta">
+        <span class="card-meta-item">📅 ${h.timeRange}</span>
+        <span class="card-meta-item">📌 ${h.eventCount}건</span>
+        <span class="card-meta-item">🕐 ${h.researchedAt}</span>
+      </div>
+      <div class="card-categories">
+        ${h.categories.map(c => `<span class="cat-tag" style="color:${catColors[c]}; border-color:${catColors[c]};">${c}</span>`).join('')}
+      </div>
+    `;
+    gridEl.appendChild(card);
+  });
+
+  function render() {
+    const q = document.getElementById('search').value.trim().toLowerCase();
+    let visibleCount = 0;
+    histories.forEach(h => {
+      const card = gridEl.querySelector(`[data-id="${h.id}"]`);
+      const matchesQuery = !q ||
+        h.title.toLowerCase().includes(q) ||
+        h.summary.toLowerCase().includes(q) ||
+        h.tags.some(t => t.toLowerCase().includes(q)) ||
+        h.categories.some(c => c.toLowerCase().includes(q));
+      const matchesFilter = activeFilters.size === 0 ||
+        h.categories.some(c => activeFilters.has(c));
+      const visible = matchesQuery && matchesFilter;
+      card.classList.toggle('hidden', !visible);
+      if (visible) visibleCount++;
+    });
+    statsEl.textContent = `${visibleCount} / ${histories.length}개 표시 중`;
+    emptyEl.style.display = visibleCount === 0 ? 'block' : 'none';
+    if (currentView === 'graph') renderGraph();
+  }
+
+  document.getElementById('search').addEventListener('input', render);
+
+  // ─── 뷰 토글 ───
+  let currentView = 'cards';
+  const btnCards = document.getElementById('view-cards');
+  const btnGraph = document.getElementById('view-graph');
+  const graphEl = document.getElementById('graph');
+
+  btnCards.addEventListener('click', () => {
+    currentView = 'cards';
+    btnCards.classList.add('active');
+    btnGraph.classList.remove('active');
+    gridEl.classList.remove('hidden');
+    graphEl.classList.remove('active');
+  });
+  btnGraph.addEventListener('click', () => {
+    currentView = 'graph';
+    btnGraph.classList.add('active');
+    btnCards.classList.remove('active');
+    gridEl.classList.add('hidden');
+    graphEl.classList.add('active');
+    renderGraph();
+  });
+
+  // ─── 그래프 렌더 (정적 force-like 레이아웃) ───
+  function renderGraph() {
+    const svg = document.getElementById('graph-svg');
+    svg.innerHTML = '';
+
+    const visible = histories.filter(h => {
+      const card = gridEl.querySelector(`[data-id="${h.id}"]`);
+      return card && !card.classList.contains('hidden');
+    });
+
+    if (visible.length === 0) return;
+
+    // 원형 배치
+    const cx = 500, cy = 300, r = Math.min(220, 60 + visible.length * 20);
+    const nodes = visible.map((h, i) => {
+      const angle = (i / visible.length) * Math.PI * 2 - Math.PI / 2;
+      return {
+        ...h,
+        x: cx + Math.cos(angle) * r,
+        y: cy + Math.sin(angle) * r
+      };
+    });
+    const nodeMap = Object.fromEntries(nodes.map(n => [n.id, n]));
+
+    // 링크 먼저 (뒤에 깔리도록)
+    const linkSet = new Set();
+    nodes.forEach(n => {
+      (n.related || []).forEach(rid => {
+        if (!nodeMap[rid]) return;
+        const key = [n.id, rid].sort().join('|');
+        if (linkSet.has(key)) return;
+        linkSet.add(key);
+        const target = nodeMap[rid];
+        const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+        line.setAttribute('x1', n.x);
+        line.setAttribute('y1', n.y);
+        line.setAttribute('x2', target.x);
+        line.setAttribute('y2', target.y);
+        line.classList.add('graph-link');
+        line.dataset.from = n.id;
+        line.dataset.to = rid;
+        svg.appendChild(line);
+      });
+    });
+
+    // 노드
+    nodes.forEach(n => {
+      const g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+      g.classList.add('graph-node');
+      g.setAttribute('transform', `translate(${n.x}, ${n.y})`);
+      g.style.cursor = 'pointer';
+
+      const radius = Math.max(20, Math.min(40, 14 + n.eventCount * 0.6));
+      const primaryCat = n.categories[0];
+      const fillColor = catColors[primaryCat] || '#58a6ff';
+
+      const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      circle.classList.add('graph-node-circle');
+      circle.setAttribute('r', radius);
+      circle.setAttribute('fill', fillColor + '33');
+      circle.setAttribute('stroke', fillColor);
+      g.appendChild(circle);
+
+      // 타이틀 줄바꿈 (한 줄 너무 길면 두 줄로)
+      const label = n.title.replace(/^인천 /, '').replace(/^청라 /, '').replace(/^서구 /, '');
+      const labelLines = label.length > 8 ? splitLabel(label) : [label];
+      labelLines.forEach((line, idx) => {
+        const text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+        text.textContent = line;
+        text.setAttribute('y', radius + 14 + idx * 14);
+        g.appendChild(text);
+      });
+
+      g.addEventListener('click', () => { window.location.href = n.file; });
+      g.addEventListener('mouseenter', () => highlight(n.id));
+      g.addEventListener('mouseleave', () => highlight(null));
+      svg.appendChild(g);
+    });
+
+    // 범례
+    const legendEl = document.getElementById('graph-legend');
+    legendEl.innerHTML = '';
+    const usedCats = [...new Set(nodes.flatMap(n => [n.categories[0]]))];
+    usedCats.forEach(cat => {
+      const item = document.createElement('span');
+      item.className = 'graph-legend-item';
+      item.innerHTML = `<span class="legend-dot" style="background:${catColors[cat]};"></span>${cat}`;
+      legendEl.appendChild(item);
+    });
+    const sizeNote = document.createElement('span');
+    sizeNote.className = 'graph-legend-item';
+    sizeNote.textContent = '원 크기 = 수집된 사건 수 · 선 = 연관 키워드';
+    sizeNote.style.marginLeft = 'auto';
+    legendEl.appendChild(sizeNote);
+  }
+
+  function splitLabel(label) {
+    const mid = Math.ceil(label.length / 2);
+    let breakAt = label.lastIndexOf(' ', mid);
+    if (breakAt === -1) breakAt = mid;
+    return [label.substring(0, breakAt).trim(), label.substring(breakAt).trim()];
+  }
+
+  function highlight(id) {
+    document.querySelectorAll('.graph-link').forEach(line => {
+      const on = id && (line.dataset.from === id || line.dataset.to === id);
+      line.classList.toggle('highlighted', on);
+    });
+  }
+
+  render();
+})();
+</script>
+</body>
+</html>

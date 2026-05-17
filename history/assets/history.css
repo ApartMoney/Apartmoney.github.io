@@ -1,0 +1,68 @@
+:root {
+  --bg: #0f1419; --surface: #1a2027; --surface2: #232b35; --border: #2f3a47;
+  --text: #e6edf3; --muted: #8b949e; --accent: #58a6ff;
+  --s: #f85149; --a: #d29922; --b: #58a6ff; --c: #8b949e; --d: #6e7681;
+  --milestone: #3fb950; --conflict: #db6d28; --gap: #484f58;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; line-height: 1.6; padding: 40px 20px; }
+.container { max-width: 980px; margin: 0 auto; }
+header { border-bottom: 1px solid var(--border); padding-bottom: 24px; margin-bottom: 32px; }
+h1 { font-size: 32px; font-weight: 700; letter-spacing: -0.5px; margin-bottom: 8px; }
+.back-link { color: var(--muted); font-size: 12px; text-decoration: none; margin-bottom: 8px; display: inline-block; }
+.back-link:hover { color: var(--accent); }
+.subtitle { color: var(--muted); font-size: 14px; }
+.meta { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px; margin-top: 16px; font-size: 13px; }
+.meta-item { display: flex; flex-direction: column; gap: 2px; }
+.meta-label { color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; }
+.meta-value { color: var(--text); font-weight: 500; }
+.notice { background: rgba(210,153,34,0.08); border-left: 3px solid var(--a); border-radius: 4px; padding: 12px 16px; margin: 20px 0 32px; font-size: 13px; color: #c9d1d9; }
+.notice strong { color: var(--a); }
+.legend { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px; margin-bottom: 32px; font-size: 13px; }
+.legend h3 { font-size: 13px; color: var(--muted); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+.legend-row { display: flex; flex-wrap: wrap; gap: 8px 16px; }
+.legend-item { display: inline-flex; align-items: center; gap: 6px; }
+.badge { display: inline-block; padding: 2px 7px; border-radius: 3px; font-size: 10px; font-weight: 700; letter-spacing: 0.3px; border: 1px solid; }
+.badge-S { color: var(--s); border-color: var(--s); background: rgba(248,81,73,0.08); }
+.badge-A { color: var(--a); border-color: var(--a); background: rgba(210,153,34,0.08); }
+.badge-B { color: var(--b); border-color: var(--b); background: rgba(88,166,255,0.08); }
+.badge-C { color: var(--c); border-color: var(--c); background: rgba(139,148,158,0.08); }
+.badge-D { color: var(--d); border-color: var(--d); background: rgba(110,118,129,0.08); }
+.badge-MS { color: var(--milestone); border-color: var(--milestone); background: rgba(63,185,80,0.08); }
+.timeline { position: relative; padding-left: 24px; border-left: 2px solid var(--border); }
+.event { position: relative; margin-bottom: 28px; padding-left: 24px; }
+.event::before { content: ""; position: absolute; left: -32px; top: 8px; width: 12px; height: 12px; border-radius: 50%; background: var(--surface2); border: 2px solid var(--accent); }
+.event.milestone::before { background: var(--milestone); border-color: var(--milestone); box-shadow: 0 0 0 4px rgba(63,185,80,0.15); }
+.event.conflict::before { background: var(--conflict); border-color: var(--conflict); }
+.date { font-family: "SF Mono", Menlo, monospace; font-size: 13px; color: var(--muted); margin-bottom: 4px; }
+.date-precision { margin-left: 4px; }
+.title { font-size: 16px; font-weight: 600; color: var(--text); margin-bottom: 6px; }
+.desc { font-size: 14px; color: #c9d1d9; margin-bottom: 8px; }
+.sources { font-size: 12px; color: var(--muted); }
+.sources a { color: var(--accent); text-decoration: none; margin-right: 12px; }
+.sources a:hover { text-decoration: underline; }
+.badges { display: inline-flex; gap: 4px; margin-left: 6px; vertical-align: 1px; }
+.era { margin-top: 40px; margin-bottom: 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); font-size: 14px; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; font-weight: 600; }
+.era:first-child { margin-top: 0; }
+footer { margin-top: 60px; padding-top: 24px; border-top: 1px solid var(--border); font-size: 12px; color: var(--muted); }
+footer h3 { font-size: 13px; margin-bottom: 8px; color: var(--text); }
+footer ul { list-style: none; margin-bottom: 16px; }
+footer li { padding: 2px 0; }
+footer code { background: var(--surface); padding: 1px 5px; border-radius: 3px; font-size: 11px; }
+.remote { position: fixed; top: 50%; right: 24px; transform: translateY(-50%); background: rgba(26, 32, 39, 0.92); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid var(--border); border-radius: 10px; padding: 12px 8px; z-index: 100; max-height: 80vh; overflow-y: auto; box-shadow: 0 8px 32px rgba(0,0,0,0.4); font-size: 11px; width: 130px; }
+.remote::-webkit-scrollbar { width: 4px; }
+.remote::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+.remote-title { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; padding: 0 6px 8px; margin-bottom: 8px; border-bottom: 1px solid var(--border); text-align: center; }
+.remote-era { margin-top: 10px; padding: 4px 6px; font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.3px; font-weight: 600; cursor: pointer; border-radius: 4px; }
+.remote-era:first-of-type { margin-top: 0; }
+.remote-era:hover { background: var(--surface2); color: var(--text); }
+.remote-year { display: block; padding: 4px 10px; color: var(--text); text-decoration: none; font-family: "SF Mono", Menlo, monospace; font-size: 11px; border-radius: 4px; margin: 1px 0; }
+.remote-year:hover { background: var(--accent); color: #0f1419; padding-left: 14px; }
+.remote-year.active { background: rgba(88,166,255,0.15); color: var(--accent); font-weight: 600; }
+.remote-year .dot { display: inline-block; width: 5px; height: 5px; border-radius: 50%; background: var(--milestone); margin-right: 6px; vertical-align: middle; opacity: 0; }
+.remote-year.has-milestone .dot { opacity: 1; }
+.event[id], .era[id] { scroll-margin-top: 24px; }
+.event.flash { animation: flash 1.2s ease-out; }
+@keyframes flash { 0% { background: rgba(88,166,255,0.25); } 100% { background: transparent; } }
+@media (max-width: 900px) { .remote { right: 12px; width: 110px; font-size: 10px; } }
+@media (max-width: 640px) { .remote { display: none; } }

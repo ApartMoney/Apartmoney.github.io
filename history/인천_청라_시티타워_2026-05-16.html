@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>인천 서구 청라 시티타워 — 시계열 히스토리</title>
+<style>
+  :root {
+    --bg: #0f1419;
+    --surface: #1a2027;
+    --surface2: #232b35;
+    --border: #2f3a47;
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --accent: #58a6ff;
+    --s: #f85149;
+    --a: #d29922;
+    --b: #58a6ff;
+    --c: #8b949e;
+    --d: #6e7681;
+    --milestone: #3fb950;
+    --conflict: #db6d28;
+    --gap: #484f58;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+    line-height: 1.6;
+    padding: 40px 20px;
+  }
+  .container { max-width: 980px; margin: 0 auto; }
+  header {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 24px;
+    margin-bottom: 32px;
+  }
+  h1 {
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-bottom: 8px;
+  }
+  .subtitle { color: var(--muted); font-size: 14px; }
+  .meta {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px;
+    margin-top: 16px;
+    font-size: 13px;
+  }
+  .meta-item { display: flex; flex-direction: column; gap: 2px; }
+  .meta-label { color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .meta-value { color: var(--text); font-weight: 500; }
+  .legend {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 32px;
+    font-size: 13px;
+  }
+  .legend h3 { font-size: 13px; color: var(--muted); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .legend-row { display: flex; flex-wrap: wrap; gap: 8px 16px; }
+  .legend-item { display: inline-flex; align-items: center; gap: 6px; }
+  .badge {
+    display: inline-block;
+    padding: 2px 7px;
+    border-radius: 3px;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+    border: 1px solid;
+  }
+  .badge-S { color: var(--s); border-color: var(--s); background: rgba(248,81,73,0.08); }
+  .badge-A { color: var(--a); border-color: var(--a); background: rgba(210,153,34,0.08); }
+  .badge-B { color: var(--b); border-color: var(--b); background: rgba(88,166,255,0.08); }
+  .badge-C { color: var(--c); border-color: var(--c); background: rgba(139,148,158,0.08); }
+  .badge-D { color: var(--d); border-color: var(--d); background: rgba(110,118,129,0.08); }
+  .badge-MS { color: var(--milestone); border-color: var(--milestone); background: rgba(63,185,80,0.08); }
+  .timeline {
+    position: relative;
+    padding-left: 24px;
+    border-left: 2px solid var(--border);
+  }
+  .event {
+    position: relative;
+    margin-bottom: 28px;
+    padding-left: 24px;
+  }
+  .event::before {
+    content: "";
+    position: absolute;
+    left: -32px;
+    top: 8px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--surface2);
+    border: 2px solid var(--accent);
+  }
+  .event.milestone::before {
+    background: var(--milestone);
+    border-color: var(--milestone);
+    box-shadow: 0 0 0 4px rgba(63,185,80,0.15);
+  }
+  .event.conflict::before {
+    background: var(--conflict);
+    border-color: var(--conflict);
+  }
+  .date {
+    font-family: "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--muted);
+    margin-bottom: 4px;
+  }
+  .date-precision { margin-left: 4px; }
+  .title {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 6px;
+  }
+  .desc {
+    font-size: 14px;
+    color: #c9d1d9;
+    margin-bottom: 8px;
+  }
+  .sources {
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .sources a {
+    color: var(--accent);
+    text-decoration: none;
+    margin-right: 12px;
+  }
+  .sources a:hover { text-decoration: underline; }
+  .badges { display: inline-flex; gap: 4px; margin-left: 6px; vertical-align: 1px; }
+  .gap-block {
+    margin: 16px 0 28px -24px;
+    padding: 10px 16px;
+    background: rgba(72,79,88,0.15);
+    border-left: 3px dashed var(--gap);
+    border-radius: 4px;
+    font-size: 13px;
+    color: var(--muted);
+    font-style: italic;
+  }
+  .era {
+    margin-top: 40px;
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+    font-size: 14px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+  }
+  .era:first-child { margin-top: 0; }
+  details.note {
+    margin-top: 8px;
+    padding: 8px 12px;
+    background: rgba(219,109,40,0.08);
+    border-left: 3px solid var(--conflict);
+    border-radius: 4px;
+    font-size: 12px;
+  }
+  details.note summary {
+    cursor: pointer;
+    color: var(--conflict);
+    font-weight: 600;
+  }
+  details.note p { margin-top: 6px; color: #c9d1d9; }
+  footer {
+    margin-top: 60px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    font-size: 12px;
+    color: var(--muted);
+  }
+  footer h3 { font-size: 13px; margin-bottom: 8px; color: var(--text); }
+  footer ul { list-style: none; margin-bottom: 16px; }
+  footer li { padding: 2px 0; }
+  footer code {
+    background: var(--surface);
+    padding: 1px 5px;
+    border-radius: 3px;
+    font-size: 11px;
+  }
+
+  /* === 플로팅 리모콘 === */
+  .remote {
+    position: fixed;
+    top: 50%;
+    right: 24px;
+    transform: translateY(-50%);
+    background: rgba(26, 32, 39, 0.92);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 8px;
+    z-index: 100;
+    max-height: 80vh;
+    overflow-y: auto;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+    font-size: 11px;
+    width: 130px;
+    transition: opacity 0.2s, transform 0.2s;
+  }
+  .remote::-webkit-scrollbar { width: 4px; }
+  .remote::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+  .remote-title {
+    font-size: 10px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 0 6px 8px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+    text-align: center;
+  }
+  .remote-era {
+    margin-top: 10px;
+    padding: 4px 6px;
+    font-size: 10px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.15s, color 0.15s;
+  }
+  .remote-era:first-of-type { margin-top: 0; }
+  .remote-era:hover {
+    background: var(--surface2);
+    color: var(--text);
+  }
+  .remote-year {
+    display: block;
+    padding: 4px 10px;
+    color: var(--text);
+    text-decoration: none;
+    font-family: "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    border-radius: 4px;
+    transition: background 0.15s, color 0.15s, padding-left 0.15s;
+    margin: 1px 0;
+    position: relative;
+  }
+  .remote-year:hover {
+    background: var(--accent);
+    color: #0f1419;
+    padding-left: 14px;
+  }
+  .remote-year.active {
+    background: rgba(88,166,255,0.15);
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .remote-year .dot {
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--milestone);
+    margin-right: 6px;
+    vertical-align: middle;
+    opacity: 0;
+  }
+  .remote-year.has-milestone .dot { opacity: 1; }
+  .remote-toggle {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background: var(--accent);
+    color: #0f1419;
+    border: none;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 101;
+    display: none;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .remote.hidden { opacity: 0; pointer-events: none; transform: translateY(-50%) translateX(20px); }
+
+  .event[id], .era[id] { scroll-margin-top: 24px; }
+  .event.flash {
+    animation: flash 1.2s ease-out;
+  }
+  @keyframes flash {
+    0% { background: rgba(88,166,255,0.25); }
+    100% { background: transparent; }
+  }
+
+  @media (max-width: 900px) {
+    .remote {
+      right: 12px;
+      width: 110px;
+      font-size: 10px;
+    }
+  }
+  @media (max-width: 640px) {
+    .remote { display: none; }
+    .remote-toggle { display: flex; align-items: center; justify-content: center; }
+    .remote.show { display: block; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>인천 서구 청라 시티타워</h1>
+    <div class="subtitle">시작점 추적 · 시계열 히스토리 · 1차 소스 우선</div>
+    <div class="meta">
+      <div class="meta-item"><span class="meta-label">키워드</span><span class="meta-value">인천 서구 청라 시티타워</span></div>
+      <div class="meta-item"><span class="meta-label">조사일</span><span class="meta-value">2026-05-16</span></div>
+      <div class="meta-item"><span class="meta-label">시간 범위</span><span class="meta-value">2006 ~ 2026-02</span></div>
+      <div class="meta-item"><span class="meta-label">수집 사건</span><span class="meta-value">36건</span></div>
+      <div class="meta-item"><span class="meta-label">위치</span><span class="meta-value">인천 서구 청라동 1-792 (청라호수공원)</span></div>
+      <div class="meta-item"><span class="meta-label">제원</span><span class="meta-value">지상 30층 · 448m · 연면적 97,250㎡</span></div>
+    </div>
+  </header>
+
+  <div class="legend">
+    <h3>범례</h3>
+    <div class="legend-row" style="margin-bottom:8px;">
+      <span class="legend-item"><span class="badge badge-S">S</span> 법적 공시·고시</span>
+      <span class="legend-item"><span class="badge badge-A">A</span> 공공기관 1차 발표 / 의회</span>
+      <span class="legend-item"><span class="badge badge-B">B</span> 신뢰 언론 1차 보도</span>
+      <span class="legend-item"><span class="badge badge-C">C</span> 회고·해설 기사</span>
+      <span class="legend-item"><span class="badge badge-D">D</span> 위키·나무위키</span>
+      <span class="legend-item"><span class="badge badge-MS">MS</span> 마일스톤</span>
+    </div>
+    <div class="legend-row">
+      <span class="legend-item">🎯 일 단위 확정</span>
+      <span class="legend-item">📅 월 단위 확정</span>
+      <span class="legend-item">📆 연 단위 확정</span>
+      <span class="legend-item">❓ 추정</span>
+    </div>
+  </div>
+
+  <div class="era" id="era-1">제1기 — 구상기 (2006 ~ 2008)</div>
+  <div class="timeline">
+
+    <div class="event" id="y-2006" data-year="2006">
+      <div class="date">2006년 <span class="date-precision">📆</span></div>
+      <div class="title">LH 청라시티타워 사업 추진 시작 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">한국토지주택공사(LH)가 청라국제도시 랜드마크 건립 사업을 내부적으로 추진하기 시작. 인천경제자유구역(송도·영종·청라) 3대 랜드마크 구상의 청라 담당.</div>
+      <div class="sources">
+        <a href="https://www.focusincheon.com/news/articleView.html?idxno=5348" target="_blank">포커스인천(2024-07-31)</a>
+        <a href="https://www.incheontoday.com/news/articleView.html?idxno=254985" target="_blank">인천투데이(2024-10-16)</a>
+      </div>
+    </div>
+
+    <div class="event milestone" id="y-2007" data-year="2007" data-milestone="1">
+      <div class="date">2007-10 (말) <span class="date-precision">📅</span></div>
+      <div class="title">국제 아이디어 공모 공고 — 사업 첫 외부 공식 단계 <span class="badges"><span class="badge badge-B">B</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">LH가 "한국의 위상을 상징하는 새로운 건물"을 찾는 국제 디자인 공모 공고. 청라국제도시 중앙호수공원에 약 450m 높이 랜드마크 건립 계획.</div>
+      <div class="sources">
+        <a href="https://www.mt.co.kr/estate/2008/03/28/2008032818492101228" target="_blank">머니투데이(2008-03-28)</a>
+      </div>
+    </div>
+
+    <div class="event milestone" id="y-2008" data-year="2008" data-milestone="1">
+      <div class="date">2008-03-28 <span class="date-precision">🎯</span></div>
+      <div class="title">국제공모 결과 발표 — '타워 인피니티(Tower Infinity)' 1위 선정 <span class="badges"><span class="badge badge-B">B</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">46개국 358개팀 등록, 36개국 143개팀 작품 제출. GDS(한미 합작, Charles I. Wee 외 3인) 작품 'Tower Infinity'가 1위 당선. 보이지 않는 타워 컨셉. 시상식은 4월 예정. 당초 완공 목표는 2013년 상반기.</div>
+      <div class="sources">
+        <a href="https://www.mt.co.kr/estate/2008/03/28/2008032818492101228" target="_blank">머니투데이(2008-03-28)</a>
+        <a href="https://ko.wikipedia.org/wiki/%ED%83%80%EC%9B%8C_%EC%9D%B8%ED%94%BC%EB%8B%88%ED%8B%B0" target="_blank">위키백과 타워 인피니티</a>
+      </div>
+    </div>
+
+    <div class="event conflict" data-year="2008">
+      <div class="date">2008-하반기 <span class="date-precision">❓</span></div>
+      <div class="title">글로벌 금융위기 — 사업 1차 지연 <span class="badges"><span class="badge badge-C">C</span></span></div>
+      <div class="desc">당초 2009년 착공 예정이었으나 2008년 글로벌 금융위기 + 공군 항로 문제로 지연 시작. 본 시점부터 약 3년간 답보.</div>
+      <div class="sources">
+        <a href="https://www.kyungjeilbo.com/view/20250527074736919" target="_blank">이코노믹데일리 '청라시티타워의 10년 표류'</a>
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보 회고</a>
+      </div>
+      <details class="note"><summary>⚠️ 정확한 시점 미확정</summary><p>"2008년 금융위기로 지연"이라는 표현은 회고체로, 정확히 언제 사업이 멈췄는지 1차 소스 미확보. 2009년 착공 계획이 좌초된 시점으로 추정.</p></details>
+    </div>
+
+  </div>
+
+  <div class="era" id="era-2">제2기 — 답보·재편기 (2009 ~ 2013)</div>
+  <div class="timeline">
+
+    <div class="gap-block">2008 말 ~ 2011 초 · 약 2~3년 공백 — 1차 소스 검색 결과 이 기간 활동 기록 미확보. 사업 사실상 중단기로 추정.</div>
+
+    <div class="event milestone" id="y-2011" data-year="2011" data-milestone="1">
+      <div class="date">2011년 <span class="date-precision">📆</span></div>
+      <div class="title">LH 분리개발 결정 — 타워와 복합용지 분리 <span class="badges"><span class="badge badge-C">C</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">LH가 시티타워(공공)와 주변 복합용지(민간)를 분리 개발하기로 전환. 사업 재추진 계기 마련.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보 청라 표류 회고(2022-09-26)</a>
+        <a href="https://www.kyungjeilbo.com/view/20250527074736919" target="_blank">이코노믹데일리 10년 표류</a>
+      </div>
+    </div>
+
+    <div class="event" id="y-2012" data-year="2012">
+      <div class="date">2012-01-13 <span class="date-precision">🎯</span></div>
+      <div class="title">LH 청라국제도시 시티타워 현상설계 당선작 선정 발표 <span class="badges"><span class="badge badge-S">S</span></span></div>
+      <div class="desc">LH가 시티타워 현상설계 당선작 선정 보도자료 배포. 분리개발 결정 이후 첫 공식 공공 발표.</div>
+      <div class="sources">
+        <a href="https://lh.or.kr/gallery.es?act=view&b_list=8&bid=0003&keyField=&list_no=7777&mid=a10502000000&nPage=450" target="_blank">LH 보도자료(2012-01-13)</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2012">
+      <div class="date">2012년 <span class="date-precision">📆</span></div>
+      <div class="title">LH 주관 사업자 재모집, IFEZ와 협의 재개 <span class="badges"><span class="badge badge-C">C</span></span></div>
+      <div class="desc">LH가 사업자를 다시 모집하고 인천경제자유구역청과 협의를 재시작.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보 청라 표류 회고(2022-09-26)</a>
+      </div>
+    </div>
+
+    <div class="event milestone" id="y-2013" data-year="2013" data-milestone="1">
+      <div class="date">2013-08-08 <span class="date-precision">🎯</span></div>
+      <div class="title">인천광역시·IFEZ 사업허가 부여 <span class="badges"><span class="badge badge-A">A</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">인천광역시와 인천경제자유구역청이 청라 시티타워 사업허가 부여. 행정절차상 사업 본격 가능 시점.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보 청라 표류 회고(2022-09-26)</a>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="era" id="era-3">제3기 — 공모·협약기 (2014 ~ 2017)</div>
+  <div class="timeline">
+
+    <div class="event" id="y-2014" data-year="2014">
+      <div class="date">2014-02-10 <span class="date-precision">🎯</span></div>
+      <div class="title">청라 시티타워 복합시설 1차 민간사업자 공개모집 시작 <span class="badges"><span class="badge badge-A">A</span></span></div>
+      <div class="desc">IFEZ가 청라국제도시 시티타워 복합시설 개발 민간사업자 공모 개시 (~4월 10일 60일간 접수).</div>
+      <div class="sources">
+        <a href="https://news.mt.co.kr/mtview.php?no=2014021010481431961" target="_blank">머니투데이(2014-02-10)</a>
+        <a href="https://www.ifez.go.kr/main/pst/view.do?pst_id=noti03&pst_sn=265688" target="_blank">IFEZ 공모 공고</a>
+      </div>
+    </div>
+
+    <div class="event milestone" data-year="2014" data-milestone="1">
+      <div class="date">2014-11-10 <span class="date-precision">🎯</span></div>
+      <div class="title">인천시-LH 사업협약 체결 — 사업권 이관 <span class="badges"><span class="badge badge-A">A</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">유정복 인천시장과 이재영 LH 사장이 청라 시티타워 사업협약 체결. IFEZ가 LH로부터 사업자 일괄 공모 권한 이관받음. 6월 24일 사전협의 후 11월 10일 정식 체결.</div>
+      <div class="sources">
+        <a href="https://www.ifez.go.kr/main/pst/view.do?pst_id=noti03&pst_sn=265799" target="_blank">IFEZ 보도자료(2014-11-11)</a>
+      </div>
+      <details class="note"><summary>⚠️ 출처 간 협약일 모순</summary><p>굿모닝인천(2014-12호)은 "지난달 10일" 협약을 "10월 10일"로 표기. IFEZ 보도자료(2014-11-11)는 "11월 10일"로 표기. → 1차 소스(A등급) 우선 채택: <strong>11월 10일</strong>. 굿모닝인천의 표기는 월간지 회고 표현 오류로 판단.</p></details>
+    </div>
+
+    <div class="event" data-year="2014">
+      <div class="date">2014-12-26 <span class="date-precision">🎯</span></div>
+      <div class="title">청라 시티타워 사업자 국제공모 본격 추진 보도 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">IFEZ가 시티타워·복합시설 사업자를 국제공모로 추진 발표.</div>
+      <div class="sources">
+        <a href="https://www.dnews.co.kr/uhtml/view.jsp?idxno=201412261553267350886" target="_blank">대한경제(2014-12-26)</a>
+      </div>
+    </div>
+
+    <div class="event" id="y-2015" data-year="2015">
+      <div class="date">2015-01-08 <span class="date-precision">🎯</span></div>
+      <div class="title">건설·유통 국내외 주요기업 대상 사업설명회 <span class="badges"><span class="badge badge-A">A</span></span></div>
+      <div class="desc">IFEZ가 사업설명회 개최. 시티타워+복합시설 일괄 공모.</div>
+      <div class="sources">
+        <a href="https://www.ifez.go.kr/main/pst/view.do?pst_id=noti01&pst_sn=197397" target="_blank">IFEZ 공지(2015-01-09)</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2015">
+      <div class="date">2015-01-09 <span class="date-precision">🎯</span></div>
+      <div class="title">IFEZ 사업자 공모지침서(안) 공식 공지 <span class="badges"><span class="badge badge-S">S</span></span></div>
+      <div class="desc">IFEZ 기반서비스산업유치과가 공모지침서(안) 공지. 서면질의 마감 1월 15일.</div>
+      <div class="sources">
+        <a href="https://www.ifez.go.kr/main/pst/view.do?pst_id=noti01&pst_sn=197397" target="_blank">IFEZ 공지문</a>
+        <a href="https://www.ifez.go.kr/other/attach/process.file.do?TP=dn&sn=51979&key=BD37708D9E12964" target="_blank">공모지침서 첨부파일</a>
+      </div>
+    </div>
+
+    <div class="event" id="y-2016" data-year="2016">
+      <div class="date">2016-10 <span class="date-precision">📅</span></div>
+      <div class="title">민간컨소시엄(보성산업·한양·Tower Escrow) 사업자 선정 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">LH가 청라 시티타워 시공·운영 민간컨소시엄으로 보성산업·한양·Tower Escrow Inc 선정. 7년 분쟁의 시작점. 대한전문건설신문 기사 본문에 '2016년 10월'로 명시.</div>
+      <div class="sources">
+        <a href="https://www.koscaj.com/news/articleView.html?idxno=205220" target="_blank">대한전문건설신문(2019-11-11) — '2016년 10월 민간컨소시엄 선정' 명시</a>
+        <a href="https://www.24news.kr/news/articleView.html?idxno=208712" target="_blank">한국뉴스(2016년 계약 이후 7년만)</a>
+      </div>
+    </div>
+
+    <div class="event milestone" id="y-2017" data-year="2017" data-milestone="1">
+      <div class="date">2017-02-10 <span class="date-precision">🎯</span></div>
+      <div class="title">LH-청라시티타워컨소시엄 사업협약 체결 — 관리운영협약 + 건설협약 동시 체결 <span class="badges"><span class="badge badge-A">A</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">인천경제청·LH·청라시티타워컨소시엄(보성산업·한양·Tower Escrow Inc)이 약 3개월 협상 끝에 인천경제청-컨소시엄 '관리·운영협약' + LH-컨소시엄 '건설협약'을 2017-02-10 동시 체결. 발표 당시 2022년 준공 목표. (※ IFEZ 보도자료는 2017-02-09자)</div>
+      <div class="sources">
+        <a href="https://www.ifez.go.kr/main/pst/view.do?pst_id=noti03&pst_sn=266483" target="_blank">IFEZ 보도자료(2017-02-09) '청라국제도시 시티타워 및 복합시설 프로젝트 사업협약 체결'</a>
+        <a href="https://www.sisajournal.com/news/articleView.html?idxno=304567" target="_blank">시사저널(2023-05-04) '2017년 2월 시행사 선정' 인용</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2017">
+      <div class="date">2017 상반기 <span class="date-precision">📆</span></div>
+      <div class="title">사업시행법인 ㈜청라시티타워(SPC) 설립 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">2017-02-10 협약 체결 후 민간컨소시엄(보성산업·한양·Tower Escrow)이 사업 수행을 위해 특수목적법인(SPC) ㈜청라시티타워 설립. 정확한 등기일은 1차 자료 미확보 — '2017년 상반기'로 기록되어 있음.</div>
+      <div class="sources">
+        <a href="https://www.focusincheon.com/news/articleView.html?idxno=1704" target="_blank">포커스인천</a>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="era" id="era-4">제4기 — 시공 시도와 분쟁 (2018 ~ 2023)</div>
+  <div class="timeline">
+
+    <div class="event conflict" id="y-2018" data-year="2018">
+      <div class="date">2018-03 <span class="date-precision">📅</span></div>
+      <div class="title">건축허가 변경 — 디자인 변경 후 재허가 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">건축허가 변경. 같은 해 6월 착공 계획이었으나, 착공 전 실시된 공탄성 실험(바람이 구조물 외면에 작용하는 하중)에서 구조적 불안정이 확인돼 디자인 변경이 불가피했음.</div>
+      <div class="sources">
+        <a href="https://www.koscaj.com/news/articleView.html?idxno=205220" target="_blank">대한전문건설신문(2019-11-11) — '지난해 3월 건축허가 변경'</a>
+      </div>
+    </div>
+
+    <div class="event conflict" data-year="2018">
+      <div class="date">2018-06 (예정→ 무산) <span class="date-precision">📅</span></div>
+      <div class="title">2018-06 착공 계획 무산 — 공탄성 실험 구조 불안정 확인 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">2018-06 착공 계획이었으나 공탄성 실험에서 구조적 불안정 확인되어 디자인 변경 필요. 약 1년 5개월 지연되어 2019-11-21 기공식까지 미뤄짐.</div>
+      <div class="sources">
+        <a href="https://www.koscaj.com/news/articleView.html?idxno=205220" target="_blank">대한전문건설신문(2019-11-11)</a>
+      </div>
+    </div>
+
+    <div class="event milestone" id="y-2019" data-year="2019" data-milestone="1">
+      <div class="date">2019-11-21 13:30 <span class="date-precision">🎯</span></div>
+      <div class="title">1차 기공식 개최 — 청라호수공원 음악분수 야외무대 <span class="badges"><span class="badge badge-B">B</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">2019-11-21 오후 1시 30분 청라호수공원 음악분수 야외무대에서 청라 시티타워 기공식 개최. LH·㈜청라시티타워가 기공식 이후 부지 가설펜스 설치, 터파기 등 부대 토목공사 착수. 2020 상반기까지 건축심의 등 행정 완료 후 하반기 본격 건설공사 착수 계획.</div>
+      <div class="sources">
+        <a href="https://www.hankyung.com/realestate/article/201911197518e" target="_blank">한국경제(2019-11-19)</a>
+        <a href="https://www.koscaj.com/news/articleView.html?idxno=205220" target="_blank">대한전문건설신문(2019-11-11) — '21일 오후 1시 30분 기공식' 명시</a>
+      </div>
+    </div>
+
+    <div class="event" id="y-2020" data-year="2020">
+      <div class="date">2020년 <span class="date-precision">📆</span></div>
+      <div class="title">청라호수공원 부지 내 기초지반공사 착수 — ㈜한양 등 주도 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">SPC ㈜청라시티타워와 LH의 사업협약 기반으로 청라호수공원 부지 내에서 기초지반공사(파일 타설 등) 착수. ㈜한양 등이 주도하며 기초공사 성공적 마무리 단계까지 진행. 이후 타워 본공사(초고층부) 시공사 선정 과정에서 공사비 증액 갈등으로 수년간 지연·중단.</div>
+      <div class="sources">
+        <a href="https://www.joongboo.com/news/articleView.html?idxno=363651736" target="_blank">중부일보(2024-05-10) — '2020년 기초지반공사에 착수' 명시</a>
+      </div>
+    </div>
+
+    <div class="event conflict" data-year="2020">
+      <div class="date">2020년 <span class="date-precision">📆</span></div>
+      <div class="title">기존 시공사(포스코건설)와 도급계약 해지 — 공사 1차 중단 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">공사비 협상 결렬로 기존 시공사와 계약 해지. 기초공사 후 약 1년간 공사 중단.</div>
+      <div class="sources">
+        <a href="https://www.kyeongin.com/article/1545075" target="_blank">경인일보(2021-04)</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2020">
+      <div class="date">2020-12 (말) <span class="date-precision">📅</span></div>
+      <div class="title">시공사 재선정 1차 입찰 — 유찰 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">LH 청라영종사업본부가 진행한 시공사 재선정 1차 입찰이 유찰.</div>
+      <div class="sources">
+        <a href="https://www.kyeongin.com/article/1545075" target="_blank">경인일보(2021-04)</a>
+      </div>
+    </div>
+
+    <div class="event" id="y-2021" data-year="2021">
+      <div class="date">2021-04 <span class="date-precision">📅</span></div>
+      <div class="title">초고층 13개 건설사 대상 시공사 사전간담회 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">LH가 초고층 시공경험 13개 건설사 대상 사전간담회 개최. 입찰 일정·조건 변경 소개.</div>
+      <div class="sources">
+        <a href="https://www.kyeongin.com/article/1545075" target="_blank">경인일보(2021-04-11)</a>
+      </div>
+    </div>
+
+    <div class="event" id="y-2022" data-year="2022">
+      <div class="date">2022-02-25 <span class="date-precision">🎯</span></div>
+      <div class="title">타워부 시공 우선협상대상자로 포스코건설 선정 — SPC ㈜청라시티타워(보성·한양 참여) <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">㈜한양·보성그룹이 특수목적법인(SPC)으로 참여한 청라시티타워㈜가 2022-02-25 시공사 선정 우선협상대상자로 포스코건설 확정. 공사비 산출근거 바탕으로 세부협상 후 본계약 체결 예정.</div>
+      <div class="sources">
+        <a href="https://www.kgnews.co.kr/mobile/article_comment.html" target="_blank">경기신문(2022-02-25) 우선협상자 선정</a>
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보 청라 표류 회고(2022-09-26)</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2022">
+      <div class="date">2022-05-22 <span class="date-precision">🎯</span></div>
+      <div class="title">포스코건설, 공기 50개월 이상 제안 — GMP 방식 계약 추진 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">2022-02 선정된 포스코건설이 청라시티타워 공사 기간을 50개월 이상으로 제안, 그에 따른 추진일정과 공사비 상한액 등을 정하는 GMP(최대보증금액) 방식 계약 협의 진행. 6월 GMP 방식 계약 목표.</div>
+      <div class="sources">
+        <a href="https://www.kgnews.co.kr/news/article.html?no=678453" target="_blank">경기신문(2022-05-22) GMP 방식 계약 추진</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2022">
+      <div class="date">2022-02 <span class="date-precision">📅</span></div>
+      <div class="title">IFEZ 연혁 — 청라시티타워 우선협상대상자 선정 기록 <span class="badges"><span class="badge badge-A">A</span></span></div>
+      <div class="desc">IFEZ 공식 연혁 페이지(2021~2023)에 "청라시티타워 우선협상대상자 선정" 표기.</div>
+      <div class="sources">
+        <a href="https://www.ifez.go.kr/main/content/view.do?sn=248" target="_blank">IFEZ 연혁 2021~2023</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2022">
+      <div class="date">2022-09-06 <span class="date-precision">🎯</span></div>
+      <div class="title">LH 경영투자심사위 공사비 타당성 만장일치 가결 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">LH 경영투자심사위가 시티타워 공사비 타당성을 만장일치로 가결. 9월 중 GMP 계약, 10월 공사재개, 2027년 준공 목표 발표.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220906580202" target="_blank">경기일보(2022-09-06)</a>
+      </div>
+    </div>
+
+    <div class="event conflict" data-year="2022">
+      <div class="date">2022-08-16 <span class="date-precision">🎯</span></div>
+      <div class="title">LH-SPC-포스코건설 GMP 합의 — 그러나 LH 협의 사업비 인정 거부 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">계약 체결을 위해 LH·㈜청라시티타워·우선협상대상자 포스코건설이 협의를 진행해 최대보증금액(GMP)계약으로 합의점을 찾았으나, LH가 합의한 사업비를 인정하지 않으며 마찰 본격화. 강범석 인천 서구청장 면담에서 "조속히 추진해달라" 요청.</div>
+      <div class="sources">
+        <a href="https://www.kgnews.co.kr/news/article.html" target="_blank">경기신문(2022-08-16) 강범석 서구청장 요청</a>
+      </div>
+    </div>
+
+    <div class="event conflict" data-year="2022">
+      <div class="date">2022-10 <span class="date-precision">📅</span></div>
+      <div class="title">추가 분담금 협상 결렬 — 사업 재차 난항 <span class="badges"><span class="badge badge-C">C</span></span></div>
+      <div class="desc">LH와 SPC(㈜청라시티타워) 사이에 추가 분담 비용 문제가 정리되지 않으며, 연내 착공 불투명. LH 협약 해지 방안 검토.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보 청라 표류 회고(2022-09-26)</a>
+      </div>
+    </div>
+
+    <div class="event conflict" data-year="2022">
+      <div class="date">2022-11 <span class="date-precision">📅</span></div>
+      <div class="title">LH, 협약 해지 절차 개시 — 공사비 증액 이견 <span class="badges"><span class="badge badge-A">A</span></span></div>
+      <div class="desc">공사비 증액 이견 지속으로 LH가 SPC와의 협약 해지 절차 개시. 인천시 공식 보도자료에 명시.</div>
+      <div class="sources">
+        <a href="https://www.incheon.go.kr/mayor_8/MA040101/view?repSeq=DOM_0000000007760590" target="_blank">인천시 보도자료(2023-06-15) 협약 해지 시작 명시</a>
+      </div>
+    </div>
+
+    <div class="event conflict" data-year="2023">
+      <div class="date">2023-02-13 <span class="date-precision">🎯</span></div>
+      <div class="title">한양, 시공 납기일 미준수 — 공정률 0.74% <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">SPC 참여사 한양의 공시상 공사 진행률 0.74%, 시공사 한양은 납기일(2023-02-13)을 충족하지 못함. 공사비는 3,300억 → 5,600억으로 상승, LH는 66:34 분담 제안했으나 SPC 거부.</div>
+      <div class="sources">
+        <a href="https://www.kukinews.com/article/view/kuk202304180213" target="_blank">쿠키뉴스(2023-04-19) 시공계약 해지임박</a>
+      </div>
+    </div>
+
+    <div class="event" id="y-2023" data-year="2023">
+      <div class="date">2023-02 <span class="date-precision">📅</span></div>
+      <div class="title">LH-인천경제청 역할 재정의 합의 <span class="badges"><span class="badge badge-C">C</span></span></div>
+      <div class="desc">시티타워 건설은 LH가 담당, 관리·운영은 인천경제청이 맡는 방안에 합의.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보 청라 표류 회고(2022-09-26)</a>
+      </div>
+    </div>
+
+    <div class="event milestone conflict" data-year="2023" data-milestone="1">
+      <div class="date">2023-05 <span class="date-precision">📅</span></div>
+      <div class="title">LH ↔ ㈜청라시티타워 협약 최종 해지 — 모든 계획 초기화 <span class="badges"><span class="badge badge-A">A</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">LH가 SPC에 최종 해지 통보. 2016년 사업자 선정 이후 7년 만에 민간 협약 종결. 양측 소송으로 진행. 사업 전반 초기화.</div>
+      <div class="sources">
+        <a href="https://www.incheon.go.kr/mayor_8/MA040101/view?repSeq=DOM_0000000007760590" target="_blank">인천시 보도자료</a>
+        <a href="https://www.24news.kr/news/articleView.html?idxno=208712" target="_blank">한국뉴스</a>
+        <a href="https://www.kukinews.com/article/view/kuk202304180213" target="_blank">쿠키뉴스(2023-04-18)</a>
+      </div>
+    </div>
+
+    <div class="event milestone" data-year="2023" data-milestone="1">
+      <div class="date">2023-06-15 <span class="date-precision">🎯</span></div>
+      <div class="title">인천시-LH 새 협약 — LH 직접 시공 방식으로 전환 <span class="badges"><span class="badge badge-A">A</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">인천시청에서 유정복 인천시장과 이한준 LH 사장이 새 협약 체결. 민간사업자 방식을 폐기하고 LH가 직접 시공사를 선정해 건설, 건설 후 IFEZ가 관리·운영하는 구조로 전환. 타워 높이 448m·외관 유지.</div>
+      <div class="sources">
+        <a href="https://www.incheon.go.kr/mayor_8/MA040101/view?repSeq=DOM_0000000007760590" target="_blank">인천시 보도자료(2023-06-15)</a>
+      </div>
+    </div>
+
+    <div class="event conflict" data-year="2023">
+      <div class="date">2023-08-28 <span class="date-precision">🎯</span></div>
+      <div class="title">SPC ㈜청라시티타워, LH·IFEZ 상대 '계약자 지위 확인' 소송 제기 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">SPC ㈜청라시티타워(BS산업 컨소시엄)가 인천지방법원에 "사업협약의 계약자 지위 확인" 소송 제기. SPC 측 주장 — 공사비 급증은 LH 기본설계 오류로 인한 재설계 지연 때문이며, 협약상 타워 공사비는 LH 부담. 이후 LH는 협약 보증금·설계비 손해배상 211억원대 맞소송 준비.</div>
+      <div class="sources">
+        <a href="https://www.mkinews.com/news/articleView.html?idxno=6366" target="_blank">미디어경인(2023-08-30)</a>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="era" id="era-5">제5기 — 항공안전 검증과 재가동 (2024 ~ 2026)</div>
+  <div class="timeline">
+
+    <div class="event" id="y-2024" data-year="2024">
+      <div class="date">2024-01-25 <span class="date-precision">🎯</span></div>
+      <div class="title">LH, 신 일정 첫 발표 — 하반기 우선협상자 선정 목표 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">LH가 상반기 공사비 산정, 하반기 우선협상대상자 선정 계획 공식화.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20240125580037" target="_blank">경기일보(2024-01-25)</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2024">
+      <div class="date">2024-03 <span class="date-precision">📅</span></div>
+      <div class="title">공사 임시 가설물·통행로 철거 — 2차 착공 무기한 연기 <span class="badges"><span class="badge badge-C">C</span></span></div>
+      <div class="desc">공사차량 통행을 위한 임시 가설물과 통행로가 철거되며 2차 착공이 사실상 무기한 연기.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보 청라 표류 회고(2022-09-26)</a>
+      </div>
+    </div>
+
+    <div class="event conflict" data-year="2024">
+      <div class="date">2024-04 <span class="date-precision">📅</span></div>
+      <div class="title">서울지방항공청, 김포공항 항공로 간섭 우려 제기 — 사업 재중단 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">서울지방항공청이 청라 시티타워가 김포공항 항공로에 간섭될 수 있다며 검증 완료까지 건축 중지 요구. LH의 8월 시공사 입찰 공고 계획 중단. 2012/2017/2021년 의견조회 때는 언급 없었던 사안.</div>
+      <div class="sources">
+        <a href="https://www.khan.co.kr/article/202411042035005" target="_blank">경향신문(2024-11-04)</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2024">
+      <div class="date">2024-05-08 <span class="date-precision">🎯</span></div>
+      <div class="title">LH 서울 간담회 — 8월 입찰공고 등 신 일정 발표 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">LH가 서울에서 간담회 개최. 8월 시공사 입찰공고, 10월 현장설명회, 2025년 1월 입찰, 11월 낙찰, 2025-12 착공, 2030 완공 일정 발표(→ 이후 항공안전 문제로 모두 지연).</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보 청라 표류 회고(2022-09-26)</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2024">
+      <div class="date">2024-07-30 <span class="date-precision">🎯</span></div>
+      <div class="title">정종혁 시의원-인천경제청 영종청라사업본부장 긴급 간담회 <span class="badges"><span class="badge badge-A">A</span></span></div>
+      <div class="desc">정종혁 인천시의회 의원과 인천경제청 영종청라사업본부장이 긴급 간담회. 정 의원 "이미 건축허가를 득한 사업에 항공청이 갑작스러운 제동, 책임 물어야"라며 항공청 책임론 제기.</div>
+      <div class="sources">
+        <a href="https://www.focusincheon.com/news/articleView.html?idxno=5348" target="_blank">포커스인천(2024-07-31)</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2024">
+      <div class="date">2024-07 <span class="date-precision">📅</span></div>
+      <div class="title">서울지방항공청, 공항 관제영향 용역 발주 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">서울지방항공청이 "지역 초고층 건축물 건설에 따른 공항 비행절차 영향성" 연구용역 발주.</div>
+      <div class="sources">
+        <a href="https://www.focusincheon.com/news/articleView.html?idxno=5348" target="_blank">포커스인천(2024-07-31)</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2024">
+      <div class="date">2024-10-14 <span class="date-precision">🎯</span></div>
+      <div class="title">LH 인천지역본부 3차 경영심의 — 원안 추진 조건부 승인 <span class="badges"><span class="badge badge-A">A</span></span></div>
+      <div class="desc">LH 인천지역본부가 3차 경영심의 개최. "서울항공청 용역 결과 원안 추진이 가능할 때 청라시티타워 공사를 발주"하는 조건으로 승인.</div>
+      <div class="sources">
+        <a href="https://www.incheontoday.com/news/articleView.html?idxno=254985" target="_blank">인천투데이(2024-10-16)</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2024">
+      <div class="date">2024-12-26 <span class="date-precision">🎯</span></div>
+      <div class="title">서울항공청 1차 용역 결과 — 비행절차 변경 시 원안 가능 결론 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">서울지방항공청의 "지역 초고층 건축물 건설에 따른 공항 비행절차 영향성" 연구용역 결과: 비행절차 변경 시 원안 높이(시티타워 448m, 송도 랜드마크 420m) 건립 가능. 국토부 변경 요청 2025년 말, 비행절차 변경 승인 2026년 초 예정.</div>
+      <div class="sources">
+        <a href="https://www.kyeongin.com/article/1724091" target="_blank">경인일보(2024-12-26)</a>
+      </div>
+    </div>
+
+    <div class="event" id="y-2025" data-year="2025">
+      <div class="date">2025-02-03 <span class="date-precision">🎯</span></div>
+      <div class="title">인천경제청 활용방안 용역 준비 — 8천억 사업비 발표 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">인천경제청이 3억원 규모 활용방안 용역을 3월 착수 예정. 전망대 활용방안·내부 시설 구성안 마련. 2029년까지 8천억원 투입 목표. 사업비 변천: 2007년 3,000억 → 2024년 8,000억 → 예상 1조원대.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20250203580257" target="_blank">경기일보(2025-02-03)</a>
+        <a href="https://www.kyeonggi.com/article/20250413580245" target="_blank">경기일보(2025-04-13)</a>
+      </div>
+    </div>
+
+    <div class="event conflict" data-year="2025">
+      <div class="date">2025-04 <span class="date-precision">📅</span></div>
+      <div class="title">제주항공 참사 여파 — 추가 안전성 검증으로 시공사 입찰 중지 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">서울항공청이 제주항공 참사 이후 추가 안전성 검증 착수. 시공사 선정 입찰이 이달 예정이었으나 중지. 인천경제청의 관리·운영 용역 발주도 3월에 미뤄짐.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20250413580245" target="_blank">경기일보(2025-04-13)</a>
+      </div>
+    </div>
+
+    <div class="event" data-year="2025">
+      <div class="date">2025-06 <span class="date-precision">📅</span></div>
+      <div class="title">2차 항공안전성 검증 용역 본격 착수 (16개 항목) <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">LH가 비행 안전성 용역 본격 시작. 공항 주변 비행 제한·금지구역 영향, 관제탑 시야, 활주로 사용거리 변화, 계기비행절차 안전성 등 16개 항목 점검. 2026년 1월 완료 목표.</div>
+      <div class="sources">
+        <a href="https://www.incheontoday.com/news/articleView.html?idxno=304546" target="_blank">인천투데이</a>
+        <a href="https://www.getnews.co.kr/news/articleView.html?idxno=859362" target="_blank">겟뉴스(2026-01)</a>
+      </div>
+    </div>
+
+    <div class="event milestone" id="y-2026" data-year="2026" data-milestone="1">
+      <div class="date">2026-01-23 <span class="date-precision">🎯</span></div>
+      <div class="title">항공안전성 검증 완료 — 적합 결론 <span class="badges"><span class="badge badge-B">B</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">16개 검증 항목 모두 기준 충족. 항공기 운항 문제없음 결론. 원안 448m 건축 재개 가능.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20220926580219" target="_blank">경기일보 청라 표류 회고(2022-09-26)</a>
+        <a href="https://www.kihoilbo.co.kr/news/articleView.html?idxno=3011124" target="_blank">기호일보</a>
+      </div>
+    </div>
+
+    <div class="event milestone" data-year="2026" data-milestone="1">
+      <div class="date">2026-01-28 <span class="date-precision">🎯</span></div>
+      <div class="title">이용우 의원, 항공안전성 적합 결과 공식 보고 받음 — 원안 448m 건립 확정 <span class="badges"><span class="badge badge-A">A</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">이용우 국회의원이 서울항공청과 LH로부터 항공안전성 검증 결과 적합 보고 받음. LH는 신임 사장 임명 직후 경영심의회 개최, 실시설계·시공사 선정 절차 신속 추진 계획. 2027년 하반기 착공 예정.</div>
+      <div class="sources">
+        <a href="https://biz.heraldcorp.com/article/10664920" target="_blank">헤럴드경제(2026-01-28)</a>
+        <a href="https://www.getnews.co.kr/news/articleView.html?idxno=859362" target="_blank">겟뉴스</a>
+      </div>
+    </div>
+
+    <div class="event milestone conflict" data-year="2026" data-milestone="1">
+      <div class="date">2026-02-12 <span class="date-precision">🎯</span></div>
+      <div class="title">인천지법 1심 판결 — LH 패소, SPC 일부 승소 + LH 손배 211억 기각 <span class="badges"><span class="badge badge-A">A</span><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">인천지방법원 민사11부(이경은 부장판사)가 ㈜청라시티타워의 "계약자 지위 확인" 소송에서 원고 일부 승소 판결. 재판부 판단 — "LH가 사업협약을 해제할 사유가 있다고 보기 어렵고, 해제 통보도 적법하지 않다", "원고의 추가 사업비 분담 협의·사업구조 개선 요청이 부당하다고 볼 수 없다". 같은 날 LH가 SPC를 상대로 제기한 211억원대 손해배상 청구 소송도 기각. 2023년 5월 LH의 협약 해지가 법원에서 부적법 판단됨에 따라 LH의 단독 시공 추진 정당성 흔들림.</div>
+      <div class="sources">
+        <a href="https://www.kyeonggi.com/article/20260212580362" target="_blank">경기일보(2026-02-12)</a>
+        <a href="https://www.kyeongin.com/article/1759084" target="_blank">경인일보</a>
+        <a href="https://www.kgnews.co.kr/news/article.html?no=884636" target="_blank">경기신문</a>
+      </div>
+    </div>
+
+    <div class="event conflict" data-year="2026">
+      <div class="date">2026-02 (직후) <span class="date-precision">📅</span></div>
+      <div class="title">LH, 1심 불복 항소장 제출 — 사업 일정 올스톱 <span class="badges"><span class="badge badge-B">B</span></span></div>
+      <div class="desc">LH가 1심 판결 직후 인천고등법원에 항소장 제출. "재판부가 법리를 오인한 것으로 보인다"는 입장. 항소심 장기화 전망으로 시공사 선정, IFEZ 관리·운영 용역 등 사업 전반 일정 중단. 2027년 하반기 착공·2029년 완공 계획 불투명.</div>
+      <div class="sources">
+        <a href="https://www.joongboo.com/news/articleView.html?idxno=363721546" target="_blank">중부일보</a>
+        <a href="https://www.kyeonggi.com/article/20260212580362" target="_blank">경기일보(2026-02-12)</a>
+      </div>
+    </div>
+
+    <div class="event" id="y-2026-now" data-year="2026">
+      <div class="date">2026-05-16 (조사일 현재) <span class="date-precision">🎯</span></div>
+      <div class="title">현재 상태 — 항소심 진행 중, 시공·용역 모두 중단 <span class="badges"><span class="badge badge-MS">MS</span></span></div>
+      <div class="desc">항공안전 적합 결론(1월)으로 기술적 걸림돌은 해소됐으나, 2월 1심 LH 패소·항소로 법적 분쟁이 다시 사업의 가장 큰 변수. IFEZ는 "소송으로 관리·운영 용역 일정 멈췄다" 인정. 1차 기공식(2019-11-21)부터 6년 5개월째 본공사 미착수.</div>
+      <div class="sources">
+        <a href="https://www.joongboo.com/news/articleView.html?idxno=363721546" target="_blank">중부일보 — 항소 일정 올스톱</a>
+        <a href="https://www.kyungjeilbo.com/view/20250527074736919" target="_blank">이코노믹데일리 — 청라시티타워 10년 표류</a>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    <h3>조사 방법론</h3>
+    <p>본 타임라인은 1차 소스(공공기관 보도자료·공식 협약 발표·의회 자료)를 우선으로 하고, 언론 보도로 날짜를 핀포인트한 뒤, 위키/나무위키는 골격용으로만 사용했습니다. 동일 사건에 대한 출처가 모순될 경우 상위 신뢰등급(S>A>B>C>D)의 날짜를 채택했습니다.</p>
+
+    <h3>조사 소스</h3>
+    <ul>
+      <li>인천경제자유구역청(IFEZ) 보도자료·공모지침서·연혁</li>
+      <li>한국토지주택공사(LH) 보도자료</li>
+      <li>인천광역시 보도자료(시장실)</li>
+      <li>굿모닝인천(인천시 월간지)</li>
+      <li>인천투데이, 포커스인천, 경향신문, 경인일보, 경기일보, 헤럴드경제, 한국경제, 머니투데이, 대한경제, 대한전문건설신문, 쿠키뉴스, 기호일보, 겟뉴스, 24news</li>
+      <li>위키백과(타워 인피니티), 나무위키(청라시티타워)</li>
+    </ul>
+
+    <h3>한계와 미해결</h3>
+    <ul>
+      <li>2008년 하반기~2011년 초 약 2~3년 공백 — 1차 소스로 활동 기록을 확보하지 못함</li>
+      <li>인천시의회 회의록 site: 검색 미지표화 — 의회 차원 논의 미수집</li>
+      <li>인천지법 사건번호·정확한 1심 선고일 미확보 — 보도일(2026-02-12)을 선고일로 가정</li>
+      <li>LH 항소장 제출 정확 일자 미확보 — 보도 시점 기준 2026-02 직후로 표기</li>
+      <li>DART(전자공시) 미조회 — 한양·보성 등 상장사의 분기보고서 시점 미수집</li>
+      <li>2014-11-10 협약일 모순 미완전 해소(굿모닝인천 '10월 10일' vs IFEZ 보도자료 '11월 10일') — A등급 보도자료 채택</li>
+    </ul>
+
+    <h3>키워드</h3>
+    <p>입력 키워드: <code>인천 서구 청라 시티타워 히스토리</code></p>
+    <p>조사 도구: WebSearch(35+회), WebFetch(15+회), cmux 브라우저(나무위키 페이지 직접 추출, 보성산업 도메인 접근 실패)</p>
+  </footer>
+</div>
+
+<aside class="remote" id="remote">
+  <div class="remote-title">시기·연도 점프</div>
+
+  <div class="remote-era" data-target="era-1">제1기 구상</div>
+  <a class="remote-year has-milestone" href="#y-2006" data-year="2006"><span class="dot"></span>2006</a>
+  <a class="remote-year has-milestone" href="#y-2007" data-year="2007"><span class="dot"></span>2007</a>
+  <a class="remote-year has-milestone" href="#y-2008" data-year="2008"><span class="dot"></span>2008</a>
+
+  <div class="remote-era" data-target="era-2">제2기 답보</div>
+  <a class="remote-year has-milestone" href="#y-2011" data-year="2011"><span class="dot"></span>2011</a>
+  <a class="remote-year" href="#y-2012" data-year="2012"><span class="dot"></span>2012</a>
+  <a class="remote-year has-milestone" href="#y-2013" data-year="2013"><span class="dot"></span>2013</a>
+
+  <div class="remote-era" data-target="era-3">제3기 협약</div>
+  <a class="remote-year has-milestone" href="#y-2014" data-year="2014"><span class="dot"></span>2014</a>
+  <a class="remote-year" href="#y-2015" data-year="2015"><span class="dot"></span>2015</a>
+  <a class="remote-year" href="#y-2016" data-year="2016"><span class="dot"></span>2016</a>
+  <a class="remote-year has-milestone" href="#y-2017" data-year="2017"><span class="dot"></span>2017</a>
+
+  <div class="remote-era" data-target="era-4">제4기 분쟁</div>
+  <a class="remote-year" href="#y-2018" data-year="2018"><span class="dot"></span>2018</a>
+  <a class="remote-year has-milestone" href="#y-2019" data-year="2019"><span class="dot"></span>2019</a>
+  <a class="remote-year" href="#y-2020" data-year="2020"><span class="dot"></span>2020</a>
+  <a class="remote-year" href="#y-2021" data-year="2021"><span class="dot"></span>2021</a>
+  <a class="remote-year" href="#y-2022" data-year="2022"><span class="dot"></span>2022</a>
+  <a class="remote-year has-milestone" href="#y-2023" data-year="2023"><span class="dot"></span>2023</a>
+
+  <div class="remote-era" data-target="era-5">제5기 재가동</div>
+  <a class="remote-year" href="#y-2024" data-year="2024"><span class="dot"></span>2024</a>
+  <a class="remote-year" href="#y-2025" data-year="2025"><span class="dot"></span>2025</a>
+  <a class="remote-year has-milestone" href="#y-2026" data-year="2026"><span class="dot"></span>2026</a>
+</aside>
+
+<button class="remote-toggle" id="remoteToggle" aria-label="리모콘 토글">📅</button>
+
+<script src="assets/history.js"></script>
+</body>
+</html>
