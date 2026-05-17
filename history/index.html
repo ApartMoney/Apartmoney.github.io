@@ -2,6 +2,7 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Keyword History — 인덱스</title>
 <style>
   :root {
@@ -237,8 +238,22 @@
   }
 
   @media (max-width: 640px) {
-    .controls { grid-template-columns: 1fr; }
-    .view-toggle { justify-self: start; }
+    body { padding: 20px 14px; }
+    h1 { font-size: 24px; }
+    .subtitle { font-size: 13px; }
+    header { padding-bottom: 18px; margin-bottom: 22px; }
+    .controls { grid-template-columns: 1fr; gap: 12px; margin-bottom: 18px; }
+    .view-toggle { justify-self: stretch; width: 100%; }
+    .view-toggle button { flex: 1; padding: 11px 12px; }
+    .search-input { padding: 11px 14px 11px 38px; font-size: 15px; }
+    .filters { gap: 6px; margin-bottom: 20px; }
+    .filter-chip { padding: 7px 12px; font-size: 12px; }
+    .grid { grid-template-columns: 1fr; gap: 12px; }
+    .card { padding: 16px; }
+    .card-title { font-size: 16px; }
+    .card-summary { font-size: 13px; }
+    .graph-container { padding: 12px; }
+    svg { height: 480px; }
   }
 </style>
 </head>

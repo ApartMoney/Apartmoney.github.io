@@ -72,9 +72,51 @@
     else if (e.key === 'k' && i > 0) { e.preventDefault(); yearLinks[i - 1].click(); }
   });
 
-  const remote = document.getElementById('remote');
-  const toggle = document.getElementById('remoteToggle');
-  if (remote && toggle) {
-    toggle.addEventListener('click', () => remote.classList.toggle('show'));
+  let remote = document.getElementById('remote');
+  if (!remote) {
+    remote = document.querySelector('aside.remote');
+    if (remote && !remote.id) remote.id = 'remote';
   }
+
+  let toggle = document.getElementById('remoteToggle');
+  if (remote && !toggle) {
+    toggle = document.createElement('button');
+    toggle.id = 'remoteToggle';
+    toggle.className = 'remote-toggle';
+    toggle.setAttribute('aria-label', '연도 점프 메뉴');
+    toggle.textContent = '📅';
+    document.body.appendChild(toggle);
+  }
+
+  let backdrop = document.querySelector('.remote-backdrop');
+  if (remote && !backdrop) {
+    backdrop = document.createElement('div');
+    backdrop.className = 'remote-backdrop';
+    document.body.appendChild(backdrop);
+  }
+
+  function openRemote() {
+    if (!remote) return;
+    remote.classList.add('show');
+    if (backdrop) backdrop.classList.add('show');
+  }
+  function closeRemote() {
+    if (!remote) return;
+    remote.classList.remove('show');
+    if (backdrop) backdrop.classList.remove('show');
+  }
+
+  if (toggle) {
+    toggle.addEventListener('click', () => {
+      remote.classList.contains('show') ? closeRemote() : openRemote();
+    });
+  }
+  if (backdrop) backdrop.addEventListener('click', closeRemote);
+
+  yearLinks.forEach(a => a.addEventListener('click', () => {
+    if (window.matchMedia('(max-width: 640px)').matches) closeRemote();
+  }));
+  eraButtons.forEach(btn => btn.addEventListener('click', () => {
+    if (window.matchMedia('(max-width: 640px)').matches) closeRemote();
+  }));
 })();
