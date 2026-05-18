@@ -1,9 +1,114 @@
 {
-	"lastBuildDate":"Mon, 18 May 2026 11:30:01 +0900",
-	"total":294564,
+	"lastBuildDate":"Mon, 18 May 2026 11:40:01 +0900",
+	"total":294579,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 용유 해변, 관광복합도시로 재탄생…iH공사 18만 평 개발 본격화",
+			"originallink":"https:\/\/www.viva100.com\/article\/20260518500523",
+			"link":"https:\/\/www.viva100.com\/article\/20260518500523",
+			"description":"교통 접근성 또한 뛰어나 영종해안도로, 제2경인고속도로, <b>청라<\/b>하늘대교 등을 통해 수도권 주요 지역과의 이동이 용이하며, 용유역과도 가까워 대중교통 접근성도 우수하다. iH 관계자는 “용유 지역의 천혜 해양자원을... ",
+			"pubDate":"Mon, 18 May 2026 11:38:00 +0900"
+		},
+		{
+			"title":"인천 용유 도시개발구역 지정 고시…&quot;관광휴양 명소화&quot;",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260518_0003633906",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013951197?sid=102",
+			"description":"또 인천공항 자기부상열차 용유역과 연접해 대중교통 접근성이 우수하고 인천국제공항고속도로, 제2경인고속도로와 연계된 영종해안도로 및 <b>청라<\/b>하늘대교를 통한 광역접근성이 뛰어나다. 류윤기 iH 사장은 &quot;앞으로... ",
+			"pubDate":"Mon, 18 May 2026 11:36:00 +0900"
+		},
+		{
+			"title":"오젓용 새우 조업에 분주한 어선들",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260518076200065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016083228?sid=102",
+			"description":"18일 인천 서구 <b>청라<\/b>하늘대교 인근 바다에서 어선(꽁당 배)들이 오젓(5월에 잡은 새우로 담근 젓갈)용 새우잡이 조업을 하고 있다. 2026.5.18",
+			"pubDate":"Mon, 18 May 2026 11:35:00 +0900"
+		},
+		{
+			"title":"새우 조업에 분주한 어선들",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260518075100065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016083218?sid=102",
+			"description":"18일 인천 서구 <b>청라<\/b>하늘대교 인근 바다에서 어선(꽁당 배)들이 오젓(5월에 잡은 새우로 담근 젓갈)용 새우잡이 조업을 하고 있다. 2026.5.18",
+			"pubDate":"Mon, 18 May 2026 11:34:00 +0900"
+		},
+		{
+			"title":"봄 바다 가르는 오젓 새우 조업",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260518074300065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016083222?sid=102",
+			"description":"18일 인천 서구 <b>청라<\/b>하늘대교 인근 바다에서 어선(꽁당 배)들이 오젓(5월에 잡은 새우로 담근 젓갈)용 새우잡이 조업을 하고 있다. 2026.5.18",
+			"pubDate":"Mon, 18 May 2026 11:34:00 +0900"
+		},
+		{
+			"title":"봄 바다 가르는 오젓 새우 조업",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260518074400065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016083223?sid=102",
+			"description":"18일 인천 서구 <b>청라<\/b>하늘대교 인근 바다에서 어선(꽁당 배)들이 오젓(5월에 잡은 새우로 담근 젓갈)용 새우잡이 조업을 하고 있다. 2026.5.18",
+			"pubDate":"Mon, 18 May 2026 11:34:00 +0900"
+		},
+		{
+			"title":"새우 조업에 분주한 어선들",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260518075200065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016083219?sid=102",
+			"description":"18일 인천 서구 <b>청라<\/b>하늘대교 인근 바다에서 어선(꽁당 배)들이 오젓(5월에 잡은 새우로 담근 젓갈)용 새우잡이 조업을 하고 있다. 2026.5.18",
+			"pubDate":"Mon, 18 May 2026 11:34:00 +0900"
+		},
+		{
+			"title":"5월 바다 수놓은 오젓용 새우잡이 풍경",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260518074600065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016083225?sid=102",
+			"description":"18일 인천 서구 <b>청라<\/b>하늘대교 인근 바다에서 어선(꽁당 배)들이 오젓(5월에 잡은 새우로 담근 젓갈)용 새우잡이 조업을 하고 있다. 2026.5.18",
+			"pubDate":"Mon, 18 May 2026 11:34:00 +0900"
+		},
+		{
+			"title":"새우 조업에 분주한 어선들",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260518076000065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016083221?sid=102",
+			"description":"18일 인천 서구 <b>청라<\/b>하늘대교 인근 바다에서 어선(꽁당 배)들이 오젓(5월에 잡은 새우로 담근 젓갈)용 새우잡이 조업을 하고 있다. 2026.5.18",
+			"pubDate":"Mon, 18 May 2026 11:34:00 +0900"
+		},
+		{
+			"title":"5월 바다 수놓은 오젓용 새우잡이 풍경",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260518074800065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016083227?sid=102",
+			"description":"18일 인천 서구 <b>청라<\/b>하늘대교 인근 바다에서 어선(꽁당 배)들이 오젓(5월에 잡은 새우로 담근 젓갈)용 새우잡이 조업을 하고 있다. 2026.5.18",
+			"pubDate":"Mon, 18 May 2026 11:34:00 +0900"
+		},
+		{
+			"title":"봄 바다 가르는 오젓 새우 조업 풍경",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260518074500065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016083224?sid=102",
+			"description":"18일 인천 서구 <b>청라<\/b>하늘대교 인근 바다에서 어선(꽁당 배)들이 오젓(5월에 잡은 새우로 담근 젓갈)용 새우잡이 조업을 하고 있다. 2026.5.18",
+			"pubDate":"Mon, 18 May 2026 11:34:00 +0900"
+		},
+		{
+			"title":"5월 바다 수놓은 오젓용 새우잡이 풍경",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260518075000065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016083217?sid=102",
+			"description":"18일 인천 서구 <b>청라<\/b>하늘대교 인근 바다에서 어선(꽁당 배)들이 오젓(5월에 잡은 새우로 담근 젓갈)용 새우잡이 조업을 하고 있다. 2026.5.18",
+			"pubDate":"Mon, 18 May 2026 11:34:00 +0900"
+		},
+		{
+			"title":"새우 조업에 분주한 어선들",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260518075300065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016083220?sid=102",
+			"description":"18일 인천 서구 <b>청라<\/b>하늘대교 인근 바다에서 어선(꽁당 배)들이 오젓(5월에 잡은 새우로 담근 젓갈)용 새우잡이 조업을 하고 있다. 2026.5.18",
+			"pubDate":"Mon, 18 May 2026 11:34:00 +0900"
+		},
+		{
+			"title":"5월 바다 수놓은 오젓용 새우잡이 풍경",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260518074700065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016083226?sid=102",
+			"description":"18일 인천 서구 <b>청라<\/b>하늘대교 인근 바다에서 어선(꽁당 배)들이 오젓(5월에 잡은 새우로 담근 젓갈)용 새우잡이 조업을 하고 있다. 2026.5.18",
+			"pubDate":"Mon, 18 May 2026 11:34:00 +0900"
+		},
+		{
+			"title":"인천 용유 도시개발구역 지정 고시…매머드급 관광휴양도시 눈길",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6518698?utm_source=naver&utm_medium=article&utm_campaign=20260518113121",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0004147941?sid=102",
+			"description":"또한 용유역과 인접해 대중교통 접근성이 뛰어나고, 인천국제공항고속도로와 제2경인고속도로, 영종해안도로 및 <b>청라<\/b>하늘대교 등을 통한 광역교통망도 갖췄다. 류윤기 iH 사장은 &quot;사업 추진 과정에서 지방자치단체와... ",
+			"pubDate":"Mon, 18 May 2026 11:32:00 +0900"
+		},
 		{
 			"title":"파라다이스·인스파이어 잇는 용유 개발 확정",
 			"originallink":"https:\/\/www.sedaily.com\/article\/20045290?ref=naver",
@@ -47,17 +152,17 @@
 			"pubDate":"Mon, 18 May 2026 11:11:00 +0900"
 		},
 		{
-			"title":"토허제 이후 수도권 매수세 이동 본격화 &quot;서울 막히자 경기로…&quot;",
-			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=733780",
-			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=733780",
-			"description":"이중 인천 서구는 <b>청라<\/b>국제도시와 검단신도시 중심으로 수요 유입이 이어졌다. <b>청라<\/b>동 거래량은 489건, 당하동 403건, 원당동 345건으로 나타났다. 단지별로는 △우미린더시그니처 47건 △검단신도시한신더휴캐널파크... ",
-			"pubDate":"Mon, 18 May 2026 11:00:00 +0900"
-		},
-		{
 			"title":"사회민주당 인천시당 창당보고대회 개최 &quot;인천 불평등 부수겠다&quot;",
 			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=318989",
 			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=318989",
 			"description":"이어 &quot;송도와 <b>청라<\/b>는 빛나지만, 미추홀과 부평, 제물포구의 골목은 여전히 어둡다. 인천의 불평등을 부수는 정치를 보이겠다. 인천을 시민기본서비스가 완비된 도시, 청년이 자랑스러워할 도시로 만들겠다&quot;고 강조했다.... ",
+			"pubDate":"Mon, 18 May 2026 11:00:00 +0900"
+		},
+		{
+			"title":"토허제 이후 수도권 매수세 이동 본격화 &quot;서울 막히자 경기로…&quot;",
+			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=733780",
+			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=733780",
+			"description":"이중 인천 서구는 <b>청라<\/b>국제도시와 검단신도시 중심으로 수요 유입이 이어졌다. <b>청라<\/b>동 거래량은 489건, 당하동 403건, 원당동 345건으로 나타났다. 단지별로는 △우미린더시그니처 47건 △검단신도시한신더휴캐널파크... ",
 			"pubDate":"Mon, 18 May 2026 11:00:00 +0900"
 		},
 		{
@@ -108,111 +213,6 @@
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1257277",
 			"description":"경찰에 따르면 A씨는 지난 13일 오전 5시 30분께 인천 서구 <b>청라<\/b>동 한 아파트 세대 현관문에 페인트를 칠하고 계란 등 음식물을 뿌린 혐의를 받고 있다. 경찰 조사 결과 A씨는 텔레그램을 통해 범행 의뢰를 받고 착수금... ",
 			"pubDate":"Mon, 18 May 2026 10:28:00 +0900"
-		},
-		{
-			"title":"사회민주당 인천시당, 창당보고대회 개최…&quot;지역 정치 활동 본격화&quot;",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1323074",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1323074",
-			"description":"김 위원장은 &quot;사회민주당은 오래된 간판도, 지켜야 할 기득권도 없는 신생 정당&quot;이라며 &quot;송도와 <b>청라<\/b>는 빛나지만 미추홀과 부평, 제물포구 골목은 여전히 어둡다. 인천의 불평등을 부수는 정치를 보여드리겠다&quot;고 포부를... ",
-			"pubDate":"Mon, 18 May 2026 10:00:00 +0900"
-		},
-		{
-			"title":"[심층진단⑥]‘반복되는 종합병원 공약’… 유정복, 영종 주민과의 ‘3...",
-			"originallink":"https:\/\/biz.heraldcorp.com\/article\/10739801?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002644700?sid=100",
-			"description":"응급환자가 발생하면 생명 보존을 위한 ‘골든타임’은 꿈도 꾸지 못한 채, 인천대교와 영종대교, <b>청라<\/b>하늘대교를 건너 인천 내륙의 종합병원으로 가야만 한다. 이 과정에서 골든타임을 놓쳐 생명을 앗아가는 안타까운... ",
-			"pubDate":"Mon, 18 May 2026 09:53:00 +0900"
-		},
-		{
-			"title":"'검암역자이르네' 견본주택에 1만여 방문객 몰려… 27일 1순위 청약",
-			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=334638",
-			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=334638",
-			"description":"및 <b>청라<\/b> 생활권을 함께 누릴 수 있고 단지 설계도 기대 이상으로 잘 나와 청약을 넣어볼 계획&quot;이라고... 공항철도를 이용하면 마곡, 여의도 등 서울 주요 업무지구 접근이 가능하며, 인천지하철 2호선을 통해 <b>청라<\/b>, 검단... ",
-			"pubDate":"Mon, 18 May 2026 09:50:00 +0900"
-		},
-		{
-			"title":"올해 경기·인천 아파트 거래 33% 증가…분당·과천 줄고 구리·동탄 늘...",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2585324",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2585324",
-			"description":"서구는 <b>청라<\/b>국제도시와 검단신도시를 중심으로 거래가 늘었다. <b>청라<\/b>동 489건, 당하동 403건, 원당동 345건 순으로 거래가 많았다. 부평구는 1·7호선 환승 역세권 중심의 중저가 실수요 거래가 이어졌고 연수구는... ",
-			"pubDate":"Mon, 18 May 2026 09:36:00 +0900"
-		},
-		{
-			"title":"송파구 '리센츠' 33평, 7.4억 떨어진 28.6억원에 거래 [일일 하락가]",
-			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=202605180930399820b372994c95_18",
-			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=202605180930399820b372994c95_18",
-			"description":"◇ 인천, <b>청라<\/b>·부평 하락 거래 이어져 서구 <b>청라<\/b>동 ‘대우푸르지오’ 120.31㎡는 5월 8일 10억4500만원에 거래됐다. 직전 거래가 11억4000만원 대비 9500만원(8.3%) 하락했다. 부평구 삼산동... ",
-			"pubDate":"Mon, 18 May 2026 09:34:00 +0900"
-		},
-		{
-			"title":"유정복 &quot;세계 초일류 도시 인천의 완성 책임질 것&quot;",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=117941",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=117941",
-			"description":"송도, 영종, <b>청라<\/b> 등 기존 경제자유구역을 넘어 강화 남단을 새로운 성장축으로 지정하고, F1 인천 그랑프리... 저는 이미 인천발 KTX, 서울지하철 7호선 <b>청라<\/b> 연장 등을 통해 안 된다고 했던 일들을 국가 계획에 올리고... ",
-			"pubDate":"Mon, 18 May 2026 09:28:00 +0900"
-		},
-		{
-			"title":"대출규제 풍선효과…수도권 비규제지역 아파트 거래량 '쑥'",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20260518500027",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20260518500027",
-			"description":"서구는 <b>청라<\/b>국제도시와 검단신도시를 중심으로 수요 유입이 이어지며 매수세를 뒷받침하고 있다. <b>청라<\/b>동 489건, 당하동 403건, 원당동 345건으로 거래가 많았다. 특히 우미린더시그니처 47건... ",
-			"pubDate":"Mon, 18 May 2026 09:20:00 +0900"
-		},
-		{
-			"title":"경기·인천 아파트 거래 33% 증가…구리·동탄·기흥 매수세 확대",
-			"originallink":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=134132",
-			"link":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=134132",
-			"description":"서구는 <b>청라<\/b>국제도시와 검단신도시를 중심으로 수요 유입이 이어지며 매수세를 뒷받침했다. 동별로는 <b>청라<\/b>동 489건, 당하동 403건, 원당동 345건으로 거래가 많았다. 단지별로는 우미린더시그니처가 47건... ",
-			"pubDate":"Mon, 18 May 2026 09:12:00 +0900"
-		},
-		{
-			"title":"&quot;서울 살 곳 찾기 힘드네&quot;…올해 경기·인천 아파트 매매 급증",
-			"originallink":"https:\/\/www.hankyung.com\/article\/2026051824626",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005288024?sid=101",
-			"description":"서구는 <b>청라<\/b>국제도시와 검단신도시를 중심으로 수요 유입이 이어지며 매수세를 뒷받침하고 있다. <b>청라<\/b>동 489건, 당하동 403건, 원당동 345건으로 거래가 많았다. 특히 우미린더시그니처 47건... ",
-			"pubDate":"Mon, 18 May 2026 09:04:00 +0900"
-		},
-		{
-			"title":"손화정 “영종 공공의료·GTX·환승관광까지 도시 체질 바꾸겠다”",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1645221\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0003091413?sid=102",
-			"description":"손 후보는 “서울 접근성 개선은 단순한 교통 문제가 아니라 도시 미래 경쟁력의 문제”라며 “<b>청라<\/b>하늘대교개통 이후 변화하는 교통 흐름에 맞춰 BRT와 순환교통망, 수요응답형 교통체계도 단계적으로 구축하겠다”고... ",
-			"pubDate":"Mon, 18 May 2026 09:01:00 +0900"
-		},
-		{
-			"title":"1~4월 경기·인천 아파트 거래 33% 증가…증가율 1위는 ‘구리’",
-			"originallink":"https:\/\/www.chosun.com\/economy\/real_estate\/2026\/05\/18\/QSWGXO2AMBCKDAJ36U7HOPWLJQ\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003977006?sid=101",
-			"description":"인천 역시 전년 동기 대비 거래량이 9030건에서 1만472건으로 16% 늘어난 가운데, <b>청라<\/b>·검단신도시가 속한 서구(34%)와 부평구(34%), 송도국제도시가 있는 연수구(24%) 등 정주 여건이 우수한 주요 3구가 상승세를... ",
-			"pubDate":"Mon, 18 May 2026 08:34:00 +0900"
-		},
-		{
-			"title":"인천 루원·가정지구 주민들, '상업용지 방치 해결' 등 현안 해결 촉구",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=117994",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=117994",
-			"description":"확충 ▲서울7호선 <b>청라<\/b>연장선 역명 주민 제안 반영 등이다. 루원시티 상업3용지의 경우, 주민들은 건설사가... 또 현재 건설 중인 서울도시철도 7호선 <b>청라<\/b>연장선 구간 중 지역 내에 위치할 '002역'과 '002-1역'의 역명 결정에... ",
-			"pubDate":"Mon, 18 May 2026 08:18:00 +0900"
-		},
-		{
-			"title":"GTX·바이오·원도심 재생까지…與·野 인천시장 후보 ‘미래 인천’ 공...",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1645018\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0003091393?sid=102",
-			"description":"경제 분야에서는 송도 바이오산업과 미래 모빌리티 산업 육성, <b>청라<\/b>·영종 경제자유구역 활성화, 스타트업... 강화, <b>청라<\/b> 미래산업 육성 등을 주요 공약으로 내세웠다. 특히 GTX-D·E 노선과 서울 9호선·7호선 연계 확대... ",
-			"pubDate":"Mon, 18 May 2026 07:20:00 +0900"
-		},
-		{
-			"title":"[Who Is ?] 박승일 서울아산병원장",
-			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=437119",
-			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=437119",
-			"description":"2025년 12월 착공한 서울아산<b>청라<\/b>병원의 본격적인 공사를 진행하며, 두바이 소화기전문병원 개원 등 해외... △서울아산<b>청라<\/b>병원 착공, 인천에 국내 최대 의료복합타운 조성 인천 <b>청라<\/b>국제도시에 800병상 규모의... ",
-			"pubDate":"Mon, 18 May 2026 07:02:00 +0900"
-		},
-		{
-			"title":"&quot;배달인 줄&quot; 현관문 '계란 범벅'…이 대통령도 '경고'",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1008566076&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001356911?sid=102",
-			"description":"인천 서부경찰서에 따르면 지난 13일 오전 3시쯤 서구 <b>청라<\/b>동 모 아파트 세대 앞 현관문에 누군가 페인트칠을 하고 계란을 비롯한 음식물을 뿌렸다는 신고가 경찰에 들어왔습니다. 경찰은 30대 피해자 A 씨에게 악감정을... ",
-			"pubDate":"Mon, 18 May 2026 06:50:00 +0900"
 		}
 	]
 }
