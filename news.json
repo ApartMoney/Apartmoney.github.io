@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 18 May 2026 09:10:01 +0900",
-	"total":294541,
+	"lastBuildDate":"Mon, 18 May 2026 09:20:00 +0900",
+	"total":294542,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"경기·인천 아파트 거래 33% 증가…구리·동탄·기흥 매수세 확대",
+			"originallink":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=134132",
+			"link":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=134132",
+			"description":"서구는 <b>청라<\/b>국제도시와 검단신도시를 중심으로 수요 유입이 이어지며 매수세를 뒷받침했다. 동별로는 <b>청라<\/b>동 489건, 당하동 403건, 원당동 345건으로 거래가 많았다. 단지별로는 우미린더시그니처가 47건... ",
+			"pubDate":"Mon, 18 May 2026 09:12:00 +0900"
+		},
 		{
 			"title":"&quot;서울 살 곳 찾기 힘드네&quot;…올해 경기·인천 아파트 매매 급증",
 			"originallink":"https:\/\/www.hankyung.com\/article\/2026051824626",
@@ -194,13 +201,6 @@
 			"pubDate":"Sun, 17 May 2026 11:00:00 +0900"
 		},
 		{
-			"title":"인천 서구, <b>청라<\/b> 중심 해사국제상사법원 유치 전략 강조",
-			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5021426",
-			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5021426",
-			"description":"인천 서구(을) 이용우 국회의원(민)이 <b>청라<\/b>국제도시의 경쟁력을 앞세워 해사국제상사법원 유치전에 속도를 내고 있다. 17일 서구에 따르면 이용우 의원은 <b>청라<\/b> 파이낸스센터 현장을 직접 찾아 해사국제상사법원... ",
-			"pubDate":"Sun, 17 May 2026 10:32:00 +0900"
-		},
-		{
 			"title":"보복 대행, 30만원 받고 아파트 현관에 ‘오물 테러’…20대 검거",
 			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1259001.html",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002805390?sid=102",
@@ -208,11 +208,11 @@
 			"pubDate":"Sun, 17 May 2026 10:32:00 +0900"
 		},
 		{
-			"title":"인천서 현관문에 페인트칠·계란 투척 ‘보복대행’ 20대 구속영장",
-			"originallink":"https:\/\/www.khan.co.kr\/article\/202605171013001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003446113?sid=101",
-			"description":"A씨는 지난 13일 오전 5시 30분쯤 서구 <b>청라<\/b>동의 한 아파트 현관문에 페인트칠하고 계란 등 음식물을 뿌린... 앞서 지난 1월 인천 서구 <b>청라<\/b>동에서는 “투자 사기 피해를 신고했다”며 각각 40만원씩을 받고 오피스텔... ",
-			"pubDate":"Sun, 17 May 2026 10:13:00 +0900"
+			"title":"인천 서구, <b>청라<\/b> 중심 해사국제상사법원 유치 전략 강조",
+			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5021426",
+			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5021426",
+			"description":"인천 서구(을) 이용우 국회의원(민)이 <b>청라<\/b>국제도시의 경쟁력을 앞세워 해사국제상사법원 유치전에 속도를 내고 있다. 17일 서구에 따르면 이용우 의원은 <b>청라<\/b> 파이낸스센터 현장을 직접 찾아 해사국제상사법원... ",
+			"pubDate":"Sun, 17 May 2026 10:32:00 +0900"
 		}
 	]
 }
