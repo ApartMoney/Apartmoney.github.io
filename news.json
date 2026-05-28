@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Thu, 28 May 2026 09:30:01 +0900",
-	"total":295247,
+	"lastBuildDate":"Thu, 28 May 2026 09:40:01 +0900",
+	"total":295253,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융그룹, 인천 서구 강남시장서 행복상자 나눔 활동",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1525772",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1525772",
+			"description":"오는 9월 <b>청라<\/b> 하나드림타운 완공을 앞두고 실시되는 사회 공헌활동의 일환으로 임직원 30여 명이 참여했다고 덧붙였습니다. 임직원들은 일상 속 환경보호 활동인 줍깅을 실시하고 소상공인들에게 고무장갑, 주방세제... ",
+			"pubDate":"Thu, 28 May 2026 09:38:00 +0900"
+		},
+		{
+			"title":"삼성물산, AI 시니어 리빙 솔루션 제시",
+			"originallink":"https:\/\/www.arunews.com\/news\/articleView.html?idxno=63080",
+			"link":"https:\/\/www.arunews.com\/news\/articleView.html?idxno=63080",
+			"description":"양사는 이번 도입 후 축적되는 운영 데이터를 토대로 AI 솔루션을 더욱 발전시켜 더시그넘하우스 <b>청라<\/b>를 비롯해 도타이가 신축을 검토 중인 하남·평택 시설 등으로의 확대 적용도 함께 논의해 갈 예정이다. 한편... ",
+			"pubDate":"Thu, 28 May 2026 09:38:00 +0900"
+		},
+		{
+			"title":"삼성물산, 'AI 시니어 리빙 솔루션' 더시그넘하우스 강남에 도입",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260528_0003646844",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0013971874?sid=101",
+			"description":"양사는 향후 운영 데이터를 기반으로 솔루션을 고도화하고 '더시그넘하우스 <b>청라<\/b>'와 하남·평택 등 신규 검토 사업지로 적용을 확대할 계획이다. 한편 삼성물산은 지난 3월 경기 의왕시 메디컬 복합시설 개발 사업과... ",
+			"pubDate":"Thu, 28 May 2026 09:30:00 +0900"
+		},
+		{
+			"title":"삼성물산, '더시그넘하우스 강남'에 'AI 시니어 리빙 솔루션' 도입",
+			"originallink":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=112296",
+			"link":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=112296",
+			"description":"양사는 향후 축적되는 운영 데이터를 바탕으로 솔루션을 고도화하고, '더시그넘하우스 <b>청라<\/b>'를 비롯해 도타이가 신규 검토 중인 하남, 평택 시설 등으로의 확대 적용을 논의할 방침이다. 한편, 삼성물산은 앞서 지난 3월... ",
+			"pubDate":"Thu, 28 May 2026 09:30:00 +0900"
+		},
+		{
+			"title":"하나금융, 인천 전통시장서 '행복상자 나눔·줍깅' 봉사활동 실시",
+			"originallink":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=669700",
+			"link":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=669700",
+			"description":"<b>청라<\/b>국제도시 이전을 앞두고 지역사회와 연계한 ESG 활동을 확대하고 있다. 하나금융은 27일 인천 서구 강남시장 일대에서 '행복상자 나눔 및 줍깅' 임직원 봉사활동을 실시했다고 28일 밝혔다. 이번 활동은 9월 인천 <b>청라<\/b>국... ",
+			"pubDate":"Thu, 28 May 2026 09:30:00 +0900"
+		},
+		{
+			"title":"삼성물산, 강남 프리미엄 시니어 레지던스에 'AI 리빙 솔루션' 적용",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20260528000172",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20260528000172",
+			"description":"'더시그넘하우스 <b>청라<\/b>'를 비롯해 도타이가 신축을 검토 중인 하남·평택 시설 등으로의 확대 적용도 함께... 이번 도입 이후 축적된 데이터를 바탕으로 솔루션을 고도화하고, <b>청라<\/b>를 비롯해 하남·평택 등 신규 시니어... ",
+			"pubDate":"Thu, 28 May 2026 09:28:00 +0900"
+		},
 		{
 			"title":"하나금융그룹, 인천 강남시장서 임직원 30여명 '줍깅'·행복상자 전달 ...",
 			"originallink":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=577653",
@@ -26,17 +68,17 @@
 			"pubDate":"Thu, 28 May 2026 09:26:00 +0900"
 		},
 		{
-			"title":"하나금융, 인천 전통시장서 '행복상자 나눔 및 줍깅' 봉사활동",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260528037400002?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016103524?sid=101",
-			"description":"이번 봉사활동은 오는 9월 인천 <b>청라<\/b>국제도시에 '하나드림타운' 완공을 앞둔 하나금융이 진행하는 인천지역 사회공헌활동의 일환이다. 이날 봉사활동에는 하나금융그룹 임직원 30여명이 참여해 곳곳에 버려진 쓰레기를... ",
-			"pubDate":"Thu, 28 May 2026 09:23:00 +0900"
-		},
-		{
 			"title":"삼성물산, 더시그넘하우스 강남에 'AI 시니어 리빙 솔루션' 적용",
 			"originallink":"https:\/\/thetracker.co.kr\/View.aspx?No=4093386",
 			"link":"https:\/\/thetracker.co.kr\/View.aspx?No=4093386",
 			"description":"양사는 이번 도입 후 축적되는 운영 데이터를 토대로 AI 솔루션을 더욱 발전시켜 '더시그넘하우스 <b>청라<\/b>'를 비롯해 도타이가 신축을 검토 중인 하남·평택 시설 등으로의 확대 적용도 함께 논의해 갈 예정이다. 조혜정... ",
+			"pubDate":"Thu, 28 May 2026 09:23:00 +0900"
+		},
+		{
+			"title":"하나금융, 인천 전통시장서 '행복상자 나눔 및 줍깅' 봉사활동",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260528037400002?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016103524?sid=101",
+			"description":"이번 봉사활동은 오는 9월 인천 <b>청라<\/b>국제도시에 '하나드림타운' 완공을 앞둔 하나금융이 진행하는 인천지역 사회공헌활동의 일환이다. 이날 봉사활동에는 하나금융그룹 임직원 30여명이 참여해 곳곳에 버려진 쓰레기를... ",
 			"pubDate":"Thu, 28 May 2026 09:23:00 +0900"
 		},
 		{
@@ -54,17 +96,17 @@
 			"pubDate":"Thu, 28 May 2026 09:20:00 +0900"
 		},
 		{
-			"title":"삼성물산, 프리미엄 시니어 레지던스에 AI 돌봄 솔루션 도입",
-			"originallink":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=135117",
-			"link":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=135117",
-			"description":"향후 솔루션 도입 과정에서 쌓이는 운영 데이터를 기반으로 AI 기능을 고도화할 계획이다. 또 더시그넘하우스 <b>청라<\/b>를 비롯해 도타이가 신축을 검토 중인 하남·평택 시설 등으로 확대 적용하는 방안도 논의할 예정이다.",
-			"pubDate":"Thu, 28 May 2026 09:18:00 +0900"
-		},
-		{
 			"title":"하나금융, 인천 전통시장 인근서 임직원 봉사활동 실시",
 			"originallink":"https:\/\/www.ddaily.co.kr\/page\/view\/2026052809170340706",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002229129?sid=101",
 			"description":"이번 봉사활동은 올해 9월 인천 <b>청라<\/b>국제도시에 ‘하나드림타운’ 완공을 앞둔 하나금융이 추진 중인 인천지역 사회공헌활동의 일환이다. 지난달 실시된 인천 연희노인문화센터 벽화조성 봉사활동에 이어 진행된 릴레이... ",
+			"pubDate":"Thu, 28 May 2026 09:18:00 +0900"
+		},
+		{
+			"title":"삼성물산, 프리미엄 시니어 레지던스에 AI 돌봄 솔루션 도입",
+			"originallink":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=135117",
+			"link":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=135117",
+			"description":"향후 솔루션 도입 과정에서 쌓이는 운영 데이터를 기반으로 AI 기능을 고도화할 계획이다. 또 더시그넘하우스 <b>청라<\/b>를 비롯해 도타이가 신축을 검토 중인 하남·평택 시설 등으로 확대 적용하는 방안도 논의할 예정이다.",
 			"pubDate":"Thu, 28 May 2026 09:18:00 +0900"
 		},
 		{
@@ -82,17 +124,17 @@
 			"pubDate":"Thu, 28 May 2026 09:14:00 +0900"
 		},
 		{
-			"title":"인천시 '생생시정 현장견학' 6월 재개",
-			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2433675",
-			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2433675",
-			"description":"특히 세계 최고 높이의 '<b>청라<\/b>하늘대교 전망대' 개방과 함께 인천의 야경을 즐길 수 있는 야간 특화코스가... 가장 큰 변화는 북부권역의 새로운 랜드마크로 떠오른 '<b>청라<\/b>하늘대교 전망대' 연계 프로그램이다. 세계 최고... ",
-			"pubDate":"Thu, 28 May 2026 09:10:00 +0900"
-		},
-		{
 			"title":"인천 <b>청라<\/b>하늘대교 전망대부터 계양 아라온까지…인천시 야간 견학 운영",
 			"originallink":"https:\/\/www.viva100.com\/article\/20260528500102",
 			"link":"https:\/\/www.viva100.com\/article\/20260528500102",
 			"description":"올해는 <b>청라<\/b>하늘대교 전망대와 계양 아라온을 연결한 야간 특화코스를 새롭게 추가해 시민들이 인천의... <b>청라<\/b>하늘대교 주탑에 위치한 ‘더 스카이 184’는 높이 184.2m로 세계 최고 높이를 자랑하는 전망대다. 전망대는... ",
+			"pubDate":"Thu, 28 May 2026 09:10:00 +0900"
+		},
+		{
+			"title":"인천시 '생생시정 현장견학' 6월 재개",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2433675",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2433675",
+			"description":"특히 세계 최고 높이의 '<b>청라<\/b>하늘대교 전망대' 개방과 함께 인천의 야경을 즐길 수 있는 야간 특화코스가... 가장 큰 변화는 북부권역의 새로운 랜드마크로 떠오른 '<b>청라<\/b>하늘대교 전망대' 연계 프로그램이다. 세계 최고... ",
 			"pubDate":"Thu, 28 May 2026 09:10:00 +0900"
 		},
 		{
@@ -152,17 +194,17 @@
 			"pubDate":"Thu, 28 May 2026 08:48:00 +0900"
 		},
 		{
-			"title":"삼성물산, '더시그넘하우스 강남'에 AI 시니어 리빙 솔루션 적용",
-			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=455819",
-			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=455819",
-			"description":"양사는 향후 운영 과정에서 축적되는 데이터를 기반으로 AI 기능을 고도화하고, '더시그넘하우스 <b>청라<\/b>'를 비롯해 도타이가 신규 개발을 검토 중인 하남·평택 시설까지 적용 범위를 확대하는 방안도 검토할 예정이다.... ",
-			"pubDate":"Thu, 28 May 2026 08:46:00 +0900"
-		},
-		{
 			"title":"삼성물산 건설부문, 시니어 주거 분야 새 기준 만든다..‘프리미엄 시니...",
 			"originallink":"https:\/\/kpenews.com\/View.aspx?No=4093330",
 			"link":"https:\/\/kpenews.com\/View.aspx?No=4093330",
 			"description":"양사는 이번 도입 후 축적되는 운영 데이터를 토대로 AI 솔루션을 더욱 발전시켜 ‘더시그넘하우스 <b>청라<\/b>’를 비롯해 도타이가 신축을 검토 중인 하남·평택 시설 등으로의 확대 적용도 함께 논의해 갈 예정이다. 도타이... ",
+			"pubDate":"Thu, 28 May 2026 08:46:00 +0900"
+		},
+		{
+			"title":"삼성물산, '더시그넘하우스 강남'에 AI 시니어 리빙 솔루션 적용",
+			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=455819",
+			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=455819",
+			"description":"양사는 향후 운영 과정에서 축적되는 데이터를 기반으로 AI 기능을 고도화하고, '더시그넘하우스 <b>청라<\/b>'를 비롯해 도타이가 신규 개발을 검토 중인 하남·평택 시설까지 적용 범위를 확대하는 방안도 검토할 예정이다.... ",
 			"pubDate":"Thu, 28 May 2026 08:46:00 +0900"
 		},
 		{
@@ -171,48 +213,6 @@
 			"link":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=87368",
 			"description":"더시그넘하우스 <b>청라<\/b>를 비롯해 도타이가 신축을 검토 중인 하남과 평택 시설 등으로 확대 적용하는 방안도 논의할 예정입니다. 한편 삼성물산은 지난 3월 경기 의왕 소재 메디컬 컴플렉스 신축 개발사와 AI 시니어 리빙... ",
 			"pubDate":"Thu, 28 May 2026 08:46:00 +0900"
-		},
-		{
-			"title":"6호 태풍 장미 현재 위치 및 예상경로 등 전국 오늘의 날씨 및 주말날씨...",
-			"originallink":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=421595",
-			"link":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=421595",
-			"description":"- 특히, 해안에 위치한 교량(인천대교, 영종대교, <b>청라<\/b>하늘대교, 서해대교 등)과 강이나 호수, 골짜기에 인접한 도로에서는 주변보다 안개가 더욱 짙게 끼겠고, 짙은 안개로 인해 이슬비가 내리는 곳도 있겠으니... ",
-			"pubDate":"Thu, 28 May 2026 07:54:00 +0900"
-		},
-		{
-			"title":"화끈, 바삭, 달콤하게 '대구' 4색 미식 로드",
-			"originallink":"https:\/\/www.travie.com\/news\/articleView.html?idxno=55635",
-			"link":"https:\/\/www.travie.com\/news\/articleView.html?idxno=55635",
-			"description":"고소한 돼지고기와 훈연 풍미가 일품 ■여행의 핵심, 중구에서 즐기는 돈가스 로드 대구 중구는 동성로, 약령시, <b>청라<\/b>언덕, 삼덕동 등 대구 여행의 심장과도 같은 곳이다. 젊은 여행자와 가족 단위 방문객의 발길이 끊이지... ",
-			"pubDate":"Thu, 28 May 2026 07:40:00 +0900"
-		},
-		{
-			"title":"김광현-최정 없는 SSG 미리보기→꼴찌 다툴 최하위권 팀… 이래도 샐러...",
-			"originallink":"https:\/\/www.spotvnews.co.kr\/news\/articleView.html?idxno=819358",
-			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/477\/0000610823",
-			"description":"그렇게라도 응급 처치를 안 하면 <b>청라<\/b>돔 시대 시작부터 내리 3~5년 동안 하위권을 전전하는 최악의 시나리오 맞이할 수밖에 없다. 전광판에 적힌 주축 선수들의 성적을 읽을 수 있는 교육만 받았다면 이는 결코 과장된... ",
-			"pubDate":"Thu, 28 May 2026 06:16:00 +0900"
-		},
-		{
-			"title":"“<b>청라<\/b>하늘대교 보행로 자물쇠 내일까지 풀어라”",
-			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20260528\/134004538\/2",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003722775?sid=102",
-			"description":"세계에서 가장 높은 해상교량 전망대로 기네스북에 오른 인천 <b>청라<\/b>하늘대교 관광시설이 이달 개장했지만, 주... 26일 오전 찾은 인천 <b>청라<\/b>하늘대교 전망대 입구. 전망대로 갈 수 있는 해상 보행로 출입문은 자물쇠가 채워진... ",
-			"pubDate":"Thu, 28 May 2026 04:34:00 +0900"
-		},
-		{
-			"title":"이틀째 열차 운행 차질...국토부 &quot;이번 주 복구 목표&quot;",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202605272241368480",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002358773?sid=102",
-			"description":"[한 선 \/ 인천 <b>청라<\/b>동 : 우리가 포항으로 가는 오전 9시 23분 표를 예약해서 가기로 돼 있었고 나와서 출발만 기다리고 있는데 지금 취소 문자가 떴어요. 포항이 오후 2시 33분밖에 없네.] [김연옥 \/ 경기 고양시 중산동 : 아... ",
-			"pubDate":"Wed, 27 May 2026 22:41:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>경제자유구역, 외국인직접투자 성적 '초라'",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1323874",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1323874",
-			"description":"▲ 인천 <b>청라<\/b>국제도시 전경. \/인천일보 DB 경제자유구역 지정 20여년이 지나도록 <b>청라<\/b>국제도시는 외국인투자 유치에서 세 구역 중 가장 저조한 성적에 머물고 있다. 외자 유치라는 경제자유구역 본연의 기능을 제대로... ",
-			"pubDate":"Wed, 27 May 2026 20:56:00 +0900"
 		}
 	]
 }
