@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 29 May 2026 04:10:01 +0900",
-	"total":295401,
+	"lastBuildDate":"Fri, 29 May 2026 04:20:01 +0900",
+	"total":295402,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"날씨, 서울·대구 28도 &quot;기온 올라&quot; 주말날씨→30도 웃돌아",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3594872",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3594872",
+			"description":"특히, 해안에 위치한 교량(인천대교, 영종대교, <b>청라<\/b>하늘대교, 서해대교 등)과 강이나 호수, 골짜기에 인접한 도로에서는 주변보다 안개가 더욱 짙게 끼겠다. 29일 아침최저기온은 서울 17℃, 인천 16℃, 수원... ",
+			"pubDate":"Fri, 29 May 2026 04:10:00 +0900"
+		},
 		{
 			"title":"&quot;인천 야경 만끽하세요&quot; 인천시, 6월 4일부터 '생생시정 현장견학' 재개",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=707689",
@@ -166,13 +173,6 @@
 			"pubDate":"Thu, 28 May 2026 17:24:00 +0900"
 		},
 		{
-			"title":"하나금융 임직원 30여 명, 인천 석남체육공원·강남시장 일대 '줍깅' 환...",
-			"originallink":"https:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=385215",
-			"link":"https:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=385215",
-			"description":"이번 활동은 올해 9월 인천 <b>청라<\/b>국제도시에 그룹 헤드쿼터인 '하나드림타운'의 최종 완공을 앞두고... 한편 하나금융그룹은 올해 9월 통합 데이터센터와 글로벌 인재개발원에 이어 그룹 헤드쿼터까지 아우르는 <b>청라<\/b>... ",
-			"pubDate":"Thu, 28 May 2026 17:10:00 +0900"
-		},
-		{
 			"title":"인천시, 인천시에 관심있는 누구나 신청 가능! 야간명소 더한 '생생시정...",
 			"originallink":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=457683",
 			"link":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=457683",
@@ -180,17 +180,24 @@
 			"pubDate":"Thu, 28 May 2026 17:10:00 +0900"
 		},
 		{
-			"title":"삼성물산, 시니어 레지던스 '더시그넘하우스 강남'에 'AI 시니어 리빙 솔...",
-			"originallink":"http:\/\/www.techholic.co.kr\/news\/articleView.html?idxno=221426",
-			"link":"http:\/\/www.techholic.co.kr\/news\/articleView.html?idxno=221426",
-			"description":"양사는 이번 도입 후 축적되는 운영 데이터를 토대로 AI 솔루션을 더욱 발전시켜 '더시그넘하우스 <b>청라<\/b>'를 비롯해 도타이가 신축을 검토 중인 하남ㆍ평택 시설 등으로의 확대 적용도 함께 논의해 갈 예정이다. 한편... ",
-			"pubDate":"Thu, 28 May 2026 17:08:00 +0900"
+			"title":"하나금융 임직원 30여 명, 인천 석남체육공원·강남시장 일대 '줍깅' 환...",
+			"originallink":"https:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=385215",
+			"link":"https:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=385215",
+			"description":"이번 활동은 올해 9월 인천 <b>청라<\/b>국제도시에 그룹 헤드쿼터인 '하나드림타운'의 최종 완공을 앞두고... 한편 하나금융그룹은 올해 9월 통합 데이터센터와 글로벌 인재개발원에 이어 그룹 헤드쿼터까지 아우르는 <b>청라<\/b>... ",
+			"pubDate":"Thu, 28 May 2026 17:10:00 +0900"
 		},
 		{
 			"title":"하나금융, 인천 강남시장서 지역 상권 활성화 봉사활동 진행",
 			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=200166",
 			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=200166",
 			"description":"이번 활동은 오는 9월 인천 <b>청라<\/b>국제도시에 '하나드림타운' 완공을 앞두고 추진 중인 인천 지역 사회공헌 프로젝트의 일환이다. 앞서 지난 4월 진행한 인천 연희노인문화센터 벽화 조성 봉사활동에 이어 두 번째 릴레이... ",
+			"pubDate":"Thu, 28 May 2026 17:08:00 +0900"
+		},
+		{
+			"title":"삼성물산, 시니어 레지던스 '더시그넘하우스 강남'에 'AI 시니어 리빙 솔...",
+			"originallink":"http:\/\/www.techholic.co.kr\/news\/articleView.html?idxno=221426",
+			"link":"http:\/\/www.techholic.co.kr\/news\/articleView.html?idxno=221426",
+			"description":"양사는 이번 도입 후 축적되는 운영 데이터를 토대로 AI 솔루션을 더욱 발전시켜 '더시그넘하우스 <b>청라<\/b>'를 비롯해 도타이가 신축을 검토 중인 하남ㆍ평택 시설 등으로의 확대 적용도 함께 논의해 갈 예정이다. 한편... ",
 			"pubDate":"Thu, 28 May 2026 17:08:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.nbntv.kr\/news\/articleView.html?idxno=340199",
 			"description":"사진=하나금융그룹 하나금융그룹이 인천 <b>청라<\/b>국제도시 헤드쿼터 이전을 앞두고 인천 전통시장 소상공인... 이번 활동은 오는 9월 인천 <b>청라<\/b>국제도시에 조성 중인 하나드림타운 완공을 앞두고 추진하는 인천지역... ",
 			"pubDate":"Thu, 28 May 2026 16:58:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 소상공인 위한 '행복상자 나눔·줍깅' 봉사활동",
-			"originallink":"https:\/\/www.newsmap.co.kr\/news\/articleView.html?idxno=344",
-			"link":"https:\/\/www.newsmap.co.kr\/news\/articleView.html?idxno=344",
-			"description":"하나금융그룹이 인천 <b>청라<\/b>국제도시 헤드쿼터 이전을 앞두고 지역 사회와의 상생을 위한 릴레이 공헌 활동에 속도를 내고 있다. 하나금융그룹은 지난 27일 인천 서구 강남시장 일대에서 임직원 30여 명이 참여한 가운데... ",
-			"pubDate":"Thu, 28 May 2026 16:52:00 +0900"
 		}
 	]
 }
