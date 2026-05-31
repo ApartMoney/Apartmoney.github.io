@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 31 May 2026 13:40:01 +0900",
-	"total":295460,
+	"lastBuildDate":"Sun, 31 May 2026 13:50:00 +0900",
+	"total":295461,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구시, ‘제17회 대구꽃박람회’ 4~7일 엑스코서 개최",
+			"originallink":"https:\/\/www.kbsm.net\/news\/view.php?idx=521295",
+			"link":"https:\/\/www.kbsm.net\/news\/view.php?idx=521295",
+			"description":"모티브로 ▲주제관 ▲<b>청라<\/b>상관(창작 경연 10개 팀) ▲일반조성관(프랑스 초청관, 한국전통 꽃꽂이관... 박람회 주제를 작가들만의 독특한 시선으로 재해석한 ‘<b>청라<\/b>상관’에는 전국 공모와 심사를 거쳐 최종 선정된... ",
+			"pubDate":"Sun, 31 May 2026 13:46:00 +0900"
+		},
 		{
 			"title":"구재용 서해구청장 후보, &quot;재정 위기 극복하고 행정 공백 메울 적임자&quot;...",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=472047",
@@ -194,13 +201,6 @@
 			"pubDate":"Fri, 29 May 2026 17:04:00 +0900"
 		},
 		{
-			"title":"잇올, 7월 구리남양주센터 확장·인천 검단캠프 신규 오픈···설명회 사...",
-			"originallink":"https:\/\/www.enetnews.co.kr\/news\/articleView.html?idxno=50625",
-			"link":"https:\/\/www.enetnews.co.kr\/news\/articleView.html?idxno=50625",
-			"description":"잇올은 기존 인천 지역에서 부평, 연수, 송도, <b>청라<\/b>, 논현 등 5개 센터를 운영해 왔으며, 검단 지역 수험생들의 꾸준한 수요를 반영해 선보인다. 입학 설명회는 7월 15일(수) 진행될 예정이다. 새롭게 문을 여는 두 곳에는... ",
-			"pubDate":"Fri, 29 May 2026 15:58:00 +0900"
-		},
-		{
 			"title":"한국남부발전, 인천서 에너지 절약 실천 캠페인 실시",
 			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202605291557206878f4ab64559d_12",
 			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202605291557206878f4ab64559d_12",
@@ -208,11 +208,11 @@
 			"pubDate":"Fri, 29 May 2026 15:58:00 +0900"
 		},
 		{
-			"title":"[중대재해사고예방] 현대건설, 'AI·드론·로봇'으로 현장안전 패러다임...",
-			"originallink":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7166454",
-			"link":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7166454",
-			"description":"스마트 건설 운반 로봇은 SLAM(동시 위치추정 및 지도 작성) 기술을 기반으로 자율주행과 장애물 회피를 구현하며, 인천 <b>청라<\/b> 하나드림타운 등 대규모 단지에서 장거리·다빈도 자재 운반 자동화 성능을 검증하고 있다. 공동... ",
-			"pubDate":"Fri, 29 May 2026 15:20:00 +0900"
+			"title":"잇올, 7월 구리남양주센터 확장·인천 검단캠프 신규 오픈···설명회 사...",
+			"originallink":"https:\/\/www.enetnews.co.kr\/news\/articleView.html?idxno=50625",
+			"link":"https:\/\/www.enetnews.co.kr\/news\/articleView.html?idxno=50625",
+			"description":"잇올은 기존 인천 지역에서 부평, 연수, 송도, <b>청라<\/b>, 논현 등 5개 센터를 운영해 왔으며, 검단 지역 수험생들의 꾸준한 수요를 반영해 선보인다. 입학 설명회는 7월 15일(수) 진행될 예정이다. 새롭게 문을 여는 두 곳에는... ",
+			"pubDate":"Fri, 29 May 2026 15:58:00 +0900"
 		}
 	]
 }
