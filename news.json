@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 31 May 2026 12:10:01 +0900",
-	"total":295453,
+	"lastBuildDate":"Sun, 31 May 2026 12:20:00 +0900",
+	"total":295454,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘제17회 대구꽃박람회’ 다음달 4~7일 개최···역대 최대 규모",
+			"originallink":"https:\/\/www.khan.co.kr\/article\/202605311218001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003448946?sid=102",
+			"description":"박람회의 주제를 개별 작가들의 독특한 시선으로 재해석한 <b>청라<\/b>상관에서는 전국 공모와 심사를 거쳐 최종 선정된 10개팀이 각기 다른 비밀정원 작품을 선보인다. 일반조성관에서는 프랑스 초청관과 한국전통 꽃꽂이... ",
+			"pubDate":"Sun, 31 May 2026 12:18:00 +0900"
+		},
 		{
 			"title":"대구광역시, 6월 꽃박람회 개막...153개 업체·916개 부스 참여",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3596601",
@@ -145,17 +152,17 @@
 			"pubDate":"Fri, 29 May 2026 17:04:00 +0900"
 		},
 		{
-			"title":"잇올, 7월 구리남양주센터 확장·인천 검단캠프 신규 오픈···설명회 사...",
-			"originallink":"https:\/\/www.enetnews.co.kr\/news\/articleView.html?idxno=50625",
-			"link":"https:\/\/www.enetnews.co.kr\/news\/articleView.html?idxno=50625",
-			"description":"잇올은 기존 인천 지역에서 부평, 연수, 송도, <b>청라<\/b>, 논현 등 5개 센터를 운영해 왔으며, 검단 지역 수험생들의 꾸준한 수요를 반영해 선보인다. 입학 설명회는 7월 15일(수) 진행될 예정이다. 새롭게 문을 여는 두 곳에는... ",
-			"pubDate":"Fri, 29 May 2026 15:58:00 +0900"
-		},
-		{
 			"title":"한국남부발전, 인천서 에너지 절약 실천 캠페인 실시",
 			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202605291557206878f4ab64559d_12",
 			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202605291557206878f4ab64559d_12",
 			"description":"한국남부발전이 인천 <b>청라<\/b>국제도시역 일대에서 시민들을 대상으로 에너지 절약 실천 캠페인을 진행했다고 29일 밝혔다. 남부발전은 지난 28일 인천 <b>청라<\/b>국제도시역 인근에서 에너지 절약 문화 확산과 생활 속 실천 방안... ",
+			"pubDate":"Fri, 29 May 2026 15:58:00 +0900"
+		},
+		{
+			"title":"잇올, 7월 구리남양주센터 확장·인천 검단캠프 신규 오픈···설명회 사...",
+			"originallink":"https:\/\/www.enetnews.co.kr\/news\/articleView.html?idxno=50625",
+			"link":"https:\/\/www.enetnews.co.kr\/news\/articleView.html?idxno=50625",
+			"description":"잇올은 기존 인천 지역에서 부평, 연수, 송도, <b>청라<\/b>, 논현 등 5개 센터를 운영해 왔으며, 검단 지역 수험생들의 꾸준한 수요를 반영해 선보인다. 입학 설명회는 7월 15일(수) 진행될 예정이다. 새롭게 문을 여는 두 곳에는... ",
 			"pubDate":"Fri, 29 May 2026 15:58:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20260529131149988",
 			"description":"인천 <b>청라<\/b>하늘대교 사례처럼 공공성을 기준으로 접근해야 한다고 본다. 울산시와 협력해 시민 공론화를 추진하고 국토교통부·기획재정부와 협의해 단계적 통행료 인하를 추진하겠다. 임기 내 반값 인하를 실현하고... ",
 			"pubDate":"Fri, 29 May 2026 13:28:00 +0900"
-		},
-		{
-			"title":"남부발전, 인천 시민 대상 에너지 절약 실천 방안 홍보",
-			"originallink":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=841476",
-			"link":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=841476",
-			"description":"\/ 한국남부발전 | 서울=한스경제 김창수 기자 | 한국남부발전이 지난 28일 인천 <b>청라<\/b>국제도시역 인근에서 시민들을 대상으로 에너지 절약 거리 캠페인을 진행했다. 이날 신인천빛드림본부 직원들은 대중교통 이용 등... ",
-			"pubDate":"Fri, 29 May 2026 13:06:00 +0900"
 		}
 	]
 }
