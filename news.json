@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 02 Jun 2026 00:10:02 +0900",
-	"total":295632,
+	"lastBuildDate":"Tue, 02 Jun 2026 00:20:01 +0900",
+	"total":295633,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"신호 위반해 달리다 '쾅'…구급차 이송 환자 사망",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1008590328&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001360893?sid=102",
+			"description":"오전 11시 55분쯤 인천 서구 <b>청라<\/b>동의 한 교차로에서 달리던 사설 구급차의 측면을 SUV 차량이 들이받았습니다. 사고가 난 현장입니다. 사거리에서 조수석을 치인 사설 구급차는 충격으로 밀리면서 이곳 가드레일까지... ",
+			"pubDate":"Tue, 02 Jun 2026 00:17:00 +0900"
+		},
 		{
 			"title":"소설 ‘비밀의 화원’ 그 아름다운 곳서 마음 치유하세요",
 			"originallink":"https:\/\/www.joongang.co.kr\/article\/25433102",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005770580?sid=102",
 			"description":"1일 인천 서부경찰서 등에 따르면, 이날 오전 11시 55분께 인천 서구 <b>청라<\/b>동의 한 교차로에서 사설 구급차와 스포츠유틸리티차(SUV)가 충돌하는 사고가 났다. 정상 신호를 받고 주행하던 SUV 차량이 사이렌을 울리며 신호를... ",
 			"pubDate":"Mon, 01 Jun 2026 17:43:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>하늘대교 자물쇠 통제 논란 일단락... 인천경제청·군 합의",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=118367",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=118367",
-			"description":"<b>청라<\/b>하늘대교 해상데크 출입문에 채워진 쇠사슬과 자물쇠. 사진=연합뉴스 군 당국과 인천경제자유구역청의 <b>청라<\/b>하늘대교 관광시설 출입문 통제 논란이 일단락됐다. 1일 인천경제청에 따르면 육군 17사단과 <b>청라<\/b>하늘대교... ",
-			"pubDate":"Mon, 01 Jun 2026 17:40:00 +0900"
 		}
 	]
 }
