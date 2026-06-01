@@ -1,21 +1,28 @@
 {
-	"lastBuildDate":"Mon, 01 Jun 2026 15:00:00 +0900",
-	"total":295566,
+	"lastBuildDate":"Mon, 01 Jun 2026 15:10:01 +0900",
+	"total":295567,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"환자 이송 사설 구급차 신호 위반하다 사고…1명 사망·6명 부상",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1008589621&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001360780?sid=102",
-			"description":"인천 서부경찰서 등에 따르면 오늘(1일) 오전 11시 55분쯤 인천 서구 <b>청라<\/b>동 한 교차로에서 사설 구급차의 측면을 스포츠유틸리티차(SUV)가 들이받았습니다. 이 사고로 사설 구급차가 옆으로 넘어져 이송 중이던 90대 여성... ",
-			"pubDate":"Mon, 01 Jun 2026 14:58:00 +0900"
+			"title":"환자 이송 사설 구급차, 교차로서 충돌…1명 사망·6명 부상",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25432947",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003527193?sid=102",
+			"description":"1일 인천 서부경찰서 등에 따르면 이날 오전 11시 55분쯤 인천 서구 <b>청라<\/b>동 한 교차로에서 사설 구급차의 측면을 SUV가 들이받았다. 이 사고로 사설 구급차가 전도돼 이송 중이던 90대 여성 환자 A씨가 숨지고 운전자와 A... ",
+			"pubDate":"Mon, 01 Jun 2026 15:03:00 +0900"
 		},
 		{
 			"title":"<b>청라<\/b> 교차로서 사설 구급차·SUV '충돌' … 90대 환자 숨져",
 			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=243146",
 			"link":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=243146",
 			"description":"1일 인천 서부경찰서에 따르면 이날 오전 11시 55분쯤 인천 서구 <b>청라<\/b>동의 한 교차로에서 사설 구급차와 스포츠유틸리티차량(SUV)이 충돌하는 사고가 발생했다. 사고 충격으로 구급차가 옆으로 전도되면서 차량에 탑승해... ",
+			"pubDate":"Mon, 01 Jun 2026 14:58:00 +0900"
+		},
+		{
+			"title":"환자 이송 사설 구급차 신호 위반하다 사고…1명 사망·6명 부상",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1008589621&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001360780?sid=102",
+			"description":"인천 서부경찰서 등에 따르면 오늘(1일) 오전 11시 55분쯤 인천 서구 <b>청라<\/b>동 한 교차로에서 사설 구급차의 측면을 스포츠유틸리티차(SUV)가 들이받았습니다. 이 사고로 사설 구급차가 옆으로 넘어져 이송 중이던 90대 여성... ",
 			"pubDate":"Mon, 01 Jun 2026 14:58:00 +0900"
 		},
 		{
@@ -110,13 +117,6 @@
 			"pubDate":"Mon, 01 Jun 2026 14:22:00 +0900"
 		},
 		{
-			"title":"전도된 사설구급차",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260601113300065?input=1196m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016111990?sid=102",
-			"description":"1일 오전 인천시 서구 <b>청라<\/b>동 한 교차로에서 환자를 이송 중인 사설구급차와 SUV가 부딪히는 사고가 발생해 사설 구급차가 전도돼 있다. 이 사고로 이송 중이던 90대 여성이 숨지고 두 차량 탑승자 6명이 경상을... ",
-			"pubDate":"Mon, 01 Jun 2026 14:17:00 +0900"
-		},
-		{
 			"title":"사설 구급차 신호 위반 충돌 사고…90대 환자 사망",
 			"originallink":"https:\/\/www.jnilbo.com\/news\/articleView.html?idxno=90000039048",
 			"link":"https:\/\/www.jnilbo.com\/news\/articleView.html?idxno=90000039048",
@@ -127,6 +127,13 @@
 			"title":"전도된 사설구급차",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260601113400065?input=1196m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016111991?sid=102",
+			"description":"1일 오전 인천시 서구 <b>청라<\/b>동 한 교차로에서 환자를 이송 중인 사설구급차와 SUV가 부딪히는 사고가 발생해 사설 구급차가 전도돼 있다. 이 사고로 이송 중이던 90대 여성이 숨지고 두 차량 탑승자 6명이 경상을... ",
+			"pubDate":"Mon, 01 Jun 2026 14:17:00 +0900"
+		},
+		{
+			"title":"전도된 사설구급차",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260601113300065?input=1196m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016111990?sid=102",
 			"description":"1일 오전 인천시 서구 <b>청라<\/b>동 한 교차로에서 환자를 이송 중인 사설구급차와 SUV가 부딪히는 사고가 발생해 사설 구급차가 전도돼 있다. 이 사고로 이송 중이던 90대 여성이 숨지고 두 차량 탑승자 6명이 경상을... ",
 			"pubDate":"Mon, 01 Jun 2026 14:17:00 +0900"
 		},
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005687676?sid=103",
 			"description":"군 당국이 인천 <b>청라<\/b>하늘대교 해상데크 출입 통제를 해제하기로 해 세계 최고 해상교량 전망대 등 대교 관광시설을 더 편리하게 이용할 수 있게 됐다. 인천경제청은 지난주 육군 17사단과 협의해 오는 15일 <b>청라<\/b>하늘대교... ",
 			"pubDate":"Mon, 01 Jun 2026 11:27:00 +0900"
-		},
-		{
-			"title":"인천 찾은 개혁신당 이준석…이기붕·정승연 막판 표심 호소",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=472086",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=472086",
-			"description":"그는 &quot;AI·바이오, 첨단 제조업, 물류, 디지털 산업이 성장하고 청년들이 모여드는 도시를 만들겠다&quot;며 &quot;송도·<b>청라<\/b>뿐 아니라 원도심과 강화·옹진까지 함께 발전하는 균형 있는 인천을 만들겠다&quot;고 밝혔다. 정승연 후보는... ",
-			"pubDate":"Mon, 01 Jun 2026 11:18:00 +0900"
 		}
 	]
 }
