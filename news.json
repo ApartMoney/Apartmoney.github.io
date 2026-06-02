@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 02 Jun 2026 15:20:01 +0900",
-	"total":295658,
+	"lastBuildDate":"Tue, 02 Jun 2026 15:30:00 +0900",
+	"total":295659,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 상가 화장실 잠금 관행에 시민 불편 논란",
+			"originallink":"https:\/\/www.livesnews.com\/news\/article.html?no=61790",
+			"link":"https:\/\/www.livesnews.com\/news\/article.html?no=61790",
+			"description":"송도·영종·<b>청라<\/b>국제도시 등 인천 주요 상권 일부 상가건물에서 화장실 출입문을 잠가두거나 비밀번호를 알아야만 이용할 수 있도록 운영하는 사례가 이어지면서, 시민들의 공중화장실 이용권과 사회적 약자의 접근성... ",
+			"pubDate":"Tue, 02 Jun 2026 15:24:00 +0900"
+		},
 		{
 			"title":"＜뉴스앤조이＞, '해로운 신앙' 보도 김용두 목사 상대 승소",
 			"originallink":"https:\/\/www.newsnjoy.or.kr\/news\/articleView.html?idxno=400521",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/053\/0000058761?sid=102",
 			"description":"1일 인천 서부경찰서 등에 따르면 이날 오전 11시 55분께 인천 서구 <b>청라<\/b>동의 한 사거리 교차로에서 SUV가 사설 구급차의 측면을 들이받았다. 사고 당시 SUV는 직진 신호를 받고 정상 주행 중이었으며, 사설 구급차는 신호를... ",
 			"pubDate":"Mon, 01 Jun 2026 23:35:00 +0900"
-		},
-		{
-			"title":"환자 이송 사설 구급차 신호위반 사고…1명 사망·6명 부상",
-			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/news\/MYH202606012312017su",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000870477?sid=102",
-			"description":"오늘(1일) 오전 11시 55분쯤 인천 서구 <b>청라<\/b>동의 한 교차로에서 사설 구급차의 측면을 SUV 차량이 들이받았습니다. 이 사고로 사설 구급차로 이송 중이던 90대 여성 환자 A씨가 심정지 상태로 병원에 이송됐지만... ",
-			"pubDate":"Mon, 01 Jun 2026 23:12:00 +0900"
 		}
 	]
 }
