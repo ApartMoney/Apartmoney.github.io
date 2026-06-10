@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 11 Jun 2026 04:30:00 +0900",
-	"total":296136,
+	"lastBuildDate":"Thu, 11 Jun 2026 04:40:01 +0900",
+	"total":296137,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천판\/게시판]인천 外",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20260611\/134087531\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003726041?sid=102",
+			"description":"25일 오전 10시 반∼11시 <b>청라<\/b>국제도서관 유아자료실. □교양 강좌=‘그들은 왜 떠났고, 왜 돌아왔는가’ 참가자 30명. 25일 오후 7시∼8시 반 신트리도서관 여름강의실. 부천 □음악 특강=‘자기 생활 월간... ",
+			"pubDate":"Thu, 11 Jun 2026 04:35:00 +0900"
+		},
 		{
 			"title":"날씨, 서울·수도권 &quot;30mm 천둥번개 소나기&quot; 부산날씨 27도",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3605255",
@@ -152,17 +159,17 @@
 			"pubDate":"Wed, 10 Jun 2026 16:26:00 +0900"
 		},
 		{
-			"title":"교량부터 지하차도까지…인천경찰청장, 풍수해 취약시설 직접 살폈다",
-			"originallink":"https:\/\/www.viva100.com\/article\/20260610501098",
-			"link":"https:\/\/www.viva100.com\/article\/20260610501098",
-			"description":"인천경찰청장은 <b>청라<\/b>하늘대교와 해찬나래지하차도를 방문해 시설물 관리 상태와 재난 발생 시 대응 절차를 점검했다. 또한, 동강천 일대에서는 배수 여건과 침수 위험 요소를 직접 확인하고, 재난 발생 시 신속한 통제와... ",
-			"pubDate":"Wed, 10 Jun 2026 16:18:00 +0900"
-		},
-		{
 			"title":"[더벨]정용진 이마트·프라퍼티 대표로, 책임 소재 '명확히'",
 			"originallink":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202606081604215120107420",
 			"link":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202606081604215120107420",
 			"description":"신세계그룹은 현재 ‘스타필드’를 중심으로 프리미엄 브랜드 이미지를 구축하고 있으며 신세계프라퍼티가 개발 중인 스타필드<b>청라<\/b>나 화성 스타베이시티는 향후 그룹의 미래 랜드마크로서 투자에 대한 기대가 큰... ",
+			"pubDate":"Wed, 10 Jun 2026 16:18:00 +0900"
+		},
+		{
+			"title":"교량부터 지하차도까지…인천경찰청장, 풍수해 취약시설 직접 살폈다",
+			"originallink":"https:\/\/www.viva100.com\/article\/20260610501098",
+			"link":"https:\/\/www.viva100.com\/article\/20260610501098",
+			"description":"인천경찰청장은 <b>청라<\/b>하늘대교와 해찬나래지하차도를 방문해 시설물 관리 상태와 재난 발생 시 대응 절차를 점검했다. 또한, 동강천 일대에서는 배수 여건과 침수 위험 요소를 직접 확인하고, 재난 발생 시 신속한 통제와... ",
 			"pubDate":"Wed, 10 Jun 2026 16:18:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0004156392?sid=102",
 			"description":"인천경찰청장은 이날 <b>청라<\/b>하늘대교를 찾아 교량시설의 재난 대응체계를 살폈다. 이어 해찬나래지하차도에서는 집중호우 시 차량 고립사고를 막기 위한 진입차단시설의 운영 상태를 확인했다. 또 동강천 일대 침수... ",
 			"pubDate":"Wed, 10 Jun 2026 15:45:00 +0900"
-		},
-		{
-			"title":"[인천소식] 인천경찰청, 장마철 앞두고 풍수해 우려 지역 점검",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260610131300065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016131094?sid=102",
-			"description":"한창훈 인천경찰청장은 이날 <b>청라<\/b>하늘대교를 찾아 여름철 풍수해 피해를 막기 위한 재난 대응체계를 점검했다. 이어 영종도 해찬나래 지하차도에서 집중호우에 따른 차량 고립사고를 예방하기 위해 진입 차단시설의 운영... ",
-			"pubDate":"Wed, 10 Jun 2026 15:37:00 +0900"
 		}
 	]
 }
