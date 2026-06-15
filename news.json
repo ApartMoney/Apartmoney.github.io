@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 15 Jun 2026 11:50:00 +0900",
-	"total":296358,
+	"lastBuildDate":"Mon, 15 Jun 2026 12:00:01 +0900",
+	"total":296359,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 공원 물놀이장 47곳 운영… 안전 관리 만전",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0029969692&code=61121111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001855009?sid=102",
+			"description":"이외에 중구 운남근린공원, 미추홀구 아이그린공원, 연수구 새싹공원, 부평구 갈산공원, 계양구 오조산근린공원, 서구 <b>청라<\/b>호수공원, 강화군 갑룡공원 내 물놀이장 등은 다음 달 중 운영을 시작한다. 폐장은 대부분 8월... ",
+			"pubDate":"Mon, 15 Jun 2026 11:54:00 +0900"
+		},
 		{
 			"title":"'<b>청라<\/b> 시대' 여는 하나금융…인천시금고 신한금융이 긴장한 까닭",
 			"originallink":"https:\/\/www.bloter.net\/news\/articleView.html?idxno=665404",
@@ -110,13 +117,6 @@
 			"pubDate":"Mon, 15 Jun 2026 09:00:00 +0900"
 		},
 		{
-			"title":"디오텍코리아, 코스트코 '슈퍼데모' 참여… 소비자 체험 행사 진행",
-			"originallink":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=331309",
-			"link":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=331309",
-			"description":"행사는 6월 8일 하남점과 <b>청라<\/b>점을 시작으로 전국 20개 코스트코 점포에서 2주 단위로 진행된다. 행사 기간 동안 방문객들은 제품을 살펴보고 브랜드 관계자의 설명을 들을 수 있다. 엠바스는 변형 바스(Modified Bass)... ",
-			"pubDate":"Mon, 15 Jun 2026 09:00:00 +0900"
-		},
-		{
 			"title":"디오텍코리아, MBASS·OROVE 브랜드 오프라인 판매 본격 전개...&quot;코스트코...",
 			"originallink":"http:\/\/www.sisunnews.co.kr\/news\/articleView.html?idxno=240438",
 			"link":"http:\/\/www.sisunnews.co.kr\/news\/articleView.html?idxno=240438",
@@ -128,6 +128,13 @@
 			"originallink":"https:\/\/www.itbiznews.com\/news\/articleView.html?idxno=216057",
 			"link":"https:\/\/www.itbiznews.com\/news\/articleView.html?idxno=216057",
 			"description":"이번 행사는 6월 8일 하남점과 <b>청라<\/b>점을 시작으로 전국 20개 코스트코 점포에서 2주 단위로 진행된다. 행사 기간 동안 방문객들은 제품을 직접 체험하고 브랜드 담당자의 설명을 통해 제품 특징과 사용 방법 등을 확인할... ",
+			"pubDate":"Mon, 15 Jun 2026 09:00:00 +0900"
+		},
+		{
+			"title":"디오텍코리아, 코스트코 '슈퍼데모' 참여… 소비자 체험 행사 진행",
+			"originallink":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=331309",
+			"link":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=331309",
+			"description":"행사는 6월 8일 하남점과 <b>청라<\/b>점을 시작으로 전국 20개 코스트코 점포에서 2주 단위로 진행된다. 행사 기간 동안 방문객들은 제품을 살펴보고 브랜드 관계자의 설명을 들을 수 있다. 엠바스는 변형 바스(Modified Bass)... ",
 			"pubDate":"Mon, 15 Jun 2026 09:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=899831",
 			"description":"제5차 국가철도망 구축계획 반영 총력 대장홍대선 <b>청라<\/b>·계양역 연장에 6·3 지방선거 인천 당선인들이 뜻을... 인천시민연합은 지난 12일 유동수 국회의원(더불어민주당·계양갑)과 정책 면담을 갖고 대장홍대선 <b>청라<\/b>... ",
 			"pubDate":"Sun, 14 Jun 2026 15:44:00 +0900"
-		},
-		{
-			"title":"삼성SDS·LG CNS, AI·로봇으로 물류 사업 고도화 나서",
-			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20260614500201",
-			"link":"http:\/\/www.metroseoul.co.kr\/article\/20260614500201",
-			"description":"올해는 컬리 김포 물류센터, LX판토스 <b>청라<\/b> 센터에 피지컬웍스 현장 적용 가능성을 검토하고 있다. LG CNS는 AI를 적용한 로봇의 현장 적용에 집중하고 있다. 지난해 6월 최고기술책임자(CTO) 직속 연구 조직인 '퓨처... ",
-			"pubDate":"Sun, 14 Jun 2026 15:12:00 +0900"
 		}
 	]
 }
