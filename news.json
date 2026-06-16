@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Tue, 16 Jun 2026 19:20:01 +0900",
-	"total":296485,
+	"lastBuildDate":"Tue, 16 Jun 2026 19:30:00 +0900",
+	"total":296488,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"순식간에 25개 동 잿더미…공장 지대서 큰불",
+			"originallink":"http:\/\/www.mbn.co.kr\/pages\/news\/newsView.php?news_seq_no=5200183",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/057\/0001954149?sid=102",
+			"description":"소방 헬기들이 2km 떨어진 <b>청라<\/b>호수공원에서 쉴새 없이 물을 날랐습니다. ▶ 인터뷰 : 목격자 - &quot;(불에 탄 공장과) 작은 길옆이에요. 바람이 그쪽(우리 공장 쪽)으로 불었으면 (불이) 그쪽으로 갔겠죠.&quot; 불은 다닥다닥 붙은... ",
+			"pubDate":"Tue, 16 Jun 2026 19:27:00 +0900"
+		},
+		{
+			"title":"인천 경제자유구역 외인 직접투자 부진",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3026215",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3026215",
+			"description":"자체 투자유치 활동을 통해 FDI를 이끌어 낸 결과물은 하나도 없이 롯데바이오로직스(도착액 2천990만 달러)와 TOK첨단재료(2천460만 달러), 스타필드<b>청라<\/b>(5천100만 달러), 코스트코 코리아(6천140만 달러) 등 입주... ",
+			"pubDate":"Tue, 16 Jun 2026 19:24:00 +0900"
+		},
+		{
+			"title":"[박찬대 시대 개막, 인천 미래를 묻다] ⑤'ABC+E 전략'…인천 성장엔진 ...",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3026217",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3026217",
+			"description":"인천공항과 인천항, 배후 물류단지를 연계한 AI 기반 물류시스템을 구축하고 <b>청라<\/b>를 중심으로 AI 커넥티드카산업을 육성해 자율주행·로봇·사이버보안산업까지 아우르는 미래차 생태계를 조성할 계획이다. 송도를... ",
+			"pubDate":"Tue, 16 Jun 2026 19:24:00 +0900"
+		},
 		{
 			"title":"[금융 이모저모] 하나은행, 하나금융, BNK부산은행, 삼성증권",
 			"originallink":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=85709",
@@ -145,17 +166,17 @@
 			"pubDate":"Tue, 16 Jun 2026 16:04:00 +0900"
 		},
 		{
-			"title":"하나금융, 임직원 심폐소생술 교육 확대... &quot;생명안전 ESG 강화&quot;",
-			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=201459",
-			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=201459",
-			"description":"그룹은 명동사옥 교육을 시작으로 강남·여의도·<b>청라<\/b> 사옥 등 주요 사업장으로 프로그램을 확대해 보다 많은 임직원이 응급 대응 역량을 갖출 수 있도록 지원할 계획이다. 최근 질병관리청에 따르면 일반인이 심정지... ",
-			"pubDate":"Tue, 16 Jun 2026 16:00:00 +0900"
-		},
-		{
 			"title":"금융권, 공동 부스 운영·임직원 대상 교육 확대·물품 지원·특별배당...",
 			"originallink":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=313791",
 			"link":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=313791",
 			"description":"그룹 임직원 200여명이 자발적으로 참여한 이번 심폐소생술 교육은 명동 사옥을 시작으로 강남, 여의도, <b>청라<\/b> 사옥 등에서 순차적으로 진행될 예정이다. 우리금융미래재단은 폭염에 취약한 서울시 에너지취약가구의... ",
+			"pubDate":"Tue, 16 Jun 2026 16:00:00 +0900"
+		},
+		{
+			"title":"하나금융, 임직원 심폐소생술 교육 확대... &quot;생명안전 ESG 강화&quot;",
+			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=201459",
+			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=201459",
+			"description":"그룹은 명동사옥 교육을 시작으로 강남·여의도·<b>청라<\/b> 사옥 등 주요 사업장으로 프로그램을 확대해 보다 많은 임직원이 응급 대응 역량을 갖출 수 있도록 지원할 계획이다. 최근 질병관리청에 따르면 일반인이 심정지... ",
 			"pubDate":"Tue, 16 Jun 2026 16:00:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"http:\/\/www.the-biz.co.kr\/news\/articleView.html?idxno=722690",
 			"description":"◆LX판토스, 오픈 테스트베드 모델 제시 LX판토스는 지난 1일 LG CNS와 협약을 맺고, 인천 <b>청라<\/b> 메가와이즈 물류센터에 휴머노이드 로봇과 셔틀 로봇을 연계한 자동화 시스템을 구축하기로 했다. 휴머노이드는 LG CNS가... ",
 			"pubDate":"Tue, 16 Jun 2026 14:40:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 임직원 대상 '생명을 살리는 기적, 심폐소생술' 교육 실...",
-			"originallink":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=96747",
-			"link":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=96747",
-			"description":"그룹 임직원 200여 명이 자발적으로 참여한 이번 심폐소생술 교육은 명동 사옥을 시작으로 강남, 여의도, <b>청라<\/b> 사옥 등에서 순차적으로 진행될 예정이다. 최근 질병관리청 통계에 따르면, 일반인이 즉각 심폐소생술을... ",
-			"pubDate":"Tue, 16 Jun 2026 14:38:00 +0900"
-		},
-		{
-			"title":"하나금융, 여름 휴가철 앞두고 임직원 심폐소생술 교육 실시",
-			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4089431",
-			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4089431",
-			"description":"하나금융그룹은 ESG 경영 활동의 일환으로 지난 2023년부터 이 교육을 진행해 왔으며, 이번 명동사옥을 시작으로 강남과 여의도, <b>청라<\/b> 사옥 등에서 순차적으로 교육을 이어갈 예정입니다. 하나금융그룹 관계자는 위급... ",
-			"pubDate":"Tue, 16 Jun 2026 14:38:00 +0900"
-		},
-		{
-			"title":"생명 살리는 4분···하나금융, 임직원 대상 심폐소생술 교육",
-			"originallink":"https:\/\/www.thereport.co.kr\/news\/articleView.html?idxno=88790",
-			"link":"https:\/\/www.thereport.co.kr\/news\/articleView.html?idxno=88790",
-			"description":"교육은 명동 사옥을 시작으로 강남, 여의도, <b>청라<\/b> 사옥 등에서 차례로 진행될 예정이다. 질병관리청에 따르면 일반인이 심정지 환자에게 즉시 심폐소생술을 시행하면 생존율을 높일 수 있다. 특히 여름철에는 물놀이... ",
-			"pubDate":"Tue, 16 Jun 2026 14:34:00 +0900"
 		}
 	]
 }
