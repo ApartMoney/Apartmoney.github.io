@@ -2,6 +2,14 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X26CHDTPFZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-X26CHDTPFZ');
+</script>
 <title>일일 아파트 리포트 - 청라실</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="날짜별 전국 아파트 실거래 일일 리포트. 거래량, 평균가, 최고가, 신고가를 지역별로 확인하세요.">
@@ -219,6 +227,14 @@
     padding: 2px 7px; border-radius: 10px;
     margin-bottom: 3px; letter-spacing: 0.3px;
     box-shadow: 0 1px 3px rgba(192,57,43,.25);
+  }
+  .deal-right .new-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, #4b8df8 0%, #2d6cdf 100%);
+    color: #fff; font-weight: 800; font-size: 10.5px;
+    padding: 2px 7px; border-radius: 10px;
+    margin-bottom: 3px; letter-spacing: 0.3px;
+    box-shadow: 0 1px 3px rgba(45,108,223,.25);
   }
 
   /* 페이지네이션 */
@@ -578,19 +594,24 @@ function renderMaxByGu(container, { title, dateStr, rows }) {
 function renderDealCard(r, idx) {
   const dealPrice = Number(r.DEAL_MONEY_NUM || 0);
   const maxPrice = Number(r.MAX_DEAL_MONEY || 0);
-  const isNewHigh = r.DEAL_BTWEEN != null && Number(r.DEAL_BTWEEN) >= 0;
+  const isCanceled = r.IS_CANCEL === 'Y' || !!r.CANCEL_DATE;
+  const hasBtween = r.DEAL_BTWEEN != null && Number(r.DEAL_BTWEEN) >= 0;
   const dealBtween = Number(r.DEAL_BTWEEN || 0);
-  const prevHigh = isNewHigh ? Math.max(0, dealPrice - dealBtween) : 0;
-  const newHighPct = isNewHigh && prevHigh ? pct(dealBtween, prevHigh) : '-';
-  const diff = dealPrice - maxPrice;
-  const diffPct = maxPrice ? pct(Math.abs(diff), maxPrice) : '-';
-  const age = Number(r.DEAL_YEAR) - Number(r.APART_CREATED_YEAR) + 1;
+  const prevHigh = hasBtween ? Math.max(0, dealPrice - dealBtween) : 0;
 
   const avgInfo = (r.LAST_AVG && r.LAST_AVG[0]) || {};
   const avgMoney = Number(avgInfo['AVG(DEAL_MONEY_NUM)'] || 0);
   const avgDiff = dealPrice - avgMoney;
   const avgDiffPct = avgMoney ? pct(Math.abs(avgDiff), avgMoney) : '-';
-  const lastDealDate = avgInfo['LAST_DEAL_DAY'] || avgInfo['MAX(LAST_DEAL_DAY)'] || '-';
+  const lastDealDate = avgInfo['LAST_DEAL_DAY'] || avgInfo['MAX(LAST_DEAL_DAY)'] || '';
+  const hasPrevDeal = !!lastDealDate;
+
+  const isFirstDeal = !hasPrevDeal && !isCanceled;
+  const isNewHigh = !isFirstDeal && hasBtween && dealBtween > 0 && prevHigh > 0 && !isCanceled;
+  const newHighPct = isNewHigh ? pct(dealBtween, prevHigh) : '-';
+  const diff = dealPrice - maxPrice;
+  const diffPct = maxPrice ? pct(Math.abs(diff), maxPrice) : '-';
+  const age = Number(r.DEAL_YEAR) - Number(r.APART_CREATED_YEAR) + 1;
 
   const jData = (r.LAST_J_DATA && r.LAST_J_DATA[0]) || null;
   let jeonseHTML = '';
@@ -608,7 +629,6 @@ function renderDealCard(r, idx) {
   const avgSign = avgDiff < 0 ? '▼' : avgDiff > 0 ? '▲' : '';
   const avgClass = avgDiff < 0 ? 'down' : avgDiff > 0 ? 'up' : '';
 
-  const isCanceled = r.IS_CANCEL === 'Y' || !!r.CANCEL_DATE;
   const cancelLine = isCanceled ? `<div class="cancel-date">취소: ${r.CANCEL_DATE || ''}</div>` : '';
   const dealType = r.DEAL_TYPE && r.DEAL_TYPE.trim() ? r.DEAL_TYPE.trim() : '중개거래';
 
@@ -621,15 +641,18 @@ function renderDealCard(r, idx) {
       <div class="nation">전국 ${r.RANKING||'-'}위 · ${age}년차</div>
       <div class="addr">${r.CITY||''} ${r.STATE||''} ${r.APART_DONG||''} ${r.APART_ADDRESS||''}</div>
       <div class="size">${r.APART_SIZE}㎡ / ${r.DEAL_FLOOR}층</div>
-      <div class="dates">거래 ${when}<br>이전 ${lastDealDate}</div>
+      <div class="dates">거래 ${when}<br>이전 ${lastDealDate || '-'}</div>
       ${cancelLine}
     </div>
     <div class="deal-right">
       <div class="price">${fmt(dealPrice)}<span class="unit">만원</span></div>
       ${isNewHigh ? `
         <div class="new-high-badge">🔥 신고가</div>
-        <div class="ref-line">전고가 <b>${prevHigh ? fmt(prevHigh) : '-'}</b></div>
+        <div class="ref-line">전고가 <b>${fmt(prevHigh)}</b></div>
         <div class="up">▲${fmt(dealBtween)} (${newHighPct}%)</div>
+      ` : isFirstDeal ? `
+        <div class="new-badge">NEW</div>
+        <div class="ref-line">첫 거래</div>
       ` : `
         <div class="ref-line">최고가 <b>${fmt(maxPrice)}</b></div>
         <div class="${diffClass}">${diffSign}${fmt(Math.abs(diff))} (${diffPct}%)</div>
