@@ -64,5 +64,45 @@ footer code { background: var(--surface); padding: 1px 5px; border-radius: 3px; 
 .event[id], .era[id] { scroll-margin-top: 24px; }
 .event.flash { animation: flash 1.2s ease-out; }
 @keyframes flash { 0% { background: rgba(88,166,255,0.25); } 100% { background: transparent; } }
+
+.remote-toggle { position: fixed; bottom: 20px; right: 20px; background: var(--accent); color: #0f1419; border: none; width: 48px; height: 48px; border-radius: 50%; cursor: pointer; z-index: 101; display: none; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(0,0,0,0.4); font-size: 20px; font-weight: 700; }
+.remote-backdrop { position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 99; display: none; opacity: 0; transition: opacity 0.2s; }
+.remote-backdrop.show { display: block; opacity: 1; }
+
 @media (max-width: 900px) { .remote { right: 12px; width: 110px; font-size: 10px; } }
-@media (max-width: 640px) { .remote { display: none; } }
+@media (max-width: 640px) {
+  body { padding: 20px 14px 80px; }
+  .container { max-width: 100%; }
+  h1 { font-size: 24px; }
+  .subtitle { font-size: 13px; }
+  header { padding-bottom: 18px; margin-bottom: 22px; }
+  .meta { padding: 12px; gap: 10px; grid-template-columns: 1fr 1fr; font-size: 12px; }
+  .meta-label { font-size: 10px; }
+  .notice { padding: 10px 12px; font-size: 12px; margin: 16px 0 24px; }
+  .legend { padding: 12px; font-size: 12px; margin-bottom: 24px; }
+  .legend-row { gap: 6px 12px; }
+  .timeline { padding-left: 16px; }
+  .event { padding-left: 14px; margin-bottom: 22px; }
+  .event::before { left: -22px; width: 10px; height: 10px; top: 7px; }
+  .title { font-size: 15px; }
+  .desc { font-size: 13.5px; }
+  .sources { font-size: 11.5px; }
+  .sources a { display: inline-block; margin: 2px 8px 2px 0; }
+  .era { font-size: 13px; margin-top: 28px; }
+  footer { margin-top: 40px; font-size: 12px; }
+
+  .remote {
+    display: none;
+    position: fixed; top: auto; bottom: 0; left: 0; right: 0;
+    transform: translateY(100%); transition: transform 0.25s ease-out;
+    width: 100%; max-height: 70vh; font-size: 12px;
+    border-radius: 14px 14px 0 0; padding: 14px 12px calc(14px + env(safe-area-inset-bottom, 0));
+    box-shadow: 0 -8px 32px rgba(0,0,0,0.5);
+  }
+  .remote.show { display: block; transform: translateY(0); }
+  .remote-title { font-size: 11px; padding-bottom: 10px; margin-bottom: 10px; }
+  .remote-era { font-size: 11px; padding: 6px 8px; }
+  .remote-year { padding: 8px 12px; font-size: 13px; }
+  .remote-year:hover { padding-left: 16px; }
+  .remote-toggle { display: flex; }
+}

@@ -6,14 +6,29 @@
       "id": "cheongna-city-tower",
       "title": "인천 서구 청라 시티타워",
       "file": "인천_청라_시티타워_2026-05-16.html",
-      "researchedAt": "2026-05-16",
-      "timeRange": "2006 ~ 2026-02",
+      "researchedAt": "2026-06-17",
+      "timeRange": "2006 ~ 2026-06",
       "eventCount": 51,
-      "categories": ["인프라", "랜드마크", "공공사업"],
-      "tags": ["IFEZ", "LH", "청라", "건설", "소송"],
+      "categories": [
+        "인프라",
+        "랜드마크",
+        "공공사업"
+      ],
+      "tags": [
+        "IFEZ",
+        "LH",
+        "청라",
+        "건설",
+        "소송"
+      ],
       "status": "분쟁중",
       "summary": "청라호수공원 중심부 448m 전망타워 사업 — 2006년 LH 추진부터 2022 포스코 우협, 2023-02-13 한양 납기 미준수(공정률 0.74%), 2023-05 협약 해지, 2024 항공안전 검증, 2026-02-12 1심 LH 패소·항소까지 20년사",
-      "related": ["cheongna-line7", "cheongna-starfield", "cheongna-ibd", "cheongna-lake-park"]
+      "related": [
+        "cheongna-line7",
+        "cheongna-starfield",
+        "cheongna-ibd",
+        "cheongna-lake-park"
+      ]
     },
     {
       "id": "cheongna-line7",
@@ -21,12 +36,28 @@
       "file": "인천_청라_7호선_2026-05-16.html",
       "researchedAt": "2026-06-17",
       "timeRange": "2003 ~ 2026-06",
-      "eventCount": 34,
-      "categories": ["교통", "지하철", "공공사업"],
-      "tags": ["서울지하철7호선", "인천시", "국토부", "예타", "지반침하", "다원시스"],
+      "eventCount": 32,
+      "categories": [
+        "교통",
+        "지하철",
+        "공공사업"
+      ],
+      "tags": [
+        "서울지하철7호선",
+        "인천시",
+        "국토부",
+        "예타",
+        "지반침하",
+        "다원시스"
+      ],
       "status": "시공중",
-      "summary": "서울 7호선 청라 연장선 23년사 — 2003 IFEZ 청사진부터 진행 중. 다원시스 기업회생(2026-03~04)·전동차 미확보에 2026-06 인수위가 개통 3~4년 지연(1단계 2030·2단계 2033) 공식화, 경찰 배임 내사까지",
-      "related": ["cheongna-city-tower", "cheongna-starfield", "cheongna-seoul-line2", "cheongna-grt"]
+      "summary": "서울 7호선 청라 연장선 23년사 — 2003 IFEZ 청사진부터. 다원시스 기업회생(2026-03~04)·전동차 미확보에 2026-06-17 인수위가 개통 3~4년 지연(1단계 2030·2단계 2033) 공식화, 유정복 은폐 의혹·220억 기성금 배임 내사까지",
+      "related": [
+        "cheongna-city-tower",
+        "cheongna-starfield",
+        "cheongna-seoul-line2",
+        "cheongna-grt"
+      ]
     },
     {
       "id": "cheongna-seoul-line2",
@@ -35,11 +66,49 @@
       "researchedAt": "2026-06-17",
       "timeRange": "2013 ~ 2026-06",
       "eventCount": 20,
-      "categories": ["교통", "지하철", "공공사업"],
-      "tags": ["대장홍대선", "서울지하철2호선", "인천시", "국토부", "국가철도망"],
+      "categories": [
+        "교통",
+        "지하철",
+        "공공사업"
+      ],
+      "tags": [
+        "대장홍대선",
+        "서울지하철2호선",
+        "인천시",
+        "국토부",
+        "국가철도망"
+      ],
       "status": "발표대기",
-      "summary": "대장홍대선의 청라 연장 = 속칭 '청라 2호선' — 2013 인천시 첫 용역부터, 2026-06 시민연합 청라·계양역 연장 촉구. 제5차 국가철도망(올 하반기 발표) 반영 대기",
-      "related": ["cheongna-line7"]
+      "summary": "대장홍대선의 청라 연장 = 속칭 '청라 2호선' — 2013 인천시 첫 용역부터, 2026-06-12 시민연합이 유동수 의원과 면담해 청라·계양역 연장 촉구. 제5차 국가철도망(올 하반기 발표) 반영 대기",
+      "related": [
+        "cheongna-line7"
+      ]
+    },
+    {
+      "id": "cheongna-line9-direct",
+      "title": "인천 청라 9호선 직결",
+      "file": "인천_청라_9호선직결_2026-05-16.html",
+      "researchedAt": "2026-06-17",
+      "timeRange": "1999 ~ 2026-06",
+      "eventCount": 9,
+      "categories": [
+        "교통",
+        "지하철",
+        "공공사업"
+      ],
+      "tags": [
+        "공항철도",
+        "서울지하철9호선",
+        "직결",
+        "청라국제도시역",
+        "예타"
+      ],
+      "status": "추진중",
+      "summary": "공항철도-서울 9호선 직결 — 1999년부터 추진된 인천 서북부 25년 숙원사업. 김포공항역 인근서 직결, 청라국제도시역 직접 수혜. 2023-11 인천·서울시 비용분담 합의(운영비 서울 전액·시설비 401억 중 인천 200억) 후 2025~2026 예타(B/C) 확보가 최종 관문",
+      "related": [
+        "cheongna-line7",
+        "cheongna-seoul-line2"
+      ]
     },
     {
       "id": "cheongna-starfield",
@@ -48,21 +117,43 @@
       "researchedAt": "2026-06-17",
       "timeRange": "2012 ~ 2026-06",
       "eventCount": 25,
-      "categories": ["상업시설", "랜드마크"],
-      "tags": ["신세계", "정용진", "돔구장", "SSG", "IFEZ"],
+      "categories": [
+        "상업시설",
+        "랜드마크"
+      ],
+      "tags": [
+        "신세계",
+        "정용진",
+        "돔구장",
+        "SSG",
+        "IFEZ"
+      ],
       "status": "시공중",
-      "summary": "스타필드 청라 — 2012 부지매입부터 돔구장 결합. 2026-06 공정률 40~45%, 돔 지붕공사 진행. 2027-12 준공·2028 초 개장 예정",
-      "related": ["cheongna-city-tower", "cheongna-line7", "cheongna-dome", "cheongna-costco"]
+      "summary": "스타필드 청라 — 2012 부지매입부터 돔구장 결합. 2026-06 공정률 40~45%, 돔 지붕공사 진행. 임영록 대표 사임·정용진 회장 전면. 2027-12 준공·2028 초 개장 예정",
+      "related": [
+        "cheongna-city-tower",
+        "cheongna-line7",
+        "cheongna-dome",
+        "cheongna-costco"
+      ]
     },
     {
       "id": "cheongna-asan-hospital",
       "title": "인천 청라 아산병원",
       "file": "인천_청라_아산병원_2026-05-16.html",
       "researchedAt": "2026-06-17",
-      "timeRange": "2021 ~ 2025-12",
+      "timeRange": "2021 ~ 2026-06",
       "eventCount": 10,
-      "categories": ["의료", "랜드마크"],
-      "tags": ["서울아산병원", "IFEZ", "PFV", "의료복합타운"],
+      "categories": [
+        "의료",
+        "랜드마크"
+      ],
+      "tags": [
+        "서울아산병원",
+        "IFEZ",
+        "PFV",
+        "의료복합타운"
+      ],
       "status": "착공",
       "summary": "서울아산청라병원 — 2021 우선협상자 선정부터 공사비 5천억 분쟁·2025-12-29 착공까지. 2029 개원 목표",
       "related": []
@@ -74,24 +165,51 @@
       "researchedAt": "2026-05-16",
       "timeRange": "2005 ~ 2025",
       "eventCount": 16,
-      "categories": ["업무지구", "금융", "공공사업"],
-      "tags": ["LH", "미래에셋", "한양", "보성산업", "IBD", "청라스마트시티"],
+      "categories": [
+        "업무지구",
+        "금융",
+        "공공사업"
+      ],
+      "tags": [
+        "LH",
+        "미래에셋",
+        "한양",
+        "보성산업",
+        "IBD",
+        "청라스마트시티"
+      ],
       "status": "시공중",
       "summary": "청라국제금융단지(한양·보성)와 청라국제업무단지(LH-미래에셋) 두 별개 사업 21년사 — 2005 개발계획부터 2024-08 IBD 분양·착공, 2025-06 '청라 3.0' 본격화·대우건설 5,274억 공급계약, 2030~2035 완공 목표",
-      "related": ["cheongna-city-tower", "cheongna-hana"]
+      "related": [
+        "cheongna-city-tower",
+        "cheongna-hana"
+      ]
     },
     {
       "id": "cheongna-hana",
       "title": "인천 청라 하나금융타운",
       "file": "인천_청라_하나금융타운_2026-05-16.html",
       "researchedAt": "2026-06-17",
-      "timeRange": "2014 ~ 2026-05",
-      "eventCount": 12,
-      "categories": ["업무지구", "금융", "랜드마크"],
-      "tags": ["하나금융", "드림타운", "데이터센터", "글로벌캠퍼스", "헤드쿼터"],
+      "timeRange": "2014 ~ 2026-09",
+      "eventCount": 13,
+      "categories": [
+        "업무지구",
+        "금융",
+        "랜드마크"
+      ],
+      "tags": [
+        "하나금융",
+        "드림타운",
+        "데이터센터",
+        "글로벌캠퍼스",
+        "헤드쿼터",
+        "본사이전"
+      ],
       "status": "준공",
-      "summary": "하나드림타운 1·2·3단계 — 2017 통합데이터센터·2019 글로벌캠퍼스·2026-05-21 헤드쿼터 준공 완료·본사 소재지 서울→청라 변경 의결, 2026-09~연말 10개 관계사 2,200명 단계 이전",
-      "related": ["cheongna-ibd"]
+      "summary": "하나드림타운 1·2·3단계 — 2017 통합데이터센터·2019 글로벌캠퍼스·2026-05-21 헤드쿼터 준공. 본사 소재지 서울→청라 정관 변경(효력 9-30), 2026-09~연말 10개 관계사 약 2,200명 단계 이전. 인천시금고 쟁탈전 변수",
+      "related": [
+        "cheongna-ibd"
+      ]
     },
     {
       "id": "cheongna-robotland",
@@ -100,11 +218,21 @@
       "researchedAt": "2026-05-16",
       "timeRange": "2007 ~ 2026",
       "eventCount": 10,
-      "categories": ["산업단지", "공공사업"],
-      "tags": ["산업통상자원부", "iH", "인천도시공사", "로봇클러스터"],
+      "categories": [
+        "산업단지",
+        "공공사업"
+      ],
+      "tags": [
+        "산업통상자원부",
+        "iH",
+        "인천도시공사",
+        "로봇클러스터"
+      ],
       "status": "시공중",
       "summary": "인천로봇랜드 — 2007 정부 지정 후 17년 표류, 2024 첫 삽. 2025-12 도시첨단산업단지 지정, 2026-04 미래차 사이버보안 인프라 확정, 2027 기반시설 준공·2026 하반기 용지공급 목표",
-      "related": ["cheongna-ihp"]
+      "related": [
+        "cheongna-ihp"
+      ]
     },
     {
       "id": "cheongna-dome",
@@ -113,23 +241,44 @@
       "researchedAt": "2026-06-17",
       "timeRange": "2021 ~ 2028",
       "eventCount": 10,
-      "categories": ["상업시설", "스포츠", "랜드마크"],
-      "tags": ["SSG랜더스", "신세계", "정용진", "스타필드"],
+      "categories": [
+        "상업시설",
+        "스포츠",
+        "랜드마크"
+      ],
+      "tags": [
+        "SSG랜더스",
+        "신세계",
+        "정용진",
+        "스타필드"
+      ],
       "status": "시공중",
-      "summary": "청라 돔야구장 — 2021 SSG 인수부터 골조 시공·6,000억 투자 유치, 2026-05 지붕 설치 완료(국내 2번째 돔). 2027 말 준공·2028 SSG 홈경기장 사용 예정",
-      "related": ["cheongna-starfield"]
+      "summary": "청라 돔야구장 — 2021 SSG 인수부터 골조 시공·6,000억 투자 유치, 2026-05 지붕 올림(사각 철골+8각 유리, 국내 2번째 돔). 2027 말 준공·2028 SSG 홈경기장 사용 예정",
+      "related": [
+        "cheongna-starfield"
+      ]
     },
     {
       "id": "cheongna-skybridge",
       "title": "인천 청라 청라하늘대교",
       "file": "인천_청라_청라하늘대교_2026-05-16.html",
-      "researchedAt": "2026-05-16",
-      "timeRange": "2006 ~ 2026-04",
-      "eventCount": 9,
-      "categories": ["교통", "인프라", "공공사업"],
-      "tags": ["제3연륙교", "LH", "통행료", "영종", "민자분쟁"],
+      "researchedAt": "2026-06-17",
+      "timeRange": "2006 ~ 2026-06",
+      "eventCount": 13,
+      "categories": [
+        "교통",
+        "인프라",
+        "공공사업"
+      ],
+      "tags": [
+        "제3연륙교",
+        "LH",
+        "통행료",
+        "영종",
+        "민자분쟁"
+      ],
       "status": "준공",
-      "summary": "영종~청라 4.67km 해상교량 — 2006 LH 결정·14년 통행료 분쟁 끝 2020 착공·2026-01-05 개통·2026-04-06 인천시민 통행료 무료 시행",
+      "summary": "영종~청라 4.67km 해상교량 — 2006 LH 결정·14년 통행료 분쟁 끝 2020 착공·2026-01-05 개통·4-06 인천시민 통행료 전액 면제. 5~6월 육군 17사단 해상데크 자물쇠 통제 논란이 6-15 협의 타결로 해소·개방, 6월 전망대 'THE SKY 184' 관광해설 운영",
       "related": []
     },
     {
@@ -139,11 +288,22 @@
       "researchedAt": "2026-05-16",
       "timeRange": "2011-07 ~ 2025",
       "eventCount": 8,
-      "categories": ["산업단지", "업무지구"],
-      "tags": ["인천하이테크파크", "한국GM", "현대모비스", "BMW", "R&D"],
+      "categories": [
+        "산업단지",
+        "업무지구"
+      ],
+      "tags": [
+        "인천하이테크파크",
+        "한국GM",
+        "현대모비스",
+        "BMW",
+        "R&D"
+      ],
       "status": "준공",
       "summary": "청라 IHP 113만㎡ 산업단지 — 2011-07-13 도시첨단산업단지 지정. 한국GM·현대모비스·BMW·현대무벡스 입주, 자족형 R&D 거점 완성 단계",
-      "related": ["cheongna-robotland"]
+      "related": [
+        "cheongna-robotland"
+      ]
     },
     {
       "id": "cheongna-bearsbest",
@@ -152,8 +312,16 @@
       "researchedAt": "2026-05-16",
       "timeRange": "2010 ~ 2014",
       "eventCount": 4,
-      "categories": ["여가", "랜드마크"],
-      "tags": ["골프장", "잭니클라우스", "페어웨이빌리지", "KLPGA"],
+      "categories": [
+        "여가",
+        "랜드마크"
+      ],
+      "tags": [
+        "골프장",
+        "잭니클라우스",
+        "페어웨이빌리지",
+        "KLPGA"
+      ],
       "status": "완료",
       "summary": "베어즈베스트 청라 골프클럽 — 2012-05-27 개장, 잭 니클라우스 설계 27홀. 청라 권역 첫 완료 대형 시설",
       "related": []
@@ -165,8 +333,16 @@
       "researchedAt": "2026-05-16",
       "timeRange": "2010 ~ 2011",
       "eventCount": 5,
-      "categories": ["교육", "랜드마크"],
-      "tags": ["봉덕학원", "달튼스쿨", "외국인학교", "글로벌교육"],
+      "categories": [
+        "교육",
+        "랜드마크"
+      ],
+      "tags": [
+        "봉덕학원",
+        "달튼스쿨",
+        "외국인학교",
+        "글로벌교육"
+      ],
       "status": "완료",
       "summary": "청라달튼외국인학교 — 2010 봉덕학원-뉴욕달튼 협약, 2011-09-01 개교. 국내 최초 학력 인정 외국인학교",
       "related": []
@@ -178,11 +354,21 @@
       "researchedAt": "2026-05-16",
       "timeRange": "2019-10 ~ 2024-08",
       "eventCount": 8,
-      "categories": ["상업시설"],
-      "tags": ["코스트코", "창고형매장", "미국식표준형", "IFEZ", "LH"],
+      "categories": [
+        "상업시설"
+      ],
+      "tags": [
+        "코스트코",
+        "창고형매장",
+        "미국식표준형",
+        "IFEZ",
+        "LH"
+      ],
       "status": "완료",
       "summary": "코스트코 청라점 — 2019-10-23 IFEZ 양해각서·2021-12-23 LH 협약·2022-02 토지매매·2023-06 착공·2024-08-21 개장. 국내 19번째·국내 최초 미국식 표준형 단일층 매장",
-      "related": ["cheongna-starfield"]
+      "related": [
+        "cheongna-starfield"
+      ]
     },
     {
       "id": "cheongna-grt",
@@ -191,11 +377,22 @@
       "researchedAt": "2026-05-16",
       "timeRange": "2009-11 ~ 2022",
       "eventCount": 9,
-      "categories": ["교통", "공공사업"],
-      "tags": ["바이모달트램", "신교통", "인천교통공사", "701", "702"],
+      "categories": [
+        "교통",
+        "공공사업"
+      ],
+      "tags": [
+        "바이모달트램",
+        "신교통",
+        "인천교통공사",
+        "701",
+        "702"
+      ],
       "status": "보류",
       "summary": "청라국제도시 GRT — 7호선 좌초 대체로 도입, 2018-02-05 정식 개통. 2022 2단계 확장 보류",
-      "related": ["cheongna-line7"]
+      "related": [
+        "cheongna-line7"
+      ]
     },
     {
       "id": "cheongna-gm",
@@ -204,11 +401,25 @@
       "researchedAt": "2026-05-16",
       "timeRange": "2010s ~ 2026",
       "eventCount": 7,
-      "categories": ["산업단지", "랜드마크"],
-      "tags": ["한국GM", "GMTCK", "청라프루빙그라운드", "버추얼엔지니어링랩", "커넥티드카", "IHP"],
+      "categories": [
+        "산업단지",
+        "랜드마크"
+      ],
+      "tags": [
+        "한국GM",
+        "GMTCK",
+        "청라프루빙그라운드",
+        "버추얼엔지니어링랩",
+        "커넥티드카",
+        "IHP"
+      ],
       "status": "운영중",
       "summary": "청라 주행시험장+GMTCK — 2017 IHP 입주, 2025-12 3억달러 추가 투자 발표, 2026-03 버추얼 엔지니어링 랩 개소. GM 글로벌 5대 R&D 핵심 거점",
-      "related": ["cheongna-ihp", "cheongna-uam", "cheongna-bmw"]
+      "related": [
+        "cheongna-ihp",
+        "cheongna-uam",
+        "cheongna-bmw"
+      ]
     },
     {
       "id": "cheongna-bmw",
@@ -217,24 +428,48 @@
       "researchedAt": "2026-05-16",
       "timeRange": "2021-12 ~ 2024-04",
       "eventCount": 6,
-      "categories": ["산업단지", "랜드마크"],
-      "tags": ["BMW", "R&D", "외국인투자", "IHP", "글로벌5번째"],
+      "categories": [
+        "산업단지",
+        "랜드마크"
+      ],
+      "tags": [
+        "BMW",
+        "R&D",
+        "외국인투자",
+        "IHP",
+        "글로벌5번째"
+      ],
       "status": "운영중",
       "summary": "BMW 그룹 R&D 센터 코리아 — 2021-12 MOU, 2022-08 본협약, 2023-05 착공, 2024-04-22 개관. BMW 글로벌 R&D 5번째 거점. 청라 외투 모범 사례",
-      "related": ["cheongna-ihp", "cheongna-gm"]
+      "related": [
+        "cheongna-ihp",
+        "cheongna-gm"
+      ]
     },
     {
       "id": "cheongna-hyundai-mobis-h2",
       "title": "인천 청라 현대모비스 수소공장",
       "file": "인천_청라_현대모비스수소공장_2026-05-16.html",
-      "researchedAt": "2026-05-16",
-      "timeRange": "2021-08 ~ 2026-01",
-      "eventCount": 9,
-      "categories": ["산업단지", "신산업"],
-      "tags": ["현대모비스", "수소연료전지", "IHP", "1.3조투자", "방치", "사업이관"],
-      "status": "좌초",
-      "summary": "9,227억 청라 수소연료전지 스택 공장 — 2021-10 기공식 후 5년째 빈 땅. 2024-02 현대차로 사업 이관 시 청라·울산 부지 제외, 2024-12 '활용 계획 없음' 답변, 2026-01 단독 보도",
-      "related": ["cheongna-ihp"]
+      "researchedAt": "2026-06-17",
+      "timeRange": "2021-08 ~ 2026-03",
+      "eventCount": 10,
+      "categories": [
+        "산업단지",
+        "신산업"
+      ],
+      "tags": [
+        "현대모비스",
+        "수소연료전지",
+        "IHP",
+        "1.3조투자",
+        "방치",
+        "사업이관"
+      ],
+      "status": "취소",
+      "summary": "청라 IHP 수소연료전지 공장 — 2021-08 현대모비스가 청라분 9,227억(인천·울산 합산 1.3조) 투자 발표 후 부지 방치 끝에 2026-03-31 사업 공식 취소(F2-2 3만341평 백지화). 알짜 부지 장기 방치 논란",
+      "related": [
+        "cheongna-ihp"
+      ]
     },
     {
       "id": "cheongna-uam",
@@ -243,11 +478,23 @@
       "researchedAt": "2026-05-16",
       "timeRange": "2022 ~ 2025",
       "eventCount": 6,
-      "categories": ["교통", "신산업"],
-      "tags": ["UAM", "도심항공교통", "버티포트", "K-UAM", "인천공항공사", "청라드론센터"],
+      "categories": [
+        "교통",
+        "신산업"
+      ],
+      "tags": [
+        "UAM",
+        "도심항공교통",
+        "버티포트",
+        "K-UAM",
+        "인천공항공사",
+        "청라드론센터"
+      ],
       "status": "실증완료",
       "summary": "청라 드론센터 K-UAM 실증 거점 — 2024-10 청라~계양 도심 UAM 통합운용 실증 성공 (대한항공·KT·현대차·현대건설 컨소시엄). 2025-11 인천공항공사 공식 발표, 상용화 대기",
-      "related": ["cheongna-skybridge"]
+      "related": [
+        "cheongna-skybridge"
+      ]
     },
     {
       "id": "cheongna-flower",
@@ -256,11 +503,25 @@
       "researchedAt": "2026-06-17",
       "timeRange": "2003 ~ 2026-04",
       "eventCount": 10,
-      "categories": ["산업단지", "농업"],
-      "tags": ["화훼", "친환경복합단지", "농어촌공사", "IFEZ", "글로벌화훼허브", "네덜란드", "부분준공", "소송"],
+      "categories": [
+        "산업단지",
+        "농업"
+      ],
+      "tags": [
+        "화훼",
+        "친환경복합단지",
+        "농어촌공사",
+        "IFEZ",
+        "글로벌화훼허브",
+        "네덜란드",
+        "부분준공",
+        "소송"
+      ],
       "status": "답보",
-      "summary": "청라 친환경복합단지(42만㎡) 내 화훼산업용지 — 2003 LH 마스터플랜·2021 농어촌공사 백지화·2025-01 네덜란드 LOI 발표 후, 2026-03 농어촌공사가 13만㎡ 부분 준공 추진했으나 개발계획 변경 지연·다수 사업자 소송으로 차질. 23년째 답보",
-      "related": ["cheongna-ihp"]
+      "summary": "청라 친환경복합단지(42만㎡) 내 화훼산업용지(10만㎡) — 2003 LH 마스터플랜·2021 농어촌공사 백지화·2025-01 네덜란드 LOI 후, 2026-03 농어촌공사가 13만㎡ 부분 준공 추진했으나 개발계획 변경 지연·다수 사업자 소송으로 차질. 23년째 답보",
+      "related": [
+        "cheongna-ihp"
+      ]
     },
     {
       "id": "cheongna-g-city",
@@ -269,11 +530,23 @@
       "researchedAt": "2026-05-16",
       "timeRange": "2018-04 ~ 2019-04",
       "eventCount": 5,
-      "categories": ["업무지구", "공공사업"],
-      "tags": ["G-City", "구글", "LG", "MOU만료", "좌초"],
+      "categories": [
+        "업무지구",
+        "공공사업"
+      ],
+      "tags": [
+        "G-City",
+        "구글",
+        "LG",
+        "MOU만료",
+        "좌초"
+      ],
       "status": "무산",
       "summary": "청라 G-City — 2018-04-12 MOU 체결, '구글·LG 입주' 마케팅. 2019-04-11 사업계획서 미제출로 정확히 1년만에 MOU 만료·무산. 청라스마트시티(IBD) 재공모의 출발점",
-      "related": ["cheongna-ibd", "cheongna-streaming"]
+      "related": [
+        "cheongna-ibd",
+        "cheongna-streaming"
+      ]
     },
     {
       "id": "cheongna-streaming",
@@ -282,24 +555,49 @@
       "researchedAt": "2026-05-16",
       "timeRange": "2020-05 ~ 2022-12",
       "eventCount": 6,
-      "categories": ["문화시설", "공공사업"],
-      "tags": ["스트리밍시티", "영상콘텐츠", "MOU만료", "IFEZ", "LH"],
+      "categories": [
+        "문화시설",
+        "공공사업"
+      ],
+      "tags": [
+        "스트리밍시티",
+        "영상콘텐츠",
+        "MOU만료",
+        "IFEZ",
+        "LH"
+      ],
       "status": "후속전환",
       "summary": "청라 영상·문화 콘텐츠 제작단지 8,400억 — 2020-06 MOU, 2021-06 자금조달 실패로 ㈜스트리밍시티 MOU만 만료. 사업 자체는 더이앤엠 컨소시엄에 인계되어 계속 진행 중",
-      "related": ["cheongna-g-city", "cheongna-video-culture"]
+      "related": [
+        "cheongna-g-city",
+        "cheongna-video-culture"
+      ]
     },
     {
       "id": "cheongna-video-culture",
       "title": "인천 청라 영상문화복합단지",
       "file": "인천_청라_영상문화단지_2026-05-16.html",
-      "researchedAt": "2026-06-17",
+      "researchedAt": "2026-05-16",
       "timeRange": "2022-07 ~ 2026-04 (답보)",
       "eventCount": 14,
-      "categories": ["문화시설", "랜드마크"],
-      "tags": ["더이앤엠", "팝콘티비", "청라게이트", "IFEZ", "LH", "검은머리외국인", "배임수재"],
+      "categories": [
+        "문화시설",
+        "랜드마크"
+      ],
+      "tags": [
+        "더이앤엠",
+        "팝콘티비",
+        "청라게이트",
+        "IFEZ",
+        "LH",
+        "검은머리외국인",
+        "배임수재"
+      ],
       "status": "답보",
       "summary": "스트리밍시티 후속 — 2022-12 더이앤엠 선정 후 3년 4개월 답보. 외투 검은머리·재무 빈약·경영진 배임수재 수사 '청라게이트' 폭로 + 2026-04 경자단 5-4블록 변경 반대로 협약 미체결",
-      "related": ["cheongna-streaming"]
+      "related": [
+        "cheongna-streaming"
+      ]
     },
     {
       "id": "cheongna-lake-park",
@@ -308,11 +606,22 @@
       "researchedAt": "2026-05-16",
       "timeRange": "2011 ~ 2025",
       "eventCount": 7,
-      "categories": ["여가", "인프라"],
-      "tags": ["청라호수공원", "커널웨이", "주운수로", "야경", "LH"],
+      "categories": [
+        "여가",
+        "인프라"
+      ],
+      "tags": [
+        "청라호수공원",
+        "커널웨이",
+        "주운수로",
+        "야경",
+        "LH"
+      ],
       "status": "완료",
       "summary": "청라 호수공원·커널웨이 — 4.3km 산책로 + 4.5km 운하. 2025 경관조명 개선 완료, 청라 핵심 친수 인프라",
-      "related": ["cheongna-city-tower"]
+      "related": [
+        "cheongna-city-tower"
+      ]
     }
   ],
   "categoryColors": {
