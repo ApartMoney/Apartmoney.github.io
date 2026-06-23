@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 24 Jun 2026 06:00:00 +0900",
-	"total":296844,
+	"lastBuildDate":"Wed, 24 Jun 2026 06:10:01 +0900",
+	"total":296845,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인터뷰]박찬대 &quot;인천, 서울·경기보다 효율적…정부 규제 풀 것&quot;",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260623_0003679635",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014023805?sid=102",
+			"description":"서울7호선 <b>청라<\/b>연장 개통 4년 지연 등 문제가 드러나고 있다. 박 당선인은 &quot;큰 그림들은 그려지고 있는데... 인공지능(AI)와 바이오(B) 거점인 영종, <b>청라<\/b>, 송도는 경제자유구역에 있어 수도권 규제를 받지 않는다. 문화(C)... ",
+			"pubDate":"Wed, 24 Jun 2026 06:00:00 +0900"
+		},
 		{
 			"title":"[인천판\/게시판]인천 外",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20260623\/134168304\/2",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=320468",
 			"description":"서울7호선 <b>청라<\/b>연장선부터 보자. 인천시는 2025년 1월부터 약 14개월 공기 지연을 인지했다. 당초 2027년 개통... <b>청라<\/b>국제도시와 서울을 연결하는 핵심 광역교통망이다. 이 사업의 지연은 <b>청라<\/b> 주민들의 교통 편의와 정주... ",
 			"pubDate":"Tue, 23 Jun 2026 15:14:00 +0900"
-		},
-		{
-			"title":"5대 시중은행 자체 IDC 건립 '박차'…전력 및 부지 확보 변수",
-			"originallink":"https:\/\/www.ddaily.co.kr\/page\/view\/2026062310290287769",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002231772?sid=105",
-			"description":"기존 <b>청라<\/b> 통합데이터센터를 운영 중인 하나은행 역시 미래 IT 자원 수요 증가에 대비해 추가적인 신규 부지 확보 방안을 초기 단계에서 검토하기 시작한 것으로 알려졌다. 관련 업계에 따르면, 100여개 이상의 후보지를... ",
-			"pubDate":"Tue, 23 Jun 2026 14:33:00 +0900"
 		}
 	]
 }
