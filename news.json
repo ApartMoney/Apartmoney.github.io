@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 23 Jun 2026 16:30:01 +0900",
-	"total":296824,
+	"lastBuildDate":"Tue, 23 Jun 2026 16:40:01 +0900",
+	"total":296825,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[OBS 뉴스 오늘1] 박찬대호, 인천시정 대대적 손질 예고",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1528353",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1528353",
+			"description":"7호선 <b>청라<\/b> 연장 개통 지연 일파만파 박찬대 인수위 &quot;인천시, 지연 알고도 은폐&quot; 1년 넘게 개통 지연 가능성 인지에도 공개 미뤄 유정복 민선 8기 시정부, '밀실 행정' 논란은 <b>청라<\/b> 연장 지연 대책 관심…인수위 &quot;공기 단축... ",
+			"pubDate":"Tue, 23 Jun 2026 16:36:00 +0900"
+		},
 		{
 			"title":"인천 4천억 재정 공백에 '지방채 발행' 두고 여야 공방 [굿모닝 인천 - ...",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=473567",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/ic.newdaily.co.kr\/site\/data\/html\/2026\/06\/23\/2026062300003.html",
 			"description":"하지만 자체 투자유치 활동을 통해 FDI를 이끌어 낸 결과물은 하나도 없이 롯데바이오로직스(도착액 2990만 달러)와 TOK첨단재료(2460만 달러), 스타필드<b>청라<\/b>(5100만 달러), 코스트코 코리아(6140만 달러) 등 입주... ",
 			"pubDate":"Tue, 23 Jun 2026 02:10:00 +0900"
-		},
-		{
-			"title":"한승일 인천서구의회 의원 “습식 스프링클러 확대, 동파 안전 대책까지...",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/kn\/view.php?key=20260622002330212",
-			"link":"https:\/\/www.asiatoday.co.kr\/kn\/view.php?key=20260622002330212",
-			"description":"한 의원은 22일 보도자료를 통해 최근 인천 <b>청라<\/b> 아파트 지하주차장 전기차 화재를 비롯해 의왕 아파트 화재, 대전 현대아울렛 화재 등 대형 화재 사례를 언급하며 초기 진압 설비의 중요성을 강조했다. 특히 화재 발생 후... ",
-			"pubDate":"Mon, 22 Jun 2026 23:36:00 +0900"
 		}
 	]
 }
