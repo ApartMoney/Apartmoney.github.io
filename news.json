@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 25 Jun 2026 08:20:01 +0900",
-	"total":296913,
+	"lastBuildDate":"Thu, 25 Jun 2026 08:30:01 +0900",
+	"total":296914,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"롯데百 인천점, 편집숍 '더콘란샵' 개점…국내 5번째 매장",
+			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=462883",
+			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=462883",
+			"description":"특히 송도, <b>청라<\/b>, 영종 등의 신규 입주 수요를 고려해 조명, 텍스타일, 리빙소품까지 원스톱으로 쇼핑할 수 있게 했다. 개점을 기념해 7월 26일까지 디자인 조명 및 체어를 최대 20% 할인하고, USM 상품 500만원 이상 구매... ",
+			"pubDate":"Thu, 25 Jun 2026 08:20:00 +0900"
+		},
 		{
 			"title":"[패트롤] 인천시의회(5분 자유발언)",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20260625022096253",
@@ -61,17 +68,10 @@
 			"pubDate":"Thu, 25 Jun 2026 06:02:00 +0900"
 		},
 		{
-			"title":"[창간기획] 하나금융 함영주 2기, '3강' 입성 뒤 남겨진 비은행·거버넌...",
-			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=205995",
-			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=205995",
-			"description":"인천 <b>청라<\/b>로 옮겨 금융지주 가운데 처음으로 '탈서울'에 나선다. 다만 이 실적을 견인한 비은행 계열사... ◆금융권 최초 본사 서울 밖으로…'<b>청라<\/b> 시대' 여는 하나금융 하나금융은 오는 9월 인천 <b>청라<\/b>에 총사업비 6... ",
-			"pubDate":"Thu, 25 Jun 2026 06:00:00 +0900"
-		},
-		{
-			"title":"롯데百, 라이프스타일 편집숍 '더콘란샵' 인천점 개장",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2026062416543014133",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005781074?sid=101",
-			"description":"송도, <b>청라<\/b>, 영종 등 신규 입주 수요가 높은 지역 특성을 고려해 가구부터 조명, 텍스타일, 리빙 소품까지 아우르는 원스톱 라이프스타일 큐레이션도 선보인다. 신규 오픈을 기념한 다양한 프로모션도 진행한다.... ",
+			"title":"롯데百 인천점, 편집숍 '더콘란샵' 개점…글로벌 가구 중심 구성",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260624147900030?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016157403?sid=101",
+			"description":"특히 송도, <b>청라<\/b>, 영종 등의 신규 입주 수요를 고려해 조명, 텍스타일, 리빙소품까지 원스톱으로 쇼핑할 수 있게 했다. 개점을 기념해 7월 26일까지 디자인 조명 및 체어를 최대 20% 할인하고, USM 상품 500만원 이상 구매... ",
 			"pubDate":"Thu, 25 Jun 2026 06:00:00 +0900"
 		},
 		{
@@ -82,17 +82,24 @@
 			"pubDate":"Thu, 25 Jun 2026 06:00:00 +0900"
 		},
 		{
+			"title":"롯데百, 라이프스타일 편집숍 '더콘란샵' 인천점 개장",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2026062416543014133",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005781074?sid=101",
+			"description":"송도, <b>청라<\/b>, 영종 등 신규 입주 수요가 높은 지역 특성을 고려해 가구부터 조명, 텍스타일, 리빙 소품까지 아우르는 원스톱 라이프스타일 큐레이션도 선보인다. 신규 오픈을 기념한 다양한 프로모션도 진행한다.... ",
+			"pubDate":"Thu, 25 Jun 2026 06:00:00 +0900"
+		},
+		{
+			"title":"[창간기획] 하나금융 함영주 2기, '3강' 입성 뒤 남겨진 비은행·거버넌...",
+			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=205995",
+			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=205995",
+			"description":"인천 <b>청라<\/b>로 옮겨 금융지주 가운데 처음으로 '탈서울'에 나선다. 다만 이 실적을 견인한 비은행 계열사... ◆금융권 최초 본사 서울 밖으로…'<b>청라<\/b> 시대' 여는 하나금융 하나금융은 오는 9월 인천 <b>청라<\/b>에 총사업비 6... ",
+			"pubDate":"Thu, 25 Jun 2026 06:00:00 +0900"
+		},
+		{
 			"title":"&quot;서부 상권 선점&quot;…롯데百 인천점, '더 콘란샵' 오픈",
 			"originallink":"https:\/\/www.news1.kr\/industry\/distribution\/6207345",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0009022173?sid=101",
 			"description":"송도, <b>청라<\/b>, 영종 등 신규 입주 수요가 높은 지역적 특성을 고려해 가구부터 조명, 텍스타일, 리빙 소품까지 아우르는 원스톱 라이프스타일 큐레이션을 선보인다. 또한, 정식 매장 오픈 전 운영한 더콘란샵... ",
-			"pubDate":"Thu, 25 Jun 2026 06:00:00 +0900"
-		},
-		{
-			"title":"롯데百 인천점, 편집숍 '더콘란샵' 개점…글로벌 가구 중심 구성",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260624147900030?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016157403?sid=101",
-			"description":"특히 송도, <b>청라<\/b>, 영종 등의 신규 입주 수요를 고려해 조명, 텍스타일, 리빙소품까지 원스톱으로 쇼핑할 수 있게 했다. 개점을 기념해 7월 26일까지 디자인 조명 및 체어를 최대 20% 할인하고, USM 상품 500만원 이상 구매... ",
 			"pubDate":"Thu, 25 Jun 2026 06:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1325836",
 			"description":"이후 송도국제도시와 <b>청라<\/b>국제도시, 중구 지역 4곳을 최종 후보지로 압축하고 지난 4월 현장 실사를 진행한 바 있다. ▶ 관련기사 : 2026년 4월 21일자 1면 '법원행정처, 인천해사법원 임시청사 후보지 현장 실사'.",
 			"pubDate":"Wed, 24 Jun 2026 17:44:00 +0900"
-		},
-		{
-			"title":"인천시의회 유승분 의원, 지속가능발전 시정 전반 적용 제안",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=643415",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=643415",
-			"description":"인천은 송도국제도시와 <b>청라<\/b>국제도시, 영종국제도시 등 신도시 개발이 진행되는 한편 원도심 생활환경 개선 과제도 함께 안고 있다. 이에 따라 지역사회에서는 신규 개발과 기존 생활권 정비가 균형 있게 추진돼야 한다는... ",
-			"pubDate":"Wed, 24 Jun 2026 17:42:00 +0900"
 		}
 	]
 }
