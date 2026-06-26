@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 26 Jun 2026 13:40:01 +0900",
-	"total":297069,
+	"lastBuildDate":"Fri, 26 Jun 2026 13:50:01 +0900",
+	"total":297070,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"김찬진 초대 제물포구청장 당선자 &quot;31년 만의 행정 개편, 차질 없는 통합...",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=473828",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=473828",
+			"description":"검단, <b>청라<\/b>, 동구, 중구 내륙, 송도를 연결하는 '인천순환선 3호선'을 우선 추진하고, 교육 국제화 특구 지정과 제물포고등학교의 자율형 공립고 전환(기숙사 설립), 어린이 영어 도서관 신설 등을 통해 청년층이 찾아오는... ",
+			"pubDate":"Fri, 26 Jun 2026 13:46:00 +0900"
+		},
 		{
 			"title":"[단독] 인천시 재정위기에 9.6조 공공주도 해상풍력 자금줄 '막막'",
 			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=320614",
@@ -61,17 +68,17 @@
 			"pubDate":"Fri, 26 Jun 2026 10:50:00 +0900"
 		},
 		{
-			"title":"정용진 복귀 후 첫 숙제는 SSG닷컴·이마트24…본업 흑자에도 유통 포트...",
-			"originallink":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=29534",
-			"link":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=29534",
-			"description":"스타필드 <b>청라<\/b>와 AI 데이터센터 등 미래 성장 사업도 이끌겠다는 구상이라고 설명했다. 정 회장이... 현재 스타필드 <b>청라<\/b> 개발을 주도하고 있으며 AI 데이터센터 관련 사업 부지 확보 업무도 맡고 있다. 스타필드 <b>청라<\/b>는... ",
-			"pubDate":"Fri, 26 Jun 2026 10:44:00 +0900"
-		},
-		{
 			"title":"5.5조 '빚 잔치' 예고된 인천시…출범 전부터 암초 만난 박찬대호",
 			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1305202&inflow=N",
 			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1305202&inflow=N",
 			"description":"△인천경제자유구역청 토지대금 상환 잔액 1조2049억원, △원적산·만월산 터널, 검단·만수 하수처리장 운영비 1454억원 △<b>청라<\/b>하늘대교 손실보상 2967억원 △수도권광역급행철도(GTX) B노선 청학역 운영비 1200억원... ",
+			"pubDate":"Fri, 26 Jun 2026 10:44:00 +0900"
+		},
+		{
+			"title":"정용진 복귀 후 첫 숙제는 SSG닷컴·이마트24…본업 흑자에도 유통 포트...",
+			"originallink":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=29534",
+			"link":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=29534",
+			"description":"스타필드 <b>청라<\/b>와 AI 데이터센터 등 미래 성장 사업도 이끌겠다는 구상이라고 설명했다. 정 회장이... 현재 스타필드 <b>청라<\/b> 개발을 주도하고 있으며 AI 데이터센터 관련 사업 부지 확보 업무도 맡고 있다. 스타필드 <b>청라<\/b>는... ",
 			"pubDate":"Fri, 26 Jun 2026 10:44:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005377455?sid=101",
 			"description":"건설 부문에선 GS건설이 강원 춘천시에 '네이버 데이터센터 각 춘천', 인천 <b>청라<\/b>국제도시에 '하나금융그룹 IDC(인터넷데이터센터)' 등을 시공하며 경험을 쌓아나가고 있다. 여기에 GS칼텍스는 데이터센터용... ",
 			"pubDate":"Fri, 26 Jun 2026 05:50:00 +0900"
-		},
-		{
-			"title":"박찬대 ‘민생회복’ 축소 불가피…인수위 “5조5천억 빚 참담”",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260625580487",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000112767?sid=102",
-			"description":"<b>청라<\/b>하늘대교 손실보상금 추정액 2천967억원이고, 수도권광역급행철도(GTX) B노선의 청학역 운영 비용이 1천200억원도 잠재적 재정 부담 요인이다. 특히 이 단장은 6·3 전국동시지방선거를 앞두고 이뤄진 시의 제1차... ",
-			"pubDate":"Fri, 26 Jun 2026 05:02:00 +0900"
 		}
 	]
 }
