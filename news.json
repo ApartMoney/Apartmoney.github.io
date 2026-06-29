@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 29 Jun 2026 19:20:01 +0900",
-	"total":297176,
+	"lastBuildDate":"Mon, 29 Jun 2026 19:30:01 +0900",
+	"total":297177,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전국 오늘의 날씨 및 내일날씨]내륙 중심 소나기, 돌풍과 천둥.번개, 우...",
+			"originallink":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=422322",
+			"link":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=422322",
+			"description":"- 특히, 해안에 위치한 교량(영종대교, 인천대교, 서해대교, <b>청라<\/b>하늘대교 등)과 내륙의 강이나 호수, 골짜기에 인접한 도로에서는 주변보다 안개가 더욱 짙게 끼겠으니, 차량 운행 시 감속 운행하여 추돌사고 등의... ",
+			"pubDate":"Mon, 29 Jun 2026 19:20:00 +0900"
+		},
 		{
 			"title":"인천경제청, 산업부 성과평가 8년 연속 S등급",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3621050",
@@ -131,17 +138,17 @@
 			"pubDate":"Mon, 29 Jun 2026 16:33:00 +0900"
 		},
 		{
-			"title":"인천경제청, 경제자유구역 성과평가 8년 연속 ‘S등급’",
-			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0030037507&code=61121111&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001857804?sid=102",
-			"description":"<b>청라<\/b>하늘대교 개통으로 송도·영종·<b>청라<\/b>국제도시를 연결하는 광역 교통망을 완성해 생활권 통합과 물류 효율성을 높였으며 미단시티 개발사업 정상화와 국제학교 유치 추진 등을 통해 장기 정체사업의 활성화 기반을... ",
-			"pubDate":"Mon, 29 Jun 2026 16:31:00 +0900"
-		},
-		{
 			"title":"인천경제청, 경제자유구역 평가 8년 연속 최우수…전국 유일 S등급 달성",
 			"originallink":"https:\/\/www.ppss.kr\/news\/articleView.html?idxno=300372",
 			"link":"https:\/\/www.ppss.kr\/news\/articleView.html?idxno=300372",
 			"description":"<b>청라<\/b>하늘대교 개통으로 송도·영종·<b>청라<\/b>를 연결하는 광역 교통망을 구축했고, 미단시티 개발 정상화와 국제학교 유치 추진 등을 통해 정주여건 개선과 장기 개발사업 활성화 기반을 마련했다. 아울러 산업통상부와... ",
+			"pubDate":"Mon, 29 Jun 2026 16:31:00 +0900"
+		},
+		{
+			"title":"인천경제청, 경제자유구역 성과평가 8년 연속 ‘S등급’",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0030037507&code=61121111&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001857804?sid=102",
+			"description":"<b>청라<\/b>하늘대교 개통으로 송도·영종·<b>청라<\/b>국제도시를 연결하는 광역 교통망을 완성해 생활권 통합과 물류 효율성을 높였으며 미단시티 개발사업 정상화와 국제학교 유치 추진 등을 통해 장기 정체사업의 활성화 기반을... ",
 			"pubDate":"Mon, 29 Jun 2026 16:31:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=320659",
 			"description":"인천투데이=이형성 기자｜인천 계양구 주민들이 '대장홍대선 <b>청라<\/b>·계양 연장과 효성·서운역 신설 조례... 이에 따른 대장홍대선 <b>청라<\/b>·계양 연장과 효성·서운역 신설을 위한 지원 사항을 규정했다. 세부 내용으론... ",
 			"pubDate":"Mon, 29 Jun 2026 14:42:00 +0900"
-		},
-		{
-			"title":"&quot;인천시, 대광위도 속이고 7호선 <b>청라<\/b>연장 유령열차에 603억 지급&quot;",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=320663",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=320663",
-			"description":"7호선 <b>청라<\/b>연장선에 투입할 전동열차 제작업체에 603억원을 지급했다는 주장이 나왔다. 인천시가 7호선 <b>청라<\/b>연장선 사업 현장의 공정 지연과 전동차 제작 차질이 누적되고 있음에도 수년 동안 사업이 정상 추진되는... ",
-			"pubDate":"Mon, 29 Jun 2026 14:36:00 +0900"
 		}
 	]
 }
