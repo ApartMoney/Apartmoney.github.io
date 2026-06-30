@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 30 Jun 2026 13:00:00 +0900",
-	"total":297276,
+	"lastBuildDate":"Tue, 30 Jun 2026 13:10:01 +0900",
+	"total":297277,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"황유민, 롯데 오픈 출전 “시즌 처음으로 출전하는 KLPGA투어” [KLPGA]",
+			"originallink":"https:\/\/feedapi.cloud.sbs.co.kr\/feed-api\/article_hub\/G20000002442",
+			"link":"https:\/\/feedapi.cloud.sbs.co.kr\/feed-api\/article_hub\/G20000002442",
+			"description":"베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,819야드)에서 막을 올린다. 2020년까지 롯데칠성음료가 주최하며 ‘롯데... “베어즈베스트 <b>청라<\/b> 골프클럽은 코스 세팅이 까다로워 한순간도 방심할 수 없다. 1년 만에 마주하는 국내... ",
+			"pubDate":"Tue, 30 Jun 2026 13:06:00 +0900"
+		},
 		{
 			"title":"KLPGA 투어 롯데 오픈 7월 2일 개막, 김민솔·서교림·박현경에 LPGA 해외...",
 			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=2026063009293442896cf2d78c68_19",
@@ -117,17 +124,17 @@
 			"pubDate":"Tue, 30 Jun 2026 11:24:00 +0900"
 		},
 		{
-			"title":"인천시, '제16회 롯데오픈' 개최…국내외 정상급 선수 인천서 격돌",
-			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=707649",
-			"link":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=707649",
-			"description":"'제16회 롯데오픈' 대회 포스터 \/ 인천시 인천시는 오는 7월 2일부터 5일까지 나흘간 <b>청라<\/b> 베어즈베스트 골프클럽(GC)에서 '제16회 롯데오픈'이 열린다고 밝혔다. 이번 대회는 롯데그룹이 주최하고 한국여자프로골프협회... ",
-			"pubDate":"Tue, 30 Jun 2026 11:23:00 +0900"
-		},
-		{
 			"title":"2006년생 김민솔, 2006년 신지애를 향해 간다",
 			"originallink":"https:\/\/sports.donga.com\/sports\/article\/all\/20260630\/134207394\/1",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/382\/0001280874",
 			"description":"나흘간 인천에 있는 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열리는 롯데 오픈에는 디펜딩 챔피언 박혜준과 함께 미국여자프로골프(LPGA) 투어에서 뛰는 ‘롯데 트리오’ 김효주, 최혜진, 황유민 등 총 132명이... ",
+			"pubDate":"Tue, 30 Jun 2026 11:23:00 +0900"
+		},
+		{
+			"title":"인천시, '제16회 롯데오픈' 개최…국내외 정상급 선수 인천서 격돌",
+			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=707649",
+			"link":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=707649",
+			"description":"'제16회 롯데오픈' 대회 포스터 \/ 인천시 인천시는 오는 7월 2일부터 5일까지 나흘간 <b>청라<\/b> 베어즈베스트 골프클럽(GC)에서 '제16회 롯데오픈'이 열린다고 밝혔다. 이번 대회는 롯데그룹이 주최하고 한국여자프로골프협회... ",
 			"pubDate":"Tue, 30 Jun 2026 11:23:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.econotelling.com\/news\/articleView.html?idxno=20804",
 			"description":"이 캠페인은 하나금융이 오는 9월 인천 <b>청라<\/b>국제도시로 본점 이전을 앞두고 전개하고 있다. 지난 4월 인천 연희노인문화센터 벽화 조성, 지난 5월 인천 서구 강남시장 줍깅 활동에 이어 이번이 세번째다. 특히 이번... ",
 			"pubDate":"Tue, 30 Jun 2026 10:44:00 +0900"
-		},
-		{
-			"title":"인천경제청, 경제자유구역 성과평가 8년 연속 최우수",
-			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=546957",
-			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=546957",
-			"description":"이 외에도 <b>청라<\/b>하늘대교 개통으로 생활권 통합과 물류 효율성을 높이고 'K-콘 랜드' 사업 추진으로 제조·바이오 중심의 산업구조를 문화·관광·콘텐츠를 아우르는 융복합 산업생태계로 확장하는 기반을 마련하기도... ",
-			"pubDate":"Tue, 30 Jun 2026 10:42:00 +0900"
 		}
 	]
 }
