@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 02 Jul 2026 06:10:01 +0900",
-	"total":297772,
+	"lastBuildDate":"Thu, 02 Jul 2026 06:20:00 +0900",
+	"total":297774,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"◇오늘의 경기(2일)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260701184200007?input=1195m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016171555",
+			"description":"◆2일(목) △프로야구= 롯데-두산(잠실) SSG-KIA(광주) 삼성-NC(창원) kt-한화(대전) LG-키움(고척·이상 18시30분) △골프= KLPGA 투어 제16회 롯데오픈(베어즈베스트 <b>청라<\/b>) △테니스= 하나증권 제5회 협회장배 전국대회... ",
+			"pubDate":"Thu, 02 Jul 2026 06:15:00 +0900"
+		},
+		{
+			"title":"◇내일의 경기(3일)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260701184300007?input=1195m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016171556",
+			"description":"(베어즈베스트 <b>청라<\/b>) △테니스= 하나증권 제5회 협회장배 전국대회(10시·강원 양구 테니스파크) △씨름= 제40회 전국시·도대항장사대회(10시·경남 창녕국민체육센터) △체조= 제51회 KBS배 전국기계체조대회... ",
+			"pubDate":"Thu, 02 Jul 2026 06:15:00 +0900"
+		},
 		{
 			"title":"하나금융 <b>청라<\/b> 시대 임박에 &quot;은행은 서울, 계열사만 유배?&quot; 불만",
 			"originallink":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2026\/07\/01\/2026070102395.html",
@@ -131,13 +145,6 @@
 			"pubDate":"Wed, 01 Jul 2026 20:20:00 +0900"
 		},
 		{
-			"title":"박찬대 시장 '시정 정상화·재도약' 투트랙 전략 시동",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1326379",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1326379",
-			"description":"이어 &quot;서울지하철 7호선 <b>청라<\/b> 연장 지연 우려와 인천 1호선 송도 8공구 연장마저 무산될 위기에 처해 있다. 덮어두고 피하지 않고 장부부터 철저하게 다시 살피겠다&quot;고 덧붙였다. 앞서 인수위원회는 시 재정 분석 결과... ",
-			"pubDate":"Wed, 01 Jul 2026 20:06:00 +0900"
-		},
-		{
 			"title":"인천 서해구 공식 출범…구재용, 취임 첫날 현장·재정 챙겼다",
 			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=309804",
 			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=309804",
@@ -145,11 +152,11 @@
 			"pubDate":"Wed, 01 Jul 2026 20:06:00 +0900"
 		},
 		{
-			"title":"‘롯데 스윙 키즈’…스타와 꿈나무의 만남[포토]",
-			"originallink":"https:\/\/www.sedaily.com\/article\/20062699?ref=naver",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/011\/0004637161",
-			"description":"한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 12억 원)이 2일부터 나흘간 인천 베어즈베스트 <b>청라<\/b>골프클럽에서 열린다. 올해도 국내외 정상급 선수들이 총출동해 ‘롯데월드타워 트로피’를 두고 치열한 우승 경쟁을... ",
-			"pubDate":"Wed, 01 Jul 2026 19:51:00 +0900"
+			"title":"박찬대 시장 '시정 정상화·재도약' 투트랙 전략 시동",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1326379",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1326379",
+			"description":"이어 &quot;서울지하철 7호선 <b>청라<\/b> 연장 지연 우려와 인천 1호선 송도 8공구 연장마저 무산될 위기에 처해 있다. 덮어두고 피하지 않고 장부부터 철저하게 다시 살피겠다&quot;고 덧붙였다. 앞서 인수위원회는 시 재정 분석 결과... ",
+			"pubDate":"Wed, 01 Jul 2026 20:06:00 +0900"
 		},
 		{
 			"title":"“대한민국 골프의 미래, 꿈을 키워갑니다”[포토]",
@@ -162,6 +169,13 @@
 			"title":"롯데 최혜진의 진지한 레슨과 더 진지한 꿈나무 골퍼[포토]",
 			"originallink":"https:\/\/www.sedaily.com\/article\/20062698?ref=naver",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/011\/0004637160",
+			"description":"한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 12억 원)이 2일부터 나흘간 인천 베어즈베스트 <b>청라<\/b>골프클럽에서 열린다. 올해도 국내외 정상급 선수들이 총출동해 ‘롯데월드타워 트로피’를 두고 치열한 우승 경쟁을... ",
+			"pubDate":"Wed, 01 Jul 2026 19:51:00 +0900"
+		},
+		{
+			"title":"‘롯데 스윙 키즈’…스타와 꿈나무의 만남[포토]",
+			"originallink":"https:\/\/www.sedaily.com\/article\/20062699?ref=naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/011\/0004637161",
 			"description":"한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 12억 원)이 2일부터 나흘간 인천 베어즈베스트 <b>청라<\/b>골프클럽에서 열린다. 올해도 국내외 정상급 선수들이 총출동해 ‘롯데월드타워 트로피’를 두고 치열한 우승 경쟁을... ",
 			"pubDate":"Wed, 01 Jul 2026 19:51:00 +0900"
 		},
@@ -199,20 +213,6 @@
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006320315",
 			"description":"1일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> GC 미국(OUT) 오스트랄아시아(IN)코스 (파72\/6,819 야드)에서 ‘제16회 롯데 오픈’(총상금 12억 원, 우승상금 2.16억 원) 공식 포토콜과 미래 골프 꿈나무들을 위한 원포인트... ",
 			"pubDate":"Wed, 01 Jul 2026 19:02:00 +0900"
-		},
-		{
-			"title":"[포토] 원포인트 레슨하는 유현조",
-			"originallink":"https:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=05940086645510256",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006320314",
-			"description":"1일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> GC 미국(OUT) 오스트랄아시아(IN)코스 (파72\/6,819 야드)에서 ‘제16회 롯데 오픈’(총상금 12억 원, 우승상금 2.16억 원) 공식 포토콜과 미래 골프 꿈나무들을 위한 원포인트... ",
-			"pubDate":"Wed, 01 Jul 2026 19:01:00 +0900"
-		},
-		{
-			"title":"[포토] 롯데 스윙키즈 원포인트 레슨",
-			"originallink":"https:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=05930246645510256",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/018\/0006320312",
-			"description":"1일 인천 <b>청라<\/b>에 위치한 베어즈베스트 <b>청라<\/b> GC 미국(OUT) 오스트랄아시아(IN)코스 (파72\/6,819 야드)에서 ‘제16회 롯데 오픈’(총상금 12억 원, 우승상금 2.16억 원) 공식 포토콜과 미래 골프 꿈나무들을 위한... ",
-			"pubDate":"Wed, 01 Jul 2026 19:00:00 +0900"
 		}
 	]
 }
