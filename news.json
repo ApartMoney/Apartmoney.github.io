@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 02 Jul 2026 15:10:01 +0900",
-	"total":298044,
+	"lastBuildDate":"Thu, 02 Jul 2026 15:20:01 +0900",
+	"total":298045,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"박예지, '롯데 오픈' 1R 단독 선두",
+			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=738905",
+			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=738905",
+			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 막을 올린 '제16회 롯데 오픈(총상금 12억원, 우승상금 2억1600만원)' 1라운드에서 박예지가 7언더파 65타로 단독 선두에 올랐다. 박예지는 이날 △2번 홀(파5)... ",
+			"pubDate":"Thu, 02 Jul 2026 15:14:00 +0900"
+		},
 		{
 			"title":"도성훈 교육감, 취임 첫 행보 '과밀학급 실태 점검'",
 			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5036911",
@@ -47,13 +54,6 @@
 			"pubDate":"Thu, 02 Jul 2026 14:54:00 +0900"
 		},
 		{
-			"title":"[ST포토] 김민솔-박혜준, 나란히",
-			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107504519140",
-			"link":"http:\/\/www.stoo.com\/article.php?aid=107504519140",
-			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 김민솔, 박혜준이 2번홀 티샷 후 이동하고 있다.",
-			"pubDate":"Thu, 02 Jul 2026 14:52:00 +0900"
-		},
-		{
 			"title":"[ST포토] 김효주, 정확하게 보낸다",
 			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107504322881",
 			"link":"http:\/\/www.stoo.com\/article.php?aid=107504322881",
@@ -61,16 +61,23 @@
 			"pubDate":"Thu, 02 Jul 2026 14:52:00 +0900"
 		},
 		{
-			"title":"[ST포토] 김효주, 멀리가자",
-			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107504411442",
-			"link":"http:\/\/www.stoo.com\/article.php?aid=107504411442",
-			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 김효주가 2번홀 티샷을 하고 있다.",
+			"title":"[ST포토] 김민솔-박혜준, 나란히",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107504519140",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=107504519140",
+			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 김민솔, 박혜준이 2번홀 티샷 후 이동하고 있다.",
 			"pubDate":"Thu, 02 Jul 2026 14:52:00 +0900"
 		},
 		{
 			"title":"[ST포토] 김효주, 스윙 연습",
 			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107504081041",
 			"link":"http:\/\/www.stoo.com\/article.php?aid=107504081041",
+			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 김효주가 2번홀 티샷을 하고 있다.",
+			"pubDate":"Thu, 02 Jul 2026 14:52:00 +0900"
+		},
+		{
+			"title":"[ST포토] 김효주, 멀리가자",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107504411442",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=107504411442",
 			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 김효주가 2번홀 티샷을 하고 있다.",
 			"pubDate":"Thu, 02 Jul 2026 14:52:00 +0900"
 		},
@@ -89,16 +96,16 @@
 			"pubDate":"Thu, 02 Jul 2026 14:48:00 +0900"
 		},
 		{
-			"title":"[ST포토] 타구 확인하는 김민솔",
-			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107503725716",
-			"link":"http:\/\/www.stoo.com\/article.php?aid=107503725716",
+			"title":"[ST포토] 김민솔, 장타로 간다",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107503574441",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=107503574441",
 			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 김민솔이 2번홀 티샷을 하고 있다.",
 			"pubDate":"Thu, 02 Jul 2026 14:48:00 +0900"
 		},
 		{
-			"title":"[ST포토] 김민솔, 장타로 간다",
-			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107503574441",
-			"link":"http:\/\/www.stoo.com\/article.php?aid=107503574441",
+			"title":"[ST포토] 타구 확인하는 김민솔",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107503725716",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=107503725716",
 			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 김민솔이 2번홀 티샷을 하고 있다.",
 			"pubDate":"Thu, 02 Jul 2026 14:48:00 +0900"
 		},
@@ -159,10 +166,10 @@
 			"pubDate":"Thu, 02 Jul 2026 14:40:00 +0900"
 		},
 		{
-			"title":"[ST포토] 집중하는 김효주",
-			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107502227870",
-			"link":"http:\/\/www.stoo.com\/article.php?aid=107502227870",
-			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 김효주가 1번홀 그린에서 퍼트라인을 확인 하고 있다.",
+			"title":"[ST포토] 파세이브 하는 김효주",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107502477988",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=107502477988",
+			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 김효주가 1번홀 파세이브 하고 있다.",
 			"pubDate":"Thu, 02 Jul 2026 14:38:00 +0900"
 		},
 		{
@@ -173,17 +180,17 @@
 			"pubDate":"Thu, 02 Jul 2026 14:38:00 +0900"
 		},
 		{
-			"title":"[ST포토] 파세이브 하는 김효주",
-			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107502477988",
-			"link":"http:\/\/www.stoo.com\/article.php?aid=107502477988",
-			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 김효주가 1번홀 파세이브 하고 있다.",
-			"pubDate":"Thu, 02 Jul 2026 14:38:00 +0900"
-		},
-		{
 			"title":"[ST포토] 김효주, 아쉬움이 묻어나는 파세이브",
 			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107502526684",
 			"link":"http:\/\/www.stoo.com\/article.php?aid=107502526684",
 			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 김효주가 1번홀 파세이브 하고 있다.",
+			"pubDate":"Thu, 02 Jul 2026 14:38:00 +0900"
+		},
+		{
+			"title":"[ST포토] 집중하는 김효주",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107502227870",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=107502227870",
+			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 김효주가 1번홀 그린에서 퍼트라인을 확인 하고 있다.",
 			"pubDate":"Thu, 02 Jul 2026 14:38:00 +0900"
 		},
 		{
@@ -204,13 +211,6 @@
 			"title":"[ST포토] 전예성, 세컨지점 정조준",
 			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107501848845",
 			"link":"http:\/\/www.stoo.com\/article.php?aid=107501848845",
-			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 전예성이 2번홀 티샷을 하고 있다.",
-			"pubDate":"Thu, 02 Jul 2026 14:34:00 +0900"
-		},
-		{
-			"title":"[ST포토] 전예성, 페어웨이 중앙으로 보낸다",
-			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107501957184",
-			"link":"http:\/\/www.stoo.com\/article.php?aid=107501957184",
 			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 전예성이 2번홀 티샷을 하고 있다.",
 			"pubDate":"Thu, 02 Jul 2026 14:34:00 +0900"
 		}
