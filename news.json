@@ -1,5 +1,5 @@
 {
-	"lastBuildDate":"Thu, 02 Jul 2026 19:00:01 +0900",
+	"lastBuildDate":"Thu, 02 Jul 2026 19:10:01 +0900",
 	"total":298267,
 	"start":1,
 	"display":30,
@@ -12,17 +12,17 @@
 			"pubDate":"Thu, 02 Jul 2026 18:56:00 +0900"
 		},
 		{
-			"title":"'세계 랭킹 3위' 김효주, KLPGA 투어 롯데오픈 첫날 공동 2위",
-			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1008639348&plink=ORI&cooper=NAVER",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/055\/0001369219",
-			"description":"김효주는 오늘 인천 베어즈베스트 <b>청라<\/b> 골프장에서 열린 한국여자프로골프(KLPGA) 투어 롯데 오픈 1라운드에서 버디 7개, 보기 1개로 6언더파를 쳤습니다. 단독 선두 박예지(7언더파)에 1타 뒤진 공동 2위로 쾌조의... ",
-			"pubDate":"Thu, 02 Jul 2026 18:42:00 +0900"
-		},
-		{
 			"title":"너무 안쓰러운 박현경 '5일 걸린 JLPGA 우승' 후유증일까…'노버디 5오버...",
 			"originallink":"https:\/\/www.golfdigest.co.kr\/news\/articleView.html?idxno=46679",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/435\/0000015961",
 			"description":"그 여파가 2일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72)에서 열린 롯데 오픈 1라운드까지 이어진 듯하다. 이날 박현경은 버디를 1개도 잡지 못하고 보기 3개와 더블보기 1개를 곁들여 5오버파 77타를 쳤다. 그의 뒤로는... ",
+			"pubDate":"Thu, 02 Jul 2026 18:42:00 +0900"
+		},
+		{
+			"title":"'세계 랭킹 3위' 김효주, KLPGA 투어 롯데오픈 첫날 공동 2위",
+			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1008639348&plink=ORI&cooper=NAVER",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/055\/0001369219",
+			"description":"김효주는 오늘 인천 베어즈베스트 <b>청라<\/b> 골프장에서 열린 한국여자프로골프(KLPGA) 투어 롯데 오픈 1라운드에서 버디 7개, 보기 1개로 6언더파를 쳤습니다. 단독 선두 박예지(7언더파)에 1타 뒤진 공동 2위로 쾌조의... ",
 			"pubDate":"Thu, 02 Jul 2026 18:42:00 +0900"
 		},
 		{
@@ -40,9 +40,30 @@
 			"pubDate":"Thu, 02 Jul 2026 18:35:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 김민주, 버디 찬스 만든다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449600",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433710",
+			"title":"[mhn포토] 김민주, 힘찬 다운 스윙",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449599",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433709",
+			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 김민주(삼천리)가 11번홀... ",
+			"pubDate":"Thu, 02 Jul 2026 18:34:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 김민주, 핀 정조준",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449604",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433712",
+			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 김민주(삼천리)가 10번홀... ",
+			"pubDate":"Thu, 02 Jul 2026 18:34:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 김민주, 우승이 목마르다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449595",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433708",
+			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 김민주(삼천리)가 10번홀... ",
+			"pubDate":"Thu, 02 Jul 2026 18:34:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 김민주, 버디 볼 인사로 마무리",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449603",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433711",
 			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 김민주(삼천리)가 10번홀... ",
 			"pubDate":"Thu, 02 Jul 2026 18:34:00 +0900"
 		},
@@ -54,39 +75,11 @@
 			"pubDate":"Thu, 02 Jul 2026 18:34:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 김민주, 버디 볼 인사로 마무리",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449603",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433711",
+			"title":"[mhn포토] 김민주, 버디 찬스 만든다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449600",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433710",
 			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 김민주(삼천리)가 10번홀... ",
 			"pubDate":"Thu, 02 Jul 2026 18:34:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 김민주, 힘찬 다운 스윙",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449599",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433709",
-			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 김민주(삼천리)가 11번홀... ",
-			"pubDate":"Thu, 02 Jul 2026 18:34:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 김민주, 우승이 목마르다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449595",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433708",
-			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 김민주(삼천리)가 10번홀... ",
-			"pubDate":"Thu, 02 Jul 2026 18:34:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 김민주, 핀 정조준",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449604",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433712",
-			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 김민주(삼천리)가 10번홀... ",
-			"pubDate":"Thu, 02 Jul 2026 18:34:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 아마추어 김규빈, 핀 하이로 날린다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449590",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433705",
-			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 아마추어 김규빈이 10번홀... ",
-			"pubDate":"Thu, 02 Jul 2026 18:31:00 +0900"
 		},
 		{
 			"title":"[mhn포토] 아마추어 김규빈, 나우성과 함께 이동",
@@ -96,44 +89,65 @@
 			"pubDate":"Thu, 02 Jul 2026 18:31:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 한진선, 핀 하이로 날린다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449564",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433691",
+			"title":"[mhn포토] 아마추어 김규빈, 핀 하이로 날린다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449590",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433705",
+			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 아마추어 김규빈이 10번홀... ",
+			"pubDate":"Thu, 02 Jul 2026 18:31:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 한진선, 아쉽다 아쉬워",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449565",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433693",
 			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 10번홀... ",
 			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
 		},
 		{
-			"title":"김효주 롯데 오픈 첫날 6언더파 황유민 등과 공동 2위 &quot;샷 감 걱정했는...",
-			"originallink":"https:\/\/www.smartbizn.com\/news\/articleView.html?idxno=147643",
-			"link":"https:\/\/www.smartbizn.com\/news\/articleView.html?idxno=147643",
-			"description":"미국프로골프(LPGA) 투어에서 뛰고 있는 김효주와 황유민은 2일 인천 베어즈베스트 <b>청라<\/b>GC(파72.6819야드)에서 열린 한국여자프로골프( KLPGA) 투어 시즌 15번째 대회 롯데 오픈(총상금 12억원, 우승상금 2억 1600만원)... ",
+			"title":"[mhn포토] 한진선, 우승 기대해주세요",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449571",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433695",
+			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 11번홀... ",
 			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 한진선, 허투루 볼 수 없다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449576",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433697",
+			"title":"[mhn포토] 한진선, 출발이다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449577",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433698",
+			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 11번홀... ",
+			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 한진선, 우승 정조준",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449583",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433701",
 			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 10번홀... ",
 			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 한진선, 들어가라 버디 퍼트",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449587",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433703",
+			"title":"[mhn포토] 한진선, 롯데오픈 우승 기대해주세요",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449572",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433696",
 			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 10번홀... ",
 			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 한진선, 강력한 임팩트",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449588",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433704",
-			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 10번홀... ",
+			"title":"&quot;6언더파 질주&quot; 김효주, 롯데 오픈 강행군 속 공동 2위",
+			"originallink":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16121346",
+			"link":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16121346",
+			"description":"총상금 12억원이 걸린 한국여자프로골프(KLPGA) 투어 제16회 롯데 오픈이 인천시 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄아시아 코스(파72)에서 막을 올렸다. 첫날부터 상위권에 국내외 무대를 오가는 선수들이 대거... ",
 			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
 		},
 		{
 			"title":"[mhn포토] 한진선, 살피고 또 살핀다",
 			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449581",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433700",
+			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 10번홀... ",
+			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 한진선-정수영, 버디 사냥 떠난다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449570",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433694",
 			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 10번홀... ",
 			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
 		},
@@ -152,52 +166,38 @@
 			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 한진선-정수영, 버디 사냥 떠난다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449570",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433694",
+			"title":"[mhn포토] 한진선, 강력한 임팩트",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449588",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433704",
 			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 10번홀... ",
 			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 한진선, 출발이다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449577",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433698",
-			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 11번홀... ",
-			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 한진선, 우승 정조준",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449583",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433701",
+			"title":"[mhn포토] 한진선, 핀 하이로 날린다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449564",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433691",
 			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 10번홀... ",
 			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 한진선, 우승 기대해주세요",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449571",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433695",
-			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 11번홀... ",
-			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 한진선, 롯데오픈 우승 기대해주세요",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449572",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433696",
+			"title":"[mhn포토] 한진선, 들어가라 버디 퍼트",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449587",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433703",
 			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 10번홀... ",
 			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
 		},
 		{
-			"title":"&quot;6언더파 질주&quot; 김효주, 롯데 오픈 강행군 속 공동 2위",
-			"originallink":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16121346",
-			"link":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16121346",
-			"description":"총상금 12억원이 걸린 한국여자프로골프(KLPGA) 투어 제16회 롯데 오픈이 인천시 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄아시아 코스(파72)에서 막을 올렸다. 첫날부터 상위권에 국내외 무대를 오가는 선수들이 대거... ",
+			"title":"[mhn포토] 한진선, 허투루 볼 수 없다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449576",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433697",
+			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 10번홀... ",
 			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 한진선, 아쉽다 아쉬워",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449565",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433693",
-			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 한진선(메디힐)이 10번홀... ",
+			"title":"김효주 롯데 오픈 첫날 6언더파 황유민 등과 공동 2위 &quot;샷 감 걱정했는...",
+			"originallink":"https:\/\/www.smartbizn.com\/news\/articleView.html?idxno=147643",
+			"link":"https:\/\/www.smartbizn.com\/news\/articleView.html?idxno=147643",
+			"description":"미국프로골프(LPGA) 투어에서 뛰고 있는 김효주와 황유민은 2일 인천 베어즈베스트 <b>청라<\/b>GC(파72.6819야드)에서 열린 한국여자프로골프( KLPGA) 투어 시즌 15번째 대회 롯데 오픈(총상금 12억원, 우승상금 2억 1600만원)... ",
 			"pubDate":"Thu, 02 Jul 2026 18:30:00 +0900"
 		},
 		{
@@ -208,10 +208,10 @@
 			"pubDate":"Thu, 02 Jul 2026 18:28:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 오스틴 킴, 원 온을 향해 날린다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449558",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433690",
-			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 오스틴 킴이 11번홀 경기를... ",
+			"title":"박예지, KLPGA 투어 롯데 오픈 첫날 7언더파로 1위",
+			"originallink":"https:\/\/www.viva100.com\/article\/20260702501326",
+			"link":"https:\/\/www.viva100.com\/article\/20260702501326",
+			"description":"박예지는 2일 인천 베어즈베스트 <b>청라<\/b> 컨트리클럽 미국‧오스트랄아시아 코스(파72‧6819야드)에서 열린 대회 1라운드에서 버디 8개, 보기 1개로 7언더파 65타를 쳤다. 2024년 KLPGA 투어에 데뷔해 아직 우승이 없는... ",
 			"pubDate":"Thu, 02 Jul 2026 18:24:00 +0900"
 		}
 	]
