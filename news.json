@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 02 Jul 2026 11:10:00 +0900",
-	"total":297880,
+	"lastBuildDate":"Thu, 02 Jul 2026 11:20:01 +0900",
+	"total":297882,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[mhn포토] 송지아, 롯데 오픈 우승 노린다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1449009",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000433469",
+			"description":"2일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 1라운드가 열렸다. 송지아(삼천리)가 10번홀... ",
+			"pubDate":"Thu, 02 Jul 2026 11:18:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> 주민들 &quot;박찬대 시장, 7호선 연장 적기 개통 시정 1순위로…은폐 ...",
+			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=697506",
+			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=697506",
+			"description":"인천 <b>청라<\/b>국제도시 주민들이 서울지하철 7호선 <b>청라<\/b> 연장선의 개통 지연과 관련해 박찬대 인천시장에게 적기 개통을 민선 9기 시정의 최우선 과제로 추진할 것을 촉구했다. <b>청라<\/b>국제도시 주민들은 2일 발표한 성명에서... ",
+			"pubDate":"Thu, 02 Jul 2026 11:14:00 +0900"
+		},
 		{
 			"title":"국토부, 벤츠·BYD 등 6개사 14만6505대 리콜… 에어백·계기판 결함 '안...",
 			"originallink":"https:\/\/www.goodkyung.com\/news\/articleView.html?idxno=288779",
@@ -47,13 +61,6 @@
 			"pubDate":"Thu, 02 Jul 2026 10:02:00 +0900"
 		},
 		{
-			"title":"송지아 ‘스무살의 귀여움’[포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/2167152",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028960",
-			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 송지아가 10번홀 세컨샷을 위해 이동하고 있다.",
-			"pubDate":"Thu, 02 Jul 2026 10:02:00 +0900"
-		},
-		{
 			"title":"캐논코리아, 'KLPGA 2026 롯데 오픈' 공식 후원",
 			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20260702100041",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002428966?sid=105",
@@ -61,17 +68,24 @@
 			"pubDate":"Thu, 02 Jul 2026 10:02:00 +0900"
 		},
 		{
-			"title":"성해인 ‘끝까지 바라본다’[포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/2167147",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028956",
-			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 성해인이 10번홀 티샷을 하고 있다.",
-			"pubDate":"Thu, 02 Jul 2026 10:00:00 +0900"
+			"title":"송지아 ‘스무살의 귀여움’[포토]",
+			"originallink":"https:\/\/www.xportsnews.com\/article\/2167152",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028960",
+			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 송지아가 10번홀 세컨샷을 위해 이동하고 있다.",
+			"pubDate":"Thu, 02 Jul 2026 10:02:00 +0900"
 		},
 		{
 			"title":"윤수아 ‘화기애애’[포토]",
 			"originallink":"https:\/\/www.xportsnews.com\/article\/2167149",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028958",
 			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 윤수아가 10번홀 티샷을 준비하고 있다.",
+			"pubDate":"Thu, 02 Jul 2026 10:00:00 +0900"
+		},
+		{
+			"title":"성해인 ‘끝까지 바라본다’[포토]",
+			"originallink":"https:\/\/www.xportsnews.com\/article\/2167147",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028956",
+			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 성해인이 10번홀 티샷을 하고 있다.",
 			"pubDate":"Thu, 02 Jul 2026 10:00:00 +0900"
 		},
 		{
@@ -145,13 +159,6 @@
 			"pubDate":"Thu, 02 Jul 2026 09:36:00 +0900"
 		},
 		{
-			"title":"방신실 ‘날씨 좋네’[포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/2167128",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028938",
-			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 방신실이 10번홀 세컨샷을 위해 이동하고 있다.",
-			"pubDate":"Thu, 02 Jul 2026 09:31:00 +0900"
-		},
-		{
 			"title":"방신실 ‘기분 좋은 출발’[포토]",
 			"originallink":"https:\/\/www.xportsnews.com\/article\/2167126",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028936",
@@ -159,10 +166,24 @@
 			"pubDate":"Thu, 02 Jul 2026 09:31:00 +0900"
 		},
 		{
+			"title":"방신실 ‘날씨 좋네’[포토]",
+			"originallink":"https:\/\/www.xportsnews.com\/article\/2167128",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028938",
+			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 방신실이 10번홀 세컨샷을 위해 이동하고 있다.",
+			"pubDate":"Thu, 02 Jul 2026 09:31:00 +0900"
+		},
+		{
 			"title":"방신실 ‘꽉 찬 자신감’[포토]",
 			"originallink":"https:\/\/www.xportsnews.com\/article\/2167127",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028937",
 			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 방신실이 10번홀 티샷을 하고 있다.",
+			"pubDate":"Thu, 02 Jul 2026 09:31:00 +0900"
+		},
+		{
+			"title":"서교림 ‘바람을 이기는 티샷’[포토]",
+			"originallink":"https:\/\/www.xportsnews.com\/article\/2167123",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028933",
+			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 서교림이 10번홀 티샷을 하고 있다.",
 			"pubDate":"Thu, 02 Jul 2026 09:31:00 +0900"
 		},
 		{
@@ -180,20 +201,6 @@
 			"pubDate":"Thu, 02 Jul 2026 09:31:00 +0900"
 		},
 		{
-			"title":"서교림 ‘바람을 이기는 티샷’[포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/2167123",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028933",
-			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 서교림이 10번홀 티샷을 하고 있다.",
-			"pubDate":"Thu, 02 Jul 2026 09:31:00 +0900"
-		},
-		{
-			"title":"서교림 ‘어디로 향하나’[포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/2167125",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028935",
-			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 서교림이 10번홀 티샷을 하고 있다.",
-			"pubDate":"Thu, 02 Jul 2026 09:31:00 +0900"
-		},
-		{
 			"title":"방신실-서교림 ‘즐거운 대화’[포토]",
 			"originallink":"https:\/\/www.xportsnews.com\/article\/2167120",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028930",
@@ -205,13 +212,6 @@
 			"originallink":"https:\/\/www.xportsnews.com\/article\/2167121",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028931",
 			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 황유림이 10번홀 티샷을 하고 있다.",
-			"pubDate":"Thu, 02 Jul 2026 09:31:00 +0900"
-		},
-		{
-			"title":"방신실-서교림 ‘수다 삼매경’[포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/2167119",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028929",
-			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 방신길 서교림이 10번홀 티샷을 준비하고 있다.",
 			"pubDate":"Thu, 02 Jul 2026 09:31:00 +0900"
 		}
 	]
