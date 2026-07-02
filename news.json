@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 02 Jul 2026 13:00:01 +0900",
-	"total":297894,
+	"lastBuildDate":"Thu, 02 Jul 2026 13:10:01 +0900",
+	"total":297895,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[ST포토] 최은우, 정교한 티샷",
+			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107492956485",
+			"link":"http:\/\/www.stoo.com\/article.php?aid=107492956485",
+			"description":"2026 KLPGA 투어 제16회 롯데오픈(총상금 12억 원, 우승상금 2억1600만 원) 1라운드 경기가 2일 인천 <b>청라<\/b> 베어즈베스트 <b>청라<\/b>GC (72\/6819야드)에서 열렸다. 송지아가 10번홀 첫 티오프를 시작했다. 최은우가 1번홀... ",
+			"pubDate":"Thu, 02 Jul 2026 13:00:00 +0900"
+		},
 		{
 			"title":"첫 일정은 과밀학급 점검…도성훈 인천시교육감 &quot;학교 신설·증축 속도...",
 			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3027758",
@@ -124,6 +131,13 @@
 			"pubDate":"Thu, 02 Jul 2026 10:48:00 +0900"
 		},
 		{
+			"title":"강남구 '샘터마을' 36평, 45.5억 상승한 59.9원에 거래 [일일 신고가]",
+			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=202607020958246428b372994c95_18",
+			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=202607020958246428b372994c95_18",
+			"description":"중구 동산동 '<b>청라<\/b>언덕역서한포레스트' 전용 84.8493㎡(34평)는 지난 6월 26일 6억7000만원에 거래되며 직전 최고가보다 3000만원 오른 신고가를 기록했다. 수성구 범어동 '범어아이파크1차' 전용 84.9752㎡(33평)... ",
+			"pubDate":"Thu, 02 Jul 2026 10:08:00 +0900"
+		},
+		{
 			"title":"[어린이뉴스] 구세군-세븐일레븐, 제33회 어린이 미술대회 개최 外",
 			"originallink":"https:\/\/www.ibabynews.com\/news\/articleView.html?idxno=152505",
 			"link":"https:\/\/www.ibabynews.com\/news\/articleView.html?idxno=152505",
@@ -131,11 +145,11 @@
 			"pubDate":"Thu, 02 Jul 2026 10:08:00 +0900"
 		},
 		{
-			"title":"강남구 '샘터마을' 36평, 45.5억 상승한 59.9원에 거래 [일일 신고가]",
-			"originallink":"http:\/\/www.fntimes.com\/html\/view.php?ud=202607020958246428b372994c95_18",
-			"link":"http:\/\/www.fntimes.com\/html\/view.php?ud=202607020958246428b372994c95_18",
-			"description":"중구 동산동 '<b>청라<\/b>언덕역서한포레스트' 전용 84.8493㎡(34평)는 지난 6월 26일 6억7000만원에 거래되며 직전 최고가보다 3000만원 오른 신고가를 기록했다. 수성구 범어동 '범어아이파크1차' 전용 84.9752㎡(33평)... ",
-			"pubDate":"Thu, 02 Jul 2026 10:08:00 +0900"
+			"title":"성해인 ‘가벼운 발걸음’[포토]",
+			"originallink":"https:\/\/www.xportsnews.com\/article\/2167151",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028959",
+			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 성해인이 10번홀 세컨샷을 이동하고 있다.",
+			"pubDate":"Thu, 02 Jul 2026 10:02:00 +0900"
 		},
 		{
 			"title":"캐논코리아, 'KLPGA 2026 롯데 오픈' 공식 후원",
@@ -152,24 +166,17 @@
 			"pubDate":"Thu, 02 Jul 2026 10:02:00 +0900"
 		},
 		{
-			"title":"성해인 ‘가벼운 발걸음’[포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/2167151",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028959",
-			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 성해인이 10번홀 세컨샷을 이동하고 있다.",
-			"pubDate":"Thu, 02 Jul 2026 10:02:00 +0900"
-		},
-		{
-			"title":"윤수아 ‘멀리 보낸다’[포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/2167145",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028954",
-			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 윤수아가 10번홀 티샷을 하고 있다.",
+			"title":"윤수아 ‘출발이 좋아요’[포토]",
+			"originallink":"https:\/\/www.xportsnews.com\/article\/2167148",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028957",
+			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 윤수아가 10번홀 세컨샷을 위해 이동하고 있다.",
 			"pubDate":"Thu, 02 Jul 2026 10:00:00 +0900"
 		},
 		{
-			"title":"성해인 ‘단단한 눈빛’[포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/2167143",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028952",
-			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 성해인이 10번홀 티샷을 준비하고 있다.",
+			"title":"성해인 ‘끝까지 바라본다’[포토]",
+			"originallink":"https:\/\/www.xportsnews.com\/article\/2167147",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028956",
+			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 성해인이 10번홀 티샷을 하고 있다.",
 			"pubDate":"Thu, 02 Jul 2026 10:00:00 +0900"
 		},
 		{
@@ -187,20 +194,6 @@
 			"pubDate":"Thu, 02 Jul 2026 10:00:00 +0900"
 		},
 		{
-			"title":"윤수아 ‘출발이 좋아요’[포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/2167148",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028957",
-			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 윤수아가 10번홀 세컨샷을 위해 이동하고 있다.",
-			"pubDate":"Thu, 02 Jul 2026 10:00:00 +0900"
-		},
-		{
-			"title":"성해인 ‘끝까지 바라본다’[포토]",
-			"originallink":"https:\/\/www.xportsnews.com\/article\/2167147",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028956",
-			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 성해인이 10번홀 티샷을 하고 있다.",
-			"pubDate":"Thu, 02 Jul 2026 10:00:00 +0900"
-		},
-		{
 			"title":"성해인 ‘자신감있게’[포토]",
 			"originallink":"https:\/\/www.xportsnews.com\/article\/2167146",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028955",
@@ -208,11 +201,18 @@
 			"pubDate":"Thu, 02 Jul 2026 10:00:00 +0900"
 		},
 		{
-			"title":"[오늘의 일정] 7월 2일 목요일 스포츠 경기",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1270826",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1270826",
-			"description":"△프로야구= 롯데-두산(잠실) SSG-KIA(광주) 삼성-NC(창원) kt-한화(대전) LG-키움(고척·이상 18시30분) △골프= KLPGA 투어 제16회 롯데오픈(베어즈베스트 <b>청라<\/b>) △테니스= 하나증권 제5회 협회장배 전국대회(10시·강원... ",
-			"pubDate":"Thu, 02 Jul 2026 09:44:00 +0900"
+			"title":"윤수아 ‘멀리 보낸다’[포토]",
+			"originallink":"https:\/\/www.xportsnews.com\/article\/2167145",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028954",
+			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 윤수아가 10번홀 티샷을 하고 있다.",
+			"pubDate":"Thu, 02 Jul 2026 10:00:00 +0900"
+		},
+		{
+			"title":"성해인 ‘단단한 눈빛’[포토]",
+			"originallink":"https:\/\/www.xportsnews.com\/article\/2167143",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/311\/0002028952",
+			"description":"2일 인천 서구 베어즈베스트 <b>청라<\/b> G.C(파72, 6819야드)에서 열린 KLPGA '제16회 롯데 오픈' 1라운드 경기, 성해인이 10번홀 티샷을 준비하고 있다.",
+			"pubDate":"Thu, 02 Jul 2026 10:00:00 +0900"
 		}
 	]
 }
