@@ -1,218 +1,211 @@
 {
-	"lastBuildDate":"Sat, 04 Jul 2026 21:20:01 +0900",
-	"total":301245,
+	"lastBuildDate":"Sat, 04 Jul 2026 21:30:01 +0900",
+	"total":301279,
 	"start":1,
-	"display":30,
+	"display":29,
 	"items":[
 		{
-			"title":"[MT포토] 손 인사로 홀아웃하는 문정민",
-			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=20260704211656957131792476ff_19",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197546",
+			"title":"[mhn포토] 이재윤, 모래 폭발 이용해 탈출",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452646",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000435133",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 이재윤(삼천리)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:29:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 최은우, 두 손 인사로 마무리",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452642",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435131",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 최은우... ",
+			"pubDate":"Sat, 04 Jul 2026 21:29:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 이재윤, 칩 인을 노린다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452643",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435132",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 이재윤(삼천리)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:29:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 이주미, 살피고 또 살핀다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452647",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/445\/0000435134",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 이주미(골든블루)가... ",
+			"pubDate":"Sat, 04 Jul 2026 21:29:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 서교림, 살짝 짧다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452619",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435123",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 서교림(삼천리)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 최혜진, 벙커 탈출",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452617",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435121",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 최혜진(롯데)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 국대 김규빈-나우성, 출발",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452624",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435124",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 국가대표 김규빈이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 서교림, 행복한 미소로 출발",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452618",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435122",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 서교림(삼천리)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 서교림, 파 세이브",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452609",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435117",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 서교림(삼천리)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[MT포토] 세컨드샷 날리고 있는 김효주",
+			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=20260704212219888231792476ff_19",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197556",
 			"description":"KLPGA 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,819야드)에서 펼쳐지고 있다. 4일 현재 3라운드... ",
-			"pubDate":"Sat, 04 Jul 2026 21:18:00 +0900"
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
 		},
 		{
-			"title":"[MT포토] 세컨드샷 고민하는 문정민",
-			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=20260704211552465531792476ff_19",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197544",
+			"title":"[mhn포토] 서교림, 핀 하이로 날린다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452633",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435130",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 서교림(삼천리)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 최혜진, 들어가라",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452610",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435118",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 최혜진(롯데)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 서교림, 클럽 선택에 고민",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452611",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435119",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 서교림(삼천리)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 최혜진, 벙커 정리가 되지 않았다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452625",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435125",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 최혜진(롯데)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 서교림-전병권, 이동",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452627",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435127",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 서교림(삼천리)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[MT포토] 정확한 방향으로 날리는 김효주",
+			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=20260704212305885531792476ff_19",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197557",
 			"description":"KLPGA 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,819야드)에서 펼쳐지고 있다. 4일 현재 3라운드... ",
-			"pubDate":"Sat, 04 Jul 2026 21:17:00 +0900"
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
 		},
 		{
-			"title":"[MT포토] 우승을 조준하는 문정민",
-			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=20260704211623184431792476ff_19",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197545",
+			"title":"[mhn포토] 최혜진, 핀 하이로 날린다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452608",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435116",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 최혜진(롯데)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 국대 김규빈, 그린 주변 벙커 탈출",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452616",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435120",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 국가대표 김규빈이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 국대 김규빈, 미소 가득 출발",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452631",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435128",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 국가대표 김규빈이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 최혜진, 기다린다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452632",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435129",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 최혜진(롯데)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 서교림, 볼 풍선 가득 출발",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452626",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435126",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 서교림(삼천리)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:24:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 최혜진, 그린으로 날린다",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452602",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435114",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 최혜진(롯데)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:23:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 서교림, 절정의 백 스윙 톱",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452603",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435115",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 서교림(삼천리)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:23:00 +0900"
+		},
+		{
+			"title":"[mhn포토] 서교림, 스코어 카드 기재",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452600",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435112",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 서교림(삼천리)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:23:00 +0900"
+		},
+		{
+			"title":"[MT포토] 바람을 확인하는 지한솔",
+			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=20260704212149120331792476ff_19",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197555",
 			"description":"KLPGA 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,819야드)에서 펼쳐지고 있다. 4일 현재 3라운드... ",
-			"pubDate":"Sat, 04 Jul 2026 21:17:00 +0900"
+			"pubDate":"Sat, 04 Jul 2026 21:23:00 +0900"
 		},
 		{
-			"title":"[MT포토] 세컨드샷 날리는 문정민",
-			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=20260704211522247131792476ff_19",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197543",
+			"title":"[mhn포토] 최혜진, 퍼터 여기요",
+			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452601",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435113",
+			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 최혜진(롯데)이... ",
+			"pubDate":"Sat, 04 Jul 2026 21:23:00 +0900"
+		},
+		{
+			"title":"[MT포토] 세컨드샷 날리는 지한솔",
+			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=20260704212121760931792476ff_19",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197554",
 			"description":"KLPGA 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,819야드)에서 펼쳐지고 있다. 4일 현재 3라운드... ",
-			"pubDate":"Sat, 04 Jul 2026 21:16:00 +0900"
+			"pubDate":"Sat, 04 Jul 2026 21:22:00 +0900"
 		},
 		{
-			"title":"[MT포토] 타구 확인하는 문정민",
-			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=20260704211501253931792476ff_19",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197542",
+			"title":"[MT포토] 지한솔, 양손 인사로 올라서는 18번 홀 그린",
+			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=20260704212041325831792476ff_19",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197553",
 			"description":"KLPGA 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,819야드)에서 펼쳐지고 있다. 4일 현재 3라운드... ",
-			"pubDate":"Sat, 04 Jul 2026 21:16:00 +0900"
+			"pubDate":"Sat, 04 Jul 2026 21:22:00 +0900"
 		},
 		{
-			"title":"[mhn포토] 김시현, 탄도 높여 보낸다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452591",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435109",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 김시현(NH투자증권)... ",
-			"pubDate":"Sat, 04 Jul 2026 21:15:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 김새로미, 세심하게 살핀다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452588",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435108",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 김새로미(넥센그룹)... ",
-			"pubDate":"Sat, 04 Jul 2026 21:15:00 +0900"
-		},
-		{
-			"title":"[MT포토] 버디퍼트 상의하는 문정민",
-			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=2026070421134977231792476ff_19",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197540",
+			"title":"[MT포토] 버디퍼트 하는 지한솔",
+			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=2026070421202060231792476ff_19",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197552",
 			"description":"KLPGA 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,819야드)에서 펼쳐지고 있다. 4일 현재 3라운드... ",
-			"pubDate":"Sat, 04 Jul 2026 21:15:00 +0900"
-		},
-		{
-			"title":"[MT포토] 문정민, 버디퍼트 기다려요",
-			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=20260704211410357731792476ff_19",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197541",
-			"description":"KLPGA 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,819야드)에서 펼쳐지고 있다. 4일 현재 3라운드... ",
-			"pubDate":"Sat, 04 Jul 2026 21:15:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 김시현-오정민, 버디 찬스 완벽해요",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452593",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435110",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 김시현(NH투자증권)... ",
-			"pubDate":"Sat, 04 Jul 2026 21:15:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 김시현, 세심하게 살핀다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452595",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435111",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 김시현(NH투자증권)... ",
-			"pubDate":"Sat, 04 Jul 2026 21:15:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 짜라위 분짠, 살짝 빗나갔어",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452584",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435105",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 짜라위 분짠... ",
-			"pubDate":"Sat, 04 Jul 2026 21:14:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 김시현, 즐거운 버디 마무리",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452585",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435106",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 김시현(NH투자증권)... ",
-			"pubDate":"Sat, 04 Jul 2026 21:14:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 김시현-오정민, 나이스 버디",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452589",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435107",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 김시현(NH투자증권)... ",
-			"pubDate":"Sat, 04 Jul 2026 21:14:00 +0900"
-		},
-		{
-			"title":"[MT포토] 버디퍼트 기다리는 문정민",
-			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=202607042109208131792476ff_19",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197538",
-			"description":"KLPGA 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,819야드)에서 펼쳐지고 있다. 4일 현재 3라운드... ",
-			"pubDate":"Sat, 04 Jul 2026 21:14:00 +0900"
-		},
-		{
-			"title":"[MT포토] 버디퍼트 하고 있는 문정민",
-			"originallink":"http:\/\/www.maniareport.com\/view.php?ud=20260704211326743431792476ff_19",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/425\/0000197539",
-			"description":"KLPGA 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원, 우승상금 2억 1천6백만 원)이 인천 서구에 위치한 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6,819야드)에서 펼쳐지고 있다. 4일 현재 3라운드... ",
-			"pubDate":"Sat, 04 Jul 2026 21:14:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 지한솔, 버디 잡았어요",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452581",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435104",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 지한솔(동부건설)이... ",
-			"pubDate":"Sat, 04 Jul 2026 21:13:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 지한솔, 뿌잉 뿌잉",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452579",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435103",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 지한솔(동부건설)이... ",
-			"pubDate":"Sat, 04 Jul 2026 21:12:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 지한솔, 허투루 볼 수 없는 버디 퍼트",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452573",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435100",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 지한솔(동부건설)이... ",
-			"pubDate":"Sat, 04 Jul 2026 21:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 버디 성공 지한솔, 소리 질러",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452577",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435102",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 지한솔(동부건설)이... ",
-			"pubDate":"Sat, 04 Jul 2026 21:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 지한솔, 그린으로 위풍당당하게",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452571",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435099",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 지한솔(동부건설)이... ",
-			"pubDate":"Sat, 04 Jul 2026 21:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 지한솔, 반대편에서 살핀다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452575",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435101",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 지한솔(동부건설)이... ",
-			"pubDate":"Sat, 04 Jul 2026 21:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 지한솔, 핀 까지 거리 확인",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452570",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435098",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 지한솔(동부건설)이... ",
-			"pubDate":"Sat, 04 Jul 2026 21:11:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 마서영, 핀 하이로 날린다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452548",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435086",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 마서영(리쥬란)이... ",
-			"pubDate":"Sat, 04 Jul 2026 21:10:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 최예림, 버디 사냥 떠난다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452569",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435097",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 최예림(DB손해보험)... ",
-			"pubDate":"Sat, 04 Jul 2026 21:10:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 최예림, 버디 성공했어요",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452541",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435084",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 최예림(DB손해보험)... ",
-			"pubDate":"Sat, 04 Jul 2026 21:10:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 마서영, 콤비 캐디와 살핀다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452558",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435091",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 마서영(리쥬란)이... ",
-			"pubDate":"Sat, 04 Jul 2026 21:10:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 마서영, 정타 날린다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452538",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435081",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 마서영(리쥬란)이... ",
-			"pubDate":"Sat, 04 Jul 2026 21:10:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 최예림, 정타 날린다",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452539",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435082",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 최예림(DB손해보험)... ",
-			"pubDate":"Sat, 04 Jul 2026 21:10:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 최예림-이계호, 가리키는 곳으로 공략",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1452559",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435092",
-			"description":"4일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 무빙데이 3라운드가 열렸다. 최예림(DB손해보험)... ",
-			"pubDate":"Sat, 04 Jul 2026 21:10:00 +0900"
+			"pubDate":"Sat, 04 Jul 2026 21:21:00 +0900"
 		}
 	]
 }
