@@ -1,9 +1,58 @@
 {
-	"lastBuildDate":"Sun, 05 Jul 2026 16:10:01 +0900",
-	"total":301863,
+	"lastBuildDate":"Sun, 05 Jul 2026 16:20:00 +0900",
+	"total":301870,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘월드 클래스’ 품격 보여준 김효주, 롯데 오픈 6년 만에 패권 탈환…...",
+			"originallink":"https:\/\/sports.donga.com\/sports\/article\/all\/20260705\/134238510\/1",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/382\/0001281681",
+			"description":"세계랭킹 3위이자 미국여자프로골프(LPGA) 투어 통산 9승을 보유한 김효주는 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄아시아 코스(파72)에서 열린 제16회 롯데 오픈(총상금 12억 원) 4라운드에서 보기 없이... ",
+			"pubDate":"Sun, 05 Jul 2026 16:15:00 +0900"
+		},
+		{
+			"title":"'월드 클래스' 김효주, 국내 무대 2회 출전에 '2승'",
+			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=1388253",
+			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=1388253",
+			"description":"김효주는 5일 인천 서구 베어즈베스트 <b>청라<\/b> 미국-아시아 코스(파72)에서 열린 대회 최종 4라운드에서 보기 없이 버디만 5개 잡아 5언더파 67타를 쳤다. 최종 합계 15언더파 273타를 기록한 김효주는 이세희, 이다연... ",
+			"pubDate":"Sun, 05 Jul 2026 16:14:00 +0900"
+		},
+		{
+			"title":"김효주, 롯데오픈 짜릿한 역전 우승…올 시즌 국내외 4승째",
+			"originallink":"https:\/\/www.sidae.com\/article\/2026070516081832344",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/417\/0001150347",
+			"description":"김효주는 5일 인천 서구 베어즈베스트 <b>청라<\/b>(파72)에서 열린 대회 최종 4라운드에서 보기 없이 버디만 5개를 잡아 5언더파 67타를 쳤다. 최종합계 15언더파 273타를 적어낸 김효주는 이세희, 이다연, 박예지, 유현조 등... ",
+			"pubDate":"Sun, 05 Jul 2026 16:14:00 +0900"
+		},
+		{
+			"title":"김효주, 프랑스행 직전 짜릿한 역전…KLPGA 롯데 오픈 우승",
+			"originallink":"https:\/\/www.kado.net\/news\/articleView.html?idxno=2059452",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/654\/0000188879",
+			"description":"김효주는 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄아시아 코스(파72)에서 열린 제16회 롯데 오픈 최종 4라운드에서 보기 없이 버디 5개를 잡아냈다. 선두에 3타 뒤진 공동 5위로 마지막 라운드를 출발한... ",
+			"pubDate":"Sun, 05 Jul 2026 16:12:00 +0900"
+		},
+		{
+			"title":"'역전의 명수' 김효주, 롯데 오픈 대역전극… 시즌 2승 안고 에비앙 챔...",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202607051609519555",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/014\/0005543802",
+			"description":"김효주는 5일 인천시 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄아시아 코스(파72)에서 막을 내린 제16회 롯데 오픈 최종 라운드에서 보기 없이 버디만 5개를 낚는 완벽한 무결점 플레이를 선보였다. 최종 합계... ",
+			"pubDate":"Sun, 05 Jul 2026 16:12:00 +0900"
+		},
+		{
+			"title":"한국 2승, 미국 2승…김효주는 출전이 곧 우승이다",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25442512",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/025\/0003535400",
+			"description":"김효주는 5일 인천 베어즈베스트 <b>청라<\/b> 골프장에서 끝난 KLPGA 투어 롯데 오픈 최종라운드에서 보기 없이 버디 5개만 잡아 5타를 줄였다. 합계 15언더파 273타로 이날 엎치락뒤치락 승부를 벌인 이다연과 유현조, 이세희... ",
+			"pubDate":"Sun, 05 Jul 2026 16:12:00 +0900"
+		},
+		{
+			"title":"“한국 올 때마다 우승“ 김효주, KLPGA투어 시즌 2승…후원사 주최 롯데...",
+			"originallink":"https:\/\/www.seoul.co.kr\/news\/sport\/golf\/2026\/07\/05\/20260705500055?wlog_tag3=naver",
+			"link":"https:\/\/m.sports.naver.com\/golf\/article\/081\/0003658425",
+			"description":"김효주는 5일 인천 베어즈베스트 <b>청라<\/b>GC(파72)에서 열린 KLPGA투어 롯데오픈(총상금 12억원) 최종 라운드에서 5언더파 67타를 쳐 최종 합계 15언더파 273타로 우승했다. 유현조, 이세희, 이다연, 박예지 등을 1타차로 제친... ",
+			"pubDate":"Sun, 05 Jul 2026 16:12:00 +0900"
+		},
 		{
 			"title":"김효주, 롯데 오픈 우승… 韓美 투어 시즌 '4승'",
 			"originallink":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=848318",
@@ -36,21 +85,21 @@
 			"title":"김효주, KLPGA 투어 롯데 오픈 3타차 역전 우승…시즌 2승‧통산 16승째",
 			"originallink":"https:\/\/www.viva100.com\/article\/20260705500532",
 			"link":"https:\/\/www.viva100.com\/article\/20260705500532",
-			"description":"김효주는 5일 인천 베어즈베스트 <b>청라<\/b> 컨트리클럽 미국‧오스트랄아시아 코스(파72‧6819야드)에서 열린... 유현조는 시즌 2승을, 베어즈베스트 <b>청라<\/b> 골프장에서 통산 3승을 기록하고 있는 이다연은 시즌 첫 승... ",
+			"description":"김효주는 5일 인천 베어즈베스트 <b>청라<\/b> 컨트리클럽 미국‧오스트랄아시아 코스(파72‧6819야드)에서 열린 대회 마지막 날 4라운드에서 보기 없이 버디 5개로 5언더파 67타를 쳐 최종 합계 15언더파 273타를 기록해... ",
 			"pubDate":"Sun, 05 Jul 2026 16:04:00 +0900"
-		},
-		{
-			"title":"[포토] '제 9회 루키브코 챌린지' 화보3",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=124469",
-			"link":"https:\/\/m.sports.naver.com\/basketball\/article\/398\/0000100826",
-			"description":"5일 인천 서구 <b>청라<\/b>에 위치한 하나 글로벌캠퍼스 내 체육관에서 '제 9회 ROOKIE BCO Challenge(루키브코챌린지)' 대회가 열렸다. 이번 대회는 훕시티와 하나은행 여자농구단, 강남본 정형외과, 루키샵, 몰텐... ",
-			"pubDate":"Sun, 05 Jul 2026 16:03:00 +0900"
 		},
 		{
 			"title":"'KLPGA 출전했다 하면 우승' 김효주, 롯데 오픈 역전극…시즌 4승째 대기...",
 			"originallink":"https:\/\/news.tvchosun.com\/site\/data\/html_dir\/2026\/07\/05\/2026070590099.html",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/448\/0000624452",
 			"description":"5일 인천 서구에 위치한 베어즈베스트 <b>청라<\/b>(파72)에서 펼쳐진 대회 최종 4라운드에서 김효주는 보기 없이 버디만 5개를 솎아내며 5언더파 67타를 적어냈다. 최종 합계 15언더파 273타의 성적을 낸 김효주는 이세희(29... ",
+			"pubDate":"Sun, 05 Jul 2026 16:03:00 +0900"
+		},
+		{
+			"title":"[포토] '제 9회 루키브코 챌린지' 화보3",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=124469",
+			"link":"https:\/\/m.sports.naver.com\/basketball\/article\/398\/0000100826",
+			"description":"5일 인천 서구 <b>청라<\/b>에 위치한 하나 글로벌캠퍼스 내 체육관에서 '제 9회 ROOKIE BCO Challenge(루키브코챌린지)' 대회가 열렸다. 이번 대회는 훕시티와 하나은행 여자농구단, 강남본 정형외과, 루키샵, 몰텐... ",
 			"pubDate":"Sun, 05 Jul 2026 16:03:00 +0900"
 		},
 		{
@@ -68,17 +117,17 @@
 			"pubDate":"Sun, 05 Jul 2026 16:00:00 +0900"
 		},
 		{
-			"title":"[포토] '제 9회 루키브코 챌린지' 화보2",
-			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=124466",
-			"link":"https:\/\/m.sports.naver.com\/basketball\/article\/398\/0000100824",
-			"description":"5일 인천 서구 <b>청라<\/b>에 위치한 하나 글로벌캠퍼스 내 체육관에서 '제 9회 ROOKIE BCO Challenge(루키브코챌린지)' 대회가 열렸다. 이번 대회는 훕시티와 하나은행 여자농구단, 강남본 정형외과, 루키샵, 몰텐... ",
-			"pubDate":"Sun, 05 Jul 2026 16:00:00 +0900"
-		},
-		{
 			"title":"‘승률 100%’ 김효주, 2개월만에 KLPGA투어 시즌 2승…롯데오픈 우승",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0030066230&code=61161511&cp=nv",
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/005\/0001858977",
 			"description":"김효주는 5일 인천 베어즈베스트 <b>청라<\/b>GC 미국-오스트랄아시아 코스(파72·6891야드)에서 열린... 루키인 황유민이 6타를 줄여 문정민과 함께 공동 6위(최종 합계 11언더파 277타)에 입상했다. <b>청라<\/b>(인천)=정대균골프선임기자",
+			"pubDate":"Sun, 05 Jul 2026 16:00:00 +0900"
+		},
+		{
+			"title":"[포토] '제 9회 루키브코 챌린지' 화보2",
+			"originallink":"http:\/\/www.rookie.co.kr\/news\/articleView.html?idxno=124466",
+			"link":"https:\/\/m.sports.naver.com\/basketball\/article\/398\/0000100824",
+			"description":"5일 인천 서구 <b>청라<\/b>에 위치한 하나 글로벌캠퍼스 내 체육관에서 '제 9회 ROOKIE BCO Challenge(루키브코챌린지)' 대회가 열렸다. 이번 대회는 훕시티와 하나은행 여자농구단, 강남본 정형외과, 루키샵, 몰텐... ",
 			"pubDate":"Sun, 05 Jul 2026 16:00:00 +0900"
 		},
 		{
@@ -164,55 +213,6 @@
 			"link":"https:\/\/m.sports.naver.com\/golf\/article\/109\/0005566209",
 			"description":"김효주는 5일 인천 서구 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6819야드)에서 막을 내린 ‘제16회 롯데 오픈’(총상금 12억 원, 우승상금 2억 1600만 원)에서 최종합계 15언더파 273타(66-69-71-67)의 성적으로 우승했다. 김효주는... ",
 			"pubDate":"Sun, 05 Jul 2026 15:44:00 +0900"
-		},
-		{
-			"title":"[IS <b>청라<\/b>] '역시 세계 3위' 김효주, 롯데 오픈서 시즌 4승…LPGA 2승+KLPGA...",
-			"originallink":"https:\/\/isplus.com\/article\/view\/isp202607050075",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/241\/0003518311",
-			"description":"김효주는 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽 미국·오스트랄아시아 코스(파72)에서 열린... 3개를 범하며 공동 2위에 머물렀다. 이다연도 보기 1개(버디 3개)에 아쉽게 10승 도전을 다음으로 미뤄야 했다. <b>청라<\/b>=",
-			"pubDate":"Sun, 05 Jul 2026 15:44:00 +0900"
-		},
-		{
-			"title":"'한국만 오면 승전보' 김효주, 롯데 오픈 역전 우승…KLPGA 통산 16승",
-			"originallink":"http:\/\/www.stoo.com\/article.php?aid=107567138111",
-			"link":"http:\/\/www.stoo.com\/article.php?aid=107567138111",
-			"description":"김효주는 5일 인천 베어즈베스트 <b>청라<\/b> 골프클럽(파72\/6819야드)에서 열린 한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 12억 원, 우승상금 2억1600만 원) 최종 라운드에서 보기 없이 버디만 5개를 잡았다. 최종합계... ",
-			"pubDate":"Sun, 05 Jul 2026 15:44:00 +0900"
-		},
-		{
-			"title":"인천시, ’로봇 시티 인천‘ 협의체 가동…로봇 혁신 생태계 조성",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=902633",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=902633",
-			"description":"인천국제공항과 인천항 등 세계적인 물류 기반 시설과 <b>청라<\/b>국제도시 등 최적의 직주근접 정주 여건, 여기에 서해·남동·연수구를 잇는 핵심 소재·부품·장비 생태계와 맞물려 시너지를 낸다는 계획이다. 남영희... ",
-			"pubDate":"Sun, 05 Jul 2026 15:14:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 박민지, 핀 정조준",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1453319",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435455",
-			"description":"5일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 최종 4라운드가 열렸다. 박민지(NH투자증권)가... ",
-			"pubDate":"Sun, 05 Jul 2026 15:00:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 박민지, 미소의 의미는",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1453315",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435453",
-			"description":"5일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 최종 4라운드가 열렸다. 박민지(NH투자증권)가... ",
-			"pubDate":"Sun, 05 Jul 2026 14:59:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 박민지-김동용, 뭘까",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1453311",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435451",
-			"description":"5일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 최종 4라운드가 열렸다. 박민지(NH투자증권)가... ",
-			"pubDate":"Sun, 05 Jul 2026 14:59:00 +0900"
-		},
-		{
-			"title":"[mhn포토] 박민지, 그린 위로 이동",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1453313",
-			"link":"https:\/\/m.sports.naver.com\/golf\/article\/445\/0000435452",
-			"description":"5일 인천 서해구에 위치한 베어즈베스트 <b>청라<\/b>(파72ㅣ6,819야드)에서 2026시즌 열다섯 번째 대회인 ‘제16회 롯데 오픈’(총상금 12억 원 우승상금 2억 1천6백만 원) 최종 4라운드가 열렸다. 박민지(NH투자증권)가... ",
-			"pubDate":"Sun, 05 Jul 2026 14:59:00 +0900"
 		}
 	]
 }
