@@ -1,5 +1,5 @@
 {
-	"lastBuildDate":"Mon, 06 Jul 2026 18:50:00 +0900",
+	"lastBuildDate":"Mon, 06 Jul 2026 19:00:00 +0900",
 	"total":302704,
 	"start":1,
 	"display":30,
@@ -61,17 +61,17 @@
 			"pubDate":"Mon, 06 Jul 2026 17:49:00 +0900"
 		},
 		{
-			"title":"[인사] 보령시청(2026.7.8.자)",
-			"originallink":"https:\/\/www.newstnt.com\/news\/articleView.html?idxno=709170",
-			"link":"https:\/\/www.newstnt.com\/news\/articleView.html?idxno=709170",
-			"description":"노유진 △ <b>청라<\/b>면 조아연 △ 주산면 박상미 △ 미산면 송융석 △ 성주면 윤희창 △ 대천1동 이현정... 김조은 △ <b>청라<\/b>면 김광중 △ <b>청라<\/b>면 박지혜 △ 미산면 박현찬 △ 성주면 김종현 △ 대천4동 신다은 △ 대천4동 양지혜... ",
-			"pubDate":"Mon, 06 Jul 2026 17:48:00 +0900"
-		},
-		{
 			"title":"세계 랭킹 3위 김효주, 롯데 오픈 제패 후 프랑스 향한다",
 			"originallink":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=530850",
 			"link":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=530850",
 			"description":"|중앙이코노미뉴스 조용우 기자|출처=연합뉴스 여자골프 세계랭킹 3위 김효주가 지난 5일 인천시 베어즈베스트 <b>청라<\/b> 골프클럽에서 열린 한국여자프로골프(KLPGA) 투어 롯데 오픈(총상금 12억 원)에서 3타 차 역전... ",
+			"pubDate":"Mon, 06 Jul 2026 17:48:00 +0900"
+		},
+		{
+			"title":"[인사] 보령시청(2026.7.8.자)",
+			"originallink":"https:\/\/www.newstnt.com\/news\/articleView.html?idxno=709170",
+			"link":"https:\/\/www.newstnt.com\/news\/articleView.html?idxno=709170",
+			"description":"노유진 △ <b>청라<\/b>면 조아연 △ 주산면 박상미 △ 미산면 송융석 △ 성주면 윤희창 △ 대천1동 이현정... 김조은 △ <b>청라<\/b>면 김광중 △ <b>청라<\/b>면 박지혜 △ 미산면 박현찬 △ 성주면 김종현 △ 대천4동 신다은 △ 대천4동 양지혜... ",
 			"pubDate":"Mon, 06 Jul 2026 17:48:00 +0900"
 		},
 		{
@@ -173,13 +173,6 @@
 			"pubDate":"Mon, 06 Jul 2026 16:08:00 +0900"
 		},
 		{
-			"title":"박찬대 인천시장, 첫 공식 업무보고 받고 경제･교통･재정･민생 집중...",
-			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=437975",
-			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=437975",
-			"description":"인천시 포토 박 시장이 이날 남동구 도시철도건설본부를 찾아 업무보고를 받고 서울지하철 7호선 <b>청라<\/b> 연장선 개통 지연 등 주요 현안을 논의했다. 그는 <b>청라<\/b>국제도시와 서울 도심을 연결하는 핵심 광역교통망 사업인... ",
-			"pubDate":"Mon, 06 Jul 2026 16:06:00 +0900"
-		},
-		{
 			"title":"매끄러, 첫 방문 고객 대상 할인 피부관리 프로모션 진행",
 			"originallink":"http:\/\/www.hemophilia.co.kr\/news\/articleView.html?idxno=43040",
 			"link":"http:\/\/www.hemophilia.co.kr\/news\/articleView.html?idxno=43040",
@@ -187,17 +180,24 @@
 			"pubDate":"Mon, 06 Jul 2026 16:06:00 +0900"
 		},
 		{
-			"title":"특별세무조사 받는 A은행, 인천시 금고 공모 참여 '도덕성' 논란",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3028137",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3028137",
-			"description":"기호일보, KIHOILBO 박찬대 인천시장이 지난 4월 시장 후보 시절 서구 <b>청라<\/b>국제도시에 위치한 A금융그룹... 인천경실련은 박찬대 인천시장이 후보 시절 A은행의 <b>청라<\/b> 이전 부지를 방문해 시금고 평가에서 지역사회 공헌도를... ",
-			"pubDate":"Mon, 06 Jul 2026 16:02:00 +0900"
+			"title":"박찬대 인천시장, 첫 공식 업무보고 받고 경제･교통･재정･민생 집중...",
+			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=437975",
+			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=437975",
+			"description":"인천시 포토 박 시장이 이날 남동구 도시철도건설본부를 찾아 업무보고를 받고 서울지하철 7호선 <b>청라<\/b> 연장선 개통 지연 등 주요 현안을 논의했다. 그는 <b>청라<\/b>국제도시와 서울 도심을 연결하는 핵심 광역교통망 사업인... ",
+			"pubDate":"Mon, 06 Jul 2026 16:06:00 +0900"
 		},
 		{
 			"title":"인천서부소방서, 소화기 활용 사례 소개… 주택용 소방시설 설치 당부",
 			"originallink":"http:\/\/fpn119.co.kr\/253476",
 			"link":"http:\/\/fpn119.co.kr\/253476",
 			"description":"소방서에 따르면 지난달 30일 오전 <b>청라<\/b>동 소재 상가 1층 야외 재활용쓰레기장에서 화재가 발생했다. 이를 목격한 행인이 즉시 119에 신고했으며 상가 관계자는 주변에 비치된 소화기를 이용해 초기 진화에 나섰다. 이후... ",
+			"pubDate":"Mon, 06 Jul 2026 16:02:00 +0900"
+		},
+		{
+			"title":"특별세무조사 받는 A은행, 인천시 금고 공모 참여 '도덕성' 논란",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3028137",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3028137",
+			"description":"기호일보, KIHOILBO 박찬대 인천시장이 지난 4월 시장 후보 시절 서구 <b>청라<\/b>국제도시에 위치한 A금융그룹... 인천경실련은 박찬대 인천시장이 후보 시절 A은행의 <b>청라<\/b> 이전 부지를 방문해 시금고 평가에서 지역사회 공헌도를... ",
 			"pubDate":"Mon, 06 Jul 2026 16:02:00 +0900"
 		},
 		{
