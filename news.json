@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 08 Jul 2026 17:10:01 +0900",
-	"total":302885,
+	"lastBuildDate":"Wed, 08 Jul 2026 17:20:01 +0900",
+	"total":302886,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 <b>청라<\/b>하늘대교~미단시티 13일 개통",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2026070834081",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005307726?sid=102",
+			"description":"영종도 해안순환도로의 마지막 미개통 구간(<b>청라<\/b>하늘대교~미단시티)이 오는 13일 오전 9시 개통된다. 총연장 2.99㎞, 폭 15ｍ의 왕복 2차로다. 자전거와 보행자 도로가 별도로 조성된다. 이번 개통으로 총연장 53.7㎞에... ",
+			"pubDate":"Wed, 08 Jul 2026 17:16:00 +0900"
+		},
 		{
 			"title":"인천교구 일부 지구, 8월부터 새 행정구역 따라 분할·개편",
 			"originallink":"https:\/\/www.catholictimes.org\/article\/20260708500189",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0012213936?sid=102",
 			"description":"이번에 개통되는 구간은 <b>청라<\/b>하늘대교에서 미단시티를 연결하는 길이 2.99㎞, 왕복 2차로 도로입니다. 특히, 이 구간은 보행자 도로와 자전거 도로를 함께 갖춰 이용자들의 편의성을 높였습니다. 인천시는... ",
 			"pubDate":"Wed, 08 Jul 2026 11:21:00 +0900"
-		},
-		{
-			"title":"인천경제청, 송도 11-1공구 스마트시티 기반시설 설계 착수",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20260708105446782",
-			"link":"https:\/\/www.ajunews.com\/view\/20260708105446782",
-			"description":"현재 G타워에 있는 IFEZ 스마트시티 운영센터는 365일 24시간 스마트시티 통합관제와 기반시설 운영, 시설물 통합유지관리를 수행하며 송도·영종·<b>청라<\/b> 스마트도시 운영의 핵심 거점으로 기능하고 있다. 손혜영... ",
-			"pubDate":"Wed, 08 Jul 2026 11:18:00 +0900"
 		}
 	]
 }
