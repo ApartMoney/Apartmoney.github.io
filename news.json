@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 08 Jul 2026 11:20:00 +0900",
-	"total":302858,
+	"lastBuildDate":"Wed, 08 Jul 2026 11:30:01 +0900",
+	"total":302859,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 영종도 순환도로 오는 13일 완전 개통…전체 53.7km 완성",
+			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8605202&ref=A",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0012213936?sid=102",
+			"description":"이번에 개통되는 구간은 <b>청라<\/b>하늘대교에서 미단시티를 연결하는 길이 2.99㎞, 왕복 2차로 도로입니다. 특히, 이 구간은 보행자 도로와 자전거 도로를 함께 갖춰 이용자들의 편의성을 높였습니다. 인천시는... ",
+			"pubDate":"Wed, 08 Jul 2026 11:21:00 +0900"
+		},
 		{
 			"title":"인천경제청, 송도 11-1공구 스마트시티 기반시설 설계 착수",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20260708105446782",
@@ -145,17 +152,17 @@
 			"pubDate":"Wed, 08 Jul 2026 09:36:00 +0900"
 		},
 		{
-			"title":"영종해안순환도로 마지막 구간 13일 개통",
-			"originallink":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3068774",
-			"link":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3068774",
-			"description":"이번 개통으로 <b>청라<\/b>하늘대교와 미단시티를 연결하는 총연장 2.99㎞ 구간이 개방되며, 총길이 53.7㎞의... 물론 <b>청라<\/b>하늘대교를 이용하는 자전거 이용객의 이동 편의도 높아질 것으로 기대됩니다. 인천시는 이번 개통으로... ",
-			"pubDate":"Wed, 08 Jul 2026 09:28:00 +0900"
-		},
-		{
 			"title":"영종해안순환도로 7월 13일 개통…전 구간 연결 완료",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1529903",
 			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1529903",
 			"description":"이번 개통은 <b>청라<\/b>하늘대교에서 미단시티를 연결하는 왕복 2차로 구간으로, 보행자·자전거 도로도 함께 갖췄습니다. 마지막 미개통 구간이 연결되면서 총 길이 53km에 이르는 해안순환도로 전 구간이 하나로 이어져... ",
+			"pubDate":"Wed, 08 Jul 2026 09:28:00 +0900"
+		},
+		{
+			"title":"영종해안순환도로 마지막 구간 13일 개통",
+			"originallink":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3068774",
+			"link":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3068774",
+			"description":"이번 개통으로 <b>청라<\/b>하늘대교와 미단시티를 연결하는 총연장 2.99㎞ 구간이 개방되며, 총길이 53.7㎞의... 물론 <b>청라<\/b>하늘대교를 이용하는 자전거 이용객의 이동 편의도 높아질 것으로 기대됩니다. 인천시는 이번 개통으로... ",
 			"pubDate":"Wed, 08 Jul 2026 09:28:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=848939",
 			"description":"한편 LX판토스는 지난해 글로벌 ESG 평가기관 에코바디스(EcoVadis) 브론즈(Bronze) 등급 획득을 비롯해 탄소정보공개(CDP) B등급, 메가와이즈<b>청라<\/b>센터 친환경건축물인증(LEED) 골드(Gold) 인증, 보건복지부 지역사회공헌... ",
 			"pubDate":"Wed, 08 Jul 2026 09:00:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>하늘대교~미단시티 도로 개통…영종해안도로 완성",
-			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=231439",
-			"link":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=231439",
-			"description":"이번에 개통하는 구간은 <b>청라<\/b>하늘대교부터 미단시티까지 총 2.99㎞입니다. 왕복 2차로 규모로 조성됐으며, 보행자 도로와 자전거 도로도 함께 만들어졌습니다. 이번 개통으로 53.7㎞에 달하는 영종 해안도로 모든 구간이... ",
-			"pubDate":"Wed, 08 Jul 2026 08:52:00 +0900"
 		}
 	]
 }
