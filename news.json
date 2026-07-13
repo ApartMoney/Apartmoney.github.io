@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 14 Jul 2026 08:20:00 +0900",
-	"total":303240,
+	"lastBuildDate":"Tue, 14 Jul 2026 08:30:01 +0900",
+	"total":303241,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전국 오늘의 날씨 및 내일날씨]오늘~내일 전국 비, 강풍, 해상 높은 물...",
+			"originallink":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=422700",
+			"link":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=422700",
+			"description":"서해대교, <b>청라<\/b>하늘대교)등 주행 중인 차량이 돌풍에 강하게 흔들릴 가능성이 있으므로 감속운행 및 안전거리 유지 ○ (해상) 풍랑특보가 발효 중인 서해중부먼바다에는 내일(15일) 오전(서해중부바깥먼바다 내일... ",
+			"pubDate":"Tue, 14 Jul 2026 08:26:00 +0900"
+		},
 		{
 			"title":"[핀테크핫이슈] 결제 넘어 금융 인프라로…빅테크 영토 전방위 확장",
 			"originallink":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=683726",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newstnt.com\/news\/articleView.html?idxno=710023",
 			"description":"유인 항공방제 일정은 ▲14일 주산·오천·<b>청라<\/b>면 ▲15일 천북·<b>청라<\/b>면 ▲16일 청소·천북면, 대천5동 ▲17일 청소·천북·주교면, 대천2동 ▲18일 웅천읍, 남포면 순으로 진행된다. 무인 항공방제는 기간 중 10일 동안 16개 읍... ",
 			"pubDate":"Mon, 13 Jul 2026 16:34:00 +0900"
-		},
-		{
-			"title":"“개점 5분 만에 휴업 방송”…홈플러스 전면 휴업에 인천 10개 매장 영...",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260713580316",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000115051?sid=102",
-			"description":"인천에서는 지난 5월 인천 가좌점과 숭의점, 연수점, 송도점, 논현점 등 5개 점포가 임시 휴업한 데 이어 간석점과 <b>청라<\/b>점, 구월점, 인하점, 메가푸드마켓 작전점도 문을 닫게 됐다. 현재 홈플러스는 운영자금이 바닥나... ",
-			"pubDate":"Mon, 13 Jul 2026 16:09:00 +0900"
 		}
 	]
 }
