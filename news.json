@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 15 Jul 2026 08:20:01 +0900",
-	"total":303384,
+	"lastBuildDate":"Wed, 15 Jul 2026 08:30:01 +0900",
+	"total":303385,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전국 오늘의 날씨 및 내일날씨]오늘~내일 무더위와 열대야,강풍\/풍랑 ...",
+			"originallink":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=422734",
+			"link":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=422734",
+			"description":"서해대교, <b>청라<\/b>하늘대교)등 주행 중인 차량이 돌풍에 강하게 흔들릴 가능성이 있으므로 감속운행 및 안전거리 유지 ○ (해상) 풍랑특보가 발효중인 가운데, 서해중부안쪽먼바다는 오늘(15일) 오전까지 바람이 25~55km\/h... ",
+			"pubDate":"Wed, 15 Jul 2026 08:24:00 +0900"
+		},
 		{
 			"title":"[인사] IBK기업은행 2026년 하반기 조직개편 및 정기인사…정책금융 수...",
 			"originallink":"https:\/\/www.kfenews.co.kr\/news\/articleView.html?idxno=660439",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005789953?sid=102",
 			"description":"인천<b>청라<\/b> 김지현 ▲ 부천 김희태 ▲ 부천기업스마트 노승균 ▲ 부천내동 전대성 ▲ 부천테크노 전재홍 ▲ 부평기업스마트 윤해균 ▲ 삼정동 백인범 ▲ 소사 김수연 ▲ 송내동 박민성 ▲ 송내역 유인배 ▲ 역곡 이상화... ",
 			"pubDate":"Tue, 14 Jul 2026 18:40:00 +0900"
-		},
-		{
-			"title":"[전국 오늘의 날씨 및 내일날씨]오늘~내일 전국 비, 강풍, 해상 높은 물...",
-			"originallink":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=422730",
-			"link":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=422730",
-			"description":"서해대교, <b>청라<\/b>하늘대교)등 주행 중인 차량이 돌풍에 강하게 흔들릴 가능성이 있으므로 감속운행 및 안전거리 유지 ○ (해상) 서해중부먼바다에 풍랑경보(17시 발효)가 발표된 가운데, 서해중부바깥먼바다는 내일... ",
-			"pubDate":"Tue, 14 Jul 2026 18:34:00 +0900"
 		}
 	]
 }
