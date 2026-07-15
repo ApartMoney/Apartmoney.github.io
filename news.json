@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 16 Jul 2026 08:20:01 +0900",
-	"total":303524,
+	"lastBuildDate":"Thu, 16 Jul 2026 08:30:00 +0900",
+	"total":303525,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전국 오늘의 날씨 및 주말날씨]오늘~내일 충청권, 남부지방, 제주도, 모...",
+			"originallink":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=422769",
+			"link":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=422769",
+			"description":"- 특히, 해안에 위치한 대교(영종대교, 인천대교, 서해대교, <b>청라<\/b>하늘대교 등)와 내륙의 강이나 호수, 골짜기에 인접한 도로에서는 주변보다 안개가 더욱 짙게 끼는 곳이 있겠으니, 차량 운행 시 감속 운행하여... ",
+			"pubDate":"Thu, 16 Jul 2026 08:22:00 +0900"
+		},
 		{
 			"title":"“공사 직접 확인”…인천시, 7호선 <b>청라<\/b>연장선 '시민 감시단' 운영",
 			"originallink":"https:\/\/ic.newdaily.co.kr\/site\/data\/html\/2026\/07\/16\/2026071600017.html",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006331051?sid=100",
 			"description":"인천시는 서울지하철 7호선 <b>청라<\/b>연장사업의 투명성을 높이고 현장 중심의 소통을 강화하기 위해... 시는 최근 확인된 7호선 <b>청라<\/b>연장사업 공정 지연과 관련해 투명한 정보 공개로 시정에 대한 시민 신뢰를 높이기로 했다.... ",
 			"pubDate":"Wed, 15 Jul 2026 17:46:00 +0900"
-		},
-		{
-			"title":"인천시 “<b>청라<\/b> 스타필드 2028년 개장 사수”…<b>청라<\/b> 하수관로에 40억 투입",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260715580490",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000115412?sid=102",
-			"description":"인천시는 스타필드 <b>청라<\/b> 준공에 차질이 없도록 <b>청라<\/b> 오수관로 공사 사업 등에 들어가는 추가 비용 40억원을 부담하겠다고 15일 밝혔다. 시는 공촌하수처리장 증설 공사가 끝나는 2030년 4월 이전에 <b>청라<\/b> 지역의 하수 처리... ",
-			"pubDate":"Wed, 15 Jul 2026 17:45:00 +0900"
 		}
 	]
 }
