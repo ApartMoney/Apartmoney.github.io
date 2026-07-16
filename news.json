@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Thu, 16 Jul 2026 09:50:01 +0900",
-	"total":303552,
+	"lastBuildDate":"Thu, 16 Jul 2026 10:00:01 +0900",
+	"total":303557,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융, 혹서기에 어르신 대상 보양식 나눔 활동",
+			"originallink":"http:\/\/www.econotelling.com\/news\/articleView.html?idxno=20923",
+			"link":"http:\/\/www.econotelling.com\/news\/articleView.html?idxno=20923",
+			"description":"이번 봉사활동은 오는 9월 인천 <b>청라<\/b>국제도시 본점 이전을 앞두고 하나금융그룹이 지난 4월부터 인천 지역에서 펼치고 있는 릴레이 사회공헌 활동의 하나로 진행됐다고 하나은행측은 16일 설명했다. 하나금융그룹은... ",
+			"pubDate":"Thu, 16 Jul 2026 09:58:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 인천 어르신 4000명에 삼계탕 나눔",
+			"originallink":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=273135",
+			"link":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=273135",
+			"description":"이번 봉사는 오는 9월 인천 <b>청라<\/b>국제도시로의 본점 이전을 앞두고 추진 중인 '인천 지역 릴레이 사회공헌'의 4번째 프로젝트다. 하나금융은 지난 4월 연희노인문화센터 벽화 조성을 시작으로 5월 강남시장 환경개선... ",
+			"pubDate":"Thu, 16 Jul 2026 09:58:00 +0900"
+		},
+		{
+			"title":"17조원 인천시금고 새 주인은 누구…신한·농협 20년 독점 구도 흔들리...",
+			"originallink":"https:\/\/www.ppss.kr\/news\/articleView.html?idxno=302325",
+			"link":"https:\/\/www.ppss.kr\/news\/articleView.html?idxno=302325",
+			"description":"다수 시중은행이 참여를 검토하는 가운데, 오는 9월 인천 <b>청라<\/b>국제도시로 본사를 이전하는 하나은행도 재도전에 나설 것으로 예상된다. 하나은행은 4년 전 공모에서 신한은행과 경쟁했지만, 기존 시금고 운영 경험과... ",
+			"pubDate":"Thu, 16 Jul 2026 09:54:00 +0900"
+		},
+		{
+			"title":"수도권매립지 72홀 파크골프장 본격 착공…운영권 갈등 마무리",
+			"originallink":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=321825",
+			"link":"https:\/\/www.geconomy.co.kr\/news\/article.html?no=321825",
+			"description":"현재 송도와 <b>청라<\/b>, 아시아드주경기장, 승기천, 선학 등에서 공공 파크골프장이 운영되고 있으며, 대부분 예약제로 운영될 만큼 이용 수요가 이어지고 있다. 72홀 규모의 수도권매립지 파크골프장이 조성되면 수도권 최대... ",
+			"pubDate":"Thu, 16 Jul 2026 09:54:00 +0900"
+		},
+		{
+			"title":"하나금융, 인천지역 어르신 위해 초복 맞이 '보양식·행복상자' 나눔 펼...",
+			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4095426",
+			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4095426",
+			"description":"오는 9월 인천 <b>청라<\/b> 본점 이전을 앞둔 하나금융그룹이 인천 지역사회를 위한 상생 행보를 이어가고 있습니다.... 한편, 하나금융그룹의 <b>청라<\/b> '하나드림타운' 조성사업은 오는 9월 그룹 헤드쿼터가 이전을 마무리지으면서... ",
+			"pubDate":"Thu, 16 Jul 2026 09:50:00 +0900"
+		},
+		{
+			"title":"[금융권 이모저모]KB자산운용, RISE 밸류업 ETF 상장 후 최대 분배금 外",
+			"originallink":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=114215",
+			"link":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=114215",
+			"description":"이번 행사는 오는 9월 인천 <b>청라<\/b>국제도시 본점 이전을 앞두고 지난 4월부터 이어온 인천지역 릴레이 사회공헌 활동의 하나로 마련됐다. 그래픽=토스 ◇토스, 카드라운지 출시 1년 만에 방문자 11배 증가 토스의 웹 기반... ",
+			"pubDate":"Thu, 16 Jul 2026 09:48:00 +0900"
+		},
 		{
 			"title":"하나금융, 인천 취약계층 어르신에 삼계탕 나눔",
 			"originallink":"https:\/\/sports.hankooki.com\/news\/articleView.html?idxno=6936555",
@@ -16,13 +58,6 @@
 			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=468949",
 			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=468949",
 			"description":"[사진=하나금융그룹] 인천 <b>청라<\/b>국제도시로 그룹 본점 이전을 앞둔 하나금융그룹이 인천 지역사회와의 상생... 한편, 하나금융이 인천 <b>청라<\/b>국제도시에 조성 중인 '하나드림타운' 사업도 마무리 단계에 접어들었다.... ",
-			"pubDate":"Thu, 16 Jul 2026 09:48:00 +0900"
-		},
-		{
-			"title":"[금융권 이모저모]KB자산운용, RISE 밸류업 ETF 상장 후 최대 분배금 外",
-			"originallink":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=114215",
-			"link":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=114215",
-			"description":"이번 행사는 오는 9월 인천 <b>청라<\/b>국제도시 본점 이전을 앞두고 지난 4월부터 이어온 인천지역 릴레이 사회공헌 활동의 하나로 마련됐다. 그래픽=토스 ◇토스, 카드라운지 출시 1년 만에 방문자 11배 증가 토스의 웹 기반... ",
 			"pubDate":"Thu, 16 Jul 2026 09:48:00 +0900"
 		},
 		{
@@ -75,17 +110,17 @@
 			"pubDate":"Thu, 16 Jul 2026 09:36:00 +0900"
 		},
 		{
-			"title":"하나금융그룹, 초복 맞아 인천 어르신에 삼계탕 나눔",
-			"originallink":"https:\/\/www.ezyeconomy.com\/news\/articleView.html?idxno=237616",
-			"link":"https:\/\/www.ezyeconomy.com\/news\/articleView.html?idxno=237616",
-			"description":"이번 봉사활동은 오는 9월 인천 <b>청라<\/b>국제도시 본점 이전을 앞두고 지난 4월부터 인천지역에서 이어오고 있는 릴레이 사회공헌 활동의 일환으로 마련됐다. 하나금융그룹은 인천 가좌노인문화센터를 시작으로 오는... ",
-			"pubDate":"Thu, 16 Jul 2026 09:30:00 +0900"
-		},
-		{
 			"title":"하나금융, 초복 맞아 인천 어르신 4000명에 삼계탕 나눔",
 			"originallink":"https:\/\/www.womentimes.co.kr\/news\/articleView.html?idxno=104421",
 			"link":"https:\/\/www.womentimes.co.kr\/news\/articleView.html?idxno=104421",
 			"description":"하나금융은 오는 9월 인천 <b>청라<\/b>국제도시 본점 이전을 앞두고 지난 4월부터 인천지역에서 릴레이 사회공헌활동을 이어가고 있다. 4월 연희노인문화센터 벽화 조성, 5월 서구 강남시장 환경개선, 6월 가좌청소년센터 벽화... ",
+			"pubDate":"Thu, 16 Jul 2026 09:30:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 초복 맞아 인천 어르신에 삼계탕 나눔",
+			"originallink":"https:\/\/www.ezyeconomy.com\/news\/articleView.html?idxno=237616",
+			"link":"https:\/\/www.ezyeconomy.com\/news\/articleView.html?idxno=237616",
+			"description":"이번 봉사활동은 오는 9월 인천 <b>청라<\/b>국제도시 본점 이전을 앞두고 지난 4월부터 인천지역에서 이어오고 있는 릴레이 사회공헌 활동의 일환으로 마련됐다. 하나금융그룹은 인천 가좌노인문화센터를 시작으로 오는... ",
 			"pubDate":"Thu, 16 Jul 2026 09:30:00 +0900"
 		},
 		{
@@ -96,17 +131,17 @@
 			"pubDate":"Thu, 16 Jul 2026 09:26:00 +0900"
 		},
 		{
-			"title":"[게시판] 하나금융, 인천지역 복지관서 취약계층 노인 대상 봉사활동",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260716044600002?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016197687?sid=101",
-			"description":"이번 봉사활동은 오는 9월 인천 <b>청라<\/b>국제도시 본점 이전을 앞두고 하나금융이 지난 4월부터 이어오고 있는 지역 사회공헌 활동의 일환으로 진행됐다. 하나금융은 이달 인천 지역 복지관 총 9곳을 방문해 보양식을... ",
-			"pubDate":"Thu, 16 Jul 2026 09:24:00 +0900"
-		},
-		{
 			"title":"하나금융, 인천 취약계층 어르신 4000명에 삼계탕 지원",
 			"originallink":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=684542",
 			"link":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=684542",
 			"description":"이번 활동은 9월 인천 <b>청라<\/b>국제도시로 본점 이전을 앞두고 4월부터 진행해 온 인천지역 릴레이 사회공헌 사업이다. 임직원들은 가좌노인문화센터를 찾은 취약계층 어르신에게 삼계탕을 제공했다. 복지관 방문이 어려운... ",
+			"pubDate":"Thu, 16 Jul 2026 09:24:00 +0900"
+		},
+		{
+			"title":"[게시판] 하나금융, 인천지역 복지관서 취약계층 노인 대상 봉사활동",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260716044600002?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016197687?sid=101",
+			"description":"이번 봉사활동은 오는 9월 인천 <b>청라<\/b>국제도시 본점 이전을 앞두고 하나금융이 지난 4월부터 이어오고 있는 지역 사회공헌 활동의 일환으로 진행됐다. 하나금융은 이달 인천 지역 복지관 총 9곳을 방문해 보양식을... ",
 			"pubDate":"Thu, 16 Jul 2026 09:24:00 +0900"
 		},
 		{
@@ -138,17 +173,17 @@
 			"pubDate":"Thu, 16 Jul 2026 09:08:00 +0900"
 		},
 		{
-			"title":"&quot;폭염속 시원하고 든든한 상생&quot;…하나금융, 인천 어르신들에 삼계탕 온...",
-			"originallink":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=82325",
-			"link":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=82325",
-			"description":"지난 15일 열린 이번 행사는 오는 9월 예정된 인천 <b>청라<\/b>국제도시 그룹 헤드쿼터 이전을 앞두고... 한편 이번 릴레이 행사의 배경이 된 <b>청라<\/b> 하나드림타운 조성 사업은 지난 2017년 통합데이터센터 건립과 2019년 글로벌 인재... ",
-			"pubDate":"Thu, 16 Jul 2026 09:06:00 +0900"
-		},
-		{
 			"title":"하나금융그룹, 인천지역 어르신 위한 삼계탕 나눔 봉사활동",
 			"originallink":"https:\/\/www.newspim.com\/news\/view\/20260716000230",
 			"link":"https:\/\/www.newspim.com\/news\/view\/20260716000230",
 			"description":"이번 봉사활동은 오는 9월 인천 <b>청라<\/b>국제도시 본점 이전을 앞두고 하나금융그룹이 지난 4월부터 인천지역에서 이어오고 있는 릴레이 사회공헌 활동의 일환으로 진행됐다. 지난 4월 인천 연희노인문화센터 벽화 조성, 5월... ",
+			"pubDate":"Thu, 16 Jul 2026 09:06:00 +0900"
+		},
+		{
+			"title":"&quot;폭염속 시원하고 든든한 상생&quot;…하나금융, 인천 어르신들에 삼계탕 온...",
+			"originallink":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=82325",
+			"link":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=82325",
+			"description":"지난 15일 열린 이번 행사는 오는 9월 예정된 인천 <b>청라<\/b>국제도시 그룹 헤드쿼터 이전을 앞두고... 한편 이번 릴레이 행사의 배경이 된 <b>청라<\/b> 하나드림타운 조성 사업은 지난 2017년 통합데이터센터 건립과 2019년 글로벌 인재... ",
 			"pubDate":"Thu, 16 Jul 2026 09:06:00 +0900"
 		},
 		{
@@ -178,41 +213,6 @@
 			"link":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=533273",
 			"description":"이번 봉사활동은 오는 9월 인천 <b>청라<\/b>국제도시 본점 이전을 앞두고 하나금융그룹이 지난 4월부터 인천지역에서 이어오고 있는 릴레이 사회공헌 활동의 일환으로 진행됐다. 앞서 지난 4월 인천 연희노인문화센터 벽화 조성... ",
 			"pubDate":"Thu, 16 Jul 2026 08:52:00 +0900"
-		},
-		{
-			"title":"하나금융, 인천지역 릴레이 사회공헌 이어가..어르신 삼계탕 나눔 봉사...",
-			"originallink":"https:\/\/kpenews.com\/View.aspx?No=4150995",
-			"link":"https:\/\/kpenews.com\/View.aspx?No=4150995",
-			"description":"봉사활동은 오는 9월 인천 <b>청라<\/b>국제도시 본점 이전을 앞두고 하나금융그룹이 지난 4월부터 인천지역에서 이어오고 있는 릴레이 사회공헌 활동의 일환이다. 지난 4월 인천 연희노인문화센터 벽화 조성, 5월 인천 서구... ",
-			"pubDate":"Thu, 16 Jul 2026 08:50:00 +0900"
-		},
-		{
-			"title":"하나금융지주, 인천 어르신 4000명에 삼계탕 나눔",
-			"originallink":"http:\/\/www.press9.kr\/news\/articleView.html?idxno=79529",
-			"link":"http:\/\/www.press9.kr\/news\/articleView.html?idxno=79529",
-			"description":"이번 활동은 오는 9월 인천 <b>청라<\/b>국제도시로 본점을 이전하기에 앞서 지역사회와 접점을 넓히기 위해 마련됐다. 하나금융그룹은 16일부터 오는 24일까지 인천지역 복지관 9곳에서 취약계층 어르신 약 4000명에게 삼계탕을... ",
-			"pubDate":"Thu, 16 Jul 2026 08:46:00 +0900"
-		},
-		{
-			"title":"[전국 오늘의 날씨 및 주말날씨]오늘~내일 충청권, 남부지방, 제주도, 모...",
-			"originallink":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=422769",
-			"link":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=422769",
-			"description":"- 특히, 해안에 위치한 대교(영종대교, 인천대교, 서해대교, <b>청라<\/b>하늘대교 등)와 내륙의 강이나 호수, 골짜기에 인접한 도로에서는 주변보다 안개가 더욱 짙게 끼는 곳이 있겠으니, 차량 운행 시 감속 운행하여... ",
-			"pubDate":"Thu, 16 Jul 2026 08:22:00 +0900"
-		},
-		{
-			"title":"“공사 직접 확인”…인천시, 7호선 <b>청라<\/b>연장선 '시민 감시단' 운영",
-			"originallink":"https:\/\/ic.newdaily.co.kr\/site\/data\/html\/2026\/07\/16\/2026071600017.html",
-			"link":"https:\/\/ic.newdaily.co.kr\/site\/data\/html\/2026\/07\/16\/2026071600017.html",
-			"description":"뉴데일리 송원영 기자 = 인천시는 서울지하철 7호선 <b>청라<\/b>연장사업의 투명성을 높이고 현장 중심의 소통을... 시민감시단은 <b>청라<\/b> 연장선 1∼6공구별로 3명씩, 해당 지역에 거주하는 시민들을 대상으로 20명 이내 규모로... ",
-			"pubDate":"Thu, 16 Jul 2026 07:40:00 +0900"
-		},
-		{
-			"title":"인천시, 7호선 <b>청라<\/b>연장 지연에 ‘시민감시단’ 카드",
-			"originallink":"https:\/\/www.sedaily.com\/article\/20068342?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004642127?sid=102",
-			"description":"대상은 서울지하철 7호선 <b>청라<\/b>국제도시 연장사업이다. 최근 공정 지연이 불거지면서 주민 불안이 커졌다.... <b>청라<\/b>연장선 1~6공구에 각 3명씩 배치하는 구조다. 대상은 해당 지역에 사는 시민으로, 서해구 협조를 받아... ",
-			"pubDate":"Thu, 16 Jul 2026 07:26:00 +0900"
 		}
 	]
 }
