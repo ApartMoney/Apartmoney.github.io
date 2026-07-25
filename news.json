@@ -1,9 +1,149 @@
 {
-	"lastBuildDate":"Sun, 26 Jul 2026 08:30:02 +0900",
-	"total":304043,
+	"lastBuildDate":"Sun, 26 Jul 2026 08:40:00 +0900",
+	"total":304063,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나은행, 인천지역 금융지원 확대…총 3840억원 규모",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=307674",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=307674",
+			"description":"[사진=하나은행] 하나금융그룹이 하반기 본사를 인천 <b>청라<\/b>국제도시로 이전하는 가운데, 하나은행이... 이호성 하나은행장은 &quot;오는 9월 하나금융그룹 본점의 <b>청라<\/b> 이전을 계기로 인천 지역과 함께 성장하는 금융기관의... ",
+			"pubDate":"Sun, 26 Jul 2026 08:36:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천 소상공인·지역기업에 3940억원 규모 금융지원",
+			"originallink":"https:\/\/www.etnews.com\/20260724000328",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003450900?sid=101",
+			"description":"이호성 하나은행장은 “하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 된다”며 “지역 맞춤형 금융지원을 통해 인천 지역과 함께 성장하는 금융 파트너가 되겠다”고 말했다.",
+			"pubDate":"Sun, 26 Jul 2026 08:31:00 +0900"
+		},
+		{
+			"title":"인천에 둥지 트는 하나금융…하나은행 인천 소상공인·지역기업 금융지...",
+			"originallink":"https:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01187366645518456",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006336877?sid=101",
+			"description":"이호성 하나은행장은 “하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 되는 만큼 지역경제의 핏줄인 전통시장 소상공인과 산업단지 기업과의 상생은 금융기관으로서 당연한 책무”라며... ",
+			"pubDate":"Sun, 26 Jul 2026 08:31:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천신보에 55억 출연…소상공인 보증대출 확대",
+			"originallink":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=686997",
+			"link":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=686997",
+			"description":"이번 협약은 하나금융그룹의 <b>청라<\/b> 본사 이전을 앞두고 인천 지역 소상공인과 기업에 대한 금융지원을... 이 행장은 &quot;하나금융그룹이 9월 <b>청라<\/b>로 본점을 이전하는 만큼 전통시장 소상공인과 산업단지 기업과의 상생은... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천신보와 55억 특별출연…소상공인 보증대출 840억 지원",
+			"originallink":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=270344",
+			"link":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=270344",
+			"description":"이호성 하나은행장은 &quot;하나금융그룹이 9월 <b>청라<\/b>로 본점을 이전함에 따라 인천 지역과의 동반 성장을 강조하며, 전통시장 소상공인과 산업단지 기업과의 상생이 금융기관의 중요한 역할&quot;이라고 밝혔다. 또한 &quot;단순한 자금... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천 소상공인·산단 기업에 맞춤형 금융지원 확대",
+			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4096987",
+			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4096987",
+			"description":"하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새롭게 둥지를 트는 만큼, 전통시장과 산업단지 등 지역 경제의 근간을 이루는 현장과의 상생 협력을 지속적으로 확대하며 지역 밀착형 금융 파트너로서의 역할을... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천 소상공인·기업 금융지원 확대…3940억원 공급",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2115261",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2115261",
+			"description":"\/하나은행 하나은행이 오는 9월 하나금융그룹의 <b>청라<\/b> 본점 이전을 앞두고 인천 지역 소상공인과 기업에 대한... 하나은행의 이번 행보는 하나금융그룹의 <b>청라<\/b> 본점 이전을 앞두고 인천 지역과의 접점을 넓히려는 지역 밀착... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, <b>청라<\/b> 이전 앞두고 인천에 상생금융 3940억원 지원",
+			"originallink":"https:\/\/www.mt.co.kr\/finance\/2026\/07\/26\/2026072420212261231",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005390943?sid=101",
+			"description":"하나은행이 오는 9월 본점의 인천 <b>청라<\/b> 이전을 앞두고 인천 지역 소상공인과 기업을 대상으로 총 3940억원... 이호성 하나은행장은 &quot;하나금융이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 되는 만큼... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천 소상공인·지역기업 금융지원 확대",
+			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=441775",
+			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=441775",
+			"description":"하나금융그룹의 <b>청라<\/b> 본점 이전을 앞두고 인천 지역과의 연계를 확대하면서, 하나은행의 지역 밀착형 영업과 고객 기반 강화에도 속도가 붙을 것으로 보인다. 이호성 행장은 &quot;하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, <b>청라<\/b> 이전 앞두고 인천 금융 생태계 키운다…소상공인·산단...",
+			"originallink":"https:\/\/www.e-science.co.kr\/news\/articleView.html?idxno=132435",
+			"link":"https:\/\/www.e-science.co.kr\/news\/articleView.html?idxno=132435",
+			"description":"인천 <b>청라<\/b> 이전을 계기로 지역 맞춤형 금융 지원을 확대한다. 하나은행은 인천신용보증재단과 협력해 소상공인 금융 지원을 강화하고, 전통시장과 국가산업단지를 잇는 지역 금융 프로그램을 본격 가동한다. <b>청라<\/b> 신사옥... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천신보와 55억 특별출연 협약… 신포시장·남동산단 현장 ...",
+			"originallink":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=87129",
+			"link":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=87129",
+			"description":"이호성 행장은 &quot;하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 옮기며 인천에 새롭게 자리잡는 만큼, 전통시장 소상공인과 산업단지 기업들과 함께 성장하는 것은 금융기관으로서 마땅한 책임&quot;이라고 말했다. 이어 &quot;자금 지원에... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천 소상공인·지역기업 실질적인 금융지원 확대나서",
+			"originallink":"http:\/\/www.popcornnews.net\/news\/articleView.html?idxno=127642",
+			"link":"http:\/\/www.popcornnews.net\/news\/articleView.html?idxno=127642",
+			"description":"이호성 하나은행장은 &quot;하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 되는 만큼, 지역경제의 핏줄인 전통시장 소상공인과 산업단지 기업과의 상생은 금융기관으로서 당연한 책무이다&quot;며... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> 이전 앞둔 하나은행, 인천에 3000억 기업금융 푼다",
+			"originallink":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=250931",
+			"link":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=250931",
+			"description":"이 행장은 9월 하나금융그룹의 인천 <b>청라<\/b> 본점 이전을 앞두고 인천 지역 소상공인과 기업을 대상으로 한 맞춤형 금융지원을 발표하며 이 같이 말했다. 하나은행은 인천신용보증재단과 '하나은행 포용금융 특별출연... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천신용보증재단과 손잡고 소상공인·지역기업 맞춤형 금융...",
+			"originallink":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=83126",
+			"link":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=83126",
+			"description":"이번 행사는 오는 9월 <b>청라<\/b> 본점 이전을 앞두고 '인천과 함께, 하나의 동행'이라는 슬로건 아래 지역 경제에... 이호성 하나은행장은 &quot;하나금융그룹이 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리는 만큼... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천신보와 포용금융 협약…소상공인·기업 금융지원 확대",
+			"originallink":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=119412",
+			"link":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=119412",
+			"description":"이호성 하나은행장은 &quot;오는 9월 하나금융그룹 본사의 <b>청라<\/b> 이전을 앞두고 인천에 새로운 기반을 마련하게 되는 만큼 지역 소상공인과 기업의 성장이 곧 하나은행의 성장&quot;이라며 &quot;단순한 자금 지원을 넘어 현장의 목소리를... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"&quot;인천 경제의 핏줄 지킨다&quot; 하나은행, 소상공인·산단기업에 3,940억 금융...",
+			"originallink":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=61985",
+			"link":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=61985",
+			"description":"하나은행이 인천 <b>청라<\/b> 시대를 앞두고 지역 소상공인과 산업단지 기업을 위한 대규모 금융 지원에 나선다.... 이호성 하나은행장은 &quot;하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 되는... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천 소상공인·기업 금융지원 확대…4천억원 규모 상생 프로...",
+			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=873082",
+			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=873082",
+			"description":"이호성 하나은행장은 &quot;오는 9월 <b>청라<\/b> 본점 이전을 계기로 인천 지역과의 상생을 더욱 강화할 계획&quot;이라며 &quot;소상공인과 지역 기업의 목소리를 적극 반영해 실질적인 금융지원을 확대하고 지역경제와 함께 성장하는... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천 소상공인·지역기업과 '아름다운 동행'",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1717757",
+			"link":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1717757",
+			"description":"이호성 하나은행장은 &quot;하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 되는 만큼, 지역경제의 핏줄인 전통시장 소상공인과 산업단지 기업과의 상생은 금융기관으로서 당연한 책무&quot;라며... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, <b>청라<\/b> 이전 앞두고…인천 소상공인·기업 금융지원",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260724_0003722826",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014088143?sid=101",
+			"description":"오는 9월 하나금융의 인천 <b>청라<\/b> 이전을 앞두고 '인천과 함께, 하나의 동행'이라는 슬로건 하에 이번 협약을... 이 행장은 &quot;하나금융이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 되는 만큼, 지역경제의... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 신포시장·남동산단 찾아 현장 소통",
+			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=258001",
+			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=258001",
+			"description":"이번 행보는 오는 9월 하나금융그룹 본점이 <b>청라<\/b>로 이전하는 것과 맞물려 더욱 주목받고 있다. 시중은행... 이호성 하나은행장은 &quot;하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 되는 만큼... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
 		{
 			"title":"인천경제자유구역, 첨단산업·관광 어우러진 글로벌 미래도시 박차 [영...",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260723580518",
@@ -73,146 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0012224667?sid=102",
 			"description":"이 남성은 지난 5월 13일 새벽 5시 반쯤 인천시 서구 <b>청라<\/b>동 모 아파트 세대 앞 현관문에 페인트칠하고... 당시 이재명 대통령은 이 남성의 <b>청라<\/b>동 범행 내용을 담은 보고서를 사회관계망서비스에 공개하면서 “사적 보복... ",
 			"pubDate":"Fri, 24 Jul 2026 17:54:00 +0900"
-		},
-		{
-			"title":"인천시 전 고위 간부 유족, 인천시장 근조기 설치 거부",
-			"originallink":"https:\/\/www.sisajournal.com\/news\/articleView.html?idxno=381097",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000134492?sid=102",
-			"description":"&quot;고인을 죽게끔 압박한 사람들 중 한 명&quot;…시 공무원 자유토론방엔 애도 물결 서울지하철 7호선 <b>청라<\/b>연장... 7호선 <b>청라<\/b>연장사업과 관련해 '공기지연 사항은 내년 선거 이후 인수위원회 보고가 타당함'이라고 적힌 직원의... ",
-			"pubDate":"Fri, 24 Jul 2026 17:28:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b> 아파트서 ‘보복 대행’ 범죄…20대 남성 징역 6개월",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260724580228",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000116501?sid=102",
-			"description":"A씨는 지난 5월13일 오전 5시30분께 인천 서구 <b>청라<\/b>동 한 아파트 세대 앞에서 현관문에 페인트를 칠하고... 앞서 이재명 대통령은 A씨의 <b>청라<\/b>동 범행 내용이 담긴 보고서를 사회관계망서비스에 공개하며 사적 보복 대행을... ",
-			"pubDate":"Fri, 24 Jul 2026 17:27:00 +0900"
-		},
-		{
-			"title":"[오늘의 주요공시] 기아ㆍ하나금융지주ㆍ삼성중공업 등",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2607292",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2607292",
-			"description":"09%↑ △우진아이엔에스, <b>청라<\/b>에너지주식회사의 열수송관공사 수주...102억 규모 △기가비스, 대만 반도체 기판 제조회사와 검사 및 수리장비 공급계약 체결...222억 규모 △아이크래프트... ",
-			"pubDate":"Fri, 24 Jul 2026 17:06:00 +0900"
-		},
-		{
-			"title":"교통 좋아지고 생활 편해지고… 달라지는 영종, 주거가치 높인다",
-			"originallink":"https:\/\/www.dt.co.kr\/article\/12074561?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0003038712?sid=101",
-			"description":"앞서 <b>청라<\/b>하늘대교 개통으로 <b>청라<\/b>국제도시 접근성이 크게 향상된 데 이어 신도평화대교 개통, 광역교통망 확충 등이 이어지면서 영종의 이동 편의성은 꾸준히 개선되고 있다. 여기에 영종구 출범과 학교복합시설인... ",
-			"pubDate":"Fri, 24 Jul 2026 16:46:00 +0900"
-		},
-		{
-			"title":"하나금융, 밸류업 2.0 선언… ROE 12%·주주환원 50% 이상",
-			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=356457",
-			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=356457",
-			"description":"하나금융그룹 <b>청라<\/b>헤드쿼터 전경.ㅣ하나금융 하나금융그룹이 기존 기업가치 제고 계획을 한 단계 강화한 '기업가치 제고 계획 2.0'을 내놨다. 자기자본이익률(ROE) 목표를 기존 10% 이상에서 12%로 높이고... ",
-			"pubDate":"Fri, 24 Jul 2026 16:04:00 +0900"
-		},
-		{
-			"title":"'이 대통령 언급' 현관문 테러 보복대행 20대, 징역 6개월",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260724_0003722466",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014086787?sid=102",
-			"description":"A씨는 지난 5월13일 오전 5시30분께 인천 서구 <b>청라<\/b>동의 한 아파트에서 현관문 앞에 페인트칠을 하고 계란 등 음식물을 뿌린 혐의를 받고 있다. 경찰은 해당 아파트 거주자인 B(30대)씨를 상대로 한 사적 보복대행 범죄로... ",
-			"pubDate":"Fri, 24 Jul 2026 16:03:00 +0900"
-		},
-		{
-			"title":"신세계프라퍼티 '정용진 체제' 첫 승부수… OKO와 합작은 글로벌 럭셔리...",
-			"originallink":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=30196",
-			"link":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=30196",
-			"description":"회사는 화성 스타베이시티와 스타필드 <b>청라<\/b>, 그랜드 스타필드 광주 등을 추진하며 대형 개발사업 수행 역량을 축적해 왔다. 이번 합작사를 통해 그 경험을 글로벌 초고급 복합 부동산 시장으로 확장하게 됐다. 스타필드가... ",
-			"pubDate":"Fri, 24 Jul 2026 15:38:00 +0900"
-		},
-		{
-			"title":"전국 돌며 ‘보복 대행’ 벌인 20대에 징역 6개월 선고",
-			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=0030156876&code=61122012&cp=nv",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001862948?sid=102",
-			"description":"A씨는 지난 5월 13일 오전 5시30분쯤 인천시 서해구 <b>청라<\/b>동의 한 아파트 세대 현관문에 페인트를 칠하고... 당시 이재명 대통령은 <b>청라<\/b>동 사건 관련 보고서를 자신의 사회관계망서비스(SNS)에 공개하며 “사적 보복 대행은... ",
-			"pubDate":"Fri, 24 Jul 2026 15:34:00 +0900"
-		},
-		{
-			"title":"인천 서해구·검단구, <b>청라<\/b>소각장 이전 두고 갈등 불붙나",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=321558",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=321558",
-			"description":"인천투데이=박규호 기자│인천 서해구와 검단구가 <b>청라<\/b>소각장을 두고 입장 차를 보이는 것으로 나타났다. 서해구는 <b>청라<\/b>소각장 입지선정위원회를 구성해야 한다는 입장이지만 검단구는 이전보단 기존 시설을 현대화해... ",
-			"pubDate":"Fri, 24 Jul 2026 15:28:00 +0900"
-		},
-		{
-			"title":"페인트칠하고 날달걀 투척…'현관문 보복 대행' 20대 징역 6개월",
-			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/news\/AKR202607241511247IZ",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000888511?sid=102",
-			"description":"A씨는 지난 5월 13일 오전 5시 30분쯤 인천시 서구 <b>청라<\/b>동의 한 아파트 세대 앞 현관문에 페인트를 칠하고... 당시 이재명 대통령은 A씨의 <b>청라<\/b>동 범행 내용을 담은 보고서를 사회관계망서비스에 공개하면서 &quot;사적 보복... ",
-			"pubDate":"Fri, 24 Jul 2026 15:12:00 +0900"
-		},
-		{
-			"title":"[오피셜]최정, 고관절 수술 결정…시즌 마감, SSG '<b>청라<\/b>돔 시대' 준비, 시...",
-			"originallink":"https:\/\/mhnse.com\/news\/articleView.html?idxno=1468490",
-			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/445\/0000441338",
-			"description":"<b>청라<\/b> 돔 시대를 준비해야 하는 SSG로서는 언젠가 '최정 이후'를 고민해야 하는 시점이 반드시 찾아온다. 그... <b>청라<\/b> 돔 개장을 앞둔 SSG는 새로운 시대를 준비해야 한다. 화려했던 문학야구장의 상징이 최정이었다면... ",
-			"pubDate":"Fri, 24 Jul 2026 15:05:00 +0900"
-		},
-		{
-			"title":"인천대, 피지컬 AI 인재 양성 본격화",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3645408",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3645408",
-			"description":"초광역 성장엔진 인재 육성 사업을 통해 인천대학교는 실전형 교육체계를 지역 산업 현장으로 확산시키고, 인천시가 추진 중인 <b>청라<\/b> 인천로봇랜드가 피지컬 AI 산업의 거점으로 성장할 수 있도록 지원할 방침이다.... ",
-			"pubDate":"Fri, 24 Jul 2026 14:58:00 +0900"
-		},
-		{
-			"title":"현관문에 '페인트칠·날계란 테러' 보복 대행 20대에 징역 6개월",
-			"originallink":"https:\/\/imnews.imbc.com\/news\/2026\/society\/article\/6839853_36918.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/214\/0001513720?sid=102",
-			"description":"인천지법 형사10단독은 지난 5월 13일 새벽 인천 서구 <b>청라<\/b>동의 한 아파트 세대 앞 현관문에 페인트칠하고 날계란을 투척한 혐의 등으로 기소된 남성에게 징역 6개월을 선고했습니다. 남성은 범행 당시 보복 대행을... ",
-			"pubDate":"Fri, 24 Jul 2026 14:57:00 +0900"
-		},
-		{
-			"title":"대통령 지적한 ‘보복 대행 범죄’… 20대 男, 징역 6개월",
-			"originallink":"https:\/\/www.chosun.com\/national\/court_law\/2026\/07\/24\/BFC73DVGBVAPVD6I7GWUKAMVUU\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003989436?sid=102",
-			"description":"A씨는 지난 5월 13일 오전 5시 30분쯤 인천 서해구 <b>청라<\/b>동의 한 아파트 세대 앞 현관문에 페인트를 칠하고 날계란을 던진 혐의로 기소됐다. A씨는 보복 대행을 알선하는 조직의 지시를 받고 범행한 것으로 파악됐다. A씨는... ",
-			"pubDate":"Fri, 24 Jul 2026 14:51:00 +0900"
-		},
-		{
-			"title":"대통령도 질타한 '현관문 오물 테러' 20대, 징역 6개월",
-			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/6238068",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0009077344?sid=102",
-			"description":"A 씨는 지난 5월 13일 오전 5시 30분쯤 인천 서구 <b>청라<\/b>동 아파트에 침입, 특정 호실 현관 앞에 페인트를 칠하고 오물과 계란 등을 투척한 혐의로 기소됐다. 피해자 20대 B 씨의 신고를 접수한 경찰은 A 씨 도주 경로를... ",
-			"pubDate":"Fri, 24 Jul 2026 14:19:00 +0900"
-		},
-		{
-			"title":"'현관문에 페인트칠하고 날계란 투척' 보복대행 20대, 징역6개월",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260724102100065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016213237?sid=102",
-			"description":"A씨는 지난 5월 13일 오전 5시 30분께 인천시 서구 <b>청라<\/b>동 모 아파트 세대 앞 현관문에 페인트칠하고 날계란을... 당시 이재명 대통령은 A씨의 <b>청라<\/b>동 범행 내용을 담은 보고서를 사회관계망서비스에 공개하면서 &quot;사적 보복... ",
-			"pubDate":"Fri, 24 Jul 2026 14:12:00 +0900"
-		},
-		{
-			"title":"인천 찾은 김민석… 박찬대와 ‘인천 글로벌 경쟁력’ 강화 공감대",
-			"originallink":"https:\/\/www.kyeongin.com\/article\/1767860",
-			"link":"https:\/\/www.kyeongin.com\/article\/1767860",
-			"description":"요청” <b>청라<\/b> 7호선 지연, 재정 위기 등 공유도 김민석 더불어민주당 당대표 후보가 지난 23일 전당대회... 이 외에도 김 후보와 박 시장은 서울 7호선 <b>청라<\/b> 연장선 개통 지연 문제, 인천e음(인천사랑상품권) 캐시백 지급... ",
-			"pubDate":"Fri, 24 Jul 2026 13:54:00 +0900"
-		},
-		{
-			"title":"[24일 인천 서해구] 검암경서동 주민자치회, 전통 고추장 담그기 체험행...",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20260724500159",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20260724500159",
-			"description":"<b>청라<\/b>1동 주민자치회 교육분과, 여성 대상 생활 호신술 체험 수업 운영 인천 서해구 <b>청라<\/b>1동 주민자치회 교육분과는 지난 22일 <b>청라<\/b>동 소재 그레이시 주짓수에서 지역 내 성인 여성을 대상으로 ‘POWER SHIFT 호신술’ 체험... ",
-			"pubDate":"Fri, 24 Jul 2026 13:38:00 +0900"
-		},
-		{
-			"title":"김민석 당대표 후보, 첫 행보로 인천…현안에는 '신중'",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3029823",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3029823",
-			"description":"이 자리에서 7호선 <b>청라<\/b> 연장 지연 문제와 쿠팡 물류창고 화재 대응, 인천시 재정 상황 등에 대한 박 시장의 설명이 이어졌고, 김 후보는 이를 경청하며 협력 의지를 전하며 훈훈한 분위기가 이어졌다. 박 시장은... ",
-			"pubDate":"Fri, 24 Jul 2026 13:28:00 +0900"
-		},
-		{
-			"title":"인천시, 7호선 <b>청라<\/b>국제도시 연장 민·관·정 협의체 가동",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3645283",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3645283",
-			"description":"<b>청라<\/b>국제도시 연장사업의 투명성 확보와 공기 단축을 위해 인천광역시가 민·관·정 협의체를 구성해 본격 운영에 들어간다. 인천시는 외부 전문가, 시민대표, 지역 정치인이 모두 참여하는 '서울도시철도7호선 <b>청라<\/b>국제도... ",
-			"pubDate":"Fri, 24 Jul 2026 13:28:00 +0900"
 		}
 	]
 }
