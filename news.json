@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 26 Jul 2026 09:50:01 +0900",
-	"total":304067,
+	"lastBuildDate":"Sun, 26 Jul 2026 10:00:01 +0900",
+	"total":304069,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이호성 하나은행장 &quot;인천 소상공인·기업과 성장할 수 있도록 지원&quot;",
+			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=313200",
+			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=313200",
+			"description":"이 행장은 &quot;<b>청라<\/b> 본점 이전을 계기로 인천에 새로운 기반을 마련하게 된다&quot;며 &quot;현장에서 전달된 다양한 의견을 반영해 신속하고 실질적인 맞춤형 금융지원을 이어가겠다&quot;고 강조했다.",
+			"pubDate":"Sun, 26 Jul 2026 09:56:00 +0900"
+		},
+		{
+			"title":"하나은행, <b>청라<\/b> 이전 앞두고 인천에 3940억 상생금융 지원",
+			"originallink":"https:\/\/www.ddaily.co.kr\/page\/view\/2026072609544286938",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/138\/0002235435?sid=101",
+			"description":"이 행장은 “하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 된다”며 “신속하고 실질적인 지역 맞춤형 금융지원을 통해 인천 지역과 함께 성장하는 든든한 금융 파트너가 되겠다”고... ",
+			"pubDate":"Sun, 26 Jul 2026 09:55:00 +0900"
+		},
 		{
 			"title":"‘<b>청라<\/b> 시대’ 앞둔 하나은행…인천 골목·산단에 3800억 풀었다",
 			"originallink":"https:\/\/www.dt.co.kr\/article\/12074705?ref=naver",
@@ -40,13 +54,6 @@
 			"pubDate":"Sun, 26 Jul 2026 08:36:00 +0900"
 		},
 		{
-			"title":"하나은행, 인천 소상공인·지역기업에 3940억원 규모 금융지원",
-			"originallink":"https:\/\/www.etnews.com\/20260724000328",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003450900?sid=101",
-			"description":"이호성 하나은행장은 “하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 된다”며 “지역 맞춤형 금융지원을 통해 인천 지역과 함께 성장하는 금융 파트너가 되겠다”고 말했다.",
-			"pubDate":"Sun, 26 Jul 2026 08:31:00 +0900"
-		},
-		{
 			"title":"인천에 둥지 트는 하나금융…하나은행 인천 소상공인·지역기업 금융지...",
 			"originallink":"https:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01187366645518456",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006336877?sid=101",
@@ -54,67 +61,11 @@
 			"pubDate":"Sun, 26 Jul 2026 08:31:00 +0900"
 		},
 		{
-			"title":"하나은행, 인천신보에 55억 출연…소상공인 보증대출 확대",
-			"originallink":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=686997",
-			"link":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=686997",
-			"description":"이번 협약은 하나금융그룹의 <b>청라<\/b> 본사 이전을 앞두고 인천 지역 소상공인과 기업에 대한 금융지원을... 이 행장은 &quot;하나금융그룹이 9월 <b>청라<\/b>로 본점을 이전하는 만큼 전통시장 소상공인과 산업단지 기업과의 상생은... ",
-			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
-		},
-		{
-			"title":"하나은행, 인천신보와 55억 특별출연…소상공인 보증대출 840억 지원",
-			"originallink":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=270344",
-			"link":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=270344",
-			"description":"이호성 하나은행장은 &quot;하나금융그룹이 9월 <b>청라<\/b>로 본점을 이전함에 따라 인천 지역과의 동반 성장을 강조하며, 전통시장 소상공인과 산업단지 기업과의 상생이 금융기관의 중요한 역할&quot;이라고 밝혔다. 또한 &quot;단순한 자금... ",
-			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
-		},
-		{
-			"title":"하나은행, 인천 소상공인·기업 금융지원 확대…3940억원 공급",
-			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2115261",
-			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2115261",
-			"description":"\/하나은행 하나은행이 오는 9월 하나금융그룹의 <b>청라<\/b> 본점 이전을 앞두고 인천 지역 소상공인과 기업에 대한... 하나은행의 이번 행보는 하나금융그룹의 <b>청라<\/b> 본점 이전을 앞두고 인천 지역과의 접점을 넓히려는 지역 밀착... ",
-			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
-		},
-		{
-			"title":"하나은행, 인천 소상공인·산단 기업에 맞춤형 금융지원 확대",
-			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4096987",
-			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4096987",
-			"description":"하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새롭게 둥지를 트는 만큼, 전통시장과 산업단지 등 지역 경제의 근간을 이루는 현장과의 상생 협력을 지속적으로 확대하며 지역 밀착형 금융 파트너로서의 역할을... ",
-			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
-		},
-		{
-			"title":"하나은행, 인천신용보증재단과 손잡고 소상공인·지역기업 맞춤형 금융...",
-			"originallink":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=83126",
-			"link":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=83126",
-			"description":"이번 행사는 오는 9월 <b>청라<\/b> 본점 이전을 앞두고 '인천과 함께, 하나의 동행'이라는 슬로건 아래 지역 경제에... 이호성 하나은행장은 &quot;하나금융그룹이 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리는 만큼... ",
-			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
-		},
-		{
-			"title":"하나은행, 인천 소상공인·지역기업과 '아름다운 동행'",
-			"originallink":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1717757",
-			"link":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1717757",
-			"description":"이호성 하나은행장은 &quot;하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 되는 만큼, 지역경제의 핏줄인 전통시장 소상공인과 산업단지 기업과의 상생은 금융기관으로서 당연한 책무&quot;라며... ",
-			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
-		},
-		{
-			"title":"하나은행, 인천 소상공인·기업 금융지원 확대…4천억원 규모 상생 프로...",
-			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=873082",
-			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=873082",
-			"description":"이호성 하나은행장은 &quot;오는 9월 <b>청라<\/b> 본점 이전을 계기로 인천 지역과의 상생을 더욱 강화할 계획&quot;이라며 &quot;소상공인과 지역 기업의 목소리를 적극 반영해 실질적인 금융지원을 확대하고 지역경제와 함께 성장하는... ",
-			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
-		},
-		{
-			"title":"하나은행, 인천신보와 포용금융 협약…소상공인·기업 금융지원 확대",
-			"originallink":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=119412",
-			"link":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=119412",
-			"description":"이호성 하나은행장은 &quot;오는 9월 하나금융그룹 본사의 <b>청라<\/b> 이전을 앞두고 인천에 새로운 기반을 마련하게 되는 만큼 지역 소상공인과 기업의 성장이 곧 하나은행의 성장&quot;이라며 &quot;단순한 자금 지원을 넘어 현장의 목소리를... ",
-			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
-		},
-		{
-			"title":"&quot;인천 경제의 핏줄 지킨다&quot; 하나은행, 소상공인·산단기업에 3,940억 금융...",
-			"originallink":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=61985",
-			"link":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=61985",
-			"description":"하나은행이 인천 <b>청라<\/b> 시대를 앞두고 지역 소상공인과 산업단지 기업을 위한 대규모 금융 지원에 나선다.... 이호성 하나은행장은 &quot;하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 되는... ",
-			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+			"title":"하나은행, 인천 소상공인·지역기업에 3940억원 규모 금융지원",
+			"originallink":"https:\/\/www.etnews.com\/20260724000328",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003450900?sid=101",
+			"description":"이호성 하나은행장은 “하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 된다”며 “지역 맞춤형 금융지원을 통해 인천 지역과 함께 성장하는 금융 파트너가 되겠다”고 말했다.",
+			"pubDate":"Sun, 26 Jul 2026 08:31:00 +0900"
 		},
 		{
 			"title":"하나은행, <b>청라<\/b> 이전 앞두고 인천에 상생금융 3940억원 지원",
@@ -152,10 +103,73 @@
 			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
 		},
 		{
+			"title":"하나은행, 인천신용보증재단과 손잡고 소상공인·지역기업 맞춤형 금융...",
+			"originallink":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=83126",
+			"link":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=83126",
+			"description":"이번 행사는 오는 9월 <b>청라<\/b> 본점 이전을 앞두고 '인천과 함께, 하나의 동행'이라는 슬로건 아래 지역 경제에... 이호성 하나은행장은 &quot;하나금융그룹이 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리는 만큼... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천 소상공인·기업 금융지원 확대…4천억원 규모 상생 프로...",
+			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=873082",
+			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=873082",
+			"description":"이호성 하나은행장은 &quot;오는 9월 <b>청라<\/b> 본점 이전을 계기로 인천 지역과의 상생을 더욱 강화할 계획&quot;이라며 &quot;소상공인과 지역 기업의 목소리를 적극 반영해 실질적인 금융지원을 확대하고 지역경제와 함께 성장하는... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천 소상공인·지역기업과 '아름다운 동행'",
+			"originallink":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1717757",
+			"link":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1717757",
+			"description":"이호성 하나은행장은 &quot;하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 되는 만큼, 지역경제의 핏줄인 전통시장 소상공인과 산업단지 기업과의 상생은 금융기관으로서 당연한 책무&quot;라며... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
 			"title":"<b>청라<\/b> 이전 앞둔 하나은행, 인천에 3000억 기업금융 푼다",
 			"originallink":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=250931",
 			"link":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=250931",
 			"description":"이 행장은 9월 하나금융그룹의 인천 <b>청라<\/b> 본점 이전을 앞두고 인천 지역 소상공인과 기업을 대상으로 한 맞춤형 금융지원을 발표하며 이 같이 말했다. 하나은행은 인천신용보증재단과 '하나은행 포용금융 특별출연... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천신보와 포용금융 협약…소상공인·기업 금융지원 확대",
+			"originallink":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=119412",
+			"link":"https:\/\/www.delighti.co.kr\/news\/articleView.html?idxno=119412",
+			"description":"이호성 하나은행장은 &quot;오는 9월 하나금융그룹 본사의 <b>청라<\/b> 이전을 앞두고 인천에 새로운 기반을 마련하게 되는 만큼 지역 소상공인과 기업의 성장이 곧 하나은행의 성장&quot;이라며 &quot;단순한 자금 지원을 넘어 현장의 목소리를... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"&quot;인천 경제의 핏줄 지킨다&quot; 하나은행, 소상공인·산단기업에 3,940억 금융...",
+			"originallink":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=61985",
+			"link":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=61985",
+			"description":"하나은행이 인천 <b>청라<\/b> 시대를 앞두고 지역 소상공인과 산업단지 기업을 위한 대규모 금융 지원에 나선다.... 이호성 하나은행장은 &quot;하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새로운 뿌리를 내리게 되는... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천 소상공인·산단 기업에 맞춤형 금융지원 확대",
+			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4096987",
+			"link":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4096987",
+			"description":"하나금융그룹이 오는 9월 <b>청라<\/b>로 본점을 이전하며 인천에 새롭게 둥지를 트는 만큼, 전통시장과 산업단지 등 지역 경제의 근간을 이루는 현장과의 상생 협력을 지속적으로 확대하며 지역 밀착형 금융 파트너로서의 역할을... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천 소상공인·기업 금융지원 확대…3940억원 공급",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2115261",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2115261",
+			"description":"\/하나은행 하나은행이 오는 9월 하나금융그룹의 <b>청라<\/b> 본점 이전을 앞두고 인천 지역 소상공인과 기업에 대한... 하나은행의 이번 행보는 하나금융그룹의 <b>청라<\/b> 본점 이전을 앞두고 인천 지역과의 접점을 넓히려는 지역 밀착... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천신보에 55억 출연…소상공인 보증대출 확대",
+			"originallink":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=686997",
+			"link":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=686997",
+			"description":"이번 협약은 하나금융그룹의 <b>청라<\/b> 본사 이전을 앞두고 인천 지역 소상공인과 기업에 대한 금융지원을... 이 행장은 &quot;하나금융그룹이 9월 <b>청라<\/b>로 본점을 이전하는 만큼 전통시장 소상공인과 산업단지 기업과의 상생은... ",
+			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
+		},
+		{
+			"title":"하나은행, 인천신보와 55억 특별출연…소상공인 보증대출 840억 지원",
+			"originallink":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=270344",
+			"link":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=270344",
+			"description":"이호성 하나은행장은 &quot;하나금융그룹이 9월 <b>청라<\/b>로 본점을 이전함에 따라 인천 지역과의 동반 성장을 강조하며, 전통시장 소상공인과 산업단지 기업과의 상생이 금융기관의 중요한 역할&quot;이라고 밝혔다. 또한 &quot;단순한 자금... ",
 			"pubDate":"Sun, 26 Jul 2026 08:30:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.pennmike.com\/news\/articleView.html?idxno=124393",
 			"description":"이범석 국민의힘 인천광역시의회 원내대변인은 23일 A씨의 죽음에 &quot;서울 7호선 <b>청라<\/b>연장선 개통 지연과 관련해 안타깝게도 전 인천도시철도건설본부장이 유명을 달리하는 비극이 발생했다. 고인은 생전 박찬대... ",
 			"pubDate":"Sat, 25 Jul 2026 12:14:00 +0900"
-		},
-		{
-			"title":"인천경제자유구역, 외국인 투자 부진 심화… 리더십 공백이 걸림돌",
-			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=873092",
-			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=873092",
-			"description":"송도, 영종, <b>청라<\/b> 지역별로 나누어 보면 송도 지역의 FDI 신고액이 4천700만달러로 가장 높았고, 영종은 1천370만달러, <b>청라<\/b>는 410만달러로 나타났다. 이러한 실적 부진에는 지난해 12월 청장의 사퇴 이후 지속되고 있는... ",
-			"pubDate":"Sat, 25 Jul 2026 12:12:00 +0900"
-		},
-		{
-			"title":"인천경제자유구역 상반기 외국인 투자유치 목표 10% 수준",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=475777",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=475777",
-			"description":"25일 인천경제자유구역청에 따르면 올해 1월부터 6월까지 송도·영종·<b>청라<\/b>의 FDI 누적 신고액은 6천480만 달러로, 올해 목표액 6억 달러의 10.8%를 기록했다. 이는 지난해 같은 기간 신고액인 4억9천450만 달러의 13... ",
-			"pubDate":"Sat, 25 Jul 2026 11:52:00 +0900"
 		}
 	]
 }
