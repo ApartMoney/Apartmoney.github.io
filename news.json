@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 28 Jul 2026 05:00:01 +0900",
-	"total":304231,
+	"lastBuildDate":"Tue, 28 Jul 2026 05:10:01 +0900",
+	"total":304232,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 주요일정] 대전·세종·충남(7월28일 화요일)",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260727_0003725459",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014091603?sid=102",
+			"description":"현장점검, <b>청라<\/b>면 나원리 등 4개소 ▲오전 10시30분, 공주시 공주향교 고유제, 공주향교 ▲오전 11시, 청양군 장기요양기관 종사자 한마음대회, 문화체육센터 ▲오후 1시30분, 서산기 시민 배심원제 1차 회의, 시청... ",
+			"pubDate":"Tue, 28 Jul 2026 05:00:00 +0900"
+		},
 		{
 			"title":"[인천판\/게시판]인천",
 			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20260728\/134374267\/2",
@@ -145,17 +152,17 @@
 			"pubDate":"Mon, 27 Jul 2026 18:32:00 +0900"
 		},
 		{
-			"title":"인천시, 민선9기 첫 승진인사 294명…'조직 안정화' 방점",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3030051",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3030051",
-			"description":"3급 승진자는 3명으로 윤병철 행정국장(직무대리)이 정식 국장으로 자리를 굳혔고, 박성순 복지정책과장과 구혜림 경제자유구역청 영종<b>청라<\/b>사업본부장(직무대리)도 3급으로 승진했다. 4급 승진자는 18명으로, 행정4급... ",
-			"pubDate":"Mon, 27 Jul 2026 18:32:00 +0900"
-		},
-		{
 			"title":"인천시, 하반기 정기인사 294명 발표",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363732493",
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363732493",
 			"description":"이어 3급으로는 윤병철 행정국장 직무대리, 박성순 보건복지국 복지정책과장, 구혜림 경제자유구역청 영종<b>청라<\/b>사업본부장 직무대리 등 3명이 승진의 영예를 안았다. 이밖에도 4급 18명(행정4급 12명, 과학기술4급 6명)... ",
+			"pubDate":"Mon, 27 Jul 2026 18:32:00 +0900"
+		},
+		{
+			"title":"인천시, 민선9기 첫 승진인사 294명…'조직 안정화' 방점",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3030051",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3030051",
+			"description":"3급 승진자는 3명으로 윤병철 행정국장(직무대리)이 정식 국장으로 자리를 굳혔고, 박성순 복지정책과장과 구혜림 경제자유구역청 영종<b>청라<\/b>사업본부장(직무대리)도 3급으로 승진했다. 4급 승진자는 18명으로, 행정4급... ",
 			"pubDate":"Mon, 27 Jul 2026 18:32:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=592021",
 			"description":"이번 워크숍은 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 열렸으며, 임원들은 사전 AI 활용 역량 진단 후 경영 및 금융 업무에 생성형 AI를 적용하는 실습 과정을 경험했다. 워크숍 프로그램은 단순 AI 사용법 교육을 넘어 경영... ",
 			"pubDate":"Mon, 27 Jul 2026 17:40:00 +0900"
-		},
-		{
-			"title":"계양구 소아 야간·휴일 진료 '달빛어린이병원' 첫 지정",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=321642",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=321642",
-			"description":"이로써 현재 정부 응급의료포털에 등록된 인천지역 달빛어린이병원은 ▲미추홀구 연세소아과의원 ▲서해구 <b>청라<\/b>연세어린이병원 ▲연수구 브이아이씨(V.I.C)365소아청소년과의원과 송도우리아이병원 ▲영종구... ",
-			"pubDate":"Mon, 27 Jul 2026 17:34:00 +0900"
 		}
 	]
 }
