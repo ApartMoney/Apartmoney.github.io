@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 27 Jul 2026 13:00:00 +0900",
-	"total":304180,
+	"lastBuildDate":"Mon, 27 Jul 2026 13:10:01 +0900",
+	"total":304181,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융, 임원 140명부터 AI 업무 전환…경영진이 에이전트 직접 설계",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2115318",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2115318",
+			"description":"포쓰저널 김지훈 기자 2026년 7월 25일 인천 <b>청라<\/b>에 위치한 하나글로벌캠퍼스에서 그룹사 임원 대상 조직 내 AX 문화 확산을 위한 'AX 워크숍'을 실시했다. 이날 워크숍에 참석한 그룹사 임원들이 AI 에이전트와 생성형 AI... ",
+			"pubDate":"Mon, 27 Jul 2026 13:06:00 +0900"
+		},
 		{
 			"title":"하나금융, AI 기반 조직 전환 가속 ... 임원 140명 대상 'AX 워크숍' 실시",
 			"originallink":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=87189",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065574603150736",
 			"description":"하나금융그룹은 지난 25일 인천 <b>청라<\/b> 하나글로벌캠퍼스에서 그룹사 임원 140명을 대상으로 생성형 인공지능... ▲ 지난 25일 하나금융그룹이 인천 <b>청라<\/b>에 위치한 하나글로벌캠퍼스에서 그룹사 임원 대상 조직 내 AX 문화... ",
 			"pubDate":"Mon, 27 Jul 2026 10:02:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 그룹 전반 AX 전환 본격화...리더부터 AI 활용 문화 내재...",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20260727000359",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20260727000359",
-			"description":"하나금융그룹은 지난 25일 인천 <b>청라<\/b>에 위치한 하나글로벌캠퍼스에서 그룹사 임원 대상 조직 내 AX 문화 확산을 위한 'AX 워크숍'을 실시했다. 이날 워크숍에 참석한 그룹사 임원들이 기념촬영을 하고 있다. [자료... ",
-			"pubDate":"Mon, 27 Jul 2026 10:01:00 +0900"
 		}
 	]
 }
