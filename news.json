@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 29 Jul 2026 12:10:00 +0900",
-	"total":304328,
+	"lastBuildDate":"Wed, 29 Jul 2026 12:20:01 +0900",
+	"total":304329,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[산업소식] 카카오, 미래 세대 위한 AI·교육 전문가 협의체 출범",
+			"originallink":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2115425",
+			"link":"http:\/\/www.4th.kr\/news\/articleView.html?idxno=2115425",
+			"description":"인천 서해구 <b>청라<\/b>동 소재 인천 전시관에서는 8월 6일부터 9일까지 '음악캠프'를 주제로  지역 생활예술인과 인디밴드 공연, 랜덤플레이댄스, AI 음악 만들기 등을 진행한다. 경기 파주시 와동동 소재 파주 전시관에서는... ",
+			"pubDate":"Wed, 29 Jul 2026 12:18:00 +0900"
+		},
 		{
 			"title":"인천 토지 법인 소유 19% 압도적 1위··· 외지인 소유 비율 상위권",
 			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=321705",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1328309",
 			"description":"오는 9월 <b>청라<\/b>국제도시 본점 이전을 앞두고 지역경제와의 접점을 넓히기 위한 행보로 풀이된다. 우선 지역 상권 지원에 무게를 실었다. 하나은행은 올해 인천신용보증재단에 총 55억원을 특별출연해 840억원 규모의... ",
 			"pubDate":"Tue, 28 Jul 2026 19:56:00 +0900"
-		},
-		{
-			"title":"현대무벡스, 190억원 규모 조선 R&amp;D 사업 이끈다…美 실증 추진",
-			"originallink":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=356623",
-			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=356623",
-			"description":"현대무벡스 <b>청라<\/b> R&amp;D 센터 전경. │현대무벡스 현대무벡스가 정부의 차세대 조선 기술 개발 사업을 이끄는 주관연구개발기관으로 선정됐다. 미국 조선소 현장 실증을 목표로 한 자율주행 운반 기술을 개발하며, 최근... ",
-			"pubDate":"Tue, 28 Jul 2026 18:20:00 +0900"
 		}
 	]
 }
