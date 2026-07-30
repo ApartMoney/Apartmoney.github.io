@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 31 Jul 2026 04:40:01 +0900",
-	"total":304416,
+	"lastBuildDate":"Fri, 31 Jul 2026 04:50:01 +0900",
+	"total":304417,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[패트롤] 인천시-인천교통공사",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20260731023468142",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20260731023468142",
+			"description":"인천시는 로봇랜드와 <b>청라<\/b> 커넥티드카 평가인증센터 등 기존 기반시설을 활용해 금융투자와 연계한 기업 주도형 커넥티비티 산업 생태계를 구축할 계획이다. 이를 위해 규제 개선과 세제 지원 등 정책적 지원 방안도... ",
+			"pubDate":"Fri, 31 Jul 2026 04:40:00 +0900"
+		},
 		{
 			"title":"박찬대 시장 직속 T\/F 가동…인천시, 1조 원대 'AI 커넥티드카 국비사업...",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=715296",
@@ -131,17 +138,17 @@
 			"pubDate":"Thu, 30 Jul 2026 17:12:00 +0900"
 		},
 		{
-			"title":"박찬대, 1조원대 AI 커넥티드카 국비사업 유치 총력…인천시장 직속 TF ...",
-			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2026073016533936934c878f8fa1_30",
-			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2026073016533936934c878f8fa1_30",
-			"description":"◇AI 커넥티비티 생태계 구축 본격화 시는 로봇랜드와 <b>청라<\/b> 커넥티드카 평가인증센터를 중심으로 AI 커넥티비티 산업 기반을 구축하고 금융투자와 연계한 기업 주도형 산업생태계를 조성한다는 구상이다. 이를 위해 규제... ",
-			"pubDate":"Thu, 30 Jul 2026 17:06:00 +0900"
-		},
-		{
 			"title":"홈플러스, 20개 이상 점포 온라인 영업 준비",
 			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000325718?division=NAVER",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000524699?sid=101",
 			"description":"현재 온라인 영업을 준비 중인 점포는 영등포, 금천, 강서, 합정, 간석, 작전, 서울남현, 월드컵, 신도림, 김포, 인천<b>청라<\/b>, 인하, 북수원, 영통, 시화, 평촌, 서수원, 야탑, 병점, 오산이 포함된 20개 이상의 매장으로... ",
+			"pubDate":"Thu, 30 Jul 2026 17:06:00 +0900"
+		},
+		{
+			"title":"박찬대, 1조원대 AI 커넥티드카 국비사업 유치 총력…인천시장 직속 TF ...",
+			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2026073016533936934c878f8fa1_30",
+			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2026073016533936934c878f8fa1_30",
+			"description":"◇AI 커넥티비티 생태계 구축 본격화 시는 로봇랜드와 <b>청라<\/b> 커넥티드카 평가인증센터를 중심으로 AI 커넥티비티 산업 기반을 구축하고 금융투자와 연계한 기업 주도형 산업생태계를 조성한다는 구상이다. 이를 위해 규제... ",
 			"pubDate":"Thu, 30 Jul 2026 17:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=321767",
 			"description":"(운서역-<b>청라<\/b>하늘대교 입구)입니다. 독배로-비류대로 BRT는 인하대역에서 인천대입구역까지 잇는... 영종대로 BRT는 운서역에서 <b>청라<\/b>하늘대교 입구까지 잇는 도시형 노선입니다. 연장 11km, 사업비 604억4000만원... ",
 			"pubDate":"Thu, 30 Jul 2026 16:34:00 +0900"
-		},
-		{
-			"title":"홈플러스, 온라인 20개 점포 운영 준비",
-			"originallink":"https:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4427857",
-			"link":"https:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4427857",
-			"description":"운영 예정 점포는 전날 기준 영등포, 금천, 강서, 합정, 서울남현, 월드컵, 신도림, 간석, 작전, 김포, 인천<b>청라<\/b>, 인하, 북수원, 영통, 시화, 평촌, 서수원, 야탑, 병점, 오산점 등 20곳이다. 회사는 &quot;DIP 유입 시 미지급된... ",
-			"pubDate":"Thu, 30 Jul 2026 16:28:00 +0900"
 		}
 	]
 }
