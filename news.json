@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Fri, 31 Jul 2026 08:10:01 +0900",
-	"total":304418,
+	"lastBuildDate":"Fri, 31 Jul 2026 08:20:00 +0900",
+	"total":304420,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 'AI 커넥티드카' 육성…1조 국비 유치 총력",
+			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=233662",
+			"link":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=233662",
+			"description":"인천시는 로봇랜드와 <b>청라<\/b> 커넥티드카 평가인증센터를 기반으로 기업 주도형 커넥티비티 생태계를 조성한다는 구상입니다. 특히 시는 AI 커넥티드카 산업 육성을 위한 1조 원 규모의 국비 사업 유치에 행정력을 집중할... ",
+			"pubDate":"Fri, 31 Jul 2026 08:18:00 +0900"
+		},
+		{
+			"title":"아파트값 0.02% 올라… 서해구 매매·전세가 상승 견인",
+			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=233660",
+			"link":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=233660",
+			"description":"지역별로는 서해구가 가좌·<b>청라<\/b>동 위주로 0.11% 상승해 가장 많이 올랐습니다. 그 다음으로는 미추홀구가... 서해구도 가좌·<b>청라<\/b>동 위주로 0.12% 상승했고, 남동구는 구월·만수동 주요 단지 중심으로 0.11... ",
+			"pubDate":"Fri, 31 Jul 2026 08:14:00 +0900"
+		},
 		{
 			"title":"홈플러스, DIP 집행 이후 20개점 온라인몰 영업 재개",
 			"originallink":"https:\/\/biz.heraldcorp.com\/article\/10826446?ref=naver",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=224203",
 			"description":"현재 영업 재개를 준비 중인 점포는 영등포, 금천, 강서, 간석, 서울남현, 월드컵, 신도림, 김포, 인천<b>청라<\/b>, 인하, 북수원, 영통, 시화, 평촌, 서수원, 야탑, 병점, 오산 등 수도권 20개 점포다. 홈플러스는 DIP 자금이 유입되면... ",
 			"pubDate":"Thu, 30 Jul 2026 16:46:00 +0900"
-		},
-		{
-			"title":"서울 아파트값 상승세 2주 연속 둔화, 부동산원 &quot;관망 분위기 국지적 지...",
-			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=443559",
-			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=443559",
-			"description":"서해구(0.11%)는 가좌·<b>청라<\/b>동 위주로, 미추홀구(0.04%)는 용현·주안동 정주여건 양호한 단지 위주로, 연수구(0.03%)는 연수·동춘동 개발 기대감 있는 단지 위주로 상승했다. 7월 넷째 주 전국 아파트값은 1주 전보다... ",
-			"pubDate":"Thu, 30 Jul 2026 16:38:00 +0900"
-		},
-		{
-			"title":"인천시, 1조원대 AI 커넥티드카 국책사업 유치 총력…시장 직속 TF 가동",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3030392",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3030392",
-			"description":"특히 <b>청라<\/b> 커넥티드카 평가인증센터와 로봇랜드 등 기존 인프라를 활용해 연구개발부터 실증·인증까지 가능한 산업 기반을 구축하고, 금융투자와 연계한 기업 주도형 AI 커넥티비티 생태계를 조성하는 방안을... ",
-			"pubDate":"Thu, 30 Jul 2026 16:36:00 +0900"
 		}
 	]
 }
