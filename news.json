@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sat, 01 Aug 2026 07:00:01 +0900",
-	"total":304467,
+	"lastBuildDate":"Sat, 01 Aug 2026 07:10:01 +0900",
+	"total":304469,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 날씨 및 주말날씨]당분간 전국 폭염과 열대야, 13호 태풍 돌핀 ...",
+			"originallink":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=423233",
+			"link":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=423233",
+			"description":"특히, 해안에 위치한 교량(인천대교, 영종대교, <b>청라<\/b>하늘대교, 천사대교)과 내륙의 강이나 호수, 골짜기에 인접한 도로에서는 주변보다 안개가 더욱 짙게 끼는 곳이 있겠으니, 차량 운행 시 감속 운행하여... ",
+			"pubDate":"Sat, 01 Aug 2026 07:04:00 +0900"
+		},
+		{
+			"title":"하반기 주택시장 최대 변수는 금리… 수도권 전세 강세도 주목해야",
+			"originallink":"https:\/\/weekly.donga.com\/3\/all\/11\/6327958\/1",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/037\/0000038604?sid=101",
+			"description":"주목할 포인트는 서구에 묶여 있던 ‘검단신도시’와 ‘<b>청라<\/b>·루원시티’가 각각 검단구와 서해구로... ‘검단’(검단구), ‘<b>청라<\/b>’(서해구), ‘영종’(영종구) 신도시의 가치 평가가 더욱 수월해지고, 기존 중구... ",
+			"pubDate":"Sat, 01 Aug 2026 07:02:00 +0900"
+		},
 		{
 			"title":"[오늘의 날씨] 북태평양고기압 영향으로 낮 최고 39도…전국 폭염·열대...",
 			"originallink":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16151810",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3421462",
 			"description":"한 의원은 <b>청라<\/b>하늘대교 개통으로 접근성이 개선된 점을 언급하며 관광객 유입 확대와 지역경제 활성화를 위해 영종 실정에 맞는 둘레길 조성이 필요하다고 밝혔다. 또 제주올레길과 강화나들길 사례를 제시하며 차별화된... ",
 			"pubDate":"Fri, 31 Jul 2026 11:12:00 +0900"
-		},
-		{
-			"title":"홈플러스, 전기료 1개월분 먼저 냈다…단전 예고 모두 해제",
-			"originallink":"https:\/\/www.news1.kr\/industry\/distribution\/6245193",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0009090178?sid=101",
-			"description":"영등포·금천·강서·합정·김포·인천<b>청라<\/b>·부천상동·영통·야탑점 등에서 우선 온라인 배송을 재개하고, 배송 차량과 인력은 운영 상황에 따라 순차적으로 확대할 계획이다. 온라인 배송 정상화는 DIP 집행 이후 미지급... ",
-			"pubDate":"Fri, 31 Jul 2026 11:01:00 +0900"
-		},
-		{
-			"title":"[단독] 소방당국, ‘쿠팡화재’ 복층 구조·화재 위험물 감지 못 했다",
-			"originallink":"https:\/\/www.hani.co.kr\/arti\/area\/capital\/1270829.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/028\/0002816588?sid=102",
-			"description":"메가와이즈 <b>청라<\/b>물류센터는 ‘대형물류창고로 화재 시 내부 인명 파악이 중요’, 인천검단물류센터는 ‘물류창고 특성으로 화재 우려가 큼’이라는 내용이 담겼다. 이와 관련 김대영 인천시의원은 “메자닌 구조와... ",
-			"pubDate":"Fri, 31 Jul 2026 10:58:00 +0900"
 		}
 	]
 }
