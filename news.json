@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 01 Aug 2026 10:50:01 +0900",
-	"total":304477,
+	"lastBuildDate":"Sat, 01 Aug 2026 11:00:01 +0900",
+	"total":304478,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[오늘의 날씨 및 내일날씨]당분간 전국 폭염과 열대야, 13호 태풍 돌핀 ...",
+			"originallink":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=423241",
+			"link":"http:\/\/www.economytalk.kr\/news\/articleView.html?idxno=423241",
+			"description":"특히, 해안에 위치한 교량(인천대교, 영종대교, <b>청라<\/b>하늘대교, 천사대교)과 내륙의 강이나 호수, 골짜기에 인접한 도로에서는 주변보다 안개가 더욱 짙게 끼는 곳이 있겠으니, 차량 운행 시 감속 운행하여... ",
+			"pubDate":"Sat, 01 Aug 2026 10:58:00 +0900"
+		},
 		{
 			"title":"&quot;두 달치 임금까지 미뤘다&quot;…홈플러스, 이르면 7일 영업 재개",
 			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2609677",
@@ -33,17 +40,17 @@
 			"pubDate":"Sat, 01 Aug 2026 09:04:00 +0900"
 		},
 		{
-			"title":"&quot;냉풍욕에 해저터널까지…보령 여름 명소서 더위 식혀볼까&quot;",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260731_0003730835",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014102176?sid=102",
-			"description":"<b>청라<\/b>면 위치한 냉풍욕장은 폐탄광 갱도의 자연 대류현상을 활용했다. 지하에서 올라오는 차가운 공기가 약 200m 길이의 갱도를 따라 흘러 자연 에어컨 역할을 한다. 갱도 내부 온도는 사계절 10~15℃를 유지, 한여름에는... ",
-			"pubDate":"Sat, 01 Aug 2026 09:00:00 +0900"
-		},
-		{
 			"title":"&quot;선조가 지킨 소나무, 재선충에 무너졌다&quot;…청양 화강리, 사라진 솔숲의...",
 			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=742330",
 			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=742330",
 			"description":"보령시 <b>청라<\/b>면과 맞닿은 화성면 일대를 비롯해 36번 국도 주변에서도 잎이 붉게 변하거나 말라 죽은 소나무가 곳곳에서 확인되고 있다. 청양군은 피해가 공주시 경계까지 확산되지 않도록 차단 방제에 집중할 계획이다.... ",
+			"pubDate":"Sat, 01 Aug 2026 09:00:00 +0900"
+		},
+		{
+			"title":"&quot;냉풍욕에 해저터널까지…보령 여름 명소서 더위 식혀볼까&quot;",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260731_0003730835",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014102176?sid=102",
+			"description":"<b>청라<\/b>면 위치한 냉풍욕장은 폐탄광 갱도의 자연 대류현상을 활용했다. 지하에서 올라오는 차가운 공기가 약 200m 길이의 갱도를 따라 흘러 자연 에어컨 역할을 한다. 갱도 내부 온도는 사계절 10~15℃를 유지, 한여름에는... ",
 			"pubDate":"Sat, 01 Aug 2026 09:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=1397583",
 			"description":"이와 함께 계양공원사업소가 운영하는 경명공원 물놀이장은 7월 4일부터 8월 23일까지, 인천경제자유구역청이 운영하는 <b>청라<\/b>호수공원 물놀이장은 7월 11일부터 8월 23일까지 운영된다. 서해구 관계자는 &quot;일부 물놀이장의... ",
 			"pubDate":"Fri, 31 Jul 2026 13:56:00 +0900"
-		},
-		{
-			"title":"&quot;무더위에도 즐기기 좋은 보령으로 놀러오세요~&quot;",
-			"originallink":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=813831",
-			"link":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=813831",
-			"description":"<b>청라<\/b>면 냉풍욕장은 폐탄광 갱도의 자연 대류현상을 활용한 친환경 피서시설이다. 지하에서 올라오는 차가운 공기가 약 200m 길이의 갱도를 따라 흐르며 자연 에어컨 역할을 하고, 갱도 내부 온도는 사계절 10~15℃를 유지해... ",
-			"pubDate":"Fri, 31 Jul 2026 13:48:00 +0900"
 		}
 	]
 }
