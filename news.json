@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 05 Aug 2026 08:00:00 +0900",
-	"total":304782,
+	"lastBuildDate":"Wed, 05 Aug 2026 08:10:01 +0900",
+	"total":304783,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[전국 주요 신문 톱뉴스](5일 조간)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260805012700011?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016234040?sid=102",
+			"description":"기호일보 = <b>청라<\/b>시티타워 건립사업, LH-시행사 소송전에 또 발목 ▲ 신아일보 = &quot;양도소득 100억원대에 세금 몇 억… 형평 안맞아&quot; ▲ 인천일보 = 市, 송도 첨단의료복합단지 지정 총력전 ▲ 일간경기 = 폭염중대경보... ",
+			"pubDate":"Wed, 05 Aug 2026 08:00:00 +0900"
+		},
 		{
 			"title":"[더벨][건설리포트] 대우건설, 빅배스 딛고 수익성 턴어라운드",
 			"originallink":"https:\/\/www.thebell.co.kr\/free\/content\/ArticleView.asp?key=202608041456370120102172",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7177397",
 			"description":"우선 송도·<b>청라<\/b>·영종 등 경제자유구역과 같은 주거 및 업무 중심 지역은 친환경 교통 인프라 확충과 연계해 저공해운행지역으로 지정하고, 장기적으로는 내연기관 차량의 진입을 제한하는 무배출지역(ZEZ)으로... ",
 			"pubDate":"Tue, 04 Aug 2026 15:34:00 +0900"
-		},
-		{
-			"title":"[인터뷰] 조병현 &quot;구속 신경 안 쓰니 경기력 회복&quot;",
-			"originallink":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=854470",
-			"link":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=854470",
-			"description":"2028년 <b>청라<\/b>돔 시대를 앞둔 SSG는 조병현, 조형우, 김건우, 고명준, 전영준 등 '02즈' 5명을 장기적인 관점에서 1군 주축으로 육성 중이다. 조병현은 평소 취미를 묻자 &quot;친구들과 모여서 FPS 게임을 하거나 밥을 먹는다.... ",
-			"pubDate":"Tue, 04 Aug 2026 15:32:00 +0900"
 		}
 	]
 }
