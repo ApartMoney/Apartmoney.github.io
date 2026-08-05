@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 05 Aug 2026 19:20:01 +0900",
-	"total":304939,
+	"lastBuildDate":"Wed, 05 Aug 2026 19:30:01 +0900",
+	"total":304940,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융, 포용금융 3.1조원 '속도'…&quot;상반기 60% 집행&quot;",
+			"originallink":"http:\/\/www.newsian.co.kr\/news\/articleView.html?idxno=93332",
+			"link":"http:\/\/www.newsian.co.kr\/news\/articleView.html?idxno=93332",
+			"description":"오는 9월 그룹 본사를 인천 <b>청라<\/b>국제도시로 이전하는 것과 연계해 인천 지역 소상공인 금융지원도 확대한다. 하나금융은 올해 인천신용보증재단에 총 55억원을 특별출연하고 이를 바탕으로 840억원 규모의 소상공인 특화... ",
+			"pubDate":"Wed, 05 Aug 2026 19:20:00 +0900"
+		},
 		{
 			"title":"하나금융그룹 &quot;포용금융 실행력 강화&quot; … 청년·소상공인 지원등 4대 중...",
 			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160291671599437",
@@ -124,17 +131,17 @@
 			"pubDate":"Wed, 05 Aug 2026 17:26:00 +0900"
 		},
 		{
-			"title":"인천 쿠팡 화재 잔해 처리에 봉수대로 전면 통제…&quot;언제 풀리나&quot; 주민 발...",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3030937",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3030937",
-			"description":"<b>청라<\/b>권 산업단지와 북항 물류차량이 오가는 주요 간선도로다. 교통을 통제하는 사람들은 '인천서부모범운전자회'로 본업은 택시 운전사다. 주변 전봇대에는 '모범운전자의 수신호는 경찰의 수신호와 동일한 법적효력이... ",
-			"pubDate":"Wed, 05 Aug 2026 17:18:00 +0900"
-		},
-		{
 			"title":"[새얼굴] 조인권 인천경제청 차장…정책 조정 능력 갖춘 행정전문가",
 			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3030936",
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3030936",
 			"description":"인천경제청에서는 글로벌 기업 투자유치와 첨단산업 육성, 주요 개발사업을 총괄하며 송도·영종·<b>청라<\/b>의 미래 성장 기반을 다지는 역할을 맡게 된다. 다양한 행정 경험과 정책 추진력을 바탕으로 경제자유구역의 미래... ",
+			"pubDate":"Wed, 05 Aug 2026 17:18:00 +0900"
+		},
+		{
+			"title":"인천 쿠팡 화재 잔해 처리에 봉수대로 전면 통제…&quot;언제 풀리나&quot; 주민 발...",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3030937",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3030937",
+			"description":"<b>청라<\/b>권 산업단지와 북항 물류차량이 오가는 주요 간선도로다. 교통을 통제하는 사람들은 '인천서부모범운전자회'로 본업은 택시 운전사다. 주변 전봇대에는 '모범운전자의 수신호는 경찰의 수신호와 동일한 법적효력이... ",
 			"pubDate":"Wed, 05 Aug 2026 17:18:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.biztribune.co.kr\/news\/articleView.html?idxno=357007",
 			"description":"소상공인 지원은 오는 9월 예정된 하나금융그룹의 인천 <b>청라<\/b>국제도시 이전과 연계해 추진된다. 본사 이전을 지역경제와 금융지원 기반을 확대하는 계기로 활용하려는 전략이다. 하나금융은 올해 인천신용보증재단에... ",
 			"pubDate":"Wed, 05 Aug 2026 16:50:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, 포용금융 실행력 강화… 청년·소상공인 지원 확대",
-			"originallink":"https:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=389811",
-			"link":"https:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=389811",
-			"description":"소상공인 지원은 인천 <b>청라<\/b>국제도시 그룹 본사 이전과 연계해 강화된다. 인천신용보증재단에 55억 원을 특별출연해 840억 원 규모의 보증대출을 지원하고, 지역화폐 '인천e음'과 공공 배달앱 '먹깨비' 가맹점주에게 금융... ",
-			"pubDate":"Wed, 05 Aug 2026 16:44:00 +0900"
 		}
 	]
 }
