@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 05 Aug 2026 12:20:01 +0900",
-	"total":304861,
+	"lastBuildDate":"Wed, 05 Aug 2026 12:30:01 +0900",
+	"total":304862,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융, 포용금융 CIFO 신설…연간 목표 60% 상반기 집행",
+			"originallink":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=284314",
+			"link":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=284314",
+			"description":"오는 9월 그룹 헤드쿼터의 <b>청라<\/b>국제도시 이전에 맞춰 인천신용보증재단 특별출연을 통한 840억 원 규모의 소상공인 특화 보증대출을 공급할 계획이다. 아울러 인천 지역화폐 인천e음 및 배달앱 가맹점주 대상 우대... ",
+			"pubDate":"Wed, 05 Aug 2026 12:22:00 +0900"
+		},
 		{
 			"title":"하나금융, 포용금융 실행력 강화…이승열 부회장 CIFO 선임",
 			"originallink":"http:\/\/www.kdfnews.com\/news\/articleView.html?idxno=186108",
@@ -194,13 +201,6 @@
 			"pubDate":"Wed, 05 Aug 2026 10:32:00 +0900"
 		},
 		{
-			"title":"하나금융, 포용금융최고책임자로 이승열 부회장 지정…청년·소상공인 ...",
-			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=877071",
-			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=877071",
-			"description":"하나금융그룹은 다가오는 9월 그룹 헤드쿼터의 인천 <b>청라<\/b>국제도시 이전에 발맞춰  인천 지역 상생금융을 강화한다는 방침이다. 올해 인천신용보증재단에 총 55억원을 특별출연해 840억원 규모의 소상공인 특화 보증대출을... ",
-			"pubDate":"Wed, 05 Aug 2026 10:32:00 +0900"
-		},
-		{
 			"title":"하나금융, 포용금융 3.1조 속도…상반기 목표 60% 넘게 집행",
 			"originallink":"https:\/\/www.fetv.co.kr\/news\/articleView.html?idxno=307872",
 			"link":"https:\/\/www.fetv.co.kr\/news\/articleView.html?idxno=307872",
@@ -208,11 +208,11 @@
 			"pubDate":"Wed, 05 Aug 2026 10:32:00 +0900"
 		},
 		{
-			"title":"하나금융, 포용금융 최고책임자에 이승열 부회장…실행력 강화",
-			"originallink":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1719189",
-			"link":"https:\/\/www.ebn.co.kr\/news\/articleView.html?idxno=1719189",
-			"description":"지역 소상공인을 위한 현장 밀착형 지원도 가속화한다.하나금융그룹은 9월 그룹 헤드쿼터의 인천 <b>청라<\/b>국제도시 이전에 발맞춰 '<b>청라<\/b> 시대'의 본격적인 개막과 연계한 인천 지역 상생금융을 획기적으로 강화한다. 올해... ",
-			"pubDate":"Wed, 05 Aug 2026 10:30:00 +0900"
+			"title":"하나금융, 포용금융최고책임자로 이승열 부회장 지정…청년·소상공인 ...",
+			"originallink":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=877071",
+			"link":"https:\/\/www.getnews.co.kr\/news\/articleView.html?idxno=877071",
+			"description":"하나금융그룹은 다가오는 9월 그룹 헤드쿼터의 인천 <b>청라<\/b>국제도시 이전에 발맞춰  인천 지역 상생금융을 강화한다는 방침이다. 올해 인천신용보증재단에 총 55억원을 특별출연해 840억원 규모의 소상공인 특화 보증대출을... ",
+			"pubDate":"Wed, 05 Aug 2026 10:32:00 +0900"
 		}
 	]
 }
