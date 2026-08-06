@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 06 Aug 2026 20:10:01 +0900",
-	"total":305029,
+	"lastBuildDate":"Thu, 06 Aug 2026 20:20:01 +0900",
+	"total":305030,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인사] 인천시",
+			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=442437",
+			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=442437",
+			"description":"영종<b>청라<\/b>사업본부장 김두현 ▲시민안전본부장 심연삼 ▲해양항공국장 박광근 ▲기후에너지국장 이남주... 박경용 ▲경제자유구역청 <b>청라<\/b>관리과장 손미화 ▲경제자유구역청 운영지원과장 김윤희 ▲문화정책과장 박혁... ",
+			"pubDate":"Thu, 06 Aug 2026 20:10:00 +0900"
+		},
 		{
 			"title":"인천 서해구 이세리 서구의원, 장기 중단된 <b>청라<\/b> 시티타워 부지 모기 방...",
 			"originallink":"https:\/\/kpenews.com\/View.aspx?No=4177139",
@@ -194,13 +201,6 @@
 			"pubDate":"Thu, 06 Aug 2026 16:25:00 +0900"
 		},
 		{
-			"title":"재개장 명단서 빠진 홈플러스 송도점…'알짜 부지' 어디로",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=119883",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=119883",
-			"description":"홈플러스는 인천 간석점·<b>청라<\/b>점·구월점·작전점·인하점 등 5개 점포를 7일 가개장한 뒤 13일부터 정식 운영할 계획이다. 그러나 송도점을 비롯한 가좌점·숭의점·연수점·논현점은 재개장 대상에서 제외돼 폐점 수순을... ",
-			"pubDate":"Thu, 06 Aug 2026 16:20:00 +0900"
-		},
-		{
 			"title":"인천시금고 19년 수성 vs <b>청라<\/b> 시대…신한·하나銀 '빅매치'",
 			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1393500",
 			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1393500",
@@ -208,11 +208,11 @@
 			"pubDate":"Thu, 06 Aug 2026 16:20:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b> 시티타워 부지 방역 실시…모기 서식 우려 해소 나서",
-			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5048871",
-			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5048871",
-			"description":"장기간 공사가 중단된 <b>청라<\/b> 시티타워 부지에서 모기 발생 우려가 제기되자 관계기관이 합동 방역을 실시했다. 이세리 인천 서해구의원은 6일 관계기관 협의를 거쳐 <b>청라<\/b> 시티타워 부지에 대한 방역을 진행했다고 밝혔다.... ",
-			"pubDate":"Thu, 06 Aug 2026 16:18:00 +0900"
+			"title":"재개장 명단서 빠진 홈플러스 송도점…'알짜 부지' 어디로",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=119883",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=119883",
+			"description":"홈플러스는 인천 간석점·<b>청라<\/b>점·구월점·작전점·인하점 등 5개 점포를 7일 가개장한 뒤 13일부터 정식 운영할 계획이다. 그러나 송도점을 비롯한 가좌점·숭의점·연수점·논현점은 재개장 대상에서 제외돼 폐점 수순을... ",
+			"pubDate":"Thu, 06 Aug 2026 16:20:00 +0900"
 		}
 	]
 }
