@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 13 Aug 2026 12:10:01 +0900",
-	"total":305410,
+	"lastBuildDate":"Thu, 13 Aug 2026 12:20:01 +0900",
+	"total":305411,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[심층진단]17조 인천시금고 선정 앞두고 인천시, 공정성 우려… 하나금...",
+			"originallink":"https:\/\/biz.heraldcorp.com\/article\/10840149?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002683484?sid=102",
+			"description":"이번 경쟁은 사실상 20년간 제1금고를 운영해온 신한은행과 오는 9월 <b>청라<\/b>국제도시로 그룹 본사 이전을 앞둔... 신한은행은 20년간의 지역사회 기여 실적을, 하나은행은 최근 상생금융과 <b>청라<\/b> 본사 이전에 따른 미래... ",
+			"pubDate":"Thu, 13 Aug 2026 12:19:00 +0900"
+		},
 		{
 			"title":"&quot;강남 오피스 평당 13만원&quot;…기업들 대체 업무지로 <b>청라<\/b>국제도시 주목",
 			"originallink":"https:\/\/www.hankyung.com\/article\/202608138851O",
@@ -131,17 +138,17 @@
 			"pubDate":"Thu, 13 Aug 2026 08:36:00 +0900"
 		},
 		{
-			"title":"인천시, 서울7호선 <b>청라<\/b> 연장 정상화 협의체 본격 가동",
-			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=1401772",
-			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=1401772",
-			"description":"매일일보 = 이종민 기자  |  인천광역시는 서울도시철도 7호선 <b>청라<\/b>국제도시 연장사업의 정상화와 적기 개통을 위한 '서울7호선 <b>청라<\/b>국제도시 연장사업 민·관·정 협의체' 첫 전체회의를 12일 인천시청 대회의실에서... ",
-			"pubDate":"Thu, 13 Aug 2026 08:34:00 +0900"
-		},
-		{
 			"title":"서울7호선 <b>청라<\/b> 연장 정상화 '시동'… 협의체 첫 회의",
 			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=234871",
 			"link":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=234871",
 			"description":"서울7호선 <b>청라<\/b> 연장 사업 정상화를 위한 민관정 협의체가 12일 첫 회의를 열었습니다. 회의에는 박찬대 인천시장과 김교흥, 이용우 국회의원, 시의원, 주민대표 등 36명의 위원이 참석했습니다. 협의체는 공정관리분과와... ",
+			"pubDate":"Thu, 13 Aug 2026 08:34:00 +0900"
+		},
+		{
+			"title":"인천시, 서울7호선 <b>청라<\/b> 연장 정상화 협의체 본격 가동",
+			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=1401772",
+			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=1401772",
+			"description":"매일일보 = 이종민 기자  |  인천광역시는 서울도시철도 7호선 <b>청라<\/b>국제도시 연장사업의 정상화와 적기 개통을 위한 '서울7호선 <b>청라<\/b>국제도시 연장사업 민·관·정 협의체' 첫 전체회의를 12일 인천시청 대회의실에서... ",
 			"pubDate":"Thu, 13 Aug 2026 08:34:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005399340?sid=101",
 			"description":"20년 가까이 제1금고를 맡아온 신한은행을 상대로 인천 <b>청라<\/b>국제도시로의 본사 이전을 앞둔 하나은행이... 하나금융그룹은 오는 9월부터 인천 서구 <b>청라<\/b>국제도시에 조성한 '<b>청라<\/b> 그룹 헤드쿼터'로 하나금융지주 등 10개... ",
 			"pubDate":"Thu, 13 Aug 2026 06:00:00 +0900"
-		},
-		{
-			"title":"붉게 타들어간 충남의 소나무숲 … &quot;재선충은 번졌고, 행정은 뒤따랐다...",
-			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=140859",
-			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=140859",
-			"description":"2012년 2월 <b>청라<\/b>면에서 첫 감염목이 확인된 이후 피해가 이어졌고, 올해 5월에는 감염목이 3만 1751그루까지 증가했다. 지난해 720그루와 비교하면 약 44배 늘어난 수치다. 보령시는 감염 우려목까지 포함할 경우 잠재적인... ",
-			"pubDate":"Thu, 13 Aug 2026 05:22:00 +0900"
 		}
 	]
 }
