@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 13 Aug 2026 10:00:01 +0900",
-	"total":305397,
+	"lastBuildDate":"Thu, 13 Aug 2026 10:10:01 +0900",
+	"total":305399,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"신한은행, 최고 연 9% 적금 출시…은행권 고금리 경쟁 확산",
+			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=209910",
+			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=209910",
+			"description":"오는 9월 하나금융그룹의 인천 <b>청라<\/b>국제도시 본사 이전을 기념해 인천 시민을 대상으로 최고 연 7%가 적용되는 '내맘적금 금리우대쿠폰'도 5만장 한정으로 제공한다. 우리은행의 '우리의 소원 정기적금'도 기본금리 연 3... ",
+			"pubDate":"Thu, 13 Aug 2026 10:02:00 +0900"
+		},
+		{
+			"title":"인천공항 도약에 영종 재평가… ‘영종국제도시 신일 비아프 크레스트...",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2026081309531408285",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005802550?sid=101",
+			"description":"올해 초 개통한 <b>청라<\/b>하늘대교를 비롯해 GTX-D·E 노선(계획), 인천대교·영종대교 등과 연계되는 교통 인프라 확충이 이어지면서, 영종과 수도권을 잇는 접근성은 한층 강화될 전망이다. 지역 개발도 속도를 내고 있다.... ",
+			"pubDate":"Thu, 13 Aug 2026 10:00:00 +0900"
+		},
 		{
 			"title":"백내장·유리체망막 수술 장비 플랫폼 ‘유니티 VCS\/CS’ 국내 출시",
 			"originallink":"http:\/\/www.whosaeng.com\/172819",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.kdpress.co.kr\/news\/articleView.html?idxno=207755",
 			"description":"인천광역시(시장 박찬대)가 서울도시철도 7호선 <b>청라<\/b>국제도시 연장사업의 정상화와 적기 개통을 위해 민·관·정 협의체를 출범시키고 본격적인 대응에 나섰다. 인천시는 12일 시청 대회의실에서 '서울7호선 <b>청라<\/b>국제도시... ",
 			"pubDate":"Wed, 12 Aug 2026 22:16:00 +0900"
-		},
-		{
-			"title":"인천시, 서울7호선 <b>청라<\/b> 연장 정상화 민·관·정 협의체 가동",
-			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=712207",
-			"link":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=712207",
-			"description":"인천광역시청 전경 인천시가 서울도시철도 7호선 <b>청라<\/b>국제도시 연장사업의 정상화와 적기 개통 방안을... 이날 회의는 '서울7호선 <b>청라<\/b>국제도시 연장사업 민·관·정 협의체'의 공식 출범을 알리고 향후 운영체계를... ",
-			"pubDate":"Wed, 12 Aug 2026 21:44:00 +0900"
-		},
-		{
-			"title":"하나금융, 고객 찾아가는 '하나 행복드림버스' 가동…포용금융 실천",
-			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=314780",
-			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=314780",
-			"description":"하나금융그룹은 오는 9월 인천 <b>청라<\/b>국제도시로 본사(HQ) 이전을 앞두고 있는 만큼, 이번 행복드림버스 인천 방문을 통해 어르신들에게 실질적인 도움과 함께 새로운 활력을 제공할 계획이다. 우선 지난 11일 인천 서해구와... ",
-			"pubDate":"Wed, 12 Aug 2026 21:32:00 +0900"
 		}
 	]
 }
