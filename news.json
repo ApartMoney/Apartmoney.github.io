@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 13 Aug 2026 17:20:00 +0900",
-	"total":305448,
+	"lastBuildDate":"Thu, 13 Aug 2026 17:30:01 +0900",
+	"total":305450,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[다시보기] 헬로tv뉴스 수도권 2026년 8월 13일",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=551048",
+			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=551048",
+			"description":"1. 7호선 <b>청라<\/b> 연장 '민·관·정 협의체' 출범 2. 의정부시 재정혁신 선언…지출 구조 전면 개편 3. 김포시, 지방공공기관 회계관리체계 대수술 4. 인천시, 공공 지출 고강도 구조조정",
+			"pubDate":"Thu, 13 Aug 2026 17:26:00 +0900"
+		},
+		{
+			"title":"‘한길 15년 이상’ 최경호·김규철 씨, 대구시 명장 선정",
+			"originallink":"https:\/\/www.kbmaeil.com\/article\/20260813500481",
+			"link":"https:\/\/www.kbmaeil.com\/article\/20260813500481",
+			"description":"도시철도 2호선 <b>청라<\/b>언덕역에 마련된 ‘대구 숙련기술명장 명예의 전당’에도 이름을 올린다. 대구시는 2013년 명장 제도를 도입한 이후 지난해까지 55명을 선정했으며, 올해 2명이 추가되면서 지역 명장은 모두 57명으로... ",
+			"pubDate":"Thu, 13 Aug 2026 17:26:00 +0900"
+		},
 		{
 			"title":"다시 문 연 인천 홈플러스 '북적'…시민들 &quot;계속 영업했으면&quot;",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363733855",
@@ -138,16 +152,16 @@
 			"pubDate":"Thu, 13 Aug 2026 14:48:00 +0900"
 		},
 		{
-			"title":"대구는 폭염",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260813_0021398335",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014126019?sid=102",
+			"title":"오늘도 '폭염'",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260813_0021398330",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014126015?sid=102",
 			"description":"대구지역에 폭염주의보가 발효된 13일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 시민들이 이동하고 있다. 2026.08.13. lmy@newsis.com",
 			"pubDate":"Thu, 13 Aug 2026 14:42:00 +0900"
 		},
 		{
-			"title":"오늘도 '폭염'",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260813_0021398330",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014126015?sid=102",
+			"title":"대구는 폭염",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260813_0021398335",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014126019?sid=102",
 			"description":"대구지역에 폭염주의보가 발효된 13일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 시민들이 이동하고 있다. 2026.08.13. lmy@newsis.com",
 			"pubDate":"Thu, 13 Aug 2026 14:42:00 +0900"
 		},
@@ -159,9 +173,9 @@
 			"pubDate":"Thu, 13 Aug 2026 14:42:00 +0900"
 		},
 		{
-			"title":"대구는 폭염",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260813_0021398334",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014126014?sid=102",
+			"title":"더위 식혀주는 쿨링포그",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260813_0021398331",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014126013?sid=102",
 			"description":"대구지역에 폭염주의보가 발효된 13일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 시민들이 이동하고 있다. 2026.08.13. lmy@newsis.com",
 			"pubDate":"Thu, 13 Aug 2026 14:42:00 +0900"
 		},
@@ -173,9 +187,9 @@
 			"pubDate":"Thu, 13 Aug 2026 14:42:00 +0900"
 		},
 		{
-			"title":"더위 식혀주는 쿨링포그",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260813_0021398331",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014126013?sid=102",
+			"title":"대구는 폭염",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260813_0021398334",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014126014?sid=102",
 			"description":"대구지역에 폭염주의보가 발효된 13일 대구 중구 <b>청라<\/b>언덕에 설치된 쿨링포그 아래로 시민들이 이동하고 있다. 2026.08.13. lmy@newsis.com",
 			"pubDate":"Thu, 13 Aug 2026 14:42:00 +0900"
 		},
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005720592?sid=101",
 			"description":"인천시 안팎에서는 하나금융그룹이 다음달부터 인천 <b>청라<\/b>국제도시로 본사 이전을 시작하면서 하나은행이 강력한 경쟁자가 될 것이란 관측이 나온다. 인천시 관계자는 “시금고 평가 기준과 배점은 행정안전부... ",
 			"pubDate":"Thu, 13 Aug 2026 14:38:00 +0900"
-		},
-		{
-			"title":"홈플러스 북수원점 재개장 첫날 '북적'…정상화는 아직 진행형",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031629",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031629",
-			"description":"이날 경기도에서는 북수원·김포·풍무·병점·여월·서수원·송탄·시화·야탑·영통·오산·의정부·문산·평촌·안중·향남점 등 16곳이, 인천에서는 간석·구월·<b>청라<\/b>·인하·작전점 등 5곳이 다시 문을 열었다. 홈플러스는... ",
-			"pubDate":"Thu, 13 Aug 2026 14:30:00 +0900"
-		},
-		{
-			"title":"인천 일부 홈플러스 매장 정식 재개장",
-			"originallink":"https:\/\/www.insight.co.kr\/news\/568108",
-			"link":"https:\/\/www.insight.co.kr\/news\/568108",
-			"description":"인천에 위치한 홈플러스 매장 10곳 가운데 간석점, <b>청라<\/b>점, 작전점, 인하점, 구월점 등 5개 매장이 이날부터 정식 영업을 다시 시작했다. 이번 행사에는 대책위 관계자들을 비롯해 허종식 더불어민주당 인천시당 위원장... ",
-			"pubDate":"Thu, 13 Aug 2026 14:26:00 +0900"
 		}
 	]
 }
