@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 15 Aug 2026 00:00:01 +0900",
-	"total":305530,
+	"lastBuildDate":"Sat, 15 Aug 2026 00:10:01 +0900",
+	"total":305531,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[8월 셋째주 분양동향] 전국 2,760가구 분양…수도권 물량 다수",
+			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=210081",
+			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=210081",
+			"description":"지하 2층~지상 25층, 3개 동, 전용면적 60~84㎡, 총 441가구 규모로 들어선다. 검암지구 내 주요 인프라와 관공서는 물론 인근 <b>청라<\/b>국제도시 및 검단신도시의 생활 인프라까지 누릴 수 있는 것이 특징이다.",
+			"pubDate":"Sat, 15 Aug 2026 00:06:00 +0900"
+		},
 		{
 			"title":"인천시, 7호선 <b>청라<\/b>연장 적기개통 추진…민관협의체 출범",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1534131",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=120056",
 			"description":"인천시 제1금고는 신한은행이 20년째 운영하는 가운데 본사를 인천 <b>청라<\/b>국제도시로 이전하는 하나은행의 도전이 거센 상황으로 시는 지난 6일 '인천광역시 금고 지정계획 공고'를 냈으며 28일~9월 2일 신청서(제안서)를... ",
 			"pubDate":"Fri, 14 Aug 2026 12:24:00 +0900"
-		},
-		{
-			"title":"[14일 인천 서해구] 청소년자원봉사학교 성료 등",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20260814500163",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20260814500163",
-			"description":"아울러 서부경찰서와 연계한 학교폭력 및 범죄 예방교육을 통해 올바른 청소년 의식을 고취했고, 인천환경공단 <b>청라<\/b>사업소를 견학하며 기후위기 시대 환경보호의 중요성을 다시 한번 다지는 시간을 가졌다. 어르신을... ",
-			"pubDate":"Fri, 14 Aug 2026 12:10:00 +0900"
 		}
 	]
 }
