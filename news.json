@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 15 Aug 2026 09:00:01 +0900",
-	"total":305532,
+	"lastBuildDate":"Sat, 15 Aug 2026 09:10:01 +0900",
+	"total":305533,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[NGO 돋보기①] 희망브리지, 65년동안 재난 닥치면 가장 먼저 현장으로...",
+			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=235588",
+			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=235588",
+			"description":"2024년 인천 <b>청라<\/b> 전기차 화재 당시에도 희망브리지는 임시대피소에서 생활하던 이재민을 위해 생수와 기업구호키트, 대피소 칸막이, 매트 등 2만728점을 긴급 지원했다. 재난의 종류가 달라도 피해 주민이 겪는 불편은... ",
+			"pubDate":"Sat, 15 Aug 2026 09:02:00 +0900"
+		},
 		{
 			"title":"인천시 '7호선 <b>청라<\/b> 연장 사업' 시민이 감시한다",
 			"originallink":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=856821",
@@ -152,17 +159,17 @@
 			"pubDate":"Fri, 14 Aug 2026 14:22:00 +0900"
 		},
 		{
-			"title":"서울 7호선 <b>청라<\/b> 연장, '시민 감시단' 첫 발",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031692",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031692",
-			"description":"기호일보, KIHOILBO 지난 13일 인천시 서해구청 본관에서 열린 '서울 7호선 <b>청라<\/b>국제도시 연장사업 시민감시단' 회의. 인천시가 서울지하철 7호선 <b>청라<\/b>국제도시 연장사업의 공정 지연 우려를 해소하고 사업 투명성을... ",
-			"pubDate":"Fri, 14 Aug 2026 14:16:00 +0900"
-		},
-		{
 			"title":"인천시, <b>청라<\/b> 광역철도 공사 현장 주민 참여 검증단 가동",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3664893",
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3664893",
 			"description":"박찬대 인천시장과 관계자들이 이달 10일 서울도시철도 7호선 <b>청라<\/b> 연장선 3공구 현장을 점검하고 있는 모습.... 인천시는 서해구청 본관 의원간담회장에서 '서울7호선 <b>청라<\/b>국제도시 연장사업 시민감시단' 위촉식과 함께 첫... ",
+			"pubDate":"Fri, 14 Aug 2026 14:16:00 +0900"
+		},
+		{
+			"title":"서울 7호선 <b>청라<\/b> 연장, '시민 감시단' 첫 발",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031692",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031692",
+			"description":"기호일보, KIHOILBO 지난 13일 인천시 서해구청 본관에서 열린 '서울 7호선 <b>청라<\/b>국제도시 연장사업 시민감시단' 회의. 인천시가 서울지하철 7호선 <b>청라<\/b>국제도시 연장사업의 공정 지연 우려를 해소하고 사업 투명성을... ",
 			"pubDate":"Fri, 14 Aug 2026 14:16:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=648602",
 			"description":"인천환경공단 <b>청라<\/b>사업소에서는 시설을 견학하며 기후위기와 환경보호의 중요성을 살펴봤다. 교실에서 환경문제를 배우는 방식과 달리 환경 관련 시설을 직접 둘러보며 지역의 환경 관리가 현장에서 어떻게 이뤄지는지... ",
 			"pubDate":"Fri, 14 Aug 2026 13:36:00 +0900"
-		},
-		{
-			"title":"인천광역시, <b>청라<\/b> 7호선 연장사업 주민 참여형 현장점검 돌입",
-			"originallink":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7179011",
-			"link":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7179011",
-			"description":"사진=인천시  인천광역시가 서울7호선 <b>청라<\/b>국제도시 연장사업에 대한 주민 참여형 관리체계를 구축하고 공사 현장 점검을 시작했다. 시는 지난 13일 서해구청에서 시민감시단 첫 회의를 열고 위촉 절차를 마친 뒤 향후 활동... ",
-			"pubDate":"Fri, 14 Aug 2026 12:48:00 +0900"
 		}
 	]
 }
