@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 18 Aug 2026 00:10:01 +0900",
-	"total":305607,
+	"lastBuildDate":"Tue, 18 Aug 2026 00:20:01 +0900",
+	"total":305608,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전기차 보조금 연말에 못 받나… 상반기에만 71% 소진",
+			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=9000003787&cp=nv",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/005\/0001867359?sid=101",
+			"description":"유지비 부담은 2024년 인천 서구 <b>청라<\/b>아파트에서 발생한 메르세데스 벤츠 EQE 350+ 전기차 화재로 형성된 ‘전기차 포비아’마저도 상쇄하는 모양새다. 다만 예산 집행률이 급등하면서 이에 반비례해 정부의 전기차... ",
+			"pubDate":"Tue, 18 Aug 2026 00:12:00 +0900"
+		},
 		{
 			"title":"올들어 인천대교에서 13명 뛰어 내렸다… 근본 대책 절실",
 			"originallink":"https:\/\/ic.newdaily.co.kr\/site\/data\/html\/2026\/08\/17\/2026081700123.html",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005562339?sid=102",
 			"description":"인천 <b>청라<\/b>국제도시 이전을 앞둔 하나은행은 '인천에 본사를 둔 시중은행'이라는 상징성과 지역경제 기여를... 반면 하나은행은 하나금융그룹의 <b>청라<\/b>국제도시 본사 이전이라는 강력한 카드를 앞세우고 있다. 2022년... ",
 			"pubDate":"Mon, 17 Aug 2026 11:16:00 +0900"
-		},
-		{
-			"title":"하나은행, 인천시 청년·서민·소상공인 생활밀착형 금융지원",
-			"originallink":"https:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=546675",
-			"link":"https:\/\/www.autodaily.co.kr\/news\/articleView.html?idxno=546675",
-			"description":"한편, 하나금융그룹 <b>청라<\/b> 이전에 따른 인천의 향후 10년간 직ㆍ간접 경제유발효과는 약 3조 4천억원으로 추정된다. 약 1만 5,000명의 신규 고용창출과 법인지방세ㆍ지방소득세 등을 포함한 약 4,200억원의 세수확대가... ",
-			"pubDate":"Mon, 17 Aug 2026 11:14:00 +0900"
 		}
 	]
 }
