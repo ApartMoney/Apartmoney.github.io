@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 17 Aug 2026 13:30:01 +0900",
-	"total":305589,
+	"lastBuildDate":"Mon, 17 Aug 2026 13:40:00 +0900",
+	"total":305590,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나은행 인천시와 동반성장 금융지원 협약, 이호성 &quot;민생경제 회복 지...",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=444905",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=444905",
+			"description":"하나금융그룹은 9월 그룹 본사를 인천 <b>청라<\/b>국제도시로 이전한다. 인천에 본사를 둔 유일한 금융그룹으로 자리하게 되는 만큼 하나은행도 인천시금고 유치전에 공을 들이고 있다. 하나은행은 최근 지방자치단체 금고... ",
+			"pubDate":"Mon, 17 Aug 2026 13:36:00 +0900"
+		},
 		{
 			"title":"하나銀, 인천 민생·미래성장에 대규모 금융 자금 ‘물꼬’",
 			"originallink":"https:\/\/m.skyedaily.com\/news_view.html?ID=309895",
@@ -145,17 +152,17 @@
 			"pubDate":"Mon, 17 Aug 2026 10:11:00 +0900"
 		},
 		{
-			"title":"[生기업TALK] 하나은행, <b>청라<\/b> 상생 시대 함께 열어갈 인천 지역경제 성장...",
-			"originallink":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=98856",
-			"link":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=98856",
-			"description":"사진=하나은행  다음 달 하나금융그룹(회장 함영주)의 본점 <b>청라<\/b> 이전을 앞두고 하나은행(은행장 이호성)이... 하나금융그룹 <b>청라<\/b> 이전에 따른 인천의 향후 10년간 직·간접 경제유발효과는 약 3조4천억원으로 추정된다.... ",
-			"pubDate":"Mon, 17 Aug 2026 09:10:00 +0900"
-		},
-		{
 			"title":"하나은행, 인천 민생부터 미래산업 지원…2000억 유니콘펀드",
 			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20260817500035",
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20260817500035",
 			"description":"한편 하나금융그룹의 <b>청라<\/b> 이전에 따른 향후 10년간 직·간접 경제유발효과는 약 3조4000억원으로 추정된다. 신규 고용창출은 약 1만5000명, 세수 확대 효과는 약 4200억원에 이를 것으로 예상된다.",
+			"pubDate":"Mon, 17 Aug 2026 09:10:00 +0900"
+		},
+		{
+			"title":"[生기업TALK] 하나은행, <b>청라<\/b> 상생 시대 함께 열어갈 인천 지역경제 성장...",
+			"originallink":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=98856",
+			"link":"http:\/\/www.sisacast.kr\/news\/articleView.html?idxno=98856",
+			"description":"사진=하나은행  다음 달 하나금융그룹(회장 함영주)의 본점 <b>청라<\/b> 이전을 앞두고 하나은행(은행장 이호성)이... 하나금융그룹 <b>청라<\/b> 이전에 따른 인천의 향후 10년간 직·간접 경제유발효과는 약 3조4천억원으로 추정된다.... ",
 			"pubDate":"Mon, 17 Aug 2026 09:10:00 +0900"
 		},
 		{
@@ -187,6 +194,13 @@
 			"pubDate":"Mon, 17 Aug 2026 08:30:00 +0900"
 		},
 		{
+			"title":"하나은행, 인천시와 3건 협약…청년·소상공인 지원 강화",
+			"originallink":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=271854",
+			"link":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=271854",
+			"description":"한편, 하나금융그룹의 <b>청라<\/b> 이전에 따른 인천의 10년간 직·간접 경제유발효과는 약 3조4000억원에 달할 것으로 추정되며, 약 1만5000명의 신규 고용창출과 4200억원의 세수 확대, 3조200억원 규모의 지역경제 파급효과가... ",
+			"pubDate":"Mon, 17 Aug 2026 08:30:00 +0900"
+		},
+		{
 			"title":"하나은행, 인천 민생부터 미래산업까지 3조원대 금융지원",
 			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=875198",
 			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=875198",
@@ -198,20 +212,6 @@
 			"originallink":"http:\/\/www.popcornnews.net\/news\/articleView.html?idxno=129872",
 			"link":"http:\/\/www.popcornnews.net\/news\/articleView.html?idxno=129872",
 			"description":"한편, 하나금융그룹 <b>청라<\/b> 이전에 따른 인천의 향후 10년간 직ㆍ간접 경제유발효과는 약 3조 4천억원으로 추정된다. 약 1만 5천명의 신규 고용창출과 법인지방세ㆍ지방소득세 등을 포함한 약 4천200억원의 세수확대가... ",
-			"pubDate":"Mon, 17 Aug 2026 08:30:00 +0900"
-		},
-		{
-			"title":"하나은행, 인천시와 동반성장 '맞손'…민생·미래산업 금융지원",
-			"originallink":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=442871",
-			"link":"http:\/\/www.econonews.co.kr\/news\/articleView.html?idxno=442871",
-			"description":"하나금융그룹의 <b>청라<\/b> 이전과 연계해 금융회사의 지역 거점을 단순한 본사 이전에 그치지 않고 기업 발굴과 투자, 산업 육성으로 확장하려는 움직임으로도 볼 수 있다. 다만 실제 지역경제 효과는 협약에서 제시한... ",
-			"pubDate":"Mon, 17 Aug 2026 08:30:00 +0900"
-		},
-		{
-			"title":"하나은행, 인천시와 3건 협약…청년·소상공인 지원 강화",
-			"originallink":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=271854",
-			"link":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=271854",
-			"description":"한편, 하나금융그룹의 <b>청라<\/b> 이전에 따른 인천의 10년간 직·간접 경제유발효과는 약 3조4000억원에 달할 것으로 추정되며, 약 1만5000명의 신규 고용창출과 4200억원의 세수 확대, 3조200억원 규모의 지역경제 파급효과가... ",
 			"pubDate":"Mon, 17 Aug 2026 08:30:00 +0900"
 		}
 	]
