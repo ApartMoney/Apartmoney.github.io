@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 18 Aug 2026 17:50:00 +0900",
-	"total":305670,
+	"lastBuildDate":"Tue, 18 Aug 2026 18:00:01 +0900",
+	"total":305672,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나은행, 인천시와 3개 협약…소상공인부터 혁신기업까지 지원",
+			"originallink":"https:\/\/www.newscammp.co.kr\/news\/articleView.html?idxno=6746",
+			"link":"https:\/\/www.newscammp.co.kr\/news\/articleView.html?idxno=6746",
+			"description":"하나금융그룹은 <b>청라<\/b> 이전에 따른 향후 10년간 직·간접 경제유발효과를 약 3조4000억원으로 추산했다. 신규 고용 창출은 약 1만5000명, 지방세수 확대 효과는 약 4200억원에 이를 것으로 전망했다.",
+			"pubDate":"Tue, 18 Aug 2026 17:56:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b>하늘대교 전망대 운영 19일 재개",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1534389",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1534389",
+			"description":"인천 <b>청라<\/b>하늘대교 전망대가 승강기 고장으로 일주일간 운영을 멈췄다가 재개합니다. 인천경제자유구역청에 따르면 지난 11일 오후 3시 51분쯤 <b>청라<\/b>하늘대교 주탑 전망대 승강기가 고장으로 작동을 멈췄습니다. 이... ",
+			"pubDate":"Tue, 18 Aug 2026 17:52:00 +0900"
+		},
 		{
 			"title":"인천 가는 하나금융, '4200억 세수 효과'로 시금고 경쟁 우위 노린다",
 			"originallink":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=252634",
@@ -33,13 +47,6 @@
 			"pubDate":"Tue, 18 Aug 2026 16:46:00 +0900"
 		},
 		{
-			"title":"인천공항 T1~영종해안남로 직결 사업···2029년 개통 전망",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=322437",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=322437",
-			"description":"아울러 올해 1월 <b>청라<\/b>하늘대교 개통으로 영종해안남로를 이용해 인천공항으로 가려는 차량이 늘어날 것으로 예상되는 만큼, 직결로 적기 개통에 관심이 모인다. 인천공항공사 관계자는 &quot;실시설계 계약 기간은 올해... ",
-			"pubDate":"Tue, 18 Aug 2026 16:42:00 +0900"
-		},
-		{
 			"title":"인천 <b>청라<\/b>하늘대교 전망대 19일부터 운영 재개",
 			"originallink":"https:\/\/www.newspim.com\/news\/view\/20260818001160",
 			"link":"https:\/\/www.newspim.com\/news\/view\/20260818001160",
@@ -47,11 +54,11 @@
 			"pubDate":"Tue, 18 Aug 2026 16:42:00 +0900"
 		},
 		{
-			"title":"[OBS 뉴스 오늘1] 여 새 지도부 선출…인천정가 영향은",
-			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1534373",
-			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1534373",
-			"description":"주민들, '대장홍대선 <b>청라<\/b> 연장' 촉구 2024년 이 대통령, 작전서운역 신설 약속 장기간 진척 없는 '대장홍대선 <b>청라<\/b> 연장' 분통 제5차 국가철도망 구축계획 발표, 올 하반기로 &quot;또 물 건너가나&quot;…주민들 불안감 고조 [질문9]... ",
-			"pubDate":"Tue, 18 Aug 2026 16:36:00 +0900"
+			"title":"인천공항 T1~영종해안남로 직결 사업···2029년 개통 전망",
+			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=322437",
+			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=322437",
+			"description":"아울러 올해 1월 <b>청라<\/b>하늘대교 개통으로 영종해안남로를 이용해 인천공항으로 가려는 차량이 늘어날 것으로 예상되는 만큼, 직결로 적기 개통에 관심이 모인다. 인천공항공사 관계자는 &quot;실시설계 계약 기간은 올해... ",
+			"pubDate":"Tue, 18 Aug 2026 16:42:00 +0900"
 		},
 		{
 			"title":"충남 보령시, 100세 참전유공자 생일 맞아 감사와 존경의 마음 전달",
@@ -61,17 +68,24 @@
 			"pubDate":"Tue, 18 Aug 2026 16:36:00 +0900"
 		},
 		{
-			"title":"신설 서해구 미래를 달린다…'2026 인천로봇랜드 퓨처런' 개최",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031927",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031927",
-			"description":"'함께 달리는 미래'를 주제로 열리는 이번 대회는 신설 서해구의 미래 비전과 로봇랜드·<b>청라<\/b>국제도시를... 기호일보는 퓨처런을 로봇랜드와 <b>청라<\/b>국제도시의 미래지향적 이미지를 상징하는 서해구 대표 스포츠... ",
-			"pubDate":"Tue, 18 Aug 2026 16:20:00 +0900"
+			"title":"[OBS 뉴스 오늘1] 여 새 지도부 선출…인천정가 영향은",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1534373",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1534373",
+			"description":"주민들, '대장홍대선 <b>청라<\/b> 연장' 촉구 2024년 이 대통령, 작전서운역 신설 약속 장기간 진척 없는 '대장홍대선 <b>청라<\/b> 연장' 분통 제5차 국가철도망 구축계획 발표, 올 하반기로 &quot;또 물 건너가나&quot;…주민들 불안감 고조 [질문9]... ",
+			"pubDate":"Tue, 18 Aug 2026 16:36:00 +0900"
 		},
 		{
 			"title":"104명 추락 인천대교 '안전난간' 아직도 못 세웠다",
 			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=244961",
 			"link":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=244961",
 			"description":"지난 1월 문을 연 <b>청라<\/b>하늘대교는 사장교 1.72㎞ 구간에 높이 2.5m 추락방지난간을 갖췄다. 현재까지 이 교량에서 확인된 해상 추락자는 없다. 인천대교는 해수면에서 주탑 인근 도로까지 높이가 74m에 달한다. 사고가... ",
+			"pubDate":"Tue, 18 Aug 2026 16:20:00 +0900"
+		},
+		{
+			"title":"신설 서해구 미래를 달린다…'2026 인천로봇랜드 퓨처런' 개최",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031927",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031927",
+			"description":"'함께 달리는 미래'를 주제로 열리는 이번 대회는 신설 서해구의 미래 비전과 로봇랜드·<b>청라<\/b>국제도시를... 기호일보는 퓨처런을 로봇랜드와 <b>청라<\/b>국제도시의 미래지향적 이미지를 상징하는 서해구 대표 스포츠... ",
 			"pubDate":"Tue, 18 Aug 2026 16:20:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016256371?sid=102",
 			"description":"인천 <b>청라<\/b>하늘대교의 전망대가 엘리베이터(승강기) 고장으로 일주일간 운영을 멈췄다가 재개한다. 18일 인천경제자유구역청에 따르면 지난 11일 오후 3시 51분께 <b>청라<\/b>하늘대교 주탑 전망대 엘리베이터가 고장으로... ",
 			"pubDate":"Tue, 18 Aug 2026 13:57:00 +0900"
-		},
-		{
-			"title":"'안전난간' 망설이다...'자살대교 오명' 짙어지는 인천대교",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=120095",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=120095",
-			"description":"■ 해상교량 안전난간 설치 증가 추세, &quot;늦어지면 알고도 못 막는 꼴&quot; 인천에서 올해 개통한 <b>청라<\/b>하늘대교와 신도평화대교 등 인도교는 설계 단계부터 안전난간 설치가 반영되고 있지만, 자동차전용 해상교량은... ",
-			"pubDate":"Tue, 18 Aug 2026 13:48:00 +0900"
-		},
-		{
-			"title":"보령시, 100세 참전유공자 생일 맞아 감사와 존경의 마음 전달",
-			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2434629",
-			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2434629",
-			"description":"충남 보령시는 지난 14일 <b>청라<\/b>면에 거주하는 100세 참전유공자 전태수 어르신의 자택을 방문해 장수기원 위문을 실시했다. 이번 위문은 국가를 위해 헌신하고 희생한 고령 국가유공자에게 감사와 존경의 마음을 전하고... ",
-			"pubDate":"Tue, 18 Aug 2026 13:20:00 +0900"
 		}
 	]
 }
