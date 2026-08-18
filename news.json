@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 19 Aug 2026 04:30:00 +0900",
-	"total":305680,
+	"lastBuildDate":"Wed, 19 Aug 2026 04:40:01 +0900",
+	"total":305681,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"이종철 vs 김종철, 인천경제청장 내달 결판",
+			"originallink":"https:\/\/www.donga.com\/news\/Society\/article\/all\/20260818\/134498703\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003741747?sid=102",
+			"description":"앞서 송도와 <b>청라<\/b>, 영종국제도시를 포함해 인천지역 13개 주민단체로 구성된 인천시총연합회는 성명서를 내고 “인천시는 경제자유구역의 오랜 침체와 난맥상을 풀고 개발 속도전을 이끌 적임자를 선임하라”며... ",
+			"pubDate":"Wed, 19 Aug 2026 04:34:00 +0900"
+		},
 		{
 			"title":"날씨 &quot;무더위 언제쯤 끝나나&quot; 전국 33도 폭염, 대전·광주 '가마솥' 비상",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3667772",
@@ -131,17 +138,17 @@
 			"pubDate":"Tue, 18 Aug 2026 16:36:00 +0900"
 		},
 		{
-			"title":"신설 서해구 미래를 달린다…'2026 인천로봇랜드 퓨처런' 개최",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031927",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031927",
-			"description":"'함께 달리는 미래'를 주제로 열리는 이번 대회는 신설 서해구의 미래 비전과 로봇랜드·<b>청라<\/b>국제도시를... 기호일보는 퓨처런을 로봇랜드와 <b>청라<\/b>국제도시의 미래지향적 이미지를 상징하는 서해구 대표 스포츠... ",
-			"pubDate":"Tue, 18 Aug 2026 16:20:00 +0900"
-		},
-		{
 			"title":"104명 추락 인천대교 '안전난간' 아직도 못 세웠다",
 			"originallink":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=244961",
 			"link":"https:\/\/www.safetimes.co.kr\/news\/articleView.html?idxno=244961",
 			"description":"지난 1월 문을 연 <b>청라<\/b>하늘대교는 사장교 1.72㎞ 구간에 높이 2.5m 추락방지난간을 갖췄다. 현재까지 이 교량에서 확인된 해상 추락자는 없다. 인천대교는 해수면에서 주탑 인근 도로까지 높이가 74m에 달한다. 사고가... ",
+			"pubDate":"Tue, 18 Aug 2026 16:20:00 +0900"
+		},
+		{
+			"title":"신설 서해구 미래를 달린다…'2026 인천로봇랜드 퓨처런' 개최",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031927",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3031927",
+			"description":"'함께 달리는 미래'를 주제로 열리는 이번 대회는 신설 서해구의 미래 비전과 로봇랜드·<b>청라<\/b>국제도시를... 기호일보는 퓨처런을 로봇랜드와 <b>청라<\/b>국제도시의 미래지향적 이미지를 상징하는 서해구 대표 스포츠... ",
 			"pubDate":"Tue, 18 Aug 2026 16:20:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=704469",
 			"description":"정부의 관광개발계획에서도 인천의 관광자원을 원도심과 송도·<b>청라<\/b>·영종 등 신도심, 강화 역사문화지역... 개항장과 차이나타운, 자유공원 등 근대역사문화자원이 있는 원도심과 송도·<b>청라<\/b>·영종 등 국제도시형... ",
 			"pubDate":"Tue, 18 Aug 2026 14:52:00 +0900"
-		},
-		{
-			"title":"SK에코플랜트, 반도체 웃고 본업 적자…PF·지산 충당금 직격탄",
-			"originallink":"https:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4430573",
-			"link":"https:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4430573",
-			"description":"아울러 이미 준공된 <b>청라<\/b>, 가산, 당산 등 주요 지식산업센터 현장에서도 2천290억원 규모의 PF 보증 채무가 묶여 있는 등 지식산업센터 전반의 미분양 부담이 회사의 잠재 리스크로 작용하고 있다. 한가지 다행인 것은... ",
-			"pubDate":"Tue, 18 Aug 2026 14:50:00 +0900"
 		}
 	]
 }
