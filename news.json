@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 19 Aug 2026 20:40:01 +0900",
-	"total":305818,
+	"lastBuildDate":"Wed, 19 Aug 2026 20:50:01 +0900",
+	"total":305822,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 <b>청라<\/b> 물류센터 화재…쿠팡 등 입주사 직원 대피",
+			"originallink":"https:\/\/www.kukinews.com\/article\/view\/kuk202608190235",
+			"link":"https:\/\/www.kukinews.com\/article\/view\/kuk202608190235",
+			"description":"19일 오후 인천 <b>청라<\/b> 한 물류센터에서 화재가 발생해 쿠팡을 비롯한 입주사 직원 등 950명이 대피했다. 인명 피해는 발생하지 않았다. 소방 당국에 따르면 이날 오후 5시28분께 인천시 서해구 원창동 <b>청라<\/b> 로지스틱스센터... ",
+			"pubDate":"Wed, 19 Aug 2026 20:46:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b> 물류센터 건물서 화재…950명 대피",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1680019\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0003123208?sid=102",
+			"description":"인천 <b>청라<\/b>의 로지스틱스 센터 건물에서 불이 나 해당 입주사 직원 등 950여 명이 긴급 대피했다. 19일 소방 당국 등에 따르면 이날 오후 5시 28분께 인천시 서해구 원창동의 로지스틱스센터 지하 1층서 불이 났다. 다행히... ",
+			"pubDate":"Wed, 19 Aug 2026 20:33:00 +0900"
+		},
 		{
 			"title":"포항 문화관광해설사 35명 대구 현장교육…관광해설 역량 강화",
 			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=712915",
@@ -19,6 +33,20 @@
 			"pubDate":"Wed, 19 Aug 2026 20:30:00 +0900"
 		},
 		{
+			"title":"인천 원창동 물류센터 건물서 불…950명 대피",
+			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/news\/AKR20260819201058WdY",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/422\/0000897365?sid=102",
+			"description":"이에 쿠팡 측은 &quot;연기가 발생한 곳은 쿠팡 물류센터가 아니라, 인천 <b>청라<\/b> 로지스틱스센터 지하 1층이었으며 쿠팡은 해당 물류센터에 입주한 6개 기업 중 하나&quot;라고 밝혔습니다. 그러면서 &quot;연기가 발생한 지하1층은 쿠팡이... ",
+			"pubDate":"Wed, 19 Aug 2026 20:11:00 +0900"
+		},
+		{
+			"title":"쿠팡 입주 인천 물류센터서 화재…3000여명 대피",
+			"originallink":"https:\/\/biz.chosun.com\/topics\/topics_social\/2026\/08\/19\/U3UIU2HM5FHOHKR2WNFLHMP53U\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0001187178?sid=102",
+			"description":"19일 소방 당국에 따르면 이날 오후 5시 28분쯤 인천시 서구 원창동의 지상 10층 규모 인천 <b>청라<\/b> 로지스틱스센터에서 불이 났다는 신고가 접수됐다. 화재가 발생하자 건물 안에 있던 2050여명이 스스로 대피했고, 나머지... ",
+			"pubDate":"Wed, 19 Aug 2026 20:02:00 +0900"
+		},
+		{
 			"title":"‘파손 책임규명은 소상공인 몫’… 값비싼 대가 따르는 천원택배",
 			"originallink":"https:\/\/www.kyeongin.com\/article\/1769280",
 			"link":"https:\/\/www.kyeongin.com\/article\/1769280",
@@ -26,7 +54,7 @@
 			"pubDate":"Wed, 19 Aug 2026 20:02:00 +0900"
 		},
 		{
-			"title":"‘110시간 화재’ 인근 쿠팡물류센터서 또 불…자체 진화",
+			"title":"‘110시간 화재’ 인근 쿠팡 입주 물류센터서 불…자체 진화",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/society\/2026\/08\/19\/20260819500238?wlog_tag3=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003671745?sid=102",
 			"description":"19일 인천소방본부에 따르면 이날 오후 5시 28분 서해구 원창동 <b>청라<\/b>로지스틱스 건물에서 불이 났다는 신고가 119로 접수됐다. 소방 당국이 현장에 도착했을 당시 불은 자체 진화돼 연기만 나던 상태였다. 이 불로 인명... ",
@@ -89,17 +117,17 @@
 			"pubDate":"Wed, 19 Aug 2026 18:34:00 +0900"
 		},
 		{
-			"title":"인천시, <b>청라<\/b>호수도서관서 SF 인문학 강좌... 과학·철학으로 미래사회...",
-			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202608191047591497d94aa4ada6_12",
-			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202608191047591497d94aa4ada6_12",
-			"description":"과학소설을 매개로 기술 변화와 인간의 가치, 미래사회의 모습을 함께 살펴보는 인문학 프로그램이 인천 <b>청라<\/b>호수도서관에서 진행된다. 인천시 인천도서관 분관 <b>청라<\/b>호수도서관은 SF 평론가와 과학자, 철학자, 작가... ",
-			"pubDate":"Wed, 19 Aug 2026 18:32:00 +0900"
-		},
-		{
 			"title":"인천 물류센터 또 화재?…근무자 100여명 대피 소동",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1329952",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1329952",
 			"description":"19일 오후 5시28분 인천 서해구 원창동 391의 9에 위치한 <b>청라<\/b>로지스틱스센터 건물에서 불이 났다는 신고가 접수되면서 근무 중이던 이들이 센터 밖으로 긴급 대피했다. \/사진제공=독자 인천 서해구 <b>청라<\/b>로지스틱스... ",
+			"pubDate":"Wed, 19 Aug 2026 18:32:00 +0900"
+		},
+		{
+			"title":"인천시, <b>청라<\/b>호수도서관서 SF 인문학 강좌... 과학·철학으로 미래사회...",
+			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=202608191047591497d94aa4ada6_12",
+			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=202608191047591497d94aa4ada6_12",
+			"description":"과학소설을 매개로 기술 변화와 인간의 가치, 미래사회의 모습을 함께 살펴보는 인문학 프로그램이 인천 <b>청라<\/b>호수도서관에서 진행된다. 인천시 인천도서관 분관 <b>청라<\/b>호수도서관은 SF 평론가와 과학자, 철학자, 작가... ",
 			"pubDate":"Wed, 19 Aug 2026 18:32:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/article\/20260819501336",
 			"description":"공사 중단으로 장기화 우려를 낳았던 인천 서해구 <b>청라<\/b>생활문화센터가 우여곡절 끝에 준공됐다. 서해구는... 서해구는 19일 총사업비 122억 원을 투입해 지하 1층, 지상 4층, 연면적 2748㎡규모로 조성한 <b>청라<\/b>생활문화센터... ",
 			"pubDate":"Wed, 19 Aug 2026 16:54:00 +0900"
-		},
-		{
-			"title":"보령시, 주민자치회 전환 완료…14개 읍·면·동 제1기 출범",
-			"originallink":"https:\/\/www.newstnt.com\/news\/articleView.html?idxno=714463",
-			"link":"https:\/\/www.newstnt.com\/news\/articleView.html?idxno=714463",
-			"description":"이번 전환 대상은 웅천읍, 주포면, 주교면, 오천면, 천북면, 청소면, <b>청라<\/b>면, 남포면, 주산면, 미산면, 성주면과 대천1동, 대천2동, 대천5동이다. 이들 지역에서 위촉된 주민자치회 위원은 총 448명이다. 남성 231명, 여성... ",
-			"pubDate":"Wed, 19 Aug 2026 16:44:00 +0900"
-		},
-		{
-			"title":"서해구, <b>청라<\/b>동 문화·복지·돌봄 공간 122억 투입 완공",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3668703",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3668703",
-			"description":"<b>청라<\/b>생활문화센터 (사진=서해구 제공) 서해구(구청장 구재용)는 <b>청라<\/b>동에 조성한 '<b>청라<\/b>생활문화센터' 건립공사를 마치고 연말 개관을 준비하고 있다고 밝혔다. <b>청라<\/b>생활문화센터는 총사업비 122억원을 투입해 지하... ",
-			"pubDate":"Wed, 19 Aug 2026 16:42:00 +0900"
-		},
-		{
-			"title":"보령시, 14개 읍·면·동 주민자치위원회를 주민자치회 일괄 전환",
-			"originallink":"http:\/\/www.gocj.net\/news\/articleView.html?idxno=151395",
-			"link":"http:\/\/www.gocj.net\/news\/articleView.html?idxno=151395",
-			"description":"이날 웅천읍, 주포면, 주교면, 오천면, 천북면, 청소면, <b>청라<\/b>면, 남포면, 주산면, 미산면, 성주면, 대천1동, 대천2동, 대천5동 14개 읍·면·동 주민자치회 위원 448명이 위촉됐다. 제1기 위원들은 2년의 임기 동안 지역 현안을... ",
-			"pubDate":"Wed, 19 Aug 2026 16:38:00 +0900"
-		},
-		{
-			"title":"인천경제청, 안전점검 마친 <b>청라<\/b>하늘대교 전망대 19일 운영 재개",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3668693",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3668693",
-			"description":"인천경제자유구역청이 최근 일시 운행 중단됐던 <b>청라<\/b>하늘대교 해상 전망대의 승강기 안전 점검과 시설 보강을 마무리하고 관람객 맞이를 다시 시작한다. <b>청라<\/b>하늘대교 전경. 사진=인천경제자유구역청... ",
-			"pubDate":"Wed, 19 Aug 2026 16:36:00 +0900"
 		}
 	]
 }
