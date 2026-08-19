@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Wed, 19 Aug 2026 11:00:01 +0900",
-	"total":305734,
+	"lastBuildDate":"Wed, 19 Aug 2026 11:10:00 +0900",
+	"total":305736,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"보령시, 14개 읍·면·동 주민자치회 일괄 전환",
+			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2434894",
+			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2434894",
+			"description":"이날 웅천읍, 주포면, 주교면, 오천면, 천북면, 청소면, <b>청라<\/b>면, 남포면, 주산면, 미산면, 성주면, 대천1동, 대천2동, 대천5동 14개 읍·면·동 주민자치회 위원 448명이 위촉됐다. 위원은 남성 231명, 여성 217명으로... ",
+			"pubDate":"Wed, 19 Aug 2026 11:02:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>하늘대교 전망대 승강기 운영 재개",
+			"originallink":"https:\/\/www.sidae.com\/article\/2026081910564151868",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0001155751?sid=102",
+			"description":"인천경제자유구역청은 승강기 고장으로 운영을 중단했던 <b>청라<\/b>하늘대교 전망대 'THE SKY184'가 19일부터... <b>청라<\/b>하늘대교 전망대는 지난 5월7일 개장한 이후 1만5000명의 유료 관광객이 방문했다. 184ｍ 높이의 해상교량... ",
+			"pubDate":"Wed, 19 Aug 2026 11:02:00 +0900"
+		},
 		{
 			"title":"인천 중구 아파트 거래 36% 증가… 영종국제도시 미분양 줄어",
 			"originallink":"https:\/\/www.apnews.kr\/news\/articleView.html?idxno=3050532",
@@ -26,13 +40,6 @@
 			"pubDate":"Wed, 19 Aug 2026 10:48:00 +0900"
 		},
 		{
-			"title":"신세계프라퍼티, '스타필드 플레이' 마무리…올해 아동 1550명 참여",
-			"originallink":"https:\/\/www.webeconomy.co.kr\/news\/articleView.html?idxno=2270228",
-			"link":"https:\/\/www.webeconomy.co.kr\/news\/articleView.html?idxno=2270228",
-			"description":"특히 인천 서해구 지역아동센터 11곳의 아동도 초청해 스타필드 <b>청라<\/b> 개장 전 주요 콘텐츠를 체험할 수 있도록 했다. 참여 아동들은 실내 스포츠 시설과 키즈 테마파크에서 체육 활동을 즐기고 만들기 체험과 식사, 영화... ",
-			"pubDate":"Wed, 19 Aug 2026 10:46:00 +0900"
-		},
-		{
 			"title":"[입찰정보] 8월 19일자",
 			"originallink":"https:\/\/www.todayenergy.kr\/news\/articleView.html?idxno=301666",
 			"link":"https:\/\/www.todayenergy.kr\/news\/articleView.html?idxno=301666",
@@ -40,17 +47,24 @@
 			"pubDate":"Wed, 19 Aug 2026 10:46:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b>하늘대교 전망대 19일 운영 재개…인천경제청, 승강기 안전점검 완...",
-			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=704613",
-			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=704613",
-			"description":"인천의 새로운 관광명소로 떠오른 <b>청라<\/b>하늘대교 전망대가 승강기 안전점검을 마치고 다시 관광객을 맞는다.... 인천경제자유구역청은 <b>청라<\/b>하늘대교 관광시설 'THE SKY184'의 승강기를 비롯한 주요 시설물에 대한 긴급... ",
-			"pubDate":"Wed, 19 Aug 2026 10:42:00 +0900"
+			"title":"신세계프라퍼티, '스타필드 플레이' 마무리…올해 아동 1550명 참여",
+			"originallink":"https:\/\/www.webeconomy.co.kr\/news\/articleView.html?idxno=2270228",
+			"link":"https:\/\/www.webeconomy.co.kr\/news\/articleView.html?idxno=2270228",
+			"description":"특히 인천 서해구 지역아동센터 11곳의 아동도 초청해 스타필드 <b>청라<\/b> 개장 전 주요 콘텐츠를 체험할 수 있도록 했다. 참여 아동들은 실내 스포츠 시설과 키즈 테마파크에서 체육 활동을 즐기고 만들기 체험과 식사, 영화... ",
+			"pubDate":"Wed, 19 Aug 2026 10:46:00 +0900"
 		},
 		{
 			"title":"스타필드에 모인 아이 1550명...9년째 이어진 신세계프라퍼티의 '여름'",
 			"originallink":"https:\/\/www.insight.co.kr\/news\/568856",
 			"link":"https:\/\/www.insight.co.kr\/news\/568856",
 			"description":"2018년 시작해 올해 9년째를 맞았다.올해는 스타필드 <b>청라<\/b> 오픈을 앞두고 기존 프로그램 운영 지역에 더해 인천 서해구 지역아동센터 11곳의 아동도 초청했다. 개장을 앞둔 스타필드의 콘텐츠를 지역 아동들이 먼저... ",
+			"pubDate":"Wed, 19 Aug 2026 10:42:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>하늘대교 전망대 19일 운영 재개…인천경제청, 승강기 안전점검 완...",
+			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=704613",
+			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=704613",
+			"description":"인천의 새로운 관광명소로 떠오른 <b>청라<\/b>하늘대교 전망대가 승강기 안전점검을 마치고 다시 관광객을 맞는다.... 인천경제자유구역청은 <b>청라<\/b>하늘대교 관광시설 'THE SKY184'의 승강기를 비롯한 주요 시설물에 대한 긴급... ",
 			"pubDate":"Wed, 19 Aug 2026 10:42:00 +0900"
 		},
 		{
@@ -61,10 +75,10 @@
 			"pubDate":"Wed, 19 Aug 2026 10:39:00 +0900"
 		},
 		{
-			"title":"8개월 '청장 공백' 인천경제청이 키운 '100m 고공 공포'",
-			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=235816",
-			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=235816",
-			"description":"승강기 고장으로 해발 100m 높이의 허공에 멈춰 섰던 인천 <b>청라<\/b>하늘대교 주탑 전망대 엘리베이터가... <b>청라<\/b>하늘대교 전망대 승강기는 지난 11일 오후 3시 51분쯤 약 100m 상공에 멈췄다. 당시 승강기에는 탑승객 12명과... ",
+			"title":"보령시, 14개 읍·면·동 주민자치회 전환…위원 448명 위촉",
+			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5052609",
+			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5052609",
+			"description":"이번 전환 대상은 웅천읍과 주포·주교·오천·천북·청소·<b>청라<\/b>·남포·주산·미산·성주면, 대천1·2·5동이다. 기존에 전환을 마친 대천3·4동을 포함해 보령지역 모든 읍·면·동이 주민자치회 체제로 운영된다. 새로... ",
 			"pubDate":"Wed, 19 Aug 2026 10:38:00 +0900"
 		},
 		{
@@ -75,13 +89,6 @@
 			"pubDate":"Wed, 19 Aug 2026 10:38:00 +0900"
 		},
 		{
-			"title":"보령시, 14개 읍·면·동 주민자치회 전환…위원 448명 위촉",
-			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5052609",
-			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5052609",
-			"description":"이번 전환 대상은 웅천읍과 주포·주교·오천·천북·청소·<b>청라<\/b>·남포·주산·미산·성주면, 대천1·2·5동이다. 기존에 전환을 마친 대천3·4동을 포함해 보령지역 모든 읍·면·동이 주민자치회 체제로 운영된다. 새로... ",
-			"pubDate":"Wed, 19 Aug 2026 10:38:00 +0900"
-		},
-		{
 			"title":"IFEZ, <b>청라<\/b>하늘대교 승강기 점검 마치고 운영 재개",
 			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5052607",
 			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5052607",
@@ -89,17 +96,24 @@
 			"pubDate":"Wed, 19 Aug 2026 10:38:00 +0900"
 		},
 		{
-			"title":"신세계프라퍼티, 지역 아동들과 함께한 '스타필드 플레이' 성료",
-			"originallink":"https:\/\/www.widedaily.com\/news\/articleView.html?idxno=299610",
-			"link":"https:\/\/www.widedaily.com\/news\/articleView.html?idxno=299610",
-			"description":"이번 활동에는 스타필드 <b>청라<\/b> 오픈을 앞두고 기존 참여 지역 아이들뿐 아니라 인천 서해구 지역 아동센터 11개소의 아동들을 초청해 스타필드의 콘텐츠를 미리 경험하는 기회를 제공했다. 지난해보다 150명 늘어난 총... ",
-			"pubDate":"Wed, 19 Aug 2026 10:34:00 +0900"
+			"title":"8개월 '청장 공백' 인천경제청이 키운 '100m 고공 공포'",
+			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=235816",
+			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=235816",
+			"description":"승강기 고장으로 해발 100m 높이의 허공에 멈춰 섰던 인천 <b>청라<\/b>하늘대교 주탑 전망대 엘리베이터가... <b>청라<\/b>하늘대교 전망대 승강기는 지난 11일 오후 3시 51분쯤 약 100m 상공에 멈췄다. 당시 승강기에는 탑승객 12명과... ",
+			"pubDate":"Wed, 19 Aug 2026 10:38:00 +0900"
 		},
 		{
 			"title":"신세계프라퍼티, 사회공헌 '스타필드 플레이' 한 달간 여정 마쳐",
 			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=210342",
 			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=210342",
 			"description":"이번 스타필드 플레이는 '스타필드 <b>청라<\/b>' 오픈을 앞두고 기존 참여 지역 아동뿐 아니라 인천 서해구 지역 아동센터 11개소 아동들을 초청해 스타필드 콘텐츠를 경험할 기회를 제공했다. ​올해도 임직원들의 자발적... ",
+			"pubDate":"Wed, 19 Aug 2026 10:34:00 +0900"
+		},
+		{
+			"title":"신세계프라퍼티, 지역 아동들과 함께한 '스타필드 플레이' 성료",
+			"originallink":"https:\/\/www.widedaily.com\/news\/articleView.html?idxno=299610",
+			"link":"https:\/\/www.widedaily.com\/news\/articleView.html?idxno=299610",
+			"description":"이번 활동에는 스타필드 <b>청라<\/b> 오픈을 앞두고 기존 참여 지역 아이들뿐 아니라 인천 서해구 지역 아동센터 11개소의 아동들을 초청해 스타필드의 콘텐츠를 미리 경험하는 기회를 제공했다. 지난해보다 150명 늘어난 총... ",
 			"pubDate":"Wed, 19 Aug 2026 10:34:00 +0900"
 		},
 		{
@@ -110,17 +124,17 @@
 			"pubDate":"Wed, 19 Aug 2026 10:32:00 +0900"
 		},
 		{
-			"title":"보령시, 16개 읍·면·동 주민자치회 전환 완료",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20260819100706016",
-			"link":"https:\/\/www.ajunews.com\/view\/20260819100706016",
-			"description":"이번에 전환된 지역은 웅천읍과 주포·주교·오천·천북·청소·<b>청라<\/b>·남포·주산·미산·성주면, 대천1·2·5동이다. 앞서 전환한 대천3·4동을 포함하면 보령지역 주민자치회 전환율은 100%다. 제1기 위원은 남성 231명과... ",
-			"pubDate":"Wed, 19 Aug 2026 10:14:00 +0900"
-		},
-		{
 			"title":"박찬대표 생활밀착 정책…소공인 지원부터 돌봄청년·인문학까지",
 			"originallink":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=30822",
 			"link":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=30822",
 			"description":"시민 문화 분야에서는 <b>청라<\/b>호수도서관이 과학소설(SF)을 통해 인공지능과 미래사회를 들여다보는 인문학 프로그램을 마련한다. <b>청라<\/b>호수도서관은 문화체육관광부 '2026년 길 위의 인문학' 공모사업 선정에 따라 오는 9월... ",
+			"pubDate":"Wed, 19 Aug 2026 10:14:00 +0900"
+		},
+		{
+			"title":"보령시, 16개 읍·면·동 주민자치회 전환 완료",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20260819100706016",
+			"link":"https:\/\/www.ajunews.com\/view\/20260819100706016",
+			"description":"이번에 전환된 지역은 웅천읍과 주포·주교·오천·천북·청소·<b>청라<\/b>·남포·주산·미산·성주면, 대천1·2·5동이다. 앞서 전환한 대천3·4동을 포함하면 보령지역 주민자치회 전환율은 100%다. 제1기 위원은 남성 231명과... ",
 			"pubDate":"Wed, 19 Aug 2026 10:14:00 +0900"
 		},
 		{
@@ -131,17 +145,17 @@
 			"pubDate":"Wed, 19 Aug 2026 10:10:00 +0900"
 		},
 		{
-			"title":"“AI 시대 인간은 무엇으로 남을 것인가”…<b>청라<\/b>호수도서관 SF로 미래를...",
-			"originallink":"https:\/\/www.viva100.com\/article\/20260819500500",
-			"link":"https:\/\/www.viva100.com\/article\/20260819500500",
-			"description":"외계 생명체부터 인공지능·미래 문명까지,<b>청라<\/b>호수도서관이 과학소설(SF)을 무대로 인간과 미래를 정면으로... 인천 <b>청라<\/b>호수도서관은 다음달 2일부터 11월 18일까지 과학소설(SF)을 통해 인간의 본질과 미래 문명을... ",
-			"pubDate":"Wed, 19 Aug 2026 10:08:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>호수도서관, 'SF 인문학 프로젝트' 운영",
 			"originallink":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=315902",
 			"link":"https:\/\/www.pointdaily.co.kr\/news\/articleView.html?idxno=315902",
 			"description":"사진=인천광역시  인천광역시 <b>청라<\/b>호수도서관이 오는 9월 2일부터 11월 18일까지 'SF 인문학 프로젝트... 참가 신청은 <b>청라<\/b>호수도서관 누리집에서 선착순으로 진행되며, 자세한 사항은 도서관 누리집 또는 전화로 확인할... ",
+			"pubDate":"Wed, 19 Aug 2026 10:08:00 +0900"
+		},
+		{
+			"title":"“AI 시대 인간은 무엇으로 남을 것인가”…<b>청라<\/b>호수도서관 SF로 미래를...",
+			"originallink":"https:\/\/www.viva100.com\/article\/20260819500500",
+			"link":"https:\/\/www.viva100.com\/article\/20260819500500",
+			"description":"외계 생명체부터 인공지능·미래 문명까지,<b>청라<\/b>호수도서관이 과학소설(SF)을 무대로 인간과 미래를 정면으로... 인천 <b>청라<\/b>호수도서관은 다음달 2일부터 11월 18일까지 과학소설(SF)을 통해 인간의 본질과 미래 문명을... ",
 			"pubDate":"Wed, 19 Aug 2026 10:08:00 +0900"
 		},
 		{
@@ -166,17 +180,17 @@
 			"pubDate":"Wed, 19 Aug 2026 10:00:00 +0900"
 		},
 		{
-			"title":"‘해상 184m 위 전경 다시 품는다’…인천 <b>청라<\/b>하늘대교 재개장",
-			"originallink":"https:\/\/www.asiatoday.co.kr\/kn\/view.php?key=20260819010006040",
-			"link":"https:\/\/www.asiatoday.co.kr\/kn\/view.php?key=20260819010006040",
-			"description":"아시아투데이 박은영 기자 = 인천 바다 위 184m 높이에서 도시와 바다를 한눈에 조망할 수 있는 인천의 대표 명소 '<b>청라<\/b>하늘대교' 관광시설이 승강기 긴급 점검을 마치고 다시 문을 연다.인천경제자유구역청은 <b>청라<\/b>하늘대... ",
-			"pubDate":"Wed, 19 Aug 2026 09:58:00 +0900"
-		},
-		{
 			"title":"보령시, 14개 읍·면·동 주민자치회 일괄 전환",
 			"originallink":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=904665",
 			"link":"http:\/\/www.chungnamilbo.co.kr\/news\/articleView.html?idxno=904665",
 			"description":"이날 웅천읍, 주포면, 주교면, 오천면, 천북면, 청소면, <b>청라<\/b>면, 남포면, 주산면, 미산면, 성주면, 대천1동, 대천2동, 대천5동 14개 읍·면·동 주민자치회 위원 448명이 위촉됐다. 위원은 남성 231명, 여성 217명으로... ",
+			"pubDate":"Wed, 19 Aug 2026 09:58:00 +0900"
+		},
+		{
+			"title":"‘해상 184m 위 전경 다시 품는다’…인천 <b>청라<\/b>하늘대교 재개장",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/kn\/view.php?key=20260819010006040",
+			"link":"https:\/\/www.asiatoday.co.kr\/kn\/view.php?key=20260819010006040",
+			"description":"아시아투데이 박은영 기자 = 인천 바다 위 184m 높이에서 도시와 바다를 한눈에 조망할 수 있는 인천의 대표 명소 '<b>청라<\/b>하늘대교' 관광시설이 승강기 긴급 점검을 마치고 다시 문을 연다.인천경제자유구역청은 <b>청라<\/b>하늘대... ",
 			"pubDate":"Wed, 19 Aug 2026 09:58:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20260819093502851",
 			"description":"중단했던 <b>청라<\/b>하늘대교 관광시설에 대해 한국승강기안전공단 등과 긴급 합동점검을 마치고 19일부터... 19일 인천경제청에 따르면 지난 11일 일시적인 운행 이상이 발생한 <b>청라<\/b>하늘대교 주탑 전망대 승강기에 대해... ",
 			"pubDate":"Wed, 19 Aug 2026 09:42:00 +0900"
-		},
-		{
-			"title":"보령시, 16개 읍·면·동 모두 주민자치회 체제로",
-			"originallink":"https:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=450863",
-			"link":"https:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=450863",
-			"description":"이번 전환 대상은 웅천읍과 주포·주교·오천·천북·청소·<b>청라<\/b>·남포·주산·미산·성주면, 대천1·2·5동이다. 이에 따라 앞서 전환을 마친 대천3·4동을 포함해 16개 읍·면·동 모두 주민자치회 체제를 갖추게 됐다. 새롭게... ",
-			"pubDate":"Wed, 19 Aug 2026 09:42:00 +0900"
-		},
-		{
-			"title":"승강기 이상에 운영 중단됐던 <b>청라<\/b>하늘대교, 19일 재개",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=322459",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=322459",
-			"description":"인천 <b>청라<\/b>하늘대교가 19일 운영을 재개했다. 인천경제자유구역청은 오작동 원인 파악과 긴급 안전점검을 벌인 뒤 운영을 재개했다고 이날 밝혔다. 지난 11일 폭염에 승강기 오작동, 탑승객 갇혀 <b>청라<\/b>하늘대교 전망대... ",
-			"pubDate":"Wed, 19 Aug 2026 09:34:00 +0900"
 		}
 	]
 }
