@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 24 Aug 2026 21:50:01 +0900",
-	"total":306158,
+	"lastBuildDate":"Mon, 24 Aug 2026 22:00:01 +0900",
+	"total":306159,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구에 활기 불어넣는 지구촌 마스터즈",
+			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=557517",
+			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=557517",
+			"description":"10여개의 관광 프로그램을 마련해 운영하고 있다. 관광 프로그램은 전일 코스와 이브닝 코스, 쇼핑 코스 등으로 구성돼 수성못과 김광석길, 83타워, <b>청라<\/b>언덕, 동화사 등 대구 대표 명소를 둘러볼 수 있도록 기획됐다.",
+			"pubDate":"Mon, 24 Aug 2026 21:54:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>에너지 신임대표에 이상현 서부발전 본부장",
 			"originallink":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=333528",
@@ -180,17 +187,17 @@
 			"pubDate":"Mon, 24 Aug 2026 15:37:00 +0900"
 		},
 		{
-			"title":"인천대교 추락방지시설 본격화...내년 착공 목표",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=477809",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=477809",
-			"description":"<b>청라<\/b>하늘대교와 마포대교 등 다른 교량 사례와 교량점검차 사용 등 유지관리 여건을 종합적으로 고려해 시설 높이를 결정했다. 인천대교㈜가 올해 설계 발주에 나선 뒤 내년부터 본격적인 공사에 들어가는 것을... ",
-			"pubDate":"Mon, 24 Aug 2026 15:24:00 +0900"
-		},
-		{
 			"title":"방한객 2000만 눈앞…글로벌 호텔 몰려오고 토종은 영토 확장",
 			"originallink":"http:\/\/www.fnnews.com\/news\/202608201430469136",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005565570?sid=101",
 			"description":"오는 2030년까지 인천 <b>청라<\/b>와 대전 유성 등 주요 지역에 호텔 5개를 추가할 계획이다. 서울 레스케이프는 고유한 부티크 콘셉트를 유지하면서 메리어트의 '럭셔리 컬렉션'에 합류했다. 메리어트의 글로벌 예약망을... ",
+			"pubDate":"Mon, 24 Aug 2026 15:24:00 +0900"
+		},
+		{
+			"title":"인천대교 추락방지시설 본격화...내년 착공 목표",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=477809",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=477809",
+			"description":"<b>청라<\/b>하늘대교와 마포대교 등 다른 교량 사례와 교량점검차 사용 등 유지관리 여건을 종합적으로 고려해 시설 높이를 결정했다. 인천대교㈜가 올해 설계 발주에 나선 뒤 내년부터 본격적인 공사에 들어가는 것을... ",
 			"pubDate":"Mon, 24 Aug 2026 15:24:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1286584",
 			"description":"고선희 의장, <b>청라<\/b>동 중봉대로 588 일대 학원가를 방문 모습 인천 서해구의회 고선희 의장이 학원 밀집 지역의... 서해구의회는 고선희 의장이 최근 <b>청라<\/b>동 중봉대로 588 일대 학원가를 방문해 학생 하원 시간대 보행 환경과... ",
 			"pubDate":"Mon, 24 Aug 2026 15:06:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>에너지, 제8대 이상현 대표이사 취임",
-			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=371574",
-			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=371574",
-			"description":"이상현 신임 대표가 <b>청라<\/b>에너지 제8대 대표이사로 취임했다. <b>청라<\/b>에너지는 이상현 신임 대표가 24일 인천 본사에서 취임식을 갖고 본격적인 업무에 들어갔다고 밝혔다. 이 대표는 한국외국어대학교 행정학과와 연세대학교... ",
-			"pubDate":"Mon, 24 Aug 2026 14:58:00 +0900"
 		}
 	]
 }
