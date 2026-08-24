@@ -1,11 +1,32 @@
 {
-	"lastBuildDate":"Mon, 24 Aug 2026 20:50:00 +0900",
-	"total":306155,
+	"lastBuildDate":"Mon, 24 Aug 2026 21:00:01 +0900",
+	"total":306158,
 	"start":1,
 	"display":30,
 	"items":[
 		{
-			"title":"뒤늦게야… 인천대교, 안전난간 설치",
+			"title":"<b>청라<\/b>에너지 신임대표에 이상현 서부발전 본부장",
+			"originallink":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=333528",
+			"link":"http:\/\/www.e2news.com\/news\/articleView.html?idxno=333528",
+			"description":"<b>청라<\/b>에너지 신임 대표에 서부발전 본부장 출신의 이상현 사장이 선임됐다. 이 신임사장은 24일 인천 검단본사에서 취임식을 갖고 <b>청라<\/b>에너지를 집단에너지 선도기업으로 만들어 가겠다는 의지를 밝혔다. <b>청라<\/b>에너지는... ",
+			"pubDate":"Mon, 24 Aug 2026 20:52:00 +0900"
+		},
+		{
+			"title":"[연중기획 - 교회돌봄시대, 콘텐츠가 열다!]④ 초등생 눈높이 맞춤 ‘기...",
+			"originallink":"http:\/\/www.cts.tv\/news\/view?ncate=&dpid=341733",
+			"link":"http:\/\/www.cts.tv\/news\/view?ncate=&dpid=341733",
+			"description":"인천 <b>청라<\/b>의 한 교회. 초등학생들이 조별로 앉아 가족을 주제로 토론이 한창입니다. 가족사진을 보며 행복한... [김세희 \/ <b>청라<\/b>21세기교회] 저는 생명에 대한 게 제일 관심이 있었던 것 같아요 수의사에 관심이 많아서 저는... ",
+			"pubDate":"Mon, 24 Aug 2026 20:50:00 +0900"
+		},
+		{
+			"title":"올해만 11명 투신…인천대교에 높이 2.5m 난간 설치된다",
+			"originallink":"https:\/\/www.khan.co.kr\/article\/202608242048005",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003466151?sid=102",
+			"description":"시설 높이 2.5m는 <b>청라<\/b>하늘대교와 마포대교 등 다른 교량 설치 사례와 교량점검용 굴절차 사용 등 유지관리 측면을 종합적으로 고려해 결정됐다.설치비용 80억원은 운영사인 인천대교(주)가 먼저 부담한 후 정부... ",
+			"pubDate":"Mon, 24 Aug 2026 20:48:00 +0900"
+		},
+		{
+			"title":"이제서야… 인천대교 ‘추락 방지’ 안전난간 설치한다",
 			"originallink":"https:\/\/www.kyeongin.com\/article\/1769568",
 			"link":"https:\/\/www.kyeongin.com\/article\/1769568",
 			"description":"인천 지역의 또 다른 해상교량인 인천 <b>청라<\/b>하늘대교의 경우 인도가 있어서 안전난간을 설치할 수 있었다. 인천대교에서 추락 사망사고가 지속하자, 관계부처에서도 근본적인 대책 마련에 나섰다. 국토부와 인천대교... ",
@@ -159,17 +180,17 @@
 			"pubDate":"Mon, 24 Aug 2026 15:37:00 +0900"
 		},
 		{
-			"title":"방한객 2000만 눈앞…글로벌 호텔 몰려오고 토종은 영토 확장",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202608201430469136",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005565570?sid=101",
-			"description":"오는 2030년까지 인천 <b>청라<\/b>와 대전 유성 등 주요 지역에 호텔 5개를 추가할 계획이다. 서울 레스케이프는 고유한 부티크 콘셉트를 유지하면서 메리어트의 '럭셔리 컬렉션'에 합류했다. 메리어트의 글로벌 예약망을... ",
-			"pubDate":"Mon, 24 Aug 2026 15:24:00 +0900"
-		},
-		{
 			"title":"인천대교 추락방지시설 본격화...내년 착공 목표",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=477809",
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=477809",
 			"description":"<b>청라<\/b>하늘대교와 마포대교 등 다른 교량 사례와 교량점검차 사용 등 유지관리 여건을 종합적으로 고려해 시설 높이를 결정했다. 인천대교㈜가 올해 설계 발주에 나선 뒤 내년부터 본격적인 공사에 들어가는 것을... ",
+			"pubDate":"Mon, 24 Aug 2026 15:24:00 +0900"
+		},
+		{
+			"title":"방한객 2000만 눈앞…글로벌 호텔 몰려오고 토종은 영토 확장",
+			"originallink":"http:\/\/www.fnnews.com\/news\/202608201430469136",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005565570?sid=101",
+			"description":"오는 2030년까지 인천 <b>청라<\/b>와 대전 유성 등 주요 지역에 호텔 5개를 추가할 계획이다. 서울 레스케이프는 고유한 부티크 콘셉트를 유지하면서 메리어트의 '럭셔리 컬렉션'에 합류했다. 메리어트의 글로벌 예약망을... ",
 			"pubDate":"Mon, 24 Aug 2026 15:24:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=371574",
 			"description":"이상현 신임 대표가 <b>청라<\/b>에너지 제8대 대표이사로 취임했다. <b>청라<\/b>에너지는 이상현 신임 대표가 24일 인천 본사에서 취임식을 갖고 본격적인 업무에 들어갔다고 밝혔다. 이 대표는 한국외국어대학교 행정학과와 연세대학교... ",
 			"pubDate":"Mon, 24 Aug 2026 14:58:00 +0900"
-		},
-		{
-			"title":"고선희 서해구의장, <b>청라<\/b> 학원가 '드롭존' 조성 제안",
-			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=1405325",
-			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=1405325",
-			"description":"인천 서해구 <b>청라<\/b>동 학원가의 하원 시간대 보행 안전과 차량 혼잡 문제를 두고 서해구의회가 현장 점검에 나섰다. 사진=서해구의회 매일일보 = 이종민 기자  |  인천 서해구의회 고선희 의장은 지난 21일 <b>청라<\/b>동 중봉대로 588... ",
-			"pubDate":"Mon, 24 Aug 2026 14:56:00 +0900"
-		},
-		{
-			"title":"예보 노조 &quot;모든 금융회사 지방 가면 예보도 이전해야&quot;",
-			"originallink":"http:\/\/www.fnnews.com\/news\/202608241036245388",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005565546?sid=101",
-			"description":"하나금융그룹이 인천 <b>청라<\/b>로 이전하고 있고, 대전에 본점이 위치한 신협중앙회의 사례처럼 금융회사의 지방 이전이 이어지고 있다는 질문에 김영현 예금보험공사노동조합 위원장은 &quot;일부 금융 회사가 지방으로... ",
-			"pubDate":"Mon, 24 Aug 2026 14:51:00 +0900"
-		},
-		{
-			"title":"허종식 의원, 4년간 요구한 인천대교 추락방지시설 본격화...80억원 투입",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=649373",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=649373",
-			"description":"<b>청라<\/b>하늘대교와 마포대교 등 다른 교량에 설치된 시설 사례와 교량점검차인 굴절차 운용을 비롯한 유지관리 여건을 함께 검토한 결과다. 시설은 와이어 방식으로 설치될 예정이다. 인천대교㈜가 구체적인 설계 발주와... ",
-			"pubDate":"Mon, 24 Aug 2026 14:46:00 +0900"
 		}
 	]
 }
