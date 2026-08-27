@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 27 Aug 2026 19:20:01 +0900",
-	"total":306406,
+	"lastBuildDate":"Thu, 27 Aug 2026 19:30:00 +0900",
+	"total":306408,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;시민만 바라보는 적극행정&quot; 민선9기 인천 시정 출발",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3032912",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3032912",
+			"description":"시민 불만과 우려가 제기된 인천e음 캐시백과 서울지하철 7호선 <b>청라<\/b>연장선 적기 개통 문제도 재정 여건과 사업 상황을 다시 살펴 가능한 해결책을 적극적으로 찾고 시민과 지속적으로 소통할 것을 지시했다. 대형... ",
+			"pubDate":"Thu, 27 Aug 2026 19:28:00 +0900"
+		},
+		{
+			"title":"KB금융-중진공, '중소기업 산업안전 구축 지원사업' 2차 참여기업 모집...",
+			"originallink":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=31522",
+			"link":"https:\/\/www.rcast.co.kr\/news\/articleView.html?idxno=31522",
+			"description":"서유석 하나은행 기업그룹장은 &quot;하나금융그룹의 새로운 터전이 될 인천 <b>청라<\/b> 이전을 앞두고, 인천 지역 소상공인을 위해 다양한 지역 맞춤형 포용금융을 지속적으로 실천하겠다&quot;며, &quot;하나은행은 인천의 지역경제... ",
+			"pubDate":"Thu, 27 Aug 2026 19:22:00 +0900"
+		},
 		{
 			"title":"하나은행, 인천 소상공인에 5억 원 추가 지원 발표...지역 경제 활성화...",
 			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=876462",
@@ -110,13 +124,6 @@
 			"pubDate":"Thu, 27 Aug 2026 16:26:00 +0900"
 		},
 		{
-			"title":"하나은행, 인천 중·저신용 소상공인 금융지원 확대",
-			"originallink":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=134920",
-			"link":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=134920",
-			"description":"하나은행은 인천 <b>청라<\/b> 이전을 앞두고 지역 소상공인을 대상으로 한 금융지원도 확대하고 있다. 지난... 서유석 하나은행 기업그룹장은 &quot;하나금융그룹의 새로운 터전이 될 인천 <b>청라<\/b> 이전을 앞두고 인천지역 소상공인을... ",
-			"pubDate":"Thu, 27 Aug 2026 16:18:00 +0900"
-		},
-		{
 			"title":"국가철도망 구축계획 11월 발표... GTX-D·E, 대장홍대선 연장 촉각",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=120376",
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=120376",
@@ -124,17 +131,24 @@
 			"pubDate":"Thu, 27 Aug 2026 16:18:00 +0900"
 		},
 		{
-			"title":"[금융권 풍향계] 신용보증기금-KB국민은행, ‘산업단지 입주 기업 경쟁...",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20260827022077330",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20260827022077330",
-			"description":"서유석 하나은행 기업그룹장은 “하나금융그룹의 새로운 터전이 될 인천 <b>청라<\/b> 이전을 앞두고, 인천 지역 소상공인을 위해 다양한 지역 맞춤형 포용금융을 지속적으로 실천하겠다&quot;고 밝혔다. 한편, 하나은행은 지난... ",
-			"pubDate":"Thu, 27 Aug 2026 16:14:00 +0900"
+			"title":"하나은행, 인천 중·저신용 소상공인 금융지원 확대",
+			"originallink":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=134920",
+			"link":"http:\/\/www.newslock.co.kr\/news\/articleView.html?idxno=134920",
+			"description":"하나은행은 인천 <b>청라<\/b> 이전을 앞두고 지역 소상공인을 대상으로 한 금융지원도 확대하고 있다. 지난... 서유석 하나은행 기업그룹장은 &quot;하나금융그룹의 새로운 터전이 될 인천 <b>청라<\/b> 이전을 앞두고 인천지역 소상공인을... ",
+			"pubDate":"Thu, 27 Aug 2026 16:18:00 +0900"
 		},
 		{
 			"title":"영종~<b>청라<\/b> 잇는 제1호 공항경제권 지정 위한 인천시 전략 수립 사전 연...",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=439752",
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=439752",
 			"description":"인천공항경제권은 인천공항의 여객 및 화물 운송 기능을 넘어 공항 인프라와 주변 영종, <b>청라<\/b>국제도시 등을 연결해 첨단산업·MRO·물류·K관광문화 등 다양한 경제활동을 집적시킨 융합형 산업생태계를 의미한다. 관련... ",
+			"pubDate":"Thu, 27 Aug 2026 16:14:00 +0900"
+		},
+		{
+			"title":"[금융권 풍향계] 신용보증기금-KB국민은행, ‘산업단지 입주 기업 경쟁...",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20260827022077330",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20260827022077330",
+			"description":"서유석 하나은행 기업그룹장은 “하나금융그룹의 새로운 터전이 될 인천 <b>청라<\/b> 이전을 앞두고, 인천 지역 소상공인을 위해 다양한 지역 맞춤형 포용금융을 지속적으로 실천하겠다&quot;고 밝혔다. 한편, 하나은행은 지난... ",
 			"pubDate":"Thu, 27 Aug 2026 16:14:00 +0900"
 		},
 		{
@@ -180,17 +194,17 @@
 			"pubDate":"Thu, 27 Aug 2026 15:30:00 +0900"
 		},
 		{
-			"title":"[금융家 브리핑] 포용금융, 생산적 금융으로···지원 정책 넓혀가는 금...",
-			"originallink":"https:\/\/www.smartbizn.com\/news\/articleView.html?idxno=152306",
-			"link":"https:\/\/www.smartbizn.com\/news\/articleView.html?idxno=152306",
-			"description":"하나은행 관계자는 &quot;<b>청라<\/b> 이전을 앞두고, 지역 소상공인을 위해 다양한 포용금융을 지속 실천하겠다&quot;며 &quot;인천 지역경제 성장에 실질적 도움을 주는 인천 지역 대표 금융기관으로 나아가겠다&quot;고 말했다. KB국민은행... ",
-			"pubDate":"Thu, 27 Aug 2026 15:26:00 +0900"
-		},
-		{
 			"title":"박찬대 인천시장, 예산 편성 과정 대수술…부서별 한도·조정 형태 개선",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260827580276",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000120862?sid=102",
 			"description":"또 “인천e음 캐시백 중단과 서울지하철 7호선 <b>청라<\/b> 연장 적기 개통과 관련해 시민들의 불만과 우려가 있는 만큼, 시 재정 여건을 면밀히 다시 살펴보고 가능한 해결 방안을 적극적으로 찾아 나가야 한다”며 “무엇보다... ",
+			"pubDate":"Thu, 27 Aug 2026 15:26:00 +0900"
+		},
+		{
+			"title":"[금융家 브리핑] 포용금융, 생산적 금융으로···지원 정책 넓혀가는 금...",
+			"originallink":"https:\/\/www.smartbizn.com\/news\/articleView.html?idxno=152306",
+			"link":"https:\/\/www.smartbizn.com\/news\/articleView.html?idxno=152306",
+			"description":"하나은행 관계자는 &quot;<b>청라<\/b> 이전을 앞두고, 지역 소상공인을 위해 다양한 포용금융을 지속 실천하겠다&quot;며 &quot;인천 지역경제 성장에 실질적 도움을 주는 인천 지역 대표 금융기관으로 나아가겠다&quot;고 말했다. KB국민은행... ",
 			"pubDate":"Thu, 27 Aug 2026 15:26:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20260827027357066",
 			"description":"하나금융지주가 다음달부터 주요 계열사의 인천 <b>청라<\/b>국제도시 이전을 본격화하며 14년간 추진해온 '<b>청라<\/b> 시대'를 연다. 그룹 본사의 서울 이전을 넘어 은행·증권 등 주요 계열사의 역량을 한데 모아 인천을 새로운... ",
 			"pubDate":"Thu, 27 Aug 2026 15:20:00 +0900"
-		},
-		{
-			"title":"하나은행, 인천신보에 5억원 추가 출연…소상공인 협약보증 915억원으로...",
-			"originallink":"https:\/\/www.todayeconomic.com\/news\/article.html?no=31891",
-			"link":"https:\/\/www.todayeconomic.com\/news\/article.html?no=31891",
-			"description":"하나금융은 인천 <b>청라<\/b>국제도시로 그룹 본사 이전을 추진하고 있으며 지역 소상공인과 중소기업을 대상으로... 서유석 하나은행 기업그룹장은 &quot;인천 <b>청라<\/b>로 하나금융 본사 이전을 앞두고 인천 지역 소상공인을 위해 다양한... ",
-			"pubDate":"Thu, 27 Aug 2026 15:14:00 +0900"
-		},
-		{
-			"title":"인천시, 실·국별 예산 자율편성...'한도제' 시범 도입",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=478079",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=478079",
-			"description":"서울7호선 <b>청라<\/b>국제도시 연장 정상화, 인천e음 지속가능 운영 방안 등 19개 현안도 보고됐다. 박 시장은 &quot;인천e음 캐시백 중단과 인천 7호선 적기 개통과 관련해 시민들의 불만과 우려가 있는 만큼 시 재정 여건을 면밀히... ",
-			"pubDate":"Thu, 27 Aug 2026 15:12:00 +0900"
 		}
 	]
 }
