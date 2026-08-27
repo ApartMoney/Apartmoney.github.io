@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 27 Aug 2026 18:50:01 +0900",
-	"total":306405,
+	"lastBuildDate":"Thu, 27 Aug 2026 19:00:01 +0900",
+	"total":306406,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나은행, 인천 소상공인에 5억 원 추가 지원 발표...지역 경제 활성화...",
+			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=876462",
+			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=876462",
+			"description":"하나은행의 서유석 기업그룹장은 본사의 인천 <b>청라<\/b> 이전을 앞두고 있으며, 인천 기반의 소상공인을 돕기 위한 다양한 맞춤형 금융 지원을 계속 모색할 것이라고 강조했다. 이번 출연은 지역 경제에 실질적인 도움을 주고... ",
+			"pubDate":"Thu, 27 Aug 2026 18:56:00 +0900"
+		},
 		{
 			"title":"하나은행, 인천 중·저신용 소상공인 지원 확대... 보증공급 915억원",
 			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=207058",
@@ -68,17 +75,17 @@
 			"pubDate":"Thu, 27 Aug 2026 16:41:00 +0900"
 		},
 		{
-			"title":"김교흥, GTX-D Y·E 국가철도망 반영·인천대 의전원 설립 촉구",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3032888",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3032888",
-			"description":"27일 김 의원에 따르면 전날 국회 예결특위 경제부처 질의에서 &quot;인천·경기 서북부 주민들은 서울 출퇴근에 2시간 이상을 쓰고 있지만 철도 인프라는 크게 부족하다&quot;며 GTX-D Y·E 노선과 대장홍대선 <b>청라<\/b> 연장사업을 제5차... ",
-			"pubDate":"Thu, 27 Aug 2026 16:36:00 +0900"
-		},
-		{
 			"title":"하나은행, 인천 중·저신용 소상공인 지원에 5억원 추가 출연",
 			"originallink":"https:\/\/www.factin.co.kr\/news\/articleView.html?idxno=6916",
 			"link":"https:\/\/www.factin.co.kr\/news\/articleView.html?idxno=6916",
 			"description":"서유석 하나은행 기업그룹장은 &quot;하나금융그룹의 새로운 터전이 될 인천 <b>청라<\/b> 이전을 앞두고 인천지역 소상공인을 위한 맞춤형 포용금융을 지속해서 실천하겠다&quot;며 &quot;인천 경제의 성장에 실질적인 도움을 주는 지역 대표... ",
+			"pubDate":"Thu, 27 Aug 2026 16:36:00 +0900"
+		},
+		{
+			"title":"김교흥, GTX-D Y·E 국가철도망 반영·인천대 의전원 설립 촉구",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3032888",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3032888",
+			"description":"27일 김 의원에 따르면 전날 국회 예결특위 경제부처 질의에서 &quot;인천·경기 서북부 주민들은 서울 출퇴근에 2시간 이상을 쓰고 있지만 철도 인프라는 크게 부족하다&quot;며 GTX-D Y·E 노선과 대장홍대선 <b>청라<\/b> 연장사업을 제5차... ",
 			"pubDate":"Thu, 27 Aug 2026 16:36:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=478079",
 			"description":"서울7호선 <b>청라<\/b>국제도시 연장 정상화, 인천e음 지속가능 운영 방안 등 19개 현안도 보고됐다. 박 시장은 &quot;인천e음 캐시백 중단과 인천 7호선 적기 개통과 관련해 시민들의 불만과 우려가 있는 만큼 시 재정 여건을 면밀히... ",
 			"pubDate":"Thu, 27 Aug 2026 15:12:00 +0900"
-		},
-		{
-			"title":"'하나은행, 5억원 추가 출연…보증 규모 915억으로'",
-			"originallink":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=601537",
-			"link":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=601537",
-			"description":"서유석 하나은행 기업그룹장은 인천 <b>청라<\/b>로 본사 이전을 앞두고 인천 소상공인을 위한 맞춤형 포용금융을 지속 추진할 계획이라고 밝혔다. 또한 인천 지역 대표 금융기관으로서 지역 경제 성장을 적극 지원하겠다는... ",
-			"pubDate":"Thu, 27 Aug 2026 15:08:00 +0900"
 		}
 	]
 }
