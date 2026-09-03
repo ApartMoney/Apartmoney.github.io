@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Thu, 03 Sep 2026 18:00:00 +0900",
-	"total":306954,
+	"lastBuildDate":"Thu, 03 Sep 2026 18:10:01 +0900",
+	"total":306957,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"자본잠식 벗은 신동아건설…채정섭, 수주 회복 과제",
+			"originallink":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202609030107",
+			"link":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202609030107",
+			"description":"개발사업과 건축영업을 거쳐 <b>청라<\/b>시티타워와 솔라시도 등 대형 개발사업 경험을 쌓은 채 신임 대표가 향후 외부영업과 주요 사업 실행을 총괄하며 수주 회복을 이끌 수 있을지가 주목됩니다. 서울경제TV... ",
+			"pubDate":"Thu, 03 Sep 2026 18:02:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> 화재 2년 지났는데… 지하 충전기 현황도 파악 못 한 인천시",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363735724",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363735724",
+			"description":"(기사의 이해를 돕기위해 삽입한 사진) 중부포토DB 인천 서구 <b>청라<\/b>동 아파트 지하 주차장에서 대형 전기차... 이 사업은 2024년 <b>청라<\/b> 아파트 화재를 계기로 기획됐다. 당시 화재는 짙은 연기와 낮은 층고 탓에 완전히... ",
+			"pubDate":"Thu, 03 Sep 2026 17:56:00 +0900"
+		},
+		{
+			"title":"'신한 대 하나'로…인천시금고 최후의 승자는?",
+			"originallink":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1312451&inflow=N",
+			"link":"http:\/\/www.newstomato.com\/ReadNews.aspx?no=1312451&inflow=N",
+			"description":"하나는 이달 인천 <b>청라<\/b>국제도시로 본사를 이전하는 등 지역 협력에서 높은 점수를 기대하고 있습니다. 또 지역의 '유니콘기업' 발굴을 위한 2000억원 규모 유니콘 펀드 조성, 지역기업에 우대금리를 적용하는 1500억원... ",
+			"pubDate":"Thu, 03 Sep 2026 17:54:00 +0900"
+		},
 		{
 			"title":"소나무재선충병 방제 지원 확대 요청",
 			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=925402",
@@ -75,13 +96,6 @@
 			"pubDate":"Thu, 03 Sep 2026 16:00:00 +0900"
 		},
 		{
-			"title":"보령 냉풍욕장, 폭염 뚫고 9만 명 몰렸다",
-			"originallink":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=864125",
-			"link":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=864125",
-			"description":"<b>청라<\/b>면 냉풍욕장 일원에 조성된 냉풍욕장은 폐탄광 갱도에서 발생하는 자연 대류 현상을 활용한 친환경 피서시설이다. 지하 깊숙한 곳에서 올라오는 차가운 공기가 약 200m 길이의 갱도를 따라 흐르면서 한여름 무더위를... ",
-			"pubDate":"Thu, 03 Sep 2026 15:59:00 +0900"
-		},
-		{
 			"title":"농촌 밥상에 건강·정(情)을 차리다… 보령 '찾아가는 건강치유 밥상'",
 			"originallink":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=864142",
 			"link":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=864142",
@@ -89,17 +103,24 @@
 			"pubDate":"Thu, 03 Sep 2026 15:59:00 +0900"
 		},
 		{
-			"title":"기록적 폭염에 북적…보령 냉풍욕장 9만명 방문",
-			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=1097592",
-			"link":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=1097592",
-			"description":"충남 보령시는 올여름 기록적인 폭염이 이어진 가운데 보령 냉풍욕장(<b>청라<\/b>면 냉풍욕장길 190 일원)을 68일간 단 한 건의 사건·사고 없이 안전하게 운영하며 성공적으로 마무리했다고 밝혔다. 보령 냉풍욕장은 지난 6월 25일... ",
-			"pubDate":"Thu, 03 Sep 2026 15:54:00 +0900"
+			"title":"보령 냉풍욕장, 폭염 뚫고 9만 명 몰렸다",
+			"originallink":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=864125",
+			"link":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=864125",
+			"description":"<b>청라<\/b>면 냉풍욕장 일원에 조성된 냉풍욕장은 폐탄광 갱도에서 발생하는 자연 대류 현상을 활용한 친환경 피서시설이다. 지하 깊숙한 곳에서 올라오는 차가운 공기가 약 200m 길이의 갱도를 따라 흐르면서 한여름 무더위를... ",
+			"pubDate":"Thu, 03 Sep 2026 15:59:00 +0900"
 		},
 		{
 			"title":"충남 보령시농업기술센터, 농촌에서 함께 만들고 나누는 '찾아가는 건강...",
 			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=1097594",
 			"link":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=1097594",
 			"description":"충남 보령시농업기술센터는 지난 2일 <b>청라<\/b>면 평강뜰애 농장(대표 김정옥)에서 마을주민과 관련 분야 공무원 등 25명이 참여한 가운데 '찾아가는 건강치유 밥상' 첫 프로그램을 운영했다. '찾아가는 건강치유 밥상'은 지역의... ",
+			"pubDate":"Thu, 03 Sep 2026 15:54:00 +0900"
+		},
+		{
+			"title":"기록적 폭염에 북적…보령 냉풍욕장 9만명 방문",
+			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=1097592",
+			"link":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=1097592",
+			"description":"충남 보령시는 올여름 기록적인 폭염이 이어진 가운데 보령 냉풍욕장(<b>청라<\/b>면 냉풍욕장길 190 일원)을 68일간 단 한 건의 사건·사고 없이 안전하게 운영하며 성공적으로 마무리했다고 밝혔다. 보령 냉풍욕장은 지난 6월 25일... ",
 			"pubDate":"Thu, 03 Sep 2026 15:54:00 +0900"
 		},
 		{
@@ -131,17 +152,17 @@
 			"pubDate":"Thu, 03 Sep 2026 15:26:00 +0900"
 		},
 		{
-			"title":"보령 냉풍욕장, 올여름 9만여 명 발길... 대표 피서명소 '우뚝'",
-			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=925370",
-			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=925370",
-			"description":"▲ 보령시청 제공 충남 보령시는 올여름 기록적인 폭염이 이어진 가운데 보령 냉풍욕장(<b>청라<\/b>면 냉풍욕장길 190 일원)​을 68일간 단 한 건의 사건·사고 없이 안전하게 운영하며 성공적으로 마무리했다. 보령 냉풍욕장은... ",
-			"pubDate":"Thu, 03 Sep 2026 15:24:00 +0900"
-		},
-		{
 			"title":"보령시농업기술센터, 농촌에서 함께 만들고 나누는 '찾아가는 건강치유...",
 			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=925372",
 			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=925372",
 			"description":"▲ 보령시청 제공 충남 보령시농업기술센터는 지난 2일 <b>청라<\/b>면 평강뜰애 농장(대표 김정옥)에서 마을주민과 관련 분야 공무원 등 25명이 참여한 가운데 '찾아가는 건강치유 밥상' 첫 프로그램을 운영했다. '찾아가는... ",
+			"pubDate":"Thu, 03 Sep 2026 15:24:00 +0900"
+		},
+		{
+			"title":"보령 냉풍욕장, 올여름 9만여 명 발길... 대표 피서명소 '우뚝'",
+			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=925370",
+			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=925370",
+			"description":"▲ 보령시청 제공 충남 보령시는 올여름 기록적인 폭염이 이어진 가운데 보령 냉풍욕장(<b>청라<\/b>면 냉풍욕장길 190 일원)​을 68일간 단 한 건의 사건·사고 없이 안전하게 운영하며 성공적으로 마무리했다. 보령 냉풍욕장은... ",
 			"pubDate":"Thu, 03 Sep 2026 15:24:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=327468",
 			"description":"도내 소나무재선충병은 2012년 보령시 <b>청라<\/b>면 일원에서 처음 발생했다. 충남도는 최근 기후변화에 따른 매개충 활동 증가와 소나무 생육여건 악화 등이 겹치면서 피해가 다시 확산되는 양상이라고 설명했다. 현재 피해는... ",
 			"pubDate":"Thu, 03 Sep 2026 14:22:00 +0900"
-		},
-		{
-			"title":"[대구 24시] &quot;TK신공항·도시철도 4호선 장기 표류에 주민들만 피해&quot;",
-			"originallink":"https:\/\/www.sisajournal.com\/news\/articleView.html?idxno=385861",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/586\/0000137390?sid=102",
-			"description":"서문시장·<b>청라<\/b>언덕·동화사·인흥마을 등에서 외국인의 문화관광해설사 해설 요청도 일평균 139건으로 1.5배 늘었다. 이 밖에도 앞산 케이블카 외국인 이용객은 40% 이상, 동성로 스파크랜드는 70% 가까이 늘어난 것으로... ",
-			"pubDate":"Thu, 03 Sep 2026 14:15:00 +0900"
-		},
-		{
-			"title":"인천시, 또 주요 보직에 '인천패싱' 인사··· 비판 나올 듯",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=323142",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=323142",
-			"description":"인천경제청장은 송도·<b>청라<\/b>·영종국제도시 등 인천경제자유구역의 투자유치와 개발계획 전략 수립, 기반시설 조성, 기업 지원 등 핵심 업무를 맡는다. 이에 민선 9기 인천시 핵심 보직에 외부 인사가 잇따라 포진하면서 박... ",
-			"pubDate":"Thu, 03 Sep 2026 14:14:00 +0900"
-		},
-		{
-			"title":"마스터즈육상 덕분에 대구 관광업계 '활짝'…도심·명소에 외국인 '북적...",
-			"originallink":"https:\/\/www.news1.kr\/local\/daegu-gyeongbuk\/6278912",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0009149057?sid=102",
-			"description":"<b>청라<\/b>언덕 관광센터 박유경 중구 골목문화해설사는 &quot;관광센터를 찾는은 외국인이 평소보다 4배 정도 많다... 또 서문시장, <b>청라<\/b>언덕, 동화사, 인흥마을 등에서는 외국인들의 문화관광해설사 해설 요청이 하루 평균... ",
-			"pubDate":"Thu, 03 Sep 2026 13:36:00 +0900"
 		}
 	]
 }
