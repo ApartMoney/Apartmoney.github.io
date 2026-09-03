@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 03 Sep 2026 10:00:01 +0900",
-	"total":306901,
+	"lastBuildDate":"Thu, 03 Sep 2026 10:10:00 +0900",
+	"total":306902,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 시내버스 28개 노선 바뀐다, e음12번 폐선안 포함",
+			"originallink":"http:\/\/www.inews24.com\/view\/2001363",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0001054985?sid=102",
+			"description":"인천e음12번 폐선안을 포함해 영종과 검단, <b>청라<\/b>, 월미도 등에서 모두 28건의 노선 조정이 추진된다. 2일... <b>청라<\/b>지역에서는 인천e음84·85번이 조정 대상에 포함됐다. e음84번은 <b>청라<\/b>국제도시역 출퇴근 시간대 배차간격... ",
+			"pubDate":"Thu, 03 Sep 2026 10:03:00 +0900"
+		},
 		{
 			"title":"[보령소식]시농업기술센터, '찾아가는 건강치유 밥상' 등",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260903_0003774098",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/031\/0001054899?sid=102",
 			"description":"인천경제자유구역청은 송도·영종·<b>청라<\/b> 3개 도시 축제를 하나로 묶은 IFEZ 대표축제 브랜인 ‘I♥FEsta(아이페스타)’를 오는 9월 12일 송도, 10월 10일 영종, 10월 24일 <b>청라<\/b>까지 릴레이로 개최하여 글로벌 K-컬처... ",
 			"pubDate":"Wed, 02 Sep 2026 20:14:00 +0900"
-		},
-		{
-			"title":"인천도시공사, 검암역 푸르지오 프라베뉴’ 1순위 132대 1…첫 공공분양...",
-			"originallink":"https:\/\/ic.newdaily.co.kr\/site\/data\/html\/2026\/09\/02\/2026090200346.html",
-			"link":"https:\/\/ic.newdaily.co.kr\/site\/data\/html\/2026\/09\/02\/2026090200346.html",
-			"description":"생활권은 <b>청라<\/b>와 검단으로 이어진다. 단지에서 멀지 않은 곳에 <b>청라<\/b>국제도시와 검단신도시가 자리하고 있으며 인근에는 초등학교와 중학교 예정 부지가 있다. 간재울초·검암초·검암중·간재울중·서인천고 등... ",
-			"pubDate":"Wed, 02 Sep 2026 20:02:00 +0900"
 		}
 	]
 }
