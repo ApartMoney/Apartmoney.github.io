@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 03 Sep 2026 21:00:00 +0900",
-	"total":306960,
+	"lastBuildDate":"Thu, 03 Sep 2026 21:10:00 +0900",
+	"total":306961,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;소나무재선충병 막아라&quot;…충남도, 방제 국비 확대 요청",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3683978",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3683978",
+			"description":"충남 도내 소나무재선충병은 2012년 보령시 <b>청라<\/b>면에서 처음 발생한 이후 최근 기후변화로 인한 매개충 활동 증가와 소나무 생육 여건 악화로 3차 대발생 양상을 보이고 있다. 현재 피해는 보령·서천·청양·태안 등 서해안... ",
+			"pubDate":"Thu, 03 Sep 2026 21:02:00 +0900"
+		},
 		{
 			"title":"민선 9기 첫 월례회의 키워드는 ‘적극 행정’",
 			"originallink":"https:\/\/www.kyeongin.com\/article\/1770223",
@@ -117,13 +124,6 @@
 			"pubDate":"Thu, 03 Sep 2026 16:00:00 +0900"
 		},
 		{
-			"title":"농촌 밥상에 건강·정(情)을 차리다… 보령 '찾아가는 건강치유 밥상'",
-			"originallink":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=864142",
-			"link":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=864142",
-			"description":"보령시농업기술센터는 지난 2일 <b>청라<\/b>면 평강뜰애 농장에서 마을주민과 관련 분야 공무원 등 25명이 참여한 가운데 '찾아가는 건강치유 밥상' 첫 프로그램을 운영했다. 이 프로그램은 지역 치유농장을 중심으로 주민과... ",
-			"pubDate":"Thu, 03 Sep 2026 15:59:00 +0900"
-		},
-		{
 			"title":"보령 냉풍욕장, 폭염 뚫고 9만 명 몰렸다",
 			"originallink":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=864125",
 			"link":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=864125",
@@ -131,17 +131,24 @@
 			"pubDate":"Thu, 03 Sep 2026 15:59:00 +0900"
 		},
 		{
-			"title":"충남 보령시농업기술센터, 농촌에서 함께 만들고 나누는 '찾아가는 건강...",
-			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=1097594",
-			"link":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=1097594",
-			"description":"충남 보령시농업기술센터는 지난 2일 <b>청라<\/b>면 평강뜰애 농장(대표 김정옥)에서 마을주민과 관련 분야 공무원 등 25명이 참여한 가운데 '찾아가는 건강치유 밥상' 첫 프로그램을 운영했다. '찾아가는 건강치유 밥상'은 지역의... ",
-			"pubDate":"Thu, 03 Sep 2026 15:54:00 +0900"
+			"title":"농촌 밥상에 건강·정(情)을 차리다… 보령 '찾아가는 건강치유 밥상'",
+			"originallink":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=864142",
+			"link":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=864142",
+			"description":"보령시농업기술센터는 지난 2일 <b>청라<\/b>면 평강뜰애 농장에서 마을주민과 관련 분야 공무원 등 25명이 참여한 가운데 '찾아가는 건강치유 밥상' 첫 프로그램을 운영했다. 이 프로그램은 지역 치유농장을 중심으로 주민과... ",
+			"pubDate":"Thu, 03 Sep 2026 15:59:00 +0900"
 		},
 		{
 			"title":"기록적 폭염에 북적…보령 냉풍욕장 9만명 방문",
 			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=1097592",
 			"link":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=1097592",
 			"description":"충남 보령시는 올여름 기록적인 폭염이 이어진 가운데 보령 냉풍욕장(<b>청라<\/b>면 냉풍욕장길 190 일원)을 68일간 단 한 건의 사건·사고 없이 안전하게 운영하며 성공적으로 마무리했다고 밝혔다. 보령 냉풍욕장은 지난 6월 25일... ",
+			"pubDate":"Thu, 03 Sep 2026 15:54:00 +0900"
+		},
+		{
+			"title":"충남 보령시농업기술센터, 농촌에서 함께 만들고 나누는 '찾아가는 건강...",
+			"originallink":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=1097594",
+			"link":"https:\/\/www.ccdn.co.kr\/news\/articleView.html?idxno=1097594",
+			"description":"충남 보령시농업기술센터는 지난 2일 <b>청라<\/b>면 평강뜰애 농장(대표 김정옥)에서 마을주민과 관련 분야 공무원 등 25명이 참여한 가운데 '찾아가는 건강치유 밥상' 첫 프로그램을 운영했다. '찾아가는 건강치유 밥상'은 지역의... ",
 			"pubDate":"Thu, 03 Sep 2026 15:54:00 +0900"
 		},
 		{
@@ -173,17 +180,17 @@
 			"pubDate":"Thu, 03 Sep 2026 15:26:00 +0900"
 		},
 		{
-			"title":"보령시농업기술센터, 농촌에서 함께 만들고 나누는 '찾아가는 건강치유...",
-			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=925372",
-			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=925372",
-			"description":"▲ 보령시청 제공 충남 보령시농업기술센터는 지난 2일 <b>청라<\/b>면 평강뜰애 농장(대표 김정옥)에서 마을주민과 관련 분야 공무원 등 25명이 참여한 가운데 '찾아가는 건강치유 밥상' 첫 프로그램을 운영했다. '찾아가는... ",
-			"pubDate":"Thu, 03 Sep 2026 15:24:00 +0900"
-		},
-		{
 			"title":"보령 냉풍욕장, 올여름 9만여 명 발길... 대표 피서명소 '우뚝'",
 			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=925370",
 			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=925370",
 			"description":"▲ 보령시청 제공 충남 보령시는 올여름 기록적인 폭염이 이어진 가운데 보령 냉풍욕장(<b>청라<\/b>면 냉풍욕장길 190 일원)​을 68일간 단 한 건의 사건·사고 없이 안전하게 운영하며 성공적으로 마무리했다. 보령 냉풍욕장은... ",
+			"pubDate":"Thu, 03 Sep 2026 15:24:00 +0900"
+		},
+		{
+			"title":"보령시농업기술센터, 농촌에서 함께 만들고 나누는 '찾아가는 건강치유...",
+			"originallink":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=925372",
+			"link":"http:\/\/www.cctimes.kr\/news\/articleView.html?idxno=925372",
+			"description":"▲ 보령시청 제공 충남 보령시농업기술센터는 지난 2일 <b>청라<\/b>면 평강뜰애 농장(대표 김정옥)에서 마을주민과 관련 분야 공무원 등 25명이 참여한 가운데 '찾아가는 건강치유 밥상' 첫 프로그램을 운영했다. '찾아가는... ",
 			"pubDate":"Thu, 03 Sep 2026 15:24:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.g-enews.com\/view.php?ud=2026090314024638319ae5042aca_1",
 			"description":"송도와 <b>청라<\/b>의 문제를 남동구와 강화군의 시선으로만 볼 수 없고, 강화와 옹진의 문제를 국회 경험만으로 이해하기도 어렵다. 특히 홍보와 시민소통은 더욱 그렇다. 시민에게 시정을 설명하려면 인천의 언어를 알아야... ",
 			"pubDate":"Thu, 03 Sep 2026 14:48:00 +0900"
-		},
-		{
-			"title":"보령시, '무사고' 달성하며 여름철 대표 피서지 냉풍욕장 운영 성료",
-			"originallink":"https:\/\/www.newsworker.co.kr\/news\/articleView.html?idxno=502380",
-			"link":"https:\/\/www.newsworker.co.kr\/news\/articleView.html?idxno=502380",
-			"description":"보령시(시장 엄승용)는 <b>청라<\/b>면 일원에 위치한 보령 냉풍욕장을 68일간 단 한 건의 사건·사고도 발생하지 않는 완벽한 안전 관리 속에 운영하며 성공적으로 마무리했다고 3일 밝혔다. 보령 냉풍욕장은 지난 6월 25일 개장한... ",
-			"pubDate":"Thu, 03 Sep 2026 14:36:00 +0900"
 		}
 	]
 }
