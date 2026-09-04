@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 04 Sep 2026 13:10:01 +0900",
-	"total":306998,
+	"lastBuildDate":"Fri, 04 Sep 2026 13:20:00 +0900",
+	"total":306999,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천시 소식] 2만 마라토너, 인천을 달린다 외",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2466785",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2466785",
+			"description":"풀코스는 영종구 운서역 인근에서 출발해 <b>청라<\/b>하늘대교를 건너 서해구 아시아드주경기장까지 이어지며, 10km와 5km 코스도 운영된다. 참가비는 풀코스 8만원, 10km 5만 원, 5km 3만원이다. ◇노인일자리 생산품 판매전.... ",
+			"pubDate":"Fri, 04 Sep 2026 13:00:00 +0900"
+		},
 		{
 			"title":"규제·세제 부담 커질수록 주목… '푸르지오 스타셀라49' 금융혜택 제공",
 			"originallink":"https:\/\/edu.donga.com\/news\/articleView.html?idxno=111598",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=273805",
 			"description":"특히 IFEZ는 송도와 영종, <b>청라<\/b>에서의 첨단산업 유치 등 인천광역시의 미래를 책임질 과제들을 맡는 곳이라 그의 역량 발휘가 주목된다. 아울러 송도신도시의 송도세브란스 건립 20년 공회전 등 기업과 대학 등과의... ",
 			"pubDate":"Fri, 04 Sep 2026 06:54:00 +0900"
-		},
-		{
-			"title":"또 5년 밀리는 <b>청라<\/b> 7호선 연장…공사 질질 끌고, 전동차 확보 문제도",
-			"originallink":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2026\/09\/03\/2026090302953.html",
-			"link":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2026\/09\/03\/2026090302953.html",
-			"description":"서울지하철 7호선을 인천 <b>청라<\/b>국제도시까지 잇는 ‘<b>청라<\/b> 연장선’ 사업이 공사 지연과 전동차 제작 차질까지 겹치면서 개통 시점을 장담하기 어려운 상황에 빠졌다. 당초 2027년 개통을 목표로 추진됐지만 일부 구간에서... ",
-			"pubDate":"Fri, 04 Sep 2026 06:02:00 +0900"
 		}
 	]
 }
