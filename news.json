@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 08 Sep 2026 19:30:00 +0900",
-	"total":307312,
+	"lastBuildDate":"Tue, 08 Sep 2026 19:40:00 +0900",
+	"total":307313,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"울산 신축 1만 3500가구, 전기차 소방 강화 기준 쏙 빠졌다",
+			"originallink":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1067635",
+			"link":"https:\/\/www.iusm.co.kr\/news\/articleView.html?idxno=1067635",
+			"description":"인천 <b>청라<\/b>국제도시 아파트에서 발생한 2년 전 전기차 화재를 계기로 강화된 스프링클러 설치 기준이 울산의 한 대규모 신축 공공아파트에 적용되지 않아 초기 화재 대응력 격차가 우려된다. 스프링클러만으로 전기차... ",
+			"pubDate":"Tue, 08 Sep 2026 19:32:00 +0900"
+		},
 		{
 			"title":"&quot;일반인 기절시킨 격투기 선수=김중우&quot;…정찬성 측, 즉각 손절 [MD이슈]",
 			"originallink":"https:\/\/www.mydaily.co.kr\/page\/view\/2026090818580798442",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/468\/0001264873",
 			"description":"사건은 최근 인천 서구 <b>청라<\/b>동의 한 오피스텔에서 진행된 유튜버 A씨의 SNS 라이브 방송 도중 발생했다. 평소 출연자들끼리 거칠게 다투고 실제 싸우는 험한 콘셉트를 메인으로 내세우던 해당 방송에서, 현역 격투기... ",
 			"pubDate":"Tue, 08 Sep 2026 15:29:00 +0900"
-		},
-		{
-			"title":"정찬성 설립 ZFN, ‘생방송 격투기 기술 논란’ 김중우와 계약 해지",
-			"originallink":"https:\/\/isplus.com\/article\/view\/isp202609080179",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/241\/0003529703",
-			"description":"논란은 지난 6일 인천 서구 <b>청라<\/b>동에서 진행된 인터넷 라이브 방송에서 불거졌다. 김중우는 방송에 함께 출연한 20대 남성에게 목을 조르는 격투 기술인 ‘길로틴 초크’를 사용했다. 상대 남성이 몸을 두드리며 중단... ",
-			"pubDate":"Tue, 08 Sep 2026 15:26:00 +0900"
 		}
 	]
 }
