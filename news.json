@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Mon, 14 Sep 2026 04:30:01 +0900",
-	"total":307648,
+	"lastBuildDate":"Mon, 14 Sep 2026 04:40:00 +0900",
+	"total":307650,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"계양 BRT 차일피일, 왕숙 9호선 연장 잇단 유찰… “교통난 우려”",
+			"originallink":"https:\/\/www.donga.com\/news\/Economy\/article\/all\/20260914\/134660212\/2",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/020\/0003747839?sid=101",
+			"description":"S-BRT 등 신교통수단 신설, <b>청라<\/b>∼강서 BRT 연계, 부천종합운동장역 환승 시설의 경우 광역 변경을 검토하며 완료 시점이 현재 미정이다. 신흥로 확장은 2032년, 고강 나들목(IC) 연결도로 신설과 신월지하차도 신설... ",
+			"pubDate":"Mon, 14 Sep 2026 04:34:00 +0900"
+		},
+		{
+			"title":"[통찰추호] 박찬대가 다시 세우는 인천…민생에서 미래까지 ‘재시동’",
+			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2026091315533949134c878f8fa1_30",
+			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2026091315533949134c878f8fa1_30",
+			"description":"◇원도심과 신도시를 잇는 일도 민생이다 인천은 송도·<b>청라<\/b>·영종을 중심으로 국제도시의 면모를 갖췄다.... 공항과 항만, 송도·<b>청라<\/b>·영종과 원도심을 하나의 경제생활권으로 연결하는 일은 개발정책인 동시에... ",
+			"pubDate":"Mon, 14 Sep 2026 04:32:00 +0900"
+		},
 		{
 			"title":"전통문화 즐기는 초가을…'인천 IFEsta' 개최",
 			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1537329",
@@ -187,13 +201,6 @@
 			"pubDate":"Sun, 13 Sep 2026 10:09:00 +0900"
 		},
 		{
-			"title":"40km 사이클 준비하는 선수들",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913029100065?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306480",
-			"description":"13일 오전 인천 서해구 <b>청라<\/b>호수공원에서 열린 'IFEZ(인천경제자유구역청) 철인 3종 경기대회'에서 참가선수들이 1.5km 수영을 마치고 40km 사이클 출발을 위해 이동하고 있다. 2026.9.13",
-			"pubDate":"Sun, 13 Sep 2026 10:08:00 +0900"
-		},
-		{
 			"title":"'<b>청라<\/b>호수공원에서 열린 철인3종경기대회'",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913028800065?input=1196m",
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306476",
@@ -201,16 +208,9 @@
 			"pubDate":"Sun, 13 Sep 2026 10:08:00 +0900"
 		},
 		{
-			"title":"수영 마치고 사이클로 이동하는 철인",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913029000065?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306479",
-			"description":"13일 오전 인천 서해구 <b>청라<\/b>호수공원에서 열린 'IFEZ(인천경제자유구역청) 철인3종 경기대회'에서 참가선수들이 수영을 마치고 사이클로 이동하고 있다. 2026.9.13",
-			"pubDate":"Sun, 13 Sep 2026 10:08:00 +0900"
-		},
-		{
 			"title":"40km 사이클 준비하는 선수들",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913028900065?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306477",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913029100065?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306480",
 			"description":"13일 오전 인천 서해구 <b>청라<\/b>호수공원에서 열린 'IFEZ(인천경제자유구역청) 철인 3종 경기대회'에서 참가선수들이 1.5km 수영을 마치고 40km 사이클 출발을 위해 이동하고 있다. 2026.9.13",
 			"pubDate":"Sun, 13 Sep 2026 10:08:00 +0900"
 		}
