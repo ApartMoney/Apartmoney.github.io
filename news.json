@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Sun, 13 Sep 2026 15:10:00 +0900",
-	"total":307632,
+	"lastBuildDate":"Sun, 13 Sep 2026 15:20:01 +0900",
+	"total":307634,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 아파트 전세가 급등… 최근 3주 서해구 0.95%·연수구 0.76% 올라",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363736545",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363736545",
+			"description":"인천 서해구 <b>청라<\/b>동의 한 아파트 단지. 사진=노선우 기자최근 인천지역이 서해구와 연수구를 중심으로... 서해구는 <b>청라<\/b>·가좌동 대단지를 중심으로, 연수구는 송도·옥련동의 정주 여건이 양호한 단지를 중심으로... ",
+			"pubDate":"Sun, 13 Sep 2026 15:18:00 +0900"
+		},
+		{
+			"title":"경쟁 사라진 인천 제2금고…‘적격성 심사’ 남았다",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=911330",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=911330",
+			"description":"신한은행은 장기간 축적한 금고 운영 경험과 신뢰성을, 하나은행은 <b>청라<\/b> 본사 이전과 지역 생상 등을 앞세워 경쟁하고 있다. 시는 오는 17일 심의위원회에서 제1금고 신청 기관을 비교·평가하고 제2금고 단독 신청 기관의... ",
+			"pubDate":"Sun, 13 Sep 2026 15:18:00 +0900"
+		},
 		{
 			"title":"17조 인천시금고 17일 결정 … 9개 구까지 '금고 대전' 본격화",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=440389",
@@ -82,6 +96,13 @@
 			"pubDate":"Sun, 13 Sep 2026 10:08:00 +0900"
 		},
 		{
+			"title":"40km 사이클 준비하는 선수들",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913028900065?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306477",
+			"description":"13일 오전 인천 서해구 <b>청라<\/b>호수공원에서 열린 'IFEZ(인천경제자유구역청) 철인 3종 경기대회'에서 참가선수들이 1.5km 수영을 마치고 40km 사이클 출발을 위해 이동하고 있다. 2026.9.13",
+			"pubDate":"Sun, 13 Sep 2026 10:08:00 +0900"
+		},
+		{
 			"title":"'<b>청라<\/b>호수공원에서 열린 철인3종경기대회'",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913028800065?input=1196m",
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306476",
@@ -94,20 +115,6 @@
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306479",
 			"description":"13일 오전 인천 서해구 <b>청라<\/b>호수공원에서 열린 'IFEZ(인천경제자유구역청) 철인3종 경기대회'에서 참가선수들이 수영을 마치고 사이클로 이동하고 있다. 2026.9.13",
 			"pubDate":"Sun, 13 Sep 2026 10:08:00 +0900"
-		},
-		{
-			"title":"40km 사이클 준비하는 선수들",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913028900065?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306477",
-			"description":"13일 오전 인천 서해구 <b>청라<\/b>호수공원에서 열린 'IFEZ(인천경제자유구역청) 철인 3종 경기대회'에서 참가선수들이 1.5km 수영을 마치고 40km 사이클 출발을 위해 이동하고 있다. 2026.9.13",
-			"pubDate":"Sun, 13 Sep 2026 10:08:00 +0900"
-		},
-		{
-			"title":"'IFEZ <b>청라<\/b> 철인3종경기 힘찬 출발'",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913028700065?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306475",
-			"description":"13일 오전 인천 서해구 <b>청라<\/b>호수공원에서 열린 'IFEZ(인천경제자유구역청) 철인3종 경기대회'에서 참가선수들이 힘찬 출발을 하고 있다. 2026.9.13",
-			"pubDate":"Sun, 13 Sep 2026 10:07:00 +0900"
 		},
 		{
 			"title":"역영하는 철인들",
@@ -125,8 +132,15 @@
 		},
 		{
 			"title":"'물살 가르며'",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913028400065?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306472",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913028300065?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306471",
+			"description":"13일 오전 인천 서해구 <b>청라<\/b>호수공원에서 열린 'IFEZ(인천경제자유구역청) 철인3종 경기대회'에서 참가선수들이 물살을 가르고 있다. 2026.9.13",
+			"pubDate":"Sun, 13 Sep 2026 10:07:00 +0900"
+		},
+		{
+			"title":"역영하는 철인들",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913028200065?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306470",
 			"description":"13일 오전 인천 서해구 <b>청라<\/b>호수공원에서 열린 'IFEZ(인천경제자유구역청) 철인3종 경기대회'에서 참가선수들이 물살을 가르고 있다. 2026.9.13",
 			"pubDate":"Sun, 13 Sep 2026 10:07:00 +0900"
 		},
@@ -138,16 +152,16 @@
 			"pubDate":"Sun, 13 Sep 2026 10:07:00 +0900"
 		},
 		{
-			"title":"'물살 가르며'",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913028300065?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306471",
-			"description":"13일 오전 인천 서해구 <b>청라<\/b>호수공원에서 열린 'IFEZ(인천경제자유구역청) 철인3종 경기대회'에서 참가선수들이 물살을 가르고 있다. 2026.9.13",
+			"title":"'IFEZ <b>청라<\/b> 철인3종경기 힘찬 출발'",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913028700065?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306475",
+			"description":"13일 오전 인천 서해구 <b>청라<\/b>호수공원에서 열린 'IFEZ(인천경제자유구역청) 철인3종 경기대회'에서 참가선수들이 힘찬 출발을 하고 있다. 2026.9.13",
 			"pubDate":"Sun, 13 Sep 2026 10:07:00 +0900"
 		},
 		{
-			"title":"역영하는 철인들",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913028200065?input=1196m",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306470",
+			"title":"'물살 가르며'",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/PYH20260913028400065?input=1196m",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/001\/0016306472",
 			"description":"13일 오전 인천 서해구 <b>청라<\/b>호수공원에서 열린 'IFEZ(인천경제자유구역청) 철인3종 경기대회'에서 참가선수들이 물살을 가르고 있다. 2026.9.13",
 			"pubDate":"Sun, 13 Sep 2026 10:07:00 +0900"
 		},
@@ -180,27 +194,6 @@
 			"pubDate":"Sun, 13 Sep 2026 09:46:00 +0900"
 		},
 		{
-			"title":"IFEZ <b>청라<\/b> 철인3종대회",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260913_0021434969",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/003\/0014186264",
-			"description":"IFEZ(인천경제자유구역청) <b>청라<\/b> 철인3종대회가 열린 13일 인천 서해구 <b>청라<\/b>호수공원에서 출전 선수들이 수영 1.5Km 출발을 준비하고 있다. 2026.09.13. amin2@newsis.com",
-			"pubDate":"Sun, 13 Sep 2026 08:55:00 +0900"
-		},
-		{
-			"title":"철인3종경기 역영하는 선수들",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260913_0021434970",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/003\/0014186265",
-			"description":"IFEZ(인천경제자유구역청) <b>청라<\/b> 철인3종대회가 열린 13일 인천 서해구 <b>청라<\/b>호수공원에서 출전 선수들이 힘차게 수영 1.5Km를 역영 하고 있다. 2026.09.13. amin2@newsis.com",
-			"pubDate":"Sun, 13 Sep 2026 08:55:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>호수공원 역영하는 철인들",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260913_0021434967",
-			"link":"https:\/\/m.sports.naver.com\/general\/article\/003\/0014186262",
-			"description":"IFEZ(인천경제자유구역청) <b>청라<\/b> 철인3종대회가 열린 13일 인천 서해구 <b>청라<\/b>호수공원에서 출전 선수들이 힘차게 수영 1.5Km를 역영 하고 있다. 2026.09.13. amin2@newsis.com",
-			"pubDate":"Sun, 13 Sep 2026 08:55:00 +0900"
-		},
-		{
 			"title":"수영 마치고 사이클로 이동하는 철인",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260913_0021434966",
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/003\/0014186258",
@@ -212,6 +205,13 @@
 			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260913_0021434963",
 			"link":"https:\/\/m.sports.naver.com\/general\/article\/003\/0014186256",
 			"description":"IFEZ(인천경제자유구역청) <b>청라<\/b> 철인3종대회가 열린 13일 인천 서해구 <b>청라<\/b>호수공원에서 출전 선수들이 힘차게 수영 1.5Km를 역영 하고 있다. 이번 대회에는 동호인과 선수 등 500여 명이 참가했다. 2026.... ",
+			"pubDate":"Sun, 13 Sep 2026 08:55:00 +0900"
+		},
+		{
+			"title":"40Km 사이클 준비하는 선수들",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISI20260913_0021434964",
+			"link":"https:\/\/m.sports.naver.com\/general\/article\/003\/0014186255",
+			"description":"IFEZ(인천경제자유구역청) <b>청라<\/b> 철인3종대회가 열린 13일 인천 서해구 <b>청라<\/b>호수공원에서 출전 선수들이 1.5Km 수영을 마치고 40Km 사이클을 준비하고 있다. 2026.09.13. amin2@newsis.com",
 			"pubDate":"Sun, 13 Sep 2026 08:55:00 +0900"
 		}
 	]
