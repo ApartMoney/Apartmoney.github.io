@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 15 Sep 2026 06:10:00 +0900",
-	"total":307866,
+	"lastBuildDate":"Tue, 15 Sep 2026 06:20:01 +0900",
+	"total":307867,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 7호선 <b>청라<\/b> 006 정거장 계측기준 초과로 굴착 중지…원인조사 ...",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=720628",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=720628",
+			"description":"인천시는 서울도시철도 7호선 <b>청라<\/b>연장선 6공구 006 정거장 굴착공사 현장에서 지표침하 및 지하수위 수치가... 컨슈머타임스=안성렬 기자 | 서울도시철도 7호선 <b>청라<\/b>국제도시 연장사업 현장에서 지표면 계측값이... ",
+			"pubDate":"Tue, 15 Sep 2026 06:06:00 +0900"
+		},
 		{
 			"title":"인천시, 7호선 <b>청라<\/b>연장 6공구 굴착 중단…&quot;안전 확인 후 공사 재개&quot;",
 			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=709220",
@@ -96,17 +103,17 @@
 			"pubDate":"Mon, 14 Sep 2026 20:43:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b> 7호선 006정거장 또 지반 안전 변수…굴착공사 일시 중단",
-			"originallink":"https:\/\/www.livesnews.com\/news\/article.html?no=64213",
-			"link":"https:\/\/www.livesnews.com\/news\/article.html?no=64213",
-			"description":"7호선 <b>청라<\/b>국제도시 연장사업 6공구 006정거장 공사 현장에서 지표침하와 지하수위 계측값이 관리기준을... 인천시는 서울도시철도 7호선 <b>청라<\/b>국제도시 연장 6공구 006정거장 굴착 과정에서 지표침하와 지하수위 계측값이... ",
-			"pubDate":"Mon, 14 Sep 2026 20:12:00 +0900"
-		},
-		{
 			"title":"하나은행, 하반기 230명 채용⋯AI·IB 전문트랙 신설",
 			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2625411",
 			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2625411",
 			"description":"이투데이=김이현 기자 | <b>청라<\/b> 통합본사 이전 기념 ‘인천하나 상생채용’ 신설 하나은행이 AI·기업금융(IB) 등 핵심 성장 분야 전문인력을 중심으로 230여명을 채용한다. 인천 <b>청라<\/b> 통합본사 이전을 계기로 지역... ",
+			"pubDate":"Mon, 14 Sep 2026 20:12:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b> 7호선 006정거장 또 지반 안전 변수…굴착공사 일시 중단",
+			"originallink":"https:\/\/www.livesnews.com\/news\/article.html?no=64213",
+			"link":"https:\/\/www.livesnews.com\/news\/article.html?no=64213",
+			"description":"7호선 <b>청라<\/b>국제도시 연장사업 6공구 006정거장 공사 현장에서 지표침하와 지하수위 계측값이 관리기준을... 인천시는 서울도시철도 7호선 <b>청라<\/b>국제도시 연장 6공구 006정거장 굴착 과정에서 지표침하와 지하수위 계측값이... ",
 			"pubDate":"Mon, 14 Sep 2026 20:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014189603?sid=101",
 			"description":"인천 <b>청라<\/b> 이전을 기념해 인천하나 상생채용도 신설했다. 서류 접수는 이날부터 오는 28일 오후 6시까지다. 필기 전형과 실무진 면접, 최종 면접을 거쳐 합격자로 선발되면 오는 11월 말 인천 <b>청라<\/b>에 위치한... ",
 			"pubDate":"Mon, 14 Sep 2026 18:49:00 +0900"
-		},
-		{
-			"title":"김찬진 제물포구청장, “해사법원 본청·IPA 유치, 한은 인천본부 존치...",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260914580573",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000123359?sid=100",
-			"description":"현재 한국은행 인천본부는 청사 노후화와 금고 하중 등의 문제로 송도·<b>청라<\/b>국제도시 등의 이전을 검토하고 있는 것으로 나타났다. 그는 “인천본부는 오랜기간 제물포에서 지역경제 조사와 연구, 중소기업 지원... ",
-			"pubDate":"Mon, 14 Sep 2026 18:47:00 +0900"
 		}
 	]
 }
