@@ -1,9 +1,58 @@
 {
-	"lastBuildDate":"Tue, 15 Sep 2026 18:00:01 +0900",
-	"total":307975,
+	"lastBuildDate":"Tue, 15 Sep 2026 18:10:01 +0900",
+	"total":307981,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘다시 하드웨어’ KT클라우드, AI 인프라 비전 발표",
+			"originallink":"https:\/\/byline.network\/?p=9004111222620160",
+			"link":"https:\/\/byline.network\/?p=9004111222620160",
+			"description":"목동 클러스터는 1, 2 센터를 중심으로 B2B 고객에게 서비스를 제공하고, 부천과 <b>청라<\/b> 등 경기서부 클러스터는 국내외 빅테크 기업용 서비스를 제공한다. 경기 남부 안산과 용인 클러스터는 고밀도 GPU에 최적화된 AI... ",
+			"pubDate":"Tue, 15 Sep 2026 18:02:00 +0900"
+		},
+		{
+			"title":"인천시의회 김우성 의원, 문학경기장 K-컬처 스타디움 용역비 3억 요청",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3696195",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3696195",
+			"description":"특히 2028년 프로야구단의 <b>청라<\/b> 이전이 예정된 상황에서 문학경기장 유휴화에 선제적으로 대응할 필요가 있다고 강조했다. 그는 연구용역과 기본계획 수립에 약 1년이 소요되는 점을 들어, 2027년도 본예산까지... ",
+			"pubDate":"Tue, 15 Sep 2026 17:58:00 +0900"
+		},
+		{
+			"title":"KT클라우드, 2031년 1GW AIDC ‘실수요 공급’...“네트워크부터 AI까지 ...",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/12153509",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005735744?sid=105",
+			"description":"여의도는 금융권 대상 초저지연 특화, 목동은 고품질 기업간거래(B2B), 부천·<b>청라<\/b> 등 경기 서부는 대규모 용량이 필요한 국내외 빅테크, 안산·용인 등 경기 남부는 고밀도 그래픽처리장치(GPU) 수용에 각각 초점을... ",
+			"pubDate":"Tue, 15 Sep 2026 17:57:00 +0900"
+		},
+		{
+			"title":"김우성 의원, 문학경기장 K-컬처 스타디움 조성 첫걸음… 양인모 예결위...",
+			"originallink":"https:\/\/www.siminsori.com\/news\/articleView.html?idxno=401546",
+			"link":"https:\/\/www.siminsori.com\/news\/articleView.html?idxno=401546",
+			"description":"김 의원은 특히 2028년 프로야구단의 <b>청라<\/b> 이전이 예정된 만큼, 문학경기장 유휴화에 선제적으로 대응해야 한다고 강조했다. 연구용역과 기본계획 수립에 통상 1년가량이 소요될 것으로 예상되는 만큼, 2027년도... ",
+			"pubDate":"Tue, 15 Sep 2026 17:56:00 +0900"
+		},
+		{
+			"title":"박찬대 인천시장 &quot;<b>청라<\/b>를 수도권 서북부 신산업 거점으로&quot;...AI 모빌리티...",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20260915155106230",
+			"link":"https:\/\/www.ajunews.com\/view\/20260915155106230",
+			"description":"R&amp;D·인프라·사이버보안 지원방안 논의 7월 시장 직속 TF 가동·1조원대 국비사업 유치 추진...<b>청라<\/b>... 맞대고 <b>청라<\/b>를 중심으로 인공지능과 차량 통신, 사이버보안, 인증·실증 인프라가 집적된 ‘AI 커넥티드 모빌리티’... ",
+			"pubDate":"Tue, 15 Sep 2026 17:50:00 +0900"
+		},
+		{
+			"title":"인천시, ‘AI 커넥티드 모빌리티 기업 간담회’ 개최…<b>청라<\/b> 중심 미래 ...",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260915580505",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000123524?sid=101",
+			"description":"인천시가 <b>청라<\/b>를 중심으로 인공지능(AI) 커넥티드 모빌리티 산업 거점 조성에 나선다. 시는 15일 서울 콘래드... 시는 이번 간담회를 바탕으로 <b>청라<\/b>를 AI 커넥티드 모빌리티 산업 거점으로 육성하는 ‘AI 커넥티드 모빌리티... ",
+			"pubDate":"Tue, 15 Sep 2026 17:50:00 +0900"
+		},
+		{
+			"title":"문학경기장의 K-컬처 복합문화 공간화, 용역 발주 등 추진 빨라질 듯",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=120828",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=120828",
+			"description":"하지만 주경기장은 프로축구 인천유나이티드가 홈 구장을 인천축구전용경기장으로 옮긴 후 활용도가 크게 떨어졌고 야구장은 프로야구 SSG랜더스가 2028년 <b>청라<\/b> 돔 구장으로 이전할 예정이다. 'K-컬처 스타디움 건립'은... ",
+			"pubDate":"Tue, 15 Sep 2026 17:50:00 +0900"
+		},
 		{
 			"title":"김봉균 대표 “5년내 1GW AIDC 공급할 것”",
 			"originallink":"https:\/\/www.sedaily.com\/article\/20091237?ref=naver",
@@ -19,17 +68,17 @@
 			"pubDate":"Tue, 15 Sep 2026 17:34:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b>에 'AI 모빌리티 거점' 구축",
-			"originallink":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=865497",
-			"link":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=865497",
-			"description":"특히 <b>청라<\/b> 지역을 중심으로 인공지능(AI) 커넥티드 모빌리티 사이언스파크 구상을 구체화한다. <b>청라<\/b>의 지리적 이점과 커넥티드카 인증평가센터 등 기존 인프라를 활용해 첨단 산업 집적지로 육성할 계획이다. 박찬대... ",
-			"pubDate":"Tue, 15 Sep 2026 17:32:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b> 이전 하나 VS 20년 수성 나선 신한…인천시금고 결판",
 			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=212508",
 			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=212508",
 			"description":"2007년부터 제1금고를 맡아온 신한은행과 <b>청라<\/b>국제도시로 본사 기능을 옮긴 하나은행이 운영 경험과 지역... 2,200명을 <b>청라<\/b> 그룹헤드쿼터로 순차 이전한다. 기존 통합데이터센터 등 상주 인력을 합하면 <b>청라<\/b> 근무 인원은... ",
+			"pubDate":"Tue, 15 Sep 2026 17:32:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b>에 'AI 모빌리티 거점' 구축",
+			"originallink":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=865497",
+			"link":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=865497",
+			"description":"특히 <b>청라<\/b> 지역을 중심으로 인공지능(AI) 커넥티드 모빌리티 사이언스파크 구상을 구체화한다. <b>청라<\/b>의 지리적 이점과 커넥티드카 인증평가센터 등 기존 인프라를 활용해 첨단 산업 집적지로 육성할 계획이다. 박찬대... ",
 			"pubDate":"Tue, 15 Sep 2026 17:32:00 +0900"
 		},
 		{
@@ -75,17 +124,17 @@
 			"pubDate":"Tue, 15 Sep 2026 17:16:00 +0900"
 		},
 		{
-			"title":"인천시, AI 커넥티드 모빌리티 산업 생태계 조성 본격화",
-			"originallink":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202609150209",
-			"link":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202609150209",
-			"description":"인천시는 공항과 항만을 갖춘 입지와 <b>청라<\/b>하늘대교, 커넥티드카 인증평가센터 등 기반시설을 바탕으로 <b>청라<\/b>를 중심으로 ‘AI 커넥티드 모빌리티 사이언스파크’ 구상을 구체화할 계획이다.",
-			"pubDate":"Tue, 15 Sep 2026 17:12:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>·계양·마곡 잇는다… 인천 ‘AI 커넥티비티 밸리’ 시동",
 			"originallink":"https:\/\/www.kyeongin.com\/article\/1770889",
 			"link":"https:\/\/www.kyeongin.com\/article\/1770889",
 			"description":"<b>청라<\/b>·계양·마곡 잇는 수도권 서부 AI 산업벨트 구상 완성차·전장·플랫폼 등 12개 기업 임원 간담회... 인천시가 <b>청라<\/b>를 거점으로 계양, 서울 마곡 등 수도권 서부지역을 ‘AI 커넥티비티 밸리’로 조성하기 위해... ",
+			"pubDate":"Tue, 15 Sep 2026 17:12:00 +0900"
+		},
+		{
+			"title":"인천시, AI 커넥티드 모빌리티 산업 생태계 조성 본격화",
+			"originallink":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202609150209",
+			"link":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202609150209",
+			"description":"인천시는 공항과 항만을 갖춘 입지와 <b>청라<\/b>하늘대교, 커넥티드카 인증평가센터 등 기반시설을 바탕으로 <b>청라<\/b>를 중심으로 ‘AI 커넥티드 모빌리티 사이언스파크’ 구상을 구체화할 계획이다.",
 			"pubDate":"Tue, 15 Sep 2026 17:12:00 +0900"
 		},
 		{
@@ -103,17 +152,17 @@
 			"pubDate":"Tue, 15 Sep 2026 17:02:00 +0900"
 		},
 		{
-			"title":"KT클라우드 'AX 인프라' 청사진 공개···GPU부터 전력까지 잇는다",
-			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=261614",
-			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=261614",
-			"description":"부천·<b>청라<\/b> 등 경기 서부는 대규모 AI 용량을 필요로 하는 국내외 빅테크를, 안산·용인 등 경기 남부는 고밀도 GPU 수요를 겨냥한 'AI GPU 존'으로 개발한다. 비수도권에서는 부산권을 해저케이블 육양국과 연계하고... ",
-			"pubDate":"Tue, 15 Sep 2026 16:56:00 +0900"
-		},
-		{
 			"title":"KT클라우드, 그룹 AI 인프라 확장 '실행축'으로",
 			"originallink":"https:\/\/www.topdaily.kr\/articles\/111963",
 			"link":"https:\/\/www.topdaily.kr\/articles\/111963",
 			"description":"여의도는 금융권 초저지연 수요, 목동은 기업 고객, 부천·<b>청라<\/b> 등 서부권은 국내외 빅테크, 안산·용인 등 경기남부는 고밀도 GPU(그래픽처리장치) 수요에 대응하는 방식이다. 비수도권에서는 선제적으로 대규모... ",
+			"pubDate":"Tue, 15 Sep 2026 16:56:00 +0900"
+		},
+		{
+			"title":"KT클라우드 'AX 인프라' 청사진 공개···GPU부터 전력까지 잇는다",
+			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=261614",
+			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=261614",
+			"description":"부천·<b>청라<\/b> 등 경기 서부는 대규모 AI 용량을 필요로 하는 국내외 빅테크를, 안산·용인 등 경기 남부는 고밀도 GPU 수요를 겨냥한 'AI GPU 존'으로 개발한다. 비수도권에서는 부산권을 해저케이블 육양국과 연계하고... ",
 			"pubDate":"Tue, 15 Sep 2026 16:56:00 +0900"
 		},
 		{
@@ -164,55 +213,6 @@
 			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=1414330",
 			"description":"특히 공항과 항만을 동시에 갖춘 입지에 <b>청라<\/b>하늘대교와 커넥티드카 인증평가센터 등 관련 기반시설이 들어선 <b>청라<\/b>를 중심으로 'AI 커넥티드 모빌리티 사이언스파크' 조성 구상을 구체화한다. 박찬대 인천시장은 &quot;AI는... ",
 			"pubDate":"Tue, 15 Sep 2026 16:30:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>에 ‘AI 커넥티드 모빌리티’ 집적…미래차 거점 만든다",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=911710",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=911710",
-			"description":"위해 <b>청라<\/b>를 중심으로 관련 기업과 연구·지원시설을 집적하는 산업 생태계 조성에 나선다. 시는 15일 서울... 시는 <b>청라<\/b>를 미래 모빌리티 산업의 핵심 거점으로 육성할 계획이다. 공항과 항만을 갖춘 입지에... ",
-			"pubDate":"Tue, 15 Sep 2026 16:30:00 +0900"
-		},
-		{
-			"title":"신동아 '수주'·DL '안전'·대우 '쇄신'…건설업계, 맞춤형 CEO 배치",
-			"originallink":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=254649",
-			"link":"https:\/\/www.insightkorea.co.kr\/news\/articleView.html?idxno=254649",
-			"description":"이후 한양과 보성산업, 솔라시도 등의 대표를 맡으며 <b>청라<\/b>시티타워와 <b>청라<\/b>국제금융단지, 새만금 관광·레저 개발사업, 해남 기업도시 '솔라시도' 등 개발사업을 이끌었다. 현재 신동아건설은 지난해 기업회생절차를 조기... ",
-			"pubDate":"Tue, 15 Sep 2026 16:22:00 +0900"
-		},
-		{
-			"title":"김원진 서해구의원 &quot;해사국제상사법원 <b>청라<\/b> 유치 추진상황 의회와 공유...",
-			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5062547",
-			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5062547",
-			"description":"인천 서해구의회 기획행정안전위원장 김원진 의원이 해사국제상사법원 본청사의 <b>청라<\/b> 유치 추진상황을... 특히 <b>청라<\/b>는 경제자유구역으로 국제업무 기능을 중심으로 성장해 왔고 서울 등 수도권 접근성과 신축 가능한... ",
-			"pubDate":"Tue, 15 Sep 2026 16:12:00 +0900"
-		},
-		{
-			"title":"'K-컬처 스타디움' 용역비 확보 속도 낸다",
-			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5062531",
-			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5062531",
-			"description":"2028년 프로야구단의 <b>청라<\/b> 이전에 대비해 문학경기장의 향후 활용 방안을 선제적으로 마련해야 한다는 취지다. 15일 시의회에 따르면 김 의원은 제313회 임시회 제2차 추가경정예산안 예산결산특별위원회 심사를 앞두고... ",
-			"pubDate":"Tue, 15 Sep 2026 16:12:00 +0900"
-		},
-		{
-			"title":"2028년 프로야구단 떠나는 문학경기장, &quot;스포츠·공연 복합공간으로 조...",
-			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3034825",
-			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3034825",
-			"description":"프로야구단의 <b>청라<\/b> 이전 이후 문학경기장의 활용도를 높이기 위해 스포츠와 공연이 결합된 복합문화공간... 김 의원은 &quot;프로야구단 SSG 랜더스가 <b>청라<\/b>로 이전하는 2028년 이후 문학야구장의 활용도가 낮아질 가능성에... ",
-			"pubDate":"Tue, 15 Sep 2026 16:04:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>, ‘AI 모빌리티 허브’로 도약… 완성차·IT·보안기업 총집...",
-			"originallink":"https:\/\/biz.heraldcorp.com\/article\/10874391?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002697664?sid=101",
-			"description":"인천광역시가 <b>청라<\/b>국제도시를 중심으로 인공지능(AI)과 커넥티드 기술을 결합한 미래 모빌리티 산업 거점 조성에 속도를 낸다. 완성차와 자동차 부품은 물론 플랫폼·통신·사이버보안 분야 기업들이 대거 참여해 <b>청라<\/b>국... ",
-			"pubDate":"Tue, 15 Sep 2026 16:01:00 +0900"
-		},
-		{
-			"title":"AI 모빌리티 기업 <b>청라<\/b>로… 인천시 미래차 산업 집적지 만든다",
-			"originallink":"https:\/\/www.viva100.com\/article\/20260915501116",
-			"link":"https:\/\/www.viva100.com\/article\/20260915501116",
-			"description":"산업을 <b>청라<\/b>에 집적하는 승부수를 던졌다. 현대자동차와 현대모비스, LG전자 등 국내 대표 기업과 정부·국회 관계자들이 한자리에 모여 산업 생태계 조성과 기업 지원 방안을 논의하면서 <b>청라<\/b>를 수도권 서북부의 미래차... ",
-			"pubDate":"Tue, 15 Sep 2026 16:00:00 +0900"
 		}
 	]
 }
