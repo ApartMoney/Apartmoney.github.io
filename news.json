@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 17 Sep 2026 00:20:01 +0900",
-	"total":308098,
+	"lastBuildDate":"Thu, 17 Sep 2026 00:30:01 +0900",
+	"total":308099,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[현승윤 칼럼] 수도권 버금가는 메가시티 탄생은 대한민국의 축복",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2026091693161",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005333215?sid=110",
+			"description":"송도·<b>청라<\/b>·영종 경제자유도시까지 포함하면 그 수는 더 늘어난다. 서울 경기 인천을 포함한 수도권 인구는... 판교 테크노밸리를 중심으로 하는 정보기술(IT)·소프트웨어 산업단지 형성, 인천 송도와 <b>청라<\/b>의 바이오 및... ",
+			"pubDate":"Thu, 17 Sep 2026 00:28:00 +0900"
+		},
 		{
 			"title":"연간 17조원 인천시 1금고 내일 결정… '<b>청라<\/b> 이전' 하나 vs '20년 수성' ...",
 			"originallink":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=607275",
@@ -19,17 +26,17 @@
 			"pubDate":"Wed, 16 Sep 2026 22:32:00 +0900"
 		},
 		{
-			"title":"대구시민햇빛발전소 24호기 준공",
-			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=559911",
-			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=559911",
-			"description":"16일 <b>청라<\/b>시민에너지협동조합(<b>청라<\/b>협동조합)에 따르면 이날 서구 대영에버빌B 옥상에 대구시민햇빛발전소 24호기 준공식을 갖고 본격적인 운영에 들어갔다. <b>청라<\/b>협동조합이 발전소 건설 주체로 진행하는 이 사업은... ",
-			"pubDate":"Wed, 16 Sep 2026 21:24:00 +0900"
-		},
-		{
 			"title":"신세계사이먼 파주 프리미엄 아울렛, 쇼핑 콘텐츠 리뉴얼 오픈",
 			"originallink":"https:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=853994",
 			"link":"https:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=853994",
 			"description":"최근 운정·한강·<b>청라<\/b> 등 인근 신도시를 중심으로 젊은 고객층 유입이 늘어나고, 라이프스타일과 쇼핑 트렌드가 변화함에 따라 브랜드 구성과 쇼핑 환경 전반을 개선했다. 이번 개편을 통해 신규 입점 39개를 비롯한... ",
+			"pubDate":"Wed, 16 Sep 2026 21:24:00 +0900"
+		},
+		{
+			"title":"대구시민햇빛발전소 24호기 준공",
+			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=559911",
+			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=559911",
+			"description":"16일 <b>청라<\/b>시민에너지협동조합(<b>청라<\/b>협동조합)에 따르면 이날 서구 대영에버빌B 옥상에 대구시민햇빛발전소 24호기 준공식을 갖고 본격적인 운영에 들어갔다. <b>청라<\/b>협동조합이 발전소 건설 주체로 진행하는 이 사업은... ",
 			"pubDate":"Wed, 16 Sep 2026 21:24:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=487638",
 			"description":"20년 가까이 인천시 1금고를 맡아온 신한은행과 그룹의 핵심 기능을 인천 <b>청라<\/b>로 옮긴 하나은행이 정면으로... 이번 경쟁의 구도는 크게 보면 '20년간 축적된 금고 운영 경험'과 '<b>청라<\/b> 이전을 통한 지역경제 기여 확대'의... ",
 			"pubDate":"Wed, 16 Sep 2026 15:18:00 +0900"
-		},
-		{
-			"title":"[인천 주요 뉴스]박찬대호 AI 미래산업, 인천 <b>청라<\/b>서 청사진 구체화",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6578842?utm_source=naver&utm_medium=article&utm_campaign=20260916030019",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0004190054?sid=102",
-			"description":"박찬대호 AI 미래산업, 인천 <b>청라<\/b>서 청사진 구체화 박찬대 인천시장의 주요 공약인 물류와 인공지능(AI)의 결합 등을 통한 미래산업 구상이 <b>청라<\/b>국제도시를 중심으로 실현될 전망입니다. 인천시는 어제 서울 콘래드... ",
-			"pubDate":"Wed, 16 Sep 2026 15:01:00 +0900"
 		}
 	]
 }
