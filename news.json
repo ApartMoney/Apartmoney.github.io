@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Thu, 17 Sep 2026 20:20:01 +0900",
-	"total":308273,
+	"lastBuildDate":"Thu, 17 Sep 2026 20:30:01 +0900",
+	"total":308276,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[사설] 세입 격차와 분구 갈등, 인천시가 조정해야",
+			"originallink":"https:\/\/www.kyeongin.com\/article\/1771082",
+			"link":"https:\/\/www.kyeongin.com\/article\/1771082",
+			"description":"송도·<b>청라<\/b>·영종 등 대규모 개발지역의 높은 지가와 주택가격이 자치구 세입으로 이어진 결과다. 대표적 원도심 지역인 제물포구의 재산세 부과액은 581억원에 그쳤다. 신구도심 세입 격차를 완화하고 신설·개편 자치구를... ",
+			"pubDate":"Thu, 17 Sep 2026 20:28:00 +0900"
+		},
+		{
+			"title":"신한은행, 인천시 제1금고 6회 연속 수성…2030년까지 관리",
+			"originallink":"https:\/\/www.thepowernews.co.kr\/view.php?ud=202609172019258093de3f0aa1be_7",
+			"link":"https:\/\/www.thepowernews.co.kr\/view.php?ud=202609172019258093de3f0aa1be_7",
+			"description":"20년간 자리를 지켜온 신한은행과 인천 <b>청라<\/b>국제도시로 거점을 옮기며 지역 밀착을 강조한 하나은행의 맞대결로 관심을 모았지만, 최종적으로 신한은행이 다시 제1금고를 수성했다. 신한은행은 일반회계와... ",
+			"pubDate":"Thu, 17 Sep 2026 20:22:00 +0900"
+		},
+		{
+			"title":"차량 하루 4만대 몰리는데 관광객은 '한산'",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1332376",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1332376",
+			"description":"<b>청라<\/b>하늘대교 전경. \/사진제공=인천경제자유구역청 올해 1월 개통한 <b>청라<\/b>하늘대교에 하루 4만대 가까운 차량이 몰리고 있지만, 관광시설은 이용객과 매출이 함께 줄면서 적자를 피하기 어려운 상황에 놓였다.... ",
+			"pubDate":"Thu, 17 Sep 2026 20:10:00 +0900"
+		},
 		{
 			"title":"신한은행, 인천시 1금고 수성…2027년부터 4년간 관리",
 			"originallink":"https:\/\/www.viva100.com\/article\/20260917501407",
@@ -26,17 +47,17 @@
 			"pubDate":"Thu, 17 Sep 2026 20:04:00 +0900"
 		},
 		{
-			"title":"영종진 해안둘레길 준공 3년만에 일부 철거",
-			"originallink":"https:\/\/www.kyeongin.com\/article\/1771068",
-			"link":"https:\/\/www.kyeongin.com\/article\/1771068",
-			"description":"이에 대해 인천경제청 영종<b>청라<\/b>기반과 관계자는 “해당 구간이 부식이 가장 심하고, 주민 민원도 많아 지난 14일부터 우선적으로 철거 공사에 들어갔다”며 “다시 조성한다면 데크 높이를 올려 만조 때 바닷물에... ",
-			"pubDate":"Thu, 17 Sep 2026 20:02:00 +0900"
-		},
-		{
 			"title":"신한은행, 서울 이어 인천시 금고지기 지켜…68조원 운영한다",
 			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1407532",
 			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1407532",
 			"description":"특히 인천 <b>청라<\/b>로 그룹 거점을 옮긴 하나은행이 강하게 도전했지만, 신한은행이 20년 가까이 쌓아온 시금고... 하나은행은 그룹의 <b>청라<\/b> 이전을 전면에 내세우며 인천 지역과의 접점을 강조했다. 하나금융은 인천 <b>청라<\/b>를... ",
+			"pubDate":"Thu, 17 Sep 2026 20:02:00 +0900"
+		},
+		{
+			"title":"영종진 해안둘레길 준공 3년만에 일부 철거",
+			"originallink":"https:\/\/www.kyeongin.com\/article\/1771068",
+			"link":"https:\/\/www.kyeongin.com\/article\/1771068",
+			"description":"이에 대해 인천경제청 영종<b>청라<\/b>기반과 관계자는 “해당 구간이 부식이 가장 심하고, 주민 민원도 많아 지난 14일부터 우선적으로 철거 공사에 들어갔다”며 “다시 조성한다면 데크 높이를 올려 만조 때 바닷물에... ",
 			"pubDate":"Thu, 17 Sep 2026 20:02:00 +0900"
 		},
 		{
@@ -61,13 +82,6 @@
 			"pubDate":"Thu, 17 Sep 2026 19:58:00 +0900"
 		},
 		{
-			"title":"'20년 아성' 신한銀, 인천시금고 지켰다",
-			"originallink":"https:\/\/www.mk.co.kr\/article\/12155812",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005736972?sid=102",
-			"description":"인천시 제1금고로 선정 '<b>청라<\/b> 이전 승부수' 하나 꺾어 年 15조원, 2030년까지 운영 2금고 NH농협과 24년 동행... 인천 <b>청라<\/b>로 본사를 이전하는 하나은행은 지역 밀착과 상생 전략을 앞세웠지만, 20년간 축적된 신한은행의... ",
-			"pubDate":"Thu, 17 Sep 2026 19:56:00 +0900"
-		},
-		{
 			"title":"'20년 아성' 지킨 신한은행, 인천시금고 4년 더 맡는다",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20260917_0003794634",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014198262?sid=101",
@@ -75,11 +89,11 @@
 			"pubDate":"Thu, 17 Sep 2026 19:56:00 +0900"
 		},
 		{
-			"title":"신한은행 인천시 1금고 수성…&quot;지역 발전에 최선&quot;(종합)",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260917192151002?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016319248?sid=101",
-			"description":"하나은행은 최근 인천 <b>청라<\/b>로 그룹 핵심 거점을 이전한 점을 주요하게 제시하며 1금고에 도전했다. 반면 신한은행은 2007년부터 20년간 인천시 1금고를 운영하며 축적한 금고 업무 경험과 시스템 안정성, 업무 연속성을... ",
-			"pubDate":"Thu, 17 Sep 2026 19:54:00 +0900"
+			"title":"'20년 아성' 신한銀, 인천시금고 지켰다",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/12155812",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005736972?sid=102",
+			"description":"인천시 제1금고로 선정 '<b>청라<\/b> 이전 승부수' 하나 꺾어 年 15조원, 2030년까지 운영 2금고 NH농협과 24년 동행... 인천 <b>청라<\/b>로 본사를 이전하는 하나은행은 지역 밀착과 상생 전략을 앞세웠지만, 20년간 축적된 신한은행의... ",
+			"pubDate":"Thu, 17 Sep 2026 19:56:00 +0900"
 		},
 		{
 			"title":"신한은행, 인천시금고 지켰다…'<b>청라<\/b> 승부' 한판승",
@@ -89,10 +103,17 @@
 			"pubDate":"Thu, 17 Sep 2026 19:54:00 +0900"
 		},
 		{
-			"title":"신한, 인천시 금고지기 '수성'…20년 동행 이어간다",
-			"originallink":"https:\/\/www.hankyung.com\/article\/2026091723141",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005333649?sid=101",
-			"description":"하나은행은 하나금융그룹이 인천 <b>청라<\/b>국제도시로 본사를 이전하고 다양한 사회공헌 활동을 펼치며 현지 민심 잡기에 힘을 쏟았다. 이날 심의위에는 이호성 하나은행장과 정상혁 신한은행장이 직접 프레젠테이션(PT)에... ",
+			"title":"신한은행 인천시 1금고 수성…&quot;지역 발전에 최선&quot;(종합)",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20260917192151002?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016319248?sid=101",
+			"description":"하나은행은 최근 인천 <b>청라<\/b>로 그룹 핵심 거점을 이전한 점을 주요하게 제시하며 1금고에 도전했다. 반면 신한은행은 2007년부터 20년간 인천시 1금고를 운영하며 축적한 금고 업무 경험과 시스템 안정성, 업무 연속성을... ",
+			"pubDate":"Thu, 17 Sep 2026 19:54:00 +0900"
+		},
+		{
+			"title":"‘年 17조’ 인천시 금고지기에 신한은행",
+			"originallink":"https:\/\/www.kukinews.com\/article\/view\/kuk202609170224",
+			"link":"https:\/\/www.kukinews.com\/article\/view\/kuk202609170224",
+			"description":"하나은행은 그룹 본사의 <b>청라<\/b> 이전을 계기로 지역경제 기여도를 부각하며 탈환을 노렸지만 최종 선정에는 이르지 못했다. 특히 이호성 하나은행장이 직접 프레젠테이션(PT)에 나서는 등 유치전에 공을 들였으나 고배를... ",
 			"pubDate":"Thu, 17 Sep 2026 19:52:00 +0900"
 		},
 		{
@@ -103,18 +124,11 @@
 			"pubDate":"Thu, 17 Sep 2026 19:52:00 +0900"
 		},
 		{
-			"title":"‘年 17조’ 인천시 금고지기에 신한은행",
-			"originallink":"https:\/\/www.kukinews.com\/article\/view\/kuk202609170224",
-			"link":"https:\/\/www.kukinews.com\/article\/view\/kuk202609170224",
-			"description":"하나은행은 그룹 본사의 <b>청라<\/b> 이전을 계기로 지역경제 기여도를 부각하며 탈환을 노렸지만 최종 선정에는 이르지 못했다. 특히 이호성 하나은행장이 직접 프레젠테이션(PT)에 나서는 등 유치전에 공을 들였으나 고배를... ",
+			"title":"신한, 인천시 금고지기 '수성'…20년 동행 이어간다",
+			"originallink":"https:\/\/www.hankyung.com\/article\/2026091723141",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005333649?sid=101",
+			"description":"하나은행은 하나금융그룹이 인천 <b>청라<\/b>국제도시로 본사를 이전하고 다양한 사회공헌 활동을 펼치며 현지 민심 잡기에 힘을 쏟았다. 이날 심의위에는 이호성 하나은행장과 정상혁 신한은행장이 직접 프레젠테이션(PT)에... ",
 			"pubDate":"Thu, 17 Sep 2026 19:52:00 +0900"
-		},
-		{
-			"title":"신한은행, 인천시 제1금고 지정",
-			"originallink":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=866358",
-			"link":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=866358",
-			"description":"\/김근현 기자 khkim@sporbiz.co.kr | 서울=한스경제 김근현 기자 | 신한은행이 <b>청라<\/b>국제도시 본사 이전을 앞세운... 이번 제1금고 공모는 2007년부터 금고 업무를 전담해 온 신한은행과 <b>청라<\/b> 본사 이전을 전략적으로 추진하며... ",
-			"pubDate":"Thu, 17 Sep 2026 19:50:00 +0900"
 		},
 		{
 			"title":"신한은행, 인천시 제1금고 수성…20년 아성 지켰다",
@@ -128,6 +142,13 @@
 			"originallink":"http:\/\/www.popcornnews.net\/news\/articleView.html?idxno=133387",
 			"link":"http:\/\/www.popcornnews.net\/news\/articleView.html?idxno=133387",
 			"description":"하나금융그룹은 이달부터 <b>청라<\/b>국제도시로 본사 이전을 시작했다. 하나금융지주와 하나은행 등 10개 관계사의 임직원 약 2200명을 <b>청라<\/b> 그룹헤드쿼터에 단계적으로 배치하고 있다. 통합데이터센터 인력까지 포함하면... ",
+			"pubDate":"Thu, 17 Sep 2026 19:50:00 +0900"
+		},
+		{
+			"title":"신한은행, 인천시 제1금고 지정",
+			"originallink":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=866358",
+			"link":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=866358",
+			"description":"\/김근현 기자 khkim@sporbiz.co.kr | 서울=한스경제 김근현 기자 | 신한은행이 <b>청라<\/b>국제도시 본사 이전을 앞세운... 이번 제1금고 공모는 2007년부터 금고 업무를 전담해 온 신한은행과 <b>청라<\/b> 본사 이전을 전략적으로 추진하며... ",
 			"pubDate":"Thu, 17 Sep 2026 19:50:00 +0900"
 		},
 		{
@@ -152,6 +173,13 @@
 			"pubDate":"Thu, 17 Sep 2026 19:42:00 +0900"
 		},
 		{
+			"title":"신한은행, 인천시 1금고 지켜냈다…24년 연속 금고지기 수성",
+			"originallink":"https:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4435494",
+			"link":"https:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4435494",
+			"description":"'<b>청라<\/b> 시대'를 앞세운 하나은행을 따돌리고, 2030년까지 24년간 인천시 곳간을 지키게 됐다. 인천시는 17일... 이번 인천시 1금고 선정은 오랜 운영 경험을 앞세운 신한은행과 <b>청라<\/b> 이전을 계기로 지역 기반 확대에 나선... ",
+			"pubDate":"Thu, 17 Sep 2026 19:40:00 +0900"
+		},
+		{
 			"title":"신한은행, 인천시금고 쟁탈전 수성 성공…20년에서 4년 더",
 			"originallink":"https:\/\/www.news2day.co.kr\/article\/20260917500289",
 			"link":"https:\/\/www.news2day.co.kr\/article\/20260917500289",
@@ -163,13 +191,6 @@
 			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=261888",
 			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=261888",
 			"description":"하나은행은 최근 그룹 핵심 계열사와 주요 거점을 인천 <b>청라<\/b>로 이전한 점을 바탕으로 지역사회 협력과 인천 내 금융 거점 강화 의지를 강조하며 시금고 유치에 도전했다. 신한은행은 2007년부터 인천시 제1금고를... ",
-			"pubDate":"Thu, 17 Sep 2026 19:40:00 +0900"
-		},
-		{
-			"title":"신한은행, 인천시 1금고 지켜냈다…24년 연속 금고지기 수성",
-			"originallink":"https:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4435494",
-			"link":"https:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4435494",
-			"description":"'<b>청라<\/b> 시대'를 앞세운 하나은행을 따돌리고, 2030년까지 24년간 인천시 곳간을 지키게 됐다. 인천시는 17일... 이번 인천시 1금고 선정은 오랜 운영 경험을 앞세운 신한은행과 <b>청라<\/b> 이전을 계기로 지역 기반 확대에 나선... ",
 			"pubDate":"Thu, 17 Sep 2026 19:40:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=488185",
 			"description":"20년간 인천시 주금고를 운영해온 신한은행은 하나금융그룹의 <b>청라<\/b> 헤드쿼터 이전을 계기로 지역 기반을... 하나금융그룹의 <b>청라<\/b> 헤드쿼터 이전을 바탕으로 인천과의 연계성과 지역 밀착형 금융 역량을 내세웠다. 최종... ",
 			"pubDate":"Thu, 17 Sep 2026 19:32:00 +0900"
-		},
-		{
-			"title":"신한은행, 서울·인천 '금고지기' 모두 지켰다…&quot;지역 경제 발전 기여&quot;(...",
-			"originallink":"https:\/\/www.news1.kr\/finance\/general-finance\/6294517",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0009177626?sid=101",
-			"description":"20년 가까이 인천시 제1금고를 맡아온 신한은행이 <b>청라<\/b> 그룹 본사 이전을 앞세운 하나은행의 도전을... 반면 <b>청라<\/b>국제도시 그룹헤드쿼터(HQ) 이전을 핵심 경쟁력으로 내세우며 세 번째 도전에 나섰던 하나은행은... ",
-			"pubDate":"Thu, 17 Sep 2026 19:31:00 +0900"
-		},
-		{
-			"title":"신한은행, 인천시금고 수성...20년 철옹성 지켜냈다",
-			"originallink":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=549063",
-			"link":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=549063",
-			"description":"하나금융의 <b>청라<\/b> 이전에 따른 고용·세수 확대 등 기대효과도 강조됐지만 판을 뒤집지는 못했다. 한편, 인천시는 우선협상대상자와 후속 협의를 거쳐 차기 시금고 운영기관을 확정할 예정이다.",
-			"pubDate":"Thu, 17 Sep 2026 19:30:00 +0900"
-		},
-		{
-			"title":"'17조 인천시 금고' 신한은행이 지킨다...하나은행 3번째 도전 무산",
-			"originallink":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=227284",
-			"link":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=227284",
-			"description":"하나은행, <b>청라<\/b> 그룹HQ 이전 앞세워 세 번째 도전했지만 탈락 제2금고는 단독 신청한 NH농협은행...향후 금고... 2007년부터 약 20년간 인천시 제1금고를 맡아온 신한은행은 <b>청라<\/b> 그룹헤드쿼터(HQ) 이전을 앞세운 하나은행의... ",
-			"pubDate":"Thu, 17 Sep 2026 19:30:00 +0900"
 		}
 	]
 }
