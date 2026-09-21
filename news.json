@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 22 Sep 2026 07:40:01 +0900",
-	"total":308656,
+	"lastBuildDate":"Tue, 22 Sep 2026 07:50:01 +0900",
+	"total":308657,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[핀테크핫이슈] 간편결제 이용처 확대...야간 주식거래 본격화",
+			"originallink":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=702111",
+			"link":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=702111",
+			"description":"하나은행은 그룹 본점의 <b>청라<\/b> 이전과 지역 금융지원 확대를 앞세워 도전했지만, 신한은행은 금고 운영 경험과 전산 인프라의 안정성을 내세워 방어에 성공했다. 이에 따라 신한은행은 2027년부터 2030년까지 인천시... ",
+			"pubDate":"Tue, 22 Sep 2026 07:30:00 +0900"
+		},
 		{
 			"title":"하나금융그룹, 인천 <b>청라<\/b>로 본사 이전…직원 4천 명 집결하며 협업 강화",
 			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=879324",
@@ -159,17 +166,17 @@
 			"pubDate":"Mon, 21 Sep 2026 20:06:00 +0900"
 		},
 		{
-			"title":"인천 영종역 향하던 공항철도 20여분간 운행 중단···퇴근 시간대 승객...",
-			"originallink":"https:\/\/www.khan.co.kr\/article\/202609211920001",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003471818?sid=102",
-			"description":"21일 공항철도 등에 따르면 이날 오후 5시20분쯤 인천 <b>청라<\/b>국제도시역에서 영종역 방향으로 향하던 공항철도 열차가 멈춰 섰다. 해당 열차는 ‘비상제동’이 걸리면서 선로 중간에 멈춰 선 것으로 전해졌다. 구체적인... ",
-			"pubDate":"Mon, 21 Sep 2026 19:20:00 +0900"
-		},
-		{
 			"title":"150km 좌완 파이어볼러는 '<b>청라<\/b>돔 시대' 주역이 된다…SSG &quot;구단 시스템...",
 			"originallink":"https:\/\/www.spotvnews.co.kr\/news\/articleView.html?idxno=1008813",
 			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/477\/0000629265",
 			"description":"SSG 구단은 &quot;이번 드래프트에서 SSG는 2028년 <b>청라<\/b>돔 시대를 대비한 구단 중장기 로드맵에 발맞춰 1군... 이를 위해 체계적인 교육과 피지컬 프로젝트 등 선수별 맞춤 솔루션을 가동해 <b>청라<\/b>돔 시대를 이끌어갈 전력으로... ",
+			"pubDate":"Mon, 21 Sep 2026 19:20:00 +0900"
+		},
+		{
+			"title":"인천 영종역 향하던 공항철도 20여분간 운행 중단···퇴근 시간대 승객...",
+			"originallink":"https:\/\/www.khan.co.kr\/article\/202609211920001",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003471818?sid=102",
+			"description":"21일 공항철도 등에 따르면 이날 오후 5시20분쯤 인천 <b>청라<\/b>국제도시역에서 영종역 방향으로 향하던 공항철도 열차가 멈춰 섰다. 해당 열차는 ‘비상제동’이 걸리면서 선로 중간에 멈춰 선 것으로 전해졌다. 구체적인... ",
 			"pubDate":"Mon, 21 Sep 2026 19:20:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/529\/0000078633",
 			"description":"&quot;2028년 <b>청라<\/b>돔 시대를 대비해 1군에서 경쟁할 핵심 예비 전력을 확보하는 데 주력했다&quot;는 설명이다. 이윤성은 최고 시속 150km의 속구와 다양한 변화구를 던지는 정통파 좌완이다. 구단은 우수한 근력과 강한 체력을... ",
 			"pubDate":"Mon, 21 Sep 2026 18:50:00 +0900"
-		},
-		{
-			"title":"영종역 향하던 공항철도 '비상 제동'...20여 분 운행 지연",
-			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0103_202609211832063445",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002409932?sid=102",
-			"description":"오늘(21일) 오후 5시 20분쯤 인천 <b>청라<\/b>국제도시역을 출발해 영종역으로 향하던 공항철도 열차가 운행 도중 갑자기 멈췄습니다. 기관사가 열차를 살펴봤지만 육안상 큰 문제가 발견되지 않아 우선 영종역까지 서행... ",
-			"pubDate":"Mon, 21 Sep 2026 18:32:00 +0900"
 		}
 	]
 }
