@@ -1,22 +1,29 @@
 {
-	"lastBuildDate":"Mon, 21 Sep 2026 10:50:01 +0900",
-	"total":308574,
+	"lastBuildDate":"Mon, 21 Sep 2026 11:00:01 +0900",
+	"total":308576,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구교통공사, 도시철도 장애인 편의시설 합동점검...10건 개선 요청",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3701870",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3701870",
+			"description":"점검에는 장애인, 협회 관계자, 공사 직원 등 16명이 참여했으며, 2호선 반고개역, 2·3호선 <b>청라<\/b>언덕역, 3호선 매천시장역 등에서 장애인 이용과 밀접한 시설을 집중적으로 확인했다. 대구교통공사는 지난해에도 합동점검을... ",
+			"pubDate":"Mon, 21 Sep 2026 10:56:00 +0900"
+		},
+		{
+			"title":"인천시, 추석 연휴 4일간 시민 편의 종합대책 가동",
+			"originallink":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=710429",
+			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=710429",
+			"description":"원적산터널과 만월산터널, <b>청라<\/b>하늘대교 등 3개 시설은 9월 24일 0시부터 27일 자정까지 통행료가 면제된다. 명절 기간 차량 이동이 늘어나는 상황에 대비해 교통 안전관리와 운행 상황 점검도 병행할 방침이다. 성묘객을... ",
+			"pubDate":"Mon, 21 Sep 2026 10:54:00 +0900"
+		},
 		{
 			"title":"대구교통공사, 장애인 목소리 반영해 이용편의시설 개선",
 			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2026092110465622300",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0001029655?sid=004",
 			"description":"2호선 반고개역, 2·3호선 <b>청라<\/b>언덕역, 3호선 매천시장역을 대상으로 장애인의 실제 도시철도 이용 과정과 밀접한 시설을 중심으로 점검했다. 현장을 살펴본 결과, 3호선 승강장의 고객대기실 자동문 스위치 위치가... ",
 			"pubDate":"Mon, 21 Sep 2026 10:48:00 +0900"
-		},
-		{
-			"title":"인천시, 추석 연휴 시민 편의 종합대책 추진",
-			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=238837",
-			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=238837",
-			"description":"원적산터널과 만월산터널, <b>청라<\/b>하늘대교는 24일 0시부터 27일 24시까지 통행료를 면제한다. 성묘객을 위한 지원도 마련한다. 25일 인천가족공원 셔틀버스를 운행하고, 24일부터 26일까지 제일고교 운동장에 임시주차장을... ",
-			"pubDate":"Mon, 21 Sep 2026 10:38:00 +0900"
 		},
 		{
 			"title":"대구교통공사, 장애인 단체와 도시철도 편의시설 합동점검",
@@ -26,17 +33,24 @@
 			"pubDate":"Mon, 21 Sep 2026 10:38:00 +0900"
 		},
 		{
-			"title":"BNK금융, 부산·경남은행 하반기 신입행원 채용…'통합직군' 도입",
-			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=212981",
-			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=212981",
-			"description":"하나금융그룹 통합 본사의 인천 <b>청라<\/b> 이전에 맞춰 인천 지역 인재를 선발하는 '인천하나 상생채용' 전형도 새롭게 도입했다. 은행권이 하반기 채용에서 지역인재 선발을 확대하는 동시에 디지털·AI와 기업금융... ",
-			"pubDate":"Mon, 21 Sep 2026 10:32:00 +0900"
+			"title":"인천시, 추석 연휴 시민 편의 종합대책 추진",
+			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=238837",
+			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=238837",
+			"description":"원적산터널과 만월산터널, <b>청라<\/b>하늘대교는 24일 0시부터 27일 24시까지 통행료를 면제한다. 성묘객을 위한 지원도 마련한다. 25일 인천가족공원 셔틀버스를 운행하고, 24일부터 26일까지 제일고교 운동장에 임시주차장을... ",
+			"pubDate":"Mon, 21 Sep 2026 10:38:00 +0900"
 		},
 		{
 			"title":"서해소방서, 취약계층 주거환경 개선으로 화재안전 사각지대 해소",
 			"originallink":"http:\/\/fpn119.co.kr\/256888",
 			"link":"http:\/\/fpn119.co.kr\/256888",
 			"description":"= 서해소방서(서장 허석경)는 지난 18일 <b>청라<\/b>호수공원 야외음악당 일원에서 ‘취약계층 사회공헌활동 프로젝트’를 추진하고 재난취약계층, 재가장애인 등 40여 가구를 대상으로 주거환경 개선과 안전점검을 실시했다.... ",
+			"pubDate":"Mon, 21 Sep 2026 10:32:00 +0900"
+		},
+		{
+			"title":"BNK금융, 부산·경남은행 하반기 신입행원 채용…'통합직군' 도입",
+			"originallink":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=212981",
+			"link":"http:\/\/www.srtimes.kr\/news\/articleView.html?idxno=212981",
+			"description":"하나금융그룹 통합 본사의 인천 <b>청라<\/b> 이전에 맞춰 인천 지역 인재를 선발하는 '인천하나 상생채용' 전형도 새롭게 도입했다. 은행권이 하반기 채용에서 지역인재 선발을 확대하는 동시에 디지털·AI와 기업금융... ",
 			"pubDate":"Mon, 21 Sep 2026 10:32:00 +0900"
 		},
 		{
@@ -54,17 +68,17 @@
 			"pubDate":"Mon, 21 Sep 2026 10:26:00 +0900"
 		},
 		{
-			"title":"추석 연휴 인천시, 교통·의료·장보기 편의 총력",
-			"originallink":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1102229",
-			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1102229",
-			"description":"교통비 부담을 덜기 위해 원적산터널과 만월산터널, <b>청라<\/b>하늘대교의 통행료도 면제한다. 면제 기간은 24일 0시부터 27일 자정까지다. 성묘객을 위한 교통지원도 강화한다. 25일에는 인천가족공원 셔틀버스를 운행하고... ",
-			"pubDate":"Mon, 21 Sep 2026 10:14:00 +0900"
-		},
-		{
 			"title":"현대건설, 도시정비사업 2년 연속 10조원 수주 돌파",
 			"originallink":"http:\/\/www.financialreview.co.kr\/news\/articleView.html?idxno=44988",
 			"link":"http:\/\/www.financialreview.co.kr\/news\/articleView.html?idxno=44988",
 			"description":"대구도시철도 1·2호선 반월당역과 2·3호선 <b>청라<\/b>언덕역을 이용할 수 있으며, 동성로와 현대백화점 등 상업시설도 인근에 위치한다. 현대건설은 '힐스테이트 남산 시그니처'를 제안해 중구를 대표하는 도심형 주거... ",
+			"pubDate":"Mon, 21 Sep 2026 10:14:00 +0900"
+		},
+		{
+			"title":"추석 연휴 인천시, 교통·의료·장보기 편의 총력",
+			"originallink":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1102229",
+			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1102229",
+			"description":"교통비 부담을 덜기 위해 원적산터널과 만월산터널, <b>청라<\/b>하늘대교의 통행료도 면제한다. 면제 기간은 24일 0시부터 27일 자정까지다. 성묘객을 위한 교통지원도 강화한다. 25일에는 인천가족공원 셔틀버스를 운행하고... ",
 			"pubDate":"Mon, 21 Sep 2026 10:14:00 +0900"
 		},
 		{
@@ -82,17 +96,17 @@
 			"pubDate":"Mon, 21 Sep 2026 10:02:00 +0900"
 		},
 		{
-			"title":"인천시, 추석연휴 시민 편의 종합대책 가동…교통·의료·성묘 지원",
-			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2026092109595690670?utm_source=naver&utm_medium=search",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002457677?sid=102",
-			"description":"시민들의 교통비 부담을 줄이기 위해 원적산터널과 만월산터널, <b>청라<\/b>하늘대교 통행료도 면제한다. 무료 통행은 9월 24일 0시부터 27일 24시까지 적용된다. 가족공원 셔틀버스·임시주차장 운영…성묘객 편의 지원... ",
-			"pubDate":"Mon, 21 Sep 2026 10:01:00 +0900"
-		},
-		{
 			"title":"인천시, 추석 연휴 시민 편의 종합대책 운영",
 			"originallink":"https:\/\/www.ohmynews.com\/NWS_Web\/View\/at_pg.aspx?CNTN_CD=A0003269081&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/047\/0002529727?sid=102",
 			"description":"가족공원 셔틀버스·임시주차장 운영 ▲  인천시는 시민 교통비 부담을 덜기 위해 원적산터널과 만월산터널, <b>청라<\/b>하늘대교는 추석 연휴인 9월 24일 0시부터 9월 27일 자정까지 통행료를 면제할 방침이다. 사진은 <b>청라<\/b>하늘... ",
+			"pubDate":"Mon, 21 Sep 2026 10:01:00 +0900"
+		},
+		{
+			"title":"인천시, 추석연휴 시민 편의 종합대책 가동…교통·의료·성묘 지원",
+			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2026092109595690670?utm_source=naver&utm_medium=search",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002457677?sid=102",
+			"description":"시민들의 교통비 부담을 줄이기 위해 원적산터널과 만월산터널, <b>청라<\/b>하늘대교 통행료도 면제한다. 무료 통행은 9월 24일 0시부터 27일 24시까지 적용된다. 가족공원 셔틀버스·임시주차장 운영…성묘객 편의 지원... ",
 			"pubDate":"Mon, 21 Sep 2026 10:01:00 +0900"
 		},
 		{
@@ -145,17 +159,17 @@
 			"pubDate":"Mon, 21 Sep 2026 09:26:00 +0900"
 		},
 		{
-			"title":"교통부터 의료·장보기까지...인천시, 추석 편의 종합대책 가동",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=479910",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=479910",
-			"description":"오는 24일 0시부터 27일 24시까지원적산터널, 만월산터널, <b>청라<\/b>하늘대교 등 민자터널과 대교 통행료가 전면 면제된다. 또 고속버스(19대\/18회), 시외버스(9대\/41회), 연안여객선(2회), 인천지하철(10회) 등이 추가 운행되며... ",
-			"pubDate":"Mon, 21 Sep 2026 09:24:00 +0900"
-		},
-		{
 			"title":"인천시 추석 연휴 통행료 ‘0원’…응급실 26곳 24시간",
 			"originallink":"https:\/\/www.viva100.com\/article\/20260921500193",
 			"link":"https:\/\/www.viva100.com\/article\/20260921500193",
 			"description":"원적산터널과 만월산터널, <b>청라<\/b>하늘대교 통행료가 나흘간 면제되고 버스와 여객선 운행도 확대된다.... 특히 오는 24일 0시부터 27일 자정까지 원적산터널·만월산터널·<b>청라<\/b>하늘대교 통행료를 받지 않는다.명절 기간... ",
+			"pubDate":"Mon, 21 Sep 2026 09:24:00 +0900"
+		},
+		{
+			"title":"교통부터 의료·장보기까지...인천시, 추석 편의 종합대책 가동",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=479910",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=479910",
+			"description":"오는 24일 0시부터 27일 24시까지원적산터널, 만월산터널, <b>청라<\/b>하늘대교 등 민자터널과 대교 통행료가 전면 면제된다. 또 고속버스(19대\/18회), 시외버스(9대\/41회), 연안여객선(2회), 인천지하철(10회) 등이 추가 운행되며... ",
 			"pubDate":"Mon, 21 Sep 2026 09:24:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3701684",
 			"description":"원적산터널, 만월산터널, <b>청라<\/b>하늘대교는 9월 24일 0시부터 27일 24시까지 통행료가 면제된다. 성묘객을 위해 9월 25일 인천가족공원 셔틀버스와 9월 24일부터 26일까지 제일고교 운동장 임시주차장이 운영된다.... ",
 			"pubDate":"Mon, 21 Sep 2026 08:56:00 +0900"
-		},
-		{
-			"title":"현대건설, 도시정비 수주 10조1180억원…2년 연속 10조 돌파",
-			"originallink":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=92142",
-			"link":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=92142",
-			"description":"대구도시철도 1·2호선 반월당역과 2·3호선 <b>청라<\/b>언덕역을 이용할 수 있으며 동성로와 현대백화점 등 주요 상업시설도 인근에 위치합니다. 현대건설은 ‘힐스테이트 남산 시그니처’를 제안해 대구 원도심의 특성을... ",
-			"pubDate":"Mon, 21 Sep 2026 08:52:00 +0900"
-		},
-		{
-			"title":"인천 추석 4일, 시민 일상에 ‘빈틈’ 없다",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1692709\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0003134810?sid=102",
-			"description":"특히 원적산터널과 만월산터널, <b>청라<\/b>하늘대교의 통행료를 24일 0시부터 오는 27일 24시까지 면제해 이동 부담을 낮춘다. 성묘객을 위한 교통 지원도 강화한다. 오는 25일 인천가족공원 셔틀버스를 운행하고 24~26일까지... ",
-			"pubDate":"Mon, 21 Sep 2026 08:50:00 +0900"
 		}
 	]
 }
