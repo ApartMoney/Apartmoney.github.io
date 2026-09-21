@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 21 Sep 2026 15:10:01 +0900",
-	"total":308603,
+	"lastBuildDate":"Mon, 21 Sep 2026 15:20:01 +0900",
+	"total":308604,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[인천 주요 뉴스]아트센터인천, 첫 무료 야외음악회 어쿠스틱 브리즈",
+			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6581146?utm_source=naver&utm_medium=article&utm_campaign=20260921030021",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0004191620?sid=102",
+			"description":"연휴 기간 고속·시외버스와 여객선을 증편하고 도시철도를 연장 운행하며, 원적산터널·만월산터널·<b>청라<\/b>하늘대교 통행료를 면제하고 인천가족공원 셔틀버스와 임시주차장도 운영합니다. 응급의료기관 26곳의 24시간... ",
+			"pubDate":"Mon, 21 Sep 2026 15:01:00 +0900"
+		},
 		{
 			"title":"인천도시철도, 서울7호선 <b>청라<\/b>연장 1공구, 20회 기성검사…누계 1,173억원",
 			"originallink":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1102300",
@@ -138,17 +145,17 @@
 			"pubDate":"Mon, 21 Sep 2026 12:10:00 +0900"
 		},
 		{
-			"title":"인천시, 추석 연휴 12개 분야 종합대책 가동",
-			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=716459",
-			"link":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=716459",
-			"description":"교통비 부담을 줄이기 위해 원적산터널과 만월산터널, <b>청라<\/b>하늘대교의 통행료도 면제한다. 면제 기간은 9월 24일 0시부터 27일 자정까지다. 성묘객을 위한 이동·주차 지원도 마련한다. 9월 25일 인천가족공원 셔틀버스를... ",
-			"pubDate":"Mon, 21 Sep 2026 12:08:00 +0900"
-		},
-		{
 			"title":"인천시, 추석 연휴 교통·의료·성묘 등 12개 분야 종합대책",
 			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3035396",
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3035396",
 			"description":"원적산터널과 만월산터널, <b>청라<\/b>하늘대교도 24일 자정부터 27일까지 모든 차량의 통행료를 면제한다. 운전자는 별도의 절차 없이 요금소를 통과하면 된다. 평소 원적산터널과 만월산터널 통행료는 경차 400원, 소형차... ",
+			"pubDate":"Mon, 21 Sep 2026 12:08:00 +0900"
+		},
+		{
+			"title":"인천시, 추석 연휴 12개 분야 종합대책 가동",
+			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=716459",
+			"link":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=716459",
+			"description":"교통비 부담을 줄이기 위해 원적산터널과 만월산터널, <b>청라<\/b>하늘대교의 통행료도 면제한다. 면제 기간은 9월 24일 0시부터 27일 자정까지다. 성묘객을 위한 이동·주차 지원도 마련한다. 9월 25일 인천가족공원 셔틀버스를... ",
 			"pubDate":"Mon, 21 Sep 2026 12:08:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.newsfreezone.co.kr\/news\/articleView.html?idxno=710429",
 			"description":"원적산터널과 만월산터널, <b>청라<\/b>하늘대교 등 3개 시설은 9월 24일 0시부터 27일 자정까지 통행료가 면제된다. 명절 기간 차량 이동이 늘어나는 상황에 대비해 교통 안전관리와 운행 상황 점검도 병행할 방침이다. 성묘객을... ",
 			"pubDate":"Mon, 21 Sep 2026 10:54:00 +0900"
-		},
-		{
-			"title":"대구교통공사, 장애인 목소리 반영해 이용편의시설 개선",
-			"originallink":"https:\/\/www.imaeil.com\/page\/view\/2026092110465622300",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/088\/0001029655?sid=004",
-			"description":"2호선 반고개역, 2·3호선 <b>청라<\/b>언덕역, 3호선 매천시장역을 대상으로 장애인의 실제 도시철도 이용 과정과 밀접한 시설을 중심으로 점검했다. 현장을 살펴본 결과, 3호선 승강장의 고객대기실 자동문 스위치 위치가... ",
-			"pubDate":"Mon, 21 Sep 2026 10:48:00 +0900"
 		}
 	]
 }
