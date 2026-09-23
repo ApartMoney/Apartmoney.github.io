@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 24 Sep 2026 06:00:01 +0900",
-	"total":308814,
+	"lastBuildDate":"Thu, 24 Sep 2026 06:10:01 +0900",
+	"total":308815,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"지하철역 속 금융사명, 8개월간 8718만명 스쳤다",
+			"originallink":"https:\/\/www.kbanker.co.kr\/news\/articleView.html?idxno=226007",
+			"link":"https:\/\/www.kbanker.co.kr\/news\/articleView.html?idxno=226007",
+			"description":"선릉역의 월평균 이용객은 192만명으로, 12곳 중 가장 적은 공항철도 <b>청라<\/b>국제도시(하나금융타운)역(23만명)의 8.4배에 이르렀다. 하루 평균으로 환산하면 선릉역은 6만3000여명, <b>청라<\/b>국제도시역은 7500여명이다.... ",
+			"pubDate":"Thu, 24 Sep 2026 06:00:00 +0900"
+		},
 		{
 			"title":"2026 추석 코스트코 휴무일, 영업하는 지점·영업시간 확인 必",
 			"originallink":"http:\/\/www.newskr.kr\/news\/articleView.html?idxno=106635",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=20260923152611754967191f6c6e_12",
 			"description":"대우건설이 시공하는 ‘<b>청라<\/b> 아크원 푸르지오’는 지하 5층~지상 최고 49층, 6개 동 규모다. 아파트... 7호선 연장선(가칭 국제업무단지역)과 초등학교 신설이 예정돼 있고 하나금융타운, 스타필드 <b>청라<\/b>... ",
 			"pubDate":"Wed, 23 Sep 2026 15:28:00 +0900"
-		},
-		{
-			"title":"“철도망에 지역 명운 걸렸다”…지자체 250개 노선 유치 총력전",
-			"originallink":"http:\/\/www.lawissue.co.kr\/view.php?ud=20260923152324183567191f6c6e_12",
-			"link":"http:\/\/www.lawissue.co.kr\/view.php?ud=20260923152324183567191f6c6e_12",
-			"description":"인천시와 계양구 등은 부천 대장지구에서 끝나는 대장홍대선을 계양신도시를 거쳐 <b>청라<\/b>국제도시까지 잇는 연장안과 GTX-D Y자·E 노선 반영을 위해 지난 8월 대규모 시민 서명운동에 들어갔다. 동북부에서는... ",
-			"pubDate":"Wed, 23 Sep 2026 15:26:00 +0900"
 		}
 	]
 }
