@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Mon, 28 Sep 2026 12:40:01 +0900",
-	"total":309078,
+	"lastBuildDate":"Mon, 28 Sep 2026 12:50:00 +0900",
+	"total":309081,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"10월 전국 50개 단지 3.8만 가구 공급 ... 분양 물량 65% 수도권 집중",
+			"originallink":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=463917",
+			"link":"http:\/\/www.queen.co.kr\/news\/articleView.html?idxno=463917",
+			"description":"부평구 '산곡역자이힐스테이트&amp;하늘채'에서 2706가구가 예정돼 있으며, 서구 '<b>청라<\/b>아크원푸르지오'에서도 868가구가 공급된다. 인천은 서울에 비해 상대적으로 신규 주택 공급 규모가 큰 만큼 단지별 입지와 분양가에... ",
+			"pubDate":"Mon, 28 Sep 2026 12:40:00 +0900"
+		},
+		{
+			"title":"[속보] 양종타 인천해경서장, 관사서 숨진 채 발견…“범죄 혐의점 없어...",
+			"originallink":"https:\/\/www.dt.co.kr\/article\/12086111?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0003050157?sid=102",
+			"description":"28일 인천 서부경찰서와 인천해경서에 따르면 이날 오전 9시 5분쯤 서해구 <b>청라<\/b>동의 한 아파트에서 양 서장이 출근하지 않은 것을 의아하게 여긴 해경 직원들이 관사를 찾아갔다가 쓰러져 있는 양 서장을 발견해 112에... ",
+			"pubDate":"Mon, 28 Sep 2026 12:30:00 +0900"
+		},
+		{
+			"title":"고정 좌석·유선망 벗어난다…하나금융, 3000명 업무망 5G 전환",
+			"originallink":"https:\/\/www.apnews.kr\/news\/articleView.html?idxno=3051547",
+			"link":"https:\/\/www.apnews.kr\/news\/articleView.html?idxno=3051547",
+			"description":"하나금융티아이는 SK텔레콤, 삼성전자와 함께 인천 <b>청라<\/b> 그룹 헤드쿼터에 금융권 최초로 5G 특화망 기반 그룹 공동 스마트오피스를 구축했다고 28일 밝혔다. 5G 특화망은 <b>청라<\/b> 헤드쿼터 지하 1층부터 지상 15층까지 총 16개... ",
+			"pubDate":"Mon, 28 Sep 2026 12:30:00 +0900"
+		},
 		{
 			"title":"하나금융, 그룹 스마트 오피스 구축…금융권 최초 5G 특화망 적용",
 			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4108898",
@@ -124,7 +145,7 @@
 			"pubDate":"Mon, 28 Sep 2026 11:33:00 +0900"
 		},
 		{
-			"title":"[속보] 양종타 인천해경서장, 관사서 숨진 채 발견",
+			"title":"양종타 인천해경서장, 관사서 숨진 채 발견",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/society\/2026\/09\/28\/20260928500076?wlog_tag3=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003683927?sid=102",
 			"description":"28일 인천 서부경찰서와 인천해경서에 따르면 이날 오전 9시 5분쯤 서해구 <b>청라<\/b>동 한 아파트에서 양 서장이 숨을 쉬지 않고 있다는 신고가 112에 접수됐다. 해경 직원들은 양 서장이 이날 출근하지 않자 관사를 찾아갔으며... ",
@@ -145,17 +166,17 @@
 			"pubDate":"Mon, 28 Sep 2026 11:28:00 +0900"
 		},
 		{
-			"title":"금융권, 결제·통신 인프라에 신기술 접목",
-			"originallink":"https:\/\/www.pressman.kr\/news\/articleView.html?idxno=103797",
-			"link":"https:\/\/www.pressman.kr\/news\/articleView.html?idxno=103797",
-			"description":"적용 대상은 인천 <b>청라<\/b>에 올해 준공된 그룹 <b>청라<\/b> 헤드쿼터로, 통합데이터센터(2017년)와 하나글로벌캠퍼스(2019년)에 이은 '하나금융타운' 프로젝트의 마무리 단계에 해당한다. 하나금융지주와 하나은행 등 10개 관계사... ",
-			"pubDate":"Mon, 28 Sep 2026 11:26:00 +0900"
-		},
-		{
 			"title":"인천해양경찰서장, 관사서 숨진 채 발견…“범죄 혐의점 없어”",
 			"originallink":"https:\/\/www.munhwa.com\/article\/11619800?ref=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002821521?sid=102",
 			"description":"28일 인천 서부경찰서와 인천해경서에 따르면 이날 오전 9시 5분쯤 서해구 <b>청라<\/b>동 한 아파트에서 양종타 서장이 숨을 쉬지 않고 있다는 신고가 112에 접수됐다. 해경 직원들은 양 서장이 이날 출근하지 않자 관사를... ",
+			"pubDate":"Mon, 28 Sep 2026 11:26:00 +0900"
+		},
+		{
+			"title":"금융권, 결제·통신 인프라에 신기술 접목",
+			"originallink":"https:\/\/www.pressman.kr\/news\/articleView.html?idxno=103797",
+			"link":"https:\/\/www.pressman.kr\/news\/articleView.html?idxno=103797",
+			"description":"적용 대상은 인천 <b>청라<\/b>에 올해 준공된 그룹 <b>청라<\/b> 헤드쿼터로, 통합데이터센터(2017년)와 하나글로벌캠퍼스(2019년)에 이은 '하나금융타운' 프로젝트의 마무리 단계에 해당한다. 하나금융지주와 하나은행 등 10개 관계사... ",
 			"pubDate":"Mon, 28 Sep 2026 11:26:00 +0900"
 		},
 		{
@@ -173,17 +194,17 @@
 			"pubDate":"Mon, 28 Sep 2026 11:23:00 +0900"
 		},
 		{
-			"title":"김성중 신임 인천시 행정부시장 “국비 확보·지방재정 구조 개선” 강...",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260928580118",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000125106?sid=102",
-			"description":"또 서울도시철도 7호선 <b>청라<\/b> 연장 문제 등도 보고 받아 살펴보겠다는 뜻을 밝혔다. 김 부시장은 서울지하철 7호선 <b>청라<\/b>연장선 개통 지연 문제를 해결하기 위해 인천시와 시민, 전문가, 정치권이 참여하는 민·관·정... ",
-			"pubDate":"Mon, 28 Sep 2026 11:23:00 +0900"
-		},
-		{
 			"title":"[속보] 양종타 인천해양경찰서장 관사서 숨진 채 발견",
 			"originallink":"https:\/\/www.kado.net\/news\/articleView.html?idxno=2075078",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/654\/0000202658?sid=102",
 			"description":"28일 인천 서부경찰서와 인천해양경찰서에 따르면 이날 오전 9시 5분쯤 인천 서구 <b>청라<\/b>동 한 아파트에서 양 서장이 숨을 쉬지 않는다는 신고가 112에 접수됐다. 해경 직원들은 양 서장이 이날 출근하지 않자 관사를 찾았고... ",
+			"pubDate":"Mon, 28 Sep 2026 11:23:00 +0900"
+		},
+		{
+			"title":"김성중 신임 인천시 행정부시장 “국비 확보·지방재정 구조 개선” 강...",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20260928580118",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000125106?sid=102",
+			"description":"또 서울도시철도 7호선 <b>청라<\/b> 연장 문제 등도 보고 받아 살펴보겠다는 뜻을 밝혔다. 김 부시장은 서울지하철 7호선 <b>청라<\/b>연장선 개통 지연 문제를 해결하기 위해 인천시와 시민, 전문가, 정치권이 참여하는 민·관·정... ",
 			"pubDate":"Mon, 28 Sep 2026 11:23:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.the-today.com\/news\/articleView.html?idxno=90838",
 			"description":"하나금융그룹은 <b>청라<\/b> 헤드쿼터에 금융권 최초로 5G 특화망인 '이음5G'를 실제 업무망에 적용한 그룹 공동... 5G 특화망은 <b>청라<\/b> 헤드쿼터 지하 1층부터 지상 15층까지 총 16개층을 대상으로 구축됐다. 관계사 임직원 약... ",
 			"pubDate":"Mon, 28 Sep 2026 11:22:00 +0900"
-		},
-		{
-			"title":"하나금융티아이, SKT·삼성전자와 5G 특화망 스마트 오피스 구축",
-			"originallink":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=287967",
-			"link":"https:\/\/www.onews.tv\/news\/articleView.html?idxno=287967",
-			"description":"이번 사업이 추진된 하나금융그룹 <b>청라<\/b> 헤드쿼터는 인천 <b>청라<\/b>국제도시에 조성된 '하나금융타운'의 완결판으로, 올해 준공이 완료되어 지난 9월부터 하나금융지주와 하나은행 등 10개 관계사 임직원들이 순차적으로... ",
-			"pubDate":"Mon, 28 Sep 2026 11:22:00 +0900"
-		},
-		{
-			"title":"SKT, 금융권 최초 5G 특화망 스마트 오피스 구축 참여..하나금융·삼성전...",
-			"originallink":"https:\/\/kpenews.com\/View.aspx?No=4242931",
-			"link":"https:\/\/kpenews.com\/View.aspx?No=4242931",
-			"description":"이번 사업은 이달부터 인천 <b>청라<\/b>국제도시로 단계적 이전 중인 하나금융그룹 <b>청라<\/b> 헤드쿼터와 10개의 관계사, 3000여명의 임직원을 아우르는 대규모 프로젝트다. <b>청라<\/b>국제도시에 조성된 그룹 <b>청라<\/b> 헤드쿼터 내 업무... ",
-			"pubDate":"Mon, 28 Sep 2026 11:20:00 +0900"
-		},
-		{
-			"title":"하나금융, SKT·삼성전자와 금융권 최초 5G 특화망 도입",
-			"originallink":"http:\/\/www.newsbrite.net\/news\/articleView.html?idxno=200624",
-			"link":"http:\/\/www.newsbrite.net\/news\/articleView.html?idxno=200624",
-			"description":"이번 프로젝트는 인천 <b>청라<\/b>국제도시에 위치한 하나금융그룹의 <b>청라<\/b> 헤드쿼터에서 진행되었다. 이는 하나금융그룹이 2017년 그룹 통합데이터센터, 2019년 하나글로벌캠퍼스에 이어 추진한 '하나금융타운' 프로젝트의... ",
-			"pubDate":"Mon, 28 Sep 2026 11:20:00 +0900"
 		}
 	]
 }
