@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 28 Sep 2026 20:00:01 +0900",
-	"total":309206,
+	"lastBuildDate":"Mon, 28 Sep 2026 20:10:01 +0900",
+	"total":309207,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[비즈투데이] 하나금융 <b>청라<\/b> 사옥에 '5G 스마트 오피스'",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1538847",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1538847",
+			"description":"이번 사업은 인천 <b>청라<\/b>국제도시로 단계적으로 이전 중인 하나금융그룹 <b>청라<\/b> 헤드쿼터와 10개 관계사, 3천여 명의 임직원을 대상으로 합니다. 5G 특화망은 기업·기관 등이 전용 주파수를 활용해 특정 공간에 구축하는... ",
+			"pubDate":"Mon, 28 Sep 2026 20:08:00 +0900"
+		},
 		{
 			"title":"하나금융 <b>청라<\/b> 사옥에 금융권 첫 ‘5G 스마트 오피스’ 구축",
 			"originallink":"https:\/\/www.todayeconomic.com\/news\/article.html?no=32254",
@@ -131,17 +138,17 @@
 			"pubDate":"Mon, 28 Sep 2026 17:14:00 +0900"
 		},
 		{
-			"title":"하나금융그룹, 금융권 최초 5G 특화망 스마트 오피스 구축",
-			"originallink":"https:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=394001",
-			"link":"https:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=394001",
-			"description":"인천 <b>청라<\/b> 헤드쿼터에 구축했다고 밝혔다. 이번 프로젝트는 하나금융그룹의 '일하는 방식' 혁신을 본격화하는 계기가 될 전망이다. <b>청라<\/b> 헤드쿼터는 그룹 통합데이터센터(2017년), 하나글로벌캠퍼스(2019년)에 이어 조성된... ",
-			"pubDate":"Mon, 28 Sep 2026 17:12:00 +0900"
-		},
-		{
 			"title":"지자체 금고 과열 경쟁…지역금융 기능도 제대로 따져야",
 			"originallink":"https:\/\/www.idomin.com\/news\/articleView.html?idxno=2015804",
 			"link":"https:\/\/www.idomin.com\/news\/articleView.html?idxno=2015804",
 			"description":"하나은행은 인천 <b>청라<\/b>국제도시 본점 이전 계획과 3500억 원 규모 투자·금융지원 협약을 내세워 제1금고에 도전했다. 인천시는 지난 17일 약 20년간 제1금고를 맡아온 신한은행을 다시 선정했다. 금융감독당국도... ",
+			"pubDate":"Mon, 28 Sep 2026 17:12:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 금융권 최초 5G 특화망 스마트 오피스 구축",
+			"originallink":"https:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=394001",
+			"link":"https:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=394001",
+			"description":"인천 <b>청라<\/b> 헤드쿼터에 구축했다고 밝혔다. 이번 프로젝트는 하나금융그룹의 '일하는 방식' 혁신을 본격화하는 계기가 될 전망이다. <b>청라<\/b> 헤드쿼터는 그룹 통합데이터센터(2017년), 하나글로벌캠퍼스(2019년)에 이어 조성된... ",
 			"pubDate":"Mon, 28 Sep 2026 17:12:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/dealsite.co.kr\/articles\/169725",
 			"description":"이번 사업은 이달부터 인천 <b>청라<\/b>국제도시로 단계적 이전 중인 하나금융그룹 <b>청라<\/b> 헤드쿼터와 10개의 관계사, 3000여명의 임직원을 아우르는 대규모 프로젝트다. <b>청라<\/b>국제도시에 조성된 그룹 <b>청라<\/b> 헤드쿼터 내... ",
 			"pubDate":"Mon, 28 Sep 2026 16:36:00 +0900"
-		},
-		{
-			"title":"하나금융티아이, <b>청라<\/b>에 금융권 첫 5G 특화 업무망",
-			"originallink":"http:\/\/www.lkp.news\/news\/articleView.html?idxno=84444",
-			"link":"http:\/\/www.lkp.news\/news\/articleView.html?idxno=84444",
-			"description":"하나금융티아이는 <b>청라<\/b> 헤드쿼터에 전용 5G망을 구축해 이러한 업무환경을 그룹 공동 인프라로 운영한다. 하나금융티아이는 SK텔레콤, 삼성전자와 협력해 하나금융그룹 <b>청라<\/b> 헤드쿼터의 실제 업무망에 5G 특화망을... ",
-			"pubDate":"Mon, 28 Sep 2026 16:30:00 +0900"
 		}
 	]
 }
