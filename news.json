@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 28 Sep 2026 21:30:00 +0900",
-	"total":309213,
+	"lastBuildDate":"Mon, 28 Sep 2026 21:40:01 +0900",
+	"total":309214,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[이슈추적] 10월 아파트 분양 3만8032가구…3채 중 2채 수도권",
+			"originallink":"https:\/\/www.cnbnews.com\/news\/articleView.html?idxno=1017342",
+			"link":"https:\/\/www.cnbnews.com\/news\/articleView.html?idxno=1017342",
+			"description":"인천은 부평구 산곡동의 2706가구 규모 단지를 비롯해 <b>청라<\/b>·검단·영종 등에서 분양이 계획돼 있다. 지방에서는 15개 단지, 1만3414가구가 분양을 준비한다. 충남이 4291가구로 가장 많고 부산 3224가구, 충북 2663가구... ",
+			"pubDate":"Mon, 28 Sep 2026 21:28:00 +0900"
+		},
 		{
 			"title":"인천시, 가을 '체크인 인천 숙박기획전'…5만원 이상 예약 시 특별할인",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3707539",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=448087",
 			"description":"하나금융그룹이 2026년 10월 인천 <b>청라<\/b>에 둥지를 틀고 새로운 출발점에 선다. 4대 금융그룹 가운데 유일하게... 돌아보고 <b>청라<\/b>국제도시에서 그리는 미래와 비전을 짚어본다. ① 단자회사에서 총자산 800조 그룹으로, 글로벌... ",
 			"pubDate":"Mon, 28 Sep 2026 17:06:00 +0900"
-		},
-		{
-			"title":"SKT·하나금융·삼성전자, 5G 특화망 스마트 오피스 구축",
-			"originallink":"https:\/\/www.ekoreanews.co.kr\/news\/articleView.html?idxno=88299",
-			"link":"https:\/\/www.ekoreanews.co.kr\/news\/articleView.html?idxno=88299",
-			"description":"SKT는 28일 인천 <b>청라<\/b>국제도시 하나금융그룹 <b>청라<\/b> 헤드쿼터에 5G 특화망을 구축하고 본격적인 운영에 들어간다고 밝혔다. 이번 사업은 <b>청라<\/b> 헤드쿼터와 10개 관계사, 임직원 약 3000명을 대상으로 진행되는 대규모... ",
-			"pubDate":"Mon, 28 Sep 2026 16:58:00 +0900"
 		}
 	]
 }
