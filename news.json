@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 06 Oct 2026 07:30:01 +0900",
-	"total":309995,
+	"lastBuildDate":"Tue, 06 Oct 2026 07:40:01 +0900",
+	"total":309996,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[핀테크핫이슈] 금융권 덮친 해킹…보안 취약점 전방위 노출",
+			"originallink":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=705017",
+			"link":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=705017",
+			"description":"드디어 '<b>청라<\/b>시대'를 본격적으로 열었다. 헤드쿼터를 중심으로 그룹 차원의 디지털·AI 전환에 속도를 낼... 이처럼 하나금융은 <b>청라<\/b>를 물리적 거점으로 삼고 AI 인프라와 실제 금융서비스를 동시에 고도화하며 미래 금융... ",
+			"pubDate":"Tue, 06 Oct 2026 07:30:00 +0900"
+		},
 		{
 			"title":"코인거래 특수강도 40대, 유치장서 극단 선택 시도…병원 이송",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20261006_0003814700",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.dongponews.net\/news\/articleView.html?idxno=60906",
 			"description":"하나금융그룹(회장 함영주)이 인천 <b>청라<\/b>에서 글로벌 금융그룹으로의 새로운 도약을 위한 전환점을 마련했다. 하나금융그룹은 10월 2일 <b>청라<\/b> 헤드쿼터 오프닝 행사를 개최하고, 지난 15년간 추진해 온 하나금융타운의... ",
 			"pubDate":"Mon, 05 Oct 2026 12:34:00 +0900"
-		},
-		{
-			"title":"인천시·인천경제청,15년 투자유치 결실 '<b>청라<\/b> 하나금융 헤드쿼터' 개관",
-			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=722877",
-			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=722877",
-			"description":"하나금융그룹 <b>청라<\/b> 헤드쿼터를 오픈했다. (사진제공=인천경제청) 컨슈머타임스=안성렬 기자 | 하나금융그룹과 인천시, 인천경제청이 손잡고 15년간 추진해 온 초대형 금융 클러스터 프로젝트가 마침내 <b>청라<\/b>국제도시에... ",
-			"pubDate":"Mon, 05 Oct 2026 12:26:00 +0900"
 		}
 	]
 }
