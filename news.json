@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 05 Oct 2026 18:00:01 +0900",
-	"total":309979,
+	"lastBuildDate":"Mon, 05 Oct 2026 18:10:01 +0900",
+	"total":309980,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천지역 23개 기관 송곳 검증 막 올라",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3036666",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3036666",
+			"description":"7일 국토교통위원회 국감에서는 서울지하철 7호선 <b>청라<\/b> 연장선 개통 지연과 9호선 인천국제공항 직결사업 정상화 문제가 다뤄질 것으로 예상된다. 사업 지연 원인과 책임을 확인하고 주민 불편을 해소할 추진 일정을... ",
+			"pubDate":"Mon, 05 Oct 2026 18:06:00 +0900"
+		},
 		{
 			"title":"&quot;7호선 <b>청라<\/b>연장 2027년 적기 개통하라&quot;…<b>청라<\/b> 주민들 인천시청 집결",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363738457",
@@ -166,17 +173,17 @@
 			"pubDate":"Mon, 05 Oct 2026 05:03:00 +0900"
 		},
 		{
-			"title":"KB·신한·하나·우리 4대 금융, 디지털 거점 키우고 유휴 사옥·점포 판...",
-			"originallink":"https:\/\/www.g-enews.com\/view.php?ud=202610011522286283e30fcb1ba8_1",
-			"link":"https:\/\/www.g-enews.com\/view.php?ud=202610011522286283e30fcb1ba8_1",
-			"description":"인천 <b>청라<\/b>국제도시로 변경했다. 지주와 하나에프앤아이를 시작으로 하나은행·하나캐피탈·하나생명·하나증권·하나카드·하나저축은행 등 10개 관계사 직원 약 2200명이 연말까지 순차적으로 이동한다. 기존 <b>청라<\/b>... ",
-			"pubDate":"Mon, 05 Oct 2026 05:02:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>하늘대교 통행 차량 1000만대 돌파의 ‘그늘’",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/publicnews\/local_govern\/news_local\/2026\/10\/05\/20261005018005?wlog_tag3=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/081\/0003685964?sid=102",
 			"description":"인천 영종도와 <b>청라<\/b>를 잇는 <b>청라<\/b>하늘대교의 누적 통행량이 개통 8개월 만에 1000만대를 넘어섰다. 공공 재정이 투입된 <b>청라<\/b>하늘대교 이용 차량이 빠르게 늘면서 영종대교 등 기존 민간자본 교량에 대한 인천시의... ",
+			"pubDate":"Mon, 05 Oct 2026 05:02:00 +0900"
+		},
+		{
+			"title":"KB·신한·하나·우리 4대 금융, 디지털 거점 키우고 유휴 사옥·점포 판...",
+			"originallink":"https:\/\/www.g-enews.com\/view.php?ud=202610011522286283e30fcb1ba8_1",
+			"link":"https:\/\/www.g-enews.com\/view.php?ud=202610011522286283e30fcb1ba8_1",
+			"description":"인천 <b>청라<\/b>국제도시로 변경했다. 지주와 하나에프앤아이를 시작으로 하나은행·하나캐피탈·하나생명·하나증권·하나카드·하나저축은행 등 10개 관계사 직원 약 2200명이 연말까지 순차적으로 이동한다. 기존 <b>청라<\/b>... ",
 			"pubDate":"Mon, 05 Oct 2026 05:02:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003474189?sid=101",
 			"description":"하나금융그룹이 2012년 추진을 시작한 인천 <b>청라<\/b>국제도시 ‘하나금융타운’ 조성을 15년 만에 마무리했다. 하나금융은 지난 2일 <b>청라<\/b> 신사옥에서 ‘<b>청라<\/b> 헤드쿼터’ 개최 행사를 열었다. <b>청라<\/b> 신사옥은 지하 7층~지상... ",
 			"pubDate":"Sun, 04 Oct 2026 20:53:00 +0900"
-		},
-		{
-			"title":"영종도 잇는 ‘<b>청라<\/b>하늘대교’ 통행량 급증에도 웃지 못하는 인천시",
-			"originallink":"https:\/\/www.khan.co.kr\/article\/202610042024015",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003474170?sid=101",
-			"description":"인천공항이 있는 영종도와 내륙을 잇는 세 번째 교량인 <b>청라<\/b>하늘대교가 개통 8개월 만에 통행량 1000만대를 넘어섰다. 하지만 인천시는 마냥 즐거워할 수 있는 상황이 아니다. <b>청라<\/b>하늘대교 통행량이 늘어날수록... ",
-			"pubDate":"Sun, 04 Oct 2026 20:24:00 +0900"
 		}
 	]
 }
