@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 06 Oct 2026 08:10:01 +0900",
-	"total":309997,
+	"lastBuildDate":"Tue, 06 Oct 2026 08:20:01 +0900",
+	"total":309998,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[굿모닝경제] &quot;한국 2년 평균 성장률 G20 1위&quot; \/ 부정청약 의심 1669건 적...",
+			"originallink":"http:\/\/www.mbn.co.kr\/pages\/news\/newsView.php?news_seq_no=5223164",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/057\/0001972106?sid=101",
+			"description":"=== 하나금융그룹이 <b>청라<\/b>국제도시에 그룹 헤드쿼터를 열고 본격적인 '인천시대'를 열었습니다. 하나금융그룹 <b>청라<\/b> 헤드쿼터는 지하 7층에서 지상 15층, 연면적 약 12만 8000㎡로 조성됐습니다. 하나은행 등 10개 관계사... ",
+			"pubDate":"Tue, 06 Oct 2026 08:09:00 +0900"
+		},
 		{
 			"title":"홍예문 - 여명 1908, 그리고 다시 겨울",
 			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=121177",
@@ -54,17 +61,17 @@
 			"pubDate":"Tue, 06 Oct 2026 03:52:00 +0900"
 		},
 		{
-			"title":"[패트롤] 인천시-인천시의회-인천시교육청-인천교통공사",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20261006028382374",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20261006028382374",
-			"description":"인천시는 10월 2일 <b>청라<\/b>국제도시에서 하나금융그룹 <b>청라<\/b> 헤드쿼터 오프닝 행사가 열렸다고 밝혔다. 행사에는 박찬대 인천시장과 김종철 인천경제자유구역청장, 함영주 하나금융그룹 회장을 비롯한 주요 내·외빈과 그룹... ",
-			"pubDate":"Tue, 06 Oct 2026 01:46:00 +0900"
-		},
-		{
 			"title":"[패트롤] 인천시 계양구-서해구-연수구-영종구-옹진군",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20261006022332388",
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20261006022332388",
 			"description":"예심은 29일 오후 1시 <b>청라<\/b> 블루노바홀에서 치러진다. 예심 심사를 통과한 15개 팀 안팎이 최종 본선 진출 자격을 얻는다. 본선 공개 녹화는 31일 오후 2시 인천아시아드주경기장 남측광장 특설무대에서 진행된다. 현장에는... ",
+			"pubDate":"Tue, 06 Oct 2026 01:46:00 +0900"
+		},
+		{
+			"title":"[패트롤] 인천시-인천시의회-인천시교육청-인천교통공사",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20261006028382374",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20261006028382374",
+			"description":"인천시는 10월 2일 <b>청라<\/b>국제도시에서 하나금융그룹 <b>청라<\/b> 헤드쿼터 오프닝 행사가 열렸다고 밝혔다. 행사에는 박찬대 인천시장과 김종철 인천경제자유구역청장, 함영주 하나금융그룹 회장을 비롯한 주요 내·외빈과 그룹... ",
 			"pubDate":"Tue, 06 Oct 2026 01:46:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=913992",
 			"description":"예선 심사는 29일 오후 1시부터 <b>청라<\/b> 블루노바홀에서 열린다. 특히 본선 무대에는 박상철, 김혜연, 강문경, 김희재, 오로라 등 초대 가수들의 축하 공연이 더해져 현장 분위기를 뜨겁게 달굴 예정이다. 구재용 구청장은... ",
 			"pubDate":"Mon, 05 Oct 2026 13:20:00 +0900"
-		},
-		{
-			"title":"[전문가 기고]대한민국에서 안전한 전기차 주차 방법",
-			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2002491",
-			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2002491",
-			"description":"약 3년전 인천시 <b>청라<\/b>지역 아파트의 전기차 화재로 인한 대규모 피해는 원인 불명이 되면서 현재도 민사소송 중이다. 최대 1000억원에 달하는 피해를 누가 책임지고 보상할 것인지 모두가 애매모호한 상황이다. 결국 모든... ",
-			"pubDate":"Mon, 05 Oct 2026 13:00:00 +0900"
 		}
 	]
 }
