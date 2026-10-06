@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 06 Oct 2026 10:20:01 +0900",
-	"total":310025,
+	"lastBuildDate":"Tue, 06 Oct 2026 10:30:01 +0900",
+	"total":310026,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"금융권 해킹 공포 커지는데…34곳 중 12곳 보안인력 안 늘렸다",
+			"originallink":"https:\/\/www.tfmedia.co.kr\/news\/article.html?no=207737",
+			"link":"https:\/\/www.tfmedia.co.kr\/news\/article.html?no=207737",
+			"description":"하나금융그룹 차원에서는 <b>청라<\/b>헤드쿼터에 통합보안관제센터를 구축해 그룹 전반의 보안 관리체계도 강화했다. 신한은행은 AI를 활용해 시스템 취약점을 진단하고 소스코드를 분석하는 도구 개발 인력을 모집하고... ",
+			"pubDate":"Tue, 06 Oct 2026 10:20:00 +0900"
+		},
 		{
 			"title":"인천시, 자원순환센터 시민 현장견학 운영...시설 필요성 알린다",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=653544",
@@ -96,17 +103,17 @@
 			"pubDate":"Tue, 06 Oct 2026 09:40:00 +0900"
 		},
 		{
-			"title":"인천시, 자원순환센터 시민 견학 확대…현장에서 필요성 알린다",
-			"originallink":"https:\/\/www.livesnews.com\/news\/article.html?no=64713",
-			"link":"https:\/\/www.livesnews.com\/news\/article.html?no=64713",
-			"description":"10~12월 10차례 운영…<b>청라<\/b>·송도시설과 인근 지자체 비교 시찰 인천시가 시민들이 자원순환센터의 운영... 인천에서는 송도자원환경센터와 <b>청라<\/b>자원환경센터 등이 운영되고 있으며, 생활폐기물 처리와 도시 환경 유지에... ",
-			"pubDate":"Tue, 06 Oct 2026 09:32:00 +0900"
-		},
-		{
 			"title":"인천시, 자원순환센터 시민 현장견학 10회 운영",
 			"originallink":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1103307",
 			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1103307",
 			"description":"평택 오썸플렉스[사진=인천시] 견학 참가자들은 <b>청라<\/b> 또는 송도자원순환센터를 방문한 뒤 인근 지자체의 자원순환시설도 함께 둘러본다. 소각과 재활용 자원 선별 등 생활폐기물이 처리되는 과정을 확인하고 시설의 운영... ",
+			"pubDate":"Tue, 06 Oct 2026 09:32:00 +0900"
+		},
+		{
+			"title":"인천시, 자원순환센터 시민 견학 확대…현장에서 필요성 알린다",
+			"originallink":"https:\/\/www.livesnews.com\/news\/article.html?no=64713",
+			"link":"https:\/\/www.livesnews.com\/news\/article.html?no=64713",
+			"description":"10~12월 10차례 운영…<b>청라<\/b>·송도시설과 인근 지자체 비교 시찰 인천시가 시민들이 자원순환센터의 운영... 인천에서는 송도자원환경센터와 <b>청라<\/b>자원환경센터 등이 운영되고 있으며, 생활폐기물 처리와 도시 환경 유지에... ",
 			"pubDate":"Tue, 06 Oct 2026 09:32:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=121177",
 			"description":"문 위 도로에서는 남쪽으로 인천내항, 인천대교, 송도국제도시, 북쪽으로는 <b>청라<\/b>국제도시가 한눈에 들어온다. 홍예문의 여름-짙은 향기 ⓒ홍덕종 일제 강점기 초기, 일본은 조계지의 인구가 급격히 증가하자 거주지를... ",
 			"pubDate":"Tue, 06 Oct 2026 07:50:00 +0900"
-		},
-		{
-			"title":"[핀테크핫이슈] 금융권 덮친 해킹…보안 취약점 전방위 노출",
-			"originallink":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=705017",
-			"link":"https:\/\/www.digitaltoday.co.kr\/news\/articleView.html?idxno=705017",
-			"description":"드디어 '<b>청라<\/b>시대'를 본격적으로 열었다. 헤드쿼터를 중심으로 그룹 차원의 디지털·AI 전환에 속도를 낼... 이처럼 하나금융은 <b>청라<\/b>를 물리적 거점으로 삼고 AI 인프라와 실제 금융서비스를 동시에 고도화하며 미래 금융... ",
-			"pubDate":"Tue, 06 Oct 2026 07:30:00 +0900"
 		}
 	]
 }
