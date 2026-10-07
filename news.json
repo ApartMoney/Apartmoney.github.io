@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Wed, 07 Oct 2026 15:30:00 +0900",
-	"total":310270,
+	"lastBuildDate":"Wed, 07 Oct 2026 15:40:01 +0900",
+	"total":310276,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"〔기획〕박찬대 인천시장 100일 여정 ③현장 찾고 협의체 띄웠지만…7호...",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=914318",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=914318",
+			"description":"<b>청라<\/b>연장 1단계 2030년 전망에 주민 2만 5885명 서명…100일 지나도 단축 일정은 미확정 국비 7조863억 정부안 반영·민주당에 현안 31건 건의…‘힘 있는 시장’ 성패는 이제 결과로 서울 7호선 <b>청라<\/b> 연장 사업은 박찬대... ",
+			"pubDate":"Wed, 07 Oct 2026 15:38:00 +0900"
+		},
+		{
+			"title":"취임 100일 맞은 박찬대...미래 성장축 담은 '인천 리레이팅' 시동",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=481080",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=481080",
+			"description":"공항·항만에는 물류 AI 생태계를 구축하고, <b>청라<\/b>에는 커넥티드카와 사이버보안, 송도에는 바이오... ◇재정·<b>청라<\/b>연장선·공항·항만...민선9기 앞에 놓인 숙제 대규모 미래사업 추진과 별개로 박찬대 시정부가 당장... ",
+			"pubDate":"Wed, 07 Oct 2026 15:34:00 +0900"
+		},
+		{
+			"title":"8700억원 규모 50MW 데이터센터 수주…현대엔지니어링, 군산 이어 인천까...",
+			"originallink":"https:\/\/www.thepowernews.co.kr\/view.php?ud=20261007153214510de3f0aa1be_7",
+			"link":"https:\/\/www.thepowernews.co.kr\/view.php?ud=20261007153214510de3f0aa1be_7",
+			"description":"이번 사업은 이도테라원이 설립한 <b>청라<\/b> IDC PFV가 발주했다. 인천 원창동 일원에 지하 4층~지상 11층, 50MW급 데이터센터를 조성하는 프로젝트다. 총 사업규모는 약 8700억원이다. 올해 11월 착공해 2029년 하반기 준공을 목표로... ",
+			"pubDate":"Wed, 07 Oct 2026 15:34:00 +0900"
+		},
+		{
+			"title":"세계인이 찾아온 '한국인의 주말'...신세계그룹에 머무는 한류",
+			"originallink":"https:\/\/www.insight.co.kr\/news\/576849",
+			"link":"https:\/\/www.insight.co.kr\/news\/576849",
+			"description":"2028년 초 개장을 목표로 건설 중인 스타필드 <b>청라<\/b>에는 2만3000석 규모 멀티스타디움과 쇼핑몰, 호텔을 연결한다. 호텔 객실에서 야구를 보고, 인피니티풀에서도 경기를 즐길 수 있도록 설계했다. 야구 경기와 함께 K팝... ",
+			"pubDate":"Wed, 07 Oct 2026 15:30:00 +0900"
+		},
+		{
+			"title":"국회 복지위 국감 증인 출석 명단 살펴보니 대표이사 회장 빠지고…",
+			"originallink":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3077674",
+			"link":"https:\/\/www.newsclaim.co.kr\/news\/articleView.html?idxno=3077674",
+			"description":"개발본부장 당시 스타필드 <b>청라<\/b>·화성 스타베이시티·그랜드 스타필드 광주 등 대형 프로젝트를 이끌었던... 현재 신세계프라퍼티는 스타필드 <b>청라<\/b> 사업에 약 3000만원을 직접 투자하고 하나금융그룹 및... ",
+			"pubDate":"Wed, 07 Oct 2026 15:30:00 +0900"
+		},
+		{
+			"title":"'취임 100일' 박찬대, 핵심 산업부터 장바구니 민심까지 챙긴다",
+			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/6313162",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0009215219?sid=102",
+			"description":"마지막으로 <b>청라<\/b>의료복합타운 조성 현장을 방문해 사업 추진 상황과 주요 현안을 점검한다. 인천시는 <b>청라<\/b>국제도시에 미래형 복합의료타운이 차질 없이 조성될 수 있도록 사업 추진 상황을 지속적으로 점검하고 필요한... ",
+			"pubDate":"Wed, 07 Oct 2026 15:28:00 +0900"
+		},
 		{
 			"title":"인천도시공사, 검암 플라시아 복합개발 위한 사업협약",
 			"originallink":"https:\/\/www.kmib.co.kr\/article\/view.asp?arcid=9000020624&cp=nv",
@@ -40,17 +82,17 @@
 			"pubDate":"Wed, 07 Oct 2026 15:17:00 +0900"
 		},
 		{
-			"title":"인천시, 민선9기 100일 현장점검 강화...인천e음 체감도부터 발코니 붕괴...",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=653737",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=653737",
-			"description":"박찬대 인천시장은 전통시장과 반도체 기업, 발코니 붕괴사고가 발생한 공동주택, <b>청라<\/b>의료복합타운을... 마지막 일정은 <b>청라<\/b>의료복합타운 조성 현장이다. 박 시장은 사업 추진 상황과 주요 현안을 확인하고... ",
-			"pubDate":"Wed, 07 Oct 2026 15:12:00 +0900"
-		},
-		{
 			"title":"KT클라우드, 50MW급 '<b>청라<\/b> AI 데이터센터' 구축 참여",
 			"originallink":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=407890",
 			"link":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=407890",
 			"description":"KT클라우드가 인천 <b>청라<\/b>에 들어서는 50MW급 AI 데이터센터(AIDC) 구축에 참여하며 수도권 서부 지역의 인프라 공급 기반을 확대한다고 7일 밝혔다. <b>청라<\/b> AI 데이터센터는 지하 2층~지상 11층, 수전용량 50MW 규모로... ",
+			"pubDate":"Wed, 07 Oct 2026 15:12:00 +0900"
+		},
+		{
+			"title":"인천시, 민선9기 100일 현장점검 강화...인천e음 체감도부터 발코니 붕괴...",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=653737",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=653737",
+			"description":"박찬대 인천시장은 전통시장과 반도체 기업, 발코니 붕괴사고가 발생한 공동주택, <b>청라<\/b>의료복합타운을... 마지막 일정은 <b>청라<\/b>의료복합타운 조성 현장이다. 박 시장은 사업 추진 상황과 주요 현안을 확인하고... ",
 			"pubDate":"Wed, 07 Oct 2026 15:12:00 +0900"
 		},
 		{
@@ -171,48 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0004196485?sid=102",
 			"description":"인근에는 공항철도와 인천2호선이 지나는 검암역과 인천공항고속도로 <b>청라<\/b>IC가 있어 인천과 서울을 잇는 광역교통 접근성도 갖췄다. 류윤기 iH 사장은 &quot;iH의 공공성과 도시개발 경험에 민간의 창의적인 아이디어와 개발... ",
 			"pubDate":"Wed, 07 Oct 2026 14:21:00 +0900"
-		},
-		{
-			"title":"AI DC '인프라 잡아라'…전력·냉각·통신망 총력전",
-			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2003385",
-			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2003385",
-			"description":"KT클라우드는 이날 인천 <b>청라<\/b>에 들어설 수전용량 50MW급 AIDC의 설계·구축·운영 파트너로 참여한다고 밝혔다. 올 4분기 착공해 2030년 1분기 준공하는 것이 목표다. 전북 군산에서는 올해 말 60MW 규모의 1단계 센터를... ",
-			"pubDate":"Wed, 07 Oct 2026 14:20:00 +0900"
-		},
-		{
-			"title":"검암 플라시아 개발 '속도'… 1.3조 복합환승센터 사업협약 체결",
-			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=240028",
-			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=240028",
-			"description":"특히 사업 대상지는 공항철도 및 인천도시철도 2호선 검암역과 인천공항고속도로 <b>청라<\/b>IC가 인접해 있어 인천과 서울 간 광역 교통 접근성이 우수하다. 구는 이곳에 교통·문화·상업·업무·주거 기능이 어우러진 복합... ",
-			"pubDate":"Wed, 07 Oct 2026 14:18:00 +0900"
-		},
-		{
-			"title":"KT, 5G로 연결한 하늘길에 AI 관제 더한다",
-			"originallink":"https:\/\/www.smartbizn.com\/news\/articleView.html?idxno=155778",
-			"link":"https:\/\/www.smartbizn.com\/news\/articleView.html?idxno=155778",
-			"description":"작년에는 인천 계양에서 <b>청라<\/b>까지 이어지는 아라뱃길 15㎞ 구간으로 실증 무대를 넓혔다. KT는 800MHz 대역의 UAM 전용 5G 항공망과 자체 교통관리시스템, 정보공유시스템을 연동해 도심 환경에서의 운용성을 검증했다.... ",
-			"pubDate":"Wed, 07 Oct 2026 14:16:00 +0900"
-		},
-		{
-			"title":"[IT는 지금] KT클라우드, 50MW급 ‘<b>청라<\/b> AI 데이터센터’ 구축 참여 外",
-			"originallink":"https:\/\/dealsite.co.kr\/articles\/170225",
-			"link":"https:\/\/dealsite.co.kr\/articles\/170225",
-			"description":"KT클라우드가 인천 <b>청라<\/b>에 구축되는 50MW급 AI 데이터센터 사업에 설계·구축·운영(DBO) 파트너로 참여한다. <b>청라<\/b> AI 데이터센터는 지하 2층~지상 11층 규모로 2026년 4분기 착공해 2030년 1분기 준공할 예정이다.... ",
-			"pubDate":"Wed, 07 Oct 2026 14:16:00 +0900"
-		},
-		{
-			"title":"중흥토건, 1.3조 규모 '검암 플라시아 복합환승센터' 사업 협약… 복합...",
-			"originallink":"http:\/\/www.newsdream.kr\/news\/articleView.html?idxno=119550",
-			"link":"http:\/\/www.newsdream.kr\/news\/articleView.html?idxno=119550",
-			"description":"사업지는 공항철도와 인천도시철도 2호선이 교차하는 환승 거점인 검암역과 인접한 초역세권 입지로, 서울 도심과 인천국제공항, <b>청라<\/b>국제도시 등으로의 광역 대중교통 접근성이 뛰어난 인천 서북부의 핵심 요충지로... ",
-			"pubDate":"Wed, 07 Oct 2026 14:16:00 +0900"
-		},
-		{
-			"title":"현대엔지니어링, 인천 원창동 데이터센터 신축 사업 수주",
-			"originallink":"https:\/\/www.newspost.kr\/news\/articleView.html?idxno=226157",
-			"link":"https:\/\/www.newspost.kr\/news\/articleView.html?idxno=226157",
-			"description":"인천 원창동 데이터센터 신축 사업은 이도테라원이 설립한 <b>청라<\/b> IDC PFV가 발주한 사업으로, 인천광역시 서해구 원창동 일원에 50MW(메가와트)급 데이터센터를 구축하는 프로젝트다. 총 사업규모는 약 8700억원으로 지하... ",
-			"pubDate":"Wed, 07 Oct 2026 14:12:00 +0900"
 		}
 	]
 }
