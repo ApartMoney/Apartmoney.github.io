@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 07 Oct 2026 22:50:01 +0900",
-	"total":310330,
+	"lastBuildDate":"Wed, 07 Oct 2026 23:00:01 +0900",
+	"total":310331,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시교육청, 고교학점제 학부모 설명회",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3715695",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3715695",
+			"description":"설명회 일정은 7일 인일여자고등학교를 시작으로 8일 그랜드오스티엄, 12일 계산여자고등학교와 부평고등학교, 13일 인천<b>청라<\/b>고등학교, 14일 인천이음고등학교, 16일 강화교육지원청, 11월 3일 영종구 청소년수련관 순으로... ",
+			"pubDate":"Wed, 07 Oct 2026 22:52:00 +0900"
+		},
 		{
 			"title":"현대엔지니어링, 데이터센터 8700억 수주…일주일 만에 또 따냈다",
 			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=493506",
@@ -187,6 +194,13 @@
 			"pubDate":"Wed, 07 Oct 2026 17:15:00 +0900"
 		},
 		{
+			"title":"현대ENG, '원창동 데이터센터 신축 사업' 수주…주우정號 신사업 성과",
+			"originallink":"https:\/\/www.1conomynews.co.kr\/news\/articleView.html?idxno=50731",
+			"link":"https:\/\/www.1conomynews.co.kr\/news\/articleView.html?idxno=50731",
+			"description":"인천 원창동 데이터센터 신축 사업은 이도테라원이 설립한 <b>청라<\/b> IDC PFV가 발주한 사업이다. 인천광역시 서해구 원창동 일원에 50MW(메가와트)급 데이터센터를 구축하는 프로젝트다. 총 사업규모는 약 8700억원이다. 올해... ",
+			"pubDate":"Wed, 07 Oct 2026 17:08:00 +0900"
+		},
+		{
 			"title":"KT클라우드, '<b>청라<\/b> AIDC' 구축 참여…수도권 AIDC 공급 기반 확대",
 			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5069705",
 			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5069705",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.greenpostkorea.co.kr\/news\/articleView.html?idxno=307626",
 			"description":"신세계프라퍼티는 스타필드와 돔구장을 품은 스타필드 <b>청라<\/b>, 화성국제테마파크 등 그룹의 대형 공간 개발을 맡고 있다. 공간이 클수록 사람을 불러들일 콘텐츠의 무게도 커진다. 화성국제테마파크는 이미... ",
 			"pubDate":"Wed, 07 Oct 2026 17:08:00 +0900"
-		},
-		{
-			"title":"현대ENG, '원창동 데이터센터 신축 사업' 수주…주우정號 신사업 성과",
-			"originallink":"https:\/\/www.1conomynews.co.kr\/news\/articleView.html?idxno=50731",
-			"link":"https:\/\/www.1conomynews.co.kr\/news\/articleView.html?idxno=50731",
-			"description":"인천 원창동 데이터센터 신축 사업은 이도테라원이 설립한 <b>청라<\/b> IDC PFV가 발주한 사업이다. 인천광역시 서해구 원창동 일원에 50MW(메가와트)급 데이터센터를 구축하는 프로젝트다. 총 사업규모는 약 8700억원이다. 올해... ",
-			"pubDate":"Wed, 07 Oct 2026 17:08:00 +0900"
-		},
-		{
-			"title":"현대엔지니어링, '인천 원창동 데이터센터 신축' 수주…8700억원 규모",
-			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5069583",
-			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5069583",
-			"description":"이도테라원이 설립한 <b>청라<\/b> IDC PFV가 발주한 이 사업은 인천시 서구 원창동 일원에 50MW(메가와트)급 데이터센터를 구축하는 프로젝트로 총사업비는 약 8700억원이다. 지하 4층~지상 11층 규모로 조성된다. 올해 11월 착공해... ",
-			"pubDate":"Wed, 07 Oct 2026 17:04:00 +0900"
 		}
 	]
 }
