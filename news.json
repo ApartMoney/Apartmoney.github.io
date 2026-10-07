@@ -1,9 +1,65 @@
 {
-	"lastBuildDate":"Wed, 07 Oct 2026 10:20:01 +0900",
-	"total":310164,
+	"lastBuildDate":"Wed, 07 Oct 2026 10:30:00 +0900",
+	"total":310172,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"현대엔지니어링, 8700억 규모 인천 원창동 데이터센터 수주",
+			"originallink":"https:\/\/www.fetv.co.kr\/news\/articleView.html?idxno=311351",
+			"link":"https:\/\/www.fetv.co.kr\/news\/articleView.html?idxno=311351",
+			"description":"인천 원창동 데이서센터의 발주처는 <b>청라<\/b> IDC PFV다. AI 및 SOC 인프라 기업 '이도테라원'이 세운 프로젝트금융투자회사(PFV)다. 현대엔지니어링은 건축과 토목, 설비, 조경, 통신 공사를 맡는다. 서버 가동에 필수인... ",
+			"pubDate":"Wed, 07 Oct 2026 10:28:00 +0900"
+		},
+		{
+			"title":"인천 계양구 '민선 9기 출범 100일' 생활밀착 행정·미래 성장 가속도",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20261007500086",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20261007500086",
+			"description":"아울러 대장~홍대선 계양·<b>청라<\/b> 연장 등을 위한 민·관 합동 서명운동에 28만여 명이 참여하는 등 광역교통망 확충을 위한 지역 역량도 결집되고 있다. 박형우 구청장은 “구민의 목소리를 현장에서 직접 듣고 이를 구정에... ",
+			"pubDate":"Wed, 07 Oct 2026 10:28:00 +0900"
+		},
+		{
+			"title":"현대엔지니어링 '디에이치 신반포에스테라' 10월 공급 예정·인천 원창...",
+			"originallink":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=319302",
+			"link":"http:\/\/www.wsobi.com\/news\/articleView.html?idxno=319302",
+			"description":"'인천 원창동 데이터센터 신축 사업'은 이도테라원이 설립한 <b>청라<\/b> IDC PFV가 발주한 사업으로 인천광역시 서해구 원창동 일원에 50MW(메가와트)급 데이터센터를 구축하는 프로젝트다. 총 사업규모는 약 8700억원이며... ",
+			"pubDate":"Wed, 07 Oct 2026 10:28:00 +0900"
+		},
+		{
+			"title":"현대엔지니어링, 인천 데이터센터 신축 사업 수주",
+			"originallink":"https:\/\/www.cnbnews.com\/news\/articleView.html?idxno=1018387",
+			"link":"https:\/\/www.cnbnews.com\/news\/articleView.html?idxno=1018387",
+			"description":"현대엔지니어링이 <b>청라<\/b> IDC PFV가 발주한 총 사업비 약 8700억 원 규모의 '인천 원창동 데이터센터 신축 사업'을 수주했다고 7일 밝혔다. 이번 수주는 지난주 '군산 SGC AI 데이터센터'에 이은 연속 성과다. 이번... ",
+			"pubDate":"Wed, 07 Oct 2026 10:28:00 +0900"
+		},
+		{
+			"title":"오피스텔 약세에도 '대형'만 솟았다… 85㎡ 초과 '나홀로 상승' 속 '<b>청라<\/b>...",
+			"originallink":"https:\/\/www.etnews.com\/20261007000115",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003472912?sid=101",
+			"description":"이러한 가운데 대우건설이 인천 <b>청라<\/b>국제도시에 선보이는 '<b>청라<\/b> 아크원 푸르지오'도 눈길을 끈다. 인천 서구 <b>청라<\/b>국제도시 M5블록(인천 서해구 <b>청라<\/b>동 일원)에 들어서는 '<b>청라<\/b> 아크원 푸르지오'는 지하 5층~지상 최고... ",
+			"pubDate":"Wed, 07 Oct 2026 10:25:00 +0900"
+		},
+		{
+			"title":"현대엔지니어링, 8700억 규모 인천 원창동 데이터센터 수주",
+			"originallink":"https:\/\/www.bizwork.co.kr\/news\/articleView.html?idxno=419651",
+			"link":"https:\/\/www.bizwork.co.kr\/news\/articleView.html?idxno=419651",
+			"description":"인천 원창동 데이터센터는 이도테라원이 설립한 <b>청라<\/b> IDC PFV가 발주한 사업으로, 인천광역시 서해구 원창동 일원에 50MW급 데이터센터를 건설하는 프로젝트다. 지하 4층~지상 11층 규모로 올해 11월 착공해 2029년 하반기... ",
+			"pubDate":"Wed, 07 Oct 2026 10:24:00 +0900"
+		},
+		{
+			"title":"KT클라우드, <b>청라<\/b> 50MW AIDC 구축 참여…수도권 공급 확대",
+			"originallink":"https:\/\/www.bloter.net\/news\/articleView.html?idxno=675146",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/293\/0000091293?sid=105",
+			"description":"KT클라우드가 인천 <b>청라<\/b>에 들어서는 50메가와트(MW)급 인공지능데이터센터(AIDC)의 설계부터 구축·운영까지 맡는다. 가산·목동 등 기존 데이터센터에 <b>청라<\/b> 거점을 추가해 수도권 AIDC 공급 기반을 넓히고 2031년... ",
+			"pubDate":"Wed, 07 Oct 2026 10:23:00 +0900"
+		},
+		{
+			"title":"현대엔지니어링, 인천 데이터센터 공사 수주…총 8700억원 규모",
+			"originallink":"https:\/\/www.mt.co.kr\/estate\/2026\/10\/07\/2026100709112564197",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005423072?sid=101",
+			"description":"이도테라원이 설립한 <b>청라<\/b> IDC PFV가 발주한 이번 사업은 인천 서해구 원창동 일원에 지하 4층~지상 11층 규모의 50㎿(메가와트)급 데이터센터를 구축하는 프로젝트다. 총 사업규모는 약 8700억원으로 오는 11월 착공해 2029년... ",
+			"pubDate":"Wed, 07 Oct 2026 10:21:00 +0900"
+		},
 		{
 			"title":"현대ENG, 8700억 규모 인천 데이터센터 수주",
 			"originallink":"http:\/\/www.smedaily.co.kr\/news\/articleView.html?idxno=364263",
@@ -68,17 +124,17 @@
 			"pubDate":"Wed, 07 Oct 2026 10:02:00 +0900"
 		},
 		{
-			"title":"kt 클라우드, <b>청라<\/b> 50MW급 AI 데이터센터 구축 참가 ··· 수도권 AIDC 공...",
-			"originallink":"https:\/\/www.datanet.co.kr\/news\/articleView.html?idxno=214936",
-			"link":"https:\/\/www.datanet.co.kr\/news\/articleView.html?idxno=214936",
-			"description":"<b>청라<\/b> AIDC 조감도  kt 클라우드(대표 김봉균)가 인천 <b>청라<\/b> 지역에 구축되는 50MW급 AI 데이터센터 사업에 참여하며 수도권 AI 데이터센터(AIDC) 공급 기반 확대에 나선다고 7일 밝혔다. <b>청라<\/b> AI 데이터센터는 지하 2층... ",
-			"pubDate":"Wed, 07 Oct 2026 10:00:00 +0900"
-		},
-		{
 			"title":"현대엔지니어링, 8700억원 규모 인천 원창동 데이터센터 신축 수주",
 			"originallink":"https:\/\/www.goodkyung.com\/news\/articleView.html?idxno=292106",
 			"link":"https:\/\/www.goodkyung.com\/news\/articleView.html?idxno=292106",
 			"description":"이 사업은 이도테라원이 설립한 <b>청라<\/b> IDC PFV가 발주했으며, 인천 서구 원창동 일원에 50메가와트(MW)급 데이터센터를 짓는 프로젝트다. 총 사업비는 약 8700억원이며 지하 4층~지상 11층 규모로 조성된다. 오는 11월... ",
+			"pubDate":"Wed, 07 Oct 2026 10:00:00 +0900"
+		},
+		{
+			"title":"kt 클라우드, <b>청라<\/b> 50MW급 AI 데이터센터 구축 참가 ··· 수도권 AIDC 공...",
+			"originallink":"https:\/\/www.datanet.co.kr\/news\/articleView.html?idxno=214936",
+			"link":"https:\/\/www.datanet.co.kr\/news\/articleView.html?idxno=214936",
+			"description":"<b>청라<\/b> AIDC 조감도  kt 클라우드(대표 김봉균)가 인천 <b>청라<\/b> 지역에 구축되는 50MW급 AI 데이터센터 사업에 참여하며 수도권 AI 데이터센터(AIDC) 공급 기반 확대에 나선다고 7일 밝혔다. <b>청라<\/b> AI 데이터센터는 지하 2층... ",
 			"pubDate":"Wed, 07 Oct 2026 10:00:00 +0900"
 		},
 		{
@@ -157,62 +213,6 @@
 			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2003206",
 			"description":"계양·<b>청라<\/b> 연장과 계양테크노밸리 연장도 추진하고 있다. 구는 지난 8월 31일부터 9월 30일까지 민·관 합동 서명운동을 온·오프라인으로 진행했으며 총 28만5000여명이 참여했다고 밝혔다. 대장~홍대선 계양·<b>청라<\/b> 연장은... ",
 			"pubDate":"Wed, 07 Oct 2026 09:48:00 +0900"
-		},
-		{
-			"title":"서울 아파트 낙찰가율 1년 7개월 만에 최저⋯&quot;중저가로 실수요 몰려&quot;",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2633218",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2633218",
-			"description":"연수구가 86.3%, <b>청라<\/b>가 위치한 서해구가 84.0%로 상승세를 이끈 반면 계양구와 미추홀구는 각각 73.9%, 71.1%에 머물렀다. 전국 아파트 경매는 추석 연휴 영향으로 진행 건수가 줄었다. 지난달 전국 아파트 경매 진행... ",
-			"pubDate":"Wed, 07 Oct 2026 09:46:00 +0900"
-		},
-		{
-			"title":"현대ENG, 8천700억 규모 인천 데이터센터 수주",
-			"originallink":"https:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4438056",
-			"link":"https:\/\/news.einfomax.co.kr\/news\/articleView.html?idxno=4438056",
-			"description":"해당 사업은 <b>청라<\/b> IDC PFV가 발주했으며, 인천광역시 서해구 원창동 일원에 50MW(메가와트)급 데이터센터를 구축하는 것을 목적으로 한다. 데이터센터는 지하 4층~지상 11층으로 건립되며 다음 달 착공해 오는 2029년... ",
-			"pubDate":"Wed, 07 Oct 2026 09:44:00 +0900"
-		},
-		{
-			"title":"현대엔지니어링, 인천 데이터센터 공사 수주",
-			"originallink":"https:\/\/www.newsinside.kr\/news\/articleView.html?idxno=5018389",
-			"link":"https:\/\/www.newsinside.kr\/news\/articleView.html?idxno=5018389",
-			"description":"현대엔지니어링은 <b>청라<\/b> IDC PFV가 발주한 인천 원창동 데이터 신축사업을 수주했다고 7일 밝혔다. 이번 사업은 인천 서해구 원창동 일대에 지하 4층∼지상 11층 규모, 50㎿(메가와트)급 데이터센터를 짓는 프로젝트다.... ",
-			"pubDate":"Wed, 07 Oct 2026 09:44:00 +0900"
-		},
-		{
-			"title":"최근 25년 사이에도 인천 갯벌은 여의도의 16배가 더 줄었다",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=121283",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=121283",
-			"description":"남동공단, 인천국제공항, 송도국제도시, <b>청라<\/b>, 송도 신항. 지도 위에 새 이름이 하나씩 생길 때마다 갯벌은 그만큼 줄었다. 1990년대에 이미 경인지역 갯벌의 40% 이상이 간척과 매립으로 사라졌거나 사라질 위기라는... ",
-			"pubDate":"Wed, 07 Oct 2026 09:42:00 +0900"
-		},
-		{
-			"title":"kt클라우드, 50MW급 <b>청라<\/b> AI 데이터센터 구축 사업 참여",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20261007049600017?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016361470?sid=105",
-			"description":"올해 4분기 착공·2030년 1분기 준공 목표…설계·구축·운영 담당 kt클라우드는 인천 <b>청라<\/b> 지역에 조성되는 수전용량 50메가와트(MW)급 인공지능(AI) 데이터센터 구축 사업에 참여한다고 7일 밝혔다. <b>청라<\/b> AI... ",
-			"pubDate":"Wed, 07 Oct 2026 09:42:00 +0900"
-		},
-		{
-			"title":"현대엔지니어링, 인천 원창동 데이터센터 수주...8700억 규모",
-			"originallink":"https:\/\/www.fnnews.com\/news\/202610070938582481",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005585942?sid=101",
-			"description":"이번 사업은 이도테라원이 설립한 <b>청라<\/b> IDC PFV가 발주했으며, 인천 서해구 원창동 일원에 50㎿(메가와트)급 데이터센터를 짓는 프로젝트다. 지하 4층~지상 11층 규모로, 올해 11월 착공해 2029년 하반기 준공 예정이다. 기존... ",
-			"pubDate":"Wed, 07 Oct 2026 09:41:00 +0900"
-		},
-		{
-			"title":"군산 이어 인천까지…현대엔지니어링, 데이터센터 연타 수주",
-			"originallink":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=366747",
-			"link":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=366747",
-			"description":"회사는 7일 이도테라원이 설립한 <b>청라<\/b> IDC PFV가 발주한 '인천 원창동 데이터센터 신축 사업'을 수주했다고 밝혔다. 인천 서해구 원창동 일대에 지하 4층~지상 11층 규모로 들어서며, 총사업비는 약 8700억원이다. 올 11월... ",
-			"pubDate":"Wed, 07 Oct 2026 09:40:00 +0900"
-		},
-		{
-			"title":"KT클라우드, 50MW <b>청라<\/b> AI데이터센터 구축…2030년 1분기 준공",
-			"originallink":"https:\/\/news.mtn.co.kr\/news-detail\/2026100709273543444",
-			"link":"https:\/\/news.mtn.co.kr\/news-detail\/2026100709273543444",
-			"description":"<b>청라<\/b> AIDC 조감도\/제공=KT클라우드KT클라우드가 인천 <b>청라<\/b>에 들어서는 50MW급 인공지능(AI) 데이터센터 구축에 참여한다. 설계부터 주요 설비 공사, 운영까지 맡아 수도권 AI 데이터센터(AIDC) 공급 기반을 넓힌다는... ",
-			"pubDate":"Wed, 07 Oct 2026 09:38:00 +0900"
 		}
 	]
 }
