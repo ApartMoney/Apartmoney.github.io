@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 13 Oct 2026 17:40:01 +0900",
-	"total":310663,
+	"lastBuildDate":"Tue, 13 Oct 2026 17:50:01 +0900",
+	"total":310665,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 자율주행 대중교통 확대…<b>청라<\/b>·영종·송도에 도입 추진",
+			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2026101317444061874?utm_source=naver&utm_medium=search",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002460764?sid=102",
+			"description":"먼저 <b>청라<\/b>~강서 BRT 23.8㎞ 구간에 심야 자율주행버스 도입을 추진한다. 이 가운데 <b>청라<\/b>국제업무단지부터 부천고강지하차도까지 18.3㎞는 중앙차로 전용구간으로, 자율주행 서비스 운영에 유리한 여건을 갖추고 있다.... ",
+			"pubDate":"Tue, 13 Oct 2026 17:45:00 +0900"
+		},
+		{
+			"title":"[지역프로젝트점검]인천시 자율주행 대중교통 102억원 투입…<b>청라<\/b>~강서...",
+			"originallink":"https:\/\/www.nspna.com\/news\/?mode=view&newsid=831518",
+			"link":"https:\/\/www.nspna.com\/news\/?mode=view&newsid=831518",
+			"description":"<b>청라<\/b>~강서 23.8km 심야 BRT 2027년 첫 도입…2030년까지 차량 단계 확대 영종 9.7km 출퇴근·송도 3.7km 관광 셔틀…시범운행지구 활용 인천광역시가 2027년부터 2030년까지 총 102억원을 투입해 <b>청라<\/b>~강서 BRT와 영종·송도... ",
+			"pubDate":"Tue, 13 Oct 2026 17:42:00 +0900"
+		},
 		{
 			"title":"16일 '<b>청라<\/b>人 행복페스티벌'…주민경연대회, 노라조 공연",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20261013_0003824488",
@@ -68,17 +82,17 @@
 			"pubDate":"Tue, 13 Oct 2026 17:14:00 +0900"
 		},
 		{
-			"title":"쿠쿠, 대우건설과 빌트인 정수기 공급 계약 체결…B2B 시장 공략",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20261013001174",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20261013001174",
-			"description":"쿠쿠는 '<b>청라<\/b> 아크원 푸르지오'를 시작으로 2026년 9월부터 2년간 대우건설이 분양하는 전국 신규 단지에 '쿠쿠 스팀 100 빌트인 정수기'를 공급한다. 이번 수주는 대우건설의 기술력 및 디자인 평가를 거쳐 확정됐으며... ",
-			"pubDate":"Tue, 13 Oct 2026 16:56:00 +0900"
-		},
-		{
 			"title":"인천경제청, '신지경학 시대' 대응 전략 논의...제2차 IFEZ 발전계획 구...",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20261013152049824",
 			"link":"https:\/\/www.ajunews.com\/view\/20261013152049824",
 			"description":"인천경제청은 이날 논의된 산업별 전략과 전문가 제언을 제2차 인천경제자유구역 발전계획과 향후 정책 수립 과정에 반영하고, 송도·영종·<b>청라<\/b>가 보유한 산업·연구·물류·관광 기반을 연계해 글로벌 경제특구... ",
+			"pubDate":"Tue, 13 Oct 2026 16:56:00 +0900"
+		},
+		{
+			"title":"쿠쿠, 대우건설과 빌트인 정수기 공급 계약 체결…B2B 시장 공략",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20261013001174",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20261013001174",
+			"description":"쿠쿠는 '<b>청라<\/b> 아크원 푸르지오'를 시작으로 2026년 9월부터 2년간 대우건설이 분양하는 전국 신규 단지에 '쿠쿠 스팀 100 빌트인 정수기'를 공급한다. 이번 수주는 대우건설의 기술력 및 디자인 평가를 거쳐 확정됐으며... ",
 			"pubDate":"Tue, 13 Oct 2026 16:56:00 +0900"
 		},
 		{
@@ -194,25 +208,11 @@
 			"pubDate":"Tue, 13 Oct 2026 15:11:00 +0900"
 		},
 		{
-			"title":"[인천 주요 뉴스]인천 대중교통에 AI 입힌다…심야 자율주행버스·출퇴...",
-			"originallink":"https:\/\/www.nocutnews.co.kr\/news\/6590478?utm_source=naver&utm_medium=article&utm_campaign=20261013030035",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/079\/0004198232?sid=102",
-			"description":"인천시는 <b>청라<\/b>~강서 BRT 구간에 심야 자율주행버스를 도입하고, 영종 하늘도시~운서역 구간에는 출퇴근 시간대 자율주행 셔틀을 운영할 계획입니다. 송도 센트럴파크 일대에는 관광시설과 호텔 등을 연결하는 자율주행... ",
-			"pubDate":"Tue, 13 Oct 2026 15:01:00 +0900"
-		},
-		{
 			"title":"“美 중국 견제 틈새 뚫는다”…인천, 1조 모빌리티 승부수",
 			"originallink":"https:\/\/www.sedaily.com\/article\/20100803?ref=naver",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004670745?sid=102",
 			"description":"<b>청라<\/b>를 핵심 시험·인증 거점으로 삼고, 영종(공항)과 송도, 인천항을 잇는 초연결 산업 실증 벨트를 구축해 2조 790억 원 규모의 생산유발 효과를 거둔다는 구상이다. 바이오 분야에서는 미국 생물보안법 통과로 중국... ",
 			"pubDate":"Tue, 13 Oct 2026 15:01:00 +0900"
-		},
-		{
-			"title":"인천시, 공항연계 좌석버스 및 도심연계 직행좌석버스 4개 노선 내년 신...",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2026101314473750397",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005827861?sid=102",
-			"description":"또 도심 주요 생활권 간 급행버스 서비스 강화를 위해 지난 7월에는 송도 ~ <b>청라<\/b> 간 차량 재배치를 통해 급행 91번을 6대에서 10대로 4대 증차했다. 박성순 인천시 교통정책국장은 &quot;인천국제공항과 도심 간 이동 수요에... ",
-			"pubDate":"Tue, 13 Oct 2026 14:47:00 +0900"
 		}
 	]
 }
