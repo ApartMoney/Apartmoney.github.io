@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 14 Oct 2026 06:10:01 +0900",
-	"total":310680,
+	"lastBuildDate":"Wed, 14 Oct 2026 06:20:01 +0900",
+	"total":310681,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"'이동권 혁신' 가속…인천시, 공항·도심 버스 33대 늘리고 장애인 특장...",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=723841",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=723841",
+			"description":"앞서 시는 지난 1월 인천공항 제2여객터미널과 서해구 가정동을 잇는 281번 노선을 신설하고 지난 7월에는 송도~<b>청라<\/b> 간 급행 91번을 4대 증차하는 등 생활권 급행 교통망을 꾸준히 확충해 왔다. 박성순 인천시... ",
+			"pubDate":"Wed, 14 Oct 2026 06:10:00 +0900"
+		},
 		{
 			"title":"자율주행 대중교통 도입·지하주차장 800면 확충…인천시, 미래 모빌리...",
 			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=723840",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3037466",
 			"description":"고태곤 기자 tkko@kihoilbo.co.kr 인천시가 내년부터 2030년까지 102억 원을 들여 <b>청라<\/b>·영종·송도에 인공지능(AI)... <b>청라<\/b>국제도시에는 심야 시간대 이동을 지원하기 위해 서울 화곡역을 잇는 7700번 간선급행버스체계(BRT)... ",
 			"pubDate":"Tue, 13 Oct 2026 16:54:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>·영종·송도에 AI 기반 자율주행버스 도입",
-			"originallink":"https:\/\/www.newspim.com\/news\/view\/20261013001176",
-			"link":"https:\/\/www.newspim.com\/news\/view\/20261013001176",
-			"description":"인천시는 <b>청라<\/b>~강서 간선급행버스체계(BRT)와 영종·송도 자율주행 셔틀 운영 사업을 추진한다고 13일 밝혔다. 시는 <b>청라<\/b>에서 서울 강서까지 23.8㎞ 구간에 심야 자율주행버스를 도입할 계획이다. 우선 내년에 버스 1대를... ",
-			"pubDate":"Tue, 13 Oct 2026 16:51:00 +0900"
 		}
 	]
 }
