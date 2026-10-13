@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 13 Oct 2026 14:00:01 +0900",
-	"total":310623,
+	"lastBuildDate":"Tue, 13 Oct 2026 14:10:01 +0900",
+	"total":310624,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 2027년 ‘AI 기반 자율주행 대중교통’도입",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20261013500220",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20261013500220",
+			"description":"중앙차로가 확보되어 안전성이 높은 <b>청라<\/b>~강서 BRT 심야 노선에 2027년 첫 자율주행 버스를 투입하며, 2030년까지 총 50억 원을 들여 순차적으로 차량을 늘리고 무인·원격제어 기술로 확대해 나갈 방침이다. 인천시는... ",
+			"pubDate":"Tue, 13 Oct 2026 14:00:00 +0900"
+		},
 		{
 			"title":"인천시, 내년 '<b>청라<\/b>~강서' AI 기반 자율주행버스 도입 추진",
 			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20261013500252",
@@ -187,13 +194,6 @@
 			"pubDate":"Tue, 13 Oct 2026 11:54:00 +0900"
 		},
 		{
-			"title":"쿠쿠, 대우건설 빌트인 정수기 수주…전국 신규 분양 단지에 공급",
-			"originallink":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202610130091",
-			"link":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202610130091",
-			"description":"쿠쿠는 '<b>청라<\/b> 아크원 푸르지오'를 시작으로 지난 9월부터 2년간 대우건설이 분양하는 전국 신규 단지에 '쿠쿠 스팀 100 빌트인 정수기'를 공급한다고 13일 밝혔다. 이번 수주는 대우건설의 기술력과 디자인 평가를 거쳐... ",
-			"pubDate":"Tue, 13 Oct 2026 11:46:00 +0900"
-		},
-		{
 			"title":"인천 교통지도 확 바뀐다…자율주행 102억·주차장 1040억 투입, 버스 33...",
 			"originallink":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7188624",
 			"link":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7188624",
@@ -201,11 +201,11 @@
 			"pubDate":"Tue, 13 Oct 2026 11:46:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b>~화곡 연계 BRT 노선, 내년부터 자율주행 버스 투입",
-			"originallink":"https:\/\/www.kyeongin.com\/article\/1772427",
-			"link":"https:\/\/www.kyeongin.com\/article\/1772427",
-			"description":"인천 <b>청라<\/b>국제도시와 서울 화곡역을 오가는 간선급행버스체계(BRT) 노선에 내년 하반기부터 자율주행 버스가 투입될 예정이다. 박성순 인천시 교통정책국장은 13일 기자간담회에서 <b>청라<\/b>~화곡역 구간을 운행하는 7700번... ",
-			"pubDate":"Tue, 13 Oct 2026 11:42:00 +0900"
+			"title":"쿠쿠, 대우건설 빌트인 정수기 수주…전국 신규 분양 단지에 공급",
+			"originallink":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202610130091",
+			"link":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202610130091",
+			"description":"쿠쿠는 '<b>청라<\/b> 아크원 푸르지오'를 시작으로 지난 9월부터 2년간 대우건설이 분양하는 전국 신규 단지에 '쿠쿠 스팀 100 빌트인 정수기'를 공급한다고 13일 밝혔다. 이번 수주는 대우건설의 기술력과 디자인 평가를 거쳐... ",
+			"pubDate":"Tue, 13 Oct 2026 11:46:00 +0900"
 		},
 		{
 			"title":"&quot;<b>청라<\/b> 주민 끼·흥 한자리에&quot;...'제8회 <b>청라<\/b>人 행복 페스티벌' 16일 개최",
