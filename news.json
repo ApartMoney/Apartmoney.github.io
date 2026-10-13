@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 13 Oct 2026 12:40:01 +0900",
-	"total":310607,
+	"lastBuildDate":"Tue, 13 Oct 2026 12:50:01 +0900",
+	"total":310609,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 서해구, 적십자 봉사자의 날 맞아 유공자 표창",
+			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2005234",
+			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2005234",
+			"description":"적십자 봉사원들은 석남동 수해와 <b>청라<\/b> 전기차 화재, 올해 발생한 쿠팡 화재 등 각종 재난 현장에서 피해 주민을 위한 구호 활동에 참여해 왔다. 이와 함께 취약계층 지원과 나눔 활동을 통해 지역사회 복지 증진에도... ",
+			"pubDate":"Tue, 13 Oct 2026 12:48:00 +0900"
+		},
+		{
+			"title":"인천시, 2030년까지 102억 투입… <b>청라<\/b>~강서 심야 자율주행 BRT·영종·송...",
+			"originallink":"https:\/\/www.greened.kr\/news\/articleView.html?idxno=351935",
+			"link":"https:\/\/www.greened.kr\/news\/articleView.html?idxno=351935",
+			"description":"이번 사업은 <b>청라<\/b>~강서 자율주행 BRT 구축에 50억 원, 영종·송도 자율주행 셔틀 운영에 52억 원 등 총 102억 원... 가장 눈에 띄는 대목은 <b>청라<\/b>국제도시와 서울 강서지역을 잇는 BRT 노선에 심야 자율주행버스를 도입하는... ",
+			"pubDate":"Tue, 13 Oct 2026 12:46:00 +0900"
+		},
 		{
 			"title":"인천 서해구, <b>청라<\/b>호수공원서 '제8회 <b>청라<\/b>人 행복 페스티벌' 개최",
 			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2005232",
@@ -61,13 +75,6 @@
 			"pubDate":"Tue, 13 Oct 2026 11:56:00 +0900"
 		},
 		{
-			"title":"인천시, 자율주행버스 도입부터 원도심 주차난 해소까지...교통 인프라...",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20261013111937094",
-			"link":"https:\/\/www.ajunews.com\/view\/20261013111937094",
-			"description":"<b>청라<\/b>~강서 BRT·영종·송도에 자율주행 서비스...2030년까지 단계적 확대 원도심 8개 구에 공공시설 지하 활용... 자율주행 분야에서는 <b>청라<\/b>~강서 간 BRT 23.8㎞ 구간에 심야 자율주행버스를 도입하며 이 가운데... ",
-			"pubDate":"Tue, 13 Oct 2026 11:54:00 +0900"
-		},
-		{
 			"title":"예산난에 지지부진한 인천 자율주행...내년 하반기 재시동",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=481506",
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=481506",
@@ -75,11 +82,11 @@
 			"pubDate":"Tue, 13 Oct 2026 11:54:00 +0900"
 		},
 		{
-			"title":"인천 교통지도 확 바뀐다…자율주행 102억·주차장 1040억 투입, 버스 33...",
-			"originallink":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7188624",
-			"link":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7188624",
-			"description":"◇ <b>청라<\/b>~서울 강서 심야 자율주행 추진…영종·송도까지 확대 가장 눈에 띄는 변화는 일반 대중교통망에 자율주행 기술을 본격적으로 접목한다는 점이다. 시는 2027년부터 2030년까지 50억 원을 투입해 <b>청라<\/b>와 서울... ",
-			"pubDate":"Tue, 13 Oct 2026 11:46:00 +0900"
+			"title":"인천시, 자율주행버스 도입부터 원도심 주차난 해소까지...교통 인프라...",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20261013111937094",
+			"link":"https:\/\/www.ajunews.com\/view\/20261013111937094",
+			"description":"<b>청라<\/b>~강서 BRT·영종·송도에 자율주행 서비스...2030년까지 단계적 확대 원도심 8개 구에 공공시설 지하 활용... 자율주행 분야에서는 <b>청라<\/b>~강서 간 BRT 23.8㎞ 구간에 심야 자율주행버스를 도입하며 이 가운데... ",
+			"pubDate":"Tue, 13 Oct 2026 11:54:00 +0900"
 		},
 		{
 			"title":"쿠쿠, 대우건설 빌트인 정수기 수주…전국 신규 분양 단지에 공급",
@@ -89,17 +96,24 @@
 			"pubDate":"Tue, 13 Oct 2026 11:46:00 +0900"
 		},
 		{
-			"title":"&quot;<b>청라<\/b> 주민 끼·흥 한자리에&quot;...'제8회 <b>청라<\/b>人 행복 페스티벌' 16일 개최",
-			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/1165775",
-			"link":"https:\/\/www.wikitree.co.kr\/articles\/1165775",
-			"description":"인천 서구(구청장 구재용) <b>청라<\/b>지역 주민들이 직접 무대에 올라 끼와 재능을 선보이고 온 가족이 함께 즐길 수 있는 주민 참여형 축제가 열린다. <b>청라<\/b>1·2·3동 주민들이 직접 기획하고 참여하는 ‘<b>청라<\/b>人 행복 페스티벌’이... ",
-			"pubDate":"Tue, 13 Oct 2026 11:42:00 +0900"
+			"title":"인천 교통지도 확 바뀐다…자율주행 102억·주차장 1040억 투입, 버스 33...",
+			"originallink":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7188624",
+			"link":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7188624",
+			"description":"◇ <b>청라<\/b>~서울 강서 심야 자율주행 추진…영종·송도까지 확대 가장 눈에 띄는 변화는 일반 대중교통망에 자율주행 기술을 본격적으로 접목한다는 점이다. 시는 2027년부터 2030년까지 50억 원을 투입해 <b>청라<\/b>와 서울... ",
+			"pubDate":"Tue, 13 Oct 2026 11:46:00 +0900"
 		},
 		{
 			"title":"<b>청라<\/b>~화곡 연계 BRT 노선, 내년부터 자율주행 버스 투입",
 			"originallink":"https:\/\/www.kyeongin.com\/article\/1772427",
 			"link":"https:\/\/www.kyeongin.com\/article\/1772427",
 			"description":"인천 <b>청라<\/b>국제도시와 서울 화곡역을 오가는 간선급행버스체계(BRT) 노선에 내년 하반기부터 자율주행 버스가 투입될 예정이다. 박성순 인천시 교통정책국장은 13일 기자간담회에서 <b>청라<\/b>~화곡역 구간을 운행하는 7700번... ",
+			"pubDate":"Tue, 13 Oct 2026 11:42:00 +0900"
+		},
+		{
+			"title":"&quot;<b>청라<\/b> 주민 끼·흥 한자리에&quot;...'제8회 <b>청라<\/b>人 행복 페스티벌' 16일 개최",
+			"originallink":"https:\/\/www.wikitree.co.kr\/articles\/1165775",
+			"link":"https:\/\/www.wikitree.co.kr\/articles\/1165775",
+			"description":"인천 서구(구청장 구재용) <b>청라<\/b>지역 주민들이 직접 무대에 올라 끼와 재능을 선보이고 온 가족이 함께 즐길 수 있는 주민 참여형 축제가 열린다. <b>청라<\/b>1·2·3동 주민들이 직접 기획하고 참여하는 ‘<b>청라<\/b>人 행복 페스티벌’이... ",
 			"pubDate":"Tue, 13 Oct 2026 11:42:00 +0900"
 		},
 		{
@@ -145,20 +159,6 @@
 			"pubDate":"Tue, 13 Oct 2026 11:20:00 +0900"
 		},
 		{
-			"title":"[13일 인천 서해구] '제8회 <b>청라<\/b>人 행복 페스티벌' 개최 등",
-			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20261013500155",
-			"link":"https:\/\/www.asiatime.co.kr\/article\/20261013500155",
-			"description":"홍보물(사진=서해구 제공) <b>청라<\/b>축제위원회는 오는 16일 오후 4시부터 <b>청라<\/b>호수공원 야외음악당에서 ‘제8회 <b>청라<\/b>人 행복 페스티벌(축제)’을 개최한다고 밝혔다. ‘<b>청라<\/b>人 행복 페스티벌’은 <b>청라<\/b>1·2·3동 주민자치회와... ",
-			"pubDate":"Tue, 13 Oct 2026 11:16:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b>人 행복 페스티벌, 16일 <b>청라<\/b>호수공원서 개최",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1300789",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1300789",
-			"description":"'제8회 <b>청라<\/b>人 행복 페스티벌' 포스터. <b>청라<\/b>축제위원회는 오는 16일 오후 4시부터 <b>청라<\/b>호수공원 야외음악당에서 '제8회 <b>청라<\/b>人 행복 페스티벌'을 개최한다고 밝혔다. <b>청라<\/b>1·2·3동 주민자치회와 행정복지센터가 공동으로... ",
-			"pubDate":"Tue, 13 Oct 2026 11:16:00 +0900"
-		},
-		{
 			"title":"인천시, 2027년부터 <b>청라<\/b>·영종·송도에 자율주행버스 도입한다",
 			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2005180",
 			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2005180",
@@ -170,6 +170,20 @@
 			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2026101311005520194c878f8fa1_30",
 			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2026101311005520194c878f8fa1_30",
 			"description":"<b>청라<\/b>~강서 구간에는 심야 자율주행버스를, 영종과 송도에는 지역 특성에 맞는 셔틀을 도입해 시민의 이동... ◇<b>청라<\/b>~강서 23.8㎞ 구간…심야 이동 편의 높인다 우선 <b>청라<\/b>~강서 간 BRT 23.8㎞ 구간에 심야 자율주행버스... ",
+			"pubDate":"Tue, 13 Oct 2026 11:16:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>人 행복 페스티벌, 16일 <b>청라<\/b>호수공원서 개최",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1300789",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1300789",
+			"description":"'제8회 <b>청라<\/b>人 행복 페스티벌' 포스터. <b>청라<\/b>축제위원회는 오는 16일 오후 4시부터 <b>청라<\/b>호수공원 야외음악당에서 '제8회 <b>청라<\/b>人 행복 페스티벌'을 개최한다고 밝혔다. <b>청라<\/b>1·2·3동 주민자치회와 행정복지센터가 공동으로... ",
+			"pubDate":"Tue, 13 Oct 2026 11:16:00 +0900"
+		},
+		{
+			"title":"[13일 인천 서해구] '제8회 <b>청라<\/b>人 행복 페스티벌' 개최 등",
+			"originallink":"https:\/\/www.asiatime.co.kr\/article\/20261013500155",
+			"link":"https:\/\/www.asiatime.co.kr\/article\/20261013500155",
+			"description":"홍보물(사진=서해구 제공) <b>청라<\/b>축제위원회는 오는 16일 오후 4시부터 <b>청라<\/b>호수공원 야외음악당에서 ‘제8회 <b>청라<\/b>人 행복 페스티벌(축제)’을 개최한다고 밝혔다. ‘<b>청라<\/b>人 행복 페스티벌’은 <b>청라<\/b>1·2·3동 주민자치회와... ",
 			"pubDate":"Tue, 13 Oct 2026 11:16:00 +0900"
 		},
 		{
@@ -192,20 +206,6 @@
 			"link":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1103926",
 			"description":"인천광역시(시장 박찬대)는 <b>청라<\/b>~강서 간선급행버스체계(BRT)와 영종·송도 자율주행 시범운행지구 운영 사업을 2027년도 예산에 반영해 단계적으로 추진한다고 밝혔다. 우선 <b>청라<\/b>~강서 BRT 23.8㎞ 구간에 심야... ",
 			"pubDate":"Tue, 13 Oct 2026 11:02:00 +0900"
-		},
-		{
-			"title":"[깨끗한리빙] 깨끗한나라, 라이온코리아, 세라젬, 한샘, 쿠쿠, 교원라이...",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20261013020595423",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20261013020595423",
-			"description":"쿠쿠는 '<b>청라<\/b> 아크원 푸르지오'를 시작으로 지난달부터 2년간 대우건설이 전국 신규 분양 단지에 적용하는 특화 선택 품목으로 '쿠쿠 스팀 100 빌트인 정수기'를 공급한다고 13일 밝혔다. 해당 제품은 본체를 싱크대... ",
-			"pubDate":"Tue, 13 Oct 2026 11:00:00 +0900"
-		},
-		{
-			"title":"쿠쿠, 대우건설 빌트인 정수기 수주…&quot;B2B 확대&quot;",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20261013_0003823622",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014249227?sid=101",
-			"description":"쿠쿠는 '<b>청라<\/b> 아크원 푸르지오'를 시작으로 올해 9월부터 2년간 대우건설이 분양하는 전국 모든 신규 단지에 '쿠쿠 스팀 100 빌트인 정수기'를 공급한다고 13일 밝혔다. 쿠쿠 스팀 100 빌트인 정수기는 본체를 싱크대... ",
-			"pubDate":"Tue, 13 Oct 2026 11:00:00 +0900"
 		},
 		{
 			"title":"내년부터 인천 <b>청라<\/b>~서울 강서 BRT에 자율주행 시스템 도입된다",
