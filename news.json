@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 15 Oct 2026 08:30:01 +0900",
-	"total":310863,
+	"lastBuildDate":"Thu, 15 Oct 2026 08:40:01 +0900",
+	"total":310865,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"KT, 3분기 실적 기대치 하회 전망…4분기 반등 기대",
+			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=280539",
+			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=280539",
+			"description":"현재 약 200메가와트(MW)의 고객 수요를 확보했으며, 여의도·목동 등 수도권과 부천·<b>청라<\/b>·안산·용인 등 주요 지역을 중심으로 데이터센터 거점을 개발할 계획이다. 최 연구원은 &quot;안정적인 주주환원과 매출·부지... ",
+			"pubDate":"Thu, 15 Oct 2026 08:38:00 +0900"
+		},
+		{
+			"title":"SK증권 &quot;KT, 4분기 실적 반등 가능성…지금이 매수 적기&quot;",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20261015025300008?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016377875?sid=101",
+			"description":"이어 &quot;2031년까지 1GW(기가와트) 이상의 AIDC를 통해 4조4천억원의 매출을 목표로 제시했다&quot;며 &quot;현재 200㎿(메가와트)의 고객 수요를 확보했으며 수도권(여의도, 목동)과 비수도권(부천, <b>청라<\/b>, 안산, 용인 등)을 지역과... ",
+			"pubDate":"Thu, 15 Oct 2026 08:31:00 +0900"
+		},
 		{
 			"title":"인천시, 산업단지 분양정보 통합 제공…용지 공급과 투자유치 활성화",
 			"originallink":"https:\/\/ic.newdaily.co.kr\/site\/data\/html\/2026\/10\/15\/2026101500018.html",
@@ -166,13 +180,6 @@
 			"pubDate":"Wed, 14 Oct 2026 18:04:00 +0900"
 		},
 		{
-			"title":"하나금융, 모바일신분증 도입부터 6억 달러 외화채 발행·헌혈 캠페인까...",
-			"originallink":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=103398",
-			"link":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=103398",
-			"description":"이번 캠페인은 지난 13일 명동사옥과 강남사옥을 시작으로 14일 여의도사옥, 30일 <b>청라<\/b>사옥까지 릴레이 방식으로 진행된다. 임직원들이 업무시간 중에도 편리하게 참여할 수 있도록 사옥마다 헌혈 차량을 운영하고 사전... ",
-			"pubDate":"Wed, 14 Oct 2026 18:02:00 +0900"
-		},
-		{
 			"title":"하나금융그룹, 임직원 헌혈 캠페인 전개…4개 사옥서 릴레이 진행",
 			"originallink":"https:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=116190",
 			"link":"https:\/\/www.thedailypost.kr\/news\/articleView.html?idxno=116190",
@@ -180,11 +187,11 @@
 			"pubDate":"Wed, 14 Oct 2026 18:02:00 +0900"
 		},
 		{
-			"title":"인천시,'2026년 인천 산업단지 조성현황 및 분양 설명회'개최",
-			"originallink":"https:\/\/www.siminsori.com\/news\/articleView.html?idxno=401979",
-			"link":"https:\/\/www.siminsori.com\/news\/articleView.html?idxno=401979",
-			"description":"인천경제자유구역청은 송도·영종·<b>청라<\/b> 지구 내 산업시설 및 연구용지 공급계획을 설명했다. 특히 셀트리온, 삼성바이오로직스, SK바이오사이언스, 롯데바이오로직스 등 주요 기업을 포함해 140여 개 산·학·연 기관과... ",
-			"pubDate":"Wed, 14 Oct 2026 18:00:00 +0900"
+			"title":"하나금융, 모바일신분증 도입부터 6억 달러 외화채 발행·헌혈 캠페인까...",
+			"originallink":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=103398",
+			"link":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=103398",
+			"description":"이번 캠페인은 지난 13일 명동사옥과 강남사옥을 시작으로 14일 여의도사옥, 30일 <b>청라<\/b>사옥까지 릴레이 방식으로 진행된다. 임직원들이 업무시간 중에도 편리하게 참여할 수 있도록 사옥마다 헌혈 차량을 운영하고 사전... ",
+			"pubDate":"Wed, 14 Oct 2026 18:02:00 +0900"
 		},
 		{
 			"title":"대구 중구, <b>청라<\/b>언덕·근대골목 '대구 국가유산 야행'",
@@ -194,25 +201,18 @@
 			"pubDate":"Wed, 14 Oct 2026 18:00:00 +0900"
 		},
 		{
+			"title":"인천시,'2026년 인천 산업단지 조성현황 및 분양 설명회'개최",
+			"originallink":"https:\/\/www.siminsori.com\/news\/articleView.html?idxno=401979",
+			"link":"https:\/\/www.siminsori.com\/news\/articleView.html?idxno=401979",
+			"description":"인천경제자유구역청은 송도·영종·<b>청라<\/b> 지구 내 산업시설 및 연구용지 공급계획을 설명했다. 특히 셀트리온, 삼성바이오로직스, SK바이오사이언스, 롯데바이오로직스 등 주요 기업을 포함해 140여 개 산·학·연 기관과... ",
+			"pubDate":"Wed, 14 Oct 2026 18:00:00 +0900"
+		},
+		{
 			"title":"3분기 실적 발표 앞둔 4대 금융…자본 재배치·승계·이전 '분주'",
 			"originallink":"http:\/\/www.whitepaper.co.kr\/news\/articleView.html?idxno=267772",
 			"link":"http:\/\/www.whitepaper.co.kr\/news\/articleView.html?idxno=267772",
 			"description":"<b>청라<\/b> 그룹헤드쿼터 개관식을 열었으며, 지주와 하나은행·하나증권·하나카드 등 10개 계열사 임직원 약 2200명이 지난달부터 순차적으로 이전하고 있다. 기존 통합데이터센터 인력을 포함하면 약 4000명이 <b>청라<\/b>에서... ",
 			"pubDate":"Wed, 14 Oct 2026 17:56:00 +0900"
-		},
-		{
-			"title":"대구 중구, 오는 16~17일 양일간 ‘국가유산 야행’ 개최… <b>청라<\/b>언덕서...",
-			"originallink":"https:\/\/www.kbmaeil.com\/article\/20261014500601",
-			"link":"https:\/\/www.kbmaeil.com\/article\/20261014500601",
-			"description":"양일간 <b>청라<\/b>언덕과 근대골목 일원에서 ‘2026 대구 국가유산 야행’을 개최한다. 올해로 11회째를 맞는 이번 행사는 국가유산청의 ‘우리고장 국가유산 활용사업’ 공모에 선정된 사업으로, ‘<b>청라<\/b>에서, 근대를 거닐다’를... ",
-			"pubDate":"Wed, 14 Oct 2026 17:42:00 +0900"
-		},
-		{
-			"title":"청약 성수기 '가을 대전'… 3040 실수요자, 주요 단지 선별 청약",
-			"originallink":"https:\/\/www.gpkorea.com\/news\/articleView.html?idxno=147567",
-			"link":"https:\/\/www.gpkorea.com\/news\/articleView.html?idxno=147567",
-			"description":"최근 대규모 민간분양 공급이 드물었던 인천 서구에서는 '<b>청라<\/b> 아크원 푸르지오'가 분양을 앞두고 있다. <b>청라<\/b>국제업무단지 첫 주거복합단지로 아파트 868세대, 주거형 오피스텔 987실 등 총 1855가구 규모다.... ",
-			"pubDate":"Wed, 14 Oct 2026 17:36:00 +0900"
 		}
 	]
 }
