@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 17 Oct 2026 07:20:01 +0900",
-	"total":311002,
+	"lastBuildDate":"Sat, 17 Oct 2026 07:30:01 +0900",
+	"total":311003,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[주말날씨] 18일 전국 돌풍·천둥 동반 최대 80mm 비, 19일 남부까지",
+			"originallink":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=881748",
+			"link":"https:\/\/www.gokorea.kr\/news\/articleView.html?idxno=881748",
+			"description":"오전 9시까지 인천·경기도와 강원내륙·산지, 충청권, 경북권내륙에 가시거리 200m 미만의 짙은 안개가 끼는 곳이 있다고 밝혔다. 영종대교, <b>청라<\/b>하늘대교, 서해대교 등 해안 교량에서는 감속 운행이 필요하다.",
+			"pubDate":"Sat, 17 Oct 2026 07:22:00 +0900"
+		},
 		{
 			"title":"호수공원 넘어 운하형 주거지로···송도 11공구",
 			"originallink":"https:\/\/www.smartbizn.com\/news\/articleView.html?idxno=156728",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.aflnews.co.kr\/news\/articleView.html?idxno=329787",
 			"description":"이번 무역사절단에 참가업체로는 엠스푸드㈜, 농업회사법인(주)나은, ㈜동진, ㈜삼진, 수정영농조합법인, ㈜에이스열처리, ㈜재경산업, ㈜지산타포린, <b>청라<\/b>, 천일에스에프, ㈜해인기계 11개 기업으로... ",
 			"pubDate":"Fri, 16 Oct 2026 09:16:00 +0900"
-		},
-		{
-			"title":"[한국 건설, 80년의 기록]⑫광주서 자본금 1억으로 시작한 호반건설, 재...",
-			"originallink":"https:\/\/www.wikileaks-kr.org\/news\/articleView.html?idxno=193306",
-			"link":"https:\/\/www.wikileaks-kr.org\/news\/articleView.html?idxno=193306",
-			"description":"다음 무대는 광교·판교·동탄·송도·<b>청라<\/b> 같은 신도시였다. 2010년에는 판교에서 주상복합 브랜드 '호반써밋플레이스'(현 호반써밋)를 선보였다. 그해 시평 순위는 62위까지 올랐다. 2013년 4월에는 판교에 상업시설... ",
-			"pubDate":"Fri, 16 Oct 2026 09:14:00 +0900"
 		}
 	]
 }
