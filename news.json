@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 21 Oct 2026 07:20:01 +0900",
-	"total":311249,
+	"lastBuildDate":"Wed, 21 Oct 2026 07:30:01 +0900",
+	"total":311250,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"‘GM 연구개발의 산실’ GMTCK…제조혁신 허브로 도약",
+			"originallink":"https:\/\/www.dt.co.kr\/article\/12090257?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0003054252?sid=101",
+			"description":"<b>청라<\/b>시험장은 36개의 주행 시험 시설과 최첨단 시설을 갖춘 세계 최초의 시험 연구소를 두고 있으며, 물리 시험에서 가상 시험으로 확장되는 로드 투 버추얼(Road to Virtual) 전략의 중심에 있다. 한국GM 관계자는... ",
+			"pubDate":"Wed, 21 Oct 2026 07:20:00 +0900"
+		},
 		{
 			"title":"인천경제청, <b>청라<\/b>영상문화복합단지 개발계획 변경 승인…2031년 준공 목...",
 			"originallink":"http:\/\/www.newstown.co.kr\/news\/articleView.html?idxno=719191",
@@ -180,17 +187,17 @@
 			"pubDate":"Tue, 20 Oct 2026 17:48:00 +0900"
 		},
 		{
-			"title":"인천경제청 <b>청라<\/b> SOM CITY 사업기간 4년 연장…K-콘텐츠 클러스터 재시동",
-			"originallink":"https:\/\/www.viva100.com\/article\/20261020501145",
-			"link":"https:\/\/www.viva100.com\/article\/20261020501145",
-			"description":"사업 추진이 지연돼 온 인천 <b>청라<\/b>영상문화복합단지(SOM CITY)가 개발계획 변경을 계기로 재추진의 발판을... 인천경제청은 <b>청라<\/b>영상문화복합단지 개발계획 변경안이 지난 19일 열린 제149차 경제자유구역위원회에서... ",
-			"pubDate":"Tue, 20 Oct 2026 17:46:00 +0900"
-		},
-		{
 			"title":"박찬대 인천시장, <b>청라<\/b> 영상문화복합단지 개발계획 변경...2031년 준공 추...",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20261020173155499",
 			"link":"https:\/\/www.ajunews.com\/view\/20261020173155499",
 			"description":"[사진=인천시] 인천광역시(시장 박찬대)가 장기간 추진이 지연됐던 <b>청라<\/b>국제도시 영상문화복합단지(SOM CITY)... 20일 인천경제자유구역청에 따르면 지난 19일 산업통상부가 개최한 제149차 경제자유구역위원회에서 <b>청라<\/b>... ",
+			"pubDate":"Tue, 20 Oct 2026 17:46:00 +0900"
+		},
+		{
+			"title":"인천경제청 <b>청라<\/b> SOM CITY 사업기간 4년 연장…K-콘텐츠 클러스터 재시동",
+			"originallink":"https:\/\/www.viva100.com\/article\/20261020501145",
+			"link":"https:\/\/www.viva100.com\/article\/20261020501145",
+			"description":"사업 추진이 지연돼 온 인천 <b>청라<\/b>영상문화복합단지(SOM CITY)가 개발계획 변경을 계기로 재추진의 발판을... 인천경제청은 <b>청라<\/b>영상문화복합단지 개발계획 변경안이 지난 19일 열린 제149차 경제자유구역위원회에서... ",
 			"pubDate":"Tue, 20 Oct 2026 17:46:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.jasm.co.kr\/news\/view\/322318\/?sc=Naver",
 			"description":"인천경제자유구역청은 최근 산업통상부 심의에서 개발계획이 변경된 <b>청라<\/b> 영상문화복합단지 조성사업을... 이 사업은 인천시 서해구 <b>청라<\/b>동 일대 18만8천여㎡(약 5만6천여평)에 1조8천억원을 들여 영상 제작시설... ",
 			"pubDate":"Tue, 20 Oct 2026 17:22:00 +0900"
-		},
-		{
-			"title":"정부 계획 줄줄이 연기…인천 철도·에너지 사업 '도미노 지연'",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363739913",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363739913",
-			"description":"시는 수도권 서북부 교통망 확충을 위해 대장홍대선 <b>청라<\/b> 연장선과 GTX-D Y자 노선, GTX-E 노선, 인천발 KTX 인천공항 연장선, 인천신항선 등 5개 노선의 반영을 요청한 상태다. 그러나 상위 국가계획 확정이 차일피일... ",
-			"pubDate":"Tue, 20 Oct 2026 17:20:00 +0900"
 		}
 	]
 }
