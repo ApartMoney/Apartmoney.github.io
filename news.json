@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 21 Oct 2026 18:10:00 +0900",
-	"total":311441,
+	"lastBuildDate":"Wed, 21 Oct 2026 18:20:00 +0900",
+	"total":311442,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;수도권만으론 안 된다&quot;…이지스, 지방 대형 AI 데이터센터로 승부[ASK 싱...",
+			"originallink":"https:\/\/www.hankyung.com\/article\/202610216750r",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/015\/0005345103?sid=101",
+			"description":"진천·아산 100㎿, 춘천 300㎿, 인천 <b>청라<\/b> 400㎿ 등 대규모 데이터센터 개발 구상을 검토하고 있다. 이들 사업은 전력 확보와 인허가, 임차인 계약 등에 따라 추진 여부와 규모가 구체화할 전망이다. 현 그룹장은 데이터센터... ",
+			"pubDate":"Wed, 21 Oct 2026 18:13:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>호수공원 24일 거미·린·조성모 공연… 불꽃쇼도",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3442106",
@@ -40,17 +47,17 @@
 			"pubDate":"Wed, 21 Oct 2026 17:46:00 +0900"
 		},
 		{
-			"title":"&quot;거쳐 가는 도시에서 머무는 도시로&quot;… 박찬대 시장, '인천 리메이킹' 발...",
-			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363740096",
-			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363740096",
-			"description":"프로야구장의 <b>청라<\/b> 이전 일정에 맞춰 구월2지구까지 상업·마이스 기능을 확장할 계획이다. 다음 달 타당성... 정선식기자 <b>청라<\/b>영상문화복합단지와 제물포 개항장도 문학과 잇는 문화·관광 거점으로 육성한다. 내항 1... ",
-			"pubDate":"Wed, 21 Oct 2026 17:40:00 +0900"
-		},
-		{
 			"title":"대한항공, 인천서 UAM 실증…자체 개발 관제 역량 입증",
 			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2008757",
 			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2008757",
 			"description":"대한항공은 2024년 4월 전남 고흥 GC 1단계 실증에서 기체·운용시스템·5G 항공통신망 간 통합 운용성을 입증했으며, 지난해 10월 인천 <b>청라<\/b>~계양 구간 GC 2단계 실증에서는 다수 운항사 간 관제권 이양 및 비정상 상황... ",
+			"pubDate":"Wed, 21 Oct 2026 17:40:00 +0900"
+		},
+		{
+			"title":"&quot;거쳐 가는 도시에서 머무는 도시로&quot;… 박찬대 시장, '인천 리메이킹' 발...",
+			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363740096",
+			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363740096",
+			"description":"프로야구장의 <b>청라<\/b> 이전 일정에 맞춰 구월2지구까지 상업·마이스 기능을 확장할 계획이다. 다음 달 타당성... 정선식기자 <b>청라<\/b>영상문화복합단지와 제물포 개항장도 문학과 잇는 문화·관광 거점으로 육성한다. 내항 1... ",
 			"pubDate":"Wed, 21 Oct 2026 17:40:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=916135",
 			"description":"조성·<b>청라<\/b> 영상문화 거점 육성 제물포·부평 등 원도심 활성화·주거환경 개선 추진 GTX 확충·도로망 정비로 수도권 1시간 생활권 구축 박찬대 인천시장이 문학경기장을 대규모 공연·문화시설로 전환하고 <b>청라<\/b>와... ",
 			"pubDate":"Wed, 21 Oct 2026 16:10:00 +0900"
-		},
-		{
-			"title":"24일 <b>청라<\/b>호수공원서 가을밤 축제…인기가수 공연·불꽃쇼",
-			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=240914",
-			"link":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=240914",
-			"description":"<b>청라<\/b>호수공원에서 유명 가수들의 드라마 OST 공연과 화려한 불꽃쇼가 어우러진 가을 축제가 열립니다. 인천경제청은 오는 24일 <b>청라<\/b>호수공원에서 'IFEZ 글로벌 페스티벌'의 마지막 행사인 '아이러브페스타 <b>청라<\/b>'를... ",
-			"pubDate":"Wed, 21 Oct 2026 16:08:00 +0900"
 		}
 	]
 }
