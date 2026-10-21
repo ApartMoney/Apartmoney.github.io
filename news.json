@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 22 Oct 2026 05:50:01 +0900",
-	"total":311459,
+	"lastBuildDate":"Thu, 22 Oct 2026 06:00:00 +0900",
+	"total":311460,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"박찬대 인천시장, 「인천 도시공간 혁신 비전' 발표…&quot;머무는 도시로 대...",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=724859",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=724859",
+			"description":"'K-컬처 이음'을 통해 <b>청라<\/b>영상문화복합단지 개발(생산유발 2조 7천억 원, 고용 1만 3천여 명 창출 기대)에 속도를 내고 개항장 '인슐랭' 맛집 거리 육성과 문학경기장 일대 'K-컬처파크' 공모 유치로 <b>청라<\/b>-제물포-문학을... ",
+			"pubDate":"Thu, 22 Oct 2026 05:56:00 +0900"
+		},
 		{
 			"title":"‘제물포는 관광, 문학은 K팝, <b>청라<\/b>는 영상’… 인천의 변신은 무죄",
 			"originallink":"https:\/\/www.seoul.co.kr\/news\/publicnews\/local_govern\/news_local\/2026\/10\/22\/20261022018011?wlog_tag3=naver",
@@ -166,17 +173,17 @@
 			"pubDate":"Wed, 21 Oct 2026 17:46:00 +0900"
 		},
 		{
-			"title":"대한항공, 인천서 UAM 실증…자체 개발 관제 역량 입증",
-			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2008757",
-			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2008757",
-			"description":"대한항공은 2024년 4월 전남 고흥 GC 1단계 실증에서 기체·운용시스템·5G 항공통신망 간 통합 운용성을 입증했으며, 지난해 10월 인천 <b>청라<\/b>~계양 구간 GC 2단계 실증에서는 다수 운항사 간 관제권 이양 및 비정상 상황... ",
-			"pubDate":"Wed, 21 Oct 2026 17:40:00 +0900"
-		},
-		{
 			"title":"&quot;거쳐 가는 도시에서 머무는 도시로&quot;… 박찬대 시장, '인천 리메이킹' 발...",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363740096",
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363740096",
 			"description":"프로야구장의 <b>청라<\/b> 이전 일정에 맞춰 구월2지구까지 상업·마이스 기능을 확장할 계획이다. 다음 달 타당성... 정선식기자 <b>청라<\/b>영상문화복합단지와 제물포 개항장도 문학과 잇는 문화·관광 거점으로 육성한다. 내항 1... ",
+			"pubDate":"Wed, 21 Oct 2026 17:40:00 +0900"
+		},
+		{
+			"title":"대한항공, 인천서 UAM 실증…자체 개발 관제 역량 입증",
+			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2008757",
+			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2008757",
+			"description":"대한항공은 2024년 4월 전남 고흥 GC 1단계 실증에서 기체·운용시스템·5G 항공통신망 간 통합 운용성을 입증했으며, 지난해 10월 인천 <b>청라<\/b>~계양 구간 GC 2단계 실증에서는 다수 운항사 간 관제권 이양 및 비정상 상황... ",
 			"pubDate":"Wed, 21 Oct 2026 17:40:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=211473",
 			"description":"지난해 10월 인천 <b>청라<\/b>~계양 구간의 2단계 실증에서는 다수 운항사의 운항을 지원하기 위한 관제권 이양과 비정상 상황 대응 등을 수행했다. 이번 실증은 이 과정에서 축적한 기술과 경험을 실제 지역 운항 환경에... ",
 			"pubDate":"Wed, 21 Oct 2026 17:22:00 +0900"
-		},
-		{
-			"title":"정예림 없었던 하나은행, 홍유순 빠진 신한은행 완파",
-			"originallink":"https:\/\/basketkorea.com\/news\/newsview.php?ncode=1065600709882208",
-			"link":"https:\/\/m.sports.naver.com\/basketball\/article\/351\/0000088887",
-			"description":"부천 하나은행은 21일 인천 <b>청라<\/b>에 위치한 하나글로벌캠퍼스 연습체육관에서 인천 신한은행과 연습 경기를 했다. 결과는 92-78. 고서연(170cm, G)과 이이지마 사키(172cm, F), 정현(178cm, F)과 진안(181cm, C), 양인영(184cm, C)이... ",
-			"pubDate":"Wed, 21 Oct 2026 17:17:00 +0900"
 		}
 	]
 }
