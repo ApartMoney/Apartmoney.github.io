@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Wed, 21 Oct 2026 13:30:01 +0900",
-	"total":311359,
+	"lastBuildDate":"Wed, 21 Oct 2026 13:40:01 +0900",
+	"total":311363,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, K-컬처 관광벨트부터 주거사다리·GTX 광역망까지 도시공간 전...",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=655133",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=655133",
+			"description":"K-컬처 이음은 <b>청라<\/b>에서 제물포, 문학으로 이어지는 문화·관광 거점을 연계한다. 최근 개발계획 변경 심의를 마친 <b>청라<\/b>영상문화복합단지에 대해서는 2조 7천억 원 이상의 생산유발효과와 1만 3천여 명의 고용 창출을... ",
+			"pubDate":"Wed, 21 Oct 2026 13:32:00 +0900"
+		},
+		{
+			"title":"대한항공, 인천 도서지역서 UAM 실증 성공…자체 관제시스템 활용",
+			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=577853&class=17&grp=",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002392297?sid=101",
+			"description":"지난해 10월 인천 <b>청라<\/b>~계양 구간에서 진행된 2단계 실증에서는 여러 운항사 간 관제권 이양 절차와 비정상 상황 대응 기능 등을 시험했다. 이러한 실증 경험을 바탕으로 ACROSS의 기능을 개선해 왔다. ACROSS는 여러 UAM... ",
+			"pubDate":"Wed, 21 Oct 2026 13:31:00 +0900"
+		},
+		{
+			"title":"‘<b>청라<\/b> 아크원 푸르지오’, 직장·학교·여가 갖춘 ‘15분 생활권’ 주...",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2026102113264292780",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005831497?sid=101",
+			"description":"이러한 가운데 인천 <b>청라<\/b>국제도시 국제업무단지에 공급되는 '<b>청라<\/b> 아크원 푸르지오'가 업무·교육·여가시설을 아우르는 복합생활권 입지로 눈길을 끌고 있다. <b>청라<\/b>국제업무단지는 국제업무와 금융, 첨단산업 등 계획된... ",
+			"pubDate":"Wed, 21 Oct 2026 13:30:00 +0900"
+		},
+		{
+			"title":"대한항공, 국내 첫 지자체 연계 UAM 실증…인천 도서지역서 통합 운용",
+			"originallink":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=342630",
+			"link":"http:\/\/www.ikld.kr\/news\/articleView.html?idxno=342630",
+			"description":"지난해 10월 인천 <b>청라<\/b>~계양 구간에서 진행된 2단계 실증에서는 다수 운항사의 운항을 지원하기 위한 관제권 이양과 비정상 상황 대응 등을 시험했다. 대한항공은 이 같은 실증 경험을 토대로 'ACROSS'의 시스템... ",
+			"pubDate":"Wed, 21 Oct 2026 13:30:00 +0900"
+		},
 		{
 			"title":"대한항공, 인천 도서지역서 UAM 비행 성공… 국내 첫 지자체 연계",
 			"originallink":"https:\/\/www.newscj.com\/news\/articleView.html?idxno=3441943",
@@ -124,17 +152,17 @@
 			"pubDate":"Wed, 21 Oct 2026 12:22:00 +0900"
 		},
 		{
-			"title":"UAM 실증 비행 성공한 대한항공..통합 관제 시스템 ‘ACROSS’ 검증·고도...",
-			"originallink":"https:\/\/www.dailycar.co.kr\/content\/news.html?type=view&autoId=62898",
-			"link":"https:\/\/www.dailycar.co.kr\/content\/news.html?type=view&autoId=62898",
-			"description":"대한항공은 지난 2024년 4월 전남 고흥 GC 1단계 실증에서 5G 항공통신망 기반 통합 운용성을 검증한 데 이어, 지난해 10월 인천 <b>청라<\/b>~계양 구간 GC 2단계 실증을 거치며 상호 관제권 이양과 비정상 상황 대응 능력을... ",
-			"pubDate":"Wed, 21 Oct 2026 12:20:00 +0900"
-		},
-		{
 			"title":"박찬대 인천시장, &quot;일상의 매력으로 머무는 도시 만들겠다&quot;",
 			"originallink":"https:\/\/www.mt.co.kr\/policy\/2026\/10\/21\/2026102112010910040",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005429537?sid=102",
 			"description":"K-컬처 이음은 <b>청라<\/b>에서 제물포, 문학으로 이어지는 문화·관광 거점을 연결하는 사업으로 최근 개발계획 변경 심의를 마친 <b>청라<\/b>영상문화복합단지는 2조7000억원 이상의 생산유발효과와 1만3000여명의 고용 창출이... ",
+			"pubDate":"Wed, 21 Oct 2026 12:20:00 +0900"
+		},
+		{
+			"title":"UAM 실증 비행 성공한 대한항공..통합 관제 시스템 ‘ACROSS’ 검증·고도...",
+			"originallink":"https:\/\/www.dailycar.co.kr\/content\/news.html?type=view&autoId=62898",
+			"link":"https:\/\/www.dailycar.co.kr\/content\/news.html?type=view&autoId=62898",
+			"description":"대한항공은 지난 2024년 4월 전남 고흥 GC 1단계 실증에서 5G 항공통신망 기반 통합 운용성을 검증한 데 이어, 지난해 10월 인천 <b>청라<\/b>~계양 구간 GC 2단계 실증을 거치며 상호 관제권 이양과 비정상 상황 대응 능력을... ",
 			"pubDate":"Wed, 21 Oct 2026 12:20:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"https:\/\/www.ajunews.com\/view\/20261021113345917",
 			"description":"21일 '인천 도시공간 리메이킹' 발표...Life·Live·Link 3대 비전 <b>청라<\/b> 영상문화단지·문학 K-컬처파크 추진...... 첫 번째 비전인 '즐거움이 머무는 도시'는 <b>청라<\/b>에서 제물포와 문학으로 이어지는 K-컬처 거점을 조성하고, 부평... ",
 			"pubDate":"Wed, 21 Oct 2026 11:50:00 +0900"
-		},
-		{
-			"title":"박찬대 시장 &quot;인천을 세계 관광메카로 만들 것&quot;",
-			"originallink":"https:\/\/www.edaily.co.kr\/News\/Read?newsId=03375126645615216&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006392775?sid=100",
-			"description":"만들겠다”며 △<b>청라<\/b>·제물포·문학을 잇는 K컬처이음 △부평·구월·인천대로를 잇는 인천로컬이음△녹지와 시장, 명소를 묶는 인천초록이음 사업을 제시했다. 박 시장은 “민선 8기 때 중앙정부의 문턱을 넘지 못한 <b>청라<\/b>... ",
-			"pubDate":"Wed, 21 Oct 2026 11:46:00 +0900"
-		},
-		{
-			"title":"대한항공, 국내 첫 지자체 연계 UAM 실증…'ACROSS'로 통합 관제",
-			"originallink":"https:\/\/www.mt.co.kr\/industry\/2026\/10\/21\/2026102111404785442",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005429505?sid=101",
-			"description":"지난해 10월 인천 <b>청라<\/b>~계양 구간에서 진행된 2단계 실증에서는 다수 운항사의 운항을 지원하기 위한 상호 관제권 이양과 비정상 상황 대응 등을 수행했다. 이번에는 도서지역으로 실증 범위를 넓혔다. ACROSS는 여러... ",
-			"pubDate":"Wed, 21 Oct 2026 11:44:00 +0900"
-		},
-		{
-			"title":"대한항공, UAM 운항 영역 섬으로 넓힌다…인천 도서지역 실증 완료",
-			"originallink":"https:\/\/www.dizzotv.com\/site\/data\/html_dir\/2026\/10\/21\/2026102180077.html",
-			"link":"https:\/\/www.dizzotv.com\/site\/data\/html_dir\/2026\/10\/21\/2026102180077.html",
-			"description":"지난해 10월 인천 <b>청라<\/b>~계양 구간에서 열린 2단계 실증에서는 여러 운항사의 운항을 지원하기 위한 관제권 상호 이양과 비정상 상황 대응 등을 성공적으로 수행했다. 대한항공은 실증 과정에서 쌓은 경험을 토대로... ",
-			"pubDate":"Wed, 21 Oct 2026 11:42:00 +0900"
-		},
-		{
-			"title":"“머무는 도시 인천 만들 것”… 박찬대 ‘인천 리메이킹’ 전략 제시",
-			"originallink":"https:\/\/www.kyeongin.com\/article\/1773070",
-			"link":"https:\/\/www.kyeongin.com\/article\/1773070",
-			"description":"Life 전략은 최근 산업통상부 개발계획 승인을 받은 <b>청라<\/b>영상문화복합단지와 문학 K-컬처파크, 재개발이... 박 시장은 “<b>청라<\/b>를 시작으로 문학을 인천의 문화 관광 중심으로 세워 사람을 모으고, 제물포와 부평을... ",
-			"pubDate":"Wed, 21 Oct 2026 11:38:00 +0900"
 		}
 	]
 }
