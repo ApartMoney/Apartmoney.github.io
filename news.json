@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 21 Oct 2026 12:50:01 +0900",
-	"total":311347,
+	"lastBuildDate":"Wed, 21 Oct 2026 13:00:00 +0900",
+	"total":311348,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대한항공, 인천 섬 하늘길서 UAM 실증 성공…‘하늘 택시’ 상용화 속도",
+			"originallink":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065585102375802",
+			"link":"https:\/\/www.megaeconomy.co.kr\/news\/newsview.php?ncode=1065585102375802",
+			"description":"이어 지난해 10월 인천 <b>청라<\/b>~계양 구간에서 진행된 GC 2단계 실증에서는 다수 운항사의 운항을 지원하기 위한 상호 관제권 이양과 비정상 상황 대응 등을 수행했다. 여러 사업자가 참여하는 UAM 운항 환경에서 관제... ",
+			"pubDate":"Wed, 21 Oct 2026 12:56:00 +0900"
+		},
 		{
 			"title":"인천시, '머무는 도시'로 대전환…문화·주거·교통 3대 혁신 추진",
 			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5074281",
@@ -68,17 +75,17 @@
 			"pubDate":"Wed, 21 Oct 2026 11:59:00 +0900"
 		},
 		{
-			"title":"대한항공, 국내 최초 지자체 연계 UAM 실증 성공…통합 관제 역량 입증",
-			"originallink":"https:\/\/www.cnbizm.com\/news\/articleView.html?idxno=318703",
-			"link":"https:\/\/www.cnbizm.com\/news\/articleView.html?idxno=318703",
-			"description":"지난해 10월 인천 <b>청라<\/b>\\~계양 구간의 2단계 실증에서는 복수 운항사 간 관제권 이양과 비정상 상황 대응 등을 수행했다. UAM은 전기동력 수직이착륙기 등을 활용해 도심과 인근 지역을 연결하는 차세대 항공교통... ",
-			"pubDate":"Wed, 21 Oct 2026 11:58:00 +0900"
-		},
-		{
 			"title":"박찬대 인천시장, 노후계획도시 1만6267호 정비 지원…GTX로 1시간 생활...",
 			"originallink":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=32420",
 			"link":"http:\/\/www.fieldnews.kr\/news\/articleView.html?idxno=32420",
 			"description":"<b>청라<\/b>·제물포·문학을 K-컬처 거점으로 연결하고 노후계획도시 6개 구역 1만6267호의 정비를 지원하는 한편... 문화·관광 분야에서는 <b>청라<\/b>에서 제물포와 문학으로 이어지는 K-컬처 거점을 구축한다.... ",
+			"pubDate":"Wed, 21 Oct 2026 11:58:00 +0900"
+		},
+		{
+			"title":"대한항공, 국내 최초 지자체 연계 UAM 실증 성공…통합 관제 역량 입증",
+			"originallink":"https:\/\/www.cnbizm.com\/news\/articleView.html?idxno=318703",
+			"link":"https:\/\/www.cnbizm.com\/news\/articleView.html?idxno=318703",
+			"description":"지난해 10월 인천 <b>청라<\/b>\\~계양 구간의 2단계 실증에서는 복수 운항사 간 관제권 이양과 비정상 상황 대응 등을 수행했다. UAM은 전기동력 수직이착륙기 등을 활용해 도심과 인근 지역을 연결하는 차세대 항공교통... ",
 			"pubDate":"Wed, 21 Oct 2026 11:58:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/030\/0003477131?sid=103",
 			"description":"이어 지난해 10월 인천 <b>청라<\/b>~계양 구간에서 진행된 GC 2단계 실증에서는 다수 운항사의 운항을 지원하기 위한 상호 관제권 이양 및 비정상 상황 대응 등을 성공적으로 수행했다.",
 			"pubDate":"Wed, 21 Oct 2026 11:21:00 +0900"
-		},
-		{
-			"title":"[현장] 박찬대표 인천 도시 공간 재구성…문화·주거·교통 바꾼다",
-			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1334690",
-			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1334690",
-			"description":"우선 'K-컬처 이음'을 중심으로 <b>청라<\/b>와 제물포, 문학을 문화·관광 거점으로 연결한다. <b>청라<\/b>영상문화복합단지를 영상 제작 거점으로 육성하고 제물포 개항장 일대에서는 교통 체계 개선과 내항 재개발, K-뷰티 브랜드... ",
-			"pubDate":"Wed, 21 Oct 2026 11:20:00 +0900"
 		}
 	]
 }
