@@ -1,5 +1,5 @@
 {
-	"lastBuildDate":"Fri, 23 Oct 2026 07:30:01 +0900",
+	"lastBuildDate":"Fri, 23 Oct 2026 07:40:01 +0900",
 	"total":311573,
 	"start":1,
 	"display":30,
@@ -33,13 +33,6 @@
 			"pubDate":"Fri, 23 Oct 2026 06:02:00 +0900"
 		},
 		{
-			"title":"[KT의 AIDC 밸류체인] ①KT클라우드, 수도권 DC 우위 앞세워 AIDC 공세",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202610220909139400636",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202610220909139400636",
-			"description":"현재 여의도·목동·경기 서부(부천·<b>청라<\/b>)·경기 남부(안산·용인) 등 4개 거점에 데이터센터를 보유하고... 이번 사업은 KT클라우드가 직접 보유한 부지에서 추진한다는 점에서 <b>청라<\/b> 사업과 차이가 있다. <b>청라<\/b> AIDC는... ",
-			"pubDate":"Fri, 23 Oct 2026 06:00:00 +0900"
-		},
-		{
 			"title":"건설현장 AI 로봇, 시연 넘어 실전 투입…자동화 어디까지 왔나",
 			"originallink":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=150364",
 			"link":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=150364",
@@ -51,6 +44,13 @@
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202610221529448830769",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202610221529448830769",
 			"description":"KT클라우드는 인천 <b>청라<\/b>에서 외부 개발 사업에 DBO 파트너로 참여하고 있다. 외부 디벨로퍼가 맡던 개발 자리를 그룹 안에서 채울 여지가 있다. 유휴 국사 활용 측면에서도 역할이 기대된다. KT클라우드는 KT가 보유한... ",
+			"pubDate":"Fri, 23 Oct 2026 06:00:00 +0900"
+		},
+		{
+			"title":"[KT의 AIDC 밸류체인] ①KT클라우드, 수도권 DC 우위 앞세워 AIDC 공세",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202610220909139400636",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202610220909139400636",
+			"description":"현재 여의도·목동·경기 서부(부천·<b>청라<\/b>)·경기 남부(안산·용인) 등 4개 거점에 데이터센터를 보유하고... 이번 사업은 KT클라우드가 직접 보유한 부지에서 추진한다는 점에서 <b>청라<\/b> 사업과 차이가 있다. <b>청라<\/b> AIDC는... ",
 			"pubDate":"Fri, 23 Oct 2026 06:00:00 +0900"
 		},
 		{
