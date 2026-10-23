@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 23 Oct 2026 09:40:01 +0900",
-	"total":311580,
+	"lastBuildDate":"Fri, 23 Oct 2026 09:50:01 +0900",
+	"total":311581,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"대구시립극단 '첫사랑, 1919년' 31일 재공연",
+			"originallink":"https:\/\/www.tbc.co.kr\/news\/view?pno=20261023092158AE07333&id=212513",
+			"link":"https:\/\/www.tbc.co.kr\/news\/view?pno=20261023092158AE07333&id=212513",
+			"description":"<b>청라<\/b>언덕과 서문시장 등 대구의 실제 장소를 배경으로 3·1운동을 앞둔 당시의 시대상을 담았습니다. 관람은 무료이며, 오는 28일 오전 9시부터 온라인과 방문을 통해 1인당 2매까지 예매할 수 있습니다.",
+			"pubDate":"Fri, 23 Oct 2026 09:44:00 +0900"
+		},
 		{
 			"title":"10월 23일 오늘의 안전 상황",
 			"originallink":"http:\/\/fpn119.co.kr\/258288",
@@ -82,17 +89,17 @@
 			"pubDate":"Fri, 23 Oct 2026 06:02:00 +0900"
 		},
 		{
-			"title":"[KT의 AIDC 밸류체인] ②KT에스테이트, AIDC ‘디벨로퍼’ 될까",
-			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202610221529448830769",
-			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202610221529448830769",
-			"description":"KT클라우드는 인천 <b>청라<\/b>에서 외부 개발 사업에 DBO 파트너로 참여하고 있다. 외부 디벨로퍼가 맡던 개발 자리를 그룹 안에서 채울 여지가 있다. 유휴 국사 활용 측면에서도 역할이 기대된다. KT클라우드는 KT가 보유한... ",
-			"pubDate":"Fri, 23 Oct 2026 06:00:00 +0900"
-		},
-		{
 			"title":"건설현장 AI 로봇, 시연 넘어 실전 투입…자동화 어디까지 왔나",
 			"originallink":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=150364",
 			"link":"https:\/\/www.ziksir.com\/news\/articleView.html?idxno=150364",
 			"description":"인천 <b>청라<\/b> 하나드림타운에서는 자율주행과 장애물 회피 기능을 갖춘 스마트 자재 운반 로봇의 활용성을 검증했다. AI와 드론을 활용한 안전관리도 추진하고 있다. 약 200만건 이상의 현장 데이터를 학습한 AI 폐쇄회로(CC)... ",
+			"pubDate":"Fri, 23 Oct 2026 06:00:00 +0900"
+		},
+		{
+			"title":"[KT의 AIDC 밸류체인] ②KT에스테이트, AIDC ‘디벨로퍼’ 될까",
+			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202610221529448830769",
+			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202610221529448830769",
+			"description":"KT클라우드는 인천 <b>청라<\/b>에서 외부 개발 사업에 DBO 파트너로 참여하고 있다. 외부 디벨로퍼가 맡던 개발 자리를 그룹 안에서 채울 여지가 있다. 유휴 국사 활용 측면에서도 역할이 기대된다. KT클라우드는 KT가 보유한... ",
 			"pubDate":"Fri, 23 Oct 2026 06:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/dealsite.co.kr\/articles\/171174",
 			"description":"사업비 7000억원 규모의 <b>청라<\/b>의료복합타운과 5000억원 규모의 잠실 스포츠·마이스(MICE) 복합공간 조성 민간투자사업은 2027년 착공이 예상된다. 신규 사업이 계획대로 진행되면 매출 기반을 확대하는 동시에 사업... ",
 			"pubDate":"Thu, 22 Oct 2026 18:22:00 +0900"
-		},
-		{
-			"title":"인천 <b>청라<\/b>복합문화센터서 가스총 오작동…6명 부상",
-			"originallink":"https:\/\/news.tvchosun.com\/site\/data\/html_dir\/2026\/10\/22\/2026102290197.html",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/448\/0000646405?sid=102",
-			"description":"22일 오전 9시쯤 인천 서해구 <b>청라<\/b>복합문화센터에서 호신용 가스총이 격발됐다. 사고 당시 문화센터 1층에서 80대 남성이 지인인 70대 남성에게 자신이 소지하고 있던 가스총을 건네다 격발됐고, 최루가스가 실내 공간에... ",
-			"pubDate":"Thu, 22 Oct 2026 17:45:00 +0900"
 		}
 	]
 }
