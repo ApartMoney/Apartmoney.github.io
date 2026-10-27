@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 27 Oct 2026 21:20:00 +0900",
-	"total":312281,
+	"lastBuildDate":"Tue, 27 Oct 2026 21:30:00 +0900",
+	"total":312283,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시장 &quot;AI 모빌리티 미래비전 선포&quot;…첨단의 중심 대변신",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3734610",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3734610",
+			"description":"송도·<b>청라<\/b>·영종의 첨단 인프라를 강조하며, 'AI 커넥티비티 혁신도시, 인천'이라는 새로운 비전을... <b>청라<\/b> 로봇랜드, IHP 도시첨단산업단지, 투자유치 6블록 등에서 'AI 커넥티드 모빌리티 사이언스파크'를 조성해... ",
+			"pubDate":"Tue, 27 Oct 2026 21:24:00 +0900"
+		},
+		{
+			"title":"대구시립극단 연극 '첫사랑, 1919년' 공연",
+			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=563543",
+			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=563543",
+			"description":"<b>청라<\/b>언덕과 대구제일교회, 서문시장 등 대구의 역사적 장소를 바탕으로 실존 인물에서 모티브를 얻은 허구의... 연출로 <b>청라<\/b>언덕과 서문시장 등 작품 속 공간을 감각적으로 구현한다. 최현묵이 극본을 쓰고 성석배... ",
+			"pubDate":"Tue, 27 Oct 2026 21:24:00 +0900"
+		},
 		{
 			"title":"인천도시가스, <b>청라<\/b> 데이터센터에 120억원 투자 결정",
 			"originallink":"https:\/\/www.vegannews.co.kr\/news\/article.html?no=397583",
@@ -145,13 +159,6 @@
 			"pubDate":"Tue, 27 Oct 2026 17:48:00 +0900"
 		},
 		{
-			"title":"대우건설, 3분기 영업익 223.7% 급증 '수익성 개선'",
-			"originallink":"https:\/\/www.smarttoday.co.kr\/ko-kr\/articles\/113184",
-			"link":"https:\/\/www.smarttoday.co.kr\/ko-kr\/articles\/113184",
-			"description":"3분기엔 <b>청라<\/b> 국제업무단지M5블록(8181억원), 신이문역세권 재개발(5292억원), 서울 천호A1-1재개발(3720억원), 서울 청파1구역 재개발(3556억원) 사업을 따냈다. 3분기 말 기준 수주잔고는 54조 8550억원으로 지난해... ",
-			"pubDate":"Tue, 27 Oct 2026 17:40:00 +0900"
-		},
-		{
 			"title":"신한금융 2.4兆·하나 1.6兆·우리 1.4兆·기업銀 1兆…'엇갈린' 3분기 성...",
 			"originallink":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7190985",
 			"link":"https:\/\/weekly.hankooki.com\/news\/articleView.html?idxno=7190985",
@@ -159,17 +166,24 @@
 			"pubDate":"Tue, 27 Oct 2026 17:40:00 +0900"
 		},
 		{
-			"title":"박찬대 1호 공약 ‘AI 커넥티드카’ 본궤도…인천시, 미래비전 선포·10...",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20261027580411",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000129410?sid=101",
-			"description":"이들 기업들은 기술 개발 공동대응과 산업 육성의 상호 지원, <b>청라<\/b> 커넥티드카 인증평가센터 등을... 이 밖에도 시는 <b>청라<\/b>국제도시를 중심으로 영종국제도시·송도국제도시, 계양·남동·부평 등을 연계해 서울 마곡과... ",
-			"pubDate":"Tue, 27 Oct 2026 17:38:00 +0900"
+			"title":"대우건설, 3분기 영업익 223.7% 급증 '수익성 개선'",
+			"originallink":"https:\/\/www.smarttoday.co.kr\/ko-kr\/articles\/113184",
+			"link":"https:\/\/www.smarttoday.co.kr\/ko-kr\/articles\/113184",
+			"description":"3분기엔 <b>청라<\/b> 국제업무단지M5블록(8181억원), 신이문역세권 재개발(5292억원), 서울 천호A1-1재개발(3720억원), 서울 청파1구역 재개발(3556억원) 사업을 따냈다. 3분기 말 기준 수주잔고는 54조 8550억원으로 지난해... ",
+			"pubDate":"Tue, 27 Oct 2026 17:40:00 +0900"
 		},
 		{
 			"title":"[기획] ③서울7호선 <b>청라<\/b>연장 사업비 5000억 원 넘게 증가…재정 부담 가...",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=916984",
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=916984",
 			"description":"7호선 <b>청라<\/b>국제도시 연장사업의 총사업비가 당초보다 5000억 원 넘게 증가하면서 인천시의 재정 부담이... <b>청라<\/b> 연장사업은 석남역에서 공항철도 <b>청라<\/b>국제도시역까지 약 10.7㎞를 연결하는 사업이다. 총사업비는 1조... ",
+			"pubDate":"Tue, 27 Oct 2026 17:38:00 +0900"
+		},
+		{
+			"title":"박찬대 1호 공약 ‘AI 커넥티드카’ 본궤도…인천시, 미래비전 선포·10...",
+			"originallink":"https:\/\/www.kyeonggi.com\/article\/20261027580411",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000129410?sid=101",
+			"description":"이들 기업들은 기술 개발 공동대응과 산업 육성의 상호 지원, <b>청라<\/b> 커넥티드카 인증평가센터 등을... 이 밖에도 시는 <b>청라<\/b>국제도시를 중심으로 영종국제도시·송도국제도시, 계양·남동·부평 등을 연계해 서울 마곡과... ",
 			"pubDate":"Tue, 27 Oct 2026 17:38:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=4088667",
 			"description":"작품에는 <b>청라<\/b>언덕과 대구제일교회, 서문시장 등 대구의 실제 장소가 등장한다. 역사적 장소에 대한 고증을 바탕으로 무대를 꾸리고, 실존 인물에서 모티브를 얻어 창조한 허구의 인물들이 그 안에서 이야기를 펼친다.... ",
 			"pubDate":"Tue, 27 Oct 2026 17:28:00 +0900"
-		},
-		{
-			"title":"무아스, iF 디자인 어워드 수상 ‘오브제 메탈 자동 디스펜서’ 코스트...",
-			"originallink":"https:\/\/www.dt.co.kr\/article\/12091618?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0003055604?sid=101",
-			"description":"이에 따라 10월에는 천안·의정부·공세·송도·세종·하남·김해·고척·<b>청라<\/b>·양평·대전·양재점 등 12개 지점에서 판매를 시작하며, 11월에는 울산·평택·대구·일산점으로 판매처를 확대할 예정이다. 기존 판매 지점은... ",
-			"pubDate":"Tue, 27 Oct 2026 17:27:00 +0900"
-		},
-		{
-			"title":"인천도시가스 &quot;<b>청라<\/b>아이디씨피에프브이 주식 120억원에 취득&quot;",
-			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000342477?division=NAVER",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000540092?sid=101",
-			"description":"코스피 상장사 인천도시가스는 비주거용건물 개발 및 공급업 업체 <b>청라<\/b>아이디씨피에프브이의 주식 30만주를 120억원에 취득한다고 27일 공시했습니다. 주식 취득 뒤 인천도시가스의 <b>청라<\/b>아이디씨피에프브이 지분율은 9.... ",
-			"pubDate":"Tue, 27 Oct 2026 17:26:00 +0900"
 		}
 	]
 }
