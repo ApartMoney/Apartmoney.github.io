@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Wed, 28 Oct 2026 08:40:01 +0900",
-	"total":312311,
+	"lastBuildDate":"Wed, 28 Oct 2026 08:50:00 +0900",
+	"total":312314,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, AI 기반 관광 앱 소개 영문소식지 101호 발간",
+			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=325541",
+			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=325541",
+			"description":"하나드림타운의 <b>청라<\/b>국제도시 이전 소식도 담았다. 통합데이터센터, 글로벌 캠퍼스, 그룹 본사까지 들어서는 하나드림타운을 통해 금융·디지털 산업 거점으로 도약하는 <b>청라<\/b>국제도시의 모습을 조명했다. 근대... ",
+			"pubDate":"Wed, 28 Oct 2026 08:44:00 +0900"
+		},
+		{
+			"title":"인천시, 영문소식지 '인천나우' 101호 발간...AI 스마트 관광 집중 조명",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=656052",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=656052",
+			"description":"<b>청라<\/b>국제도시에 조성되는 하나금융그룹의 '하나드림타운'도 소개했다. 통합데이터센터와 글로벌 캠퍼스에 이어 그룹 본사까지 들어서는 과정을 통해 <b>청라<\/b>가 금융·디지털 산업 거점으로 변화하는 모습을 조명했다.... ",
+			"pubDate":"Wed, 28 Oct 2026 08:44:00 +0900"
+		},
+		{
+			"title":"롯데이노베이트, AI 커넥티드카 협력 확대…미래 모빌리티 사업 강화",
+			"originallink":"https:\/\/www.eroun.net\/news\/articleView.html?idxno=93616",
+			"link":"https:\/\/www.eroun.net\/news\/articleView.html?idxno=93616",
+			"description":"이들은 AI 커넥티드카 기술개발 과제 공동 기획, 관련 산업 육성, <b>청라<\/b> AI 커넥티드 모빌리티 산업 거점 조성 등에 협력하기로 했다. 롯데이노베이트는 자율주행 셔틀과 차세대 지능형 교통체계(C-ITS), AI 스마트톨링 등... ",
+			"pubDate":"Wed, 28 Oct 2026 08:42:00 +0900"
+		},
 		{
 			"title":"티맵,인천시·한자연과 AI 커넥티드카 기술개발 협약⋯ 민관 협력 교통...",
 			"originallink":"https:\/\/www.viva100.com\/article\/20261028500148",
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202610270231",
 			"description":"<b>청라<\/b> 로봇랜드 등을 중심으로 기업·대학·연구기관이 모이는 혁신거점을 조성하고, 차량통신과 AI 기반 서비스 기술 개발을 추진할 계획이다. 또 <b>청라<\/b>를 중심으로 영종·송도 등 지역 산업거점을 연결해 기업의... ",
 			"pubDate":"Tue, 27 Oct 2026 21:50:00 +0900"
-		},
-		{
-			"title":"인천시, ‘<b>청라<\/b> 미래 자동차산업 육성’ 협약",
-			"originallink":"https:\/\/news.kbs.co.kr\/news\/pc\/view\/view.do?ncd=8696823&ref=A",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0012281998?sid=102",
-			"description":"",
-			"pubDate":"Tue, 27 Oct 2026 21:48:00 +0900"
-		},
-		{
-			"title":"대구시립극단 연극 '첫사랑, 1919년' 공연",
-			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=563543",
-			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=563543",
-			"description":"<b>청라<\/b>언덕과 대구제일교회, 서문시장 등 대구의 역사적 장소를 바탕으로 실존 인물에서 모티브를 얻은 허구의... 연출로 <b>청라<\/b>언덕과 서문시장 등 작품 속 공간을 감각적으로 구현한다. 최현묵이 극본을 쓰고 성석배... ",
-			"pubDate":"Tue, 27 Oct 2026 21:24:00 +0900"
-		},
-		{
-			"title":"인천시장 &quot;AI 모빌리티 미래비전 선포&quot;…첨단의 중심 대변신",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3734610",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3734610",
-			"description":"송도·<b>청라<\/b>·영종의 첨단 인프라를 강조하며, 'AI 커넥티비티 혁신도시, 인천'이라는 새로운 비전을... <b>청라<\/b> 로봇랜드, IHP 도시첨단산업단지, 투자유치 6블록 등에서 'AI 커넥티드 모빌리티 사이언스파크'를 조성해... ",
-			"pubDate":"Tue, 27 Oct 2026 21:24:00 +0900"
 		}
 	]
 }
