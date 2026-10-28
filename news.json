@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 28 Oct 2026 08:50:00 +0900",
-	"total":312314,
+	"lastBuildDate":"Wed, 28 Oct 2026 09:00:01 +0900",
+	"total":312315,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"10월 27일 주식시장 주요공시",
+			"originallink":"https:\/\/www.catchnews.kr\/news\/articleView.html?idxno=129857",
+			"link":"https:\/\/www.catchnews.kr\/news\/articleView.html?idxno=129857",
+			"description":"8%, 취득예정일:2026-11-13) ▶인천도시가스, 데이터센터사업 지분투자를 통한 사업다각화 추진 목적으로 <b>청라<\/b>아이디씨피에프브이 주식 300,000주를 120.00억원에 신규로 취득하기로 결정(취득후지분율:9.23... ",
+			"pubDate":"Wed, 28 Oct 2026 08:49:00 +0900"
+		},
 		{
 			"title":"인천시, AI 기반 관광 앱 소개 영문소식지 101호 발간",
 			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=325541",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/enter.etoday.co.kr\/news\/view\/304348",
 			"description":"27일 방송되는 EBS '건축탐구 집'에서는 인천 <b>청라<\/b>의 외강내유 이층집을 소개한다. 경상북도 상주에는... 인천 <b>청라<\/b>의 한 주택 단지에는 외부 사생활 보호를 우선시한 주택이 들어섰다. 내향인 부부는 이웃집과의 접점을... ",
 			"pubDate":"Tue, 27 Oct 2026 21:52:00 +0900"
-		},
-		{
-			"title":"인천시, AI 모빌리티 육성",
-			"originallink":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202610270231",
-			"link":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202610270231",
-			"description":"<b>청라<\/b> 로봇랜드 등을 중심으로 기업·대학·연구기관이 모이는 혁신거점을 조성하고, 차량통신과 AI 기반 서비스 기술 개발을 추진할 계획이다. 또 <b>청라<\/b>를 중심으로 영종·송도 등 지역 산업거점을 연결해 기업의... ",
-			"pubDate":"Tue, 27 Oct 2026 21:50:00 +0900"
 		}
 	]
 }
