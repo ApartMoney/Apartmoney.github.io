@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 28 Oct 2026 13:30:01 +0900",
-	"total":312366,
+	"lastBuildDate":"Wed, 28 Oct 2026 13:40:01 +0900",
+	"total":312367,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 영문소식지 '인천나우' 101호 발간…AI 관광·문화 집중 조명",
+			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2011286",
+			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2011286",
+			"description":"하나금융그룹 본사 이전이 추진되는 <b>청라<\/b>국제도시의 변화와 금융·디지털 산업 거점 조성 내용도 수록했다. 지역의 특색 있는 문화 공간과 외국인의 시선으로 바라본 인천의 일상도 소개했다. 근대 건축물을 보존한... ",
+			"pubDate":"Wed, 28 Oct 2026 13:36:00 +0900"
+		},
 		{
 			"title":"롯데이노베이트, AI 커넥티드카 협력 확대…모빌리티 사업 가속",
 			"originallink":"https:\/\/www.it-b.co.kr\/news\/articleView.html?idxno=90451",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0009254690?sid=105",
 			"description":"협력 △<b>청라<\/b> AI 커넥티드 모빌리티 산업 핵심 거점 조성을 위한 협력 등을 추진한다. 유정화 티맵모빌리티 데이터 비즈 디렉터는 &quot;<b>청라<\/b>를 중심으로 AI 모빌리티 생태계가 만들어지는 데 함께할 수 있어 의미가 크다&quot;며... ",
 			"pubDate":"Wed, 28 Oct 2026 10:07:00 +0900"
-		},
-		{
-			"title":"&quot;자율주행 넘어 커넥티드카까지&quot;…롯데이노베이트, 미래 모빌리티 영토...",
-			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20261028095755",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002442685?sid=105",
-			"description":"이들은 AI 커넥티드카 기술개발 과제를 공동 기획하고 인천 <b>청라<\/b> 지역을 중심으로 관련 산업 생태계 조성과 사업화 기회를 모색할 계획이다. 지난 27일 인천 파라다이스시티에서 열린 ‘2026 커넥티드 모빌리티... ",
-			"pubDate":"Wed, 28 Oct 2026 09:59:00 +0900"
 		}
 	]
 }
