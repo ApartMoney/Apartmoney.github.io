@@ -1,22 +1,43 @@
 {
-	"lastBuildDate":"Wed, 28 Oct 2026 09:30:01 +0900",
-	"total":312327,
+	"lastBuildDate":"Wed, 28 Oct 2026 09:40:01 +0900",
+	"total":312331,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시-10개 선도기업·한자연 맞손…'AI 커넥티드 모빌리티' 대형 프로...",
+			"originallink":"https:\/\/www.asiatoday.co.kr\/kn\/view.php?key=20261028010009694",
+			"link":"https:\/\/www.asiatoday.co.kr\/kn\/view.php?key=20261028010009694",
+			"description":"송도·<b>청라<\/b>·영종의 첨단 인프라를 보유하고 있다.시는 이러한 역량을 결집해 △혁신거점 구축(Ground)... 시는 우선 <b>청라<\/b> 로봇랜드, IHP 도시첨단산업단지, 투자유치 6블록을 중심으로 'AI 커넥티드 모빌리티 사이언스파크... ",
+			"pubDate":"Wed, 28 Oct 2026 09:36:00 +0900"
+		},
+		{
+			"title":"티맵모빌리티, 인천서 ‘AI 커넥티드카 기술 개발’ 추진",
+			"originallink":"https:\/\/www.sedaily.com\/article\/20106987?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004675938?sid=105",
+			"description":"협약 기관들은 △AI 커넥티드카 기술개발 혁신사업 공동 대응과 과제 기획 △AI 커넥티드 모빌리티 산업 육성을 위한 상호 지원 △인천 <b>청라<\/b> AI 커넥티드 모빌리티 산업 핵심 거점 조성 등에서 협력한다. 필요하면... ",
+			"pubDate":"Wed, 28 Oct 2026 09:31:00 +0900"
+		},
+		{
+			"title":"현대차·현대모비스 등 10개사 뭉쳤다…AI 커넥티드카 개발 '맞손'",
+			"originallink":"https:\/\/www.fnnews.com\/news\/202610280929233671",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005595548?sid=103",
+			"description":"인천 <b>청라<\/b>를 미래 모빌리티 산업의 핵심 거점으로 육성한다는 구상이다. 완성차와 부품, 정보기술(IT) 기업... 육성, <b>청라<\/b> AI 커넥티드 모빌리티 산업 핵심 거점 조성 등에 협력하기로 했다. 인천 <b>청라<\/b>를 중심으로... ",
+			"pubDate":"Wed, 28 Oct 2026 09:31:00 +0900"
+		},
+		{
+			"title":"롯데이노베이트, AI 커넥티드카 사업 확대…현대모비스와 협력",
+			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20261028037500017?input=1195m",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016405125?sid=101",
+			"description":"참여 기관들은 AI 커넥티드카 기술개발 혁신사업 공동 대응과 과제 기획, 관련 산업 육성, 인천 <b>청라<\/b> 지역의 AI 커넥티드 모빌리티 산업 핵심 거점 조성 등에 협력한다. 롯데이노베이트는 자율주행 셔틀과 차세대 지능형... ",
+			"pubDate":"Wed, 28 Oct 2026 09:30:00 +0900"
+		},
 		{
 			"title":"인천시, 공식 영문소식지 '인천나우' 통권 101호 발간... &quot;글로벌 소통 ...",
 			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=146851",
 			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=146851",
 			"description":"특히 인천e지 앱의 '2026 아시아태평양관광협회(PATA) 골드 어워즈' 수상 소식을 포함해 제24차 세계한상대회 현장 및 하나금융그룹의 <b>청라<\/b>국제도시 이전 등 인천의 역동적 변화를 비중 있게 다뤘다. 이와 함께 개항장... ",
 			"pubDate":"Wed, 28 Oct 2026 09:22:00 +0900"
-		},
-		{
-			"title":"롯데이노베이트, AI 커넥티드카 협력 강화…미래 모빌리티 사업 확대",
-			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1419129",
-			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1419129",
-			"description":"참여 기관들은 AI 커넥티드카 관련 공동 연구개발 과제를 발굴하고 인천 <b>청라<\/b> 지역에 모빌리티 산업 거점을 조성하는 데 협력할 계획이다. 관련 기술의 실증과 사업화 방안도 모색한다. 커넥티드카는 차량에 통신... ",
-			"pubDate":"Wed, 28 Oct 2026 09:20:00 +0900"
 		},
 		{
 			"title":"롯데이노베이트, 인천시·한국자동차연구원과 ‘AI 커넥티드카’ 협력",
@@ -26,17 +47,24 @@
 			"pubDate":"Wed, 28 Oct 2026 09:20:00 +0900"
 		},
 		{
-			"title":"인천 <b>청라<\/b>에 AI모빌리티 거점 만든다…티맵, 인천시·한자연과 협약",
-			"originallink":"https:\/\/www.fnnews.com\/news\/202610280845554905",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005595525?sid=105",
-			"description":"AI 커넥티드 모빌리티 산업 육성을 위한 상호 지원과 <b>청라<\/b> 지역의 산업 핵심 거점 조성도 추진한다. 필요하면... 유정화 티맵모빌리티 데이터 비즈 디렉터는 &quot;<b>청라<\/b>를 중심으로 AI 모빌리티 생태계가 만들어지는 데 함께할... ",
-			"pubDate":"Wed, 28 Oct 2026 09:14:00 +0900"
+			"title":"롯데이노베이트, AI 커넥티드카 협력 강화…미래 모빌리티 사업 확대",
+			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1419129",
+			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1419129",
+			"description":"참여 기관들은 AI 커넥티드카 관련 공동 연구개발 과제를 발굴하고 인천 <b>청라<\/b> 지역에 모빌리티 산업 거점을 조성하는 데 협력할 계획이다. 관련 기술의 실증과 사업화 방안도 모색한다. 커넥티드카는 차량에 통신... ",
+			"pubDate":"Wed, 28 Oct 2026 09:20:00 +0900"
 		},
 		{
 			"title":"대우건설, 3분기 영업이익 1832억원…전년比 223.7% 늘며 수익성 개선",
 			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1419036",
 			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=1419036",
 			"description":"3분기 주요 수주 사업으로는 <b>청라<\/b> 국제업무단지 M5블록(8181억원), 신이문역세권 재개발(5292억원), 서울 천호A1-1 재개발(3720억원), 서울 청파1구역 재개발(3556억원) 등이 포함됐다. 수주잔고도 증가했다. 3분기 말... ",
+			"pubDate":"Wed, 28 Oct 2026 09:14:00 +0900"
+		},
+		{
+			"title":"인천 <b>청라<\/b>에 AI모빌리티 거점 만든다…티맵, 인천시·한자연과 협약",
+			"originallink":"https:\/\/www.fnnews.com\/news\/202610280845554905",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005595525?sid=105",
+			"description":"AI 커넥티드 모빌리티 산업 육성을 위한 상호 지원과 <b>청라<\/b> 지역의 산업 핵심 거점 조성도 추진한다. 필요하면... 유정화 티맵모빌리티 데이터 비즈 디렉터는 &quot;<b>청라<\/b>를 중심으로 AI 모빌리티 생태계가 만들어지는 데 함께할... ",
 			"pubDate":"Wed, 28 Oct 2026 09:14:00 +0900"
 		},
 		{
@@ -47,17 +75,17 @@
 			"pubDate":"Wed, 28 Oct 2026 09:12:00 +0900"
 		},
 		{
-			"title":"롯데이노베이트, 인천시 등 12개 기관·기업과 AI커넥티드카 개발협력",
-			"originallink":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=368304",
-			"link":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=368304",
-			"description":"협약기관들은 ▲AI 커넥티드카 기술개발 혁신사업 공동 대응 및 과제기획 ▲AI 커넥티드 모빌리티 산업 육성 ▲<b>청라<\/b> AI 커넥티드 모빌리티 산업 핵심 거점 조성 등에 협력한다. 공동 연구개발 기회를 모색하고 관련 산업... ",
-			"pubDate":"Wed, 28 Oct 2026 09:10:00 +0900"
-		},
-		{
 			"title":"롯데이노베이트, 12개 기관·기업과 맞손...AI 커넥티드카 개발 협력",
 			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=499113",
 			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=499113",
 			"description":"협약에 따라 참여 기관들은 AI 커넥티드카 기술개발을 위한 공동 연구과제 기획과 산업 육성, 인천 <b>청라<\/b> AI 커넥티드 모빌리티 핵심 거점 조성 등에 협력한다. 롯데이노베이트는 자율주행 셔틀과 차세대 지능형... ",
+			"pubDate":"Wed, 28 Oct 2026 09:10:00 +0900"
+		},
+		{
+			"title":"롯데이노베이트, 인천시 등 12개 기관·기업과 AI커넥티드카 개발협력",
+			"originallink":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=368304",
+			"link":"http:\/\/www.ftoday.co.kr\/news\/articleView.html?idxno=368304",
+			"description":"협약기관들은 ▲AI 커넥티드카 기술개발 혁신사업 공동 대응 및 과제기획 ▲AI 커넥티드 모빌리티 산업 육성 ▲<b>청라<\/b> AI 커넥티드 모빌리티 산업 핵심 거점 조성 등에 협력한다. 공동 연구개발 기회를 모색하고 관련 산업... ",
 			"pubDate":"Wed, 28 Oct 2026 09:10:00 +0900"
 		},
 		{
@@ -68,17 +96,17 @@
 			"pubDate":"Wed, 28 Oct 2026 09:09:00 +0900"
 		},
 		{
-			"title":"한자연, AI 커넥티드카 대형 R&amp;D 공동기획…인천 모빌리티 거점 조성",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2640938",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2640938",
-			"description":"대응 <b>청라<\/b> 중심 미래 AI 모빌리티 산업 거점 조성 추진 한국자동차연구원이 현대모비스와 롯데이노베이트... 육성, <b>청라<\/b> AI 커넥티드 모빌리티 산업 핵심 거점 조성 등에 협력하기로 했다. 한자연은 이번 협약을 바탕으로... ",
-			"pubDate":"Wed, 28 Oct 2026 09:08:00 +0900"
-		},
-		{
 			"title":"인천시, '인천 AI 커넥티드 모빌리티 미래비전' 선포... 10개 선도기업과...",
 			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=146846",
 			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=146846",
 			"description":"이에 따라 <b>청라<\/b> 로봇랜드, IHP 도시첨단산업단지, 투자유치 6블록 일대에 'AI 커넥티드 모빌리티... 아울러 현대모비스, LG이노텍, HL클레무브, 티맵모빌리티 등 10개 선도기업과 기술 개발 공동 대응 및 <b>청라<\/b> 핵심거점... ",
+			"pubDate":"Wed, 28 Oct 2026 09:08:00 +0900"
+		},
+		{
+			"title":"한자연, AI 커넥티드카 대형 R&amp;D 공동기획…인천 모빌리티 거점 조성",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2640938",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2640938",
+			"description":"대응 <b>청라<\/b> 중심 미래 AI 모빌리티 산업 거점 조성 추진 한국자동차연구원이 현대모비스와 롯데이노베이트... 육성, <b>청라<\/b> AI 커넥티드 모빌리티 산업 핵심 거점 조성 등에 협력하기로 했다. 한자연은 이번 협약을 바탕으로... ",
 			"pubDate":"Wed, 28 Oct 2026 09:08:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/056\/0012282188?sid=102",
 			"description":"",
 			"pubDate":"Wed, 28 Oct 2026 07:44:00 +0900"
-		},
-		{
-			"title":"인천경제청, '강화도 경제자유구역 연내 지정' 역점 추진…연내 절차 완...",
-			"originallink":"https:\/\/www.ppss.kr\/news\/articleView.html?idxno=317682",
-			"link":"https:\/\/www.ppss.kr\/news\/articleView.html?idxno=317682",
-			"description":"추가 지정 추진은 송도, 영종, <b>청라<\/b> 등 기존 경제자유구역 내 투자유치용 산업 용지가 충분하지 않은 데 따른 것으로, 인천경제자유구역의 올해 1~9월 외국인직접투자(FDI) 신고액은 총 1억400만달러로 연간 목표 대비 17... ",
-			"pubDate":"Wed, 28 Oct 2026 07:43:00 +0900"
-		},
-		{
-			"title":"강화도 경제자유구역 지정 올해 가능할까…관계부처 협의 속도",
-			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20261027078100065?input=1195m",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016404779?sid=102",
-			"description":"인천경제청은 기존 경제자유구역인 송도·영종·<b>청라<\/b> 내에 신규 투자유치를 위한 산업 용지가 부족하다 보니 추가 지정에 적극적인 모습이다. 인천경제자유구역의 올해 1∼9월 외국인직접투자(FDI) 신고액은... ",
-			"pubDate":"Wed, 28 Oct 2026 07:17:00 +0900"
-		},
-		{
-			"title":"2028년 '광역상권' 쟁탈전 벌어진다…유통 빅3, 兆단위 출점",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2026102715551656238",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005834304?sid=103",
-			"description":"내년 더현대 부산 개점과 스타필드 <b>청라<\/b> 준공이 출발점이다. 2028년에는 신세계 광주 신관 개점과 스타필드... 송도·<b>청라<\/b>, 수도권 서부 상권 쟁탈전 인천에서는 송도와 <b>청라<\/b>를 중심으로 경쟁이 펼쳐진다. 송도에 롯데... ",
-			"pubDate":"Wed, 28 Oct 2026 07:11:00 +0900"
-		},
-		{
-			"title":"코스피·코스닥 전 거래일(27일) 주요공시는...동아ST 3분기 영업이익 2...",
-			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=499030",
-			"link":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=499030",
-			"description":"3%↓ ▲ 큐리옥스바이오시스템[445680]즈 3분기 영업손실 40억원…적자 확대 ▲ 인천도시가스[034590] &quot;<b>청라<\/b>아이디씨피에프브이 주식 120억원에 취득&quot; ▲ 두산로보틱스[454910] &quot;두산신기술투자조합2호... ",
-			"pubDate":"Wed, 28 Oct 2026 06:36:00 +0900"
 		}
 	]
 }
