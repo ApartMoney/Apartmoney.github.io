@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 01 Nov 2026 15:30:01 +0900",
-	"total":312617,
+	"lastBuildDate":"Sun, 01 Nov 2026 15:40:01 +0900",
+	"total":312618,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인사\/ 보령시",
+			"originallink":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=871769",
+			"link":"https:\/\/www.dynews.co.kr\/news\/articleView.html?idxno=871769",
+			"description":"최정은 △<b>청라<\/b>면 장기철 △남포면 조진상 △남포면 오민아 △대천1동 신은호 △대천2동 유혜진 △대천3동... 최정은 △<b>청라<\/b>면 장기철 △남포면 조진상 △남포면 오민아 △대천1동 신은호 △대천2동 유혜진 △대천3동 이은혜... ",
+			"pubDate":"Sun, 01 Nov 2026 15:35:00 +0900"
+		},
 		{
 			"title":"11년째 멈춘 인천 영종 크린넷…주민들 청와대 찾아 정부에 책임 묻는다",
 			"originallink":"https:\/\/www.viva100.com\/article\/20261101500496",
@@ -117,17 +124,17 @@
 			"pubDate":"Sun, 01 Nov 2026 09:10:00 +0900"
 		},
 		{
-			"title":"KT클라우드, 전문기업 손잡고 AIDC 경쟁력 강화…전력·냉각 기술 실증",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20261101081054151",
-			"link":"https:\/\/www.ajunews.com\/view\/20261101081054151",
-			"description":"<b>청라<\/b>와 안산 등에서도 신규 사업을 추진하고 있다. KT클라우드는 데이터센터 건물과 전력·냉각 설비를 공급하는 데 그치지 않고 고객이 보유한 GPU 서버의 안정적인 운영과 다른 데이터센터·클라우드 간 연결까지... ",
-			"pubDate":"Sun, 01 Nov 2026 09:02:00 +0900"
-		},
-		{
 			"title":"KT클라우드, LS일렉•버티브 맞손⋯ AI DC 경쟁력 강화",
 			"originallink":"https:\/\/www.viva100.com\/article\/20261030500965",
 			"link":"https:\/\/www.viva100.com\/article\/20261030500965",
 			"description":"KT클라우드는 25년간 쌓은 데이터센터 설계·구축·운영 경험에 전문기업의 기술을 결합해 AI DC 구축·운영 역량을 높이고 군산·<b>청라<\/b>·안산 등 신규 사업을 통해 2031년 1GW AI DC 공급 전략을 실현해 나갈 계획이다. 방재원... ",
+			"pubDate":"Sun, 01 Nov 2026 09:02:00 +0900"
+		},
+		{
+			"title":"KT클라우드, 전문기업 손잡고 AIDC 경쟁력 강화…전력·냉각 기술 실증",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20261101081054151",
+			"link":"https:\/\/www.ajunews.com\/view\/20261101081054151",
+			"description":"<b>청라<\/b>와 안산 등에서도 신규 사업을 추진하고 있다. KT클라우드는 데이터센터 건물과 전력·냉각 설비를 공급하는 데 그치지 않고 고객이 보유한 GPU 서버의 안정적인 운영과 다른 데이터센터·클라우드 간 연결까지... ",
 			"pubDate":"Sun, 01 Nov 2026 09:02:00 +0900"
 		},
 		{
@@ -138,17 +145,17 @@
 			"pubDate":"Sun, 01 Nov 2026 09:01:00 +0900"
 		},
 		{
-			"title":"[현장]&quot;바람 대신 물로 칩 식힌다&quot;…'액체냉각'으로 AI 열기 잡는 KT AIDC",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20261030_0003848970",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014292464?sid=105",
-			"description":"추진하며 군산 AIDC에 모듈형 인프라 솔루션을 적용할 계획이다. KT클라우드는 25년간 축적한 데이터센터 구축·운영 경험에 실증 기술과 전문기업의 역량을 결합해 군산·<b>청라<\/b>·안산 등 신규 AIDC 사업을 확대할 방침이다．",
-			"pubDate":"Sun, 01 Nov 2026 09:00:00 +0900"
-		},
-		{
 			"title":"[부동산 청약 일정] 토지임대부 분양주택 '고덕강일3단지' 1순위 청약…...",
 			"originallink":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=621792",
 			"link":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=621792",
 			"description":"서해구 <b>청라<\/b>동 '<b>청라<\/b> 아크원 푸르지오'(868가구, 전량 일반분양, 84~103㎡)의 청약 접수가 예정돼 있다. 4일에는 서울 강동구 강일동 '고덕강일3단지'(1,305가구, 713가구 일반공급, 49~59㎡)의 1순위 청약을 받는다. 이... ",
+			"pubDate":"Sun, 01 Nov 2026 09:00:00 +0900"
+		},
+		{
+			"title":"[현장]&quot;바람 대신 물로 칩 식힌다&quot;…'액체냉각'으로 AI 열기 잡는 KT AIDC",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20261030_0003848970",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014292464?sid=105",
+			"description":"추진하며 군산 AIDC에 모듈형 인프라 솔루션을 적용할 계획이다. KT클라우드는 25년간 축적한 데이터센터 구축·운영 경험에 실증 기술과 전문기업의 역량을 결합해 군산·<b>청라<\/b>·안산 등 신규 AIDC 사업을 확대할 방침이다．",
 			"pubDate":"Sun, 01 Nov 2026 09:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000129985?sid=103",
 			"description":"‘더 글로리’에서 문동은과 하도영 등 주요 인물들은 ‘바둑 공원’에서 여러 번 마주하며 팽팽한 긴장감을 만들어 낸다. 인물들의 감정이 부딪히는 무대였던 인상적인 장면의 배경은 인천 서해구 <b>청라<\/b>호수공원이다.",
 			"pubDate":"Sat, 31 Oct 2026 13:02:00 +0900"
-		},
-		{
-			"title":"[인천투데이 10기 독자참여위] &quot;현실 진단 넘어 대안까지 후속보도 필요...",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=325629",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=325629",
-			"description":"<b>청라<\/b>는 소각장보다 노후 LNG 발전소 연장이 더 문제다. 반면 송도 소각장 공동이용을 결정한 남동·연수·미추홀구는 평가해야 한다. 매립지 역사부터 쉽게 풀고 수도권 전체 문제로 접근하는 기획연재를 제안한다.... ",
-			"pubDate":"Sat, 31 Oct 2026 13:00:00 +0900"
 		}
 	]
 }
