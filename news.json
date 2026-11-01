@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 01 Nov 2026 16:30:00 +0900",
-	"total":312623,
+	"lastBuildDate":"Sun, 01 Nov 2026 16:40:00 +0900",
+	"total":312624,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[사설] 제물포구 어쩌다 '쇠퇴 도시'로 전락했나",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1335635",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1335635",
+			"description":"인천은 그동안 송도, <b>청라<\/b>, 영종을 중심으로 신도시 개발에 막대한 예산과 행정력을 투입해왔다. 새로운 성장거점 조성은 도시 경쟁력 확보를 위해 필요했다. 그러나 신도시 개발에 쏟은 관심과 비교해 원도심의... ",
+			"pubDate":"Sun, 01 Nov 2026 16:32:00 +0900"
+		},
 		{
 			"title":"[대 끊기는 공사판] 외국인, 로봇만으로는 부족... 숙련공 양성 나서야",
 			"originallink":"https:\/\/www.viva100.com\/article\/20261101500540",
@@ -159,17 +166,17 @@
 			"pubDate":"Sun, 01 Nov 2026 09:10:00 +0900"
 		},
 		{
-			"title":"KT클라우드, LS일렉•버티브 맞손⋯ AI DC 경쟁력 강화",
-			"originallink":"https:\/\/www.viva100.com\/article\/20261030500965",
-			"link":"https:\/\/www.viva100.com\/article\/20261030500965",
-			"description":"KT클라우드는 25년간 쌓은 데이터센터 설계·구축·운영 경험에 전문기업의 기술을 결합해 AI DC 구축·운영 역량을 높이고 군산·<b>청라<\/b>·안산 등 신규 사업을 통해 2031년 1GW AI DC 공급 전략을 실현해 나갈 계획이다. 방재원... ",
-			"pubDate":"Sun, 01 Nov 2026 09:02:00 +0900"
-		},
-		{
 			"title":"KT클라우드, 전문기업 손잡고 AIDC 경쟁력 강화…전력·냉각 기술 실증",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20261101081054151",
 			"link":"https:\/\/www.ajunews.com\/view\/20261101081054151",
 			"description":"<b>청라<\/b>와 안산 등에서도 신규 사업을 추진하고 있다. KT클라우드는 데이터센터 건물과 전력·냉각 설비를 공급하는 데 그치지 않고 고객이 보유한 GPU 서버의 안정적인 운영과 다른 데이터센터·클라우드 간 연결까지... ",
+			"pubDate":"Sun, 01 Nov 2026 09:02:00 +0900"
+		},
+		{
+			"title":"KT클라우드, LS일렉•버티브 맞손⋯ AI DC 경쟁력 강화",
+			"originallink":"https:\/\/www.viva100.com\/article\/20261030500965",
+			"link":"https:\/\/www.viva100.com\/article\/20261030500965",
+			"description":"KT클라우드는 25년간 쌓은 데이터센터 설계·구축·운영 경험에 전문기업의 기술을 결합해 AI DC 구축·운영 역량을 높이고 군산·<b>청라<\/b>·안산 등 신규 사업을 통해 2031년 1GW AI DC 공급 전략을 실현해 나갈 계획이다. 방재원... ",
 			"pubDate":"Sun, 01 Nov 2026 09:02:00 +0900"
 		},
 		{
@@ -180,17 +187,17 @@
 			"pubDate":"Sun, 01 Nov 2026 09:01:00 +0900"
 		},
 		{
-			"title":"[부동산 청약 일정] 토지임대부 분양주택 '고덕강일3단지' 1순위 청약…...",
-			"originallink":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=621792",
-			"link":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=621792",
-			"description":"서해구 <b>청라<\/b>동 '<b>청라<\/b> 아크원 푸르지오'(868가구, 전량 일반분양, 84~103㎡)의 청약 접수가 예정돼 있다. 4일에는 서울 강동구 강일동 '고덕강일3단지'(1,305가구, 713가구 일반공급, 49~59㎡)의 1순위 청약을 받는다. 이... ",
-			"pubDate":"Sun, 01 Nov 2026 09:00:00 +0900"
-		},
-		{
 			"title":"[현장]&quot;바람 대신 물로 칩 식힌다&quot;…'액체냉각'으로 AI 열기 잡는 KT AIDC",
 			"originallink":"https:\/\/www.newsis.com\/view\/NISX20261030_0003848970",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014292464?sid=105",
 			"description":"추진하며 군산 AIDC에 모듈형 인프라 솔루션을 적용할 계획이다. KT클라우드는 25년간 축적한 데이터센터 구축·운영 경험에 실증 기술과 전문기업의 역량을 결합해 군산·<b>청라<\/b>·안산 등 신규 AIDC 사업을 확대할 방침이다．",
+			"pubDate":"Sun, 01 Nov 2026 09:00:00 +0900"
+		},
+		{
+			"title":"[부동산 청약 일정] 토지임대부 분양주택 '고덕강일3단지' 1순위 청약…...",
+			"originallink":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=621792",
+			"link":"https:\/\/www.cbci.co.kr\/news\/articleView.html?idxno=621792",
+			"description":"서해구 <b>청라<\/b>동 '<b>청라<\/b> 아크원 푸르지오'(868가구, 전량 일반분양, 84~103㎡)의 청약 접수가 예정돼 있다. 4일에는 서울 강동구 강일동 '고덕강일3단지'(1,305가구, 713가구 일반공급, 49~59㎡)의 1순위 청약을 받는다. 이... ",
 			"pubDate":"Sun, 01 Nov 2026 09:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0003149728?sid=102",
 			"description":"서해구는 <b>청라<\/b>국제도시의 개발 여건을, 검단구는 향후 조성될 법원·검찰 북부지원과의 연계성을 강조하고 있다. 서해구는 2일 이용우 더불어민주당 국회의원, 구재용 서해구청장 등이 참석한 가운데 해사국제상사법원... ",
 			"pubDate":"Sun, 01 Nov 2026 08:16:00 +0900"
-		},
-		{
-			"title":"인천 드라마·영화·CF 촬영 ‘성지’…도깨비·나의 아저씨 그 장소 ‘...",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20261029580344",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000130021?sid=103",
-			"description":"인천은 서쪽으로 바다를 낀 섬과 해안, 내륙에는 개항기의 흔적이 남은 원도심과 송도·<b>청라<\/b> 등 미래도시의 현대적 풍경을 갖춘 신도심까지 공존한다. 이 덕분에 작품 분위기에 맞는 장소를 폭넓게 고를 수 있어 K... ",
-			"pubDate":"Sun, 01 Nov 2026 08:02:00 +0900"
 		}
 	]
 }
