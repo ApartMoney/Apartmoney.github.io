@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 02 Nov 2026 03:20:01 +0900",
-	"total":312631,
+	"lastBuildDate":"Mon, 02 Nov 2026 03:30:01 +0900",
+	"total":312632,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;인천 경제성장률 매년 5% 달성...산업 구조 재편&quot;",
+			"originallink":"https:\/\/www.ytn.co.kr\/_ln\/0115_202611020322094671",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/052\/0002426963?sid=102",
+			"description":"여기에 영흥도에는 AI·에너지 복합단지를 세우고, 송도의 바이오와 <b>청라<\/b>의 미래 모빌리티 등 3개 권역을 첨단 일자리 거점으로 육성할 방침입니다. [박찬대 \/ 인천광역시장 : 추가 성장을 위한 미래 산업의 리파워링을... ",
+			"pubDate":"Mon, 02 Nov 2026 03:22:00 +0900"
+		},
 		{
 			"title":"[르포] 계양 첫 민영 '카이브 유보라'…시범단지 기대에 철도 연장 훈풍",
 			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=314394",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002443291?sid=105",
 			"description":"2027년 부천을 시작으로 군산·<b>청라<\/b>·안산 등에서 신규 AIDC 사업을 추진하고 있다. 새로 구축하는 데이터센터는 고밀도 GPU 서버에 대응할 수 있도록 바닥 하중과 전력·냉각 설계를 강화한다. LS일렉트릭과는 모듈형... ",
 			"pubDate":"Sun, 01 Nov 2026 09:20:00 +0900"
-		},
-		{
-			"title":"[르포]KT클라우드, 차세대 GPU 도입 준비…AIDC 증설 속도 빨라진다",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2026110109104459444",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005836216?sid=105",
-			"description":"방 팀장은 &quot;AI 이노베이션 센터는 이 모든 기술 실증의 거점&quot;이라며 &quot;군산·<b>청라<\/b>·안산 등 신규 사업을 통해 2031년 1GW AI 데이터센터 공급 전략을 실현해 나갈 것&quot;이라고 말했다.",
-			"pubDate":"Sun, 01 Nov 2026 09:10:00 +0900"
 		}
 	]
 }
