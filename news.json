@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sun, 01 Nov 2026 09:20:01 +0900",
-	"total":312602,
+	"lastBuildDate":"Sun, 01 Nov 2026 09:30:00 +0900",
+	"total":312603,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;25년 내공으로 냉각부터 관제까지&quot;…KT클라우드 AIDC 가보니",
+			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20261031224930",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002443291?sid=105",
+			"description":"2027년 부천을 시작으로 군산·<b>청라<\/b>·안산 등에서 신규 AIDC 사업을 추진하고 있다. 새로 구축하는 데이터센터는 고밀도 GPU 서버에 대응할 수 있도록 바닥 하중과 전력·냉각 설계를 강화한다. LS일렉트릭과는 모듈형... ",
+			"pubDate":"Sun, 01 Nov 2026 09:20:00 +0900"
+		},
 		{
 			"title":"[르포]KT클라우드, 차세대 GPU 도입 준비…AIDC 증설 속도 빨라진다",
 			"originallink":"https:\/\/view.asiae.co.kr\/article\/2026110109104459444",
@@ -138,17 +145,17 @@
 			"pubDate":"Sat, 31 Oct 2026 07:00:00 +0900"
 		},
 		{
-			"title":"[분양캘린더] 11월 첫째 주 '계양신도시 카이브 유보라' 등 4928가구 공급",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2642468",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2642468",
-			"description":"<b>청라<\/b>동 '<b>청라<\/b> 아크원 푸르지오'는 전용면적 84~103㎡, 총 868가구가 공급된다. 두 단지 모두 전 가구가 일반분양 물량이다. 4일에는 서울 강동구 강일동 '고덕강일3단지'가 청약 접수를 진행한다. 단지는 총 1305가구... ",
-			"pubDate":"Sat, 31 Oct 2026 06:00:00 +0900"
-		},
-		{
 			"title":"11월 전국 분양 봇물 속 서울은 '1369가구'…귀한 청약 단지 어디?",
 			"originallink":"https:\/\/www.mt.co.kr\/estate\/2026\/10\/31\/2026103008423659834",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005434549?sid=101",
 			"description":"인천에서는 '계양신도시 카이브 유보라' 1110가구, '<b>청라<\/b> 아크원 푸르지오' 868가구, '검단 센트레빌 그랑포레' 843가구 등이 공급될 예정이다. 분양 선택지가 늘어나는 만큼 청약 수요는 가격과 입지에 따라 갈릴... ",
+			"pubDate":"Sat, 31 Oct 2026 06:00:00 +0900"
+		},
+		{
+			"title":"[분양캘린더] 11월 첫째 주 '계양신도시 카이브 유보라' 등 4928가구 공급",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2642468",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2642468",
+			"description":"<b>청라<\/b>동 '<b>청라<\/b> 아크원 푸르지오'는 전용면적 84~103㎡, 총 868가구가 공급된다. 두 단지 모두 전 가구가 일반분양 물량이다. 4일에는 서울 강동구 강일동 '고덕강일3단지'가 청약 접수를 진행한다. 단지는 총 1305가구... ",
 			"pubDate":"Sat, 31 Oct 2026 06:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3738041",
 			"description":"<b>청라<\/b>의 새 아파트, 검단의 신설 지하철역, 부평역 주변의 오래된 상가. 모두 인천 서북권에 속하지만 부동산... 종전 서구는 <b>청라<\/b>·가정·석남·가좌 등을 포함한 서해구와 검단 일대를 관할하는 검단구로 나뉘었다. 이제 옛... ",
 			"pubDate":"Fri, 30 Oct 2026 20:04:00 +0900"
-		},
-		{
-			"title":"하나은행, 미소금융 재원 1000억 출연…서민·청년 경제적 자립 돕는다",
-			"originallink":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=93814",
-			"link":"https:\/\/www.inthenews.co.kr\/news\/article.html?no=93814",
-			"description":"최초로 선보인 '하나원큐 안심중금리대출'도 7529건의 대출을 제공하는 등 취약계층 금융접근성 확대에 힘쓰고 있습니다. 이호성 하나은행장. 사진ㅣ하나은행 하나금융그룹 <b>청라<\/b> 통합데이터센터. 사진ㅣ하나금융그룹",
-			"pubDate":"Fri, 30 Oct 2026 19:40:00 +0900"
 		}
 	]
 }
