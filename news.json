@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 04 Nov 2026 21:30:01 +0900",
-	"total":313036,
+	"lastBuildDate":"Wed, 04 Nov 2026 21:40:01 +0900",
+	"total":313037,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"벤츠 코리아, 배터리 정보 누락 책임… 차주 142명에 1인당 400만원 배상...",
+			"originallink":"https:\/\/it.chosun.com\/news\/articleView.html?idxno=3000000000282",
+			"link":"https:\/\/it.chosun.com\/news\/articleView.html?idxno=3000000000282",
+			"description":"CATL과 파라시스의 시장점유율·인지도·기술력 차이와 2024년 인천 <b>청라<\/b> 전기차 화재 이후 파라시스 배터리에 대한 부정적 인식이 확산하면서 차량 교환가치가 하락했을 가능성도 배상액 산정에 반영했다. 벤츠... ",
+			"pubDate":"Wed, 04 Nov 2026 21:34:00 +0900"
+		},
 		{
 			"title":"11월에도 '월드오케스트라 축제 열기' 계속된다",
 			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=564411",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.viva100.com\/article\/20261104501291",
 			"description":"인천시가 피지컬 인공지능(AI) 시대를 겨냥해 <b>청라<\/b>를 로봇과 미래 모빌리티 산업의 융합 거점으로 키운다.... 올해 말 분양 예정인 인천로봇랜드를 중심으로 AI 로봇산업 기반을 확충하고, <b>청라<\/b> 일대에 AI 커넥티드카... ",
 			"pubDate":"Wed, 04 Nov 2026 16:18:00 +0900"
-		},
-		{
-			"title":"배터리 제조사 누락 벤츠코리아…차주 1인당 400만원 배상 조정",
-			"originallink":"https:\/\/www.newsway.co.kr\/news\/view?ud=2026110415205179682",
-			"link":"https:\/\/www.newsway.co.kr\/news\/view?ud=2026110415205179682",
-			"description":"실제 2024년 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 발생한 벤츠 전기차 화재 이후 파라시스 배터리에 대한 부정적 인식이 확산했다. 위원회는 이로 인해 해당 배터리를 탑재한 차량의 교환가치가 하락했을 가능성도... ",
-			"pubDate":"Wed, 04 Nov 2026 16:14:00 +0900"
 		}
 	]
 }
