@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 06 Nov 2026 06:30:07 +0900",
-	"total":313193,
+	"lastBuildDate":"Fri, 06 Nov 2026 06:40:01 +0900",
+	"total":313194,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"전국 광역 단체장 11월 6일 일정",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20261105001518",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20261105001518",
+			"description":"하나금융그룹 <b>청라<\/b> 헤드쿼터에서 열린 하나금융그룹 <b>청라<\/b> 헤드쿼터 오프닝 행사에서 축사를 하고 있다. 2026.10.02 khwphoto@newspim.com ▲우상호 강원도지사 -도 주민자치회 한마당축제 (11:00 태백시종합경기장)... ",
+			"pubDate":"Fri, 06 Nov 2026 06:30:00 +0900"
+		},
 		{
 			"title":"인천해사법원 본청사 어디로…법원행정처, 4개 구 후보지 실사",
 			"originallink":"https:\/\/www.kyeonggi.com\/article\/20261105580386",
@@ -110,17 +117,17 @@
 			"pubDate":"Thu, 05 Nov 2026 19:48:00 +0900"
 		},
 		{
-			"title":"인천시, 2027년 예산 15조 9천억 편성…복지·미래 성장에 중점",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3743619",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3743619",
-			"description":"서울 7호선 <b>청라<\/b> 연장, GTX-B 본선 건설분담금, 청학역 추가 정거장, 인천대로 일반화, 서울 5호선 검단·김포 연장 기본계획, 삼익아파트~동국제강 도로, 아암지하차도, 내항 1·8부두 재개발, 부평 신촌공원 부지 매입... ",
-			"pubDate":"Thu, 05 Nov 2026 19:06:00 +0900"
-		},
-		{
 			"title":"배터리 제조사 속인 벤츠…EQE·EQS 차주에 400만원 배상 결정",
 			"originallink":"https:\/\/thedrive.co.kr\/news\/newsview.php?ncode=1065607067434842",
 			"link":"https:\/\/thedrive.co.kr\/news\/newsview.php?ncode=1065607067434842",
 			"description":"▲ 2024년 인천 <b>청라<\/b> 아파트 지하주차장 화재 현장 메르세데스-벤츠가 전기차 배터리 제조사를 사실과 다르게 홍보한 데 대해 차주 1인당 400만원을 배상해야 한다는 결정이 나왔다. 지난 2024년 인천 <b>청라<\/b> 전기차 화재... ",
+			"pubDate":"Thu, 05 Nov 2026 19:06:00 +0900"
+		},
+		{
+			"title":"인천시, 2027년 예산 15조 9천억 편성…복지·미래 성장에 중점",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3743619",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3743619",
+			"description":"서울 7호선 <b>청라<\/b> 연장, GTX-B 본선 건설분담금, 청학역 추가 정거장, 인천대로 일반화, 서울 5호선 검단·김포 연장 기본계획, 삼익아파트~동국제강 도로, 아암지하차도, 내항 1·8부두 재개발, 부평 신촌공원 부지 매입... ",
 			"pubDate":"Thu, 05 Nov 2026 19:06:00 +0900"
 		},
 		{
@@ -180,13 +187,6 @@
 			"pubDate":"Thu, 05 Nov 2026 17:24:00 +0900"
 		},
 		{
-			"title":"예산 '820조9천억' 손본다…김교흥, 국회 예산소위 선임",
-			"originallink":"https:\/\/www.betanews.net\/article\/view\/beta202611050131",
-			"link":"https:\/\/www.betanews.net\/article\/view\/beta202611050131",
-			"description":"김 의원은 수도권 서북부 주민의 교통 불편을 줄이기 위해 GTX-D·E 노선의 국가철도망 구축계획 반영, 대장홍대선 <b>청라<\/b> 연장 등 광역교통망 확충을 뒷받침할 예정이다. 개통이 장기간 늦어지고 있는 장고개길 사업에... ",
-			"pubDate":"Thu, 05 Nov 2026 17:20:00 +0900"
-		},
-		{
 			"title":"인천시 내년 본예산 역대 최대 15조 9000억…민생 지키고 미래산업 키운...",
 			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=918348",
 			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=918348",
@@ -201,18 +201,18 @@
 			"pubDate":"Thu, 05 Nov 2026 17:20:00 +0900"
 		},
 		{
+			"title":"예산 '820조9천억' 손본다…김교흥, 국회 예산소위 선임",
+			"originallink":"https:\/\/www.betanews.net\/article\/view\/beta202611050131",
+			"link":"https:\/\/www.betanews.net\/article\/view\/beta202611050131",
+			"description":"김 의원은 수도권 서북부 주민의 교통 불편을 줄이기 위해 GTX-D·E 노선의 국가철도망 구축계획 반영, 대장홍대선 <b>청라<\/b> 연장 등 광역교통망 확충을 뒷받침할 예정이다. 개통이 장기간 늦어지고 있는 장고개길 사업에... ",
+			"pubDate":"Thu, 05 Nov 2026 17:20:00 +0900"
+		},
+		{
 			"title":"벤츠 '<b>청라<\/b> 화재' 여진 계속…&quot;400만원씩 배상&quot; [기업 백브리핑]",
 			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000344544?division=NAVER",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000541980?sid=101",
 			"description":"2년 전 인천 <b>청라<\/b>아파트 지하주차장 화재 이후 불거졌던 전기차 배터리 제조사 문제가 지금까지 이어진... 거부한다면 정식 소송으로 사안이 이어질 것으로 보여, 벤츠의 '<b>청라<\/b> 악몽'이 몇 년째 끝나지 않는 양상입니다.",
 			"pubDate":"Thu, 05 Nov 2026 17:05:00 +0900"
-		},
-		{
-			"title":"엄승용 보령시장, 헬기 타고 소나무재선충병 피해 확인…&quot;청정 산림 회...",
-			"originallink":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=753889",
-			"link":"http:\/\/www.newsprime.co.kr\/news\/article.html?no=753889",
-			"description":"양호했지만, <b>청라<\/b>면을 중심으로 한 동쪽 산림은 산 능선이 회색으로 변할 정도로 피해가 심각했다고 설명했다. 엄 시장은 프라임경제와의 통화에서 &quot;피해가 참혹할 것으로 예상하고 보령 전역을 둘러봤는데, <b>청라<\/b> 쪽 동부... ",
-			"pubDate":"Thu, 05 Nov 2026 16:46:00 +0900"
 		}
 	]
 }
