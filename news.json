@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 09 Nov 2026 14:50:01 +0900",
-	"total":313330,
+	"lastBuildDate":"Mon, 09 Nov 2026 15:00:01 +0900",
+	"total":313331,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"공우석 시의원 &quot;지하 충전구역 3곳 중 1곳 화재 취약&quot;",
+			"originallink":"https:\/\/www.newspim.com\/news\/view\/20261109000939",
+			"link":"https:\/\/www.newspim.com\/news\/view\/20261109000939",
+			"description":"공 의원은 서울소방재난본부로부터 제출받은 최근 3년간 서울 관내 주차장 화재(236건 발생, 인명피해 46명)와 인천 <b>청라<\/b> 아파트 화재 등 대형 인명피해 사례를 언급했다. 그러면서 &quot;지하주차장은 화재 발생 시 대응에... ",
+			"pubDate":"Mon, 09 Nov 2026 14:56:00 +0900"
+		},
 		{
 			"title":"국토부, 'Neo K-UAM 그랜드챌린지' 추진…지역 상용화 실증 확대",
 			"originallink":"https:\/\/news.bbsi.co.kr\/news\/articleView.html?idxno=4117446",
@@ -75,13 +82,6 @@
 			"pubDate":"Mon, 09 Nov 2026 11:02:00 +0900"
 		},
 		{
-			"title":"국토부, 도심항공교통 실증체계 개편⋯지역 상용화 본격 추진",
-			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2645555",
-			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2645555",
-			"description":"전남 고흥과 인천 <b>청라<\/b>에서 기체 운항과 교통관리, 버티포트(수직이착륙장) 운영 등을 점검하며 관련 기술과 운용 경험을 축적했다. 새롭게 추진하는 Neo GC는 기존 기술실증을 발전시킨 '기술실증 GC'와 새로 도입하는... ",
-			"pubDate":"Mon, 09 Nov 2026 11:02:00 +0900"
-		},
-		{
 			"title":"국토부, 도심항공교통 상용화 실증 확대…지자체·기업 참여 추진",
 			"originallink":"https:\/\/www.ajunews.com\/view\/20261109091643484",
 			"link":"https:\/\/www.ajunews.com\/view\/20261109091643484",
@@ -89,10 +89,17 @@
 			"pubDate":"Mon, 09 Nov 2026 11:02:00 +0900"
 		},
 		{
-			"title":"UAM 실증, 기술검증 넘어 지역 서비스로…'Neo GC' 추진",
-			"originallink":"https:\/\/www.fnnews.com\/news\/202611090856532677",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005601290?sid=101",
-			"description":"기업 중심의 K-UAM 그랜드챌린지를 추진해 왔다. 전남 고흥과 인천 <b>청라<\/b>에서 축적한 운항·교통관리·버티포트 운영 경험을 바탕으로 기술실증을 고도화하고 지역 서비스 도입 여건까지 검증 범위를 넓힐 계획이다.",
+			"title":"국토부, 도심항공교통 실증체계 개편⋯지역 상용화 본격 추진",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/2645555",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/2645555",
+			"description":"전남 고흥과 인천 <b>청라<\/b>에서 기체 운항과 교통관리, 버티포트(수직이착륙장) 운영 등을 점검하며 관련 기술과 운용 경험을 축적했다. 새롭게 추진하는 Neo GC는 기존 기술실증을 발전시킨 '기술실증 GC'와 새로 도입하는... ",
+			"pubDate":"Mon, 09 Nov 2026 11:02:00 +0900"
+		},
+		{
+			"title":"UAM 실증 새판 짜기…“기술 검증 넘어 노선 구상 단계로”",
+			"originallink":"https:\/\/biz.heraldcorp.com\/article\/10930106?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002720727?sid=101",
+			"description":"국토부는 2023년부터 전남 고흥과 인천 <b>청라<\/b>에서 기업 중심의 실증을 진행해 왔다. 국토부는 Neo GC 출범과 함께 ‘파트너링 데이’를 열어 지방정부와 기업이 협력 상대를 찾고 컨소시엄을 구성하도록 지원한다. 10일... ",
 			"pubDate":"Mon, 09 Nov 2026 11:01:00 +0900"
 		},
 		{
@@ -103,10 +110,10 @@
 			"pubDate":"Mon, 09 Nov 2026 11:01:00 +0900"
 		},
 		{
-			"title":"UAM 실증 새판 짜기…“기술 검증 넘어 노선 구상 단계로”",
-			"originallink":"https:\/\/biz.heraldcorp.com\/article\/10930106?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002720727?sid=101",
-			"description":"국토부는 2023년부터 전남 고흥과 인천 <b>청라<\/b>에서 기업 중심의 실증을 진행해 왔다. 국토부는 Neo GC 출범과 함께 ‘파트너링 데이’를 열어 지방정부와 기업이 협력 상대를 찾고 컨소시엄을 구성하도록 지원한다. 10일... ",
+			"title":"UAM 실증, 기술검증 넘어 지역 서비스로…'Neo GC' 추진",
+			"originallink":"https:\/\/www.fnnews.com\/news\/202611090856532677",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005601290?sid=101",
+			"description":"기업 중심의 K-UAM 그랜드챌린지를 추진해 왔다. 전남 고흥과 인천 <b>청라<\/b>에서 축적한 운항·교통관리·버티포트 운영 경험을 바탕으로 기술실증을 고도화하고 지역 서비스 도입 여건까지 검증 범위를 넓힐 계획이다.",
 			"pubDate":"Mon, 09 Nov 2026 11:01:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.nspna.com\/news\/?mode=view&newsid=835118",
 			"description":"전통 예법 따라 엄숙히 진행된 제례 제례는 전통 예법에 맞춰 진행됐으며 집례는 박승남(승지공파), 좌집사는 박기서(동곽공파)·박찬국(첨추공파), 우집사는 박승인(시정공파)·박승업(<b>청라<\/b>공파) 종친이 맡았으며, 박제용... ",
 			"pubDate":"Sun, 08 Nov 2026 21:26:00 +0900"
-		},
-		{
-			"title":"[경인 WIDE] 인천시 G20 정상회의 유치 밑그림 완성",
-			"originallink":"https:\/\/www.kyeongin.com\/article\/1774303",
-			"link":"https:\/\/www.kyeongin.com\/article\/1774303",
-			"description":"송도·<b>청라<\/b>·영종 등 인천경제자유구역은 2003년 국내 최초로 지정된 경제자유구역이다. 특히 송도국제도시는 지난 20여년간 매립한 땅에 글로벌 기업과 첨단산업 유치, 국제기구 입주 등을 거쳐 글로벌 경제도시로... ",
-			"pubDate":"Sun, 08 Nov 2026 18:50:00 +0900"
 		}
 	]
 }
