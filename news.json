@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 10 Nov 2026 07:20:01 +0900",
-	"total":313361,
+	"lastBuildDate":"Tue, 10 Nov 2026 07:30:01 +0900",
+	"total":313362,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"김구라, 주식 급락에 한숨 “올해 번 돈 다 반납했다…이제 마이너스”...",
+			"originallink":"http:\/\/www.osen.co.kr\/article\/G1112907485",
+			"link":"https:\/\/m.entertain.naver.com\/article\/109\/0005637876",
+			"description":"지난 6월 김구라는 “<b>청라<\/b> 집은 내가 계속 보유하고 있다가 작년에 그냥 매도를 했다. 팔고 나니까 세무사에게서 연락이 오더라. 왜냐하면 양도세 같은 문제가 남아있으니까. 그래서 내가 ‘남는 게 없다’ 그랬더니... ",
+			"pubDate":"Tue, 10 Nov 2026 07:25:00 +0900"
+		},
 		{
 			"title":"서울 대신 몰리더니 '여기도 올라요?'…전셋값 '5억' 떴다",
 			"originallink":"https:\/\/www.hankyung.com\/article\/2026110957131",
@@ -103,13 +110,6 @@
 			"pubDate":"Mon, 09 Nov 2026 18:06:00 +0900"
 		},
 		{
-			"title":"인천시의회 조민경 의원, 인천e음 캐시백 확대·중단 반복에 재정운영 ...",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=657560",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=657560",
-			"description":"조 의원은 경제자유구역 특별회계가 송도·영종·<b>청라<\/b>의 개발과 정주 여건 개선에 필요한 재원이라는 점을 강조하며, 인천e음과 같은 반복적인 재정사업의 부족분을 다른 회계나 기금에 의존하는 재원 조달 방식의... ",
-			"pubDate":"Mon, 09 Nov 2026 17:48:00 +0900"
-		},
-		{
 			"title":"[NQ기자의 쓴소리] 서울 밖으로 나간 첫 금융공룡, 하나금융의 '<b>청라<\/b> 대...",
 			"originallink":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=304474",
 			"link":"https:\/\/www.newsquest.co.kr\/news\/articleView.html?idxno=304474",
@@ -117,17 +117,24 @@
 			"pubDate":"Mon, 09 Nov 2026 17:48:00 +0900"
 		},
 		{
-			"title":"통 큰 곽튜브, '전현무계획4' 제작진 만두값 315만원 결제",
-			"originallink":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16272240",
-			"link":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16272240",
-			"description":"전현무와 곽튜브는 허각의 안내로 인천 <b>청라<\/b>의 한 만두 맛집을 방문했다. 16년간 하루 1000개 이상의 만두를 빚는 식당에서 이들은 만두와 평양식, 비빔, 들기름 막국수를 맛보며 감탄했다. 식사를 마친 곽튜브는 &quot;만두가... ",
-			"pubDate":"Mon, 09 Nov 2026 17:44:00 +0900"
+			"title":"인천시의회 조민경 의원, 인천e음 캐시백 확대·중단 반복에 재정운영 ...",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=657560",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=657560",
+			"description":"조 의원은 경제자유구역 특별회계가 송도·영종·<b>청라<\/b>의 개발과 정주 여건 개선에 필요한 재원이라는 점을 강조하며, 인천e음과 같은 반복적인 재정사업의 부족분을 다른 회계나 기금에 의존하는 재원 조달 방식의... ",
+			"pubDate":"Mon, 09 Nov 2026 17:48:00 +0900"
 		},
 		{
 			"title":"인천<b>청라<\/b>고, 학생·학부모·교사가 함께 만든 '가치ON 프로젝트'… 나눔...",
 			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1336350",
 			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1336350",
 			"description":"인천<b>청라<\/b>고등학교는 9일 어려운 이웃들을 위해 써달라며 260만6250원을 <b>청라<\/b>2동 행정복지센터에 전달했다. 이날 전달한 수익금은 <b>청라<\/b>고가 지난 2일부터 3일까지 점심시간을 활용해 전교생 894명을 대상으로 진행한... ",
+			"pubDate":"Mon, 09 Nov 2026 17:44:00 +0900"
+		},
+		{
+			"title":"통 큰 곽튜브, '전현무계획4' 제작진 만두값 315만원 결제",
+			"originallink":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16272240",
+			"link":"https:\/\/www.topstarnews.net\/news\/articleView.html?idxno=16272240",
+			"description":"전현무와 곽튜브는 허각의 안내로 인천 <b>청라<\/b>의 한 만두 맛집을 방문했다. 16년간 하루 1000개 이상의 만두를 빚는 식당에서 이들은 만두와 평양식, 비빔, 들기름 막국수를 맛보며 감탄했다. 식사를 마친 곽튜브는 &quot;만두가... ",
 			"pubDate":"Mon, 09 Nov 2026 17:44:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/lawtalknews.co.kr\/article\/XUEGQ1O0ODQH",
 			"description":"지난달 6일 오전 4시쯤, 인천시 <b>청라<\/b>동 한 오피스텔에서 진행된 유튜브 방송 도중 벌어진 일이다. 출연자는 의식을 잃고 쓰러져 바닥에 머리를 부딪혔으며, 신체 일부가 마비되는 증상이 나타나는 등 전치 12주 진단이 나온... ",
 			"pubDate":"Mon, 09 Nov 2026 15:04:00 +0900"
-		},
-		{
-			"title":"[자막뉴스] 계양신도시 첫 분양 실패한 진짜 이유",
-			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=561537",
-			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=561537",
-			"description":"인천시와 계양구가 부천까지 연결되는 대장홍대선을 <b>청라<\/b>와 계양으로 끌어오려 애쓰고 있지만 아직 국가철도망 구축계획에 반영되지 않았습니다. 때문에 계양신도시 서울 출퇴근 입주민들은 철도가 들어설 때까지... ",
-			"pubDate":"Mon, 09 Nov 2026 15:00:00 +0900"
 		}
 	]
 }
