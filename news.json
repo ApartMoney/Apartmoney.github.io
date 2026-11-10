@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 10 Nov 2026 12:40:01 +0900",
-	"total":313391,
+	"lastBuildDate":"Tue, 10 Nov 2026 12:50:01 +0900",
+	"total":313392,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[단독] 수사권 사라지자 깐깐해진 기소…공소청, ‘배터리 정보 은폐’...",
+			"originallink":"https:\/\/biz.heraldcorp.com\/article\/10931768?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002721442?sid=102",
+			"description":"앞서 지난 2024년 8월 인천 <b>청라<\/b> 아파트 지하주차장에서 벤츠 전기차 모델 EQE 차량 화재가 발생했다. 해당 사고 이후 벤츠코리아가 전기차 배터리 정보를 누락하거나 은폐했다는 논란이 일었다. 일부 차주들은 벤츠코리아를... ",
+			"pubDate":"Tue, 10 Nov 2026 12:46:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>하늘대교 관광시설 새 단장…전망대 할인 혜택 확대",
 			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=242802",
@@ -187,17 +194,17 @@
 			"pubDate":"Tue, 10 Nov 2026 09:02:00 +0900"
 		},
 		{
-			"title":"<b>청라<\/b>하늘대교 하늘전망대, 개장 5달 새 2만6500명 방문",
-			"originallink":"https:\/\/www.newsis.com\/view\/NISX20261110_0003861391",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014312079?sid=102",
-			"description":"인천 영종도와 서해구를 잇는 <b>청라<\/b>하늘대교의 하늘전망대 '더스카이184'가 개장 후 5개월 새 사이... 인천경제청은 <b>청라<\/b>하늘대교가 관광명소로 자리잡고 있는 만큼, 더스카이184의 미디어라운지 콘텐츠를 확충하고... ",
-			"pubDate":"Tue, 10 Nov 2026 09:00:00 +0900"
-		},
-		{
 			"title":"인천경제청, <b>청라<\/b>하늘대교 미디어콘텐츠·체험프로그램 확충",
 			"originallink":"https:\/\/www.yna.co.kr\/view\/AKR20261110023100065?input=1195m",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/001\/0016432381?sid=102",
 			"description":"인천경제자유구역청은 <b>청라<\/b>하늘대교(제3연륙교) 관광시설 '더 스카이184'의 미디어 콘텐츠와 문화·체험... 인천경제청은 다음 달 1∼27일에는 <b>청라<\/b>하늘대교에서 크리스마스 분위기의 포토존과 공연·체험 프로그램도... ",
+			"pubDate":"Tue, 10 Nov 2026 09:00:00 +0900"
+		},
+		{
+			"title":"<b>청라<\/b>하늘대교 하늘전망대, 개장 5달 새 2만6500명 방문",
+			"originallink":"https:\/\/www.newsis.com\/view\/NISX20261110_0003861391",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0014312079?sid=102",
+			"description":"인천 영종도와 서해구를 잇는 <b>청라<\/b>하늘대교의 하늘전망대 '더스카이184'가 개장 후 5개월 새 사이... 인천경제청은 <b>청라<\/b>하늘대교가 관광명소로 자리잡고 있는 만큼, 더스카이184의 미디어라운지 콘텐츠를 확충하고... ",
 			"pubDate":"Tue, 10 Nov 2026 09:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/kpenews.com\/View.aspx?No=4304767",
 			"description":"인천에서는 계양과 <b>청라<\/b>의 신규 분양 단지들이 당첨자를 발표한다.10일 한국부동산원 청약홈 공개... ■ 인천 계양·<b>청라<\/b> 당첨자 발표 인천에서는 '계양신도시 카이브 유보라(AC3블록)'와 '<b>청라<\/b> 아크원 푸르지오'가... ",
 			"pubDate":"Tue, 10 Nov 2026 08:04:00 +0900"
-		},
-		{
-			"title":"김구라, 주식 급락에 한숨 “올해 번 돈 다 반납했다…이제 마이너스”...",
-			"originallink":"http:\/\/www.osen.co.kr\/article\/G1112907485",
-			"link":"https:\/\/m.entertain.naver.com\/article\/109\/0005637876",
-			"description":"지난 6월 김구라는 “<b>청라<\/b> 집은 내가 계속 보유하고 있다가 작년에 그냥 매도를 했다. 팔고 나니까 세무사에게서 연락이 오더라. 왜냐하면 양도세 같은 문제가 남아있으니까. 그래서 내가 ‘남는 게 없다’ 그랬더니... ",
-			"pubDate":"Tue, 10 Nov 2026 07:25:00 +0900"
 		}
 	]
 }
