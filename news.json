@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Wed, 11 Nov 2026 17:30:00 +0900",
-	"total":313502,
+	"lastBuildDate":"Wed, 11 Nov 2026 17:40:01 +0900",
+	"total":313506,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시의회 도시건설위, 원도심부터 신도시까지…'맞춤형 균형발전' 집...",
+			"originallink":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1336578",
+			"link":"https:\/\/www.incheonilbo.com\/news\/articleView.html?idxno=1336578",
+			"description":"\/사진제공=인천시의회 인천은 송도·<b>청라<\/b>·영종 등 경제자유구역을 중심으로 도시 외연을 넓혀가고 있지만... ▲조성민(더불어민주당·남동구4) 송도·<b>청라<\/b>·검단 등 신도시가 성장하는 동안 남동구·부평구·미추홀구 등... ",
+			"pubDate":"Wed, 11 Nov 2026 17:36:00 +0900"
+		},
+		{
+			"title":"끊긴 녹지 잇고 문학에 문화거점…인천 원도심 재생 구상",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3040670",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3040670",
+			"description":"여러 경기가 동시에 열리는 국제대회는 인스파이어 아레나와 <b>청라<\/b> 스타필드 등 지역 내 시설을 함께 활용하는 방안도 검토 중이다. 시설마다 규모와 기능을 차별화하고 기존 시설과 연계해 대형 행사에 따른 관광객 유입... ",
+			"pubDate":"Wed, 11 Nov 2026 17:36:00 +0900"
+		},
+		{
+			"title":"하나금융, 16년 전통 사회공헌 '모두하나데이' 개막…함영주 회장 &quot;실천...",
+			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=326185",
+			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=326185",
+			"description":"먼저, 그룹 사옥(<b>청라<\/b>, 명동, 을지로, 강남, 여의도) 로비에 1회 3천원씩 카드결제 방식으로 누구나 쉽고 편리하게 기부에 참여할 수 있는 '기부 키오스크'를 설치해 장애 등으로 일상생활이 어려운 가족을 직접 돌보며... ",
+			"pubDate":"Wed, 11 Nov 2026 17:36:00 +0900"
+		},
+		{
+			"title":"인천시, 5차 국가철도망 계획에 5대 핵심 노선 반영 총력",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=484139",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=484139",
+			"description":"시가 이번 5차 계획에 반영해 달라고 국토부에 건의한 핵심 철도사업은 수도권광역급행철도(GTX)-D 와이(Y)자 노선, 수도권광역급행철도(GTX)-E 노선, 대장홍대선 <b>청라<\/b> 연장, 인천발 케이티엑스(KTX) 인천공항 연장... ",
+			"pubDate":"Wed, 11 Nov 2026 17:32:00 +0900"
+		},
 		{
 			"title":"[시티&amp;로컬] 인천 문학경기장, K-콘텐츠 공연 중심지 탈바꿈 추진 外",
 			"originallink":"http:\/\/www.yonhapnewstv.co.kr\/news\/MYH20261111172443iTC",
@@ -33,13 +61,6 @@
 			"pubDate":"Wed, 11 Nov 2026 17:22:00 +0900"
 		},
 		{
-			"title":"하나금융, '2026 모두하나데이' 캠페인 실시…나눔·봉사활동 전개",
-			"originallink":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=237976",
-			"link":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=237976",
-			"description":"인천 <b>청라<\/b>와 서울 명동·을지로·강남·여의도 등 주요 그룹 사옥에는 가족돌봄아동 지원을 위한 기부 키오스크를 설치한다. 고객과 임직원은 카드 결제를 통해 1회 3000원씩 기부할 수 있다. 자원순환 활동으로는 그룹... ",
-			"pubDate":"Wed, 11 Nov 2026 17:20:00 +0900"
-		},
-		{
 			"title":"인천시, 5대 핵심 철도망 국가계획 반영 총력전",
 			"originallink":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=281056",
 			"link":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=281056",
@@ -47,17 +68,24 @@
 			"pubDate":"Wed, 11 Nov 2026 17:20:00 +0900"
 		},
 		{
-			"title":"하나금융, '2026 모두하나데이' 시작…두 달간 릴레이 나눔",
-			"originallink":"http:\/\/www.smarttimes.co.kr\/news\/articleView.html?idxno=50503",
-			"link":"http:\/\/www.smarttimes.co.kr\/news\/articleView.html?idxno=50503",
-			"description":"<b>청라<\/b>·명동·을지로·강남·여의도 그룹 사옥 로비에는 카드로 한 번에 3000원씩 기부할 수 있는 키오스크를 설치한다. 모금액은 가족을 돌보며 생계까지 책임지는 가족돌봄아동을 지원하는 데 쓰인다. 자원순환 캠페인은... ",
-			"pubDate":"Wed, 11 Nov 2026 17:14:00 +0900"
+			"title":"하나금융, '2026 모두하나데이' 캠페인 실시…나눔·봉사활동 전개",
+			"originallink":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=237976",
+			"link":"https:\/\/www.job-post.co.kr\/news\/articleView.html?idxno=237976",
+			"description":"인천 <b>청라<\/b>와 서울 명동·을지로·강남·여의도 등 주요 그룹 사옥에는 가족돌봄아동 지원을 위한 기부 키오스크를 설치한다. 고객과 임직원은 카드 결제를 통해 1회 3000원씩 기부할 수 있다. 자원순환 활동으로는 그룹... ",
+			"pubDate":"Wed, 11 Nov 2026 17:20:00 +0900"
 		},
 		{
 			"title":"하나금융, '모두하나데이' 시작…김장김치 1만1111포기 나눔",
 			"originallink":"https:\/\/www.cnbizm.com\/news\/articleView.html?idxno=321108",
 			"link":"https:\/\/www.cnbizm.com\/news\/articleView.html?idxno=321108",
 			"description":"하나금융은 <b>청라<\/b>·명동·을지로·강남·여의도 사옥에 기부 키오스크를 설치해 누구나 3000원씩 카드로 기부할 수 있도록 했다. 모금액은 가족돌봄아동 지원에 사용된다. 전자기기 수거함을 통한 소형 기기 기부도... ",
+			"pubDate":"Wed, 11 Nov 2026 17:14:00 +0900"
+		},
+		{
+			"title":"하나금융, '2026 모두하나데이' 시작…두 달간 릴레이 나눔",
+			"originallink":"http:\/\/www.smarttimes.co.kr\/news\/articleView.html?idxno=50503",
+			"link":"http:\/\/www.smarttimes.co.kr\/news\/articleView.html?idxno=50503",
+			"description":"<b>청라<\/b>·명동·을지로·강남·여의도 그룹 사옥 로비에는 카드로 한 번에 3000원씩 기부할 수 있는 키오스크를 설치한다. 모금액은 가족을 돌보며 생계까지 책임지는 가족돌봄아동을 지원하는 데 쓰인다. 자원순환 캠페인은... ",
 			"pubDate":"Wed, 11 Nov 2026 17:14:00 +0900"
 		},
 		{
@@ -68,17 +96,17 @@
 			"pubDate":"Wed, 11 Nov 2026 17:12:00 +0900"
 		},
 		{
-			"title":"인천시, 5개 핵심 철도사업 국가계획 반영 '총력'",
-			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1543409",
-			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1543409",
-			"description":"대상 사업은 수도권 광역급행철도(GTX)-D Y자 노선, GTX-E 노선, 대장홍대선 <b>청라<\/b> 연장, 인천발 KTX 인천공항 연장, 인천신항선입니다. 인천시는 국가철도망 구축계획이 향후 10년간 철도 투자 우선순위를 결정하는 법정... ",
-			"pubDate":"Wed, 11 Nov 2026 17:12:00 +0900"
-		},
-		{
 			"title":"인천시 '5대 노선' 국가계획 반영 전면전…박찬대 시장 직접 뛴다",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363742214",
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363742214",
 			"description":"사진=인천시 박찬대 인천시장이 GTX-D·E, 대장홍대선 <b>청라<\/b> 연장 등 인천시 건의 철도 노선의 국가계획 반영을... 시가 건의한 핵심 노선은 ▶수도권광역급행철도(GTX)-D Y자 노선 ▶GTX-E 노선 ▶대장홍대선 <b>청라<\/b> 연장... ",
+			"pubDate":"Wed, 11 Nov 2026 17:12:00 +0900"
+		},
+		{
+			"title":"인천시, 5개 핵심 철도사업 국가계획 반영 '총력'",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1543409",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1543409",
+			"description":"대상 사업은 수도권 광역급행철도(GTX)-D Y자 노선, GTX-E 노선, 대장홍대선 <b>청라<\/b> 연장, 인천발 KTX 인천공항 연장, 인천신항선입니다. 인천시는 국가철도망 구축계획이 향후 10년간 철도 투자 우선순위를 결정하는 법정... ",
 			"pubDate":"Wed, 11 Nov 2026 17:12:00 +0900"
 		},
 		{
@@ -103,6 +131,13 @@
 			"pubDate":"Wed, 11 Nov 2026 17:06:00 +0900"
 		},
 		{
+			"title":"박찬대 인천시장, 5대 철도사업 국가계획 반영 총력...국토부 의견수렴...",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20261111164906999",
+			"link":"https:\/\/www.ajunews.com\/view\/20261111164906999",
+			"description":"13일 서울서 국가철도망 대국민 의견수렴 행사 개최 대장홍대선 <b>청라<\/b> 연장·인천공항 KTX·인천신항선 포함... 인천시가 반영을 건의한 핵심 철도사업은 GTX-D Y자 노선과 GTX-E 노선, 대장홍대선 <b>청라<\/b> 연장, 인천발 KTX... ",
+			"pubDate":"Wed, 11 Nov 2026 17:04:00 +0900"
+		},
+		{
 			"title":"인천시 5대 철도사업, 국가계획 반영 막판 승부수",
 			"originallink":"https:\/\/www.viva100.com\/article\/20261111501109",
 			"link":"https:\/\/www.viva100.com\/article\/20261111501109",
@@ -114,13 +149,6 @@
 			"originallink":"https:\/\/www.e-science.co.kr\/news\/articleView.html?idxno=139500",
 			"link":"https:\/\/www.e-science.co.kr\/news\/articleView.html?idxno=139500",
 			"description":"하나금융은 <b>청라<\/b>·명동·을지로·강남·여의도 등 그룹 사옥 로비에 기부 키오스크를 설치하고 1회 3000원씩 카드결제로 기부할 수 있도록 했다. 모금액은 장애나 질병 등으로 돌봄이 필요한 가족을 보살피면서 생계를... ",
-			"pubDate":"Wed, 11 Nov 2026 17:04:00 +0900"
-		},
-		{
-			"title":"박찬대 인천시장, 5대 철도사업 국가계획 반영 총력...국토부 의견수렴...",
-			"originallink":"https:\/\/www.ajunews.com\/view\/20261111164906999",
-			"link":"https:\/\/www.ajunews.com\/view\/20261111164906999",
-			"description":"13일 서울서 국가철도망 대국민 의견수렴 행사 개최 대장홍대선 <b>청라<\/b> 연장·인천공항 KTX·인천신항선 포함... 인천시가 반영을 건의한 핵심 철도사업은 GTX-D Y자 노선과 GTX-E 노선, 대장홍대선 <b>청라<\/b> 연장, 인천발 KTX... ",
 			"pubDate":"Wed, 11 Nov 2026 17:04:00 +0900"
 		},
 		{
@@ -138,10 +166,10 @@
 			"pubDate":"Wed, 11 Nov 2026 17:00:00 +0900"
 		},
 		{
-			"title":"하나금융, ‘모두하나데이’ 시작…김장 1만1111포기 나눔",
-			"originallink":"https:\/\/www.thepowernews.co.kr\/view.php?ud=20261111165523615de3f0aa1be_7",
-			"link":"https:\/\/www.thepowernews.co.kr\/view.php?ud=20261111165523615de3f0aa1be_7",
-			"description":"인천 <b>청라<\/b>와 서울 명동·을지로·강남·여의도 등 주요 사옥에 기부 키오스크를 설치하고, 1회 3000원씩 카드로 기부할 수 있도록 했다. 모인 기부금은 가족돌봄아동 지원에 사용된다. 폐전자기기를 활용한 ‘모두의... ",
+			"title":"대구 중구·국가보훈부,도심 속 독립운동 발자취 '코리아 메모리얼 로드...",
+			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=560408",
+			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=560408",
+			"description":"참석자들은 중구의 근대문화자원과 독립운동 유적을 함께 둘러보았는데 <b>청라<\/b>언덕을 출발해 3·1만세운동길, 이상화·서상돈 고택, 대구 3·1독립운동 기념비, 2·28기념중앙공원을 거쳐 대구형무소역사관까지 이어지는 약... ",
 			"pubDate":"Wed, 11 Nov 2026 16:56:00 +0900"
 		},
 		{
@@ -152,10 +180,10 @@
 			"pubDate":"Wed, 11 Nov 2026 16:56:00 +0900"
 		},
 		{
-			"title":"대구 중구·국가보훈부,도심 속 독립운동 발자취 '코리아 메모리얼 로드...",
-			"originallink":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=560408",
-			"link":"https:\/\/www.dkilbo.com\/news\/articleView.html?idxno=560408",
-			"description":"참석자들은 중구의 근대문화자원과 독립운동 유적을 함께 둘러보았는데 <b>청라<\/b>언덕을 출발해 3·1만세운동길, 이상화·서상돈 고택, 대구 3·1독립운동 기념비, 2·28기념중앙공원을 거쳐 대구형무소역사관까지 이어지는 약... ",
+			"title":"하나금융, ‘모두하나데이’ 시작…김장 1만1111포기 나눔",
+			"originallink":"https:\/\/www.thepowernews.co.kr\/view.php?ud=20261111165523615de3f0aa1be_7",
+			"link":"https:\/\/www.thepowernews.co.kr\/view.php?ud=20261111165523615de3f0aa1be_7",
+			"description":"인천 <b>청라<\/b>와 서울 명동·을지로·강남·여의도 등 주요 사옥에 기부 키오스크를 설치하고, 1회 3000원씩 카드로 기부할 수 있도록 했다. 모인 기부금은 가족돌봄아동 지원에 사용된다. 폐전자기기를 활용한 ‘모두의... ",
 			"pubDate":"Wed, 11 Nov 2026 16:56:00 +0900"
 		},
 		{
@@ -173,13 +201,6 @@
 			"pubDate":"Wed, 11 Nov 2026 16:49:00 +0900"
 		},
 		{
-			"title":"하나금융, 김장김치 1만1111포기 나눔…연말연시 봉사활동 전개",
-			"originallink":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=119688",
-			"link":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=119688",
-			"description":"하나금융그룹은 <b>청라<\/b>·명동·을지로·강남·여의도 사옥 로비에 기부 키오스크를 설치한다. 방문객은 카드결제 방식으로 1회 3000원을 기부할 수 있다. 모금액은 장애 등으로 일상생활에 어려움을 겪는 가족을 돌보면서... ",
-			"pubDate":"Wed, 11 Nov 2026 16:46:00 +0900"
-		},
-		{
 			"title":"인천시, 5개 핵심 철도사업 국가계획 반영 '총력전'",
 			"originallink":"https:\/\/news.sbs.co.kr\/news\/endPage.do?news_id=N1008841493&plink=ORI&cooper=NAVER",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/055\/0001402292?sid=102",
@@ -187,32 +208,11 @@
 			"pubDate":"Wed, 11 Nov 2026 16:46:00 +0900"
 		},
 		{
-			"title":"하나금융, 김치 1만1111포기 담그며 '모두하나데이' 시작",
-			"originallink":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=563103",
-			"link":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=563103",
-			"description":"<b>청라<\/b>·명동·을지로·강남·여의도 사옥 로비에는 1회 3000원씩 카드로 결제해 기부하는 '기부 키오스크'를 설치해 가족돌봄아동을 지원한다. 사옥 로비 수거함으로 키보드·마우스 같은 소형 전자기기를 기부할 수 있고... ",
-			"pubDate":"Wed, 11 Nov 2026 16:42:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, '2026 모두하나데이' 선포… 두 달간 전 그룹사 릴레이 나...",
-			"originallink":"https:\/\/www.hinews.co.kr\/view.php?ud=2026111116375365174860f00ac1_48",
-			"link":"https:\/\/www.hinews.co.kr\/view.php?ud=2026111116375365174860f00ac1_48",
-			"description":"<b>청라<\/b>·명동·을지로·강남·여의도 사옥 로비에 설치하는 '기부 키오스크'에서는 카드로 1회 3천원씩 기부할 수 있다. 기부금은 장애 등으로 일상생활이 어려운 가족을 직접 돌보며 생계까지 떠맡은 가족돌봄아동을 돕는... ",
-			"pubDate":"Wed, 11 Nov 2026 16:42:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, '2026 모두하나데이' 선포… 2개월간 릴레이 봉사·나눔",
-			"originallink":"http:\/\/www.ttlnews.com\/news\/articleView.html?idxno=3161266",
-			"link":"http:\/\/www.ttlnews.com\/news\/articleView.html?idxno=3161266",
-			"description":"우선 <b>청라<\/b>·명동·을지로·강남·여의도 등 주요 그룹 사옥 로비에 기부 키오스크를 설치해 방문객과 임직원이 카드로 1회 3000원씩 간편하게 기부할 수 있도록 했다. 이렇게 모인 기부금은 질병이나 장애를 가진 가족을... ",
-			"pubDate":"Wed, 11 Nov 2026 16:40:00 +0900"
-		},
-		{
-			"title":"하나금융, 사랑의 김장김치 1만 1111포기 나눈다… '모두하나데이' 캠페...",
-			"originallink":"https:\/\/swtvnews.com\/news\/newsview.php?ncode=1065598094723780",
-			"link":"https:\/\/swtvnews.com\/news\/newsview.php?ncode=1065598094723780",
-			"description":"<b>청라<\/b>·명동·을지로·강남·여의도 사옥 로비에 설치한 기부 키오스크에서 1회 3000원씩 결제하면 가족돌봄아동 지원에 쓰인다. 소형 전자기기는 사옥 수거함에, 대형 가전은 '하나원큐' 앱의 방문 수거 신청으로 기부할... ",
-			"pubDate":"Wed, 11 Nov 2026 16:36:00 +0900"
+			"title":"하나금융, 김장김치 1만1111포기 나눔…연말연시 봉사활동 전개",
+			"originallink":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=119688",
+			"link":"https:\/\/www.businessplus.kr\/news\/articleView.html?idxno=119688",
+			"description":"하나금융그룹은 <b>청라<\/b>·명동·을지로·강남·여의도 사옥 로비에 기부 키오스크를 설치한다. 방문객은 카드결제 방식으로 1회 3000원을 기부할 수 있다. 모금액은 장애 등으로 일상생활에 어려움을 겪는 가족을 돌보면서... ",
+			"pubDate":"Wed, 11 Nov 2026 16:46:00 +0900"
 		}
 	]
 }
