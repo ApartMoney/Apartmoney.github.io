@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 12 Nov 2026 04:10:01 +0900",
-	"total":313544,
+	"lastBuildDate":"Thu, 12 Nov 2026 04:20:01 +0900",
+	"total":313545,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"날씨, 전국 &quot;가시거리 1km 미만 안개&quot; 토요일 비소식",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3749418",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3749418",
+			"description":"특히, 해안에 위치한 교량(인천대교, 영종대교, 강화대교, <b>청라<\/b>하늘대교, 서해대교 등)과 내륙의 강이나 호수, 골짜기에 인접한 도로에서는 주변보다 안개가 더욱 짙게 끼는 곳이 있겠고, 기온이 낮은 일부... ",
+			"pubDate":"Thu, 12 Nov 2026 04:16:00 +0900"
+		},
 		{
 			"title":"'본업집중' 이마트, 분기매출 첫 5조 돌파",
 			"originallink":"https:\/\/www.mt.co.kr\/industry\/2026\/11\/12\/2026111119550842127",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3040617",
 			"description":"기호일보, KIHOILBO <b>청라<\/b>시티타워 조감도. '마천루의 저주'란 말이 있다. 초고층 빌딩을 짓는 국가는 곧 극심한 경제 위기나 경기 침체 위기를 맞는다는 경제학적 가설이자 현상이다. 경제성장 지상주의에 대한 파국을... ",
 			"pubDate":"Wed, 11 Nov 2026 18:36:00 +0900"
-		},
-		{
-			"title":"[사업 어디까지]인천시, 출퇴근·공항·항만 철도 확충 위해 국가계획 ...",
-			"originallink":"https:\/\/www.nspna.com\/news\/?mode=view&newsid=835749",
-			"link":"https:\/\/www.nspna.com\/news\/?mode=view&newsid=835749",
-			"description":"건의 대상은 수도권광역급행철도(GTX)-D Y자 노선과 GTX-E, 대장홍대선 <b>청라<\/b> 연장, 인천발 KTX 인천공항 연장, 인천신항선이다. 인천시는 광역 통근망과 공항 접근, 항만 물류를 연결하는 철도 확충 과제로 이들 사업을... ",
-			"pubDate":"Wed, 11 Nov 2026 18:22:00 +0900"
 		}
 	]
 }
