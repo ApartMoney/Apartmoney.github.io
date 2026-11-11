@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 11 Nov 2026 22:30:00 +0900",
-	"total":313537,
+	"lastBuildDate":"Wed, 11 Nov 2026 22:40:01 +0900",
+	"total":313538,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천시, 문학경기장 일대 대형 공연장 탈바꿈 추진",
+			"originallink":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1543468",
+			"link":"https:\/\/www.obsnews.co.kr\/news\/articleView.html?idxno=1543468",
+			"description":"비롯한 타당성 분석과 민간투자 가능성, 사업 추진 방식, 운영·관리 방안 등을 검토할 예정입니다. 문학야구장을 사용 중인 프로야구 SSG 랜더스는 <b>청라<\/b> 돔구장이 완공되면 오는 2028년부터 새 홈구장으로 옮길 계획입니다.",
+			"pubDate":"Wed, 11 Nov 2026 22:32:00 +0900"
+		},
 		{
 			"title":"인천시, 5개 철도사업 국가계획 반영 '총력전' 펼친다",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3749395",
@@ -19,17 +26,17 @@
 			"pubDate":"Wed, 11 Nov 2026 21:30:00 +0900"
 		},
 		{
-			"title":"박찬대 인천시장, 5대 철도망 반영 총력…GTX-D·E 등 정부 설득",
-			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2026111121134765574c878f8fa1_30",
-			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2026111121134765574c878f8fa1_30",
-			"description":"인천=비욘드포스트 송인호 기자 박찬대 인천시장이 GTX-D·E와 대장홍대선 <b>청라<\/b> 연장 등 5대 핵심 철도사업의... 노선 ▲대장홍대선 <b>청라<\/b> 연장 ▲인천발 KTX 인천공항 연장 ▲인천신항선 등 5개다. 시는 지방정부 의견... ",
-			"pubDate":"Wed, 11 Nov 2026 21:24:00 +0900"
-		},
-		{
 			"title":"SSG, 단장 대신 ‘운영담당’ 도입… 김성용 R&amp;D팀장 선임",
 			"originallink":"https:\/\/www.kyeongin.com\/article\/1774605",
 			"link":"https:\/\/www.kyeongin.com\/article\/1774605",
 			"description":"김 운영담당은 “<b>청라<\/b> 시대라는 구단의 중요한 전환점을 앞두고 선수단 운영을 총괄하는 중책을 맡아 막중한 책임감을 느낀다”며 “선수들의 성장을 돕고 코칭스태프의 성공을 지원하는 한편, 운영 프런트의... ",
+			"pubDate":"Wed, 11 Nov 2026 21:24:00 +0900"
+		},
+		{
+			"title":"박찬대 인천시장, 5대 철도망 반영 총력…GTX-D·E 등 정부 설득",
+			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2026111121134765574c878f8fa1_30",
+			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2026111121134765574c878f8fa1_30",
+			"description":"인천=비욘드포스트 송인호 기자 박찬대 인천시장이 GTX-D·E와 대장홍대선 <b>청라<\/b> 연장 등 5대 핵심 철도사업의... 노선 ▲대장홍대선 <b>청라<\/b> 연장 ▲인천발 KTX 인천공항 연장 ▲인천신항선 등 5개다. 시는 지방정부 의견... ",
 			"pubDate":"Wed, 11 Nov 2026 21:24:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=122210",
 			"description":"시가 건의하는 사업은 수도권광역급행철도(GTX)-D Y자 노선, GTX-E 노선, 대장홍대선 <b>청라<\/b> 연장, 인천발 KTX 인천공항 연장, 인천신항선이다. 박 시장은 지방정부 의견 발표를 통해 지역 핵심 철도사업들이 수도권이라는... ",
 			"pubDate":"Wed, 11 Nov 2026 17:52:00 +0900"
-		},
-		{
-			"title":"선수 출신 단장 흐름 거스른 SSG...김재현 단장 손 놓고 프런트 출신 운...",
-			"originallink":"https:\/\/www.seoul.co.kr\/news\/sport\/baseball\/2026\/11\/11\/20261111500374?wlog_tag3=naver",
-			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/081\/0003698377",
-			"description":"김 담당은 “<b>청라<\/b> 시대라는 구단의 중요한 전환점을 앞두고 선수단 운영을 총괄하는 중책을 맡겨 주신 구단에 깊이 감사드린다. 선수들의 성장을 돕고 프런트의 전문성과 역량을 높이는 데 전력을 다하겠다”고... ",
-			"pubDate":"Wed, 11 Nov 2026 17:50:00 +0900"
 		}
 	]
 }
