@@ -1,9 +1,51 @@
 {
-	"lastBuildDate":"Wed, 11 Nov 2026 14:10:00 +0900",
-	"total":313404,
+	"lastBuildDate":"Wed, 11 Nov 2026 14:20:01 +0900",
+	"total":313409,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"하나금융, '모두하나데이' 시작…취약계층 나눔 확대",
+			"originallink":"https:\/\/www.kfenews.co.kr\/news\/articleView.html?idxno=667924",
+			"link":"https:\/\/www.kfenews.co.kr\/news\/articleView.html?idxno=667924",
+			"description":"<b>청라<\/b>·명동·을지로·강남·여의도 등 그룹 사옥 로비에는 1회 3000원씩 카드 결제로 기부할 수 있는 키오스크를 설치한다. 기부금은 장애 등으로 일상생활이 어려운 가족을 돌보면서 생계까지 책임지는 가족돌봄아동... ",
+			"pubDate":"Wed, 11 Nov 2026 14:18:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, 연말 사회공헌 캠페인 '2026 모두하나데이' 전개...취약계...",
+			"originallink":"https:\/\/www.redian.org\/news\/articleView.html?idxno=257636",
+			"link":"https:\/\/www.redian.org\/news\/articleView.html?idxno=257636",
+			"description":"'모두의 기부' 캠페인은 <b>청라<\/b>·명동·을지로·강남·여의도 등 그룹 사옥 로비에 설치된 기부 키오스크를 통해 참여할 수 있다. 카드결제 방식으로 1회 3,000원을 기부하는 방식이며, 모금액은 장애 등으로 일상생활이... ",
+			"pubDate":"Wed, 11 Nov 2026 14:14:00 +0900"
+		},
+		{
+			"title":"함영주 회장, 임직원 250명과 김장 봉사…하나금융, 연말 나눔 릴레이 시...",
+			"originallink":"https:\/\/www.techm.kr\/news\/articleView.html?idxno=157209",
+			"link":"https:\/\/www.techm.kr\/news\/articleView.html?idxno=157209",
+			"description":"명동과 을지로, 강남, 여의도, <b>청라<\/b> 등 주요 그룹 사옥에 기부 키오스크를 설치해 누구나 카드결제로 3000원씩 기부할 수 있도록 했다. 모인 기부금은 가족을 돌보면서 생계까지 책임지는 가족돌봄아동을 지원하는 데... ",
+			"pubDate":"Wed, 11 Nov 2026 14:14:00 +0900"
+		},
+		{
+			"title":"하나금융, 김장김치 1만1111포기 전달",
+			"originallink":"http:\/\/www.press9.kr\/news\/articleView.html?idxno=86041",
+			"link":"http:\/\/www.press9.kr\/news\/articleView.html?idxno=86041",
+			"description":"하나금융은 <b>청라<\/b>·명동·을지로·강남·여의도 사옥 로비에 기부 키오스크를 설치하고 1회 3000원씩 카드결제로 모은 금액을 가족돌봄아동 지원에 활용한다. 자원순환 캠페인에서는 소형 전자기기를 수거하고 하나은행... ",
+			"pubDate":"Wed, 11 Nov 2026 14:12:00 +0900"
+		},
+		{
+			"title":"&quot;하나의 온기에서 모두의 행복으로&quot; 하나금융, 두달간 '모두하나데이'",
+			"originallink":"https:\/\/www.fnnews.com\/news\/202611110838117103",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005602680?sid=101",
+			"description":"<b>청라<\/b>·명동·을지로·강남·여의도 그룹 사옥 로비에는 카드로 한 번에 3000원씩 기부할 수 있는 키오스크를 설치한다. 기부금은 가족을 돌보며 생계까지 책임지는 가족돌봄아동 지원에 쓰인다. 사용하지 않는 전자기기... ",
+			"pubDate":"Wed, 11 Nov 2026 14:10:00 +0900"
+		},
+		{
+			"title":"하나금융그룹, '2026 모두하나데이' 닻 올렸다…임직원 릴레이 나눔 시...",
+			"originallink":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=93835",
+			"link":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=93835",
+			"description":"하나금융은 내년 1월 11일까지 <b>청라<\/b>, 명동, 을지로, 강남, 여의도 등 주요 그룹사 사옥 로비에 카드결제 방식으로 쉽게 기부할 수 있는 '기부 키오스크'를 설치해 가족돌봄아동을 지원한다. 아울러 소형 및 대형 전자기기를... ",
+			"pubDate":"Wed, 11 Nov 2026 14:06:00 +0900"
+		},
 		{
 			"title":"이마트, 3Q 영업익 전년比 70%↓…스타벅스 적자·건설 부진 '발목'",
 			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=579418&class=17&grp=",
@@ -30,13 +72,6 @@
 			"originallink":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=67525",
 			"link":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=67525",
 			"description":"우선 <b>청라<\/b>·명동·을지로·강남·여의도 등 주요 그룹 사옥 로비에는 '기부 키오스크'가 설치된다. 누구나 1회 3,000원을 카드 결제로 손쉽게 기부할 수 있으며, 모인 성금은 장애 등으로 가족을 돌보며 생계를 책임지는... ",
-			"pubDate":"Wed, 11 Nov 2026 14:06:00 +0900"
-		},
-		{
-			"title":"하나금융그룹, '2026 모두하나데이' 닻 올렸다…임직원 릴레이 나눔 시...",
-			"originallink":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=93835",
-			"link":"https:\/\/www.thefairnews.co.kr\/news\/articleView.html?idxno=93835",
-			"description":"하나금융은 내년 1월 11일까지 <b>청라<\/b>, 명동, 을지로, 강남, 여의도 등 주요 그룹사 사옥 로비에 카드결제 방식으로 쉽게 기부할 수 있는 '기부 키오스크'를 설치해 가족돌봄아동을 지원한다. 아울러 소형 및 대형 전자기기를... ",
 			"pubDate":"Wed, 11 Nov 2026 14:06:00 +0900"
 		},
 		{
@@ -178,41 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0003058463?sid=101",
 			"description":"SGC이앤씨가 인천 서구 <b>청라<\/b>동 일원에 시공한 주상복합 오피스텔 ‘<b>청라<\/b> 더리브 티아모 까사’가 회사보유분 잔여 호실을 대상으로 선착순 계약을 진행하고 있다. 공급 대상은 전용면적 76㎡와 84㎡ 타입으로, 잔금유예... ",
 			"pubDate":"Wed, 11 Nov 2026 11:52:00 +0900"
-		},
-		{
-			"title":"하나금융, 사회공헌 캠페인 시작-'사랑의 김장김치' 1만1111포기 나눔",
-			"originallink":"http:\/\/www.techholic.co.kr\/news\/articleView.html?idxno=223623",
-			"link":"http:\/\/www.techholic.co.kr\/news\/articleView.html?idxno=223623",
-			"description":"인천 <b>청라<\/b>와 서울 명동ㆍ을지로ㆍ강남ㆍ여의도 등 주요 그룹 사옥에 가족돌봄아동 지원을 위한 기부 키오스크를 설치한다. 기부는 1회 3000원씩 카드 결제하는 방식으로 진행된다. 아울러 그룹 사옥 로비에 설치된... ",
-			"pubDate":"Wed, 11 Nov 2026 11:48:00 +0900"
-		},
-		{
-			"title":"[현장] 하나금융, '모두하나데이' 시작…김장김치 1만1111포기 취약계층...",
-			"originallink":"https:\/\/www.news2day.co.kr\/article\/20261111500148",
-			"link":"https:\/\/www.news2day.co.kr\/article\/20261111500148",
-			"description":"하나금융은 <b>청라<\/b>·명동·을지로·강남·여의도 등 주요 사옥 로비에 기부 키오스크를 설치하고, 카드 결제를 통해 1회당 3000원씩 기부금을 모금한다. 모금액은 가족을 돌보며 생계를 책임지는 가족돌봄아동 지원에... ",
-			"pubDate":"Wed, 11 Nov 2026 11:44:00 +0900"
-		},
-		{
-			"title":"&quot;신입사원에서 선수단 총괄까지&quot;…SSG, 김성용 신임 운영담당 임명",
-			"originallink":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=229676",
-			"link":"https:\/\/www.youthdaily.co.kr\/news\/article.html?no=229676",
-			"description":"김성용 신임 운영담당은 &quot;구단이 맞이할 <b>청라<\/b> 시대라는 새로운 분기점을 앞두고 선수단 지휘를 맡게 된 점에 대해 깊은 사의를 표명하는 동시에 엄중한 책임감을 체감한다&quot;라며 &quot;화려한 수식어보다는 소속 선수들의... ",
-			"pubDate":"Wed, 11 Nov 2026 11:34:00 +0900"
-		},
-		{
-			"title":"프로야구 SSG, 김성용 운영담당 선임… 김재현 단장 떠나",
-			"originallink":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=882106",
-			"link":"http:\/\/www.hansbiz.co.kr\/news\/articleView.html?idxno=882106",
-			"description":"김성용 운영담당은 &quot;<b>청라<\/b> 시대라는 구단의 중요한 전환점을 앞두고 선수단 운영을 총괄하는 중책을 맡겨 주신 구단에 깊이 감사드린다&quot;며 &quot;선수들의 성장을 돕고, 코치의 성공을 지원하고, 운영 프런트의 전문성과... ",
-			"pubDate":"Wed, 11 Nov 2026 11:34:00 +0900"
-		},
-		{
-			"title":"“실천하는 나눔, 사회 변화시키는 소중한 힘”",
-			"originallink":"https:\/\/biz.heraldcorp.com\/article\/10933562?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002721994?sid=101",
-			"description":"그룹 사옥(<b>청라<\/b>·명동·을지로·강남·여의도) 로비에 1회 3000원씩 카드결제 방식으로 기부에 참여할 수 있는 ‘기부 키오스크’를 설치해 장애 등으로 일상생활이 어려운 가족을 직접 돌보며 생계를 책임지는... ",
-			"pubDate":"Wed, 11 Nov 2026 11:30:00 +0900"
 		}
 	]
 }
