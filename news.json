@@ -1,5 +1,5 @@
 {
-	"lastBuildDate":"Fri, 13 Nov 2026 08:30:01 +0900",
+	"lastBuildDate":"Fri, 13 Nov 2026 08:40:01 +0900",
 	"total":313804,
 	"start":1,
 	"display":30,
@@ -61,17 +61,17 @@
 			"pubDate":"Fri, 13 Nov 2026 05:00:00 +0900"
 		},
 		{
-			"title":"[패트롤] 인천시-인천시교육청-인천도시공사-인천시사회서비스원",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20261113020209137",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20261113020209137",
-			"description":"<b>청라<\/b>국제도시 연장사업의 개통 지연에 대한 우려가 이어지는 가운데 인천시가 지역 정치권, 시공사 최고경영진과 공정회복을 위한 공동 대응에 나섰다. 인천시(시장 박찬대)는 12일 시청 장미홀에서 서울7호선 <b>청라<\/b>국제도... ",
-			"pubDate":"Fri, 13 Nov 2026 04:36:00 +0900"
-		},
-		{
 			"title":"[패트롤] 인천시의회 신영희-양인모-윤희정-이범석-이연주-김동민",
 			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20261113025029151",
 			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20261113025029151",
 			"description":"양 의원은 <b>청라<\/b> 2만3천석 규모 공연장과 영종도 인스파이어 아레나 등 기존 시설과의 중복투자 및 운영 적자 가능성을 제기했다. 이어 공모에서 탈락할 경우를 대비한 '플랜B' 마련을 요구했다. 또 송도에 유치를 추진... ",
+			"pubDate":"Fri, 13 Nov 2026 04:36:00 +0900"
+		},
+		{
+			"title":"[패트롤] 인천시-인천시교육청-인천도시공사-인천시사회서비스원",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20261113020209137",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20261113020209137",
+			"description":"<b>청라<\/b>국제도시 연장사업의 개통 지연에 대한 우려가 이어지는 가운데 인천시가 지역 정치권, 시공사 최고경영진과 공정회복을 위한 공동 대응에 나섰다. 인천시(시장 박찬대)는 12일 시청 장미홀에서 서울7호선 <b>청라<\/b>국제도... ",
 			"pubDate":"Fri, 13 Nov 2026 04:36:00 +0900"
 		},
 		{
@@ -152,13 +152,6 @@
 			"pubDate":"Thu, 12 Nov 2026 18:52:00 +0900"
 		},
 		{
-			"title":"포스코이앤씨, 2974억 규모 고창 해상풍력 착공",
-			"originallink":"https:\/\/www.kfenews.co.kr\/news\/articleView.html?idxno=668031",
-			"link":"https:\/\/www.kfenews.co.kr\/news\/articleView.html?idxno=668031",
-			"description":"또 인천 <b>청라<\/b>하늘대교와 베트남 항만공사 등에서 축적한 해상 시공 경험을 활용해 공정과 안전관리를 수행할 방침이다. 지역경제 파급효과도 관심사다. 포스코이앤씨는 이번 공사로 약 1만1800개의 일자리 창출 효과를... ",
-			"pubDate":"Thu, 12 Nov 2026 18:48:00 +0900"
-		},
-		{
 			"title":"포스코이앤씨, 76.2W 고창 해상풍력사업 이달 착공",
 			"originallink":"http:\/\/www.jjn.co.kr\/news\/articleView.html?idxno=1057168",
 			"link":"http:\/\/www.jjn.co.kr\/news\/articleView.html?idxno=1057168",
@@ -166,10 +159,17 @@
 			"pubDate":"Thu, 12 Nov 2026 18:48:00 +0900"
 		},
 		{
-			"title":"​하나은행, '글로벌 금융 체험 프로그램' 진행",
-			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160291853342390",
-			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160291853342390",
-			"description":"하나은행은 연수 기간 동안 인천 <b>청라<\/b>에 위치한 하나금융그룹 연수원인 ‘하나글로벌캠퍼스’를 숙소로 제공했다. 또한, 현장 중심의 체험형 프로그램을 구성했다. ​우선, 글로벌 청소년들은 서울 을지로 하나은행... ",
+			"title":"포스코이앤씨, 2974억 규모 고창 해상풍력 착공",
+			"originallink":"https:\/\/www.kfenews.co.kr\/news\/articleView.html?idxno=668031",
+			"link":"https:\/\/www.kfenews.co.kr\/news\/articleView.html?idxno=668031",
+			"description":"또 인천 <b>청라<\/b>하늘대교와 베트남 항만공사 등에서 축적한 해상 시공 경험을 활용해 공정과 안전관리를 수행할 방침이다. 지역경제 파급효과도 관심사다. 포스코이앤씨는 이번 공사로 약 1만1800개의 일자리 창출 효과를... ",
+			"pubDate":"Thu, 12 Nov 2026 18:48:00 +0900"
+		},
+		{
+			"title":"인천시의회 양인모 의원, K-컬처 스타디움 공모 탈락 대비책 촉구...운영...",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=658128",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=658128",
+			"description":"특히 <b>청라<\/b>에 추진되는 2만3천석 규모의 돔구장과 영종도 인스파이어 아레나의 1만~1만5천석 규모 공연시설을... 인천에는 <b>청라<\/b>와 영종도를 중심으로 대형 공연시설이 추진되거나 운영되고 있어 K-컬처 스타디움의 차별화된... ",
 			"pubDate":"Thu, 12 Nov 2026 18:36:00 +0900"
 		},
 		{
@@ -180,10 +180,10 @@
 			"pubDate":"Thu, 12 Nov 2026 18:36:00 +0900"
 		},
 		{
-			"title":"인천시의회 양인모 의원, K-컬처 스타디움 공모 탈락 대비책 촉구...운영...",
-			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=658128",
-			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=658128",
-			"description":"특히 <b>청라<\/b>에 추진되는 2만3천석 규모의 돔구장과 영종도 인스파이어 아레나의 1만~1만5천석 규모 공연시설을... 인천에는 <b>청라<\/b>와 영종도를 중심으로 대형 공연시설이 추진되거나 운영되고 있어 K-컬처 스타디움의 차별화된... ",
+			"title":"​하나은행, '글로벌 금융 체험 프로그램' 진행",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160291853342390",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160291853342390",
+			"description":"하나은행은 연수 기간 동안 인천 <b>청라<\/b>에 위치한 하나금융그룹 연수원인 ‘하나글로벌캠퍼스’를 숙소로 제공했다. 또한, 현장 중심의 체험형 프로그램을 구성했다. ​우선, 글로벌 청소년들은 서울 을지로 하나은행... ",
 			"pubDate":"Thu, 12 Nov 2026 18:36:00 +0900"
 		},
 		{
