@@ -1,9 +1,37 @@
 {
-	"lastBuildDate":"Fri, 13 Nov 2026 16:00:01 +0900",
-	"total":313847,
+	"lastBuildDate":"Fri, 13 Nov 2026 16:10:01 +0900",
+	"total":313851,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"5차 철도망 계획 12월 말 고시…지자체 &quot;우리 노선 담아달라&quot; 한목소리",
+			"originallink":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=374731",
+			"link":"https:\/\/www.electimes.com\/news\/articleView.html?idxno=374731",
+			"description":"경기도는 40개 노선의 반영을 요청했고, 인천은 GTX-D·E, 대장홍대선과 <b>청라<\/b> 연장, 인천발 KTX, 인천공항 연장 등 5개 사업을 요구했다. 서울은 철도 소외 지역 해소를 위한 6개 노선을 건의했다. 비수도권은 균형발전과... ",
+			"pubDate":"Fri, 13 Nov 2026 16:06:00 +0900"
+		},
+		{
+			"title":"서울7호선 <b>청라<\/b> 연장선 개통 지연에 따른 점검회의 개최",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=122264",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=122264",
+			"description":"인천시는 서울7호선 <b>청라<\/b>국제도시 연장사업의 개통 지연에 따른 종합대책을 점검하기 위해 13일 민관정... 한편, 인천시는 오는 11월 18일(수) 오후 7시 서해구 <b>청라<\/b>3동 행정복지센터에서 주민공청회를 개최하고 현재까지... ",
+			"pubDate":"Fri, 13 Nov 2026 16:06:00 +0900"
+		},
+		{
+			"title":"박찬대 인천시장 &quot;GTX-D Y자 노선 가장 시급&quot;…대장홍대선 <b>청라<\/b> 연장도 ...",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3040874",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3040874",
+			"description":"대장홍대선 <b>청라<\/b> 연장을 최우선 순위로 못 박았다. 박 시장은 13일 서울 동작구 전문건설회관에서... 대장홍대선 <b>청라<\/b>연장도 너무나 간절하다&quot;고 밝혔다. 시가 국토부에 건의한 사업은 ▲GTX-D(Y자 노선) ▲GTX-E... ",
+			"pubDate":"Fri, 13 Nov 2026 16:02:00 +0900"
+		},
+		{
+			"title":"7호선 <b>청라<\/b> 연장 지연 대책회의, 도시철도건설본부 책임론으로",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3040875",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3040875",
+			"description":"기호일보, KIHOILBO 김성중 행정부시장이 13일 시청 대회의실에서 열린 '서울7호선 <b>청라<\/b>국제도시 연장사업 민관정 협의체 제2차 전체회의'에서 인사말을 하고 있다. 서울7호선 <b>청라<\/b> 연장사업의 개통 지연 대책을 논의하는... ",
+			"pubDate":"Fri, 13 Nov 2026 16:02:00 +0900"
+		},
 		{
 			"title":"인천경제청 행감 자료 곳곳 오류…<b>청라<\/b>하늘대교 사업비도 불일치",
 			"originallink":"https:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=1106791",
@@ -19,17 +47,17 @@
 			"pubDate":"Fri, 13 Nov 2026 15:58:00 +0900"
 		},
 		{
-			"title":"대우건설, 수익성 중심 경영 성과…국내외 수주 확대",
-			"originallink":"http:\/\/www.lkp.news\/news\/articleView.html?idxno=86077",
-			"link":"http:\/\/www.lkp.news\/news\/articleView.html?idxno=86077",
-			"description":"대우건설은 3분기에 <b>청라<\/b> 국제업무단지 M5블록과 신이문역세권 재개발, 천호A1-1구역 재개발, 청파1구역 재개발 등 국내 건축 및 정비사업을 확보했다. 3분기 말 수주잔고는 지난해 말보다 8.4% 증가한 54조8550억원으로... ",
-			"pubDate":"Fri, 13 Nov 2026 15:32:00 +0900"
-		},
-		{
 			"title":"<b>청라<\/b>좋은한방병원, 이대서울병원•이대목동병원과 진료협력 협약 체결",
 			"originallink":"https:\/\/www.beopbo.com\/news\/articleView.html?idxno=338997",
 			"link":"https:\/\/www.beopbo.com\/news\/articleView.html?idxno=338997",
 			"description":"인천 <b>청라<\/b>좋은한방병원이 이화여자대학교 의료원 산하 이대서울병원•이대목동병원과 진료협력 협약을... <b>청라<\/b>좋은한방병원은 이번 협약을 통해 이대서울병원•이대목동병원과 환자 의뢰 및 회송, 진료 결과에 대한 회신... ",
+			"pubDate":"Fri, 13 Nov 2026 15:32:00 +0900"
+		},
+		{
+			"title":"대우건설, 수익성 중심 경영 성과…국내외 수주 확대",
+			"originallink":"http:\/\/www.lkp.news\/news\/articleView.html?idxno=86077",
+			"link":"http:\/\/www.lkp.news\/news\/articleView.html?idxno=86077",
+			"description":"대우건설은 3분기에 <b>청라<\/b> 국제업무단지 M5블록과 신이문역세권 재개발, 천호A1-1구역 재개발, 청파1구역 재개발 등 국내 건축 및 정비사업을 확보했다. 3분기 말 수주잔고는 지난해 말보다 8.4% 증가한 54조8550억원으로... ",
 			"pubDate":"Fri, 13 Nov 2026 15:32:00 +0900"
 		},
 		{
@@ -82,13 +110,6 @@
 			"pubDate":"Fri, 13 Nov 2026 14:54:00 +0900"
 		},
 		{
-			"title":"서울7호선 <b>청라<\/b> 연장 지연에 인천시 총력, 대체 버스↑공기 단축",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=484363",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=484363",
-			"description":"서울지하철 7호선 <b>청라<\/b>국제도시 연장사업 개통 지연이 현실화 한 가운데 인천시가 공사 기간을 최대한... 서울7호선 <b>청라<\/b> 연장 개통에 행정력을 집중하는 모습이다. 시는 오늘(13일) 시청 대회의실에서 서울7호선 <b>청라<\/b> 연장... ",
-			"pubDate":"Fri, 13 Nov 2026 14:50:00 +0900"
-		},
-		{
 			"title":"&quot;서울 출퇴근 63.6분&quot;… 인천시, 제5차 국가철도망에 5대 노선 반영 촉구",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363742424",
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363742424",
@@ -96,17 +117,24 @@
 			"pubDate":"Fri, 13 Nov 2026 14:50:00 +0900"
 		},
 		{
-			"title":"인천시, 서울7호선 <b>청라<\/b>국제도시 연장사업 개통 지연 대책 검토",
-			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2018337",
-			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2018337",
-			"description":"매일일보 = 이종민 기자 | 인천시는 13일 시청 대회의실에서 서울7호선 <b>청라<\/b>국제도시 연장사업의 개통 지연에... 인천시는 오는 11월 18일 오후 7시 서해구 <b>청라<\/b>3동 행정복지센터에서 주민 공청회를 개최하고 사업 추진... ",
-			"pubDate":"Fri, 13 Nov 2026 14:48:00 +0900"
+			"title":"서울7호선 <b>청라<\/b> 연장 지연에 인천시 총력, 대체 버스↑공기 단축",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=484363",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=484363",
+			"description":"서울지하철 7호선 <b>청라<\/b>국제도시 연장사업 개통 지연이 현실화 한 가운데 인천시가 공사 기간을 최대한... 서울7호선 <b>청라<\/b> 연장 개통에 행정력을 집중하는 모습이다. 시는 오늘(13일) 시청 대회의실에서 서울7호선 <b>청라<\/b> 연장... ",
+			"pubDate":"Fri, 13 Nov 2026 14:50:00 +0900"
 		},
 		{
 			"title":"인천시, 7호선 <b>청라<\/b> 연장 개통 지연 대책 점검··· 민관정 협의체 2차...",
 			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=326350",
 			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=326350",
 			"description":"인천투데이=인투아이(INTO-AI)·장호영 기자｜인천시는 13일 시청 대회의실에서 서울7호선 <b>청라<\/b>국제도시... 주민공청회로 의견 수렴, 연내 종합대책 마련 인천시는 오는 18일 오후 7시 서해구 <b>청라<\/b>3동 행정복지센터에서... ",
+			"pubDate":"Fri, 13 Nov 2026 14:48:00 +0900"
+		},
+		{
+			"title":"인천시, 서울7호선 <b>청라<\/b>국제도시 연장사업 개통 지연 대책 검토",
+			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2018337",
+			"link":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2018337",
+			"description":"매일일보 = 이종민 기자 | 인천시는 13일 시청 대회의실에서 서울7호선 <b>청라<\/b>국제도시 연장사업의 개통 지연에... 인천시는 오는 11월 18일 오후 7시 서해구 <b>청라<\/b>3동 행정복지센터에서 주민 공청회를 개최하고 사업 추진... ",
 			"pubDate":"Fri, 13 Nov 2026 14:48:00 +0900"
 		},
 		{
@@ -185,34 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/382\/0001304647?sid=102",
 			"description":"이날 간담회에는 구재용 서해구청장을 비롯해 서지영 구의원, 인천북항상가번영회장, <b>청라<\/b>IDC PFV 대표, 현대엔지니어링 현장소장 등 19명이 참석했다. 논의의 초점은 데이터센터 건립에 따른 주민 불안을 단순한 민원으로... ",
 			"pubDate":"Fri, 13 Nov 2026 11:47:00 +0900"
-		},
-		{
-			"title":"[영상+] 광역철도망 확보 ‘사활’ 건 지방정부… 박찬대 “인천의 경쟁...",
-			"originallink":"https:\/\/www.kyeongin.com\/article\/1774705",
-			"link":"https:\/\/www.kyeongin.com\/article\/1774705",
-			"description":"인천 역시 대장홍대선 <b>청라<\/b>연장선을 촉구하는 계양구 주민들이 현장을 찾아 해당 노선이 이번 계획에... 박 시장의 발표가 끝나자 계양구 주민들이 “대장홍대선 <b>청라<\/b> 연장 파이팅!”을 외치기도 했다. 이날 행사에서... ",
-			"pubDate":"Fri, 13 Nov 2026 11:32:00 +0900"
-		},
-		{
-			"title":"포스코이앤씨, 2974억원 규모 고창 해상풍력 공사 수주…이달 착공",
-			"originallink":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=326483",
-			"link":"https:\/\/www.thepublic.kr\/news\/articleView.html?idxno=326483",
-			"description":"아울러 인천 <b>청라<\/b>하늘대교와 베트남 항만공사 등 기존 해상공사에서 확보한 시공 경험을 활용할 예정이다. 이번 프로젝트는 포스코그룹이 추진하는 에너지 사업 확대 전략과도 맞닿아 있다. 앞서 포스코그룹은 지난 7월... ",
-			"pubDate":"Fri, 13 Nov 2026 11:26:00 +0900"
-		},
-		{
-			"title":"서해구, 원창동 데이터센터 건립 관련 상인·사업자 간담회",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=122251",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=122251",
-			"description":"간담회에는 구재용 서해구청장과 서지영 구의원, 인천북항상가번영회 관계자, 사업시행자인 <b>청라<\/b>IDC PFV 대표, 시공사인 현대엔지니어링 현장소장 등 19명이 참석했다. 인천북항상가번영회 측은 인근에 석유화학시설과... ",
-			"pubDate":"Fri, 13 Nov 2026 11:06:00 +0900"
-		},
-		{
-			"title":"박찬대 인천시장 &quot;대장홍대선 <b>청라<\/b> 연장 등 철도 5개 노선 절실&quot;",
-			"originallink":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=326335",
-			"link":"https:\/\/www.incheontoday.com\/news\/articleView.html?idxno=326335",
-			"description":"인천투데이=박규호 기자│박찬대 인천시장이 대장홍대선 <b>청라<\/b> 연장선 등 인천시가 국토교통부에 건의한... 인천시, 제2공항철도·대장홍대선 <b>청라<\/b> 연장 등 반영 건의 인천시는 제5차 국가철도망 구축계획에... ",
-			"pubDate":"Fri, 13 Nov 2026 10:58:00 +0900"
 		}
 	]
 }
