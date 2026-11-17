@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 18 Nov 2026 08:30:01 +0900",
-	"total":314011,
+	"lastBuildDate":"Wed, 18 Nov 2026 08:40:01 +0900",
+	"total":314012,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 도심·영종 누비는 2만 명 레이스… 국제마라톤 팡파르",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1716402\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0003156431?sid=102",
+			"description":"특히 풀코스는 영종구 운서역 일대에서 출발해 <b>청라<\/b>하늘대교를 통과한 뒤 인천아시아드 주경기장에... 오전 7시부터 오후 3시까지 운서역 일대와 영종대로, 하늘대로, <b>청라<\/b>하늘대교, 로봇랜드로, 국제대로, 봉수대로... ",
+			"pubDate":"Wed, 18 Nov 2026 08:34:00 +0900"
+		},
 		{
 			"title":"박찬대 인천시장 “인천은 저평가된 우량주…제값 찾아 시민께 돌려드릴...",
 			"originallink":"https:\/\/www.dt.co.kr\/article\/12095807?ref=naver",
@@ -206,13 +213,6 @@
 			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/109\/0005641542",
 			"description":"새로운 홈구장인 <b>청라<\/b>돔 시대를 앞두고 전력을 끌어올려야 할 이유도 있다. 역대급으로 뜨거운 스토브리그가 예상되는 가운데 SSG가 팬들을 놀라게 만들 영입을 성사시킬 수 있을지 이목이 집중된다.",
 			"pubDate":"Tue, 17 Nov 2026 09:11:00 +0900"
-		},
-		{
-			"title":"애나, 도시 전역 350여 채널 동시 관제 성공",
-			"originallink":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=409867",
-			"link":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=409867",
-			"description":"애나에 따르면 기존 관제 솔루션이 축제나 경기장 같은 단일 현장 단위로 운영된 반면 이번 사업은 송도·영종·<b>청라<\/b> 3개 지구에 2600여대의 CCTV 인프라를 갖추고 24시간 통합 관제를 운영하는 IFEZ 스마트시티 운영센터를... ",
-			"pubDate":"Tue, 17 Nov 2026 09:10:00 +0900"
 		}
 	]
 }
