@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 17 Nov 2026 11:50:01 +0900",
-	"total":313993,
+	"lastBuildDate":"Tue, 17 Nov 2026 12:00:01 +0900",
+	"total":313994,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"박찬대 &quot;출퇴근 짧아야 인생 길어져&quot;...인천 5개 철도사업 요청 [PHOTO]",
+			"originallink":"https:\/\/www.redaily.co.kr\/news\/articleView.html?idxno=18229",
+			"link":"https:\/\/www.redaily.co.kr\/news\/articleView.html?idxno=18229",
+			"description":"이날 행사에서 박찬대 인천시장은 인천 시민들의 출퇴근 불편과 수도권 서부의 교통 불균형을 언급하며 GTX-D·E 노선과 대장홍대선 <b>청라<\/b> 연장, 인천발 KTX 인천공항 연장과 인천신항선 등 인천이 건의한 5개 철도사업의... ",
+			"pubDate":"Tue, 17 Nov 2026 11:54:00 +0900"
+		},
 		{
 			"title":"FA 시장 첫날은 ‘집토끼’부터… 두산은 안방, SSG는 살림꾼 지켰다",
 			"originallink":"https:\/\/www.sportsworldi.com\/newsView\/20261117508034",
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=443096",
 			"description":"영종국제도시총연합회, <b>청라<\/b>미래연합회, 루원총연합회, 수도권매립지종료주민대책위원회, 오류지구연합회, 인천시민생명권보장비상대책위원회, <b>청라<\/b>국제도시카페, IFEZ 총연합회, 인천광역시총연합회... ",
 			"pubDate":"Mon, 16 Nov 2026 17:00:00 +0900"
-		},
-		{
-			"title":"IFEZ 전역 350여 채널 동시 관제시스템 개발.. &quot;내달 현장 실증 진행&quot;",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=122319",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=122319",
-			"description":"기존 관제 솔루션이 축제나 경기장 같은 단일 현장 단위로 운영된 반면, 이번 사업은 송도·영종·<b>청라<\/b> 3개 지구에 2,600여 대의 CCTV 인프라를 갖추고 24시간 통합 관제를 운영하는 IFEZ 스마트시티 운영센터를 실증 장소로... ",
-			"pubDate":"Mon, 16 Nov 2026 16:56:00 +0900"
 		}
 	]
 }
