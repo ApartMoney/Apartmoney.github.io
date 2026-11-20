@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Sat, 21 Nov 2026 00:10:01 +0900",
-	"total":314351,
+	"lastBuildDate":"Sat, 21 Nov 2026 00:20:00 +0900",
+	"total":314352,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천환경공단, 취약계층 생필품 기부 및 도서 875권 기증",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=728849",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=728849",
+			"description":"□ '꽃이랑 책이랑' 수집 도서 875권 기증 인천환경공단 <b>청라<\/b>사업소가 시민참여형 환경행사인 '2026 꽃이랑 책이랑'을 통해 모은 도서 875권을 19일 서해구시설공단 신석도서관에 전달했다. 인천환경공단 <b>청라<\/b>사업소가... ",
+			"pubDate":"Sat, 21 Nov 2026 00:12:00 +0900"
+		},
 		{
 			"title":"11\/21~ 11\/22 이마트·홈플러스·롯데마트·코스트코, 휴무일·영업시간...",
 			"originallink":"http:\/\/www.newskr.kr\/news\/articleView.html?idxno=108184",
@@ -40,17 +47,17 @@
 			"pubDate":"Fri, 20 Nov 2026 18:12:00 +0900"
 		},
 		{
-			"title":"우후죽순 늘어나는 데이터센터에... 인천 곳곳서 파열음",
-			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=122451",
-			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=122451",
-			"description":"이 데이터센터는 지상 11층 50MW급 규모로 이도테라원이 설립한 <b>청라<\/b>IDC PFV가 시행하고 현대엔지니어링이 시공한다. 주민들은 화재·전자파·소음 우려와 상권 위축, 재산권 침해를 우려하며 투명한 정보공개와 객관적... ",
-			"pubDate":"Fri, 20 Nov 2026 18:00:00 +0900"
-		},
-		{
 			"title":"&quot;DFI 진출 기념 굿즈 쏟아진다!&quot; PC방 창업 대세 레드포스PC방, '슈퍼 위...",
 			"originallink":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=68166",
 			"link":"http:\/\/www.newsroad.co.kr\/news\/articleView.html?idxno=68166",
 			"description":"행사 기간 동안 잠실새내, 하남신장, 구로디지털, 이매, 목동역, 삼전역, 수원인계, 진접, <b>청라<\/b>, 신촌 등 10개 지정 매장에서는 라면과 음료로 구성된 '델타포스 세트'를 한정 판매한다. 세트 구매 고객에게는 매장당... ",
+			"pubDate":"Fri, 20 Nov 2026 18:00:00 +0900"
+		},
+		{
+			"title":"우후죽순 늘어나는 데이터센터에... 인천 곳곳서 파열음",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=122451",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=122451",
+			"description":"이 데이터센터는 지상 11층 50MW급 규모로 이도테라원이 설립한 <b>청라<\/b>IDC PFV가 시행하고 현대엔지니어링이 시공한다. 주민들은 화재·전자파·소음 우려와 상권 위축, 재산권 침해를 우려하며 투명한 정보공개와 객관적... ",
 			"pubDate":"Fri, 20 Nov 2026 18:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.jasm.co.kr\/news\/view\/325969\/?sc=Naver",
 			"description":"공단 <b>청라<\/b>사업소는 19일 '2026 꽃이랑 책이랑' 행사를 통해 수집한 도서 875권을 서해구시설공단 신석도서관에... 올해 행사는 지난 10월 12일부터 16일까지 <b>청라<\/b>사업소 온실 앞에서 인천지역 어린이집과 유치원 등을... ",
 			"pubDate":"Fri, 20 Nov 2026 14:28:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 아크원 푸르지오, 11월 22~24일 정당계약 진행",
-			"originallink":"http:\/\/www.wowtv.co.kr\/NewsCenter\/News\/Read?articleId=A202611200066&t=NN",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/215\/0001273384?sid=101",
-			"description":"인천 <b>청라<\/b>국제업무단지에 들어서는 ‘<b>청라<\/b> 아크원 푸르지오’가 오는 22일부터 24일까지 사흘간 정당계약을 진행한다. <b>청라<\/b>스마트시티가 시행하고 대우건설이 시공하는 해당 단지는 인천 <b>청라<\/b>국제업무단지 M5블록에... ",
-			"pubDate":"Fri, 20 Nov 2026 13:35:00 +0900"
 		}
 	]
 }
