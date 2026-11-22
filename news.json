@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Mon, 23 Nov 2026 08:30:01 +0900",
-	"total":313306,
+	"lastBuildDate":"Mon, 23 Nov 2026 08:40:01 +0900",
+	"total":313307,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"인천 제물포구는 ‘개항장 관광’, 영종구는 ‘공항경제’, 검단구는 ‘...",
+			"originallink":"https:\/\/www.munhwa.com\/article\/11633187?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/021\/0002834649?sid=102",
+			"description":"제물포구는 인천지하철 3호선이 개통하면 송도 도심·<b>청라<\/b> 부도심과, 영종구는 <b>청라<\/b>하늘대교를 통해 <b>청라<\/b>국제도시와 더 가까워진다. 검단구는 김포시까지 아우르는 광역생활 중심지로 클 가능성이 있다고 연구진은... ",
+			"pubDate":"Mon, 23 Nov 2026 08:30:00 +0900"
+		},
 		{
 			"title":"<b>청라<\/b>하늘대교 질주…인천마라톤 성황리 마쳐",
 			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=243879",
@@ -173,17 +180,17 @@
 			"pubDate":"Sun, 22 Nov 2026 16:40:00 +0900"
 		},
 		{
-			"title":"‘2026 인천마라톤’ 2만여 명 참가 속 성료…영종·<b>청라<\/b> 달군 스포츠 축...",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=920611",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=920611",
-			"description":"11개국 엘리트 107명·마스터스 2만 명 참가 <b>청라<\/b>하늘대교 등 도심·해상 코스 질주 인천시가 국내외... 특히 올해 풀코스는 구 운서역 일원에서 출발해 <b>청라<\/b>하늘대교를 건너 인천아시아드 주경기장으로 이어지는 코스로... ",
-			"pubDate":"Sun, 22 Nov 2026 16:22:00 +0900"
-		},
-		{
 			"title":"서해 바다 위 4.68km 가른 2만 건각… '2026 인천마라톤' 성황",
 			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20261122010007513",
 			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20261122010007513",
 			"description":"올해 초 개통한 해상교량 '<b>청라<\/b>하늘대교'와 지난 7월 새롭게 출범한 영종구·서해구 일대가 2만여 명의... 특히 풀코스 구간은 영종구 운서역 인근에서 출발해 총연장 약 4.68km의 <b>청라<\/b>하늘대교를 건너 인천아시아드... ",
+			"pubDate":"Sun, 22 Nov 2026 16:22:00 +0900"
+		},
+		{
+			"title":"‘2026 인천마라톤’ 2만여 명 참가 속 성료…영종·<b>청라<\/b> 달군 스포츠 축...",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=920611",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=920611",
+			"description":"11개국 엘리트 107명·마스터스 2만 명 참가 <b>청라<\/b>하늘대교 등 도심·해상 코스 질주 인천시가 국내외... 특히 올해 풀코스는 구 운서역 일원에서 출발해 <b>청라<\/b>하늘대교를 건너 인천아시아드 주경기장으로 이어지는 코스로... ",
 			"pubDate":"Sun, 22 Nov 2026 16:22:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3041710",
 			"description":"&lt;인천시청 제공&gt; 22일 열린 '2026 인천마라톤' 풀코스 주자들이 올해 1월 개통한 <b>청라<\/b>하늘대교를 건너 인천아시아드주경기장 결승선으로 향했다. 이 다리가 마라톤 풀코스에 포함된 것은 이번이 처음이다. 인천시와... ",
 			"pubDate":"Sun, 22 Nov 2026 15:24:00 +0900"
-		},
-		{
-			"title":"문승원, 원 소속팀 SSG와 계약... 사실상 '원클럽맨' 예약",
-			"originallink":"https:\/\/www.stnsports.co.kr\/news\/articleView.html?idxno=325882",
-			"link":"https:\/\/m.sports.naver.com\/kbaseball\/article\/450\/0000155620",
-			"description":"물론 최근 계약을 마친 최지훈과 함께 오는 2028년 <b>청라<\/b> 시대의 일원으로서 함께 하게 됐다. SSG는 &quot;문승원은 그간 팀에서 선발과 불펜, 마무리까지 전천후 보직을 소화하며 팀이 필요로 하는 역할을 묵묵히 수행하는... ",
-			"pubDate":"Sun, 22 Nov 2026 13:40:00 +0900"
 		}
 	]
 }
