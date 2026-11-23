@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Tue, 24 Nov 2026 08:30:01 +0900",
-	"total":314478,
+	"lastBuildDate":"Tue, 24 Nov 2026 08:40:01 +0900",
+	"total":314480,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"&quot;회장님들은 좋겠네&quot;…GV90, 길 막혀도 내리기 싫다 [타봤어요]",
+			"originallink":"https:\/\/www.edaily.co.kr\/News\/Read?newsId=01922086645649000&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006414485?sid=103",
+			"description":"지난 19일 GV90을 타고 가산디지털단지를 출발해 서울 강변역, 충정로역, 인천 <b>청라<\/b>국제도시를 거쳐 다시... 서울 도심에서 <b>청라<\/b>국제도시까지 출력을 아낌없이 끌어낸 구간에서도 3.3㎞\/kWh가 나왔다. 총용량 123.5kWh의 대형... ",
+			"pubDate":"Tue, 24 Nov 2026 08:32:00 +0900"
+		},
+		{
+			"title":"일주일 세 번, 네 시간의 치료…혈액투석 환자의 일상까지 지킨다",
+			"originallink":"https:\/\/kormedi.com\/?p=2910563",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/296\/0000107724?sid=103",
+			"description":"도시철도 2호선 <b>청라<\/b>언덕역과 3호선 서문시장역에서 가까워 대중교통 접근성이 뛰어나며, 월·수·금요일에는 오후 10시까지 야간 투석을 운영한다. 직장인에게는 퇴근 후 치료를 이어갈 수 있는 선택지가 되고, 낮에... ",
+			"pubDate":"Tue, 24 Nov 2026 08:31:00 +0900"
+		},
 		{
 			"title":"입주 코앞인데 철도망 '깜깜'…&quot;대장홍대선 연장 시급&quot;",
 			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=244012",
@@ -110,13 +124,6 @@
 			"pubDate":"Mon, 23 Nov 2026 18:34:00 +0900"
 		},
 		{
-			"title":"인천 계양테크노밸리 입주 코앞인데 교통 고립 우려",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485267",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485267",
-			"description":"계양·<b>청라<\/b> 연장과 GTX-D Y자노선과 E노선의 제5차 국가철도망 구축계획 반영 전략, 그리고 계양테크노밸리... 인천 서북부권 숙원인 대장홍대선 계양·<b>청라<\/b> 연장과 GTX-D·E 노선의 제5차 국가철도망 구축계획 반영 문제도... ",
-			"pubDate":"Mon, 23 Nov 2026 18:00:00 +0900"
-		},
-		{
 			"title":"서해구립소년소녀합창단 운영 중단 위기…구재용 서해구청장 &quot;살릴 방법...",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363743365",
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363743365",
@@ -128,6 +135,13 @@
 			"originallink":"https:\/\/www.newstnt.com\/news\/articleView.html?idxno=730003",
 			"link":"https:\/\/www.newstnt.com\/news\/articleView.html?idxno=730003",
 			"description":"<b>청라<\/b>IC 진출입로 확장사업에 대해서도 이미 공사가 진행 중인 사업을 신규 공약의 준공 목표에 포함한 것이 적절한지 검토해야 한다고 지적했다. ◆ 집행부 &quot;실천계획 미확정&quot;…공약목록·이행기준 재검토 방침 김 의원은... ",
+			"pubDate":"Mon, 23 Nov 2026 18:00:00 +0900"
+		},
+		{
+			"title":"인천 계양테크노밸리 입주 코앞인데 교통 고립 우려",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485267",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485267",
+			"description":"계양·<b>청라<\/b> 연장과 GTX-D Y자노선과 E노선의 제5차 국가철도망 구축계획 반영 전략, 그리고 계양테크노밸리... 인천 서북부권 숙원인 대장홍대선 계양·<b>청라<\/b> 연장과 GTX-D·E 노선의 제5차 국가철도망 구축계획 반영 문제도... ",
 			"pubDate":"Mon, 23 Nov 2026 18:00:00 +0900"
 		},
 		{
@@ -180,17 +194,17 @@
 			"pubDate":"Mon, 23 Nov 2026 16:56:00 +0900"
 		},
 		{
-			"title":"[다시보기] 헬로tv뉴스 수도권 2026년 11월 23일",
-			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=563400",
-			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=563400",
-			"description":"1. 박찬대 &quot;대장홍대선 <b>청라<\/b> 연장 위해 최선&quot; 2. 시민대책위, 김포FC 출연동의안 부결 요구 3. 부천데이터센터 특고압 갈등 공동대응 제안 4. &quot;멈추지 마세요&quot;…119 영상통화의 기적",
-			"pubDate":"Mon, 23 Nov 2026 16:54:00 +0900"
-		},
-		{
 			"title":"서해구청장 공약 123개 검증…‘임기 초 100% 달성’·기존 사업 재탕 논...",
 			"originallink":"https:\/\/www.viva100.com\/article\/20261123501312",
 			"link":"https:\/\/www.viva100.com\/article\/20261123501312",
 			"description":"이미 착공해 진행 중인 <b>청라<\/b>IC 진출입로 확장사업의 경우 현 구청장 공약 실천계획에 공사 준공이 새로운 목표로 제시됐다. 기존 사업과 신규 공약의 경계가 불분명해지면서 공약의 차별성과 실제 이행 성과를 객관적으로... ",
+			"pubDate":"Mon, 23 Nov 2026 16:54:00 +0900"
+		},
+		{
+			"title":"[다시보기] 헬로tv뉴스 수도권 2026년 11월 23일",
+			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=563400",
+			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=563400",
+			"description":"1. 박찬대 &quot;대장홍대선 <b>청라<\/b> 연장 위해 최선&quot; 2. 시민대책위, 김포FC 출연동의안 부결 요구 3. 부천데이터센터 특고압 갈등 공동대응 제안 4. &quot;멈추지 마세요&quot;…119 영상통화의 기적",
 			"pubDate":"Mon, 23 Nov 2026 16:54:00 +0900"
 		},
 		{
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.peoplewatch.co.kr\/article\/view\/ppw202611230016",
 			"description":"특히 인천에서는 <b>청라<\/b>에 그룹 본사를 이전한 하나금융그룹 계열 하나은행의 도전을 막아냈다. 치열한 경쟁 속에서 대규모 기관 자금 관리 기반을 유지했다는 점에서 정 행장의 경영 성과를 평가할 때 빼놓기 어려운... ",
 			"pubDate":"Mon, 23 Nov 2026 16:48:00 +0900"
-		},
-		{
-			"title":"인천시의회, 연일 재외동포청 이전 ‘소극 대응’ 질타…계양TV 교통대...",
-			"originallink":"https:\/\/www.kyeonggi.com\/article\/20261123580384",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/666\/0000133398?sid=100",
-			"description":"이어 이를 위해 조 시의원은 대장홍대선 <b>청라<\/b>연장선의 제5차 국가철도망구축계획 반영을 촉구했다. 그는 “대장홍대선 <b>청라<\/b> 연장이 이번 국가철도망 구축계획에 반영되지 못하면 서북부 주민들은 5년을 더 기다려야... ",
-			"pubDate":"Mon, 23 Nov 2026 16:46:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 7호선 개통 앞당긴다지만…추가 비용 1천억 원대",
-			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=243969",
-			"link":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=243969",
-			"description":"인천시가 서울지하철 7호선 <b>청라<\/b> 연장 구간의 개통 시점을 2029년 11월로 앞당기겠다는 계획을 내놨습니다.... [기사내용] 서울지하철 7호선 <b>청라<\/b> 연장선 공사 현장입니다. 인천시는 당초 2030년 4월로 예상했던 1단계 개통... ",
-			"pubDate":"Mon, 23 Nov 2026 16:44:00 +0900"
 		}
 	]
 }
