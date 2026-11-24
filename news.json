@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Tue, 24 Nov 2026 09:50:01 +0900",
-	"total":314484,
+	"lastBuildDate":"Tue, 24 Nov 2026 10:00:01 +0900",
+	"total":314485,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"김현경 인천외국인지원센터장 &quot;인천은 세계와 연결된 기회의 도시&quot;",
+			"originallink":"https:\/\/www.news1.kr\/local\/incheon\/6363805",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0009306377?sid=102",
+			"description":"참가자들은 차이나타운과 한국이민사박물관, 인천개항장, <b>청라<\/b>하늘대교 전망대(더스카이184), G타워 전망대, 송도센트럴파크, 월미도 등을 둘러본다. 또 형지글로벌패션복합센터와 무신사 스탠다드 트리플스트리트... ",
+			"pubDate":"Tue, 24 Nov 2026 09:53:00 +0900"
+		},
 		{
 			"title":"&quot;분양공고엔 없었다&quot;…당산 아파트 125m 앞 데이터센터, 계약 5일 전 건...",
 			"originallink":"http:\/\/www.newskr.kr\/news\/articleView.html?idxno=108250",
@@ -152,13 +159,6 @@
 			"pubDate":"Mon, 23 Nov 2026 18:34:00 +0900"
 		},
 		{
-			"title":"인천 계양테크노밸리 입주 코앞인데 교통 고립 우려",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485267",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485267",
-			"description":"계양·<b>청라<\/b> 연장과 GTX-D Y자노선과 E노선의 제5차 국가철도망 구축계획 반영 전략, 그리고 계양테크노밸리... 인천 서북부권 숙원인 대장홍대선 계양·<b>청라<\/b> 연장과 GTX-D·E 노선의 제5차 국가철도망 구축계획 반영 문제도... ",
-			"pubDate":"Mon, 23 Nov 2026 18:00:00 +0900"
-		},
-		{
 			"title":"서해구립소년소녀합창단 운영 중단 위기…구재용 서해구청장 &quot;살릴 방법...",
 			"originallink":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363743365",
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363743365",
@@ -170,6 +170,13 @@
 			"originallink":"https:\/\/www.newstnt.com\/news\/articleView.html?idxno=730003",
 			"link":"https:\/\/www.newstnt.com\/news\/articleView.html?idxno=730003",
 			"description":"<b>청라<\/b>IC 진출입로 확장사업에 대해서도 이미 공사가 진행 중인 사업을 신규 공약의 준공 목표에 포함한 것이 적절한지 검토해야 한다고 지적했다. ◆ 집행부 &quot;실천계획 미확정&quot;…공약목록·이행기준 재검토 방침 김 의원은... ",
+			"pubDate":"Mon, 23 Nov 2026 18:00:00 +0900"
+		},
+		{
+			"title":"인천 계양테크노밸리 입주 코앞인데 교통 고립 우려",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485267",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485267",
+			"description":"계양·<b>청라<\/b> 연장과 GTX-D Y자노선과 E노선의 제5차 국가철도망 구축계획 반영 전략, 그리고 계양테크노밸리... 인천 서북부권 숙원인 대장홍대선 계양·<b>청라<\/b> 연장과 GTX-D·E 노선의 제5차 국가철도망 구축계획 반영 문제도... ",
 			"pubDate":"Mon, 23 Nov 2026 18:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.joongboo.com\/news\/articleView.html?idxno=363743345",
 			"description":"사진=인천시의회 서울도시철도 7호선 <b>청라<\/b>연장선(<b>청라<\/b>7호선) 사업이 불투명한 공정 관리와 공기 지연 은폐 의혹으로 표류하며 주민 불신을 키우고 있다는 지적이 나왔다. 최병은 의원(민·서해)은 23일 인천시의회 제314회... ",
 			"pubDate":"Mon, 23 Nov 2026 17:14:00 +0900"
-		},
-		{
-			"title":"<b>청라<\/b> 7호선 개통 앞당긴다지만…추가 비용 1천억 원대",
-			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=243977",
-			"link":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=243977",
-			"description":"서울지하철 7호선 <b>청라<\/b> 연장선 공사 현장입니다. 인천시는 당초 2030년 4월로 예상했던 1단계 개통 시점을... 인천시는 기존 제작업체 다원시스에 <b>청라<\/b> 연장선 전동차 대금으로 473억 원을 지급했지만, 아직 차량을 한 대도... ",
-			"pubDate":"Mon, 23 Nov 2026 17:06:00 +0900"
 		}
 	]
 }
