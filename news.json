@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 25 Nov 2026 09:00:01 +0900",
-	"total":314540,
+	"lastBuildDate":"Wed, 25 Nov 2026 09:10:01 +0900",
+	"total":314541,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"반도건설, '계양신도시 카이브 유보라' 정당계약 진행…계약금 5% 적용",
+			"originallink":"https:\/\/sports.hankooki.com\/news\/articleView.html?idxno=6944094",
+			"link":"https:\/\/sports.hankooki.com\/news\/articleView.html?idxno=6944094",
+			"description":"대장홍대선의 계양·<b>청라<\/b> 및 계양테크노밸리 연장안이 제5차 국가철도망 구축계획 반영 과제로 거론되는... 이에 인천 계양구도 대장홍대선 계양·<b>청라<\/b> 연장과 계양테크노밸리 철도 연결을 추진하고 있다. 계양구는... ",
+			"pubDate":"Wed, 25 Nov 2026 09:00:00 +0900"
+		},
 		{
 			"title":"[인천 에너지정책] 수도권 데이터센터 규제 강화 … 인천 해상풍력 연계...",
 			"originallink":"http:\/\/www.incheonnews.com\/news\/articleView.html?idxno=443524",
@@ -159,17 +166,17 @@
 			"pubDate":"Tue, 24 Nov 2026 16:06:00 +0900"
 		},
 		{
-			"title":"신세계건설, BIM 분야 국내 공모전 '대상' 수상···'스마트건설' 기술...",
-			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2496440",
-			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2496440",
-			"description":"이번 수상작은 현재 시공중인 스타필드 <b>청라<\/b> 현장에 적용된 BIM기반 설계·시공 통합 관리 체계를 중심으로 한다. 스타필드 <b>청라<\/b>는 멀티스타디움, 호텔, 쇼핑몰, 인피니티풀 등이 결합된 대규모 복합개발... ",
-			"pubDate":"Tue, 24 Nov 2026 16:01:00 +0900"
-		},
-		{
 			"title":"신세계건설, BIM 어워즈 2026 대상 수상...스타필드 <b>청라<\/b> 스마트기술 적...",
 			"originallink":"https:\/\/www.newspim.com\/news\/view\/20261124001218",
 			"link":"https:\/\/www.newspim.com\/news\/view\/20261124001218",
 			"description":"신세계건설이 시공 중인 스타필드 <b>청라<\/b>에 적용한 건설정보모델링(BIM) 기술로 공모전 대상을 수상했다.... 이번 수상작은 현재 스타필드 <b>청라<\/b> 현장에 적용된 BIM 기반 설계와 시공 통합 관리 체계다. 신세계건설은 24일... ",
+			"pubDate":"Tue, 24 Nov 2026 16:01:00 +0900"
+		},
+		{
+			"title":"신세계건설, BIM 분야 국내 공모전 '대상' 수상···'스마트건설' 기술...",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2496440",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=2496440",
+			"description":"이번 수상작은 현재 시공중인 스타필드 <b>청라<\/b> 현장에 적용된 BIM기반 설계·시공 통합 관리 체계를 중심으로 한다. 스타필드 <b>청라<\/b>는 멀티스타디움, 호텔, 쇼핑몰, 인피니티풀 등이 결합된 대규모 복합개발... ",
 			"pubDate":"Tue, 24 Nov 2026 16:01:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006414839?sid=101",
 			"description":"신세계건설이 스타필드 <b>청라<\/b> 건설 현장에 적용한 건설정보모델링(BIM) 기술을 인정받아 국내 스마트건설... 수상한 기술은 현재 공사가 진행 중인 스타필드 <b>청라<\/b> 현장에 적용됐다. 스타필드 <b>청라<\/b>는 멀티스타디움과... ",
 			"pubDate":"Tue, 24 Nov 2026 15:39:00 +0900"
-		},
-		{
-			"title":"신세계건설, 'BIM AWARDS 2026' 대상 수상…BIM 혁신성 인정",
-			"originallink":"https:\/\/www.fnnews.com\/news\/202611241512588508",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/014\/0005609016?sid=101",
-			"description":"신세계건설이 스타필드 <b>청라<\/b> 건설 현장에 적용한 건설정보모델링(BIM) 기술로 'BIM AWARDS 2026'에서 대상을... 수상작은 현재 시공 중인 스타필드 <b>청라<\/b> 현장에 적용된 BIM 기반 설계·시공 통합 관리 체계를 중심으로 한다.... ",
-			"pubDate":"Tue, 24 Nov 2026 15:35:00 +0900"
 		}
 	]
 }
