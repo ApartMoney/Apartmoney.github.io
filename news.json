@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Wed, 25 Nov 2026 10:50:01 +0900",
-	"total":314544,
+	"lastBuildDate":"Wed, 25 Nov 2026 11:00:00 +0900",
+	"total":314545,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"수도권 지자체 금고 재편… KB '서울 자치구 1위'·신한 '시금고 수성'",
+			"originallink":"http:\/\/www.the-biz.co.kr\/news\/articleView.html?idxno=732081",
+			"link":"http:\/\/www.the-biz.co.kr\/news\/articleView.html?idxno=732081",
+			"description":"◆신규 진입 막아선 '안정성' 문턱… <b>청라<\/b> 이전 카드 꺼낸 하나은행도 고배 이번 수도권 지자체 금고... 하나은행은 하나금융지주와 계열사 임직원 2200여명의 <b>청라<\/b> 신사옥 입주를 본격화하고 이호성 은행장이 심사위원... ",
+			"pubDate":"Wed, 25 Nov 2026 10:52:00 +0900"
+		},
 		{
 			"title":"신세계건설, BIM 기반 시공관리로 국내 공모전 대상 수상",
 			"originallink":"https:\/\/www.pinpointnews.co.kr\/news\/articleView.html?idxno=507832",
@@ -138,17 +145,17 @@
 			"pubDate":"Tue, 24 Nov 2026 17:13:00 +0900"
 		},
 		{
-			"title":"김학엽 서해구의원, 민선 9기 구청장 공약 실천계획 부실 지적",
-			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1315388",
-			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1315388",
-			"description":"특히 <b>청라<\/b>IC 진출입로 확장사업의 경우 이미 착공해 공사가 진행 중임에도 현 구청장의 공약 실천계획에 준공을 새로운 목표로 설정한 점을 지적했다. 이에 서해구 정책기획과는 공약 실천계획이 아직 최종 확정되지 않은... ",
-			"pubDate":"Tue, 24 Nov 2026 17:10:00 +0900"
-		},
-		{
 			"title":"김동익 서해구의원, 원창동 데이터센터 안전성 검증 촉구",
 			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1315387",
 			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1315387",
 			"description":"김동익 의원 인천 서해구의회 김동익 의원(국민의힘, <b>청라<\/b>1~3동)은 최근 열린 제284회 정례회 제1차 본회의 5분 자유발언을 통해 원창동 데이터센터 건립에 따른 안전성 검증과 투명한 정보 공개, 주민 소통 강화를 요구했다.... ",
+			"pubDate":"Tue, 24 Nov 2026 17:10:00 +0900"
+		},
+		{
+			"title":"김학엽 서해구의원, 민선 9기 구청장 공약 실천계획 부실 지적",
+			"originallink":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1315388",
+			"link":"https:\/\/www.jeonmae.co.kr\/news\/articleView.html?idxno=1315388",
+			"description":"특히 <b>청라<\/b>IC 진출입로 확장사업의 경우 이미 착공해 공사가 진행 중임에도 현 구청장의 공약 실천계획에 준공을 새로운 목표로 설정한 점을 지적했다. 이에 서해구 정책기획과는 공약 실천계획이 아직 최종 확정되지 않은... ",
 			"pubDate":"Tue, 24 Nov 2026 17:10:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.mediapen.com\/news\/view\/1139720",
 			"description":"시공 중인 스타필드 <b>청라<\/b> 현장에 BIM을 적용해 설계부터 시공까지 스마트건설 기술력을 입증했다.... 스타필드 <b>청라<\/b> 현장에 적용한 BIM 기반 설계·시공 통합 관리 체계다. 스타필드 <b>청라<\/b>는 멀티스타디움, 호텔... ",
 			"pubDate":"Tue, 24 Nov 2026 15:52:00 +0900"
-		},
-		{
-			"title":"신세계건설, BIM 어워즈 2026 대상…스타필드 <b>청라<\/b> 혁신성 인정",
-			"originallink":"https:\/\/view.asiae.co.kr\/article\/2026112415504237932",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005847179?sid=101",
-			"description":"신세계건설이 스타필드 <b>청라<\/b> 건설 현장에 적용한 건설정보모델링(BIM) 기술을 통해 BIM 분야 국내 대표... 이번 수상작은 현재 시공 중인 스타필드 <b>청라<\/b> 현장에 적용된 BIM 기반 설계·시공 통합 관리 체계를 중심으로... ",
-			"pubDate":"Tue, 24 Nov 2026 15:50:00 +0900"
 		}
 	]
 }
