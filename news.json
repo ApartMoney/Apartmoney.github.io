@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 26 Nov 2026 13:20:01 +0900",
-	"total":314661,
+	"lastBuildDate":"Thu, 26 Nov 2026 13:30:00 +0900",
+	"total":314662,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"KT클라우드, 싱가포르 케펠과 손잡고 안산 AI 데이터센터 확대",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/12219246",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005769373?sid=105",
+			"description":"KT그룹은 2031년까지 1GW 이상의 AI 데이터센터 공급을 목표로 전북 군산과 인천 <b>청라<\/b> 등에서 데이터센터 개발을 추진하고 있다. 김봉균 KT클라우드 대표는 “AI 데이터센터의 경쟁력은 공급 규모를 넘어 실제... ",
+			"pubDate":"Thu, 26 Nov 2026 13:23:00 +0900"
+		},
 		{
 			"title":"인천시, 7호선 <b>청라<\/b> 연장 건설현장 재난대응 모의훈련 실시",
 			"originallink":"https:\/\/www.m-i.kr\/news\/articleView.html?idxno=2023762",
@@ -22,7 +29,7 @@
 			"title":"인천경제청, IFEZ 외국인 지역탐방 체험 프로그램 운영",
 			"originallink":"https:\/\/www.mt.co.kr\/policy\/2026\/11\/26\/2026112612355858604",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0005446802?sid=102",
-			"description":"인천경제자유구역청(IFEZ)은 송도·<b>청라<\/b>를 비롯한 인천경제자유구역에 체류하는 외국인을 대상으로 'IFEZ 외국인 지역탐방 체험 프로그램'을 운영했다고 26일 밝혔다. 외국들에게 인천의 섬·해양 관광자원과 지역문화 체험... ",
+			"description":"인천경제자유구역청(IFEZ)은 송도·<b>청라<\/b>를 비롯한 인천경제자유구역에 체류하는 외국인을 대상으로 'IFEZ 외국인 지역탐방 체험 프로그램'을 운영했다고 26일 밝혔다. 외국인들에게 인천의 섬·해양 관광자원과 지역문화... ",
 			"pubDate":"Thu, 26 Nov 2026 12:52:00 +0900"
 		},
 		{
@@ -166,17 +173,17 @@
 			"pubDate":"Thu, 26 Nov 2026 11:08:00 +0900"
 		},
 		{
-			"title":"인천시, 서울 7호선 <b>청라<\/b>연장 건설현장 재난 모의훈련",
-			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485568",
-			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485568",
-			"description":"인천시가 서울도시철도 7호선 <b>청라<\/b>국제도시연장 건설현장 재난 대응 역량을 높이기 위한 실전형 모의훈련을... 이번 훈련은 <b>청라<\/b>국제도시연장 건설사업의 추가정거장 현장에서 터널 붕락사고가 발생한 상황을 가정해... ",
-			"pubDate":"Thu, 26 Nov 2026 11:06:00 +0900"
-		},
-		{
 			"title":"kt클라우드, 안산에 60MW AI데이터센터 추가…총 110MW 구축",
 			"originallink":"https:\/\/www.edaily.co.kr\/News\/Read?newsId=02532166645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006415863?sid=105",
 			"description":"KT그룹은 2031년까지 1GW 이상의 AI 데이터센터 공급 기반을 확보한다는 목표 아래 군산과 <b>청라<\/b> 등 주요 지역에서 개발 사업을 추진하고 있다. 최근 안산1 AIDC 착공에 이어 안산2 AIDC 사업도 추진하면서 수도권과... ",
+			"pubDate":"Thu, 26 Nov 2026 11:06:00 +0900"
+		},
+		{
+			"title":"인천시, 서울 7호선 <b>청라<\/b>연장 건설현장 재난 모의훈련",
+			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485568",
+			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485568",
+			"description":"인천시가 서울도시철도 7호선 <b>청라<\/b>국제도시연장 건설현장 재난 대응 역량을 높이기 위한 실전형 모의훈련을... 이번 훈련은 <b>청라<\/b>국제도시연장 건설사업의 추가정거장 현장에서 터널 붕락사고가 발생한 상황을 가정해... ",
 			"pubDate":"Thu, 26 Nov 2026 11:06:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"https:\/\/www.ceoscoredaily.com\/page\/view\/2026112610491468396",
 			"description":"KT는 군산·<b>청라<\/b> 등 주요 거점의 개발 계획을 잇달아 구체화한 데 이어 안산 권역의 공급 규모까지 확대하며 중장기 AIDC 사업 로드맵을 실행에 옮기고 있다. 주목할 점은 이 같은 AI 인프라 확충이 KT의 AI 서비스... ",
 			"pubDate":"Thu, 26 Nov 2026 10:50:00 +0900"
-		},
-		{
-			"title":"KT클라우드, 케펠과 손잡고 안산에 110MW AI 데이터센터 거점 조성",
-			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=580481&class=17&grp=",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002394866?sid=101",
-			"description":"KT그룹은 안산 외에도 군산·<b>청라<\/b> 등 주요 거점에서 AIDC 개발을 추진하고 있다. 지난 10일 실적발표 기준 우선 추진 후보 사업은 20곳으로 총 911MW 규모이며 예비 후보 사업은 10곳으로 500MW에 달한다. 우선 추진 후보... ",
-			"pubDate":"Thu, 26 Nov 2026 10:40:00 +0900"
 		}
 	]
 }
