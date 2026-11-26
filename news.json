@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 26 Nov 2026 17:40:01 +0900",
-	"total":314710,
+	"lastBuildDate":"Thu, 26 Nov 2026 17:50:01 +0900",
+	"total":314712,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[클라우드 월드] kt cloud '안산2 AIDC 추진'·네이버클라우드 '정부혁신...",
+			"originallink":"https:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=904607",
+			"link":"https:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=904607",
+			"description":"KT그룹은 1GW 이상 공급 계획 발표 이후 군산·<b>청라<\/b> 등 거점 개발 계획을 구체화해 왔고, 최근 안산1 AIDC 착공에 이어 안산2 사업까지 추진한다. ◆네이버클라우드, 범정부 AI 공통기반에 이미지 생성 모델 도입... ",
+			"pubDate":"Thu, 26 Nov 2026 17:46:00 +0900"
+		},
+		{
+			"title":"부평구 12주째 나홀로 상승 곡선... 인천 집값 5주 만에 상승",
+			"originallink":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=122610",
+			"link":"http:\/\/www.incheonin.com\/news\/articleView.html?idxno=122610",
+			"description":"서해구는 <b>청라<\/b>·신현동 위주로 0.06% 내려 인천에서 가장 큰 낙폭을 보였고, 제물포구는 0.03% 내려 4주 만에 하락 전환했다. 영종·미추홀·계양구는 나란히 0.01% 내리면서 하락세를 지속했다. 인천 아파트 전셋값은... ",
+			"pubDate":"Thu, 26 Nov 2026 17:44:00 +0900"
+		},
 		{
 			"title":"철도연 '시멘트 제로' 침목…탄소 배출 확 줄인다 [극한기후와 철도]",
 			"originallink":"https:\/\/www.redaily.co.kr\/news\/articleView.html?idxno=18323",
@@ -199,20 +213,6 @@
 			"link":"https:\/\/www.womentimes.co.kr\/news\/articleView.html?idxno=108308",
 			"description":"한편, KT그룹은 오는 2031년까지 1GW 이상 AIDC를 공급하겠다는 계획을 발표한 뒤 군산·<b>청라<\/b> 등 주요 거점 개발 계획을 잇달아 추진하고 있다. 안산1 AIDC 착공에 이어 이번에 안산2 AIDC 사업을 본격화하며 AIDC... ",
 			"pubDate":"Thu, 26 Nov 2026 15:20:00 +0900"
-		},
-		{
-			"title":"KT클라우드, 안산서 AIDC 거점 확장…110MW급 캠퍼스 조성한다",
-			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20261126023175193",
-			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20261126023175193",
-			"description":"KT그룹은 오는 2031년까지 1GW 이상의 AIDC를 공급하겠다는 계획을 발표한 이후로 군산·<b>청라<\/b> 등 주요 거점의 개발 계획을 잇달아 구체화하며 전략 실행에 나서고 있다. 최근 안산1 AIDC 착공에 이어 안산2 AIDC... ",
-			"pubDate":"Thu, 26 Nov 2026 15:12:00 +0900"
-		},
-		{
-			"title":"KT클라우드, 안산2 AIDC 추진…안산에 110MW 캠퍼스 조성",
-			"originallink":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=410352",
-			"link":"https:\/\/www.epnc.co.kr\/news\/articleView.html?idxno=410352",
-			"description":"KT그룹은 군산과 <b>청라<\/b> 등 주요 거점의 개발 계획을 구체화한 데 이어 최근 안산1 AIDC 착공과 안산2 AIDC 추진으로 수도권 공급 기반도 확장하고 있다. 김봉균 KT클라우드 대표는 &quot;AI 데이터센터의 경쟁력은 단순한... ",
-			"pubDate":"Thu, 26 Nov 2026 15:10:00 +0900"
 		}
 	]
 }
