@@ -1,9 +1,30 @@
 {
-	"lastBuildDate":"Thu, 26 Nov 2026 09:30:01 +0900",
-	"total":314603,
+	"lastBuildDate":"Thu, 26 Nov 2026 09:40:01 +0900",
+	"total":314606,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"김봉균 KT클라우드 대표 &quot;AI 데이터센터, 적기 공급·안정 운영이 경쟁력...",
+			"originallink":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=303295",
+			"link":"https:\/\/www.financialpost.co.kr\/news\/articleView.html?idxno=303295",
+			"description":"한편 KT그룹은 2031년까지 1GW 이상 AIDC 공급 전략을 발표한 이후 군산·<b>청라<\/b> 등 주요 거점 개발을 구체화해 왔다. 최근 안산1 AIDC 착공에 이어 안산2 AIDC까지 추진하며 수도권 AI 인프라 핵심 클러스터 조성과... ",
+			"pubDate":"Thu, 26 Nov 2026 09:34:00 +0900"
+		},
+		{
+			"title":"KT클라우드, 안산에 60MW AI 데이터센터 추가…수도권 110MW 클러스터 구...",
+			"originallink":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=92682",
+			"link":"http:\/\/www.worktoday.co.kr\/news\/articleView.html?idxno=92682",
+			"description":"KT그룹은 군산과 <b>청라<\/b> 등 주요 지역의 데이터센터 개발 계획을 구체화해 왔으며, 안산1 착공에 이어 안산2 사업까지 추진하면서 공급 기반을 확대하고 있다. AI 서비스 확산으로 대규모 연산 능력과 안정적인 전력... ",
+			"pubDate":"Thu, 26 Nov 2026 09:32:00 +0900"
+		},
+		{
+			"title":"서울 7호선 <b>청라<\/b>연장 건설현장 '터널 붕락' 실전 모의훈련... 현장·본부...",
+			"originallink":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=149336",
+			"link":"https:\/\/www.tournews21.com\/news\/articleView.html?idxno=149336",
+			"description":"인천광역시 도시철도건설본부가 서울도시철도 7호선 <b>청라<\/b>국제도시연장 건설현장의 재난 대응 역량을... 인천시 도시철도건설본부는 이번 훈련에서 서울 7호선 <b>청라<\/b>연장 건설사업의 추가정거장(005-1) 건설현장 내 터널... ",
+			"pubDate":"Thu, 26 Nov 2026 09:30:00 +0900"
+		},
 		{
 			"title":"KT클라우드, 안산에 110MW 규모 AI 데이터센터 캠퍼스 조성…수도권 거점...",
 			"originallink":"https:\/\/www.aitimes.kr\/news\/articleView.html?idxno=42896",
@@ -33,17 +54,17 @@
 			"pubDate":"Thu, 26 Nov 2026 09:14:00 +0900"
 		},
 		{
-			"title":"KT클라우드, 60MW 규모 '안산2 AIDC' 추진…수도권 거점 확대",
-			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5087975",
-			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5087975",
-			"description":"KT그룹은 2031년까지 1GW 이상의 AIDC를 공급하겠다는 계획을 발표하고 군산·<b>청라<\/b> 등 주요 거점의 개발 계획을 구체화해 왔다. 이에 KT클라우드는 안산1 AI 데이터센터 착공에 이어 안산2 AI 데이터센터 사업을... ",
-			"pubDate":"Thu, 26 Nov 2026 09:12:00 +0900"
-		},
-		{
 			"title":"kt cloud, 안산2 AI 데이터센터 추진···안산1 연계 총 110MW 규모 확대",
 			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=244254",
 			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=244254",
 			"description":"KT그룹이 군산·<b>청라<\/b> 등 주요 거점 개발을 구체화하고 안산1 AIDC 착공에 이어 안산2 AIDC 사업까지 추진하며 1GW AIDC 로드맵을 단계적으로 실행한다. AIDC는 Artificial Intelligence Data Center의 약자로 인공지능(AI)... ",
+			"pubDate":"Thu, 26 Nov 2026 09:12:00 +0900"
+		},
+		{
+			"title":"KT클라우드, 60MW 규모 '안산2 AIDC' 추진…수도권 거점 확대",
+			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5087975",
+			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5087975",
+			"description":"KT그룹은 2031년까지 1GW 이상의 AIDC를 공급하겠다는 계획을 발표하고 군산·<b>청라<\/b> 등 주요 거점의 개발 계획을 구체화해 왔다. 이에 KT클라우드는 안산1 AI 데이터센터 착공에 이어 안산2 AI 데이터센터 사업을... ",
 			"pubDate":"Thu, 26 Nov 2026 09:12:00 +0900"
 		},
 		{
@@ -61,17 +82,10 @@
 			"pubDate":"Thu, 26 Nov 2026 09:02:00 +0900"
 		},
 		{
-			"title":"비아이엠팩토리, 'BIM AWARDS 2026' 시공 부문 대상 수상",
-			"originallink":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=282215",
-			"link":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=282215",
-			"description":"이번 수상은 신세계건설㈜과 공동 출품한 'LIFT-UP X BIM TECHNOLOGY'를 통해 이뤄졌으며, 인천 <b>청라<\/b>국제도시에 조성 중인 복합문화시설 '스타필드 <b>청라<\/b>'의 돔 지붕 구조물 시공에 BIM 기술을 접목한 성과를 인정받은... ",
-			"pubDate":"Thu, 26 Nov 2026 09:00:00 +0900"
-		},
-		{
-			"title":"KT클라우드, 안산2 AIDC 공급 거점 확보…&quot;실수요 기반 인프라 확대&quot;",
-			"originallink":"https:\/\/www.itbiznews.com\/news\/articleView.html?idxno=232832",
-			"link":"https:\/\/www.itbiznews.com\/news\/articleView.html?idxno=232832",
-			"description":"앞서 KT그룹은 2031년까지 1GW 이상의 AIDC 공급 계획을 밝힌 바 있으며 군산·<b>청라<\/b> 등 주요 거점의 개발 계획을 구체화해 왔다. KT클라우드는 싱가포르 글로벌 자산운용사 '케펠'의 국내 첫 데이터센터 개발... ",
+			"title":"검단구 출범 4개월, 왕길 도시개발 시너지 기대… ‘검단 서해그랑블 라...",
+			"originallink":"https:\/\/www.dt.co.kr\/article\/12097276?ref=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0003061243?sid=101",
+			"description":"향후 <b>청라<\/b>•송도국제도시와 함께 인천 서부권 핵심 주거축으로의 발전이 기대된다. ‘검단 서해그랑블... 또한 수도권제2순환고속도로(검단·양촌IC) 및 인천공항고속도로(<b>청라<\/b>IC) 등의 접근성이 우수해 서울 및 수도권... ",
 			"pubDate":"Thu, 26 Nov 2026 09:00:00 +0900"
 		},
 		{
@@ -82,10 +96,17 @@
 			"pubDate":"Thu, 26 Nov 2026 09:00:00 +0900"
 		},
 		{
-			"title":"검단구 출범 4개월, 왕길 도시개발 시너지 기대… ‘검단 서해그랑블 라...",
-			"originallink":"https:\/\/www.dt.co.kr\/article\/12097276?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0003061243?sid=101",
-			"description":"향후 <b>청라<\/b>•송도국제도시와 함께 인천 서부권 핵심 주거축으로의 발전이 기대된다. ‘검단 서해그랑블... 또한 수도권제2순환고속도로(검단·양촌IC) 및 인천공항고속도로(<b>청라<\/b>IC) 등의 접근성이 우수해 서울 및 수도권... ",
+			"title":"KT클라우드, 안산2 AIDC 공급 거점 확보…&quot;실수요 기반 인프라 확대&quot;",
+			"originallink":"https:\/\/www.itbiznews.com\/news\/articleView.html?idxno=232832",
+			"link":"https:\/\/www.itbiznews.com\/news\/articleView.html?idxno=232832",
+			"description":"앞서 KT그룹은 2031년까지 1GW 이상의 AIDC 공급 계획을 밝힌 바 있으며 군산·<b>청라<\/b> 등 주요 거점의 개발 계획을 구체화해 왔다. KT클라우드는 싱가포르 글로벌 자산운용사 '케펠'의 국내 첫 데이터센터 개발... ",
+			"pubDate":"Thu, 26 Nov 2026 09:00:00 +0900"
+		},
+		{
+			"title":"비아이엠팩토리, 'BIM AWARDS 2026' 시공 부문 대상 수상",
+			"originallink":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=282215",
+			"link":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=282215",
+			"description":"이번 수상은 신세계건설㈜과 공동 출품한 'LIFT-UP X BIM TECHNOLOGY'를 통해 이뤄졌으며, 인천 <b>청라<\/b>국제도시에 조성 중인 복합문화시설 '스타필드 <b>청라<\/b>'의 돔 지붕 구조물 시공에 BIM 기술을 접목한 성과를 인정받은... ",
 			"pubDate":"Thu, 26 Nov 2026 09:00:00 +0900"
 		},
 		{
@@ -192,27 +213,6 @@
 			"link":"https:\/\/www.fntoday.co.kr\/news\/articleView.html?idxno=400302",
 			"description":"2025년 인천 <b>청라<\/b>로 전시 공간을 이전한 이후에도 폭넓은 전시 기획과 작가 프로모션을 통해 국내외 현대미술의 새로운 가능성을 소개하고 있다. 이번 전시는 국제적인 예술 경험과 독창적인 회화 세계를... ",
 			"pubDate":"Wed, 25 Nov 2026 18:42:00 +0900"
-		},
-		{
-			"title":"현대그린푸드, 메디굿파트너스 지분 51% 인수 추진…1500억 규모",
-			"originallink":"https:\/\/www.bloter.net\/news\/articleView.html?idxno=679715",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/293\/0000093830?sid=101",
-			"description":"삼도회계법인법인은 메디굿파트너스 매출이 서울아산병원 공급 확대와 강릉아산병원, 서울아산<b>청라<\/b>병원 순차 진출을 통해 내년 3957억원, 2028년 4809억원, 2031년 6946억원으로 성장할 것으로 추정했다.... ",
-			"pubDate":"Wed, 25 Nov 2026 18:08:00 +0900"
-		},
-		{
-			"title":"김동익 서해구의원, 육아 지원·청소년 보호 대책 마련 촉구",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=921246",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=921246",
-			"description":"인천시 서해구의회 김동익 의원(국민의힘·<b>청라<\/b>1~3동)이 행정사무감사에서 복지 지원 사후관리부터 육아 지원... 또 <b>청라<\/b> 청소년센터 건립 일정을 확인하고 위기청소년을 조기에 발견해 보호기관과 연계하는 방안도... ",
-			"pubDate":"Wed, 25 Nov 2026 17:56:00 +0900"
-		},
-		{
-			"title":"영종구의회 최은주 의원, <b>청라<\/b>하늘대교 연계 개발사업 조속 이행 촉구",
-			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3763033",
-			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3763033",
-			"description":"영종구의회 최은주 의원  영종구의회는 11월 25일 열린 제5회 정례회 제1차 본회의에서 <b>청라<\/b>하늘대교 개통과 연계한 지역 개발사업의 조속한 이행을 촉구했다. 최은주 운영총무위원장은 5분 자유발언을 통해 <b>청라<\/b>하늘대교... ",
-			"pubDate":"Wed, 25 Nov 2026 17:42:00 +0900"
 		}
 	]
 }
