@@ -1,9 +1,23 @@
 {
-	"lastBuildDate":"Thu, 26 Nov 2026 13:30:00 +0900",
-	"total":314662,
+	"lastBuildDate":"Thu, 26 Nov 2026 13:40:02 +0900",
+	"total":314664,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"KT클라우드, 안산에 110MW 규모 AI 데이터센터 캠퍼스 조성",
+			"originallink":"https:\/\/zdnet.co.kr\/view\/?no=20261126133159",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/092\/0002447081?sid=105",
+			"description":"앞서 KT그룹은 2031년까지 1GW 이상 AIDC를 공급하겠다는 계획을 발표한 이후 군산·<b>청라<\/b> 등 주요 거점의 개발 계획을 잇달아 구체화해 왔다. 최근 안산1 AIDC 착공에 이어 안산2 AIDC 사업까지 추진하며 AI 인프라... ",
+			"pubDate":"Thu, 26 Nov 2026 13:38:00 +0900"
+		},
+		{
+			"title":"인천경제청, IFEZ 외국인 지역 탐방 체험 프로그램 운영",
+			"originallink":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3042227",
+			"link":"https:\/\/www.kihoilbo.co.kr\/news\/articleView.html?idxno=3042227",
+			"description":"IFEZ 글로벌센터에서는 송도·영종·<b>청라<\/b>에 체류하는 외국인을 대상으로 생활정보 제공, 지역사회 교류 및 문화체험 등 다양한 정주 지원 프로그램을 운영하고 있다 임미선 투자유치기획과장은 &quot;이번 프로그램이... ",
+			"pubDate":"Thu, 26 Nov 2026 13:32:00 +0900"
+		},
 		{
 			"title":"KT클라우드, 싱가포르 케펠과 손잡고 안산 AI 데이터센터 확대",
 			"originallink":"https:\/\/www.mk.co.kr\/article\/12219246",
@@ -187,13 +201,6 @@
 			"pubDate":"Thu, 26 Nov 2026 11:06:00 +0900"
 		},
 		{
-			"title":"KT클라우드, 안산에 110MW AI데이터센터 클러스터 조성",
-			"originallink":"https:\/\/www.thelec.kr\/news\/articleView.html?idxno=65943",
-			"link":"https:\/\/www.thelec.kr\/news\/articleView.html?idxno=65943",
-			"description":"KT그룹은 2031년까지 1GW(기가와트) 이상의 AIDC를 공급한다는 목표를 세웠다. 군산과 <b>청라<\/b> 등 주요 거점의 개발 계획을 구체화한 데 이어 안산에서도 공급 규모를 확대한다.",
-			"pubDate":"Thu, 26 Nov 2026 11:00:00 +0900"
-		},
-		{
 			"title":"KT클라우드, 안산에 60MW AI데이터센터 추가로 세운다",
 			"originallink":"https:\/\/www.newstree.kr\/newsView\/ntr202611260010",
 			"link":"https:\/\/www.newstree.kr\/newsView\/ntr202611260010",
@@ -201,18 +208,11 @@
 			"pubDate":"Thu, 26 Nov 2026 11:00:00 +0900"
 		},
 		{
-			"title":"KT클라우드, 안산2 AIDC 추진…60MW 규모로 2030년 가동 목표",
-			"originallink":"https:\/\/www.itdaily.kr\/news\/articleView.html?idxno=243216",
-			"link":"https:\/\/www.itdaily.kr\/news\/articleView.html?idxno=243216",
-			"description":"KT그룹은 군산·<b>청라<\/b> 등에서 AIDC 개발 계획을 구체화한 데 이어 안산1 착공과 안산2 사업 추진으로 수도권 공급 거점을 확대하고 있다. 김봉균 KT클라우드 대표는 &quot;AIDC의 경쟁력은 단순한 공급 규모를 넘어 실제... ",
-			"pubDate":"Thu, 26 Nov 2026 10:56:00 +0900"
-		},
-		{
-			"title":"KT, 안산2 AIDC 추진…“AI 인프라·서비스 수익화 기반 넓힌다”",
-			"originallink":"https:\/\/www.ceoscoredaily.com\/page\/view\/2026112610491468396",
-			"link":"https:\/\/www.ceoscoredaily.com\/page\/view\/2026112610491468396",
-			"description":"KT는 군산·<b>청라<\/b> 등 주요 거점의 개발 계획을 잇달아 구체화한 데 이어 안산 권역의 공급 규모까지 확대하며 중장기 AIDC 사업 로드맵을 실행에 옮기고 있다. 주목할 점은 이 같은 AI 인프라 확충이 KT의 AI 서비스... ",
-			"pubDate":"Thu, 26 Nov 2026 10:50:00 +0900"
+			"title":"KT클라우드, 안산에 110MW AI데이터센터 클러스터 조성",
+			"originallink":"https:\/\/www.thelec.kr\/news\/articleView.html?idxno=65943",
+			"link":"https:\/\/www.thelec.kr\/news\/articleView.html?idxno=65943",
+			"description":"KT그룹은 2031년까지 1GW(기가와트) 이상의 AIDC를 공급한다는 목표를 세웠다. 군산과 <b>청라<\/b> 등 주요 거점의 개발 계획을 구체화한 데 이어 안산에서도 공급 규모를 확대한다.",
+			"pubDate":"Thu, 26 Nov 2026 11:00:00 +0900"
 		}
 	]
 }
