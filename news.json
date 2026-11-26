@@ -1,22 +1,43 @@
 {
-	"lastBuildDate":"Thu, 26 Nov 2026 10:10:01 +0900",
-	"total":314620,
+	"lastBuildDate":"Thu, 26 Nov 2026 10:20:00 +0900",
+	"total":314624,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"kt cloud, 안산에 60MW AI 데이터센터 추진…총 110MW 거점 구축",
+			"originallink":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202611260040",
+			"link":"https:\/\/www.sentv.co.kr\/article\/view\/sentv202611260040",
+			"description":"kt cloud는 앞서 군산과 <b>청라<\/b> 등 주요 지역에서도 데이터센터 개발 사업 참여 계획을 발표했다. 김봉균 kt cloud 대표는 “AI 데이터센터의 경쟁력은 단순한 공급 규모를 넘어 실제 고객 수요에 맞춰 인프라를... ",
+			"pubDate":"Thu, 26 Nov 2026 10:18:00 +0900"
+		},
+		{
+			"title":"kt cloud, 안산에 110MW 규모 AI 데이터센터 캠퍼스 조성…AI 인프라 공급...",
+			"originallink":"https:\/\/www.socialvalue.kr\/news\/view\/1065575630555435",
+			"link":"https:\/\/www.socialvalue.kr\/news\/view\/1065575630555435",
+			"description":"추진한다고 밝힌 데 이어 10월에는 50MW 규모의 안산1 AIDC 구축에 착수했다. 인천 <b>청라<\/b>에서도 50MW급 AI 데이터센터 개발에 참여하는 등 수도권과 비수도권을 아우르는 AI 인프라 공급망을 확대하고 있다.",
+			"pubDate":"Thu, 26 Nov 2026 10:16:00 +0900"
+		},
+		{
+			"title":"영종 교통 개선·일자리 확대 기대…'영종 SK뷰' 눈길",
+			"originallink":"https:\/\/magazine.hankyung.com\/business\/article\/202611261500b",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/050\/0000113802?sid=101",
+			"description":"올해 1월 영종과 <b>청라<\/b>를 직접 연결하는 <b>청라<\/b>하늘대교가 개통되면서 수도권 주요 지역으로의 접근성이 한층 높아졌다. 기존 영종대교 이용 시보다 이동시간이 최대 20분 단축됐으며, 제2경인고속도로와 영종대교... ",
+			"pubDate":"Thu, 26 Nov 2026 10:14:00 +0900"
+		},
+		{
+			"title":"KT클라우드, 안산에 110MW급 AI 데이터센터 캠퍼스 조성…수도권 인프라...",
+			"originallink":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=566670",
+			"link":"https:\/\/www.joongangenews.com\/news\/articleView.html?idxno=566670",
+			"description":"KT그룹은 2031년까지 1GW 이상의 AI 데이터센터 공급 목표를 수립하고 군산과 <b>청라<\/b> 등 주요 거점의 개발 계획을 구체화해 왔다. 최근 안산1 AIDC 착공에 이어 안산2 AIDC 사업까지 추진하면서 전국 주요 권역을... ",
+			"pubDate":"Thu, 26 Nov 2026 10:10:00 +0900"
+		},
 		{
 			"title":"인천서해구문화재단, 꿈의 무용단 '인천 서해' 첫 정기공연 28일 개최",
 			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3763658",
 			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=3763658",
 			"description":"인천서해구문화재단, 꿈의 무용단 '인천 서해' 첫 정기공연 28일 개최 (서해구 제공) 인천서해구문화재단이 처음으로 선보인 꿈의 무용단 '인천 서해'가 11월 28일 오후 3시 <b>청라<\/b>블루노바홀 공연장에서 제1회 정기공연 '피올라... ",
 			"pubDate":"Thu, 26 Nov 2026 10:08:00 +0900"
-		},
-		{
-			"title":"인천 섬·바다 매력 알린다…인천경제청 외국인 39명 무의도·영종도 탐...",
-			"originallink":"https:\/\/www.viva100.com\/article\/20261126500379",
-			"link":"https:\/\/www.viva100.com\/article\/20261126500379",
-			"description":"교류를 넓히고 안정적인 정착을 지원하겠다“고 밝혔다. 한편 IFEZ 글로벌센터는 송도·영종·<b>청라<\/b>에 거주하는 외국인을 대상으로 생활정보 제공과 지역사회 교류, 문화체험 등 다양한 정주 지원사업을 운영하고 있다. 인천=",
-			"pubDate":"Thu, 26 Nov 2026 10:06:00 +0900"
 		},
 		{
 			"title":"KT클라우드, 안산2 AI 데이터센터 구축 추진…수도권 AI 인프라 공급 확...",
@@ -30,6 +51,13 @@
 			"originallink":"https:\/\/www.ezyeconomy.com\/news\/articleView.html?idxno=242226",
 			"link":"https:\/\/www.ezyeconomy.com\/news\/articleView.html?idxno=242226",
 			"description":"KT그룹은 2031년까지 1GW 이상의 AIDC를 공급한다는 목표 아래 군산·<b>청라<\/b>·안산 등 주요 지역에서 데이터센터 개발을 추진하고 있다. 김봉균 KT클라우드 대표는 &quot;AI 데이터센터의 경쟁력은 단순한 공급 규모를... ",
+			"pubDate":"Thu, 26 Nov 2026 10:06:00 +0900"
+		},
+		{
+			"title":"인천 섬·바다 매력 알린다…인천경제청 외국인 39명 무의도·영종도 탐...",
+			"originallink":"https:\/\/www.viva100.com\/article\/20261126500379",
+			"link":"https:\/\/www.viva100.com\/article\/20261126500379",
+			"description":"교류를 넓히고 안정적인 정착을 지원하겠다“고 밝혔다. 한편 IFEZ 글로벌센터는 송도·영종·<b>청라<\/b>에 거주하는 외국인을 대상으로 생활정보 제공과 지역사회 교류, 문화체험 등 다양한 정주 지원사업을 운영하고 있다. 인천=",
 			"pubDate":"Thu, 26 Nov 2026 10:06:00 +0900"
 		},
 		{
@@ -47,13 +75,6 @@
 			"pubDate":"Thu, 26 Nov 2026 10:03:00 +0900"
 		},
 		{
-			"title":"[위클리오늘] 이동통신 소식_kt cloud, LG유플러스(11.26)",
-			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=803510",
-			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=803510",
-			"description":"한편 KT그룹은 오는 2031년까지 1GW 이상의 AIDC 공급을 목표로 군산·<b>청라<\/b> 등 주요 거점 개발을 추진하고 있다. ▲ LG유플러스가 전국 시내버스 3만2857대에 최신 Wi-Fi 7 기반 공공와이파이 구축을 완료했다고 26일... ",
-			"pubDate":"Thu, 26 Nov 2026 10:00:00 +0900"
-		},
-		{
 			"title":"[헬로이슈토크] &quot;인천의 새로운 도약&quot; 박찬대 인천시장에게 듣다",
 			"originallink":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=563486",
 			"link":"http:\/\/news.lghellovision.net\/news\/articleView.html?idxno=563486",
@@ -61,17 +82,24 @@
 			"pubDate":"Thu, 26 Nov 2026 10:00:00 +0900"
 		},
 		{
-			"title":"KT클라우드 경기 안산에 60MW급 AI 데이터센터 추가 구축, 2030년 가동 목...",
-			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=452965",
-			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=452965",
-			"description":"투자는 KT그룹이 추진 중인 '2031년 1기가와트(GW) AI 데이터센터 공급 전략'의 일환이다. KT그룹은 2031년까지 1GW 이상의 AI 데이터센터를 확보한다는 목표 아래 군산, <b>청라<\/b> 등 전국 주요 거점 개발에 속도를 내고 있다.",
-			"pubDate":"Thu, 26 Nov 2026 09:54:00 +0900"
+			"title":"[위클리오늘] 이동통신 소식_kt cloud, LG유플러스(11.26)",
+			"originallink":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=803510",
+			"link":"http:\/\/www.weeklytoday.com\/news\/articleView.html?idxno=803510",
+			"description":"한편 KT그룹은 오는 2031년까지 1GW 이상의 AIDC 공급을 목표로 군산·<b>청라<\/b> 등 주요 거점 개발을 추진하고 있다. ▲ LG유플러스가 전국 시내버스 3만2857대에 최신 Wi-Fi 7 기반 공공와이파이 구축을 완료했다고 26일... ",
+			"pubDate":"Thu, 26 Nov 2026 10:00:00 +0900"
 		},
 		{
 			"title":"KT클라우드, AIDC ‘캠퍼스’로 몸집 키워..60MW 안산2 거점 추진",
 			"originallink":"https:\/\/kpenews.com\/View.aspx?No=4330311",
 			"link":"https:\/\/kpenews.com\/View.aspx?No=4330311",
 			"description":"이후 군산·<b>청라<\/b> 등 거점별 개발 계획을 차례로 내놨다. 최근에는 안산1 AIDC 공사에 들어갔다. 김봉균 KT클라우드 대표는 “AI 데이터센터의 경쟁력은 공급 규모만이 아니라 고객 수요에 맞춰 인프라를 제때... ",
+			"pubDate":"Thu, 26 Nov 2026 09:54:00 +0900"
+		},
+		{
+			"title":"KT클라우드 경기 안산에 60MW급 AI 데이터센터 추가 구축, 2030년 가동 목...",
+			"originallink":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=452965",
+			"link":"https:\/\/www.businesspost.co.kr\/BP?command=article_view&num=452965",
+			"description":"투자는 KT그룹이 추진 중인 '2031년 1기가와트(GW) AI 데이터센터 공급 전략'의 일환이다. KT그룹은 2031년까지 1GW 이상의 AI 데이터센터를 확보한다는 목표 아래 군산, <b>청라<\/b> 등 전국 주요 거점 개발에 속도를 내고 있다.",
 			"pubDate":"Thu, 26 Nov 2026 09:54:00 +0900"
 		},
 		{
@@ -180,39 +208,11 @@
 			"pubDate":"Thu, 26 Nov 2026 09:02:00 +0900"
 		},
 		{
-			"title":"검단구 출범 4개월, 왕길 도시개발 시너지 기대… ‘검단 서해그랑블 라...",
-			"originallink":"https:\/\/www.dt.co.kr\/article\/12097276?ref=naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/029\/0003061243?sid=101",
-			"description":"향후 <b>청라<\/b>•송도국제도시와 함께 인천 서부권 핵심 주거축으로의 발전이 기대된다. ‘검단 서해그랑블... 또한 수도권제2순환고속도로(검단·양촌IC) 및 인천공항고속도로(<b>청라<\/b>IC) 등의 접근성이 우수해 서울 및 수도권... ",
-			"pubDate":"Thu, 26 Nov 2026 09:00:00 +0900"
-		},
-		{
-			"title":"KT클라우드, 안산2 AIDC 공급 거점 확보…&quot;실수요 기반 인프라 확대&quot;",
-			"originallink":"https:\/\/www.itbiznews.com\/news\/articleView.html?idxno=232832",
-			"link":"https:\/\/www.itbiznews.com\/news\/articleView.html?idxno=232832",
-			"description":"앞서 KT그룹은 2031년까지 1GW 이상의 AIDC 공급 계획을 밝힌 바 있으며 군산·<b>청라<\/b> 등 주요 거점의 개발 계획을 구체화해 왔다. KT클라우드는 싱가포르 글로벌 자산운용사 '케펠'의 국내 첫 데이터센터 개발... ",
-			"pubDate":"Thu, 26 Nov 2026 09:00:00 +0900"
-		},
-		{
 			"title":"KT클라우드, 안산2 AIDC 추진…수도권 110MW AI 데이터센터 캠퍼스 구축",
 			"originallink":"https:\/\/www.koit.co.kr\/news\/articleView.html?idxno=210112",
 			"link":"https:\/\/www.koit.co.kr\/news\/articleView.html?idxno=210112",
 			"description":"한편 KT그룹은 2031년까지 1GW 이상의 AIDC 공급을 목표로 군산·<b>청라<\/b> 등 주요 거점의 개발 계획을 구체화하고 있다. 최근 안산1 AIDC 착공에 이어 안산2 AIDC 사업까지 추진하면서 수도권을 비롯한 주요 지역의 AI... ",
 			"pubDate":"Thu, 26 Nov 2026 09:00:00 +0900"
-		},
-		{
-			"title":"비아이엠팩토리, 'BIM AWARDS 2026' 시공 부문 대상 수상",
-			"originallink":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=282215",
-			"link":"https:\/\/www.businesskorea.co.kr\/news\/articleView.html?idxno=282215",
-			"description":"이번 수상은 신세계건설㈜과 공동 출품한 'LIFT-UP X BIM TECHNOLOGY'를 통해 이뤄졌으며, 인천 <b>청라<\/b>국제도시에 조성 중인 복합문화시설 '스타필드 <b>청라<\/b>'의 돔 지붕 구조물 시공에 BIM 기술을 접목한 성과를 인정받은... ",
-			"pubDate":"Thu, 26 Nov 2026 09:00:00 +0900"
-		},
-		{
-			"title":"kt cloud, 안산2 AIDC 추진…안산권역 110MW AI 데이터센터 캠퍼스 조성",
-			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1719865\/?sc=Naver",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0003159619?sid=105",
-			"description":"KT그룹은 2031년까지 1GW 이상의 AIDC를 공급하겠다는 계획을 발표한 이후, 군산·<b>청라<\/b> 등 주요 거점의 개발 계획을 잇달아 구체화해 왔다. 최근 안산1 AIDC 착공에 이어 안산2 AIDC 사업까지 추진하며 AIDC 공급... ",
-			"pubDate":"Thu, 26 Nov 2026 08:57:00 +0900"
 		}
 	]
 }
