@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Fri, 27 Nov 2026 00:00:01 +0900",
-	"total":314722,
+	"lastBuildDate":"Fri, 27 Nov 2026 00:10:01 +0900",
+	"total":314723,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"사법 부담 덜어낸 함영주…하나금융 연말 인사에 '2기 경영 구상' 담길...",
+			"originallink":"https:\/\/news.tf.co.kr\/read\/economy\/2393940.htm",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/629\/0000556092?sid=101",
+			"description":"◆ <b>청라<\/b> 시대 본격화…비은행·디지털 신사업 속도 사법적 불확실성이 상당 부분 걷힌 만큼 함 회장이 공들여온 미래 성장동력 확보에도 탄력이 붙을 전망이다. 하나금융은 지난달 인천 <b>청라<\/b> 헤드쿼터를 공식 개관하며... ",
+			"pubDate":"Fri, 27 Nov 2026 00:01:00 +0900"
+		},
 		{
 			"title":"인천시, '도시철도 건설현장 실전훈련'으로 재난 대응 역량 높였다",
 			"originallink":"http:\/\/www.bizwnews.com\/news\/articleView.html?idxno=153251",
@@ -54,17 +61,17 @@
 			"pubDate":"Thu, 26 Nov 2026 19:04:00 +0900"
 		},
 		{
-			"title":"인천시, 서울7호선 <b>청라<\/b>연장 건설현장 '터널 붕락' 가상 재난대응 훈련",
-			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20261126010009153",
-			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20261126010009153",
-			"description":"서울도시철도 7호선 <b>청라<\/b>국제도시연장 건설현장의 지하 터널 붕락 사고에 대비해 현장 초동 조치와... 이번 훈련은 서울7호선 <b>청라<\/b>국제도시연장 건설사업 구간의 추가정거장(005-1) 건설현장에서 대형 지하 안전사고가... ",
-			"pubDate":"Thu, 26 Nov 2026 18:08:00 +0900"
-		},
-		{
 			"title":"KT클라우드, 안산에 60MW AIDC 추가 추진⋯110MW 규모 확대",
 			"originallink":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=268044",
 			"link":"http:\/\/www.finomy.com\/news\/articleView.html?idxno=268044",
 			"description":"한편, KT클라우드는 지난달 인천 <b>청라<\/b>에서 추진되는 50MW 규모의 AIDC 사업에도 설계·구축·운영(DBO) 파트너로 참여한다고 발표했다. 오는 2030년 1분기 준공을 목표로 고밀도 AI 서버와 범용 클라우드 서비스를... ",
+			"pubDate":"Thu, 26 Nov 2026 18:08:00 +0900"
+		},
+		{
+			"title":"인천시, 서울7호선 <b>청라<\/b>연장 건설현장 '터널 붕락' 가상 재난대응 훈련",
+			"originallink":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20261126010009153",
+			"link":"https:\/\/www.joongdo.co.kr\/web\/view.php?key=20261126010009153",
+			"description":"서울도시철도 7호선 <b>청라<\/b>국제도시연장 건설현장의 지하 터널 붕락 사고에 대비해 현장 초동 조치와... 이번 훈련은 서울7호선 <b>청라<\/b>국제도시연장 건설사업 구간의 추가정거장(005-1) 건설현장에서 대형 지하 안전사고가... ",
 			"pubDate":"Thu, 26 Nov 2026 18:08:00 +0900"
 		},
 		{
@@ -124,17 +131,17 @@
 			"pubDate":"Thu, 26 Nov 2026 17:28:00 +0900"
 		},
 		{
-			"title":"kt cloud, 안산에 110MW 규모 AI 데이터센터 캠퍼스 조성 추진",
-			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=214800",
-			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=214800",
-			"description":"KT그룹은 2031년까지 1GW 이상의 AIDC를 공급한다는 계획을 발표한 이후 군산과 <b>청라<\/b> 등 주요 거점의 개발 계획을 잇달아 구체화해왔다. 최근 안산1 AIDC 착공에 이어 안산2 AIDC 사업까지 추진하며 AI 인프라 공급... ",
-			"pubDate":"Thu, 26 Nov 2026 17:22:00 +0900"
-		},
-		{
 			"title":"KT클라우드, 안산 AI 데이터센터 2호 착공… 1호 합쳐 110MW 공급",
 			"originallink":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202611261620351210844",
 			"link":"https:\/\/www.dnews.co.kr\/uhtml\/view.jsp?idxno=202611261620351210844",
 			"description":"KT그룹은 2031년까지 AIDC 공급 용량을 1기가와트(GW) 넘게 늘리겠다는 목표를 내놓은 뒤 전북 군산, 인천 <b>청라<\/b> 등 거점별 개발 계획을 차례로 내놨다. 안산1 착공에 이어 안산2까지 더하며 이 로드맵을 한 단계씩... ",
+			"pubDate":"Thu, 26 Nov 2026 17:22:00 +0900"
+		},
+		{
+			"title":"kt cloud, 안산에 110MW 규모 AI 데이터센터 캠퍼스 조성 추진",
+			"originallink":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=214800",
+			"link":"http:\/\/www.thefirstmedia.net\/news\/articleView.html?idxno=214800",
+			"description":"KT그룹은 2031년까지 1GW 이상의 AIDC를 공급한다는 계획을 발표한 이후 군산과 <b>청라<\/b> 등 주요 거점의 개발 계획을 잇달아 구체화해왔다. 최근 안산1 AIDC 착공에 이어 안산2 AIDC 사업까지 추진하며 AI 인프라 공급... ",
 			"pubDate":"Thu, 26 Nov 2026 17:22:00 +0900"
 		},
 		{
@@ -152,17 +159,17 @@
 			"pubDate":"Thu, 26 Nov 2026 16:50:00 +0900"
 		},
 		{
-			"title":"인천경제청, 외국인 정주지원… 섬·해양 관광자원 연계",
-			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=921403",
-			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=921403",
-			"description":"인천경제청은 IFEZ 글로벌센터를 통해 송도·영종·<b>청라<\/b>에 체류하는 외국인에게 생활정보를 제공하고 지역사회 교류와 문화체험 등 다양한 정주지원 프로그램을 운영하고 있다. 임미선 인천경제청 투자유치기획과장은... ",
-			"pubDate":"Thu, 26 Nov 2026 16:44:00 +0900"
-		},
-		{
 			"title":"서해구 '꿈의 무용단' 28일 첫 정기공연",
 			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=244326",
 			"link":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=244326",
 			"description":"서해구문화재단은 28일 오후 3시 <b>청라<\/b>블루노바홀에서 '꿈의 무용단 인천 서해'의 첫 정기공연을 개최한다고 밝혔습니다. 올해 처음 운영된 꿈의 무용단은 초등학교 3학년부터 6학년까지를 대상으로 선발된 단원 25명으로... ",
+			"pubDate":"Thu, 26 Nov 2026 16:44:00 +0900"
+		},
+		{
+			"title":"인천경제청, 외국인 정주지원… 섬·해양 관광자원 연계",
+			"originallink":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=921403",
+			"link":"https:\/\/www.kgnews.co.kr\/news\/article.html?no=921403",
+			"description":"인천경제청은 IFEZ 글로벌센터를 통해 송도·영종·<b>청라<\/b>에 체류하는 외국인에게 생활정보를 제공하고 지역사회 교류와 문화체험 등 다양한 정주지원 프로그램을 운영하고 있다. 임미선 인천경제청 투자유치기획과장은... ",
 			"pubDate":"Thu, 26 Nov 2026 16:44:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/journal.kobeta.com\/?post_type=post&p=64626",
 			"description":"KT그룹은 2031년까지 1GW 이상의 AIDC 공급을 목표로 군산·<b>청라<\/b> 등 주요 지역에서도 데이터센터 개발을 추진하고 있다. 김봉균 KT클라우드 대표는 “AIDC 경쟁력은 단순한 공급 규모를 넘어 실제 고객 수요에 맞춰... ",
 			"pubDate":"Thu, 26 Nov 2026 16:04:00 +0900"
-		},
-		{
-			"title":"삼성은 잡고 싶고 SSG·두산은 탐내고…FA 최대어 구자욱의 몸값은",
-			"originallink":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=513806",
-			"link":"https:\/\/ilyo.co.kr\/?ac=article_view&entry_id=513806",
-			"description":"그러나 2028년 인천 <b>청라<\/b> 돔구장 시대를 앞두고 내년 시즌 우승을 향한 행보에 ‘S급’이나 ‘S+급’ FA 영입은 필수라고 보는 듯하다. SSG는 최근 외국인 타자 기예르모 에레디아와의 이별을 앞두고 있다. 좌익수... ",
-			"pubDate":"Thu, 26 Nov 2026 16:02:00 +0900"
 		}
 	]
 }
