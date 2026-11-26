@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 26 Nov 2026 13:00:00 +0900",
-	"total":314659,
+	"lastBuildDate":"Thu, 26 Nov 2026 13:10:01 +0900",
+	"total":314660,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[특집 대담] 인천의 새로운 도약…박찬대 시장에게 듣다",
+			"originallink":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=244322",
+			"link":"https:\/\/news.skbroadband.com\/news\/articleView.html?idxno=244322",
+			"description":"네 국비 확보 위해서 정말 총력을 다하고 계신데 시급한 현안 중 하나가 바로 서울7호선 <b>청라<\/b> 연장 사업이죠.... [박찬대 \/ 인천시장 ] 네 서울7호선 <b>청라<\/b> 연장 문제는 우리 <b>청라<\/b> 주민들의 정말 오래된 민원이고 인천... ",
+			"pubDate":"Thu, 26 Nov 2026 13:04:00 +0900"
+		},
 		{
 			"title":"인천경제청, IFEZ 외국인 지역탐방 체험 프로그램 운영",
 			"originallink":"https:\/\/www.mt.co.kr\/policy\/2026\/11\/26\/2026112612355858604",
@@ -152,13 +159,6 @@
 			"pubDate":"Thu, 26 Nov 2026 11:08:00 +0900"
 		},
 		{
-			"title":"kt클라우드, 안산에 60MW AI데이터센터 추가…총 110MW 구축",
-			"originallink":"https:\/\/www.edaily.co.kr\/News\/Read?newsId=02532166645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006415863?sid=105",
-			"description":"KT그룹은 2031년까지 1GW 이상의 AI 데이터센터 공급 기반을 확보한다는 목표 아래 군산과 <b>청라<\/b> 등 주요 지역에서 개발 사업을 추진하고 있다. 최근 안산1 AIDC 착공에 이어 안산2 AIDC 사업도 추진하면서 수도권과... ",
-			"pubDate":"Thu, 26 Nov 2026 11:06:00 +0900"
-		},
-		{
 			"title":"인천시, 서울 7호선 <b>청라<\/b>연장 건설현장 재난 모의훈련",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485568",
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485568",
@@ -166,17 +166,24 @@
 			"pubDate":"Thu, 26 Nov 2026 11:06:00 +0900"
 		},
 		{
-			"title":"KT클라우드, 안산에 110MW AI데이터센터 클러스터 조성",
-			"originallink":"https:\/\/www.thelec.kr\/news\/articleView.html?idxno=65943",
-			"link":"https:\/\/www.thelec.kr\/news\/articleView.html?idxno=65943",
-			"description":"KT그룹은 2031년까지 1GW(기가와트) 이상의 AIDC를 공급한다는 목표를 세웠다. 군산과 <b>청라<\/b> 등 주요 거점의 개발 계획을 구체화한 데 이어 안산에서도 공급 규모를 확대한다.",
-			"pubDate":"Thu, 26 Nov 2026 11:00:00 +0900"
+			"title":"kt클라우드, 안산에 60MW AI데이터센터 추가…총 110MW 구축",
+			"originallink":"https:\/\/www.edaily.co.kr\/News\/Read?newsId=02532166645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006415863?sid=105",
+			"description":"KT그룹은 2031년까지 1GW 이상의 AI 데이터센터 공급 기반을 확보한다는 목표 아래 군산과 <b>청라<\/b> 등 주요 지역에서 개발 사업을 추진하고 있다. 최근 안산1 AIDC 착공에 이어 안산2 AIDC 사업도 추진하면서 수도권과... ",
+			"pubDate":"Thu, 26 Nov 2026 11:06:00 +0900"
 		},
 		{
 			"title":"KT클라우드, 안산에 60MW AI데이터센터 추가로 세운다",
 			"originallink":"https:\/\/www.newstree.kr\/newsView\/ntr202611260010",
 			"link":"https:\/\/www.newstree.kr\/newsView\/ntr202611260010",
 			"description":"KT그룹은 2031년까지 1GW 이상의 AI 데이터센터 공급을 목표로 군산과 <b>청라<\/b> 등 주요 지역의 데이터센터 개발 계획을 구체화하고 있다. 최근 안산1 AI 데이터센터 착공에 이어 안산2 AI 데이터센터 사업까지 추진하며... ",
+			"pubDate":"Thu, 26 Nov 2026 11:00:00 +0900"
+		},
+		{
+			"title":"KT클라우드, 안산에 110MW AI데이터센터 클러스터 조성",
+			"originallink":"https:\/\/www.thelec.kr\/news\/articleView.html?idxno=65943",
+			"link":"https:\/\/www.thelec.kr\/news\/articleView.html?idxno=65943",
+			"description":"KT그룹은 2031년까지 1GW(기가와트) 이상의 AIDC를 공급한다는 목표를 세웠다. 군산과 <b>청라<\/b> 등 주요 거점의 개발 계획을 구체화한 데 이어 안산에서도 공급 규모를 확대한다.",
 			"pubDate":"Thu, 26 Nov 2026 11:00:00 +0900"
 		},
 		{
@@ -194,13 +201,6 @@
 			"pubDate":"Thu, 26 Nov 2026 10:50:00 +0900"
 		},
 		{
-			"title":"인천경제청, 외국인 39명과 무의도·영종도 지역탐방",
-			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5088051",
-			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5088051",
-			"description":"수 있도록 문화체험과 교류 프로그램을 확대하겠다&quot;고 말했다. 한편 IFEZ 글로벌센터는 송도·영종·<b>청라<\/b>에 체류하는 외국인을 대상으로 생활정보 제공과 지역사회 교류 등 정주 지원사업을 운영하고 있다. [신아일보] 인천",
-			"pubDate":"Thu, 26 Nov 2026 10:40:00 +0900"
-		},
-		{
 			"title":"KT클라우드, 케펠과 손잡고 안산에 110MW AI 데이터센터 거점 조성",
 			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=580481&class=17&grp=",
 			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002394866?sid=101",
@@ -208,11 +208,11 @@
 			"pubDate":"Thu, 26 Nov 2026 10:40:00 +0900"
 		},
 		{
-			"title":"&quot;인천에 이런 절경이?&quot;…IFEZ 외국인들, 무의도·영종도 섬 매력에 '푹'",
-			"originallink":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=244264",
-			"link":"https:\/\/www.ngonews.kr\/news\/articleView.html?idxno=244264",
-			"description":"한편 인천경제청 산하 IFEZ 글로벌센터는 송도·영종·<b>청라<\/b>국제도시에 체류하는 외국인을 대상으로 생활 정보 안내, 지역사회 교류 행사, 한국 문화 체험 등 다채로운 정주 지원 프로그램을 상시 운영하고 있다.",
-			"pubDate":"Thu, 26 Nov 2026 10:38:00 +0900"
+			"title":"인천경제청, 외국인 39명과 무의도·영종도 지역탐방",
+			"originallink":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5088051",
+			"link":"https:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=5088051",
+			"description":"수 있도록 문화체험과 교류 프로그램을 확대하겠다&quot;고 말했다. 한편 IFEZ 글로벌센터는 송도·영종·<b>청라<\/b>에 체류하는 외국인을 대상으로 생활정보 제공과 지역사회 교류 등 정주 지원사업을 운영하고 있다. [신아일보] 인천",
+			"pubDate":"Thu, 26 Nov 2026 10:40:00 +0900"
 		}
 	]
 }
