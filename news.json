@@ -1,9 +1,16 @@
 {
-	"lastBuildDate":"Thu, 26 Nov 2026 12:30:00 +0900",
-	"total":314655,
+	"lastBuildDate":"Thu, 26 Nov 2026 12:40:00 +0900",
+	"total":314656,
 	"start":1,
 	"display":30,
 	"items":[
+		{
+			"title":"[심층분석] 함영주, 8년 사법 족쇄 벗었다… ‘최대실적’ 하나금융 경...",
+			"originallink":"https:\/\/www.mediawatch.kr\/news\/article.html?no=261888",
+			"link":"https:\/\/www.mediawatch.kr\/news\/article.html?no=261888",
+			"description":"무엇보다 최근 인천 <b>청라<\/b>국제도시에 하나금융의 주요 금융·IT 인력이 집결하는 <b>청라<\/b> 헤드쿼터를 개소하면서 그룹의 디지털 전환에도 새로운 기반을 마련했다. 데이터센터와 연구개발 기능을 비롯해 약 4000명의 금융·IT... ",
+			"pubDate":"Thu, 26 Nov 2026 12:34:00 +0900"
+		},
 		{
 			"title":"인천시, 7호선 <b>청라<\/b>연장 건설현장 재난대응 모의훈련 실시",
 			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=659886",
@@ -124,13 +131,6 @@
 			"pubDate":"Thu, 26 Nov 2026 11:08:00 +0900"
 		},
 		{
-			"title":"kt클라우드, 안산에 60MW AI데이터센터 추가…총 110MW 구축",
-			"originallink":"https:\/\/www.edaily.co.kr\/News\/Read?newsId=02532166645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006415863?sid=105",
-			"description":"KT그룹은 2031년까지 1GW 이상의 AI 데이터센터 공급 기반을 확보한다는 목표 아래 군산과 <b>청라<\/b> 등 주요 지역에서 개발 사업을 추진하고 있다. 최근 안산1 AIDC 착공에 이어 안산2 AIDC 사업도 추진하면서 수도권과... ",
-			"pubDate":"Thu, 26 Nov 2026 11:06:00 +0900"
-		},
-		{
 			"title":"인천시, 서울 7호선 <b>청라<\/b>연장 건설현장 재난 모의훈련",
 			"originallink":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485568",
 			"link":"https:\/\/news.ifm.kr\/news\/articleView.html?idxno=485568",
@@ -138,17 +138,24 @@
 			"pubDate":"Thu, 26 Nov 2026 11:06:00 +0900"
 		},
 		{
-			"title":"KT클라우드, 안산에 60MW AI데이터센터 추가로 세운다",
-			"originallink":"https:\/\/www.newstree.kr\/newsView\/ntr202611260010",
-			"link":"https:\/\/www.newstree.kr\/newsView\/ntr202611260010",
-			"description":"KT그룹은 2031년까지 1GW 이상의 AI 데이터센터 공급을 목표로 군산과 <b>청라<\/b> 등 주요 지역의 데이터센터 개발 계획을 구체화하고 있다. 최근 안산1 AI 데이터센터 착공에 이어 안산2 AI 데이터센터 사업까지 추진하며... ",
-			"pubDate":"Thu, 26 Nov 2026 11:00:00 +0900"
+			"title":"kt클라우드, 안산에 60MW AI데이터센터 추가…총 110MW 구축",
+			"originallink":"https:\/\/www.edaily.co.kr\/News\/Read?newsId=02532166645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0006415863?sid=105",
+			"description":"KT그룹은 2031년까지 1GW 이상의 AI 데이터센터 공급 기반을 확보한다는 목표 아래 군산과 <b>청라<\/b> 등 주요 지역에서 개발 사업을 추진하고 있다. 최근 안산1 AIDC 착공에 이어 안산2 AIDC 사업도 추진하면서 수도권과... ",
+			"pubDate":"Thu, 26 Nov 2026 11:06:00 +0900"
 		},
 		{
 			"title":"KT클라우드, 안산에 110MW AI데이터센터 클러스터 조성",
 			"originallink":"https:\/\/www.thelec.kr\/news\/articleView.html?idxno=65943",
 			"link":"https:\/\/www.thelec.kr\/news\/articleView.html?idxno=65943",
 			"description":"KT그룹은 2031년까지 1GW(기가와트) 이상의 AIDC를 공급한다는 목표를 세웠다. 군산과 <b>청라<\/b> 등 주요 거점의 개발 계획을 구체화한 데 이어 안산에서도 공급 규모를 확대한다.",
+			"pubDate":"Thu, 26 Nov 2026 11:00:00 +0900"
+		},
+		{
+			"title":"KT클라우드, 안산에 60MW AI데이터센터 추가로 세운다",
+			"originallink":"https:\/\/www.newstree.kr\/newsView\/ntr202611260010",
+			"link":"https:\/\/www.newstree.kr\/newsView\/ntr202611260010",
+			"description":"KT그룹은 2031년까지 1GW 이상의 AI 데이터센터 공급을 목표로 군산과 <b>청라<\/b> 등 주요 지역의 데이터센터 개발 계획을 구체화하고 있다. 최근 안산1 AI 데이터센터 착공에 이어 안산2 AI 데이터센터 사업까지 추진하며... ",
 			"pubDate":"Thu, 26 Nov 2026 11:00:00 +0900"
 		},
 		{
@@ -206,13 +213,6 @@
 			"link":"http:\/\/www.metroseoul.co.kr\/article\/20261126500172",
 			"description":"군산, <b>청라<\/b> 등 주요 거점과 함께 안산 지역에 공급을 확장하며 AIDC 확대 로드맵을 단계적으로 실행하고 있다. 김봉균 KT클라우드 대표는 &quot;AI 데이터센터의 경쟁력은 단순한 공급 규모를 넘어 실제 고객 수요에... ",
 			"pubDate":"Thu, 26 Nov 2026 10:30:00 +0900"
-		},
-		{
-			"title":"KT클라우드, 안산에 110MW 규모 AIDC 캠퍼스 조성",
-			"originallink":"https:\/\/it.chosun.com\/news\/articleView.html?idxno=3000000001857",
-			"link":"https:\/\/it.chosun.com\/news\/articleView.html?idxno=3000000001857",
-			"description":"KT그룹은 2031년까지 1기가와트(GW) 이상의 AIDC를 공급한다는 목표 아래 안산과 군산·<b>청라<\/b> 등에서 데이터센터 개발 사업을 추진하고 있다. 김봉균 KT클라우드 대표는 &quot;AI 데이터센터의 경쟁력은 단순한 공급... ",
-			"pubDate":"Thu, 26 Nov 2026 10:24:00 +0900"
 		}
 	]
 }
